@@ -1,0 +1,77 @@
+{
+  "content": {
+    "title": "ESC Committee for Practice Guidelines 2018-2020 - Declarations of Interest",
+    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year.",
+    "page_date": "28/08/2020",
+    "page_number": "39/59",
+    "experts": [
+      {
+        "name": "Grobbee Diederick E",
+        "entries": [
+          {
+            "year": 2019,
+            "declaration_type": "Other Positions of Influence",
+            "details": "Employment in healthcare industry (including part time) during the year for which you are declaring. Chief Scientific Officer Julius Clinical Academic Contract Research Organization Staff Member, University Medical Center Utrecht."
+          }
+        ]
+      },
+      {
+        "name": "Halvorsen Sigrun",
+        "entries": [
+          {
+            "year": 2018,
+            "declaration_type": "Financial Declaration",
+            "details": "Direct personal payment as it applies to you and your spouse/partner or any other member of your household, or any entity controlled directly or indirectly by any of above persons: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry.",
+            "companies": [
+              {
+                "company": "Bristol Myers Squibb",
+                "relationship": "Antithrombotic treatment"
+              },
+              {
+                "company": "AstraZeneca",
+                "relationship": "Anti-thrombotic treatment"
+              },
+              {
+                "company": "Boehringer-Ingelheim",
+                "relationship": "Anti-thrombotic treatment"
+              },
+              {
+                "company": "Pfizer",
+                "relationship": "Anti-thrombotic treatment"
+              },
+              {
+                "company": "Bayer AS",
+                "relationship": "Anti-thrombotic treatment"
+              },
+              {
+                "company": "Sanofi Aventis",
+                "relationship": "Cholesterol lowering treatment"
+              }
+            ],
+            "note": "Payment to department/institution for personal services also listed; example: Novartis - Heart failure."
+          },
+          {
+            "year": 2019,
+            "declaration_type": "Financial Declaration",
+            "details": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+            "companies": [
+              {
+                "company": "Boehringer-Ingelheim",
+                "relationship": "Anticoagulation"
+              },
+              {
+                "company": "Pfizer",
+                "relationship": "Anticoagulation"
+              },
+              {
+                "company": "Bristol Myers Squibb",
+                "relationship": "Anticoagulation"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

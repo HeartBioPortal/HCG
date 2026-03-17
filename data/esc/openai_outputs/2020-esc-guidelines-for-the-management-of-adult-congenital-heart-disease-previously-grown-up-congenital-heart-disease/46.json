@@ -1,0 +1,93 @@
+{
+  "content": {
+    "title": "ESC Committee for Practice Guidelines 2018-2020 - Declarations of Interest (page)",
+    "date": "28/08/2020",
+    "page": "46/59",
+    "note": "Report of declarations of interest as reported to the ESC by experts during yearly call for declaration (covering previous calendar year). Calls conducted during development of guidelines up to and including 2019.",
+    "experts": [
+      {
+        "name": "Lettino Maddalena",
+        "year": 2019,
+        "declaration_type": "Financial Declaration",
+        "summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member.",
+        "companies_and_indications": [
+          {
+            "company": "Bayer",
+            "indication_or_product_class": "anticoagulants"
+          },
+          {
+            "company": "Daiichi Sankyo",
+            "indication_or_product_class": "anticoagulants"
+          },
+          {
+            "company": "Pfizer",
+            "indication_or_product_class": "anticoagulants"
+          },
+          {
+            "company": "Bristol Myers Squibb",
+            "indication_or_product_class": "anticoagulants"
+          },
+          {
+            "company": "Amgen",
+            "indication_or_product_class": "lipid-lowering drugs"
+          },
+          {
+            "company": "Sanofi Aventis",
+            "indication_or_product_class": "lipid-lowering drugs"
+          }
+        ]
+      },
+      {
+        "name": "Lewis Basil S",
+        "year": 2018,
+        "declaration_type": "Financial Declaration",
+        "summary": "Direct personal payment as it applies to you and your spouse/partner or household members, and payments to department/institution for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, from healthcare industry.",
+        "companies_and_indications": [
+          {
+            "context_section": "Direct personal payment",
+            "items": [
+              {
+                "company": "Pfizer",
+                "indication_or_product_class": "Antithrombotics"
+              },
+              {
+                "company": "Astra Zeneca",
+                "indication_or_product_class": "Diabetes"
+              },
+              {
+                "company": "Merck Sharp & Dohme",
+                "indication_or_product_class": "Heart failure"
+              },
+              {
+                "company": "CSL Behring",
+                "indication_or_product_class": "Lipidology, Secondary prevention"
+              }
+            ]
+          },
+          {
+            "context_section": "Payment to department or institution",
+            "items": [
+              {
+                "company": "Astrazeneca",
+                "indication_or_product_class": "Antithrombotics"
+              },
+              {
+                "company": "Astra Zeneca",
+                "indication_or_product_class": "Diabetes"
+              },
+              {
+                "company": "Pfizer",
+                "indication_or_product_class": "Diabetes"
+              },
+              {
+                "company": "Merck Sharp & Dohme",
+                "indication_or_product_class": "Heart failure"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

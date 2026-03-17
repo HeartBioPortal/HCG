@@ -1,0 +1,84 @@
+{
+  "content": {
+    "title": "Clinical Practice Guidelines Committee 2022-2024 (page content)",
+    "organization": "European Society of Cardiology (ESC)",
+    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year. Calls for declaration conducted during the period of development of these guidelines up to and including 2023.",
+    "page_date": "24/06/2024",
+    "page_number": "12/12",
+    "experts": [
+      {
+        "expert_label": "Expert 1 (name redacted)",
+        "entries": [
+          {
+            "year": 2022,
+            "relationship_summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+            "companies": [
+              "Boston Scientific",
+              "Edwards Lifesciences",
+              "Medtronic"
+            ],
+            "areas": [
+              "Device Therapy"
+            ],
+            "raw_context": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Boston Scientific : Device Therapy Edwards Lifesciences : Device Therapy Medtronic : Device Therapy"
+          },
+          {
+            "year": 2023,
+            "relationship_summary": "Payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc., including travel funding related to these activities.",
+            "companies": [
+              "Boston Scientific",
+              "Edwards Lifesciences",
+              "Medtronic"
+            ],
+            "areas": [
+              "Device Therapy"
+            ],
+            "raw_context": "Payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc., including travel funding related to these activities. Boston Scientific : Device Therapy Edwards Lifesciences : Device Therapy Medtronic : Device Therapy"
+          }
+        ]
+      },
+      {
+        "expert_label": "Expert 2 (name redacted)",
+        "entries": [
+          {
+            "year": 2021,
+            "relationship_summary": "Research funding from healthcare industry under direct/personal responsibility (to department or institution).",
+            "companies": [
+              "Biosense Webster"
+            ],
+            "areas": [
+              "Research electrophysiology"
+            ],
+            "raw_context": "Research funding from healthcare industry under your direct/personal responsibility (to department or institution). Biosense Webster : Research electrophysiology"
+          },
+          {
+            "year": 2022,
+            "relationship_summary": "Payment from healthcare industry to department/institution or any other body for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.; plus research funding under direct/personal responsibility.",
+            "companies": [
+              "Biosense Webster"
+            ],
+            "areas": [
+              "Ventricular Arrhythmias and Sudden Cardiac Death (SCD)",
+              "Investigator-initiated research (PI)"
+            ],
+            "raw_context": "Payment from healthcare industry to your department or institution or any other body for your personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Biosense Webster : Ventricular Arrhythmias and Sudden Cardiac Death (SCD) Research funding from healthcare industry under your direct/personal responsibility (to department or institution). Biosense Webster : investigator initiated research, PI"
+          },
+          {
+            "year": 2023,
+            "relationship_summary": "Payment from healthcare industry to department/institution for personal services and research funding received by department/institution or entity controlled by department under direct/personal responsibility.",
+            "companies": [
+              "Biosense Webster"
+            ],
+            "areas": [
+              "Ventricular Arrhythmias and Sudden Cardiac Death (SCD)",
+              "Investigator-initiated research, ventricular arrhythmias (PI)"
+            ],
+            "raw_context": "Payment from healthcare industry to your department or institution or any other body for your personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc., including travel funding related to these activities. Biosense Webster : Ventricular Arrhythmias and Sudden Cardiac Death (SCD) Research funding from healthcare industry received by your department/institution or an entity controlled by your department/institution , under your direct/personal responsibility. Biosense Webster : Investigator initiated research, ventricular arrhythmias, PI"
+          }
+        ]
+      }
+    ],
+    "footer_notes": "Page lists industry relationships; companies are device/medical companies. No genetic information or gene names are present on this page."
+  },
+  "genes": []
+}

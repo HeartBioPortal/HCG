@@ -1,0 +1,91 @@
+{
+  "content": {
+    "document_title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS) - Reviewers",
+    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted up to and including 2018).",
+    "page_metadata": {
+      "date": "21/08/2019",
+      "page": "40/62"
+    },
+    "experts": [
+      {
+        "name": "Sanchez Olivier",
+        "declaration_type": "Financial Declaration",
+        "details": {
+          "A_direct_personal_payment": [
+            {
+              "company": "Boston Scientific",
+              "item": "AngioJet",
+              "year": 2018
+            },
+            {
+              "company": "BMS",
+              "item": "apixaban",
+              "year": 2018
+            },
+            {
+              "company": "BTG",
+              "item": "Ekos",
+              "year": 2018
+            },
+            {
+              "company": "Sanofi Aventis",
+              "item": "enoxaparin",
+              "year": 2018
+            },
+            {
+              "company": "MSD",
+              "item": "riociguat",
+              "year": 2018
+            },
+            {
+              "company": "Bayer",
+              "item": "rivaroxaban",
+              "year": 2018
+            }
+          ],
+          "D_research_funding_under_direct_responsibility": [
+            {
+              "company": "MSD",
+              "item": "riociguat",
+              "year": 2018
+            }
+          ]
+        }
+      },
+      {
+        "name": "Shlyakhto Evgeny",
+        "declaration_type": "Financial Declaration",
+        "details": {
+          "A_direct_personal_payment": [
+            {
+              "company": "Krka Pharma",
+              "indication": "Arterial Hypertension",
+              "year": 2018
+            },
+            {
+              "company": "Novartis",
+              "indication": "Arterial Hypertension, Heart Failure",
+              "year": 2018
+            },
+            {
+              "company": "Merck Sharp & Dohme",
+              "indication": "Atherosclerosis",
+              "year": 2018
+            },
+            {
+              "company": "Boehringer-Ingelheim",
+              "item": "Dabigatran for Atrial Fibrillation",
+              "year": 2018
+            },
+            {
+              "company": "Pfizer",
+              "indication": "General Cardiology",
+              "year": 2018
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "genes": []
+}

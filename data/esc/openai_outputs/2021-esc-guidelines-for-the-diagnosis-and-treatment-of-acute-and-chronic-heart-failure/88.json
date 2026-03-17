@@ -1,0 +1,51 @@
+{
+  "content": {
+    "title": "Clinical Practice Guidelines Committee 2020-2022",
+    "organization": "European Society of Cardiology (ESC)",
+    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year. Calls conducted during development of guidelines up to and including 2020.",
+    "document_date": "09/08/2021",
+    "experts": [
+      {
+        "name": "Baumbach Andreas",
+        "year": 2020,
+        "declaration_type": "Industry relationships / Research organisation",
+        "details": [
+          "CERC: Research Organisation: Events Committees",
+          "Abbot Vascular: Stents",
+          "Microport: Stents",
+          "Sinomed: Stents",
+          "Venus Medtech: Valves, CEP"
+        ]
+      },
+      {
+        "name": "Borger Michael A",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "details": [
+          "Payments from healthcare industry to department/institution for personal services (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
+          "Cryolife: aortic surgery",
+          "Abbott: heart valve therapy",
+          "Edwards Lifesciences: heart valve therapy",
+          "Medtronic: heart valve therapy"
+        ]
+      },
+      {
+        "name": "Celutkiene Jelena",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "details": [
+          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+          "Pfizer: anticoagulation",
+          "Amgen: heart failure",
+          "Boehringer-Ingelheim: heart failure",
+          "Novartis: heart failure",
+          "Bayer Healthcare: heart failure",
+          "Astrazeneca: heart failure",
+          "Research funding from healthcare industry to department/institution under direct/personal responsibility:",
+          "Roche Diagnostics: heart failure"
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

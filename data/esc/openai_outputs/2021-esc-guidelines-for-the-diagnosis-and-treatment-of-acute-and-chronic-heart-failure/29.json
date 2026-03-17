@@ -1,0 +1,64 @@
+{
+  "content": {
+    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
+    "note": "Declarations of interest reported to the ESC by experts during yearly call for declaration (covering previous calendar year). Calls for declaration conducted during development of guidelines up to and including 2020.",
+    "experts": [
+      {
+        "name": "McDonagh Theresa",
+        "declarations": [
+          {
+            "year": 2019,
+            "type": "Financial Declaration",
+            "details": [
+              "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+              "Novartis : Heart Failure",
+              "Pfizer : Heart Failure",
+              "Vifor International : Iron Deficiency"
+            ]
+          },
+          {
+            "year": 2020,
+            "type": "Financial Declaration",
+            "details": [
+              "Astra Zeneca : Heart Failure",
+              "Corpus : Heart Failure"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "McMurray John J V",
+        "declarations": [
+          {
+            "year": 2019,
+            "type": "Financial Declaration",
+            "details": [
+              "Payment from healthcare industry to department/institution for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+              "Oxford University/Bayer : Acarbose (ACE trial Steering Committee and Glasgow University funding to run endpoint committee)",
+              "GSK : albiglutide (HARMONY Trial co-PI) and daprodustat (ASCEND-CKD Trial executive committee)",
+              "Novartis : aliskiren (AMOSPHERE Trial executive committee co-PI)",
+              "Abbvie (SONAR trial Steering Committee) : Atrasentan",
+              "Theracos : Bexagliflozin (BEST Trial executive committee - PI)",
+              "Pfizer (SPIRE trial DSMB) : Bococizumab",
+              "DalCor (DalGenE Steering Committee) : Dalcetrapib",
+              "Astra Zeneca (Executive committee/PI for Dapa-HF trial & co-principal for DELIVER & DETERMINE trials) : dapagliflozin",
+              "GSK (ASCEND-CKD Phase III trials executive committee) : daprodustat vs conventional erythropoiesis stimulating agents",
+              "Cardurion : experimental PDE-9 inhibitor"
+            ]
+          }
+        ]
+      }
+    ],
+    "footer_date": "12/08/2021"
+  },
+  "genes": [
+    {
+      "Gene": "PDE9A",
+      "Associated Conditions": [
+        "Heart Failure"
+      ],
+      "Occurrences": 1,
+      "context": "Referenced as 'experimental PDE-9 inhibitor' in McMurray JJV 2019 financial declaration listed among industry trial activities related to heart failure."
+    }
+  ]
+}

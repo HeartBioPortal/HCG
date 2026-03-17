@@ -1,0 +1,165 @@
+{
+  "content": {
+    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism - Reviewers (Declaration excerpts)",
+    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year (up to and including 2018).",
+    "page_date": "21/08/2019",
+    "page_number": "35/62",
+    "experts": [
+      {
+        "name": "Morais Joao",
+        "declaration_type": "Financial Declaration",
+        "details": "Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member) from healthcare industry.",
+        "relationships": [
+          {
+            "company": "Pfizer / BMS",
+            "products": [
+              {
+                "name": "apixabano",
+                "indication": "anticoagulants",
+                "year": 2018
+              }
+            ]
+          },
+          {
+            "company": "Amgen Inc",
+            "products": [
+              {
+                "name": "evolocumab",
+                "indication": "lipids",
+                "year": 2018
+              }
+            ]
+          },
+          {
+            "company": "Bayer AG",
+            "products": [
+              {
+                "name": "rivaroxabano",
+                "indication": "anticoagulants",
+                "year": 2018
+              }
+            ]
+          },
+          {
+            "company": "Novartis",
+            "products": [
+              {
+                "name": "sacubitril",
+                "indication": "heart failure",
+                "year": 2018
+              }
+            ]
+          },
+          {
+            "company": "Servier",
+            "products": [
+              {
+                "name": "sacubitril",
+                "indication": "heart failure",
+                "year": 2018
+              },
+              {
+                "name": "ivabradina",
+                "indication": "ischemic heart disease",
+                "year": 2018
+              }
+            ]
+          },
+          {
+            "company": "Astra Zeneca",
+            "products": [
+              {
+                "name": "Ticagrelor",
+                "indication": "antiplatelets",
+                "year": 2018
+              },
+              {
+                "name": "dapaglifozina",
+                "indication": "diabetes",
+                "year": 2018
+              }
+            ]
+          },
+          {
+            "company": "Ferrer Internacional",
+            "products": [
+              {
+                "name": "trinomina",
+                "indication": "arteriosclerose",
+                "year": 2018
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Obradovic Slobodan",
+        "declaration_type": "Financial Declaration",
+        "details": "Direct personal payment (honoraria for lectures and advisory board) from healthcare industry.",
+        "relationships": [
+          {
+            "company": "Pfizer",
+            "products": [
+              {
+                "name": "apixaban and sildenafil (honoraria for lectures and advisory board)",
+                "indication": null,
+                "year": 2018
+              }
+            ]
+          },
+          {
+            "company": "Boehringer-Ingelheim",
+            "products": [
+              {
+                "name": "dabigatran and empagliflosine",
+                "indication": null,
+                "year": 2018
+              }
+            ]
+          },
+          {
+            "company": "Astra Zeneca",
+            "products": [
+              {
+                "name": "ticagrelor",
+                "indication": null,
+                "year": 2018
+              }
+            ]
+          },
+          {
+            "company": "Servier",
+            "products": [
+              {
+                "name": "trimetazidine",
+                "indication": null,
+                "year": 2018
+              }
+            ]
+          },
+          {
+            "company": "Bayer Healthcare",
+            "products": [
+              {
+                "name": "rivaroxaban and aspirin",
+                "indication": null,
+                "year": 2018
+              }
+            ]
+          },
+          {
+            "company": "Berlin Chemie AG",
+            "products": [
+              {
+                "name": "nebivolol and olmesartan",
+                "indication": null,
+                "year": 2018
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,84 @@
+{
+  "content": {
+    "document_title": "ESC Committee for Practice Guidelines 2018-2020 - Declarations of Interest",
+    "summary": "Declarations of interest reported by experts during the yearly call for declaration covering the previous calendar year (calls conducted during guideline development up to and including 2019).",
+    "experts": [
+      {
+        "name": "Richter Dimitrios",
+        "year": 2019,
+        "declaration_type": "Financial Declaration",
+        "declaration_text": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Travel and meeting support from healthcare industry, independent of the above activities.",
+        "companies_and_areas": [
+          {
+            "company": "AstraZeneca",
+            "area": "diabetes"
+          },
+          {
+            "company": "Boehringer-Ingelheim",
+            "area": "diabetes"
+          },
+          {
+            "company": "Unipharma",
+            "area": "hypertension-thrombosis"
+          },
+          {
+            "company": "Amgen",
+            "area": "lipids",
+            "travel_support": true
+          },
+          {
+            "company": "Servier",
+            "area": "lipids"
+          },
+          {
+            "company": "Sanofi Aventis",
+            "area": "lipids"
+          },
+          {
+            "company": "Lilly",
+            "area": "lipids"
+          },
+          {
+            "company": "Unilever",
+            "area": "lipids"
+          },
+          {
+            "company": "Merck Sharp & Dohme",
+            "area": "lipids"
+          },
+          {
+            "company": "Vianex",
+            "area": "lipids"
+          },
+          {
+            "company": "Mylan",
+            "area": "lipids"
+          },
+          {
+            "company": "ELPEN",
+            "area": "lipids-thrombosis"
+          },
+          {
+            "company": "Bayer Healthcare",
+            "area": "thrombosis",
+            "travel_support": true
+          }
+        ]
+      },
+      {
+        "name": "Roffi Marco",
+        "year": 2018,
+        "declaration_type": "Financial Declaration",
+        "declaration_text": "Research funding under direct/personal responsibility (to department or institution) from healthcare industry.",
+        "companies_and_areas": [
+          {
+            "company": "Boston Scientific",
+            "area": "stents"
+          }
+        ]
+      }
+    ],
+    "page_footer": "28/08/2020 - page 54/59"
+  },
+  "genes": []
+}

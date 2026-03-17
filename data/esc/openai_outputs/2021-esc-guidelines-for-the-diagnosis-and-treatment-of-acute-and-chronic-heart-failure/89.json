@@ -1,0 +1,87 @@
+{
+  "content": {
+    "title": "Clinical Practice Guidelines Committee 2020-2022",
+    "organization": "European Society of Cardiology (ESC)",
+    "page_date": "09/08/2021",
+    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during development period up to and including 2020).",
+    "experts": [
+      {
+        "name": "Cikes Maja",
+        "year": 2020,
+        "financial_declaration": {
+          "direct_personal_payment_from_healthcare_industry": [
+            {
+              "company": "Bayer",
+              "associated_condition": "Anticoagulation"
+            },
+            {
+              "company": "Pfizer",
+              "associated_condition": "Anticoagulation, amyloidosis"
+            },
+            {
+              "company": "Astra Zeneca",
+              "associated_condition": "coronary heart disease"
+            },
+            {
+              "company": "Astra Zeneca",
+              "associated_condition": "Heart Failure"
+            },
+            {
+              "company": "Boehringer-Ingelheim",
+              "associated_condition": "Heart failure"
+            },
+            {
+              "company": "Novartis",
+              "associated_condition": "Heart failure"
+            },
+            {
+              "company": "Orion",
+              "associated_condition": "Heart failure"
+            },
+            {
+              "company": "Teva Pharmaceutical Industries",
+              "associated_condition": "Heart failure"
+            }
+          ],
+          "payment_from_healthcare_industry_to_department_or_institution": [
+            {
+              "company": "Novartis",
+              "associated_condition": "heart failure"
+            },
+            {
+              "company": "CorVia",
+              "associated_condition": "Heart failure"
+            }
+          ],
+          "research_funding_from_healthcare_industry_under_direct_personal_responsibility": [
+            {
+              "company": "Abbott",
+              "associated_condition": "Heart failure"
+            },
+            {
+              "company": "Novartis",
+              "associated_condition": "Heart failure"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Collet Jean-Philippe",
+        "year": 2020,
+        "financial_declaration": {
+          "direct_personal_payment_from_healthcare_industry": [
+            {
+              "company": "Amgen",
+              "associated_condition": "Lipids"
+            },
+            {
+              "company": "Astra Zeneca",
+              "associated_condition": "Post-PCI antiplatelet traitement"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "genes": []
+}

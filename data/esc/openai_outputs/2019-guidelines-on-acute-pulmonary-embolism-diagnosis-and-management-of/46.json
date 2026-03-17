@@ -1,0 +1,111 @@
+{
+  "content": {
+    "title": "ESC Committee for Practice Guidelines 2018-2020",
+    "header_note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year (calls conducted during the period of development of these guidelines up to and including 2018).",
+    "page_date": "21/08/2019",
+    "page_number": "46/62",
+    "experts": [
+      {
+        "name": "Aboyans Victor",
+        "type_of_relationship": [
+          {
+            "category": "A - Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
+            "entries": [
+              {
+                "company": "Amgen",
+                "indication": "Hyperlipidemia",
+                "year": "2017"
+              },
+              {
+                "company": "Novartis",
+                "indication": "Hypertension",
+                "year": "2017"
+              },
+              {
+                "company": "Boehringer-Ingelheim",
+                "indication": "Oral anticoagulation",
+                "year": "2017"
+              },
+              {
+                "company": "Bayer Healthcare",
+                "indication": "Oral anticoagulation",
+                "year": "2017"
+              },
+              {
+                "company": "Pfizer/BMS alliance",
+                "indication": "Oral anticoagulation",
+                "year": "2017"
+              },
+              {
+                "company": "Bayer",
+                "indication": "Antithrombotic therapy",
+                "year": "2018"
+              },
+              {
+                "company": "BMS/Pfizer Alliance",
+                "indication": "Antithrombotic therapy",
+                "year": "2018"
+              },
+              {
+                "company": "NovoNordisk",
+                "indication": "Diabetes",
+                "year": "2018"
+              },
+              {
+                "company": "Novartis",
+                "indication": "Heart Failure",
+                "year": "2018"
+              },
+              {
+                "company": "Amgen",
+                "indication": "Lipid lowering therapy",
+                "year": "2018"
+              },
+              {
+                "company": "Sanofi Aventis",
+                "indication": "PAD",
+                "year": "2018"
+              }
+            ]
+          },
+          {
+            "category": "D - Research funding under your direct/personal responsibility (to department or institution) from healthcare industry",
+            "entries": [
+              {
+                "company": "Bayer Healthcare",
+                "indication": "PAD",
+                "year": "2018"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Baigent Colin",
+        "type_of_relationship": [
+          {
+            "category": "D - Research funding under your direct/personal responsibility (to department or institution) from healthcare industry",
+            "entries": [
+              {
+                "company": "Boehringer-Ingelheim",
+                "indication": "Empagliflozin",
+                "year": "2017-2018"
+              },
+              {
+                "company": "Novartis",
+                "indication": "Sacubitril",
+                "year": "2017-2018"
+              },
+              {
+                "company": "Pfizer",
+                "indication": "Sirolimus",
+                "year": "2017-2018"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

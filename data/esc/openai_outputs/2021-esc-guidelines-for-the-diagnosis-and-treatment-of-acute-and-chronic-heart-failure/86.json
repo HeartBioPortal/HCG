@@ -1,0 +1,92 @@
+{
+  "type": "object",
+  "content": {
+    "document_title": "Clinical Practice Guidelines Committee 2020-2022",
+    "organization": "European Society of Cardiology (ESC)",
+    "summary_note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year; calls were conducted during guideline development up to and including 2020.",
+    "page_date": "09/08/2021",
+    "experts": [
+      {
+        "name": "Abdelhamid Magdy",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "details": {
+          "general": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+          "companies_and_roles": [
+            {
+              "company": "Bayer AG",
+              "role": "Advisory board fees"
+            },
+            {
+              "company": "Astra Zeneca",
+              "role": "speaker fees"
+            },
+            {
+              "company": "Boehringer-Ingelheim",
+              "role": "speaker fees"
+            },
+            {
+              "company": "Novartis",
+              "role": "speaker fees"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Aboyans Victor",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "details": {
+          "general": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+          "companies_and_roles": [
+            {
+              "company": "Bayer Healthcare",
+              "role": "Antithrombotic therapies"
+            },
+            {
+              "company": "Bristol Myers Squibb",
+              "role": "Antithrombotic therapies"
+            },
+            {
+              "company": "Astrazeneca",
+              "role": "Diabetes"
+            }
+          ],
+          "research_funding": [
+            {
+              "funder": "Bayer Healthcare",
+              "purpose": "Peripheral Artery Disease (research funding under direct/personal responsibility to department or institution)"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Antoniou Sotiris",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "details": {
+          "general": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+          "companies_and_roles": [
+            {
+              "company": "Pfizer",
+              "role": "speaker fees for education - AF"
+            },
+            {
+              "company": "Bayer AG",
+              "role": "speaker fees for education - AF"
+            },
+            {
+              "company": "Daiichi Sankyo",
+              "role": "speaker fees for education - AF"
+            },
+            {
+              "company": "Astra Zeneca",
+              "role": "speaker fees for education - CVD"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "genes": []
+}

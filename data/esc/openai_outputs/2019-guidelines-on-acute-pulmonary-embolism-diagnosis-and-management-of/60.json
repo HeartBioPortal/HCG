@@ -1,0 +1,88 @@
+{
+  "content": {
+    "title": "ESC Committee for Practice Guidelines 2018-2020",
+    "summary": "Declarations of interest reported to the ESC by experts during the yearly call covering the previous calendar year (development period up to and including 2018).",
+    "experts": [
+      {
+        "name": "Shlyakhto Evgeny",
+        "declarations": [
+          {
+            "type": "Financial Declaration",
+            "description": "A - Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.) from healthcare industry.",
+            "entries": [
+              {
+                "company": "Krka Pharma",
+                "associated_condition": "Arterial Hypertension",
+                "year": "2017-2018"
+              },
+              {
+                "company": "Novartis",
+                "associated_condition": "Arterial Hypertension, Heart Failure",
+                "year": "2017-2018"
+              },
+              {
+                "company": "Merck Sharp & Dohme",
+                "associated_condition": "Atherosclerosis",
+                "year": "2017-2018"
+              },
+              {
+                "company": "Boehringer-Ingelheim",
+                "associated_condition": "Dabigatran for Atrial Fibrillation",
+                "year": "2017-2018"
+              },
+              {
+                "company": "Pfizer",
+                "associated_condition": "General Cardiology",
+                "year": "2017-2018"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Simpson Iain A",
+        "declarations": [
+          {
+            "type": "None declared",
+            "description": "Nothing to be declared (2018)."
+          },
+          {
+            "type": "Other Positions of Influence",
+            "description": "2.4 - Any other interest (financial or otherwise) that should be declared in view of holding an ESC position.",
+            "entries": [
+              {
+                "position": "Member and Past President of the British Cardiovascular Society; Member of the Management Board of the American College of Cardiology National Cardiovascular Data Registries",
+                "year": "2017"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sousa Uva Miguel",
+        "declarations": [
+          {
+            "type": "None declared",
+            "description": "Nothing to be declared (2017)."
+          },
+          {
+            "type": "Financial Declaration",
+            "description": "A - Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.) from healthcare industry.",
+            "entries": [
+              {
+                "company": "Abbott",
+                "associated_condition": "Surgical Valves",
+                "year": "2018"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "page_footer": {
+      "date": "21/08/2019",
+      "page": "60/62"
+    }
+  },
+  "genes": []
+}

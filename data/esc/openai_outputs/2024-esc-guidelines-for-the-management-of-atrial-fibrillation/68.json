@@ -1,0 +1,103 @@
+{
+  "content": {
+    "title": "Clinical Practice Guidelines Committee 2022-2024",
+    "organization": "European Society of Cardiology (ESC)",
+    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during development of guidelines up to and including 2023.",
+    "page_date": "24/06/2024",
+    "page_number": "4/12",
+    "experts": [
+      {
+        "name": "James Stefan",
+        "year": 2023,
+        "declaration_summary": "Ongoing research funding from public/not-for-profit organisations and multiple payments from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, travel). Research funding to department/institution. Memberships in professional societies.",
+        "details": {
+          "public_nonprofit_funders": [
+            "Wallenberg foundation",
+            "Swedish heart and lung foundation"
+          ],
+          "industry_payments_and_roles": [
+            {
+              "company": "Medtronic",
+              "role_or_note": "Valvular Heart Disease (payment from healthcare industry)"
+            },
+            {
+              "company": "Elixir",
+              "role_or_note": "clinical trial, study chair (research funding received by department/institution)"
+            },
+            {
+              "company": "MSD",
+              "role_or_note": "Clinical trial, trial executive committee"
+            },
+            {
+              "company": "Amgen",
+              "role_or_note": "Executive committee member"
+            },
+            {
+              "company": "Janssen-Cilag",
+              "role_or_note": "Executive committee member"
+            },
+            {
+              "company": "Astra Zeneca",
+              "role_or_note": "Study PI, Principal investigator"
+            }
+          ],
+          "professional_affiliations": [
+            "Swedish Medical Association",
+            "Swedish Cardiac Society"
+          ]
+        }
+      },
+      {
+        "name": "Kober Lars",
+        "years": [
+          2021,
+          2022
+        ],
+        "declaration_summary": "Direct personal payments from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member) to the individual across listed years; company-specific associations listed with heart-failure-related indications.",
+        "details": {
+          "2021_companies_and_indications": [
+            {
+              "company": "Astra Zeneca",
+              "indication": "Heart Failure"
+            },
+            {
+              "company": "Bayer",
+              "indication": "Heart Failure"
+            },
+            {
+              "company": "Boehringer-Ingelheim",
+              "indication": "Heart Failure"
+            },
+            {
+              "company": "Novartis",
+              "indication": "Heart Failure"
+            },
+            {
+              "company": "Novo-Nordisk",
+              "indication": "Heart Failure"
+            }
+          ],
+          "2022_companies_and_indications": [
+            {
+              "company": "Astra Zeneca",
+              "indication": "Chronic Heart Failure"
+            },
+            {
+              "company": "Bayer",
+              "indication": "Chronic Heart Failure"
+            },
+            {
+              "company": "Boehringer-Ingelheim",
+              "indication": "Chronic Heart Failure"
+            },
+            {
+              "company": "Novartis",
+              "indication": "Chronic Heart Failure"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,119 @@
+{
+  "content": {
+    "document_title": "ESC Committee for Practice Guidelines 2018-2020 - Declarations of Interest",
+    "expert": "Gale Christopher Peter",
+    "page_metadata": {
+      "date": "28/08/2020",
+      "page": "37/59"
+    },
+    "entries": {
+      "2018": {
+        "research_funding_under_personal_responsibility": [
+          {
+            "company": "Bristol Myers Squibb",
+            "notes": "Apixiban, AF"
+          }
+        ]
+      },
+      "2019": {
+        "financial_declaration": {
+          "direct_personal_payment_from_healthcare_industry": [
+            {
+              "company": "Astra Zeneca",
+              "associated_conditions": [
+                "ACS"
+              ]
+            },
+            {
+              "company": "Daiichi Sankyo",
+              "associated_conditions": [
+                "AF"
+              ]
+            },
+            {
+              "company": "Novartis",
+              "associated_conditions": [
+                "coronary artery disease"
+              ]
+            },
+            {
+              "company": "Bayer",
+              "associated_conditions": [
+                "coronary artery disease",
+                "AF"
+              ]
+            },
+            {
+              "company": "Vifor International",
+              "associated_conditions": [
+                "heart failure"
+              ]
+            },
+            {
+              "company": "Menarini",
+              "associated_conditions": [
+                "ischaemic heart disease"
+              ]
+            }
+          ],
+          "payment_to_department_or_institution_for_personal_services": [
+            {
+              "company": "BMS",
+              "associated_conditions": [
+                "AF"
+              ],
+              "note": "listed under payments to department/institution"
+            },
+            {
+              "company": "Abbott",
+              "associated_conditions": [
+                "Diabetes"
+              ]
+            },
+            {
+              "company": "National Institute for Health Research",
+              "associated_conditions": [
+                "MI"
+              ]
+            },
+            {
+              "company": "British Heart Foundation",
+              "associated_conditions": [
+                "MI",
+                "AF"
+              ]
+            },
+            {
+              "company": "Horizon 2020",
+              "associated_conditions": [
+                "post MI sudden cardiac death"
+              ]
+            }
+          ],
+          "travel_and_meeting_support": [
+            {
+              "company": "Daiichi Sankyo",
+              "associated_conditions": [
+                "AF"
+              ]
+            },
+            {
+              "company": "Bayer Healthcare",
+              "associated_conditions": [
+                "AF",
+                "CAD"
+              ]
+            },
+            {
+              "company": "National Institute for Health and Clinical Excellence",
+              "associated_conditions": [
+                "Indicator Advisory Committee"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "genes": []
+}

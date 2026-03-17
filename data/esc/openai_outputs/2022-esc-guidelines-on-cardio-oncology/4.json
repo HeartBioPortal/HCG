@@ -1,0 +1,134 @@
+{
+  "content": {
+    "page_title": "2022 ESC Guidelines on cardio-oncology - Task Force Members",
+    "document_date": "26/04/2022",
+    "expert": "Cordoba Raul",
+    "summary": "Declarations of interest reported by the expert for years 2020 and 2021. Financial declarations list direct personal payments (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member) from multiple pharmaceutical companies, and research funding to department/institution.",
+    "declarations": [
+      {
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "payment_types": [
+          "speaker fees",
+          "honoraria",
+          "consultancy",
+          "advisory board fees",
+          "investigator",
+          "committee member"
+        ],
+        "companies_and_conditions": [
+          {
+            "company": "AbbVie",
+            "conditions": [
+              "CLL"
+            ]
+          },
+          {
+            "company": "Roche Pharma",
+            "conditions": [
+              "Lymphoma"
+            ]
+          },
+          {
+            "company": "Takeda Pharmaceuticals",
+            "conditions": [
+              "Lymphoma"
+            ]
+          },
+          {
+            "company": "Bristol Myers Squibb",
+            "conditions": [
+              "Lymphoma"
+            ]
+          },
+          {
+            "company": "Incyte",
+            "conditions": [
+              "Lymphoma"
+            ]
+          },
+          {
+            "company": "Kite",
+            "conditions": [
+              "Lymphoma"
+            ]
+          },
+          {
+            "company": "Janssen-Cilag",
+            "conditions": [
+              "Lymphoma",
+              "CLL"
+            ]
+          }
+        ],
+        "research_funding": [
+          {
+            "funder": "Pfizer",
+            "conditions": [
+              "Geriatric Oncology",
+              "Lymphoma"
+            ],
+            "note": "Research funding under direct/personal responsibility to department or institution."
+          }
+        ]
+      },
+      {
+        "year": 2021,
+        "declaration_type": "Financial Declaration",
+        "payment_types": [
+          "speaker fees",
+          "honoraria",
+          "consultancy",
+          "advisory board fees",
+          "investigator",
+          "committee member"
+        ],
+        "companies_and_conditions": [
+          {
+            "company": "AstraZeneca",
+            "conditions": [
+              "CLL"
+            ]
+          },
+          {
+            "company": "AbbVie",
+            "conditions": [
+              "CLL"
+            ]
+          },
+          {
+            "company": "Janssen-Cilag",
+            "conditions": [
+              "Lymphoma"
+            ]
+          },
+          {
+            "company": "Roche Pharma",
+            "conditions": [
+              "Lymphoma"
+            ]
+          },
+          {
+            "company": "Takeda Pharmaceuticals",
+            "conditions": [
+              "Lymphoma"
+            ]
+          },
+          {
+            "company": "Incyte",
+            "conditions": [
+              "Lymphoma"
+            ]
+          },
+          {
+            "company": "Kite",
+            "conditions": [
+              "Lymphoma"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

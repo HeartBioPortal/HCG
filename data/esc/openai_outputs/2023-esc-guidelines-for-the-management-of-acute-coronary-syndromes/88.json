@@ -1,0 +1,113 @@
+{
+  "content": {
+    "title": "Clinical Practice Guidelines Committee 2022-2024",
+    "organization": "European Society of Cardiology (ESC)",
+    "declaration_note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration cover guidelines up to and including 2022.",
+    "date_on_page": "24/04/2023",
+    "page": "7/7",
+    "experts": [
+      {
+        "name": "Rossello Francisco Javier",
+        "entries": [
+          {
+            "year": 2022,
+            "declaration": "Nothing to be declared"
+          }
+        ]
+      },
+      {
+        "name": "Vaartjes Ilonca",
+        "entries": [
+          {
+            "year": 2021,
+            "declaration": "Nothing to be declared"
+          },
+          {
+            "year": 2022,
+            "declaration": "Nothing to be declared"
+          }
+        ]
+      },
+      {
+        "name": "Vrints Christiaan Jm",
+        "entries": [
+          {
+            "year": 2021,
+            "declaration": "Nothing to be declared"
+          },
+          {
+            "year": 2022,
+            "declaration": "Nothing to be declared"
+          }
+        ]
+      },
+      {
+        "name": "Witkowski Adam",
+        "entries": [
+          {
+            "year": 2021,
+            "declaration": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+            "companies_and_details": [
+              {
+                "company": "Boston Scientific",
+                "details": "coronary stents, IVUS, Accurate aortic valves (TAVI), Watchman (LAAO)"
+              },
+              {
+                "company": "Medtronic",
+                "details": "Evolut aortic valves (TAVI)"
+              },
+              {
+                "company": "Edwards Lifesciences",
+                "details": "Sapien aortic valves (TAVI)"
+              }
+            ]
+          },
+          {
+            "year": 2022,
+            "declaration": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+            "companies_and_details": [
+              {
+                "company": "Boston Scientific",
+                "details": "Device Therapy"
+              },
+              {
+                "company": "Edwards Lifesciences",
+                "details": "Device Therapy"
+              },
+              {
+                "company": "Medtronic",
+                "details": "Device Therapy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Zeppenfeld Katja",
+        "entries": [
+          {
+            "year": 2021,
+            "declaration": "Research funding from healthcare industry under direct/personal responsibility (to department or institution).",
+            "companies_and_details": [
+              {
+                "company": "Biosense Webster",
+                "details": "Research electrophysiology"
+              }
+            ]
+          },
+          {
+            "year": 2022,
+            "declaration": "Payment from healthcare industry to department or institution or any other body for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.; Research funding from healthcare industry under direct/personal responsibility (to department or institution).",
+            "companies_and_details": [
+              {
+                "company": "Biosense Webster",
+                "details": "Ventricular Arrhythmias and Sudden Cardiac Death (SCD); investigator-initiated research, PI"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

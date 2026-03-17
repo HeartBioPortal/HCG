@@ -1,0 +1,99 @@
+{
+  "content": {
+    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
+    "note": "Declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (up to and including 2020).",
+    "footer_date": "03/08/2021",
+    "experts": [
+      {
+        "name": "Lambrinou Ekaterini",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "details": [
+          {
+            "company": "Novartis",
+            "involvement": "Payment from healthcare industry to department/institution for personal services (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
+            "associated_conditions": [
+              "Heart Failure"
+            ]
+          }
+        ],
+        "raw_context": "Payment from healthcare industry to your department or institution or any other body for your personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. - Novartis : Heart Failure"
+      },
+      {
+        "name": "Lancellotti Patrizio",
+        "year": 2020,
+        "declaration_type": "None",
+        "details": [],
+        "raw_context": "Nothing to be declared"
+      },
+      {
+        "name": "Landmesser Ulf",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "details": [
+          {
+            "company": "Bayer AG",
+            "involvement": "Advisory Board fee (direct personal payment)",
+            "associated_conditions": []
+          },
+          {
+            "company": "Amgen",
+            "involvement": "Speaker fee (direct personal payment)",
+            "associated_conditions": []
+          },
+          {
+            "company": "Novartis",
+            "involvement": "Speaker fee (direct personal payment); Research funding under direct/personal responsibility: Lipid Cardio Study",
+            "associated_conditions": [
+              "Lipid/Cardio study (research context)"
+            ]
+          },
+          {
+            "company": "Bayer AG",
+            "involvement": "Research Grant (research funding)",
+            "associated_conditions": []
+          }
+        ],
+        "raw_context": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. - Bayer AG : Advisory Board fee - Amgen : Speaker fee - Novartis : Speaker fee Research funding from healthcare industry under your direct/personal responsibility (to department or institution). - Novartis : Lipid Cardio Study - Bayer AG : Research Grant"
+      },
+      {
+        "name": "Lassus Johan Paul Eric",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "details": [
+          {
+            "company": "Bayer",
+            "involvement": "Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
+            "associated_conditions": [
+              "Coronary artery disease",
+              "Heart Failure"
+            ]
+          },
+          {
+            "company": "AstraZeneca",
+            "involvement": "Direct personal payment",
+            "associated_conditions": [
+              "Heart Failure"
+            ]
+          },
+          {
+            "company": "Boehringer-Ingelheim",
+            "involvement": "Direct personal payment",
+            "associated_conditions": [
+              "Heart Failure"
+            ]
+          },
+          {
+            "company": "Novartis",
+            "involvement": "Direct personal payment",
+            "associated_conditions": [
+              "Heart Failure"
+            ]
+          }
+        ],
+        "raw_context": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. - Bayer : Coronary artery disease, Heart Failure - Astra Zeneca : Heart Failure - Boehringer-Ingelheim : Heart Failure - Novartis : Heart failure"
+      }
+    ]
+  },
+  "genes": []
+}

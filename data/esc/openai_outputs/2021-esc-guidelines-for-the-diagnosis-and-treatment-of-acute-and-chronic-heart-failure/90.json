@@ -1,0 +1,50 @@
+{
+  "content": {
+    "document_title": "Clinical Practice Guidelines Committee 2020-2022",
+    "organization": "European Society of Cardiology (ESC)",
+    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year.",
+    "document_date": "09/08/2021",
+    "entries": [
+      {
+        "expert": "Collet Jean-Philippe",
+        "year": 2020,
+        "declaration_type": "Research funding / industry relationships",
+        "details": [
+          "Bristol Myers Squibb: Post-TAVR antithrombotic treatment",
+          "Research funding from healthcare industry under direct/personal responsibility (to department or institution)",
+          "Boston Scientific: Post-TAVR antithrombotic treatment",
+          "Bristol Myers Squibb: Post-TAVR antithrombotic treatment (listed again under research funding)"
+        ]
+      },
+      {
+        "expert": "Falk Volkmar",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "details": [
+          "Payments from healthcare industry to department/institution for personal services (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
+          "Berlin Heart: Advisory",
+          "Novartis: Consultancy",
+          "Abbott: Educational Grant for HCPs",
+          "Edwards Lifesciences: Educational Grant for HCPs",
+          "Medtronic: Educational Grant for HCPs",
+          "Cryolife / Jotec: Educational Grant for HCPs"
+        ]
+      },
+      {
+        "expert": "Fauchier Laurent",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "details": [
+          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+          "Bayer: Healthcare",
+          "Boehringer-Ingelheim: Healthcare",
+          "Medtronic: Healthcare",
+          "Novartis: Healthcare",
+          "BMS / Pfizer: Healthcare",
+          "XO: Healthcare"
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

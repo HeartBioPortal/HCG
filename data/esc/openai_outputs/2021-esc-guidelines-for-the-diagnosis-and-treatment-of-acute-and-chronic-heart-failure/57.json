@@ -1,0 +1,105 @@
+{
+  "content": {
+    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
+    "organization": "European Society of Cardiology (ESC)",
+    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during development of these guidelines up to and including 2020.",
+    "footer_date": "03/08/2021",
+    "experts": [
+      {
+        "name": "Falk Volkmar",
+        "year": 2020,
+        "summary": "Educational grants reported for healthcare professionals.",
+        "relationships": [
+          {
+            "company": "Edwards Lifesciences",
+            "type": "Educational Grant for HCP's"
+          },
+          {
+            "company": "Medtronic",
+            "type": "Educational Grant for HCP's"
+          },
+          {
+            "company": "Cryolife / Jotec",
+            "type": "Educational Grant for HCP's"
+          }
+        ]
+      },
+      {
+        "name": "Fauchier Laurent",
+        "year": 2020,
+        "summary": "Financial declaration: direct personal payments from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.).",
+        "relationships": [
+          {
+            "company": "Bayer",
+            "type": "Healthcare (direct personal payment)"
+          },
+          {
+            "company": "Boehringer-Ingelheim",
+            "type": "Healthcare (direct personal payment)"
+          },
+          {
+            "company": "Medtronic",
+            "type": "Healthcare (direct personal payment)"
+          },
+          {
+            "company": "Novartis",
+            "type": "Healthcare (direct personal payment)"
+          },
+          {
+            "company": "BMS/Pfizer",
+            "type": "Healthcare (direct personal payment)"
+          },
+          {
+            "company": "XO",
+            "type": "Healthcare (direct personal payment)"
+          }
+        ]
+      },
+      {
+        "name": "Filippatos Gerasimos",
+        "year": 2020,
+        "summary": "Financial declaration: direct personal payments and payments to department/institution for personal services (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.).",
+        "relationships": [
+          {
+            "company": "Novartis",
+            "type": "Direct personal payment",
+            "associated_conditions": [
+              "Heart Failure"
+            ]
+          },
+          {
+            "company": "Servier",
+            "type": "Direct personal payment",
+            "associated_conditions": [
+              "Heart Failure"
+            ]
+          },
+          {
+            "company": "Vifor International",
+            "type": "Direct personal payment",
+            "associated_conditions": [
+              "Heart Failure"
+            ]
+          },
+          {
+            "company": "Boehringer-Ingelheim",
+            "type": "Direct personal payment",
+            "associated_conditions": [
+              "Heart failure",
+              "Diabetes"
+            ]
+          },
+          {
+            "company": "Bayer",
+            "type": "Payment to department/institution for personal services",
+            "associated_conditions": [
+              "CKD",
+              "Diabetes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

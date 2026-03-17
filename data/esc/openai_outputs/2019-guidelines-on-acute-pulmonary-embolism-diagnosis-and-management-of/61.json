@@ -1,0 +1,95 @@
+{
+  "content": {
+    "title": "ESC Committee for Practice Guidelines 2018-2020 - Declarations of Interest",
+    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls for declaration conducted during development period up to and including 2018).",
+    "page_date": "21/08/2019",
+    "page_number": "61/62",
+    "experts": [
+      {
+        "name": "Touyz Rhian",
+        "1_Financial_Declaration": {
+          "B_PAYMENT_TO_DEPARTMENT_OR_INSTITUTION": [
+            {
+              "source": "Novartis",
+              "notes": "antihypertensive drugs",
+              "years": "2017-2018"
+            },
+            {
+              "source": "Alnylam",
+              "notes": "antihypertensive drugs",
+              "years": "2017-2018"
+            }
+          ],
+          "E_RESEARCH_FUNDING_PERSONAL": [
+            {
+              "source": "British Heart Foundation",
+              "notes": "Hypertension research",
+              "years": "2017-2018"
+            },
+            {
+              "source": "Medical Research Council, UK",
+              "notes": "Hypertension research",
+              "years": "2017-2018"
+            }
+          ]
+        },
+        "2_Other_Positions_of_Influence": {
+          "2.3_membership_affiliation": [
+            "American Heart Association International Society of Hypertension",
+            "British Irish Hypertension Society (2017-2018)"
+          ]
+        }
+      },
+      {
+        "name": "Windecker Stephan",
+        "1_Financial_Declaration": {
+          "B_PAYMENT_TO_DEPARTMENT_OR_INSTITUTION": [
+            {
+              "source": "Bayer AG",
+              "notes": "General Cardiology",
+              "years": "2017"
+            },
+            {
+              "source": "Abbott",
+              "notes": "Invasive Cardiology",
+              "years": "2017"
+            },
+            {
+              "source": "Boston Scientific",
+              "notes": "Invasive Cardiology",
+              "years": "2017"
+            },
+            {
+              "source": "Edwards Lifesciences",
+              "notes": "Invasive Cardiology",
+              "years": "2017"
+            },
+            {
+              "source": "CSL Behring",
+              "notes": "Invasive Cardiology",
+              "years": "2018"
+            },
+            {
+              "source": "Polares Medical",
+              "notes": "Invasive Cardiology",
+              "years": "2018"
+            }
+          ],
+          "D_RESEARCH_FUNDING_UNDER_DIRECT_PERSONAL_RESPONSIBILITY": [
+            {
+              "source": "St. Jude Medical",
+              "notes": "General Cardiology",
+              "years": "2017"
+            },
+            {
+              "source": "Amgen Inc.",
+              "notes": "General Cardiology",
+              "years": "2017"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "genes": []
+}

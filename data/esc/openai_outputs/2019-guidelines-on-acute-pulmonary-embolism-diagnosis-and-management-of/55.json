@@ -1,0 +1,113 @@
+{
+  "content": {
+    "title": "ESC Committee for Practice Guidelines 2018-2020 - Declarations of Interest",
+    "preamble": "For ESC Guidelines: The report below lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2018.",
+    "date_on_page": "21/08/2019",
+    "page": "55/62",
+    "experts": [
+      {
+        "name": "Lewis Basil S",
+        "relationship_summary": "B - Payment to your department or institution or any other body for personal services (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member) from healthcare industry.",
+        "declarations": [
+          {
+            "payment_type": "B",
+            "entries": [
+              {
+                "company": "Novartis",
+                "indication": "Heart failure",
+                "years": "2017"
+              },
+              {
+                "company": "Pfizer",
+                "indication": "Lipidology",
+                "years": "2017"
+              },
+              {
+                "company": "Astrazeneca",
+                "indication": "Antithrombotics",
+                "years": "2017-2018"
+              },
+              {
+                "company": "Astra Zeneca",
+                "indication": "Diabetes",
+                "years": "2017-2018"
+              },
+              {
+                "company": "Pfizer",
+                "indication": "Diabetes",
+                "years": "2017-2018"
+              },
+              {
+                "company": "Merck Sharp & Dohme",
+                "indication": "Heart failure",
+                "years": "2017-2018"
+              },
+              {
+                "company": "Kowa",
+                "indication": "Lipidology",
+                "years": "2017-2018"
+              },
+              {
+                "company": "Resverlogix",
+                "indication": "Lipidology, secondary prevention",
+                "years": "2018"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Merkely Bela",
+        "relationship_summary": "1- Financial Declaration. A - Direct personal payment to you/household/partner (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member) from healthcare industry. B - Payment to your department or institution for personal services.",
+        "declarations": [
+          {
+            "payment_type": "A",
+            "entries": [
+              {
+                "company": "Sanofi Aventis",
+                "indication": "ACS",
+                "years": "2017"
+              },
+              {
+                "company": "Medtronic",
+                "indication": "CRT course",
+                "years": "2017-2018"
+              },
+              {
+                "company": "Abbott",
+                "indication": "CRT/ICD",
+                "years": "2017-2018"
+              },
+              {
+                "company": "Biotronik",
+                "indication": "ICD/CRT",
+                "years": "2017-2018"
+              },
+              {
+                "company": "Astra Zeneca",
+                "indication": "Heart failure",
+                "years": "2018"
+              }
+            ]
+          },
+          {
+            "payment_type": "B",
+            "entries": [
+              {
+                "company": "Abbott",
+                "indication": "Cardiac rhythm management",
+                "years": "2017"
+              },
+              {
+                "company": "Medtronic",
+                "indication": "Cardiac rhythm management",
+                "years": "2017-2018"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

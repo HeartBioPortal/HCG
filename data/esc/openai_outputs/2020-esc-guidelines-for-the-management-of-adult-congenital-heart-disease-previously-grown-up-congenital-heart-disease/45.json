@@ -1,0 +1,89 @@
+{
+  "content": {
+    "document_title": "ESC Committee for Practice Guidelines 2018-2020 - Declarations of Interest (page)",
+    "date_on_page": "28/08/2020",
+    "page_number": "45/59",
+    "experts": [
+      {
+        "name": "Leclercq Christophe",
+        "declarations": [
+          {
+            "year": 2018,
+            "type": "Payment to department/institution for personal services",
+            "details": "Payment to department or institution or any other body like an association or similar for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry.",
+            "companies": [
+              {
+                "company": "Biotronik",
+                "relationship": "devices"
+              }
+            ]
+          },
+          {
+            "year": 2019,
+            "type": "Financial Declaration (direct personal payment)",
+            "details": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. For yourself.",
+            "companies": [
+              {
+                "company": "Abbott",
+                "relationship": "devices"
+              },
+              {
+                "company": "Boston Scientific",
+                "relationship": "devices"
+              },
+              {
+                "company": "Medtronic",
+                "relationship": "devices"
+              },
+              {
+                "company": "Biotronik",
+                "relationship": "devices"
+              },
+              {
+                "company": "Microport",
+                "relationship": "devices"
+              },
+              {
+                "company": "Zoll Medical",
+                "relationship": "WCD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lettino Maddalena",
+        "declarations": [
+          {
+            "year": 2018,
+            "type": "Financial Declaration (direct personal payment)",
+            "details": "Direct personal payment as it applies to you and your spouse/partner or any other member of your household, or any entity controlled directly or indirectly by any of the above persons: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry.",
+            "companies": [
+              {
+                "company": "Daiichi Sankyo",
+                "relationship": "Anticoagulants"
+              },
+              {
+                "company": "Pfizer",
+                "relationship": "Anticoagulants"
+              },
+              {
+                "company": "Bayer Healthcare",
+                "relationship": "Antithrombotic agents, anticoagulants"
+              },
+              {
+                "company": "Sanofi Aventis",
+                "relationship": "Antithrombotic agents, anticoagulants, lipid lowering drugs"
+              },
+              {
+                "company": "Astra Zeneca",
+                "relationship": "Antithrombotic agents, statins"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

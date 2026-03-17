@@ -1,0 +1,46 @@
+{
+  "content": {
+    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
+    "date_on_page": "03/08/2021",
+    "note": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (up to and including 2020).",
+    "reviewers": [
+      {
+        "name": "Straburzynska-Migaj Ewa",
+        "year": 2020,
+        "relationships_with_industry": [
+          "Vifor International: heart failure",
+          "Bayer: heart failure, stroke prevention",
+          "Boehringer-Ingelheim: stroke prevention, diabetes, heart failure"
+        ],
+        "travel_and_meeting_support": [
+          "Boehringer-Ingelheim: heart failure",
+          "Servier: heart failure"
+        ],
+        "other_positions_of_influence": [
+          "Membership/affiliation in patient organisation - Polskie Stowarzyszenie Osób z Niewydolnością Serca"
+        ]
+      },
+      {
+        "name": "Tocchetti Carlo Gabriele",
+        "year": 2020,
+        "financial_declaration": [
+          "Payments from healthcare industry to department/institution for personal services (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
+          "Amgen: Heart Failure, enrollment of patients in the Galactic trial"
+        ],
+        "other_positions_of_influence": [
+          "Canadian Patent No. 2,613,477 (Dec 3, 2013) and related US pre-granted publication US20180271931 (Sep 27, 2018) listing inventors and referencing THIOL-SENSITIVE POSITIVE INOTROPES and P75NTR ANTAGONISTS and treatment of acute and chronic cardiac disease"
+        ]
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "NGFR (p75NTR)",
+      "Associated Conditions": [
+        "Acute and chronic cardiac disease"
+      ],
+      "Occurrences": 1,
+      "context": "Mentioned in patent text in Tocchetti declaration: 'P75NTR ANTAGONISTS AND TREATMENT OF ACUTE AND CHRONIC CARDIAC DISEASE.'"
+    }
+  ]
+}

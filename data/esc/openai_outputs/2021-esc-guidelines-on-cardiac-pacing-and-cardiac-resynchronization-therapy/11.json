@@ -1,0 +1,104 @@
+{
+  "content": {
+    "title": "2021 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy - Task Force Members",
+    "note": "Declarations of interest reported to the ESC by experts during yearly call for declaration covering the previous calendar year (calls conducted during development period up to and including 2020).",
+    "date_on_page": "03/08/2021",
+    "experts": [
+      {
+        "Expert": "Glikson Michael",
+        "Year": 2020,
+        "Declaration Type": "Financial Declaration",
+        "Relationships": [
+          {
+            "category": "Travel and meeting support",
+            "details": "Travel and meeting support from healthcare industry, independent of the above activities.",
+            "items": [
+              {
+                "company": "Boston Scientific",
+                "note": "LAA"
+              }
+            ]
+          },
+          {
+            "category": "Research funding (under direct/personal responsibility to department or institution)",
+            "items": [
+              {
+                "company": "Medtronic",
+                "note": "CIEDS"
+              },
+              {
+                "company": "Biotronik",
+                "note": "CIEDS"
+              },
+              {
+                "company": "Pfizer",
+                "note": "NOACS"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Expert": "Israel Carsten W",
+        "Year": 2019,
+        "Declaration Type": "Financial Declaration",
+        "Relationships": [
+          {
+            "category": "Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
+            "items": [
+              {
+                "company": "Berlin Chemie AG",
+                "note": "Antiarrhythmic drugs"
+              },
+              {
+                "company": "BMS-Pfizer",
+                "note": "Apixaban"
+              },
+              {
+                "company": "Astra Zeneca",
+                "note": "Brillique"
+              },
+              {
+                "company": "Boehringer-Ingelheim",
+                "note": "Dabigatran"
+              },
+              {
+                "company": "Sanofi Aventis",
+                "note": "Dronedarone"
+              },
+              {
+                "company": "Daiichi Sankyo",
+                "note": "Edoxaban"
+              },
+              {
+                "company": "Servier",
+                "note": "Ivabradin"
+              },
+              {
+                "company": "Zoll Medical",
+                "note": "Life Vest"
+              },
+              {
+                "company": "Boston Scientific",
+                "note": "Pacemakers, ICDs"
+              },
+              {
+                "company": "Biotronik",
+                "note": "Pacemakers, ICDs"
+              },
+              {
+                "company": "Abbott",
+                "note": "Pacemakers, ICDs, CRT"
+              },
+              {
+                "company": "Microport",
+                "note": "Pacemakers, ICDs, CRT"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

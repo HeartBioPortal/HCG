@@ -1,0 +1,54 @@
+{
+  "content": {
+    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Task Force Members (conflicts of interest)",
+    "note": "Report lists declarations of interest as reported to the ESC by experts during yearly calls covering previous calendar year; calls conducted during development period up to and including 2022.",
+    "page_date": "12/05/2023",
+    "entries": [
+      {
+        "expert": "Jankowska Ewa Anita",
+        "year": 2022,
+        "declarations": [
+          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+          "Abbott : Chronic Heart Failure",
+          "Astra Zeneca : Chronic Heart Failure",
+          "Bayer : Chronic Heart Failure",
+          "Boehringer-Ingelheim : Chronic Heart Failure",
+          "Novartis : Chronic Heart Failure",
+          "Cardiac Dimensions : Chronic Heart Failure",
+          "Pharmacosmos : Chronic Heart Failure",
+          "Servier : Chronic Heart Failure, Acute Heart Failure",
+          "Vifor International : Chronic Heart Failure, Acute Heart Failure",
+          "Swixx Biopharma : Chronic Heart Failure, Acute Heart Failure",
+          "Takeda Pharmaceuticals : Chronic Heart Failure, Other",
+          "Respicardia : Device Therapy, Chronic Heart Failure",
+          "translational medicine academy : Device Therapy, Chronic Heart Failure, Acute Heart Failure",
+          "Pfizer : Other",
+          "Sanofi Aventis : Other",
+          "Travel and meeting support from healthcare industry, independent of the above activities.",
+          "Boehringer-Ingelheim : Chronic Heart Failure (listed twice)"
+        ]
+      },
+      {
+        "expert": "Juni Peter",
+        "year": 2020,
+        "declarations": [
+          "Payment from healthcare industry to your department or institution or any other body for your personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+          "Fresenius Nutrition : ECCO2R in COPD",
+          "Ava : Fertility App",
+          "Appli Therapeutics : Infectious Diseases",
+          "Amgen Inc : PCSK9 inhibitors in Patients at Cardiovascular Risk"
+        ]
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "Patients at cardiovascular risk"
+      ],
+      "Occurrences": 1,
+      "context": "Mentioned under Juni Peter (2020): 'Amgen Inc : PCSK9 inhibitors in Patients at Cardiovascular Risk'."
+    }
+  ]
+}

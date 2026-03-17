@@ -1,0 +1,48 @@
+{
+  "content": {
+    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
+    "organization": "European Society of Cardiology (ESC)",
+    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during the period of development of these guidelines up to and including 2020.",
+    "date_on_page": "03/08/2021",
+    "table_columns": [
+      "Expert",
+      "Year",
+      "Type of Relationship with Industry / Financial Declaration"
+    ],
+    "experts": [
+      {
+        "name": "Lassus Johan Paul Eric",
+        "year": 2020,
+        "relationships": [
+          "Vifor International : Heart failure",
+          "Roche Diagnostics : Heart failure",
+          "Pfizer : Oral anticoagulants"
+        ]
+      },
+      {
+        "name": "Leclercq Christophe",
+        "year": 2020,
+        "relationships": [
+          "Financial Declaration: direct personal payment from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
+          "Biotronik : device",
+          "Abbott : devices",
+          "Boston Scientific : devices",
+          "Medtronic : devices",
+          "Microport : devices"
+        ]
+      },
+      {
+        "name": "Lewis Basil S",
+        "year": 2020,
+        "relationships": [
+          "Financial Declaration: direct personal payment from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
+          "Vifor International : Heart failure",
+          "Kowa : Lipidology",
+          "CSL Behring : Lipidology, Secondary prevention",
+          "Payment from healthcare industry to department/institution for personal services: Kowa : Lipidology"
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

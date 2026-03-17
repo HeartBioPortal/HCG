@@ -1,0 +1,63 @@
+{
+  "content": {
+    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
+    "note": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (up to and including 2020).",
+    "date_on_page": "03/08/2021",
+    "experts": [
+      {
+        "name": "Uuetoa Tiina",
+        "year": 2020,
+        "declarations": [
+          "Payment from healthcare industry to department or institution for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+          "Other positions of influence: membership/affiliation in political, advocacy or patients organisations; member of working group by the Estonian Health Insurance Foundation in developing National Guidelines for Primary Care Physicians for the management of chronic heart failure (unpaid contribution); Co-Head of the National Heart Failure Nurse Curriculum Committee (unpaid contribution)."
+        ],
+        "companies_mentioned": [
+          "Astra Zeneca"
+        ],
+        "specific_notes": [
+          "Astra Zeneca : SGLT2-inhibitors in heart failure"
+        ]
+      },
+      {
+        "name": "Vataman Eleonora",
+        "year": 2020,
+        "declarations": [
+          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+          "Any other interest that should be declared in view of holding an ESC position: Nothing to declare."
+        ],
+        "companies_mentioned": [
+          "Egis Pharma"
+        ],
+        "specific_notes": [
+          "Egis Pharma : consultancy"
+        ]
+      },
+      {
+        "name": "Voronkov Leonid",
+        "year": 2020,
+        "declarations": [
+          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+          "Payment from healthcare industry to department or institution for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc."
+        ],
+        "companies_mentioned": [
+          "Novartis",
+          "Amgen"
+        ],
+        "specific_notes": [
+          "Novartis : Speakers fees",
+          "Amgen : Consultancy"
+        ]
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "SGLT2 (SLC5A2)",
+      "Associated Conditions": [
+        "heart failure"
+      ],
+      "Occurrences": 1,
+      "context": "Mentioned once in the declaration: 'Astra Zeneca : SGLT2-inhibitors in heart failure' (listed by reviewer Uuetoa Tiina)."
+    }
+  ]
+}

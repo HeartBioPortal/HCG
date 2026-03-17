@@ -1,0 +1,122 @@
+{
+  "content": {
+    "title": "2022 ESC Guidelines on cardio-oncology - Task Force Members (page excerpt)",
+    "note": "Declarations of interest reported to the ESC by experts during yearly call covering previous calendar year (calls during development period up to and including 2021).",
+    "footer": {
+      "date": "26/04/2022",
+      "page": "5/21"
+    },
+    "experts": [
+      {
+        "name": "de Azambuja Evandro",
+        "entries": [
+          {
+            "year": 2020,
+            "relationships": [
+              {
+                "company": "Lilly",
+                "area": "Oncology",
+                "type": "industry relationship (listed)"
+              },
+              {
+                "company": "Roche Pharma",
+                "area": "Oncology",
+                "type": "industry relationship (listed)"
+              },
+              {
+                "company": "Pierre-Fabre",
+                "area": "Oncology",
+                "type": "industry relationship (listed)"
+              },
+              {
+                "company": "Libbs",
+                "area": "Oncology",
+                "type": "industry relationship (listed)"
+              },
+              {
+                "company": "Seattle Genetics",
+                "area": "Oncology",
+                "type": "industry relationship (listed)"
+              },
+              {
+                "company": "Zodiacs",
+                "area": "Oncology",
+                "type": "industry relationship (listed)"
+              }
+            ],
+            "additional_payments_to_department_or_institution": [
+              {
+                "company": "Roche Pharma",
+                "area": "clinical research oncology",
+                "type": "payment to department/institution for clinical research"
+              },
+              {
+                "company": "Astra Zeneca",
+                "area": "clinical trials oncology",
+                "type": "payment to department/institution for clinical trials"
+              },
+              {
+                "company": "Novartis",
+                "area": "clinical trials oncology",
+                "type": "payment to department/institution for clinical trials"
+              },
+              {
+                "company": "Servier",
+                "area": "clinical trials oncology",
+                "type": "payment to department/institution for clinical trials"
+              }
+            ]
+          },
+          {
+            "year": 2021,
+            "relationships": [
+              {
+                "company": "Roche Pharma",
+                "area": "Oncology",
+                "type": "travel and meeting support from healthcare industry"
+              }
+            ],
+            "note": "Financial declaration; travel and meeting support independent of above activities"
+          }
+        ]
+      },
+      {
+        "name": "De Boer Rudolf",
+        "entries": [
+          {
+            "year": 2020,
+            "declaration_type": "Financial Declaration",
+            "direct_personal_payments": [
+              {
+                "company": "Roche Diagnostics",
+                "area": "Biomarkers",
+                "type": "direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)"
+              },
+              {
+                "company": "Abbott",
+                "area": "heart failure device therapies",
+                "type": "direct personal payment"
+              },
+              {
+                "company": "Astra Zeneca",
+                "area": "heart failure pharmacotherapy",
+                "type": "direct personal payment"
+              },
+              {
+                "company": "Bayer",
+                "area": "heart failure pharmacotherapy",
+                "type": "direct personal payment"
+              },
+              {
+                "company": "Novartis",
+                "area": "heart failure pharmacotherapy",
+                "type": "direct personal payment"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

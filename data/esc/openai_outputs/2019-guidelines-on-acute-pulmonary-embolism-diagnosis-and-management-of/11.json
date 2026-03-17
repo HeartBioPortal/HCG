@@ -1,0 +1,109 @@
+{
+  "content": {
+    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS) - Task Force Members",
+    "date_on_page": "21/08/2019",
+    "page": "11/62",
+    "summary": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (up to and including 2018).",
+    "entries": [
+      {
+        "name": "Ni Ainle Fionnuala",
+        "declarations": {
+          "B - Payment to your department or institution or any other body for your personal services": {
+            "description": "Speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry.",
+            "items": [
+              {
+                "company": "Bristol Myers Squibb",
+                "product": "apixaban",
+                "year": 2017
+              },
+              {
+                "company": "Sanofi Aventis",
+                "product": "clexane",
+                "year": 2017
+              },
+              {
+                "company": "Boehringer-Ingelheim",
+                "product": "dabigatran",
+                "year": 2017
+              },
+              {
+                "company": "Daiichi Sankyo",
+                "product": "edoxaban",
+                "year": 2017
+              },
+              {
+                "company": "Bayer",
+                "product": "rivaroxaban",
+                "year": 2017
+              },
+              {
+                "company": "Leo Pharma",
+                "product": "Tinzaparin",
+                "year": 2017
+              }
+            ]
+          },
+          "D - Research funding under your direct/personal responsibility (to department or institution) from healthcare industry": {
+            "description": "Research funding listed with company, indication or product, and years.",
+            "items": [
+              {
+                "company": "Actelion",
+                "product_or_indication": "congenital heart dx",
+                "years": "2017-2018"
+              },
+              {
+                "company": "Bayer",
+                "product": "Rivaroxaban",
+                "years": "2017-2018"
+              },
+              {
+                "company": "BMS-Pfizer",
+                "product": "Apixaban",
+                "years": 2018
+              },
+              {
+                "company": "Sanofi Aventis",
+                "product": "Clexane",
+                "years": 2018
+              },
+              {
+                "company": "Leo Pharma",
+                "product": "Tinzaparin",
+                "years": 2018
+              }
+            ]
+          },
+          "Other positions of influence": {
+            "description": "Membership or affiliation in political or advocacy groups working in cardiology.",
+            "items": [
+              "Member of World Thrombosis Day International Steering Committee (http://www.worldthrombosisday.org/) (2018)"
+            ]
+          }
+        }
+      },
+      {
+        "name": "Prandoni Paolo",
+        "declarations": {
+          "1 - Financial Declaration": {
+            "A - Direct personal payment": {
+              "description": "Direct personal payments to the individual or spouse/partner or household members: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry.",
+              "items": [
+                {
+                  "company": "Pfizer",
+                  "product_or_indication": "THROMBOSIS - APIXABAN",
+                  "years": "2017-2018"
+                },
+                {
+                  "company": "Sanofi Aventis",
+                  "product_or_indication": "THROMBOSIS - ENOXAPARIN",
+                  "years": "2017-2018"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  },
+  "genes": []
+}

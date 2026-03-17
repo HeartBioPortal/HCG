@@ -1,0 +1,75 @@
+{
+  "content": {
+    "title": "2021 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy - Reviewers",
+    "date": "03/08/2021",
+    "intro": "Declarations of interest reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year (calls conducted during development period up to and including 2020).",
+    "experts": [
+      {
+        "name": "Konradi Aleksandra",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member.",
+        "companies": [
+          {
+            "company": "Novartis",
+            "associated_condition_or_role": "hypertension"
+          },
+          {
+            "company": "Krka Pharma",
+            "associated_condition_or_role": "hypertension"
+          },
+          {
+            "company": "Gedeon Richter",
+            "associated_condition_or_role": "hypertension"
+          },
+          {
+            "company": "Servier",
+            "associated_condition_or_role": "hypertension"
+          }
+        ]
+      },
+      {
+        "name": "Koskinas Konstantinos",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member. Also payment from industry to department/institution for personal services.",
+        "companies": [
+          {
+            "company": "Amgen",
+            "associated_condition_or_role": "Cardiology"
+          },
+          {
+            "company": "Daiichi Sankyo",
+            "associated_condition_or_role": "Cardiology"
+          },
+          {
+            "company": "Novartis",
+            "associated_condition_or_role": "Cardiology (payment to department/institution)"
+          }
+        ]
+      },
+      {
+        "name": "Laish-Farkash Avishag",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member.",
+        "companies": [
+          {
+            "company": "Edwards Lifesciences",
+            "associated_condition_or_role": "consultancy"
+          },
+          {
+            "company": "Biotronik",
+            "associated_condition_or_role": "proctoring CRT implantation"
+          },
+          {
+            "company": "Boehringer-Ingelheim",
+            "associated_condition_or_role": "speaker fee"
+          }
+        ]
+      }
+    ],
+    "footer_note": "Report lists declarations as reported to the ESC by the experts during the yearly call for declaration."
+  },
+  "genes": []
+}

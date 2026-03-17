@@ -1,0 +1,88 @@
+{
+  "content": {
+    "title": "2022 ESC Guidelines on cardio-oncology - Task Force Members",
+    "organization": "European Society of Cardiology (ESC)",
+    "page_date": "26/04/2022",
+    "page_number": "14/21",
+    "note": "Declarations reported to the ESC by experts during yearly call covering previous calendar year (calls conducted during development period up to and including 2021).",
+    "experts": [
+      {
+        "name": "Moslehi Javid",
+        "declarations": [
+          {
+            "year": 2020,
+            "type": "Financial Declaration",
+            "details": {
+              "direct_personal_payments_from_healthcare_industry": [
+                {
+                  "company": "Bristol Myers Squibb",
+                  "description": "basic cardiovascular research"
+                },
+                {
+                  "company": "Boehringer-Ingelheim",
+                  "description": "basic myocyte biology"
+                },
+                {
+                  "company": "Amgen Inc",
+                  "description": "basic myocyte biology"
+                },
+                {
+                  "company": "Astra Zeneca",
+                  "description": "cancer drugs"
+                }
+              ],
+              "other_positions_of_influence": [
+                {
+                  "organization": "American Heart Association (AHA)",
+                  "description": "membership or affiliation in political, advocacy or patients organisations working in the field of cardiology"
+                }
+              ]
+            }
+          },
+          {
+            "year": 2021,
+            "type": "Financial Declaration",
+            "details": {
+              "direct_personal_payments_from_healthcare_industry": [
+                {
+                  "company": "Astra Zeneca",
+                  "description": "Advisory Board"
+                },
+                {
+                  "company": "Takeda Pharmaceuticals",
+                  "description": "Advisory Board"
+                },
+                {
+                  "company": "Bristol Myers Squibb",
+                  "description": "Advisory Board"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Moura Brenda",
+        "declarations": [
+          {
+            "year": 2020,
+            "type": "Financial Declaration",
+            "details": {
+              "direct_personal_payments_from_healthcare_industry": [
+                {
+                  "company": "Astra Zeneca",
+                  "description": "Diabetes - Dapagliflozin (drug)"
+                },
+                {
+                  "company": "Novartis",
+                  "description": "Heart failure - Sacubitril/valsartan (drug combination)"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

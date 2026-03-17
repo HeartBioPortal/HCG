@@ -1,0 +1,91 @@
+{
+  "content": {
+    "title": "Clinical Practice Guidelines Committee 2020-2022 - Declarations of Interest",
+    "organization": "European Society of Cardiology (ESC)",
+    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during development period up to and including 2020.",
+    "date_reported": "09/08/2021",
+    "entries": [
+      {
+        "expert": "Antoniou Sotiris",
+        "year": 2020,
+        "declaration_type": [
+          "Research funding",
+          "Other positions of influence"
+        ],
+        "details": "Research funding from healthcare industry under direct/personal responsibility (to department or institution). Membership/affiliation in political, advocacy or patient organisations working in cardiology.",
+        "companies_and_associations": [
+          {
+            "company": "Astra Zeneca",
+            "description": "Joint working initiative on improving CV care (research funding)"
+          },
+          {
+            "association": "Arrhythmia Alliance",
+            "description": "Member of Arrhythmia Alliance medical advisory panel (other position of influence)"
+          }
+        ]
+      },
+      {
+        "expert": "Arbelo Elena",
+        "year": 2020,
+        "declaration_type": [
+          "Financial declaration",
+          "Direct personal payment"
+        ],
+        "details": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+        "companies_and_associations": [
+          {
+            "company": "Biosense Webster",
+            "description": "Atrial fibrillation (direct personal payments)"
+          }
+        ]
+      },
+      {
+        "expert": "Asteiggiano Riccardo",
+        "year": 2020,
+        "declaration_type": [
+          "Financial declaration",
+          "Receipt of royalties"
+        ],
+        "details": "Receipt of royalties for intellectual property related to a published work on cardiac management of oncology patients.",
+        "companies_and_associations": [
+          {
+            "company": "Springer Nature Switzerland AG",
+            "description": "Royalties (Cardiac Management of Oncology Patients, Edition 1)"
+          }
+        ],
+        "royalty_reference": "IB323946; Patients Edition 1 266979"
+      },
+      {
+        "expert": "Baigent Colin",
+        "year": 2020,
+        "declaration_type": [
+          "Financial declaration",
+          "Research funding"
+        ],
+        "details": "Research funding from healthcare industry under direct/personal responsibility (to department or institution).",
+        "companies_and_associations": [
+          {
+            "company": "Boehringer-Ingelheim",
+            "description": "Cardiovascular and renal disease (research funding)"
+          }
+        ]
+      },
+      {
+        "expert": "Baumbach Andreas",
+        "year": 2020,
+        "declaration_type": [
+          "Financial declaration",
+          "Direct personal payment"
+        ],
+        "details": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+        "companies_and_associations": [
+          {
+            "company": "Astra Zeneca",
+            "description": "Pharmacology (direct personal payments)"
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

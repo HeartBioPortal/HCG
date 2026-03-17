@@ -1,0 +1,32 @@
+{
+  "content": {
+    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
+    "organization": "European Society of Cardiology (ESC)",
+    "page_date": "12/08/2021",
+    "expert_name": "McMurray John J V",
+    "declaration_year": 2019,
+    "disclosures": [
+      "McMaster University (G-CHF registry steering committee): global patient registry",
+      "BMS (STAND-UP AHF trial executive committee): HNO donor (phase II trial)",
+      "Kidney Research UK/Kings College Hospital, London/Vifor-Fresenius Pharma - PIVOTAL trial steering committee and funding to Glasgow University to run the endpoint adjudication committee: iron sucrose",
+      "Novartis (employer Glasgow University paid by Novartis for time spent as Executive Committee member for listed trials; sacubitril/valsartan-related activities)",
+      "Bayer (PANACHE Steering committee): neladenoson bialanate (phase II trial)",
+      "Amgen Inc: omecamtiv mecarbil (COSMIC-HF and GALACTIC-HF Trial steering committees)",
+      "Resverlogix: payment to Glasgow University to run an Endpoint Committee for BETonMACE Phase III trial; RVX000222 is described as a BET protein inhibitor that raises apolipoproteinA-I (apoA-I)",
+      "Cardiorentis: ularitide (TRUE-AHF Trial executive committee)",
+      "Merck Sharp & Dohme (VICTORIA trial DSMB): vericiguat",
+      "Research funding noted from British Heart Foundation, Chief Scientist Office (Scottish Government), American Heart Association and NIH; links to institute pages provided for grant details"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "APOA1",
+      "Associated Conditions": [
+        "apolipoprotein A-I expression/activity (lipid metabolism)",
+        "cardiovascular disease context (heart failure/atherosclerosis - therapeutic target)"
+      ],
+      "Occurrences": 1,
+      "context": "\"RVX000222 is an orally active Bromodomain Extra Terminal (BET) protein inhibitor (BETi) known to raise serum apolipoproteinA-I (apoA‑I) via an epigenetic pathway that increases activity of the gene.\""
+    }
+  ]
+}

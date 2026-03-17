@@ -1,0 +1,104 @@
+{
+  "content": {
+    "title": "2020 ESC Guidelines for the management of adult congenital heart disease - Reviewers",
+    "organization": "European Society of Cardiology (ESC)",
+    "header_note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls cover up to and including 2019.",
+    "page_date": "28/08/2020",
+    "page_number": "27/59",
+    "experts": [
+      {
+        "name": "Petronio Anna Sonia",
+        "year": 2019,
+        "declaration": "Research funding from healthcare industry under direct/personal responsibility (to department or institution).",
+        "companies": [
+          {
+            "name": "Abbott",
+            "associated_conditions": [
+              "coronary disease",
+              "valve disease"
+            ]
+          },
+          {
+            "name": "GaDA",
+            "associated_conditions": [
+              "valve disease"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Popelova Jana Rubackova",
+        "year": 2019,
+        "declaration": "Nothing to be declared"
+      },
+      {
+        "name": "Proksejl Katja",
+        "year": 2019,
+        "declaration": "Nothing to be declared"
+      },
+      {
+        "name": "Roffi Marco",
+        "year": 2019,
+        "declaration": "Financial Declaration: Research funding from healthcare industry under direct/personal responsibility (to department or institution).",
+        "companies": [
+          {
+            "name": "Boston Scientific",
+            "associated_conditions": [
+              "stents"
+            ]
+          },
+          {
+            "name": "Medtronic",
+            "associated_conditions": [
+              "stents"
+            ]
+          },
+          {
+            "name": "Biotronik",
+            "associated_conditions": [
+              "stents"
+            ]
+          },
+          {
+            "name": "GE Healthcare",
+            "associated_conditions": [
+              "stents"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rosenhek Raphael",
+        "year": 2019,
+        "declaration": "Financial Declaration: Direct personal payment from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.).",
+        "companies": [
+          {
+            "name": "Abbott",
+            "associated_conditions": [
+              "valvular heart disease"
+            ]
+          },
+          {
+            "name": "Edwards Lifesciences",
+            "associated_conditions": [
+              "valvular heart disease"
+            ]
+          },
+          {
+            "name": "Medtronic",
+            "associated_conditions": [
+              "valvular heart disease"
+            ]
+          },
+          {
+            "name": "Livanova",
+            "associated_conditions": [
+              "valvular heart disease"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

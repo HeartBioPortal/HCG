@@ -1,0 +1,50 @@
+{
+  "content": {
+    "title": "Clinical Practice Guidelines Committee 2020-2022",
+    "organization": "European Society of Cardiology (ESC)",
+    "note": "For ESC Guidelines: The report below lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2020.",
+    "date_on_page": "09/08/2021",
+    "experts": [
+      {
+        "name": "Baumbach Andreas",
+        "year": 2020,
+        "declaration_type": "Industry relationships / Events committees",
+        "relationships": [
+          "CERC : Research Organisation: Events Committees",
+          "Abbot Vascular : Stents",
+          "Microport : Stents",
+          "Sinomed : Stents",
+          "Venus Medtech : Valves, CEP"
+        ]
+      },
+      {
+        "name": "Borger Michael A",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "details": "Payment from healthcare industry to your department or institution or any other body for your personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+        "relationships": [
+          "Cryolife : aortic surgery",
+          "Abbott : heart valve therapy",
+          "Edwards Lifesciences : heart valve therapy",
+          "Medtronic : heart valve therapy"
+        ]
+      },
+      {
+        "name": "Celutkiene Jelena",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "details": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Research funding from healthcare industry under your direct/personal responsibility (to department or institution).",
+        "relationships": [
+          "Pfizer : anticoagulation",
+          "Amgen : heart failure",
+          "Boehringer-Ingelheim : heart failure",
+          "Novartis : heart failure",
+          "Bayer Healthcare : heart failure",
+          "Astrazeneca : heart failure",
+          "Roche Diagnostics : heart failure (research funding)"
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

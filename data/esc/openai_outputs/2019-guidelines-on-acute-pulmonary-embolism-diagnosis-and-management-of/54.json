@@ -1,0 +1,112 @@
+{
+  "content": {
+    "title": "ESC Committee for Practice Guidelines 2018-2020",
+    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year. Calls for declaration conducted during the period of development of these guidelines up to and including 2018.",
+    "date_on_page": "21/08/2019",
+    "page_number": "54/62",
+    "table_columns": [
+      "Expert",
+      "Type of Relationship with Industry"
+    ],
+    "experts": [
+      {
+        "name": "Leclercq Christophe",
+        "declaration_type": "D - Research funding under your direct/personal responsibility (to department or institution) from healthcare industry",
+        "details": [
+          "Biotronik: devices (2017)"
+        ],
+        "companies": [
+          {
+            "company": "Biotronik",
+            "products_or_areas": "devices",
+            "years": "2017"
+          }
+        ]
+      },
+      {
+        "name": "Lettino Maddalena",
+        "declaration_type": "1- Financial Declaration; A - Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.) from healthcare industry",
+        "details": [
+          "Daiichi Sankyo: Antithrombotic agents, anticoagulants (2017)",
+          "Bristol Myers Squibb: Antithrombotic agents, anticoagulants (2017)",
+          "Amgen: Lipid lowering drugs (2017)",
+          "Pfizer: Anticoagulants (2017-2018)",
+          "Bayer Healthcare: Antithrombotic agents, anticoagulants (2017-2018)",
+          "Sanofi Aventis: Antithrombotic agents, anticoagulants, lipid lowering drugs (2017-2018)",
+          "AstraZeneca: Antithrombotic agents, statins (2017-2018)",
+          "Daiichi Sankyo: Anticoagulants (2018)"
+        ],
+        "companies": [
+          {
+            "company": "Daiichi Sankyo",
+            "products_or_areas": "Antithrombotic agents, anticoagulants",
+            "years": "2017, 2018"
+          },
+          {
+            "company": "Bristol Myers Squibb",
+            "products_or_areas": "Antithrombotic agents, anticoagulants",
+            "years": "2017"
+          },
+          {
+            "company": "Amgen",
+            "products_or_areas": "Lipid lowering drugs",
+            "years": "2017"
+          },
+          {
+            "company": "Pfizer",
+            "products_or_areas": "Anticoagulants",
+            "years": "2017-2018"
+          },
+          {
+            "company": "Bayer Healthcare",
+            "products_or_areas": "Antithrombotic agents, anticoagulants",
+            "years": "2017-2018"
+          },
+          {
+            "company": "Sanofi Aventis",
+            "products_or_areas": "Antithrombotic agents, anticoagulants, lipid lowering drugs",
+            "years": "2017-2018"
+          },
+          {
+            "company": "AstraZeneca",
+            "products_or_areas": "Antithrombotic agents, statins",
+            "years": "2017-2018"
+          }
+        ]
+      },
+      {
+        "name": "Lewis Basil S",
+        "declaration_type": "1- Financial Declaration; A - Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.) from healthcare industry",
+        "details": [
+          "Pfizer: Antithrombotics (2017-2018)",
+          "Merck Sharp & Dohme: Heart failure (2017-2018)",
+          "AstraZeneca: Diabetes (2018)",
+          "CSL Behring: Lipidology, Secondary prevention (2018)"
+        ],
+        "companies": [
+          {
+            "company": "Pfizer",
+            "products_or_areas": "Antithrombotics",
+            "years": "2017-2018"
+          },
+          {
+            "company": "Merck Sharp & Dohme",
+            "products_or_areas": "Heart failure",
+            "years": "2017-2018"
+          },
+          {
+            "company": "AstraZeneca",
+            "products_or_areas": "Diabetes",
+            "years": "2018"
+          },
+          {
+            "company": "CSL Behring",
+            "products_or_areas": "Lipidology, Secondary prevention",
+            "years": "2018"
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

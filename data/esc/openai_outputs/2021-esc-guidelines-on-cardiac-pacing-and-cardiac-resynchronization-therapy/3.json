@@ -1,0 +1,105 @@
+{
+  "content": {
+    "title": "2021 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy - Task Force Members",
+    "document_note": "Declarations of interest reported to the ESC by experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during development of guidelines up to and including 2020.",
+    "date_on_page": "03/08/2021",
+    "columns": [
+      "Expert",
+      "Type of Relationship with Industry"
+    ],
+    "experts": [
+      {
+        "name": "Barrabes Jose A",
+        "entries": [
+          {
+            "year": 2020,
+            "relationship_type": "Other Positions of Influence",
+            "summary": "Received honoraria from the Spanish Society of Cardiology as one of the directors of the Mastership Program in Acute Cardiac Care. The program has received financial support from Sanofi (interest in lipid lowering agents and antiplatelet agents).",
+            "companies": [
+              {
+                "company": "Spanish Society of Cardiology",
+                "role_or_interest": "honoraria; director of Mastership Program in Acute Cardiac Care"
+              },
+              {
+                "company": "Sanofi",
+                "role_or_interest": "financial support for program; interest in lipid lowering agents and antiplatelet agents"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Boriani Giuseppe",
+        "entries": [
+          {
+            "year": 2019,
+            "relationship_type": "Financial Declaration",
+            "summary": "Direct personal payments from healthcare industry for speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+            "companies": [
+              {
+                "company": "Boston Scientific",
+                "role_or_interest": "Pacemaker, cardioverter defibrillators"
+              },
+              {
+                "company": "Medtronic",
+                "role_or_interest": "Pacemaker, cardioverter defibrillators"
+              },
+              {
+                "company": "Biotronik",
+                "role_or_interest": "Pacemaker, cardioverter defibrillators"
+              }
+            ]
+          },
+          {
+            "year": 2020,
+            "relationship_type": "Financial Declaration",
+            "summary": "Financial relationships with pharmaceutical and device companies.",
+            "companies": [
+              {
+                "company": "Bayer",
+                "role_or_interest": "Anticoagulants"
+              },
+              {
+                "company": "Boston Scientific",
+                "role_or_interest": "Pacemaker, cardioverter defibrillators"
+              },
+              {
+                "company": "Medtronic",
+                "role_or_interest": "Pacemaker, cardioverter defibrillators"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Braunschweig Frieder",
+        "entries": [
+          {
+            "year": 2019,
+            "relationship_type": "Financial Declaration",
+            "summary": "Direct personal payments from healthcare industry for speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+            "companies": [
+              {
+                "company": "Boehringer-Ingelheim",
+                "role_or_interest": "Anticoagulation"
+              },
+              {
+                "company": "Pfizer",
+                "role_or_interest": "Anticoagulation"
+              },
+              {
+                "company": "Novartis",
+                "role_or_interest": "Heart Failure"
+              },
+              {
+                "company": "Orion",
+                "role_or_interest": "Heart Failure"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

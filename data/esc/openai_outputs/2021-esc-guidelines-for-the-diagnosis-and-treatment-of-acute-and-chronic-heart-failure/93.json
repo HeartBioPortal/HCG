@@ -1,0 +1,49 @@
+{
+  "content": {
+    "title": "Clinical Practice Guidelines Committee 2020-2022",
+    "organization": "European Society of Cardiology (ESC)",
+    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year. Calls for declaration conducted during development period of these guidelines up to and including 2020.",
+    "page_date": "09/08/2021",
+    "experts": [
+      {
+        "name": "Kotecha Dipak",
+        "year": 2020,
+        "declarations": {
+          "research_funding_under_direct_responsibility": [
+            "Bayer: Funding for ESC STEEER-AF trial",
+            "Boston Scientific: Funding for ESC STEEER-AF trial",
+            "Daiichi Sankyo: Funding for ESC STEEER-AF trial",
+            "Boehringer Ingelheim: Funding for ESC STEEER-AF trial",
+            "BMS-Pfizer Alliance: Funding for ESC STEEER-AF trial"
+          ],
+          "other_funding_or_work": [
+            "Amomed: Systematic review"
+          ],
+          "other_positions_of_influence_and_grants": [
+            "Grants from the National Institute for Health Research (NIHR CDF-2015-08-074 RATE-AF; NIHR HTA-130280 DaRe2THINK)",
+            "Grants from the British Heart Foundation (PG/17/55/33087 and AA/18/2/34218)",
+            "EU/EFPIA Innovative Medicines Initiative (BigData@Heart 116074)"
+          ]
+        }
+      },
+      {
+        "name": "Landmesser Ulf",
+        "year": 2020,
+        "declarations": {
+          "financial_declaration": {
+            "direct_personal_payments_from_healthcare_industry": [
+              "Bayer AG: Advisory Board fee",
+              "Amgen: Speaker fee",
+              "Novartis: Speaker fee"
+            ]
+          },
+          "research_funding_under_direct_responsibility": [
+            "Novartis: Lipid Cardio Study",
+            "Bayer AG: Research Grant"
+          ]
+        }
+      }
+    ]
+  },
+  "genes": []
+}

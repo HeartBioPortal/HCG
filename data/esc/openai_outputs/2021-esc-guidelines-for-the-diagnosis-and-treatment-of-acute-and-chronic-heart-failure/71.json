@@ -1,0 +1,35 @@
+{
+  "content": {
+    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
+    "organization": "European Society of Cardiology (ESC)",
+    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during the period of development of these guidelines up to and including 2020.",
+    "date_on_page": "03/08/2021",
+    "reviewers": [
+      {
+        "name": "Masip Josep",
+        "year": 2020,
+        "declaration": "Travel and meeting support from healthcare industry, independent of the above activities. - Menarini: Echocardiography course"
+      },
+      {
+        "name": "Melenovsky Vojtech",
+        "year": 2020,
+        "declaration": "Financial Declaration. Research funding from healthcare industry under your direct/personal responsibility (to department or institution). - Regeneron/Sanofi: post-transplant vasculopathy and PCSK9 therapy"
+      },
+      {
+        "name": "Milicic Davor",
+        "year": 2020,
+        "declaration": "Financial Declaration. Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Industry relationships listed include Novo-Nordisk (Antidiabetics); Alcaloid AD Skopje, PLIVA, Krka Pharma (Antihypertensives); AstraZeneca (Antithrombotics in ACS); Novartis (ARNI); Roche Diagnostics (Biomarkers); Abbott (LVAD); Servier (Microvascular angina); Bayer, Pfizer, Boehringer-Ingelheim (NOACs; Boehringer-Ingelheim also listed SGLT-2 inhibitors); Amgen, Sanofi Aventis (PCSK-9 inhibitors)."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "post-transplant vasculopathy"
+      ],
+      "Occurrences": 3,
+      "context": "Mentioned as 'PCSK9 therapy' in Regeneron/Sanofi entry (post-transplant vasculopathy) and listed as 'PCSK-9 inhibitors' for Amgen and Sanofi Aventis in Milicic Davor's declarations."
+    }
+  ]
+}

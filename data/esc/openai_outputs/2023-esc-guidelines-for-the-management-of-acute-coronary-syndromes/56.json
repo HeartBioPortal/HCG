@@ -1,0 +1,61 @@
+{
+  "type": "object",
+  "content": {
+    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
+    "note": "Declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year (calls conducted during development up to and including 2022).",
+    "date": "16/05/2023",
+    "page": "32/57",
+    "entries": [
+      {
+        "Expert": "Mamas Mamas",
+        "2022": {
+          "Declaration": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+          "Companies / Items": [
+            "Amgen : Acute Coronary Syndromes",
+            "Terumo Inc : Interventional Cardiology",
+            "Boston Scientific : Other"
+          ],
+          "Research funding": "Research funding from healthcare industry under your direct/personal responsibility (to department or institution).",
+          "Additional support": "Terumo Inc : phd studentship funding for fellow, PhD supervisor"
+        }
+      },
+      {
+        "Expert": "Marandi Toomas",
+        "2021": {
+          "Declaration": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+          "Companies / Items": [
+            "Lexicon : investigator"
+          ]
+        },
+        "2022": {
+          "Declaration": "Nothing to be declared"
+        }
+      },
+      {
+        "Expert": "Mcevoy John William",
+        "2021": {
+          "Declaration": "Nothing to be declared"
+        },
+        "2022": {
+          "Declaration": "Nothing to be declared"
+        }
+      },
+      {
+        "Expert": "Mehilli Julinda",
+        "2021": {
+          "Declaration": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+          "Companies / Items": [
+            "Astra Zeneca : antithrombotic drugs",
+            "Bayer Vital GmbH : antithrombotic drugs",
+            "Daiichi Sankyo Europe GmbH : antithrombotic drugs",
+            "SIS Medical AG : DEB",
+            "Biotronik : DES"
+          ],
+          "Research funding": "Research funding from healthcare industry under your direct/personal responsibility (to department or institution).",
+          "Additional support": "Boston Scientific : TAVI"
+        }
+      }
+    ]
+  },
+  "genes": []
+}

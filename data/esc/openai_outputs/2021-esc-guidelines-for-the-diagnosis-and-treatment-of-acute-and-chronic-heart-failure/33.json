@@ -1,0 +1,62 @@
+{
+  "content": {
+    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
+    "note": "Declarations of interest reported to the ESC by experts during yearly call for declaration (covers previous calendar year). Calls for declaration conducted during development of guidelines up to and including 2020.",
+    "date_on_page": "12/08/2021",
+    "experts": [
+      {
+        "name": "McMurray John J V",
+        "year": 2020,
+        "relationships": [
+          {
+            "company": "Ionis",
+            "details": "Employer (Glasgow University) has been paid by Ionis for advice about development of ISIS757456 as a potential therapy for heart failure."
+          },
+          {
+            "company": "KBP Biosciences",
+            "details": "Employer (Glasgow University) has been paid by KBP Biosciences for advice about development of KBP-5074 as a potential therapy for heart failure."
+          },
+          {
+            "company": "Novartis",
+            "details": "Employer (Glasgow University) has been paid by Novartis for time as Executive Committee member and co-principal investigator of ATMOSPHERE, co-principal investigator of PARADIGM-HF and PARAGON-HF trials; Executive/Steering Committee member for PARADISE-MI, PERSPECTIVE and PARACHUTE-HF trials (with sacubitril/valsartan) and for meetings/presentations related to these trials and aliskiren and sacubitril/valsartan. Payments made through a consultancy with Glasgow University; no personal payments received in relation to these trials/drugs; travel and accommodation paid for some meetings."
+          },
+          {
+            "company": "Servier",
+            "details": "Employer (Glasgow University) has been paid by Servier for activities related to role as Steering Committee member for the GALACTIC-HF trial. Payments made through a consultancy with Glasgow University; no personal payments."
+          }
+        ],
+        "research_funding": {
+          "institutional": "British Heart Foundation: Institute receives extensive funding as a Centre of Research Excellence and for individual projects/programmes.",
+          "personal": "British Heart Foundation, Chief Scientist Office (Scottish Government), American Heart Association and NIH funding."
+        }
+      },
+      {
+        "name": "Mebazaa Alexandre",
+        "year": 2019,
+        "relationships": [
+          {
+            "type": "Financial declaration",
+            "details": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc."
+          },
+          {
+            "company": "Abbott Laboratories",
+            "details": "Biomarkers"
+          },
+          {
+            "company": "Roche Diagnostics",
+            "details": "Biomarkers"
+          },
+          {
+            "company": "Adrenomed",
+            "details": "Biomarkers, sepsis"
+          },
+          {
+            "company": "Novartis",
+            "details": "Heart failure"
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

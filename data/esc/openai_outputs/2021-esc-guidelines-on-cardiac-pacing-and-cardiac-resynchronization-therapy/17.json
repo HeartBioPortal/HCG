@@ -1,0 +1,70 @@
+{
+  "content": {
+    "title": "2021 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy - Task Force Members",
+    "organization": "European Society of Cardiology (ESC)",
+    "note": "Declarations of interest reported to the ESC by experts during yearly call for declaration covering the previous calendar year. Calls for declaration conducted during guideline development up to and including 2020.",
+    "date_on_page": "03/08/2021",
+    "entries": [
+      {
+        "expert": "Knops Re",
+        "years": [
+          "2020"
+        ],
+        "relationship_type": "Other Positions of Influence",
+        "details": [
+          "Direct ownership of shares or direct financial interest in healthcare, media, education companies or in companies related to (suppliers) or in competition with the ESC and its mission",
+          "Supplier - consultant for a start-up company Atacor (pacemaker company). Compensation: modest amount of stock options in 2020, value < 10,000 Euro"
+        ],
+        "companies": [
+          "Atacor (pacemaker company)"
+        ],
+        "context": "Declared consultancy and stock ownership in a pacemaker start-up; listed under Other Positions of Influence for 2020."
+      },
+      {
+        "expert": "Kotecha Dipak",
+        "years": [
+          "2019",
+          "2020"
+        ],
+        "relationship_type": "Financial Declaration",
+        "details_by_year": {
+          "2019": [
+            "Direct personal payments from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator/committee roles"
+          ],
+          "2019_companies": [
+            "MyoKardia (Clinical trials in heart failure and atrial fibrillation - Advisory Board)",
+            "Bayer (Data Science - Advisory Board)",
+            "Amomed (Product development in heart failure and atrial fibrillation - Advisory Board)",
+            "Articure (Symposium on atrial fibrillation - Speaker fees)"
+          ],
+          "2020": [
+            "Payments from healthcare industry to department/institution for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member"
+          ],
+          "2020_companies": [
+            "Bayer (Data Science - Advisory Board)",
+            "Amomed (Data Science - Advisory Board)",
+            "Protherics Medicines Development (Data Science - Advisory Board)"
+          ],
+          "2020_research_funding": [
+            "Bayer: Funding for ESC STEEER-AF trial",
+            "Boston Scientific: Funding for ESC STEEER-AF trial",
+            "Daiichi Sankyo: Funding for ESC STEEER-AF trial"
+          ]
+        },
+        "companies": [
+          "MyoKardia",
+          "Bayer",
+          "Amomed",
+          "Articure",
+          "Protherics Medicines Development",
+          "Boston Scientific",
+          "Daiichi Sankyo"
+        ],
+        "context": "Declared multiple advisory, speaker, consultancy roles and research funding related to heart failure and atrial fibrillation across 2019–2020; specific advisory board and trial funding relationships listed."
+      }
+    ],
+    "page_footer_date": "03/08/2021",
+    "observations": "Document is a declarations-of-interest page for guideline task force members; lists companies and types of relationships. No clinical protocols, genetic tests, or human gene names are presented on this page."
+  },
+  "genes": []
+}

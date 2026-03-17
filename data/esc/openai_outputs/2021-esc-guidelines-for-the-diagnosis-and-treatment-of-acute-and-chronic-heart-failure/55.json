@@ -1,0 +1,102 @@
+{
+  "content": {
+    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
+    "organization": "European Society of Cardiology (ESC)",
+    "description": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year. Calls for declaration conducted during the period of development of these guidelines up to and including 2020.",
+    "declaration_period": "up to and including 2020",
+    "footer_date": "03/08/2021",
+    "reviewers": [
+      {
+        "name": "Dendale Paul",
+        "year": 2020,
+        "type_of_relationship": [
+          {
+            "company": "Sanofi Aventis",
+            "relationship": "drugs"
+          },
+          {
+            "company": "Vifor International",
+            "relationship": "drugs"
+          },
+          {
+            "company": "Bristol Myers Squibb",
+            "relationship": "drugs"
+          },
+          {
+            "company": "GE Healthcare",
+            "relationship": "echo"
+          },
+          {
+            "company": "Biosense",
+            "relationship": "material"
+          },
+          {
+            "company": "Medtronic",
+            "relationship": "pm"
+          },
+          {
+            "company": "Biotronik",
+            "relationship": "PM"
+          }
+        ]
+      },
+      {
+        "name": "Dilaveris Polychronis E",
+        "year": 2020,
+        "type_of_relationship": "Financial Declaration",
+        "details": {
+          "note": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+          "companies": [
+            {
+              "company": "Boehringer-Ingelheim",
+              "detail": "Digital solutions - Advisory board fees"
+            },
+            {
+              "company": "Medtronic",
+              "detail": "Implantable loop recorders - speaker fees"
+            },
+            {
+              "company": "Bayer",
+              "detail": "Non-Vitamin K Antagonist Anticoagulant - speaker fees"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Drexel Heinz",
+        "year": 2020,
+        "type_of_relationship": "Financial Declaration",
+        "details": {
+          "note": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+          "companies": [
+            {
+              "company": "European Society of Cardiology",
+              "detail": "Cardiology"
+            },
+            {
+              "company": "Novartis",
+              "detail": "Clinical Lipidology"
+            },
+            {
+              "company": "Austrian Pharmacy Association",
+              "detail": "Diabetes"
+            },
+            {
+              "company": "Amgen",
+              "detail": "Lipids"
+            },
+            {
+              "company": "Daiichi Sankyo",
+              "detail": "Lipids"
+            },
+            {
+              "company": "Medscape",
+              "detail": "Lipids"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "genes": []
+}

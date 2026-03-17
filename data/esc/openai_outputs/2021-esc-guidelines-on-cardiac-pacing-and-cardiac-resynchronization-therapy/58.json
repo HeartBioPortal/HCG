@@ -1,0 +1,90 @@
+{
+  "content": {
+    "title": "Clinical Practice Guidelines Committee 2020-2022 - Declarations of Interest",
+    "organization": "European Society of Cardiology (ESC)",
+    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year. Calls for declaration were conducted during the period of development of these guidelines up to and including 2020.",
+    "document_date": "09/08/2021",
+    "experts": [
+      {
+        "name": "Collet Jean-Philippe",
+        "year": 2020,
+        "declaration_type": "Research funding / Post-TAVR antithrombotic treatment",
+        "relationships": [
+          {
+            "company": "Bristol Myers Squibb",
+            "relationship": "Post-TAVR antithrombotic treatment (listed twice: direct and as research funding)"
+          },
+          {
+            "company": "Boston Scientific",
+            "relationship": "Post-TAVR antithrombotic treatment (research funding under direct/personal responsibility)"
+          }
+        ],
+        "notes": "Mentions Post-TAVR antithrombotic treatment and research funding from healthcare industry to department or institution."
+      },
+      {
+        "name": "Falk Volkmar",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "relationships": [
+          {
+            "company": "Berlin Heart",
+            "relationship": "Advisory"
+          },
+          {
+            "company": "Novartis",
+            "relationship": "Consultancy"
+          },
+          {
+            "company": "Abbott",
+            "relationship": "Educational Grant for HCPs"
+          },
+          {
+            "company": "Edwards Lifesciences",
+            "relationship": "Educational Grant for HCPs"
+          },
+          {
+            "company": "Medtronic",
+            "relationship": "Educational Grant for HCPs"
+          },
+          {
+            "company": "Cryolife / Jotec",
+            "relationship": "Educational Grant for HCPs"
+          }
+        ],
+        "notes": "Payment from healthcare industry to department/institution for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc."
+      },
+      {
+        "name": "Fauchier Laurent",
+        "year": 2020,
+        "declaration_type": "Financial Declaration (Direct personal payment)",
+        "relationships": [
+          {
+            "company": "Bayer",
+            "relationship": "Healthcare (direct personal payment: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)"
+          },
+          {
+            "company": "Boehringer-Ingelheim",
+            "relationship": "Healthcare"
+          },
+          {
+            "company": "Medtronic",
+            "relationship": "Healthcare"
+          },
+          {
+            "company": "Novartis",
+            "relationship": "Healthcare"
+          },
+          {
+            "company": "BMS/Pfizer",
+            "relationship": "Healthcare"
+          },
+          {
+            "company": "XO",
+            "relationship": "Healthcare"
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

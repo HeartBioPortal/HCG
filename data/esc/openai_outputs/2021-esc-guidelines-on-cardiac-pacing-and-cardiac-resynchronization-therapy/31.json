@@ -1,0 +1,38 @@
+{
+  "content": {
+    "title": "2021 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy - Reviewers",
+    "note": "Declarations of interest reported to ESC for the year 2020 (call conducted during development period up to and including 2020).",
+    "date_on_page": "03/08/2021",
+    "columns": [
+      "Expert",
+      "Type of Relationship with Industry"
+    ],
+    "experts": [
+      {
+        "name": "Drossart Inga",
+        "year": 2020,
+        "declaration": "Nothing to be declared"
+      },
+      {
+        "name": "Ellenbogen Kenneth",
+        "year": 2020,
+        "declaration": "Financial Declaration. Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. - Biotronik: Lectures; - Abbott: Lectures, Honoraria, Medical Advisory Board; - Boston Scientific: Medical Advisory Board, DSMB, Lectures; - Medtronic: Medical Advisory Board, DSMB, Lectures. Research funding from healthcare industry under direct/personal responsibility: Boston Scientific: Pacing therapy; Medtronic: Pacing therapy."
+      },
+      {
+        "name": "Elliott Perry Mark",
+        "year": 2020,
+        "declaration": "Financial Declaration. Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. - AstraZeneca: Amyloidosis; - Genzyme Sanofi: Enzyme replacement therapy, Fabry disease; - MyoKardia: Hypertrophic Cardiomyopathy; - PeerVoice: Hypertrophic Cardiomyopathy; - Idorsia: Treatment for Fabry Disease; - Pfizer: Treatment for TTR amyloidosis."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "TTR",
+      "Associated Conditions": [
+        "TTR amyloidosis"
+      ],
+      "Occurrences": 1,
+      "context": "Mentioned explicitly under Elliott Perry Mark: 'Pfizer : Treatment for TTR amyloidosis'."
+    }
+  ]
+}

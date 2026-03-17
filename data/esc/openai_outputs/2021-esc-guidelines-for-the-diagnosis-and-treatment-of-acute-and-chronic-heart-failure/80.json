@@ -1,0 +1,63 @@
+{
+  "content": {
+    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
+    "organization": "European Society of Cardiology (ESC)",
+    "purpose": "Declarations of interest reported to the ESC by experts during the yearly call for declaration conducted every January covering the previous calendar year (calls for declaration up to and including 2020).",
+    "document_date": "03/08/2021 (footer)",
+    "reviewers": [
+      {
+        "name": "Senni Michele",
+        "year": 2020,
+        "declaration": [
+          "Boehringer-Ingelheim : CARDIOVASCULAR",
+          "Novartis : cardiovascular",
+          "Vifor International : cardiovascular",
+          "Merck Sharp & Dohme : cardiovascular",
+          "Bayer AG : Cardiovascular"
+        ]
+      },
+      {
+        "name": "Sepp Robert",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "declaration": [
+          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+          "Novartis : ARN inhibitors",
+          "Pharma Nord : coenzyme Q10",
+          "Takeda Pharmaceuticals : Fabry disease",
+          "Astra Zeneca : SGLT2 inhibitors",
+          "Boehringer-Ingelheim : SGLT2 inhibitors"
+        ]
+      },
+      {
+        "name": "Shlyakhto Evgeny",
+        "year": 2020,
+        "declaration": "Nothing to be declared"
+      },
+      {
+        "name": "Sitges Marta",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "declaration": [
+          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+          "Abbott : Heart Valve Disease",
+          "Edwards Lifesciences : Heart Valve Disease",
+          "Medtronic : Heart Valve Disease",
+          "Travel and meeting support from healthcare industry, independent of the above activities. - Abbott : Heart Valve Disease"
+        ]
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "SGLT2",
+      "Associated Conditions": [
+        "Heart failure",
+        "Cardiovascular disease",
+        "Therapeutic target (SGLT2 inhibitors listed by industry)"
+      ],
+      "Occurrences": 2,
+      "context": "Listed twice under Sepp Robert's 2020 financial declaration as 'Astra Zeneca : SGLT2 inhibitors' and 'Boehringer-Ingelheim : SGLT2 inhibitors' in the reviewers' declarations."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "content": {
+    "title": "2021 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy - Reviewers",
+    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year. Calls for declaration were conducted during development of these guidelines up to and including 2020.",
+    "footer_date": "03/08/2021",
+    "reviewers": [
+      {
+        "name": "Popov Sergey Valentinovich",
+        "year": 2020,
+        "declaration_type": "Nothing to be declared",
+        "details": ""
+      },
+      {
+        "name": "Prescott Eva",
+        "year": 2020,
+        "declaration_type": "Nothing to be declared",
+        "details": ""
+      },
+      {
+        "name": "Raatikainen Pekka",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "details": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.; Research funding from healthcare industry under direct/personal responsibility (to department or institution).",
+        "industry_relationships": [
+          {
+            "company": "Abbott",
+            "associated_condition": "Cardiac rhythm management"
+          },
+          {
+            "company": "Stereotaxis",
+            "associated_condition": "Cardiac rhythm management"
+          },
+          {
+            "company": "Biosense Webster",
+            "associated_condition": "Cardiac rhythm management"
+          },
+          {
+            "company": "Pfizer/BMS",
+            "associated_condition": "Oral anticoagulation"
+          },
+          {
+            "company": "Biosense Webster (research funding)",
+            "associated_condition": "Ventricular tachyarrhythmia ablation (unrestricted grant for international multicenter trial)"
+          }
+        ]
+      },
+      {
+        "name": "Rakisheva Amina",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "details": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+        "industry_relationships": [
+          {
+            "company": "Bayer",
+            "associated_condition": "Atrial Fibrillation"
+          },
+          {
+            "company": "Novartis",
+            "associated_condition": "Heart Failure"
+          }
+        ]
+      },
+      {
+        "name": "Reichlin Tobias",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "details": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
+        "industry_relationships": [
+          {
+            "company": "Medtronic",
+            "associated_condition": "Leadless Pacing & extravascular ICD"
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

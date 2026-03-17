@@ -1,0 +1,42 @@
+{
+  "content": {
+    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
+    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during development of these guidelines up to and including 2020.",
+    "date": "12/08/2021",
+    "experts": [
+      {
+        "name": "Burri Haran",
+        "year": 2020,
+        "declaration_type": "Financial Declaration",
+        "direct_personal_payments": [
+          "Boston Scientific : CIED consultancy",
+          "Abbott : CIED education",
+          "Medtronic : CIED education",
+          "Biotronik : CIED education"
+        ],
+        "research_funding_under_responsibility": [
+          "Abbott : CIED",
+          "Boston Scientific : CIED",
+          "Medtronic : CIED",
+          "Biotronik : CIED"
+        ]
+      },
+      {
+        "name": "Butler Javed",
+        "year": 2019,
+        "declaration_type": "Financial Declaration",
+        "direct_personal_payments": [
+          "Abbott : Heart failure",
+          "Amgen : Heart failure",
+          "Astra Zeneca : Heart failure",
+          "Bayer : Heart failure",
+          "Janssen-Cilag : Heart failure",
+          "Sanofi Aventis : Heart failure",
+          "Vifor International : Heart failure",
+          "Relypsa : Heart failure"
+        ]
+      }
+    ]
+  },
+  "genes": []
+}
