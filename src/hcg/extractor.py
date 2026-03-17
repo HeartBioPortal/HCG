@@ -10,7 +10,6 @@ from pathlib import Path
 from typing import Any, Optional, Sequence
 
 from openai import BadRequestError, OpenAI
-from pdf2image import convert_from_path
 from tqdm import tqdm
 
 from hcg.paths import DEFAULT_LOG_FILENAME
@@ -25,8 +24,6 @@ class GuidelinePageExtractor:
         model: str,
         sleep_seconds: float = 1.0,
         api_key: str | None = None,
-        organization: str | None = None,
-        project: str | None = None,
     ) -> None:
         self.pdf_dir = Path(pdf_dir)
         self.output_dir = Path(output_dir)
@@ -34,7 +31,7 @@ class GuidelinePageExtractor:
         self.model = model
         self.sleep_seconds = sleep_seconds
         self.logger = self._configure_logger()
-        self.client = OpenAI(api_key=api_key, organization=organization, project=project)
+        self.client = OpenAI(api_key=api_key)
 
     def _configure_logger(self) -> logging.Logger:
         logger = logging.getLogger(f"hcg.extractor.{self.output_dir}")
@@ -42,9 +39,16 @@ class GuidelinePageExtractor:
             return logger
 
         logger.setLevel(logging.INFO)
-        handler = logging.FileHandler(self.output_dir / DEFAULT_LOG_FILENAME)
-        handler.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(message)s"))
-        logger.addHandler(handler)
+        formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
+
+        file_handler = logging.FileHandler(self.output_dir / DEFAULT_LOG_FILENAME)
+        file_handler.setFormatter(formatter)
+        logger.addHandler(file_handler)
+
+        stream_handler = logging.StreamHandler()
+        stream_handler.setFormatter(formatter)
+        logger.addHandler(stream_handler)
+
         logger.propagate = False
         return logger
 
@@ -83,6 +87,8 @@ class GuidelinePageExtractor:
         pages: Optional[Sequence[int]] = None,
     ) -> list[tuple[int, tempfile.NamedTemporaryFile]]:
         try:
+            from pdf2image import convert_from_path
+
             temp_files: list[tuple[int, tempfile.NamedTemporaryFile]] = []
             if pages:
                 for page_number in pages:
@@ -233,7 +239,7 @@ class GuidelinePageExtractor:
                 if page_number > last_processed_page
             ]
 
-        with tqdm(total=len(temp_files)) as progress_bar:
+        with tqdm(total=len(temp_files), desc=pdf_path.stem[:40], unit="page") as progress_bar:
             for page_number, temp_file in temp_files:
                 try:
                     page_output_path = pdf_output_dir / f"{page_number}.json"
@@ -251,28 +257,42 @@ class GuidelinePageExtractor:
                 finally:
                     os.unlink(temp_file.name)
 
+    def iter_pdf_paths(self) -> list[Path]:
+        return sorted(
+            (path for path in self.pdf_dir.rglob("*.pdf") if path.is_file()),
+            key=lambda path: str(path).lower(),
+        )
+
+    def process_pdf_paths(
+        self,
+        pdf_paths: Sequence[Path],
+        *,
+        rerun_error_pages: bool = False,
+    ) -> None:
+        for pdf_path in pdf_paths:
+            pdf_path = Path(pdf_path)
+            if not pdf_path.exists():
+                self.logger.warning("Skipping missing PDF path: %s", pdf_path)
+                continue
+            try:
+                if rerun_error_pages:
+                    pdf_output_dir = self.get_pdf_output_dir(pdf_path)
+                    error_pages = self.find_error_pages(pdf_output_dir)
+                    if not error_pages:
+                        continue
+                    self.logger.info("Reprocessing error pages for %s: %s", pdf_path, error_pages)
+                    self.process_single_pdf(
+                        pdf_path,
+                        selected_pages=error_pages,
+                        overwrite_existing=True,
+                    )
+                else:
+                    self.process_single_pdf(pdf_path)
+            except Exception as exc:
+                self.logger.error("Failed to process %s: %s", pdf_path, exc)
+
     def process_all_pdfs(self, rerun_error_pages: bool = False) -> None:
-        for root, _, files in os.walk(self.pdf_dir):
-            for file_name in files:
-                if not file_name.lower().endswith(".pdf"):
-                    continue
-                pdf_path = Path(root) / file_name
-                try:
-                    if rerun_error_pages:
-                        pdf_output_dir = self.get_pdf_output_dir(pdf_path)
-                        error_pages = self.find_error_pages(pdf_output_dir)
-                        if not error_pages:
-                            continue
-                        self.logger.info("Reprocessing error pages for %s: %s", pdf_path, error_pages)
-                        self.process_single_pdf(
-                            pdf_path,
-                            selected_pages=error_pages,
-                            overwrite_existing=True,
-                        )
-                    else:
-                        self.process_single_pdf(pdf_path)
-                except Exception as exc:
-                    self.logger.error("Failed to process %s: %s", pdf_path, exc)
+        self.process_pdf_paths(self.iter_pdf_paths(), rerun_error_pages=rerun_error_pages)
 
     def aggregate_outputs(self) -> dict[str, dict[str, Any]]:
         all_results: dict[str, dict[str, Any]] = {}

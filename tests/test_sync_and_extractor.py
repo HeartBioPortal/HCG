@@ -1,0 +1,186 @@
+from __future__ import annotations
+
+import json
+import tempfile
+from pathlib import Path
+
+import hcg.scraper.esc as esc_module
+import hcg.sync as sync_module
+from hcg.extractor import GuidelinePageExtractor
+from hcg.paths import DatasetPaths
+from hcg.scraper.esc import EscGuidelineScraper
+from hcg.scraper.models import DownloadRecord, GuidelineCandidate, ScrapeResult
+from hcg.scraper.utils import slugify
+
+
+def make_dataset_paths(tmp_path: Path, name: str) -> DatasetPaths:
+    root = tmp_path / name
+    return DatasetPaths(
+        name=name,
+        root_dir=root,
+        source_pdf_dir=root / "source_pdfs",
+        raw_output_dir=root / "openai_outputs",
+        scraper_manifest_path=root / "scraper_manifest.json",
+        scraper_log_path=root / "scraper.log",
+    )
+
+
+def test_esc_scraper_does_not_redownload_existing_pdf(tmp_path, monkeypatch) -> None:
+    paths = make_dataset_paths(tmp_path, "esc")
+    paths.ensure_directories()
+    title = "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure"
+    slug = slugify(title)
+    pdf_path = paths.source_pdf_dir / slug / f"{slug}.pdf"
+    pdf_path.parent.mkdir(parents=True, exist_ok=True)
+    pdf_path.write_bytes(b"%PDF-1.4")
+
+    candidate = GuidelineCandidate(
+        dataset="esc",
+        title=title,
+        landing_url="https://www.escardio.org/guideline-detail",
+        download_url="https://files.example.org/doc.pdf",
+    )
+
+    monkeypatch.setattr(EscGuidelineScraper, "discover", lambda self: [candidate])
+
+    def fail_download(*args, **kwargs):
+        raise AssertionError("download_file should not be called for an existing PDF")
+
+    monkeypatch.setattr(esc_module, "download_file", fail_download)
+
+    result = EscGuidelineScraper(paths, limit=1).scrape()
+
+    assert len(result.records) == 1
+    assert result.records[0].status == "existing"
+    assert result.records[0].pdf_path == pdf_path
+
+
+def test_process_single_pdf_writes_readable_non_error_json(tmp_path, monkeypatch) -> None:
+    pdf_dir = tmp_path / "pdfs"
+    pdf_dir.mkdir()
+    pdf_path = pdf_dir / "demo.pdf"
+    pdf_path.write_bytes(b"%PDF-1.4")
+    output_dir = tmp_path / "outputs"
+    page_lookup: dict[str, int] = {}
+
+    def fake_convert_pdf_to_images(self, pdf_path: Path, pages=None):
+        page_numbers = [1, 2] if pages is None else list(pages)
+        temp_files = []
+        for page_number in page_numbers:
+            handle = tempfile.NamedTemporaryFile(suffix=".png", delete=False)
+            handle.write(b"fake image")
+            handle.close()
+            page_lookup[handle.name] = page_number
+            temp_files.append((page_number, handle))
+        return temp_files
+
+    def fake_analyze_image(self, image_path: Path):
+        page_number = page_lookup[str(image_path)]
+        return {
+            "content": {"page_number": page_number, "status": "ok"},
+            "genes": [
+                {
+                    "Gene": f"GENE{page_number}",
+                    "Occurrences": 1,
+                    "Associated Conditions": ["Condition"],
+                    "context": [f"Page {page_number}"],
+                }
+            ],
+        }
+
+    monkeypatch.setattr(GuidelinePageExtractor, "convert_pdf_to_images", fake_convert_pdf_to_images)
+    monkeypatch.setattr(GuidelinePageExtractor, "analyze_image", fake_analyze_image)
+
+    extractor = GuidelinePageExtractor(
+        pdf_dir=pdf_dir,
+        output_dir=output_dir,
+        model="gpt-5-mini",
+        api_key="test-key",
+    )
+    extractor.process_single_pdf(pdf_path)
+    extractor.aggregate_outputs()
+
+    page_one = json.loads((output_dir / "demo" / "1.json").read_text(encoding="utf-8"))
+    page_two = json.loads((output_dir / "demo" / "2.json").read_text(encoding="utf-8"))
+    aggregated = json.loads((output_dir / "demo_aggregated.json").read_text(encoding="utf-8"))
+
+    assert page_one["content"]["status"] == "ok"
+    assert "error" not in page_one["content"]
+    assert page_two["content"]["page_number"] == 2
+    assert len(aggregated["content"]) == 2
+    assert [gene["Gene"] for gene in aggregated["genes"]] == ["GENE1", "GENE2"]
+
+
+def test_sync_extracts_existing_pdf_without_redownloading(tmp_path, monkeypatch) -> None:
+    paths = make_dataset_paths(tmp_path, "esc")
+    paths.ensure_directories()
+    title = "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure"
+    slug = slugify(title)
+    pdf_path = paths.source_pdf_dir / slug / f"{slug}.pdf"
+    pdf_path.parent.mkdir(parents=True, exist_ok=True)
+    pdf_path.write_bytes(b"%PDF-1.4")
+
+    scrape_result = ScrapeResult(
+        dataset="esc",
+        records=[
+            DownloadRecord(
+                candidate=GuidelineCandidate(
+                    dataset="esc",
+                    title=title,
+                    landing_url="https://www.escardio.org/guideline-detail",
+                    download_url="https://files.example.org/doc.pdf",
+                ),
+                status="existing",
+                pdf_path=pdf_path,
+            )
+        ],
+        manifest_path=paths.scraper_manifest_path,
+    )
+
+    monkeypatch.setattr(sync_module, "run_scrapers", lambda *args, **kwargs: {"esc": scrape_result})
+    monkeypatch.setattr(sync_module, "get_dataset_paths", lambda dataset: paths)
+
+    recorded: dict[str, object] = {}
+
+    class FakeExtractor:
+        def __init__(self, *, pdf_dir, output_dir, model, sleep_seconds, api_key) -> None:
+            recorded["init"] = {
+                "pdf_dir": pdf_dir,
+                "output_dir": output_dir,
+                "model": model,
+                "sleep_seconds": sleep_seconds,
+                "api_key": api_key,
+            }
+            self.output_dir = output_dir
+
+        def process_pdf_paths(self, pdf_paths) -> None:
+            recorded["pdf_paths"] = list(pdf_paths)
+            pdf_output_dir = self.output_dir / pdf_path.stem
+            pdf_output_dir.mkdir(parents=True, exist_ok=True)
+            (pdf_output_dir / "1.json").write_text(
+                json.dumps({"content": {"status": "ok"}, "genes": []}),
+                encoding="utf-8",
+            )
+
+        def aggregate_outputs(self) -> None:
+            (self.output_dir / f"{pdf_path.stem}_aggregated.json").write_text(
+                json.dumps({"content": [{"content": {"status": "ok"}, "genes": []}], "genes": []}),
+                encoding="utf-8",
+            )
+
+    monkeypatch.setattr(sync_module, "GuidelinePageExtractor", FakeExtractor)
+
+    results = sync_module.sync_datasets(
+        ["esc"],
+        model="gpt-5-mini",
+        sleep_seconds=0.0,
+        api_key="test-key",
+        headless=True,
+        timeout_seconds=1.0,
+    )
+
+    assert recorded["pdf_paths"] == [pdf_path]
+    assert results["esc"].extracted_pdfs == [pdf_path]
+    assert json.loads((paths.raw_output_dir / f"{pdf_path.stem}_aggregated.json").read_text(encoding="utf-8"))[
+        "content"
+    ][0]["content"]["status"] == "ok"

@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "hcg"
-version = "0.1.0"
+version = "0.2.0"
 description = "Heart Clinical Guideline extraction and release tooling for HeartBioPortal."
 readme = "README.md"
 requires-python = ">=3.12"
@@ -13,8 +13,11 @@ authors = [
   {name = "HeartBioPortal"}
 ]
 dependencies = [
+  "beautifulsoup4>=4.12.0",
   "openai>=1.69.0",
   "pdf2image>=1.17.0",
+  "playwright>=1.52.0",
+  "requests>=2.32.0",
   "tqdm>=4.66.0",
 ]
 
@@ -35,3 +38,4 @@ where = ["src"]
 [tool.pytest.ini_options]
 pythonpath = ["src"]
 testpaths = ["tests"]
+asyncio_default_fixture_loop_scope = "function"
