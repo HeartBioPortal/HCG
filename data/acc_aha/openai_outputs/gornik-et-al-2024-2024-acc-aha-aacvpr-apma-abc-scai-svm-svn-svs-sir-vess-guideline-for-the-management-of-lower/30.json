@@ -1,0 +1,13 @@
+{
+  "content": {
+    "therapy": "Antiplatelet therapy for PAD patients undergoing revascularization if they are not at high bleeding risk. ACC guidelines focus on anticoagulation for coronary interventions.",
+    "asymptomatic PAD": "Patients with asymptomatic PAD are at increased risk of MACE. Clinical trials like CLIPS examined aspirin's effect but were underpowered.",
+    "trials": [
+      "PEGAUS-TIMI 54",
+      "TRA 2P-TIMI 50",
+      "WAVE"
+    ],
+    "Vorapaxar": "An antiplatelet agent shown to lower MALE risk but can increase bleeding risk. It's contraindicated in patients with a stroke history."
+  },
+  "genes": []
+}

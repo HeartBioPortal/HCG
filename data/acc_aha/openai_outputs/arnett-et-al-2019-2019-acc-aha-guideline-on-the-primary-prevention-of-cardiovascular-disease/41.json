@@ -1,0 +1,24 @@
+{
+  "content": {
+    "Title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+    "Purpose": "To provide guidelines on the prevention of cardiovascular diseases with a focus on areas such as high blood pressure, smoking cessation, and obesity.",
+    "Key Points": [
+      "High blood pressure management highlights the importance of lifestyle interventions along with medication.",
+      "Smoking cessation is emphasized with interventions specifically targeting different demographics (e.g., pregnant women and children).",
+      "Evaluation of the benefits and risks of various interventions in lifestyle and clinical settings is essential for tailored prevention."
+    ],
+    "Referenced Studies": [
+      {
+        "Title": "Effects of intensive blood-pressure control in type 2 diabetes",
+        "Journal": "N Engl J Med. 2008;358:2545-59.",
+        "Findings": "Focused on the balance of risks and benefits of tight blood pressure control in diabetic patients."
+      },
+      {
+        "Title": "Effect of intensive blood pressure treatment on myocardial infarction and stroke",
+        "Journal": "Ann Intern Med. 2015;162:202-11.",
+        "Findings": "Meta-analysis examining the benefits of reducing blood pressure to prevent myocardial infarction and stroke."
+      }
+    ]
+  },
+  "genes": []
+}

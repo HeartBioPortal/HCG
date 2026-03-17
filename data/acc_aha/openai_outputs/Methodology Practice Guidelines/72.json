@@ -1,0 +1,55 @@
+{
+  "content": {
+    "Web Resources": [
+      {
+        "Name": "The Centre for Evidence-Based Medicine, University Health Network",
+        "Website": "http://www.cebm.utoronto.ca/",
+        "Resources": [
+          {
+            "Type": "Stats calculator",
+            "Link": "http://www.cebm.utoronto.ca/practise/ca/statscal/"
+          },
+          {
+            "Type": "Online resource center",
+            "Link": "http://www.cebm.utoronto.ca/resources/websites.htm"
+          }
+        ]
+      },
+      {
+        "Name": "The Evidence-Based Resource Center",
+        "Website": "http://www.ebmny.org/thecentr2.html",
+        "Resources": [
+          {
+            "Type": "Evidence-based medicine calculator",
+            "Link": "http://www.cebm.utoronto.ca/palm/embcalc/"
+          },
+          {
+            "Type": "Stats calculator",
+            "Link": "http://www.cebm.utoronto.ca/practise/ca/statscal/"
+          },
+          {
+            "Type": "Software for critically appraised topics",
+            "Link": "http://www.cebmh.com/"
+          }
+        ]
+      }
+    ],
+    "References": [
+      {
+        "Authors": "Antman EM, Califf RM, Kupersmith J",
+        "Title": "Tools for assessment of cardiovascular tests and therapies",
+        "In": "Antman EM, editor. Cardiovascular Therapeutics: A Companion to Braunwald\u2019s Heart Disease",
+        "Edition": "Third edition",
+        "Publisher": "Philadelphia: Elsevier Saunders",
+        "Year": 2007
+      },
+      {
+        "Authors": "Nicol AAM, Pexman PM",
+        "Title": "Presenting your findings: a practical guide for creating tables",
+        "Publisher": "Washington, DC: American Psychological Association",
+        "Year": 1999
+      }
+    ]
+  },
+  "genes": []
+}

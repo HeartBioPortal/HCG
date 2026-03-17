@@ -1,0 +1,293 @@
+{
+  "content": [
+    {
+      "content": {
+        "Title": "ACC/AHA Statement on Cost/Value Methodology in Clinical Practice Guidelines and Performance Measures",
+        "Source": "Journal of the American College of Cardiology",
+        "Publication Info": "2014 by the American College of Cardiology Foundation and the American Heart Association, Inc.",
+        "Overview": "This document provides guidelines on cost/value methodology in clinical practice and performance measures related to cardiology."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Executive Summary": "Traditionally, resource utilization and value considerations have been excluded from practice guidelines and performance measures formulations. With accelerating healthcare costs and the desire to achieve the best value, there is now a need for explicit assessment of healthcare value. Resource utilization as an outcome is challenging due to inadequate evidence and variable costs. Transparent assessment starts with understanding economic concepts and methodologies."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "need_for_transparency": "The document emphasizes the need for greater transparency and utility in addressing resource issues, advocating for cost-effectiveness/value assessments.",
+        "value_and_resource_utilization": "The distinction between 'value' and 'resource utilization' is highlighted over 'cost', with targeted guidelines recommended for initial resource use evaluations.",
+        "literature_search": "A thorough, independent literature search and consistent methodology should be employed to assess quality and potential bias.",
+        "evidence_synthesis": "The evidence base should be synthesized to provide an overall value classification with supporting evidence.",
+        "value_categories": "High, intermediate, and low value categories are defined, supplemented with level/quality of evidence.",
+        "performance_measures": "Class I recommendations of low value should not be performance measures. Regular updates of guidelines are critical when value determinations are included.",
+        "methodology_and_inconsistencies": "The report stresses value as one of several considerations, acknowledging possible discordance between value and evidence levels due to methodological and contextual factors."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Reviewed By": "Task forces and writing committee members",
+        "Review Transparency": "Disclosure information for relationships not relevant to the present document is available online.",
+        "Work Support": "Exclusively by the American College of Cardiology (ACC) and the American Heart Association (AHA).",
+        "Guideline Objective": "Improve care of patients with cardiovascular disease through evidence-based practice guidelines.",
+        "Cost Inclusion in Guidelines": "Increasing need to include cost considerations explicitly in guidelines.",
+        "ACC/AHA Historical Guidelines": "First issued in 1984 addressing pacemakers due to concerns over utilization.",
+        "Healthcare Spending Growth": "U.S. healthcare spending has grown faster than the economy over the past 40 years.",
+        "Medicare Expenditure": "Significant contributor to federal budget deficits."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "National Health Spending": "The graph illustrates the increase in U.S. health spending from 1997 to 2010, both in terms of GDP percentage and per capita spending. Health expenditures have risen significantly over the years.",
+        "Variation in Care": "There is a significant regional variation in medical care use in the U.S., which doesn't always correlate with health outcomes. This variation is influenced by differences in practice rates, Medicare rates, poverty levels, illnesses, and patient acuity.",
+        "Value in Healthcare": "Value in healthcare is defined by improved outcomes, safety, and patient satisfaction at a reasonable cost. High value care includes positive results and affordability, whereas low value care includes unnecessary, costly interventions. The emphasis is on achieving high-value care without excessive spending.",
+        "Fee-for-Service System": "The fee-for-service system promotes more procedures, not necessarily of higher value. The ACC/AHA guidelines aim to include cost-effectiveness to improve care value and guard against unintended consequences of reimbursement models.",
+        "Clinical Example": "A study compared strategies of exercise treadmill testing vs. exercise myocardial perfusion imaging for patients with chest pain. The imaging was found to be more cost-effective, emphasizing the need for value-based care."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "ACC/AHA Cost/Value Methodology in Guidelines and Performance Measures",
+        "Sections": [
+          {
+            "Title": "Reasons to Consider Resource Utilization and Value in Recommendations for Guidelines and Performance Measures",
+            "Content": "Emphasizes comprehensive analysis of clinical data to improve patient care while optimizing outcomes without ignoring costs. Highlights healthcare economic pressures on clinicians and patients, pointing out that many bankruptcies stem from medical bills. The importance of training healthcare professionals on cost-effectiveness and its integration into guidelines is underscored."
+          },
+          {
+            "Title": "Arguments in Favor of Incorporating Resource and Value Considerations",
+            "Content": "Discusses economic evaluations to help clinicians make informed decisions balancing resource consumption and patient benefit. It promotes comprehensive and evidence-based approaches rather than assuming unlimited resources."
+          },
+          {
+            "Title": "Limitations, Challenges, and Arguments Against Incorporating Resource and Value Considerations",
+            "Content": "Barriers include unwillingness to acknowledge resource limitations, differences in cost-effectiveness across locations, and external factors affecting resource costs. Highlights challenges in integrating long-term costs and the importance of identified approaches to overcome these barriers."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "national consensus": "No national consensus on role of cost-effectiveness in healthcare decision making.",
+        "use of data": "High-quality economic information is needed for recommendations.",
+        "cost-effectiveness": "Current efforts are limited, with hope for future comprehensive analysis.",
+        "focus": "Value of procedures and therapies, interdisciplinary care teams, and reimbursement models.",
+        "special considerations": "Issues with assessing cost-effectiveness due to lack of data.",
+        "objective": "To supplement safety and efficacy with resource considerations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "4.3. Societal Perspective": "The principle that all costs associated with a medical intervention or program should be counted is important. This includes costs borne by patients, providers, and payers. It reinforces that shifting costs does not save money, only redistributes it.",
+        "4.4. Initial and Subsequent Costs": "Considers both initial and long-term economic effects. Future costs should be considered alongside clinical events. For chronic diseases, a life-long study horizon may be needed.",
+        "4.5. Patient-Centered Outcomes and Quality-Adjusted Life Years (QALYs)": "Emphasis on using patient-centered outcomes to evaluate benefits. QALYs are used to compare interventions across diseases using a common measure.",
+        "4.6. Incremental Cost-Effectiveness Ratio (ICER)": "A comparison strategy of a new intervention against an alternative. It is calculated using the cost and QALYs generated by both interventions.",
+        "4.7. Use of Cost-Effectiveness Analysis in Healthcare Decision Making": "Highlights the judgment needed to assess whether a medical program produces sufficient improvement in outcomes. In the U.S., dialysis is cited as a benchmark for cost-effectiveness."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "economic_analysis": "The guidelines discuss the cost-effectiveness of medical interventions, citing the WHO's threshold for cost-effectiveness at three times the GDP per capita. The document notes the inherent uncertainty in cost-effectiveness assessment and highlights the complexity involved in economic analysis. There is a recommendation to use standardized tools like the Quality of Health Economic Studies instrument for evaluating cost-effectiveness."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Table 1. Quality of Health Economic Studies Instrument",
+        "main points": [
+          "A quality checklist for health economic studies with 16 specific questions.",
+          "Each question has specified points for adherence, contributing to a total of 100 points.",
+          "Questions cover various aspects such as study objectives, perspective, data analysis, uncertainty management, costs measurement, and more.",
+          "Recommendations are made for value assessment in guidelines and performance measures.",
+          "The ACC/AHA employs a hierarchical grading system to evaluate diagnostic and treatment approaches.",
+          "Guidance is based on ranges from randomized clinical trial data and expert consensus.",
+          "Emphasized the need for assessment of value where data is available and reliable."
+        ],
+        "additional context": {
+          "Limitations": "Despite limitations, cost-effectiveness studies are increasing in both number and quality.",
+          "Improvements": "More than 1,400 original cost-effectiveness studies have been published since 2006."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "overview": "The guideline discusses the implementation of value assessments in clinical guideline recommendations, particularly for Class I and III recommendations. It highlights the importance of including cost-effectiveness analysis in the evaluation process of clinical interventions. The document suggests integrating cost-effectiveness and healthcare value into the development process may be resource-intensive but necessary for efficient use of resources.",
+        "proposed changes": "The writing committee suggests expanding evidence search to include economic data, emphasizing the importance of a clear and objective process when evaluating cost-effectiveness studies.",
+        "table_description": "Table 2 outlines the proposed integration of levels of value into clinical guideline recommendations. Levels are categorized as High, Intermediate, Low, Uncertain, and Not Assessed based on cost-effectiveness thresholds from WHO-CHOICE data.",
+        "evaluation": "The guideline recommends that systematic and objective approaches should be used for evaluating cost-effectiveness studies, potentially by delegating this task to specialized committees."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "systematic review": "The guidelines emphasize the importance of evaluating the quality and reproducibility of cost-effectiveness studies using consistent and objective methods.",
+        "cost-effectiveness": "Systematic reviews of cost-effectiveness analyses should focus on societal perspectives and may differ from patient-level recommendations.",
+        "value recommendations": "These should be limited to assessments in the US or North America to avoid confusion.",
+        "clinical judgement": "The level of value (LOV) serves as a tiebreaker when prescriptive requirements are absent.",
+        "patient care": "Discussions among patient representatives endorse objective assessments in healthcare use.",
+        "performance measures": "These are crucial for improving care quality and need to be clear, reliable, and applicable in clinical practice."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary": "The document discusses the importance of considering the cost-effectiveness and total cost burden of potential performance measures before their selection in healthcare. It acknowledges the challenges in calculating cost-effectiveness ratios and recommends empirical evaluation as part of guideline recommendations. Future directions focus on refining cost-effectiveness assessments and the impact of value assessments in improving quality and lifespan benefits.",
+        "Future Directions": "Emphasizes the need for high-quality cost-effectiveness data and the incorporation of value assessments into guidelines and performance measures."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "ACC/AHA Cost/Value Methodology in Guidelines and Performance Measures",
+        "Publication": "JACC Vol. 63, No. 21, 2014",
+        "Date": "June 3, 2014:2304-22",
+        "Summary": "The document discusses the incorporation of cost/value measures in performance measures and guidelines, emphasizing the importance of addressing cost-effectiveness and value in healthcare policy and practice. It highlights the role of various stakeholders and experts in creating and implementing these measures.",
+        "References": [
+          "Spruetz JA, Bonow RO, et al. J Am Coll Cardiol 2010;56:1767-82.",
+          "Schwartz JA, Pearson SD. JAMA Intern Med 2013;173:1097-7.",
+          "Leavitt MO. U.S. House of Representatives. 2005.",
+          "National Institute for Health Care Management. 2012.",
+          "Centers for Medicare and Medicaid Services. 2012.",
+          "National Research Council. 2013.",
+          "Matlock DD, Groeneveld PW, et al. JAMA 2013;310:155-62.",
+          "Heidenreich PA, Trogdon JG, et al. Circulation 2011;124:2143-9.",
+          "Shaw LJ, Mieres JH, et al. Circulation 2011;124:1239-49.",
+          "Himmelstein DU, Thorne D, Warren E, et al. Am J Med 2009.",
+          "Rosenbaum L, Lamas D. N Engl J Med 2012;367:99-101.",
+          "Matchar DB, Samsa GP. Int Comm J Qual Improv 1999;25:522-8.",
+          "Neumann PJ. Am J Manag Care 2004;10:308-12.",
+          "Matchar DB, Mark DB. Chest 2008;133 Suppl 6:132-40S."
+        ],
+        "Staff": [
+          {
+            "Organization": "American College of Cardiology",
+            "Members": [
+              "John Gordon Harold, MD, MACC, President",
+              "Shal Jacobovitz, Chief Executive Officer",
+              "William Oetgen, MD, MBA, FACC, FAAP, Senior Vice President",
+              "Charlene May, Senior Director",
+              "Melanie Shahriary, RN, BSN, Director"
+            ]
+          },
+          {
+            "Organization": "American College of Cardiology/American Heart Association",
+            "Members": [
+              "Lisa Bradfield, CAE, Director",
+              "Ezaldeen Ramadhan III, Senior Specialist",
+              "Naira Tahir, MPH, Specialist"
+            ]
+          },
+          {
+            "Organization": "American Heart Association",
+            "Members": [
+              "Mariell Jessup, MD, FACC, FAHA, President",
+              "Nancy Brown, Chief Executive Officer",
+              "Rose Marie Robertson, MD, FAHA, Chief Science Officer",
+              "Gayle R. Whitman, PhD, RN, FAHA, FAAN, Senior Vice President",
+              "Melanie B. Turner, MPH, Science and Medicine Advisor"
+            ]
+          },
+          {
+            "Organization": "American Medical Association \u2013 Physician Consortium for Performance Improvement",
+            "Members": [
+              "Greg Wozniak, PhD, Director"
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "References": [
+          "Cost-effectiveness analysis methodologies and guidelines by various authors.",
+          "Review and systematic evaluation of economic evaluations in healthcare over several decades.",
+          "Methodological quality assessments of cost-effectiveness studies."
+        ],
+        "Key Areas Discussed": [
+          "Economic evaluations and their application in healthcare decision-making.",
+          "Methodological issues and quality indicators in cost-effectiveness literature.",
+          "Comparison of different instruments for evaluating surgical treatments."
+        ],
+        "Key Words": [
+          "ACC/AHA guidelines",
+          "cost",
+          "quality indicators",
+          "quality measurement"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "classification": {
+          "class_I": "Benefit >>> Risk. Procedure/treatment should be performed/administered.",
+          "class_IIa": "Benefit >> Risk. Additional studies with focused objectives needed. It is reasonable to perform procedure/administer treatment.",
+          "class_IIb": "Benefit \u2265 Risk. Additional studies with broad objectives needed. Additional registry data would be helpful. Procedure/treatment may be considered.",
+          "class_III_no_benefit": "No benefit. Procedure or treatment not useful/effective.",
+          "class_III_harm": "Harm. Procedure or treatment potentially harmful."
+        },
+        "level_of_evidence": {
+          "level_A": "Data derived from multiple randomized clinical trials or meta-analyses.",
+          "level_B": "Data derived from a single randomized trial or nonrandomized studies.",
+          "level_C": "Only consensus opinion of experts, case studies, or standard of care."
+        },
+        "recommendation_phrases": [
+          "is recommended",
+          "is indicated",
+          "can be useful/effective/beneficial",
+          "is probably recommended or indicated"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Appendix 2. Author Relationships With Industry and Other Entities (Relevant)\u2014ACC/AHA Statement on Cost/Value Methodology in Clinical Practice Guidelines and Performance Measures",
+        "description": "This table represents the relationships of committee members with industry and other entities relevant to the document. Relationships include consultancies, speaker roles, ownership interests, personal research, and expert witness roles.",
+        "key_points": [
+          "The table lists committee members, their employers/titles, and any relevant financial relationships with industry.",
+          "All listed relationships for the committee members in categories like consultancy, speaking, ownership, and research show 'None'.",
+          "The document emphasizes no financial interests impacting the committee's input on clinical guidelines."
+        ],
+        "note": "The table highlights transparency and the absence of conflicts of interest among committee members according to ACC/AHA policies."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Reviewer Relationships With Industry and Other Entities (Relevant)\u2014ACC/AHA Statement on Cost/Value Methodology in Clinical Practice Guidelines and Performance Measures",
+        "Authors": [
+          "Anderson et al."
+        ],
+        "Publication": "JACC Vol. 63, No. 21, 2014, June 3, 2014:2304\u201322",
+        "Information": "This table represents the relationships of reviewers with industry and other entities at the time of peer review. All listed have no relevant financial interests, indicated by 'None' across Consultant, Speaker, Ownership/Partnership/Principal, Research, Institutional, Organizational, or Other Financial Benefit, and Expert Witness categories. The note states that a person is deemed to have a significant interest if it represents ownership interest of >5% or if funds received exceed 5% of a person\u2019s gross income for the previous year. It emphasizes transparency by listing relationships that engage no financial benefit as well. The document is useful for understanding potential biases in clinical practice guidelines."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "abbreviations": {
+          "COR": "Class of Recommendation",
+          "GDP": "gross domestic product",
+          "ICER": "incremental cost-effectiveness ratio",
+          "LOE": "Level of Evidence",
+          "LOV": "level of value",
+          "QALY": "quality-adjusted life-year",
+          "QHES": "Quality of Health Economic Studies",
+          "TFPM": "ACC/AHA Task Force on Performance Measures",
+          "WHO": "World Health Organization"
+        }
+      },
+      "genes": []
+    }
+  ],
+  "genes": []
+}

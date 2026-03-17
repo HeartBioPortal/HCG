@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Recommendations for Acquired Atrioventricular Block in Adults": [
+      {
+        "Class": "I",
+        "Recommendation": "Permanent pacemaker implantation is indicated for third-degree and advanced second-degree AV block at any anatomic level associated with bradycardia with symptoms (including heart failure) or ventricular arrhythmias presumed to be due to AV block.",
+        "Level of Evidence": "C"
+      },
+      {
+        "Class": "I",
+        "Recommendation": "Permanent pacemaker implantation is indicated for third-degree and advanced second-degree AV block at any anatomic level associated with arrhythmias and other medical conditions that require drug therapy that results in symptomatic bradycardia.",
+        "Level of Evidence": "C"
+      },
+      {
+        "Class": "I",
+        "Recommendation": "Permanent pacemaker implantation is indicated for third-degree and advanced second-degree AV block at any anatomic level in awake, symptom-free patients in sinus rhythm, with documented periods of asystole greater than or equal to 3.0 seconds (65) or an escape rate less than 40 bpm, or with an escape rhythm that is below the AV node.",
+        "Level of Evidence": "C"
+      },
+      {
+        "Class": "I",
+        "Recommendation": "Permanent pacemaker implantation is indicated for third-degree and advanced second-degree AV block at any anatomic level in awake, symptom-free patients with AF and bradycardia with 1 or more pauses of at least 5 seconds or longer.",
+        "Level of Evidence": "C"
+      }
+    ],
+    "Clinical Information": "The document discusses the management of first-degree AV block, mentioning complications such as atrial contraction occurring before ventricular filling, potential pulmonary capillary wedge pressure issues, and decrements in cardiac output. It highlights studies suggesting symptomatic improvement through pacemaker therapy. Details are provided regarding pacemaker implantation comprehensively across different AV block types targeting specific symptoms or anatomical locations."
+  },
+  "genes": []
+}

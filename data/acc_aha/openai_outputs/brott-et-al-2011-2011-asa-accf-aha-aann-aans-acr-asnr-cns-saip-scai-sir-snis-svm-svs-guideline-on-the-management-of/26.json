@@ -1,0 +1,22 @@
+{
+  "content": {
+    "guideline_table": "American Heart Association/American Stroke Association Guidelines for Antithrombotic Therapy in Patients with Ischemic Stroke of Noncardioembolic Origin (Secondary Prevention)",
+    "antiplatelet_agents": "Initial treatment with aspirin (50\u2013325 mg/d) alone is recommended, or the combination of aspirin and extended-release dipyridamole, or clopidogrel.",
+    "combinations": "Combination of aspirin and extended-release dipyridamole is recommended over aspirin alone.",
+    "clopidogrel": "May be considered instead of aspirin in patients hypersensitive to aspirin.",
+    "aspirin_and_clopidogrel": "Addition of aspirin to clopidogrel increases the risk of hemorrhage.",
+    "clinical_notes": [
+      "For prevention of thromboembolic ischemic events, antiplatelet drugs reduce risk.",
+      "In patients with atherosclerosis of extracranial carotid or vertebral arteries, aspirin is contradindicated by bleeding; clopidogrel is a reasonable alternative.",
+      "Full-intensity parenteral anticoagulation not recommended for patients with extracranial cerebrovascular atherosclerosis.",
+      "Clopidogrel with aspirin not recommended within 3 months after stroke or TIA."
+    ],
+    "studies": [
+      "Asymptomatic Carotid Bruit Study: No benefit demonstrated of platelet-inhibitor drugs for prevention of stroke.",
+      "Veterans Affairs Cooperative Study: Some events suggest aspirin may not significantly work in low sample sizes.",
+      "ESPS-2 Study: 25 mg aspirin twice daily may be better in selected patients.",
+      "PROFESS Study: No significant observations recorded different from previous clopidogrel studies."
+    ]
+  },
+  "genes": []
+}

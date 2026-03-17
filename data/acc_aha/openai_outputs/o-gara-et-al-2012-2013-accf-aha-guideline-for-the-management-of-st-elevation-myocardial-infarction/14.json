@@ -1,0 +1,34 @@
+{
+  "content": {
+    "main_topics": [
+      "Use of stents in primary PCI for patients with STEMI.",
+      "Manual aspiration thrombectomy in primary PCI.",
+      "Adjunctive antithrombotic therapy for primary PCI."
+    ],
+    "recommendations": {
+      "use_of_stents": {
+        "BMS_DES_stents": "Recommended for patients with STEMI. Level of Evidence: A.",
+        "BMS_usage": "Should be used in patients with high bleeding risk. Level of Evidence: C.",
+        "DES_usage": "Not recommended for primary PCI in patients with STEMI who are unable to tolerate or comply with prolonged course of DAPT. Level of Evidence: B."
+      },
+      "aspiration_thrombectomy": {
+        "recommendation": "Reasonable for patients undergoing primary PCI. Level of Evidence: B.",
+        "supporting_evidence": "RCTs and meta-analysis support its use to improve reperfusion and decrease adverse cardiac events."
+      },
+      "adjunctive_antithrombotic_therapy": {
+        "aspirin": "Aspirin 162 to 325 mg should be given before primary PCI. Level of Evidence: B.",
+        "post_PCI_aspirin": "Should be continued indefinitely. Level of Evidence: A.",
+        "P2Y12_inhibitor": {
+          "loading_dose": "Should be given as early as possible during PCI to patients with STEMI.",
+          "options": {
+            "Clopidogrel": "600 mg.",
+            "Prasugrel": "60 mg.",
+            "Ticagrelor": "180 mg."
+          },
+          "continuation": "Should be given for 1 year to patients with DES or BMS."
+        }
+      }
+    }
+  },
+  "genes": []
+}

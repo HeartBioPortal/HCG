@@ -1,0 +1,563 @@
+{
+  "build_date": "2026-03-17",
+  "source_dir": "data/acc_aha/openai_outputs",
+  "source_pdf_dir": "data/acc_aha/source_pdfs",
+  "documents_dir": "data/acc_aha/releases/heartbioportal_guideline_json_release_2026-03-16/documents",
+  "documents": [
+    {
+      "slug": "Methodology Practice Guidelines",
+      "title": "Checklist 1: Determining the Guideline Scope and Clinical Objectives",
+      "page_count": 88,
+      "recovered_error_pages": [],
+      "raw_gene_count": 0,
+      "final_gene_count": 0,
+      "gene_source": "auto_normalized_from_raw",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": []
+    },
+    {
+      "slug": "al-khatib-et-al-2018-2017-aha-acc-hrs-guideline-for-management-of-patients-with-ventricular-arrhythmias-and-the",
+      "title": "2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death",
+      "page_count": 130,
+      "recovered_error_pages": [],
+      "raw_gene_count": 42,
+      "final_gene_count": 18,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [
+        "MRF1",
+        "ADR1"
+      ],
+      "raw_genes_unresolved": [
+        "ADR1",
+        "CCTG repeat expansion",
+        "CTG repeat expansion",
+        "Calmodulin",
+        "D4Z4 repeat contraction",
+        "Desmosomal protein",
+        "Dystrophin",
+        "Emerin",
+        "Fukutin-related protein",
+        "HCM-associated genes",
+        "L-type calcium channel",
+        "LQT1",
+        "LQT2",
+        "LQT3",
+        "Lamin A/C",
+        "MRF1",
+        "None",
+        "Pathogenic genetic mutation",
+        "RG",
+        "RS",
+        "RYR",
+        "Sarcoglycan",
+        "Unknown"
+      ]
+    },
+    {
+      "slug": "amsterdam-et-al-2014-2014-aha-acc-guideline-for-the-management-of-patients-with-non-st-elevation-acute-coronary",
+      "title": "2014 AHA/ACC Guideline for the Management of Patients With Non-ST-Elevation Acute Coronary Syndromes",
+      "page_count": 90,
+      "recovered_error_pages": [],
+      "raw_gene_count": 10,
+      "final_gene_count": 9,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": [
+        "Unknown"
+      ]
+    },
+    {
+      "slug": "anderson-et-al-2013-management-of-patients-with-peripheral-artery-disease-%28compilation-of-2005-and-2011-accf-aha",
+      "title": "Management of Patients With Peripheral Artery Disease (Compilation of 2005 and 2011 ACCF/AHA Guideline Recommendations)",
+      "page_count": 16,
+      "recovered_error_pages": [],
+      "raw_gene_count": 0,
+      "final_gene_count": 0,
+      "gene_source": "auto_normalized_from_raw",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": []
+    },
+    {
+      "slug": "anderson-et-al-2014-acc-aha-statement-on-cost-value-methodology-in-clinical-practice-guidelines-and-performance-measures",
+      "title": "ACC/AHA Statement on Cost/Value Methodology in Clinical Practice Guidelines and Performance Measures",
+      "page_count": 19,
+      "recovered_error_pages": [],
+      "raw_gene_count": 0,
+      "final_gene_count": 0,
+      "gene_source": "auto_normalized_from_raw",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": []
+    },
+    {
+      "slug": "arnett-et-al-2014-aha-acc-hhs-strategies-to-enhance-application-of-clinical-practice-guidelines-in-patients-with",
+      "title": "AHA/ACC/HHS Strategies to Enhance Application of Clinical Practice Guidelines in Patients With Cardiovascular Disease and Comorbid Conditions",
+      "page_count": 6,
+      "recovered_error_pages": [],
+      "raw_gene_count": 0,
+      "final_gene_count": 0,
+      "gene_source": "auto_normalized_from_raw",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": []
+    },
+    {
+      "slug": "arnett-et-al-2019-2019-acc-aha-guideline-on-the-primary-prevention-of-cardiovascular-disease",
+      "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+      "page_count": 56,
+      "recovered_error_pages": [],
+      "raw_gene_count": 1,
+      "final_gene_count": 1,
+      "gene_source": "auto_normalized_from_raw",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": []
+    },
+    {
+      "slug": "brott-et-al-2011-2011-asa-accf-aha-aann-aans-acr-asnr-cns-saip-scai-sir-snis-svm-svs-guideline-on-the-management-of",
+      "title": "2011 ASA/ACCF/AHA/AANN/AANS/ACR/ASNR/CNS/SAIP/SCAI/SIR/SNIS/SVM/SVS Guideline on the Management of Patients With Extracranial Carotid and Vertebral Artery Disease",
+      "page_count": 79,
+      "recovered_error_pages": [],
+      "raw_gene_count": 5,
+      "final_gene_count": 5,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": []
+    },
+    {
+      "slug": "chan-et-al-2017-acc-aha-special-report-clinical-practice-guideline-implementation-strategies-a-summary-of-systematic",
+      "title": "ACC/AHA Special Report: Clinical Practice Guideline Implementation Strategies: A Summary of Systematic Reviews by the NHLBI Implementation Science Work Group",
+      "page_count": 17,
+      "recovered_error_pages": [],
+      "raw_gene_count": 0,
+      "final_gene_count": 0,
+      "gene_source": "auto_normalized_from_raw",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": []
+    },
+    {
+      "slug": "eckel-et-al-2013-2013-aha-acc-guideline-on-lifestyle-management-to-reduce-cardiovascular-risk",
+      "title": "2013 AHA/ACC Guideline on Lifestyle Management to Reduce Cardiovascular Risk",
+      "page_count": 25,
+      "recovered_error_pages": [],
+      "raw_gene_count": 0,
+      "final_gene_count": 0,
+      "gene_source": "auto_normalized_from_raw",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": []
+    },
+    {
+      "slug": "goff-et-al-2013-2013-acc-aha-guideline-on-the-assessment-of-cardiovascular-risk",
+      "title": "2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk",
+      "page_count": 25,
+      "recovered_error_pages": [],
+      "raw_gene_count": 1,
+      "final_gene_count": 1,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": []
+    },
+    {
+      "slug": "gornik-et-al-2024-2024-acc-aha-aacvpr-apma-abc-scai-svm-svn-svs-sir-vess-guideline-for-the-management-of-lower",
+      "title": "2024 ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/SIR/VESS Guideline for the Management of Lower Extremity Peripheral Artery Disease",
+      "page_count": 108,
+      "recovered_error_pages": [],
+      "raw_gene_count": 5,
+      "final_gene_count": 5,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": []
+    },
+    {
+      "slug": "grundy-et-al-2018-2018-aha-acc-aacvpr-aapa-abc-acpm-ada-ags-apha-aspc-nla-pcna-guideline-on-the-management-of-blood",
+      "title": "2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/ APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol",
+      "page_count": 66,
+      "recovered_error_pages": [],
+      "raw_gene_count": 10,
+      "final_gene_count": 5,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": [
+        "HPS2-THRIVE",
+        "Lp(a)"
+      ]
+    },
+    {
+      "slug": "gulati-et-al-2021-2021-aha-acc-ase-chest-saem-scct-scmr-guideline-for-the-evaluation-and-diagnosis-of-chest-pain",
+      "title": "2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain",
+      "page_count": 99,
+      "recovered_error_pages": [],
+      "raw_gene_count": 5,
+      "final_gene_count": 5,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": []
+    },
+    {
+      "slug": "haan-et-al-2011-effectiveness-based-guidelines-for-the-prevention-of-cardiovascular-disease-in-women-2011-update",
+      "title": "Effectiveness-Based Guidelines for the Prevention of Cardiovascular Disease in Women—2011 Update",
+      "page_count": 20,
+      "recovered_error_pages": [],
+      "raw_gene_count": 0,
+      "final_gene_count": 0,
+      "gene_source": "auto_normalized_from_raw",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": []
+    },
+    {
+      "slug": "halperin-et-al-2015-further-evolution-of-the-acc-aha-clinical-practice-guideline-recommendation-classification-system",
+      "title": "Further Evolution of the ACC/AHA Clinical Practice Guideline Recommendation Classification System",
+      "page_count": 3,
+      "recovered_error_pages": [],
+      "raw_gene_count": 0,
+      "final_gene_count": 0,
+      "gene_source": "auto_normalized_from_raw",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": []
+    },
+    {
+      "slug": "heidenreich-et-al-2022-2022-aha-acc-hfsa-guideline-for-the-management-of-heart-failure",
+      "title": "2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure",
+      "page_count": 159,
+      "recovered_error_pages": [],
+      "raw_gene_count": 23,
+      "final_gene_count": 11,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [
+        "C"
+      ],
+      "raw_genes_unresolved": [
+        "ATTR",
+        "C",
+        "Filamin-C",
+        "LVEF",
+        "NA",
+        "PARP-2",
+        "PPAR-γ",
+        "SGLT2",
+        "filamin-C",
+        "genetic variant",
+        "lamin A/C",
+        "titin"
+      ]
+    },
+    {
+      "slug": "isselbacher-et-al-2022-2022-acc-aha-guideline-for-the-diagnosis-and-management-of-aortic-disease",
+      "title": "2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease",
+      "page_count": 171,
+      "recovered_error_pages": [],
+      "raw_gene_count": 35,
+      "final_gene_count": 25,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": [
+        "BAV",
+        "GENE_NAME",
+        "HTAD",
+        "Milewicz",
+        "TGF-β",
+        "TGFBR1 or TGFBR2"
+      ]
+    },
+    {
+      "slug": "jacobs-et-al-2012-accf-aha-clinical-practice-guideline-methodology-summit-report",
+      "title": "ACCF/AHA Clinical Practice Guideline Methodology Summit Report",
+      "page_count": 53,
+      "recovered_error_pages": [],
+      "raw_gene_count": 1,
+      "final_gene_count": 0,
+      "gene_source": "auto_normalized_from_raw",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": [
+        "COAG"
+      ]
+    },
+    {
+      "slug": "jacobs-et-al-2014-the-evolution-and-future-of-acc-aha-clinical-practice-guidelines-a-30-year-journey",
+      "title": "The Evolution and Future of ACC/AHA Clinical Practice Guidelines: A 30-Year Journey",
+      "page_count": 12,
+      "recovered_error_pages": [],
+      "raw_gene_count": 0,
+      "final_gene_count": 0,
+      "gene_source": "auto_normalized_from_raw",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": []
+    },
+    {
+      "slug": "jensen-et-al-2013-2013-aha-acc-tos-guideline-for-the-management-of-overweight-and-obesity-in-adults",
+      "title": "2013 AHA/ACC/TOS Guideline for the Management of Overweight and Obesity in Adults",
+      "page_count": 39,
+      "recovered_error_pages": [],
+      "raw_gene_count": 0,
+      "final_gene_count": 0,
+      "gene_source": "auto_normalized_from_raw",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": []
+    },
+    {
+      "slug": "joglar-et-al-2023-2023-acc-aha-accp-hrs-guideline-for-the-diagnosis-and-management-of-atrial-fibrillation",
+      "title": "2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation",
+      "page_count": 171,
+      "recovered_error_pages": [],
+      "raw_gene_count": 48,
+      "final_gene_count": 29,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": [
+        "AF",
+        "B-type natriuretic peptide",
+        "CAMKII",
+        "CKD5",
+        "CYP3A inhibitors",
+        "Cardiomyopathy-related genes",
+        "GWAS",
+        "Genes typically found in ion channelopathy and cardiomyopathy panels",
+        "HRS",
+        "IL-6",
+        "IL-6R",
+        "P-glycoprotein substrate",
+        "PACES",
+        "SGLT2",
+        "Spondin-1",
+        "TNF-α",
+        "phospholamban",
+        "sarcolipin"
+      ]
+    },
+    {
+      "slug": "kusumoto-et-al-2018-2018-acc-aha-hrs-guideline-on-the-evaluation-and-management-of-patients-with-bradycardia-and",
+      "title": "2018 ACC/AHA/HRS Guideline on the Evaluation and Management of Patients With Bradycardia and Cardiac Conduction Delay",
+      "page_count": 106,
+      "recovered_error_pages": [],
+      "raw_gene_count": 9,
+      "final_gene_count": 4,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": [
+        "CTGA",
+        "Fab",
+        "Lamin A/C",
+        "SND"
+      ]
+    },
+    {
+      "slug": "lawton-et-al-2021-2021-acc-aha-scai-guideline-for-coronary-artery-revascularization",
+      "title": "2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization",
+      "page_count": 109,
+      "recovered_error_pages": [],
+      "raw_gene_count": 4,
+      "final_gene_count": 0,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": [
+        "Fibrinolysis",
+        "N/A",
+        "P4502D6",
+        "ST-segment elevation myocardial infarction"
+      ]
+    },
+    {
+      "slug": "levine-et-al-2016-2016-acc-aha-guideline-focused-update-on-duration-of-dual-antiplatelet-therapy-in-patients-with",
+      "title": "2016 ACC/AHA Guideline Focused Update on Duration of Dual Antiplatelet Therapy in Patients With Coronary Artery Disease",
+      "page_count": 34,
+      "recovered_error_pages": [],
+      "raw_gene_count": 1,
+      "final_gene_count": 1,
+      "gene_source": "auto_normalized_from_raw",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": []
+    },
+    {
+      "slug": "levine-et-al-2019-recent-innovations-modifications-and-evolution-of-acc-aha-clinical-practice-guidelines-an-update-for",
+      "title": null,
+      "page_count": 9,
+      "recovered_error_pages": [],
+      "raw_gene_count": 1,
+      "final_gene_count": 0,
+      "gene_source": "auto_normalized_from_raw",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": [
+        "22q11"
+      ]
+    },
+    {
+      "slug": "o-gara-et-al-2012-2013-accf-aha-guideline-for-the-management-of-st-elevation-myocardial-infarction",
+      "title": "2013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction",
+      "page_count": 63,
+      "recovered_error_pages": [],
+      "raw_gene_count": 6,
+      "final_gene_count": 3,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": [
+        "CYP450",
+        "TNK"
+      ]
+    },
+    {
+      "slug": "ommen-et-al-2024-2024-aha-acc-amssm-hrs-paces-scmr-guideline-for-the-management-of-hypertrophic-cardiomyopathy",
+      "title": "2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy",
+      "page_count": 82,
+      "recovered_error_pages": [],
+      "raw_gene_count": 20,
+      "final_gene_count": 12,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": [
+        "GENE_HCM",
+        "HCM",
+        "No gene mentioned",
+        "RAS-MAPK",
+        "Sarcomere Gene Variant",
+        "Sarcomere Variants",
+        "sarcomeric variants"
+      ]
+    },
+    {
+      "slug": "otto-et-al-2020-2020-acc-aha-guideline-for-the-management-of-patients-with-valvular-heart-disease",
+      "title": "2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease",
+      "page_count": 173,
+      "recovered_error_pages": [],
+      "raw_gene_count": 6,
+      "final_gene_count": 0,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": [
+        "COXIELLA BURNETII",
+        "E. faecalis",
+        "ENTEROCOCCUS FAECALIS",
+        "S. aureus",
+        "STAPHYLOCOCCUS AUREUS",
+        "TGF-β"
+      ]
+    },
+    {
+      "slug": "page-et-al-2015-2015-acc-aha-hrs-guideline-for-the-management-of-adult-patients-with-supraventricular-tachycardia",
+      "title": "2015 ACC/AHA/HRS Guideline for the Management of Adult Patients With Supraventricular Tachycardia",
+      "page_count": 89,
+      "recovered_error_pages": [],
+      "raw_gene_count": 4,
+      "final_gene_count": 4,
+      "gene_source": "auto_normalized_from_raw",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": []
+    },
+    {
+      "slug": "shen-et-al-2017-2017-acc-aha-hrs-guideline-for-the-evaluation-and-management-of-patients-with-syncope",
+      "title": "2017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients With Syncope",
+      "page_count": 72,
+      "recovered_error_pages": [],
+      "raw_gene_count": 14,
+      "final_gene_count": 8,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": [
+        "ARVC",
+        "CPVT",
+        "HCM",
+        "LQT",
+        "LQTS",
+        "LQTS genes"
+      ]
+    },
+    {
+      "slug": "smith-et-al-2011-aha-accf-secondary-prevention-and-risk-reduction-therapy-for-patients-with-coronary-and-other",
+      "title": "AHA/ACCF Secondary Prevention and Risk Reduction Therapy for Patients With Coronary and Other Atherosclerotic Vascular Disease: 2011 Update",
+      "page_count": 15,
+      "recovered_error_pages": [],
+      "raw_gene_count": 0,
+      "final_gene_count": 0,
+      "gene_source": "auto_normalized_from_raw",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": []
+    },
+    {
+      "slug": "stout-et-al-2018-2018-aha-acc-guideline-for-the-management-of-adults-with-congenital-heart-disease",
+      "title": "2018 AHA/ACC Guideline for the Management of Adults With Congenital Heart Disease",
+      "page_count": 112,
+      "recovered_error_pages": [],
+      "raw_gene_count": 23,
+      "final_gene_count": 13,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": [
+        "22q11 deletion",
+        "22q11.2",
+        "45X",
+        "47 XXY",
+        "7q11.23",
+        "Alagille",
+        "NONE",
+        "Noonan",
+        "TS",
+        "Williams"
+      ]
+    },
+    {
+      "slug": "thompson-et-al-2024-2024-aha-acc-acs-asnc-hrs-sca-scct-scmr-svm-guideline-for-perioperative-cardiovascular-management",
+      "title": "2024 AHA/ACC/ACS/ASNC/HRS/SCA/SCCT/SCMR/SVM Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery",
+      "page_count": 101,
+      "recovered_error_pages": [],
+      "raw_gene_count": 6,
+      "final_gene_count": 5,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": [
+        "platelet and coagulation genes"
+      ]
+    },
+    {
+      "slug": "tracy-et-al-2012-2012-accf-aha-hrs-focused-update-incorporated-into-the-accf-aha-hrs-2008-guidelines-for-device-based",
+      "title": "2012 ACCF/AHA/HRS Focused Update Incorporated Into the ACCF/AHA/HRS 2008 Guidelines for Device-Based Therapy of Cardiac Rhythm Abnormalities",
+      "page_count": 70,
+      "recovered_error_pages": [],
+      "raw_gene_count": 11,
+      "final_gene_count": 5,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": [
+        "DCM",
+        "GENE_NAME",
+        "Gene",
+        "HCM",
+        "Tetralogy of Fallot",
+        "chromosome 14q12–43"
+      ]
+    },
+    {
+      "slug": "virani-et-al-2023-2023-aha-acc-accp-aspc-nla-pcna-guideline-for-the-management-of-patients-with-chronic-coronary-disease",
+      "title": "2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Guideline for the Management of Patients With Chronic Coronary Disease",
+      "page_count": 123,
+      "recovered_error_pages": [],
+      "raw_gene_count": 8,
+      "final_gene_count": 2,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": [
+        "Ch9p21 locus",
+        "GLP-1 receptor",
+        "PAI-1",
+        "PMN",
+        "PRIME"
+      ]
+    },
+    {
+      "slug": "whelton-et-al-2017-2017-acc-aha-aapa-abc-acpm-ags-apha-ash-aspc-nma-pcna-guideline-for-the-prevention-detection",
+      "title": "2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults",
+      "page_count": 122,
+      "recovered_error_pages": [],
+      "raw_gene_count": 9,
+      "final_gene_count": 3,
+      "gene_source": "manual_curation",
+      "manual_genes_unresolved": [],
+      "raw_genes_unresolved": [
+        "11-beta-OH",
+        "17-alpha-OH",
+        "Not specific"
+      ]
+    }
+  ],
+  "summary": {
+    "document_count": 37,
+    "recovered_error_page_count": 0,
+    "manual_gene_source_count": 21,
+    "auto_gene_source_count": 16
+  }
+}

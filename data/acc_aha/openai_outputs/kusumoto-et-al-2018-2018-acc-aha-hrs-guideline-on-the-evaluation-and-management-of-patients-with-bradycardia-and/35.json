@@ -1,0 +1,30 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "cor": "I",
+        "loe": "C-EO",
+        "recommendation": "Patients presenting with symptomatic SND secondary to a reversible cause should first be managed by directing the therapy at eliminating or mitigating the offending condition."
+      },
+      {
+        "cor": "IIb",
+        "loe": "C-EO",
+        "recommendation": "In patients with symptoms suggestive of bradycardia (e.g., syncope, lightheadedness) who are also undergoing an EPS for another indication, evaluation of sinus node function as part of the EPS may be considered."
+      },
+      {
+        "cor": "IIb",
+        "loe": "C-EO",
+        "recommendation": "In symptomatic patients with suspected SND, EPS for the assessment of sinus node function may be considered when the diagnosis remains uncertain after initial noninvasive evaluations."
+      },
+      {
+        "cor": "III",
+        "loe": "C-LD",
+        "recommendation": "In patients with asymptomatic sinus bradycardia, an EPS should not be performed unless other indications for electrophysiological testing exist."
+      }
+    ],
+    "synopsis": "Patients may present with symptomatic sinus bradycardia attributable to reversible causes. Medications are frequent culprits. Negative chronotropic drugs such as beta blockers, calcium channel blockers, and digoxin can decrease the sinus rate. Sodium-channel and potassium-channel blocking antiarrhythmic drugs can also exacerbate bradycardia in patients with preexisting SND. Hypothyroidism can cause clinically significant bradycardia. Cardiovascular abnormalities respond well to replacement therapy with thyroxine (T4). Metabolic abnormalities such as severe systemic acidosis or hypokalemia can uncommonly cause sinus bradycardia in acute settings. Reversible physiological disturbances should be considered and treated first.",
+    "recommendation_specific_support": "When sinus bradycardia is the consequence of nonessential medications, permanent cardiac pacing should not be considered a first-line treatment.",
+    "additional_information": "Treatable conditions predisposing to sinus bradycardia include elevated intracranial pressure, acute MI, severe hypothermia, and obstructive sleep apnea."
+  },
+  "genes": []
+}

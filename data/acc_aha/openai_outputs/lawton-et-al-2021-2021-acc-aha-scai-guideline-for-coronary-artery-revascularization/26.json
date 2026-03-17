@@ -1,0 +1,26 @@
+{
+  "content": {
+    "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+    "Authors": "Lawton et al.",
+    "Journal": "JACC Vol. 79, No. 2, 2022",
+    "Key Points": [
+      "The guideline discusses early versus delayed invasive strategies in patients with NSTE-ACS.",
+      "Early invasive strategy is recommended for cardiogenic shock, refractory angina, or high-risk patients within 24 hours.",
+      "Invasive strategy with intent to perform revascularization is recommended before hospital discharge.",
+      "Retrospective reviews have shown a reduced mortality rate with emergency CABG in ongoing ischemia or hemodynamic compromise.",
+      "CULPRIT-SHOCK trial indicated that PCI with staged revascularization of non-culprit lesions results in better outcomes.",
+      "No benefit of immediate multivessel PCI in NSTEMI was found from the CULPRIT-SHOCK trial."
+    ],
+    "Clinical Recommendations": [
+      {
+        "Condition": "NSTE-ACS",
+        "Strategies": [
+          "Immediate invasive strategy for cardiogenic shock or hemodynamic instability.",
+          "Early invasive strategy (within 24 hours) for high-risk patients.",
+          "Planned invasive strategy for stable patients prior to discharge."
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

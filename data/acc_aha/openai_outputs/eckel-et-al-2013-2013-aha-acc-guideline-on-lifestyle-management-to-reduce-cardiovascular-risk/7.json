@@ -1,0 +1,41 @@
+{
+  "content": {
+    "Recommendations": [
+      {
+        "Title": "LDL-C: Advise adults who would benefit from LDL-C lowering to:",
+        "Strategies": [
+          "Consume a dietary pattern that emphasizes intake of vegetables, fruits, and whole grains; includes low-fat dairy products, poultry, fish, legumes, non-tropical vegetable oils, and nuts; and limits intake of sweets, sugar-sweetened beverages, and red meats.",
+          "Adapt dietary pattern to appropriate calorie requirements, personal and cultural food preferences, and nutrition therapy for other medical conditions.",
+          "Achieve this pattern by following plans such as the DASH dietary pattern, the USDA Food Pattern, or the AHA Diet.",
+          "Aim for a dietary pattern that achieves 5%-6% of calories from saturated fat.",
+          "Reduce percent of calories from saturated fat.",
+          "Reduce percent of calories from trans fat."
+        ]
+      },
+      {
+        "Title": "BP: Advise adults who would benefit from BP lowering to:",
+        "Strategies": [
+          "Consume a dietary pattern that emphasizes intake of vegetables, fruits, and whole grains; includes low-fat dairy products, poultry, fish, legumes, non-tropical vegetable oils, and nuts; and limits intake of sweets, sugar-sweetened beverages, and red meats.",
+          "Adapt dietary pattern to appropriate calorie requirements, personal and cultural food preferences, and nutrition therapy for other medical conditions.",
+          "Achieve this pattern by following plans such as the DASH dietary pattern, the USDA Food Pattern, or the AHA Diet.",
+          "Lower sodium intake.",
+          "Consume no more than 2,400 mg of sodium/d; further reduction of sodium intake to 1,500 mg/d can result in even greater reduction in BP; even without achieving these goals, reducing sodium intake by at least 1,000 mg/d lowers BP.",
+          "Combine the DASH dietary pattern with lower sodium intake."
+        ]
+      }
+    ],
+    "Physical Activity": [
+      {
+        "Category": "Lipid",
+        "Recommendation": "In general, advise adults to engage in aerobic physical activity to reduce LDL-C and non\u2013HDL-C.",
+        "Details": "3\u20134 sessions per week, lasting on average 40 min per session, and involving moderate-to vigorous-intensity physical activity."
+      },
+      {
+        "Category": "BP",
+        "Recommendation": "In general, advise adults to engage in aerobic physical activity to lower BP.",
+        "Details": "3\u20134 sessions per week, lasting on average 40 min per session, and involving moderate-to vigorous-intensity physical activity."
+      }
+    ]
+  },
+  "genes": []
+}

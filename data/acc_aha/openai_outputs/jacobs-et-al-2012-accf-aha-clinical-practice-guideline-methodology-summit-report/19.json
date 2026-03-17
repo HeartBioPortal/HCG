@@ -1,0 +1,105 @@
+{
+  "content": {
+    "Table 4.1": {
+      "Title": "Example of GRADE Depiction of Evidence Profile Across Studies",
+      "Focus": "GRADE Evidence Profile: Antibiotics for Children with Acute Otitis Media",
+      "Components": [
+        {
+          "Outcome": "Pain at 24h",
+          "No. of studies": "5 (RCT)",
+          "Limitations": "No serious limitations",
+          "Inconsistency": "No serious inconsistency",
+          "Indirectness": "No serious indirectness",
+          "Imprecision": "No serious imprecision",
+          "Publication Bias": "Undetected",
+          "Number of Patients": {
+            "Placebo": "241/605",
+            "Antibiotics": "223/624"
+          },
+          "Relative Risk (95% CI)": "RR 0.99 (0.78-1.04)",
+          "Control Risk": "367/1,000",
+          "Risk Difference": "Not Significant",
+          "Quality": "High"
+        },
+        {
+          "Outcome": "Pain at 2-7d",
+          "No. of studies": "10 (RCT)",
+          "Limitations": "No serious limitations",
+          "Inconsistency": "No serious inconsistency",
+          "Indirectness": "No serious indirectness",
+          "Imprecision": "No serious imprecision",
+          "Publication Bias": "Undetected",
+          "Number of Patients": {
+            "Placebo": "303/1,366",
+            "Antibiotics": "228/1,425"
+          },
+          "Relative Risk (95% CI)": "RR 0.72 (0.62-0.83)",
+          "Control Risk": "257/1,000",
+          "Risk Difference": "72 fewer per 1,000 (44-98)",
+          "Quality": "High"
+        },
+        {
+          "Outcome": "Hearing, inferred from the surrogate outcome abnormal tympanometry\u20141 mo",
+          "No. of studies": "4 (RCT)",
+          "Limitations": "No serious limitations",
+          "Inconsistency": "No serious inconsistency",
+          "Indirectness": "Serious indirectness (because of indirectness of outcome)",
+          "Imprecision": "No serious imprecision",
+          "Publication Bias": "Undetected",
+          "Number of Patients": {
+            "Placebo": "168/460",
+            "Antibiotics": "153/467"
+          },
+          "Relative Risk (95% CI)": "RR 0.89 (0.75-1.07)",
+          "Control Risk": "350/1,000",
+          "Risk Difference": "Not Significant",
+          "Quality": "Moderate"
+        },
+        {
+          "Outcome": "Hearing, inferred from the surrogate outcome abnormal tympanometry\u20143 mo",
+          "No. of studies": "3 (RCT)",
+          "Limitations": "No serious limitations",
+          "Inconsistency": "No serious inconsistency",
+          "Indirectness": "Serious indirectness (because of indirectness of outcome)",
+          "Imprecision": "No serious imprecision",
+          "Publication Bias": "Undetected",
+          "Number of Patients": {
+            "Placebo": "96/398",
+            "Antibiotics": "96/410"
+          },
+          "Relative Risk (95% CI)": "RR 0.97 (0.76-1.24)",
+          "Control Risk": "234/1,000",
+          "Risk Difference": "Not Significant",
+          "Quality": "Moderate"
+        },
+        {
+          "Outcome": "Vomiting, diarrhea, or rash",
+          "No. of studies": "5 (RCT)",
+          "Limitations": "No serious limitations",
+          "Inconsistency": "Serious inconsistency (because of inconsistency in absolute effects)",
+          "Indirectness": "No serious indirectness",
+          "Imprecision": "No serious imprecision",
+          "Publication Bias": "Undetected",
+          "Number of Patients": {
+            "Placebo": "83/711",
+            "Antibiotics": "110/690"
+          },
+          "Relative Risk (95% CI)": "RR 1.38 (1.09-1.76)",
+          "Control Risk": "113/1,000",
+          "Risk Difference": "43 more per 1,000 (10-86)",
+          "Quality": "Moderate"
+        }
+      ]
+    },
+    "Other Information": {
+      "Workgroup 4 Recommendations": {
+        "Focus": "Assessing and Addressing the Quality of a Body of Evidence",
+        "Recommendations": [
+          "Adopt IOM-recommended basic characteristics of quality and elements for assessing quality across studies.",
+          "Standardize methods for quality assessment across studies and conduct qualitative assessments."
+        ]
+      }
+    }
+  },
+  "genes": []
+}

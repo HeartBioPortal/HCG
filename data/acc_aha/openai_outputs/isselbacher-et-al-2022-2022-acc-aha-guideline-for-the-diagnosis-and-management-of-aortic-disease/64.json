@@ -1,0 +1,32 @@
+{
+  "content": {
+    "Recommendations": [
+      {
+        "Cor": "1",
+        "Loe": "B-NR",
+        "Recommendation": "In patients with intact descending TAA, repair is recommended when the diameter is \u22655.5 cm."
+      },
+      {
+        "Cor": "2b",
+        "Loe": "B-NR",
+        "Recommendation": "In patients with intact descending TAA and risk factors for rupture, repair may be considered at a diameter of <5.5 cm."
+      },
+      {
+        "Cor": "2b",
+        "Loe": "B-NR",
+        "Recommendation": "In patients at increased risk for perioperative morbidity and mortality, it may be reasonable to increase the size threshold for surgery accordingly."
+      }
+    ],
+    "Synopsis": "The current aortic size threshold for repair of descending TAA is based on studies indicating that a diameter of >6 cm is associated with increased risk of adverse aortic events and mortality. Features such as rapid aortic growth, symptomatic aneurysms, underlying connective tissue disorders, or HTAD, and sacular aneurysm morphology are associated with a higher rupture risk. Advanced age, renal insufficiency, pulmonary disease, and previous stroke are markers for poor outcomes post repair."
+  },
+  "genes": [
+    {
+      "Gene": "HTAD",
+      "Associated Conditions": [
+        "aortic aneurysm or dissection"
+      ],
+      "Occurrences": 1,
+      "context": "Features including rapid aortic growth, symptomatic aneurysms, underlying connective tissue disorder or HTAD, saccular aneurysm morphology, female sex, and infected aneurysm have all been associated with a higher tendency for rupture."
+    }
+  ]
+}

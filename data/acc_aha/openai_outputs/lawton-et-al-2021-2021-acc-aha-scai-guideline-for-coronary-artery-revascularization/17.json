@@ -1,0 +1,30 @@
+{
+  "content": {
+    "section": "4.3. Use of Coronary Physiology to Guide Revascularization With PCI",
+    "recommendations": [
+      {
+        "cor": 1,
+        "loe": "A",
+        "text": "In patients with angina or an anginal equivalent, undocumented ischemia, and angiographically intermediate stenoses, the use of fractional flow reserve (FFR) or instantaneous wave-free ratio (iFR) is recommended to guide the decision to proceed with PCI."
+      },
+      {
+        "cor": "3: No benefit",
+        "loe": "B-R",
+        "text": "In stable patients with angiographically intermediate stenoses and FFR >0.80 or iFR >0.89, PCI should not be performed."
+      }
+    ],
+    "synopsis": "FFR and iFR are physiological methods to assess lesion significance. FFR is defined as the ratio of maximal blood flow in a region distal to a lesion compared with normal maximal blood flow of an artery. iFR is the instantaneous wave-free ratio of coronary pressure distal to the coronary lesion to the aortic pressure, which avoids the need for adenosine. The FAME 2 trial tested PCI strategy for lesions with abnormal FFR.",
+    "keyPoints": [
+      "FFR and iFR have been studied in endpoints of death, MI, or repeat revascularization.",
+      "Recruitment for FAME 2 was stopped due to benefit from reduced ischemia-driven revascularization.",
+      "FFR use in surgical revascularization needs more investigation.",
+      "Less distal anastomoses were reported in trials comparing CABG with FFR-guided versus angiogram-guided revascularization."
+    ],
+    "recommendationSpecificSupportiveText": [
+      "PCI for stenosis \u226550% with abnormal FFR reduced composite risk versus PCI guided by angiography.",
+      "Trials show iFR-guided PCI noninferior to FFR-guided PCI.",
+      "Lower procedure-related risk with iFR versus FFR."
+    ]
+  },
+  "genes": []
+}

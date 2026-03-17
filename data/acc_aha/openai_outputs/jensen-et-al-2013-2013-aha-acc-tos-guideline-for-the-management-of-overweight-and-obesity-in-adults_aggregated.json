@@ -1,0 +1,1372 @@
+{
+  "content": [
+    {
+      "content": {
+        "title": "2013 AHA/ACC/TOS Guideline for the Management of Overweight and Obesity in Adults",
+        "description": "A report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines and The Obesity Society.",
+        "endorsements": [
+          "American Association of Cardiovascular and Pulmonary Rehabilitation",
+          "American Pharmacists Association",
+          "American Society for Nutrition",
+          "American Society for Parenteral and Enteral Nutrition",
+          "American Society for Preventive Cardiology",
+          "American Society of Hypertension",
+          "Association of Black Cardiologists",
+          "National Lipid Association",
+          "Preventive Cardiovascular Nurses Association",
+          "The Endocrine Society",
+          "WomenHeart: The National Coalition for Women With Heart Disease"
+        ],
+        "expert_panel_members": [
+          "Michael D. Jensen, MD, Co-Chair",
+          "Donna H. Ryan, MD, Co-Chair",
+          "Caroline M. Apovian, MD, FACP",
+          "Jamy D. Ard, MD",
+          "Anthony G. Comuzzie, PhD",
+          "Karen A. Donato, SM",
+          "Frank B. Hu, MD, PhD, FAHA",
+          "Van S. Hubbard, MD, PhD",
+          "John M. Jakicic, PhD",
+          "Robert F. Kushner, MD",
+          "Catherine M. Loria, PhD, FAHA",
+          "Barbara E. Millen, DrPH, RD",
+          "Cathy A. Nonas, MS, RD",
+          "F. Xavier Pi-Sunyer, MD, MPH",
+          "June Stevens, PhD",
+          "Victor J. Stevens, PhD",
+          "Thomas A. Wadden, PhD",
+          "Bruce M. Wolfe, MD",
+          "Susan Z. Yanovski, MD"
+        ],
+        "methodology_members": [
+          "Harmon S. Jordan, ScD",
+          "Karima A. Kendall, PhD",
+          "Linda J. Lux",
+          "Roovelyn Mentor-Marcel, PhD, MPH"
+        ],
+        "acc_aha_task_force_members": [
+          "Jeffrey L. Anderson, MD, FACC, FAHA, Chair",
+          "Jonathan L. Halperin, MD, FACC, FAHA, Chair-Elect",
+          "Nancy M. Albert, PhD, CCNS, CCRN, FAHA",
+          "Biykem Bozkurt, MD, PhD, FACC, FAHA",
+          "Ralph G. Brindis, MD, MPH, MACC",
+          "Lesley H. Curtis, PhD, FAHA",
+          "Sidney C. Smith, Jr, MD, FACC, FAHA, Chair",
+          "Gordon F. Tomaselli, MD, FACC, FAHA, Co-Chair"
+        ],
+        "co-chairs": {
+          "gordon_f_tomaselli": "Gordon F. Tomaselli, MD, FACC, FAHA, Co-Chair"
+        },
+        "publication_notes": {
+          "circulation": "Circulation is published on behalf of the American Heart Association, Inc., by Wolters Kluwer.",
+          "obesity": "Obesity is published on behalf of The Obesity Society by John Wiley & Sons Inc.",
+          "journal": "The Journal of the American College of Cardiology is published on behalf of the American College of Cardiology Foundation by Elsevier Inc.",
+          "licenses": "Use of this content is under the terms of the Creative Commons Attribution Non-Commercial-NoDerivs License."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2013 AHA/ACC/TOS Guideline for Obesity",
+        "Sections": [
+          {
+            "Title": "Preamble and Transition to ACC/AHA Guidelines to Reduce Cardiovascular Risk",
+            "Page": 2987
+          },
+          {
+            "Title": "1. Introduction/Scope of Guideline",
+            "Subsections": [
+              {
+                "Title": "1.1. Rationale for Updating Obesity Clinical Guidelines",
+                "Page": 2990
+              },
+              {
+                "Title": "1.2. CQ-Based Approach",
+                "Page": 2990
+              },
+              {
+                "Title": "1.3. Organization of the Panel",
+                "Page": 2990
+              },
+              {
+                "Title": "1.4. Document Review and Approval",
+                "Page": 2991
+              }
+            ],
+            "Page": 2988
+          },
+          {
+            "Title": "2. Obesity Recommendations and Algorithm",
+            "Subsections": [
+              {
+                "Title": "2.1. Summary of Evidence-Based Recommendations",
+                "Page": 2991
+              },
+              {
+                "Title": "2.2. Chronic Disease Management Model for Primary Care of Patients With Overweight and Obesity\u2014Treatment Algorithm",
+                "Page": 2992
+              }
+            ],
+            "Page": 2991
+          },
+          {
+            "Title": "3. CQs and Corresponding ESs",
+            "Subsections": [
+              {
+                "Title": "3.1. CQ1: Statement of the Question",
+                "Subsections": [
+                  "3.1.1. Weight Loss and Risk of Diabetes",
+                  "3.1.2. Weight Loss and Impact on Cholesterol/Lipid Profile",
+                  "3.1.3. Weight Loss and Hypertension Risk"
+                ],
+                "Page": 3001
+              },
+              {
+                "Title": "3.2. CQ2: Statement of the Question",
+                "Subsections": [
+                  "3.2.1. Current BMI Cutpoints and CVD-Related Risk and All-Cause Mortality",
+                  "3.2.2. Areas of Insufficient Evidence With Regard to Cutpoints for BMI and for Waist Circumference"
+                ],
+                "Page": 3003
+              },
+              {
+                "Title": "3.3. CQ3: Statement of the Question",
+                "Subsections": [
+                  "3.3.1. Overall Dietary Intervention and Composition\u2014Creating Reduced Dietary Energy Intake",
+                  "3.3.2. Overall Dietary Intervention and Composition\u2014Pattern of Weight Loss Over Time With Dietary Intervention",
+                  "3.3.3. Low-Fat Approaches",
+                  "3.3.4. Higher-Protein Approaches (25% to 30% of Energy)",
+                  "3.3.5. Low-Carbohydrate Approaches (<30 g/d)",
+                  "3.3.6. Complex Versus Simple Carbohydrates",
+                  "3.3.7. Glycemic Load Dietary Approaches",
+                  "3.3.8. Dietary Patterns (Mediterranean Style, Vegetarian, and Other Dietary Pattern Approaches)",
+                  "3.3.9. Meal Replacement and Adding Foods to Liquid Diets",
+                  "3.3.10. Very\u2013Low\u2013Calorie Diet Approaches"
+                ],
+                "Page": 3004
+              },
+              {
+                "Title": "3.4. CQ4: Statement of the Question",
+                "Subsections": [
+                  "3.4.1. Description of the Diet, Physical Activity, and Behavior Therapy Components in High-Intensity, On-Site Lifestyle Interventions",
+                  "3.4.2. Comprehensive Interventions Compared With Usual Care, Minimal Care, or No-Treatment Control"
+                ],
+                "Page": 3006
+              },
+              {
+                "Title": "3.5. CQ5: Statement of the Question",
+                "Subsections": [
+                  "3.5.1. Component 1: Efficacy",
+                  "3.5.2. Component 2: Predictors",
+                  "3.5.3. Component 3: Complications",
+                  "3.5.3.1. Laparoscopic Adjustable Gastric Banding",
+                  "3.5.3.2. Roux-en-Y Gastric Bypass",
+                  "3.5.3.3. Biliopancreatic Diversion",
+                  "3.5.3.4. Laparoscopic Sleeve Gastrectomy"
+                ],
+                "Page": 3009
+              }
+            ],
+            "Page": 3001
+          },
+          {
+            "Title": "4. Gaps in Evidence and Future Research Needs",
+            "Subsections": [
+              "4.1. CQ1 (Benefits of Weight Loss)",
+              "4.2. CQ2 (Risks of Overweight and Obesity)",
+              "4.3. CQ3 (Dietary Interventions for Weight Loss)",
+              "4.4. CQ4 (Lifestyle Interventions for Weight Loss)",
+              "4.5. CQ5 (Surgical Procedures for Weight Loss)"
+            ],
+            "Page": 3012
+          },
+          {
+            "Title": "References",
+            "Page": 3014
+          },
+          {
+            "Title": "Appendix 1. Author Relationships With Industry and Other Entities (Relevant)",
+            "Page": 3019
+          },
+          {
+            "Title": "Appendix 2. Expert Reviewer Relationships With Industry and Other Entities",
+            "Page": 3022
+          },
+          {
+            "Title": "Appendix 3. Abbreviations",
+            "Page": 3023
+          }
+        ],
+        "Journal": "Journal of the American College of Cardiology",
+        "Volume": 63,
+        "Number": 25,
+        "Publication Date": "July 1, 2014",
+        "Page Range": "2985\u20133023"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Preamble and Transition to ACC/AHA Guidelines": "The guidelines aim to reduce cardiovascular diseases through professional education, research, and development of guidelines. The ACC and AHA, in collaboration with the NHLBI, have developed guidelines for assessing cardiovascular risk, lifestyle modifications, and the management of cholesterol and obesity. In 2008, NHLBI began creating these guidelines, with expert panels forming clinical questions, reviewing evidence, and recommending actions. The joint ACC/AHA Task Force facilitated the transition and dissemination of these guidelines. The documents are based on the highest quality evidence, focusing on current best practices while recognizing potential for situation-based deviations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Introduction/Scope": "More than 78 million adults in the United States were obese in 2009 and 2010. Obesity raises the risk of conditions like hypertension, dyslipidemia, type 2 diabetes, CHD, stroke, gallbladder disease, osteoarthritis, sleep apnea, respiratory problems, and some cancers. It's associated with increased risk of all-cause and cardiovascular mortality. The consequences of obesity have substantial implications for U.S. public health.",
+        "Classification/Recommendation Levels": {
+          "CLASS I": "Benefit > Risk. Procedure/ Treatment SHOULD be performed/administered.",
+          "CLASS IIa": "Benefit >> Risk. Reasonable to perform procedure/administer treatment.",
+          "CLASS IIb": "Benefit \u2265 Risk. Procedure/ Treatment MAY BE CONSIDERED.",
+          "CLASS III": "No Benefit or Harm. Treatment is not useful/effective and may be harmful."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": "The document discusses guidelines issued by the NHLBI, AHA, ACC, and TOS for the management of obesity. These guidelines focus on the impact of obesity on cardiovascular disease (CVD) and diabetes, emphasizing the importance of assessment and intervention in overweight and obese individuals, particularly those with risk factors for CVD and type 2 diabetes. The guideline document includes grading systems for recommendations and evidence quality. Strong recommendations indicate substantial net benefits from interventions, while weaker recommendations suggest limited or unclear benefits. The guidelines use recommendations from systematic reviews and recent published literature to guide clinicians regarding weight loss, maintenance, and associated benefits."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2013 AHA/ACC/TOS Guideline for Obesity",
+        "Purpose": "Provides a guideline for the treatment of overweight and obesity in adults.",
+        "Organizations Involved": [
+          "The National Heart, Lung, and Blood Institute (NHLBI)",
+          "The American Heart Association (AHA)",
+          "The American College of Cardiology (ACC)",
+          "The Obesity Society (TOS)"
+        ],
+        "Development": "Based on a systematic review by NHLBI covering literature from 1980-1997, updated with stakeholder inputs in 2005.",
+        "Panel": "The Expert Panel developed clinical questions (CQs) to address the obesity guidelines, examining various risk factors and interventions.",
+        "Sections": [
+          {
+            "Rationale": "To guide providers in obesity management, focusing on appropriate weight loss criteria.",
+            "Approach": "Evidence-based methodologies for developing expert summaries (ESs) and recommendations.",
+            "Key Questions": [
+              "CQ1: Expected health benefits of weight loss.",
+              "CQ2: Health risks of overweight/obesity and BMI cutpoints.",
+              "CQ3: Efficacy of dietary interventions.",
+              "CQ4: Comprehensive lifestyle therapy.",
+              "CQ5: Safety of bariatric procedures."
+            ]
+          }
+        ],
+        "Panel Members": {
+          "Size": "15 members and 3 ex-officio members",
+          "Expertise": "Psychology, nutrition, physical activity, etc."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": "This is a clinical practice guideline for obesity developed with a systematic review process. It incorporates expert panel reviews and recommendations, following standards from the Institute of Medicine. Various steps included abstracting information to a central repository, constructing evidence tables, and grading evidence strength. The document underwent peer review by notable health organizations and was endorsed by various cardiovascular and health associations.",
+        "Development Process": "The guideline construction included identifying clinical questions, developing literature search strategies, and performing systematic reviews and meta-analyses. It also involved thorough validation procedures for article inclusion and expert evaluations for generating recommendations.",
+        "Recommendations": "Recommendations are graded from A (Strong) to N (No Recommendation) based on evidence strength."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2013 AHA/ACC/TOS Guideline for Obesity",
+        "Summary of Recommendations for Obesity": [
+          {
+            "Identifying Patients Who Need to Lose Weight (BMI and Waist Circumference)": [
+              "Measure height and weight and calculate BMI at annual visits or more frequently.",
+              "Use BMI to identify overweight (BMI 25.0\u201329.9 kg/m^2) and obesity (BMI \u226530 kg/m^2) in adults who may be at elevated risk of CVD and mortality.",
+              "Advise overweight and obese adults that greater BMI increases the risk of CVD, type 2 diabetes, and all-cause mortality.",
+              "Measure waist circumference to identify adults at higher risk of CVD, type 2 diabetes, and all-cause mortality.",
+              "Waist circumference greater correlation with CVD, diabetes, and mortality."
+            ]
+          },
+          {
+            "Matching Treatment Benefits With Risk Profiles": [
+              "Counsel overweight and obese adults to reduce cardiovascular risk factors with lifestyle changes.",
+              "Sustained weight loss of 3%\u20135% is likely to result in meaningful health benefits.",
+              "Greater amounts of weight loss can reduce LDL-C, increase HDL-C, and reduce medication needs."
+            ]
+          },
+          {
+            "Diets for Weight Loss (Dietary Strategies for Weight Loss)": [
+              "Prescribe a diet to reduce caloric intake for overweight individuals.",
+              "Several diet options: 1,200\u20131,500 kcal/day for women and 1,500\u20131,800 kcal/day for men; 500\u2013750 kcal/day deficit; or specific evidence-based diets.",
+              "Consult a nutrition professional for diet counseling."
+            ]
+          }
+        ],
+        "Chronic Disease Management Model": "The Expert Panel provides a treatment algorithm for primary care providers to aid in evaluation, prevention, and management of excess weight."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Summary of Recommendations for Obesity",
+        "Focused Area": "Lifestyle Intervention and Counseling (Comprehensive Lifestyle Intervention)",
+        "Recommendations": [
+          {
+            "Advice": "Overweight and obese individuals who would benefit from weight loss should participate for >= 6 months in a comprehensive lifestyle program assisting in adherence to a lower-calorie diet and increased physical activity through behavioral strategies.",
+            "NHLBI Grade": "A (Strong)",
+            "ACC/AHA COR": "I",
+            "ACC/AHA LOE": "A"
+          },
+          {
+            "Advice": "Prescribe on-site, high-intensity (>= 14 sessions in 6 mo) comprehensive weight loss interventions provided in individual or group sessions by a trained interventionist.",
+            "NHLBI Grade": "A (Strong)",
+            "ACC/AHA COR": "I",
+            "ACC/AHA LOE": "A"
+          },
+          {
+            "Advice": "Electronically delivered weight loss programs (including by telephone) that include personalized feedback can be prescribed for weight loss but may result in smaller weight loss than face-to-face interventions.",
+            "NHLBI Grade": "B (Moderate)",
+            "ACC/AHA COR": "IIa",
+            "ACC/AHA LOE": "A"
+          },
+          {
+            "Advice": "Some commercial-based programs that provide a comprehensive lifestyle intervention can be prescribed as an option for weight loss, provided peer-reviewed evidence of their safety and efficacy exists.",
+            "NHLBI Grade": "B (Moderate)",
+            "ACC/AHA COR": "IIa",
+            "ACC/AHA LOE": "A"
+          },
+          {
+            "Advice": "Use a very-low-calorie diet (defined as < 800 kcal/d) only in limited circumstances with medical supervision due to rapid weight loss.",
+            "NHLBI Grade": "A (Strong)",
+            "ACC/AHA COR": "IIa; A"
+          },
+          {
+            "Advice": "Advise overweight and obese individuals who have lost weight to participate long term (>= 1 year) in a comprehensive weight loss maintenance program.",
+            "NHLBI Grade": "A (Strong)",
+            "ACC/AHA COR": "I",
+            "ACC/AHA LOE": "A"
+          },
+          {
+            "Advice": "For weight loss maintenance, high levels of physical activity (200\u2013300 min/wk), monitoring body weight, and consuming a reduced-calorie diet are recommended.",
+            "NHLBI Grade": "A (Strong)",
+            "ACC/AHA COR": "I",
+            "ACC/AHA LOE": "A"
+          }
+        ],
+        "Bariatric Surgery Recommendations": [
+          {
+            "Advice": "Advise adults with BMI >= 40 kg/m\u00b2 or BMI >= 35 kg/m\u00b2 with obesity-related comorbid conditions who have not responded to behavioral treatment that bariatric surgery may be an option.",
+            "NHLBI Grade": "A (Strong)",
+            "ACC/AHA COR": "IIa",
+            "ACC/AHA LOE": "A"
+          },
+          {
+            "Advice": "For individuals with a BMI < 35 kg/m\u00b2, there is insufficient evidence to recommend for or against undergoing bariatric surgical procedures.",
+            "NHLBI Grade": "N (No Recommendation)",
+            "ACC/AHA COR": "C",
+            "ACC/AHA LOE": "-"
+          },
+          {
+            "Advice": "Advise patients that choice of specific bariatric surgical procedure may be affected by various factors including age and obesity-related comorbid conditions.",
+            "NHLBI Grade": "E (Expert Opinion)",
+            "ACC/AHA COR": "IIb",
+            "ACC/AHA LOE": "C"
+          }
+        ],
+        "Note": "Recommendations are based on evidence, safety, and efficacy from peer-reviewed studies and medical expertise."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2013 AHA/ACC/TOS Guideline for Obesity",
+        "evaluation": [
+          "Measure weight and height to calculate BMI",
+          "Assess and treat risk factors for CVD and obesity-related comorbidities",
+          "Assess weight and lifestyle histories"
+        ],
+        "treatment": [
+          "Advise to avoid weight gain and address risk factors if BMI is 18.5-24.9",
+          "For BMI \u226525, evaluate need to lose weight, readiness for lifestyle changes, and set health goals",
+          "Provide high-intensity comprehensive lifestyle intervention if not ready for lifestyle changes",
+          "Use alternative delivery if needed",
+          "Consider pharmacotherapy for BMI \u226530 or \u226527 with comorbidity",
+          "Refer for bariatric surgery if necessary"
+        ],
+        "follow_up": [
+          "Regular follow-up for weight loss maintenance",
+          "Measure weight and BMI annually or more frequently"
+        ],
+        "outcomes": [
+          "Target weight loss of \u22655% with intensive behavioral treatment",
+          "Continue or adjust treatment based on patient progress"
+        ],
+        "notes": [
+          "Emphasize comprehensive lifestyle interventions",
+          "Consider intensive medical management for CVD risk factors if insufficient weight loss"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Box 1": "A patient encounter for obesity prevention and management involves interaction with a PCP to assess a patient\u2019s weight status for determining presence of overweight or obesity and the need for further assessment and treatment.",
+        "Box 2": "BMI is calculated after measuring weight and height, with the information recorded in the patient\u2019s medical record.",
+        "Box 3": "Defines BMI ranges for overweight and obesity (classes I, II, and III) and identifies adults who may be at increased risk for CVD and other obesity-related conditions.",
+        "Box 4": "Clinicians should assess for CVD and/or presence of obesity-related comorbidities through history, examination, and laboratory assessments like BP and fasting glucose. Waist circumference is used as an indicator of cardiometabolic risk.",
+        "Box 5": "Clinicians should assess weight and lifestyle histories to understand potential factors contributing to weight issues, facilitating effective lifestyle change advice."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guidelines": [
+          {
+            "Box": 6,
+            "Title": "Assess Need to Lose Weight",
+            "Details": {
+              "YES": "Weight loss treatment is indicated for obese individuals (BMI \u226530) and overweight individuals (BMI 25-29.9) with additional risk factors like cardiovascular risk indicators (e.g., diabetes, prediabetes, hypertension, dyslipidemia, elevated waist circumference) or other obesity-related comorbidities.",
+              "NO": "Normal-weight patients (BMI 18.5-24.9) and overweight individuals (BMI 25-29.9) without additional risk factors should be advised to avoid weight gain."
+            }
+          },
+          {
+            "Box": 7,
+            "Title": "Advise to Avoid Weight Gain and Address Other Risk Factors",
+            "Details": {
+              "A": "Normal weight individuals without a history of overweight or obesity should be counseled on the desirability of avoiding weight gain.",
+              "B": "Overweight without additional risk factors or normal weight with a history of overweight or obesity should be advised to measure their weight, adjust food intake, and engage in physical activity.",
+              "C": "Overweight or obese individuals not ready or able to lose weight should be assessed for interest and readiness for weight loss. They should be counseled on avoiding additional weight gain and the importance of addressing cardiovascular risk factors and obesity-related health conditions."
+            }
+          },
+          {
+            "Box": 8,
+            "Title": "Assess Readiness to Make Lifestyle Changes to Achieve Weight Loss and Identify Barriers to Success",
+            "Details": "Clinicians and patients should agree on whether weight loss is appropriate. The readiness to make lifestyle changes, including diet, physical activity, and behavior change strategies, should be assessed. Weight loss efforts must consider competing priorities such as smoking cessation or major life events."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Box 9": {
+          "Title": "Determine Weight Loss and Health Goals and Intervention Strategies",
+          "Summary": "Clinicians and patients should set health goals and use lifestyle treatment strategies for weight loss.",
+          "Recommended goals for weight loss": "A realistic weight loss goal is losing 5%-10% of baseline weight within 6 months.",
+          "Methods for weight loss": "Create an energy deficit through caloric restriction, physical activity, or both. Standard dietary intake is 1,200-1,500 kcal/d for women and 1,500-1,800 kcal/d for men. Very-low-calorie diets should be medically supervised.",
+          "Management of medical conditions": "Manage risk factors (hypertension, dyslipidemia) during weight loss due to medication requirements."
+        },
+        "Box 10": {
+          "Title": "Weight Loss Options\u2014Comprehensive Lifestyle Intervention Alone or With Adjunctive Therapies",
+          "Summary": "All patients should be offered comprehensive lifestyle intervention, preferably with professional guidance, regardless of other interventions.",
+          "Adjunctive therapies": "Recommended if a patient has not succeeded in weight loss with lifestyle changes and has a BMI \u226530 or BMI \u226527 with comorbidity."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "highIntensityLifestyleIntervention": {
+          "definition": "In-person, high-intensity comprehensive lifestyle intervention involves >=14 sessions in 6 months by a trained interventionist.",
+          "components": [
+            "Prescription of a moderately reduced-calorie diet.",
+            "Increased physical activity.",
+            "Behavioral strategies to aid adherence to dietary and activity recommendations."
+          ],
+          "expectedWeightLoss": "Approximately 8 kg in 6 months, equating to 5%-10% of initial weight.",
+          "individualWeightLossVariability": "Accurate prediction of weight loss isn't possible due to variability among individuals.",
+          "postInterventionRequirements": "Adjustment of energy balance is required for additional weight loss; continued intervention contact aids maintenance."
+        },
+        "alternativeDeliveryModes": {
+          "description": "Alternative methods include electronic delivery with personalized feedback, commercial programs, or referrals to nutrition professionals if in-person sessions aren't possible.",
+          "efficacy": "Shows efficacy but usually with less weight loss than high-intensity interventions.",
+          "expertRecommendation": "Use alternative sources if outcomes are scientifically supported."
+        },
+        "pharmacotherapyOption": {
+          "context": "Not comprehensively reviewed, but recommended based on expert opinion.",
+          "recommendations": "For individuals with BMI >=30 kg/m2 or BMI >=27 kg/m2 with comorbid conditions.",
+          "purpose": "Adjunct to lifestyle interventions to aid targeted weight loss.",
+          "notes": [
+            "Medications must be FDA approved.",
+            "Providers should weigh potential risks and benefits."
+          ],
+          "rationale": "Helps patients adhere to lower-calorie diets and physical activity."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Box 13": {
+          "Title": "Offer Referral to an Experienced Bariatric Surgeon for Consultation and Evaluation",
+          "Summary": "For adults with a BMI \u226540 kg/m\u00b2 or BMI \u226535 kg/m\u00b2 with obesity-related comorbid conditions who have not responded to behavioral treatment, bariatric surgery may be an appropriate option to improve health. Surgery should be based on factors like patient motivation and treatment adherence. It should be considered an adjunct to lifestyle treatment including behavioral and dietary modification."
+        },
+        "Box 14": {
+          "Title": "Weight Loss \u22655% of Initial Body Weight and Sufficient Improvement in Health Targets",
+          "Summary": "A comprehensive lifestyle intervention achieving 5%-10% body weight loss is considered successful in reducing obesity-related health risks. If targets are not met, intensification of treatment or referral for bariatric surgery should be considered."
+        },
+        "Box 15": {
+          "Title": "Weight Loss Maintenance",
+          "Summary": "Obesity is chronic, and long-term maintenance strategies are necessary for successful weight management. Regular monitoring and lifestyle changes, such as frequent self-weighing and low-calorie diets, are recommended. Long-term intervention programs are more effective than short-term ones."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Box 16": "If patients are unable to lose enough weight with their current treatment to meet health goals, consider offering more intensive behavioral treatment, alternative diets including meal replacement, referral to a nutrition professional, addition of obesity pharmacotherapy, or evaluation for bariatric surgery. Assess and adjust the patient\u2019s medication regimen if necessary.",
+        "Box 17": "Measure and document BMI at least annually in all patients. More frequent monitoring may be appropriate for overweight or obese individuals.",
+        "Box 18": "Determine if intensified treatment strategies have led to successful weight loss and risk factor reduction to achieve health goals.",
+        "Box 19": "Manage cardiovascular risk factors and obesity-related conditions actively, and reassess the patient\u2019s ability to sustain weight loss periodically. Address medical or contributory factors and consider additional weight management options."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Chronic Disease Management": "The guideline emphasizes the need for a committed patient with informed providers to effectively manage chronic conditions like obesity and its cardiovascular risk factors.",
+        "Clinical Questions (CQs)": "CQs and Corresponding ESs are discussed, involving systematic reviews and meta-analyses with evaluations for good or fair quality articles.",
+        "CQ1": {
+          "Statement": "Addresses the effects of body weight reduction through lifestyle and pharmacological interventions on cardiovascular risk factors, CVD events, morbidity, and mortality.",
+          "Demographic and Clinical Characteristics": [
+            "Age",
+            "Sex",
+            "Race/ethnicity",
+            "Baseline BMI",
+            "Baseline waist circumference",
+            "Presence or absence of comorbid conditions",
+            "Presence or absence of cardiovascular risk factors"
+          ],
+          "Important Questions": [
+            "Effect of demographic factors on results",
+            "Amount of weight loss for cardiovascular benefit",
+            "Benefits of further weight loss",
+            "Effect of sustained weight loss over 2 years on outcomes"
+          ]
+        },
+        "Review Details": "The ESs reflect the Expert Panel's review of the published literature as of October 2011.",
+        "Evidence Statements": {
+          "ES1": {
+            "Description": "Weight loss of 2.5 to 5.5 kg over 2 years reduces risk of developing type 2 diabetes by 30% to 60%.",
+            "Strength of Evidence": "High"
+          },
+          "ES2": {
+            "Description": "2% to 5% weight loss in 1-4 years reduces fasting plasma glucose and hemoglobin A1c by 0.2% to 0.3%.",
+            "Strength of Evidence": "High"
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview": "The guidelines discuss the impact of weight loss on individuals with type 2 diabetes and elevated cardiovascular risk. Weight loss through lifestyle interventions and medications like orlistat has been shown to improve several health parameters, including hemoglobin A1c, fasting glucose concentrations, and lipid profiles.",
+        "Key Points": [
+          {
+            "Point": "In overweight and obese adults with type 2 diabetes, a weight loss of 5% to 10% is associated with significant improvements in hemoglobin A1c and reduction in diabetes medications.",
+            "Strength of Evidence": "High"
+          },
+          {
+            "Point": "Weight loss achieved through lifestyle interventions leads to greater reduction in fasting glucose concentrations than in those who remain weight stable.",
+            "Strength of Evidence": "High"
+          },
+          {
+            "Point": "Orlistat combined with lifestyle intervention enhances weight loss and results in greater reduction in fasting blood glucose and hemoglobin A1c.",
+            "Strength of Evidence": "High"
+          },
+          {
+            "Point": "Weight loss contributes to improvements in cholesterol and lipid profiles, with reductions in LDL-C and increases in HDL-C.",
+            "Strength of Evidence": "High"
+          },
+          {
+            "Point": "A 5% mean weight loss over 4 years by lifestyle intervention is linked to lower blood pressure and improved lipid-lowering medication effectiveness.",
+            "Strength of Evidence": "Moderate"
+          },
+          {
+            "Point": "Among those with elevated cardiovascular risk, there is a dose-response relationship between weight loss and blood pressure reduction.",
+            "Strength of Evidence": "High"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "3.2. CQ2: Statement of the Question",
+        "question_a": "Are the current cutoff values for overweight and obesity associated with elevated CVD-related risk and overall mortality?",
+        "sub_questions_a": [
+          "Fatal and nonfatal CHD, stroke, and CVD",
+          "Overall mortality",
+          "Incident type 2 diabetes",
+          "Incident dyslipidemia",
+          "Incident hypertension"
+        ],
+        "question_b": "Are differences across population subgroups in the relationships of BMI and waist circumference cutpoints with CVD, its risk factors, and overall mortality sufficiently large to warrant different cutpoints?",
+        "groups_considered": [
+          "Age",
+          "Sex (both male and female)",
+          "Race/ethnicity"
+        ],
+        "question_c": "What are the associations between weight maintenance and weight gain with elevated CVD-related risk in normal-weight, overweight, and obese adults?"
+      },
+      "genes": []
+    },
+    {
+      "content": [
+        {
+          "ES6": {
+            "description": "With current BMI cutpoints, the relative risk of fatal CVD was higher in obese white women than in obese African-American women compared with normal-weight women.",
+            "strength_of_evidence": "Low"
+          }
+        },
+        {
+          "ES7": {
+            "description": "Analyses of continuous BMI show that the greater the BMI, the higher the risk of type 2 diabetes.",
+            "strength_of_evidence": "Moderate"
+          }
+        },
+        {
+          "ES8": {
+            "description": "For overweight and obese adults, higher BMI is associated with greater risk of all-cause mortality, especially at a BMI \u226530 kg/m\u00b2.",
+            "strength_of_evidence": "Moderate"
+          }
+        },
+        {
+          "ES9": {
+            "description": "Sex-specific analyses indicate similar risk of all-cause mortality for men and women based on BMI.",
+            "strength_of_evidence": "Moderate"
+          }
+        },
+        {
+          "Section 3.2.2": {
+            "description": "Insufficient evidence regarding waist circumference for overweight and obesity due to lack of systematic reviews and meta-analyses."
+          }
+        },
+        {
+          "Section 3.3": {
+            "description": "Exploration of the comparative efficacy/effectiveness of various diet forms and strategies in overweight or obese adults."
+          }
+        }
+      ],
+      "genes": []
+    },
+    {
+      "content": {
+        "caloric recommendations": {
+          "women": "1,200 to 1,500 kcal/day",
+          "men": "1,500 to 1,800 kcal/day",
+          "other factors": "body weight and physical activity"
+        },
+        "energy prescriptions": [
+          "Energy deficit of 500 kcal/day or 750 kcal/day or 30% energy deficit"
+        ],
+        "dietary approaches": [
+          "European Association for the Study of Diabetes Guideline",
+          "Higher-protein diet (25% of total calories from protein)",
+          "Higher-protein Zone\u2122-type diet (5 meals/day)",
+          "Lacto\u2013ovo\u2013vegetarian\u2013style diet",
+          "Low-calorie diet",
+          "Low-carbohydrate diet (<20 g/day)",
+          "Low-fat vegan-style diet (10% to 25% fat)",
+          "Low-fat diet (20% of total calories from fat)",
+          "Low-glycemic-load diet",
+          "Lower-fat, high-dairy diet"
+        ],
+        "macronutrient-targeted diets": [
+          "15% or 25% of total calories from protein",
+          "20% or 40% of total calories from fat",
+          "35%, 45%, 55%, or 65% of total calories from carbohydrates"
+        ],
+        "diet types and evidence strength": [
+          {
+            "diet": "Mediterranean-style diet",
+            "evidence": "High"
+          },
+          {
+            "diet": "AHA-style Step 1 diet",
+            "evidence": "High"
+          }
+        ],
+        "weight loss details": [
+          "Weight loss is maximal at 6 months",
+          "Weight loss techniques aim for 4 kg to 12 kg at 6 months",
+          "Weight regain is observed after 1 year with total weight loss at 4 kg to 10 kg"
+        ],
+        "low-fat approaches": [
+          {
+            "detail": "Comparable weight loss at 6 to 12 months with lower-fat diet compared with higher-fat diet",
+            "evidence": "Moderate"
+          },
+          {
+            "benefits": [
+              "Reduced LDL-C",
+              "Reduced serum triglycerides",
+              "Reduced HDL-C"
+            ],
+            "evidence": "Moderate"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_title": "2013 AHA/ACC/TOS Guideline for Obesity",
+        "strength_of_evidence": {
+          "lower_fat_vs_higher_carbohydrate_diets": "Low",
+          "higher_protein_diets_weight_loss": {
+            "general_population": "High",
+            "weight_loss_and_nutrients": "Low"
+          },
+          "low_carbohydrate_diets_weight_loss": "Low",
+          "low_glycemic_load_diets": "Low",
+          "dietary_patterns_weight_loss": "Low",
+          "meal_replacement_liquid_diets": "Low",
+          "very_low_calorie_diet_strategies": "Low"
+        },
+        "dietary_approaches": {
+          "higher_protein": "Recommendations to increase dietary protein (25% of total calories) in overweight and obese adults result in weight loss equivalent to a typical protein diet (15% of calories).",
+          "low_carbohydrate": "No differences in weight loss at 6 months were observed between carbohydrate-restricted and low-fat diets.",
+          "glycemic_load": "Both high and low glycemic-load diets produce comparable weight loss over 6 months.",
+          "dietary_patterns": "Calorie-restricted dietary patterns can produce weight loss comparable to an energy-restricted, lower-fat diet.",
+          "meal_replacement": "Liquid and bar meal replacements associated with increased weight loss at up to 6 months.",
+          "very_low_calorie": "Insufficient evidence to comment on the value of very-low-calorie diet interventions for weight loss."
+        },
+        "questions": [
+          "What is the efficacy of comprehensive lifestyle intervention programs in weight management for overweight and obese adults?",
+          "What characteristics of delivering comprehensive lifestyle interventions are associated with weight loss or maintenance?"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Guideline Summary": "The guideline discusses comprehensive lifestyle interventions for obesity involving dietary prescription, physical activity, and behavioral therapy. It details the development and validation process of studies, and the strength of evidence supporting these interventions.",
+        "Intervention Components": [
+          "Dietary prescription to reduce caloric intake.",
+          "Increased physical activity, recommending 150 min/week.",
+          "Behavioral strategies for adherence."
+        ],
+        "Weight Loss Interventions": [
+          {
+            "Type": "Short-Term Weight Loss",
+            "Method": "Comprehensive lifestyle interventions with diet, physical activity, and behavior therapy.",
+            "Outcome": "Average weight losses of up to 8 kg in 6 months.",
+            "Strength of Evidence": "High"
+          },
+          {
+            "Type": "Intermediate-Term Weight Loss",
+            "Method": "Weekly to monthly on-site treatment.",
+            "Outcome": "Average weight losses of up to 8 kg at 1 year.",
+            "Strength of Evidence": "High"
+          },
+          {
+            "Type": "Long-Term Weight Loss",
+            "Method": "Intervention continuing bi-monthly or more frequent for over a year.",
+            "Outcome": "Gradual weight regain of 1 to 2 kg/year post first year.",
+            "Strength of Evidence": "Moderate"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "3.4.3": {
+          "Title": "Efficacy/Effectiveness of Electronically Delivered, Comprehensive Interventions in Achieving Weight Loss",
+          "Details": "Electronically delivered interventions, including self-monitoring of weight, food intake, and physical activity, can produce weight loss of up to 5 kg at 6 to 12 months. Strength of Evidence: Moderate."
+        },
+        "3.4.4": {
+          "Title": "Efficacy/Effectiveness of Comprehensive, Telephone-Delivered Lifestyle Interventions in Achieving Weight Loss",
+          "Details": "Telephone-based interventions can produce weight loss of approximately 5 kg at 6 months and 24 months. Strength of Evidence: Low."
+        },
+        "3.4.5": {
+          "Title": "Efficacy/Effectiveness of Comprehensive Weight Loss Programs within a Primary Care Practice Setting Compared With Usual Care",
+          "Details": "Lifestyle interventions for weight loss have not been shown to be effective in primary care alone. Strength of Evidence: High."
+        },
+        "3.4.6": {
+          "Title": "Efficacy/Effectiveness of Commercial-Based, Comprehensive Lifestyle Interventions in Achieving Weight Loss",
+          "Details": "Commercial-based interventions can induce an average weight loss of 4.8 kg to 6.6 kg at 6 months and 6.6 kg to 10.1 kg at 12 months when conventional or prepared foods are provided. Strength of Evidence: Low."
+        },
+        "3.4.7": {
+          "Title": "Efficacy/Effectiveness of Very-Low-Calorie Diets as Used as Part of a Comprehensive Lifestyle Intervention in Achieving Weight Loss",
+          "Details": "Very-low-calorie diets can result in 14.2 kg to 21.0 kg weight loss over 11 to 14 weeks. Weight regain can occur after the cessation. Strength of Evidence: High."
+        },
+        "3.4.8": {
+          "Title": "Efficacy/Effectiveness of Comprehensive Lifestyle Interventions in Maintaining Lost Weight",
+          "Details": "Continued weight loss maintenance reduces weight regain. 35% to 60% maintain a loss of \u22655% initial body weight at \u22652 years. Strength of Evidence: Moderate."
+        },
+        "3.4.9": {
+          "Title": "Characteristics of Lifestyle Intervention Delivery That May Affect Weight Loss: Intervention Intensity",
+          "Details": "Moderate-intensity, on-site interventions average 1 to 2 treatment sessions per week."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Title": "2013 AHA/ACC/TOS Guideline for Obesity",
+        "Strength of Evidence": {
+          "High-Intensity Interventions": "High",
+          "Low-Intensity Interventions": "Moderate",
+          "Effect of Intervention Intensity": "Moderate",
+          "Individual vs Group Treatment": "Low",
+          "On-Site vs Electronically Delivered Interventions": "Low"
+        },
+        "Weight Loss Recommendations": {
+          "High-Intensity Interventions": "\u226514 sessions in 6 months to achieve greater weight loss compared to low- to moderate-intensity interventions.",
+          "On-Site Delivery": "Greater weight loss compared to electronic delivery."
+        },
+        "Bariatric Surgery": {
+          "Procedures Discussed": [
+            "Laparoscopic adjustable gastric banding (LAGB)",
+            "Laparoscopic Roux-en-Y gastric bypass (RYGB)",
+            "Open RYGB",
+            "Biliopancreatic diversion (BPD) with and without duodenal switch",
+            "Sleeve gastrectomy"
+          ],
+          "Patient BMIs and Comorbidities": [
+            "BMI <35",
+            "BMI 35 to <40 with no comorbidities",
+            "BMI \u226535 with comorbidities",
+            "BMI \u226540 with no comorbidities"
+          ]
+        },
+        "Questions Posed": [
+          "Long-term effects of surgical procedures on weight loss and comorbidities.",
+          "Predictors associated with long-term effects and complications."
+        ],
+        "Complications": {
+          "Short-term": "<30 days",
+          "Long-term": "\u226530 days",
+          "Predictors of complications": [
+            "LAGB",
+            "Laparoscopic RYGB",
+            "Open RYGB",
+            "BPD with and without duodenal switch",
+            "Sleeve gastrectomy"
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "overview": "The guideline discusses the evaluation of efficacy endpoints for weight loss and health outcomes after bariatric surgery in obese adults. It highlights the importance of long-term follow-up and comparison with non-surgical treatments.",
+        "requirements": "Studies required a 2-year postsurgical follow-up and inclusion of a nonsurgical comparator group. Sample size requirements for observational studies were \u2265100 and \u2265500 for others.",
+        "efficacy": "5 studies met criteria for assessing bariatric surgery's impact. Surgery showed significant weight loss and maintenance benefits compared to non-surgical methods.",
+        "outcomes": "Weight loss at 2-3 years post-surgery ranges from 20%-35% of initial weight. At 10 years, the average weight regain is 7%. For type 2 diabetes, post-surgery patients showed decreased incidence and remission likelihood."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": [
+          "Bariatric surgery outcomes include mean weight loss of 20% to 35%, and reductions in BP medication usage compared with nonsurgical management.",
+          "The strength of evidence for various outcomes such as remission of hypertension and quality of life improvement is generally low to moderate.",
+          "Total mortality is decreased following bariatric surgery, with a mean follow-up of 11 years showing a greater long-term weight loss.",
+          "Remission of obesity-related comorbidities such as type 2 diabetes and hypertension varies by procedure.",
+          "Complications after bariatric surgery are generally low, with some risks in major and minor outcomes."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Strength of Evidence: Moderate": [
+          "Longer-term complications can occur over time and may require operative correction, with specific rates provided for band displacement, gastric wall erosion, and port complications.",
+          "Failure rate of long-term LAGB leading to removal or conversion of the band ranges from 2% to 34%, with inadequate weight loss being the most common basis for removal.",
+          "In gastric bypass, perioperative complications happen in approximately 4% to 5% of cases, and the frequency varies slightly when laparoscopic versus open incision is considered."
+        ],
+        "Strength of Evidence: Low": [
+          "Identified specific post-surgical complications, like high rates of ventral hernia in certain procedures, and nutrient-related issues such as deficiency of protein, iron, and vitamin D.",
+          "Perioperative complications are linked with factors like high BMI or history of deep vein thrombosis/embolism. Complication types include anemia, neuropathy, and hormonal imbalances."
+        ],
+        "Gaps in Evidence": [
+          "Identified by the expert panel in areas such as the role of baseline comorbid conditions and cardiovascular risk factors in modifying weight loss response."
+        ],
+        "Recommendations for Future Research": [
+          "Design of future research should address specific gaps, notably in how demographic factors and existing comorbid conditions might affect weight loss benefits."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Sections": {
+          "4.2": {
+            "Title": "CQ2 (Risks of Overweight and Obesity)",
+            "Summary": "Focuses on the need for evidence-based methods to identify overweight and obesity risks related to CVD, risk factors, and mortality. Emphasizes the importance of BMI and waist circumference studies, measurement techniques, population subgroup studies, and longitudinal risk assessments."
+          },
+          "4.3": {
+            "Title": "CQ3 (Dietary Interventions for Weight Loss)",
+            "Summary": "Highlights the need for further research to guide dietary intervention strategies for weight loss."
+          },
+          "4.4": {
+            "Title": "CQ4 (Lifestyle Interventions for Weight Loss)",
+            "Summary": "Points out the necessity of research for effective lifestyle interventions, focusing on on-site comprehensive programs, remote delivery methods, and the need for strategies tailored to special populations and community settings."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Section": "4.5. CQ5 (Surgical Procedures for Weight Loss)",
+        "Context": [
+          "More research is needed to inform future guidelines concerning bariatric surgery.",
+          "Bariatric surgery offers potential benefits in remission of diabetes, better control of cardiovascular risk factors, and quality of life.",
+          "Research is needed to better characterize patients most and least likely to benefit from surgery.",
+          "Large studies are needed to determine the long-term risks and benefits of bariatric surgery.",
+          "Studies should evaluate surgical procedures based on patient differences like age, sex, and genetic etiology.",
+          "Evaluation of bariatric surgery in nonacademic settings is necessary."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_information": "The image contains a list of references related to clinical studies and guidelines on obesity, weight management, diabetes, cardiovascular risk, diet, and lifestyle interventions. The guidelines and studies cover topics such as the effects of weight loss in overweight individuals, dietary interventions, pharmacological weight loss treatments, and long-term health outcomes. Some studies focus specifically on individuals with type 2 diabetes, and there is a mention of protein intake, low-glycemic diets, and body mass index as factors influencing health outcomes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2013 AHA/ACC/TOS Guideline for Obesity",
+        "key_points": [
+          "The document reviews various studies related to weight management and obesity.",
+          "Different dietary interventions are discussed, such as low-fat diets, Mediterranean-style diets, and energy-restricted diets.",
+          "The effectiveness of lifestyle changes, physical activity, and behavioral counseling in managing obesity and type 2 diabetes is emphasized.",
+          "The importance of maintaining weight loss post-intervention is highlighted.",
+          "Several studies focus on the long-term effects of diet and exercise interventions in reducing risks associated with obesity-related diseases."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_title": "2013 AHA/ACC/TOS Guideline for Obesity",
+        "publication_details": "JACC Vol. 63, No. 25, 2014, July 1, 2014:2985-3023",
+        "main_topics": [
+          "weight management",
+          "obesity treatment",
+          "exercise impact",
+          "diet interventions",
+          "surgical options for obesity",
+          "associated conditions like diabetes and hypertension",
+          "behavioral interventions",
+          "pharmacotherapy",
+          "clinical trials and studies related to obesity"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document": "2013 AHA/ACC/TOS Guideline for Obesity",
+        "key_topics": [
+          "Bariatric surgery and its effects on obesity and comorbidities, including cardiovascular risk.",
+          "Long-term outcomes and safety of different types of bariatric surgeries such as Roux-en-Y gastric bypass and laparoscopic adjustable gastric banding.",
+          "Impact on weight loss, diabetes management, and other diseases related to obesity.",
+          "Comparative studies and randomized trials assessing surgical vs. non-surgical interventions for obesity."
+        ],
+        "references": "Citations provided from studies published in various years showcasing the impact of obesity interventions."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Document Title": "2013 AHA/ACC/TOS Guideline for the Management of Overweight and Obesity in Adults",
+        "Authors and Associations": [
+          {
+            "Name": "Michael D. Jensen",
+            "Affiliations": "Mayo Clinic, Endocrine Research Unit",
+            "Relationships": {
+              "Consultant": {
+                "2008-2012": [
+                  "Eisai",
+                  "Novo Nordisk",
+                  "Vivus"
+                ],
+                "2013": []
+              },
+              "Speakers Bureau": "None",
+              "Ownership/Partnership/Principal": "None",
+              "Personal Research": "None",
+              "Expert Witness": "None"
+            }
+          },
+          {
+            "Name": "Donna H. Ryan",
+            "Affiliations": "Pennington Biomedical Research Center",
+            "Relationships": {
+              "Consultant": {
+                "2008-2012": [
+                  "Alere Wellbeing",
+                  "Amylin",
+                  "Arena Pharmaceuticals",
+                  "Eisai",
+                  "Novo Nordisk",
+                  "Nutrisystem",
+                  "Orexigen",
+                  "Takeda",
+                  "Vivus"
+                ],
+                "2013": [
+                  "Arena Pharmaceuticals",
+                  "Eisai",
+                  "Novo Nordisk",
+                  "Takeda",
+                  "Vivus"
+                ]
+              },
+              "Speakers Bureau": "None",
+              "Ownership/Partnership/Principal": {
+                "2008-2012": "None",
+                "2013": [
+                  "Scientific Intake"
+                ]
+              },
+              "Personal Research": "None",
+              "Expert Witness": "None"
+            }
+          },
+          {
+            "Name": "Caroline M. Apovian",
+            "Affiliations": "Boston Medical Center",
+            "Relationships": {
+              "Consultant": {
+                "2008-2012": [
+                  "Amylin",
+                  "Arena Pharmaceuticals",
+                  "Johnson & Johnson",
+                  "Merck",
+                  "Nutrisystem",
+                  "Orexigen",
+                  "Sanofi-aventis",
+                  "Zafgen"
+                ],
+                "2013": [
+                  "Abbott Nutrition",
+                  "Allergan",
+                  "Amylin",
+                  "Arena Pharmaceuticals",
+                  "GI Dynamics",
+                  "Johnson & Johnson",
+                  "Merck",
+                  "Novo Nordisk",
+                  "Nutrisystem",
+                  "Orexigen Therapeutics",
+                  "Pfizer",
+                  "Sanofi-aventis",
+                  "Zafgen"
+                ]
+              },
+              "Speakers Bureau": "None",
+              "Ownership/Partnership/Principal": "None",
+              "Personal Research": [
+                "2013: [Amylin, Aspire Bariatrics, Dr. Robert C. and Veronica Atkins Foundation, Eli Lilly, MetaProteomics, Orexigen Therapeutics, Pfizer, Sanofi-aventis]"
+              ],
+              "Expert Witness": "None"
+            }
+          },
+          {
+            "Name": "Jamy D. Ard",
+            "Affiliations": "Wake Forest University",
+            "Relationships": {
+              "Consultant": {
+                "2008-2012": [
+                  "Arena Pharmaceuticals",
+                  "Nestle Healthcare Nutrition",
+                  "OPTIFAST Division",
+                  "Vivus"
+                ],
+                "2013": [
+                  "Eisai",
+                  "Nestle Healthcare Nutrition",
+                  "OPTIFAST Division",
+                  "Vivus"
+                ]
+              },
+              "Speakers Bureau": "None",
+              "Ownership/Partnership/Principal": "None",
+              "Personal Research": "OPTIFAST \u2013 Medical Director",
+              "Expert Witness": "None"
+            }
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document_info": {
+          "title": "2013 AHA/ACC/TOS Guideline for Obesity",
+          "publication": "JACC Vol. 63, No. 25, 2014",
+          "date": "July 1, 2014"
+        },
+        "sections": [
+          {
+            "name": "Appendix 1. Continued",
+            "committee_members": [
+              {
+                "name": "Anthony G. Comuzzie",
+                "affiliation": "Southwest Foundation for Biomedical Research",
+                "roles": [
+                  "Consultant",
+                  "Speaker",
+                  "Personal Research",
+                  "Expert Witness"
+                ],
+                "years": [
+                  "2008-2012",
+                  "2013"
+                ]
+              },
+              {
+                "name": "Karen A. Donato",
+                "affiliation": "NHLBI\u2014Acting Director, Division for the Application of Research Discoveries",
+                "roles": [
+                  "Consultant",
+                  "Speaker"
+                ],
+                "years": [
+                  "2008-2012",
+                  "2013"
+                ]
+              },
+              {
+                "name": "Frank B. Hu",
+                "affiliation": "Harvard University School of Public Health\u2014Professor",
+                "roles": [
+                  "Consultant",
+                  "Speaker"
+                ],
+                "companies": [
+                  "Amgen",
+                  "Novo Nordisk",
+                  "Nutrition Impact",
+                  "Unilever"
+                ],
+                "years": [
+                  "2008-2012",
+                  "2013"
+                ]
+              },
+              {
+                "name": "Van S. Hubbard (Ex-officio)",
+                "affiliation": "NIDDK\u2014Director, NIH Division of Nutrition Research Coordination",
+                "roles": [
+                  "Consultant",
+                  "Speaker"
+                ],
+                "years": [
+                  "2008-2012",
+                  "2013"
+                ]
+              },
+              {
+                "name": "John M. Jakicic",
+                "affiliation": "University of Pittsburgh\u2014Professor and Chair, Physical Activity and Weight Management Research Center",
+                "roles": [
+                  "Consultant",
+                  "Speaker"
+                ],
+                "companies": [
+                  "Alere Wellbeing",
+                  "Jenny Craig",
+                  "Nestle Nutrition"
+                ],
+                "years": [
+                  "2008-2012",
+                  "2013"
+                ]
+              },
+              {
+                "name": "Robert F. Kushner",
+                "affiliation": "Northwestern University Feinberg School of Medicine\u2014Professor",
+                "roles": [
+                  "Consultant",
+                  "Speaker"
+                ],
+                "companies": [
+                  "Abbott",
+                  "Amylin",
+                  "Novo Nordisk"
+                ],
+                "years": [
+                  "2008-2012",
+                  "2013"
+                ]
+              },
+              {
+                "name": "Catherine M. Loria (Ex-officio)",
+                "affiliation": "NHLBI\u2014Nutritional Epidemiologist",
+                "roles": [
+                  "Consultant",
+                  "Speaker"
+                ],
+                "years": [
+                  "2008-2012",
+                  "2013"
+                ]
+              },
+              {
+                "name": "Barbara E. Millen",
+                "affiliation": "Boston Nutrition Foundation\u2014Chairman; Millennium Prevention\u2014President",
+                "roles": [
+                  "Consultant",
+                  "Speaker"
+                ],
+                "years": [
+                  "2008-2012",
+                  "2013"
+                ]
+              },
+              {
+                "name": "Cathy A. Nonas",
+                "affiliation": "NYC Dept of Health and Mental Hygiene\u2014Senior Advisor, Bureau for Chronic Disease Prevention and Tobacco Control",
+                "roles": [
+                  "Consultant",
+                  "Speaker"
+                ],
+                "years": [
+                  "2008-2012",
+                  "2013"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Purpose": "This table discloses the relevant healthcare-related relationships of authors with industry and other entities provided by the Expert Panel during the document development process (2008-2012).",
+        "Review Process": "Relationships were reviewed and updated in conjunction with all meetings and conference calls of the Expert Panel during the document development process.",
+        "Transparency": "These relationships provide transparency and follow the ACC/AHA's policy on managing relationships with industry and others."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Expert Reviewer Relationships With Industry and Other Entities\u20142013 AHA/ACC/TOS Guideline for the Management of Overweight and Obesity in Adults",
+        "Publication Info": "JACC Vol. 63, No. 25, 2014 July 1, 2014: 2985-3023",
+        "Description": "This document lists the expert reviewers and their disclosed relationships with industries related to the management of overweight and obesity.",
+        "Reviewers": [
+          {
+            "Name": "William H. Dietz",
+            "Representation": "ACC/AHA",
+            "Employment": "Centers for Disease Control and Prevention",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Penny Gordon-Larsen",
+            "Representation": "TOS",
+            "Employment": "University of North Carolina",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Lee M. Kaplan",
+            "Representation": "TOS",
+            "Employment": "Massachusetts General Hospital",
+            "Consultant": [
+              "AMAG Pharmaceuticals",
+              "Bristol-Myers Squibb",
+              "Eisai",
+              "Ethicon *",
+              "Fractyl",
+              "Gelesis",
+              "GI Dynamics \u007f",
+              "MedImmune",
+              "Novo Nordisk",
+              "Pfizer",
+              "Rhythm \u007f",
+              "USGI Medical",
+              "Vivus",
+              "Zafgen"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Financial Benefit": "Ethicon *",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Paul Poirier",
+            "Representation": "ACC/AHA",
+            "Employment": "Laval University",
+            "Consultant": [
+              "AstraZeneca",
+              "Bristol-Myers Squibb",
+              "Merck"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Susan J. Pressler",
+            "Representation": "ACC/AHA Task Force on Practice Guidelines",
+            "Employment": "University of Michigan School of Nursing",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Financial Benefit": "Pfizer *",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Rena R. Wing",
+            "Representation": "TOS",
+            "Employment": "Brown University",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Financial Benefit": "None",
+            "Expert Witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2013 AHA/ACC/TOS Guideline for Obesity",
+        "Date": "July 1, 2014",
+        "Journal": "JACC Vol. 63, No. 25, 2014",
+        "Page": 3023,
+        "Abbreviations": {
+          "BMI": "body mass index",
+          "BP": "blood pressure",
+          "BPD": "biliopancreatic diversion",
+          "CHD": "coronary heart disease",
+          "CVD": "cardiovascular disease",
+          "COR": "Class of Recommendation",
+          "CQ": "critical question",
+          "ES": "evidence statement",
+          "HDLC": "high-density lipoprotein cholesterol",
+          "I/E": "inclusion/exclusion",
+          "LAGB": "laparoscopic adjustable gastric banding",
+          "LDLC": "low-density lipoprotein cholesterol",
+          "LOE": "Level of Evidence",
+          "NHLBI": "National Heart, Lung, and Blood Institute",
+          "PCP": "primary care practitioner",
+          "RWI": "relationships of authors with industry and other entities",
+          "RYGB": "laparoscopic Roux-en-Y gastric bypass"
+        }
+      },
+      "genes": []
+    }
+  ],
+  "genes": []
+}

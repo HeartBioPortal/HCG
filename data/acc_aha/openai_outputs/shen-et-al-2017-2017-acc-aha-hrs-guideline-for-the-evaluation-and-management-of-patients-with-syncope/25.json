@@ -1,0 +1,31 @@
+{
+  "content": {
+    "Recommendations for Supraventricular Tachycardia (SVT)": {
+      "In patients with syncope and SVT, GDMT is recommended.": {
+        "COR": "I",
+        "LOE": "C-EO"
+      },
+      "Notes": [
+        "Patients with SVT often manifest palpitations and lightheadedness, while syncope is uncommon.",
+        "Older patients with paroxysmal SVT are more prone to syncope than younger patients.",
+        "Evaluation should differentiate arrhythmic syncope from nonarrhythmic syncope."
+      ]
+    },
+    "Recommendations for Ventricular Arrhythmia (VA)": {
+      "In patients with syncope and VA, GDMT is recommended.": {
+        "COR": "I",
+        "LOE": "C-EO"
+      },
+      "Notes": [
+        "Patients with VA may present with syncope that is nonsustained or sustained.",
+        "Syncope from VA is multifactorial and depends on severity of the underlying cardiac disease."
+      ]
+    },
+    "Structural Conditions": {
+      "Syncope in patients with underlying heart diseases is not infrequent, and comprehensive guidelines are provided.": [
+        "ACC/AHA guidelines were reviewed to ensure current practices remain effective."
+      ]
+    }
+  },
+  "genes": []
+}

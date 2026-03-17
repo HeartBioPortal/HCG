@@ -1,0 +1,100 @@
+{
+  "content": {
+    "Synopsis": "A major risk factor for aortic root aneurysms, ascending aortic aneurysms, and aortic dissection is a pathogenic variant in genes predisposing to TAD. Genetic testing may play a role in many TAD patients. A multigene panel for HTAD is cost-effective. Clinical genetic testing is integral to evaluating patients with TAD showing indicators of single gene disorder.",
+    "Recommendation-Specific Supportive Text": [
+      "1. 13% to 20% of patients with TAD and without Marfan/Loeys-Dietz/Vascular Ehlers-Danlos syndrome have affected first-degree relatives.",
+      "2. HTAD genetic testing panels include genes for systemic features overlapping with Marfan syndrome, Loeys-Dietz syndrome, or vascular Ehlers-Danlos syndrome.",
+      "3. Specific genes have been associated with HTAD. ",
+      "4. Genetic counseling should assist families in understanding TAD risk."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "FBN1",
+      "Associated Conditions": [
+        "HTAD",
+        "Marfan syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "FBN1 identified in individuals with HTAD who do not have Marfan syndrome symptoms."
+    },
+    {
+      "Gene": "TGFBR1",
+      "Associated Conditions": [
+        "HTAD",
+        "Loeys-Dietz syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "TGFBR1 implicated in HTAD families lacking syndromic features."
+    },
+    {
+      "Gene": "TGFBR2",
+      "Associated Conditions": [
+        "HTAD",
+        "Loeys-Dietz syndrome",
+        "TAA"
+      ],
+      "Occurrences": 2,
+      "context": "TGFBR2 associated with risk for thoracic aortic aneurysm dissection, and related diseases."
+    },
+    {
+      "Gene": "SMAD3",
+      "Associated Conditions": [
+        "HTAD"
+      ],
+      "Occurrences": 1,
+      "context": "SMAD3 identified in HTAD families without syndromic features."
+    },
+    {
+      "Gene": "TGFB2",
+      "Associated Conditions": [
+        "HTAD",
+        "TAA",
+        "vascular diseases"
+      ],
+      "Occurrences": 2,
+      "context": "TGFB2 mutation predisposes to multiple aneurysms and dissections."
+    },
+    {
+      "Gene": "ACTA2",
+      "Associated Conditions": [
+        "HTAD",
+        "occlusive vascular disease"
+      ],
+      "Occurrences": 2,
+      "context": "ACTA2 mutations lead to TAA and occlusive vascular disease."
+    },
+    {
+      "Gene": "MYH11",
+      "Associated Conditions": [
+        "HTAD"
+      ],
+      "Occurrences": 1,
+      "context": "MYH11 confirmed in HTAD with significant aortic features."
+    },
+    {
+      "Gene": "MYLK",
+      "Associated Conditions": [
+        "HTAD"
+      ],
+      "Occurrences": 1,
+      "context": "MYLK confirmed in HTAD with aortic features."
+    },
+    {
+      "Gene": "LOX",
+      "Associated Conditions": [
+        "HTAD"
+      ],
+      "Occurrences": 1,
+      "context": "LOX confirmed in HTAD families."
+    },
+    {
+      "Gene": "PRKG1",
+      "Associated Conditions": [
+        "HTAD"
+      ],
+      "Occurrences": 1,
+      "context": "PRKG1 confirmed in families showing TAD features."
+    }
+  ]
+}

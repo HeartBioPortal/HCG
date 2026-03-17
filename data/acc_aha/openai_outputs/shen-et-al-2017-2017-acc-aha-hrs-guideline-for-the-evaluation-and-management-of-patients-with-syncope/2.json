@@ -1,0 +1,218 @@
+{
+  "content": {
+    "Title": "2017 ACC/AHA/HRS Syncope Guideline",
+    "Sections": [
+      {
+        "Title": "Preamble",
+        "Page": "e41"
+      },
+      {
+        "Title": "Introduction",
+        "Subsections": [
+          {
+            "Title": "Methodology and Evidence Review",
+            "Page": "e43"
+          },
+          {
+            "Title": "Organization of the Writing Committee",
+            "Page": "e44"
+          },
+          {
+            "Title": "Document Review and Approval",
+            "Page": "e44"
+          },
+          {
+            "Title": "Scope of the Guideline",
+            "Page": "e44"
+          }
+        ]
+      },
+      {
+        "Title": "General Principles",
+        "Subsections": [
+          {
+            "Title": "Definitions: Terms and Classification",
+            "Page": "e45"
+          },
+          {
+            "Title": "Epidemiology and Demographics",
+            "Page": "e45"
+          },
+          {
+            "Title": "Initial Evaluation of Patients With Syncope",
+            "Subsections": [
+              {
+                "Title": "History and Physical Examination: Recommendation",
+                "Page": "e48"
+              },
+              {
+                "Title": "Electrocardiography: Recommendation",
+                "Page": "e49"
+              },
+              {
+                "Title": "Risk Assessment: Recommendations",
+                "Page": "e49"
+              },
+              {
+                "Title": "Disposition After Initial Evaluation: Recommendations",
+                "Page": "e51"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Title": "Additional Evaluation and Diagnosis",
+        "Subsections": [
+          {
+            "Title": "Blood Testing: Recommendations",
+            "Page": "e54"
+          },
+          {
+            "Title": "Cardiovascular Testing: Recommendations",
+            "Subsections": [
+              {
+                "Title": "Cardiac Imaging: Recommendation",
+                "Page": "e55"
+              },
+              {
+                "Title": "Stress Testing: Recommendation",
+                "Page": "e56"
+              },
+              {
+                "Title": "Cardiac Monitoring: Recommendations",
+                "Page": "e56"
+              },
+              {
+                "Title": "In-Hospital Telemetry: Recommendation",
+                "Page": "e57"
+              },
+              {
+                "Title": "Electrophysiological Study: Recommendations",
+                "Page": "e58"
+              },
+              {
+                "Title": "Tilt-Table Testing: Recommendations",
+                "Page": "e59"
+              }
+            ]
+          },
+          {
+            "Title": "Neurological Testing: Recommendations",
+            "Subsections": [
+              {
+                "Title": "Autonomic Evaluation: Recommendation",
+                "Page": "e60"
+              },
+              {
+                "Title": "Neurological and Imaging Diagnostics: Recommendations",
+                "Page": "e61"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Title": "Management of Cardiovascular Conditions",
+        "Subsections": [
+          {
+            "Title": "Arrhythmic Conditions: Recommendations",
+            "Subsections": [
+              {
+                "Title": "Bradycardia: Recommendation",
+                "Page": "e62"
+              },
+              {
+                "Title": "Supraventricular Tachycardia: Recommendations",
+                "Page": "e63"
+              },
+              {
+                "Title": "Ventricular Arrhythmia: Recommendation",
+                "Page": "e63"
+              }
+            ]
+          },
+          {
+            "Title": "Structural Conditions: Recommendations",
+            "Subsections": [
+              {
+                "Title": "Ischemic and Nonischemic Cardiomyopathy: Recommendation",
+                "Page": "e64"
+              },
+              {
+                "Title": "Valvular Heart Disease: Recommendation",
+                "Page": "e64"
+              },
+              {
+                "Title": "Hypertrophic Cardiomyopathy: Recommendation",
+                "Page": "e64"
+              },
+              {
+                "Title": "Arrhythmogenic Right Ventricular Cardiomyopathy: Recommendations",
+                "Page": "e65"
+              },
+              {
+                "Title": "Cardiac Sarcoidosis: Recommendations",
+                "Page": "e65"
+              }
+            ]
+          },
+          {
+            "Title": "Inheritable Arrhythmic Conditions: Recommendations",
+            "Subsections": [
+              {
+                "Title": "Brugada Syndrome: Recommendations",
+                "Page": "e66"
+              },
+              {
+                "Title": "Short-QT Syndrome: Recommendation",
+                "Page": "e67"
+              },
+              {
+                "Title": "Long-QT Syndrome: Recommendations",
+                "Page": "e67"
+              },
+              {
+                "Title": "Catecholaminergic Polymorphic Ventricular Tachycardia: Recommendations",
+                "Page": "e68"
+              },
+              {
+                "Title": "Early Repolarization Pattern: Recommendations",
+                "Page": "e69"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Title": "Reflex Conditions: Recommendations",
+        "Subsections": [
+          {
+            "Title": "Vasovagal Syncope: Recommendations",
+            "Page": "e70"
+          }
+        ]
+      }
+    ],
+    "Task Force Members": [
+      "Glenn N. Levine, MD, FACC, FAHA, Chair",
+      "Patrick T. O\u2019Gara, MD, MACC, FAHA, Chair-Elect",
+      "Jonathan L. Halperin, MD, FACC, FAHA, Immediate Past Chair",
+      "Sana M. Al-Khatib, MD, MHS, FACC, FAHA",
+      "Kim K. Birtcher, MS, PharmD, AACC",
+      "Biykem Bozkurt, MD, PhD, FACC, FAHA",
+      "Ralph G. Brindis, MD, MPH, MACC",
+      "Joaquin E. Cigarroa, MD, FACC",
+      "Lesley H. Curtis, PhD, FAHA",
+      "Lee A. Fleisher, MD, FACC, FAHA",
+      "Federico Gentile, MD, FACC",
+      "Samuel Gidding, MD, FAHA",
+      "Mark A. Hlatky, MD, FACC",
+      "John Ioannidis, MD, PhD, FAHA",
+      "Jos\u00e9 Joglar, MD, FACC, FAHA",
+      "Susan J. Pressler, PhD, RN, FAHA",
+      "Duminda N. Wijeysundera, MD, PhD"
+    ]
+  },
+  "genes": []
+}

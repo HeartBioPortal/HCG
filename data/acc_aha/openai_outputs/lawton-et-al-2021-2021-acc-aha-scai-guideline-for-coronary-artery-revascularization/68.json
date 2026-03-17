@@ -1,0 +1,30 @@
+{
+  "content": {
+    "Title": "15.3 Psychological Interventions in Patients After Revascularization",
+    "Recommendations": [
+      {
+        "COR": "1",
+        "LOE": "B-R",
+        "Recommendation": "In patients who have undergone coronary revascularization who have symptoms of depression, anxiety, or stress, treatment with cognitive behavioral therapy, psychological counseling, and/or pharmacological interventions is beneficial to improve quality of life and cardiac outcomes."
+      },
+      {
+        "COR": "2b",
+        "LOE": "C-LD",
+        "Recommendation": "In patients who have undergone coronary revascularization, it may be reasonable to screen for depression and refer or treat when it is indicated to improve quality of life and recovery."
+      }
+    ],
+    "Synopsis": [
+      "Cardiac events and coronary revascularization are distressing, leading to psychosocial morbidity.",
+      "Anxiety, depression, and stress are associated with poor adherence to health behaviors, compromised quality of life, and increased recurrent cardiac events.",
+      "20% of patients who undergo CABG remain depressed postoperatively.",
+      "Several psychological therapies are used for secondary prevention to improve outcomes, including relaxation, stress management, and cognitive behavioral therapy."
+    ],
+    "Recommendation-Specific Supportive Text": [
+      "Escitalopram was more effective than placebo in reducing depression.",
+      "ENRICHD trial demonstrated therapy with counseling or SSRIs reduced depression but not event-free survival after 24 months.",
+      "Depression is a common comorbidity after revascularization.",
+      "Effective depression treatments, including depression screening and support systems, are highlighted."
+    ]
+  },
+  "genes": []
+}

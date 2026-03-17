@@ -1,0 +1,54 @@
+{
+  "content": {
+    "study": "2022 ACC/AHA Aortic Disease Guideline",
+    "sections": [
+      {
+        "title": "Long-Term Surveillance Imaging After Aortic Dissection and IMH",
+        "details": [
+          "Regular monitoring and imaging post-aortic dissection.",
+          "Discussion of outcomes and surgical approaches."
+        ]
+      },
+      {
+        "title": "Long-Term Management and Surveillance for PAUs",
+        "details": [
+          "Surgical or endovascular therapy is recommended.",
+          "Historical data and systematic reviews highlighted."
+        ]
+      },
+      {
+        "title": "Counseling and Management of Aortic Disease in Pregnancy and Postpartum",
+        "details": [
+          "Pregnancy management in patients with aortic disease.",
+          "Special considerations for congenital heart disease and genetic conditions like Marfan syndrome."
+        ]
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "TGF-\u03b2",
+      "Associated Conditions": [
+        "Aneurysm syndromes"
+      ],
+      "Occurrences": 2,
+      "context": "Aneurysm syndromes caused by mutations in the TGF-\u03b2 receptor."
+    },
+    {
+      "Gene": "TGFBR1",
+      "Associated Conditions": [
+        "Aortic disease"
+      ],
+      "Occurrences": 1,
+      "context": "Occurrences of aortic disease or dissections possibly associated with TGFBR1 mutations."
+    },
+    {
+      "Gene": "TGFBR2",
+      "Associated Conditions": [
+        "Aortic disease"
+      ],
+      "Occurrences": 1,
+      "context": "Occurrences of aortic disease or dissections possibly associated with TGFBR2 mutations."
+    }
+  ]
+}

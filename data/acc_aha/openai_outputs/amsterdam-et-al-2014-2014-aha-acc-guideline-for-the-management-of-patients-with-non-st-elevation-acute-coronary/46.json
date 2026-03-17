@@ -1,0 +1,15 @@
+{
+  "content": {
+    "NSTE-ACS in Older Patients": "Treat older patients (\u226575 years) with GDMT, adjust doses due to age-related changes, and consider preferences and life expectancy. Bivalirudin is reasonable for older patients, similar to GP IIb/IIIa inhibitors plus UFH with less bleeding risk. CABG is recommended for those with DM or multivessel disease.",
+    "HF": "Treat patients with HF according to risk stratification guidelines. Revascularization strategy based on CAD and cardiac needs.",
+    "Cardiogenic Shock": "Early revascularization for shock due to cardiac failure.",
+    "DM": "Medical treatment and revascularization similar to non-DM patients.",
+    "Post-CABG": "Recommend GDMT antiplatelet and early invasive strategy after CABG.",
+    "Perioperative NSTE-ACS": "Administer GDMT and direct management of underlying cause.",
+    "CKD": "Estimate CrCl for dosage adjustments, and ensure hydration. Invasive strategy recommended for stage 2 and 3 CKD.",
+    "Women": "Same pharmacological therapy as men. Revascularization for pregnant women in life-threatening cases. Invasive treatment not recommended for low-risk women.",
+    "Anemia, Bleeding, and Transfusion": "Evaluate bleeding risks and adjust therapy weights. Avoid routine blood transfusion if hemoglobin >8 g/dL.",
+    "Cocaine and Methamphetamine Users": "Manage similarly to non-users except in certain acute intoxication cases. Use benzodiazepines with NTG if needed but avoid beta-blockers."
+  },
+  "genes": []
+}

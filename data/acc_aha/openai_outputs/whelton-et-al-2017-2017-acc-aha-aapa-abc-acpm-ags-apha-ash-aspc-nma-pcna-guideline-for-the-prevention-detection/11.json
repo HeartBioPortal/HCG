@@ -1,0 +1,25 @@
+{
+  "content": {
+    "Synopsis": "Many adult patients with hypertension also have other cardiovascular disease (CVD) risk factors. These include smoking, obesity, diabetes mellitus (DM), and chronic kidney disease (CKD). With hypertension, estimated glomerular filtration rate (eGFR) is less than 60 mL/min/1.73 m\u00b2, and there may be albumin to creatinine ratios of 300 mg/g or higher. U.S. adults with diagnosed DM often have hypertension, wherein the Chronic Renal Insufficiency Cohort shows 86% hypertension prevalence. Modifiable risk factors like smoking, dyslipidemia, obesity, and physical inactivity are highlighted. The article stresses the need to address multiple CVD risk factors to reduce high blood pressure (BP) through various mechanisms.",
+    "Modifiable Risk Factors for CVD": [
+      "Current cigarette smoking",
+      "Secondhand smoking",
+      "Diabetes mellitus",
+      "Dyslipidemia/hypercholesterolemia",
+      "Overweight/obesity",
+      "Physical inactivity/low fitness",
+      "Unhealthy diet"
+    ],
+    "Relatively Fixed Risk Factors for CVD": [
+      "CKD",
+      "Family history",
+      "Increased age",
+      "Low socioeconomic or educational status",
+      "Male sex",
+      "Obstructive sleep apnea",
+      "Psychosocial stress"
+    ],
+    "Recommendation for Definition of High BP": "BP should be categorized as normal, elevated, or stage 1 or 2 hypertension to prevent and treat high BP."
+  },
+  "genes": []
+}

@@ -1,0 +1,65 @@
+{
+  "content": {
+    "Antiplatelet agents/anticoagulants": {
+      "Recommendations": [
+        {
+          "Class": "I",
+          "Recommendation": "For patients with symptomatic atherosclerotic peripheral artery disease of the lower extremity, antiplatelet therapy with aspirin (75\u2013325 mg daily) or clopidogrel (75 mg daily) should be started and continued.",
+          "Level of Evidence": "A"
+        },
+        {
+          "Class": "I",
+          "Recommendation": "Antiplatelet therapy is recommended in preference to anticoagulant therapy with warfarin or other vitamin K antagonists to treat patients with atherosclerosis.",
+          "Level of Evidence": "A"
+        },
+        {
+          "Class": "I",
+          "Recommendation": "If there is a compelling indication for anticoagulant therapy, such as atrial fibrillation, prosthetic heart valve, left ventricular thrombus, or concomitant venous thromboembolic disease, warfarin should be administered.",
+          "Level of Evidence": "A"
+        },
+        {
+          "Class": "I",
+          "Recommendation": "For patients requiring warfarin, therapy should be administered to achieve the recommended INR for the specific condition.",
+          "Level of Evidence": "B"
+        }
+      ]
+    },
+    "Renin-angiotensin-aldosterone system blockers": {
+      "ACE inhibitors": {
+        "Class I": [
+          "ACE inhibitors should be started and continued indefinitely in all patients with left ventricular ejection fraction \u226440% and in those with hypertension, diabetes, or chronic kidney disease."
+        ],
+        "Class IIa": [
+          "It is reasonable to use ACE inhibitors in all other patients."
+        ]
+      },
+      "ARBs": {
+        "Class I": [
+          "The use of ARBs is recommended in patients who have heart failure or who have had a myocardial infarction with left ventricular ejection fraction \u226440% and who are ACE-inhibitor intolerant."
+        ],
+        "Class IIa": [
+          "It is reasonable to use ARBs in other patients who are ACE-inhibitor intolerant."
+        ],
+        "Class IIb": [
+          "The use of ARBs in combination with an ACE inhibitor is not well established in those with systolic heart failure."
+        ]
+      },
+      "Aldosterone blockade": {
+        "Class I": [
+          "Use of aldosterone blockade in post-myocardial infarction patients without significant renal dysfunction or hyperkalemia is recommended for patients who are already receiving effective doses of an ACE inhibitor and a \u03b2-blocker, who have a left ventricular ejection fraction \u226440%, and who have either diabetes or heart failure."
+        ]
+      }
+    },
+    "\u03b2-Blockers": {
+      "Class I": [
+        "\u03b2-Blocker therapy should be used in all patients with left ventricular systolic dysfunction (ejection fraction \u226440%) with heart failure or prior myocardial infarction.",
+        "\u03b2-Blocker therapy should be started and continued for 3 years in all patients with normal left ventricular function who have had myocardial infarction or ACS."
+      ],
+      "Class IIa": [
+        "It is reasonable to continue \u03b2-blockers beyond 3 years as chronic therapy in all patients with normal left ventricular function who have had myocardial infarction or ACS.",
+        "It is reasonable to give \u03b2-blocker therapy in patients with left ventricular systolic dysfunction (ejection fraction \u226440%) without heart failure or prior myocardial infarction."
+      ]
+    }
+  },
+  "genes": []
+}

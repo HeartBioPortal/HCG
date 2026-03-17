@@ -1,0 +1,14 @@
+{
+  "content": {
+    "Diuretics": "Used for treatment of congestion in chronic heart failure (HF). Types include loop diuretics (e.g., Bumetanide, Furosemide, Torsemide) and thiazide diuretics (e.g., Chlorthiazide, Chlorthalidone, Hydrochlorothiazide, Indapamide, Metolazone).",
+    "Treatment Strategy": "Diuretic resistance can be managed by escalating loop diuretic dose, intravenous administration, or using different diuretic classes. Combination of thiazide with loop diuretics is noted.",
+    "Pharmacological Treatment": "Recommendations for Renin-Angiotensin System Inhibition with ACEi or ARB or ARNi for patients with HF with reduced ejection fraction (HFrEF).",
+    "Recommendations": [
+      "In patients with HFrEF and NYHA class II to III symptoms, use of ARNi is recommended to reduce morbidity and mortality.",
+      "In patients with prior/current symptoms of chronic HFrEF, use of ACEi is beneficial.",
+      "In patients intolerant to ACEi, use of ARB is recommended.",
+      "When ARNi is not feasible, an ACEi or ARB is advised for those with chronic HFrEF symptoms."
+    ]
+  },
+  "genes": []
+}

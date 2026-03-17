@@ -1,0 +1,34 @@
+{
+  "content": {
+    "section": "9.4.2. Acute Ischemic Stroke",
+    "recommendations": [
+      {
+        "class": "I",
+        "loe": "B-NR",
+        "description": "Adults with acute ischemic stroke and elevated BP who are eligible for treatment with intravenous tissue plasminogen activator should have their BP slowly lowered to less than 185/110 mm Hg before thrombolytic therapy is initiated."
+      },
+      {
+        "class": "I",
+        "loe": "B-NR",
+        "description": "In adults with an acute ischemic stroke, BP should be less than 185/110 mm Hg before administration of intravenous tissue plasminogen activator and should be maintained below 180/105 mm Hg for at least the first 24 hours after initiating drug therapy."
+      },
+      {
+        "class": "IIa",
+        "loe": "B-NR",
+        "description": "Starting or restarting antihypertensive therapy during hospitalization in patients with BP greater than 140/90 mm Hg who are neurologically stable is safe and reasonable to improve long-term BP control, unless contraindicated."
+      },
+      {
+        "class": "IIb",
+        "loe": "C-EO",
+        "description": "In patients with BP of 220/120 mm Hg or higher who did not receive intravenous alteplase or endovascular treatment and have no comorbid conditions requiring acute antihypertensive treatment, the benefit of initiating or reinitiating treatment of hypertension within the first 48 to 72 hours is uncertain. It might be reasonable to lower BP by 15% during the first 24 hours after onset of stroke."
+      },
+      {
+        "class": "III: No Benefit",
+        "loe": "A",
+        "description": "In patients with BP less than 220/120 mm Hg who did not receive intravenous thrombolysis or endovascular treatment and do not have a comorbid condition requiring acute antihypertensive treatment, initiating or reinitiating treatment of hypertension within the first 48 to 72 hours after an acute ischemic stroke is not effective to prevent death or dependency."
+      }
+    ],
+    "synopsis": "Elevated BP is common during acute ischemic stroke (occurring in up to 80% of patients), especially among patients with a history of hypertension. However, BP often decreases spontaneously during this phase. The recommendations focus on managing BP in specific situations, especially when using intravenous tissue plasminogen activator."
+  },
+  "genes": []
+}

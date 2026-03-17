@@ -1,0 +1,53 @@
+{
+  "content": {
+    "Title": "Evidence Gaps and Future Directions for Patients With VHD",
+    "Guideline": "2020 ACC/AHA Guideline for the Management of Valvular Heart Disease",
+    "Sections": [
+      {
+        "Stage": "Stage A",
+        "Focus": "Identification of patients at risk and valve disease prevention",
+        "Details": [
+          "Basic science to identify specific targets for medical therapy",
+          "Primary and secondary prevention for Rheumatic heart disease",
+          "Identification of patients at risk, risk factor intervention, and prevention of disease initiation for Calcific valve disease"
+        ]
+      },
+      {
+        "Stage": "Stage B",
+        "Focus": "Medical therapy for progressive valve disease",
+        "Details": [
+          "Basic science to identify specific targets to slow or reverse disease progression",
+          "Targeted therapy using advanced imaging endpoints",
+          "Dynamic interplay between valve disease severity and ventricular anatomy and function",
+          "Modulation of ventricular and vascular dysfunction"
+        ]
+      },
+      {
+        "Stage": "Stage C",
+        "Focus": "Optimal timing of intervention",
+        "Details": [
+          "Validation of new measures of LV size and function for timing of intervention",
+          "Evaluation of nonimaging parameters",
+          "Timing of intervention in asymptomatic patients",
+          "Identification of patients with secondary MR who benefit from intervention"
+        ]
+      },
+      {
+        "Stage": "Stage D",
+        "Focus": "Intervention options and long-term management",
+        "Details": [
+          "Durability of TAVI valves",
+          "Nonthrombogenic durable surgical and transcatheter valves",
+          "Alternatives to VKA anticoagulation for mechanical valves",
+          "Management of anticoagulation during pregnancy",
+          "Optimal antithrombotic therapy after TAVI",
+          "Medical therapy after AVR to address ventricular and vascular function",
+          "Approaches to lower surgical morbidity and mortality rates",
+          "Prevention of complications such as pacemaker needs, endocarditis, and thromboembolic events",
+          "Identifying and addressing disparities in outcomes"
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,34 @@
+{
+  "content": {
+    "Assessment of Ventricular Function": {
+      "Left Ventricular Function": {
+        "Guidelines": [
+          {
+            "COR": 1,
+            "LOE": "B-NR",
+            "Recommendation": "In patients undergoing NCS with new dyspnea, physical examination findings of HF, or suspected new/worsening ventricular dysfunction, it is recommended to perform preoperative evaluation of LV function to help guide perioperative management."
+          },
+          {
+            "COR": 2,
+            "LOE": "C-LD",
+            "Recommendation": "In patients with a known diagnosis of HF with worsening dyspnea or other changes in clinical status undergoing NCS, preoperative assessment of LV function is reasonable to help guide perioperative management."
+          },
+          {
+            "COR": 3,
+            "LOE": "B-NR",
+            "Recommendation": "In asymptomatic and clinically stable patients undergoing NCS, routine preoperative evaluation of LV function is not recommended due to lack of benefit."
+          }
+        ]
+      }
+    },
+    "Synopsis": {
+      "Assignments": [
+        "Abnormal LV systolic or diastolic function is linked with increased perioperative MACE in NCS.",
+        "Increased risk of perioperative MACE is found with lower LV ejection fraction, higher surgical risk procedures, and additional comorbid risk factors.",
+        "Higher risk for 30-day operative mortality and readmission rates is noted in HF patients post-NCS.",
+        "Routine preoperative assessment of LV function in stable patients lacks evidence."
+      ]
+    }
+  },
+  "genes": []
+}

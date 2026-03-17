@@ -1,0 +1,30 @@
+{
+  "content": {
+    "Recommendations": [
+      {
+        "COR": "1",
+        "LOE": "C-EO",
+        "Recommendation": "For patients with significant aortic disease, education and guidance should be provided about avoiding intense isometric exercises (eg, heavy weightlifting or activities requiring the Valsalva maneuver), burst exertion and activities, and collision sports."
+      },
+      {
+        "COR": "1",
+        "LOE": "C-EO",
+        "Recommendation": "For patients who have undergone surgery for aortic aneurysm or dissection, postoperative cardiac rehabilitation is recommended."
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-LD",
+        "Recommendation": "In patients with thoracic or abdominal aortic aneurysms whose BP is adequately controlled, it is reasonable to encourage 30 to 60 minutes of mild-to-moderate intensity aerobic activity at least 3 to 4 days per week."
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-LD",
+        "Recommendation": "For patients with clinically significant aortic disease, it is reasonable to screen for anxiety, depression, and posttraumatic stress disorder and, when indicated, provide resources for support; it is also reasonable to provide education and resources to minimize patients' concerns, support optimal decision-making, and enhance quality of life."
+      }
+    ],
+    "Additional Information": {
+      "HRQOL": "A focus on patient-reported health-related quality of life outcomes is becoming increasingly important. HRQOL measures include generic patient-reported outcome measures and validated aneurysm-specific measures."
+    }
+  },
+  "genes": []
+}

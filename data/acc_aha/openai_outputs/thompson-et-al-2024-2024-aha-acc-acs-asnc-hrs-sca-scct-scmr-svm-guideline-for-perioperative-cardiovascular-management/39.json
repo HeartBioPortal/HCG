@@ -1,0 +1,52 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "description": "For patients who undergo successful transcatheter aortic valve implantation (TAVI), it is reasonable to perform NCS early as clinically indicated."
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-EO",
+        "description": "For patients who undergo MV TEER, it is reasonable to perform NCS after the successful MV intervention as clinically indicated."
+      }
+    ],
+    "patients_at_risk": [
+      {
+        "condition": "moderate-severe MR",
+        "risks": [
+          "increased risk of perioperative HF",
+          "increased risk of MI"
+        ],
+        "factors": [
+          "lower EF",
+          "preexisting AF"
+        ]
+      },
+      {
+        "condition": "severe AR",
+        "risks": [
+          "HF",
+          "death"
+        ],
+        "factors": [
+          "increased ventricular volumes",
+          "myocardial wall stress"
+        ]
+      }
+    ],
+    "management_strategies": [
+      "Avoid increased afterload and bradycardia",
+      "Maintain preload",
+      "Intensive monitoring for 24 to 72 hours post-surgery"
+    ],
+    "medication_guidance": [
+      {
+        "context": "after TAVI and MV TEER",
+        "recommendation": "antiplatelet or anticoagulant therapy usage up to 6 months"
+      }
+    ]
+  },
+  "genes": []
+}

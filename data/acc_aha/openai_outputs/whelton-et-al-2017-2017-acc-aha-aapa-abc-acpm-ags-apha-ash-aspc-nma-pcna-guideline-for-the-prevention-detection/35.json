@@ -1,0 +1,11 @@
+{
+  "content": {
+    "guideline": "The clinical guideline focuses on the assessment of cardiovascular disease (CVD) risk and the use of blood pressure (BP) lowering medications. It discusses the importance of using the absolute risk of CVD instead of a specific BP level to guide treatment decisions. The document mentions challenges in implementing CVD risk assessments and suggests the need for international standards. It highlights the use of several CVD risk calculators to determine treatment thresholds and touches on the outcomes of trials like SPRINT.",
+    "CVD risk assessment": "Emphasizes using the ASCVD Risk Estimator to assess 10-year risk of atherosclerotic cardiovascular disease (ASCVD) and suggests a BP threshold for treatment in patients with high CVD risk.",
+    "treatment thresholds": "In patients over 79 years of age, the recommended BP threshold for treatment is >130 mm Hg, with suggestions for using predicted CVD risk along with BP to guide treatment decisions.",
+    "SPRINT trial": "Provides evidence for the use of BP-lowering medications in high-risk patients, showing reduced CVD events. Participants with untreated SBP between 130 mm Hg and 139 mm Hg showed benefit with treatment.",
+    "recommendations": "Antihypertensive drug treatment based on CVD risk rather than diabetes or CKD, specifically for older adults with specified BP thresholds. General population and diabetic guidelines are also presented.",
+    "meta-analysis findings": "Supports the BP lowering in high-risk individuals reduces CVD events regardless of initial BP levels."
+  },
+  "genes": []
+}

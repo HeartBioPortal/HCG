@@ -1,0 +1,19 @@
+{
+  "content": {
+    "extended_dapt": "Studies of longer-duration DAPT found an absolute decrease in late stent thrombosis and ischemic complications of \u22481% to 2% and an absolute increase in bleeding complications of \u22481%. RCTs showed extended DAPT decreased absolute risk of MACE by 1.1% and major bleeding by 0.8%.",
+    "charisma": "The CHARISMA trial showed no significant reduction in ischemic events with DAPT and a 0.4% increase in severe bleeding. DAPT with clopidogrel showed an absolute 1.3% reduction in cardiovascular events but increased major bleeding by 1.2%.",
+    "pegasus-timi 54": "The study found a 1.2% reduction in cardiovascular death, MI, or stroke and 1.2% increase in major bleeding with DAPT. Reduction in ischemic events occurred with patients not on P2Y12 inhibitors or discontinued for \u226430 days.",
+    "prolonged_dapt": "An unexpected increase in all-cause mortality rate by 0.5% was found, particularly from noncardiovascular deaths in the DAPT study. META analysis and the FDA communication indicated no significant increase in mortality risks for clopidogrel."
+  },
+  "genes": [
+    {
+      "Gene": "P2Y12",
+      "Associated Conditions": [
+        "ischemic events",
+        "MACE"
+      ],
+      "Occurrences": 2,
+      "context": "Benefit in patients when P2Y12 inhibitor therapy either had not been discontinued or had been discontinued for \u226430 days."
+    }
+  ]
+}

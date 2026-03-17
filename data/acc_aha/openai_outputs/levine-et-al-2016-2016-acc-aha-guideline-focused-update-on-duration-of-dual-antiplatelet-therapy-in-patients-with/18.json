@@ -1,0 +1,52 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "condition": "ACS treated with medical therapy alone",
+        "guidelines": [
+          {
+            "class": "I",
+            "level": "B-R",
+            "recommendation": "Continue DAPT with P2Y12 inhibitor therapy (clopidogrel or ticagrelor) for at least 12 months."
+          },
+          {
+            "class": "I",
+            "level": "B-NR",
+            "recommendation": "Daily aspirin dose of 81 mg is recommended."
+          },
+          {
+            "class": "IIa",
+            "level": "B-R",
+            "recommendation": "Prefer ticagrelor over clopidogrel for maintenance of P2Y12 inhibitor therapy."
+          },
+          {
+            "class": "IIb",
+            "level": "A",
+            "recommendation": "Continuation of DAPT for longer than 12 months may be reasonable in patients without high bleeding risk."
+          }
+        ]
+      },
+      {
+        "condition": "STEMI treated with fibrinolytic therapy",
+        "guidelines": [
+          {
+            "class": "I",
+            "level": "A",
+            "recommendation": "Continue P2Y12 inhibitor therapy (clopidogrel) for a minimum of 14 days, ideally at least 12 months."
+          },
+          {
+            "class": "I",
+            "level": "B-NR",
+            "recommendation": "Daily aspirin dose of 81 mg is recommended."
+          },
+          {
+            "class": "IIb",
+            "level": "A",
+            "recommendation": "Continuation of DAPT for longer than 12 months may be reasonable in patients without high bleeding risk."
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

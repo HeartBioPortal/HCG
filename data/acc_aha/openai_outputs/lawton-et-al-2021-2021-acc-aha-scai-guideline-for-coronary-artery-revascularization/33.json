@@ -1,0 +1,40 @@
+{
+  "content": {
+    "title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+    "publication": "JACC Vol. 79, No. 2, 2022",
+    "date": "January 18, 2022:e21\u2013e129",
+    "recommendation_summary": "Guidelines for patients with previous Coronary Artery Bypass Grafting (CABG) and considerations for Percutaneous Coronary Intervention (PCI) and CABG in diabetes patients.",
+    "key_recommendations": [
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "recommendation": "In patients with previous CABG with a patent LIMA to the LAD who need repeat revascularization, if PCI is feasible, it is reasonable to choose PCI over CABG."
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-LD",
+        "recommendation": "In patients with previous CABG and refractory angina on GDMT that is attributable to LAD disease, it is reasonable to choose CABG over PCI when an internal mammary artery (IMA) can be used as a conduit to the LAD."
+      },
+      {
+        "COR": "2b",
+        "LOE": "B-NR",
+        "recommendation": "In patients with previous CABG and complex CAD, it may be reasonable to choose CABG over PCI when an IMA can be used as a conduit to the LAD."
+      }
+    ],
+    "clinical_trials": [
+      {
+        "name": "FREEDOM",
+        "focus": "Comparing CABG with PCI exclusively in 1900 patients with diabetes."
+      },
+      {
+        "name": "EXCEL",
+        "focus": "Large RCT exclusively enrolled patients with left main CAD."
+      }
+    ],
+    "key_points": [
+      "High surgical risk patients with diabetes are more likely to require PCI in current practice.",
+      "No significant statistical difference in cardiovascular mortality rate between PCI and CABG groups."
+    ]
+  },
+  "genes": []
+}

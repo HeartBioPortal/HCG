@@ -1,0 +1,33 @@
+{
+  "content": {
+    "Recommendations": [
+      {
+        "COR": "1",
+        "LOE": "C-LD",
+        "Description": "In patients with CKD undergoing contrast media injection for coronary angiography, measures should be taken to minimize the risk of contrast-induced acute kidney injury (AKI)."
+      },
+      {
+        "COR": "1",
+        "LOE": "C-EO",
+        "Description": "In patients with STEMI and CKD, coronary angiography and revascularization are recommended, with adequate measures to reduce the risk of AKI."
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "Description": "In high-risk patients with NSTE-ACS and CKD, it is reasonable to perform coronary angiography and revascularization, with adequate measures to reduce the risk of AKI."
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-EO",
+        "Description": "In low-risk patients with NSTE-ACS and CKD, it is reasonable to weigh the risk of coronary angiography and revascularization against the potential benefit."
+      },
+      {
+        "COR": "3: No benefit",
+        "LOE": "B-R",
+        "Description": "In asymptomatic patients with stable CAD and CKD, routine angiography and revascularization are not recommended if there is no compelling indication."
+      }
+    ],
+    "Synopsis": "Patients with CKD constitute a growing subset of the population and have worse outcomes after AMI or PCI. Risk of cardiovascular death has been correlated with impaired renal function (glomerular filtration rate). Preexisting CKD is the strongest independent risk factor for AKI, linked with increased mortality. Strategies include adequate hydration, minimizing contrast media, and use of high-dose statins to reduce AKI risk."
+  },
+  "genes": []
+}

@@ -1,0 +1,24 @@
+{
+  "content": {
+    "section": "9.6. Revascularization in Patients With SCAD",
+    "recommendations": [
+      {
+        "cor": "2b",
+        "loe": "C-LD",
+        "recommendation": "In patients with SCAD who have hemodynamic instability or ongoing ischemia despite conservative therapy, revascularization may be considered if feasible."
+      },
+      {
+        "cor": "3: Harm",
+        "loe": "C-LD",
+        "recommendation": "Routine revascularization for SCAD should not be performed."
+      }
+    ],
+    "synopsis": "SCAD is characterized by the interruption of the coronary artery intimal layer and intramural hematoma, causing vessel compression, and typically presenting as an ACS. A notable subset is associated with ongoing symptomatic ischemia, which can progress to complete occlusion. Treatment of patients with SCAD is challenging, and guidance from randomized trials is lacking. Selective revascularization may be necessary in certain scenarios.",
+    "recommendation_support": [
+      "SCAD may often heal without intervention, but patients with ischemia, occlusion, or instability may need urgent revascularization.",
+      "A study of patients with SCAD and presenting with STEMI showed better survival without revascularization compared to PCI.",
+      "Several retrospective studies suggest higher rates of cardiovascular events in patients who had a first-line revascularization strategy."
+    ]
+  },
+  "genes": []
+}

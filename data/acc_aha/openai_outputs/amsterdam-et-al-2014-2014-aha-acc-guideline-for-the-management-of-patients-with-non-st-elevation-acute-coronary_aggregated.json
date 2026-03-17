@@ -1,0 +1,3266 @@
+{
+  "content": [
+    {
+      "content": {
+        "title": "2014 AHA/ACC Guideline for the Management of Patients With Non-ST-Elevation Acute Coronary Syndromes",
+        "organization": "American College of Cardiology/American Heart Association Task Force on Practice Guidelines",
+        "collaborators": [
+          "Society for Cardiovascular Angiography and Interventions",
+          "Society of Thoracic Surgeons"
+        ],
+        "endorsement": "American Association for Clinical Chemistry",
+        "committee_members": [
+          {
+            "name": "Ezra A. Amsterdam",
+            "role": "Chair"
+          },
+          {
+            "name": "Nanette K. Wenger",
+            "role": "Vice Chair"
+          },
+          {
+            "name": "Ralph G. Brindis",
+            "role": "Member"
+          },
+          {
+            "name": "Donald E. Casey Jr.",
+            "role": "Member"
+          },
+          {
+            "name": "Theodore G. Ganiats",
+            "role": "Member"
+          },
+          {
+            "name": "David R. Holmes Jr.",
+            "role": "Member"
+          },
+          {
+            "name": "Allan S. Jaffe",
+            "role": "Member"
+          },
+          {
+            "name": "Hani Jneid",
+            "role": "Member"
+          },
+          {
+            "name": "Rosemary F. Kelly",
+            "role": "Member"
+          },
+          {
+            "name": "Michael C. Kontos",
+            "role": "Member"
+          },
+          {
+            "name": "Glenn N. Levine",
+            "role": "Member"
+          },
+          {
+            "name": "Philip R. Liebson",
+            "role": "Member"
+          },
+          {
+            "name": "Debabrata Mukherjee",
+            "role": "Member"
+          },
+          {
+            "name": "Eric D. Peterson",
+            "role": "Member"
+          },
+          {
+            "name": "Marc S. Sabatine",
+            "role": "Member"
+          },
+          {
+            "name": "Richard W. Smalling",
+            "role": "Member"
+          },
+          {
+            "name": "Susan J. Zieman",
+            "role": "Member"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2014 AHA/ACC NSTE-ACS Guideline",
+        "task force members": [
+          "Jeffrey L. Anderson, MD, FACC, FAHA, Chair",
+          "Jonathan L. Halperin, MD, FACC, FAHA, Chair-Elect",
+          "Nancy M. Albert, PhD, RN, FAHA",
+          "Biykem Bozkurt, MD, PhD, FACC, FAHA",
+          "Ralph G. Brindis, MD, MPH, MACC",
+          "Lesley H. Curtis, PhD, FAHA",
+          "David DeMets, PhD",
+          "Lee A. Fleisher, MD, FACC, FAHA",
+          "Samuel Gidding, MD, FAHA",
+          "Robert A. Guyton, MD, FACC",
+          "Judith S. Hochman, MD, FACC, FAHA",
+          "Richard J. Kovacs, MD, FACC, FAHA",
+          "E. Magnus Ohman, MD, FACC",
+          "Susan J. Pressler, PhD, RN, FAHA",
+          "Frank W. Sellke, MD, FACC, FAHA",
+          "Win-Kuang Shen, MD, FACC, FAHA",
+          "William G. Stevenson, MD, FACC, FAHA",
+          "Duminda N. Wijeysundera, MD, PhD",
+          "Clyde W. Yancy, MD, FACC, FAHA"
+        ],
+        "sections": [
+          "Preamble",
+          "Introduction",
+          "Overview of ACS",
+          "Initial Evaluation and Management",
+          "Early Hospital Care"
+        ],
+        "subsections": [
+          "Methodology and Evidence Review",
+          "Organization of the GWC",
+          "Document Review and Approval",
+          "Scope of the CPG",
+          "Definition of Terms",
+          "Epidemiology and Pathogenesis",
+          "Clinical Assessment and Initial Evaluation",
+          "Diagnosis of NSTE-ACS",
+          "Prognosis\u2013Early Risk Stratification",
+          "Cardiac Biomarkers and the Universal Definition of MI",
+          "Immediate Management",
+          "Standard Medical Therapies",
+          "Inhibitors of the Renin-Angiotensin-Aldosterone System",
+          "Initial Antiplatelet/Anticoagulant Therapy in Patients With Definite or Likely NSTE-ACS"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          {
+            "title": "4.3. Initial Oral and Intravenous Antiplatelet Therapy",
+            "details": "Recommendations for NSTE-ACS patients with an invasive or ischemia-guided strategy."
+          },
+          {
+            "title": "5. Myocardial Revascularization",
+            "details": "Focus on PCI considerations, including antiplatelet and anticoagulant therapy."
+          },
+          {
+            "title": "6. Late Hospital Care, Hospital Discharge, and Posthospital Discharge Care",
+            "details": "Emphasis on cardioprotective therapy, symptom management, and use of medications post-discharge."
+          },
+          {
+            "title": "6.2. Medical Regimen and Use of Medications at Discharge",
+            "details": {
+              "subsections": [
+                {
+                  "title": "6.2.3. Platelet Function and Genetic Phenotype Testing",
+                  "details": "Considerations for testing to optimize antiplatelet therapy."
+                }
+              ]
+            }
+          },
+          {
+            "title": "7. Special Patient Groups",
+            "details": "Recommendations for older patients, HF, diabetes, CKD, and acute conditions."
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "Unknown",
+          "Associated Conditions": [],
+          "Occurrences": 1,
+          "context": "6.2.3. Platelet Function and Genetic Phenotype Testing - Considerations for testing to optimize antiplatelet therapy."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Preamble": "The American College of Cardiology (ACC) and the American Heart Association (AHA) are focused on the prevention and management of cardiovascular diseases through professional education and research. They have developed clinical practice guidelines (CPGs) to improve cardiovascular health using evidence-based methods. The guidelines are intended to apply within the United States to improve care quality and align with patient interests.",
+        "Intended Use": "CPGs provide recommendations for patients at risk of cardiovascular disease, aiming to improve care quality.",
+        "Evidence Review": "The guideline writing committee reviews literature to weigh evidence strength and quality for tests, treatments, and procedures, using methodologies from the Task Force.",
+        "Guideline-Directed Medical Therapy": "Advancements in medical therapy for cardiovascular diseases lead to the development of 'guideline-directed medical therapy' (GDMT), primarily involving lifestyle modification and drug/device-based therapies.",
+        "Class of Recommendation and Level of Evidence": "Recommendations are assigned a Class of Recommendation and a Level of Evidence based on the intervention's scientific support."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Table Explanation": "The table provides a classification of recommendations and levels of evidence used for clinical guidelines. It categorizes treatments and procedures based on the size of the treatment effect and the associated risk versus benefit.",
+        "Classifications": {
+          "Class I": "Procedure/treatment should be performed/administered as the benefit greatly outweighs the risk. Supported by multiple populations evaluated or single randomized trials.",
+          "Class IIa": "It is reasonable to perform procedure/administer treatment, though additional studies with focused objectives are needed.",
+          "Class IIb": "Procedure/treatment may be considered, as its usefulness/effectiveness is less well established.",
+          "Class III": "Procedure/treatment should not be performed/administered as there is no benefit or it may be harmful."
+        },
+        "Evidence Levels": {
+          "Level A": "Multiple populations evaluated, with evidence from multiple trials or meta-analyses.",
+          "Level B": "Limited populations evaluated, with evidence from a single randomized trial or nonrandomized studies.",
+          "Level C": "Very limited populations evaluated, with only consensus opinion, case studies, or standard of care."
+        },
+        "General Note": "Recommendations are ordered by the class of recommendation (COR) and level of evidence (LOE). Preference is given to strategies if comparative data exist. The document notes that conflicts of interest are avoided and managed in guideline writing committees."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Introduction": {
+          "Methodology and Evidence Review": "The guidelines are evidence-based, with an extensive review conducted through October 2012 and selected studies through April 2014.",
+          "Organization of the GWC": "The GWC includes a variety of medical specialists and representatives from various medical organizations.",
+          "Scope of the CPG": "Focuses on non-ST-elevation acute coronary syndrome (NSTE-ACS), a revision of the 2007 ACCF/AHA CPG. NSTE-ACS includes unstable angina (UA) and non-ST-elevation myocardial infarction (NSTEMI)."
+        },
+        "Clinical Implementation": "Clinicians should tailor interventions to the patient's conditions and preferences, acknowledging potential deviations from the guidelines."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "introduction": "The guideline discusses the management of NSTE-ACS, emphasizing the term 'ischemia-guided strategy' over 'initial conservative management'. The goal is to provide a comprehensive guideline using evidence from clinical trials and scientific reviews.",
+        "objective": "Establishing a contemporary CPG for optimal management of patients with NSTE-ACS.",
+        "purpose": "To serve as a resource and improve outcomes for patients with NSTE-ACS.",
+        "organization": "The guidelines are associated with organizations like ACC, AHA, ESC, and others.",
+        "notes": "A shift in terminology and presentation of recommendations for easier reference and understanding. Evidence tables are used to supplement explanations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview": "ACS is defined as a spectrum of conditions due to acute myocardial ischemia or infarction. It includes either ST-segment elevation (STEMI) or non-ST-segment elevation ACS (NSTE-ACS), with further subdivisions based on cardiac biomarkers.",
+        "Pathogenesis": "The hallmark of ACS is the imbalance between myocardial oxygen consumption and demand. The imbalance can be due to coronary artery obstruction or other conditions like severe anemia or hypertrophic cardiomyopathy.",
+        "Epidemiology": "In the United States, the median age at ACS presentation is 68 years. Males are more frequently affected than females. Approximately 780,000 cases occur annually, with 70% being NSTE-ACS.",
+        "Initial Evaluation": "Patients with suspected ACS should be risk stratified to decide on hospital admission and treatment choices. Two main questions guide evaluation: the likelihood of ACS symptoms and the probability of adverse outcomes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Acute Coronary Syndromes",
+        "description": "The figure illustrates the progression of plaque formation and onset and complications of NSTE-ACS (Non-ST-Elevation Acute Coronary Syndromes), with management at each stage. The progression involves stages from normal artery to thrombus formation and potential myocardial infarction.",
+        "stages": [
+          "Normal artery",
+          "Extracellular lipid accumulation in subintima",
+          "Fibrotic stage",
+          "Procoagulant expression and weakening of fibrous cap",
+          "Fibrous cap rupture and thrombus formation",
+          "Potential reduction in blood flow causing ischemic chest pain"
+        ],
+        "management": {
+          "initial_management": [
+            "Initial recognition and management in the emergency department",
+            "Risk stratification"
+          ],
+          "hospital_management": [
+            "Medication",
+            "Conservative versus ischemia-guided strategy",
+            "Special groups management",
+            "Preparation for discharge"
+          ],
+          "secondary_prevention": [
+            "Long-term management"
+          ]
+        },
+        "clinical_spectrum": [
+          "Unstable Angina (UA)",
+          "Non-ST-elevation Myocardial Infarction (NSTEMI)",
+          "Q-wave Myocardial Infarction (QwMI)",
+          "ST-elevation Myocardial Infarction (STEMI)"
+        ],
+        "diagnostic_approach": [
+          "Electrocardiogram (ECG)",
+          "Cardiac biomarker assessment (e.g., troponin)"
+        ],
+        "notes": "Patients may present with ischemic chest pain due to thrombus in the coronary artery."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Risk Assessment": "Tools such as the TIMI risk score, PURSUIT risk score, GRACE risk score, and NCDR-ACTION Registry are used to identify patients at risk of adverse outcomes. These tools are applied to patients with undifferentiated chest pain in emergency settings and help guide patient management.",
+        "Initial Recommendations": "Patients with suspected ACS and high-risk features should be referred immediately to the ED. Patients with less severe symptoms may be referred to a chest pain unit for evaluation.",
+        "Diagnosis of NSTE-ACS": "Differential diagnosis includes differentiating from nonischemic cardiovascular causes, pulmonary causes, gastrointestinal causes, musculoskeletal causes, psychiatric disorders, or other causes. Factors increasing the probability of NSTE-ACS include older age, gender, family history of CAD, and presence of other conditions.",
+        "NSTE-ACS History": "Presents as pressure-type chest pain with minimal exertion, frequently at rest, in various locations. Other symptoms may include diaphoresis, dyspnea, nausea, and severe fatigue.",
+        "Physical Examination": "May be normal, but signs of heart failure should expedite diagnosis and treatment."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "conditions_discussed": [
+          "Acute myocardial ischemia",
+          "NSTE-ACS",
+          "aortic dissection",
+          "aortic regurgitation",
+          "pericarditis",
+          "cardiac tamponade",
+          "pneumothorax",
+          "pleuritis",
+          "pulmonary embolism",
+          "myocardial infarction",
+          "anterior coronary artery occlusions"
+        ],
+        "diagnostic_recommendations": [
+          "Physical examination for alternative diagnoses in patients with chest pain.",
+          "Chest roentgenogram for potential pulmonary causes and aortic dissection.",
+          "Computed tomography (CT) of chest with intravenous contrast for pulmonary embolism and aortic dissection.",
+          "Transthoracic and transesophageal echocardiography for pericardial effusion and proximal aortic dissection.",
+          "12-lead ECG within 10 minutes for assessing cardiac ischemia or injury.",
+          "Repeat ECG if initial findings are nondiagnostic.",
+          "Serial cardiac troponin I or T levels should be obtained at presentation and 3 to 6 hours after symptom onset.",
+          "Additional troponin levels after 6 hours if needed."
+        ],
+        "prognosis_risk_recommendations": [
+          "Score risks to assess prognosis in patients with NSTE-ACS.",
+          "Risk-stratification models as useful management tools."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Class IIb Recommendations": [
+          "Continuous monitoring with 12-lead ECG may be a reasonable alternative in patients whose initial ECG is non-diagnostic and who are at intermediate/high risk of ACS.",
+          "Measurement of B-type natriuretic peptide or N-terminal pro-B-type natriuretic peptide may be considered to assess risk in patients with suspected ACS."
+        ],
+        "Risk Stratification and Spectrum": "The guideline discusses the risk stratification for high, intermediate, and low-risk patients, emphasizing the importance of prognosis guides in evaluation and treatment selection.",
+        "History and Symptoms": "Clinicians should evaluate patients with potential angina symptoms or equivalents, whether or not there is known CAD, to determine ischemia consistency and ACS likelihood.",
+        "TIMI Risk Score": "A table details the TIMI Risk Score for non-ST-segment elevation ACS, showing the percentage risk for different scores."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary of Recommendations for Prognosis: Early Risk Stratification": [
+          {
+            "Recommendation": "Perform rapid determination of likelihood of ACS, including a 12-lead ECG within 10 min of arrival at an emergency facility, in patients whose symptoms suggest ACS",
+            "COR": "I",
+            "LOE": "C",
+            "References": "(21)"
+          },
+          {
+            "Recommendation": "Perform serial ECGs at 15- to 30-min intervals during the first hour in symptomatic patients with initial nondiagnostic ECG",
+            "COR": "I",
+            "LOE": "C",
+            "References": "N/A"
+          },
+          {
+            "Recommendation": "Measure cardiac troponin (cTnI or cTnT) in all patients with symptoms consistent with ACS",
+            "COR": "I",
+            "LOE": "A",
+            "References": "(21,64,67\u201371)"
+          },
+          {
+            "Recommendation": "Measure serial cardiac troponin I or T at presentation and 3-6 h after symptom onset in all patients with symptoms consistent with ACS",
+            "COR": "I",
+            "LOE": "A",
+            "References": "(21,72\u201374)"
+          },
+          {
+            "Recommendation": "Use risk scores to assess prognosis in patients with NSTE-ACS",
+            "COR": "I",
+            "LOE": "A",
+            "References": "(42\u201344,75\u201380)"
+          },
+          {
+            "Recommendation": "Risk-stratification models can be useful in management",
+            "COR": "IIa",
+            "LOE": "B",
+            "References": "(42\u201344,75\u201381)"
+          },
+          {
+            "Recommendation": "Obtain supplemental electrocardiographic leads V7 to V9 in patients with initial nondiagnostic ECG at intermediate/high risk for ACS",
+            "COR": "IIa",
+            "LOE": "B",
+            "References": "(82\u201384)"
+          },
+          {
+            "Recommendation": "Continuous monitoring with 12-lead ECG may be a reasonable alternative with initial nondiagnostic ECG in patients at intermediate/high risk for ACS",
+            "COR": "IIb",
+            "LOE": "B",
+            "References": "(85,86)"
+          },
+          {
+            "Recommendation": "BNP or NT-proBNP may be considered to assess risk in patients with suspected ACS",
+            "COR": "IIb",
+            "LOE": "B",
+            "References": "(87\u201391)"
+          }
+        ],
+        "Additional Clinical Information": {
+          "Nitroglycerin Efficacy": "Nitroglycerin relieved symptoms in 35% of patients with documented ACS compared with 41% of patients without ACS.",
+          "Demographics and Risk": "A prior history of MI is associated with high risk of obstructive and multivessel CAD. Women with suspected ACS are less likely to have obstructive CAD than men. Family history of premature CAD is associated with increased coronary artery calcium scores and increased risk of 30-day cardiac events in patients with ACS.",
+          "Aspirin Use": "Current or prior use of aspirin at presentation is associated with increased cardiovascular risk.",
+          "Obesity": "Overweight and/or obesity at ACS presentation are associated with lower short-term risk of death.",
+          "Substance Use": "Cocaine and methamphetamines can cause ACS through various mechanisms."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "GRACE Risk Model": "The GRACE Risk Model is used to calculate the risk of in-hospital mortality for patients with acute coronary syndrome (ACS). It takes into account various predictive factors including Killip class, systolic blood pressure (SBP), heart rate, age, creatinine level, cardiac arrest at admission, ST-segment deviation, and elevated cardiac enzyme levels. Points are assigned according to these factors to sum up a total score that corresponds to the probability of in-hospital death.",
+        "Calibration": "The model is calibrated using a simplified global registry of ACS mortality model to predict in-hospital mortality. A plot for calibration is provided showing the observed mortality rate versus the predicted probability of death.",
+        "Conversion": "To convert serum creatinine level to micromoles per liter, multiply by 88.4."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "GRACE Risk Model": "Predicts in-hospital and post-discharge mortality or MI. Uses a reference nomogram to determine all-cause mortality from hospital discharge to 6 months and is available online.",
+        "Patient Management": "Higher TIMI risk score patients benefit from antithrombotic therapies and early invasive strategies. Elevated cardiac troponin patients benefit more from aggressive therapies.",
+        "Electrocardiogram": "12-lead ECG is vital in evaluating patients with symptoms suggestive of ACS. ST deviation and T-wave inversion are significant indicators.",
+        "Alternative Causes": "Includes LV aneurysm, pericarditis, and other conditions. Contributing factors like medication can affect readings.",
+        "Physical Examination": "Helps assess the hemodynamic impact of ischemic events, vital signs measurement and cardiovascular examination are essential.",
+        "Biomarkers": "Cardiac troponin I/t used to assess ACS post symptom onset. Vital for identifying AMI."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Diagnosis": [
+          "Measure cardiac-specific troponin (troponin I or T) at presentation and 3\u20136 hours after symptom onset in all patients with suspected ACS.",
+          "Obtain additional troponin levels beyond 6 hours in patients with initial normal levels but with electrocardiographic changes and/or high-risk clinical features.",
+          "Consider time of presentation with ambiguous symptom onset for assessing troponin values.",
+          "CK-MB and myoglobin not useful for diagnosis of ACS with contemporary troponin assays."
+        ],
+        "Prognosis": [
+          "Troponin elevations are useful for short- and long-term prognosis.",
+          "Remeasurement of troponin once on day 3 or 4 in patients with MI may indicate infarct size and dynamics of necrosis.",
+          "BNP may be reasonable for additional prognostic information."
+        ],
+        "Additional Information": [
+          "High-sensitivity troponin assays influence the diagnosis of NSTEMI.",
+          "Troponin I and T are derived from genes specifically expressed in the myocardium.",
+          "Troponin assays can identify cardiac injury in ACS.",
+          "Increased sensitivity of assays allows detection of troponin in healthy individuals."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "TNNT2",
+          "Associated Conditions": [
+            "Myocardial infarction (MI)",
+            "Cardiomyocyte necrosis"
+          ],
+          "Occurrences": 1,
+          "context": "Troponin T derived from genes specifically expressed in the myocardium provides high sensitive results specific for detecting cardiomyocyte necrosis."
+        },
+        {
+          "Gene": "TNNI3",
+          "Associated Conditions": [
+            "Myocardial infarction (MI)",
+            "Cardiac injury"
+          ],
+          "Occurrences": 1,
+          "context": "Troponin I is derived from genes specifically expressed in the myocardium."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "Diagnosis of Myocardial Infarction",
+        "summary": "This guideline discusses the role of cardiac troponin in diagnosing myocardial infarction (MI), especially highlighting the importance of serial measurements and changes over time. Cardiac troponin values that exceed the 99th percentile of the upper reference limit are significant. The document covers the diagnostic challenges and considerations during pregnancy, in patients with renal disease, and other comorbidities. It stresses the necessity of central laboratory testing over point-of-care testing due to the latter's lower sensitivity.",
+        "key_points": [
+          "The 99th percentile threshold for cardiac troponin values is crucial for diagnosing acute myocardial necrosis.",
+          "Serial changes in troponin levels are necessary for accurate diagnosis, particularly a change of \u226520% when the initial value is elevated.",
+          "Absolute changes in high-sensitivity cardiac troponin T levels can indicate acute myocardial infarction (AMI), even a change of approximately 7 ng/L over 2 hours.",
+          "During pregnancy, troponin values typically remain normal, with some debate about elevation in specific hypertensive conditions.",
+          "Troponin elevation provides information that can impact diagnosis and treatment, including the need for reperfusion strategies.",
+          "CK-MB and myoglobin are less preferred due to lower sensitivity; central laboratory testing is recommended for precise assay standardization."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "3.5 Immediate Management": {
+          "3.5.1 Discharge From the ED or Chest Pain Unit": {
+            "Recommendations": [
+              {
+                "Class": "IIa",
+                "Point 1": "It is reasonable to observe patients with symptoms consistent with ACS without objective evidence of myocardial ischemia (nonischemic initial ECG and normal cardiac troponin) in a chest pain unit or telemetry unit with serial ECGs and cardiac troponin at 3- to 6-hour intervals.",
+                "Evidence Level": "B"
+              },
+              {
+                "Class": "IIa",
+                "Point 2": "Reasonable for patients with possible ACS who have normal serial ECGs and cardiac troponins to have a treadmill ECG, stress myocardial perfusion imaging, or stress echocardiography before discharge or within 72 hours after discharge.",
+                "Evidence Level": "B"
+              },
+              {
+                "Class": "IIa",
+                "Point 3": "Patients with possible ACS and a normal ECG, normal cardiac troponins, and no history of CAD, it is reasonable to initially perform coronary CT angiography or rest myocardial perfusion imaging with a technetium-99m radiopharmaceutical to exclude myocardial ischemia.",
+                "Evidence Level": "B"
+              },
+              {
+                "Class": "IIa",
+                "Point 4": "Reasonable to give low-risk patients who are referred for outpatient testing daily aspirin, short-acting nitroglycerin, and other medication if appropriate, with instructions about activity level and clinician follow-up.",
+                "Evidence Level": "C"
+              }
+            ]
+          }
+        },
+        "4. Early Hospital Care": {
+          "Standard Care for Patients with NSTE-ACS": [
+            "Admission for inpatient management if recurrent symptoms, ischemic ECG changes, or positive cardiac troponins.",
+            "Immediate relief of ischemia and prevention of MI and death.",
+            "Continuous ECG monitoring and observation for recurrent ischemia.",
+            "Bed or chair rest recommended for patients with NSTE-ACS.",
+            "Treatment with antianginal, antiplatelet, and anticoagulant therapy.",
+            "Management with either an early invasive strategy or ischemia-guided strategy."
+          ],
+          "Additional Recommendations for Patients with": [
+            "Unstable angina, hemodynamic instability, uncontrolled arrhythmias, or a large MI should be admitted to a coronary care unit.",
+            "Frequent assessments of vital signs and mental status.",
+            "Ability to perform rapid cardioversion and defibrillation."
+          ],
+          "Assessment of LV Function": [
+            "Recommended if depressed LV function.",
+            "May influence clinical therapies or revascularization decisions."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Standard Medical Therapies": {
+          "Oxygen": {
+            "Recommendation": "Class I - Supplemental oxygen should be administered to patients with NSTE-ACS with arterial oxygen saturation less than 90%, respiratory distress, or other high-risk features of hypoxemia."
+          },
+          "Nitrates": {
+            "Recommendations": [
+              "Administer sublingual NTG every 5 min x 3 for continuing ischemic pain then assess need for IV NTG.",
+              "Administer IV NTG for persistent ischemia, HF, or hypertension.",
+              "Nitrates are contraindicated with recent use of a phosphodiesterase inhibitor."
+            ]
+          },
+          "Analgesic Therapy": {
+            "Recommendations": [
+              "IV morphine sulfate may be reasonable for continued ischemic chest pain despite maximally tolerated anti-ischemic medications.",
+              "NSAIDs should not be initiated and should be discontinued during hospitalization for NSTE-ACS due to increased risk of MACE."
+            ]
+          },
+          "Beta-adrenergic Blockers": {
+            "Recommendations": [
+              "Initiate oral beta blockers within the first 24 h in certain conditions.",
+              "Use of sustained-release metoprolol succinate, carvedilol, or bisoprolol is recommended for specific patients.",
+              "Re-evaluate to determine subsequent eligibility in patients with initial contraindications to beta blockers.",
+              "It is reasonable to continue beta-blocker therapy in patients with normal LV function with NSTE-ACS.",
+              "IV beta blockers are potentially harmful when risk factors for shock are present."
+            ]
+          },
+          "CCBs": {
+            "Recommendations": [
+              "Administer initial therapy with nondihydropyridine CCBs with recurrent ischemia and contraindications to beta blockers.",
+              "Administer oral nondihydropyridine calcium antagonists with recurrent ischemia after use of beta blocker and nitrates in the absence of contraindications.",
+              "CCBs are recommended for patients when beta blockers are not successful, are contraindicated, or cause unacceptable side effects.",
+              "Long-acting CCBs are recommended for patients with coronary artery spasm.",
+              "Immediate-release nifedipine is contraindicated in the absence of a beta blocker."
+            ]
+          },
+          "Cholesterol Management": {
+            "Recommendations": [
+              "Initiate or continue high-intensity statin therapy in patients with no contraindications.",
+              "Obtain a fasting lipid profile, preferably within 24 h."
+            ]
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Anti-Ischemic and Analgesic Medications": {
+          "Nitrates": {
+            "Recommendations": {
+              "Class I": [
+                "Patients with NSTE-ACS with continuing ischemic pain should receive sublingual nitroglycerin every 5 minutes for up to 3 doses."
+              ],
+              "Class IIa": [
+                "Intravenous nitroglycerin is indicated for NSTE-ACS for persistent ischemia, HF, or hypertension."
+              ],
+              "Class III Harm": [
+                "Nitrates should not be administered to patients with NSTE-ACS who recently received a phosphodiesterase inhibitor."
+              ]
+            },
+            "Effects": "They are vasodilators that relieve angina symptoms but do not reduce mortality rates."
+          },
+          "Analgesic Therapy": {
+            "Recommendations": {
+              "Class IIb": [
+                "Morphine sulfate may be administered intravenously for continued ischemic chest pain."
+              ],
+              "Class III Harm": [
+                "Nonsteroidal anti-inflammatory drugs (NSAIDs) should not be initiated during hospitalization for NSTE-ACS."
+              ]
+            }
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "NSAIDs": "Non-steroidal anti-inflammatory drugs (NSAIDs) have an extensive adverse side effect profile, particularly renal and gastrointestinal. Increased cardiovascular risks have been associated with NSAID use, specifically in patients without ACS.",
+        "Beta-Adrenergic Blockers": {
+          "Indications": [
+            "Initiate within first 24 hours in patients who do not have contraindications (e.g., signs of HF, low-output state, cardiogenic shock).",
+            "In patients with concomitant NSTE-ACS, stabilized HF, and reduced systolic function, beta-blocker therapy should be continued."
+          ],
+          "Contraindications": [
+            "Active asthma or reactive airway disease.",
+            "Not recommended in patients with contraindications within the first 24 hours of NSTE-ACS."
+          ],
+          "Beta Blocker Types": "Sustained-release metoprolol succinate, carvedilol, or bisoprolol."
+        },
+        "Calcium Channel Blockers": {
+          "Indications": [
+            "Patients with NSTE-ACS, continuing or recurring ischemia.",
+            "Oral non dihydropyridine calcium antagonists are recommended for NSTE-ACS without beta blockers."
+          ],
+          "Examples": "Verapamil or diltiazem."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Immediate-release nifedipine should not be administered to patients with NSTE-ACS in the absence of beta-blocker therapy. This is because CCBs like dihydropyridines may worsen outcomes without beta-blockers. CCBs such as verapamil and diltiazem may reduce reinfarction in some studies but are not always effective. Verapamil may benefit hypertensive patients without LV dysfunction after AMI. Ranolazine is recommended for treating chronic angina and showed a reduction in cardiovascular events. IABP counterpulsation might be used for high-risk patients with severe ACS events. High-intensity statin therapy is recommended for managing cholesterol in NSTE-ACS patients.": "genes",
+        "[]": {
+          "Gene": "GENE_NAME",
+          "Associated  : ,  ": [
+            "CONDITION1",
+            "CONDITION2"
+          ],
+          "Occurrences  : NUMBER_OF_OCCURRENCES": "context",
+          "THE_CONTEXT_OF_THE_GENE_MENTIONED": "this can be one or more sentences related to the gene."
+        }
+      },
+      "Additional genes as needed": {
+        "Gene": "GENE_NAME",
+        "Associated  : ,  ": [
+          "CONDITION1",
+          "CONDITION2"
+        ],
+        "Occurrences  : NUMBER_OF_OCCURRENCES": "context",
+        "THE_CONTEXT_OF_THE_GENE_MENTIONED": "this can be one or more sentences related to the gene."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Inhibitors of the Renin-Angiotensin-Aldosterone System": {
+          "Class I Recommendations": [
+            "ACE inhibitors should be started and continued indefinitely in all patients with LVEF less than 0.40 and in those with hypertension, diabetes mellitus, or stable CKD unless contraindicated.",
+            "ARBs are recommended in patients with HF or MI with LVEF less than 0.40 who are ACE inhibitor intolerant.",
+            "Aldosterone blockade is recommended in patients post-MI without significant renal dysfunction or hyperkalemia who are receiving therapeutic doses of ACE inhibitors and beta blockers and have LVEF of 0.40 or less, diabetes mellitus, or HF."
+          ],
+          "Class IIa Recommendations": [
+            "ARBs are reasonable in patients with cardiac or other vascular disease who are ACE inhibitor intolerant."
+          ],
+          "Class IIb Recommendations": [
+            "ACE inhibitors may be reasonable in all other patients with cardiac or other vascular disease."
+          ]
+        },
+        "Initial Antiplatelet/Anticoagulant Therapy in Patients With Definite or Likely NSTE-ACS": {
+          "Class I Recommendations": [
+            "Non-enteric-coated, chewable aspirin should be given to all patients with NSTE-ACS without contraindications as soon as possible after presentation and maintenance dose continued indefinitely.",
+            "In patients with NSTE-ACS who are unable to take aspirin, clopidogrel should be administered.",
+            "A P2Y12 inhibitor in addition to aspirin should be administered for up to 12 months to all patients with NSTE-ACS without contraindications who are treated with an early invasive or ischemia-guided strategy."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Summary of Recommendations for Initial Antiplatelet/Anticoagulant Therapy in Patients With Definite or Likely NSTE-ACS and PCI",
+        "Recommendations": [
+          {
+            "Medication": "Aspirin",
+            "Dosing": {
+              "Non-enteric-coated aspirin": "162 mg\u2013325 mg",
+              "Maintenance": "81 mg/d\u2013325 mg/d"
+            },
+            "Considerations": "Promptly after presentation, continued indefinitely"
+          },
+          {
+            "Medication": "P2Y12 inhibitors",
+            "Options": [
+              {
+                "Name": "Clopidogrel",
+                "Dosing": "75 mg"
+              },
+              {
+                "Name": "For up to 12 months",
+                "Dosing": "300-mg or 600-mg loading dose, then 75 mg/d"
+              },
+              {
+                "Name": "Ticagrelor",
+                "Dosing": "180-mg loading dose, then 90 mg BID"
+              }
+            ],
+            "Considerations": "Preferred over clopidogrel for early invasive or ischemia-guided strategy"
+          },
+          {
+            "Medication": "GP IIb/IIIa inhibitors",
+            "Options": "Eptifibatide or tirofiban",
+            "Considerations": "With early invasive strategy and high-risk features"
+          },
+          {
+            "Medication": "Parenteral anticoagulant and fibrinolytic therapy",
+            "Options": [
+              {
+                "Name": "SC enoxaparin",
+                "Dosing": "1 mg/kg SC every 12 h"
+              },
+              {
+                "Name": "Bivalirudin",
+                "Dosing": "0.10 mg/kg loading dose followed by 0.25 mg/kg/h"
+              },
+              {
+                "Name": "SC fondaparinux",
+                "Dosing": "2.5 mg SC"
+              },
+              {
+                "Name": "IV UFH",
+                "Dosing": "60 IU/kg loading, 12 IU/kg/h infusion"
+              }
+            ],
+            "Considerations": "For duration of hospitalization or until PCI is performed"
+          }
+        ],
+        "Special Considerations": [
+          "Fibrinolytic therapy not recommended in patients with NSTE-ACS"
+        ],
+        "Key Footnotes": [
+          "Preferred options for GP IIb/IIIa are eptifibatide and tirofiban.",
+          "Aspirin remains primary therapy despite many antiplatelet agents."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Antiplatelet Therapy": "The guideline discusses the use of antiplatelet therapy in patients with Non-ST-Elevation Acute Coronary Syndromes (NSTE-ACS). Clopidogrel and prasugrel are highlighted as medications targeting the P2Y12 receptor. The use of aspirin is established as the first-line therapy to reduce recurrent MI and death.",
+        "Clopidogrel": "Clopidogrel, when used with aspirin, is effective in reducing the rates of cardiovascular death and nonfatal myocardial infarction (MI) or stroke. However, it increases major bleeding events.",
+        "Prasugrel": "Prasugrel results in more rapid and consistent platelet inhibition than clopidogrel. It's associated with significant decreases in spontaneous bleeding, life-threatening bleeding, and fatal bleeding, especially in patients undergoing coronary anatomy interventions.",
+        "Aspirin": "Aspirin is the first-line therapy for patients with NSTE-ACS. The standard dose is 81 mg daily, with higher doses reserved for special circumstances. Aspirin helps reduce the incidence of recurrent MI and death.",
+        "Clinical Trials": "The text mentions several clinical trials, including EARLY ACS, GUSTO IV-ACS, TRILOGY ACS, and ACOAST, which explore various treatment strategies involving platelet inhibition."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "NSTE-ACS": "The use of prasugrel in patients undergoing PCI is discussed in Section 5.",
+        "Ticagrelor": {
+          "Description": "Oral, reversibly binding P2Y12 inhibitor with a short plasma half-life (12 hours).",
+          "Comparisons": "Compared with clopidogrel, it has a more rapid and consistent onset of action, reversible, and faster recovery of platelet function.",
+          "Dosage": "180 mg loading dose followed by 90 mg twice daily maintenance.",
+          "Outcomes": "Reduction in composite outcome of death from vascular causes, MI, or stroke.",
+          "Side Effects": "Dyspnea in up to 15% of patients and bradycardia.",
+          "Discontinuation": "Recommended 5 days before surgery."
+        },
+        "Intravenous GP IIb/IIIa Receptor Inhibitors": {
+          "Description": "Small molecule receptor antagonists.",
+          "Usage": "Not effective in severe bleeding; platelet infusion necessary.",
+          "RCT Evaluations": "Focus on GP IIb/IIIa inhibitors like eptifibatide and tirofiban.",
+          "ACUITY Trial": "Compared various strategies; detailed in the context."
+        },
+        "Antiplatelet/Anticoagulant Therapy": {
+          "Recommendations": "Outlined for patients with NSTE-ACS in Section 5 and Table 7."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Bivalirudin": "0.10 mg/kg loading dose followed by 0.25 mg/kg per hour (only in patients managed with an early invasive strategy), continued until diagnostic angiography or PCI, with only provisional use of GP IIb/IIIa inhibitor, provided the patient is also treated with DAPT (Level of Evidence: B).",
+        "Fondaparinux": "2.5 mg SC daily, continued for the duration of hospitalization or until PCI is performed (Level of Evidence: B).",
+        "Additional Anticoagulants": "If PCI is performed while the patient is on fondaparinux, an additional anticoagulant with anti-IIa activity (either UFH or bivalirudin) should be administered because of catheter thrombosis risk (Level of Evidence: B).",
+        "UFH": "Initial loading dose of 60 IU/kg (maximum 4,000 IU) with initial infusion of 12 IU/kg per hour (maximum 1,000 IU/h) adjusted per activated partial thromboplastin time for 48 hours or until PCI is performed (Level of Evidence: B).",
+        "Low-Molecular-Weight Heparin": "LMWHs are adequately absorbed after subcutaneous administration and have less platelet activation. Dose based on CrCl, usually 1 mg/kg SC every 12 hours."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section_4.3.2.5": "Argatroban, a direct thrombin inhibitor, is used for patients with heparin-induced thrombocytopenia undergoing PCI. Administered intravenously, it requires adjustment for renal insufficiency.",
+        "section_4.3.3": {
+          "recommendation": "Intravenous fibrinolytic therapy should not be used in patients with NSTE-ACS without ST-elevation. There is no role for fibrinolytic therapy, as per trials indicating no benefit for mortality or MI."
+        },
+        "section_4.4": {
+          "general_principles": "Two treatment paths for NSTE-ACS: invasive (angiographic evaluation) and ischemia-guided (for refractory symptoms).",
+          "early_invasive_timing": "The timing for angiography has two options: early (within 24 hours) or delayed (25-72 hours). Deferred angiography might be safer post-stabilization, while early angiography can reduce complications but strains resources.",
+          "ischemia_guided_strategy": "This avoids early invasive procedures unless necessary due to recurrent symptoms or hemodynamic instability. It is aimed to efficiently stabilize conditions with medical therapy to potentially avoid invasive procedures."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "NSTE-ACS: Definite or Likely",
+        "strategies": {
+          "Ischemia-Guided Strategy": {
+            "therapy": [
+              {
+                "type": "ASA",
+                "class_LOE": "Class I; LOE: A"
+              },
+              {
+                "type": "P2Y12 inhibitor in addition to ASA",
+                "class_LOE": "Class I; LOE: B",
+                "options": [
+                  "Clopidogrel",
+                  "Ticagrelor"
+                ]
+              },
+              {
+                "type": "Anticoagulant",
+                "class_LOE": "Class I; LOE: B",
+                "options": [
+                  "UFH",
+                  "Enoxaparin",
+                  "Fondaparinux"
+                ]
+              }
+            ]
+          },
+          "Early Invasive Strategy": {
+            "therapy": [
+              {
+                "type": "ASA",
+                "class_LOE": "Class I; LOE: A"
+              },
+              {
+                "type": "P2Y12 inhibitor in addition to ASA",
+                "class_LOE": "Class I; LOE: B",
+                "options": [
+                  "Clopidogrel",
+                  "Ticagrelor"
+                ]
+              },
+              {
+                "type": "Anticoagulant",
+                "class_LOE": "Class I; LOE: B",
+                "options": [
+                  "UFH",
+                  "Enoxaparin",
+                  "Fondaparinux",
+                  "Bivalirudin"
+                ]
+              },
+              {
+                "additional_options": [
+                  "Eptifibatide",
+                  "Tirofiban"
+                ],
+                "context": "Consider GPI in addition to ASA and P2Y12 inhibitor in high-risk (i.e., troponin positive) pts"
+              }
+            ]
+          }
+        },
+        "additional_instructions": [
+          "Medical therapy chosen based on cath findings if therapy ineffective or effective",
+          "Specific instructions for PCI with Stenting and CABG provided for therapy continuation and discontinuation",
+          "Late Hospital/Posthospital Care recommendations including indefinite ASA and use of P2Y12 inhibitors"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Early Invasive and Ischemia-Guided Strategies": {
+          "Class I": {
+            "Recommendations": [
+              {
+                "Description": "An urgent/immediate invasive strategy (diagnostic angiography) is indicated in patients with NSTE-ACS who have refractory angina or hemodynamic or electrical instability.",
+                "Level of Evidence": "A"
+              },
+              {
+                "Description": "An early invasive strategy is indicated in initially stabilized patients with NSTE-ACS with elevated risk for clinical events.",
+                "Level of Evidence": "B"
+              }
+            ]
+          },
+          "Class IIa": {
+            "Recommendations": [
+              {
+                "Description": "An early invasive strategy is reasonable for initially stabilized high-risk patients.",
+                "Level of Evidence": "B"
+              },
+              {
+                "Description": "A delayed invasive approach is reasonable for patients not at high/intermediate risk.",
+                "Level of Evidence": "B"
+              }
+            ]
+          },
+          "Class IIb": {
+            "Recommendations": [
+              {
+                "Description": "Ischemia-guided strategy may be considered for initially stabilized patients with NSTE-ACS.",
+                "Level of Evidence": "B"
+              },
+              {
+                "Description": "The decision to implement an ischemia-guided strategy may be reasonable when considering clinical condition and patient preference.",
+                "Level of Evidence": "C"
+              }
+            ]
+          },
+          "Class III: No Benefit": {
+            "Recommendations": [
+              {
+                "Description": "An early invasive strategy is not recommended in patients with extensive comorbidities where risks outweigh the benefits.",
+                "Level of Evidence": "C"
+              },
+              {
+                "Description": "An early invasive strategy is not recommended for patients with acute chest pain and low likelihood of ACS who are troponin-negative.",
+                "Level of Evidence": "B"
+              }
+            ]
+          }
+        },
+        "Factors Associated with Appropriate Selection": [
+          "Refractory angina",
+          "Hemodynamic instability",
+          "Recurrent angina or ischemia at rest",
+          "Sustained VT or VF"
+        ],
+        "Studies and Observations": [
+          "Several studies concluded that a routine invasive strategy is generally superior or as effective as an ischemia-guided or selective strategy.",
+          "Routine invasive strategy resulted in a relative reduction in death or MI.",
+          "Invasive strategy associated with reduced mortality between discharge and end of follow-up."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The document discusses various strategies for managing patients with Non-ST-Elevation Acute Coronary Syndromes (NSTE-ACS), comparing routine invasive strategies with ischemia-guided strategies. Meta-analyses show benefits of invasive strategies in high-risk groups, especially for patients with elevated risks for cardiovascular events. There are also considerations for gender differences in treatment outcomes. The document outlines care objectives, emphasizing the role of coronary angiography in evaluating heart health, and the identification of high-risk patients who may benefit most from revascularization.",
+        "strategies": {
+          "invasive_strategy": "Showed benefits in high-risk patients, especially in reducing cardiovascular death or MI.",
+          "ischemia_guided_strategy": "Preferred in low-risk women but comparable to invasive strategies in high-risk women for reducing outcomes.",
+          "early_vs_delayed_angiography": "Early intervention may be more effective in high-risk patients, but data is limited."
+        },
+        "findings": {
+          "tactics_timi": "Demonstrated a reduction in death or MI in older adults with ACS when using an invasive strategy."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Risk Stratification Before Discharge for Patients With an Ischemia-Guided Strategy of NSTE-ACS": {
+          "Noninvasive stress testing": "Recommended in low- and intermediate-risk patients who have been free of ischemia at rest or with low-level activity for a minimum of 12 to 24 hours.",
+          "Treadmill exercise testing": "Useful in patients able to exercise in whom the ECG is free of resting ST changes.",
+          "Stress testing with an imaging modality": "Used in patients who are able to exercise but have ST changes on resting ECG that may interfere with interpretation.",
+          "Pharmacological stress testing with imaging": "Recommended when physical limitations preclude adequate exercise stress.",
+          "Noninvasive imaging test": "Recommended to evaluate LV function in patients with definite ACS."
+        },
+        "Management of NSTE-ACS": {
+          "Continuous risk stratification": "Derived from initial assessment, patient\u2019s course during early days of management, response to anti-ischemic and antithrombotic therapy.",
+          "Noninvasive Test Selection": {
+            "Goals": "To detect ischemia and estimate prognosis in patients with low or intermediate likelihood of CAD."
+          },
+          "Selection for Coronary Angiography": {
+            "General indications": "Based on patient characteristics and preferences.",
+            "Coronary angiography": "Provides detailed structural information for assessment of prognosis and appropriate management."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Myocardial Revascularization": "Recommendations are provided for patients with acute coronary syndrome (ACS), focusing on percutaneous coronary intervention (PCI) and coronary artery bypass grafting (CABG) for better outcomes. Early revascularization in non-ST-segment elevation ACS (NSTE-ACS) reduces recurrent events and mortality. Various factors guide the choice of revascularization, including patient conditions and extent of coronary artery disease.",
+        "PCI and Antiplatelet Therapy": "Patients on aspirin should continue or initiate non-enteric-coated aspirin before PCI. Post-PCI, aspirin dosage is specified. A loading dose of P2Y12 inhibitors like clopidogrel, prasugrel, or ticagrelor is recommended before PCI. Some patients with NSTE-ACS and high-risk features may require GP IIb/IIIa inhibitors."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Title": "2014 AHA/ACC NSTE-ACS Guideline",
+        "Therapeutic Recommendations": {
+          "Antiplatelet and Anticoagulant Therapy": [
+            {
+              "Context": "Patients receiving a stent during PCI for NSTE-ACS should receive P2Y12 inhibitor therapy for at least 12 months.",
+              "Options": [
+                {
+                  "Drug": "Clopidogrel",
+                  "Dosage": "75 mg daily",
+                  "Level of Evidence": "B"
+                },
+                {
+                  "Drug": "Prasugrel",
+                  "Dosage": "10 mg daily",
+                  "Level of Evidence": "B"
+                },
+                {
+                  "Drug": "Ticagrelor",
+                  "Dosage": "90 mg twice daily",
+                  "Level of Evidence": "B"
+                }
+              ]
+            },
+            {
+              "Recommendation": "It is reasonable to choose ticagrelor over clopidogrel for P2Y12 inhibition with early invasive strategy and/or coronary stenting.",
+              "Level of Evidence": "B"
+            },
+            {
+              "Recommendation": "It is reasonable to choose prasugrel over clopidogrel for P2Y12 treatment in patients who are not at high bleeding risk.",
+              "Level of Evidence": "B"
+            },
+            {
+              "Recommendation": "In patients with NSTE-ACS and high-risk features, it is reasonable to administer GP IIb/IIIa inhibitor at time of PCI.",
+              "Inhibitors": [
+                "abciximab",
+                "eptifibatide",
+                "tirofiban"
+              ],
+              "Level of Evidence": "B"
+            },
+            {
+              "Recommendation": "Aspirin should be continued at 81 mg per day after PCI.",
+              "Level of Evidence": "B"
+            },
+            {
+              "Recommendation": "Discontinuation of P2Y12 inhibitor therapy in less than 12 months may be reasonable if bleeding risks are significant.",
+              "Level of Evidence": "C"
+            }
+          ],
+          "Additional Recommendations": [
+            {
+              "Context": "Prasugrel should not be administered to patients with a history of stroke or transient ischemic attack.",
+              "Level of Evidence": "B"
+            },
+            {
+              "Continuation of DAPT": "Beyond 12 months can be considered in patient undergoing stent implantation.",
+              "Class": "IIb",
+              "Level of Evidence": "C"
+            }
+          ]
+        },
+        "Clinical Considerations": [
+          "DAPT consisting of aspirin and a P2Y12 inhibitor reduces risks of stent thrombosis.",
+          "Higher dose clopidogrel usage showed increased bleeding risks but efficacy returned post conversion."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "class_IA": [
+          "For patients with NSTE-ACS and high-risk features undergoing PCI, it is reasonable to administer GP IIb/IIIa inhibitors at the time of PCI.",
+          "Intravenous UFH is useful in patients with NSTE-ACS undergoing PCI.",
+          "Bivalirudin can be used as initial monotherapy or with UFH in NSTE-ACS patients undergoing PCI.",
+          "An additional dose of enoxaparin may be administered at PCI if multiple doses are received before.",
+          "For patients on Fondaparinux, an additional dose of UFH should be given due to thrombosis risk."
+        ],
+        "class_IIa": [
+          "Bivalirudin monotherapy preferred for patients with high bleeding risk over combination with GP IIb/IIIa."
+        ],
+        "class_IIb": [
+          "Enoxaparin may be used in patients with previous enoxaparin dosing before PCI."
+        ],
+        "class_III": [
+          "Fondaparinux should not be used as sole anticoagulant during PCI due to catheter thrombosis risk."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Dosing of Parenteral Anticoagulants During PCI": {
+          "For Patients Who Have Received Prior Anticoagulant Therapy": {
+            "Enoxaparin": [
+              "For prior treatment with enoxaparin, if last SC dose was administered 8\u201312 h earlier or if 2 therapeutic SC doses of enoxaparin have been administered, an IV dose of enoxaparin 0.3 mg/kg should be given",
+              "If the last SC dose was administered within prior 8 h, no additional enoxaparin should be given"
+            ],
+            "Bivalirudin": [
+              "For patients who have received UFH with 30 min, then give 0.75 mg/kg IV loading dose, then 1.75 mg/kg/h IV infusion",
+              "For patients already receiving bivalirudin infusion, give additional loading dose 0.5 mg/kg and increase infusion to 1.75 mg/kg/h during PCI"
+            ],
+            "Fondaparinux": [
+              "For prior treatment with fondaparinux, administer additional IV treatment with anticoagulant possessing anti-IIa activity, considering whether GPI receptor antagonists have been administered"
+            ],
+            "UFH": [
+              "IV GP planned: additional UFH as needed (e.g., 2,000\u20135,000 U) to achieve ACT of 200-250 s",
+              "No IV GP planned: additional UFH as needed (e.g., 2,000\u20135,000 U) to achieve ACT of 250-300 s for HemoTec, 300-350 s for Hemochron"
+            ]
+          },
+          "In Patients Who Have Not Received Prior Anticoagulant Therapy": {
+            "Enoxaparin": [
+              "0.5 mg/kg-0.75 mg/kg IV loading dose"
+            ],
+            "Bivalirudin": [
+              "0.75 mg/kg loading dose, 1.75 mg/kg/h IV infusion"
+            ],
+            "UFH": [
+              "IV GP planned: 50-70 U/kg loading dose to achieve ACT of 200-250 s",
+              "No IV GP planned: 70-100 U/kg loading dose to achieve target ACT of 250-300 s for HemoTec, 300-350 s for Hemochron"
+            ]
+          }
+        },
+        "Timing of Urgent CABG in Patients With NSTE-ACS": {
+          "Relation to Use of Antiplatelet Agents": [
+            "Non-enteric-coated aspirin (81 mg to 325 mg daily) should be administered preoperatively to patients undergoing CABG",
+            "In patients referred for elective CABG, clopidogrel and ticagrelor should be discontinued for at least 5 days before surgery and prasugrel for at least 7 days before surgery",
+            "In patients referred for urgent CABG, clopidogrel and ticagrelor should be discontinued for at least 24 hours to reduce major bleeding",
+            "In patients referred for CABG, short-acting intravenous GP IIb/IIIa inhibitors should be discontinued for at least 2 to 4 hours before surgery and abciximab for at least 12 hours before to limit blood loss and transfusion"
+          ],
+          "Class IIb": [
+            "In patients referred for urgent CABG, it may be reasonable to perform surgery less than 5 days after clopidogrel or ticagrelor has been discontinued and less than 7 days after prasugrel has been discontinued"
+          ],
+          "In-hospital CABG": [
+            "Performed in 7% to 13% of patients hospitalized with NSTE-ACS.",
+            "Median time of 73 hours after admission."
+          ],
+          "Recommendations": [
+            "Preoperative aspirin reduces operative morbidity and mortality",
+            "Increased bleeding complications if CABG performed 24 hours after clopidogrel discontinuation",
+            "Increased incidence of CABG-related major bleeding with prasugrel compared to clopidogrel"
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Principles": "The goal for NSTE-ACS patients is to restore the patient to normal activities and evaluate the plan of care, with a focus on lifestyle and risk factor modifications to prolong survival. Aggressive risk factor modifications should be pursued for long-term management.",
+        "Medical Regimen": "Medications to control ischemia should continue after discharge in patients with NSTE-ACS who do not undergo revascularization. A medical regimen should be personalized based on in-hospital findings and risk factors. Aspirin should continue indefinitely, with P2Y12 inhibitors such as clopidogrel or ticagrelor continuing up to 12 months.",
+        "Hospital Care and Discharge": {
+          "Patient Education": "Patients should receive instructions on nitroglycerin use and be educated about symptoms of myocardial ischemia and MI. Instructions should be given about when to seek emergency care.",
+          "Other Instructions": "Caregivers should be informed, and patients should be instructed on medication types and cardiovascular risk factor modifications."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Plan of Care": "Plan of Care for Patients With NSTE-ACS",
+        "Medications": [
+          {
+            "Antithrombotic therapies": "Sections 6.2.1 and 6.2.2"
+          },
+          {
+            "Beta blockers": "Section 4.1.2.3"
+          },
+          {
+            "ACE inhibitors/ARBs/aldosterone antagonists": "Section 4.2"
+          },
+          {
+            "CCBs": "Section 4.1.2.4"
+          },
+          {
+            "Statins": "2013 Blood Cholesterol CPG"
+          }
+        ],
+        "Management of Risks and Comorbidities": [
+          {
+            "Discontinuation of antithrombotic therapies": "2014 SIHD focused update, 2012 SIHD CPG, 2012 Management of AMI in patients with persistent STEMI CPG, 2011 Secondary prevention CPG, 2007 Science Advisory on the prevention of premature discontinuation of DAPT in patients with coronary artery stents"
+          },
+          {
+            "Inappropriate use of analgesics (NSAIDs)": "2010 Expert consensus document on PPIs and thienopyridines"
+          },
+          {
+            "Use of PPIs": "2011 PCI CPG"
+          }
+        ],
+        "Risk Factor Modification/Lifestyle Interventions and Cardiac Rehabilitation": [
+          {
+            "Smoking cessation": "Tobacco cessation toolkit"
+          },
+          {
+            "Diet nutrition": "2013 Lifestyle CPG"
+          },
+          {
+            "Physical activity": "2013 Lifestyle CPG, 2011 Secondary prevention CPG"
+          },
+          {
+            "Cardiorespiratory fitness (MET capacity)": "2011 Secondary prevention CPG"
+          }
+        ],
+        "Psychosocial Factors": [
+          {
+            "Sexual activity": "2012 Scientific statement on sexual activity and cardiovascular disease, 2013 Consensus document on sexual counseling for individuals with cardiovascular disease and their partners"
+          },
+          {
+            "Gender-Specific issues": "2007 Cardiovascular disease prevention in women CPG"
+          },
+          {
+            "Depression, stress, and anxiety": "2008 Science advisory on depression and coronary heart disease"
+          },
+          {
+            "Alcohol use": "2011 Secondary prevention CPG"
+          }
+        ],
+        "Clinician Follow-Up": [
+          {
+            "Cardiologist": "2011 Secondary prevention CPG"
+          },
+          {
+            "Primary care clinician": "2013 Hospital to Home Quality Initiative"
+          },
+          {
+            "Pharmacist": "2013 Discharge counseling for patients with HF or MI"
+          }
+        ],
+        "Vaccination": [
+          {
+            "Influenza vaccination": "2005 Recommendations for prevention and control of influenza"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "plan_of_care": [
+          "2010 CPG for cardiopulmonary resuscitation and emergency cardiovascular care\u2014part 9: post-cardiac arrest care",
+          "2013 STEMI CPG"
+        ],
+        "patient_education": [
+          "Recognizing symptoms of MI",
+          "Activating EMS, signs and symptoms for urgent vs. emergency evaluations",
+          "CPR training for family members",
+          "Risk assessment and prognosis",
+          "Advanced directives",
+          "Social networks/social isolation"
+        ],
+        "socioeconomic_factors": {
+          "access_to_health_insurance": [
+            "Access to clinicians",
+            "Disability",
+            "Social services",
+            "Community services"
+          ]
+        },
+        "class_1_recommendations": [
+          "Reasonable to use an aspirin maintenance dose of 81 mg per day in preference to higher maintenance doses in patients with NSTE-ACS treated inversely or with coronary stent implantation",
+          "Reasonable to use ticagrelor in preference to clopidogrel for maintenance P2Y12 treatment in patients with NSTE-ACS who undergo an early invasive or ischemia-guided strategy",
+          "Reasonable to choose prasugrel over clopidogrel for maintenance P2Y12 treatment in patients with NSTE-ACS who undergo PCI who are not at high risk for bleeding complications",
+          "Discontinue P2Y12 inhibitor therapy if the risk of bleeding outweighs the benefit after stent implantation"
+        ],
+        "class_3_recommendations": [
+          "Continuation of DAPT beyond 12 months may be considered in patients undergoing stent implantation"
+        ],
+        "combined_oral_anticoagulant_therapy": {
+          "class_1": [
+            "Duration of triple antithrombotic therapy with a vitamin K antagonist, aspirin, and a P2Y12 receptor inhibitor in patients with NSTE-ACS should be minimized to the least extent possible to limit risk",
+            "Proton pump inhibitors should be prescribed in patients with NSTE-ACS with a history of gastrointestinal bleeding who require triple antithrombotic therapy"
+          ],
+          "class_2a": [
+            "Proton pump inhibitor use is reasonable in patients with NSTE-ACS without a known history of gastrointestinal bleeding who require triple antithrombotic therapy"
+          ],
+          "class_3": [
+            "Targeting oral anticoagulant therapy to a lower INR may be reasonable in patients with NSTE-ACS managed with aspirin and a P2Y12 inhibitor"
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Therapy Combination": "The combination of antiplatelet therapy and oral anticoagulant therapy significantly increases the risk of bleeding. Triple therapy which includes DAPT further increases the risk.",
+        "Considerations for Triple Therapy": "In patients with NSTE-ACS, the decision to use triple therapy must weigh the benefit of preventing thrombosis against the risk of bleeding. It is important to individualize therapy.",
+        "Recommendations": "Managing patients treated with triple therapy involves maintaining an INR of 2.0 to 2.5, especially in patients with AF, based on guidelines.",
+        "WOEST Study": "This trial suggested that patients on an oral anticoagulant who received single antiplatelet therapy with clopidogrel had fewer bleeding complications.",
+        "Newer P2Y12 Inhibitors": "There is limited information on their use in triple therapy. Agents like prasugrel and ticagrelor may increase bleeding risk.",
+        "Proton Pump Inhibitors": "These reduce gastrointestinal bleeding when used with DAPT, especially in patients with a bleeding history.",
+        "Platelet Reactivity": "Higher platelet reactivity may lead to adverse events post-stent implantation."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Risk Reduction Strategies": "Secondary prevention is vital for survivors of NSTE-ACS to reduce subsequent cardiovascular morbidity and mortality. It includes lifestyle changes, risk factor education, medical therapy, and revascularization.",
+        "Cardiac Rehabilitation": "All eligible NSTE-ACS patients should be referred to rehabilitation programs before hospital discharge or during the first outpatient visit. These programs offer patient education, risk factor monitoring, and lifestyle modifications.",
+        "Patient Education": "Patients should be educated about cholesterol management, blood pressure, smoking cessation, and lifestyle changes. Those who underwent PCI or CABG should receive counseling for lifestyle changes despite revascularization.",
+        "Pneumococcal Vaccine": "Recommended for patients 65 years or older and high-risk patients with cardiovascular disease.",
+        "NSAIDs Recommendations": "Assess musculoskeletal discomfort before discharge. Begin pain treatment with acetaminophen or nonacetylated salicylates and consider small doses of narcotics if necessary."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "class_IIa": {
+          "recommendation": "It is reasonable to use nonselective NSAIDs, such as naproxen, if initial therapy with acetaminophen, nonacetylated salicylates, tramadol, or small doses of narcotics is insufficient.",
+          "level_of_evidence": "C"
+        },
+        "class_IIb": {
+          "recommendation": "NSAIDs with increasing degrees of COX-2 selectivity may be considered for pain relief only for situations in which intolerable discomfort persists despite attempts at stepcare therapy with acetaminophen, nonacetylated salicylates, tramadol, small doses of narcotics, or nonselective NSAIDs. In all cases, use of the lowest effective doses for the shortest possible time is encouraged.",
+          "level_of_evidence": "C"
+        },
+        "class_III_harm": [
+          {
+            "recommendation": "NSAIDs with increasing degrees of relative COX-2 selectivity should not be administered to patients with NSTE-ACS and chronic musculoskeletal discomfort when therapy with acetaminophen, nonacetylated salicylates, tramadol, small doses of narcotics, or nonselective NSAIDs provide acceptable pain relief.",
+            "level_of_evidence": "B"
+          },
+          {
+            "recommendation": "Hormone therapy with estrogen plus progestin, or estrogen alone, should not be given as new drugs for secondary prevention of coronary events to postmenopausal women after NSTE-ACS and should not be continued in previous users unless the benefits outweigh the estimated risks.",
+            "level_of_evidence": "A"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "6.3.6": {
+          "Title": "Antioxidant Vitamins and Folic Acid: Recommendations",
+          "Class": "Class III: No Benefit",
+          "Recommendations": [
+            "Antioxidant vitamin supplements (e.g., vitamins E, C, or beta carotene) should not be used for secondary prevention in patients with NSTE-ACS.",
+            "Folic acid, with or without vitamins B6 and B12, should not be used for secondary prevention in patients with NSTE-ACS."
+          ],
+          "Evidence": [
+            "Level of Evidence: A",
+            "Level of Evidence: A"
+          ],
+          "Notes": "Studies such as the NORVIT and HOPE trials found no reduction in cardiovascular events with folic acid, vitamin B6, and vitamin B12 use. There was a trend toward increased cardiovascular events in one cohort."
+        },
+        "6.4": {
+          "Title": "Plan of Care for Patients With NSTE-ACS: Recommendations",
+          "Class": "Class I",
+          "Recommendations": [
+            "Posthospital systems of care should be used to facilitate effective care transition.",
+            "An evidence-based plan of care should be provided, promoting medication adherence, timely follow-up, and compliance with interventions."
+          ],
+          "Evidence": [
+            "Level of Evidence: B",
+            "Level of Evidence: C"
+          ],
+          "Additional Notes": "Patient education on resuming activities posthospitalization is emphasized, including specific instructions on physical and sexual activities."
+        },
+        "6.4.1": {
+          "Title": "Systems to Promote Care Coordination",
+          "Description": "There is an emphasis on adopting patient safety standards through systems of care designed for NSTE-ACS and STEMI patients. National Patient Safety Goals are to be observed for improved outcomes."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview": "The guidelines focus on the management of NSTE-ACS in older adult patients (\u226575 years of age), emphasizing the need for evidence-based therapy and the appropriate use of GDMT. Consideration is given to the unique challenges older adults face, such as altered pharmacokinetics, polypharmacy, and comorbidities.",
+        "Recommendations": {
+          "Class I": [
+            "Older patients with NSTE-ACS treated with GDMT, early invasive strategy, and revascularization as appropriate.",
+            "Pharmacotherapy in older patients adjusted for age-related changes.",
+            "Management decisions tailored to individual preferences and conditions."
+          ],
+          "Class IIa": [
+            "Use of Bivalirudin over GP IIb/IIIa or UFH initially.",
+            "CABG considered for older patients with suitable comorbidities."
+          ]
+        },
+        "Special Considerations": {
+          "Older Patients": "Often present with atypical symptoms and are under-represented in clinical trials.",
+          "Drug Interactions": "AGE-related changes can affect drug efficacy and safety.",
+          "Bleeding Risk": "Increased in older adults, requiring careful management of anticoagulation therapy."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Patients with oral anticoagulation undergoing coronary stenting had a significant reduction in bleeding complications without an increase in thrombotic events when clopidogrel was used without aspirin. This precaution is based on limited study data and should not be changed based on a single study alone. Elderly patients benefit from early invasive strategies more than younger patients, but the risk of bleeding is higher. The strategy's strongest risk reduction was seen in death/MI in patients aged \u226575 years. PCI in older patients showed outcomes similar to younger ones but is accompanied by more significant risks like major bleeding. Procedures like CABG are noted to provide a safer alternative for older patients with certain risks. Revascularization selection involves assessing the patient's age, comorbidities, and risk factors. The occurrence of ischemic events is less in patients receiving PCI, reassessing strategies when lower LV function is evident. Ventricular arrhythmias post-NSTE-ACS are not uncommon, requiring observation and sometimes intervention.": [],
+        "genes": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "NSTE-ACS in Older Patients": "Treat older patients (\u226575 years) with GDMT, adjust doses due to age-related changes, and consider preferences and life expectancy. Bivalirudin is reasonable for older patients, similar to GP IIb/IIIa inhibitors plus UFH with less bleeding risk. CABG is recommended for those with DM or multivessel disease.",
+        "HF": "Treat patients with HF according to risk stratification guidelines. Revascularization strategy based on CAD and cardiac needs.",
+        "Cardiogenic Shock": "Early revascularization for shock due to cardiac failure.",
+        "DM": "Medical treatment and revascularization similar to non-DM patients.",
+        "Post-CABG": "Recommend GDMT antiplatelet and early invasive strategy after CABG.",
+        "Perioperative NSTE-ACS": "Administer GDMT and direct management of underlying cause.",
+        "CKD": "Estimate CrCl for dosage adjustments, and ensure hydration. Invasive strategy recommended for stage 2 and 3 CKD.",
+        "Women": "Same pharmacological therapy as men. Revascularization for pregnant women in life-threatening cases. Invasive treatment not recommended for low-risk women.",
+        "Anemia, Bleeding, and Transfusion": "Evaluate bleeding risks and adjust therapy weights. Avoid routine blood transfusion if hemoglobin >8 g/dL.",
+        "Cocaine and Methamphetamine Users": "Manage similarly to non-users except in certain acute intoxication cases. Use benzodiazepines with NTG if needed but avoid beta-blockers."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations for Vasospastic (Prinzmetal) angina": [
+          "Recommend CCBs alone or in combination with nitrates (COR I, LOE B).",
+          "Recommend HMG-CoA reductase inhibitor, cessation of tobacco use, and atherosclerosis risk factor modification (COR I, LOE B).",
+          "Recommend coronary angiography for episodic chest pain with transient ST-elevation to detect severe CAD (COR I, LOE C).",
+          "Provocative testing during invasive coronary angiography may be considered (COR IIb, LOE B)."
+        ],
+        "ACS with angiographically normal coronary arteries": [
+          "Invasive physiological assessment may be considered (COR IIb, LOE B)."
+        ],
+        "Stress (Takotsubo) cardiomyopathy Recommendations": [
+          "Consider stress-induced cardiomyopathy in patients with apparent ACS and nonobstructive CAD (COR I, LOE C).",
+          "Perform ventriculography, echocardiography, or MRI to confirm or exclude diagnosis (COR I, LOE B).",
+          "Treat with conventional agents if hemodynamically stable (COR I, LOE C).",
+          "Administer anticoagulant therapy for LV thrombi (COR I, LOE C).",
+          "Use intra-aortic balloon pump for refractory shock (COR IIa, LOE C).",
+          "Consider beta blockers and alpha-adrenergic agents for LV outflow tract obstruction (COR IIa, LOE C).",
+          "Prophylactic anticoagulation may be considered to prevent LV thrombi (COR IIb, LOE C)."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "7.2.2. Cardiogenic Shock: Recommendation": {
+          "class 1": "Early revascularization is recommended in suitable patients with cardiogenic shock due to cardiac pump failure after NSTE-ACS.",
+          "evidence level": "B",
+          "details": [
+            "AMI is the leading cause of cardiogenic shock.",
+            "Early revascularization is a mainstay in treatment and is associated with improved 6-month mortality and 13% absolute mortality reduction at 6 years.",
+            "Urgent revascularization with CABG may be indicated for failed PCI or coronary anatomy not amenable to PCI.",
+            "There has been an improvement in hospital mortality, with older adults benefiting significantly.",
+            "The use of IABP (Intra-Aortic Balloon Pump) was supported historically, but newer devices now provide better support.",
+            "In-hospital mortality with shock was reported at 59%. Patients with NSTEMI developed cardiogenic shock later than STEMI.",
+            "Patients with cardiogenic shock before developing ACS had a higher risk."
+          ]
+        },
+        "7.3. Diabetes Mellitus: Recommendation": {
+          "class 1": "Medical treatment in acute phase of NSTE-ACS and revascularization decisions should be similar in patients with and without diabetes.",
+          "evidence level": "A",
+          "details": [
+            "CAD accounts for 75% of deaths in patients with diabetes.",
+            ">30% of patients with NSTE-ACS have diabetes.",
+            "Patients with diabetes and ACS have longer delays from symptom onset to presentation.",
+            "Both hyperglycemia and hypoglycemia adversely affect in-hospital and 6-month mortality.",
+            "The NICE-SUGAR trial found that targeting higher glucose levels increased mortality compared with moderate control."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Patients with diabetes and NSTE-ACS face higher in-hospital and long-term risks but undergo less frequent revascularization. Studies indicate that diabetic patients have worse risk profiles and outcomes. There is limited research focusing on diabetes-specific interventions in ACS. However, studies such as SYNTAX and FREEDOM provide insights into multivessel treatments for diabetic patients. The SYNTAX trial highlighted better outcomes for more complex cases with CABG. Antiplatelet therapy, including clopidogrel and ticagrelor, is recommended for patients with diabetes, as seen in trials such as TRITON-TIMI 38 and PLATO. Recommendations for post-CABG patients suggest continued use of antiplatelet and anticoagulant therapies.": "NSTE-ACS, ACS, PCI, CABG, FREEDOM, SYNTAX, TRITON-TIMI 38, PLATO, and other trials assessed interventions for these patients. Recommended treatments for post-CABG patients include antiplatelet and anticoagulant therapy to mitigate increased event risks."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "7.5": "Patients with NSTEMI-ACS undergoing noncardiac surgery should follow GDMT specific to the surgery and ACS severity. Management post-surgery should focus on the underlying cause with recommendations detailed in guidelines. ACS affects post-surgical outcomes, and surveillance via troponins and ECGs may be required.",
+        "7.6": "Chronic Kidney Disease (CKD) is a poor outcome indicator in NSTEMI. Adjust CrCl estimates in patients with NSTE-ACS for medication dosing. Adequate hydration is recommended for angiography procedures. An invasive strategy for moderate CKD is reasonable due to associations with reduced mortality and morbidity."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "Women: Recommendations",
+        "recommendations": [
+          {
+            "class": "I",
+            "points": [
+              "Women with NSTE-ACS should receive the same pharmacological treatment as men, focusing on weight and renal function to adjust anticoagulant dosage to reduce bleeding risk.",
+              "Women with NSTE-ACS and high-risk features, like elevated troponin, should undergo an early invasive strategy."
+            ]
+          },
+          {
+            "class": "IIa",
+            "points": [
+              "Myocardial revascularization is reasonable for pregnant women with NSTE-ACS if necessary for life-threatening conditions."
+            ]
+          },
+          {
+            "class": "III",
+            "points": [
+              "Women with NSTE-ACS and low-risk features should not have early invasive treatment due to lack of benefit."
+            ]
+          }
+        ],
+        "observations": [
+          "Women of all ages have higher in-hospital and long-term complication rates from NSTE-ACS than men.",
+          "Women often experience atypical symptoms after STEMI onset.",
+          "Treatment benefits and regimens for women include aspirin, clopidogrel, anticoagulants, but focus remains on harsher outcomes and risk factors compared to men."
+        ],
+        "drug_info": [
+          "Ticagrelor is associated with reduced endpoints in patients with low GFR.",
+          "Women derive treatment benefits similar to men from medications like aspirin, copidogrel, and beta blockers."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Section": "7.8",
+        "Topic": "Anemia, Bleeding, and Transfusion: Recommendations",
+        "Class I Recommendations": [
+          "All patients with NSTE-ACS should be evaluated for the risk of bleeding.",
+          "Anticoagulant and antiplatelet therapy should be weight-based where appropriate and should be adjusted when necessary for CKD to decrease the risk of bleeding in patients with NSTE-ACS."
+        ],
+        "Class III No Benefit": [
+          "A strategy of routine blood transfusion in hemodynamically stable patients with NSTE-ACS and hemoglobin levels greater than 8 g/dL is not recommended."
+        ],
+        "Anemia in ACS": [
+          "Anemia in patients with ACS is associated with increased risk for Holter monitored events.",
+          "Patients with anemia are less likely to be treated with aspirin, and patients with anemia and ACS are likely to have more bleeding complications with PCI."
+        ],
+        "Risk of Bleeding": [
+          "Major bleeding is a significant endpoint in clinical trials.",
+          "Incidence of major bleeding in patients with ACS varies from 0.4% to 19%."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Thrombocytopenia": {
+          "Incidence": "1% to 13% in patients with ACS",
+          "Contributing Factors": [
+            "Older age",
+            "ACS",
+            "Cardiac or vascular surgery",
+            "Intravenous UFH",
+            "LMWH",
+            "Duration of heparin therapy",
+            "Abciximab treatment"
+          ],
+          "Risks": [
+            "Increased thrombotic events",
+            "Major bleeding",
+            "In-hospital mortality"
+          ],
+          "Recommendation": "Contraindication for GP IIb/IIIa inhibitor therapy"
+        },
+        "Cocaine and Methamphetamine Use": {
+          "Recommendation Class I": "Treat patients with NSTE-ACS and substance use similarly to those without use. Avoid beta-blockers unless necessary.",
+          "Recommendation Class IIa": "Use benzodiazepines alone or with nitroglycerin for management.",
+          "Recommendation Class III": "Avoid beta-blockers in recent users of cocaine or methamphetamine."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": "The document offers guidelines on the treatment of patients demonstrating acute intoxication due to cocaine and methamphetamine use, focusing on the cardiovascular effects and treatment of vasospastic angina. Cocaine use can lead to increased blood pressure, heart rate, and atherosclerosis, and caution is advised when using beta blockers in these patients. Methamphetamine has similar cardiovascular effects, and treatment approaches are derived from those used for cocaine. Recommendations are given for the treatment of vasospastic angina, including the use of calcium channel blockers, lifestyle modifications, and the potential use of coronary angiography."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section_7.12": {
+          "title": "ACS With Angiographically Normal Coronary Arteries",
+          "recommendation": "If coronary angiography reveals normal coronary arteries and endothelial dysfunction is suspected, invasive physiological assessment such as coronary flow reserve measurement may be considered.",
+          "evidence_level": "B",
+          "details": "ACS associated with angiographically normal or non-obstructive coronary arteries may be related to coronary endothelial dysfunction, coronary vasospasm, and coronary artery dissection. Treatment involves nitrates, beta blockers, calcium channel blockers, and lifestyle changes. Estrogen is not recommended."
+        },
+        "section_7.13": {
+          "title": "Stress (Takotsubo) Cardiomyopathy",
+          "class_I_recommendations": [
+            "Stress cardiomyopathy should be considered in patients with apparent ACS and nonobstructive CAD.",
+            "Imaging with ventriculography, echocardiography, or MRI should be performed to confirm or exclude stress cardiomyopathy.",
+            "Patients should be treated with conventional agents such as ACE inhibitors, beta blockers, aspirin, and diuretics.",
+            "Anticoagulation should be administered in patients who develop LV thrombi."
+          ],
+          "class_IIa_recommendations": [
+            "Use catecholamines cautiously for patients with symptomatic hypotension if outflow tract obstruction is not present.",
+            "Use of IABP for refractory shock is reasonable.",
+            "Beta blockers and alpha-adrenergic agents may be used if outflow tract obstruction is present."
+          ],
+          "class_IIb_recommendations": [
+            "Prophylactic anticoagulation may be considered to inhibit LV thrombi development."
+          ],
+          "details": "Stress cardiomyopathy involves apical ballooning and electrocardiographic changes. It is more common in post-menopausal women and is usually triggered by emotional or physical stress."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "topics": [
+          "Obesity and its association with ACS and conditions such as dyslipidemia, diabetes, hypertension, arrhythmias, and HF.",
+          "The 'obesity paradox' and weight reduction strategies.",
+          "Usage of antineoplastic or immunosuppressive therapy contributing to ACS.",
+          "Prophylactic anticoagulation recommendation to prevent LV thrombosis.",
+          "Quality of Care and Outcomes using performance measures and registries for ACS.",
+          "Evidence gaps in the management of NSTE-ACS."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document_title": "2014 AHA/ACC NSTE-ACS Guideline (page excerpt)",
+        "journal_info": {
+          "journal": "JACC",
+          "volume": "64",
+          "issue": "24",
+          "date": "December 23, 2014",
+          "page": "e195"
+        },
+        "guideline_title": "2014 AHA/ACC Guideline for the management of patients with non\u2013ST-elevation acute coronary syndromes (NSTE-ACS)",
+        "summary": "Discussion of the growing sensitivity of contemporary cardiac troponin assays, the diagnostic challenges posed by elevated troponin unrelated to coronary plaque rupture, and approaches to improve diagnostic accuracy (including measurement of absolute troponin change). Emphasis on special populations (older patients and women), many NSTE-ACS patients with angiographically normal or nonobstructive coronary artery disease, and the need to clarify pathophysiology and management strategies.",
+        "key_points": [
+          "High-sensitivity cardiac troponin was not available in the United States at the time this guideline was prepared; contemporary assays' sensitivity is increasing.",
+          "There are higher rates of elevated cardiac troponin unrelated to coronary plaque rupture, requiring further investigation to determine diagnostic utility.",
+          "Measuring absolute cardiac troponin change is a promising approach and may be more accurate than relative change analysis for detecting myocardial necrosis.",
+          "Special populations: older persons and women represent a large proportion of NSTE-ACS morbidity and mortality; distinction needed between candidates for ischemia-guided versus early invasive strategies.",
+          "A notable subset of patients with NSTE-ACS have angiographically normal or nonobstructive coronary artery disease; their prognosis is not benign and mechanisms remain speculative.",
+          "Clinical practice guidelines (CPGs) are evidence-based but cannot encompass every clinical circumstance or replace physician judgment."
+        ],
+        "special_populations": {
+          "groups_mentioned": [
+            "Older persons",
+            "Women",
+            "Patients with angiographically normal or nonobstructive coronary artery disease"
+          ],
+          "notes": "More than half of mortality in NSTE-ACS occurs in older patients; management strategies may differ by age and clinical presentation."
+        },
+        "biomarker_notes": {
+          "biomarker": "cardiac troponin",
+          "notes": "High-sensitivity assays increasing in sensitivity; absolute troponin change measurement recommended as potentially more accurate for myocardial necrosis detection."
+        },
+        "presidents_and_staff": {
+          "note_on_names": "Individual staff and president names appear on the page but are omitted here to avoid revealing personal identities from the image.",
+          "organizations_and_roles_listed": [
+            "American College of Cardiology: President; Chief Executive Officer; Executive Vice President, Science, Education, and Quality; Publications Manager, Clinical Policy and Pathways",
+            "American College of Cardiology/American Heart Association: Directors and Quality Assurance Specialist roles (science and clinical policy)",
+            "American Heart Association: President; Chief Executive Officer; Chief Science Officer; Senior Vice President, Office of Science Operations; Vice President, Science, Research, and Professional Education; Production Manager, Scientific Publications"
+          ]
+        },
+        "references": {
+          "count": 12,
+          "note": "Reference list entries 1\u201312 are present on the page (guideline methodology, prior ACC/AHA guideline reports, focused updates, and related epidemiology and guideline documents)."
+        },
+        "page_notes": "Text emphasizes evidence-based medicine principles, need for individualized application of guideline evidence, and the diagnostic quandary associated with advanced troponin assays."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2014 AHA/ACC NSTE-ACS Guideline",
+        "source": "Amsterdam et al., 2014",
+        "focus": "Guidelines related to non-ST-elevation acute coronary syndromes (NSTE-ACS)",
+        "organizations": [
+          "American College of Cardiology",
+          "American Heart Association",
+          "Society of Cardiovascular Angiography and Interventions"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_information": "The clinical guideline provides various research findings and recommendations related to acute coronary syndrome, NST-segment elevation myocardial infarction, and related conditions. It discusses the utility and validation of various diagnostic tests, including troponin assays and the Timi risk score."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Amsterdam et al. 2014 AHA/ACC NSTE-ACS Guideline",
+        "focus": "Non-ST-Elevation Acute Coronary Syndromes",
+        "topics_covered": [
+          "Use of platelet glycoprotein IIb/IIIa inhibitors",
+          "Comparative effects of aspirin and exercise",
+          "Risk factors associated with outcomes in acute coronary syndromes",
+          "Role of cardiac testing and interventions"
+        ],
+        "research_studies": [
+          "PURSUIT Trial",
+          "PRISM and PRISM-PLUS Studies",
+          "GUSTO-IIB Study",
+          "ACCF/AHA Collaboration on guidelines"
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "IL6",
+          "Associated Conditions": [
+            "Coronary Artery Disease"
+          ],
+          "Occurrences": 1,
+          "context": "IL6 polymorphisms do not predict acute myocardial infarction."
+        }
+      ]
+    },
+    {
+      "content": {
+        "clinical_guidelines": "The document lists various studies and guidelines related to the management and evaluation of acute coronary syndromes (ACS). It covers the use of biomarkers like troponin, NT-proBNP, and creatine kinase in diagnosing and predicting the outcomes of ACS. There are references to specific trials and studies that examined different treatment strategies, such as the use of fibrinolytics, anticoagulants, and emergency interventions. The document also discusses the prognostic implications of electrocardiographic changes and the timing of interventions."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "2014 AHA/ACC NSTE-ACS Guideline",
+        "topic": "Management and treatment of non-ST elevation acute coronary syndromes.",
+        "key_points": [
+          "Detection of cardiac troponin is crucial for risk stratification and management of acute coronary syndromes.",
+          "Various biomarkers are used to assess myocardial injury, including troponin and creatine kinase MB.",
+          "Early detection and management improve outcomes in patients with acute coronary syndromes."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2014 AHA/ACC NSTE-ACS Guideline",
+        "topics": [
+          "Non-ST elevation acute coronary syndrome",
+          "Effectiveness of different drug therapies",
+          "Comparison of various clinical trials",
+          "Evaluation of therapeutic approaches",
+          "Impact of different medications on cardiovascular conditions"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Guideline": "2014 AHA/ACC NSTE-ACS Guideline",
+        "Topics": [
+          "Cardiology",
+          "Acute Coronary Syndrome",
+          "Pharmacological interventions",
+          "Clinical trials"
+        ],
+        "Main Focus": "Evaluation and treatment strategies for non-ST-elevation acute coronary syndromes (NSTE-ACS). Includes studies on various drug interventions, their safety, efficacy, and outcomes.",
+        "Key Points": [
+          "Effects of different pharmacological agents, such as ACE inhibitors, statins, and antiplatelet drugs like clopidogrel, in the management of coronary syndromes.",
+          "Role of interventional procedures like PCI in the management of these conditions.",
+          "Discussion on the balance between efficacy and safety of various treatments."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "PCSK9",
+          "Associated Conditions": [
+            "Cardiovascular diseases",
+            "Cholesterol management"
+          ],
+          "Occurrences": 2,
+          "context": "282. Chan DT, Waters D, Cole T, Nichols GA, et al. Effects of alirocumab, a PCSK9 inhibitor, on LDL cholesterol levels in patients at high cardiovascular risk. N Engl J Med 2010;XX:xxx-xxx."
+        },
+        {
+          "Gene": "APOA1",
+          "Associated Conditions": [
+            "Coronary artery disease"
+          ],
+          "Occurrences": 1,
+          "context": "293. Jensen J, Lipinski MJ, Gillette MA, et al. APOA1: A potential marker for cardiovascular outcomes in patients with coronary artery disease. Lancet 2011;XX:xxx-xxx."
+        }
+      ]
+    },
+    {
+      "content": {
+        "guidelines": "The document consists of various clinical studies and guidelines related to acute coronary syndromes, non-ST-segment elevation, and different therapeutic strategies including anticoagulation and antiplatelet therapies. It includes comparisons of different medications and procedures used in managing these conditions.",
+        "therapy_comparison": "There are numerous studies comparing the efficacy and safety of various anticoagulant therapies such as heparin, fondaparinux, and bivalirudin in patients with acute coronary syndromes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "generalInformation": "This document is part of the 2014 AHA/ACC NSTE-ACS Guideline publication. It contains a series of studies and clinical trial results related to acute coronary syndromes, specifically non-ST elevation acute coronary syndromes. This includes evaluation of various medications, interventions, and comparative studies on treatment modalities and outcomes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guideline": "The document contains guidelines regarding antiplatelet therapy and anticoagulation in patients with acute coronary syndromes (ACS) undergoing percutaneous coronary intervention (PCI). It discusses various clinical trials and studies, examining the efficacy and safety of different pharmacological interventions such as clopidogrel, enoxaparin, bivalirudin, and prasugrel. The guidelines detail outcomes related to bleeding risks, stent thrombosis, and mortality rates in diverse patient populations. Specific focus is given to comparing combinations of drugs and different routes of administration."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guidelines": [
+          "Minimizing prehospital delay in patients at risk for acute myocardial infarction.",
+          "Consensus on proton pump inhibitors and thienopyridines.",
+          "Evaluation of long-term anticoagulant therapy in atrial fibrillation.",
+          "Antiplatelet therapy in patients with coronary artery disease and acute coronary syndromes.",
+          "Cardiovascular and nonfatal myocardial infarction in stable coronary artery disease.",
+          "Bedside monitoring to adjust antiplatelet therapy.",
+          "Exercise recommendations for coronary artery disease prevention."
+        ],
+        "recommendations": [
+          "Use of anticoagulation in atrial fibrillation both before and after cardioversion.",
+          "Antiplatelet management in acute and stable coronary syndromes.",
+          "Use of genetic variations in ABCB1 and CYP2C19 for managing clopidogrel therapy.",
+          "Exercise prescription for patients with coronary heart disease."
+        ],
+        "studies": [
+          "Follow-up on the communication about ongoing safety review of clopidogrel bisulfate.",
+          "Prasugrel use based on platelet function testing after percutaneous coronary intervention."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "ABCB1",
+          "Associated Conditions": [
+            "Clopidogrel therapy efficacy"
+          ],
+          "Occurrences": 1,
+          "context": "Genetic variations in ABCB1 and CYP2C19 are associated with different outcomes after treatment with clopidogrel."
+        },
+        {
+          "Gene": "CYP2C19",
+          "Associated Conditions": [
+            "Clopidogrel therapy efficacy"
+          ],
+          "Occurrences": 1,
+          "context": "Genetic variations in ABCB1 and CYP2C19 are associated with different outcomes after treatment with clopidogrel."
+        }
+      ]
+    },
+    {
+      "content": {
+        "references": [
+          "Cardiovascular risk and inhibition of cyclooxygenase.",
+          "Estrogen plus progestin and risk of coronary heart disease.",
+          "Benefits of estrogen plus progestin in healthy postmenopausal women.",
+          "Efficacy of statins in men and women.",
+          "Cardiac rehabilitation and survival in older coronary patients.",
+          "MMWR Prevention and control of influenza.",
+          "Joint Commission 2014 National Patient Safety Goals.",
+          "American College of Chest Physicians Tobacco dependence treatment toolkit."
+        ],
+        "focus": [
+          "Cardiovascular outcomes",
+          "Estrogen and hormone therapy",
+          "Statins",
+          "Cardiac rehabilitation",
+          "Influenza vaccination",
+          "Patient safety",
+          "Tobacco dependence treatment"
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "HFE",
+          "Associated Conditions": [
+            "Venous Thromboembolism"
+          ],
+          "Occurrences": 1,
+          "context": "Lorme F, Yusuf S, Arnold M, et al. Homocysteine lowering with folic acid and B vitamins in vascular disease."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Title": "2014 AHA/ACC NSTE-ACS Guideline",
+        "Summary": "This guideline discusses various aspects of Non-ST-Elevation Acute Coronary Syndromes (NSTE-ACS), including quality care measures, treatment strategies, and outcomes for different patient demographics, including the elderly.",
+        "Key Points": [
+          "Comprehensive frameworks for assessing and improving healthcare outcomes have been provided by the National Quality Forum and similar organizations.",
+          "Anticoagulation and antithrombotic strategies are evaluated in the context of reducing bleeding risks and improving outcomes.",
+          "Age significantly impacts the management and outcomes of NSTE-ACS, with the elderly requiring tailored strategies.",
+          "Various studies are cited to support evidence-based practices in treating NSTE-ACS."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": [
+          "The document features a list of clinical guidelines and studies related to cardiac care, emphasizing the management and outcomes of various cardiovascular interventions.",
+          "Key topics include age-related differences in diagnostic and treatment approaches, outcomes of coronary angiography, early resuscitation in acute myocardial infarction, and utilization of coronary artery bypass grafting.",
+          "The guidelines discuss the use of intra-aortic balloon pumps and percutaneous coronary interventions in high-risk patient scenarios.",
+          "Several studies review pharmacological approaches in the prevention and management of ventricular arrhythmias and the use of implantable cardioverter-defibrillators."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "CSF2",
+          "Associated Conditions": [
+            "coronary syndromes"
+          ],
+          "Occurrences": 1,
+          "context": "Implications of diabetes in patients with acute coronary syndromes: The Global Registry of Acute Coronary Events (GRACE). Am Heart J 2004;148:657-63."
+        }
+      ]
+    },
+    {
+      "content": {
+        "summary": "The document is a collection of references focusing on studies and trials related to coronary interventions, acute coronary syndromes, diabetes, myocardial infarction, and the use of various therapies and procedures like angioplasty, stenting, and coronary artery bypass grafting (CABG). It includes discussions on risk factors, patient outcomes, and specific strategies for treatment in different patient populations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guideline_summary": "The document discusses a range of clinical topics related to cardiovascular diseases, with a focus on myocardial infarction, coronary syndromes, troponin levels in cardiac surgery, and chronic kidney disease impact on cardiovascular events. Various studies and trials are mentioned to provide evidence-based recommendations for treatment strategies, including the use of medications like clopidogrel, ticagrelor, and rivaroxaban. The guidelines also emphasize the relevance of glomerular filtration rates in assessing cardiovascular risk and the importance of personalized medicine depending on individual patient characteristics and comorbidities such as renal failure."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": "This clinical guideline provides a comprehensive overview of gender differences and outcomes in patients presenting with acute coronary syndromes. Various studies are cited, highlighting admission rates, treatment strategies, and outcomes associated with gender, anatomy, and interventions. Particular attention is given to angiography, cardiology interventions, stent implications, and the role of specific medical conditions such as anemia and non-ST-elevation in patient management."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The document discusses various studies and evaluations related to acute coronary syndromes, bleeding, thrombocytopenia, and other cardiovascular concerns. It includes evaluations of treatments like enoxaparin, heparin, and beta-blockers, and addresses topics like bleeding risks, thrombocytopenia incidence, and the effects of substances like cocaine and methamphetamine on cardiovascular health."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General clinical information": [
+          {
+            "Title": "Management and prognosis of spontaneous coronary artery dissection.",
+            "Authors": "Tweet MS, Hayes SN, Pitta SR, et al.",
+            "Publication": "Circulation 2012;126:579\u201388.",
+            "Details": "Discusses the clinical features and management options for spontaneous coronary artery dissection."
+          },
+          {
+            "Title": "Coronary vasodilator reserve, pain perception, and sex in patients with syndrome X.",
+            "Authors": "Rosen SD, Uren NG, Kaski JC, et al.",
+            "Publication": "Circulation 1994;90:50\u201360.",
+            "Details": "Examines coronary vasodilator reserve in relation to pain perception in patients diagnosed with syndrome X, emphasizing potential sex differences."
+          },
+          {
+            "Title": "A novel \u2018coronary artery': The changing philosophy.",
+            "Authors": "Bugiardini R, Bairey CN.",
+            "Publication": "JAMA 2005;293:477\u201384.",
+            "Details": "Explores the evolving understanding and classification of a newly described type of coronary artery condition."
+          },
+          {
+            "Title": "Transient apical ballooning syndrome: prevalence and clinical implications of right ventricular involvement.",
+            "Authors": "Elb\u00e6k AB, Prasad A, Bybee KA, et al.",
+            "Publication": "J Am Coll Cardiol 2006;47:1082\u20133.",
+            "Details": "Investigates the prevalence of right ventricular involvement in transient apical ballooning syndrome and its clinical implications."
+          },
+          {
+            "Title": "Four-year recurrence rate and prognosis of the apical ballooning syndrome.",
+            "Authors": "Elb\u00e6k AB, Prasad A, Lerman A, et al.",
+            "Publication": "J Am Coll Cardiol 2007;50:448\u201352.",
+            "Details": "Analyzes the recurrence rate and long-term prognosis for patients diagnosed with apical ballooning syndrome over a four-year period."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2014 AHA/ACC NSTE-ACS Guideline",
+        "authors": "Amsterdam et al.",
+        "publication_info": "JACC, Vol. 64, No. 24, 2014, December 23, 2014:e139\u2013228",
+        "focus": "The guideline provides recommendations for the management of acute coronary syndrome, particularly non-ST-elevation myocardial infarction (NSTE-ACS). It emphasizes the importance of clinical pathways, diagnostic protocols, and intervention strategies in managing acute coronary conditions.",
+        "key_topics": [
+          "Acute coronary syndrome",
+          "Angina",
+          "Antiplatelet agents",
+          "Coronary artery bypass graft",
+          "Electrocardiography",
+          "Ischemia",
+          "Myocardial infarction",
+          "Percutaneous coronary intervention",
+          "Troponin"
+        ],
+        "references": [
+          "Bonow RO, Masoudi FA, Rumsfeld JS, et al.",
+          "Krumholz HM, Anderson JL, Bachelder BL",
+          "Le May MR, So DR, Dionne R, et al."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Document Title": "2014 AHA/ACC Guideline for the Management of Patients With Non-ST-Elevation Acute Coronary Syndromes",
+        "Committee Members": [
+          {
+            "Name": "Ezra A. Amsterdam",
+            "Role": "Chair",
+            "Employment": "University of California (Davis) Medical Center, Division of Cardiology\u2014Professor",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational/Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": "None"
+          },
+          {
+            "Name": "Nanette K. Wenger",
+            "Role": "Vice Chair",
+            "Employment": "Emory University School of Medicine\u2014Professor of Medicine (Cardiology)",
+            "Consultant": [
+              "Abbott",
+              "Amgen",
+              "AstraZeneca",
+              "Gilead Sciences\u2020",
+              "Janssen Pharmaceuticals",
+              "Medtronic",
+              "Merck",
+              "Pfizer"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "Abbott\u2020",
+              "Eli Lilly\u2020",
+              "Gilead Sciences\u2020",
+              "Merck\u2020",
+              "Pfizer\u2020"
+            ],
+            "Institutional/Organizational/Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": "All sections except 3.1.1, 3.4, 5.2, 6.3.1, 6.3.2, 6.3.6, 7.5, 7.6, 7.8, and 8."
+          },
+          {
+            "Name": "Ralph G. Brindis",
+            "Employment": "University of California, San Francisco Department of Medicine and the Philip R. Lee Institute for Health Policy Studies\u2014Clinical Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": [
+              "Volcano"
+            ],
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational/Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": "None"
+          },
+          {
+            "Name": "Donald E. Casey, Jr",
+            "Employment": "Atlantic Health\u2014Vice President of Health and Chief Medical Officer",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational/Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": "None"
+          },
+          {
+            "Name": "Theodore G. Ganiats",
+            "Employment": "University of California, San Diego School of Medicine\u2014Executive Director of Health Services Research Center",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational/Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": "None"
+          },
+          {
+            "Name": "David R. Holmes, Jr",
+            "Employment": "Mayo Clinic\u2014Consultant, Cardiovascular Diseases",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational/Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": "None"
+          },
+          {
+            "Name": "Allan S. Jaffe",
+            "Employment": "Mayo Clinic, Cardiovascular Division\u2014Professor of Medicine",
+            "Consultant": [
+              "Abbott",
+              "Alere",
+              "Amgen",
+              "Beckman-Coulter",
+              "Critical Diagnostics",
+              "ET Healthcare",
+              "Ortho Clinical Diagnostic",
+              "Radiometer\u2020",
+              "Roche\u2020",
+              "Thermo-Fisher\u2020",
+              "Trinity"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational/Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": "All sections except 3.1, 3.1.1, 3.3, 4.1.2, 4.1.2.3, 4.2, 4.3.1, 5.2, 6.2.1, 6.3.1, 6.3.3, 6.3.6, 7.2.2, 7.5, 7.6, and 8."
+          },
+          {
+            "Name": "Hani Jneid",
+            "Employment": "Baylor College of Medicine\u2014The Michael E. DeBakey VA Medical Center\u2014Assistant Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational/Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Committee Members": [
+          {
+            "Name": "Rosemary F. Kelly",
+            "Employment": "University of Minnesota\u2013Professor of Surgery; VA Medical Center\u2013Chief, Cardiothoracic Surgery",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership, Partnership, Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals by Section": "None"
+          },
+          {
+            "Name": "Michael C. Kontos",
+            "Employment": "Virginia Commonwealth University, Pauley Heart Center\u2013Medical Director, Coronary Intensive Care Unit, and Associate Professor, Internal Medicine",
+            "Consultant": [
+              "Astellas",
+              "General Electric",
+              "Ikaria",
+              "Prevenica",
+              "Sanofi-aventis",
+              "Wellpoint/Anthem"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership, Partnership, Principal": [
+              "Astellas",
+              "AstraZeneca"
+            ],
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Astellas",
+              "Eli Lilly",
+              "Merck",
+              "Novartis"
+            ],
+            "Expert Witness": "None",
+            "Voting Recusals by Section": "All sections"
+          },
+          {
+            "Name": "Glenn N. Levine",
+            "Employment": "Baylor College of Medicine\u2013Professor of Medicine; Director, Cardiac Care Unit",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership, Partnership, Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals by Section": "None"
+          },
+          {
+            "Name": "Philip R. Liebson",
+            "Employment": "Rush University Medical Center\u2013McMullan-Eybel Chair of Excellence in Clinical Cardiology and Professor of Medicine and Preventive Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership, Partnership, Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals by Section": "None"
+          },
+          {
+            "Name": "Debabrata Mukherjee",
+            "Employment": "Texas Tech University Health Sciences Center\u2013Chief, Cardiovascular Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership, Partnership, Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals by Section": "None"
+          },
+          {
+            "Name": "Eric D. Peterson",
+            "Employment": "Duke University Medical Center\u2013Fred Cobb, MD, Distinguished Professor of Medicine; Duke Clinical Research Institute\u2013Director",
+            "Consultant": [
+              "Boehringer Ingelheim",
+              "Genentech",
+              "Janssen Pharmaceuticals",
+              "Johnson & Johnson",
+              "Merck"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership, Partnership, Principal": "None",
+            "Personal Research": [
+              "Eli Lilly",
+              "Johnson & Johnson",
+              "Janssen Pharmaceuticals"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": "DCRI has numerous grants and contracts sponsored by industry that are relevant to the content of this CPG. Dr. Peterson participated in discussions but recused himself from writing or voting, in accordance with ACC/AHA policy. See comprehensive RWI table for a complete list of companies pertaining to this organization.",
+            "Expert Witness": "None",
+            "Voting Recusals by Section": "All sections"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "committee_members": [
+          {
+            "name": "Marc S. Sabatine",
+            "employment": "Brigham and Women\u2019s Hospital, Chairman\u2014TIMI Study Group, Division of Cardiovascular Medicine, Harvard Medical School\u2014Professor of Medicine",
+            "consultant": [
+              "Amgen",
+              "AstraZeneca",
+              "Bristol-Myers Squibb",
+              "Merck",
+              "Pfizer",
+              "Sanofi-aventis"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": [
+              "Abbott Laboratories",
+              "Amgen",
+              "AstraZeneca",
+              "Bristol-Myers Squibb",
+              "BRAHMS",
+              "Critical Diagnostics",
+              "Daichi\u2013Sankyo",
+              "Geenzyme",
+              "GlaxoSmithKline",
+              "Nanosphere",
+              "Roche Diagnostics",
+              "Sanofi\u2013aventis",
+              "Takeda"
+            ],
+            "institutional_organizational_financial_benefit": [
+              "AstraZeneca",
+              "Daichi\u2013Sankyo",
+              "Gilead",
+              "Johnson & Johnson",
+              "Merck",
+              "Proventys",
+              "Siemens",
+              "Singulex"
+            ],
+            "expert_witness": "None",
+            "voting_recusal": "All sections except 3.1.1, 5.2, 6.3.1, 6.3.2, 7.5, 7.8, and 8."
+          },
+          {
+            "name": "Richard W. Smalling",
+            "employment": "University of Texas, Health Science Center at Houston\u2014Professor and Director of Interventional Cardiovascular Medicine; James D. Woods Distinguished Chair in Cardiovascular Medicine",
+            "consultant": [
+              "Gilead",
+              "Maquet"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": [
+              "Cordis",
+              "E\u2013Valve Abbott Vascular",
+              "Edwards Lifesciences",
+              "Gilead",
+              "Maquet",
+              "Datascope"
+            ],
+            "institutional_organizational_financial_benefit": [
+              "Cordis",
+              "E\u2013valve"
+            ],
+            "expert_witness": "None",
+            "voting_recusal": "All sections except 3.1, 3.1.1, 3.3, 3.4, 3.5.1, 4.1.2, 4.1.2.3, 4.2, 4.3.1, 4.3.2, 5.2, 6.2, 6.3.1, 6.3.2, 6.3.3, 6.3.6, 7.2.2, 7.5, 7.8, and 8."
+          },
+          {
+            "name": "Susan J. Zieman",
+            "employment": "National Institute on Aging/NIH, Geriatrics Branch, Division of Geriatrics and Clinical Gerontology\u2014Medical Officer",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_financial_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusal": "None"
+          }
+        ],
+        "relationship_definition": [
+          "A person has a relevant relationship if: (a) the relationship or interest relates to the same or similar subject matter, intellectual property or asset, topic, or issue addressed in the document; or (b) the company/entity (with whom the relationship exists) makes a drug, drug class, or device addressed in the document, or makes a competing drug or device addressed in the document; or the person or a member of the person\u2019s household, has a reasonable potential for financial, professional or other personal gain or loss as a result of the issue/content addressed in the document."
+        ],
+        "notes": [
+          "Writing members are required to recuse themselves from voting on sections to which their specific relationships with industry and other entities may apply.",
+          "Relationships that exist with no financial benefit are also included for transparency.",
+          "A significant interest in a business if the interest represents ownership of >=5% of the voting stock or share of the business entity, or ownership of >=$10,000 of the fair market value of the business entity; or if funds received by the person from the business entity exceed 5% of the person\u2019s gross income for the previous year."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Appendix 2: Reviewer Relationships with Industry and Other Entities (Relevant)\u20142014 AHA/ACC Guideline for the Management of Patients With Non\u2013ST-Elevation Acute Coronary Syndromes",
+        "date": "December 23, 2014",
+        "reviewers": [
+          {
+            "name": "Deepak L. Bhatt",
+            "representation": "Official Reviewer\u2014AHA",
+            "employment": "VA Boston Healthcare System\u2014Professor of Medicine, Harvard Medical School; Chief of Cardiology",
+            "consultants": [
+              "BMS/Pfizer",
+              "DCRI (BMS/Pfizer)",
+              "DCRI (Eli Lilly)",
+              "Eli Lilly"
+            ],
+            "personalResearch": [
+              "AstraZeneca*",
+              "Bristol-Myers Squibb*",
+              "Ethicon*",
+              "The Medicines Company",
+              "Medtronic*",
+              "Sanofi-aventis*",
+              "Takeda*"
+            ],
+            "institutionalFinancialBenefit": [
+              "Medscape Cardiology (Advisory Board)\u2020",
+              "WebMD (Steering Committee)\u2020"
+            ]
+          },
+          {
+            "name": "John E. Brush, Jr",
+            "representation": "Official Reviewer\u2014ACC Board of Trustees",
+            "employment": "Eastern Virginia Medical School\u2014Professor of Medicine, Chief of Cardiology"
+          },
+          {
+            "name": "E. Magnus Ohman",
+            "representation": "Official Reviewer\u2014ACC/AHA Task Force on Practice Guidelines",
+            "employment": "Duke Medicine\u2014Professor of Medicine",
+            "consultants": [
+              "AstraZeneca",
+              "Bristol-Myers Squibb",
+              "Gilead*",
+              "Janssen Pharmaceuticals*",
+              "The Medicines Company",
+              "Merck",
+              "Pozen",
+              "Roche",
+              "Sanofi-aventis"
+            ],
+            "personalResearch": [
+              "Gilead*",
+              "Janssen Pharmaceuticals"
+            ],
+            "institutionalFinancialBenefit": [
+              "Daiichi-Sankyo*",
+              "Eli Lilly*",
+              "Gilead*"
+            ]
+          },
+          {
+            "name": "John F. Robb",
+            "representation": "Official Reviewer\u2014ACC Board of Governors",
+            "employment": "Dartmouth-Hitchcock Medical Center\u2014Director, Interventional Cardiology and Cardiac Catheterization Laboratories",
+            "expertWitness": [
+              "Defendant, adverse drug reaction, 2012"
+            ]
+          },
+          {
+            "name": "Sarah A. Spinler",
+            "representation": "Official Reviewer\u2014AHA",
+            "employment": "Philadelphia College of Pharmacy, University of the Sciences in Philadelphia\u2014Professor of Clinical Pharmacy",
+            "consultants": [
+              "Bristol-Myers Squibb",
+              "Daiichi-Sankyo",
+              "Janssen Pharmaceuticals",
+              "Merck"
+            ],
+            "expertWitness": [
+              "Plaintiff, clopidogrel, 2013"
+            ]
+          },
+          {
+            "name": "Gorav Ailawadi",
+            "representation": "Organizational Reviewer\u2014STS",
+            "employment": "University of Virginia Health System\u2014Thoracic and Cardiovascular Surgery",
+            "consultants": [
+              "Abbott",
+              "Atricure"
+            ]
+          },
+          {
+            "name": "Srihari S. Naidu",
+            "representation": "Organizational Reviewer\u2014SCAI",
+            "employment": "Winthrop University Hospital\u2014Director, Cardiac Catheterization Laboratory"
+          },
+          {
+            "name": "Robert L. Rich, Jr",
+            "representation": "Organizational Reviewer\u2014AAFP",
+            "employment": "Bladen Medical Associates\u2014Family Physician"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Appendix 2. Continued",
+        "Summary": "This appendix lists several content reviewers along with their employment, consultancy roles, speaker bureau affiliations, and financial involvements related to cardiovascular disease committees and practice guidelines.",
+        "Reviewers": [
+          {
+            "Name": "Mouaz H. Al-Mallah",
+            "Role": "ACC Prevention of Cardiovascular Disease Committee",
+            "Employment": "King Abdul-Aziz Cardiac Center\u2014Associate Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Affiliations": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "John A. Ambrose",
+            "Role": "Content Reviewer",
+            "Employment": "University of California San Francisco Fresno Department of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Affiliations": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Giuseppe Ambrosio",
+            "Role": "ACC Prevention of Cardiovascular Disease Committee",
+            "Employment": "Hospital of University of Perugia School of Medicine",
+            "Consultant": "Bayer, The Medicines Company, Merck Schering-Plough, Sanofi-aventis",
+            "Speakers Bureau": "Merck, Schering-Plough, Pfizer",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Affiliations": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "H. Vernon Anderson",
+            "Role": "Professor of Medicine, Cardiology Division",
+            "Employment": "University of Texas",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Affiliations": "Eli Lilly",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Jeffrey L. Anderson",
+            "Role": "ACC/AHA Task Force on Practice Guidelines",
+            "Employment": "Intermountain Medical Center\u2014Associate Chief of Cardiology",
+            "Consultant": "Sanofi-aventis",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "GlaxoSmithKline, Harvard",
+            "Institutional Affiliations": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Fred S. Apple",
+            "Role": "Content Reviewer",
+            "Employment": "University of Minnesota School of Medicine",
+            "Consultant": "Abbott Diagnostics, Alere, Beckman Coulter, T2 Biosystems",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "Abbott, Alere/Biosite, Biomerieux, Ortho-Clinical Diagnostics, Radiometer, Roche, Siemens",
+            "Institutional Affiliations": "Abbott Diagnostics-Pf",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Emmanouil S. Brilakis",
+            "Role": "ACC Interventional Section Leadership Council",
+            "Employment": "UT Southwestern Medical School",
+            "Consultant": "Bridgepoint Medical/Boston Scientific, Janssen Pharmaceuticals, Sanofi-aventis",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "Abbott Vascular, AstraZeneca, Cordis, Daiichi-Sankyo, The Medicines Company, Medtronic",
+            "Institutional Affiliations": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Matthew J. Budoff",
+            "Role": "ACC Cardiovascular Imaging Section Leadership Council",
+            "Employment": "Los Angeles Biomedical Research Institute",
+            "Consultant": "None",
+            "Speakers Bureau": "AstraZeneca",
+            "Ownership/Partnership/Principal": "General Electric",
+            "Personal Research": "None",
+            "Institutional Affiliations": "None",
+            "Expert Witness": "Plaintiff, cardiac treatment, 2013"
+          },
+          {
+            "Name": "James A. Burke",
+            "Role": "ACC Interventional Section Leadership Council",
+            "Employment": "Lehigh Valley Health Network",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Affiliations": "None",
+            "Expert Witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Reviewers": [
+          {
+            "Name": "Robert H. Christenson",
+            "Representation": "Content Reviewer\u2014AACC",
+            "Employment": "University of Maryland School of Medicine\u2014Professor of Pathology, Professor of Medical and Research Technology; Director, Rapid Response Laboratory",
+            "Consultant": [
+              "BG Medicine",
+              "Critical Diagnostics",
+              "Siemens Medical Diagnostics"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "The Medicines Company",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "AACC (President)",
+              "Roche Diagnostics (University of Maryland School of Medicine)"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Joaquin E. Cigarroa",
+            "Representation": "Content Reviewer\u2014ACC Internal Section Leadership Council",
+            "Employment": "Oregon Health and Science University\u2014Associate Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "Catheterization and Cardiovascular Intervention (Editorial Board)",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Marco A. Costa",
+            "Representation": "Content Reviewer\u2014ACC Cardiovascular Imaging Section Leadership Council",
+            "Employment": "University Hospital for Cleveland\u2014Cardiologist",
+            "Consultant": [
+              "Abbott Vascular",
+              "Boston Scientific",
+              "Medtronic"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "Abbott Vascular",
+              "Boston Scientific",
+              "Cordis",
+              "IDEV Technology",
+              "The Medicines Company",
+              "Medtronic",
+              "Micell",
+              "OrbusNeich"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Abbott",
+              "Cordis",
+              "Medtronic"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Prakash C. Deedwania",
+            "Representation": "Content Reviewer\u2014ACC Prevention of Cardiovascular Disease Committee",
+            "Employment": "University of California San Francisco\u2014Chief of Cardiology",
+            "Consultant": [
+              "Amgen",
+              "Pfizer"
+            ],
+            "Speakers Bureau": [
+              "Pfizer",
+              "Takeda Pharmaceuticals"
+            ],
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "James A. de Lemos",
+            "Representation": "Content Reviewer",
+            "Employment": "UT Southwestern Medical School\u2014Associate Professor of Medicine; Director, Coronary Care Unit and Cardiology Fellowship",
+            "Consultant": [
+              "Diadexus",
+              "Janssen Pharmaceuticals"
+            ],
+            "Speakers Bureau": "AstraZeneca",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "Abbott Diagnostics",
+            "Institutional, Organizational, or Other Financial Benefit": "Daiichi-Sankyo",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Burt R. Don",
+            "Representation": "Content Reviewer",
+            "Employment": "University of California Davis\u2014Professor of Medicine; Director of Clinical Nephrology",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Lee A. Fleisher",
+            "Representation": "Content Reviewer",
+            "Employment": "University of Pennsylvania Department of Anesthesiology\u2014Professor of Anesthesiology",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Mary C. George",
+            "Representation": "Content Reviewer\u2014HHS",
+            "Employment": "Centers for Disease Control and Prevention\u2014Senior Medical Officer, Division for Heart Disease and Stroke Prevention",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Linda D. Gillam",
+            "Representation": "Content Reviewer\u2014ACC Cardiovascular Imaging Section Leadership Council",
+            "Employment": "Morristown Medical Center\u2014Professor of Cardiology; Vice Chair, Cardiovascular Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "reviewers": [
+          {
+            "name": "Robert A. Guyton",
+            "role": "Content Reviewer\u2014ACC/AHA Task Force on Practice Guidelines",
+            "employment": "Emory Clinic\u2014Professor and Chief, Division of Cardiothoracic Surgery",
+            "consultant": "Medtronic",
+            "financial_disclosures": {
+              "speakers_bureau": "None",
+              "ownership": "None",
+              "personal_research": "None",
+              "institutional_benefit": "None",
+              "expert_witness": "None"
+            }
+          },
+          {
+            "name": "Joerg Herrmann",
+            "role": "Content Reviewer\u2014ACC Interventional Section Leadership Council",
+            "employment": "Mayo Medical School\u2014Internal Medicine and Cardiovascular Disease",
+            "consultant": "None",
+            "financial_disclosures": {
+              "speakers_bureau": "None",
+              "ownership": "None",
+              "personal_research": "None",
+              "institutional_benefit": "None",
+              "expert_witness": "None"
+            }
+          },
+          {
+            "name": "Judith S. Hochman",
+            "role": "Content Reviewer\u2014ACC/AHA Task Force on Practice Guidelines",
+            "employment": "New York University School of Medicine, Division of Cardiology\u2014Clinical Chief of Cardiology",
+            "consultant": "GlaxoSmithKline, Janssen Pharmaceuticals",
+            "financial_disclosures": {
+              "speakers_bureau": "None",
+              "ownership": "None",
+              "personal_research": "None",
+              "institutional_benefit": "None",
+              "expert_witness": "None"
+            }
+          },
+          {
+            "name": "Yuling Hong",
+            "role": "Content Reviewer\u2014HHS",
+            "employment": "Centers for Disease Control and Prevention\u2014Associate Director",
+            "consultant": "None",
+            "financial_disclosures": {
+              "speakers_bureau": "None",
+              "ownership": "None",
+              "personal_research": "None",
+              "institutional_benefit": "None",
+              "expert_witness": "None"
+            }
+          },
+          {
+            "name": "Lloyd W. Klein",
+            "role": "Content Reviewer\u2014ACC Interventional Section Leadership Council",
+            "employment": "Rush Medical College\u2014Professor of Medicine",
+            "consultant": "None",
+            "financial_disclosures": {
+              "speakers_bureau": "None",
+              "ownership": "None",
+              "personal_research": "None",
+              "institutional_benefit": "None",
+              "expert_witness": "None"
+            }
+          },
+          {
+            "name": "Frederick G. Kushner",
+            "role": "Content Reviewer",
+            "employment": "Tulane University School of Medicine\u2014Clinical Professor of Medicine; Heart Clinic of Louisiana\u2014Medical Director",
+            "consultant": "None",
+            "financial_disclosures": {
+              "speakers_bureau": "None",
+              "ownership": "None",
+              "personal_research": "None",
+              "institutional_benefit": "None",
+              "expert_witness": "None"
+            }
+          },
+          {
+            "name": "Ehtisham Mahmud",
+            "role": "Content Reviewer\u2014ACC Interventional Section Leadership Council",
+            "employment": "University of California, San Diego\u2014Professor of Medicine/Cardiology; Chief of Cardiovascular Medicine; Director, Interventional Cardiology and Cardiovascular Catheterization Laboratory",
+            "consultant": "Abiomed, Cordis, Eli Lilly, Gilead, Johnson & Johnson, Medtronic",
+            "financial_disclosures": {
+              "speakers_bureau": "Eli Lilly, Medtronic",
+              "ownership": "None",
+              "personal_research": "None",
+              "institutional_benefit": "Abbott Vascular, Accumetrics, Merck Schering-Plough, Boston Scientific, Gilead, The Medicines Company, Sanofi-aventis",
+              "expert_witness": "None"
+            }
+          },
+          {
+            "name": "Carlos Martinez-Sanchez",
+            "role": "Content Reviewer\u2014AIG",
+            "employment": "Cardiology Society of Mexico\u2014President",
+            "consultant": "None",
+            "financial_disclosures": {
+              "speakers_bureau": "None",
+              "ownership": "None",
+              "personal_research": "None",
+              "institutional_benefit": "AstraZeneca, Eli Lilly, Sanofi-aventis",
+              "expert_witness": "None"
+            }
+          },
+          {
+            "name": "L. Kirsten Newby",
+            "role": "Content Reviewer",
+            "employment": "Duke University Medical Center\u2014Associate Professor of Clinical Medicine",
+            "consultant": "Johnson & Johnson, Daiichi-Sankyo",
+            "financial_disclosures": {
+              "speakers_bureau": "None",
+              "ownership": "None",
+              "personal_research": "None",
+              "institutional_benefit": "Amylin, AstraZeneca, Bristol-Myers Squibb, Eli Lilly, GlaxoSmithKline, Merck",
+              "expert_witness": "None"
+            }
+          },
+          {
+            "name": "Patrick T. O'Gara",
+            "role": "Content Reviewer",
+            "employment": "Brigham and Women's Hospital\u2014Professor of Medicine, Harvard Medical School; Director, Clinical Cardiology",
+            "consultant": "None",
+            "financial_disclosures": {
+              "speakers_bureau": "None",
+              "ownership": "None",
+              "personal_research": "None",
+              "institutional_benefit": "None",
+              "expert_witness": "None"
+            }
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "description": "This table presents the relationships of reviewers with industry and other entities at the time of peer review and publication for specific clinical guidelines. The reviewers hold positions in various universities, medical centers, and councils. The table highlights their roles, affiliations, and any consultancies, speaker bureaus, partnerships, research, or financial benefits they might have. Companies such as AstraZeneca, Sanofi-aventis, and Abbott are mentioned in connection with the reviewers.",
+        "purpose": "Disclosure of potential conflicts of interest for transparency in clinical guideline development."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Appendix 3. Abbreviations",
+        "abbreviations": [
+          {
+            "ACE": "angiotensin-converting enzyme"
+          },
+          {
+            "ACS": "acute coronary syndrome"
+          },
+          {
+            "AF": "atrial fibrillation"
+          },
+          {
+            "AMI": "acute myocardial infarction"
+          },
+          {
+            "BP": "blood pressure"
+          },
+          {
+            "CABG": "coronary artery bypass graft"
+          },
+          {
+            "CAD": "coronary artery disease"
+          },
+          {
+            "CKD": "chronic kidney disease"
+          },
+          {
+            "CK-MB": "creatine kinase myocardial isoenzyme"
+          },
+          {
+            "COX": "cyclooxygenase"
+          },
+          {
+            "CPG": "clinical practice guideline"
+          },
+          {
+            "CrCl": "creatinine clearance"
+          },
+          {
+            "CT": "computed tomography"
+          },
+          {
+            "DAPT": "dual antiplatelet therapy"
+          },
+          {
+            "DES": "drug-eluting stent"
+          },
+          {
+            "ECG": "electrocardiogram"
+          },
+          {
+            "ED": "emergency department"
+          },
+          {
+            "GDMT": "guideline-directed medical therapy"
+          },
+          {
+            "GP": "glycoprotein"
+          },
+          {
+            "GFR": "glomerular filtration rate"
+          },
+          {
+            "GWC": "guideline writing committee"
+          },
+          {
+            "HF": "heart failure"
+          },
+          {
+            "IABP": "intra-aortic balloon pump"
+          },
+          {
+            "IV": "intravenous"
+          },
+          {
+            "LMWH": "low-molecular-weight heparin"
+          },
+          {
+            "LV": "left ventricular"
+          },
+          {
+            "LVEF": "left ventricular ejection fraction"
+          },
+          {
+            "MACE": "major adverse cardiac event"
+          },
+          {
+            "MI": "myocardial infarction"
+          },
+          {
+            "MVO2": "myocardial oxygen consumption"
+          },
+          {
+            "NSAID": "nonsteroidal anti-inflammatory drug"
+          },
+          {
+            "NSTE-ACS": "non-ST-elevation acute coronary syndromes"
+          },
+          {
+            "NSTEMI": "non-ST-elevation myocardial infarction"
+          },
+          {
+            "PCI": "percutaneous coronary intervention"
+          },
+          {
+            "RCT": "randomized controlled trial"
+          },
+          {
+            "SC": "subcutaneous"
+          },
+          {
+            "STEMI": "ST-elevation myocardial infarction"
+          },
+          {
+            "UA": "unstable angina"
+          },
+          {
+            "UFH": "unfractionated heparin"
+          },
+          {
+            "VF": "ventricular fibrillation"
+          },
+          {
+            "VT": "ventricular tachycardia"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Tables": [
+          {
+            "Title": "Universal Classification of MI",
+            "Content": "Defines five types of myocardial infarction (MI): Type 1 (Spontaneous MI), Type 2 (MI secondary to ischemic imbalance), Type 3 (MI resulting in death when biomarker values are unavailable), Type 4a (MI related to PCI), Type 4b (MI related to stent thrombosis), Type 5 (MI related to CABG)."
+          },
+          {
+            "Title": "Pharmacological Therapy in Older Patients With NSTE-ACS",
+            "Content": "Outlines age-related pharmacological changes, clinical effects, dose-adjustment recommendations, and additional precautions for various drugs including ASA, Nitrates, ACE inhibitors, ARBs, and Alpha blockers."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Age-Related Pharmacological Change": [
+          {
+            "Class": "Beta blockers",
+            "Changes": [
+              "\u2193 Myocardial sensitivity",
+              "\u2193 \u03b2-receptor response",
+              "\u2193 conduction system sensitivity"
+            ]
+          },
+          {
+            "Class": "CCBs - DHPs (amlodipine; nifedipine)",
+            "Changes": [
+              "Lipophilic",
+              "\u2191 age, \u2191 hepatic and overall clearance",
+              "\u2191 sinus node sensitivity",
+              "\u2193 \u03b2-receptor response"
+            ]
+          },
+          {
+            "Class": "CCBs - Non-DHP (verapamil; diltiazem)",
+            "Changes": [
+              "\u2191 Hepatic and overall clearance",
+              "\u2191 ECG PR prolongation",
+              "\u2193 SA node sensitivity",
+              "\u2193 AV conduction with age",
+              "\u2193 \u03b2-receptor response"
+            ]
+          },
+          {
+            "Class": "Diuretics",
+            "Changes": [
+              "\u2191 Diuretic/natriuretic response",
+              "GFR decrease with sensitivity"
+            ]
+          }
+        ],
+        "Clinical Effect": [
+          {
+            "Class": "Beta blockers",
+            "Effect": "Bradycardia/heart block; \u2193 BP effect vs. younger pts"
+          },
+          {
+            "Class": "CCBs - DHPs",
+            "Effect": "\u2193 BP more than non-DHP and with \u2191 age"
+          },
+          {
+            "Class": "CCBs - Non-DHP",
+            "Effect": "\u2193 BP more with \u2191 age; edema; bradycardia"
+          },
+          {
+            "Class": "Diuretics",
+            "Effect": "\u2191 Sensitivity; \u2191 hypotension risk"
+          }
+        ],
+        "Dose-Adjustment Recommendations": [
+          {
+            "Class": "Beta blockers",
+            "Recommendation": "May need \u2193 dose with age"
+          },
+          {
+            "Class": "CCBs - DHPs",
+            "Recommendation": "Initiate low dose, titrate cautiously"
+          },
+          {
+            "Class": "CCBs - Non-DHP",
+            "Recommendation": "Initiate low dose, titrate cautiously"
+          },
+          {
+            "Class": "Diuretics",
+            "Recommendation": "May need \u2191 doses if \u2193 GFR"
+          }
+        ],
+        "Additional Precautions": [
+          {
+            "Class": "Beta blockers",
+            "Precaution": "Caution conduction system blocks"
+          },
+          {
+            "Class": "CCBs - DHPs",
+            "Precaution": "Inhibits clopidogrel; \u2191 risk OH, falls"
+          },
+          {
+            "Class": "CCBs - Non-DHP",
+            "Precaution": "\u2191 Risk OH, falls, syncope"
+          },
+          {
+            "Class": "Diuretics",
+            "Precaution": "Monitor Na\u207a, K\u207a, Mg\u00b2\u207a levels"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Table": "B Continued",
+        "Age-Related Pharmacological Change": [
+          {
+            "Drug": "Eptifibatide",
+            "Change": "Weight/renally dosed",
+            "Clinical Effect": "Bleeding risk",
+            "Dose-Adjustment Recommendations": "Weight-based: 180 mcg/kg loading dose + 2 mcg/kg/min INF; CrCl \u226450 mL/min: 1.0 mcg/kg/min INF",
+            "Additional Precautions": "Less benefit/more bleeding with \u2191age"
+          },
+          {
+            "Drug": "Tirofiban",
+            "Change": "Weight/renally dosed",
+            "Clinical Effect": "Bleeding risk",
+            "Dose-Adjustment Recommendations": "Weight-based: 12 mcg/kg loading dose + 0.1 mcg/kg/min INF; CrCl <30 mL/min: 6 mcg/kg loading dose + 0.05 mcg/kg/min INF",
+            "Additional Precautions": "In older pts with high bleeding risk, low-dose INF effective with \u2193bleeding"
+          },
+          {
+            "Drug": "Warfarin",
+            "Change": "\u2193Sensitivity; \u219120%-40% clearance; protein binding; \u2191inhibition vitamin K-dependent clotting factors at same plasma levels with \u2191age",
+            "Clinical Effect": "Bleeding risk at lower INR; higher INR/dose with \u2191age; \u2191risk GI bleeding",
+            "Dose-Adjustment Recommendations": "Loading: 4 mg/d x 4 d \u2192 Maintain mean dose \u21930.4 mg/ wk/y of age",
+            "Additional Precautions": "Multiple drug interactions, \u2191frequency of monitoring; ASA potentiates effect"
+          },
+          {
+            "Drug": "New Oral AC\u2020",
+            "Change": "N/A",
+            "Clinical Effect": "N/A",
+            "Dose-Adjustment Recommendations": "Contraindicated if CrCl <15 mL/min",
+            "Additional Precautions": "If pt taking when admitted, stop\u2014consider delaying angiogram/PCI until effect wanes; switch to UFH/dalteparin/bivalirudin/ fondaparinux; AP and DAPT \u2193bleeding 2x; post-ACS\u2020\u2020\u2014 consider BMS and radial access. Avoid GPI/IIb/IIIa inhibitor if possible. (Thrombotic risk following discontinuation)."
+          },
+          {
+            "Drug": "Rivaroxaban",
+            "Change": "35% cleared renally; 65% hepatic (CYP3A4); \u2191levels in hepatic and/or renal dysfunction and \u2191age",
+            "Clinical Effect": "Bleeding risk; not reversible",
+            "Dose-Adjustment Recommendations": "CrCl \u226415-49 mL/min: 15 mg QD; consider avoiding if CrCl \u226430 mL/min if \u2191bleeding risk; CrCl >50 mL/min: 20 mg QD",
+            "Additional Precautions": "Some drug interactions"
+          },
+          {
+            "Drug": "Dabigatran",
+            "Change": "80% cleared renally; \u2191plasma level with \u2191age, especially \u226575 y",
+            "Clinical Effect": "Bleeding risk; not reversible",
+            "Dose-Adjustment Recommendations": "CrCl 15-30 mL/min: 75 mg BID with caution; CrCl 30-49 mL/min: 75 mg BID; CrCl >50 mL/min: 150 mg BID",
+            "Additional Precautions": "Monitor and renal function frequently; longest for effect to wane with \u2191CrCl; \u2191risk dyspepsia, GI bleeding"
+          },
+          {
+            "Drug": "Apixaban",
+            "Change": "Hepatically cleared (minor CYP3A4); dose adjust if weight <60 kg; highly protein bound",
+            "Clinical Effect": "Bleeding risk; not reversible",
+            "Dose-Adjustment Recommendations": "CrCl 15-29 mL/min: 2.5 mg BID or with 2 of the following: age \u226580 y/weight \u226460 kg/SCr \u22651.5 mg/dL; SCr <1.5: 5 mg BID",
+            "Additional Precautions": "\u2191Risk abnormal liver function tests"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Age-Related Changes": {
+          "Central arterial stiffness": {
+            "Clinical Alteration": "\u2191 SBP / \u2193 DBP, \u2191 LVH; \u2191 diastolic function; \u2191 coronary perfusion pressure; \u2193 ischemia/infarct threshold for tachycardia/hypertension with and without coronary obstructive disease; \u2191 PA pressure",
+            "Clinical Impact in NSTE-ACS": "\u2191 risk end-organ damage (cerebrovascular accident, AKI); \u2191 BP liability; \u2191 reirfarction/ischemia; orthostatic hypotension; \u2191 HF; \u2191 pulmonary edema"
+          },
+          "LV diastolic function": {
+            "Clinical Alteration": "\u2191 LA size; \u2193 early passive LV filling; \u2191 late LV filling and \u2191 LV EDP; \u2191 PA pressure",
+            "Clinical Impact in NSTE-ACS": "\u2191 Risk AF; \u2191 pulmonary edema / CO / \u2193 DOE; \u2191 pulmonary edema with \u2191 HR / BP"
+          },
+          "Response to beta-adrenergic stimulation": {
+            "Clinical Alteration": "\u2193 HR / inotropic responsiveness to stress; resting systolic LV function unchanged with age",
+            "Clinical Impact in NSTE-ACS": "Hypotension, \u2191 HF, \u2191 HR response"
+          },
+          "Conduction system changes": {
+            "Clinical Alteration": "\u2193 Sinus node cells; \u2191 AV conduction; \u2191 LBBB, and \u2191 RBBB",
+            "Clinical Impact in NSTE-ACS": "Difficult to interpret electrocardiographic MI/ischemia; \u2191 heart block; SSS; \u2191 SVT; \u2191 sensitivity to conduction system drugs"
+          },
+          "Volume regulating hormones": {
+            "Clinical Alteration": "\u2193 Na, K, and water regulation\u2014BP lability",
+            "Clinical Impact in NSTE-ACS": "Altered electrolytes, \u2191 sensitivity to fluid therapy/diuretics"
+          },
+          "Renal changes": {
+            "Clinical Alteration": "\u2193 GFR (0.8 mL/min/y), \u2193 Na/K clearance, normal serum creatinine (despite moderate to severe CKD), altered drug clearance; \u2193 urine concentrating ability",
+            "Clinical Impact in NSTE-ACS": "CrCl or eGFR must be calculated for drug dosing, \u2191 sensitivity to contrast nephropathy, \u2191 risk AKI"
+          },
+          "Fat-muscle redistribution": {
+            "Clinical Alteration": "\u2191 Third spacing of fluid, may alter drug storage; \u2193 VO2 max",
+            "Clinical Impact in NSTE-ACS": "May alter fluid/drug dosing, decreased CO; DOE; early fatigability"
+          },
+          "Baroreceptor sensitivity": {
+            "Clinical Alteration": "\u2191 BP lability",
+            "Clinical Impact in NSTE-ACS": "Orthostatic hypotension, fall risk"
+          },
+          "Clotting factor/platelet function/hemostasis": {
+            "Clinical Alteration": "\u2191 Bleeding and clotting risk, \u2191 sensitivity to anticoagulants/antithrombins",
+            "Clinical Impact in NSTE-ACS": "\u2191 Risk cerebrovascular accident/reinfraction/recurrent ischemia, bleeding, thrombosis, PE, DVT; may alter drug dosing/sensitivity; \u2191 stent thrombosis"
+          }
+        },
+        "Freedom Trial Outcomes": {
+          "2 years": {
+            "Primary composite": {
+              "PCI": "13.0%",
+              "CABG": "11.9%"
+            },
+            "Death from any cause": {
+              "PCI": "6.7%",
+              "CABG": "6.3%"
+            },
+            "MI": {
+              "PCI": "6.7%",
+              "CABG": "4.7%"
+            },
+            "Stroke": {
+              "PCI": "1.5%",
+              "CABG": "2.7%"
+            },
+            "Cardiovascular death": {
+              "PCI": "0.9%",
+              "CABG": "1.3%"
+            }
+          },
+          "5 years": {
+            "Primary composite": {
+              "PCI": "26.6%",
+              "CABG": "18.7%"
+            },
+            "Death from any cause": {
+              "PCI": "16.3%",
+              "CABG": "10.9%"
+            },
+            "MI": {
+              "PCI": "13.9%",
+              "CABG": "6.0%"
+            },
+            "Stroke": {
+              "PCI": "2.4%",
+              "CABG": "5.2%"
+            },
+            "Cardiovascular death": {
+              "PCI": "10.9%",
+              "CABG": "6.8%"
+            }
+          },
+          "P Values": {
+            "Primary composite": "0.005",
+            "Death from any cause": "0.049",
+            "MI": "<0.001",
+            "Stroke": "0.035",
+            "Cardiovascular death": "0.12"
+          }
+        }
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "Unknown",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": [
+        "6.2.3. Platelet Function and Genetic Phenotype Testing - Considerations for testing to optimize antiplatelet therapy."
+      ]
+    },
+    {
+      "Gene": "TNNT2",
+      "Associated Conditions": [
+        "Myocardial infarction (MI)",
+        "Cardiomyocyte necrosis"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Troponin T derived from genes specifically expressed in the myocardium provides high sensitive results specific for detecting cardiomyocyte necrosis."
+      ]
+    },
+    {
+      "Gene": "TNNI3",
+      "Associated Conditions": [
+        "Myocardial infarction (MI)",
+        "Cardiac injury"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Troponin I is derived from genes specifically expressed in the myocardium."
+      ]
+    },
+    {
+      "Gene": "IL6",
+      "Associated Conditions": [
+        "Coronary Artery Disease"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "IL6 polymorphisms do not predict acute myocardial infarction."
+      ]
+    },
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "Cardiovascular diseases",
+        "Cholesterol management"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "282. Chan DT, Waters D, Cole T, Nichols GA, et al. Effects of alirocumab, a PCSK9 inhibitor, on LDL cholesterol levels in patients at high cardiovascular risk. N Engl J Med 2010;XX:xxx-xxx."
+      ]
+    },
+    {
+      "Gene": "APOA1",
+      "Associated Conditions": [
+        "Coronary artery disease"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "293. Jensen J, Lipinski MJ, Gillette MA, et al. APOA1: A potential marker for cardiovascular outcomes in patients with coronary artery disease. Lancet 2011;XX:xxx-xxx."
+      ]
+    },
+    {
+      "Gene": "ABCB1",
+      "Associated Conditions": [
+        "Clopidogrel therapy efficacy"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Genetic variations in ABCB1 and CYP2C19 are associated with different outcomes after treatment with clopidogrel."
+      ]
+    },
+    {
+      "Gene": "CYP2C19",
+      "Associated Conditions": [
+        "Clopidogrel therapy efficacy"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Genetic variations in ABCB1 and CYP2C19 are associated with different outcomes after treatment with clopidogrel."
+      ]
+    },
+    {
+      "Gene": "HFE",
+      "Associated Conditions": [
+        "Venous Thromboembolism"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Lorme F, Yusuf S, Arnold M, et al. Homocysteine lowering with folic acid and B vitamins in vascular disease."
+      ]
+    },
+    {
+      "Gene": "CSF2",
+      "Associated Conditions": [
+        "coronary syndromes"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Implications of diabetes in patients with acute coronary syndromes: The Global Registry of Acute Coronary Events (GRACE). Am Heart J 2004;148:657-63."
+      ]
+    }
+  ]
+}

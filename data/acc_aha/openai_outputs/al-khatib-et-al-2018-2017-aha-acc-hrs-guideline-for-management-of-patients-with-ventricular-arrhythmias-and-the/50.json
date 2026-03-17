@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Clinical Guidelines": "The document provides guidelines for patients with HCM (Hypertrophic Cardiomyopathy), highlighting the risk factors and criteria for ICD (Implantable Cardioverter-Defibrillator) implantation. It discusses clinical risk factors for sudden cardiac death (SCD) and suggests regular screening for genetic mutations associated with HCM.",
+    "Risk Factors": {
+      "Established Risk": [
+        "Survival from cardiac arrest due to VT or VF",
+        "Spontaneous sustained VT causing syncope or hemodynamic compromise",
+        "Family history of SCD associated with HCM",
+        "LV wall thickness \u226530 mm",
+        "Unexplained syncope within 6 months of evaluation",
+        "NSVT \u22653 beats",
+        "Abnormal blood pressure response during exercise"
+      ],
+      "Potential Risk Modifiers": [
+        "<30 years of age",
+        "Delayed hyperenhancement on cardiac MRI",
+        "LVOT obstruction",
+        "Syncope >5 years of age"
+      ],
+      "High-Risk Subsets": [
+        "LV aneurysm",
+        "LVEF <50%"
+      ]
+    },
+    "Genetic Counseling": "Recommendations include genetic screening for first- and second-degree family members. Genetic testing should proceed genetic counseling to help families understand the implications and decision-making regarding HCM."
+  },
+  "genes": []
+}

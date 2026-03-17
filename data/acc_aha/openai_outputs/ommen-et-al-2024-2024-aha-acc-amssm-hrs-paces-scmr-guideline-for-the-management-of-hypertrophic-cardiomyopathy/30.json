@@ -1,0 +1,16 @@
+{
+  "content": {
+    "Synopsis": "Hypertrophic cardiomyopathy (HCM) is a common cause of sudden cardiac death (SCD) in young people. Younger patients with HCM are at higher risk for SCD than older patients. No sex- or race-based differences in SCD risk have been noted. Risk evaluation involves identifying clinical markers to stratify patients for SCD prevention with implantable cardioverter-defibrillators (ICDs). The use of ICDs and periodic reassessment of SCD risk are crucial in the long-term evaluation of patients with HCM.",
+    "Recommendation-Specific Supportive Text": [
+      "Observational studies in patients with HCM have identified risk factors for life-threatening ventricular arrhythmias. Initial and follow-up SCD risk assessments are crucial.",
+      "SCD risk assessment involves evaluating history of cardiac arrest, family history, ambulatory monitoring for arrhythmias, and syncope.",
+      "Cardiac magnetic resonance (CMR) imaging can help assess risk by measuring maximal LV wall thickness, apical aneurysm, and myocardial fibrosis.",
+      "Estimated 5-year SCD risk is calculated using echocardiographic measurements. The impact of newer markers like apical aneurysm and late gadolinium enhancement (LGE) on 5-year risk is undetermined."
+    ],
+    "guidelines": [
+      "For patients not at high risk for SCD, further evaluation includes family history, echocardiography, and ambulatory monitoring. CMR imaging is beneficial for assessing LV wall thickness, aneurysm, and fibrosis.",
+      "For patients aged 16 and older, echocardiographic measurements including atrial diameter and gradient help calculate SCD risk."
+    ]
+  },
+  "genes": []
+}

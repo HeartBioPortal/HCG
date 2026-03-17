@@ -1,0 +1,19 @@
+{
+  "content": {
+    "Title": "Recommendations for Acute Chest Pain in Patients With Prior Coronary Artery Bypass Graft (CABG) Surgery",
+    "Recommendations": [
+      {
+        "COR": "1",
+        "LOE": "C-LD",
+        "Text": "In patients with prior CABG surgery presenting with acute chest pain who do not have ACS, performing stress imaging is effective to evaluate for myocardial ischemia or CCTA for graft stenosis or occlusion."
+      },
+      {
+        "COR": "1",
+        "LOE": "C-LD",
+        "Text": "In patients with prior CABG surgery presenting with acute chest pain, who do not have ACS or who have an indeterminate/nondiagnostic stress test, ICA is useful."
+      }
+    ],
+    "Synopsis": "There are many potential causes of acute chest pain in the months after CABG, with musculoskeletal pain being the most common. Ischemia from graft stenosis or occlusion, pericarditis, PE, sternum infection, or nonunion pain are other causes. Post-sternotomy pain syndrome should be considered. Graft failure usually results from technical issues or thrombosis. Radial artery grafts have a higher rate of patency than saphenous vein grafts. Noninvasive stress imaging is recommended to identify ischemic myocardial territories and assist in revascularization decisions."
+  },
+  "genes": []
+}

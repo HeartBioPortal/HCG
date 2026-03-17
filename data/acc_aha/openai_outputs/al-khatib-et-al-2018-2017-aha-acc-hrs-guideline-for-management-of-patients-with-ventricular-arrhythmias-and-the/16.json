@@ -1,0 +1,24 @@
+{
+  "content": {
+    "differential diagnosis of exercise intolerance, chest pain, dyspnea, presyncope, and syncope includes ventricular arrhythmias (VA) but also other etiologies. A family history of SCD, ischemic heart disease, valvular heart disease, nonischemic cardiomyopathy (NICM), or heart failure (HF) raises concern for VA. Medications can cause QT prolongation and torsades de pointes, and some can induce Brugada type 1 ECG patterns and VF. Bradycardia and other arrhythmias like SVT and HCM should be considered. Syncope may indicate underlying heart disease.": {
+      "recommendations": {
+        "1": {
+          "cor": "I",
+          "loe": "B-NR",
+          "recommendation": "In patients with sustained, hemodynamically stable, wide complex tachycardia, a 12-lead ECG during tachycardia should be obtained."
+        },
+        "2": {
+          "cor": "I",
+          "loe": "B-NR",
+          "recommendation": "In patients with VA symptoms associated with exertion, suspected ischemic heart disease, or catecholaminergic polymorphic ventricular tachycardia, exercise treadmill testing is useful."
+        },
+        "3": {
+          "cor": "I",
+          "loe": "B-NR",
+          "recommendation": "In patients with suspected or documented VA, a 12-lead ECG should be obtained in sinus rhythm to look for evidence of heart disease."
+        }
+      }
+    }
+  },
+  "genes": []
+}

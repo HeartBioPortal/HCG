@@ -1,0 +1,19 @@
+{
+  "content": {
+    "Recommendation": "In young adults with CCD, after optimizing traditional cardiovascular risk factors, comprehensive evaluation and treatment of nontraditional risk factors can reduce cardiovascular events.",
+    "Synopsis": "CAD is a major cause of HF and plays a key role in the development and progression of both HF with preserved and reduced ejection fraction. Management guidelines include revascularization and therapy.",
+    "Conditions": "The guideline discusses various conditions such as INOCA, CCD, HF with preserved or reduced ejection fraction, and valvular heart disease.",
+    "Trial": "CorMicA trial showed improved angina and QOL in INOCA patients using a stratified medical therapy."
+  },
+  "genes": [
+    {
+      "Gene": "FH",
+      "Associated Conditions": [
+        "Cardiovascular Disease",
+        "Hyperlipidemia"
+      ],
+      "Occurrences": 2,
+      "context": "Given a substantial prevalence of FH, screening for FH can be beneficial with genotypic screening."
+    }
+  ]
+}

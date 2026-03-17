@@ -1,0 +1,31 @@
+{
+  "content": {
+    "Checklist": {
+      "ASCVD Risk Assessment": [
+        "Assign to statin treatment group using ASCVD Risk Estimator Plus.",
+        "In lower-risk primary-prevention adults 40-75 years of age with LDL-C \u226570 mg/dL (\u22651.8 mmol/L).",
+        "Not needed in secondary prevention, in those with LDL-C \u2265190 mg/dL (\u22654.9 mmol/L), or in those 40-75 years of age with diabetes mellitus."
+      ],
+      "Lifestyle Modifications": [
+        "Review lifestyle habits (e.g., diet, physical activity, weight or body mass index, tobacco use).",
+        "Endorse a healthy lifestyle and provide relevant advice, materials, or referrals."
+      ],
+      "Potential Net Clinical Benefit of Pharmacotherapy": [
+        "Recommend statins as first-line therapy.",
+        "Consider the combination of statin and nonstatin therapy in selected patients.",
+        "Discuss potential risk reduction from lipid-lowering therapy.",
+        "Discuss the potential for adverse effects or drug-drug interactions."
+      ],
+      "Cost Considerations": [
+        "Discuss potential out-of-pocket cost of therapy to the patient."
+      ],
+      "Shared Decision-Making": [
+        "Encourage the patient to verbalize what was heard.",
+        "Invite the patient to ask questions, express values and preferences, and state ability to adhere.",
+        "Refer patients to trustworthy materials to aid in their understanding.",
+        "Collaborate with the patient to determine therapy and follow-up plan."
+      ]
+    }
+  },
+  "genes": []
+}

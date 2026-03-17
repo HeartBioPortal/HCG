@@ -1,0 +1,20 @@
+{
+  "content": {
+    "guideline": "2015 ACC/AHA/HRS SVT Guideline",
+    "types_of_tachycardia": [
+      {
+        "name": "Atypical AVNRT",
+        "description": "The reentrant circuit involves anterograde conduction over a fast atrioventricular node pathway, followed by retrograde conduction in a slow atrioventricular node pathway, resulting in a retrograde P wave (negative polarity in inferior leads) with a long RP interval. AVNRT indicates atrioventricular nodal reentrant tachycardia."
+      },
+      {
+        "name": "Orthodromic Atrioventricular Reentrant Tachycardia",
+        "description": "The reentrant circuit involves anterograde conduction over the atrioventricular node, followed by retrograde conduction over an accessory pathway, which results in a retrograde P wave with a short RP interval."
+      }
+    ],
+    "treatment_recommendation": {
+      "ACLS_guideline": "2010 Adult ACLS guideline",
+      "recommendation": "If a wide-complex tachycardia is monomorphic, regular, and hemodynamically tolerated, adenosine may help convert the rhythm to sinus and may help in the diagnosis. When doubt exists, it is safest to assume any wide-complex tachycardia is VT, particularly in patients with known cardiovascular disease, such as prior myocardial infarction."
+    }
+  },
+  "genes": []
+}

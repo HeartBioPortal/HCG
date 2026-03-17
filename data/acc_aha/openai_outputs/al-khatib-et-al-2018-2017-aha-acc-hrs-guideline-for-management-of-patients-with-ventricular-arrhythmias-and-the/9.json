@@ -1,0 +1,53 @@
+{
+  "content": {
+    "Abbreviations": {
+      "ACS": "acute coronary syndromes",
+      "AED": "automated external defibrillator",
+      "AMI": "acute myocardial infarction",
+      "BNP": "B-type natriuretic peptide",
+      "CABG": "coronary artery bypass graft",
+      "CKD": "chronic kidney disease",
+      "CPR": "cardiopulmonary resuscitation",
+      "CRT": "cardiac resynchronization therapy",
+      "CT": "computed tomography",
+      "ECG": "electrocardiogram",
+      "ERC": "evidence review committee",
+      "ESRD": "end-stage renal disease",
+      "GDMT": "guideline-directed management and therapy",
+      "HCM": "hypertrophic cardiomyopathy",
+      "HF": "heart failure",
+      "HFpEF": "heart failure with preserved ejection fraction",
+      "HFrEF": "heart failure with reduced ejection fraction",
+      "ICD": "implantable cardioverter-defibrillator",
+      "LV": "left ventricular",
+      "LVAD": "left ventricular assist device",
+      "LVEF": "left ventricular ejection fraction",
+      "MI": "myocardial infarction",
+      "NICM": "nonischemic cardiomyopathy",
+      "NSVT": "nonsustained ventricular tachycardia",
+      "PET": "positron emission tomography",
+      "PCI": "percutaneous coronary intervention",
+      "PVC": "premature ventricular complex",
+      "QoL": "quality of life",
+      "RCT": "randomized controlled trial",
+      "RV": "right ventricular",
+      "RVOT": "right ventricular outflow tract",
+      "SCA": "sudden cardiac arrest",
+      "SCD": "sudden cardiac death",
+      "SVT": "supraventricular tachycardia",
+      "TOF": "tetralogy of Fallot",
+      "VA": "ventricular arrhythmia",
+      "VT": "ventricular tachycardia"
+    },
+    "Epidemiology": {
+      "VA Spectrum": "Ranges from premature ventricular complex (PVC) to ventricular fibrillation (VF). Most life-threatening VA is associated with ischemic heart disease, particularly in older patients.",
+      "Incidence": "PVCs occur in about 0.6% of those <20 years and 2.7% of those >50 years on 12-lead ECGs. Long-term monitoring shows PVCs in about 50% of all people with or without heart disease."
+    },
+    "Clinical Associations": {
+      "PVCs": "Associated with increased risk of both ischemic heart disease events and mortality, with or without prevalent ischemic heart disease.",
+      "NSVT": "Independently associated with increased risk of death or other cardiovascular adverse outcomes, including stroke.",
+      "Treatment": "In CAST trials, some antiarrhythmic medications increased the risk of death despite suppression of VA."
+    }
+  },
+  "genes": []
+}

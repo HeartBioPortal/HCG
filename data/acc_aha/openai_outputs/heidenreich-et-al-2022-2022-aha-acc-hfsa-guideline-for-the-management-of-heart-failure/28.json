@@ -1,0 +1,34 @@
+{
+  "content": {
+    "section": "4.7. Exercise and Functional Capacity Testing",
+    "recommendations": [
+      {
+        "COR": "1",
+        "LOE": "C-LD",
+        "recommendation": "In patients with HF, assessment and documentation of NYHA functional classification are recommended to determine eligibility for treatments."
+      },
+      {
+        "COR": "1",
+        "LOE": "C-LD",
+        "recommendation": "In selected ambulatory patients with HF, cardiopulmonary exercise testing (CPET) is recommended to determine appropriateness of advanced treatments (e.g., LVAD, heart transplant)."
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-LD",
+        "recommendation": "In ambulatory patients with HF, performing a CPET or 6-minute walk test is reasonable to assess functional capacity."
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-LD",
+        "recommendation": "In ambulatory patients with unexplained dyspnea, CPET is reasonable to evaluate the cause of dyspnea."
+      }
+    ],
+    "synopsis": "Functional impairment and exercise intolerance are common in HF. CPET and the 6-minute walk test are standardized, reliable, and reproducible tests to quantify functional capacity. The NYHA functional classification can be used to grade the severity of functional limitation and to define candidates for certain treatments.",
+    "detailed_recommendations": [
+      "NYHA function classification is an ordinal, categorical variable used to document functional limitation in patients with cardiac disease, including HF.",
+      "Many CPET variables have been associated with prognosis in patients with HF.",
+      "Objective assessment of exercise capacity with CPET can be useful in clinical management of patients with HF."
+    ]
+  },
+  "genes": []
+}

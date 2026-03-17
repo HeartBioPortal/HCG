@@ -1,0 +1,35 @@
+{
+  "content": {
+    "clinical_guidelines": [
+      {
+        "topic": "arrhythmias, AVRT, and AVNRT in children and adults",
+        "key_points": [
+          "Higher initial doses of adenosine are needed in children than in adults.",
+          "Digoxin and propranolol have similar efficacy in infants with SVT.",
+          "Digoxin use is avoided due to its association with SCD or ventricular fibrillation.",
+          "Classical treatments include adenosine, digoxin, amiodarone, sotalol, propafenone, and flecainide.",
+          "Catheter ablation can be successfully performed in children.",
+          "Postoperative junctional tachycardia and sedation management."
+        ]
+      },
+      {
+        "topic": "Treatment of fetal SVT",
+        "key_points": [
+          "Monitoring by adult cardiologists is needed.",
+          "Common mechanisms include AVRT and atrial flutter.",
+          "Maternal administration of antiarrhythmic agents can be effective.",
+          "Flecainide, sotalol, and digoxin have demonstrated high efficacy."
+        ]
+      },
+      {
+        "topic": "Patients with Adult Congenital Heart Disease",
+        "key_points": [
+          "SVT is observed in 10% to 20% of ACHD patients.",
+          "SVT is associated with an increased risk of heart failure, stroke, and SCD.",
+          "The most common mechanism involves AVRT or atrial flutter."
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

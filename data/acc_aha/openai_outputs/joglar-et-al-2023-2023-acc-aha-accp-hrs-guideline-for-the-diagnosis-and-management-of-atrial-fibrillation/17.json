@@ -1,0 +1,33 @@
+{
+  "content": {
+    "AF Management Pillars": [
+      "Stroke Risk: Assess and Treat",
+      "Optimize: All Modifiable Risk Factors",
+      "Symptom Management: AF Burden, Rhythm control, Rate control"
+    ],
+    "Shared Decision-Making": "Treat Risk Factors and Enact Behavioral Changes",
+    "Risk Factors Mentioned": [
+      "Heart failure",
+      "Exercise",
+      "Arterial hypertension",
+      "Diabetes",
+      "Tobacco",
+      "Obesity",
+      "Ethanol",
+      "Sleep"
+    ],
+    "Definitions": {
+      "AF": "A supraventricular tachyarrhythmia with uncoordinated atrial activation and ineffective atrial contraction. Electrocardiography characteristics include irregular R-R intervals, absence of distinct P waves, and irregular atrial activity.",
+      "Clinical AF": "Term used for documentation and therapy of arrhythmia with evidence from randomized trials.",
+      "Subclinical AF": "Arrhythmia identified in individuals without symptoms and no previous ECGs documenting AF.",
+      "Atrial high-rate episodes": "Events exceeding the programmed detection time limit, needing visual confirmation.",
+      "AF burden": "Frequency and duration of AF, defined as durations of an episode or total duration during monitoring.",
+      "First detected AF": "First documentation of AF regardless of symptoms.",
+      "Paroxysmal AF": "AF that is intermittent and terminates within 7 days of onset.",
+      "Persistent AF": "AF that continues more than 7 days and requires interventions.",
+      "Long-standing persistent AF": "Continuous AF for more than 12 months.",
+      "Permanent AF": "AF not subjected to further rhythm control efforts, accepted as a permanent condition."
+    }
+  },
+  "genes": []
+}

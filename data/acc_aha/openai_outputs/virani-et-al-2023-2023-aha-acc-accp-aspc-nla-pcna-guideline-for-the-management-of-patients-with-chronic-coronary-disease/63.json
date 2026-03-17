@@ -1,0 +1,37 @@
+{
+  "content": {
+    "section": "5.2 Revascularization: PCI Versus CABG",
+    "recommendations": [
+      {
+        "cor": 1,
+        "loe": "B-R",
+        "recommendation": "In patients with CCD who require revascularization for significant left main involvement associated with high-complexity CAD, CABG is recommended in preference to PCI to improve survival."
+      },
+      {
+        "cor": 2,
+        "loe": "B-R",
+        "recommendation": "In patients with CCD who require revascularization for multivessel CAD with complex and diffuse CAD (e.g., SYNTAX score >33), it is reasonable to choose CABG over PCI to improve survival."
+      },
+      {
+        "cor": 2,
+        "loe": "B-NR",
+        "recommendation": "In patients with CCD who are appropriate for revascularization but poor candidates for surgery, it is reasonable to choose PCI over CABG to improve symptoms and reduce MACE."
+      },
+      {
+        "cor": 1,
+        "loe": "A",
+        "recommendation": "In patients with CCD, diabetes, and multivessel CAD with involvement of the left anterior descending artery who are appropriate candidates for CABG, CABG (with a left internal mammary artery to the left anterior descending artery) is recommended in preference to PCI to reduce mortality and repeat revascularizations."
+      },
+      {
+        "cor": 2,
+        "loe": "B-R",
+        "recommendation": "In patients with CCD and diabetes who have left main stenosis and low- or intermediate-complexity CAD (e.g., SYNTAX score \u226433), PCI may be considered as an alternative to CABG to reduce MACE."
+      }
+    ],
+    "synopsis": "The document distinguishes the benefits of CABG over PCI in terms of restoring blood flow and reducing long-term risks. CABG is seen to provide protective benefits against ischemic insults and may reduce spontaneous MIs and repeat revascularization. The recommendations are based on studies with predominantly CCD patients, and decisions should involve heart team deliberations and patient-specific factors.",
+    "recommendation_specific_support": {
+      "SYNTAX_trial": "The SYNTAX trial showed higher MACE and cardiac mortality for patients with left main and high-complexity disease treated with PCI compared to CABG."
+    }
+  },
+  "genes": []
+}

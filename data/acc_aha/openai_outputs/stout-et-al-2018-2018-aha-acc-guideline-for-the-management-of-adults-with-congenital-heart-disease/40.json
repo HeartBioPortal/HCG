@@ -1,0 +1,57 @@
+{
+  "content": {
+    "title": "AVSD: Routine Follow-Up and Testing Intervals",
+    "table": {
+      "frequency_of_routine_follow_up_and_testing": {
+        "outpatient_achd_cardiologist": {
+          "physiological_stage_a": "24-36 mo",
+          "physiological_stage_b": "24 mo",
+          "physiological_stage_c": "6-12 mo",
+          "physiological_stage_d": "3-6 mo"
+        },
+        "ecg": {
+          "physiological_stage_a": "24-36 mo",
+          "physiological_stage_b": "24 mo",
+          "physiological_stage_c": "12 mo",
+          "physiological_stage_d": "12 mo"
+        },
+        "tte": {
+          "physiological_stage_a": "24-36 mo",
+          "physiological_stage_b": "24 mo",
+          "physiological_stage_c": "12 mo",
+          "physiological_stage_d": "12 mo"
+        },
+        "pulse_oximetry": {
+          "physiological_stage_a": "as_needed",
+          "physiological_stage_b": "as_needed",
+          "physiological_stage_c": "each visit",
+          "physiological_stage_d": "each visit"
+        },
+        "exercise_test": {
+          "physiological_stage_a": "as_needed",
+          "physiological_stage_b": "as_needed",
+          "physiological_stage_c": "12-24 mo",
+          "physiological_stage_d": "6-12 mo"
+        }
+      },
+      "notes": [
+        "See Tables 3 and 4 for details on the ACHD AP classification system.",
+        "16-minute walk test or CPET, depending on the clinical indication."
+      ]
+    },
+    "key_sections": {
+      "atrioventricular_node": {
+        "description": "Displaced inferiorly in AVSD, associated with relative hypoplasia of the left anterior fascicle.",
+        "implications": "Regular monitoring for symptoms and screening with an ECG are important."
+      },
+      "hemodynamic_assessment": {
+        "role": "Confirmatory tool for evaluation of pulmonary vasoactivity and prognostic significance for adults with shunts."
+      },
+      "left_atrioventricular_valve": {
+        "extrapolation": "Criteria for surgery based on mitral valve.",
+        "risks": "Potential differences from acquired mitral valve disease."
+      }
+    }
+  },
+  "genes": []
+}

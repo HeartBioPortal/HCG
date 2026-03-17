@@ -1,0 +1,43 @@
+{
+  "content": {
+    "Clinical Trials": [
+      {
+        "Trial Name": "ISCHEMIA",
+        "Outcomes": "Patients experienced worse health status with an invasive strategy compared to a conservative strategy over 36 months of follow-up. Seattle Angina Questionnaire improvements more pronounced with conservative strategy."
+      },
+      {
+        "Trial Name": "ORBITA",
+        "Outcomes": "PCI objectively reduced ischemia but did not differ in patient-reported freedom from angina compared to placebo."
+      },
+      {
+        "Trial Name": "FAME/FAME-2",
+        "Outcomes": "Patients with lower FFR showed significant QOL improvement at 1 month and 1 year."
+      },
+      {
+        "Trial Name": "ACME-2",
+        "Findings": "Annualized mortality for ACME-2 was 4.0%, 1.0% in FAME-2, and 1.6% in ISCHEMIA."
+      },
+      {
+        "Trial Name": "STICH",
+        "Outcomes": "Patients receiving CABG with reduced LVEF had improved survival at 10 years compared to those with medical therapy alone."
+      },
+      {
+        "Trial Name": "REVIVED-BCIS 2",
+        "Outcomes": "PCI does not improve MACEs including mortality with ejection fraction \u226435%."
+      }
+    ],
+    "Cost Effectiveness": {
+      "CABG": {
+        "QALY": "6.53 lifetime QALYs",
+        "Lifetime Cost": "$140,059"
+      },
+      "Medical Therapy": {
+        "QALY": "5.52 lifetime QALYs",
+        "Lifetime Cost": "$74,894"
+      },
+      "Cost Comparison": "CABG had a $63,989 per QALY gained compared with medical therapy."
+    },
+    "Recommendations": "Revascularization is advised mainly from older RCTs. Trials focus on CAD with reduced ejection fraction or ischemic cardiomyopathy."
+  },
+  "genes": []
+}

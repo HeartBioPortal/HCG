@@ -1,0 +1,23 @@
+{
+  "content": {
+    "Analgesics": {
+      "Morphine": "Used for pain relief in patients with STEMI, especially with complicated cases such as pulmonary edema.",
+      "Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)": "Associated with increased risk of death, reinfarction, cardiac rupture, hypertension, renal insufficiency, and heart failure (HF). Contraindicated in patients with STEMI.",
+      "Naloxone": "Can be administered to reverse narcotic effects.",
+      "Atropine": "May be administered to counter excessive morphine-related bradycardia."
+    },
+    "Complications After STEMI": {
+      "Cardiogenic Shock": {
+        "Emergency Revascularization": "Recommended with PCI or CABG for patients with STEMI and cardiogenic shock.",
+        "Fibrinolytic Therapy": "Recommended for patients not suitable for PCI or CABG.",
+        "Intra-aortic Balloon Pump (IABP)": "May assist patients not stabilized quickly with pharmacological therapy.",
+        "LV Assist Devices": "Considered for circulatory support with refractory cardiogenic shock."
+      },
+      "Severe Heart Failure (HF)": {
+        "Indication for Revascularization": "HF after STEMI is an indication for revascularization irrespective of prior performance.",
+        "Medical Management": "Use of diuretics, vasodilators, and inotropic agents. Renin-angiotensin-aldosterone system inhibitors are recommended."
+      }
+    }
+  },
+  "genes": []
+}

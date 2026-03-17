@@ -1,0 +1,67 @@
+{
+  "content": {
+    "Introduction": {
+      "References": [
+        {
+          "Authors": "Willet WH, Anderson RN, Coleman King SM, et al.",
+          "Title": "Heart disease and cancer deaths\u2013trends and projections in the United States, 1969\u20132020.",
+          "Source": "Prev Chronic Dis. 2016;13:E157."
+        },
+        {
+          "Authors": "Johnson NB, Hayes LD, Brown K, et al.",
+          "Title": "CDC National Health Report: leading causes of morbidity and mortality and associated behavioral risk and protective factors\u2014United States, 2005-2013.",
+          "Source": "MMWR Suppl. 2014;63:3\u201327."
+        },
+        {
+          "Authors": "Xu J, Murphy SL, Kochanek KD, et al.",
+          "Title": "Mortality in the United States, 2015.",
+          "Source": "NCHS Data Brief. 2016;1-8."
+        },
+        {
+          "Authors": "Greenland P, Knoll MD, Stamler J, et al.",
+          "Title": "Major risk factors as antecedents of fatal and nonfatal coronary heart disease events.",
+          "Source": "JAMA. 2003;290:891\u20137."
+        },
+        {
+          "Authors": "Lloyd-Jones DM, Hong Y, Labarthe D, et al.",
+          "Title": "Defining and setting national goals for cardiovascular health promotion and disease reduction.",
+          "Source": "Circulation. 2010;121:586-613."
+        },
+        {
+          "Authors": "Tuovinen JP, Nat-Veith A, Fuster V.",
+          "Title": "Cardiovascular health promotion an issue that can no longer wait.",
+          "Source": "J Am Coll Cardiol. 2018;72:903\u201313."
+        },
+        {
+          "Authors": "Yoon SS, Carroll MD, Fryar CD, et al.",
+          "Title": "A systematic review of the prevalence and outcomes of elevated cardiovascular health levels in US and non-US populations.",
+          "Source": "Mayo Clin Proc. 2016;91:649\u201370."
+        }
+      ]
+    },
+    "Methodology and Evidence Review": {
+      "References": [
+        {
+          "Authors": "Whelton PK, Carey RM, Aronow WS, et al.",
+          "Title": "2017 ACC/AHA/AAPA/ABC/ ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults.",
+          "Source": "Hypertension. 2018;71:e13\u2013e115."
+        },
+        {
+          "Authors": "Grundy SM, Stone NJ, Bailey AL, et al.",
+          "Title": "2018 AHA/ACC/AACVPR/AAPA/ABC/ADA/ AGS/APCC/AHPA/ASPC/NLA/PCNA guideline on the management of blood cholesterol.",
+          "Source": "J Am Coll Cardiol. 2018 Nov 10."
+        }
+      ]
+    },
+    "Overarching Recommendations for ASCVD Prevention Efforts": {
+      "Patient-Centered Approaches": {
+        "Reference": {
+          "Authors": "Carter BL, Rogers M, Daly J, et al.",
+          "Title": "The potency of team-based care interventions for hypertension.",
+          "Source": "Arch Intern Med. 2009;169:1748\u201355."
+        }
+      }
+    }
+  },
+  "genes": []
+}

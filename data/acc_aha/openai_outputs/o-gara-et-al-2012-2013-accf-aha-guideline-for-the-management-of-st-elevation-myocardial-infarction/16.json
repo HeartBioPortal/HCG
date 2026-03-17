@@ -1,0 +1,35 @@
+{
+  "content": {
+    "Clopidogrel 75 mg daily": "260,262",
+    "Prasugrel 10 mg daily": "262",
+    "Ticagrelor 90 mg twice a day": "261",
+    "Recommendation for aspirin": "81 mg after PCI",
+    "Use of GP IIb/IIIa receptor antagonists": {
+      "Intravenous GP IIb/IIIa": "265\u2013267",
+      "Upstream agents": [
+        "268",
+        "269"
+      ]
+    },
+    "Considerations for DES placement": "P2Y12 inhibitor continuation beyond 1 year",
+    "Limitations for prasugrel": "not for patients with a history of stroke or TIA"
+  },
+  "genes": [
+    {
+      "Gene": "CYP2C19",
+      "Associated Conditions": [
+        "reduced-function allele affecting clopidogrel metabolism"
+      ],
+      "Occurrences": 4,
+      "context": "The antiplatelet response to clopidogrel may vary as a function of patient phenotype, hepatic CYP450 enzyme system polymorphisms (predominantly CYP 2C19*2), which can result in diminished platelet inhibition and increased risks of major adverse cardiovascular events and stent thrombosis."
+    },
+    {
+      "Gene": "CYP450",
+      "Associated Conditions": [
+        "affects clopidogrel biotransformation"
+      ],
+      "Occurrences": 2,
+      "context": "The antiplatelet response to clopidogrel may vary as a function of patient phenotype (obesity, diabetes mellitus), enteric ABCB 1 polymorphisms, hepatic CYP450 enzyme system polymorphisms."
+    }
+  ]
+}

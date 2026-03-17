@@ -1,0 +1,41 @@
+{
+  "content": {
+    "title": "Acute Coronary Syndromes",
+    "description": "The figure illustrates the progression of plaque formation and onset and complications of NSTE-ACS (Non-ST-Elevation Acute Coronary Syndromes), with management at each stage. The progression involves stages from normal artery to thrombus formation and potential myocardial infarction.",
+    "stages": [
+      "Normal artery",
+      "Extracellular lipid accumulation in subintima",
+      "Fibrotic stage",
+      "Procoagulant expression and weakening of fibrous cap",
+      "Fibrous cap rupture and thrombus formation",
+      "Potential reduction in blood flow causing ischemic chest pain"
+    ],
+    "management": {
+      "initial_management": [
+        "Initial recognition and management in the emergency department",
+        "Risk stratification"
+      ],
+      "hospital_management": [
+        "Medication",
+        "Conservative versus ischemia-guided strategy",
+        "Special groups management",
+        "Preparation for discharge"
+      ],
+      "secondary_prevention": [
+        "Long-term management"
+      ]
+    },
+    "clinical_spectrum": [
+      "Unstable Angina (UA)",
+      "Non-ST-elevation Myocardial Infarction (NSTEMI)",
+      "Q-wave Myocardial Infarction (QwMI)",
+      "ST-elevation Myocardial Infarction (STEMI)"
+    ],
+    "diagnostic_approach": [
+      "Electrocardiogram (ECG)",
+      "Cardiac biomarker assessment (e.g., troponin)"
+    ],
+    "notes": "Patients may present with ischemic chest pain due to thrombus in the coronary artery."
+  },
+  "genes": []
+}

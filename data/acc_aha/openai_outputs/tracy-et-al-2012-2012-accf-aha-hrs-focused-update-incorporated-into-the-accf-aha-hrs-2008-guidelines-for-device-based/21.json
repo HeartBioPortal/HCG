@@ -1,0 +1,24 @@
+{
+  "content": {
+    "Title": "Device Guideline: 2012 Update Incorporated",
+    "General Information": [
+      "Recommendations for pacing in patients with hypertrophic cardiomyopathy (HCM) are detailed.",
+      "Class I: Permanent pacing is indicated for SND or AV block in patients with HCM.",
+      "Class IIa: Permanent pacing may be considered for symptomatic patients with significant resting or provoked LV outflow tract obstruction.",
+      "Class III: Permanent pacemaker implantation is not indicated for patients who are asymptomatic or whose symptoms are medically controlled.",
+      "Pacing considerations are also outlined for children and adolescents with congenital heart disease.",
+      "Bradycardia in children may be associated with genetic channelopathies.",
+      "Sinus bradycardia in young patients may require pacemaker implantation if it's associated with syncope or significant symptoms."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "GENE_NAME",
+      "Associated Conditions": [
+        "genetic channelopathies"
+      ],
+      "Occurrences": 1,
+      "context": "Although SND (sick sinus syndrome) is recognized in pediatric patients and may be associated with specific genetic channelopathies (206), it is not itself an indication for pacemaker implantation."
+    }
+  ]
+}

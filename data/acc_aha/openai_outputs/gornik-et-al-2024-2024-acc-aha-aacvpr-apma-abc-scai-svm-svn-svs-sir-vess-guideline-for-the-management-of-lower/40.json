@@ -1,0 +1,54 @@
+{
+  "content": {
+    "Risk Factors": [
+      "History of previous foot ulcer(s) or amputation",
+      "Charcot or other foot deformities",
+      "Diabetes with poor glycemic control",
+      "Chronic kidney disease (CKD), especially if end-stage",
+      "Peripheral neuropathy",
+      "Corns or calluses on the feet",
+      "Ongoing smoking"
+    ],
+    "Complications": [
+      "Increased risk of foot ulcers",
+      "Increased risk of infection",
+      "Risk of amputation",
+      "40% rate of death at 5 years after a foot ulcer"
+    ],
+    "Components of Comprehensive Foot Evaluation": {
+      "History": [
+        "Previous foot ulcer(s) or CLTI",
+        "Amputation",
+        "Charcot deformity",
+        "Calluses",
+        "Current symptoms of PAD or CLTI",
+        "Lower extremity revascularization",
+        "Cigarette or other tobacco use",
+        "Diabetes",
+        "Retinopathy or visual impairment",
+        "CKD",
+        "Symptoms of neuropathy",
+        "History of other cardiovascular diseases"
+      ],
+      "Physical Examination": [
+        "Evaluate skin integrity",
+        "Examine for foot deformity",
+        "Perform neurological assessment",
+        "Evaluate pulses in the legs and feet"
+      ],
+      "Other Assessments": [
+        "Footwear adequacy",
+        "Foot hygiene",
+        "Patient's physical limitations and self-care ability"
+      ]
+    },
+    "Recommendations": [
+      "Education on foot self-care",
+      "Prevent precursors of foot ulcers",
+      "Referral to a footcare specialist when needed",
+      "Wearing therapeutic footwear",
+      "Avoid walking barefoot"
+    ]
+  },
+  "genes": []
+}

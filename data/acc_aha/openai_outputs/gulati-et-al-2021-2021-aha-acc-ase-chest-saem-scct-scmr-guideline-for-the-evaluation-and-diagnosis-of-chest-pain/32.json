@@ -1,0 +1,31 @@
+{
+  "content": {
+    "guidelines": [
+      {
+        "recommendation": "For intermediate-risk patients with acute chest pain and no known CAD, either exercise ECG, stress echocardiography, stress PET/SPECT MPI, or stress CMR is useful for the diagnosis of myocardial ischemia."
+      },
+      {
+        "recommendation": "For intermediate-risk patients with acute chest pain and no known CAD, CCTA, FFR-CT can be useful for the diagnosis of vessel-specific ischemia and to guide decision-making regarding the use of coronary revascularization."
+      },
+      {
+        "recommendation": "For intermediate-risk patients with acute chest pain and no known CAD, as well as an inconclusive prior stress test, CCTA can be useful for excluding the presence of atherosclerotic plaque and obstructive CAD."
+      },
+      {
+        "recommendation": "For intermediate-risk patients with acute chest pain and no known CAD, with an inconclusive CCTA, stress imaging (with echocardiography, PET/SPECT MPI, or CMR) can be useful for the diagnosis of myocardial ischemia."
+      },
+      {
+        "commentary": "For patients with recent prior testing and normal findings, no further testing is indicated if adequate exercise levels were achieved."
+      },
+      {
+        "commentary": "CCTA is recommended for those with previously inconclusive or mildly abnormal stress tests, avoiding inconclusive results and enabling more definitive rule-out of obstructive CAD."
+      },
+      {
+        "commentary": "ICA is indicated for patients categorized as high risk on a validated risk score."
+      },
+      {
+        "commentary": "Symptomatic patients with previous stress testing often have atherosclerotic plaque and are at risk for obstructive CAD lesions."
+      }
+    ]
+  },
+  "genes": []
+}

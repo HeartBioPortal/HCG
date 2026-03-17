@@ -1,0 +1,26 @@
+{
+  "content": {
+    "title": "Recommendations for Adjunctive Therapies to Minimize Tissue Loss in ALI",
+    "synopsis": "Patients presenting with Acute Limb Ischemia (ALI) experience high rates of morbidity, mortality, and limb loss. Timely revascularization is the goal, but poor outcomes may still occur. Adjuncts to revascularization, like fasciotomy, help minimize tissue loss. Compartment syndrome is a significant concern, often developing due to reperfusion injury.",
+    "recommendations": [
+      {
+        "level": "C-EO",
+        "recommendation": "Patients with ALI should be monitored and treated for compartment syndrome with fasciotomy after revascularization to prevent reperfusion injury."
+      },
+      {
+        "level": "B-NR",
+        "recommendation": "In patients with ALI and a threatened but salvageable limb, prophylactic fasciotomy is reasonable."
+      },
+      {
+        "level": "2a C-EO",
+        "recommendation": "In patients with ALI and prolonged ischemia, early amputation can be beneficial to avoid morbidity of reperfusion."
+      }
+    ],
+    "key_points": [
+      "Elevated compartment pressures are not common initially in ALI but can occur with reperfusion injury.",
+      "Oxygen-free radicals create leaky capillaries, raising compartment pressures.",
+      "High clinical suspicion is necessary to diagnose compartment syndrome."
+    ]
+  },
+  "genes": []
+}

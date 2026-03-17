@@ -1,0 +1,35 @@
+{
+  "content": {
+    "general_information": [
+      {
+        "section": "S10.2",
+        "title": "Medication-Induced Arrhythmias",
+        "details": "Treatment of life-threatening arrhythmias, including use of digoxin and various antiarrhythmic drugs, and the study of drug-induced torsades de pointes."
+      },
+      {
+        "section": "S10.8",
+        "title": "Adult Congenital Heart Disease",
+        "details": "Discusses interactions in tetralogy of Fallot and the role of genetic information in clinical outcomes. The use of devices like implantable cardioverter defibrillators in managing congenital conditions."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "KCNH2",
+      "Associated Conditions": [
+        "Drug-induced QT prolongation",
+        "Torsade de pointes"
+      ],
+      "Occurrences": 1,
+      "context": "S10.7.16: K\u00e4\u00e4b S, Crawford DC, Sinner MF, et al. A large candidate gene survey identifies the KCNH2 D85N polymorphism as a possible modulator of drug-induced torsades de pointes."
+    },
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "Brugada syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "S10.7.26: Tadros R, Thanassoulis G, Ionic G, et al. Brugada syndrome mimicked by tricyclic antidepressants overdose."
+    }
+  ]
+}

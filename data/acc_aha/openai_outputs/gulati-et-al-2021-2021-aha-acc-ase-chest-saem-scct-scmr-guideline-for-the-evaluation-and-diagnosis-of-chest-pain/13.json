@@ -1,0 +1,19 @@
+{
+  "content": {
+    "Synopsis": {
+      "Patient Demographics": "Most patients presenting to the ED with chest pain are women, particularly those aged \u226565 years.",
+      "ISHEMIA Trial Findings": "Women with moderate-to-severe ischemia are more symptomatic than men.",
+      "Symptoms in Women": "Women present with nausea, fatigue, and shortness of breath more often than men, though chest pain remains the predominant symptom.",
+      "ACS Diagnosis": "ACS frequency is equal in men and women presenting with chest pain."
+    },
+    "Recommendation-Specific Supportive Text": {
+      "Risk Assessments": "Traditional risk tools underestimate risk in women, often misclassifying their chest pain as nonischemic.",
+      "PROMISE Trial": "Examined sex differences in presentation, risk factors, etc. Women commonly present with symptoms similar to men, with additional symptoms like palpitations.",
+      "HERME Study": "Examined troponin T value; 92% of women and 91% of men presented with chest pain."
+    },
+    "Recommendation for Older Patients": {
+      "Age Factor": "In patients >75 years with stable CAD symptoms, increased likelihood of positive tests for obstructive CAD."
+    }
+  },
+  "genes": []
+}

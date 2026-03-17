@@ -1,0 +1,14 @@
+{
+  "content": {
+    "Cardiac amyloidosis is a restrictive cardiomyopathy with extracellular myocardial protein deposition, primarily as monoclonal immunoglobulin light chains (AL-CM) or transthyretin amyloidosis (ATTR-CM). Genetic testing is recommended for differentiating hereditary variants using TTR gene sequencing. Diagnostic approaches include screening serum and urine for monoclonal light chains, performing bone scintigraphy, and utilizing 99mTc-based compounds for ATTR-CM detection.": "genes",
+    "Gene": "TTR",
+    "Associated Conditions": [
+      "transthyretin amyloidosis",
+      "hereditary transthyretin amyloidosis",
+      "wild-type transthyretin amyloidosis"
+    ],
+    "Occurrences": 4,
+    "context": "ATTR can be caused by pathogenic variants in the transthyretin gene TTR. Genetic testing with TTR gene sequencing is recommended to differentiate hereditary variant from wild-type transthyretin cardiac amyloidosis. If ATTR-CM is identified, then genetic sequencing of the TTR gene will determine if the patient has a pathological variant (ATTRv) or wild-type (ATTRwt) disease."
+  },
+  "genes": []
+}

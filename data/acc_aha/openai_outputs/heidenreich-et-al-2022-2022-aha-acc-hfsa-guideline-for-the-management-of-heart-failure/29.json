@@ -1,0 +1,20 @@
+{
+  "content": {
+    "title": "Clinical Assessment: HF Risk Scoring",
+    "purpose": "To evaluate and manage the prognostic risk in patients with heart failure (HF).",
+    "key_points": [
+      "Patients with HF should have their risk factors assessed to guide discussions on prognosis, goals of care, and treatment.",
+      "Risk scores are valuable for ambulatory or hospitalized patients to estimate mortality risk.",
+      "Several predictive models are validated using clinical trial data and population-based cohorts.",
+      "Models include the Seattle Heart Failure Model, Heart Failure Survival score, and MAGGIC predictive model.",
+      "Risk factors include EF (ejection fraction), symptoms, clinical settings, and other variables such as exercise capacity and natriuretic peptide levels.",
+      "Strategies like CPET (cardiopulmonary exercise testing) are useful in assessing exercise capacity and differentiating cardiac from other causes of dyspnea."
+    ],
+    "recommendations": [
+      "Use validated multivariable risk scores for ambulatory or hospitalized HF patients to predict mortality risk.",
+      "Consider models for incident HF prevention in general population assessments.",
+      "Use additional models with exercise and peptide levels to predict short-term survival in acute HF patients."
+    ]
+  },
+  "genes": []
+}

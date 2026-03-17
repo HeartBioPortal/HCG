@@ -1,0 +1,40 @@
+{
+  "content": {
+    "figure_title": "Hemodynamically Significant Ventricular Level Shunt",
+    "main_flow": {
+      "shunt_direction": {
+        "left_to_right": {
+          "hemodynamic_assessment": {
+            "conditions": [
+              "LV enlargement with Qp:Qs \u2265 1.5:1",
+              "PASP < 50% systemic",
+              "pulmonary vascular resistance < 1/3 systemic"
+            ],
+            "outcomes": "Surgical or device closure (Class I)"
+          },
+          "progression": {
+            "AR": "Progressive AR due to perimembranous or supracristal VSD",
+            "outcome": "Surgical or device closure (Class I)"
+          },
+          "history": {
+            "IE": "History of IE",
+            "outcome": "Surgical or device closure (Class IIa)"
+          },
+          "no_history": "Continued follow-up"
+        },
+        "right_to_left": {
+          "condition": "Eisenmenger syndrome",
+          "confirmation": "Confirm PAH diagnosis through invasive hemodynamic assessment (Class I)",
+          "outcomes": [
+            "Bosentan (Class I)",
+            "PDE-5 inhibitors (Class IIa)",
+            "Combination therapy (Class IIa)",
+            "No closure (Class III: Harm)"
+          ]
+        }
+      }
+    },
+    "notes": "Combination therapy with bosentan and PDE-5 inhibitor if symptomatic improvement does not occur with either alone. ACHD indicates adult congenital heart disease."
+  },
+  "genes": []
+}

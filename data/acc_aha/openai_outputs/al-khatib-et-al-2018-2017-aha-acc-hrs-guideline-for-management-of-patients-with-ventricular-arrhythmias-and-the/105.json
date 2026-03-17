@@ -1,0 +1,30 @@
+{
+  "content": {
+    "7.1": "Patients with an implantable cardioverter defibrillator are reviewed with studies such as CALYPSO and MADIT-II. Ejection fraction and primary prevention indications are specifically noted.",
+    "7.2": "Nonischemic cardiomyopathy studies highlight outcomes in patients with conditions like sarcoidosis, and the impact of late gadolinium enhancement on cardiac events is studied.",
+    "7.2.1": "Secondary prevention of SCD in patients with NICM is discussed with results from the AVID study and its implications.",
+    "7.2.1.1": "The Antiarrythmics versus Implantable Defibrillators (AVID) study reviews arrhythmic therapy outcomes.",
+    "7.2.1.2": "Review of a trial comparing amiodarone versus ICD in post-MI and low ejection fraction patients.",
+    "7.2.4": "Review of trials indicated secondary prevention of cardiac arrest comparing ICDs and antiarrhythmic drugs.",
+    "7.2.7": "Genetic basis highlighted in studies related to dilated cardiomyopathy and other conditions."
+  },
+  "genes": [
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [
+        "Cardiac Arrhythmias",
+        "Dilated Cardiomyopathy"
+      ],
+      "Occurrences": 3,
+      "context": "7.2.7 includes studies focusing on lamin A/C mutation carriers with data on conduction disorders and cardiomyopathy outcomes. The cardiac profiles of carriers of LMNA mutations and their significance in arrhythmias are noted."
+    },
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "Arrhythmogenic Right Ventricular Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Mentioned in the context of genetic mutations that affect heart rhythm conditions, particularly related to arrhythmias."
+    }
+  ]
+}

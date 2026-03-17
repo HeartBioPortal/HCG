@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Summary": "The guideline addresses the management of valvular heart disease (VHD), particularly in patients with aortic stenosis (AS). It outlines the initial diagnosis approach and condition-specific recommendations, emphasizing the use of echocardiographic imaging and other diagnostic measurements in assessing the severity of AS.",
+    "Recommendations": [
+      {
+        "Recommendation": "For patients with suspected low-flow, low-gradient severe AS with reduced left ventricular ejection fraction (LVEF), low-dose dobutamine stress testing is recommended to evaluate valve severity and contractile reserve."
+      },
+      {
+        "Recommendation": "For patients with suspected low-flow, low-gradient severe AS with normal or reduced LVEF, calculating the outflow tract to aortic velocity ratio is advised to assess severity."
+      },
+      {
+        "Recommendation": "Measurement of aortic valve calcium score via CT imaging is recommended for patients with suspected low-flow, low-gradient severe AS to define severity."
+      }
+    ],
+    "Details": [
+      {
+        "Point": "Aortic valve area, transaortic velocity, and other measurements are crucial for diagnosis and decision-making in AS. Systemic hypertension can influence diagnostic readings, necessitating repeated measurements under normotensive conditions."
+      },
+      {
+        "Point": "Severe AS is characterized by a fixed valve area. An increase in transaortic velocity at a specific threshold is indicative of severity."
+      },
+      {
+        "Point": "Aortic valve calcification is a predictor of clinical outcome, with certain thresholds indicating severity."
+      }
+    ]
+  },
+  "genes": []
+}

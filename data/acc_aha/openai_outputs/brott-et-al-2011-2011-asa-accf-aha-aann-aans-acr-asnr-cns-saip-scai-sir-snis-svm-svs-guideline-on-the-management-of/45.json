@@ -1,0 +1,40 @@
+{
+  "content": {
+    "Durability Recommendations": [
+      {
+        "Class": "I",
+        "Recommendation": [
+          "In patients with symptomatic cerebral ischemia and recurrent carotid stenosis due to intimal hyperplasia or atherosclerosis, reoperation through CEA or CAS is recommended using the same criteria as for initial revascularization.",
+          "Reoperative CEA or CAS after initial revascularization is reasonable when imaging identifies rapidly progressive restenosis indicating a complete occlusion."
+        ],
+        "Level of Evidence": "C"
+      },
+      {
+        "Class": "IIb",
+        "Recommendation": [
+          "In asymptomatic patients with recurrent carotid stenosis due to intimal hyperplasia or atherosclerosis, reoperative CEA or CAS may be considered using the established criteria for initial revascularization."
+        ],
+        "Level of Evidence": "C"
+      },
+      {
+        "Class": "III Harm",
+        "Recommendation": [
+          "Reoperative CEA or CAS should not be performed in asymptomatic patients with less than 70% carotid stenosis that has remained stable."
+        ],
+        "Level of Evidence": "C"
+      }
+    ],
+    "Clinical Durability": [
+      "Clinical durability refers to the sustained efficacy of CEA and CAS in preventing stroke.",
+      "In larger trials, ipsilateral stroke rates 30 days post-procedure were about 1% to 2% for symptomatic and 0.5% to 0.8% for asymptomatic patients.",
+      "Clinical durability for CEA and CAS beyond 5 years is not clearly determined.",
+      "Primary causes of early restenosis are usually intimal hyperplasia, while late restenosis typically involves progression of atherosclerosis."
+    ],
+    "Anatomic Durability": [
+      "The incidence of recurrent carotid stenosis depends on the detection method, with lower rates when patches are used.",
+      "Recurrent carotid stenosis after CEA is usually a tri-modal phenomenon.",
+      "For both CEA and CAS, stenosis is rare after proper procedures."
+    ]
+  },
+  "genes": []
+}

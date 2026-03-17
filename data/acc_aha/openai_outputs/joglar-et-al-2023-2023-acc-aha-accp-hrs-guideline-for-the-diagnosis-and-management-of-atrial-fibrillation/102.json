@@ -1,0 +1,69 @@
+{
+  "content": {
+    "Section": "9.2. Management of AF in Patients With HF",
+    "Summary": "Guideline recommendations for managing atrial fibrillation (AF) in patients with heart failure (HF).",
+    "Recommendations": [
+      {
+        "Grade": "1",
+        "Level of Evidence": "B-NR",
+        "Details": "Patients with a new diagnosis of HFrEF and AF should receive aggressive treatment for AF rhythm control."
+      },
+      {
+        "Grade": "1",
+        "Level of Evidence": "A",
+        "Details": "Catheter ablation recommended for patients on GDMT with AF and HFrEF to improve symptoms, quality of life, and ventricular function."
+      },
+      {
+        "Grade": "2a",
+        "Level of Evidence": "B-NR",
+        "Details": "Ablation is useful in symptomatic AF and HFpEF patients to improve symptoms and quality of life."
+      },
+      {
+        "Grade": "2a",
+        "Level of Evidence": "B-R",
+        "Details": "Digoxin is reasonable for rate control in AF and HF patients."
+      },
+      {
+        "Grade": "2a",
+        "Level of Evidence": "B-NR",
+        "Details": "Intravenous amiodarone is reasonable for patients with rapid ventricular rates where other options are ineffective."
+      },
+      {
+        "Grade": "2a",
+        "Level of Evidence": "B-R",
+        "Details": "AVNA and biventricular pacing therapy can improve symptoms in HFrEF with LVEF <50% and refractory rapid ventricular response."
+      },
+      {
+        "Grade": "2a",
+        "Level of Evidence": "B-NR",
+        "Details": "AVNA can be beneficial in patients with AF, HF, and implanted pacing therapy to improve functional class and reduce ICD shocks."
+      },
+      {
+        "Grade": "2a",
+        "Level of Evidence": "B-NR",
+        "Details": "Long-term surveillance is recommended in patients with AF-induced cardiomyopathy who have recovered LV function."
+      },
+      {
+        "Grade": "2b",
+        "Level of Evidence": "B-NR",
+        "Details": "Stricter rate-control strategy may be reasonable for patients with suspected AF-induced cardiomyopathy."
+      },
+      {
+        "Grade": "2b",
+        "Level of Evidence": "C-LD",
+        "Details": "AVNA and conduction system pacing of the His bundle may be reasonable for improving symptoms and LV function in some patients."
+      },
+      {
+        "Grade": "3: Harm",
+        "Level of Evidence": "B-R",
+        "Details": "Nondihydropyridine calcium channel-blocking drugs should not be used in patients with LVEF <40%."
+      },
+      {
+        "Grade": "3: Harm",
+        "Level of Evidence": "B-R",
+        "Details": "Dronedarone should not be used for maintaining sinus rhythm in patients with New York Heart Association class III or IV HF."
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,58 @@
+{
+  "content": {
+    "costAndValueConsiderations": {
+      "PCSK9Inhibitors": [
+        {
+          "study": "ACC/AHA statement on cost/value methodology",
+          "source": "J Am Coll Cardiol. 2014;63:2304-232",
+          "authors": "Anderson JL, Heidenreich PA, Barnett PG, et al."
+        },
+        {
+          "studyName": "Economics and clinical outcomes in patients",
+          "source": "N Engl J Med. 2017;376:173-22",
+          "authors": "Sabatine MS, Giugliano RP, Keech AC, et al."
+        },
+        {
+          "studyName": "PCSK9 Inhibitors: economics and policy",
+          "source": "J Am Coll Cardiol. 2017;70:2677-87",
+          "authors": "Hlatky MA, Kazi DS"
+        },
+        {
+          "studyName": "Efficacy and safety of cholesterol-lowering treatment: meta-analysis of data from 90,056 participants in 14 randomised trials",
+          "source": "Lancet. 2005;366:1267-78",
+          "authors": "Baigent C, Keech A, Kearney PM, et al."
+        },
+        {
+          "studyName": "Cost-effectiveness of evolocumab therapy",
+          "source": "JAMA Cardiol. 2017;2:1069-78",
+          "authors": "Fonarow GC, Keech AC, Pedersen TR, et al."
+        },
+        {
+          "studyName": "Determining when to add nonstatin therapy",
+          "source": "J Am Coll Cardiol. 2016;68:2412-21.",
+          "authors": "Robinson JG, Huijgen R, Ray K, et al."
+        }
+      ]
+    },
+    "limitationsAndKnowledgeGaps": {
+      "riskAssessment": [
+        {
+          "study": "2013 ACC/AHA guideline on the treatment of blood cholesterol",
+          "source": "J Am Coll Cardiol. 2014; 63(25 Pt B):2889-934",
+          "authors": "Stone NJ, Robinson JG, Lichtenstein AH, et al."
+        }
+      ]
+    }
+  },
+  "genes": [
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "hypercholesterolemia",
+        "atherosclerotic cardiovascular disease"
+      ],
+      "Occurrences": 2,
+      "context": "7.1. Economic Value Considerations: PCSK9 Inhibitors ... PCSK9 Inhibitors: economics and policy."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "content": {
+    "Synopsis": "The goal of BP control in TAA is to slow growth and prevent aortic dissection, as well as to reduce non-aortic cardiovascular events, such as myocardial infarction and stroke. Uncontrolled hypertension increases the risk for aortic dissection, so achieving a SBP goal of \u2264130 mm Hg and a DBP goal of \u226480 mm Hg, with the use of antihypertensive therapy in those with hypertension and TAA, is advised.",
+    "Clinical Trials": "Multiple trials have examined the effects of beta-blocker and ARB therapy on TAA. Beta-blockers have shown efficacy in slowing the rate of aortic root growth, especially in Marfan syndrome. ARBs have not demonstrated as significant an impact in comparison to beta-blockers.",
+    "Recommendations for Treatment of TAA With Statins": {
+      "2a C-LD": "Statin therapy is recommended for patients with TAA and imaging or clinical evidence of atherosclerosis.",
+      "2b C-LD": "Statin therapy may be considered for patients with TAA without evidence of atherosclerosis."
+    }
+  },
+  "genes": [
+    {
+      "Gene": "FBN1",
+      "Associated Conditions": [
+        "Marfan Syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Genetic aortopathies related to TAA are detailed in Section 6.1.2, 'Genetic Aortopathies'. Marfan syndrome, associated with mutations in FBN1, is specifically mentioned with regards to beta-blocker therapy effects."
+    }
+  ]
+}

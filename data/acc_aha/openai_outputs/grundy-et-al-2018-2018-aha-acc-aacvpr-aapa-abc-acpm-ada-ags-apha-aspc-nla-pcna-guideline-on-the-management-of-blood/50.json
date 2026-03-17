@@ -1,0 +1,25 @@
+{
+  "content": {
+    "Overview": "This clinical guideline from 2018 focuses on cholesterol and its impact on cardiovascular health. It provides evidence and recommendations regarding cholesterol management, risks associated with high cholesterol, and interventions such as LDL-cholesterol lowering therapies. The guideline includes studies on the effects of statins, ezetimibe, and other interventions on cardiovascular outcomes.",
+    "Primary Prevention": {
+      "Calcium Assessment": "Coronary artery calcium assessment is discussed as a tool for evaluating the risk of coronary artery disease.",
+      "Psychology of Clinical Decision Making": "Implications of the psychology of clinical decision making on medication use are mentioned."
+    },
+    "Diet and Lifestyle": {
+      "Dietary Fats": "The effects of dietary saturated fatty acids on plasma lipids and lipoproteins are discussed."
+    },
+    "Cardiovascular Disease Risk": {
+      "Medication": "The use of statins and ezetimibe for risk reduction is evaluated. Statin therapy is recommended for certain populations to lower LDL-C and cardiovascular risk."
+    }
+  },
+  "genes": [
+    {
+      "Gene": "LDLR",
+      "Associated Conditions": [
+        "Cardiovascular Disease"
+      ],
+      "Occurrences": 2,
+      "context": "The focus on LDL-cholesterol lowering in the management of atherosclerotic cardiovascular disease includes recommendations for LDLR-related therapies."
+    }
+  ]
+}

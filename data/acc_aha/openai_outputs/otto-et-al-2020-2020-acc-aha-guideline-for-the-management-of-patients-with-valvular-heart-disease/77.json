@@ -1,0 +1,49 @@
+{
+  "content": {
+    "title": "2020 ACC/AHA Guideline for the Management of Valvular Heart Disease",
+    "summary": {
+      "patients": [
+        {
+          "condition": "heart valve replacement",
+          "recommendation": "Choice of prosthetic valve should be based on a shared decision-making process considering anticoagulant therapy risks."
+        },
+        {
+          "condition": "replacement where anticoagulant therapy is contraindicated",
+          "recommendation": "Bioprosthetic valve is recommended."
+        },
+        {
+          "age": "<50 years",
+          "condition": "AVR without contraindication to anticoagulation",
+          "recommendation": "Mechanical aortic prosthesis preferred."
+        },
+        {
+          "age": "50-65 years",
+          "condition": "AVR without contraindication to anticoagulation",
+          "recommendation": "Individualize choice between mechanical or bioprosthetic AVR."
+        },
+        {
+          "age": ">65 years",
+          "condition": "AVR",
+          "recommendation": "Bioprosthesis preferred."
+        },
+        {
+          "age": "<65 years",
+          "condition": "Mitral valve replacement without contraindication or unable to undergo repair",
+          "recommendation": "Mechanical mitral prosthesis preferred."
+        },
+        {
+          "age": ">65 years",
+          "condition": "Mitral valve replacement unable to undergo repair",
+          "recommendation": "Bioprosthesis preferred."
+        },
+        {
+          "age": "<50 years",
+          "condition": "Bioprosthetic AVR",
+          "recommendation": "Pulmonic autograft (Ross procedure) may be considered."
+        }
+      ],
+      "notes": "Durability data for TAVI valves are less robust than for surgical valves, mostly observed in older patients."
+    }
+  },
+  "genes": []
+}

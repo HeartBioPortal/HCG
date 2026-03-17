@@ -1,0 +1,30 @@
+{
+  "content": {
+    "Title": "Secondary Prevention: Management of Comorbidities and Risk Factors",
+    "Sections": [
+      {
+        "Section": "5.2.1",
+        "Title": "Weight Loss in Individuals Who Are Overweight or Obese",
+        "Recommendation": {
+          "COR": "1",
+          "LOE": "B-R",
+          "Text": "In patients with AF who are overweight or obese (with BMI >27 kg/m\u00b2), weight loss is recommended, with an ideal target of at least 10% weight loss to reduce AF symptoms, burden, recurrence, and progression to persistent AF."
+        },
+        "Synopsis": "Obesity contributes to the development and progression of AF by altering the atrial myocardium. Weight management is crucial in AF prevention. A BMI increase is linked with higher risk of postoperative and postablation AF.",
+        "Recommendation-Specific Supportive Text": "RCTs show that weight loss in overweight and obese individuals with AF reduces arrhythmia symptoms, recurrence, and burden. Bariatric surgery improves sinus rhythm maintenance and reverses AF type."
+      },
+      {
+        "Section": "5.2.2",
+        "Title": "Physical Fitness",
+        "Recommendation": {
+          "COR": "1",
+          "LOE": "B-R",
+          "Text": "In individuals with AF, moderate-to-vigorous exercise training to a target of 210 minutes per week is recommended to reduce AF symptoms and burden, increase maintenance of sinus rhythm, increase functional capacity, and improve QOL."
+        },
+        "Synopsis": "Aerobic exercise interventions benefit patients with nonpermanent AF by lowering arrhythmia burden and enhancing QOL. The ACTIVE-AF study supports this by demonstrating greater freedom from arrhythmia and improved QOL.",
+        "Recommendation-Specific Supportive Text": "Aerobic exercise in patients with nonpermanent AF can enhance the maintenance of sinus rhythm and reduce AF burden."
+      }
+    ]
+  },
+  "genes": []
+}

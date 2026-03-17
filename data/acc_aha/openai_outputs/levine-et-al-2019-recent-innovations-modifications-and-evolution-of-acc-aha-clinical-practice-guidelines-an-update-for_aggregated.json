@@ -1,0 +1,192 @@
+{
+  "content": [
+    {
+      "content": {
+        "introduction": "Since 1980, the ACC and AHA have been developing clinical practice guidelines to improve cardiovascular health. These guidelines are based on systematic methods to classify evidence, aiming to deliver quality cardiovascular care by providing recommendations for patients at risk of cardiovascular disease.",
+        "recent_changes": "Beginning in 2017, several innovations and modifications were implemented to make guidelines more 'user friendly', to focus more on actual recommendations rather than extensive text, to format guidelines in an accessible manner, and to incorporate updates."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Modular Knowledge Chunk": "The document describes the continued evolution of clinical practice guidelines with the introduction of the modular knowledge chunk format in 2017. This format organizes information into discrete packages focused on specific disease topics or management issues. Each chunk contains a table of recommendations, a brief synopsis, recommendation-specific supportive text, a flow diagram, an informational table, and hyperlinked references. The format facilitates updating and easier access.",
+        "Standardized Guideline Formats": "Alongside the modular knowledge chunk, standardized guideline formats with word count limits have been implemented to make guidelines more concise and recommendation-centric. This aims to make them more relevant and readable for practitioners. Synopses and recommendations are now limited to a maximum of 200 words each to streamline the focus on recommendations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "mental_health_neurodevelopmental_issues": "The guideline emphasizes the importance of addressing mental health and neurodevelopmental issues in patients with ACHD. It recommends evaluation for depression and anxiety, referral for mental health treatment, and consideration of neurodevelopmental testing.",
+        "recommendations_summary": [
+          "Patients with ACHD should be evaluated for depression and anxiety.",
+          "Referral for mental health evaluation and treatment is reasonable for ACHD patients.",
+          "Neurodevelopmental testing may guide therapies enhancing academic, behavioral, psychosocial, and adaptive functioning in certain ACHD patients."
+        ],
+        "synopsis": {
+          "importance": "Mental health and neurodevelopmental issues are highlighted as common and significant in ACHD patients, affecting quality of life.",
+          "neurodevelopmental_abnormalities": "These abnormalities are more frequent in children with complex disease and surgeries, but often adults are not evaluated.",
+          "disorders": "Neurodevelopmental disorders include cognition, social skills, communication, and attention disorders, often requiring diagnosis, treatment, and rehabilitation."
+        },
+        "recommendation_specific_supporting_text": [
+          "Anxiety and depression are underrecognized in ACHD; assessments should include these symptoms.",
+          "Structured evaluation can identify mood disorders in up to 50% of ACHD patients.",
+          "Evidence shows the impact of CHD and surgery on neurodevelopment in childhood may persist into adulthood, particularly in genetic conditions like 22q11 deletion and trisomy 21."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "22q11",
+          "Associated Conditions": [
+            "Conditions involving cognitive impairment and developmental delay"
+          ],
+          "Occurrences": 1,
+          "context": "This is particularly evident in patients with genetic conditions such as 22q11 deletion and trisomy 21."
+        }
+      ]
+    },
+    {
+      "content": {
+        "guideline_format": "Recommendation-centric standardized guideline format with sections for introduction, general concepts, recommendations on specific topics, and knowledge gaps.",
+        "top_take_home_messages": "Key recommendations and messages highlighted at the beginning of the guideline for easier reference by practitioners.",
+        "preamble": "Abbreviated preamble containing only essential information regarding guideline process and use.",
+        "addressing_gaps": "Current ACC/AHA guidelines address broad topics, with perceived needs in areas like chest pain evaluation and cardiovascular disease prevention."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_topics": [
+          "Arrhythmia/electrophysiology",
+          "Coronary artery disease",
+          "Myocardial",
+          "Valvular",
+          "Vascular",
+          "Prevention",
+          "Congenital heart disease",
+          "Perioperative"
+        ],
+        "conditions_listed": [
+          "Bradycardia and cardiac conduction delay",
+          "Supraventricular tachycardia",
+          "Atrial fibrillation",
+          "Ventricular arrhythmias and sudden cardiac death",
+          "Syncope",
+          "Evaluation of chest pain",
+          "Stable ischemic heart disease",
+          "Non-ST-elevation myocardial infarction",
+          "ST-elevation myocardial infarction",
+          "Percutaneous coronary intervention",
+          "Coronary artery bypass grafting",
+          "Heart failure",
+          "Hypertrophic cardiomyopathy",
+          "Valvular heart disease",
+          "Lower-extremity peripheral arterial disease",
+          "Extracranial carotid and vertebral artery disease",
+          "Thoracic aortic disease",
+          "High blood pressure",
+          "Blood cholesterol",
+          "Prevention of cardiovascular disease",
+          "Secondary prevention",
+          "Adult congenital heart disease",
+          "Perioperative cardiovascular evaluation and management"
+        ],
+        "improvement_highlights": [
+          "Data supplement tables for Level of Evidence: A or B recommendations",
+          "Abbreviation table moved to the beginning of each guideline",
+          "Institution of evidence review committees (ERCs)"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_summary": "The document discusses the evolution of clinical guidelines focusing on device-based treatments, indications for procedures such as revascularization, the importance of systematic review, and condition-centric interventions. Challenges include the administrative burden on healthcare providers, and efforts are being made to improve the accessibility and dissemination of guidelines.",
+        "future_directions": "There is an emphasis on making guidelines readable, searchable, and accessible. The AHA and ACC aim to utilize electronic platforms for dissemination and to continuously evaluate recommendations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_information": "The document discusses innovations and modifications in the ACC/AHA Clinical Practice Guidelines. The guidelines have been developed with a joint and collaborative effort by the ACC/AHA Task Force on Clinical Practice Guidelines leadership and members. Recent guideline topics include management of cardiovascular conditions, such as congenital heart disease, arrhythmias, coronary artery disease, cholesterol management, and the evaluation of patients with bradycardia and conduction delay. Various systematic reviews and reports from the American College of Cardiology (ACC) and American Heart Association (AHA) are referenced."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Guidelines": [
+          "Guideline for the evaluation and management of patients with syncope.",
+          "Guideline for the management of heart failure.",
+          "Guideline for percutaneous coronary intervention.",
+          "Guideline for coronary artery bypass graft surgery."
+        ],
+        "Keywords": [
+          "AHA Scientific Statements",
+          "evidence-based medicine",
+          "guideline",
+          "systematic review"
+        ],
+        "Appendix": "Author relationships with industry and other entities relevant to ACC/AHA clinical practice guidelines."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "committee_members": [
+          {
+            "name": "Jos\u00e9 A. Joglar",
+            "employment": "UT Southwestern Medical Center University\u2014Professor of Medicine",
+            "relationships": {
+              "consultant": "None",
+              "speakers_bureau": "None",
+              "ownership_principal": "None",
+              "personal_research": "None",
+              "institutional_financial_benefit": "None",
+              "expert_witness": "None",
+              "voting_restrictions": "None"
+            }
+          },
+          {
+            "name": "Mariann R. Piano",
+            "employment": "Vanderbilt University School of Nursing\u2014Nancy and Hilliard Travis Professor of Nursing; Senior Associate Dean for Research",
+            "relationships": {
+              "consultant": "None",
+              "speakers_bureau": "None",
+              "ownership_principal": "None",
+              "personal_research": "None",
+              "institutional_financial_benefit": "None",
+              "expert_witness": "None",
+              "voting_restrictions": "None"
+            }
+          },
+          {
+            "name": "Duminda N. Wijeysundera",
+            "employment": "Department of Anesthesia and Pain Management, Toronto General Hospital",
+            "relationships": {
+              "consultant": "None",
+              "speakers_bureau": "None",
+              "ownership_principal": "None",
+              "personal_research": "None",
+              "institutional_financial_benefit": "None",
+              "expert_witness": "None",
+              "voting_restrictions": "None"
+            }
+          }
+        ],
+        "table_description": "The table represents the relationships of committee members with industry and other entities, updated with all meetings and conference calls during the document development process. Relationships with no financial benefit are also included for transparency."
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "22q11",
+      "Associated Conditions": [
+        "Conditions involving cognitive impairment and developmental delay"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "This is particularly evident in patients with genetic conditions such as 22q11 deletion and trisomy 21."
+      ]
+    }
+  ]
+}

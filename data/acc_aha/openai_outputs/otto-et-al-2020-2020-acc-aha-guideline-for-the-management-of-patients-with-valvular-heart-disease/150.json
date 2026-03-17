@@ -1,0 +1,36 @@
+{
+  "content": {
+    "Title": "2020 ACC/AHA Guideline for the Management of Valvular Heart Disease",
+    "Interventions for Mixed VHD": {
+      "10.2.1": {
+        "Intervention for Mixed AS and AR": [
+          "Mitral valve repair with aortic valve replacement is superior to double valve replacement."
+        ]
+      },
+      "10.2.2": {
+        "Intervention for Mixed MS and MR": [
+          "Mitral valve repair with aortic valve replacement is superior to double valve replacement."
+        ]
+      }
+    },
+    "Prosthetic Valves": {
+      "11.1": {
+        "Evaluation and Selection": {
+          "11.1.1": "Doppler echocardiographic measurement for evaluation."
+        }
+      },
+      "11.1.2": {
+        "Diagnosis and Follow-Up": [
+          "Doppler echocardiography is crucial for follow-up.",
+          "Transcatheter and surgical aortic valves show different outcomes."
+        ]
+      },
+      "11.2.1": {
+        "Selection of Prosthetic Valve Type": [
+          "Mechanical or biologic prostheses for aortic and mitral valve replacement are recommended."
+        ]
+      }
+    }
+  },
+  "genes": []
+}

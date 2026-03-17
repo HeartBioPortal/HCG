@@ -1,0 +1,29 @@
+{
+  "content": {
+    "title": "High-Risk Patients With Acute Chest Pain",
+    "recommendations": [
+      {
+        "COR": "1",
+        "LOE": "B-NR",
+        "details": "For patients with acute chest pain and suspected ACS who have new ischemic changes on electrocardiography, troponin-confirmed acute myocardial injury, new-onset left ventricular systolic dysfunction (ejection fraction <40%), newly diagnosed moderate-severe ischemia on stress testing, hemodynamic instability, and/or a high clinical decision pathway (CDP) risk score should be designated as high risk for short-term MACE."
+      },
+      {
+        "COR": "1",
+        "LOE": "C-EO",
+        "details": "For patients with acute chest pain and suspected ACS who are designated as high risk, ICA is recommended."
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "details": "For high-risk patients with acute chest pain who are troponin positive in whom obstructive CAD has been excluded by CCTA or ICA, CMR or echocardiography can be effective in establishing alternative diagnoses."
+      }
+    ],
+    "synopsis": "Patients with symptoms suggestive of ACS who are at high risk of short-term MACE include those with new ischemic changes on the ECG, troponin-confirmed acute myocardial injury, new-onset left ventricular systolic dysfunction (ejection fraction <40%), newly diagnosed moderate-severe ischemia on stress imaging, and/or a high risk score on CDP.",
+    "additional_notes": [
+      "ICA is indicated for patients with confirmed ACS and based on robust trial evidence.",
+      "Approximately 6% to 15% of troponin-positive ACS occurs in the absence of obstructive CAD.",
+      "CMR can identify wall motion abnormalities and myocardial edema."
+    ]
+  },
+  "genes": []
+}

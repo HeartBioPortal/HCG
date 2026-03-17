@@ -1,0 +1,1158 @@
+{
+  "content": [
+    {
+      "content": {
+        "title": "2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk",
+        "organizations": [
+          "American College of Cardiology",
+          "American Heart Association",
+          "American Association of Cardiovascular and Pulmonary Rehabilitation",
+          "American Society for Preventive Cardiology",
+          "American Society of Hypertension",
+          "Association of Black Cardiologists",
+          "National Lipid Association",
+          "Preventive Cardiovascular Nurses Association",
+          "WomenHeart: The National Coalition for Women With Heart Disease"
+        ],
+        "publication": {
+          "journal": "Journal of the American College of Cardiology",
+          "volume": "63",
+          "issue": "25",
+          "year": "2014"
+        },
+        "expert_work_group_members": [
+          "David C. Goff, Jr",
+          "Donald M. Lloyd-Jones",
+          "Glen Bennett",
+          "Sean Coady",
+          "Ralph B. D'Agostino, Sr",
+          "Raymond Gibbons",
+          "Philip Greenland",
+          "Daniel T. Lackland",
+          "Daniel Levy",
+          "Christopher J. O'Donnell",
+          "Jennifer G. Robinson",
+          "J. Sanford Schwartz",
+          "Susan T. Shero",
+          "Sidney C. Smith, Jr",
+          "Paul Sorlie",
+          "Neil J. Stone",
+          "Peter W. F. Wilson"
+        ],
+        "methodology_members": [
+          "Harmon S. Jordan",
+          "Lev Nevo"
+        ],
+        "acc_aha_task_force_members": [
+          "Jeffrey L. Anderson",
+          "Jonathan L. Halperin",
+          "Nancy M. Albert",
+          "Biykem Bozkurt",
+          "Ralph G. Brindis",
+          "Lesley H. Curtis",
+          "David DeMets",
+          "Judith S. Hochman",
+          "Richard J. Kovacs",
+          "E. Magnus Ohman",
+          "Susan J. Pressler",
+          "Frank W. Sellke",
+          "Win-Kuang Shen"
+        ],
+        "subcommittee_on_prevention_guidelines": [
+          "Sidney C. Smith, Jr",
+          "Gordon F. Tomaselli"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Introduction": {
+          "Objective": "Reduce cardiovascular risk",
+          "Collaboration": "ACC and AHA with NHLBI and other stakeholders",
+          "Focus": "Assessment of cardiovascular risk, lifestyle modifications, cholesterol management, obesity management"
+        },
+        "Guideline Development": {
+          "Initiation": "2008 by NHLBI",
+          "Basis": "Systematic evidence reviews",
+          "Outcome": "Creation of clinical practice guidelines"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_description": "The document outlines the 2013 ACC/AHA Cardiovascular Risk Assessment Guideline, which is meant to assist in defining practices to meet patient needs in most situations. It emphasizes the importance of clinical judgment and decision-making by healthcare providers in reducing the risk of atherosclerotic cardiovascular disease (ASCVD) events.",
+        "organization": "The Risk Assessment Work Group comprises 11 members and 5 ex-officio members, including specialists in various fields related to cardiovascular health.",
+        "document_review": "The guideline underwent a formal peer review involving 12 expert reviewers and representatives of agencies. It was reviewed by the NHLBI, ACC, and AHA, and included systematic evidence reports.",
+        "work_group_charge": "The Work Group was responsible for evaluating the scientific evidence on ASCVD risk assessment and creating useful guidelines for managing factors like blood cholesterol, blood pressure, and obesity.",
+        "publication_details": "Approved by ACC and AHA and endorsed by various organizations including the American Society of Hypertension and National Lipid Association."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Applying Classification of Recommendation and Level of Evidence",
+        "classification_levels": {
+          "CLASS I": {
+            "description": "Procedure/Treatment SHOULD be performed/administered",
+            "suggestions": [
+              "is recommended",
+              "is indicated",
+              "is useful/effective/beneficial"
+            ]
+          },
+          "CLASS IIa": {
+            "description": "It is REASONABLE to perform procedure/administer treatment",
+            "suggestions": [
+              "is reasonable",
+              "can be useful/effective/beneficial",
+              "is probably recommended or indicated"
+            ]
+          },
+          "CLASS IIb": {
+            "description": "Procedure/Treatment MAY BE CONSIDERED",
+            "suggestions": [
+              "may/might be considered",
+              "usefulness/effectiveness is unknown/uncertain or not well established"
+            ]
+          },
+          "CLASS III": {
+            "description": "No Benefit OR Harm",
+            "no_benefit_terms": [
+              "is not recommended",
+              "is not indicated",
+              "should not be performed/administered",
+              "is not useful/beneficial/effective"
+            ],
+            "harmful_terms": [
+              "potentially harmful",
+              "causes harm",
+              "associated with excess morbidity/mortality",
+              "should not be performed/administered"
+            ]
+          }
+        },
+        "methodology_and_evidence_review": {
+          "source": "Full Work Group Report supplement",
+          "provided_by": "NHLBI Systematic Evidence Review",
+          "link": "http://www.nhlbi.nih.gov/guidelines/cvd_adult/risk_assessment/",
+          "focus": [
+            "Development of 10-year risk prediction equations for ASCVD",
+            "Data from non-Hispanic African-American and non-Hispanic white men and women aged 40 to 79",
+            "Based on several long-standing population-based cohort studies funded by the NHLBI"
+          ],
+          "definition": "10-year risk was defined as the risk of developing a first ASCVD event, defined as nonfatal myocardial infarction or ASCVD"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "grade": "A",
+            "description": "Strong recommendation. High certainty that the net benefit is substantial."
+          },
+          {
+            "grade": "B",
+            "description": "Moderate recommendation. Moderate certainty that the net benefit is moderate to substantial."
+          },
+          {
+            "grade": "C",
+            "description": "Weak recommendation. Lower certainty but small net benefit is likely."
+          },
+          {
+            "grade": "D",
+            "description": "Recommendation against. At least moderate certainty of no net benefit or that harms outweigh benefits."
+          },
+          {
+            "grade": "E",
+            "description": "Expert opinion. Insufficient evidence to determine net benefit."
+          },
+          {
+            "grade": "N",
+            "description": "No recommendation. Insufficient evidence to make a recommendation."
+          }
+        ],
+        "evidence_quality": [
+          {
+            "type": "High",
+            "description": "Well-designed, well-executed RCT or meta-analyses. Further research unlikely to change confidence in the estimate."
+          },
+          {
+            "type": "Moderate",
+            "description": "RCT with minor limitations, or well-designed, well-executed studies. Moderately certain about the estimate."
+          },
+          {
+            "type": "Low",
+            "description": "RCT with major limitations or uncontrolled observations. Low certainty about the estimate."
+          }
+        ],
+        "clinical_questions": [
+          {
+            "CQ1": "What is the evidence with regard to adding various tests to traditional risk scores for assessing cardiovascular risk?"
+          },
+          {
+            "CQ2": "Are models constructed to assess long-term CVD risk effective in adults?"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2013 ACC/AHA Cardiovascular Risk Assessment Guideline",
+        "Document Source": "JACC Vol. 63, No. 25, 2014",
+        "Date": "July 1, 2014",
+        "Summary": "The document outlines recommendations for assessing the 10-year risk of a first ASCVD event. Different recommendations are made based on risk factors and ethnic backgrounds.",
+        "Detailed Recommendations": [
+          {
+            "Assessment": "10-Year Risk of a First Hard ASCVD Event",
+            "Recommendations": [
+              "Use the race- and sex-specific Pooled Cohort Equations for African Americans and non-Hispanic whites aged 40-79.",
+              "Consider sex-specific Pooled Cohort Equations for non-Hispanic white populations.",
+              "Consider high-risk markers like family history, hsCRP, CAC score, or ABI for uncertain quantitative risk assessment."
+            ]
+          },
+          {
+            "Use of Newer Risk Markers": [
+              "Consider risk-based treatment decisions if assessment is uncertain.",
+              "Routine CIMT measurements are not recommended.",
+              "ApoB, CKD, albuminuria, and cardiorespiratory fitness contribution to risk assessment is uncertain."
+            ]
+          },
+          {
+            "Long-Term Risk Assessment": [
+              "Assess ASCVD risk factors every 4-6 years in adults 20-79 to estimate 10-year risk.",
+              "Assess 30-year or lifetime ASCVD risk for those 20-59 years free from ASCVD."
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2013 ACC/AHA Cardiovascular Risk Assessment Guideline",
+        "Summary": "This guideline discusses the risk estimation and assessment for cardiovascular disease (CVD), particularly focusing on the intent to refine risk prediction to better prevent CVD events. It critiques previous models and suggests improvements by introducing new pooled cohort equations for estimating the 10-year risk of atherosclerotic cardiovascular disease (ASCVD) events using diverse community-based cohorts.",
+        "Key Points": [
+          "The significance of accurate risk assessment in predicting cardiovascular events is highlighted.",
+          "Limitations of previous models are noted, such as nonrepresentative datasets and the narrow definition of outcomes.",
+          "The Work Group decided to develop new equations taking into account diverse populations to enhance prediction accuracy.",
+          "The guideline discusses the importance of using state-of-the-art statistical methods to provide sex- and race-specific estimates of 10-year risk of ASCVD.",
+          "There is an emphasis on utilizing electronic medical records and technology to automate risk assessment and make it more accessible."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendation": "Use of the race- and sex-specific Pooled Cohort Equations to predict 10-year risk of a first hard ASCVD event in non-Hispanic African Americans and non-Hispanic whites, aged 40 to 79 years.",
+        "Clinical Vignette": "For a 55-year-old nonsmoker without diabetes, with total cholesterol of 213 mg/dL, HDL-C of 50 mg/dL, and untreated systolic BP of 120 mm Hg, the predicted 10-year ASCVD risk is 2.1% for white women, 3.0% for African-American women, 5.3% for white men, and 6.1% for African-American men.",
+        "Validation": "Equations externally validated with other risk scores like Framingham CHD and European SCORE.",
+        "Implications": "Risk factors are specific to combinations of race and sex. Analysis shows ASCVD risk varies across the U.S. adult population. Estimated risk may be higher in Hispanic-American and Asian-American populations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2013 ACC/AHA Cardiovascular Risk Assessment Guideline",
+        "description": "Table 5 presents the distribution of estimated 10-year risk of a first hard ASCVD event in the CVD-free, nonpregnant U.S. population, aged 40 to 79 years, by sex and race/ethnicity.",
+        "risk_categories": [
+          "<2.5%",
+          "2.5%-4.9%",
+          "5.0%-7.4%",
+          "7.5%-9.9%",
+          "10.0%-14.9%",
+          "15.0%-19.9%",
+          "\u226520.0%"
+        ],
+        "categories": [
+          {
+            "group": "Total",
+            "%": "33.4 (31.2-35.5)",
+            "n": "33,534,000"
+          },
+          {
+            "group": "Men",
+            "category": [
+              {
+                "race": "Total",
+                "%": "17.4 (15.2-19.7)",
+                "n": "8,386,000"
+              },
+              {
+                "race": "White",
+                "%": "18.0 (15.0-21.1)",
+                "n": "6,467,000"
+              },
+              {
+                "race": "African American",
+                "%": "1.4 (0.3-2.6)",
+                "n": "60,000"
+              },
+              {
+                "race": "Hispanic",
+                "%": "24.0 (19.8-28.1)",
+                "n": "1,303,000"
+              },
+              {
+                "race": "Others",
+                "%": "20.8 (10.8-30.7)",
+                "n": "555,000"
+              }
+            ]
+          },
+          {
+            "group": "Women",
+            "category": [
+              {
+                "race": "Total",
+                "%": "48.0 (44.8-51.3)",
+                "n": "25,148,000"
+              },
+              {
+                "race": "White",
+                "%": "47.1 (43.0-51.1)",
+                "n": "18,175,000"
+              },
+              {
+                "race": "African American",
+                "%": "36.5 (32.4-40.6)",
+                "n": "1,921,000"
+              },
+              {
+                "race": "Hispanic",
+                "%": "59.4 (53.4-64.4)",
+                "n": "3,293,000"
+              },
+              {
+                "race": "Others",
+                "%": "59.8 (50.2-69.3)",
+                "n": "1,757,000"
+              }
+            ]
+          }
+        ],
+        "critical_question": {
+          "question": "What is the evidence with regard to reclassification or contribution to risk assessment when hs-CRP, ApoB, glomerular filtration rate, microalbuminuria, family history, cardiorespiratory fitness, ABI, CAC, or CIMIT is considered in addition to the variables that are in the traditional risk scores?",
+          "discussion": "Efforts to improve existing quantitative risk-estimation tools have focused on the accuracy and reliability of risk assessment. It has been established that the minority of the risk of CVD can be explained by major traditional risk factors."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "overview": "The guideline discusses the development and assessment of novel risk markers for cardiovascular disease (CVD) within the general population, specifically through the use of the Pooled Cohort Equations.",
+        "CQ1 analysis": "CQ1 aimed to evaluate if newer risk markers improve risk assessment sufficiently to justify their use in clinical practice. The evaluation was conducted through two stages; initial meta-analyses concluded before April 2011, and updated analyses before September 19, 2013.",
+        "importance of meta-analyses": "These analyses were crucial for evaluating novel biomarkers while minimizing the impact of publication bias.",
+        "systematic reviews": "Thirteen systematic reviews were considered, but none established enough evidence to use the novel risk markers in a clinical setting definitively.",
+        "notable findings": "Some promise is observed in novel markers like hs-CRP, CAC, and ABI. However, these did not lead to changes in clinical practice due to uncertainties."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "ACC/AHA COR IIb recommendation": "This recommendation is for individuals with uncertain risk-based treatment decisions. It aligns with the recommendations in the 2010 ACCF/AHA guideline and the 2013 ACC/AHA guideline for blood cholesterol treatment.",
+        "Newer Risk Markers": [
+          "Family history",
+          "hs-CRP",
+          "CAC score",
+          "ABI"
+        ],
+        "Recommendation on CIMT": "Routine measurement of CIMT is not recommended for risk assessment for a first ASCVD event.",
+        "Uncertain Contribution to Risk Assessment": [
+          "ApoB",
+          "Chronic kidney disease",
+          "Albuminuria",
+          "Cardiorespiratory fitness"
+        ],
+        "Lifelong Risk Perspective": "Focus on providing risk information and context for lifestyle modification in younger patients, especially for those with extreme risk factors like familial hypercholesterolemia.",
+        "Long-term vs. Short-term Risk": "There is a disconnect in long-term risk not aligning with 10-year risk scores. COQ2 focuses on the utility of long-term and lifetime risk assessment."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations": [
+          {
+            "Section": "6.2.2. Recommendations for CQ2: Long-Term Risk Assessment",
+            "Recommendation 1": "It is reasonable to assess traditional ASCVD risk factors every 4 to 6 years in adults 20 to 79 years of age who are free from ASCVD and to estimate 10-year ASCVD risk every 4 to 6 years in adults 40 to 79 years of age who are free from ASCVD.",
+            "NHLBI Grade": "B (Moderate)",
+            "ACC/AHA COR": "IIa",
+            "LOE": "B"
+          },
+          {
+            "Recommendation 2": "Assessment of 30-year or lifetime ASCVD risk on the basis of traditional risk factors may be considered in adults 20 to 59 years of age who are free from ASCVD and are not at high short-term risk.",
+            "NHLBI Grade": "C (Weak)",
+            "ACC/AHA COR": "IIb",
+            "LOE": "C"
+          }
+        ],
+        "Implementation Considerations": {
+          "Age Range": "20 to 79 years",
+          "Repetition of Assessment": "every 4 to 6 years in persons free from clinical ASCVD",
+          "Special Populations": "Outside age range, refer to pediatric and adult primary prevention guidelines",
+          "Risk Assessment Tools": [
+            "Web-based application enabling estimation of 10-year and lifetime risk of ASCVD",
+            "Pooled Cohort Equations"
+          ]
+        },
+        "Overall Summary": "The guideline emphasizes the importance of both short-term and long-term assessment of ASCVD risk using traditional risk factors, with a recommendation for periodic reassessment to motivate therapeutic lifestyle change."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline": "2013 ACC/AHA Cardiovascular Risk Assessment Guideline focuses on the implementation of risk assessment work group recommendations. It includes guidelines for assessing traditional risk factors and calculating 10-year or lifetime risk using pooled cohort equations.",
+        "Figure": "Implementation of Risk Assessment Work Group Recommendations involves decision-making steps for patients based on the presence of clinical ASCVD, age, and calculated risk levels.",
+        "Recommendations": "See guidelines for Blood Cholesterol, Obesity, and Lifestyle Management to manage ASCVD risk.",
+        "Evidence Gaps": "Future research is needed to fill gaps in knowledge about short- and long-term ASCVD risk assessment across diverse populations. This includes the importance of communication, motivation, adherence to therapy, and outcome influence by risk factor levels.",
+        "Conclusions": "The guideline recommends a new approach to risk assessment in ASCVD prevention compared to previous CHD assessments. It emphasizes the importance of broad-based ASCVD outcome estimations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2013 ACC/AHA Cardiovascular Risk Assessment Guideline",
+        "Acknowledgements": "Contributions from Dr. Hongyan Ning, Biostatistician at Northwestern University Feinberg School of Medicine.",
+        "References": [
+          {
+            "Reference": "Gibbons GH, Harold JG, Jessup M, et al. The next steps in developing clinical practice guidelines for prevention."
+          },
+          {
+            "Reference": "Gibbons GH, Shurin SB, Mensah GA, et al. Refocusing the agenda on cardiovascular guidelines."
+          },
+          {
+            "Reference": "Kannel WB, Feinbleib M, McNamara PM, et al. An investigation of coronary heart disease in families."
+          },
+          {
+            "Reference": "Buckley DI, Fu R, Freeman M, et al. C-reactive protein as a risk factor for coronary heart disease."
+          },
+          {
+            "Reference": "Emerging Risk Factors Collaboration, Kaptoge S, et al. C-reactive protein, coronary heart disease, stroke."
+          },
+          {
+            "Reference": "Peters SAE, den Ruijter HM, Bots ML, et al. Improvements in risk stratification for cardiovascular disease."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "2013 ACC/AHA Cardiovascular Risk Assessment Guideline",
+        "topics": [
+          "Cardiovascular health",
+          "Risk prediction",
+          "Cholesterol management",
+          "Primary prevention"
+        ],
+        "key points": [
+          "Focus on risk factors for cardiovascular disease.",
+          "Emphasis on cholesterol levels, obesity, and other atherosclerotic vascular diseases.",
+          "Role of traditional risk factors and new biomarkers in assessing cardiovascular risks."
+        ],
+        "reference sources": [
+          "National Heart, Lung, and Blood Institute",
+          "American Heart Association",
+          "Emerging Risk Factors Collaboration"
+        ],
+        "tools and methods": [
+          {
+            "name": "Framingham Heart Study",
+            "description": "General cardiovascular risk profile tool for primary care."
+          },
+          {
+            "name": "QRISK",
+            "description": "New cardiovascular disease risk score for the United Kingdom."
+          },
+          {
+            "name": "PROCAM",
+            "description": "Risk assessment based on cohort follow-up."
+          },
+          {
+            "name": "Reynolds Risk Score",
+            "description": "Improved algorithm for cardiovascular risk assessment in women."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document_title": "Appendix 1. Author Relationships With Industry and Other Entities (Relevant)\u20142013 ACC/AHA Guideline on Assessment of Cardiovascular Risk",
+        "authors": [
+          {
+            "name": "David C. Goff, Jr.",
+            "role": "Co-Chair",
+            "affiliation": "Colorado School of Public Health\u2014Dean",
+            "consultant": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "speakers_bureau": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "ownership_partnership_principal": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "personal_research": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "expert_witness": {
+              "2008-2012": "None",
+              "2013": "None"
+            }
+          },
+          {
+            "name": "Donald M. Lloyd-Jones",
+            "role": "Co-Chair",
+            "affiliation": "Northwestern University Feinberg School of Medicine\u2014Senior Associate Dean, Chair and Professor of Preventive Medicine; Professor of Medicine (Cardiology)",
+            "consultant": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "speakers_bureau": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "ownership_partnership_principal": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "personal_research": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "expert_witness": {
+              "2008-2012": "None",
+              "2013": "None"
+            }
+          },
+          {
+            "name": "Glen Bennett",
+            "role": "Ex-Officio",
+            "affiliation": "NHLBI\u2014Coordinator",
+            "consultant": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "speakers_bureau": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "ownership_partnership_principal": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "personal_research": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "expert_witness": {
+              "2008-2012": "None",
+              "2013": "None"
+            }
+          },
+          {
+            "name": "Sean Coady",
+            "role": "Ex-Officio",
+            "affiliation": "NHLBI\u2014Statistician",
+            "consultant": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "speakers_bureau": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "ownership_partnership_principal": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "personal_research": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "expert_witness": {
+              "2008-2012": "None",
+              "2013": "None"
+            }
+          },
+          {
+            "name": "Ralph B. D\u2019Agostino",
+            "role": "Ex-Officio",
+            "affiliation": "Boston University\u2014Professor of Mathematics and Statistics; Mathematics and Statistics Department\u2014Chair",
+            "consultant": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "speakers_bureau": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "ownership_partnership_principal": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "personal_research": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "expert_witness": {
+              "2008-2012": "None",
+              "2013": "None"
+            }
+          },
+          {
+            "name": "Raymond Gibbons",
+            "role": "Ex-Officio",
+            "affiliation": "Nuclear Cardiology Laboratory Mayo Clinic\u2014Professor of Medicine and Co-Director",
+            "consultant": {
+              "2008-2012": "None",
+              "2013": "AstraZeneca"
+            },
+            "speakers_bureau": {
+              "2008-2012": "None",
+              "2013": "Lantheus Medical Imaging"
+            },
+            "ownership_partnership_principal": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "personal_research": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "expert_witness": {
+              "2008-2012": "None",
+              "2013": "None"
+            }
+          },
+          {
+            "name": "Phillip Greenland",
+            "role": "Ex-Officio",
+            "affiliation": "Northwestern University Feinberg School of Medicine\u2014Senior Associate Dean for Clinical and Translational Research; Harry W. Dingman Professor of Medicine",
+            "consultant": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "speakers_bureau": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "ownership_partnership_principal": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "personal_research": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "expert_witness": {
+              "2008-2012": "None",
+              "2013": "None"
+            }
+          },
+          {
+            "name": "Daniel T. Lackland",
+            "role": "Ex-Officio",
+            "affiliation": "Medical University of South Carolina\u2014Professor of Epidemiology and Medicine",
+            "consultant": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "speakers_bureau": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "ownership_partnership_principal": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "personal_research": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "expert_witness": {
+              "2008-2012": "None",
+              "2013": "None"
+            }
+          },
+          {
+            "name": "Daniel Levy",
+            "role": "Ex-Officio",
+            "affiliation": "NHLBI\u2014Framingham Heart Study, Director",
+            "consultant": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "speakers_bureau": {
+              "2008-2012": "None",
+              "2013": "BG Medicine"
+            },
+            "ownership_partnership_principal": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "personal_research": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "expert_witness": {
+              "2008-2012": "None",
+              "2013": "None"
+            }
+          },
+          {
+            "name": "Christopher J. O\u2019Donnell",
+            "role": "Ex-Officio",
+            "affiliation": "NHLBI\u2014Associate Director and Senior Investigator",
+            "consultant": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "speakers_bureau": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "ownership_partnership_principal": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "personal_research": {
+              "2008-2012": "None",
+              "2013": "None"
+            },
+            "expert_witness": {
+              "2008-2012": "None",
+              "2013": "None"
+            }
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "2013 ACC/AHA Cardiovascular Risk Assessment Guideline",
+        "appendix": "Appendix 1. Continued",
+        "details": "The table reflects the relevant healthcare-related relationships of authors with industry and other entities provided by the panels during the document development process (2008\u20132012). These relationships were reviewed and updated in conjunction with all meetings and conference calls of the Expert Work Group during the document development process. Authors with relevant relationships during the document development process recused themselves from voting on recommendations relevant to their relationships. The ACC and AHA asked Expert Work Group members to provide updates and approve the final version of this table, which includes current relevant relationships (2013)."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Appendix 2": "This section lists expert reviewer relationships with industry and other entities for the 2013 ACC/AHA Guideline on Assessment of Cardiovascular Risk. Reviewers like Ezra A. Amsterdam and Ralph G. Brindis have no disclosed relationships with industries in terms of consultancy, ownership, or research.",
+        "Appendix 3": "This section provides abbreviations used in the guideline: ABI (ankle-brachial index), ApoB (apolipoprotein B), ASCVD (atherosclerotic cardiovascular disease), BP (blood pressure), CAC (coronary artery calcium), CHD (coronary heart disease), CIMT (carotid intima-media thickness), COR (Class of Recommendation), CQ (critical question), CVD (cardiovascular disease), hsCRP (high-sensitivity C-reactive protein), LOE (Level of Evidence), NHLBI (National Heart, Lung, and Blood Institute), RWI (relationships of authors with industry and other entities)."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "evidence_statements": [
+          {
+            "author_group": "USPSTF",
+            "factor": "hs-CRP",
+            "conclusion": "Strong evidence indicates that CRP is associated with CHD events. However, moderate, consistent evidence suggests that adding CRP to risk prediction models among initially intermediate-risk persons does not improve risk stratification."
+          },
+          {
+            "author_group": "Helfand et al., 2009",
+            "factor": "hs-CRP, CAC, CIMT, ABI",
+            "conclusion": "The current evidence does not support the routine use of any of the 9 risk factors for further risk stratification of intermediate-risk persons. hs-CRP was associated with CHD and led to some reclassification. CAC, CIMT, and ABI were associated with CHD and some reclassification, but the size and value of this reclassification are uncertain."
+          },
+          {
+            "author_group": "Emerging Risk Factors Collaboration",
+            "factor": "hs-CRP",
+            "conclusion": "CRP concentration has continuous associations with the risk for coronary heart disease, ischaemic stroke, vascular mortality, and death from several cancers."
+          },
+          {
+            "author_group": "Schnell-Inderst et al., 2010",
+            "factor": "hs-CRP",
+            "conclusion": "For MI and cardiovascular mortality, adding hs-CRP to traditional risk factors improves risk prediction, but the clinical relevance and cost-effectiveness of this improvement remain unclear."
+          },
+          {
+            "author_group": "Emerging Risk Factors Collaboration",
+            "factor": "ApoB",
+            "conclusion": "Provided evidence of rough equivalence of associations of CVD with non-HDL-C and ApoB after multivariable adjustment."
+          },
+          {
+            "author_group": "Sniderman et al., 2011",
+            "factor": "ApoB",
+            "conclusion": "ApoB was more strongly related to risk of ASCVD than other lipid measurements. The validity of adding ApoB to models for risk prediction is questioned."
+          },
+          {
+            "author_group": "Kodama et al., 2009",
+            "factor": "Cardiorespiratory fitness",
+            "conclusion": "Better cardiorespiratory fitness is associated with lower risk of all-cause mortality and CHD/CVD."
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "ApoB",
+          "Associated Conditions": [
+            "ASCVD",
+            "CVD"
+          ],
+          "Occurrences": 2,
+          "context": "ApoB was more strongly related to risk of ASCVD than other non\u2013HDL-C or LDL-C in a substitution model that also included HDL-C. The article provides evidence of rough equivalence of associations of CVD with non-HDL-C and ApoB after multivariable adjustment."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "ACC/AHA Cardiovascular Risk Assessment Guideline",
+        "sections": [
+          {
+            "number": 8,
+            "author": "Ankle Brachial Index Collaboration (11)",
+            "factor": "ABI",
+            "evidence_statement": "ABI is associated with total CHD risk and leads to significant reclassification, and the pattern of reclassification is different by sex. Improvement in C-statistic was seen in women but not in men. There was no evidence on calibration, net reclassification index, or cost-effectiveness."
+          },
+          {
+            "number": 9,
+            "author": "Empana et al., 2011 (10)",
+            "factor": "Family History of CHD",
+            "evidence_statement": "In separate models adjusted for age, gender, and study cohort, a family history of CHD predicted all categories of CHD. However, it did not improve the discrimination of the model."
+          },
+          {
+            "number": 10,
+            "author": "Moyer et al., 2013 (15)",
+            "factor": "ABI",
+            "evidence_statement": "USPSTF found no evidence that screening for and treatment of PAD in asymptomatic patients leads to clinically important benefits. Evidence was insufficient to answer the question of whether measuring ABI leads to better patient outcomes."
+          },
+          {
+            "number": 11,
+            "author": "Peters et al., 2012 (16)",
+            "factor": "CIMT, CAC",
+            "evidence_statement": "Additional research in asymptomatic individuals is needed to quantify the cost-effectiveness and impact of imaging for subclinical atherosclerosis on cardiovascular risk factor management and patient outcomes."
+          },
+          {
+            "number": 12,
+            "author": "Khashani et al., 2013 (14)",
+            "factor": "Family History",
+            "evidence_statement": "Family history is an independent contributor to risk appraisal and supports its incorporation to improve accuracy in global CVD risk estimation. No evidence on discrimination, calibration, net reclassification index, or cost-effectiveness was provided."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Appendix 4": {
+          "Evidence Statement Number": 13,
+          "Author/Group": "Den Ruijter et al, 2012",
+          "Factor": "CIMT",
+          "Evidence Statement/Conclusion": "This article is an individual-level meta-analysis of 14 population-based cohorts. The addition of common CIMT measurements to the FRS for 10-year risk prediction of first-time MI or stroke showed small improvement, deemed to have little clinical importance."
+        },
+        "Appendix 5": {
+          "Evidence Statements for CQ2": [
+            {
+              "Statement Number": 1,
+              "Evidence Statement": "No evidence assessing variations in long-term or lifetime risk of CVD outcomes among persons at low or intermediate short-term risk in racial/ethnic groups.",
+              "Strength of Evidence": "None"
+            },
+            {
+              "Statement Number": 2,
+              "Evidence Statement": "ASCVD risk factors measured in young and middle-aged adults are associated with short-term, long-term, and lifetime risk of ASCVD.",
+              "Strength of Evidence": "Low"
+            },
+            {
+              "Statement Number": 3,
+              "Evidence Statement": "Multivariable short-term ASCVD risk prediction models underestimate absolute lifetime risk of CHD.",
+              "Strength of Evidence": "Low"
+            },
+            {
+              "Statement Number": 4,
+              "Evidence Statement": "Long-term ASCVD risk equations provide more accurate prediction of long-term risk than short-term equations.",
+              "Strength of Evidence": "Low"
+            },
+            {
+              "Statement Number": 5,
+              "Evidence Statement": "Presence and severity of selected traditional ASCVD risk factors stratify adult lifetime risk of ASCVD more sharply.",
+              "Strength of Evidence": "Low"
+            },
+            {
+              "Statement Number": 6,
+              "Evidence Statement": "Long-term risk prediction models based on selected traditional ASCVD risk factors predict CHD death with good discrimination.",
+              "Strength of Evidence": "Moderate"
+            },
+            {
+              "Statement Number": 7,
+              "Evidence Statement": "Measuring and updating ASCVD risk factors every 4\u20136 years improves short- and long-term risk prediction.",
+              "Strength of Evidence": "Moderate"
+            }
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Characteristics of Previously Published Risk Scores and Current Pooled Cohort Equations (Including Data Sources, Covariates, and Outcomes)",
+        "risk_scores": [
+          {
+            "study_group": "Framingham CHD",
+            "study_and_region": "Framingham MA, USA",
+            "data_source": "EAF, EAM",
+            "publication_year": 1998,
+            "risk_factors": [
+              "Total Chol",
+              "HDL Chol",
+              "Systolic BP",
+              "Smoking"
+            ],
+            "outcomes": [
+              "Coronary Revasc",
+              "Angina Pectoris",
+              "CHD Death"
+            ]
+          },
+          {
+            "study_group": "ATP III",
+            "study_and_region": "Framingham MA, USA",
+            "data_source": "EAF, EAM",
+            "publication_year": 2001,
+            "risk_factors": [
+              "Total Chol",
+              "HDL Chol",
+              "Systolic BP",
+              "Diabetes",
+              "Smoking"
+            ],
+            "outcomes": [
+              "CHD Death"
+            ]
+          },
+          {
+            "study_group": "Framingham Global",
+            "study_and_region": "Framingham MA, USA",
+            "data_source": "EAF, EAM",
+            "publication_year": 2008,
+            "risk_factors": [
+              "Total Chol",
+              "HDL Chol",
+              "Systolic BP",
+              "HbA1c*",
+              "Smoking"
+            ],
+            "outcomes": [
+              "Coronary Revasc",
+              "CHD Death",
+              "Stroke"
+            ]
+          },
+          {
+            "study_group": "PROCAM",
+            "study_and_region": "Munster, Germany",
+            "data_source": "EM",
+            "publication_year": 2002,
+            "risk_factors": [
+              "Total Chol",
+              "HDL Chol",
+              "Systolic BP"
+            ],
+            "outcomes": [
+              "CHD Death",
+              "Myocardial Infarct"
+            ]
+          },
+          {
+            "study_group": "QRISK",
+            "study_and_region": "QRSEARCH, United Kingdom",
+            "data_source": "EF, EM",
+            "publication_year": 2007,
+            "risk_factors": [
+              "Total Chol",
+              "Systolic BP",
+              "Diabetes",
+              "Family Hx CVD\u2021",
+              "Body Mass Index",
+              "Social Deprivation\u2020"
+            ],
+            "outcomes": [
+              "Coronary Revasc",
+              "Angina Pectoris",
+              "Unstable Angina",
+              "Myocardial Infarct",
+              "Stroke",
+              "Transient Ischemic Attack"
+            ]
+          },
+          {
+            "study_group": "Reynolds Men",
+            "study_and_region": "Phys Health Study USA",
+            "data_source": "EAF",
+            "publication_year": 2008,
+            "risk_factors": [
+              "Total Chol",
+              "HDL Chol",
+              "Systolic BP"
+            ],
+            "outcomes": [
+              "CHD Death",
+              "Stroke"
+            ]
+          },
+          {
+            "study_group": "Reynolds Women",
+            "study_and_region": "Women\u2019s Health Study USA",
+            "data_source": "EAM",
+            "publication_year": 2007,
+            "risk_factors": [
+              "Total Chol",
+              "HDL Chol",
+              "Systolic BP",
+              "Family Hx CVD\u2021",
+              "Body Mass Index"
+            ],
+            "outcomes": [
+              "CHD Death",
+              "Stroke"
+            ]
+          },
+          {
+            "study_group": "EURO-SCORE",
+            "study_and_region": "12 cohorts, Europe",
+            "data_source": "EF, EM",
+            "publication_year": 2003,
+            "risk_factors": [
+              "Total Chol",
+              "HDL Chol",
+              "Systolic BP",
+              "Diabetes",
+              "Family Hx CVD\u2021"
+            ],
+            "outcomes": [
+              "CHD Death",
+              "Stroke"
+            ]
+          },
+          {
+            "study_group": "Pooled cohort (current)",
+            "study_and_region": "CARDIA, Framingham, ARIC, CHS, USA",
+            "data_source": "EAF, EAM, AAM",
+            "publication_year": null,
+            "risk_factors": [
+              "Total Chol",
+              "HDL Chol",
+              "Systolic BP",
+              "Diabetes",
+              "Smoking"
+            ],
+            "outcomes": [
+              "Coronary Revasc",
+              "Unstable Angina",
+              "CHD Death",
+              "Stroke"
+            ]
+          }
+        ],
+        "notes": [
+          "* Only among those with diabetes.",
+          "\u2020 Measure of social deprivation.",
+          "\u2021 Definitions of a positive family history vary."
+        ],
+        "outcome_types": [
+          "Hard CVD, Including Cardiac Failure",
+          "Hard ASCVD",
+          "Hard CHD",
+          "Total CHD",
+          "Total CHD, Including Revascularization"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "description": "The guideline discusses the development and implementation of the ASCVD Pooled Cohort Risk Equations. These equations were derived from existing cardiovascular risk prediction equations and new data from several cohort studies. The goal is to estimate the 10-year risk of a first hard ASCVD event. The document includes details about the data and assumptions involved in developing these equations. Additional risk markers were evaluated for their potential inclusion but were not found to significantly improve risk prediction.",
+        "risk_assessment": "The equations consider age, treated or untreated systolic BP, total cholesterol, HDL cholesterol levels, smoking status, and history of diabetes. Calibration of the models varied by race and sex.",
+        "outcomes": "10-year risk of a first hard ASCVD event."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Name": "2013 ACC/AHA Cardiovascular Risk Assessment Guideline",
+        "Purpose": "Estimation of 10-Year Risk of Hard ASCVD",
+        "Target Population": "Different race and sex group",
+        "Parameters Included": [
+          "Age",
+          "Total Cholesterol",
+          "HDL-C",
+          "Treated and Untreated Systolic Blood Pressure",
+          "Current Smoker",
+          "Diabetes"
+        ],
+        "Equations": [
+          {
+            "Group": "Women Example",
+            "Variables": {
+              "Ln Age": {
+                "Individual Example": 4.01,
+                "Coefficient": -119.41
+              },
+              "Ln Total Cholesterol (mg/dL)": {
+                "Individual Example": 5.36,
+                "Coefficient": 72.59
+              },
+              "Diabetes (1=Yes, 0=No)": {
+                "Individual Example": 0,
+                "Coefficient": 0.661
+              }
+            },
+            "Estimated Risk": "2.1%"
+          },
+          {
+            "Group": "Men Example",
+            "Variables": {
+              "Ln Age": {
+                "Individual Example": 4.01,
+                "Coefficient": 49.47
+              },
+              "Ln Total Cholesterol (mg/dL)": {
+                "Individual Example": 5.36,
+                "Coefficient": 63.55
+              },
+              "Diabetes (1=Yes, 0=No)": {
+                "Individual Example": 0,
+                "Coefficient": 0.658
+              }
+            },
+            "Estimated Risk": "5.3%"
+          }
+        ],
+        "Key Notes": "Defined for first occurrence of nonfatal myocardial infarction or CHD death, or fatal or nonfatal stroke."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Estimating an Individual\u2019s 10-Year Risk of Incident Hard ASCVD",
+        "description": "This guideline outlines the calculation of the 10-year risk estimate for hard atherosclerotic cardiovascular disease (ASCVD) based on individual profiles. The profile example is tailored for 55-year-old individuals considering factors such as age, total cholesterol, HDL-C, and systolic blood pressure. This individual is not a current smoker and does not have diabetes.",
+        "calculation_method": "The 10-year risk estimate is determined using the natural logarithm of age, total cholesterol, HDL-C, and systolic BP. Coefficient terms for age, lipids, and BP are applied, with values derived from the equation 'Coefficient \u00d7 Value'. The estimated risk is calculated as 1 minus the exponent of the race and sex-specific 'Coefficient \u00d7 Value' sum.",
+        "example": "Using white men as an example, the calculated probability of a first hard ASCVD event within 10 years is 5.3%."
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "ApoB",
+      "Associated Conditions": [
+        "ASCVD",
+        "CVD"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "ApoB was more strongly related to risk of ASCVD than other non\u2013HDL-C or LDL-C in a substitution model that also included HDL-C. The article provides evidence of rough equivalence of associations of CVD with non-HDL-C and ApoB after multivariable adjustment."
+      ]
+    }
+  ]
+}

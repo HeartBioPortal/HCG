@@ -1,0 +1,31 @@
+{
+  "content": {
+    "overview": "The guideline discusses reducing unnecessary testing and emphasizes using tests where evidence is lacking to avoid unnecessary costs. The choice of testing should consider clinical judgment and cost, with a focus on noninvasive testing methods for typical CAD evaluations. The document outlines various testing procedures including ECG, CCTA, and ICA, detailing their use, benefits, and associated risks.",
+    "testing_types": [
+      {
+        "type": "Anatomic Testing",
+        "methods": [
+          {
+            "name": "Coronary Computed Tomography Angiography (CCTA)",
+            "description": "Used to diagnose the extent and severity of obstructive and nonobstructive CAD. It includes assessment of plaques and lesion-specific ischemia."
+          }
+        ]
+      },
+      {
+        "type": "Invasive Coronary Angiography (ICA)",
+        "description": "Detects and assesses luminal obstructions in coronary arteries, using physiologic indices like IFR and FFR.",
+        "radiation_dose": "4 to 10 mSv"
+      },
+      {
+        "type": "Diagnostic Testing",
+        "methods": [
+          {
+            "name": "Exercise ECG",
+            "description": "Graded exercise test until physical fatigue or related symptoms occur. Candidates lacking major comorbidities may participate."
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

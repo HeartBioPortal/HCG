@@ -1,0 +1,45 @@
+{
+  "content": {
+    "Title": "Implantable Cardiovascular Defibrillators (ICDs) and Cardiac Resynchronization Therapy (CRT)",
+    "Section": "7.4.1 Implantable Cardioventer Defibrillators (ICDs) and Cardiac Resynchronization Therapy (CRT)",
+    "Antiarrythmics": "Investigates interactions of antiarrhythmic drug therapy with implantable defibrillators in patients resuscitated from near-fatal ventricular arrhythmias.",
+    "Study Highlights": [
+      {
+        "Study": "1",
+        "Patients": "Patients resuscitated from cardiac arrest.",
+        "Intervention": "Implantable defibrillators",
+        "Comparison": "Antiarrhythmic drugs",
+        "Outcome": "Effects on therapy observed in patients."
+      },
+      {
+        "Study": "2",
+        "Design": "Randomized comparison",
+        "Population": "Patients resuscitated from cardiac arrest",
+        "Intervention": "Implantable defibrillators vs antiarrhythmic therapy",
+        "Drugs": "Amiodarone",
+        "Outcome": "Evaluation of antiarrhythmic effects with respect to survival."
+      },
+      {
+        "Study": "3",
+        "Design": "Randomized",
+        "Outcome": "Impact of antiarrhythmic therapy on patients with myocardial infarction and reduced ejection fraction."
+      },
+      {
+        "Study": "4",
+        "Population": "Patients with high risk for ventricular tachyarrhythmia",
+        "Intervention": "Implantable defibrillator",
+        "Outcome": "Impact on survival."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "KCNE1",
+      "Associated Conditions": [
+        "Atrial Fibrillation"
+      ],
+      "Occurrences": 1,
+      "context": "Genetic risk of atrial fibrillation in patients with dilated cardiomyopathy."
+    }
+  ]
+}

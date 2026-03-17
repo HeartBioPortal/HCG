@@ -1,0 +1,30 @@
+{
+  "content": {
+    "Clinical Guideline": "This guideline focuses on the management of embolic events and valve thrombosis for patients with prosthetic heart valves.",
+    "Patient Management": {
+      "Thromboembolic Event": {
+        "Aortic Mechanical Valve": "Increase INR goal to 3.0 or add aspirin (75-100 mg).",
+        "Mitral Mechanical Valve": "Increase INR goal to 4.0 or add aspirin (75-100 mg).",
+        "Bioprosthetic AVR or MVR": "Switch to VKA anticoagulation instead of antiplatelet therapy."
+      },
+      "Suspected Mechanical Valve Thrombosis": {
+        "Imaging": "Urgent TTE, TEE, fluoroscopy, and/or CT imaging.",
+        "Left-sided Mechanical Obstruction": {
+          "Treatment": "Urgent slow-infusion fibrinolytic therapy or emergency surgery."
+        }
+      },
+      "Suspected Bioprosthetic Valve Thrombosis": {
+        "Imaging": "3D TEE or 4D CT imaging.",
+        "Initial Treatment": "VKA."
+      }
+    },
+    "Supportive Text": [
+      "No comparative-effectiveness trials exist comparing high-intensity VKA therapy versus standard VKA therapy.",
+      "Management with VKA or aspirin in mechanical valve recipients is crucial in maintaining INR within target range.",
+      "Patient-specific decision making is necessary for aspirin or VKA intensification, considering factors like bleeding risk.",
+      "For bioprosthetic valves with stroke or embolic events, leaflet thrombosis should be assessed with imaging.",
+      "Full neurological evaluation is advised when leaflet thrombosis is uncertain."
+    ]
+  },
+  "genes": []
+}

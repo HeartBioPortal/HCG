@@ -1,0 +1,39 @@
+{
+  "content": {
+    "Title": "ACC/AHA Guideline for the Management of Valvular Heart Disease",
+    "Date": "2020",
+    "Subject": "Secondary Mitral Regurgitation (MR) Management",
+    "Guideline Overview": {
+      "Initial Step": "Manage with guideline-directed management and therapy (GDMT) supervised by a heart failure (HF) specialist.",
+      "Severe MR Stage D": {
+        "Criteria": "RVol \u226560 mL, RF \u226550%, ERO \u22650.40 cm\u00b2",
+        "LVEF \u226550%": {
+          "Action": "MV surgery (Class 2b recommendation)",
+          "Additional Info": "For severe persistent symptoms on optimal GDMT and atrial fibrillation (AF) treatment."
+        },
+        "LVEF <50%": {
+          "Mitral Anatomy Favorable": {
+            "Criteria": "LVEF 20%-50%, LVESD \u226470 mm, PASP \u226470 mm Hg",
+            "Action": "Transcatheter edge-to-edge MV repair (Class 2a recommendation)"
+          },
+          "Mitral Anatomy Not Favorable": {
+            "Action": "MV surgery (Class 2b recommendation)",
+            "Additional Info": "For persistent symptoms on optimal GDMT."
+          },
+          "Undergoing CABG": "MV surgery (Class 2a recommendation)"
+        }
+      }
+    },
+    "Additional Notes": [
+      "Chordial-sparing MV replacement may be reasonable.",
+      "The effectiveness of surgical correction for chronic secondary MR to prolong life is uncertain."
+    ],
+    "Risks and Benefits": {
+      "Consideration": "Weigh in patients with LV systolic dysfunction."
+    },
+    "Developments": {
+      "Conditions": "MR may develop with progressive LA dilation."
+    }
+  },
+  "genes": []
+}

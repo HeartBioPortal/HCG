@@ -1,0 +1,33 @@
+{
+  "content": {
+    "Recommendation": "1. In patients undergoing elevated-risk NCS, a structured assessment of functional capacity (such as the Duke Activity Status Index) is reasonable to stratify the risk of perioperative adverse cardiovascular events.",
+    "Synopsis": "Functional capacity is an important predictor of risk of adverse cardiovascular events after noncardiac surgery (NCS). It is measured in METs, with 4 METs as the threshold for poor functional capacity. Assessment can be done by physical tests or instruments like DASI. Poor capacity indicates increased risk of cardiac events post surgery.",
+    "Studies": [
+      {
+        "Study": "600 patients undergoing NCS",
+        "Finding": "Poor functional capacity associated with 2-fold increase in risk of in-hospital cardiovascular events.",
+        "Comparison": "9.6% versus 5.2% risk."
+      },
+      {
+        "Study": "BASEL-PMI",
+        "Finding": "Poor functional capacity associated with higher risk of death, MI, or life-threatening arrhythmias at 30 days."
+      },
+      {
+        "Study": "NSQIP",
+        "Finding": "Functional capacity data improves prediction of MI/MICA at 30 days."
+      }
+    ],
+    "Assessment Tools": [
+      {
+        "Tool": "DASI",
+        "Purpose": "To assess functional capacity",
+        "Context": "Predicting death or MI after NCS"
+      },
+      {
+        "Comparison": "CPET, ASA classification",
+        "Findings": "DASI score <34 was associated with increased 30-day death or MI."
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,20 @@
+{
+  "content": {
+    "Synopsis": "Sympathetic activation is proarrhythmic and parasympathetic activation is generally antiarrhythmic in VT/VF. Modulating the autonomic nervous system for the purpose of preventing arrhythmias is an emerging therapeutic modality. Autonomic modulation for the prevention of VA can be done either through interruption of sympathetic outflow to the heart, pharmacological beta blockade, or through stimulation of the parasympathetic pathway (e.g., vagal nerve stimulators, spinal cord stimulators). Although autonomic modulation has proved efficacy for certain conditions such as long QT syndrome and catecholaminergic polymorphic ventricular tachycardia, evidence is limited for its applicability to the broader group of VA, but studies are ongoing. There are limited data on the role of vagal nerve stimulators and spinal cord stimulators for the prevention of VA/SCD in humans, and thus no formal recommendation could be supported.",
+    "Recommendation-Specific Supportive Text": [
+      "Many patients with non-life-threatening VA require only reassurance, but others have symptoms that warrant therapy. A small RCT of patients with symptomatic VA demonstrated a significant reduction in the arrhythmic burden with atenolol.",
+      "VT/VF storm causes significant morbidity and is associated with increased mortality. Cardiac sympathetic denervation has been shown in several small, observational studies and 1 RCT to reduce the arrhythmia burden. This has been shown for left or bilateral cardiac sympathetic denervation, and it has been suggested that bilateral cardiac sympathetic denervation may be superior. Although data are limited, the significant morbidity and limited options in these patients make cardiac sympathetic denervation a reasonable option in selected patients."
+    ],
+    "Recommendations for Management of Cardiac Arrest": [
+      "CPR should be performed in patients in cardiac arrest according to published basic and advanced cardiovascular life support algorithms.",
+      "In patients with hemodynamically unstable VA that persist or recur after a maximal energy shock, intravenous amiodarone should be administered to attempt to achieve a stable rhythm after further defibrillation.",
+      "Patients presenting with VA with hemodynamic instability should undergo direct current cardioversion.",
+      "In patients with polymorphic VT or VF with ST-elevation MI, angiography with emergency revascularization is recommended.",
+      "Patients with a wide-QRS tachycardia should be presumed to have VT if the diagnosis is unclear.",
+      "In patients with hemodynamically stable VT, administration of intravenous procainamide can be useful to attempt to terminate VT.",
+      "In patients with a witnessed cardiac arrest due to VF or polymorphic VT that is unresponsive to CPR, defibrillation, and vasopressor therapy, intravenous lidocaine can be beneficial.",
+      "In patients with polymorphic VT due to myocardial ischemia, intravenous beta blockers can be useful."
+    ]
+  },
+  "genes": []
+}

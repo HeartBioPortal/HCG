@@ -1,0 +1,31 @@
+{
+  "content": {
+    "ABPM and HBPM Definitions": "ABPM (Ambulatory Blood Pressure Monitoring) and HBPM (Home Blood Pressure Monitoring) use different BP thresholds than office-based approaches. ABPM offers measurements throughout the day and night, while HBPM provides periodic readings.",
+    "BP Thresholds": "Clinic BP of 140/90 mm Hg corresponds to home BP of 135/85 mm Hg and ABPM of 130/80 mm Hg over 24 hours.",
+    "Masked and White Coat Hypertension": "White coat hypertension is identified when BP readings are higher in a medical setting but normal at home. Masked hypertension occurs when normal office readings mask higher readings elsewhere.",
+    "Methodological Issues": "Studies vary in BP monitoring methods, including daytime and nighttime readings and the use of ABPM and HBPM.",
+    "Recommendations": [
+      {
+        "COR": "IIa",
+        "LOE": "B-NR",
+        "Recommendation": "In adults with untreated SBP greater than 130 mm Hg but less than 160 mm Hg or DBP greater than 80 mm Hg but less than 100 mm Hg, screening for white coat hypertension is reasonable."
+      },
+      {
+        "COR": "IIa",
+        "LOE": "C-LD",
+        "Recommendation": "Adults with white coat hypertension should undergo periodic monitoring with ABPM or HBPM."
+      },
+      {
+        "COR": "IIa",
+        "LOE": "C-LD",
+        "Recommendation": "In adults treated for hypertension with off-target office BP readings, ABPM confirmation for white coat effect is recommended."
+      },
+      {
+        "COR": "IIa",
+        "LOE": "B-NR",
+        "Recommendation": "In untreated adults with office BPs between 120/129 mm Hg SBP or between 75/79 mm Hg DBP, HBPM screening for masked hypertension is reasonable."
+      }
+    ]
+  },
+  "genes": []
+}

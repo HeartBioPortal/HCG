@@ -1,0 +1,41 @@
+{
+  "content": {
+    "Recommendations for Cardio-Oncology and Anticoagulation Considerations": {
+      "1": {
+        "COR": "1",
+        "LOE": "C-LD",
+        "Recommendation": "In patients with cancer and AF, multidisciplinary communication including cardiology, oncology and other clinicians, and SDM with the patient is recommended to optimize cancer and AF treatment and to reduce the risk of drug-drug interactions, QTc prolongation, proarrhythmia, bleeding, and thromboembolism."
+      },
+      "2": {
+        "COR": "2a",
+        "LOE": "C-LD",
+        "Recommendation": "In patients who are to be initiated on cancer therapies associated with an increased risk of developing AF, increased vigilance for incident AF and treatment of contributing factors is reasonable to decrease morbidity."
+      },
+      "3": {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "Recommendation": "In most patients with AF and cancer (remote history or receiving active cancer treatment), DOACs are reasonable to choose over VKAs for stroke risk reduction."
+      }
+    },
+    "Synopsis": "Patients with cancer have an increased risk of AF. The increased risk of AF is likely related to factors such as obesity, systemic inflammation, comorbidities, and cancer therapies that include certain medical therapeutics. New-onset AF in patients with cancer is associated with higher risks of HF, thromboembolism, bleeding, and mortality. Use of BTK inhibitors like ibrutinib, which is associated with a higher risk of AF, is highlighted."
+  },
+  "genes": [
+    {
+      "Gene": "CYP3A inhibitors",
+      "Associated Conditions": [
+        "Drug-drug interactions",
+        "QTc prolongation"
+      ],
+      "Occurrences": 1,
+      "context": "For example, in the case of BTK inhibitors, CYP3A inhibitors such as amiodarone, dronedarone, verapamil, and diltiazem are usually avoided, due to the associated risk of elevation in ibrutinib levels."
+    },
+    {
+      "Gene": "P-glycoprotein substrate",
+      "Associated Conditions": [
+        "QTc prolongation"
+      ],
+      "Occurrences": 1,
+      "context": "Further, ibrutinib can raise levels of digoxin, a P-glycoprotein substrate."
+    }
+  ]
+}

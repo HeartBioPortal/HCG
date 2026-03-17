@@ -1,0 +1,23 @@
+{
+  "content": {
+    "Clinical Question": "Among adults, what is the effect of physical activity on BP and lipids when compared with no treatment or with other types of interventions?",
+    "Key Points": [
+      "Reducing sodium intake by about 1,000 mg/d is recommended to reduce hypertension and cardiovascular events.",
+      "Recommendation differs slightly from current dietary guidelines, which suggest a sodium limit of 2,300 mg/d.",
+      "Significant changes in sodium intake may require behavior changes and food manufacturing adjustments.",
+      "Physical activity is associated with lower rates of chronic diseases, including cardiovascular disease (CVD).",
+      "A meta-analysis estimated that increasing physical activity could eliminate 6% of coronary heart disease, and increase global life expectancy by 0.68 years.",
+      "Physical activity benefits lipid profiles and blood pressure (BP).",
+      "27% of the reduction in observed CVD rates is due to reduced BP from activity, while 19% and 16% are due to lipid profile improvements."
+    ],
+    "Recommendations": [
+      "Combine the DASH dietary pattern with lower sodium intake.",
+      "Strong advice for adults with prehypertension or hypertension to lower sodium for BP management.",
+      "Review and apply findings from systematic reviews and meta-analyses on effects of physical activity."
+    ],
+    "Study Data": {
+      "26 systematic reviews and meta-analyses identified that met criteria for inclusion or were rated as good or fair quality (2001 onwards).": "11 studies with data on BP outcomes, 14 on lipid outcomes."
+    }
+  },
+  "genes": []
+}

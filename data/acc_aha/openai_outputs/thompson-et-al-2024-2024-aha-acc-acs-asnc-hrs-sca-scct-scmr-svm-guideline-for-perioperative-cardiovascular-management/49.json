@@ -1,0 +1,19 @@
+{
+  "content": {
+    "Synopsis": "A single large, well-designed RCT showed no benefit of initiation of clonidine to prevent perioperative MACE. New administration is not recommended; however, perioperative continuation of chronic therapy has not been addressed in RCTs. Abrupt discontinuation can lead to norepinephrine surge and resultant rebound hypertension.",
+    "Recommendation-Specific Supportive Text": "The POISE-2 trial was a blinded RCT of 10,010 patients undergoing major NCS, randomized to low-dose clonidine or placebo to evaluate the impact on 30-day risk of death or nonfatal MI. Results showed no difference in primary outcome but a significant increase in nonfatal cardiac arrest and clinically significant bradycardia or hypotension.",
+    "7.5 Antiplatelet Therapy": "For patients with CAD undergoing elective NCS, management of perioperative antiplatelet therapy and timing of surgery should be determined by a multidisciplinary team.",
+    "Timing of NCS After PCI": {
+      "2": "Patients with recent coronary artery balloon angioplasty should delay NCS for 14 days.",
+      "3": "Patients with DES-PCI for ACS should delay NCS for \u226512 months.",
+      "4": "Patients with DES-PCI placed for CCD should delay surgery for 26 months.",
+      "5": "Patients with DES-PCI requiring time-sensitive NCS should delay NCS \u22653 months.",
+      "6": "Patients with a recent BMS or DES-PCI should avoid NCS due to a high risk of complications."
+    },
+    "Perioperative Antiplatelet Management Post PCI": {
+      "7": "Patients with prior PCI undergoing NCS should continue aspirin.",
+      "8": "Patients with CAD who require time-sensitive NCS should continue DAPT unless the risk of bleeding outweighs the benefit."
+    }
+  },
+  "genes": []
+}

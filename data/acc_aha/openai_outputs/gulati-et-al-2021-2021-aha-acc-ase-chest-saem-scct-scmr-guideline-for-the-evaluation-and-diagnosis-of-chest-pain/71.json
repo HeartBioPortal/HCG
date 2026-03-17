@@ -1,0 +1,42 @@
+{
+  "content": {
+    "clinical_guidelines": [
+      {
+        "title": "2021 Chest Pain Guideline",
+        "focus": "Systematic evaluation of diagnostic strategies for acute chest pain using various methodologies including CT angiography, biomarkers, and scoring systems.",
+        "recommendation": "Different diagnostic modalities and strategies should be evaluated for cost-effectiveness and patient impact in emergency settings.",
+        "methods_reviewed": [
+          "CT coronary angiography",
+          "Ultrasound",
+          "High-sensitivity troponin assays",
+          "Emergency observation units",
+          "Risk assessment models"
+        ],
+        "randomized_controlled_trials": [
+          {
+            "reference": "Amsterdam et al., 2014",
+            "description": "Highlights a clinical guideline focusing on management of patients with non-ST-segment elevation acute coronary syndromes."
+          },
+          {
+            "reference": "Miller et al., 2013",
+            "description": "Evaluated long-term outcomes associated with different coronary CT angiography strategies."
+          },
+          {
+            "reference": "Douglas et al., 2015",
+            "description": "ACC/AHA appropriate use criteria for cardiovascular imaging."
+          }
+        ]
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "MPO",
+      "Associated Conditions": [
+        "acute coronary syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "The guideline mentions studies evaluating the diagnostic utility of various biomarkers, including MPO, in acute coronary syndrome."
+    }
+  ]
+}

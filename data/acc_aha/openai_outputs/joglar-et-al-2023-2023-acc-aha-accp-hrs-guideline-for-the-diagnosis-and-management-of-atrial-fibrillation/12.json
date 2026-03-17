@@ -1,0 +1,20 @@
+{
+  "content": {
+    "Title": "2023 Guideline for the Diagnosis and Management of Atrial Fibrillation",
+    "Section": "Risk Factors and Associated Heart Disease",
+    "Details": "The guideline presents evidence for factors contributing to atrial fibrillation (AF) from single studies, meta-analyses, and Mendelian randomization studies. Risk factors include demographic, anthropometric, cardiovascular risk factors, CVD, noncardiac conditions, biomarkers, and genetic markers.",
+    "Table 3": {
+      "Advancing age": "Age per 5 years: 1 risk (HR, 1.43-1.66)",
+      "Smoking": {
+        "Current smoking": "1 risk (9.8%)",
+        "Smoking initiation": "1 risk (HR, 1.17)"
+      },
+      "Physical activity": {
+        "Sedentary lifestyle": "1 risk (OR, 2.47)",
+        "Guideline-recommended physical activity": "1 risk (HR, 0.94)",
+        "Elite athletes vs nonathletes": "1 risk (OR, 2.46)"
+      }
+    }
+  },
+  "genes": []
+}

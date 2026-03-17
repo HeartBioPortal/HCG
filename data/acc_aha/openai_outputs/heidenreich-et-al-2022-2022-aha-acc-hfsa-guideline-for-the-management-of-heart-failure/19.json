@@ -1,0 +1,47 @@
+{
+  "content": {
+    "Recommendations": [
+      {
+        "COR": 1,
+        "LOE": "B-NR",
+        "Recommendation": "For patients presenting with HF, the specific cause of HF should be explored using additional laboratory testing for appropriate management."
+      },
+      {
+        "COR": 1,
+        "LOE": "C-EO",
+        "Recommendation": "For patients who are diagnosed with HF, laboratory evaluation should include complete blood count, urinalysis, serum electrolytes, blood urea nitrogen, serum creatinine, glucose, lipid profile, liver function tests, iron studies, and thyroid-stimulating hormone to optimize management."
+      },
+      {
+        "COR": 1,
+        "LOE": "C-EO",
+        "Recommendation": "For all patients presenting with HF, a 12-lead ECG should be performed at the initial encounter to optimize management."
+      }
+    ],
+    "Synopsis": "Laboratory evaluation with complete blood count, urinalysis, serum electrolytes, blood urea nitrogen, serum creatinine, glucose, fasting lipid profile, liver function tests, iron studies, and thyroid-stimulating hormone level and electrocardiography is part of the standard diagnostic evaluation of a patient with HF.",
+    "Potential Nonischemic Causes of HF": [
+      "Chemotherapy and other cardiotoxic medications",
+      "Rheumatologic or autoimmune",
+      "Endocrine or metabolic (thyroid, acromegaly, pheochromocytoma, diabetes, obesity)",
+      "Familial cardiomyopathy or inherited and genetic heart disease",
+      "Heart rhythm-related (e.g., tachycardia-mediated, PVCs, RV pacing)",
+      "Hypertension",
+      "Infiltrative cardiac disease (e.g., amyloid, sarcoid, hemochromatosis)",
+      "Myocarditis (infectious, toxin or medication, immunological, hypersensitivity)",
+      "Peripartum cardiomyopathy",
+      "Stress cardiomyopathy (Takotsubo)",
+      "Substance abuse (e.g., alcohol, cocaine, methamphetamine)"
+    ],
+    "Recommendation-Specific Supportive Text": "Identifying the specific cause of HF is important, because conditions that cause HF may require disease-specific therapies. Depending on the clinical suspicion, additional diagnostic studies are usually required to diagnose specific causes such as ischemic cardiomyopathy, cardiac amyloidosis, sarcoidosis, hemochromatosis, infectious mechanisms (e.g., HIV, COVID-19, Chagas), hypothyroidism, hyperthyroidism, acromegaly, connective tissue disorders, tachycardia-induced cardiomyopathy, Takotsubo, peripartum cardiomyopathy, cardiotoxicity with cancer therapies."
+  },
+  "genes": [
+    {
+      "Gene": "THRB",
+      "Associated Conditions": [
+        "Hypothyroidism",
+        "Hyperthyroidism"
+      ],
+      "Occurrences": 1,
+      "context": "Thyroid-stimulating hormone level and electrocardiography is part of the standard diagnostic evaluation of a patient with HF."
+    }
+  ]
+}

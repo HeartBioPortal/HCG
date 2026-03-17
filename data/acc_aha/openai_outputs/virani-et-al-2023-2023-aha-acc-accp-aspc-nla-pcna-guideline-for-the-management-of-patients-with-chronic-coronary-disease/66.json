@@ -1,0 +1,15 @@
+{
+  "content": {
+    "Summary": "This guideline discusses the management of SCAD (Spontaneous Coronary Artery Dissection) and nonobstructive CAD (Coronary Artery Disease). Beta blockers are associated with a 64% reduction in recurrent SCAD. Statin therapy is not indicated for SCAD unless there are other cardiovascular risks or inherited disorders such as FH (Familial Hypercholesterolemia). For nonobstructive CAD, strategies guided by invasive coronary physiologic testing can improve angina severity and quality of life. Nonobstructive CAD involves myocardial ischemia without obstructive CAD and may be caused by coronary microvascular dysfunction or coronary vasospasm."
+  },
+  "genes": [
+    {
+      "Gene": "FH",
+      "Associated Conditions": [
+        "Familial Hypercholesterolemia"
+      ],
+      "Occurrences": 1,
+      "context": "Statin therapy should be continued for patients who qualify for statin therapy based on global cardiovascular risk or inherited disorders like FH."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "content": {
+    "NSAIDs": "Non-steroidal anti-inflammatory drugs (NSAIDs) have an extensive adverse side effect profile, particularly renal and gastrointestinal. Increased cardiovascular risks have been associated with NSAID use, specifically in patients without ACS.",
+    "Beta-Adrenergic Blockers": {
+      "Indications": [
+        "Initiate within first 24 hours in patients who do not have contraindications (e.g., signs of HF, low-output state, cardiogenic shock).",
+        "In patients with concomitant NSTE-ACS, stabilized HF, and reduced systolic function, beta-blocker therapy should be continued."
+      ],
+      "Contraindications": [
+        "Active asthma or reactive airway disease.",
+        "Not recommended in patients with contraindications within the first 24 hours of NSTE-ACS."
+      ],
+      "Beta Blocker Types": "Sustained-release metoprolol succinate, carvedilol, or bisoprolol."
+    },
+    "Calcium Channel Blockers": {
+      "Indications": [
+        "Patients with NSTE-ACS, continuing or recurring ischemia.",
+        "Oral non dihydropyridine calcium antagonists are recommended for NSTE-ACS without beta blockers."
+      ],
+      "Examples": "Verapamil or diltiazem."
+    }
+  },
+  "genes": []
+}

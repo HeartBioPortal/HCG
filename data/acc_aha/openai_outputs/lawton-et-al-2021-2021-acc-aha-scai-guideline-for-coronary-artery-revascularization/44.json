@@ -1,0 +1,25 @@
+{
+  "content": {
+    "Synopsis": "Fibrotic or heavily calcified lesions can hinder stent expansion. Calcium deposits thicker than 500 \u03bcm or involving an arc of the vessel >270\u00b0 predict the need for lesion modification. Lesions can be modified by rotational atherectomy, orbital atherectomy, cutting balloon atherotomy, intracoronary lithotripsy, or excimer laser angioplasty. Randomized trials show that routine use of athereolytic devices does not improve clinical outcomes. However, these devices may enhance procedural success in specific circumstances.",
+    "Recommendation-Specific Supportive Text": [
+      {
+        "Recommendation": "Rotational atherectomy uses a diamond-tipped burr and is associated with restenosis and lumen loss. Trials have shown enhanced stent delivery and expansion in calcified vessels compared to balloons or cutting/sculpting balloons."
+      },
+      {
+        "Recommendation": "Orbital atherectomy is similar to rotational atherectomy and is indicated for inelastic lesions that cannot be dilated with balloons. Excimer laser coronary angioplasty uses a photo-acoustic mechanism helpful for calcified lesions or nonexpandable stents."
+      }
+    ],
+    "Treatment of Saphenous Vein Graft (SVG) Disease": {
+      "Recommendations": [
+        "In patients with previous CABG undergoing PCI of a SVG, using an embolic protection device is recommended to decrease distal embolization risk.",
+        "In patients with previous CABG, if PCI of a diseased native coronary artery is feasible, it is recommended to choose PCI of the native artery over SVG.",
+        "In patients with chronic occlusion of a SVG, percutaneous revascularization is not recommended."
+      ],
+      "Recommendation-Specific Supportive Text": [
+        "Embolic protection devices are used to prevent distal embolization. The SAFER trial showed that these devices can decrease SVG PCI complications."
+      ]
+    },
+    "Outcomes": "SVG PCI is associated with high MACE, procedural MI risk, no-reflow, stent thrombosis, and ischemia-driven revascularization in the long-term."
+  },
+  "genes": []
+}

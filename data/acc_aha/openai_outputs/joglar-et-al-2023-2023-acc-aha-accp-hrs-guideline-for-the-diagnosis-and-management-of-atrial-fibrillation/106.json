@@ -1,0 +1,85 @@
+{
+  "content": {
+    "title": "Management of Patients With HF and AF",
+    "overview": "This flowchart provides a guideline for managing patients with heart failure (HF) and atrial fibrillation (AF). It covers treatment options and considerations for both pharmacological and non-pharmacological interventions.",
+    "sections": [
+      {
+        "heading": "Heart Failure + AF",
+        "details": [
+          "Guideline-directed medical therapy (GDMT) for HF.",
+          "Thromboembolism prophylaxis.",
+          "Risk factor modification."
+        ]
+      },
+      {
+        "heading": "Cardioversion",
+        "details": [
+          "Electrical cardioversion (See section 9.2.2).",
+          "Pharmacological cardioversion (See section 9.2.3)."
+        ]
+      },
+      {
+        "heading": "Rate Control",
+        "subsections": [
+          {
+            "condition": "LVEF \u226440%",
+            "treatments": [
+              "Beta blockers (1).",
+              "Digoxin (2a).",
+              "IV Amiodarone for acute rate control (2a)."
+            ],
+            "warnings": [
+              "NDCC (Diltiazem, Verapamil) (3: Harm)."
+            ]
+          },
+          {
+            "condition": "LVEF >40%",
+            "treatments": [
+              "Beta blockers or NDCC (1).",
+              "Digoxin (2a).",
+              "IV Amiodarone for acute rate control (2a)."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Catheter Ablation",
+        "considerations": [
+          {
+            "likely_benefit": [
+              "AF-mediated CMP suspected.",
+              "Earlier stage of HF.",
+              "No significant ventricular scar on CMR.",
+              "No or mild atrial fibrosis.",
+              "Paroxysmal and early persistent AF.",
+              "Younger patients without significant comorbidities."
+            ],
+            "less_likely_benefit": [
+              "Advanced HF.",
+              "Significant ventricular scar on CMR.",
+              "Severe atrial myopathy.",
+              "Long-standing persistent AF.",
+              "Prior failed ablations.",
+              "Advanced age or multiple comorbidities."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Post-Ablation Monitoring",
+        "details": [
+          "Long-term surveillance for recurrent AF in AF-induced CMP and recovered LVEF (2a).",
+          "Drugs like Dronedarone (NYHA Class III/IV HF or decompensated HF in past 4 wk are marked harmful (2: Harm))."
+        ]
+      },
+      {
+        "heading": "Special Situations",
+        "details": [
+          "Left bundle or His bundle pacing as alternative to biventricular pacing (2b).",
+          "Uncontrolled rate with biventricular pacemaker in place without effective pacing %: AV nodal ablation (2a)."
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,32 @@
+{
+  "content": {
+    "Imaging and Measurements": {
+      "Techniques": "Aortic imaging techniques recommended for patients with known or suspected aortic disease.",
+      "Recommendations": [
+        "Measure aortic diameters at reproducible anatomic landmarks perpendicular to axis of blood flow.",
+        "Maintain low ionizing radiation doses.",
+        "Use CT or MR imaging to measure aortic diameters from inner-edge to inner-edge.",
+        "Report aortic root diameter as maximum sinus to sinus measurement.",
+        "Index dilated root or ascending aorta to patient height or BSA.",
+        "Measure aorta using echocardiography from leading-edge to leading-edge."
+      ],
+      "Modalities": [
+        "CT",
+        "MRI",
+        "Transthoracic echocardiography",
+        "Transesophageal echocardiography",
+        "Abdominal aortic ultrasound"
+      ]
+    },
+    "Optimized Imaging": {
+      "Factors": [
+        "Hemodynamic stability",
+        "Contrast allergy",
+        "Renal function",
+        "Patient tolerance"
+      ],
+      "Technology": "3D imaging data sets for structured measurement."
+    }
+  },
+  "genes": []
+}

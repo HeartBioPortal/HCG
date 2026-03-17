@@ -1,0 +1,2018 @@
+{
+  "content": [
+    {
+      "content": {
+        "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "endorsements": [
+          "American Association of Cardiovascular and Pulmonary Rehabilitation",
+          "American Geriatrics Society",
+          "American Society of Preventive Cardiology",
+          "Preventive Cardiovascular Nurses Association"
+        ],
+        "writing_committee": [
+          "Donna K. Arnett, PhD, MSPH, FAHA, Co-Chair",
+          "Roger S. Blumenthal, MD, FACC, FAHA, Co-Chair",
+          "Michelle A. Albert, MD, MPH, FAHA",
+          "Andrew B. Buroker, Esq",
+          "Zachary D. Goldberger, MD, MS, FACC, FAHA",
+          "Ellen J. Hahn, PhD, RN",
+          "Cheryl Dennison Himmelfarb, PhD, RN, ANP, FAHA",
+          "Amit Khera, MD, MSc, FACC, FAHA",
+          "Donald Lloyd-Jones, MD, SCM, FACC, FAHA",
+          "J. William McEvoy, MBBCh, MEd, MHS",
+          "Erin D. Michos, MD, MHS, FACC, FAHA",
+          "Michael D. Miedema, MD, MPH",
+          "Daniel Mu\u00f1oz, MD, MPA, FACC",
+          "Sidney C. Smith, Jr, MD, MACC, FAHA",
+          "Salim S. Virani, MD, PhD, FACC, FAHA",
+          "Kim A. Williams, Sr, MD, MACC, FAHA",
+          "Joseph Yeboah, MD, MS, FACC, FAHA",
+          "Boback Ziaeian, MD, PhD, FACC, FAHA"
+        ],
+        "publication_information": {
+          "journal": "Journal of the American College of Cardiology",
+          "date": "2019",
+          "volume": 74,
+          "issue": 10,
+          "pages": "e177-e232",
+          "doi": "https://doi.org/10.1016/j.jacc.2019.03.010"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "Authors": [
+          "Patrick T. O'Gara, MD, MACC, FAHA",
+          "Joshua A. Beckman, MD, MS, FAHA",
+          "Glenn N. Levine, MD, FACC, FAHA",
+          "Sana M. Al-Khatib, MD, MHS, FACC, FAHA",
+          "Kim K. Birtcher, PharmD, MS, AACC",
+          "Joaquin E. Cigarroa, MD, FACC",
+          "Anita Deswal, MD, MPH, FACC, FAHA",
+          "Lee A. Fleisher, MD, FACC, FAHA",
+          "Federico Gentile, MD, FACC",
+          "Zachary D. Goldberger, MD, MS, FACC, FAHA",
+          "Mark A. Hlatky, MD, FACC, FAHA",
+          "John Ikonomidis, MD, PhD, FAHA",
+          "Jos\u00e9 A. Joglar, MD, FACC, FAHA",
+          "Laura Mauri, MD, MSc, FAHA",
+          "Mariann R. Piano, RN, PhD, FAHA",
+          "Barbara Riegel, PhD, RN, FAHA",
+          "Duminda N. Wijeysundera, MD, PhD"
+        ],
+        "Top Messages": [
+          "The most important way to prevent atherosclerotic vascular disease, heart failure, and atrial fibrillation is to promote a healthy lifestyle throughout life.",
+          "A team-based care approach is an effective strategy for the prevention of cardiovascular disease. Clinicians should evaluate the social determinants of health that affect individuals to inform treatment decisions."
+        ],
+        "Sections": [
+          {
+            "Title": "Introduction",
+            "Subsections": [
+              "Methodology and Evidence Review",
+              "Organization of the Writing Committee",
+              "Document Review and Approval",
+              "Scope of the Guideline",
+              "Class of Recommendation and Level of Evidence",
+              "Abbreviations"
+            ]
+          },
+          {
+            "Title": "Overarching Recommendations for ASCVD Prevention Efforts",
+            "Subsections": [
+              "Patient-Centered Approaches to Comprehensive ASCVD Prevention",
+              "Assessment of Cardiovascular Risk"
+            ]
+          },
+          {
+            "Title": "Lifestyle Factors Affecting Cardiovascular Risk",
+            "Subsections": [
+              "Nutrition and Diet",
+              "Exercise and Physical Activity"
+            ]
+          },
+          {
+            "Title": "Other Factors Affecting Cardiovascular Risk",
+            "Subsections": [
+              "Adults with Overweight and Obesity",
+              "Adults with Type 2 Diabetes Mellitus",
+              "Adults with High Blood Cholesterol",
+              "Adults with High Blood Pressure or Hypertension",
+              "Treatment of Tobacco Use",
+              "Aspirin Use"
+            ]
+          },
+          {
+            "Title": "Cost and Value Considerations"
+          },
+          {
+            "Title": "Conclusion"
+          },
+          {
+            "Title": "References"
+          },
+          {
+            "Title": "Appendices",
+            "Details": [
+              "Appendix 1: Search Criteria",
+              "Appendix 2: Author Relationships With Industry and Other Entities (Relevant)",
+              "Appendix 3: Reviewer Relationships With Industry and Other Entities (Comprehensive)"
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Adults 40 to 75 years": "Those who are evaluated for cardiovascular disease prevention should undergo a 10-year atherosclerotic cardiovascular disease risk assessment. Depending on this, discussions about preventive interventions including medication like antiplatelets, statins, or aspirin can be made.",
+        "Diet Recommendations": "Consume a healthy diet that minimizes intake of fats, red meat, and sugary beverages while emphasizing vegetables, fruits, and nuts. Weight loss might need counseling and caloric restriction.",
+        "Physical Activity": "Engage in 150 minutes/week of moderate-intensity or 75 minutes/week of vigorous-intensity exercise.",
+        "Diabetes Management": "Lifestyle changes such as improving diet and exercise are crucial. Metformin is first-line therapy, followed by medications like SGLT2 inhibitors or GLP-1 receptor agonists if necessary.",
+        "Tobacco Use": "Assessment at every healthcare visit, with encouragement and support to quit.",
+        "Aspirin Use": "Should be infrequent for primary prevention of ASCVD due to lack of benefit.",
+        "Statin Therapy": "First-line for primary prevention of ASCVD in certain adults, particularly with elevated cholesterol or diabetes within the 40 to 75 age range, depending on risk assessment.",
+        "Blood Pressure": "Nonpharmacological interventions are recommended for elevated blood pressure, with pharmacological therapy targeting <130/80 mm Hg when necessary."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary": "This ACC/AHA guideline on the primary prevention of ASCVD aims to consolidate existing recommendations and recent scientific evidence to promote cardiovascular health. It emphasizes the importance of lifestyle modifications, such as diet, physical activity, and avoiding tobacco use, to prevent ASCVD events. New recommendations include aspirin use, exercise, smoking cessation, weight management, and diabetes medication use. The guidelines are based on evidence from comprehensive research, including RCTs and systematic reviews.",
+        "Key Points": [
+          "ASCVD remains a leading cause of morbidity and mortality globally.",
+          "The U.S. faces high healthcare costs due to ASCVD.",
+          "Lifestyle modifications are crucial to lowering ASCVD risk.",
+          "Prevention strategies should focus on reducing risk factors like obesity, hypertension, and smoking.",
+          "Recommendations are based on an extensive evidence review."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Document Review and Approval": {
+          "Reviewed by": "5 official reviewers nominated by the ACC and AHA",
+          "Additional Reviewers": "3 reviewers on behalf of the American Association of Cardiovascular and Pulmonary Rehabilitation, the American Society for Nutrition, and the American Society of Preventive Medicine; and 23 individual content reviewers",
+          "Approval": "Approved for publication by ACC and AHA"
+        },
+        "Scope of the Guideline": {
+          "Purpose": "Resource for clinical and public health practice communities",
+          "Focus": "Primary prevention of CVD in adults (\u226518 years of age) based on outcomes of ASCVD",
+          "Targets": "Acute coronary syndromes, MI, stable or unstable angina, arterial revascularization, stroke, transient ischemic attack, peripheral arterial disease, heart failure, atrial fibrillation",
+          "Recommendations": {
+            "Types": [
+              "Lifestyle factors (e.g., diet and exercise)",
+              "Risk factors (e.g., obesity, diabetes, cholesterol, high BP, smoking, aspirin use)",
+              "Patient-centered approaches (e.g., team-based care, shared decision-making, assessment of social determinants of health)",
+              "Cost and value considerations"
+            ]
+          }
+        },
+        "Class of Recommendation and Level of Evidence": {
+          "Description": "COR indicates the strength of recommendation, LOE rates quality of scientific evidence supporting the intervention"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "table_description": "Applying Class of Recommendation and Level of Evidence to Clinical Strategies, Interventions, Treatments, or Diagnostic Testing in Patient Care",
+        "class_strength_of_recommendation": {
+          "class_1_strong": "Benefit >>> Risk - recommendations should be performed or administered as they are indicated and beneficial.",
+          "class_2a_moderate": "Benefit >> Risk - recommendations might be reasonable and can be useful or beneficial.",
+          "class_2b_weak": "Benefit >= Risk - recommendations might be reasonable, and usefulness is uncertain.",
+          "class_3_moderate": "No Benefit - recommendations are not beneficial and should not be performed.",
+          "class_3_harm_strong": "Risk > Benefit - recommendations might be harmful and should not be performed."
+        },
+        "level_quality_of_evidence": {
+          "level_a": "High-quality evidence from multiple RCTs or meta-analyses.",
+          "level_b_r": "Moderate-quality evidence from one or more RCTs.",
+          "level_b_nr": "Moderate-quality evidence from well-executed nonrandomized studies or observational studies.",
+          "level_c_ld": "Limited data from observation or physiological studies.",
+          "level_c_eo": "Based on expert opinion."
+        },
+        "additional_notes": "COR and LOE are determined independently. The outcome or result of the intervention should align with clinical measurement goals. Comparative effectiveness recommendations require supporting studies."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2. Overarching Recommendations for ASCVD Prevention Efforts",
+        "Section": "2.1. Patient-Centered Approaches to Comprehensive ASCVD Prevention",
+        "Recommendations": [
+          {
+            "Level of Evidence": "IA",
+            "Recommendation": "A team-based care approach is recommended for the control of risk factors associated with ASCVD."
+          },
+          {
+            "Level of Evidence": "IB-R",
+            "Recommendation": "Shared decision-making should guide discussions about the best strategies to reduce ASCVD risk."
+          },
+          {
+            "Level of Evidence": "IB-NR",
+            "Recommendation": "Social determinants of health should inform optimal implementation of treatment recommendations for the prevention of ASCVD."
+          }
+        ],
+        "Synopsis": "The guidelines promote patient-centered care focusing on team-based delivery, shared decision-making, and evaluation of social determinants of health in ASCVD prevention.",
+        "Supporting Details": [
+          "Team-based care improves ASCVD risk management by involving patient participation and collaboration among clinicians.",
+          "Effective risk stratification and management demonstrated reduction in cardiovascular risks.",
+          "Shared decision-making facilitates personalized ASCVD risk assessments, addressing patient-specific barriers.",
+          "Socioeconomic inequalities affect CVD risk; addressing them is vital in ASCVD prevention."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "sections": [
+          {
+            "title": "Example Considerations for Addressing Social Determinants of Health to Help Prevent ASCVD Events",
+            "content": [
+              {
+                "topic": "Cardiovascular risk",
+                "considerations": [
+                  "Adults should be routinely assessed for psychosocial stressors and provided with appropriate counseling.",
+                  "Health literacy should be assessed every 4 to 6 years to maximize recommendation effectiveness."
+                ]
+              },
+              {
+                "topic": "Diet",
+                "considerations": [
+                  "In addition to prescription of diet modifications, body size perception and social and cultural influences should be assessed.",
+                  "Potential barriers to adhering to a healthy diet should be assessed, including food access and economic factors, especially in vulnerable populations."
+                ]
+              },
+              {
+                "topic": "Exercise and physical activity",
+                "considerations": [
+                  "Assessment of neighborhood environment and access to facilities for physical activity."
+                ]
+              },
+              {
+                "topic": "Obesity and weight loss",
+                "considerations": [
+                  "Lifestyle counseling for weight loss should include assessment of psychosocial stressors, sleep hygiene, and other barriers.",
+                  "Promote weight maintenance in patients with overweight/obesity who are unable to achieve recommended weight loss."
+                ]
+              },
+              {
+                "topic": "Diabetes mellitus",
+                "considerations": [
+                  "Interventions should address environmental and psychosocial factors, including depression and social support, to improve glycemic control and treatment adherence."
+                ]
+              },
+              {
+                "topic": "High blood pressure",
+                "considerations": [
+                  "Short sleep duration (<6 h) and poor-quality sleep are associated with high blood pressure and should be considered.",
+                  "Low-sodium diet and viable exercise options should also be considered."
+                ]
+              },
+              {
+                "topic": "Tobacco treatment",
+                "considerations": [
+                  "Social support is important, with recommendations for individual and group counseling."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Recommendations for Assessment of Cardiovascular Risk",
+            "recommendations": [
+              {
+                "cor": "I",
+                "loe": "B-NR",
+                "description": "For adults 40 to 75 years of age, clinicians should routinely assess traditional cardiovascular risk factors and calculate 10-year risk of ASCVD using the pooled cohort equations (PCE)."
+              },
+              {
+                "cor": "IIa",
+                "loe": "B-NR",
+                "description": "For adults 20 to 39 years of age, it is reasonable to assess traditional ASCVD risk factors at least every 4 to 6 years."
+              },
+              {
+                "cor": "IIa",
+                "loe": "B-NR",
+                "description": "In adults at borderline risk (5% to <7.5% 10-year ASCVD risk) or intermediate risk (\u22657.5% to <20% 10-year ASCVD risk), it is reasonable to use additional risk-enhancing factors to guide decisions about preventive interventions."
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Assessment of ASCVD risk": "Assessment of ASCVD risk remains the foundation of primary prevention. Guidelines recommend estimating an individual\u2019s 10-year absolute ASCVD risk to aid in preventive interventions. The ASCVD risk estimate guides decisions for preventive interventions like lipid and BP management.",
+        "Recommendation-Specific Supportive Text": "Facilitating decisions about preventive interventions, it's suggested to screen for traditional ASCVD risk factors every 4 to 6 years after age 20. In adults aged 40 to 75 with borderline or intermediate ASCVD risk, additional risk-enhancing factors and assessments, such as coronary artery calcium score, may influence decisions."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Risk-Enhancing Factors": [
+          "Family history of premature ASCVD (males, age<55; females, age<65)",
+          "Primary hypercholesterolemia (LDL-C, 160-189 mg/dL; non-HDL-C, 190-219 mg/dL)",
+          "Metabolic syndrome (increased waist circumference, elevated triglycerides >150 mg/dL, elevated blood pressure, elevated glucose, low HDL-C)",
+          "Chronic kidney disease (eGFR 15-59 mL/min/1.73 m\u00b2)",
+          "Chronic inflammatory conditions (e.g., psoriasis, RA, lupus, or HIV/AIDS)",
+          "History of premature menopause (before age 40) and pregnancy-associated conditions (e.g., preeclampsia)",
+          "High-risk race/ethnicity (e.g., South Asian ancestry)",
+          "Lipid/biomarkers associated with increased ASCVD risk",
+          "Elevated high-sensitivity C-reactive protein (\u22652.0 mg/L)",
+          "Elevated Lp(a)",
+          "Elevated apoB (\u2265130 mg/dL)"
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "APOB",
+          "Associated Conditions": [
+            "ASCVD"
+          ],
+          "Occurrences": 1,
+          "context": "Elevated apoB (\u2265130 mg/dL). A relative indication for its measurement would be triglyceride \u2265200 mg/dL. A level \u2265130 mg/dL corresponds to an LDL-C \u2265160 mg/dL and constitutes a risk-enhancing factor"
+        }
+      ]
+    },
+    {
+      "content": {
+        "Summary": "The guideline discusses the use of coronary artery calcium scores for risk assessment in patients with borderline or intermediate risk of atherosclerotic cardiovascular disease (ASCVD). It emphasizes the importance of considering individual risk factors, including coronary artery calcium scores, for evaluating ASCVD risk and guiding treatment decisions, such as the use of statins. Additionally, the guideline recommends lifestyle factors affecting cardiovascular risk, including nutrition and diet. Key dietary recommendations include a diet high in vegetables, fruits, legumes, nuts, whole grains, and fish, replacing saturated fats with unsaturated fats, reducing cholesterol and sodium intake, minimizing processed foods and sweetened beverages, and avoiding trans fats."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Approximately 630,000 Americans died from heart disease in 2015, with 366,000 dying from coronary artery disease. After four decades of decline, heart disease deaths rose in 2015. This trend is linked to the obesity epidemic. Healthy nutrition affects ASCVD and its risk factors like obesity, high cholesterol, diabetes, and hypertension. Cardiovascular nutrition lacks large-scale prospective randomized trials for ASCVD outcomes. Observational studies indicate diet's impact on CVD mortality, emphasizing reducing specific foods.",
+        "Recommendations": [
+          {
+            "Title": "Plant-based and Mediterranean diets",
+            "Description": "Diets including fruits, vegetables, legumes, whole grains, and lean proteins reduce CVD risk more effectively than standard diets. PREDIMED trial findings support these effects.",
+            "Evidence": "Consuming vegetable sources of fat (olive oil or nuts) showed reduced heart-related and overall mortality."
+          },
+          {
+            "Title": "Trans and Saturated Fats",
+            "Description": "Higher risks of total and cause-specific deaths are linked to trans and saturated fats. Data from PURE trial suggests that reduced carbohydrate and increased saturated fat intake associates with reduced stroke risk.",
+            "Evidence": "Replacement of saturated fat with plant protein decreases mortality risk."
+          },
+          {
+            "Title": "Dietary Sodium",
+            "Description": "Reducing sodium lowers BP and cardiovascular events.",
+            "Evidence": "DASH and TOHP trials indicate sodium reduction benefits."
+          },
+          {
+            "Title": "Sugar-sweetened Beverages",
+            "Description": "Increased intake correlates with T2DM and ASCVD risks.",
+            "Evidence": "Daily consumption of sweet beverages associates with a 20% rise in diabetes mellitus frequency."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "theme": "Primary Prevention of Cardiovascular Disease",
+        "dietary recommendations": [
+          "Reduce intake of the Southern dietary pattern, which includes fried food, organ and processed meats, and sugar-sweetened beverages.",
+          "Low-carbohydrate diets with high animal fat and protein are associated with increased mortality rates.",
+          "Trans fats are harmful and increase ASCVD risk."
+        ],
+        "exercise recommendations": [
+          "Adults should engage in at least 150 minutes per week of moderate-intensity or 75 minutes of vigorous-intensity aerobic physical activity to reduce ASCVD risk.",
+          "Physical activity should be a routine part of healthcare counseling."
+        ],
+        "sedentary behavior": "Decreasing sedentary behavior is reasonable to reduce ASCVD risk."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": "The guideline emphasizes the importance of physical activity assessment and counseling in promoting increased physical activity and reducing ASCVD risk. It discusses the safety and benefits of aerobic physical activity across various intensities. Recommendations include a minimum of 150 minutes of moderate-intensity or 75 minutes of vigorous-intensity physical activity per week. The document also highlights the positive correlation between increased activity and reduced cardiovascular events, stressing that even low-intensity activities can be beneficial."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "overview": "The guideline discusses strategies to reduce sedentary behavior and improve physical activity levels to lower ASCVD risk. It emphasizes weight loss and lifestyle interventions for adults with overweight and obesity.",
+        "recommendations": [
+          {
+            "level": "I",
+            "class_of_recommendation": "B-R",
+            "recommendation": "Weight loss is recommended to improve the ASCVD risk factor profile in individuals with overweight and obesity."
+          },
+          {
+            "level": "I",
+            "class_of_recommendation": "B-R",
+            "recommendation": "Counseling and comprehensive lifestyle interventions, including calorie restriction, are recommended for achieving and maintaining weight loss in adults with overweight and obesity."
+          },
+          {
+            "level": "I",
+            "class_of_recommendation": "C-EO",
+            "recommendation": "Calculating BMI is recommended annually to identify adults with overweight and obesity."
+          },
+          {
+            "level": "IIa",
+            "class_of_recommendation": "B-NR",
+            "recommendation": "It is reasonable to measure waist circumference to identify those at higher cardiometabolic risk."
+          }
+        ],
+        "focus": "Reducing sedentary behavior, increasing physical activity, and managing overweight and obesity to lower ASCVD risk."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "recommendations": [
+          {
+            "weight_loss": "Clinically meaningful weight loss (\u22655% initial weight) is associated with moderate improvement in blood pressure, LDL-C, triglycerides, and glucose levels among individuals with overweight and obesity.",
+            "lifestyle_modifications": "Increased physical activity, preferably brisk walking for \u2265150 minutes/week or \u226530 minutes/day on most days of the week, is recommended for weight loss.",
+            "dietary_recommendations": "Adults with obesity are recommended a diet to reduce caloric intake by ~500 kcal/day from baseline. Low-calorie diets should be prescribed only under medical supervision.",
+            "measurements_for_risk": "BMI, waist circumference, waist-hip ratio, bioimpedance, and dual-energy X-ray absorptiometry (DXA) should be used to estimate body fat and quantify health risks.",
+            "waist_circumference": "Increased waist circumference has been associated with increased cardiometabolic and ASCVD risk. Waist circumference measurement is recommended in all patients with BMI <35 kg/m\u00b2."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "4.2. Adults With Type 2 Diabetes Mellitus",
+        "summary": {
+          "recommendations": [
+            {
+              "class": "I",
+              "level_of_evidence": "A",
+              "recommendation": "For all adults with T2DM, a tailored nutrition plan focusing on a heart-healthy dietary pattern is recommended to improve glycemic control, achieve weight loss if needed, and improve other ASCVD risk factors."
+            },
+            {
+              "class": "I",
+              "level_of_evidence": "A",
+              "recommendation": "Adults with T2DM should perform at least 150 minutes per week of moderate-intensity physical activity or 75 minutes of vigorous-intensity physical activity to improve glycemic control, achieve weight loss if needed, and improve other ASCVD risk factors."
+            },
+            {
+              "class": "IIa",
+              "level_of_evidence": "B-R",
+              "recommendation": "For adults with T2DM, it is reasonable to initiate metformin as first-line therapy along with lifestyle therapies at the time of diagnosis to improve glycemic control and reduce ASCVD risk."
+            },
+            {
+              "class": "IIb",
+              "level_of_evidence": "B-R",
+              "recommendation": "For adults with T2DM and additional ASCVD risk factors who require glucose-lowering therapy despite initial lifestyle modifications and metformin, it may be reasonable to initiate a sodium-glucose cotransporter 2 (SGLT-2) inhibitor or a glucagon-like peptide-1 receptor (GLP-1R) agonist to improve glycemic control and reduce CVD risk."
+            }
+          ],
+          "synopsis": {
+            "definition": "T2DM, defined as a hemoglobin A1c (HbA1c) >6.5%, is a metabolic disorder characterized by insulin resistance leading to hyperglycemia.",
+            "prevalence": "Approximately 12% of U.S. adults have diabetes, 90% to 95% of whom have T2DM.",
+            "risk_factors": "The development and progression of T2DM are heavily influenced by dietary pattern, physical activity, and body weight.",
+            "management": "Recommended management includes a heart-healthy dietary pattern, lifestyle interventions, metformin, SGLT-2 inhibitors, and GLP-1R agonists."
+          },
+          "lifestyle_modifications": {
+            "nutrition": "A heart-healthy dietary pattern is crucial, focusing on intake of fiber-rich whole grains and avoidance of refined carbohydrates.",
+            "physical_activity": "Exercise programs for T2DM have been shown to improve glycemic control, with aerobic and resistance training being particularly effective."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "Focus": "Treatment of T2DM for Primary Prevention of Cardiovascular Disease",
+        "Flowchart Summary": [
+          "HbA1c \u2265 6.5% consistent with T2DM leads to dietary counseling, physical activity, and aggressive treatment of other CVD risk factors.",
+          "Consideration of metformin as a first-line pharmacologic therapy to improve glycemic control and reduce CVD risk.",
+          "If HbA1c \u2265 7.0% after lifestyle therapy and metformin, consider additional medications like SGLT-2 inhibitor or GLP-1R agonist."
+        ],
+        "Supporting Data": [
+          "Physical activity benefits individuals with T2DM, reducing rates of CVD events and CVD death.",
+          "Metformin decreases hepatic glucose production and reduces hyperglycemia, lowering CVD-related outcomes.",
+          "SGLT-2 inhibitors can reduce CV events by affecting blood glucose levels and sodium excretion."
+        ],
+        "Cautions": [
+          "Metformin may cause lactic acidosis and requires caution in CKD patients."
+        ],
+        "Recommendations": [
+          "Structured physical activity is encouraged, with avoidance of prolonged sitting.",
+          "Metformin as a first-line treatment for T2DM due to its beneficial effects."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "summary": "The guideline recommends considering SGLT2 inhibitors and GLP-1R agonists for patients with established CVD and Type 2 Diabetes Mellitus (T2DM) to reduce ASCVD risk. Statin therapy is recommended for adults with varying ASCVD risk levels, with more intensive treatments for those with higher risks or specific conditions such as diabetes and high LDL-C levels.",
+        "specific_recommendations": [
+          {
+            "cor": "I",
+            "loe": "A",
+            "recommendation": "Adults at intermediate risk (\u22657.5% to <20% 10-year ASCVD risk) should consider moderate-intensity statin therapy."
+          },
+          {
+            "cor": "I",
+            "loe": "A",
+            "recommendation": "Intermediate-risk patients should reduce LDL-C levels by at least 30%, or by 50% or more for optimal risk reduction."
+          },
+          {
+            "cor": "I",
+            "loe": "A",
+            "recommendation": "Adults 40 to 75 years of age with diabetes should be on moderate-intensity statin therapy."
+          },
+          {
+            "cor": "I",
+            "loe": "B-R",
+            "recommendation": "Adults 20 to 75 years of age with LDL-C levels of 190 mg/dL or higher should be on maximally tolerated statin therapy."
+          },
+          {
+            "cor": "IIa",
+            "loe": "B-R",
+            "recommendation": "In adults with diabetes and multiple ASCVD risk factors, high-intensity statin therapy is recommended."
+          },
+          {
+            "cor": "IIa",
+            "loe": "B-R",
+            "recommendation": "In intermediate-risk adults (\u22657.5% to <20% 10-year ASCVD risk), statin therapy should be intensified if additional risk factors are present."
+          },
+          {
+            "cor": "IIa",
+            "loe": "B-NR",
+            "recommendation": "Consider coronary artery calcium score to guide statin therapy in intermediate-risk adults; defer statin if score is zero."
+          },
+          {
+            "cor": "IIb",
+            "loe": "B-R",
+            "recommendation": "For borderline risk adults (5% to <7.5% 10-year ASCVD risk), consider moderate-intensity statin therapy in a risk discussion."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "primary_prevention": "Emphasis on assessing ASCVD risk across age groups to encourage healthy lifestyle adherence.",
+        "age_0_19": "Focus on lifestyle to prevent or reduce ASCVD risk. Diagnose Familial Hypercholesterolemia if necessary.",
+        "age_20_39": "Estimate lifetime risk and consider statin if family history of premature ASCVD or high LDL-C.",
+        "age_40_75": "LDL-C 70\u2013190 mg/dL without diabetes triggers a 10-year ASCVD risk discussion. Statin therapy considered for diabetes.",
+        "age_75_and_older": "Clinical assessment and risk discussion are advised.",
+        "risk_enhancers": [
+          "Family history of premature ASCVD.",
+          "Persistently elevated LDL-C \u2265160 mg/dL.",
+          "Chronic kidney disease, metabolic syndrome.",
+          "Specific conditions (e.g., premature menopause).",
+          "Inflammatory diseases, ethnicity factors.",
+          "Lipid/Biomarkers (e.g., apoB, Lp(a))."
+        ],
+        "risk_discussion": {
+          "low_risk": "<5%",
+          "borderline_risk": "5% - <7.5%",
+          "intermediate_risk": "7.5% - <20%",
+          "high_risk": "\u226520%"
+        },
+        "statin_initiation": [
+          "High-intensity statin for LDL-C \u2265190 mg/dL.",
+          "Moderate-intensity statin for diabetes in 40-75 age group.",
+          "Possible statin for adults >75 based on clinical assessment."
+        ],
+        "cac_measurement": "Consider CAC measurement in selected adults to refine risk assessment."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The guideline discusses the benefit of moderate-intensity statin therapy for individuals with elevated atherosclerotic cardiovascular disease (ASCVD) risk due to various factors such as age, LDL-C levels, and diabetes. It emphasizes the importance of aggressive risk reduction in high-risk groups and the consideration of statin therapy in different populations. The document provides insights from various RCTs, highlighting the reduction in ASCVD events among those treated with statins, with a particular focus on individuals aged 40 to 75 years.",
+        "key_points": [
+          "Statins significantly reduce ASCVD events in high-risk groups.",
+          "Type 1 and type 2 diabetes are key considerations in statin therapy decisions.",
+          "LDL-C levels \u2265190 mg/dL warrant statin therapy due to high risk of ASCVD.",
+          "Moderate-intensity statin therapy is effective in individuals with intermediate ASCVD risk.",
+          "The importance of follow-up LDL-C testing is underscored.",
+          "High-intensity statin therapy is preferably used in patients with diabetes at high lifetime risk."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "ASCVD Risk": "Increased ASCVD risk is seen with metabolic syndrome, inflammatory diseases such as psoriasis, rheumatoid arthritis, and HIV. Moderate elevations of triglycerides, non-HDL-C, and lipoprotein B can improve selection of those at increased ASCVD risk.",
+        "Coronary Artery Calcium Measurement": "For adults at intermediate risk (40-75 years with diabetes and other risk factors), coronary artery calcium measurement may help reclassify risk. It should be considered if coronary artery calcium score is 0. For those with scores 1 to 99, it is reasonable to repeat the test. Benefits also exist for low-risk individuals.",
+        "Statin Therapy": "Benefits for statin therapy are known in low-risk individuals. Avoid treating those who would derive little benefit from statins."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_section": "4.4. Adults With High Blood Pressure or Hypertension",
+        "recommendations": [
+          "In adults with elevated blood pressure or hypertension, nonpharmacological interventions are recommended to reduce BP: weight loss, heart-healthy dietary pattern, sodium reduction, dietary potassium supplementation, increased physical activity, limited alcohol.",
+          "In adults with an estimated 10-year ASCVD risk of 10% or higher and an average SBP of 130 mm Hg or higher or an average DBP of 80 mm Hg or higher, use of BP-lowering medications is recommended.",
+          "In adults with confirmed hypertension and a 10-year ASCVD risk of 10% or higher, the BP target is less than 130/80 mm Hg.",
+          "In adults with hypertension and chronic kidney disease, treatment to a BP goal of less than 130/80 mm Hg is recommended.",
+          "In adults with T2DM and hypertension, antihypertensive drug treatment should be initiated at a BP of 130/80 mm Hg or higher.",
+          "In adults with an estimated 10-year ASCVD risk <10% and an SBP of 140 mm Hg or higher or a DBP of 90 mm Hg or higher, initiation and use of BP-lowering medication are recommended.",
+          "In adults with confirmed hypertension without additional markers of increased ASCVD risk, a BP target of less than 130/80 mm Hg may be reasonable."
+        ],
+        "synopsis": "Hypertension is a major risk factor for ASCVD in the U.S., affecting over 46% of adults. The risk increases significantly with age and is notably higher in blacks compared to other ethnic groups. An increased risk of ASCVD is linked to higher SBP and DBP."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Nonpharmacological interventions": "Effective in lowering blood pressure (BP) and can prevent hypertension. Integral in managing hypertension and can be the first-line therapy for stage 1 hypertension with low ASCVD risk.",
+        "Meta-analyses and RCTs": "Support BP-lowering medications for adults with moderate to high ASCVD risk and specific BP conditions. Highlight significant reductions in stroke, coronary events, and death with BP control.",
+        "Intensive BP lowering": "Associated with more significant reductions in major cardiovascular events. Achieving additional 10-mm Hg reduction in SBP can significantly reduce CVD risk.",
+        "Patients with CKD": "Have a higher 10-year ASCVD risk threshold. Intensive BP lowering is beneficial, but some trials showed no additional benefit for those with more severe proteinuria.",
+        "SPRINT trial": "Supports use of BP-lowering medications in adults with CVD at certain BP thresholds."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "table": {
+          "title": "Best Proven Nonpharmacological Interventions for Prevention and Treatment of Hypertension",
+          "interventions": [
+            {
+              "name": "Weight loss",
+              "goal": "Weight/body fat",
+              "effect": "-5 mm Hg (Hypertension), -2/3 mm Hg (Normotension)",
+              "reference": "S4.4-2"
+            },
+            {
+              "name": "Healthy diet",
+              "goal": "DASH dietary pattern",
+              "effect": "-11 mm Hg (Hypertension), -3 mm Hg (Normotension)",
+              "reference": "S4.4-7, S4.4-8"
+            },
+            {
+              "name": "Reduced intake of dietary sodium",
+              "goal": "Dietary sodium",
+              "effect": "-5/6 mm Hg (Hypertension), -2/3 mm Hg (Normotension)",
+              "reference": "S4.4-10, S4.4-12"
+            },
+            {
+              "name": "Enhanced intake of dietary potassium",
+              "goal": "Dietary potassium",
+              "effect": "-4/5 mm Hg (Hypertension), -2 mm Hg (Normotension)",
+              "reference": "S4.4-14"
+            },
+            {
+              "name": "Physical activity",
+              "goal": "Aerobic / Dynamic resistance / Isometric resistance",
+              "effect": [
+                "-5/8 mm Hg (Aerobic, Hypertension), -2/4 mm Hg (Aerobic, Normotension)",
+                "-4 mm Hg (Dynamic resistance, Hypertension), -2 mm Hg (Dynamic resistance, Normotension)",
+                "-5 mm Hg (Isometric resistance, Hypertension), -4 mm Hg (Isometric resistance, Normotension)"
+              ],
+              "reference": "S4.4-19, S4.4-20, S4.4-21, S4.4-78"
+            },
+            {
+              "name": "Moderation in alcohol intake",
+              "goal": "Alcohol consumption",
+              "effect": "-4 mm Hg (Men), -3 mm Hg (Women)",
+              "reference": "S4.4-20, S4.4-24, S4.4-25"
+            }
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Tobacco use is identified as a leading preventable cause of disease, disability, and death in the U.S. Smoking and smokeless tobacco increase the risk of all-cause mortality and ASCVD (atherosclerotic cardiovascular disease). Secondhand smoke is linked to ASCVD, stroke, and CHD (coronary heart disease). Innovations like e-cigarettes may expose individuals to risks, including cardiovascular and pulmonary diseases. Arrhythmias and hypertension have been connected with e-cigarette use. Persistent tobacco use causes oxidative stress and sympathetic stimulation.": [
+          "Tobacco use is the leading preventable cause of disease, disability, and death in the United States (S4.5-7).",
+          "Smoking and smokeless tobacco (e.g., chewing tobacco) use increases the risk of all-cause mortality and is a cause of ASCVD (S4.5-4, S4.5-5).",
+          "Secondhand smoke is a cause of ASCVD and stroke (S4.5-6), and almost one-third of CHD deaths are attributable to smoking and exposure to secondhand smoke.",
+          "Even low levels of smoking increase risks of acute MI; thus, reducing the number of cigarettes per day does not totally eliminate risk (S4.5-8).",
+          "Electronic Nicotine Delivery Systems (ENDS), often called e-cigarettes (S4.5-10), are a new class of tobacco product that emit aerosol containing fine and ultrafine particulates, nicotine, and toxic gases that may increase risk of cardiovascular and pulmonary diseases (S4.5-11).",
+          "Arrhythmias and hypertension with e-cigarette use have also been reported (S4.5-12).",
+          "Chronic use is associated with persistent increases in oxidative stress and sympathetic stimulation in young, healthy subjects (S4.5-13)."
+        ],
+        "genes": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Highlights": "Recommended behavioral interventions and pharmacotherapy for tobacco cessation.",
+        "Treatments": [
+          {
+            "Type": "NRT (Nicotine Replacement Therapy)",
+            "Methods": [
+              {
+                "Name": "Patch",
+                "Dosage": "21 mg, 14 mg, or 7 mg",
+                "Starting Dose": "21 mg for >10 CPD; 14 mg for <10 CPD",
+                "Precautions": "Local irritation possible; avoid with skin disorders; may remove for sleep if needed"
+              },
+              {
+                "Name": "Gum",
+                "Dosage": "2 mg or 4 mg",
+                "Starting Dose": "Use is 30 min after waking; 4 mg if first tobacco use is <30 min after waking",
+                "Precautions": "Hiccups/dyspepsia possible; avoid food or beverages 15 min before and after use"
+              },
+              {
+                "Name": "Lozenge",
+                "Dosage": "2 mg or 4 mg",
+                "Starting Dose": "4 mg if first tobacco use is <30 min after waking",
+                "Precautions": "Avoid with acidic beverages 15 min before/after"
+              },
+              {
+                "Name": "Nasal Spray",
+                "Dosage": "10 mg/mL",
+                "Starting Dose": "1-2 doses/h (1 dose=1 spray each nostril); maximum of 40 doses/d",
+                "Precautions": "Local irritation possible; avoid with nasal or reactive airway disorders"
+              },
+              {
+                "Name": "Oral Inhaler",
+                "Dosage": "10-mg cartridge",
+                "Starting Dose": "Puff for 20 min/cartridge every 1-2 h; maximum 16 cartridges/d",
+                "Precautions": "Cough possible; avoid with reactive airway disorders"
+              }
+            ]
+          },
+          {
+            "Type": "Others",
+            "Methods": [
+              {
+                "Name": "Bupropion (Zyban, Wellbutrin SR)",
+                "Dosage": "150 mg SR",
+                "Starting Dose": "150 mg once daily (am) for 3 d; then 150 mg twice daily; may use in combination with NRT",
+                "Precautions": "Avoid with history/risk of seizures, eating disorders, MAO inhibitors, or CYP 2D6 inhibitor"
+              },
+              {
+                "Name": "Varenicline (Chantix)",
+                "Dosage": "0.5 mg or 1 mg",
+                "Starting Dose": "0.5 mg once daily (am) for 3 d; then 0.5 mg twice daily for 4 d; then 1 mg twice daily",
+                "Precautions": "Nausea common, take with food. Renal dosing required. Very limited drug interactions; near-exclusive renal clearance."
+              }
+            ]
+          }
+        ],
+        "Notes": [
+          "Caution with NRT in patients with recent (<2 wk) MI, serious arrhythmia, or angina; pregnant or breastfeeding; and adolescents.",
+          "Tailored strategies are recommended.",
+          "7 FDA-approved cessation medications available, including 5 forms of nicotine replacement.",
+          "Black box warnings about neuropsychiatric events removed by FDA."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "counseling": "Continued supportive follow-up contacts for at least one month after discharge is recommended.",
+        "ENDS": "Not recommended as a tobacco treatment method due to unclear evidence on effectiveness and potential harm.",
+        "USPSTF recommendation": "Clinicians should direct patients who smoke tobacco to other cessation interventions.",
+        "cigarette smoking": "Strong independent risk factor for ASCVD events and premature death.",
+        "tobacco use": "Beneficial in reducing excess risk even among older adults.",
+        "risk for former smokers": "Similar to never smokers after >15 years of cessation.",
+        "tobacco dependence": "Chronic disease requiring highly skilled disease management.",
+        "secondhand smoke": "Known to cause CVD and adverse events in nonsmokers.",
+        "prohibited use": "Combustible tobacco products are prohibited in public housing.",
+        "aspirin use recommendations": [
+          {
+            "COR": "IIb",
+            "LOE": "A",
+            "recommendation": "Low-dose aspirin may be considered for primary prevention of ASCVD among select adults 40 to 70 years of age at higher ASCVD risk without increased bleeding risk."
+          },
+          {
+            "COR": "III: Harm",
+            "LOE": "B-R",
+            "recommendation": "Low-dose aspirin should not be administered for primary prevention of ASCVD among adults >70 years of age."
+          },
+          {
+            "COR": "III: Harm",
+            "LOE": "C-LD",
+            "recommendation": "Low-dose aspirin should not be administered for primary prevention of ASCVD among adults at increased risk of bleeding."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The guideline discusses the use of aspirin for the prevention of Atherosclerotic Cardiovascular Disease (ASCVD). It highlights the long-standing use of aspirin and its proven benefit in secondary prevention of ASCVD. However, aspirin's role in primary prevention is more controversial due to increased bleeding risk. The guideline recommends against routine aspiric use for primary prevention in specific populations, reflecting varying practices internationally. The benefit-risk balance and risk factors associated with aspirin use are considered, with recommendations tailored based on risk-enhancing factors and patient preferences."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "cardiovascular prevention": "The guideline discusses the prevention of ASCVD through non-pharmacological means like risk factor management instead of routine use of aspirin in certain age groups due to increased bleeding risks.",
+        "age considerations": "Prophylactic aspirin is discouraged in adults under 40 and over 70 years due to insufficient evidence of benefit and increased risk.",
+        "trial findings": "The ARRIVE trial indicated low ASCVD risk, with negligible prophylactic aspirin benefits by intention-to-treat.",
+        "bleeding risks": "Associations with increased bleeding risks involve gastrointestinal, peptic ulcer, and complications like thrombocytopenia among others.",
+        "value and cost consideration": "Highlights the necessity for value-based healthcare, emphasizing long-term benefits against costs. It includes challenges in assessing value across healthcare settings.",
+        "conclusion": "Promotes ASCVD prevention through lifestyle and risk factor modification rather than routine aspirin use in certain populations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Tobacco avoidance is crucial for the prevention of atherosclerotic cardiovascular disease (ASCVD). Individuals are advised to engage in regular physical activity and follow a healthy diet rich in fruits, vegetables, and whole grains, while minimizing trans fats and added sugars. Clinicians are encouraged to work closely with patients to facilitate lifestyle changes, address barriers, and track progress. Social determinants of ASCVD risk should also be considered. Risk estimation should guide the use of pharmacological therapies and coronary artery calcium measurements in intermediate-risk individuals.": [],
+        "genes": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Introduction": {
+          "References": [
+            {
+              "Authors": "Willet WH, Anderson RN, Coleman King SM, et al.",
+              "Title": "Heart disease and cancer deaths\u2013trends and projections in the United States, 1969\u20132020.",
+              "Source": "Prev Chronic Dis. 2016;13:E157."
+            },
+            {
+              "Authors": "Johnson NB, Hayes LD, Brown K, et al.",
+              "Title": "CDC National Health Report: leading causes of morbidity and mortality and associated behavioral risk and protective factors\u2014United States, 2005-2013.",
+              "Source": "MMWR Suppl. 2014;63:3\u201327."
+            },
+            {
+              "Authors": "Xu J, Murphy SL, Kochanek KD, et al.",
+              "Title": "Mortality in the United States, 2015.",
+              "Source": "NCHS Data Brief. 2016;1-8."
+            },
+            {
+              "Authors": "Greenland P, Knoll MD, Stamler J, et al.",
+              "Title": "Major risk factors as antecedents of fatal and nonfatal coronary heart disease events.",
+              "Source": "JAMA. 2003;290:891\u20137."
+            },
+            {
+              "Authors": "Lloyd-Jones DM, Hong Y, Labarthe D, et al.",
+              "Title": "Defining and setting national goals for cardiovascular health promotion and disease reduction.",
+              "Source": "Circulation. 2010;121:586-613."
+            },
+            {
+              "Authors": "Tuovinen JP, Nat-Veith A, Fuster V.",
+              "Title": "Cardiovascular health promotion an issue that can no longer wait.",
+              "Source": "J Am Coll Cardiol. 2018;72:903\u201313."
+            },
+            {
+              "Authors": "Yoon SS, Carroll MD, Fryar CD, et al.",
+              "Title": "A systematic review of the prevalence and outcomes of elevated cardiovascular health levels in US and non-US populations.",
+              "Source": "Mayo Clin Proc. 2016;91:649\u201370."
+            }
+          ]
+        },
+        "Methodology and Evidence Review": {
+          "References": [
+            {
+              "Authors": "Whelton PK, Carey RM, Aronow WS, et al.",
+              "Title": "2017 ACC/AHA/AAPA/ABC/ ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults.",
+              "Source": "Hypertension. 2018;71:e13\u2013e115."
+            },
+            {
+              "Authors": "Grundy SM, Stone NJ, Bailey AL, et al.",
+              "Title": "2018 AHA/ACC/AACVPR/AAPA/ABC/ADA/ AGS/APCC/AHPA/ASPC/NLA/PCNA guideline on the management of blood cholesterol.",
+              "Source": "J Am Coll Cardiol. 2018 Nov 10."
+            }
+          ]
+        },
+        "Overarching Recommendations for ASCVD Prevention Efforts": {
+          "Patient-Centered Approaches": {
+            "Reference": {
+              "Authors": "Carter BL, Rogers M, Daly J, et al.",
+              "Title": "The potency of team-based care interventions for hypertension.",
+              "Source": "Arch Intern Med. 2009;169:1748\u201355."
+            }
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "Key Points": [
+          "Risk score overestimation and its impact on individual cardiovascular risk management is discussed.",
+          "Assessment of cardiovascular risk is recommended using specific guidelines.",
+          "Population studies related to cardiovascular diseases are cited.",
+          "Importance of socioeconomic and cultural determinants in cardiovascular disease management is highlighted."
+        ],
+        "Research and Studies": [
+          "Studies assessing preterm delivery and myocardial infarction risk.",
+          "Association between sleep disturbances and cardiometabolic diseases."
+        ],
+        "Considerations": [
+          "Personal history and lifestyle factors are important in cardiovascular risk assessment.",
+          "Psychosocial factors and their implications in diabetes and cardiovascular disease management are considered."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "focus": "Risk assessment and management for cardiovascular disease prevention",
+        "topics": [
+          "Coronary artery calcium score and risk assessment",
+          "Lifestyle and therapeutic interventions",
+          "Role of specific guidelines and task forces",
+          "Retrospective and cohort studies for various populations"
+        ],
+        "studies": [
+          {
+            "study_number": "S22-21",
+            "details": "Multi-Ethnic Study of Atherosclerosis for risk factor assessment",
+            "type": "prospective cohort"
+          },
+          {
+            "study_number": "S22-23",
+            "details": "Coronary artery imaging and risk in adults with family history",
+            "type": "cohort study"
+          },
+          {
+            "study_number": "S22-27",
+            "details": "Implications of cholesterol guidelines on eligibility and treatment",
+            "type": "community cohort"
+          },
+          {
+            "study_number": "S22-36",
+            "details": "ACC/AHA guidelines on treatments for cholesterol",
+            "type": "review"
+          }
+        ],
+        "general_information": [
+          "Discussion around coronary calcium score as a predictor for cardiovascular risk.",
+          "Assessment tools being developed and validated for different racial and ethnic groups."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Purpose": "Guideline on the primary prevention of cardiovascular disease.",
+        "Lifestyle Factors": [
+          {
+            "Section": "3.1 Nutrition and Diet",
+            "Findings": [
+              {
+                "Study": "Estruch R, Ros E, Salas-Salvad\u00f3 J, et al.",
+                "Conclusion": "Mediterranean diet with extra-virgin olive oil or nuts reduced all-cause mortality."
+              },
+              {
+                "Study": "Chiuve SE, Cook NR, et al.",
+                "Conclusion": "Higher diet quality associated with reduced mortality in women."
+              },
+              {
+                "Study": "Song M, Fung TT, Hu FB, et al.",
+                "Conclusion": "Lower animal and higher plant protein intake associated with reduced mortality."
+              }
+            ]
+          },
+          {
+            "Section": "3.2 Exercise and Physical Activity",
+            "Findings": [
+              {
+                "Study": "Eijsvogels TMH, et al.",
+                "Conclusion": "Optimal dose for the primary prevention of cardiovascular disease varies."
+              },
+              {
+                "Study": "Smith NT, Sanderson S, et al.",
+                "Conclusion": "Cycling decreases cardiovascular and overall mortality risks."
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "sections": [
+          {
+            "section": "4. Other Factors Affecting Cardiovascular Risk",
+            "subsections": [
+              {
+                "title": "4.1. Obesity and Being Overweight",
+                "studies": [
+                  {
+                    "authors": "LeBlanc EL, Patnode CD, Webber EM, et al.",
+                    "content": "Draft evidence review for weight loss to prevent obesity-related morbidity and mortality in adults: behavioral interventions.",
+                    "source": "Kaiser Permanente Research Affiliates Evidence-based Practice Center, Kaiser Permanente Center for Health Research: Portland, OR: 2018. AHRQ Publication No. 18-05239-EF-1.",
+                    "link_text": "Available at: https://www.uspreventiveservicestaskforce.org/Page/Document/draft-evidence-review136-obesity-in-adults-interventions.",
+                    "access_date": "Accessed January 5, 2019."
+                  },
+                  {
+                    "authors": "Mac A, Avenell A, Bolland M, et al.",
+                    "content": "Effects of weight loss interventions for adults who are obese on mortality, cardiovascular disease, and cancer: systematic review and meta-analysis.",
+                    "source": "BMJ. 2017;359:j4849."
+                  },
+                  {
+                    "authors": "Cano Giner S, Dalleck L, Culbertson CJ, et al.",
+                    "content": "Coronary heart disease incidence in women by waist circumference with categories of body mass index.",
+                    "source": "Eur J Prev Cardiol. 2013;20:759\u201362."
+                  },
+                  {
+                    "authors": "Warren TY, Wilcox S, Dowda M, et al.",
+                    "content": "Independent association of waist circumference with hypertension and diabetes in African American women, South Carolina, 2007\u20132009.",
+                    "source": "Prev Chronic Dis. 2012;9:E105."
+                  },
+                  {
+                    "authors": "Cemerich WS, Kenny AP, Stamatakis E, et al.",
+                    "content": "Body mass index, waist circumference and waist-to-hip ratio: which is the better discriminator of cardiovascular disease mortality risk?",
+                    "source": "Evidence from an individual participant meta-analysis of 82,864 participants from nine cohort studies.",
+                    "source_2": "Obes Rev. 2011;12:680\u20137."
+                  },
+                  {
+                    "authors": "Flint AJ, Rexrode KM, Hu FB, et al.",
+                    "content": "Body mass index, waist circumference, and risk of coronary heart disease: a prospective study among men and women.",
+                    "source": "Obes Clin Pract. 2010;4:e66\u201371."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General clinical information": "This document is part of the 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease. It discusses various studies and findings related to cardiovascular risk factors, diabetes, obesity, and lifestyle interventions. Particular focus is given to the effects of diet, medication, and physical activity on cardiovascular outcomes and diabetes management."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "S4.3-4": "Cholesterol Treatment Trialists' Collaboration analyzes the impact of lower LDL cholesterol using statin-based regimens on individual patient data from 28 trials.",
+        "S4.3-8": "Stains for the primary prevention of cardiovascular disease according to the Database PSD Statin.",
+        "S4.3-15": "Higher risk of cardiovascular disease in patients with type 2 diabetes due to diabetes-related factors.",
+        "S4.3-17": "Reduction in cardiovascular events with atorvastatin in patients with type 2 diabetes in a Scandinavian trial.",
+        "S4.3-23": "Stains hinder erectile dysfunction progression in individuals with high cardiovascular risk.",
+        "S4.3-36": "Stains recommended for individuals with elevated hsCRP and LDL cholesterol for acute coronary syndrome prevention.",
+        "S4.3-42": "Low-density lipoprotein cholesterol effects analyzed on patients with cardiovascular risk.",
+        "S4.3-44": "Coronary artery calcium used for assessing cardiovascular risk in older adults."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "publication_details": "JACC VOL. 74, NO. 10, 2019, SEPTEMBER 10, 2019: e177\u2013232",
+        "general_summary": "This guideline covers various aspects of cardiovascular disease prevention, focusing on aspects like statin eligibility, nontraditional risk markers, and lifestyle interventions for primary prevention."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general": "This guideline discusses various clinical studies and meta-analyses related to the primary prevention of cardiovascular disease, focusing on the effects of blood pressure management, lifestyle interventions, medication use, and dietary changes on cardiovascular outcomes.",
+        "topics_covered": [
+          "Aerobic exercise on blood pressure",
+          "Isometric exercise for blood pressure management",
+          "Effect of resistance training",
+          "Alcohol reduction impact on blood pressure",
+          "Diet and blood pressure correlation",
+          "Different blood pressure-lowering regimens",
+          "Systolic blood pressure reduction and cardiovascular risk",
+          "Antihypertensive drugs and disease progression",
+          "Age factor in blood pressure management",
+          "Treatment targets for hypertension",
+          "Blood pressure impact on comorbid conditions like diabetes"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "Purpose": "To provide guidelines on the prevention of cardiovascular diseases with a focus on areas such as high blood pressure, smoking cessation, and obesity.",
+        "Key Points": [
+          "High blood pressure management highlights the importance of lifestyle interventions along with medication.",
+          "Smoking cessation is emphasized with interventions specifically targeting different demographics (e.g., pregnant women and children).",
+          "Evaluation of the benefits and risks of various interventions in lifestyle and clinical settings is essential for tailored prevention."
+        ],
+        "Referenced Studies": [
+          {
+            "Title": "Effects of intensive blood-pressure control in type 2 diabetes",
+            "Journal": "N Engl J Med. 2008;358:2545-59.",
+            "Findings": "Focused on the balance of risks and benefits of tight blood pressure control in diabetic patients."
+          },
+          {
+            "Title": "Effect of intensive blood pressure treatment on myocardial infarction and stroke",
+            "Journal": "Ann Intern Med. 2015;162:202-11.",
+            "Findings": "Meta-analysis examining the benefits of reducing blood pressure to prevent myocardial infarction and stroke."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "focus": "The use of aspirin for the primary prevention of cardiovascular events in various populations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "focus": "Guidelines for the prevention of cardiovascular disease",
+        "contentHighlights": [
+          "Behavioral counseling for cardiovascular disease prevention",
+          "Treatments for smoking cessation in adults, including pregnant women",
+          "Use of aspirin in the prevention of cardiovascular events",
+          "Screening for abnormal glucose and type 2 diabetes mellitus"
+        ],
+        "articleReferences": [
+          {
+            "author": "Patnode CD, Evans CV, Senger CA, et al.",
+            "year": 2017,
+            "journal": "JAMA",
+            "details": "Behavioral counseling to promote a healthful diet and physical activity"
+          },
+          {
+            "author": "LeBlanc ES, Patnode CD, Webber EM, et al.",
+            "year": 2018,
+            "journal": "JAMA",
+            "details": "Behavioral and pharmacotherapy weight-loss interventions"
+          },
+          {
+            "author": "Selph S, Dana T, Bougatsos C, et al.",
+            "year": 2015,
+            "journal": "U.S. Preventive Services Task Force Recommendation",
+            "details": "Screening for abnormal glucose and type 2 diabetes mellitus"
+          },
+          {
+            "author": "Patnode CD, Henderson JT, Thompson JH, et al.",
+            "year": 2015,
+            "journal": "Ann Intern Med",
+            "details": "Behavioral counseling and pharmacotherapy interventions for tobacco cessation"
+          },
+          {
+            "author": "Guirguis-Blake JM, Evans CV, Senger CA, et al.",
+            "year": 2016,
+            "journal": "Ann Intern Med",
+            "details": "Aspirin for the primary prevention of cardiovascular events"
+          }
+        ],
+        "keywords": [
+          "Guidelines",
+          "Antihypertensive agents",
+          "Aspirin",
+          "Atherosclerosis",
+          "Atherosclerotic cardiovascular disease",
+          "Smoking cessation",
+          "Behavior modification",
+          "Blood pressure",
+          "Diabetes mellitus",
+          "Risk factors",
+          "Treatment outcomes",
+          "Socioeconomic factors"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "Appendix": "Search Criteria",
+        "Description": "The document outlines the medical subject headings (MeSH) terms and keywords used in a rapid review conducted by the Evidence-based Practice Center. It includes different categories like Nutrition and Diet, Obesity and Weight Loss, Type 2 Diabetes Mellitus, and Tobacco Use, and the searches conducted since 2017 or 2015, depending on the category."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          {
+            "title": "Aspirin Use",
+            "keywords": [
+              "aspirin",
+              "acetylsalicylic acid",
+              "clopidogrel",
+              "cardiovascular",
+              "coronary",
+              "heart",
+              "myocardial infarction",
+              "MI",
+              "CVD",
+              "CHD",
+              "cerebrovascular",
+              "stroke",
+              "microvascular",
+              "mortality",
+              "prevent"
+            ]
+          },
+          {
+            "title": "Social Determinants of Health",
+            "keywords": [
+              "social determinants of health",
+              "equity",
+              "social status",
+              "social deprivation",
+              "neighborhood",
+              "neighborhood conditions",
+              "uninsured",
+              "housing",
+              "immigration",
+              "adverse childhood events",
+              "social gradient",
+              "educational status",
+              "inequalities",
+              "sexuality",
+              "atherosclerosis",
+              "cardiovascular"
+            ]
+          },
+          {
+            "title": "Team Based Care",
+            "keywords": [
+              "team",
+              "team care",
+              "collaborative care",
+              "multidisciplinary",
+              "team based",
+              "team approach",
+              "prevention",
+              "primary prevention",
+              "cardiovascular disease",
+              "cholesterol",
+              "aspirin",
+              "smoking",
+              "obesity",
+              "heart disease",
+              "atherosclerosis",
+              "stroke"
+            ]
+          },
+          {
+            "title": "Shared Decision Making",
+            "keywords": [
+              "shared decision making",
+              "prevention",
+              "cardiovascular",
+              "atherosclerosis",
+              "stroke",
+              "heart",
+              "hypertension",
+              "lipids",
+              "cholesterol",
+              "diabetes"
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Subject": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "Sections": [
+          {
+            "Title": "Exercise & Physical Activity",
+            "Keywords": [
+              "Meta-Analysis",
+              "Systematic Reviews",
+              "Clinical Trial",
+              "Controlled Clinical Trial",
+              "Randomized Controlled Trial",
+              "Cohort Studies",
+              "Cross-Sectional Studies"
+            ],
+            "Filter": {
+              "Age": "19+ years",
+              "Language": "English"
+            }
+          },
+          {
+            "Title": "Waist Circumference",
+            "Filter": {
+              "Age": "19+ years",
+              "Language": "English"
+            }
+          },
+          {
+            "Title": "Medical Conditions",
+            "Entries": [
+              "Acute Coronary Syndrome",
+              "Angina Unstable",
+              "Myocardial infarction",
+              "Shock cardiogenic",
+              "Myocardial Stunning",
+              "No Reflow Phenomenon",
+              "Heart Arrest",
+              "St elevation myocardial infarction (STEMI)",
+              "Non\u2013st elevation myocardial infarction (NSTEMI)",
+              "Stroke",
+              "Brain Infarction",
+              "Brain Stem Infarctions",
+              "Lateral Medullary Syndrome",
+              "Cerebral Infarction",
+              "Myocardial ischemia",
+              "Myocardial revascularization",
+              "Coronary artery bypass",
+              "Angioplasty",
+              "Heart failure"
+            ]
+          },
+          {
+            "Title": "Hospitalization",
+            "Keywords": [
+              "Coronary stent",
+              "CABG",
+              "Bypass grafts",
+              "Lower extremity revascularization",
+              "Stent placement",
+              "AAA repair"
+            ]
+          },
+          {
+            "Title": "Cardiovascular Conditions",
+            "Keywords": [
+              "Cardiovascular diseases",
+              "Coronary artery disease",
+              "Heart failure",
+              "Cerebrovascular disorders"
+            ]
+          },
+          {
+            "Title": "Physical Activity",
+            "Keywords": [
+              "Exercise tolerance",
+              "Metabolic equivalent",
+              "Life style",
+              "Training",
+              "Walking"
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Medical Subject Headings (MeSH) Terms": {
+          "Acute Coronary Syndrome": [
+            "Acute coronary syndromes"
+          ],
+          "Angina Unstable": [
+            "Unstable angina",
+            "Angina Unstable"
+          ],
+          "Myocardial infarction": [],
+          "Shock cardiogenic": [
+            "shock cardiogenic"
+          ],
+          "Myocardial Stunning": [
+            "myocardial stunning"
+          ],
+          "No Reflow Phenomenon": [],
+          "Heart Arrest": [],
+          "St elevation myocardial infarction": [
+            "STEMI"
+          ],
+          "Non-st elevated myocardial infarction": [
+            "NSTEMI"
+          ],
+          "Death/sudden cardiac": [],
+          "Stroke": [],
+          "Brain Infarction": [],
+          "Brain Stem Infarctions": [],
+          "Lateral Medullary Syndrome": [],
+          "Cerebral Infarction": [],
+          "Myocardial ischemia": [],
+          "Dementia Multi infarct": [],
+          "Myocardial revascularization": [],
+          "Coronary artery bypass": [],
+          "Internal mammary coronary artery anastomosis": [],
+          "Angioplasty": [
+            "angioplasty transluminal percutaneous coronary"
+          ],
+          "Heart failure": [
+            "CHF OR CHD"
+          ],
+          "Hospitalization": [
+            "Hospitalization? OR rehospitalization?"
+          ],
+          "Atherectomy coronary": [],
+          "Coronary stent": [],
+          "CABG": [
+            "bypass grafts"
+          ],
+          "Carotid": [],
+          "Pathology": [],
+          "Physiopathology": [],
+          "Non-coronary revascularization procedure": [],
+          "Carotid revascularization?": [],
+          "Lower extremity revascularization?": [],
+          "Percutaneous transluminal angioplasty?": [],
+          "Stent placement?": [],
+          "Abdominal aortic aneurysm repair?": [],
+          "AAA repair?": [],
+          "Complications": [],
+          "Event? OR outcome? OR episode?": [],
+          "Risk score": [],
+          "Cardiovascular diseases": [
+            "Cardiovascular OR CVD"
+          ],
+          "Cardiovascular disease": [],
+          "Coronary disease": [
+            "coronary"
+          ],
+          "Coronary artery disease": [],
+          "Cerebrovascular disorders": [],
+          "Dyspnea paroxysmal": [],
+          "Edema cardiac": []
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "appendix": "Author Relationships with Industry and Other Entities",
+        "authors": [
+          {
+            "name": "Donna K. Arnett",
+            "employment": "University of Kentucky College of Public Health\u2014Dean and Professor of Epidemiology",
+            "conflicts": {
+              "consultant": "None",
+              "speakers bureau": "None",
+              "ownership/partnership/principal": "None",
+              "personal research": "None",
+              "institutional, organizational, or other financial benefit": "None",
+              "expert witness": "None"
+            }
+          },
+          {
+            "name": "Roger S. Blumenthal",
+            "employment": "Johns Hopkins University\u2014Professor of Medicine and Director, Ciccarone Center for the Prevention of Heart Disease",
+            "conflicts": {
+              "consultant": "None",
+              "speakers bureau": "None",
+              "ownership/partnership/principal": "None",
+              "personal research": "None",
+              "institutional, organizational, or other financial benefit": "None",
+              "expert witness": "None"
+            }
+          }
+        ],
+        "note": "Continued on the next page",
+        "other_authors_count": "Mentioned but not detailed in extracted content"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "date": "September 10, 2019",
+        "committee_members": [
+          {
+            "name": "Salim S. Virani",
+            "employment": "Baylor College of Medicine\u2014Professor, Section of Cardiovascular Research and Director for Research, Cardiology Fellowship Training Program; Michael E. DeBakey VA Medical Center\u2014Staff Cardiologist and Investigator, Health Policy, Quality & Informatics Program, Center for Innovations in Quality, Effectiveness and Safety",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_financial_benefits": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Kim A. Williams, Sr",
+            "employment": "Rush Medical College\u2014James B. Herrick Professor and Chief, Division of Cardiology, Department of Internal Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_financial_benefits": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Joseph Yeboah",
+            "employment": "Wake Forest Baptist Health\u2014Associate Professor, Internal Medicine, Cardiovascular",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_financial_benefits": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Boback Ziaeian",
+            "employment": "University of California at Los Angeles/U.S. Department of Veterans Affairs Greater Los Angeles Healthcare System, David Geffen School of Medicine\u2014Assistant Professor, Division of Cardiology",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_financial_benefits": "None",
+            "expert_witness": "None"
+          }
+        ],
+        "disclosure_section": "Describes the relationships of committee members with industry and other entities relevant to the document."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "APPENDIX 3. REVIEWER RELATIONSHIPS WITH INDUSTRY AND OTHER ENTITIES (COMPREHENSIVE)\u20142019 ACC/AHA GUIDELINE ON THE PRIMARY PREVENTION OF CARDIOVASCULAR DISEASE",
+        "description": "This document details the reviewer relationships with industry and other entities for the 2019 ACC/AHA guideline on cardiovascular disease prevention.",
+        "information": [
+          {
+            "name": "Amy Peterson",
+            "role": "Official Reviewer\u2014AHA",
+            "employment": "Hospital Affiliations: American Family Children's Hospital; UnityPoint Health\u2014Meriter; UW School of Medicine and Public Health Department of Pediatrics",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "financial_benefit": "None",
+            "expert_witness": "None",
+            "salary": "None"
+          },
+          {
+            "name": "Kim K. Birchter",
+            "role": "Official Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines Lead Reviewer",
+            "employment": "University of Houston, College of Pharmacy, Clinical Professor",
+            "consultant": "Jones & Bartlett Learning",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "financial_benefit": "Accreditation Council for Clinical Lipidology (Other category)",
+            "expert_witness": "None",
+            "salary": "None"
+          },
+          {
+            "name": "Sanjay Gandhi",
+            "role": "Official Reviewer\u2014ACC",
+            "employment": "Metro Health Medical Center Cleveland, Associate Professor, Case Western Reserve University School of Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "Cleveland Heart Lab, Juventas",
+            "financial_benefit": "Athersys (Data Safety Monitoring Board), Tendryne (Other category)",
+            "expert_witness": "None",
+            "salary": "None"
+          },
+          {
+            "name": "Andrea Price",
+            "role": "Official Reviewer\u2014ACC Science and Quality Committee",
+            "employment": "Quality Databases at Indiana University Health, Director",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "financial_benefit": "ACC",
+            "expert_witness": "None",
+            "salary": "None"
+          },
+          {
+            "name": "Jennifer E. Sanner Beauchamp",
+            "role": "Content Reviewer\u2014AHA",
+            "employment": "University of Texas Health Science Center, Cizik School of Nursing, Associate Professor",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "financial_benefit": "None",
+            "expert_witness": "None",
+            "salary": "None"
+          },
+          {
+            "name": "Glenn N. Levine",
+            "role": "Content Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+            "employment": "Professor of Medicine at Baylor College of Medicine in Houston, Texas",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "financial_benefit": "Out of hospital cardiopulmonary arrest 2017 (Defendant), Out of hospital death 2018 (Defendant)",
+            "expert_witness": "None",
+            "salary": "None"
+          },
+          {
+            "name": "Patrick T. O\u2019Gara",
+            "role": "Content Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+            "employment": "Director of Strategic Planning for the Cardiovascular Division at Brigham and Women's Hospital, the Watkins Family Distinguished Chair in Cardiology and Professor of Medicine at Harvard Medical School",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "Edwards Scientific (Other), Medtronic (Other), NIH (Other)",
+            "financial_benefit": "None",
+            "expert_witness": "None",
+            "salary": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Reviewers": [
+          {
+            "Name": "Joshua A. Beckman",
+            "Representation": "ACC/AHA Task Force on Clinical Practice Guidelines",
+            "Employment": "Director, Vascular Medicine; Professor of Medicine at Vanderbilt University",
+            "Consultant": [
+              "Aralez Pharmaceuticals",
+              "AstraZeneca Pharmaceuticals",
+              "Janssen Scientific Affairs",
+              "ER Squibb & Sons",
+              "Boehringer Ingelheim Pharmaceuticals",
+              "Merck",
+              "Sanofi"
+            ],
+            "Speakers Bureau": [
+              "AstraZeneca Pharmaceuticals"
+            ],
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "Bristol-Myers Squibb",
+              "Bayer (Data Safety Monitoring Board)",
+              "Novartis Corporation (Data Safety Monitoring Board)",
+              "Vascular Interventional Advances",
+              "EMX",
+              "JanaCare"
+            ],
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "Anita Deswal",
+            "Representation": "ACC/AHA Task Force on Clinical Practice Guidelines",
+            "Employment": "Chief, Cardiology, Michael E. DeBakey VA Medical Center & Baylor College of Medicine; Professor, Baylor College of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "NIH",
+              "ACC/AHA",
+              "Novartis Corporation",
+              "AHA Get With The Guidelines Steering Committee",
+              "Heart Failure Society of America",
+              "Immediate Past Chair and Member, AHA Committee on Heart Failure and Transplantation",
+              "NIH"
+            ],
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "Federico Gentile",
+            "Representation": "ACC/AHA Task Force on Clinical Practice Guidelines",
+            "Employment": "Centro Medico Diagnostico\u2013Director, Cardiovascular Disease",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "Jos\u00e9 A. Joglar",
+            "Representation": "ACC/AHA Task Force on Clinical Practice Guidelines",
+            "Employment": "Program Director, Clinical Cardiac Electrophysiology Fellowship Program; Professor, UT Southwestern Medical Center",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Expert Witness": "None",
+            "Salary": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Reviewers": [
+          {
+            "Name": "Duminda N. Wijeysundera",
+            "Representation": "Content Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+            "Employment": "Associate Professor Anesthesia, University of Toronto",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "Canadian Institutes of Health Research",
+              "Ministry of Health and Longterm Care of Ontario (Canada)",
+              "NIH"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "PCORI (Data Safety Monitoring Board)"
+            ],
+            "Expert Witness": "None",
+            "Salary": "Canadian Institutes of Health Research (Ottawa, Ontario, Canada)"
+          },
+          {
+            "Name": "Eileen M. Handberg",
+            "Representation": "Content Reviewer\u2014ACC",
+            "Employment": "Research Professor of Medicine; Director, Clinical Trials Program; Program Director, Florida CARES, UF Health",
+            "Consultant": "Bristol-Myers Squibb Company",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "Aastrom Biosciences",
+              "Amorcyte, Inc",
+              "Biocardia, Inc",
+              "Brigham and Women's Hospital",
+              "Capricor",
+              "Cytori Therapeutics, Inc.",
+              "Department of Defense",
+              "Direct Flow Medical",
+              "Duke Clinical Research Institute",
+              "East Carolina University",
+              "Everolast Inc.",
+              "MEDTRONIC",
+              "Merck & Co., Inc.",
+              "Mesoblast Inc.",
+              "NIH",
+              "PCORI",
+              "Sanofi Aventis"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Amgen (Other)",
+              "AstraZeneca (Other)",
+              "Boehringer Ingelheim (Other)",
+              "Daiichi Sankyo (Other)",
+              "Gilead Sciences, Inc. (Other)",
+              "Ionis (Other)",
+              "Relypsa (Other)"
+            ],
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "Prem Soman",
+            "Representation": "Content Reviewer\u2014ACC",
+            "Employment": "Associate Professor of Medicine (Cardiology); Director, Nuclear Cardiology, UPMC",
+            "Consultant": "Alnylam Pharma",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "American Society of Nuclear Cardiology"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Astellas Pharma US"
+            ],
+            "Expert Witness": "None",
+            "Salary": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "appendix": "Provides details of conflicts of interest for reviewers of the ACC/AHA guidelines.",
+        "reviewers": [
+          {
+            "name": "Eric Stecker",
+            "role": "Associate Professor of Medicine, Division of Cardiovascular Medicine, School of Medicine, OHSU",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "Hygiea / Desi MD",
+            "personal_research": "American Heart Association, Medical Research Foundation of Oregon",
+            "institutional_benefit": "None",
+            "expert_witness": "None",
+            "salary": "None"
+          },
+          {
+            "name": "Pamela Morris",
+            "role": "Professor, Medical University of South Carolina",
+            "consultant": "Amgen Inc., Sanofi, Regeneron",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_benefit": "None",
+            "expert_witness": "None",
+            "salary": "None"
+          },
+          {
+            "name": "Andrew Freeman",
+            "role": "Director, Clinical Cardiology and Operations; Co-Director, Nuclear Cardiology, National Jewish Health",
+            "consultant": "None",
+            "speakers_bureau": "Boehringer Ingelheim",
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_benefit": "None",
+            "expert_witness": "None",
+            "salary": "None"
+          },
+          {
+            "name": "Carl J. Lavie",
+            "role": "Medical Director, Cardiac Rehabilitation and Prevention, Ochsner Clinic Foundation",
+            "consultant": "Amgen, ER Squibb & Sons, Pfizer, Aralez Pharmaceuticals, Amarin Pharma, Sanofi Aventis",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_benefit": "None",
+            "expert_witness": "None",
+            "salary": "None"
+          },
+          {
+            "name": "James Stein",
+            "role": "Director, UW Health Preventive Cardiology Program; Robert Turell Professor in Cardiovascular Research, UW School of Medicine and Public Health",
+            "consultant": "Eli Lilly and Company (DSMB)",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "Up To Date, Wisconsin Alumni Research Foundation",
+            "institutional_benefit": "None",
+            "expert_witness": "None",
+            "salary": "None"
+          },
+          {
+            "name": "Heather Johnson",
+            "role": "Associate Professor in the Division of Cardiovascular Medicine at the University of Wisconsin School of Medicine and Public Health",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "Pfizer",
+            "institutional_benefit": "None",
+            "expert_witness": "None",
+            "salary": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document_title": "2019 ACC/AHA Guidelines on the Primary Prevention of Cardiovascular Disease",
+        "reviewers": [
+          {
+            "name": "Nanette Wenger",
+            "role": "Content Reviewer",
+            "representation": "AHA",
+            "employment": "Professor of Medicine, Division of Cardiology, Emory University School of Medicine.",
+            "consultants": [
+              "Janssen Pharmaceuticals, Inc",
+              "Amgen",
+              "AstraZeneca",
+              "Gilead Sciences",
+              "Merck"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": [
+              "Gilead Sciences",
+              "NHLBI",
+              "Pfizer",
+              "Society for Women\u2019s Health Research"
+            ],
+            "financial_benefit": "None",
+            "expert_witness": "None",
+            "salary": "None"
+          },
+          {
+            "name": "Michael Blaha",
+            "role": "Content Reviewer",
+            "representation": "AHA",
+            "employment": "Director of Clinical Research, Ciccarone Center for the Prevention of Heart Disease; Associate Professor of Medicine, Johns Hopkins Medicine",
+            "consultants": [
+              "Ferring Pharmaceuticals",
+              "Regeneron Pharmaceuticals",
+              "Sanofi-Aventis",
+              "Amgen",
+              "Akcea",
+              "MedImmune",
+              "Novartis",
+              "Novo Nordisk",
+              "Siemens",
+              "ACC"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": [
+              "Aetna",
+              "Amgen",
+              "AHA",
+              "FDA",
+              "NIH"
+            ],
+            "financial_benefit": "None",
+            "expert_witness": "None",
+            "salary": "None"
+          },
+          {
+            "name": "Laurence Sperling",
+            "role": "Content Reviewer",
+            "representation": "ACC/AHA",
+            "employment": "Founder and Director of Preventive Cardiology at the Emory Clinic, Co-Director of the Cardiovascular Disease Fellowship Program at Emory, Professor of Medicine (Cardiology) at the Emory University School of Medicine",
+            "consultants": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "financial_benefit": "None",
+            "expert_witness": "None",
+            "salary": "None"
+          },
+          {
+            "name": "Seth Martin",
+            "role": "Content Reviewer",
+            "representation": "ACC/AHA",
+            "employment": "Director, Advanced Lipid Disorders Program of the Ciccarone Center; Associate Professor of Medicine at Johns Hopkins Medicine",
+            "consultants": [
+              "Amgen",
+              "Akcea Therapeutics",
+              "Quest Diagnostics",
+              "Sanofi-Regeneron",
+              "Esperion",
+              "Novo Nordisk"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "Aetna Foundation, Apple, Google, iHealth, Maryland Innovation Initiative, AHA",
+            "personal_research": [
+              "Corrie Health (Officer, Director, Trustee, or other Fiduciary Role)",
+              "Co-inventor on pending patent filed by Johns Hopkins University for method of LDL-C estimation (Other)"
+            ],
+            "financial_benefit": "None",
+            "expert_witness": "None",
+            "salary": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Section": "Appendix 3. Continued",
+        "Publication": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+        "Reviewers": [
+          {
+            "Name": "Samia Mora",
+            "Representation": "Content Reviewer\u2014ACC/AHA",
+            "Employment": "Associate Professor of Medicine, Harvard Medical School",
+            "Affiliations": "Director, Center for Lipid Metabolomics, Brigham and Women's Hospital",
+            "Consultant": [
+              "Pri-Med",
+              "Pfizer",
+              "Quest Diagnostics"
+            ],
+            "Speakers Bureau": "None",
+            "Other Financial Benefits": [
+              "C3 Conference (Other)",
+              "European Atherosclerosis Society (Other)",
+              "FEBS Congress (Other)",
+              "Oregon Health & Science University (Other)",
+              "Vascular Biology Working Group Meeting (Other)",
+              "Atherotech Diagnostics",
+              "Pfizer",
+              "Quest Diagnostics",
+              "NHLBI",
+              "NIDDK"
+            ]
+          },
+          {
+            "Name": "Clyde Yancy",
+            "Representation": "Content Reviewer\u2014ACC/AHA",
+            "Employment": "Chief of Cardiology, Northwestern Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Other Financial Benefits": "JAMA Cardiology (Other)"
+          },
+          {
+            "Name": "Quinn Pack",
+            "Representation": "AACVPR",
+            "Employment": "Assistant Professor of Medicine, University of Massachusetts Medical School",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Other Financial Benefits": "None"
+          },
+          {
+            "Name": "Frank Sacks",
+            "Representation": "ASN",
+            "Employment": "Professor of Cardiovascular Disease Prevention, Harvard School of Public Health",
+            "Consultant": [
+              "Amgen",
+              "Pfizer",
+              "AstraZeneca"
+            ],
+            "Speakers Bureau": "None",
+            "Other Financial Benefits": "None"
+          },
+          {
+            "Name": "Salvatore Lacagnina",
+            "Representation": "ACPM",
+            "Employment": "System Medical Director of Wellness & Employee Health, Lee Health",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Other Financial Benefits": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "appendix": "Disclosure information of contributors to the 2019 ACC/AHA Guidelines on the Primary Prevention of Cardiovascular Disease. It includes details on employment, consultancy, speakers bureau, ownership, and other financial benefits related to their roles."
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "APOB",
+      "Associated Conditions": [
+        "ASCVD"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Elevated apoB (\u2265130 mg/dL). A relative indication for its measurement would be triglyceride \u2265200 mg/dL. A level \u2265130 mg/dL corresponds to an LDL-C \u2265160 mg/dL and constitutes a risk-enhancing factor"
+      ]
+    }
+  ]
+}

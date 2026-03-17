@@ -1,0 +1,47 @@
+{
+  "content": {
+    "Title": "Applying Classification of Recommendations and Level of Evidence",
+    "Classification": {
+      "Class I": {
+        "Definition": "Benefit >>> Risk. Procedure/Treatment SHOULD be performed/administered.",
+        "Level A": "Multiple populations evaluated. Data derived from multiple randomized clinical trials or meta-analyses.",
+        "Level B": "Limited populations evaluated. Data derived from a single randomized trial or nonrandomized studies.",
+        "Level C": "Very limited populations evaluated. Only consensus opinion of experts, case studies, or standard of care."
+      },
+      "Class IIa": {
+        "Definition": "Benefit >> Risk. Additional studies with focused objectives needed. IT IS REASONABLE to perform procedure/administer treatment.",
+        "Level A": "Multiple populations evaluated. Data derived from multiple randomized clinical trials or meta-analyses.",
+        "Level B": "Limited populations evaluated. Data derived from a single randomized trial or nonrandomized studies.",
+        "Level C": "Very limited populations evaluated. Only consensus opinion of experts, case studies, or standard of care."
+      },
+      "Class IIb": {
+        "Definition": "Benefit \u2265 Risk. Additional studies with broad objectives needed. Additional registry data would be helpful. Procedure/Treatment MAY BE CONSIDERED.",
+        "Level A": "Recommendation\u2019s usefulness/effectiveness is less well established. Greater conflicting evidence from multiple randomized trials or meta-analyses.",
+        "Level B": "Recommendation\u2019s usefulness/effectiveness is less well established. Greater conflicting evidence from single randomized trial or nonrandomized studies.",
+        "Level C": "Recommendation\u2019s usefulness/effectiveness is less well established. Only diverging expert opinion, case studies, or standard of care."
+      },
+      "Class III": {
+        "No Benefit": {
+          "Definition": "Procedure/Treatment is not useful/effective and may be harmful.",
+          "Level A": "Sufficient evidence from multiple randomized trials or meta-analyses.",
+          "Level B": "Recommendation that procedure or treatment is not useful/effective and may be harmful.",
+          "Level C": "Recommendation that procedure or treatment is not useful/effective and may be harmful."
+        },
+        "Harm": {
+          "Definition": "Procedure/Treatment is not recommended and may be harmful.",
+          "Level A": "Causes harm according to multiple randomized trials or meta-analyses.",
+          "Level B": "Causes harm according to single randomized trial or nonrandomized studies.",
+          "Level C": "Causes harm based on expert opinion, case studies, or standard of care."
+        }
+      }
+    },
+    "Comparator Phrases": {
+      "Class IIa, Level of Evidence A or B": "Comparative effectiveness phrases have been suggested."
+    },
+    "Task Force Information": {
+      "Purpose": "To avoid actual, potential, or perceived conflicts of interest.",
+      "Writing Committee": "The writing committee members volunteered their time."
+    }
+  },
+  "genes": []
+}

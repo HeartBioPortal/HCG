@@ -1,0 +1,88 @@
+{
+  "content": {
+    "guideline_summary": "The guideline discusses the pharmacokinetic characteristics, monitoring, and reversal of Vitamin K Antagonists and Direct Oral Anticoagulants (DOACs) for perioperative management. It compares Warfarin with DOACs such as Apixaban, Rivaroxaban, Edoxaban, and Dabigatran, focusing on their mechanisms, bioavailability, time to peak concentration, half-lives, duration of action, renal clearance, and interactions. The guideline also covers the management of anticoagulation around surgical procedures, including recommendations on when to hold or reverse anticoagulation therapy in high-risk bleeding situations.",
+    "drug_comparisons": [
+      {
+        "drug": "Warfarin",
+        "properties": {
+          "mechanism": "VKORC1 (vitamin K-dependent factors)",
+          "bioavailability": ">95%",
+          "time_to_Cmax": "2-6 h",
+          "half_life": "36-48 h",
+          "duration": "~5 d (beyond normalization of INR)",
+          "renal_clearance": "0%",
+          "interactions": "CYP p450 3A4, p-glycoprotein",
+          "monitor": "PT/INR",
+          "reversal": "Vitamin K, 4F-PCC, FFP"
+        }
+      },
+      {
+        "drug": "Apixaban",
+        "properties": {
+          "mechanism": "Factor Xa inhibitor",
+          "bioavailability": "50%",
+          "time_to_Cmax": "3-4 h",
+          "half_life": "9-14 h",
+          "duration": "24 h",
+          "renal_clearance": "27%",
+          "interactions": "CYP 450 3A4/2J2, p-glycoprotein",
+          "monitor": "Anti-Xa* (DOAC)",
+          "reversal": "4F-PCC, andexanet alfa"
+        }
+      },
+      {
+        "drug": "Rivaroxaban",
+        "properties": {
+          "mechanism": "Factor Xa inhibitor",
+          "bioavailability": "100% (66% without food)",
+          "time_to_Cmax": "2-4 h",
+          "half_life": "5-9 h (11-13 h in older persons)",
+          "duration": "24 h",
+          "renal_clearance": "33%",
+          "interactions": "CYP 450 3A4/2J2, p-glycoprotein",
+          "monitor": "Anti-Xa* (DOAC)",
+          "reversal": "4F-PCC, andexanet alfa"
+        }
+      },
+      {
+        "drug": "Edoxaban",
+        "properties": {
+          "mechanism": "Factor Xa inhibitor",
+          "bioavailability": "62%",
+          "time_to_Cmax": "1-2 h",
+          "half_life": "10-14 h",
+          "duration": "24 h",
+          "renal_clearance": "37%-59%",
+          "interactions": "CYP 450 3A4 (<5%), p-glycoprotein",
+          "monitor": "Anti-Xa* (DOAC)",
+          "reversal": "4F-PCC, andexanet alfa"
+        }
+      },
+      {
+        "drug": "Dabigatran",
+        "properties": {
+          "mechanism": "Factor IIa inhibitor (direct thrombin inhibitor)",
+          "bioavailability": "3%-7%",
+          "time_to_Cmax": "1.25-3 h",
+          "half_life": "12-15 h",
+          "duration": "24 h",
+          "renal_clearance": "85% (partially dialyzable)",
+          "interactions": "p-glycoprotein",
+          "monitor": "ECT (DOAC)",
+          "reversal": "4F-PCC, idarucizumab"
+        }
+      }
+    ],
+    "management_insights": "Guideline emphasizes the importance of managing anticoagulation around surgery, considering bridging anticoagulation in high thrombotic risk patients and discusses the limited availability of supportive data for anticoagulation safety and effectiveness during such procedures."
+  },
+  "genes": [
+    {
+      "Gene": "VKORC1",
+      "Associated Conditions": [
+        "Bleeding Management with Vitamin K antagonists"
+      ],
+      "Occurrences": 1,
+      "context": "Warfarin operates through the VKORC1 (vitamin K-dependent factors) mechanism."
+    }
+  ]
+}

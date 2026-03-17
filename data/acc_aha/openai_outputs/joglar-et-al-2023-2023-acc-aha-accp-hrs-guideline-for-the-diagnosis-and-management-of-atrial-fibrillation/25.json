@@ -1,0 +1,19 @@
+{
+  "content": {
+    "Recommendations for Basic Clinical Evaluation": {
+      "1": "In patients with newly diagnosed AF, a transthoracic echocardiogram is recommended to assess cardiac structure, laboratory testing to include a complete blood count, metabolic panel, and thyroid function. Additional targeted testing for other conditions associated with AF is advised to determine stroke and bleeding risk factors and other underlying conditions for further management.",
+      "2": "For patients with newly diagnosed AF, routine protocolized testing for ischemia, acute coronary syndrome (ACS), and pulmonary embolism (PE) is not recommended unless other signs or symptoms suggest these disorders."
+    },
+    "Synopsis": "Initial clinical evaluation should confirm the diagnosis of AF and identify clinical factors relevant to management. Targeted history and physical examination should be performed. An ECG assesses electrical abnormalities. A transthoracic echocardiogram provides information on chamber size, thickness, function, and underlying pathologies. Additional specialized testing may be pursued based on initial evaluations. Laboratory testing can detect or rule out other medical conditions associated with AF."
+  },
+  "genes": [
+    {
+      "Gene": "CKD5",
+      "Associated Conditions": [
+        "Kidney dysfunction"
+      ],
+      "Occurrences": 1,
+      "context": "Laboratory testing can detect other medical conditions that are associated with AF and would impact therapeutic decision making, such as CKD5, liver dysfunction, and hyperthyroidism."
+    }
+  ]
+}

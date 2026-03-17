@@ -1,0 +1,15 @@
+{
+  "content": {
+    "alcohol_relationship": "No RCTs support moderate alcohol consumption to reduce cardiovascular risk, with studies suggesting no safe level of alcohol use.",
+    "substance_use": "Substance use, including cannabis, amphetamines, opioids, marijuana, and alcohol, is a significant contributor to cardiovascular disease risk.",
+    "cardiovascular_observations": {
+      "alcohol": "A J-shaped relationship exists between alcohol consumption and death, with a lower incidence of cardiovascular and all-cause death at 5-25 g/d.",
+      "cocaine_amphetamines": "Associated with stimulation of the sympathetic nervous system, increased myocardial oxygen demand, and cocaine-associated chest pain.",
+      "opioids": "Possibly associated with MI, high potential for dependence, and drug-drug interactions.",
+      "marijuana": "Involves sympathetic nervous stimulation, platelet activation, endothelial dysfunction, and carbon monoxide toxicity."
+    },
+    "study_findings": "In patients presenting with an MI from 2000 to 2016, 10% were under 50 years old, with recreational drug use associated with premature CVD.",
+    "recommendation": "Substance use significantly contributes to CVD risk. Long-term opioid use for patients with CCD and chronic pain should be avoided."
+  },
+  "genes": []
+}

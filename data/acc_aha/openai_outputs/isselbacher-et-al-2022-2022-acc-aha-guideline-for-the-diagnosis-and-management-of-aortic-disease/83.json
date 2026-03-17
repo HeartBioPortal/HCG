@@ -1,0 +1,24 @@
+{
+  "content": {
+    "Recommendations": [
+      {
+        "COR": "1",
+        "LOE": "C-LD",
+        "Recommendation": "In patients with a suspected AAS, CT is recommended for initial diagnostic imaging, given its wide availability, accuracy, and speed, as well as the extent of anatomic detail it provides."
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-LD",
+        "Recommendation": "In patients with a suspected AAS, TEE and MRI are reasonable alternatives for initial diagnostic imaging."
+      }
+    ],
+    "Synopsis": "A plain chest x-ray is not sufficiently sensitive or specific for AAS diagnosis but certain radiographic findings may raise suspicion of aortic dissection. CT, TEE, and MRI are accurate for AAS diagnosis. Aortography is rarely used. Detection risk scores like AAD-RS or AORTAcan help evaluate patients presenting with AAS.",
+    "Imaging Modalities": {
+      "CT": "Shows full extent of dissection, detects aortic branch vessel involvement, vessel patency, signs of malperfusion, and other related conditions.",
+      "TEE and MRI": "Reasonable alternatives to CT but less commonly used as the first option.",
+      "Aortography": "Rarely used due to being more invasive and less sensitive."
+    },
+    "Biomarkers": "A non-elevated D-dimer (<500 ng/mL) may exclude AAS in low probability cases. Low D-dimer might be useful in diagnosis exclusion."
+  },
+  "genes": []
+}

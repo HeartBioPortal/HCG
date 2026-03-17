@@ -1,0 +1,24 @@
+{
+  "content": {
+    "summary": "The guideline discusses recommendations for the use of beta blockers in patients after revascularization, particularly those with stable ischemic heart disease (SIHD) and normal left ventricular function. It concludes that the routine use of beta blockers is not beneficial in reducing cardiovascular events after complete revascularization. For patients after CABG (Coronary Artery Bypass Grafting), beta blockers are recommended to reduce the incidence of postoperative atrial fibrillation.",
+    "recommendations": [
+      {
+        "topic": "Beta Blockers in Patients After Revascularization",
+        "class_of_recommendation": "3: No benefit",
+        "level_of_evidence": "C-LD",
+        "recommendation": "In patients with SIHD and normal left ventricular function, the routine use of chronic oral beta blockers is not beneficial to reduce cardiovascular events after complete revascularization."
+      },
+      {
+        "topic": "Beta Blockers for the Prevention of Atrial Fibrillation After CABG",
+        "class_of_recommendation": "1",
+        "level_of_evidence": "B-R",
+        "recommendation": "In patients after CABG, beta blockers are recommended and should be started as soon as possible to reduce the incidence or clinical sequelae of postoperative atrial fibrillation."
+      }
+    ],
+    "supportive_text": [
+      "In patients with preserved left ventricular function, there is a lack of data supporting the routine use of beta blockers after revascularization.",
+      "Large meta-analyses and observational studies have not shown benefits of beta blockers in patients undergoing PCI for stable angina."
+    ]
+  },
+  "genes": []
+}

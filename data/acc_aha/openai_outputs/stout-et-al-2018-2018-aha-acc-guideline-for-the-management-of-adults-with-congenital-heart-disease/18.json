@@ -1,0 +1,18 @@
+{
+  "content": {
+    "overview": "The guideline provides a comparison of imaging modalities for evaluating adults with congenital heart disease (ACHD), discussing factors such as radiation exposure, cost, and effectiveness in assessing ventricular volumes, valvular structure, coronary anatomy, and extracardiac vascular anatomy.",
+    "CCT Imaging": {
+      "recommendation": "CCT imaging is advised for ACHD when other diagnostic methods are insufficient to justify ionizing radiation exposure.",
+      "issues": "Major disadvantage is the exposure to ionizing radiation, concerning for patients needing many assessments over their lifetime.",
+      "techniques": "Gating CCT to ECG allows accurate imaging during cardiac cycles, reducing doses when assessing extracardiac structures."
+    },
+    "Cardiac Catheterization": {
+      "role": "Standard in precise anatomical assessment or when additional data is needed, avoiding reliance on other diagnostic techniques.",
+      "recommendations": [
+        "For ACHD patients at classification II and III, cardiac catheterization should be performed by experienced cardiologists.",
+        "Consider angiography for patients with a low CAD pretest probability to exclude significant CAD."
+      ]
+    }
+  },
+  "genes": []
+}

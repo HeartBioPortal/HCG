@@ -1,0 +1,41 @@
+{
+  "content": {
+    "Title": "Considerations in Managing Anticoagulants",
+    "Source": "2023 Guideline for the Diagnosis and Management of Atrial Fibrillation",
+    "Volume": "JACC VOL. 83, NO. 1, 2024",
+    "Date": "January 2/9, 2024",
+    "Synopsis": "This guideline focuses on selecting optimal oral anticoagulants (OAC) for patients with atrial fibrillation (AF), emphasizing factors such as efficacy, safety, insurance coverage, renal/hepatic function, drug interactions, and patient preferences. Recommendations include monitoring drug interactions, particularly with direct oral anticoagulants (DOACs) affected by inducers or inhibitors like CYP3A4 and p-glycoprotein. The importance of maintaining therapeutic drug levels and ensuring consistency in dietary habits, such as vitamin K intake, is highlighted to minimize preventable thromboembolism or bleeding and improve survival rates.",
+    "Key Recommendations": [
+      {
+        "Class": 1,
+        "Level": "C-LD",
+        "Recommendation": "For patients with AF receiving DOACs, optimize management of drug interactions, especially with CYP3A4 and/or p-glycoprotein inhibitors or inducers."
+      },
+      {
+        "Class": 1,
+        "Level": "B-R",
+        "Recommendation": "For patients with AF receiving warfarin, target INR between 2 and 3. Ensure optimal drug interaction management, consistent vitamin K intake, and routine monitoring to minimize bleeding risks."
+      },
+      {
+        "Class": 3,
+        "Level": "B-NR",
+        "Recommendation": "Avoid nonevidence-based doses of DOACs in patients with AF to minimize thromboembolism and bleeding risks."
+      }
+    ],
+    "Additional Notes": {
+      "Recommendations": "Referenced studies supporting the recommendations are summarized in an Online Data Supplement.",
+      "Population": "Excludes patients with mechanical valves.",
+      "Drug Specifics": "Discusses contraindications and dose adjustments linked to drug interactions, especially with rivaroxaban and apixaban."
+    }
+  },
+  "genes": [
+    {
+      "Gene": "CYP3A4",
+      "Associated Conditions": [
+        "Drug interaction risk in patients on DOACs"
+      ],
+      "Occurrences": 3,
+      "context": "Strong CYP3A4 inhibitors such as ketoconazole, itraconazole, and ritonavir may significantly increase DOAC plasma levels and the risk of bleeding."
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "content": {
+    "Guideline_Title": "2024 Peripheral Artery Disease Guideline",
+    "Sections": [
+      {
+        "Title": "Revacularization Techniques and Registries for Chronic Symptomatic PAD and CLI",
+        "Details": [
+          {
+            "Number": 1,
+            "Authors": [
+              {
+                "LastName": "Bailey",
+                "FirstName": "ES"
+              },
+              {
+                "LastName": "Beckman",
+                "FirstName": "JA"
+              },
+              {
+                "LastName": "Dao",
+                "FirstName": "TD"
+              }
+            ],
+            "Affiliations": [
+              "AC/AHA/CCI/SIR/SV/ISBI"
+            ],
+            "Summary": "Provides appropriate use criteria for peripheral artery intervention with contributions from notable cardiovascular and radiology societies."
+          },
+          {
+            "Number": 2,
+            "Authors": [
+              {
+                "LastName": "Feldman",
+                "FirstName": "DN"
+              },
+              {
+                "LastName": "Armstrong",
+                "FirstName": "EJ"
+              },
+              {
+                "LastName": "Aronow",
+                "FirstName": "HD"
+              }
+            ],
+            "Summary": "Offers guidelines on device selection in aorto-iliac artery interventions."
+          },
+          {
+            "Number": 3,
+            "Authors": [
+              {
+                "LastName": "Kwo",
+                "FirstName": "K"
+              },
+              {
+                "LastName": "Siracuse",
+                "FirstName": "JJ"
+              },
+              {
+                "LastName": "Kingbiel",
+                "FirstName": "K"
+              }
+            ],
+            "Summary": "Appropriate use criteria for management of intermittent claudication."
+          },
+          {
+            "Number": 4,
+            "Authors": [
+              {
+                "LastName": "Society for Vascular Surgery"
+              }
+            ],
+            "Summary": "Provides resources and guidelines for vascular quality initiatives."
+          },
+          {
+            "Number": 5,
+            "Organizations": [
+              "Society of Interventional Radiology"
+            ],
+            "Summary": "Virtual data repository for registry reviews."
+          }
+        ]
+      },
+      {
+        "Title": "Revascularization for Claudication",
+        "Details": [
+          {
+            "Number": 10,
+            "Authors": [
+              {
+                "LastName": "Bonaca",
+                "FirstName": "MP"
+              },
+              {
+                "LastName": "Bauersachs",
+                "FirstName": "RM"
+              },
+              {
+                "LastName": "Anand",
+                "FirstName": "SS"
+              }
+            ],
+            "Summary": "Rivaroxaban in peripheral artery disease after revascularization."
+          },
+          {
+            "Number": 11,
+            "Authors": [
+              {
+                "LastName": "Schneider",
+                "FirstName": "GP"
+              },
+              {
+                "LastName": "Richardson",
+                "FirstName": "AJ"
+              },
+              {
+                "LastName": "Scott",
+                "FirstName": "EC"
+              }
+            ],
+            "Summary": "Controversies in re-interventions after subintimal angioplasty."
+          },
+          {
+            "Number": 12,
+            "Authors": [
+              {
+                "LastName": "Jones",
+                "FirstName": "DW"
+              },
+              {
+                "LastName": "Schanz",
+                "FirstName": "A"
+              }
+            ],
+            "Summary": "Growing impact of frailness on the surgical treatment of peripheral artery disease."
+          },
+          {
+            "Number": 13,
+            "Authors": [
+              {
+                "LastName": "Bodewes",
+                "FirstName": "TC"
+              },
+              {
+                "LastName": "Soden",
+                "FirstName": "PA"
+              }
+            ],
+            "Summary": "Risk factors for 30-day unplanned readmission following infrainguinal endovascular interventions."
+          },
+          {
+            "Number": 14,
+            "Authors": [
+              {
+                "LastName": "Kim",
+                "FirstName": "T"
+              },
+              {
+                "LastName": "Kiwan",
+                "FirstName": "G"
+              }
+            ],
+            "Summary": "Ampulation-free survival predictors after revascularization in patients with chronic limb-threatening ischemia."
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

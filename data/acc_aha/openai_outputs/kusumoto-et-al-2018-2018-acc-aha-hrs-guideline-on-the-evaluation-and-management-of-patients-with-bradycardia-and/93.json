@@ -1,0 +1,44 @@
+{
+  "content": {
+    "guideline": "2018 Bradycardia Guideline",
+    "topics": [
+      "Effects of pacing in patients with heart failure",
+      "Complications of pacemaker implantation",
+      "Pacemaker syndrome",
+      "Management of cardiac conditions associated with gene mutations"
+    ],
+    "procedures": [
+      "Pacemaker implantation",
+      "AV nodal modification",
+      "Implantable cardioverter-defibrillator use"
+    ],
+    "conditions": [
+      "Heart block",
+      "Atrioventricular nodal reentrant tachycardia",
+      "Sarcoidosis",
+      "Familial dilated cardiomyopathy"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [
+        "Atrioventricular block",
+        "Dilated cardiomyopathy",
+        "Conduction disease",
+        "Arrhythmias"
+      ],
+      "Occurrences": 5,
+      "context": "Reports of cardiac conditions associated with LMNA mutations include familial dilated cardiomyopathy, arrhythmias, conduction disease, and atrioventricular block."
+    },
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "Cardiac conduction disease",
+        "Arrhythmias"
+      ],
+      "Occurrences": 1,
+      "context": "SCN5A mutations are implicated in cardiac conduction disease and arrhythmias."
+    }
+  ]
+}

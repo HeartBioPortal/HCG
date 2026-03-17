@@ -1,0 +1,27 @@
+{
+  "content": {
+    "Management": "Comparison of resection and extra-anatomic reconstruction, in situ reconstruction, or endovascular device repair for aortic mycotic aneurysm.",
+    "Procedures": [
+      {
+        "Name": "Extra-anatomic reconstruction",
+        "Potential Indications": "Infrarenal location with gross purulence, psoas or retroperitoneal abscess, vertebral osteomyelitis, inadequate response to antibiotic therapy, selected aortoenteric fistulae.",
+        "Advantages": "Avoids placement of foreign body in infected area.",
+        "Disadvantages": "Not technically feasible for thoracic, suprarenal, or visceral location or for emergency use, long operating time, long-term patency issues."
+      },
+      {
+        "Name": "In situ reconstruction",
+        "Potential Indications": "Thoracic, suprarenal, infrarenal, or visceral location, selected aortoenteric fistulae.",
+        "Advantages": "More versatile than extra-anatomic, fewer long-term complications, higher patency rates, lower recurrent infection rate, shorter operating time.",
+        "Disadvantages": "Theoretical risk of infection from interposition of foreign material in infected sites, potential for ischemic colitis."
+      },
+      {
+        "Name": "Endovascular device repair",
+        "Potential Indications": "Bridge procedure: hemodynamic instability, uncontrolled bleeding, rupture or impending rupture, selected patients with aortoenteric fistulae, patients not fit for open surgery.",
+        "Advantages": "Emergency stabilization, low early morbidity, mortality, less invasive.",
+        "Disadvantages": "Persistent infections and device infections, higher long-term morbidity, mortality, with device retention, requires device explanation, reconstruction."
+      }
+    ],
+    "General Clinical Information": "The guideline discusses managing infectious aortitis or mycotic aneurysms with antimicrobial therapy and compares different surgical methods. A focus on reducing infection-related complications through open surgical repair or endovascular repair is highlighted. Prognosis remains poor for infectious aortitis and rupture. Appropriate treatment is decided based on anatomic factors, presence of fistulae, and clinical status. Expertise plays a key role in therapy direction."
+  },
+  "genes": []
+}

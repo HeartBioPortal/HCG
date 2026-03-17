@@ -1,0 +1,30 @@
+{
+  "content": {
+    "title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+    "highlights": [
+      "Guideline focuses on managing diabetic patients undergoing non-cardiac surgery, emphasizing glycemic control and the use of glucose-lowering medications.",
+      "Evaluation of perioperative analgesics and anesthetics, including ramifications of general versus regional anesthesia on postoperative outcomes.",
+      "Discussion on the role of various medications and their efficacy on pain management post-surgery, such as gabapentin and opioids.",
+      "Consideration of echocardiography techniques, especially transesophageal echocardiography, to monitor cardiac function during surgery.",
+      "Guideline references multiple clinical trials to provide evidence-based recommendations for perioperative care."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "SLC5A2",
+      "Associated Conditions": [
+        "Type 2 Diabetes Mellitus"
+      ],
+      "Occurrences": 1,
+      "context": "Suggested Canadian standards for perioperative/periprocedural glycemic management in patients with type 1 or type 2 diabetes can consider SLC5A2 inhibitors."
+    },
+    {
+      "Gene": "ND4",
+      "Associated Conditions": [
+        "Myocardial Infarction"
+      ],
+      "Occurrences": 1,
+      "context": "Perioperative outcomes after regional versus general anesthesia for above the knee amputations demonstrate significance; ND4 mitochondrial mutations are also considered."
+    }
+  ]
+}

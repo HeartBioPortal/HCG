@@ -1,0 +1,54 @@
+{
+  "content": {
+    "Synopsis": "Loeys-Dietz syndrome is characterized by aortic and branch vessel aneurysms and dissections, arterial tortuosity, and unique craniofacial and cutaneous features. Imaging with CT or MRI, from head to pelvis, is recommended for evaluation.",
+    "Recommendation": "In patients with Loeys-Dietz syndrome, treatment with a beta blocker or an ARB, or both, in maximally tolerated doses, is reasonable."
+  },
+  "genes": [
+    {
+      "Gene": "TGFBR1",
+      "Associated Conditions": [
+        "Loeys-Dietz syndrome",
+        "aortic aneurysm",
+        "aortic dissection"
+      ],
+      "Occurrences": 2,
+      "context": "Pathogenic variants in Loeys-Dietz syndrome genes, in particular TGFBR1 and TGFBR2, may have earlier onset TAD."
+    },
+    {
+      "Gene": "TGFBR2",
+      "Associated Conditions": [
+        "Loeys-Dietz syndrome",
+        "aortic aneurysm",
+        "aortic dissection"
+      ],
+      "Occurrences": 5,
+      "context": "All the Loeys-Dietz syndrome genes confer a risk for aortic involvement distal to the aortic root along with branch vessel and intracranial aneurysms, with TGFBR1 and TGFBR2 pathogenic variants."
+    },
+    {
+      "Gene": "SMAD3",
+      "Associated Conditions": [
+        "Loeys-Dietz syndrome",
+        "osteoarthritis",
+        "aortic dissection"
+      ],
+      "Occurrences": 3,
+      "context": "Pathogenic variants in SMAD3 are associated with premature osteoarthritis and later onset of TAD. Among patients with SMAD3-related disease, aneurysms from head to pelvis are also described."
+    },
+    {
+      "Gene": "TGFB2",
+      "Associated Conditions": [
+        "Loeys-Dietz syndrome"
+      ],
+      "Occurrences": 2,
+      "context": "There is much less information about the aortic and branch vessel disease in patients with variants in TGFB2 and TGFB3."
+    },
+    {
+      "Gene": "TGFB3",
+      "Associated Conditions": [
+        "Loeys-Dietz syndrome"
+      ],
+      "Occurrences": 2,
+      "context": "There is much less information about the aortic and branch vessel disease in patients with variants in TGFB2 and TGFB3."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "content": {
+    "assessment": "Assessment and management decisions in patients with no known CAD who have inconclusive stress test results.",
+    "stress_test": "Patients with acute chest pain and indeterminate stenosis on CCTA may benefit from a stress test to evaluate for myocardial ischemia.",
+    "economic_evaluations": "Economic evaluations show prompt stress echocardiography in the ED is associated with lower costs and no adverse effects post-discharge.",
+    "trials": "The CT-STAT trial compared CCTA and stress MPI in chest pain evaluation, showing CCTA had a shorter time to diagnosis and reduced cost.",
+    "recommendations": [
+      {
+        "level": "1A",
+        "points": [
+          "Optimize GDMT for intermediate-risk patients with new or worsening CAD symptoms.",
+          "ICA recommended for worsening symptoms with significant relevant stenosis or prior intervention history."
+        ]
+      },
+      {
+        "level": "2aB-NR",
+        "points": [
+          "Use CCTA in intermediate-risk patients with CAD and nonobstructive CAD to determine plaque progression.",
+          "Consider FFR-CT for stenosis of 40% to 90% on CCTA to guide use of coronary revascularization.",
+          "Use stress imaging for new or worsening symptoms with known CAD."
+        ]
+      }
+    ],
+    "additional_notes": "ICA is effective for diagnosing obstructive CAD and guiding revascularization decisions."
+  },
+  "genes": []
+}

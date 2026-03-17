@@ -1,0 +1,33 @@
+{
+  "content": {
+    "Guideline Overview": "The document discusses recommendations for managing chronic coronary disease (CCD) using SGLT2 inhibitors and GLP-1 receptor agonists. It highlights their benefits in reducing cardiovascular events, hospitalization, and improving quality of life, especially in patients with type 2 diabetes and heart failure.",
+    "Clinical Recommendations": [
+      {
+        "Description": "SGLT2 inhibitors and GLP-1 receptor agonists significantly reduce major adverse cardiovascular events (MACE), weight loss, and progression of kidney disease in patients with CCD and type 2 diabetes.",
+        "Benefits": [
+          "Reduction in hospitalizations for heart failure",
+          "Improved functional capacity and quality of life"
+        ],
+        "Economic Evaluation": "Cost-effectiveness analyses show that both SGLT2 inhibitors and GLP-1 are cost-saving or cost-effective over a lifetime horizon."
+      }
+    ],
+    "Clinical Trials": [
+      {
+        "Trial": "EMPORER-REDUCED",
+        "Focus": "Reduction of cardiovascular death or HF hospitalization in patients with heart failure with reduced ejection fraction.",
+        "Results": "SGLT2 inhibitors were shown to improve outcomes and are projected to be cost-effective."
+      },
+      {
+        "Trial": "DELIVER",
+        "Focus": "Patients with heart failure and preserved ejection fraction.",
+        "Results": "SGLT2 inhibitors improved functional capacity and reduced risk of hospitalizations."
+      }
+    ],
+    "Patient Populations": [
+      "Patients with type 2 diabetes and CCD",
+      "Patients with heart failure (both reduced and preserved ejection fraction)",
+      "Caution needed in patients with type 1 diabetes or advanced CKD"
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,71 @@
+{
+  "content": {
+    "Consensus Features of Complicated Acute Type B Aortic Dissection": {
+      "Features": [
+        {
+          "Feature": "Aortic rupture",
+          "Comment": "This can be either free or contained (including hemothorax, increasing periaortic hematoma, or both; or mediastinal hematoma) and should be addressed promptly."
+        },
+        {
+          "Feature": "Branch artery occlusion and malperfusion",
+          "Comment": "Complete or partial occlusion of a major branch, with or without clinical evidence of ischemia; this includes visceral, renal, and peripheral arterial branches."
+        },
+        {
+          "Feature": "Extension of dissection",
+          "Comment": "Extension of the dissection flap either distally or proximally (ie, retrograde type A dissection)"
+        },
+        {
+          "Feature": "Aortic enlargement",
+          "Comment": "Progressive enlargement of the true, false, or both lumens while in the acute phase may require prompt intervention."
+        },
+        {
+          "Feature": "Intractable pain",
+          "Comment": ""
+        },
+        {
+          "Feature": "Uncontrolled hypertension",
+          "Comment": ""
+        }
+      ]
+    },
+    "Patients Presentation": {
+      "Details": "Patients with complicated acute type B aortic dissection or who develop such features after initial presentation have an increased risk of morbidity and death, and urgent or emergency intervention may be required."
+    },
+    "Importance of Evacuative and Endovascular or Open Repair": {
+      "Details": "Rapid coverage of the affected region of the descending aorta can be lifesaving and does not preclude subsequent further endovascular or open repair."
+    },
+    "Genetically Triggered Aortic Diseases": {
+      "Examples": [
+        "Marfan syndrome",
+        "Loeys-Dietz syndrome"
+      ]
+    },
+    "Surgical Outcomes": {
+      "References": [
+        "TEVAR showed lower mortality rates compared to open repair, benefiting older patients.",
+        "The VIRTUE Registry showed reintervention rates of 20% to 39%"
+      ]
+    },
+    "Medical Management": {
+      "Concerns": "Uncomplicated type B aortic dissection has a 30-day mortality rate of 10% and decreased long-term survival; interest in endovascular intervention to reduce downstream complications."
+    }
+  },
+  "genes": [
+    {
+      "Gene": "FBN1",
+      "Associated Conditions": [
+        "Marfan syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Patients with genetically triggered aortic diseases (eg, Marfan syndrome) have an increased risk when presenting with complicated type B aortic dissection."
+    },
+    {
+      "Gene": "TGFBR1",
+      "Associated Conditions": [
+        "Loeys-Dietz syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Patients with genetically triggered aortic diseases (eg, Loeys-Dietz syndrome) have an increased risk when presenting with complicated type B aortic dissection."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Recommendation-Specific Supportive Text": [
+      {
+        "text": "Cocaine and methamphetamine use can be considered in young patients presenting with chest pain and evidence of ACS; the frequency of ACS is <10% among cocaine and methamphetamine users in most studies, and death is rare. A person\u2019s urine typically tests positive for cocaine or methamphetamine within 1 to 4 hours of consuming the drug and will continue to test positive for 2 to 4 days."
+      }
+    ],
+    "Recommendations for Shared Decision-Making in Patients With Acute Chest Pain": [
+      {
+        "COR": 1,
+        "LOE": "B-R",
+        "Recommendation": "For patients with acute chest pain and suspected ACS who are deemed low risk by a CDP, patient decision aids are beneficial to improve understanding and effectively facilitate risk communication."
+      },
+      {
+        "COR": 1,
+        "LOE": "B-R",
+        "Recommendation": "For patients with acute chest pain and suspected ACS who are deemed intermediate risk by a CDP, shared decision-making between the clinician and patient regarding the need for admission, observation, discharge, or further evaluation in an outpatient setting is recommended for improving patient understanding and reducing low-value testing."
+      }
+    ],
+    "Synopsis": "Risk communication and shared decision-making using a decision aid such as Chest Pain Choice have been shown to increase patient knowledge, engagement, and satisfaction and decrease the rate of observation unit admission and 30-day cardiac stress testing in both single-center and multicenter randomized trials. For low-risk patients, decision aids can facilitate risk communication between the clinician and the patient and increase patients\u2019 understanding of their risk and the importance of outpatient follow-up after discharge from the ED. For intermediate-risk patients, admission to an observation unit or discharge from the ED with further, timely evaluation in an outpatient setting is acceptable. Decision aids such as Chest Pain Choice can effectively facilitate shared decision-making regarding the need for admission, observation, or discharge for further evaluation in an outpatient setting.",
+    "Recommendation-Specific Supportive Text (Adult ED patients)": [
+      {
+        "text": "Adult ED patients with acute chest pain who are deemed low risk are frequently admitted for observation and cardiac stress testing or CCTA, resulting in increased cost to the patient and the health care system. Shared decision-making is the process by which patients and clinicians share information and take steps to build consensus about preferred tests and treatments. In shared decision-making, both parties share information: the clinician offers options and describes the potential harms and benefits, and the patient communicates his or her preferences. Patients are prepared with a better understanding of the relevant factors influencing the decision and share responsibility for deciding how to proceed."
+      }
+    ]
+  },
+  "genes": []
+}

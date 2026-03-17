@@ -1,0 +1,11 @@
+{
+  "content": {
+    "clinical_guideline": "The guideline discusses the use of invasive Electrophysiology Study (EPS) for patients with symptoms suggestive of bradycardia, such as syncope or presyncope. EPS is used to assess cardiac conduction and diagnose bradycardia mechanisms when noninvasive methods are inconclusive. The goal of EPS is to identify arrhythmias or conduction disorders in patients, especially those with a history of heart disease.",
+    "EPS_suitability": "EPS is considered when initial evaluations such as ECG, echocardiogram, or ambulatory monitoring do not provide a conclusive diagnosis. It is used predominantly for patients with unexplained syncope or presyncope.",
+    "risks": "The risk of complications from EPS is low, including risks such as cardiac tamponade and ventricular arrhythmia.",
+    "bradycardia_association": "Bradycardia is often related to high-grade atrioventricular block, sick sinus syndrome (SND), and neurocardiogenic syncope.",
+    "importance_of_ICM": "Implantable Cardiac Monitors (ICM) are emphasized as useful when symptoms are infrequent.",
+    "recommendation": "An EPS may be a reasonable approach for diagnosing patients with bradycardia or unexplained syncope, especially in those with existing heart conditions."
+  },
+  "genes": []
+}

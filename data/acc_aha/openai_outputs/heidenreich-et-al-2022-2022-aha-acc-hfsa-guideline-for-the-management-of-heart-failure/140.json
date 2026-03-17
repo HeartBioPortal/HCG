@@ -1,0 +1,46 @@
+{
+  "content": {
+    "Title": "2022 AHA/ACC/HFSA Heart Failure Guideline",
+    "Sections": [
+      {
+        "Number": 10.2,
+        "Title": "Management of Atrial Fibrillation (AF) in HF",
+        "Subsections": [
+          {
+            "Number": 10.2,
+            "Title": "Management of Atrial Fibrillation (AF) in HF",
+            "References": [
+              {
+                "Number": 1,
+                "Authors": [
+                  "Mason PK",
+                  "Lake DE",
+                  "DiMarco JP",
+                  "et al."
+                ],
+                "Title": "Impact of the CHA2DS2-VASc score on anticoagulation recommendations for atrial fibrillation",
+                "Journal": "Am J Med. 2012",
+                "Volume": "125",
+                "Pages": "603.e1-603.e6"
+              },
+              {
+                "Number": 2,
+                "Authors": [
+                  "Connolly SJ",
+                  "Ezekowitz MD",
+                  "Yusuf S",
+                  "et al."
+                ],
+                "Title": "Dabigatran versus warfarin in patients with atrial fibrillation",
+                "Journal": "N Engl J Med. 2009",
+                "Volume": "361",
+                "Pages": "1139-1151"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

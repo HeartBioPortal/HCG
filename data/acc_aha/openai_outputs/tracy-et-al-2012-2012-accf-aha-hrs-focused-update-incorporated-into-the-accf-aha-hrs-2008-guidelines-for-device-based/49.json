@@ -1,0 +1,30 @@
+{
+  "content": {
+    "title": "Device Guideline: 2012 Update Incorporated",
+    "focus": "The guideline discusses pacemaker therapy, particularly in conditions like heart failure, sick sinus syndrome, AV block, and syncope.",
+    "key_conditions": [
+      "Heart failure",
+      "Sick sinus syndrome",
+      "AV block",
+      "Syncope",
+      "Cardiomyopathy"
+    ],
+    "important_topics": [
+      "Pacemaker therapy",
+      "Chronic pacing",
+      "Electrophysiological studies",
+      "Exercise intolerance",
+      "Syncope"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "DMPK",
+      "Associated Conditions": [
+        "Myotonic dystrophy"
+      ],
+      "Occurrences": 1,
+      "context": "Stevenson WG, Perloff JK, Weiss JN, Anderson TL. Fascicupisular involvement in myotonic muscular dystrophy (Steinert's disease): a prospective study of 25 patients."
+    }
+  ]
+}

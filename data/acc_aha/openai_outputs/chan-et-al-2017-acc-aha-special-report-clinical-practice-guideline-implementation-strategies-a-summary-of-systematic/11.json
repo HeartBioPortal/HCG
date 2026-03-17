@@ -1,0 +1,56 @@
+{
+  "content": {
+    "Multilevel Model of CPG Implementation Strategies": {
+      "Levels": [
+        "Policy Level",
+        "Clinical Institution Level",
+        "Provider Level",
+        "Patient Level"
+      ],
+      "Influences": [
+        "Organizational features",
+        "Culture",
+        "Previous practice",
+        "Communication behavior"
+      ],
+      "Outcomes": {
+        "Patient 'Hard' Outcomes": [
+          "Heart Attack",
+          "Stroke",
+          "Death"
+        ],
+        "Provider Intermediate Outcomes": [
+          "Screening and diagnosis",
+          "Treatments and procedures",
+          "Advice and counseling",
+          "Referrals"
+        ],
+        "Patient Intermediate Outcomes": [
+          "Risk factor levels",
+          "Knowledge",
+          "Behaviors",
+          "Treatment adherence"
+        ]
+      }
+    },
+    "Not Included in Review": [
+      "Performance measures",
+      "Accreditation",
+      "Insurance reimbursement",
+      "Clinical guideline",
+      "Distribution of educational materials",
+      "Local opinion leaders",
+      "Educational meetings",
+      "Improving quality of services",
+      "Patient-system support",
+      "Tailored intervention"
+    ],
+    "EPOC Definition of Intervention Strategies": {
+      "Provider Reminders": "Patient or encounter specific information designed to prompt a health professional to recall information.",
+      "Academic Detailing": "Use of a trained person who meets with providers to give information with the intent of changing provider's practice.",
+      "Audit and Feedback": "Summary of clinical performance with recommendations for clinical action.",
+      "Pay for Performance": "Financial reward or benefit for doing specific action."
+    }
+  },
+  "genes": []
+}

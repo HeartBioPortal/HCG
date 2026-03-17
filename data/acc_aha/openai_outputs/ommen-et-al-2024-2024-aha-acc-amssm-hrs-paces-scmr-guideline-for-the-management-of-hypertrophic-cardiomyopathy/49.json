@@ -1,0 +1,58 @@
+{
+  "content": {
+    "Title": "Antiarrhythmic Drug Therapy Options for Patients With HCM and AF",
+    "Section": "TABLE 9",
+    "Drugs and Usage": [
+      {
+        "Drug": "Disopyramide",
+        "Efficacy for AF": "Modest",
+        "Adverse Effects": "Anticholinergic, HF",
+        "Toxicities": "Prolonged QTc, TdP",
+        "Use in HCM": "Particularly with early onset AF. Generally used in conjunction with atrioventricular nodal blocking agents."
+      },
+      {
+        "Drug": "Flecainide and propafenone",
+        "Efficacy for AF": "\u2026",
+        "Adverse Effects": "Prolonged QRS",
+        "Toxicities": "Proarrhythmia, Typical atrial flutter",
+        "Use in HCM": "Not generally recommended in the absence of an ICD."
+      },
+      {
+        "Drug": "Sotalol",
+        "Efficacy for AF": "Modest",
+        "Adverse Effects": "Fatigue, Bradycardia",
+        "Toxicities": "Prolonged QTc, TdP",
+        "Use in HCM": "Reasonable"
+      },
+      {
+        "Drug": "Dofetilide",
+        "Efficacy for AF": "Modest",
+        "Adverse Effects": "Headache",
+        "Toxicities": "Prolonged QTc",
+        "Use in HCM": "Reasonable"
+      },
+      {
+        "Drug": "Dronedarone",
+        "Efficacy for AF": "Low",
+        "Adverse Effects": "HF",
+        "Toxicities": "Prolonged QTc",
+        "Use in HCM": "\u2026"
+      },
+      {
+        "Drug": "Amiodarone",
+        "Efficacy for AF": "Modest-high",
+        "Adverse Effects": "Bradycardia",
+        "Toxicities": "Liver, lung, thyroid, skin, neurologic, Prolonged QTc",
+        "Use in HCM": "Reasonable"
+      }
+    ],
+    "Additional Information": [
+      "AF indicates atrial fibrillation; HCM, hypertrophic cardiomyopathy; HF, heart failure; ICD, implantable cardioverter-defibrillator; and TdP, torsades de pointes.",
+      "Increased stroke risk is associated with AF in HCM.",
+      "Catheter ablation is an important role in management of AF in HCM even though RCTs do not exist.",
+      "Low mortality and morbidity compared with historical controls when treating AF in patients with HCM.",
+      "Disopyramide is safely prescribed for reduction of LVOTO."
+    ]
+  },
+  "genes": []
+}

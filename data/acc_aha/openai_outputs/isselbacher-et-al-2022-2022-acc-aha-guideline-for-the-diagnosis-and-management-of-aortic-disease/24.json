@@ -1,0 +1,22 @@
+{
+  "content": {
+    "Computed Tomography": {
+      "Description": "CT can image the entire aorta and its branches with high spatial resolution and fast acquisition.",
+      "Benefits": "High sensitivity and specificity for acute aortic syndromes, coronary involvement, and aortic aneurysms.",
+      "Considerations": {
+        "Iodinated Contrast": "Allows delineation between aortic lumen and wall but may cause allergic reactions or renal toxicity.",
+        "Recent Consensus": "The risk of acute kidney injury from contrast is low in patients with impaired renal function."
+      }
+    },
+    "Magnetic Resonance Imaging": {
+      "Description": "MRI provides coverage of the entire aorta and branch vessels, assessing aortic wall changes.",
+      "Benefits": "No ionizing radiation, can assess congenital systemic fibrosis risk.",
+      "Limitations": "Inferior spatial resolution to CT, cannot use with patients carrying metallic devices."
+    },
+    "Echocardiography": {
+      "Transthoracic Echocardiography (TTE)": "Most common imaging modality for thoracic aorta, useful for imaging aortic root.",
+      "Benefits": "Portable and valuable for evaluating aortic valve regurgitation and ventricular dysfunction."
+    }
+  },
+  "genes": []
+}

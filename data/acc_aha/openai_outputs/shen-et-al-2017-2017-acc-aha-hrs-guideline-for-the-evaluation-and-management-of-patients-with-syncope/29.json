@@ -1,0 +1,27 @@
+{
+  "content": {
+    "Short-QT Syndrome": {
+      "Description": "Short-QT syndrome is a genetic disease characterized by palpitations, syncope, and increased risk of sudden cardiac death (SCD), associated with QTc interval <340 ms.",
+      "Prognosis": "Limited data are available about its prognostic significance, particularly without documented ventricular tachycardia (VT) or ventricular fibrillation (VF). The prevalence is very low, ranging from 0.02% to 1.63%.",
+      "Recommendations": "ICD implantation may be considered in patients with short-QT pattern and syncope of suspected arrhythmic etiology. Quinidine therapy might offer some protection, but data are insufficient to make any recommendations."
+    },
+    "Long-QT Syndrome": {
+      "Diagnosis": "LQTS is diagnosed with a QTc >500 ms or LQTS risk score >=3.5 when secondary causes are excluded or in presence of a pathogenic mutation in one of the LQTS genes.",
+      "Management": {
+        "Syncope": "Recognition and treatment are needed to avoid recurrences, which could present as cardiac arrest or SCD. Avoidance of strenuous activities and drugs that prolong QT interval is recommended.",
+        "Beta-Blockers": "Indicated as first-line therapy in patients with LQTS and suspected arrhythmic syncope. Efficacy depends on genotype.",
+        "ICD Implantation": "Recommended for those who do not respond to beta-blockers or cannot tolerate them."
+      }
+    }
+  },
+  "genes": [
+    {
+      "Gene": "LQTS genes",
+      "Associated Conditions": [
+        "Long-QT Syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "LQTS is diagnosed in the presence of a pathogenic mutation in 1 of the LQTS genes."
+    }
+  ]
+}

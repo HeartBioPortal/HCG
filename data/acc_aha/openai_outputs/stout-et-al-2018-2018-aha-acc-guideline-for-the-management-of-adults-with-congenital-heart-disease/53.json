@@ -1,0 +1,36 @@
+{
+  "content": {
+    "Condition": "Isolated PR after repair of PS",
+    "Assessment": "PR severity and RV size/function",
+    "Management": {
+      "Mild PR and RV enlargement": "Interval follow-up (Class I)",
+      "Moderate or greater PR and RV enlargement": {
+        "Symptoms": {
+          "Yes": "Pulmonary valve replacement (Class I)",
+          "No": {
+            "Imaging and CPET": {
+              "Progression": {
+                "Progressive RV dilation and/or RV dysfunction and/or progressive decrease in exercise capacity": {
+                  "Yes": "Pulmonary valve replacement (Class IIb)",
+                  "No": "Interval follow-up with ACHD cardiologist"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Definitions": {
+      "PR": "Pulmonary regurgitation",
+      "RV": "Right ventricular",
+      "PS": "Pulmonary stenosis",
+      "CPET": "Cardiopulmonary exercise test",
+      "ACHD": "Adult congenital heart disease"
+    },
+    "Footnotes": {
+      "RV dilation": "Significant PR causes RV dilation. If a patient has moderate or greater PR and normal RV size, further investigation may be required.",
+      "Symptoms": "May include dyspnea, chest pain, and/or exercise intolerance referable to PR or otherwise unexplained."
+    }
+  },
+  "genes": []
+}

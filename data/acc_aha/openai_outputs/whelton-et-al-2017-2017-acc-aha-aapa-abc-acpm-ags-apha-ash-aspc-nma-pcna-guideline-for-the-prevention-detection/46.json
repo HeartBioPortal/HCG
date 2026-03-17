@@ -1,0 +1,63 @@
+{
+  "content": {
+    "title": "Recommendations for Treatment of Hypertension in Patients With Stable Ischemic Heart Disease (SIHD)",
+    "section": "9.1 Stable Ischemic Heart Disease",
+    "recommendations": [
+      {
+        "id": 1,
+        "summary": "In adults with SIHD and hypertension, a BP target of less than 130/80 mm Hg is recommended."
+      },
+      {
+        "id": 2,
+        "summary": "Adults with SIHD and hypertension (BP \u2265130/80 mm Hg) should be treated with medications (e.g., GDMT beta blockers, ACE inhibitors, or ARBs) for compelling indications (e.g., previous MI, stable angina) as first-line therapy, with addition of other drugs (dihydropyridine CCBs, thiazide diuretics, and/or mineralocorticoid receptor antagonists) as needed."
+      },
+      {
+        "id": 3,
+        "summary": "In adults with SIHD with angina and persistent uncontrolled hypertension, the addition of dihydropyridine CCBs to GDMT (including beta blockers) is recommended."
+      },
+      {
+        "id": 4,
+        "summary": "In adults who have had an MI or acute coronary syndrome, it is reasonable to continue GDMT beta blockers beyond 3 years as long-term therapy for hypertension."
+      },
+      {
+        "id": 5,
+        "summary": "Beta blockers and/or CCBs might be considered to control hypertension in patients with CAD (without HFrEF) who had an MI more than 3 years ago and have angina."
+      }
+    ],
+    "synopsis": "Hypertension is a major risk factor for ischemic heart disease. Randomized trials have shown that antihypertensive therapy reduces risk of ischemic heart disease and cardiovascular events. Reduction of SBP to <130/80 mm Hg reduces CVD complications and all-cause mortality. Specific agents such as ACE inhibitors (e.g., ramipril, perindopril), ARBs, beta blockers, dihydropyridine CCBs, thiazide diuretics, and mineralocorticoid receptor antagonists are discussed for use in SIHD.",
+    "figure_summary": "Flowchart: For patients with Hypertension and SIHD, reduce BP to <130/80 mm Hg with GDMT (beta blockers, ACE inhibitor, or ARB). If BP goal not met and angina present, add dihydropyridine CCBs; if no angina, add dihydropyridine CCBs, thiazide-type diuretics, and/or MRAs as needed."
+  },
+  "genes": [
+    {
+      "Gene": "ACE",
+      "Associated Conditions": [
+        "Hypertension",
+        "Stable ischemic heart disease (SIHD)",
+        "Ischemic heart disease",
+        "Myocardial infarction",
+        "Cardiovascular disease"
+      ],
+      "Occurrences": 4,
+      "context": "Text repeatedly references \"ACE inhibitors\" and expands ACE as \"angiotensin-converting enzyme\" as a recommended therapy for hypertension in patients with SIHD and for secondary prevention after MI."
+    },
+    {
+      "Gene": "AGTR1",
+      "Associated Conditions": [
+        "Hypertension",
+        "Stable ischemic heart disease (SIHD)",
+        "Ischemic heart disease"
+      ],
+      "Occurrences": 3,
+      "context": "The guideline refers to \"ARBs\" (angiotensin receptor blockers) as a class of agents recommended for treating hypertension in SIHD; ARBs act on the angiotensin II receptor (commonly AGTR1)."
+    },
+    {
+      "Gene": "NR3C2",
+      "Associated Conditions": [
+        "Hypertension",
+        "Stable ischemic heart disease (SIHD)"
+      ],
+      "Occurrences": 2,
+      "context": "The recommendations list \"mineralocorticoid receptor antagonists\" (MRAs) as an added therapy option for further BP control; the mineralocorticoid receptor is encoded by NR3C2."
+    }
+  ]
+}

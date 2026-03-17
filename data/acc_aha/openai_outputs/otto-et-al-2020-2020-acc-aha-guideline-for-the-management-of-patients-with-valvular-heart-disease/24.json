@@ -1,0 +1,44 @@
+{
+  "content": {
+    "diagnostic_testing": {
+      "repeat_TTE": {
+        "indications": "In patients with known valvular AS and changing signs or symptoms. Also recommended in patients with AS with increased hemodynamic demands.",
+        "clinical_settings": "Noncardiac surgery, pregnancy, infection, anemia, gastrointestinal bleeding."
+      },
+      "routine_follow_up": {
+        "timing": "Depends on comorbidities, patient-specific factors, and AS severity.",
+        "symptom_progression": {
+          "severe_AS": "Annual event-free survival rate of 30% to 50% at 2 years."
+        },
+        "moderate_AS": {
+          "progression_rate": "Increase in velocity of 0.3 m/s, increase in pressure gradient of 7 mm Hg, decrease in valve area of 0.1 cm\u00b2."
+        },
+        "aortic_sclerosis": {
+          "definition": "Focal areas of valve calcification and leaflet thickening with an aortic velocity <2.0 m/s.",
+          "risk": "Progression to severe AS occurs in about 10% of patients within 5 years."
+        }
+      },
+      "cardiac_catheterization": {
+        "purpose": "For determination of severity of AS when noninvasive testing is non-diagnostic or there's a discrepancy.",
+        "calculation_methods": "Fick or thermodilution cardiac output measurement."
+      },
+      "exercise_testing": {
+        "recommendations": [
+          {
+            "COR": "2a",
+            "LOE": "B-NR",
+            "recommendation": "Exercise testing in asymptomatic patients with severe AS (Stage C1) is reasonable."
+          },
+          {
+            "COR": "3",
+            "LOE": "Harm",
+            "recommendation": "Exercise testing should not be performed in symptomatic patients with severe AS (Stage D1)."
+          }
+        ],
+        "benefits": "Provides diagnostic and prognostic information in asymptomatic severe AS.",
+        "risks": "Should not be done with severe symptoms or hemodynamic compromise."
+      }
+    }
+  },
+  "genes": []
+}

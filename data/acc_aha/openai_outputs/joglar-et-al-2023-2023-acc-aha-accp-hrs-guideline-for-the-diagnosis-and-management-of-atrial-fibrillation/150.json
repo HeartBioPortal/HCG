@@ -1,0 +1,26 @@
+{
+  "content": {
+    "title": "2023 Guideline for the Diagnosis and Management of Atrial Fibrillation.",
+    "topics": [
+      "Effectiveness of loading oral flecainide in patients",
+      "Single-dose antiarrhythmic drugs for conversion of recent-onset atrial fibrillation",
+      "Use of a single oral loading dose of propafenone",
+      "Oral propafenone as a treatment for atrial fibrillation",
+      "Pill-in-the-pocket approach for atrial fibrillation management",
+      "Intravenous amiodarone for atrial fibrillation",
+      "Efficacy of dofetilide for atrial flutter",
+      "Long-term outcomes of antiarrhythmic drugs",
+      "Efficacy of various treatments for maintaining sinus rhythm"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "KCNA5",
+      "Associated Conditions": [
+        "Atrial Fibrillation"
+      ],
+      "Occurrences": 1,
+      "context": "Kou WH, Tunick PA, Sheffield LT, et al. Effects of intravenous magnesium sulfate on the QT interval in patients receiving ibutilide. Pharmacotherapy. 2003;23:296-300."
+    }
+  ]
+}

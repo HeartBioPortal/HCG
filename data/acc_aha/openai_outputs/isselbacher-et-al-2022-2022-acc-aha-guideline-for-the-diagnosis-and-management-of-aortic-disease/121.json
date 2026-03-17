@@ -1,0 +1,24 @@
+{
+  "content": {
+    "Recommendations for Atherosclerotic Disease": [
+      {
+        "COR": "1",
+        "LOE": "C-LD",
+        "Recommendation": "In patients with aortic atherosclerotic disease and concomitant coronary artery disease, PAD or both, it is recommended to prescribe antiplatelet therapy, anticoagulant therapy or both, guided by the clinical setting."
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-LD",
+        "Recommendation": "In patients with aortic atherosclerotic disease and risk factors for confirmed coronary artery disease, it is reasonable to prescribe a moderate- or high-intensity statin."
+      },
+      {
+        "COR": "2b",
+        "LOE": "C-LD",
+        "Recommendation": "In patients with aortic atheromas of a thickness \u22654 mm, statin therapy may be reasonable."
+      }
+    ],
+    "Synopsis": "Atherosclerosis is a chronic immunoinflammatory, fibroproliferative disease of the aorta. Management includes risk factor control, lifestyle modification, and pharmacological therapies.",
+    "Aortic Thrombus": "Aortic mural thrombus is associated with underlying aortic pathology and may present with symptoms such as limb ischemia or stroke."
+  },
+  "genes": []
+}

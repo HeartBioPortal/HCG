@@ -1,0 +1,34 @@
+{
+  "content": {
+    "Synopsis": "Glycoprotein IIb/IIIa receptor inhibitors are drugs that target the glycoprotein IIb/IIIa platelet receptor. The use of these inhibitors in conjunction with PCI has not shown improved outcomes and may increase bleeding. These inhibitors may be reserved for specific cases with large thrombus burden.",
+    "Recommendations": [
+      {
+        "COR": "1",
+        "LOE": "C-EO",
+        "Recommendation": "In patients undergoing PCI, administration of UFH is useful to reduce ischemic events."
+      },
+      {
+        "COR": "1",
+        "LOE": "C-LD",
+        "Recommendation": "In patients with heparin-induced thrombocytopenia undergoing PCI, bivalirudin or argatroban should replace UFH."
+      },
+      {
+        "COR": "2b",
+        "LOE": "A",
+        "Recommendation": "In patients undergoing PCI, bivalirudin may reduce bleeding."
+      },
+      {
+        "COR": "2b",
+        "LOE": "B-R",
+        "Recommendation": "In patients treated with enoxaparin, intravenous enoxaparin can be considered during PCI."
+      },
+      {
+        "COR": "3: Harm",
+        "LOE": "B-R",
+        "Recommendation": "Subcutaneous enoxaparin should not be used for PCI if administered within 12 hours prior, to avoid increased bleeding."
+      }
+    ],
+    "Antithrombotic Therapy": "Includes UFH, bivalirudin, and enoxaparin. Fondaparinux is not recommended alone in PCI."
+  },
+  "genes": []
+}

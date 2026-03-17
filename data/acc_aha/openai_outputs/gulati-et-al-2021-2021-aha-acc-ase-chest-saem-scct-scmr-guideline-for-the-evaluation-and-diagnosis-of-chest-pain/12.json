@@ -1,0 +1,35 @@
+{
+  "content": {
+    "Table": "Chest Pain Characteristics and Corresponding Causes",
+    "Nature": {
+      "Anginal Symptoms": "Perceived as retrosternal chest discomfort including pain, discomfort, heaviness, tightness, pressure, constriction, squeezing.",
+      "Sharp Chest Pain": "Increases with inspiration and lying supine, unlikely related to ischemic heart disease, usually occurs with acute pericarditis."
+    },
+    "Onset and Duration": {
+      "Gradual Anginal Symptoms": "Build in intensity over a few minutes.",
+      "Sudden Onset": "Not likely to be anginal, suspicious of an acute aortic syndrome.",
+      "Fleeting Chest Pain": "Unlikely related to ischemic heart disease."
+    },
+    "Location and Radiation": {
+      "Localized Pain": "To a very limited area, pain radiating below the umbilicus or hip unlikely related to myocardial ischemia."
+    },
+    "Severity": {
+      "Ripping Chest Pain": "Suspicious of an acute aortic syndrome, especially in certain patient conditions."
+    },
+    "Precipitating Factors": {
+      "Common Triggers": "Physical exercise or emotional stress."
+    },
+    "Relieving Factors": {
+      "Relief with Nitroglycerin": "Not necessarily diagnostic of myocardial ischemia."
+    },
+    "Associated Symptoms": {
+      "Symptoms Include": "Dyspnea, palpitations, diaphoresis, lightheadedness, presyncope or syncope.",
+      "Specific Symptoms": "In diabetes, women, elderly, stabbing, or sharp pain in chest, throat, abdomen common."
+    },
+    "Recommendations for Women": [
+      "Chest pain in women at risk for underdiagnosis. Consider potential cardiac causes.",
+      "Obtain history emphasizing accompanying symptoms common in women with ACS."
+    ]
+  },
+  "genes": []
+}

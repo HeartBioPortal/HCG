@@ -1,0 +1,26 @@
+{
+  "content": {
+    "Shared Decision-Making": {
+      "Recommendation": "For patients with HCM or at risk for HCM, shared decision-making is recommended in developing a plan of care including genetic evaluation, activity, lifestyle, and therapy choices with full disclosure of risks and benefits.",
+      "Synopsis": "Shared decision-making involves patients, families, and health care professionals collaborating to consider the patient's input and preferences, improving confidence and outcomes.",
+      "Supportive Text": "In HCM management, decisions about genetic testing, ICD implantation, advanced therapies for LVOTO, and exercise participation are crucial for discussions. Multidisciplinary HCM Centers provide opportunities for comprehensive experience."
+    },
+    "Multidisciplinary HCM Centers": {
+      "Recommendations": [
+        {
+          "COR": "1",
+          "LOE": "C-LD",
+          "Text": "In patients with HCM where SRT is indicated, procedures should occur at experienced centers with clinical outcomes excellence."
+        },
+        {
+          "COR": "2a",
+          "LOE": "C-LD",
+          "Text": "For patients with HCM, consultation or referral to comprehensive or primary HCM centers is advisable for managing complex disease-related decisions."
+        }
+      ],
+      "Synopsis": "The evolving management of HCM calls for HCM centers with specific competencies. These centers optimize care for patients and offer roles for cardiologists both within and outside HCM centers.",
+      "Supportive Text": "Referral to HCM centers provides comprehensive management, genetic counseling, advanced treatment advice, and high-level longitudinal care. Inexperienced centers performing invasive SRT may result in low procedural volume."
+    }
+  },
+  "genes": []
+}

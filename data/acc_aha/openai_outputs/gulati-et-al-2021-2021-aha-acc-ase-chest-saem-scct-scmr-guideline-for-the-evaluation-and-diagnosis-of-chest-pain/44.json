@@ -1,0 +1,42 @@
+{
+  "content": {
+    "differential_diagnosis": [
+      "Pulmonary embolism",
+      "Pneumothorax/hemothorax",
+      "Pneumomediastinum",
+      "Pneumonia",
+      "Pleural irritation",
+      "Malignancy",
+      "Cholecystitis",
+      "Pancreatitis",
+      "Hiatal hernia",
+      "Gastroesophageal reflux disease/gastritis/esophagitis",
+      "Peptic ulcer disease",
+      "Esophageal spasm",
+      "Dyspepsia",
+      "Costochondritis",
+      "Chest wall trauma or inflammation",
+      "Herpes zoster (shingles)",
+      "Cervical radiculopathy",
+      "Breast disease",
+      "Rib fracture",
+      "Musculoskeletal injury/spasm",
+      "Panic disorder",
+      "Anxiety",
+      "Clinical depression",
+      "Somatization disorder",
+      "Hypochondria",
+      "Hyperventilation syndrome",
+      "Carbon monoxide poisoning",
+      "Sarcoidosis",
+      "Lead poisoning",
+      "Prolapsed intervertebral disc",
+      "Thoracic outlet syndrome",
+      "Adverse effect of certain medications",
+      "Sickle cell crisis"
+    ],
+    "synopsis": "The differential diagnosis for noncardiac causes of acute chest pain is quite broad and includes respiratory, musculoskeletal, gastrointestinal, psychological, and other causes. Musculoskeletal causes are the most common, including costochondritis, muscle strain, and potential consequences of recent or occult chest trauma such as rib fracture. Various gastrointestinal causes, commonly esophageal, can present with chest pain, including gastrointestinal reflux and esophageal dysmotility as well as gastritis from medications or peptic ulcer disease. Respiratory causes are less frequent but potentially more serious and include PE, pneumonia, and pneumothorax. Many patients will have dyspnea in addition to chest pain. Psychological causes are usually diagnoses of exclusion but merit consideration in the right context.",
+    "recommendation_specific_supportive_text": "If acute myocardial injury is ruled out, alternative diagnoses merit consideration in patients with persistent or recurrent symptoms. Clinical risk assessment, with implementation of CDPs when appropriate, is the key to selecting patients for further diagnostic evaluation and also to choosing among potential diagnostic modalities."
+  },
+  "genes": []
+}

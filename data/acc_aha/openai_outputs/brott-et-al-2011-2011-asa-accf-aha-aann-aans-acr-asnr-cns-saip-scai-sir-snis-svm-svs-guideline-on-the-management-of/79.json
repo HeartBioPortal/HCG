@@ -1,0 +1,75 @@
+{
+  "content": {
+    "ReviewInformation": {
+      "Reviewer": "Christopher White",
+      "Type": "Content Reviewer",
+      "Consultant": "Boston Scientific",
+      "Speaker": "None",
+      "Ownership/Partnership/Principal": "None",
+      "Research": "Boston Scientific",
+      "InstitutionalOrganizationalFinancialBenefit": "None",
+      "ExpertWitness": "None"
+    },
+    "AbbreviationList": [
+      {
+        "CABG": "coronary artery bypass graft"
+      },
+      {
+        "CAD": "coronary artery disease"
+      },
+      {
+        "CAS": "carotid artery stenting"
+      },
+      {
+        "CEA": "carotid endarterectomy"
+      },
+      {
+        "CT": "computed tomography"
+      },
+      {
+        "CTA": "computed tomography angiography"
+      },
+      {
+        "ECVD": "extracranial carotid and vertebral artery disease"
+      },
+      {
+        "EPD": "embolic protection device"
+      },
+      {
+        "FMD": "fibromuscular dysplasia"
+      },
+      {
+        "IMT": "intima-media thickness"
+      },
+      {
+        "IVUS": "intravascular ultrasound"
+      },
+      {
+        "LDL": "low-density lipoprotein"
+      },
+      {
+        "MI": "myocardial infarction"
+      },
+      {
+        "MRA": "magnetic resonance angiography"
+      },
+      {
+        "MRI": "magnetic resonance imaging"
+      },
+      {
+        "NSAID": "nonsteroidal anti-inflammatory drugs"
+      },
+      {
+        "PAD": "peripheral arterial disease"
+      },
+      {
+        "PET": "positron emission tomography"
+      },
+      {
+        "TIA": "transient ischemic attack"
+      }
+    ],
+    "RelationshipDisclaimer": "The table represents reported relationships by reviewers with industry and other entities relevant to this document according to the ACCF disclosure system. It may not reflect relationships at the time of publication. Relationships are considered significant based on ownership, stock shares, or income percentage criteria."
+  },
+  "genes": []
+}

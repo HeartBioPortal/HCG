@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Overview": "This guideline discusses the management of atrial fibrillation (AF) in the setting of non-cardiac surgery (NCS).",
+    "AF Management": [
+      {
+        "Recommendation": "In patients with rapid AF identified in the setting of NCS, address potential underlying triggers like sepsis, anemia, and pain.",
+        "Level": "2a",
+        "Class": "C-LD"
+      },
+      {
+        "Recommendation": "For new-onset AF in NCS, consider anticoagulation therapy postoperatively, weighing thromboembolism against bleeding risks.",
+        "Level": "2a",
+        "Class": "C-LD"
+      },
+      {
+        "Recommendation": "Postdischarge, follow-up for thromboembolic risk after new-onset AF in NCS is crucial, with a focus on risk stratification and AF surveillance.",
+        "Level": "1",
+        "Class": "C-LD"
+      }
+    ],
+    "Associated Risks": [
+      "Patients with preexisting AF are at increased risk for mortality, heart failure, and ischemic stroke post-NCS.",
+      "Perioperative/postoperative AF is common and varies by surgery type and population."
+    ],
+    "Long-term Management": "Emphasizes the need for future studies on long-term management and surveillance of perioperative/postoperative AF."
+  },
+  "genes": []
+}

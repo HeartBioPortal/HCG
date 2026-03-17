@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Title": "2023 AHA/ACC/ACPC/ASPC/NLA/PCNA Chronic Coronary Disease Guideline",
+    "Authors": "Virani et al.",
+    "Publication": "JACC Vol. 82, No. 9, 2023",
+    "Pages": "831-935",
+    "Sections": [
+      {
+        "Title": "Team-Based Approach",
+        "Details": "Focuses on multidisciplinary strategies for managing chronic coronary disease, emphasizing the role of healthcare teams including pharmacists and nurses in improving patient outcomes."
+      }
+    ],
+    "Key Studies": [
+      {
+        "Study": "Jiao F, Fung CS, Wan YF, et al.",
+        "Focus": "Multidisciplinary risk assessment and management for patients with diabetes mellitus.",
+        "Results": "Demonstrated reductions in cardiovascular risk.",
+        "Reference": "BMC Public Health 2015;10:1450."
+      },
+      {
+        "Study": "Rumsfeld JS, Magid DJ, O'Brien M, et al.",
+        "Focus": "Impact of healthcare quality on life following coronary artery bypass surgery.",
+        "Reference": "Ann Thorac Surg. 2001;72:2006-2023."
+      }
+    ]
+  },
+  "genes": []
+}

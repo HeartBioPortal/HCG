@@ -1,0 +1,33 @@
+{
+  "content": {
+    "guideline_title": "Pulmonary Hypertension and Eisenmenger Syndrome: Routine Follow-Up and Testing Intervals",
+    "recommendation_summary": [
+      "Patients with ACHD and pulmonary hypertension, especially PAH, have a poorer prognosis compared to those without pulmonary hypertension.",
+      "Collaboration between ACHD and pulmonary vascular disease specialists is essential.",
+      "Predictors of PAH development in ACHD include anatomical defects, high lung pressures, and certain syndromes like Down syndrome.",
+      "Routine follow-up includes assessments through ECG, TTE, Cardiac MRI, and catheterization.",
+      "Cardiac catheterization is vital for accurate diagnosis of pulmonary hypertension."
+    ],
+    "routine_testing_intervals": {
+      "physiological_stage_C": {
+        "outpatient_follow-up": "6-12 months",
+        "ECG": "12 months",
+        "TTE": "12 months",
+        "exercise_test": "6-12 months",
+        "cardiac_catherization": "As needed"
+      },
+      "physiological_stage_D": {
+        "outpatient_follow-up": "3-6 months",
+        "ECG": "12 months",
+        "TTE": "12 months",
+        "exercise_test": "6-12 months",
+        "cardiac_catherization": "As needed"
+      }
+    },
+    "diagnostic_evaluation": [
+      "Patients should be evaluated for systemic arterial desaturation, venous pressures, and electrocardiographic changes.",
+      "Echocardiography can help assess ventricular function and pressures."
+    ]
+  },
+  "genes": []
+}

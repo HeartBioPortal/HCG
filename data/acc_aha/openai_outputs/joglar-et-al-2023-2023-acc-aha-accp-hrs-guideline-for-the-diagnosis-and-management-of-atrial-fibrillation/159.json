@@ -1,0 +1,26 @@
+{
+  "content": {
+    "guideline_info": "2023 Guideline for the Diagnosis and Management of Atrial Fibrillation. Discusses catheter ablation, conduction system pacing, heart failure, ventricular remodeling, and genetic testing. Includes management considerations for athletes and patients with obesity.",
+    "focus_areas": [
+      "Conduction system pacing vs conventional pacing",
+      "Ventricular remodeling with pacing",
+      "Catheter ablation for atrial fibrillation",
+      "Role of genetic testing in early onset atrial fibrillation"
+    ],
+    "management_strategies": [
+      "Early catheter ablation for atrial fibrillation",
+      "Pulmonary vein isolation outcomes",
+      "Lifestyle modifications for atrial fibrillation management"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "Atrial fibrillation"
+      ],
+      "Occurrences": 1,
+      "context": "Goodyer WR, Dunn K, Caleshu C, et al. Broad genetic testing in a clinical setting uncovers a high prevalence of loss-of-function variants in very early onset atrial fibrillation."
+    }
+  ]
+}

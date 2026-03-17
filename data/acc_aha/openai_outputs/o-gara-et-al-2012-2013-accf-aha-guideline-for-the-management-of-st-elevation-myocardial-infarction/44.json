@@ -1,0 +1,35 @@
+{
+  "content": {
+    "title": "ACCF/AHA STEMI Guidelines",
+    "publication": "JACC Vol. 61, No. 4, 2013",
+    "focus": "Improving outcomes for patients with ST-segment elevation myocardial infarction (STEMI) through timely reperfusion therapy and related strategies.",
+    "strategies": [
+      {
+        "strategy": "Regional systems of care",
+        "description": "Optimize timeliness of reperfusion therapy for STEMI.",
+        "source": "Ting HH, Rihal CS, Gersh BJ, et al."
+      },
+      {
+        "strategy": "Pre-hospital fibrinolysis",
+        "effectiveness": "Associated with reduced time delay and mortality in patients with STEMI when delivered by ambulance-staffed paramedics."
+      },
+      {
+        "strategy": "Use of electrocardiograms",
+        "benefit": "Early identification and treatment of acute coronary syndrome in STEMI patients."
+      }
+    ],
+    "additional data": [
+      {
+        "finding": "Primary angioplasty vs. pre-hospital fibrinolysis",
+        "source": "Bonnefoy E, Steg PG, et al.",
+        "comparison": "In-hospital transfer for coronary intervention showed better outcomes."
+      },
+      {
+        "research": "Reduction of delay in door-to-balloon time",
+        "scientific focus": "How to improve outcomes using door-to-balloon times within hospital systems.",
+        "notable efforts": "Bradley EH, Curry LA, Webster TR, et al."
+      }
+    ]
+  },
+  "genes": []
+}

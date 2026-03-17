@@ -1,0 +1,15 @@
+{
+  "content": {
+    "guideline": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+    "recommendations": [
+      {
+        "weight_loss": "Clinically meaningful weight loss (\u22655% initial weight) is associated with moderate improvement in blood pressure, LDL-C, triglycerides, and glucose levels among individuals with overweight and obesity.",
+        "lifestyle_modifications": "Increased physical activity, preferably brisk walking for \u2265150 minutes/week or \u226530 minutes/day on most days of the week, is recommended for weight loss.",
+        "dietary_recommendations": "Adults with obesity are recommended a diet to reduce caloric intake by ~500 kcal/day from baseline. Low-calorie diets should be prescribed only under medical supervision.",
+        "measurements_for_risk": "BMI, waist circumference, waist-hip ratio, bioimpedance, and dual-energy X-ray absorptiometry (DXA) should be used to estimate body fat and quantify health risks.",
+        "waist_circumference": "Increased waist circumference has been associated with increased cardiometabolic and ASCVD risk. Waist circumference measurement is recommended in all patients with BMI <35 kg/m\u00b2."
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,41 @@
+{
+  "content": {
+    "clinicalGuidelines": [
+      {
+        "Finding": "No difference in perioperative mortality or survival when comparing root replacement with more limited root repair or supracommissural replacement.",
+        "References": "[2,5,7,41,42]"
+      },
+      {
+        "Finding": "Standardized structured algorithmic approach showed a mortality rate of only 8.1% with aortic valve resuspension as preferred approach.",
+        "Compared to": "23.1% with root replacement.",
+        "References": "[3]"
+      },
+      {
+        "Finding": "Reoperation rates are mixed for freedom after reoperation, but 2 meta-analyses have shown excellent long-term durability of aortic valve resuspension.",
+        "Reoperation Rates": "1.4% to 2.1% per patient-year and low thromboembolism and bleeding rates (1.4%/patient-year).",
+        "References": "[1,7,41,44-46]"
+      },
+      {
+        "Finding": "Aneurysmal root diameter >4.5 cm is a risk factor for late reintervention.",
+        "References": "[6]"
+      },
+      {
+        "Finding": "Involvement of the aortic arch by the aortic dissection can influence intervention strategies and clinical outcomes.",
+        "References": "[38-40]"
+      },
+      {
+        "Finding": "Total arch replacement (TAR) is safe and promotes aortic remodeling.",
+        "References": "[47,48]"
+      },
+      {
+        "Meta-Analysis": "Lower mortality rates with partial compared with TAR.",
+        "References": "[16,18]"
+      },
+      {
+        "Observational Data": "Higher rates of excessive bleeding and thromboembolic complications without appropriate neurological deficits in hemiaarch versus TAR group.",
+        "References": "[18]"
+      }
+    ]
+  },
+  "genes": []
+}

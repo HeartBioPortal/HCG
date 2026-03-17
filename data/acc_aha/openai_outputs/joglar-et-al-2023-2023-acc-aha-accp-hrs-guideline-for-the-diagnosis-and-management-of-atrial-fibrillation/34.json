@@ -1,0 +1,13 @@
+{
+  "content": {
+    "figure": "Rates of Stroke by Stroke Risk Score Levels in Different Cohorts",
+    "description": "The graph depicts the overall stroke rate in atrial fibrillation cohorts sorted by descending stroke rates (events per 100 person-years). The CHA2DS2-VASc score is considered the most validated for stroke prediction, but despite extensive use, it has shown suboptimal performance in certain populations, prompting the development of new scores like ATRIA and GARFIELD-AF. These newer scores provide modest improvements in risk discrimination while also including additional variables such as smoking status, renal disease, and dementia.",
+    "clinical_notes": [
+      "The CHA2DS2-VASc score is the preferred validated measure for stroke risk in atrial fibrillation.",
+      "Newer risk scores like ATRIA and GARFIELD-AF include additional parameters for enhanced risk prediction.",
+      "The GARFIELD-AF score incorporates mortality and bleeding risk to aid comprehensive patient discussions.",
+      "Decisions regarding stroke prevention therapy in AF patients must weigh the risks of stroke, bleeding, treatment benefit, and patient preferences."
+    ]
+  },
+  "genes": []
+}

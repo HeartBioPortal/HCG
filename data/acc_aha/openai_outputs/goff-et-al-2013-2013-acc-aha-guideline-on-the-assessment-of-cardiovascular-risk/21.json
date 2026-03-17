@@ -1,0 +1,50 @@
+{
+  "content": {
+    "Appendix 4": {
+      "Evidence Statement Number": 13,
+      "Author/Group": "Den Ruijter et al, 2012",
+      "Factor": "CIMT",
+      "Evidence Statement/Conclusion": "This article is an individual-level meta-analysis of 14 population-based cohorts. The addition of common CIMT measurements to the FRS for 10-year risk prediction of first-time MI or stroke showed small improvement, deemed to have little clinical importance."
+    },
+    "Appendix 5": {
+      "Evidence Statements for CQ2": [
+        {
+          "Statement Number": 1,
+          "Evidence Statement": "No evidence assessing variations in long-term or lifetime risk of CVD outcomes among persons at low or intermediate short-term risk in racial/ethnic groups.",
+          "Strength of Evidence": "None"
+        },
+        {
+          "Statement Number": 2,
+          "Evidence Statement": "ASCVD risk factors measured in young and middle-aged adults are associated with short-term, long-term, and lifetime risk of ASCVD.",
+          "Strength of Evidence": "Low"
+        },
+        {
+          "Statement Number": 3,
+          "Evidence Statement": "Multivariable short-term ASCVD risk prediction models underestimate absolute lifetime risk of CHD.",
+          "Strength of Evidence": "Low"
+        },
+        {
+          "Statement Number": 4,
+          "Evidence Statement": "Long-term ASCVD risk equations provide more accurate prediction of long-term risk than short-term equations.",
+          "Strength of Evidence": "Low"
+        },
+        {
+          "Statement Number": 5,
+          "Evidence Statement": "Presence and severity of selected traditional ASCVD risk factors stratify adult lifetime risk of ASCVD more sharply.",
+          "Strength of Evidence": "Low"
+        },
+        {
+          "Statement Number": 6,
+          "Evidence Statement": "Long-term risk prediction models based on selected traditional ASCVD risk factors predict CHD death with good discrimination.",
+          "Strength of Evidence": "Moderate"
+        },
+        {
+          "Statement Number": 7,
+          "Evidence Statement": "Measuring and updating ASCVD risk factors every 4\u20136 years improves short- and long-term risk prediction.",
+          "Strength of Evidence": "Moderate"
+        }
+      ]
+    }
+  },
+  "genes": []
+}

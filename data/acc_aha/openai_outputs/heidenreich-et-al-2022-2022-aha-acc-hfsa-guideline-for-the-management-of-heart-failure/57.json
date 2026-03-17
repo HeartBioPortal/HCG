@@ -1,0 +1,59 @@
+{
+  "content": {
+    "guidelines": [
+      {
+        "recommendation": "Patients with LVEF \u226435%, sinus rhythm, LBBB with QRS duration \u2265150 ms, and NYHA class II, III, or ambulatory IV symptoms on GDMT should receive CRT.",
+        "class": "1",
+        "level": "B-R",
+        "benefit": "Reduce total mortality, reduce hospitalizations, and improve symptoms and QOL."
+      },
+      {
+        "recommendation": "Patients with LVEF \u226435%, sinus rhythm, LBBB with a QRS duration of 120 to 149 ms, and NYHA class II, III, or ambulatory IV symptoms on GDMT can be considered for CRT.",
+        "class": "2a",
+        "level": "B-NR",
+        "benefit": "Reduce total mortality, reduce hospitalizations, and improve symptoms and QOL."
+      },
+      {
+        "recommendation": "Patients with high-degree or complete heart block and LVEF of 36% to 50% could use CRT.",
+        "class": "2a",
+        "level": "B-R",
+        "benefit": "Reduce total mortality, reduce hospitalizations, and improve symptoms and QOL."
+      },
+      {
+        "recommendation": "Patients with LVEF \u226430%, ischemic cause of HF, sinus rhythm, LBBB with QRS \u2265150 ms, and NYHA class I symptoms on GDMT may benefit from CRT.",
+        "class": "2b",
+        "level": "B-NR",
+        "benefit": "Reduce hospitalizations and improve symptoms and QOL."
+      },
+      {
+        "recommendation": "Patients with genetic arrhythmogenic cardiomyopathy with LVEF \u226445% could get ICD implantation.",
+        "class": "2a",
+        "level": "B-NR",
+        "benefit": "Decrease sudden death."
+      },
+      {
+        "recommendation": "CRT not recommended for patients with QRS duration <120 ms.",
+        "class": "3",
+        "level": "B-R",
+        "benefit": "No benefit."
+      },
+      {
+        "recommendation": "Patients with NYHA class I or II symptoms and non-LBBB with QRS <150 ms not recommended for CRT.",
+        "class": "3",
+        "level": "B-NR",
+        "benefit": "No benefit."
+      }
+    ],
+    "additional_notes": "RCTs have guided ICD and CRT device decisions for 20 years, with subgroup analyses supplementing findings."
+  },
+  "genes": [
+    {
+      "Gene": "LVEF",
+      "Associated Conditions": [
+        "Heart Failure"
+      ],
+      "Occurrences": 10,
+      "context": "LVEF \u226435%, LVEF of 36% to 50%, LVEF \u226430%, LVEF \u226445%"
+    }
+  ]
+}

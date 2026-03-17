@@ -1,0 +1,17 @@
+{
+  "content": {
+    "Synopsis": "The incidence of atrial arrhythmias is rising in pregnancy, linked to increasing incidence of AF with 27 per 100,000 hospitalizations. AF/AFL in pregnant patients with heart disease has a peak occurrence between 23 and 30 weeks. Hospitalizations during pregnancy for arrhythmias are linked to increased risk of maternal and fetal adverse outcomes. AF in pregnancy is associated with increased maternal mortality.",
+    "Atrial arrhythmias": "May present for the first time during pregnancy. Linked with structural or CHD. Factors like advanced maternal age, African American race, lower socioeconomic status, and left-sided obstructive lesions risk increased incidence.",
+    "Drugs": "DOACs are contraindicated during pregnancy and breastfeeding due to insufficient data. Warfarin may be administered in the first trimester.",
+    "Anticoagulation": "Extrapolated from VHD management experience. Recommendations in hostile stroke risk scenarios must be validated.",
+    "Recommendation-Specific Supportive Text": {
+      "1": "Rapid atrioventricular conduction could harm mother and fetus.",
+      "2": "Antiarrhythmic drugs used in pregnancy must tolerate for both mother and fetus, managed by specialists.",
+      "3": "Structural normal hearts in pregnant individuals allow rhythm-control strategies. Amiodarone reserved for life-threatening conditions due to fetal toxicity.",
+      "4": "Persistent AF pregnancy includes beta blockers or digoxin therapy. Atenolol avoided due to growth concerns.",
+      "5": "Tools available for stroke risk prediction in AF not validated in pregnancy.",
+      "6": "Validation needed for stroke risk in AF without risk factors/signs."
+    }
+  },
+  "genes": []
+}

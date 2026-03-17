@@ -1,0 +1,36 @@
+{
+  "content": {
+    "title": "2017 High Blood Pressure Clinical Practice Guideline",
+    "journal": "JACC Vol. 71, No. 19, 2018",
+    "date": "May 15, 2018",
+    "section": "12.1.1. Antihypertensive Medication Adherence Strategies",
+    "recommendations": [
+      {
+        "COR": "I",
+        "LOE": "B-R",
+        "statement": "In adults with hypertension, dosing of antihypertensive medication once daily rather than multiple times daily is beneficial to improve adherence."
+      },
+      {
+        "COR": "IIa",
+        "LOE": "B-NR",
+        "statement": "Use of combination pills rather than free individual components can be useful to improve adherence to antihypertensive therapy."
+      }
+    ],
+    "synopsis": "Up to 25% of patients do not fill their initial prescription for antihypertensive therapy. Adherence is a significant issue with factors contributing to poor adherence being complex and multilevel. A coordinated effort that addresses all barriers is key to improving adherence.",
+    "factors": [
+      "Educational interventions",
+      "Systematic reviews and meta-analyses have been assessed",
+      "Creation of an encouraging and blame-free environment"
+    ],
+    "methods": [
+      "Use of objective methods (e.g., pill counts, data on medication refills)",
+      "Self-report methods",
+      "Online Data Supplement A and F for more tools"
+    ],
+    "recommendation_support": [
+      "Once-daily dosing is more beneficial according to meta-analyses",
+      "Simplifying regimens can improve adherence"
+    ]
+  },
+  "genes": []
+}

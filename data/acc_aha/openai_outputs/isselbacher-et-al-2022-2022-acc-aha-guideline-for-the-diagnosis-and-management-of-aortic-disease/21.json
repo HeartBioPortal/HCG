@@ -1,0 +1,74 @@
+{
+  "content": {
+    "TABLE 4": {
+      "Essential Elements of CT and MRI Aortic Imaging Reports": [
+        "Maximum aortic diameter at each level of dilation, perpendicular to the axis of blood flow. In cases of asymmetric or oval contour, the longest diameter and its perpendicular diameter should be reported. Standard measurement levels may be included, even when normal.",
+        "Wall changes suggestive of atherosclerosis, diffuse thickening (eg, aortitis), or mural thrombus.",
+        "Evidence of luminal stenosis/occlusion, including location, severity, and length.",
+        "Findings suggestive of acute aortic syndrome (eg, communicating dissection, intramural hematoma, penetrating atherosclerotic ulcer, focal intimal tear), including proximal/distal extension, suspected entry tear site (if visible), and complications (eg, active contrast extravasation, rupture, contained rupture including pericardic hemorrhage, pericardial and pleural fluid, mediastinal stranding).",
+        "Extension of aortic disease process (acute or chronic) into branch vessels, findings suggestive of end-organ injury, and suspected malperfusion.",
+        "Direct comparison with previous examinations should be detailed to identify pertinent changes.",
+        "Presence and extent of repair (eg, interposition graft, endovascular stent graft), as well as any evidence of complication.",
+        "Impression regarding disease classification (eg, acute aortic syndrome, aneurysm/pseudoaneurysm, luminal stenosis, atherosclerotic aortic disease).",
+        "Relevant details regarding method of image acquisition (eg, use of electrocardiographic-gating and phase of acquisition) and measurement (eg, axial versus double oblique, inner-edge versus outer-edge) should be included."
+      ]
+    },
+    "TABLE 5": {
+      "Diagnostic Performance of Aortic Imaging Modalities": {
+        "Parameters": {
+          "CT": {
+            "Availability": "+++",
+            "Portability": "-",
+            "Speed of acquisition": "+++",
+            "Spatial resolution": "+++",
+            "Temporal resolution": "++",
+            "Three-dimensional data set": "+++",
+            "Arch branch vessel evaluation": "+++",
+            "Evaluation of valve and ventricular function": "++"
+          },
+          "MRI": {
+            "Availability": "++",
+            "Portability": "-",
+            "Speed of acquisition": "+",
+            "Spatial resolution": "++",
+            "Temporal resolution": "++",
+            "Three-dimensional data set": "++",
+            "Arch branch vessel evaluation": "+++",
+            "Evaluation of valve and ventricular function": "++"
+          },
+          "TTE": {
+            "Availability": "+++",
+            "Portability": "+++",
+            "Speed of acquisition": "+++",
+            "Spatial resolution": "++",
+            "Temporal resolution": "+++",
+            "Three-dimensional data set": "+",
+            "Arch branch vessel evaluation": "++",
+            "Evaluation of valve and ventricular function": "+++"
+          },
+          "TEE": {
+            "Availability": "++",
+            "Portability": "+++",
+            "Speed of acquisition": "++",
+            "Spatial resolution": "+++",
+            "Temporal resolution": "+++",
+            "Three-dimensional data set": "+",
+            "Arch branch vessel evaluation": "++",
+            "Evaluation of valve and ventricular function": "+++"
+          },
+          "US": {
+            "Availability": "+++",
+            "Portability": "+++",
+            "Speed of acquisition": "++",
+            "Spatial resolution": "++",
+            "Temporal resolution": "+++",
+            "Three-dimensional data set": "+",
+            "Arch branch vessel evaluation": "NA",
+            "Evaluation of valve and ventricular function": "NA"
+          }
+        }
+      }
+    }
+  },
+  "genes": []
+}

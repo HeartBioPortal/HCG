@@ -1,0 +1,47 @@
+{
+  "content": {
+    "clinical_guideline": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery",
+    "recommendations": [
+      {
+        "topic": "Management plans for CIED",
+        "details": [
+          "Incorporate procedure details, patient positioning, type of anticipated EMI",
+          "State specific programming changes based on patient needs like response to a magnet, pacemaker dependency, battery life, and history of arrhythmias."
+        ]
+      },
+      {
+        "topic": "Magnet pacing",
+        "details": [
+          "Rates vary by device and battery status.",
+          "Recommended asynchronous pacing with magnet use; synchronous pacing requires reprogramming."
+        ]
+      },
+      {
+        "topic": "Electrosurgical Unit (ESU)",
+        "details": [
+          "EMI is common with monopolar ESU; use dispersive electrode.",
+          "Position electrodes far from device."
+        ]
+      },
+      {
+        "topic": "Implantable Cardioverter-Defibrillators (ICDs)",
+        "details": [
+          "Program to asynchronous pacing to prevent EMI.",
+          "Antitachyarrhythmia functions are disabled to avoid inappropriate therapy."
+        ]
+      },
+      {
+        "topic": "Pacemaker recommendations",
+        "details": [
+          "Leadless pacemakers implanted in RV; may not be magnet responsive.",
+          "Subcutaneous ICDs more susceptible to ESU."
+        ]
+      },
+      {
+        "topic": "Previous stroke or TIA",
+        "recommendation": "Delay elective noncardiac surgery for at least 3 months post-stroke to reduce recurrence risk."
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,24 @@
+{
+  "content": {
+    "Observation": "Reasonable without further evaluation or treatment in asymptomatic patients with pre-excitation.",
+    "Cohort Studies": "Most adult patients with asymptomatic pre-excitation have a benign course with few significant arrhythmic events.",
+    "Risk of SCD": "Risk is small and seen mainly in children.",
+    "Patient Information": "Patients should be informed of small risk of life-threatening arrhythmias without treatment.",
+    "Pre-excitation Evaluation": "Determining the risk of rapid conduction over accessory pathway and life-threatening ventricular arrhythmias.",
+    "Diagnostic Tests": {
+      "Exercise Testing": "Findings of abrupt loss of conduction over the pathway during exercise give insights.",
+      "Noninvasive Tests": "Offer about 90% positive predictive value and 30% negative predictive value.",
+      "EP Study": "Useful for risk stratification in symptomatic patients with pre-excitation.",
+      "Findings": {
+        "R-R Interval": "<250 ms between pre-excited complexes during induced AF.",
+        "Accessory Pathways": "Presence of multiple accessory pathways or AVRT precipitating pre-excited AF."
+      }
+    },
+    "Atrial Flutter": {
+      "Type": "Macroreentrant atrial arrhythmia.",
+      "Characteristics": "Regular atrial rate and constant P-wave morphology.",
+      "CTI-dependent Flutter": "Circuit rotates in a counterclockwise direction around tricuspid valve."
+    }
+  },
+  "genes": []
+}

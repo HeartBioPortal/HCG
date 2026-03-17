@@ -1,0 +1,33 @@
+{
+  "content": {
+    "title": "Recommendations for Permanent Pacing in Hypersensitive Carotid Sinus Syndrome and Neurocardiogenic Syncope",
+    "recommendation_classifications": {
+      "Class I": [
+        "Permanent pacing is indicated for recurrent syncope caused by spontaneously occurring carotid sinus stimulation and carotid sinus pressure that induces ventricular asystole of more than 3 seconds."
+      ],
+      "Class IIa": [
+        "Permanent pacing is reasonable for syncope without clear, provocative events and with a hypersensitive cardioinhibitory response of 3 seconds or longer."
+      ],
+      "Class IIb": [
+        "Permanent pacing may be considered for significantly symptomatic neurocardiogenic syncope associated with a cardioinhibitory response."
+      ],
+      "Class III": [
+        "Permanent pacing is not indicated for a hypersensitive cardioinhibitory response to carotid sinus stimulation without symptoms or vague symptoms.",
+        "Permanent pacing is not indicated for situational vasovagal syncope in which avoidance behavior is effective and preferred."
+      ]
+    },
+    "pacing_for_specific_conditions": {
+      "conditions_covered": [
+        "cardiac transplantation",
+        "neuromuscular diseases",
+        "sleep apnea syndromes",
+        "infiltrative and inflammatory diseases"
+      ],
+      "cardiac_transplantation_details": {
+        "bradyarrhythmias": "The incidence of bradyarrhythmias after cardiac transplantation varies from 8% to 23%.",
+        "management": "Attempts to treat the bradycardia temporarily with measures such as theophylline may minimize the need for pacing."
+      }
+    }
+  },
+  "genes": []
+}

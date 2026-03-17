@@ -1,0 +1,28 @@
+{
+  "content": {
+    "guideline": "Classification of Aortic Dissection Chronically Based on the 2020 SVS/STS Reporting Standards.",
+    "chronocity": {
+      "hyperacute": "<24h",
+      "acute": "1-14d",
+      "subacute": "15-90d",
+      "chronic": ">90d"
+    },
+    "classification": {
+      "systems": [
+        "DeBakey",
+        "Stanford"
+      ],
+      "notes": "The DeBakey system offers greater anatomic detail, distinguishing dissections involving ascending thoracic aorta from those that do not, whereas the Stanford system is simpler."
+    },
+    "mortality_info": {
+      "early_mortality": "1% to 2% per hour after symptom onset for acute aortic dissection.",
+      "complications": [
+        "cardiac tamponade",
+        "acute myocardial ischemia",
+        "organ malperfusion"
+      ],
+      "acute_type_b_mortality": "30-day mortality rate of 10%, increasing to 20% by day 2 and 25% by day 30 if complications arise."
+    }
+  },
+  "genes": []
+}

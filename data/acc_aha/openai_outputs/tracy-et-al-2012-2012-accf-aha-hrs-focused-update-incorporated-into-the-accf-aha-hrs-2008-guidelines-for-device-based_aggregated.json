@@ -1,0 +1,2553 @@
+{
+  "content": [
+    {
+      "content": {
+        "title": "2012 ACCF/AHA/HRS Focused Update Incorporated Into the ACCF/AHA/HRS 2008 Guidelines for Device-Based Therapy of Cardiac Rhythm Abnormalities",
+        "description": "A Report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines and the Heart Rhythm Society.",
+        "collaboration": "Developed in Collaboration With the American Association for Thoracic Surgery and Society of Thoracic Surgeons.",
+        "committee_members": {
+          "2008": [
+            "Andrew E. Epstein, MD, FACC, FAHA, FHRS, Chair",
+            "John P. DiMarco, MD, PhD, FACC, FHRS",
+            "Kenneth A. Ellenbogen, MD, FACC, FAHA, FHRS",
+            "N.A. Mark Estes III, MD, FACC, FAHA, FHRS",
+            "Roger A. Freedman, MD, FACC, FHRS",
+            "Leonard S. Gettes, MD, FACC, FAHA",
+            "A. Marc Gillinov, MD, FACC, FAHA",
+            "Gabriel Gregoratos, MD, FACC, FAHA",
+            "Stephen C. Hammill, MD, FACC, FHRS",
+            "David L. Hayes, MD, FACC, FAHA, FHRS",
+            "Mark A. Hlatky, MD, FACC, FAHA",
+            "L. Kristin Newby, MD, FACC, FAHA",
+            "Richard L. Page, MD, FACC, FAHA, FHRS",
+            "Mark H. Schoenfeld, MD, FACC, FAHA, FHRS",
+            "Michael J. Silka, MD, FACC",
+            "Lynne Warner Stevenson, MD, FACC#",
+            "Michael O. Sweeney, MD, FACC"
+          ],
+          "2012": [
+            "Cynthia M. Tracy, MD, FACC, FAHA, Chair",
+            "Andrew E. Epstein, MD, FACC, FAHA, FHRS, Vice Chair",
+            "Dawood Darbar, MD, FACC, FHRS",
+            "John P. DiMarco, MD, PhD, FACC, FHRS'",
+            "Sandra B. Dunbar, RN, DSN, FAAN, FAHA",
+            "N.A. Mark Estes III, MD, FACC, FAHA, FHRS",
+            "T. Bruce Ferguson, Jr, MD, FACC, FAHA",
+            "Stephen C. Hammill, MD, FACC, FHRS",
+            "Pamela E. Karasik, MD, FACC, FHRS",
+            "Mark S. Link, MD, FACC, FHRS",
+            "Joseph E. Marine, MD, FACC, FHRS",
+            "Mark H. Schoenfeld, MD, FACC, FAHA, FHRS",
+            "Amit J. Shanker, MD, FACC, FHRS",
+            "Michael J. Silka, MD, FACC",
+            "Lynne Warner Stevenson, MD, FACC",
+            "William G. Stevenson, MD, FACC, FAHA"
+          ]
+        },
+        "publication_info": {
+          "journal": "Journal of the American College of Cardiology",
+          "year": 2013,
+          "volume": 61,
+          "issue": 3,
+          "doi": "10.1016/j.jacc.2012.11.007"
+        },
+        "copyright": "\u00a9 2013 by the American College of Cardiology Foundation, the American Heart Association, Inc., and the Heart Rhythm Society."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "sections": [
+          {
+            "section_number": "1",
+            "title": "Introduction (UPDATED)",
+            "subsections": [
+              {
+                "subsection_number": "1.1",
+                "title": "Organization of Committee"
+              },
+              {
+                "subsection_number": "1.2",
+                "title": "Document Review and Approval"
+              },
+              {
+                "subsection_number": "1.3",
+                "title": "Methodology and Evidence"
+              }
+            ]
+          },
+          {
+            "section_number": "2",
+            "title": "Indications for Pacing",
+            "subsections": [
+              {
+                "subsection_number": "2.1",
+                "title": "Pacing for Bradycardia Due to Sinus and Atrioventricular Node Dysfunction",
+                "subsections": [
+                  {
+                    "subsection_number": "2.1.1",
+                    "title": "Sinus Node Dysfunction"
+                  },
+                  {
+                    "subsection_number": "2.1.2",
+                    "title": "Acquired Atrioventricular Block in Adults"
+                  },
+                  {
+                    "subsection_number": "2.1.3",
+                    "title": "Chronic Bifascicular Block"
+                  },
+                  {
+                    "subsection_number": "2.1.4",
+                    "title": "Pacing for Atrioventricular Block Associated With Acute Myocardial Infarction"
+                  },
+                  {
+                    "subsection_number": "2.1.5",
+                    "title": "Hypersensitive Carotid Sinus Syndrome and Neurocardiogenic Syncope"
+                  }
+                ]
+              },
+              {
+                "subsection_number": "2.2",
+                "title": "Pacing for Specific Conditions",
+                "subsections": [
+                  {
+                    "subsection_number": "2.2.1",
+                    "title": "Cardiac Transplantation"
+                  },
+                  {
+                    "subsection_number": "2.2.2",
+                    "title": "Neuromuscular Diseases"
+                  },
+                  {
+                    "subsection_number": "2.2.3",
+                    "title": "Sleep Apnea Syndrome"
+                  },
+                  {
+                    "subsection_number": "2.2.4",
+                    "title": "Cardiac Sarcoidosis"
+                  }
+                ]
+              },
+              {
+                "subsection_number": "2.3",
+                "title": "Prevention and Termination of Arrhythmias by Pacing",
+                "subsections": [
+                  {
+                    "subsection_number": "2.3.1",
+                    "title": "Pacing to Prevent Atrial Arrhythmias"
+                  },
+                  {
+                    "subsection_number": "2.3.2",
+                    "title": "Long-QT Syndrome"
+                  },
+                  {
+                    "subsection_number": "2.3.3",
+                    "title": "Atrial Fibrillation (Dual\u2011Site, Dual\u2011Chamber, Alternative Pacing Sites)"
+                  }
+                ]
+              },
+              {
+                "subsection_number": "2.4",
+                "title": "Pacing for Hemodynamic Indications",
+                "subsections": [
+                  {
+                    "subsection_number": "2.4.1",
+                    "title": "Cardiac Resynchronization Therapy (UPDATED)"
+                  },
+                  {
+                    "subsection_number": "2.4.2",
+                    "title": "Obstructive Hypertrophic Cardiomyopathy"
+                  }
+                ]
+              },
+              {
+                "subsection_number": "2.5",
+                "title": "Pacing in Children, Adolescents, and Patients With Congenital Heart Disease"
+              },
+              {
+                "subsection_number": "2.6",
+                "title": "Selection of Pacemaker Device",
+                "subsections": [
+                  {
+                    "subsection_number": "2.6.1",
+                    "title": "Major Trials Comparing Atrial or Dual\u2011Chamber Pacing With Ventricular Pacing"
+                  },
+                  {
+                    "subsection_number": "2.6.2",
+                    "title": "Quality of Life and Functional Status End Points"
+                  },
+                  {
+                    "subsection_number": "2.6.3",
+                    "title": "Heart Failure End Points"
+                  },
+                  {
+                    "subsection_number": "2.6.4",
+                    "title": "Atrial Fibrillation End Points"
+                  },
+                  {
+                    "subsection_number": "2.6.5",
+                    "title": "Stroke or Thromboembolism End Points"
+                  },
+                  {
+                    "subsection_number": "2.6.6",
+                    "title": "Mortality End Points"
+                  },
+                  {
+                    "subsection_number": "2.6.7",
+                    "title": "Importance of Minimizing Unnecessary Ventricular Pacing"
+                  },
+                  {
+                    "subsection_number": "2.6.8",
+                    "title": "Role of Biventricular Pacemakers"
+                  }
+                ]
+              },
+              {
+                "subsection_number": "2.7",
+                "title": "Optimizing Pacemaker Technology and Cost"
+              },
+              {
+                "subsection_number": "2.8",
+                "title": "Pacemaker Follow\u2011Up",
+                "subsections": [
+                  {
+                    "subsection_number": "2.8.1",
+                    "title": "Length of Electrocardiographic Samples for Storage"
+                  },
+                  {
+                    "subsection_number": "2.8.2",
+                    "title": "Frequency of Transtelephonic Monitoring"
+                  },
+                  {
+                    "subsection_number": "2.8.3",
+                    "title": "Remote Follow\u2011Up and Monitoring (NEW SECTION)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section_number": "3",
+            "title": "Indications for Implantable Cardioverter\u2011Defibrillator Therapy",
+            "subsections": [
+              {
+                "subsection_number": "3.1",
+                "title": "Secondary Prevention of Sudden Cardiac Death",
+                "subsections": [
+                  {
+                    "subsection_number": "3.1.1",
+                    "title": "Implantable Cardioverter-Defibrillator Therapy for Secondary Prevention of Cardiac Arrest and Sustained Ventricular Tachycardia"
+                  },
+                  {
+                    "subsection_number": "3.1.2",
+                    "title": "Specific Disease States and Secondary Prevention of Cardiac Arrest or Sustained Ventricular Tachycardia",
+                    "subsubsections": [
+                      {
+                        "subsection_number": "3.1.3",
+                        "title": "Coronary Artery Disease"
+                      },
+                      {
+                        "subsection_number": "3.1.4",
+                        "title": "Nonischemic Dilated Cardiomyopathy"
+                      },
+                      {
+                        "subsection_number": "3.1.5",
+                        "title": "Hypertrophic Cardiomyopathy"
+                      },
+                      {
+                        "subsection_number": "3.1.6",
+                        "title": "Arrhythmogenic Right Ventricular Dysplasia/Cardiomyopathy"
+                      },
+                      {
+                        "subsection_number": "3.1.7",
+                        "title": "Genetic Arrhythmia Syndromes"
+                      },
+                      {
+                        "subsection_number": "3.1.8",
+                        "title": "Syncope With Inducible Sustained Ventricular Tachycardia"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "subsection_number": "3.2",
+                "title": "Primary Prevention of Sudden Cardiac Death",
+                "subsections": [
+                  {
+                    "subsection_number": "3.2.1",
+                    "title": "Coronary Artery Disease"
+                  },
+                  {
+                    "subsection_number": "3.2.2",
+                    "title": "Nonischemic Dilated Cardiomyopathy"
+                  },
+                  {
+                    "subsection_number": "3.2.3",
+                    "title": "Long-QT Syndrome"
+                  },
+                  {
+                    "subsection_number": "3.2.4",
+                    "title": "Hypertrophic Cardiomyopathy"
+                  },
+                  {
+                    "subsection_number": "3.2.5",
+                    "title": "Arrhythmogenic Right Ventricular Dysplasia/Cardiomyopathy"
+                  },
+                  {
+                    "subsection_number": "3.2.6",
+                    "title": "Noncompaction of the Left Ventricle"
+                  },
+                  {
+                    "subsection_number": "3.2.7",
+                    "title": "Primary Electrical Disease (Idiopathic Ventricular Fibrillation, Short\u2011QT Syndrome, Brugada Syndrome, and Catecholaminergic Polymorphic Ventricular Tachycardia)"
+                  },
+                  {
+                    "subsection_number": "3.2.8",
+                    "title": "Idiopathic Ventricular Tachycardias"
+                  },
+                  {
+                    "subsection_number": "3.2.9",
+                    "title": "Advanced Heart Failure and Cardiac Transplantation"
+                  }
+                ]
+              },
+              {
+                "subsection_number": "3.3",
+                "title": "Implantable Cardioverter\u2011Defibrillators in Children, Adolescents, and Patients With Congenital Heart Disease",
+                "subsections": [
+                  {
+                    "subsection_number": "3.3.1",
+                    "title": "Hypertrophic Cardiomyopathy"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section_number": "4",
+            "title": "Limitations and Other Considerations",
+            "subsections": [
+              {
+                "subsection_number": "3.4.1",
+                "title": "Impact on Quality of Life"
+              },
+              {
+                "subsection_number": "3.4.2",
+                "title": "Inappropriate Shocks"
+              },
+              {
+                "subsection_number": "3.4.3",
+                "title": "Special Needs"
+              },
+              {
+                "subsection_number": "3.4.4",
+                "title": "Patient Longevity and Comorbidities"
+              },
+              {
+                "subsection_number": "3.4.5",
+                "title": "Terminal Care"
+              }
+            ]
+          },
+          {
+            "section_number": "5",
+            "title": "Cost-Effectiveness of Implantable Cardioverter\u2011Defibrillator Therapy"
+          },
+          {
+            "section_number": "6",
+            "title": "Selection of Implantable Cardioverter\u2011Defibrillator Generators"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Preamble": "The article emphasizes the importance of rigorous analysis of available data in developing clinical practice guidelines. The goal is to enhance the effectiveness of care by focusing on strategies that optimize patient outcomes. The American College of Cardiology Foundation (ACCF) and the American Heart Association (AHA) have been involved in producing cardiovascular disease guidelines since 1980. The Task Force on Practice Guidelines is responsible for the development, updating, or revising of guideline recommendations for cardiovascular care.",
+        "2012 Update": "The 2012 update involves reviewing new evidence to update guidelines that affect patient care. This includes new data from studies and literature reviews. The Class of Recommendation (COR) and Level of Evidence (LOE) are used to evaluate recommendations based on the magnitude of treatment effects and supporting evidence.",
+        "Focus Areas": [
+          "Elements of Implantable Cardioverter-Defibrillator Follow-Up",
+          "Focus on Heart Failure After First Appropriate Implantable Cardioverter Defibrillator Therapy"
+        ],
+        "Additional Information": {
+          "Guideline Review": "Guidelines are reviewed annually unless they become outdated. The review process involves updates due to new evidence or opinion.",
+          "Evidence Focus": "The 2012 update was driven by major trials and new publications affecting patient care. A focused update was made to address immediate changes."
+        },
+        "Appendices": [
+          "2008 and 2012 Author Relationships with Industry and Other Entities",
+          "Abbreviations List",
+          "Indications for CRT Therapy\u2013Algorithm"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Applying Classification of Recommendations and Level of Evidence",
+        "classes": {
+          "Class I": "Benefit >> Risk. Procedure/Treatment should be performed/administered.",
+          "Class IIa": "Benefit >> Risk. Additional studies with focused objectives needed. It is reasonable to perform procedure/administer treatment.",
+          "Class IIb": "Benefit >= Risk. Additional studies with broad objectives needed; additional registry data would be helpful. Procedure/Treatment may be considered.",
+          "Class III": "No Benefit or Harm. Procedure/treatment is not useful/effective and may be harmful."
+        },
+        "levels_of_evidence": {
+          "Level A": "Multiple populations evaluated. Data derived from multiple randomized clinical trials or meta-analyses.",
+          "Level B": "Limited populations evaluated. Data derived from a single randomized trial or nonrandomized studies.",
+          "Level C": "Very limited populations evaluated. Only consensus opinion, case studies, or standard of care."
+        },
+        "recommendations": "A recommendation with Level of Evidence B or C does not imply that the recommendation is weak. Many important clinical questions do not lend themselves to clinical trials."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Device Guideline: 2012 Update",
+        "description": "The ACCF/AHA practice guidelines assist healthcare professionals in clinical decision making by describing acceptable approaches to diagnose, manage, and prevent diseases or conditions. The guidelines define practices meeting patient care needs. The task force aims to improve quality of care as prescribed interventions are effective if followed. Patient participation and understanding of risks and benefits are emphasized. Conflicts of interest policies exist to maintain objectivity.",
+        "organization": "The document is a 2008 ACCF/AHA/HRS device-based therapy guideline for cardiac rhythm abnormalities, updating previous versions. It addresses changes in device technology, management of heart failure, and includes input from experts."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Document Review": "The guideline document was reviewed by various official reviewers from ACC, AHA, HRS and partner organizations. It underwent a review process involving conflict of interest assessment and was approved by governing bodies.",
+        "Focus": "The primary focus is on the appropriate use of pacing devices such as pacemakers and ICDs. It emphasizes the distinction between indications for treatment, and the use of other therapeutic modalities.",
+        "Clinical Recommendations": "Recommendations discuss the treatment of patients with specific disorders and coexisting diseases, highlighting the need for primary physician evaluation.",
+        "Follow-up Importance": "Despite being brief, follow-up care for implanted devices is stressed as vital for patient outcomes.",
+        "Leads and Extraction": "A decision was made against creating specific criteria for the extraction of failed/unused leads due to a lack of compelling evidence.",
+        "Patient-Physician Discussion": "The importance of context-based decision-making through patient-physician discussions is emphasized.",
+        "Potentially Reversible Conditions": "The document includes considerations of reversible pathological states, like conduction system injury during surgery, while urging careful treatment consideration."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "description": "The guideline discusses various aspects of device therapy for symptomatic bradycardia and ICDs. It defines symptomatic bradycardia, emphasizes the role of medical therapy, and outlines situations where device therapy is necessary. It also mentions the significance of comprehensively evaluating the patient's condition, including quality of life considerations. Changes in recommendations are based on new trials and evidence, and the guideline stresses the importance of consistent recommendations with previous guidelines.",
+        "symptoms": [
+          "dizziness",
+          "lightheadedness",
+          "confusional states",
+          "fatigue",
+          "exercise intolerance",
+          "congestive heart failure"
+        ],
+        "conditions": [
+          "symptomatic bradycardia",
+          "sudden cardiac death (SCD)",
+          "malignant ventricular arrhythmias",
+          "acute myocardial infarction"
+        ],
+        "treatments": [
+          "pacing therapy for specific heart rate",
+          "ICDs for SCD and ventricular arrhythmias"
+        ],
+        "principles": [
+          "New evidence from trials",
+          "Health and financial considerations",
+          "Universal application with individualization",
+          "Consistency with previous guidelines"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Introduction": "The 2012 focused update reviewed data from annual scientific meetings of the ACC, AHA, HRS, and European Society of Cardiology from 2008-2010, as well as selected data through February 2012. The guideline updates, primarily for cardiac resynchronization therapy (CRT) and device follow-up, included continued recommendations from the 2008 DBT guidelines for certain cardiac conditions.",
+        "Indications for Pacing": {
+          "Pacing for Bradycardia": "In some patients, bradycardia results from essential long-term drug therapy, necessitating pacing therapy for ongoing medical treatment.",
+          "Sinus Node Dysfunction (SND)": {
+            "Overview": "First described in 1968, SND refers to a broad array of abnormalities in sinus node function, resulting in impulse formation and propagation issues. Symptoms include syncope and bradycardia.",
+            "Cause": "SND is primarily a disease of aging, linked to the senescence of sinus node and atrial muscle.",
+            "Diagnosis": "Usually diagnosed in people in their seventh and eighth decades.",
+            "Treatment": "Pacemaker therapy is the primary treatment for symptomatic bradycardia due to SND."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Class I": [
+          "Permanent pacemaker implantation is indicated for SND with documented symptomatic bradycardia, including frequent sinus pauses that produce symptoms. (Level of Evidence: C)",
+          "Permanent pacemaker implantation is indicated for symptomatic chronotropic incompetence. (Level of Evidence: C)",
+          "Permanent pacemaker implantation is indicated for symptomatic sinus bradycardia that results from required drug therapy for medical conditions. (Level of Evidence: C)"
+        ],
+        "Class IIa": [
+          "Permanent pacemaker implantation is reasonable for SND with heart rates less than 40 bpm when a clear association between significant symptoms and bradycardia and the absence of evident bradycardia has not been demonstrated. (Level of Evidence: C)",
+          "Permanent pacemaker implantation is reasonable for syncope of unexplained origin when clinically significant abnormalities of sinus node function are discovered or provoked in electrophysiological studies. (Level of Evidence: C)"
+        ],
+        "Class IIb": [
+          "Permanent pacemaker implantation may be considered in minimally symptomatic patients with chronic heart rates less than 40 bpm while awake. (Level of Evidence: C)"
+        ],
+        "Class III": [
+          "Permanent pacemaker implantation is not indicated for SND in asymptomatic patients. (Level of Evidence: C)",
+          "Permanent pacemaker implantation is not indicated for SND in patients for whom symptoms suggestive of bradycardia have been clearly documented to occur in the absence of bradycardia. (Level of Evidence: C)",
+          "Permanent pacemaker implantation is not indicated for SND with symptomatic bradycardia due to nonessential drug therapy. (Level of Evidence: C)"
+        ],
+        "Acquired Atrioventricular Block": [
+          "AV block is classified as first-, second-, or third-degree (complete) block.",
+          "First-degree AV block is defined as abnormal prolongation of the PR interval (greater than 0.20 seconds).",
+          "Second-degree AV block is subcategorized as type I and type II.",
+          "Type I involves progressive PR prolongation until a beat is not conducted.",
+          "Type II involves fixed PR intervals before and after blocked beats.",
+          "Third-degree AV block (complete heart block) is defined as absence of AV conduction."
+        ],
+        "Considerations for Pacemaker": [
+          "Decisions about pacemaker need are influenced by symptoms attributable to bradycardia.",
+          "Many indications for pacing have evolved based on long-term experience rather than randomized trials."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations for Acquired Atrioventricular Block in Adults": [
+          {
+            "Class": "I",
+            "Recommendation": "Permanent pacemaker implantation is indicated for third-degree and advanced second-degree AV block at any anatomic level associated with bradycardia with symptoms (including heart failure) or ventricular arrhythmias presumed to be due to AV block.",
+            "Level of Evidence": "C"
+          },
+          {
+            "Class": "I",
+            "Recommendation": "Permanent pacemaker implantation is indicated for third-degree and advanced second-degree AV block at any anatomic level associated with arrhythmias and other medical conditions that require drug therapy that results in symptomatic bradycardia.",
+            "Level of Evidence": "C"
+          },
+          {
+            "Class": "I",
+            "Recommendation": "Permanent pacemaker implantation is indicated for third-degree and advanced second-degree AV block at any anatomic level in awake, symptom-free patients in sinus rhythm, with documented periods of asystole greater than or equal to 3.0 seconds (65) or an escape rate less than 40 bpm, or with an escape rhythm that is below the AV node.",
+            "Level of Evidence": "C"
+          },
+          {
+            "Class": "I",
+            "Recommendation": "Permanent pacemaker implantation is indicated for third-degree and advanced second-degree AV block at any anatomic level in awake, symptom-free patients with AF and bradycardia with 1 or more pauses of at least 5 seconds or longer.",
+            "Level of Evidence": "C"
+          }
+        ],
+        "Clinical Information": "The document discusses the management of first-degree AV block, mentioning complications such as atrial contraction occurring before ventricular filling, potential pulmonary capillary wedge pressure issues, and decrements in cardiac output. It highlights studies suggesting symptomatic improvement through pacemaker therapy. Details are provided regarding pacemaker implantation comprehensively across different AV block types targeting specific symptoms or anatomical locations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "class": "I",
+            "details": [
+              "Permanent pacemaker implantation is indicated for third-degree and advanced second-degree AV block at any anatomic level after catheter ablation of the AV junction.",
+              "Indicated for persistent symptomatic bradycardia after AV block of any anatomic level not expected to resolve after cardiac surgery.",
+              "Indicated for symptomatic third-degree or advanced second-degree AV block with neuromuscular diseases associated with AV block."
+            ]
+          },
+          {
+            "class": "IIa",
+            "details": [
+              "Reasonable for persistent third-degree AV block in asymptomatic adult patients without cardiomegaly.",
+              "Reasonable for second-degree AV block found at intra- or infra-His levels on electrophysiological study."
+            ]
+          },
+          {
+            "class": "IIb",
+            "details": [
+              "May be considered for neuromuscular diseases associated with advanced AV block.",
+              "May be considered for AV block due to drug use or toxicity when the block is expected to resolve after drug withdrawal."
+            ]
+          },
+          {
+            "class": "III",
+            "details": [
+              "Not indicated for first-degree AV block without symptoms.",
+              "Not indicated for asymptomatic type I second-degree AV block at the supra-Hisian level."
+            ]
+          }
+        ],
+        "chronic_bifascicular_block": {
+          "description": "Refers to ECG evidence of impaired conduction below the AV node in both the right and left bundles. It may present with bilateral bundle-branch block or alternating bundle-branch block.",
+          "risks": "Associated with high mortality and a substantial incidence of sudden death when presenting with advanced AV block."
+        }
+      },
+      "genes": [
+        {
+          "Gene": "ACTA2",
+          "Associated Conditions": [],
+          "Occurrences": 0,
+          "context": ""
+        }
+      ]
+    },
+    {
+      "content": {
+        "recommendations": {
+          "class I": [
+            "Permanent pacemaker implantation is indicated for advanced second-degree AV block or intermittent third-degree AV block.",
+            "Permanent pacemaker implantation is indicated for type II second-degree AV block.",
+            "Permanent pacemaker implantation is indicated for alternating bundle-branch block."
+          ],
+          "class IIa": [
+            "Permanent pacemaker implantation is reasonable for syncope not demonstrated to be due to AV block when other likely causes have been excluded, specifically ventricular tachycardia (VT).",
+            "Permanent pacemaker implantation is reasonable for an incidental finding at electrophysiological study of a markedly prolonged HV interval in asymptomatic patients.",
+            "Permanent pacemaker implantation is reasonable for an incidental finding at electrophysiological study of pacing-induced infra-His block that is not physiological."
+          ],
+          "class IIb": [
+            "Permanent pacemaker implantation may be considered in the setting of neuromuscular diseases such as myotonic muscular dystrophy, Erb dystrophy (limb-girdle muscular dystrophy), and peroneal muscular atrophy with bifascicular block or any fascicular block, with or without symptoms."
+          ],
+          "class III": [
+            "Permanent pacemaker implantation is not indicated for fascicular block without AV block or symptoms.",
+            "Permanent pacemaker implantation is not indicated for fascicular block with first-degree AV block without symptoms."
+          ]
+        },
+        "pacing for atrioventricular block": {
+          "associated with acute myocardial infarction": [
+            "Indications for permanent pacemaker after myocardial infarction (MI) in patients experiencing AV block are related in large measure to the presence of intraventricular conduction defects.",
+            "Temporary pacing in acute myocardial infarction does not by itself constitute an indication for permanent pacing.",
+            "Unfavorable prognosis for survivors of anterior myocardial infarction with AV block is related primarily to cardiovascular damage rather than high-grade AV block."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_information": {
+          "recommendations_for_pacing": {
+            "class_I": [
+              "Permanent ventricular pacing for persistent second-degree AV block in His-Purkinje system with alternating bundle-branch block or third-degree AV block.",
+              "Permanent ventricular pacing for transient advanced second- or third-degree infranodal AV block and associated bundle-branch block.",
+              "Permanent ventricular pacing for persistent and symptomatic second- or third-degree AV block."
+            ],
+            "class_IIb": [
+              "Permanent ventricular pacing may be considered for persistent second- or third-degree AV block at the AV node level in the absence of symptoms."
+            ],
+            "class_III": [
+              "Permanent ventricular pacing not indicated for transient AV block in absence of intraventricular conduction defects.",
+              "Permanent ventricular pacing not indicated for transient AV block in the presence of isolated left anterior fascicular block.",
+              "Permanent ventricular pacing not indicated for new bundle-branch block or fascicular block in absence of AV block.",
+              "Permanent ventricular pacing not indicated for persistent asymptomatic first-degree AV block in the presence of bundle-branch or fascicular block."
+            ]
+          },
+          "hypersensitive_carotid_sinus_syndrome": {
+            "definition": "Syncope or presyncope resulting from an extreme reflex response to carotid sinus stimulation.",
+            "components_of_reflex": [
+              "Cardioinhibitory",
+              "Vasodepressor"
+            ],
+            "considerations": [
+              "Minimal pressure on carotid sinus may not have clinical significance.",
+              "Pacing may be effective in relieving symptoms."
+            ],
+            "statistics": "10% to 20% of patients may have vasodepressor component.",
+            "management": "Attention to cardioinhibitory and vasodepressive components for therapy."
+          },
+          "neurocardiogenic_syncope": {
+            "description": "Reflex response triggers habitual syncope characterized by bradycardia and peripheral vasodilation."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Recommendations for Permanent Pacing in Hypersensitive Carotid Sinus Syndrome and Neurocardiogenic Syncope",
+        "recommendation_classifications": {
+          "Class I": [
+            "Permanent pacing is indicated for recurrent syncope caused by spontaneously occurring carotid sinus stimulation and carotid sinus pressure that induces ventricular asystole of more than 3 seconds."
+          ],
+          "Class IIa": [
+            "Permanent pacing is reasonable for syncope without clear, provocative events and with a hypersensitive cardioinhibitory response of 3 seconds or longer."
+          ],
+          "Class IIb": [
+            "Permanent pacing may be considered for significantly symptomatic neurocardiogenic syncope associated with a cardioinhibitory response."
+          ],
+          "Class III": [
+            "Permanent pacing is not indicated for a hypersensitive cardioinhibitory response to carotid sinus stimulation without symptoms or vague symptoms.",
+            "Permanent pacing is not indicated for situational vasovagal syncope in which avoidance behavior is effective and preferred."
+          ]
+        },
+        "pacing_for_specific_conditions": {
+          "conditions_covered": [
+            "cardiac transplantation",
+            "neuromuscular diseases",
+            "sleep apnea syndromes",
+            "infiltrative and inflammatory diseases"
+          ],
+          "cardiac_transplantation_details": {
+            "bradyarrhythmias": "The incidence of bradyarrhythmias after cardiac transplantation varies from 8% to 23%.",
+            "management": "Attempts to treat the bradycardia temporarily with measures such as theophylline may minimize the need for pacing."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations for Pacing After Cardiac Transplantation": {
+          "Class I": "Permanent pacing is indicated for persistent inappropriate or symptomatic bradycardia not expected to resolve and for other Class I indications for permanent pacing. (Level of Evidence: C)",
+          "Class IIb": [
+            "Permanent pacing may be considered when relative bradycardia is prolonged or recurrent, which limits rehabilitation or discharge after postoperative recovery from cardiac transplantation. (Level of Evidence: C)",
+            "Permanent pacing may be considered for syncope after cardiac transplantation even when bradyarrhythmia has not been documented. (Level of Evidence: C)"
+          ]
+        },
+        "Neuromuscular Diseases": "Conduction system disease with progression to complete AV block is a well-recognized complication of several neuromuscular disorders, including myotonic dystrophy and Emery-Dreifuss muscular dystrophy. Supraventricular and ventricular arrhythmias may also be observed.",
+        "Sleep Apnea Syndrome": "A variety of heart rhythm disturbances may occur in obstructive sleep apnea, including bradycardia or pauses during hypopneic episodes and atrial tachyarrhythmias.",
+        "Cardiac Sarcoidosis": "Cardiac sarcoidosis adversely affects individuals aged 20 to 40 years and is associated with noncaseating granulomas, various degrees of AV conduction block, myocardial involvement, and ventricular arrhythmias.",
+        "Prevention and Termination of Arrhythmias by Pacing": "An implanted pacemaker may be useful to treat or prevent recurrent ventricular and supraventricular tachycardias."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Potential recipients of antitachyarrhythmia devices should undergo extensive testing before implantation to ensure the devices safely and reliably terminate tachyarrhythmias without causing proarrhythmia. Permanent pacing can be used in certain conditions, including symptomatic recurrent SVT, sustained pause-dependent VT, and congenital long-QT syndrome. There is evidence supporting pacing for preventing atrial fibrhythmias in selected scenarios. The efficacy of atrial overdrive pacing in atrial fibrillation is still being studied.": {
+          "Long-QT Syndrome is associated with the use of cardiac pacing with beta-blockade for symptom prevention in congenital conditions, potentially addressing pause-dependent tachyarrhythmias or bradycardia associated with it. While primary benefits may be observed, long-term survival improvement remains undetermined.": []
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Device Guideline": "2012 Update Incorporated",
+        "Recommendation": "Pacing to Prevent Atrial Fibrillation",
+        "Class": "III",
+        "Details": "Permanent pacing is not indicated for the prevention of AF in patients without any other indication for pacemaker implantation.",
+        "Level of Evidence": "B (215)",
+        "Pacing for Hemodynamic Indications": {
+          "General": "Most commonly used to treat or prevent abnormal rhythms, pacing can alter the activation sequence in the paced chambers.",
+          "Impact": "Can be benign or harmful. May be beneficial in certain conditions to decrease symptoms.",
+          "HCM Discussion": "Refer to Section 2.4.2, Obstructive Hypertrophic Cardiomyopathy."
+        },
+        "Cardiac Resynchronization Therapy (CRT)": {
+          "Changes": [
+            "Limitation of Class I indication to patients with QRS duration \u2265150 ms.",
+            "Limitation of Class I indication to patients with Left bundle-branch block (LBBB) pattern.",
+            "Expansion of Class I indication to NYHA class III with LBBB and QRS duration \u2265150 ms.",
+            "Addition of Class IIb recommendation for patients with LVEF \u226430%, ischemic etiology of heart failure, sinus rhythm, LBBB with QRS duration \u2264150 ms, and NYHA class I symptoms."
+          ],
+          "Important Aspects": "Implications for patient selection.",
+          "Mechanical Dyssynchrony": {
+            "Definitions": "Seen in patients with ventricular conduction delay.",
+            "Frequency": ">40% of patients with dilated cardiomyopathy and QRS duration >120 ms."
+          },
+          "Clinical Trials": {
+            "COMPANION Study": {
+              "Results": "30% decrease in hospitalizations and mortality for CRT."
+            },
+            "CARE-HF Study": {
+              "Focus": "Significant QRS duration prolongation \u2192 36% reduction in death."
+            }
+          },
+          "QRS Considerations": "Different rules for patients with QRS duration <150 ms."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Main Points": [
+          {
+            "Topic": "CRT Benefit in LBBB vs non-LBBB",
+            "Details": "The clinical benefit of cardiac resynchronization therapy (CRT) is more compelling in patients with LBBB compared to those without. CRT shows clinical benefits in LBBB patients with reduced composite adverse clinical events."
+          },
+          {
+            "Topic": "Studies and Results",
+            "Details": "A meta-analysis of 4 clinical trials found CRT highly beneficial for LBBB patients (RR: 0.64; 95% CI: 0.52 to 0.77; p=0.0001). For non-LBBB, no notable benefits were found. CRT is less effective in patients with advanced HF conditions or non-LBBB morphologies unless marked QRS duration is present."
+          },
+          {
+            "Topic": "Patient Outcomes",
+            "Details": "Patients with NYHA class III symptoms and HF LVEF \u226435% benefit most from CRT. CRT is not commonly used as a rescue therapy due to limited life-saving effects post-discharge or in chronic conditions."
+          },
+          {
+            "Topic": "Recommendations",
+            "Details": "The guidelines expanded recommendations to include patients with QRS \u2265150 ms and NYHA class II symptoms, among other factors, based on several trials (MADIT-CRT, RAFT, REVERSE, MIRACLE ICD II)."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "The guideline discusses the use of Cardiac Resynchronization Therapy with Defibrillator (CRT-D) and its impact on heart failure (HF) patients with various conditions like ischemic and nonischemic cardiomyopathy, and left bundle branch block (LBBB). It highlights randomized trials such as RAFT, REVERSE, and MADIT-CRT, focusing on outcomes like mortality reduction, hospitalization, and ventricular remodeling. Results indicate CRT-D's efficacy varies based on factors like NYHA class, LVEF, QRS duration, and LBBB presence. It emphasizes a tailored approach for CRT implantation, supporting its use for patients with reduced LVEF and guidelines for further study designs.": "The guideline does not explicitly mention any human genes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The guidelines discuss recommendations for Cardiac Resynchronization Therapy (CRT). CRT is indicated for patients with specific heart conditions, such as a reduced LVEF (less than or equal to 35%), sinus rhythm, and wide QRS duration, with distinctions made for classes II, III, and IV according to NYHA. Class III and IIIa recommendations are outlined, suggesting CRT for certain patients with LBBB or non-LBBB patterns. There is also discussion on the use of CRT in patients with atrial fibrillation and ventricular pacing. The document further mentions the management of Obstructive Hypertrophic Cardiomyopathy (HCM) and the limited evidence regarding dual-chamber pacing."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Device Guideline: 2012 Update Incorporated",
+        "General Information": [
+          "Recommendations for pacing in patients with hypertrophic cardiomyopathy (HCM) are detailed.",
+          "Class I: Permanent pacing is indicated for SND or AV block in patients with HCM.",
+          "Class IIa: Permanent pacing may be considered for symptomatic patients with significant resting or provoked LV outflow tract obstruction.",
+          "Class III: Permanent pacemaker implantation is not indicated for patients who are asymptomatic or whose symptoms are medically controlled.",
+          "Pacing considerations are also outlined for children and adolescents with congenital heart disease.",
+          "Bradycardia in children may be associated with genetic channelopathies.",
+          "Sinus bradycardia in young patients may require pacemaker implantation if it's associated with syncope or significant symptoms."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "GENE_NAME",
+          "Associated Conditions": [
+            "genetic channelopathies"
+          ],
+          "Occurrences": 1,
+          "context": "Although SND (sick sinus syndrome) is recognized in pediatric patients and may be associated with specific genetic channelopathies (206), it is not itself an indication for pacemaker implantation."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "Recommendations for Permanent Pacing in Children, Adolescents, and Patients With Congenital Heart Disease",
+        "class_I": {
+          "1": "Permanent pacemaker implantation is indicated for advanced second- or third-degree AV block associated with symptomatic bradycardia, ventricular dysfunction, or low cardiac output.",
+          "2": "Permanent pacemaker implantation is indicated for SND with correlation of symptoms during age-inappropriate bradycardia.",
+          "3": "Permanent pacemaker implantation is indicated for postoperative advanced second- or third-degree AV block that is not expected to resolve or that persists at least 7 days after cardiac surgery.",
+          "4": "Permanent pacemaker implantation is indicated for congenital third-degree AV block with a wide QRS escape rhythm, complex ventricular ectopy, or ventricular dysfunction.",
+          "5": "Permanent pacemaker implantation is indicated for congenital third-degree AV block in the infant with a ventricular rate less than 55 bpm or with congenital heart disease and a ventricular rate less than 70 bpm."
+        },
+        "class_IIA": {
+          "1": "Permanent pacemaker implantation is reasonable for patients with congenital heart disease and sinus bradycardia for the prevention of recurrent episodes of intra-atrial reentrant tachycardia.",
+          "2": "Permanent pacemaker implantation is reasonable for congenital third-degree AV block beyond the first year of life with an average heart rate less than 50 bpm, abrupt pauses in ventricular rate more than 2 or 3 times the basic cycle length, or associated with symptoms due to chronotropic incompetence.",
+          "3": "Permanent pacemaker implantation is reasonable for sinus bradycardia with complex congenital heart disease with a resting heart rate less than 40 bpm or pauses in ventricular rate longer than 3 seconds.",
+          "4": "Permanent pacemaker implantation is reasonable for patients with congenital heart disease and impaired hemodynamics due to sinus bradycardia or loss of AV synchrony.",
+          "5": "Permanent pacemaker implantation is reasonable for unexplained syncope in the patient with prior congenital heart surgery complicated by transient complete heart block with residual fascicular block after a careful evaluation to exclude other causes of syncope."
+        },
+        "class_IIB": {
+          "1": "Permanent pacemaker implantation may be considered for transient postoperative third-degree AV block that reverts to sinus rhythm with residual bifascicular block.",
+          "2": "Permanent pacing for congenital third-degree AV block in asymptomatic children or adolescents with an acceptable rate, a narrow QRS complex."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Table 2": {
+          "Pacemaker Generators": {
+            "Single-chamber atrial pacemaker": {
+              "Indications": {
+                "Sinus Node Dysfunction": "No suspected abnormality of atrioventricular conduction and not at increased risk for future atrioventricular block.",
+                "Atrioventricular Block": "Not appropriate.",
+                "Neurally Mediated Syncope or Carotid Sinus Hypersensitivity": "Not appropriate."
+              },
+              "Options": "Maintenance of atrioventricular synchrony during pacing desired."
+            },
+            "Single-chamber ventricular pacemaker": {
+              "Indications": {
+                "Sinus Node Dysfunction": "Maintenance of atrioventricular synchrony during pacing not necessary.",
+                "Atrioventricular Block": "Chronic atrial fibrillation or other atrial tachyarrhythmia or maintenance of atrioventricular synchrony during pacing not necessary.",
+                "Neurally Mediated Syncope or Carotid Sinus Hypersensitivity": "Chronic atrial fibrillation or other atrial tachyarrhythmia."
+              }
+            },
+            "Dual-chamber pacemaker": {
+              "Indications": {
+                "Sinus Node Dysfunction": "Atrioventricular synchrony during pacing desired.",
+                "Atrioventricular Block": "Suspected abnormality of atrioventricular conduction or increased risk for future atrioventricular block.",
+                "Neurally Mediated Syncope or Carotid Sinus Hypersensitivity": "Sinus mechanism present."
+              }
+            },
+            "Single-lead, atrial-sensing ventricular pacemaker": {
+              "Indications": {
+                "Sinus Node Dysfunction": "Not appropriate.",
+                "Atrioventricular Block": "Desire to limit the number of pacemaker leads.",
+                "Neurally Mediated Syncope or Carotid Sinus Hypersensitivity": "Not appropriate."
+              }
+            }
+          }
+        },
+        "Permanent Pacemaker Implantation Recommendations": {
+          "Class IIa": {
+            "Considerations": "Permanent pacemaker implantation may be considered for asymptomatic sinus bradycardia after biventricular repair of congenital heart disease with a resting heart rate less than 40 bpm or pauses in ventricular rate longer than 3 seconds."
+          },
+          "Class III": {
+            "Not Indicated": [
+              "Transient postoperative AV block with return of normal AV conduction in otherwise asymptomatic patient.",
+              "Asymptomatic bifascicular block with or without first-degree AV block after surgery.",
+              "Asymptomatic type I second-degree AV block.",
+              "Asymptomatic sinus bradycardia with longest relative risk interval less than 3 seconds and minimum heart rate more than 40 bpm."
+            ]
+          }
+        },
+        "Pacemaker Device Selection": {
+          "Considerations": "Factors such as pacing mode, rate response, maximum sensor-driven pacing rate, and others."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview": "The guideline discusses the selection of pacemaker systems for patients with atrioventricular block, featuring a flowchart to determine the appropriate device. It covers the considerations for choosing between a single-chamber ventricular pacemaker, dual-chamber pacemaker, and rate-responsive pacemakers based on factors like atrial tachyarrhythmia, AV synchrony, and the need for rate response.",
+        "Considerations": "Patients with sinus node dysfunction (SND) and paroxysmal atrial fibrillation (AF) may benefit from a dual-chamber pacemaker due to potential future AV block development. The need for more capable devices like ICDs in patients with low LVEF is also addressed.",
+        "Major Trials": "Five major randomized trials compare atrial or dual-chamber pacing with ventricular pacing, focusing on AV synchrony and other outcomes. Limitations include a small percentage of true atrial pacing and patient crossover between treatments."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Figure": "This is a decision flowchart for selecting pacemaker systems for patients with sinus node dysfunction. Decisions are illustrated by diamonds, and shaded boxes indicate the type of pacemaker. AV indicates atrioventricular.",
+        "Section 2.6.2": "Quality of Life and Functional Status End Points. Numerous studies have shown significant improvement in reported quality of life (QOL) and functional status after pacemaker implantation. However, there is also a well-documented placebo effect after device implantation.",
+        "Results": "In a subset from the PASE study, dual-chamber pacing was associated with greater improvement compared with ventricular pacing for a minority of outcomes.",
+        "Table 3": "Comparative data from randomized trials shows atrium-based pacing compared to ventricular pacing. Includes data from Danish Study, PASE, CTOPP, MOST, and UK-PACE, comparing parameters like pacing indication, number of patients, pacing modes, and outcomes such as heart failure, atrial fibrillation, stroke, thromboembolism, and mortality."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": [
+          "The study compares dual-chamber pacing with ventricular pacing in MOST and CTOPP trials, showing no significant difference in AF incidence.",
+          "Dual-chamber pacing showed improvements in heart failure status and a marginal improvement in mortality endpoints compared to ventricular pacing.",
+          "There was a significant decrease in the incidence of AF and overall mortality with dual-chamber pacing compared to ventricular pacing.",
+          "Emphasis on minimizing unnecessary ventricular pacing due to potential detrimental effects, especially in patients with pacemakers."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guideline": "The document discusses the effects and roles of various pacing techniques, specifically focusing on right ventricular (RV) and biventricular pacing. It covers studies regarding the deleterious effects of RV pacing, especially at the RV apex, and mentions strategies to mitigate these effects by considering alternative sites such as the RV septum. The guideline highlights the role of biventricular pacemakers in patients with LV dysfunction, emphasizing improvements in functional capacity, quality of life (QOL), and outcomes in heart failure patients with certain conditions. It also addresses considerations for cost and technology when choosing pacing strategies, noting that biventricular systems, while more expensive, may offer significant benefits in appropriate patient populations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The guideline discusses the cost-effectiveness and technological advancement of pacemakers, especially dual-chamber pacemakers, with considerations for follow-up care and device longevity. It emphasizes the impact of programming on increasing pacemaker lifespan and effectiveness, as well as the evolving methods for remote monitoring like transtelephonic monitoring (TTM). Recommendations include regular clinical follow-ups and guideline adherence for optimal patient outcomes. Guidelines and reimbursement issues related to device replacements and monitoring technologies are highlighted.",
+        "clinical_follow_up": "Post-implantation, careful follow-up and continuity of care are stressed. Clinical follow-up includes pacing threshold, battery status, lead integrity, and event analysis. Guidelines are provided for scheduling follow-ups, especially using remote monitoring technologies.",
+        "device_technology": "Programming features that lower battery drain and prolong longevity impact the cost-effectiveness. Recommendations for programmable features in pacemaker generators are discussed to optimize function.",
+        "remote_monitoring": "The role of transtelephonic monitoring (TTM) is evolving to provide comprehensive data for clinical management."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "goals_of_TTM_nonmagnet_ECG_assessment": [
+          "Determine whether the patient displays intrinsic rhythm or is continuously paced.",
+          "Characterize the patient's underlying atrial mechanism (e.g., sinus versus AF, atrial tachycardia).",
+          "Verify appropriate sensing in 1 or both chambers depending on the pacemaker type."
+        ],
+        "goals_of_TTM_ECG_assessment_magnet_application": [
+          "Verify effective capture of the appropriate chamber(s).",
+          "Assess magnet rate, compare with previous values to determine change.",
+          "Analyze and demonstrate Threshold Margin Test (TMT) if applicable.",
+          "Demonstrate and verify changes in AV interval during magnet application."
+        ],
+        "ecg_samples_for_storage": [
+          "ECG sample should be 6 to 9 seconds for non-magnet and 6-to-9-second strip for magnet-applied ECG tracing."
+        ],
+        "ttm_follow-up_schedule": [
+          "Guideline I: Single Chamber (1st month every 2 weeks, 2nd to 36th month every 8 weeks, 37th month to failure every 4 weeks). Dual Chamber (same schedule as single chamber).",
+          "Guideline II: Single Chamber (1st month every 2 weeks, 2nd to 48th month every 12 weeks, 49th month to failure every 4 weeks). Dual Chamber (1st month every 2 weeks, 2nd to 30th month every 12 weeks, 31st to 48th month every 8 weeks, 49th month to failure every 4 weeks)."
+        ],
+        "goals_of_contemporary_remote_monitoring": [
+          "Review all programmed parameters.",
+          "Review stored events (counters, histograms, electrograms).",
+          "Focused in-clinic appointment if needed."
+        ],
+        "1984_health_care_financing_administration_guidelines": {
+          "guideline_I": "Applies to the majority of pacemakers, survival and decay standards.",
+          "guideline_II": "Applies to pacemaker systems with long-term clinical information."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "2.8.3. Remote Follow-Up and Monitoring",
+        "description": "The section discusses the importance of follow-up and remote monitoring of cardiovascular implantable electronic devices (CIEDs), which include pacemakers, ICDs, CRTs, and implantable loop recorders. The document notes the shift from routine in-person office follow-up to transtelephonic monitoring combined with remote follow-up, especially after the 2008 DBT guideline. Modern remote monitoring uses bidirectional telemetry with encoded and encrypted radiofrequency signals. The benefits of remote monitoring include the early discovery of clinical events and improved patient survival. A detailed description of techniques, indications, personnel, and frequency has been published as a consensus document.",
+        "technologies": [
+          "Transtelephonic Monitoring",
+          "Bidirectional Telemetry"
+        ],
+        "clinical benefits": [
+          "Early discovery of clinical events",
+          "Improved patient survival",
+          "Decreased time to clinical decision"
+        ],
+        "table_reference": "Table 4a provides the minimum frequency of CIED in-person or remote monitoring."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Section": "3.1. Secondary Prevention of Sudden Cardiac Death",
+        "Subsection": "3.1.1. Implantable Cardioverter-Defibrillator Therapy for Secondary Prevention of Cardiac Arrest and Sustained Ventricular Tachycardia",
+        "Key Points": [
+          "ICDs are recommended for secondary prevention of sudden cardiac death in patients who have survived a prior cardiac arrest or sustained VT.",
+          "Multiple randomized controlled trials show ICDs reduce cardiac arrest rates and total mortality compared with antiarrhythmic drug therapy.",
+          "ICD therapy offers improved survival benefits, including comparisons with Class I agents, sotalol, and empirical amiodarone therapy.",
+          "Non-cardiac related causes of cardiac arrest should be considered, and appropriate individualized therapy should be pursued.",
+          "In cases of sustained monomorphic VT with prior MI, revascularization might not be effective.",
+          "Particular attention should be given to electrolyte abnormalities or the presence of antiarrhythmic drugs in patient management."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "3.1.2": "The majority of patients in randomized trials resuscitated from cardiac arrest had underlying heart disease with VT. ICD is preferred for secondary prevention in such cases.",
+        "3.1.3": "Coronary artery disease is prevalent among patients with ICDs, and the benefit is greater compared to other therapies. Multiple studies show better outcomes with ICD in patients with coronary artery disease.",
+        "3.1.4": "Patients with nonischemic DCM and VT are at high risk of cardiac arrest. ICD is more effective than amiodarone for secondary prevention.",
+        "3.1.5": "HCM affects around 1 in 500 people, with a history of cardiac arrest indicating high risk of VT or VF. ICD appears beneficial in observational studies.",
+        "3.1.6": "ARVD/C is a genetic condition affecting the RV. ICD is frequently used due to high arrhythmic events in these patients.",
+        "3.1.7": "Genetic syndromes like Brugada and catecholaminergic polymorphic VT predispose to VT or VF."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "ICD uses for genetic arrhythmia syndromes": "The guideline states that ICD is preferred for those with priors of sustained VT or VF and those with a strong family history of early mortality, especially in the absence of a clear pharmacological benefit.",
+        "Use of ICD in syncope with VT": "ICD therapy is recommended for patients with syncope of undetermined origin, in whom clinically relevant VT/VF is induced.",
+        "Primary prevention of SCD": "ICDs are recommended for individuals at high risk for a first episode of sustained VT, VF, or resuscitated cardiac arrest in populations such as those with HCM, ARVD/C, and the long-QT syndrome.",
+        "Coronary artery disease": "Clinical trials like MADIT I/II have shown improved survival with ICD therapy in patients with prior MI and heart failure due to coronary artery disease or nonischemic DCM.",
+        "Nonischemic dilated cardiomyopathy": "Studies indicate a benefit from ICD therapy in patients with DCM, with reduced mortality reported."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Major Implantable Cardioverter-Defibrillator Trials for Prevention of Sudden Cardiac Death (Table 5) and accompanying guideline text",
+        "table_5_trials": [
+          {
+            "Trial": "MADIT I",
+            "Reference": "327",
+            "Year": 1996,
+            "Patients_n": 196,
+            "Inclusion_LVEF_%_Less_Than_or_Equal": 35,
+            "Other_Inclusion_Criteria": "NSVT and positive EP",
+            "Hazard_Ratio": 0.46,
+            "CI_95": "0.26 to 0.82",
+            "p_value": 0.009
+          },
+          {
+            "Trial": "MADIT II",
+            "Reference": "332",
+            "Year": 2002,
+            "Patients_n": 1232,
+            "Inclusion_LVEF_%_Less_Than_or_Equal": 30,
+            "Other_Inclusion_Criteria": "Prior MI",
+            "Hazard_Ratio": 0.69,
+            "CI_95": "0.51 to 0.93",
+            "p_value": 0.016
+          },
+          {
+            "Trial": "CABG-Patch",
+            "Reference": "328",
+            "Year": 1997,
+            "Patients_n": 900,
+            "Inclusion_LVEF_%_Less_Than_or_Equal": 36,
+            "Other_Inclusion_Criteria": "Positive SAECG and CABG",
+            "Hazard_Ratio": 1.07,
+            "CI_95": "0.81 to 1.42",
+            "p_value": 0.64
+          },
+          {
+            "Trial": "DEFINITE",
+            "Reference": "369",
+            "Year": 2004,
+            "Patients_n": 485,
+            "Inclusion_LVEF_%_Less_Than_or_Equal": 35,
+            "Other_Inclusion_Criteria": "NICM, PVCs, or NSVT",
+            "Hazard_Ratio": 0.65,
+            "CI_95": "0.40 to 1.06",
+            "p_value": 0.08
+          },
+          {
+            "Trial": "DINAMIT",
+            "Reference": "331",
+            "Year": 2004,
+            "Patients_n": 674,
+            "Inclusion_LVEF_%_Less_Than_or_Equal": 35,
+            "Other_Inclusion_Criteria": "6 to 40 days after MI and impaired HRV",
+            "Hazard_Ratio": 1.08,
+            "CI_95": "0.76 to 1.55",
+            "p_value": 0.66
+          },
+          {
+            "Trial": "SCD-HeFT",
+            "Reference": "333",
+            "Year": 2005,
+            "Patients_n": 1676,
+            "Inclusion_LVEF_%_Less_Than_or_Equal": 35,
+            "Other_Inclusion_Criteria": "Prior MI or NICM",
+            "Hazard_Ratio": 0.77,
+            "CI_95": "0.62 to 0.96",
+            "p_value": 0.007
+          },
+          {
+            "Trial": "AVID",
+            "Reference": "319",
+            "Year": 1997,
+            "Patients_n": 1016,
+            "Inclusion_LVEF_%_Less_Than_or_Equal": 40,
+            "Other_Inclusion_Criteria": "Prior cardiac arrest",
+            "Hazard_Ratio": 0.62,
+            "CI_95": "0.43 to 0.82",
+            "p_value": "<0.02"
+          },
+          {
+            "Trial": "CASH",
+            "Reference": "323",
+            "Year": 2000,
+            "Patients_n": 191,
+            "Inclusion_LVEF_%_Less_Than_or_Equal": "M: 45 \u00b1 18 at baseline (table note)",
+            "Other_Inclusion_Criteria": "Prior cardiac arrest",
+            "Hazard_Ratio": 0.77,
+            "CI_95": "Upper bound reported separately (table footnote)",
+            "p_value": 0.081
+          },
+          {
+            "Trial": "CIDS",
+            "Reference": "322",
+            "Year": 2000,
+            "Patients_n": 659,
+            "Inclusion_LVEF_%_Less_Than_or_Equal": 35,
+            "Other_Inclusion_Criteria": "Prior cardiac arrest, syncope",
+            "Hazard_Ratio": 0.82,
+            "CI_95": "0.60 to 1.10",
+            "p_value": "NS"
+          }
+        ],
+        "table_footnotes_and_abbreviations": {
+          "Abbreviations": {
+            "AVID": "Antiarrhythmics Versus Implantable Defibrillators",
+            "CABG": "coronary artery bypass graft surgery",
+            "CASH": "Cardiac Arrest Study Hamburg",
+            "CIDS": "Canadian Implantable Defibrillator Study",
+            "DEFINITE": "Defibrillators in Nonischemic Cardiomyopathy Treatment Evaluation",
+            "DINAMIT": "Defibrillator in Acute Myocardial Infarction Trial",
+            "EP": "electrophysiological study",
+            "HRV": "heart rate variability",
+            "LVD": "left ventricular dysfunction",
+            "LVEF": "left ventricular ejection fraction",
+            "MADIT I/II": "Multicenter Automatic Defibrillator Implantation Trial I/II",
+            "MI": "myocardial infarction",
+            "NICM": "nonischemic cardiomyopathy",
+            "NS": "not statistically significant",
+            "NSVT": "nonsustained ventricular tachycardia",
+            "PVCs": "premature ventricular complexes",
+            "SAECG": "signal-averaged electrocardiogram",
+            "SCD-HeFT": "Sudden Cardiac Death in Heart Failure Trial"
+          },
+          "Notes": "Hazard ratios are for death due to any cause in the implantable cardioverter-defibrillator group compared with the non-implantable group. Table includes specific footnotes about confidence interval bounds and one-tailed testing for selected trials."
+        },
+        "narrative_summary_and_key_points": {
+          "AMIOVERT": {
+            "description": "Randomized 103 patients with dilated cardiomyopathy (DCM), LVEF \u2264 35%, and nonsustained ventricular tachycardia to amiodarone versus ICD; stopped prematurely for futility in reaching the primary end point of reduced total mortality.",
+            "patients_randomized": 103
+          },
+          "DEFINITE_trial_summary": {
+            "description": "Randomized 458 patients with nonischemic cardiomyopathy (NYHA I\u2013III), LVEF \u2264 35%, and >10 premature ventricular complexes per hour or nonsustained VT to optimal medical therapy with or without an ICD.",
+            "patients_randomized": 458,
+            "outcomes": "Primary end point (all-cause mortality) not statistically significant, but trend toward reduced mortality with ICD (p=0.08). After 2 years: mortality 14.1% in standard therapy vs 7.9% in ICD group (absolute reduction ~6.2%, relative risk reduction ~35%)."
+          },
+          "SCD_HeFT_summary": {
+            "description": "Compared amiodarone, ICD, and optimal medical therapy in 2,521 patients with coronary artery disease or nonischemic cardiomyopathy, NYHA class II\u2013III, and LVEF \u2264 35%.",
+            "patients_n_total": 2521,
+            "follow_up_median_months": 45.5,
+            "outcomes": "ICD group experienced decreased risk of death of ~23% vs placebo (HR 0.77, 95% CI 0.62\u20130.96); absolute mortality lower in nonischemic subgroup but overall benefit noted."
+          },
+          "COMPANION_summary": {
+            "description": "Randomized patients with class III or IV heart failure (ischemic or nonischemic DCM) and QRS \u2265 120 ms to optimal pharmacological therapy alone or combined with CRT \u00b1 pacemaker/defibrillator.",
+            "patients_randomized": 1520,
+            "subset_with_defibrillator_allocation": 903,
+            "DCM_subset_n": 397,
+            "outcome": "Cardiac resynchronization with an ICD significantly reduced all-cause mortality compared with pharmacological therapy alone in patients with DCM (HR 0.50, 95% CI 0.29\u20130.88; p=0.015)."
+          },
+          "overall_guideline_points": [
+            "ICD therapy reduces mortality in selected high-risk patients (ischemic and some nonischemic cardiomyopathies) with reduced LVEF; magnitude of benefit varies by trial and population.",
+            "Some trials (e.g., DINAMIT, CABG-Patch) did not show a mortality benefit; patient selection and timing (e.g., early post-MI) influenced results.",
+            "Trials assessing primary prophylaxis in asymptomatic NYHA class I nonischemic patients are limited, so efficacy in that subgroup is less certain."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "ICD therapy": "ICD therapy should be considered for patients with nonischemic DCM if reversible causes of transient LV function are excluded and the response to optimal medical therapy has been assessed. ICD implantation is also recommended for long-QT syndrome, hypertrophic cardiomyopathy (HCM), and arrhythmogenic right ventricular dysplasia/cardiomyopathy (ARVD/C).",
+        "Long-QT Syndrome": "Characterized by a propensity for malignant ventricular arrhythmias. Long-term treatment includes beta blockers, pacing, or left cervicothoracic sympathectomy. ICD is recommended for patients with syncope, sustained ventricular arrhythmias, or cardiac arrest.",
+        "Hypertrophic Cardiomyopathy (HCM)": "Most individuals are asymptomatic, with SCD as the first manifestation. Risk factors include family history of SCD, nonsustained VT, LV thickness, and exertion blood pressure response. ICD is used for perceived high risk for SCD.",
+        "Arrhythmogenic Right Ventricular Dysplasia/Cardiomyopathy (ARVD/C)": "Patients may be at risk for SCD. ICD is used for primary prevention of SCD, and it has shown favorable outcomes as secondary prevention following cardiac arrest."
+      },
+      "genes": [
+        {
+          "Gene": "Gene",
+          "Associated Conditions": [
+            "Long-QT Syndrome"
+          ],
+          "Occurrences": 1,
+          "context": "The clinical manifestations of a long-QT mutation may be influenced by the specific gene involved and the functional consequences of the mutation in that gene."
+        }
+      ]
+    },
+    {
+      "content": {
+        "ICD Considerations": "When considering ICD for primary prevention in patients with ARVD/C, markers such as VT during electrophysiological testing, non-sustained VT, and gender among others are useful. Increased risk for SCD is associated with sudden cardiac arrest or extensive RV involvement.",
+        "Arrhythmias and SCD": "Ventricular arrhythmias and SCD are major complications of this disorder. Ventricular arrhythmias that impair systolic function occur frequently. SCD is the most common cause of mortality.",
+        "Primary Electrical Diseases": "Brugada syndrome, characterized by ST-segment elevation, results in high risk of SCD. Family members of affected individuals may also be at risk.",
+        "LV Noncompaction": "Noncompaction of the LV is a rare congenital cardiomyopathy associated with heart failure. Diagnosis is often delayed and challenging.",
+        "Individualization of ICD Therapy": "Decisions for ICD therapy must be based on experience, judgment, and data. Patients with ARVD/C who have undergone ICD therapy showed safety in terminating arrhythmias."
+      },
+      "genes": [
+        {
+          "Gene": "SCN5A",
+          "Associated Conditions": [
+            "Brugada syndrome",
+            "Bradycardia",
+            "Sudden cardiac arrest",
+            "Long QT Syndrome",
+            "Sudden Cardiac Death",
+            "long QT syndrome"
+          ],
+          "Occurrences": 1,
+          "context": "The genetic basis for the Brugada syndrome involves the cardiac sodium channel gene (SCN5A)."
+        },
+        {
+          "Gene": "chromosome 14q12\u201343",
+          "Associated Conditions": [
+            "polymorphic VT and RVA aneurysm"
+          ],
+          "Occurrences": 1,
+          "context": "Polymorphic VT and RVA aneurysm is associated with a genetic locus on chromosome 14q12\u201343."
+        }
+      ]
+    },
+    {
+      "content": {
+        "The role of electrophysiological testing in Brugada syndrome is controversial, with low predictive value for certain events. ECG and symptoms are better for risk stratification in this context. Only a single gene, SCN5A, is linked to Brugada syndrome but does not fully predict outcomes. Patients often lack ventricular extrasystoles, making therapeutic approaches critical. Catecholaminergic polymorphic ventricular tachycardia (VT) is related to stress and requires different management strategies, often involving ICDs. VF prevention could involve beta blockers and ICDs, especially in patients with specific structural heart conditions or genetic susceptibilities. Advanced heart failure and transplant patients also need careful ICD consideration to manage risks and maintain quality of life.": "genes",
+        "SCN5A": [
+          {
+            "Gene": "SCN5A",
+            "Associated Conditions": [
+              "Brugada syndrome"
+            ],
+            "Occurrences": 1,
+            "context": "Specific mutations in the SCN5A gene do not identify a subset of patients at higher risk of cardiac events."
+          }
+        ],
+        "RYR2": [
+          {
+            "Gene": "RYR2",
+            "Associated Conditions": [
+              "Catecholaminergic polymorphic VT"
+            ],
+            "Occurrences": 1,
+            "context": "Approximately one-half of the autosomal dominant cases are caused by mutations in the gene encoding the cardiac ryanodine receptor (RyR2)."
+          }
+        ],
+        "CASQ2": [
+          {
+            "Gene": "CASQ2",
+            "Associated Conditions": [
+              "Catecholaminergic polymorphic VT"
+            ],
+            "Occurrences": 1,
+            "context": "Mutations in the gene that encodes calsequestrin (CASQ2) have been associated with the recessive form of catecholaminergic polymorphic VT."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": "This document provides guidelines for the use of Implantable Cardioverter Defibrillators (ICDs) to prevent Sudden Cardiac Death (SCD) and manage patients with ventricular arrhythmias. Specific criteria for implantation include a left ventricular ejection fraction (LVEF) of less than 40%, and indications are given for primary and secondary prevention in various patient populations. Recommendations also differentiate between primary prevention in patients without a history of cardiac arrest and secondary prevention in those with a history of such events. Patients with conditions such as heart failure and specific LVEF thresholds are considered for ICD therapy based on their clinical status and risk of heart failure-related deaths. The document discusses the role of these devices in managing patients with ischemic and nonischemic cardiomyopathy, providing level of evidence and trial references."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_summary": "These guidelines discuss the indications for implantable cardioverter-defibrillator (ICD) therapy in various patient categories, including those with heart disease, syncope, risk of sudden cardiac death (SCD), and congenital heart conditions. It categorizes recommendations into Class I, Class IIa, Class IIb, and Class III, with differing levels of evidence supporting each recommendation.",
+        "class_I": {
+          "indications": [
+            "ICD therapy is indicated in patients with non-sustained VT due to prior MI, LVEF less than or equal to 40%, and inducible VF or sustained VT at electrophysiological study.",
+            "ICD therapy is also indicated for preventing SCD in patients with nonischemic heart disease with significant risk factors."
+          ]
+        },
+        "class_IIa": {
+          "indications": [
+            "ICD implantation is considered reasonable for unexplained syncope, significant LV dysfunction, and nonischemic DCM.",
+            "For patients with long-QT syndrome experiencing syncope or VT while on beta blockers, ICD may be considered.",
+            "ICD is considered for patients with Brugada syndrome who have documented VT.",
+            "Patients with catecholaminergic polymorphic VT who document syncope or sustained VT on beta blockers may be considered for ICD."
+          ]
+        },
+        "class_IIb": {
+          "indications": [
+            "In patients with nonsustained VT and a low LVEF who are in NYHA functional Class I, ICD therapy may be considered.",
+            "In patients with syncope and advanced structural heart disease without identified cause, ICD therapy may be considered."
+          ]
+        },
+        "class_III": {
+          "indications": [
+            "ICD therapy is not recommended for patients without a reasonable expectation of survival with an acceptable functional status for at least 1 year."
+          ]
+        },
+        "pediatric_indications": {
+          "summary": "Indications for ICD in children and adolescence with congenital heart disease have involved careful evaluation to exclude reversible causes and it's a vital option for high-risk patients. These guidelines emphasize the importance of prospective identification and treatment for young patients at risk for sudden cardiac death."
+        }
+      },
+      "genes": [
+        {
+          "Gene": "SCN5A",
+          "Associated Conditions": [
+            "Brugada syndrome"
+          ],
+          "Occurrences": 1,
+          "context": "ICD implantation is reasonable for patients with Brugada syndrome who have documented VT that has not resulted in cardiac arrest."
+        }
+      ]
+    },
+    {
+      "content": {
+        "general_information": "The document discusses guidelines for ICD implantation for primary prevention of sudden cardiac death (SCD) in young patients and those with congenital heart disease. Due to limited clinical experience and lack of randomized trials in young patients, guidelines are based on adult data. Key points include the risk assessment of SCD, especially in individuals with genetic conditions like hypertrophic cardiomyopathy (HCM) or long QT syndrome. The heterogeneity of congenital heart defects complicates risk stratification, making it difficult to provide exact recommendations. ICD implantation is considered for those with specific heart conditions and symptoms. Also discussed are considerations on quality of life impacts and a preference for ICD over drug treatments for arrhythmias.",
+        "classifications": {
+          "Class I": "ICD implantation is indicated for thorough event cause evaluation and reversible cause exclusion.",
+          "Class IIa": "ICD recommended for patients with symptomatic congenital heart disease.",
+          "Class IIb": "ICD may be considered for complex congenital heart disease with recurrent syncope and advanced dysfunction.",
+          "Class III": "ICD not indicated for patients outlined in specific contraindications."
+        }
+      },
+      "genes": [
+        {
+          "Gene": "HCM",
+          "Associated Conditions": [
+            "Sudden Cardiac Death",
+            "Arrhythmias"
+          ],
+          "Occurrences": 2,
+          "context": "The document indicates that SCD risk is higher in young patients with genetic diseases such as hypertrophic cardiomyopathy (HCM) or long QT syndrome."
+        },
+        {
+          "Gene": "Tetralogy of Fallot",
+          "Associated Conditions": [
+            "Sudden Cardiac Death",
+            "Arrhythmias after surgery"
+          ],
+          "Occurrences": 2,
+          "context": "Unexpected sudden death occurs in a percentage of patients per decade after surgical treatment of tetralogy of Fallot."
+        },
+        {
+          "Gene": "DCM",
+          "Associated Conditions": [
+            "Arrhythmias",
+            "Sudden Cardiac Death"
+          ],
+          "Occurrences": 1,
+          "context": "Patients with DCM or other causes of ventricular dysfunction might experience syncope or sustained ventricular arrhythmias."
+        }
+      ]
+    },
+    {
+      "content": {
+        "main_topics": [
+          "Inappropriate ICD Shocks",
+          "SCD-HeFT and MADIT II trials",
+          "PainFREE Rx II trial",
+          "Therapies for Inappropriate Shocks",
+          "ICD Therapy Outcomes",
+          "Lead Placement for Pacing",
+          "Coronary Venous Lead Implantation"
+        ],
+        "summary": "The guidelines discuss the serious issue of inappropriate ICD (implantable cardioverter-defibrillator) shocks that are often caused by misclassification of arrhythmias and lead malfunctions. Recommendations emphasize understanding these causes to mitigate shocks and improve patient quality of life. Clinical trials such as the SCD-HeFT, MADIT II, and PainFREE Rx II elucidate the frequency of inappropriate therapies and their prevention. ICD therapy failure is linked to SVTs and device misprogramming, with dual-chamber devices potentially reducing inappropriate detections. Furthermore, specific surgical solutions are addressed for lead placements, providing techniques aimed at improving therapy success and reducing procedural risks."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The document discusses the use of device-based therapies, such as ICD (implantable cardioverter-defibrillator) and CRT (cardiac resynchronization therapy), in patients with heart conditions. It highlights considerations for implantation, including comorbidities, age, and specific heart conditions. There's a focus on epicardial leads in pediatric patients, elderly patients, and those with certain comorbidities. Device implantation outcomes, life expectancy, and survival rates are addressed, with specific attention given to elderly patients and those with additional noncardiac comorbidities.",
+        "recommendations": "Consideration of age, heart failure, presence of comorbidities, and individual patient factors are crucial when deciding on device-based therapy for heart conditions. Specific guidelines are given for pediatric patients and those requiring epicardial leads. The importance of weighing risks against potential benefits, particularly in elderly patients, is emphasized."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "main_points": [
+          "Consideration of patient comorbidities is crucial when deciding on device-based therapy.",
+          "Meta-analysis shows significant benefits of ICD (Implantable Cardioverter Defibrillator) therapy in patients over 75 in terms of reduced mortality and cardiac death.",
+          "Age should not be the sole criterion for device therapy; it's important to consider indications for implantation, comorbidities, and patient preferences.",
+          "Older patients benefit similarly from Cardiac Resynchronization Therapy (CRT) as younger patients.",
+          "Ethical considerations involve autonomy, beneficence, and nonmaleficence.",
+          "The guidelines address the withholding and withdrawal of life-sustaining treatments, emphasizing the importance of honoring patient-centered care and distinguishing this from euthanasia."
+        ],
+        "ethical_and_legal_considerations": [
+          "Device deactivation in patients can be considered ethical when requested by the patient or surrogate decision maker and informed of all consequences.",
+          "A do-not-resuscitate (DNR) order should accompany device deactivation.",
+          "Ethics consultations are advised when there is ambiguity in decision-making capacity.",
+          "If personal beliefs prevent a clinician from deactivating the device, the patient should be referred to another clinician."
+        ],
+        "approach_for_device_deactivation": [
+          "Ensure the dying patient or surrogate is fully informed.",
+          "Record the process and decisions made.",
+          "Psychiatric and ethics consultations should be considered when necessary."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "topic": "Cost-Effectiveness of Implantable Cardioverter-Defibrillator Therapy (ICD)",
+        "summary": "Long-term follow-up studies indicate that cumulative medical costs increase substantially for patients receiving ICDs as opposed to conventional therapy. Various studies have examined cost-effectiveness ratios between $17,000 and $54,000 per life-year added. Modeling suggests ICD is cost-effective for patients at high risk of arrhythmic death. CRT-P devices provide improvements in quality of life and longevity, but their cost-effectiveness is less explored. ICD therapy could be improved by selecting small devices and ensuring optimal patient selection.",
+        "sections": [
+          {
+            "title": "3.5. Cost-Effectiveness of Implantable Cardioverter-Defibrillator Therapy",
+            "details": {
+              "early studies": "Based on mathematical models and nonrandomized studies where cost-effectiveness ratios ranged from $17,000 to $92,200 per life-year saved.",
+              "recent models": "Reported cost-effectiveness ratios between $27,300 and $54,000 per life-year gained.",
+              "MADRIT trials": "MADRIT found a 54% reduction in total mortality and a cost-effectiveness ratio of $27,000 per life-year.",
+              "CIDS trial": "A 20% total mortality reduction and cost-effectiveness ratio of $139,000 per life-year added.",
+              "AVID trial": "Cost-effectiveness ratio of $66,677 per life-year added. MADIT II found 32% reduction in total mortality and higher costs compared to conventional therapy.",
+              "SCD-HeFT": "Lifetime cost-effectiveness ratio was $38,400 per life-year added with cumulative costs lower for ICD therapy."
+            }
+          },
+          {
+            "title": "3.6. Selection of Implantable Cardioverter-Defibrillator Generators",
+            "details": {
+              "system design": "Single- and dual-chamber ICD systems available. Choice of hardware impacts outcomes. Single-chamber systems address bradycardia; dual-chamber systems extend functionality.",
+              "psychological aspects": "ICD use can be associated with psychological distress after implantation."
+            }
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "ICD Follow-Up": "All patients with ICDs require periodic and meticulous follow-up to ensure safety and optimal device performance. The goals include monitoring of device system function, optimization of performance, minimization of complications, and maintenance of ICD system records.",
+        "Optimal Cardiac Pacing": "The optimal management of cardiac pacing in ICD patients without bradycardia support is unclear. Pacing rates can be set to support condition management.",
+        "ATP Use": "ATP refers to the use of pacing stimulation techniques for termination of tachyarrhythmias. Likelihood of successful termination by ATP is high for certain type of ventricular tachycardias.",
+        "Ventricular Tachycardia Management": "Patients may require a backup ventricular pacing rate to manage the risk associated with hardware pacing. Higher incidence of arrhythmias may necessitate specific pacing strategies."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "topic": "Device Guideline: 2012 Update",
+        "main_points": [
+          "ICD follow-up can be performed remotely, with remote interrogation achieved through Internet-based systems or radiofrequency transmissions.",
+          "Remote monitoring may reduce clinic visits, particularly for patients at a distance from their follow-up clinic.",
+          "Increased attention has been paid to the safety and efficiency of implantable devices, advising monitoring for potential device malfunction.",
+          "Estimates of advisory device failure rates are necessary, weighing risks of procedural morbidity with device failure risk.",
+          "For patients with heart failure not previously having a life-threatening arrhythmia, implantable defibrillator therapy identifies those at high risk of sudden cardiac death."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Areas in Need of Further Research": [
+          "Optimal access to device therapy should be available to all eligible populations irrespective of sex and ethnicity.",
+          "Risk stratification of patients meeting current clinical indications for primary prevention ICD implantation should be improved.",
+          "Identify patients most likely to benefit from/respond to CRT.",
+          "Identify patients without current pacemaker or ICD indications who may benefit from such therapies.",
+          "Indicators should be identified for guiding when to replace an ICD.",
+          "Cost-effectiveness of device therapy should be explored.",
+          "Guidelines for remote monitoring should be developed.",
+          "Improve reliability and longevity of leads and generators.",
+          "Increase representation of the elderly in clinical trials.",
+          "Influence of age on procedural complication rates should be defined.",
+          "Define the effect of different types of ventricular stimulation on patients with normal ventricular function.",
+          "Need for pacing after MI should be determined.",
+          "Long-term outcomes and risk factors for patients receiving ICDs should be explored.",
+          "Guidelines for device management in patients with terminal illness should be developed.",
+          "Role of ICDs in primary prevention for children with genetic channelopathies and cardiomyopathies should be defined.",
+          "Efficacy of biventricular pacing in children with congenital heart disease should be determined."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guidelines": "Endorsed by the American College of Cardiology Foundation (ACCF) and the American Heart Association (AHA) in collaboration with other electrophysiology organizations.",
+        "Key Topics": [
+          "Recommendations for pacemakers and antiarrhythmia management.",
+          "Clinical competency in device management.",
+          "Comparative effectiveness of cardiac interventions."
+        ],
+        "Clinical Trials": "Include discussions on various trials regarding cardiac pacing and defibrillator implantation.",
+        "Observational Studies": "Evaluation of pacemaker effectiveness and outcomes in elderly patients.",
+        "Pacemaker Selection": "Includes importance of mode selection for patients with sinus node dysfunction."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "focus": "The guideline discusses pacemaker therapy, particularly in conditions like heart failure, sick sinus syndrome, AV block, and syncope.",
+        "key_conditions": [
+          "Heart failure",
+          "Sick sinus syndrome",
+          "AV block",
+          "Syncope",
+          "Cardiomyopathy"
+        ],
+        "important_topics": [
+          "Pacemaker therapy",
+          "Chronic pacing",
+          "Electrophysiological studies",
+          "Exercise intolerance",
+          "Syncope"
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "DMPK",
+          "Associated Conditions": [
+            "Myotonic dystrophy"
+          ],
+          "Occurrences": 1,
+          "context": "Stevenson WG, Perloff JK, Weiss JN, Anderson TL. Fascicupisular involvement in myotonic muscular dystrophy (Steinert's disease): a prospective study of 25 patients."
+        }
+      ]
+    },
+    {
+      "content": {
+        "summary": "The document discusses various studies and clinical insights related to the prognosis, diagnosis, and treatment of heart block and intraventricular conduction disturbances. It emphasizes the significance of bundle branch blocks, their association with sudden death, myocardial infarction, syncope, and long-term prognoses. Techniques for clinical evaluation and the impact of electrophysiological testing are discussed. The document mentions historical and recent research, treatment techniques, and the outcome of various patient studies."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The document covers guidelines and research on cardiac procedures and treatments, including the utilization of pacemakers, drug efficacy, and potential complications related to heart conditions. It discusses topics such as syncope management, cardiac resynchronization therapy, and the effectiveness of pacemakers and defibrillation techniques in various scenarios, including heart transplant patients and those with specific syndromes like long QT syndrome. Research on surgeries and drug therapies for arrhythmias and the consideration of patient-specific conditions are also highlighted.",
+        "topics": [
+          "Cardiac pacemakers and implantation studies",
+          "Impact of arrhythmias and pacing in heart transplant recipients",
+          "Effectiveness of medications for arrhythmia management",
+          "Clinical guidelines for treating supraventricular tachycardia and other heart conditions"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guidelines": "The document covers various studies and recommendations related to pacing therapies, cardiac resynchronization therapy, atrial fibrillation management, and treatments for heart failure and other cardiac conditions. It includes studies on the efficacy of pacing in long-QT syndrome, permanent pacing in high-risk patients, cardiac resynchronization in heart failure, and device therapy outcomes in cardiomyopathy.",
+        "pacing_therapies": "Pacing therapies are discussed for termination of pacing for permanent atrial tachyarrhythmias and their effects on atrial fibrillation burden.",
+        "atrial_fibrillation": "Prevention and treatment methods involving pacing for atrial fibrillation are outlined.",
+        "long_qt_syndrome": "Specific mention is made of the management and follow-up of patients with congenital long-QT syndrome using pacing therapies.",
+        "cardiac_resynchronization": "The document reviews the effects of cardiac resynchronization therapy on morbidity and mortality in heart failure, including several large studies demonstrating its benefits in patients with heart failure and ventricular conduction delay.",
+        "multisite_stimulation": "The effects of multisite stimulation on patients with heart failure are explored, particularly in the context of cardiac synchronization.",
+        "obstructive_cardiomyopathy": "Discussion on the impact of dual-chamber pacing in the context of hypertrophic obstructive cardiomyopathy highlights its effects on symptoms and ventricular function."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_information": [
+          {
+            "reference": 239,
+            "title": "Improved left ventricular mechanics from acute VDD pacing in patients with dilated cardiomyopathy and ventricular conduction delay.",
+            "journal": "Circulation",
+            "year": 1999
+          },
+          {
+            "reference": 240,
+            "title": "Effects of dual-chamber pacing for pacemaker patients with hypertrophic obstructive cardiomyopathy.",
+            "journal": "J Am Coll Cardiol",
+            "year": 1997
+          },
+          {
+            "reference": 241,
+            "title": "The use of pacemakers in the treatment of cardiomyopathies.",
+            "journal": "Curr Probl Cardiol",
+            "year": 1996
+          },
+          {
+            "reference": 245,
+            "title": "Implantable cardioverter-defibrillators and prevention of sudden cardiac death in hypertrophic cardiomyopathy.",
+            "journal": "JAMA",
+            "year": 2007
+          },
+          {
+            "reference": 252,
+            "title": "Predictors for complete heart block after congenital heart surgery in young patients.",
+            "journal": "Cited as reference"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "JACC Vol. 61, No. 3, 2013",
+        "Focus": "Device Guidelines: 2012 Update",
+        "Topics": [
+          "Effects of pacing mode on health-related quality of life",
+          "Cost-effectiveness of dual-chamber pacing",
+          "Frequency and association of symptom deterioration",
+          "Impact of programming in ventricular pacing",
+          "Quality of life, mortality, and secondary prevention associated with cardiac devices",
+          "Reducing unnecessary right ventricular pacing",
+          "Heart failure due to atrioventricular block",
+          "Cardiac resynchronization and ventricular stimulation strategies",
+          "Use of implantable cardioverter defibrillators (ICD)",
+          "Management of atrial fibrillation and bradycardia with pacing"
+        ],
+        "Studies": [
+          "Canadian trial for physiologic pacing",
+          "MOST Heart Rhythm trial",
+          "INTRINSIC RV trial",
+          "FAST VT/FREE Rx II trial",
+          "DAVID trial",
+          "PainFREE Rx II trial",
+          "MADIT, SCD HeFT studies"
+        ],
+        "Randomized Trials": [
+          "PAVE study",
+          "HOBIPACE study"
+        ],
+        "Key Points": [
+          "Dual-chamber pacing can be cost-effective",
+          "Regular assessment and follow-up are crucial for device management",
+          "Programming can reduce unnecessary device activity",
+          "Implantable devices play a critical role in preventing sudden cardiac death"
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "SCN5A",
+          "Associated Conditions": [
+            "Bradycardia",
+            "Sudden cardiac arrest"
+          ],
+          "Occurrences": 1,
+          "context": "Bernstein AD, Parsonnet V. Survey of cardiac pacing and defibrillation in the United States in 1993. Am J Cardiol. 1996;78:187\u201396. A Review of Pacemaker and ICD Implantation Practice in 2004 and 2005. Coronary Heart Disease, Chapter 8: Arrhythmias and Sudden Cardiac Death."
+        }
+      ]
+    },
+    {
+      "content": {
+        "general_clinical_information": "The document reviews various studies and clinical guidelines related to the use of implantable cardioverter-defibrillators (ICDs) for different heart conditions, particularly for the prevention of sudden cardiac death in patients with various forms of cardiac disease. The text emphasizes the role of ICDs in patients with a history of myocardial infarction, heart failure, inherited arrhythmia syndromes like long QT syndrome, and structural heart diseases such as hypertrophic cardiomyopathy and arrhythmogenic right ventricular dysplasia/cardiomyopathy (ARVD/C). Several clinical trials and studies are cited throughout to discuss the long-term effectiveness and risks associated with ICD therapy."
+      },
+      "genes": [
+        {
+          "Gene": "SCN5A",
+          "Associated Conditions": [
+            "Long QT Syndrome",
+            "Sudden Cardiac Death"
+          ],
+          "Occurrences": 1,
+          "context": "Brugada R, Hong K, Dumaine R, et al. Sudden death associated with short-QT syndrome linked to mutations in HERG. Circulation. 2004;90:1309-10-5.\nWhile SCN5A is not mentioned directly, the context and related studies involve genetic mutations linked to sudden cardiac death, including SCN5A mutations related to Long QT Syndrome."
+        }
+      ]
+    },
+    {
+      "content": {
+        "clinical_guideline_summary": "The document provides guidelines and research findings related to prophylactic defibrillator implantation, management of long QT syndrome, hypertrophic cardiomyopathy, and the use of amiodarone in implantable cardioverter-defibrillator patients. It discusses outcomes for patients with genetic arrhythmic conditions, device considerations, and stratification methodologies for patient care."
+      },
+      "genes": [
+        {
+          "Gene": "SCN5A",
+          "Associated Conditions": [
+            "Long QT Syndrome"
+          ],
+          "Occurrences": 1,
+          "context": "Moss AJ, Robinson JL, Gessman L, et al. Comparison of clinical and genetic variables of cardiac events associated with loud noise versus swimming among subjects with the long QT syndrome. JAMA. 1996;276:634\u2013641."
+        },
+        {
+          "Gene": "MYH7",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Marian AJ, Mares A Jr, Kelly DP, et al. Sudden cardiac death in hypertrophic cardiomyopathy. Variability in phenotypic expression of beta-myosin heavy chain mutations. Eur Heart J. 1995;16:368\u2013376."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "topics": [
+          "ventricular non-compaction",
+          "isolated noncompaction of the left ventricular myocardium",
+          "Brugada syndrome",
+          "long-term outcomes of implanted cardioverter-defibrillators",
+          "clinical features of Brugada syndrome"
+        ],
+        "key points": [
+          "The document discusses isolated noncompaction of the ventricular myocardium and its clinical symptoms.",
+          "Brugada syndrome is characterized by right bundle branch block, persistent ST segment elevation, and sudden cardiac death.",
+          "The prevalence and clinical follow-up of Brugada syndrome are highlighted.",
+          "Gene mutations, such as those linked to cardiac conditions, are associated with ventricular tachycardia."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "RYR2",
+          "Associated Conditions": [
+            "catecholaminergic polymorphic ventricular tachycardia"
+          ],
+          "Occurrences": 2,
+          "context": "Lahat H, Pras E, Eldar M. RYR2 and CASQ2 mutations in patients suffering from catecholaminergic polymorphic ventricular tachycardia. Circulation. 2001;103:e79. Laitinen PJ, Brown KM, Piippo K, et al. Mutations of the cardiac ryanodine receptor (RyR2) gene in familial polymorphic ventricular tachycardia."
+        },
+        {
+          "Gene": "SCN5A",
+          "Associated Conditions": [
+            "long QT syndrome"
+          ],
+          "Occurrences": 1,
+          "context": "Priori SG, Napolitano C, Schwartz PJ, et al. A novel form of short QT syndrome (SQTS) is caused by a mutation in the ICN5A gene. Circ Res. 2005;96:800\u20137."
+        }
+      ]
+    },
+    {
+      "content": {
+        "summary": "This document provides an update on guidelines related to the performance, testing, and cost-effectiveness of implantable cardioverter-defibrillators (ICDs) and cardiac resynchronization therapy (CRT). Several studies discussed focus on the comparison of dual-chamber versus single-chamber devices, the impact of ventricular lead placement techniques, and the evaluation of antiarrhythmic drugs in conjunction with device therapy. The guidelines emphasize the need for advanced testing algorithms to better predict defibrillator lead failure, improve survival rates, and assess the psycho-social impact on patients with ICDs."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2012 Device-Based Therapy Focused Update References",
+        "sections": [
+          "Section 2.4.1",
+          "Section 2.8.3"
+        ],
+        "topics": [
+          "implantable cardioverter defibrillator",
+          "cardiac resynchronization therapy",
+          "heart failure management",
+          "ventricular tachyarrhythmias",
+          "pacemaker therapy"
+        ],
+        "clinical studies and trials": [
+          "Prospeci randomized comparisons",
+          "Transthoracic monitoring studies",
+          "Observational studies on cardiac devices"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "Device Guidelines: 2012 Update",
+        "focus": "Cardiac resynchronization therapy, ventricular pacing, heart failure, device-based therapy, remote monitoring",
+        "key findings": [
+          "Cardiac resynchronization therapy (CRT) can improve ventricular dyssynchrony and outcomes in heart failure patients with wide QRS complexes.",
+          "Biventricular pacing and its benefits in reducing heart failure symptoms.",
+          "The use of remote monitoring in managing cardiovascular devices."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2008 Author Relationships With Industry and Other Entities (Relevant)\u2014ACC/AHA/HRS 2008 Guidelines for Device-Based Therapy of Cardiac Rhythm Abnormalities",
+        "summary": "This document lists various authors' relationships with companies in the medical field, detailing consulting, speakers' bureau engagements, ownerships, research grants, and other financial benefits related to cardiac rhythm therapy."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The table outlines the relationships between committee members and industry. It was updated alongside meetings and calls during the document development process, reflecting relationships as of January 16, 2008. Significant interest is defined as ownership of a notable percentage of stock or receiving significant financial benefits from a business entity.",
+        "committeeMembers": [
+          {
+            "name": "Mark H. Schonfeld",
+            "relationships": {
+              "ConsultingFees": "None",
+              "SpeakersBureau": "None",
+              "Ownership": "None",
+              "ResearchGrants": "None",
+              "FinancialBenefit": "None"
+            }
+          },
+          {
+            "name": "Michael J. Silka",
+            "relationships": {
+              "ConsultingFees": "None",
+              "SpeakersBureau": "None",
+              "Ownership": "None",
+              "ResearchGrants": "None",
+              "FinancialBenefit": "None"
+            }
+          },
+          {
+            "name": "Lynne Warner Stevenson",
+            "relationships": {
+              "ConsultingFees": "Biosense, Medtronic",
+              "SpeakersBureau": "None",
+              "Ownership": "None",
+              "ResearchGrants": "Biosense, Medtronic",
+              "FinancialBenefit": "None"
+            },
+            "significantRelationships": [
+              "Biosense",
+              "Medtronic"
+            ]
+          },
+          {
+            "name": "Michael O. Sweeney",
+            "relationships": {
+              "ConsultingFees": "Medtronic",
+              "SpeakersBureau": "Boston Scientific, Medtronic",
+              "Ownership": "None",
+              "ResearchGrants": "None",
+              "FinancialBenefit": "None"
+            },
+            "significantRelationships": [
+              "Boston Scientific",
+              "Medtronic"
+            ]
+          }
+        ],
+        "definitions": {
+          "significantInterest": "Ownership of 5% or more stock or receiving over $10,000 from the business.",
+          "relationshipsSignificance": "Determined by financial impact exceeding 5% of gross income."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Appendix 2. 2008 Reviewer Relationships With Industry and Other Entities (Relevant)\u2014ACC/AHA/HRS 2008 Guidelines for Device-Based Therapy of Cardiac Rhythm Abnormalities",
+        "type": "Industry relationships and financial disclosures of peer reviewers involved in developing guidelines for cardiac rhythm device-based therapy.",
+        "categories": [
+          "Consulting Fees/Honoraria",
+          "Speakers' Bureau",
+          "Ownership/Partnership/Principal",
+          "Research Grant",
+          "Institutional or Other Financial Benefit"
+        ],
+        "reviewers": [
+          {
+            "name": "Mina K. Chung",
+            "representation": "Official\u2014Heart Rhythm Society",
+            "consulting_fees": [
+              "American College of Cardiology Foundation",
+              "Boston Medical Center",
+              "Boston Scientific (honoraria donated)",
+              "Elsevier",
+              "Medtronic (honoraria donated)",
+              "Nexcura (no honoraria received)",
+              "University of Texas Health Science Center",
+              "WebMD Health (for CryoCath Technologies, Inc.)"
+            ],
+            "research_grant": [
+              "Biotronik",
+              "Boston Scientific",
+              "Medtronic",
+              "Reliant Pharmaceuticals",
+              "St. Jude Medical"
+            ]
+          },
+          {
+            "name": "Fred Kusumoto",
+            "representation": "Official\u2014Heart Rhythm Society",
+            "consulting_fees": [
+              "Boston Scientific",
+              "Medtronic"
+            ]
+          },
+          {
+            "name": "Bruce Lindsay",
+            "representation": "Official\u2014American College of Cardiology Board of Trustees"
+          },
+          {
+            "name": "Samir Saba",
+            "representation": "Official\u2014American Heart Association"
+          },
+          {
+            "name": "Paul Wang",
+            "representation": "Official\u2014American Heart Association; Content\u2014American Heart Association Electrocardiography and Arrhythmias Committee",
+            "consulting_fees": [
+              "Boston Scientific",
+              "Lifewatch",
+              "Medtronic",
+              "St. Jude"
+            ],
+            "research_grant": [
+              "Boston Scientific",
+              "Medtronic",
+              "St. Jude"
+            ],
+            "speakers_bureau": [
+              "Boston Scientific",
+              "Medtronic",
+              "St. Jude"
+            ],
+            "ownership": [
+              "Hansen Medical"
+            ]
+          },
+          {
+            "name": "Stuart Winston",
+            "representation": "Official\u2014American College of Cardiology Board of Governors",
+            "consulting_fees": [
+              "Boston Scientific"
+            ]
+          },
+          {
+            "name": "Patrick McCarthy",
+            "representation": "Organizational\u2014Society of Thoracic Surgeons"
+          },
+          {
+            "name": "Mandeep Mehra",
+            "representation": "Organizational\u2014Heart Failure Society of America",
+            "consulting_fees": [
+              "CV Therapeutics",
+              "Medtronic",
+              "Astellas",
+              "Boston Scientific",
+              "Cordis",
+              "Delphi",
+              "Medtronic",
+              "Novartis",
+              "Roche Diagnostics",
+              "Scios",
+              "Servoy",
+              "St. Jude"
+            ],
+            "research_grant": [
+              "Maryland Industrial Partnerships",
+              "National Institutes of Health",
+              "Other Tobacco-Related Diseases"
+            ],
+            "institutional_benefit": [
+              "University of Maryland (salary)",
+              "Legal consultant"
+            ]
+          },
+          {
+            "name": "Jennifer Cummings",
+            "content": "Content\u2014American College of Cardiology Foundation Clinical Electrophysiology Committee",
+            "consulting_fees": [
+              "St. Jude",
+              "Reliant",
+              "Signafie",
+              "St. Jude",
+              "Zeinn"
+            ]
+          },
+          {
+            "name": "Christopher Fellows",
+            "content": "Content\u2014American College of Cardiology Foundation Clinical Electrophysiology Committee",
+            "consulting_fees": [
+              "Boston Scientific",
+              "St. Jude"
+            ]
+          },
+          {
+            "name": "Nora Goldschlager",
+            "content": "Content\u2014Individual",
+            "consulting_fees": [
+              "St. Jude"
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Device Guideline: 2012 Update Incorporated",
+        "Publication Date": "January 22, 2013",
+        "Journal": "JACC Vol. 61, No. 3",
+        "Description": "This appendix contains information on the relationships of various reviewers with industry, as reported at peer review.",
+        "Details": "Names are listed in alphabetical order within each category of review. A significant interest in a business is defined as having an ownership of 5% or more of the voting stock or gross income exceeding 5% from the previous year. Modest relationships are lesser than significant."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Appendix 3": {
+          "Abbreviations": {
+            "ACC": "American College of Cardiology",
+            "ACCF": "American College of Cardiology Foundation",
+            "AF": "Atrial fibrillation",
+            "AHA": "American Heart Association",
+            "AMI": "Acute myocardial infarction",
+            "AMIOVIRT": "Amiodarone Versus Implantable Defibrillator in Patients with Nonischemic Cardiomyopathy and Asymptomatic Nonsustained Ventricular Tachycardia",
+            "ARVD/C": "Arrhythmogenic right ventricular dysplasia/cardiomyopathy",
+            "ATP": "Antitachycardia pacing",
+            "AV": "Atrioventricular",
+            "AVID": "Antiarrhythmics Versus Implantable Defibrillators",
+            "CABG-Patch": "Coronary Artery Bypass Graft-Patch",
+            "CARE-HF": "Cardiac Resynchronization in Heart Failure",
+            "CASH": "Cardiac Arrest Study Hamburg",
+            "CAT": "Cardiomyopathy Trial",
+            "CI": "Confidence interval",
+            "CIDS": "Canadian Implantable Defibrillator Study",
+            "CIED": "Cardiovascular implantable electronic devices",
+            "COMPANION": "Comparison of Medical Therapy, Pacing, and Defibrillation in Heart Failure Trial",
+            "CRT": "Cardiac resynchronization therapy",
+            "CRT-D": "Cardiac resynchronization therapy device incorporating both pacing and defibrillation capabilities",
+            "CRT-P": "Cardiac resynchronization device providing pacing but not defibrillation capability",
+            "CTOPP": "Canadian Trial of Physiologic Pacing",
+            "DAVID": "Dual Chamber and VVI Implantable Defibrillator",
+            "DCM": "Dilated cardiomyopathy",
+            "DDD": "Dual-chamber pacemaker that senses/paces in the atrium/ventricle and is inhibited/triggered by intrinsic rhythm",
+            "DEFINITE": "Defibrillators in Nonischemic Cardiomyopathy Treatment Evaluation",
+            "DINAMIT": "Defibrillator in Acute Myocardial Infarction Trial",
+            "ECG": "Electrocardiograph",
+            "GDMT": "Guideline-directed medical therapy",
+            "HCM": "Hypertrophic cardiomyopathy",
+            "HR": "Hazard ratio",
+            "HRS": "Heart Rhythm Society",
+            "ICD": "Implantable cardioverter-defibrillator",
+            "LBBB": "Left bundle-branch block",
+            "LV": "Left ventricular/left ventricle",
+            "LVEF": "Left ventricular ejection fraction",
+            "MADIT-CRT": "Multicenter Automatic Defibrillator Implantation Trial with Cardiac Resynchronization Therapy",
+            "MADIT I": "Multicenter Automatic Defibrillator Implantation Trial I",
+            "MADIT II": "Multicenter Automatic Defibrillator Implantation Trial II",
+            "MI": "Myocardial infarction",
+            "MIRACLE ICD II": "Multicenter InSync ICD Randomized Clinical Evaluation II",
+            "MOST": "Mode Selection Trial",
+            "MUSTT": "Antiarrhythmic Drug Therapy in the Multicenter UnSustained Tachycardia Trial",
+            "NYHA": "New York Heart Association",
+            "PainFREE Rx II": "Pacing Fast VT Reduces Shock Therapies Trial II",
+            "PASE": "Pacemaker Selection in the Elderly",
+            "PAVE": "Left Ventricular-Based Cardiac Stimulation Post AV Nodal Ablation Evaluation Study",
+            "QOL": "Quality of life",
+            "RAFT": "Resynchronization-Defibrillation for Ambulatory Heart Failure Trial",
+            "REVERSE": "Resynchronization Reverses Remodeling in Systolic Left Ventricular Dysfunction",
+            "RR": "Relative risk",
+            "RV": "Right ventricular/right ventricle",
+            "RVA": "Right ventricular apical",
+            "RWI": "Relationships with industry and other entities",
+            "SCD": "Sudden cardiac death",
+            "SCD-HeFT": "Sudden Cardiac Death in Heart Failure Trial",
+            "SND": "Sinus node dysfunction",
+            "SVT": "Supraventricular tachycardia",
+            "TF": "Task Force",
+            "TTM": "Transtelephonic monitoring",
+            "UK-PACE": "United Kingdom Pacing and Cardiovascular Events",
+            "VF": "Ventricular fibrillation",
+            "VPS": "Vasovagal Pacemaker Study I",
+            "VPS-II": "Vasovagal Pacemaker Study II",
+            "VT": "Ventricular tachycardia"
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Appendix 4. 2012 Author Relationships With Industry and Other Entities (Relevant)\u20142012 ACCF/AHA/HRS Focused Update Incorporated Into the ACCF/AHA/HRS 2008 Guidelines for Device-Based Therapy of Cardiac Rhythm Abnormalities",
+        "authors": [
+          {
+            "name": "Cynthia M. Tracy",
+            "position": "Chair",
+            "affiliation": "George Washington University Medical Center\u2014Associate Director and Professor of Medicine",
+            "consultant": "None",
+            "speaker's bureau": "None",
+            "ownership": "None",
+            "personal research": "None",
+            "institutional/organizational benefit": "None",
+            "expert witness": "None",
+            "voting recusals": "None"
+          },
+          {
+            "name": "Andrew E. Epstein",
+            "position": "Vice Chair",
+            "affiliation": "University of Pennsylvania\u2014Professor of Medicine Philadelphia VA Medical Center\u2014Chief, Cardiology Section",
+            "consultant": [
+              "Boston Scientific (DSMB)\u2021",
+              "Medtronic",
+              "Medtronic/Cryocath (DSMB)"
+            ],
+            "speaker's bureau": "Medtronic \u2020",
+            "ownership": "None",
+            "personal research": "Biotronik \u2021",
+            "institutional/organizational benefit": [
+              "Boston Scientific",
+              "Cameron Health\u2021",
+              "Medtronic \u2021",
+              "St. Jude Medical\u2021\u2014industry supporters of fellowship program"
+            ],
+            "expert witness": "None",
+            "voting recusals": "2.4.1"
+          },
+          {
+            "name": "Dawood Darbar",
+            "position": "N/A",
+            "affiliation": "Vanderbilt University School of Medicine\u2014C. Sydney Burwell Associate Professor Medicine Pharmacology Vanderbilt Arrhythmia Service\u2014Director",
+            "consultant": "None",
+            "speaker's bureau": "None",
+            "ownership": "None",
+            "personal research": "None",
+            "institutional/organizational benefit": "None",
+            "expert witness": "None",
+            "voting recusals": "None"
+          },
+          {
+            "name": "John P. DiMarco",
+            "position": "N/A",
+            "affiliation": "University of Virginia\u2014Director, Clinical EP Laboratory",
+            "consultant": "Medtronic \u25cf St. Jude Medical",
+            "speaker's bureau": "None",
+            "ownership": "None",
+            "personal research": "Boston Scientific \u25cf",
+            "institutional/organizational benefit": "None",
+            "expert witness": "None",
+            "voting recusals": "2.4.1"
+          },
+          {
+            "name": "Sandra B. Dunbar",
+            "position": "N/A",
+            "affiliation": "Emory University, Nell Hodgson Woodruff School of Nursing\u2014Associate Dean for Academic Advancement, Charles Howard Candler Professor",
+            "consultant": "None",
+            "speaker's bureau": "None",
+            "ownership": "None",
+            "personal research": "None",
+            "institutional/organizational benefit": "None",
+            "expert witness": "None",
+            "voting recusals": "None"
+          },
+          {
+            "name": "N.A. Mark Estes III",
+            "position": "N/A",
+            "affiliation": "Tufts University\u2014Professor of Medicine",
+            "consultant": [
+              "Boston Scientific\u2020",
+              "Boston Scientific, EP Fellowship Educational Symposium\u2021",
+              "Medtronic"
+            ],
+            "speaker's bureau": "None",
+            "ownership": "None",
+            "personal research": [
+              "Boston Scientific\u2014MADIT-RIT (Co-PI)"
+            ],
+            "institutional/organizational benefit": "None",
+            "expert witness": "None",
+            "voting recusals": "2.4.1"
+          },
+          {
+            "name": "T. Bruce Ferguson, Jr",
+            "position": "N/A",
+            "affiliation": "East Carolina University\u2014Professor of Surgery and Physiology Mayo Clinic\u2014Professor of Medicine",
+            "consultant": "Medtronic",
+            "speaker's bureau": "None",
+            "ownership": "None",
+            "personal research": "None",
+            "institutional/organizational benefit": [
+              "United Healthcare\u2014Advisory Board"
+            ],
+            "expert witness": "None",
+            "voting recusals": "2.4.1"
+          },
+          {
+            "name": "Stephen C. Hammill",
+            "position": "N/A",
+            "affiliation": "Mayo Clinic\u2014Professor of Medicine",
+            "consultant": "None",
+            "speaker's bureau": "None",
+            "ownership": "None",
+            "personal research": "None",
+            "institutional/organizational benefit": "None",
+            "expert witness": "None",
+            "voting recusals": "None"
+          },
+          {
+            "name": "Pamela E. Karasik",
+            "position": "N/A",
+            "affiliation": "Georgetown University Medical School\u2014Associate Professor of Medicine VA Medical Center, Washington, DC\u2014Acting Chief of Cardiology",
+            "consultant": "None",
+            "speaker's bureau": "None",
+            "ownership": "None",
+            "personal research": "None",
+            "institutional/organizational benefit": "None",
+            "expert witness": "None",
+            "voting recusals": "None"
+          },
+          {
+            "name": "Mark S. Link",
+            "position": "N/A",
+            "affiliation": "Tufts Medical Center\u2014Professor of Medicine",
+            "consultant": "None",
+            "speaker's bureau": "None",
+            "ownership": "None",
+            "personal research": "Boston Scientific\u2014MADIT-RIT (Co-PI)",
+            "institutional/organizational benefit": "None",
+            "expert witness": "None",
+            "voting recusals": "2.4.1"
+          },
+          {
+            "name": "Joseph E. Marine",
+            "position": "N/A",
+            "affiliation": "Johns Hopkins University\u2014Associate Professor of Medicine",
+            "consultant": "None",
+            "speaker's bureau": "None",
+            "ownership": "None",
+            "personal research": "None",
+            "institutional/organizational benefit": "None",
+            "expert witness": "None",
+            "voting recusals": "None"
+          },
+          {
+            "name": "Mark H. Schoenfeld",
+            "position": "N/A",
+            "affiliation": "Yale University School of Medicine\u2014Clinical Professor of Medicine",
+            "consultant": "United Healthcare Advisory Board",
+            "speaker's bureau": "None",
+            "ownership": "None",
+            "personal research": "None",
+            "institutional/organizational benefit": "None",
+            "expert witness": "None",
+            "voting recusals": "2.4.1"
+          },
+          {
+            "name": "Amit J. Shanker",
+            "position": "N/A",
+            "affiliation": "Center for Advanced Arrhythmia Medicine\u2014Director Columbia University College of Physicians and Surgeons\u2014Assistant Professor of Medicine",
+            "consultant": "None",
+            "speaker's bureau": "None",
+            "ownership": "None",
+            "personal research": "None",
+            "institutional/organizational benefit": "None",
+            "expert witness": "None",
+            "voting recusals": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Device Guideline: 2012 Update Incorporated",
+        "Appendix": "4. Continued",
+        "Publication": "JACC Vol. 61, No. 3, 2013",
+        "Authors": [
+          "Epstein et al."
+        ],
+        "Date": "January 22, 2013",
+        "Committee Members": [
+          {
+            "Name": "Michael J. Silka",
+            "Employment": "University of Southern California\u2014Professor of Pediatrics",
+            "Institution": "Children\u2019s Hospital Los Angeles\u2014Chief, Division of Cardiology",
+            "Consultant": "None",
+            "Speaker\u2019s Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals by Section": "None"
+          },
+          {
+            "Name": "Lynne Warner Stevenson",
+            "Employment": "Brigham & Women\u2019s Hospital\u2014Director, Cardiomyopathy and Heart Failure",
+            "Consultant": "None",
+            "Speaker\u2019s Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "Biosense Webster\u2020",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals by Section": "2.4.1"
+          },
+          {
+            "Name": "William G. Stevenson",
+            "Employment": "Brigham & Women\u2019s Hospital\u2014Director, Clinical Cardiac EP",
+            "Consultant": "None",
+            "Speaker\u2019s Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "Biosense Webster\u2020",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals by Section": "2.4.1"
+          },
+          {
+            "Name": "Paul D. Varosy",
+            "Employment": "Eastern Colorado Health Care System\u2014Director of Cardiac Electrophysiology, University of Colorado Denver\u2014Assistant Professor of Medicine",
+            "Consultant": "None",
+            "Speaker\u2019s Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals by Section": "None"
+          }
+        ],
+        "Additional Details": [
+          "The table represents the relationships of committee members with industry and other entities deemed relevant to this document.",
+          "Relationships were reviewed and updated with all meetings and conference calls during document development.",
+          "Committee members were required to recuse themselves from voting on specific sections based on relationships.",
+          "ACCF/AHA defines a relevant relationship by specific conditions regarding assets, companies, or personal gain."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2012 Reviewer Relationships With Industry and Other Entities (Relevant)\u20142012 ACCF/AHA/HRS Focused Update",
+        "context": "This document lists reviewers' relationships with industry and other entities in connection with the 2012 guidelines for device-based therapy of cardiac rhythm abnormalities.",
+        "details": [
+          {
+            "name": "Sana Al-Khatib",
+            "employment": "Duke Clinical Research Institute and Duke University Medical Center",
+            "consultant": "None",
+            "speaker's bureau": "Medtronic",
+            "ownership": "None",
+            "institutional benefit": "None",
+            "expert witness": "None"
+          },
+          {
+            "name": "Hugh Calkins",
+            "employment": "Johns Hopkins Hospital",
+            "consultant": "Biosense Webster, Boston Scientific",
+            "speaker's bureau": "None",
+            "ownership": "Boston Scientific, Medtronic, St. Jude Medical",
+            "institutional benefit": "None",
+            "expert witness": "None"
+          },
+          {
+            "name": "James R. Edgerton",
+            "employment": "The Heart Hospital Baylor Plano",
+            "consultant": "None",
+            "speaker's bureau": "None",
+            "ownership": "None",
+            "institutional benefit": "None",
+            "expert witness": "None"
+          },
+          {
+            "name": "Michael M. Givertz",
+            "employment": "Brigham and Women's Hospital",
+            "consultant": "None",
+            "speaker's bureau": "None",
+            "ownership": "None",
+            "institutional benefit": "None",
+            "expert witness": "None"
+          },
+          {
+            "name": "Jonathan L. Halperin",
+            "employment": "Mount Sinai Medical Center",
+            "consultant": "Biotronik",
+            "speaker's bureau": "None",
+            "ownership": "None",
+            "institutional benefit": "None",
+            "expert witness": "None"
+          },
+          {
+            "name": "Roger A. Freedman",
+            "employment": "University of Utah Health Sciences Center",
+            "consultant": "Boston Scientific, Sorin, Spectracetics, St. Jude Medical",
+            "speaker's bureau": "None",
+            "ownership": "Medtronic, St. Jude Medical",
+            "institutional benefit": "None",
+            "expert witness": "Defendant, 2011, pacemaker battery depletion"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Device Guideline: 2012 Update Incorporated",
+        "publication": "JACC Vol. 61, No. 3, 2013",
+        "date": "January 22, 2013",
+        "panel": [
+          {
+            "name": "Kousik Krishnan",
+            "role": "Content Reviewer",
+            "affiliation": "Rush University Medical Center",
+            "relationships": {
+              "Boston Scientific": "Modest",
+              "St. Jude Medical": "None",
+              "Biotronik": "None"
+            }
+          },
+          {
+            "name": "Michael Mansour",
+            "role": "Content Reviewer",
+            "affiliation": "Cardiovascular Physicians",
+            "relationships": {
+              "Boston Scientific": "None",
+              "Medtronic": "None",
+              "St. Jude Medical": "None"
+            }
+          },
+          {
+            "name": "Steven M. Markowitz",
+            "role": "Content Reviewer\u2014ACCF EP Committee",
+            "affiliation": "New York Hospital",
+            "relationships": {
+              "Biotronik": "None",
+              "Biosense Webster": "None",
+              "Boston Scientific": "None",
+              "Medtronic": "None"
+            }
+          }
+        ],
+        "disclosure": "This table represents the relationships of reviewers with industry...",
+        "relevant_relationship_definitions": [
+          "The relationship or interest relates to the same or similar subject matter...",
+          "The company/entity makes a drug, drug class, or device addressed in the document...",
+          "The person or a member of the person\u2019s household has a reasonable potential for financial..."
+        ],
+        "organizations": [
+          "AATS: American Association for Thoracic Surgery",
+          "ACCF: American College of Cardiology Foundation",
+          "AHA: American Heart Association",
+          "HFSA: Heart Failure Society of America",
+          "HRS: Heart Rhythm Society",
+          "ICD: Implantable Cardioverter-Defibrillator",
+          "MADIT-RIT: Multicenter Automatic Defibrillator Implantation Trial\u2013Reduce Inappropriate Therapy",
+          "STS: Society of Thoracic Surgeons"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2012 Indications for CRT Therapy\u2014Algorithm",
+        "Context": "The guideline outlines the indications for cardiac resynchronization therapy (CRT) based on NYHA class, LVEF, QRS duration, and pattern. It is intended for patients with cardiomyopathy on guideline-directed medical therapy (GDMT) for 3 months or more, or after MI, or following device implantation for pacing or defibrillation.",
+        "Algorithm": {
+          "LVEF <35%": "Evaluates general health status, noncardiac health, and clinical status (NYHA class).",
+          "NYHA class I": {
+            "LVEF \u226550%": null,
+            "QRS \u2265150 ms": null,
+            "QRS 120-149 ms": "LBBB pattern",
+            "QRS 150 ms": "Non-LBBB pattern",
+            "Condition": "Ischemic cardiomyopathy"
+          },
+          "NYHA class II": {
+            "LVEF \u226435%": null,
+            "QRS \u2265150 ms": "LBBB pattern",
+            "QRS 120-149 ms": "LBBB pattern",
+            "QRS \u2264150 ms": "Non-LBBB pattern"
+          },
+          "NYHA classes III & IV": {
+            "LVEF \u226435%": null,
+            "QRS \u2265150 ms": "LBBB pattern",
+            "QRS 120-149 ms": "LBBB pattern",
+            "QRS \u2264150 ms": "Non-LBBB pattern"
+          },
+          "Special CRT Indications": {
+            "Frequent Ventricular Pacing": "Anticipated to require",
+            "Atrial Fibrillation": {
+              "Condition": "Ventricular pacing is required",
+              "Outcome": "Near 100% ventricular pacing with CRT"
+            }
+          }
+        },
+        "Footnotes": {
+          "Definition": "Explanation of CRT, CRT-D, GDMT, NYHA class, and other terms.",
+          "Benefits": "Benefits of CRT in different NYHA classes, especially in patients with ischemic and nonischemic cardiomyopathy."
+        }
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "ACTA2",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": [
+        ""
+      ]
+    },
+    {
+      "Gene": "GENE_NAME",
+      "Associated Conditions": [
+        "genetic channelopathies"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Although SND (sick sinus syndrome) is recognized in pediatric patients and may be associated with specific genetic channelopathies (206), it is not itself an indication for pacemaker implantation."
+      ]
+    },
+    {
+      "Gene": "Gene",
+      "Associated Conditions": [
+        "Long-QT Syndrome"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "The clinical manifestations of a long-QT mutation may be influenced by the specific gene involved and the functional consequences of the mutation in that gene."
+      ]
+    },
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "Brugada syndrome",
+        "Bradycardia",
+        "Sudden cardiac arrest",
+        "Long QT Syndrome",
+        "Sudden Cardiac Death",
+        "long QT syndrome"
+      ],
+      "Occurrences": 6,
+      "context": [
+        "The genetic basis for the Brugada syndrome involves the cardiac sodium channel gene (SCN5A).",
+        "ICD implantation is reasonable for patients with Brugada syndrome who have documented VT that has not resulted in cardiac arrest.",
+        "Bernstein AD, Parsonnet V. Survey of cardiac pacing and defibrillation in the United States in 1993. Am J Cardiol. 1996;78:187\u201396. A Review of Pacemaker and ICD Implantation Practice in 2004 and 2005. Coronary Heart Disease, Chapter 8: Arrhythmias and Sudden Cardiac Death.",
+        "Brugada R, Hong K, Dumaine R, et al. Sudden death associated with short-QT syndrome linked to mutations in HERG. Circulation. 2004;90:1309-10-5.\nWhile SCN5A is not mentioned directly, the context and related studies involve genetic mutations linked to sudden cardiac death, including SCN5A mutations related to Long QT Syndrome.",
+        "Moss AJ, Robinson JL, Gessman L, et al. Comparison of clinical and genetic variables of cardiac events associated with loud noise versus swimming among subjects with the long QT syndrome. JAMA. 1996;276:634\u2013641.",
+        "Priori SG, Napolitano C, Schwartz PJ, et al. A novel form of short QT syndrome (SQTS) is caused by a mutation in the ICN5A gene. Circ Res. 2005;96:800\u20137."
+      ]
+    },
+    {
+      "Gene": "chromosome 14q12\u201343",
+      "Associated Conditions": [
+        "polymorphic VT and RVA aneurysm"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Polymorphic VT and RVA aneurysm is associated with a genetic locus on chromosome 14q12\u201343."
+      ]
+    },
+    {
+      "Gene": "HCM",
+      "Associated Conditions": [
+        "Sudden Cardiac Death",
+        "Arrhythmias"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "The document indicates that SCD risk is higher in young patients with genetic diseases such as hypertrophic cardiomyopathy (HCM) or long QT syndrome."
+      ]
+    },
+    {
+      "Gene": "Tetralogy of Fallot",
+      "Associated Conditions": [
+        "Sudden Cardiac Death",
+        "Arrhythmias after surgery"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "Unexpected sudden death occurs in a percentage of patients per decade after surgical treatment of tetralogy of Fallot."
+      ]
+    },
+    {
+      "Gene": "DCM",
+      "Associated Conditions": [
+        "Arrhythmias",
+        "Sudden Cardiac Death"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Patients with DCM or other causes of ventricular dysfunction might experience syncope or sustained ventricular arrhythmias."
+      ]
+    },
+    {
+      "Gene": "DMPK",
+      "Associated Conditions": [
+        "Myotonic dystrophy"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Stevenson WG, Perloff JK, Weiss JN, Anderson TL. Fascicupisular involvement in myotonic muscular dystrophy (Steinert's disease): a prospective study of 25 patients."
+      ]
+    },
+    {
+      "Gene": "MYH7",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Marian AJ, Mares A Jr, Kelly DP, et al. Sudden cardiac death in hypertrophic cardiomyopathy. Variability in phenotypic expression of beta-myosin heavy chain mutations. Eur Heart J. 1995;16:368\u2013376."
+      ]
+    },
+    {
+      "Gene": "RYR2",
+      "Associated Conditions": [
+        "catecholaminergic polymorphic ventricular tachycardia"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "Lahat H, Pras E, Eldar M. RYR2 and CASQ2 mutations in patients suffering from catecholaminergic polymorphic ventricular tachycardia. Circulation. 2001;103:e79. Laitinen PJ, Brown KM, Piippo K, et al. Mutations of the cardiac ryanodine receptor (RyR2) gene in familial polymorphic ventricular tachycardia."
+      ]
+    }
+  ]
+}

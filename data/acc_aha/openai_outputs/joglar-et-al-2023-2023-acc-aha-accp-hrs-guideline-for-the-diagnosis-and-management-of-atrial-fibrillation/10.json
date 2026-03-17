@@ -1,0 +1,21 @@
+{
+  "content": {
+    "Background": {
+      "Condition": "Atrial Fibrillation (AF)",
+      "Incidence": "Most sustained common arrhythmia; increasing incidence and prevalence in the US and globally.",
+      "Factors": "Aging population, obesity, detection, increased CVD survival.",
+      "Global Prevalence": "Estimated 50 million in 2020.",
+      "US Undiagnosed": "Approximately 11% (591,000 cases) of >5.6 million in 2015."
+    },
+    "Economic Impact": {
+      "Healthcare Utilization": "Higher with AF.",
+      "Annual Healthcare Costs": "Individuals with AF, $63,031; without, $27,896 more.",
+      "US Economic Burden": "AF accounted for $28.4 billion in 2016."
+    },
+    "Prevalence-Incidence": {
+      "US Prevalence": "5.2 million in 2010; expected 12.1 million in 2030.",
+      "US Incidence": "1.2 million in 2010; expected 2.6 million."
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,20 @@
+{
+  "content": {
+    "Classification Types": {
+      "Class I": "Conditions for which there is evidence and/or general agreement that a given procedure or treatment is useful and effective.",
+      "Class II": "Conditions for which there is conflicting evidence and/or a divergence of opinion about the usefulness/efficacy of a procedure or treatment.",
+      "Class IIa": "Weight of evidence/opinion is in favor of usefulness/efficacy.",
+      "Class IIb": "Usefulness/efficacy is less well established by evidence/opinion.",
+      "Class III": "Conditions for which there is evidence and/or general agreement that the procedure/treatment is not useful/effective and in some cases may be harmful.",
+      "No Benefit": "Procedure/Test not helpful or Treatment without established proven benefit.",
+      "Harm": "Procedure/Test leads to excess cost without benefit or is harmful, and/or Treatment is harmful."
+    },
+    "Level of Evidence": {
+      "Level of Evidence A": "Data derived from multiple randomized clinical trials or meta-analyses. References used to determine level of evidence must be provided and cited with the recommendation.",
+      "Level of Evidence B": "Data derived from a single randomized trial, or nonrandomized studies. References used to determine level of evidence must be provided and cited with the recommendation.",
+      "Level of Evidence C": "Consensus opinion of experts, case studies, or standard of care."
+    },
+    "Quote": "Like the collection and quality analysis of scientific data from an experimental study, collection and grading of the evidence for guideline development allow conclusions (i.e., guideline recommendations) to be developed in a manner that is supportable by the data (i.e., scientific evidence in the literature). - Heffner, 1998"
+  },
+  "genes": []
+}

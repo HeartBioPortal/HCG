@@ -1,0 +1,50 @@
+{
+  "content": {
+    "clinical_guideline": "2022 ACC/AHA Aortic Disease Guideline",
+    "summary": {
+      "features_risk_TAAA_rupture": [
+        "Rapid growth (confirmed increase in diameter of \u22650.5 cm/y)",
+        "Symptomatic aneurysm",
+        "Significant change in aneurysm appearance",
+        "Saccular aneurysm or presence of penetrating atherosclerotic ulcers"
+      ],
+      "synopsis": "The data supporting aortic diameter thresholds for TAAA repair are similar to those for descending TAA. Single-institution series with longitudinal follow-up show that intervention at diameters <6.0 cm can reduce aortic-related events and death. Intervention may be justified at smaller diameters in the presence of other risk factors. Aortic-related adverse events and death risk increase when TAAA diameters are >6.0 cm.",
+      "recommendations": {
+        "ruptured_TAAA": [
+          "Open repair is recommended.",
+          "Endovascular repair may be reasonable for hemodynamically stable patients in centers with expertise and access to appropriate stent grafts."
+        ],
+        "intact_TAAA": [
+          "Open repair is recommended for patients with Marfan syndrome, Loeys-Dietz syndrome, or vascular Ehlers-Danlos syndrome.",
+          "Endovascular repair may be considered for patients with suitable anatomy and access to appropriate grafts."
+        ]
+      }
+    }
+  },
+  "genes": [
+    {
+      "Gene": "FBN1",
+      "Associated Conditions": [
+        "Marfan syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Intact TAAA: In patients with Marfan syndrome, open repair is recommended over endovascular repair."
+    },
+    {
+      "Gene": "SMAD3",
+      "Associated Conditions": [
+        "Loeys-Dietz syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Intact TAAA: In patients with Loeys-Dietz syndrome, open repair is recommended over endovascular repair."
+    },
+    {
+      "Gene": "COL3A1",
+      "Associated Conditions": [
+        "vascular Ehlers-Danlos syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Intact TAAA: In patients with vascular Ehlers-Danlos syndrome, open repair is recommended over endovascular repair."
+    }
+  ]
+}

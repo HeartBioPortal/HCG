@@ -1,0 +1,64 @@
+{
+  "content": {
+    "reviewers": [
+      {
+        "name": "Lawrence Fine",
+        "representation": "Content Reviewer",
+        "employment": "National Heart, Lung and Blood Institute",
+        "institutional_financial_benefit": "NIH",
+        "consultant": "None"
+      },
+      {
+        "name": "John Flack",
+        "representation": "Content Reviewer",
+        "employment": "Southern Illinois University School of Medicine",
+        "consultant": "Regeneron, NuSirt",
+        "institutional_financial_benefit": [
+          "American Journal of Hypertension",
+          "CardioRenal Medicine",
+          "International Journal of Hypertension",
+          "Southern Illinois University Department of Medicine"
+        ]
+      },
+      {
+        "name": "Joseph Flynn",
+        "representation": "Content Reviewer",
+        "employment": "Seattle Children's Hospital",
+        "consultant": "Ultragenyx",
+        "institutional_financial_benefit": [
+          "UpToDate",
+          "Springer"
+        ]
+      },
+      {
+        "name": "Federico Gentile",
+        "representation": "Content Reviewer",
+        "employment": "Centro Cardiologico",
+        "consultant": "None",
+        "institutional_financial_benefit": "None"
+      },
+      {
+        "name": "Joel Handler",
+        "representation": "Content Reviewer",
+        "employment": "Kaiser Permanente",
+        "consultant": "None",
+        "institutional_financial_benefit": "None"
+      },
+      {
+        "name": "Hani Jneid",
+        "representation": "Content Reviewer",
+        "employment": "Baylor College of Medicine",
+        "consultant": "None",
+        "institutional_financial_benefit": "None"
+      },
+      {
+        "name": "Jos\u00e9 A. Joglar",
+        "representation": "Content Reviewer",
+        "employment": "UT Southwestern Medical Center",
+        "consultant": "None",
+        "institutional_financial_benefit": "None"
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,21 @@
+{
+  "content": {
+    "guideline_overview": "The guideline addresses the evaluation and testing protocol for individuals with suspected or family history of Hypertrophic Cardiomyopathy (HCM).",
+    "key_points": [
+      "A Variant of Uncertain Significance (VUS) in a proband is not actionable but may warrant family member testing in certain research or clinical settings to further clarify pathogenicity.",
+      "If genetic testing does not identify a pathogenic variant in HCM patients, further genetic testing in family members is not indicated.",
+      "For individuals with genotype-positive but phenotype-negative HCM, no follow-up is required unless new information arises that changes the pathogenicity classification of a variant."
+    ],
+    "recommended_testing_flow": {
+      "phenotype_negative": [
+        "If the family has a known pathogenic or likely pathogenic (P/LP) variant, further testing proceeds.",
+        "If not, and no family variant is known, further clinical or genetic testing is not recommended."
+      ],
+      "phenotype_positive": [
+        "Complete baseline evaluation including SCD risk and stress testing.",
+        "Regular evaluations every 1-2 years or with symptom changes, and periodic CMR every 3-5 years for SCD risk assessment."
+      ]
+    }
+  },
+  "genes": []
+}

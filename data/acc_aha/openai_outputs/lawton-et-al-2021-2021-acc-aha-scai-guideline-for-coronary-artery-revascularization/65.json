@@ -1,0 +1,28 @@
+{
+  "content": {
+    "general": "New-onset postoperative atrial fibrillation occurs in about 18% of patients after CABG and is associated with increased risk of stroke and mortality. Beta-blockers may reduce the incidence of atrial fibrillation and ventricular arrhythmias. Recommendations include discontinuing aspirin in patients with atrial fibrillation undergoing PCI and using anticoagulants like rivaroxaban or warfarin to reduce bleeding risks.",
+    "recommendations": [
+      {
+        "class": 1,
+        "loe": "B-R",
+        "recommendation": "In patients with atrial fibrillation undergoing PCI on anticoagulants, discontinue aspirin 1 to 4 weeks after PCI and use non-vitamin K oral anticoagulant or warfarin."
+      },
+      {
+        "class": 2,
+        "loe": "B-R",
+        "recommendation": "In patients with atrial fibrillation undergoing PCI on DAPT or P2Y12 inhibitor, use non-vitamin K oral anticoagulant over warfarin."
+      }
+    ],
+    "studies": [
+      {
+        "name": "AUGUSTUS trial",
+        "findings": "Apixaban with fewer bleeding and hospitalization compared to warfarin."
+      },
+      {
+        "name": "ENTRUST-AF-PCI trial",
+        "findings": "Edoxaban with lower bleeding in atrial fibrillation patients compared to warfarin."
+      }
+    ]
+  },
+  "genes": []
+}

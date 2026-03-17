@@ -1,0 +1,12 @@
+{
+  "content": {
+    "STEMI Patients": "The guideline focuses on patients with STEMI (ST-Elevation Myocardial Infarction) and their possible reperfusion strategies.",
+    "Initial Assessment": "Patients are initially assessed to determine if they are candidates for reperfusion.",
+    "PCI-Capable Hospital": "Patients at a PCI-capable hospital should be sent to the cath lab for primary PCI if the FMC-to-device time is \u226490 min.",
+    "Non\u2013PCI-Capable Hospital": "Patients at a non\u2013PCI-capable hospital should be transferred for primary PCI with a FMC-to-device time of \u2264120 min, or treated with fibrinolytic agents within 30 min if transfer time exceeds 120 min.",
+    "Reperfusion Therapy": "Reperfusion therapy is recommended for all eligible patients with STEMI within 12 hours of symptom onset.",
+    "Electrocardiography": "A 12-lead ECG by EMS personnel is recommended for symptom consistent with STEMI.",
+    "Evidence and Recommendations": "The guideline provides evidence levels and classes of recommendation for various strategies."
+  },
+  "genes": []
+}

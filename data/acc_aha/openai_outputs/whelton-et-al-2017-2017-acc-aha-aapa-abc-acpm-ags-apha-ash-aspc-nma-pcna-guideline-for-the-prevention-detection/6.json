@@ -1,0 +1,26 @@
+{
+  "content": {
+    "title": "Applying Class of Recommendation and Level of Evidence to Clinical Strategies, Interventions, Treatments, or Diagnostic Testing in Patient Care (Updated August 2015)",
+    "classes_of_recommendation": {
+      "Class I (Strong)": "Benefit >>> Risk. Recommendations should be performed/administered.",
+      "Class IIa (Moderate)": "Benefit >> Risk. Recommendations are reasonable.",
+      "Class IIb (Weak)": "Benefit \u2265 Risk. Usefulness/effectiveness is uncertain.",
+      "Class III: No Benefit (Moderate)": "Benefit = Risk. Recommendations are not useful/effective.",
+      "Class III: Harm (Strong)": "Risk > Benefit. Recommendations are potentially harmful."
+    },
+    "levels_of_evidence": {
+      "Level A": "High-quality evidence from multiple RCTs or meta-analyses.",
+      "Level B-R": "Moderate-quality evidence from one or more RCTs.",
+      "Level B-NR": "Moderate-quality evidence from well-designed nonrandomized studies.",
+      "Level C-LD": "Evidence from observational studies with limitations.",
+      "Level C-EO": "Consensus of expert opinion."
+    },
+    "notes": [
+      "COR and LOE are independent; any COR can pair with any LOE.",
+      "A recommendation with LOE C does not imply weakness.",
+      "RCTs may not be available for all clinical questions.",
+      "Outcome or intervention result should specify clinical outcome or diagnostic accuracy."
+    ]
+  },
+  "genes": []
+}

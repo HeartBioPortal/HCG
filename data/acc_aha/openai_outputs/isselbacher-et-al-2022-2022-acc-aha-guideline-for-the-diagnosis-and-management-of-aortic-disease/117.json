@@ -1,0 +1,43 @@
+{
+  "content": {
+    "Infectious aortitis": "Infection of the aorta often caused by bacterial or fungal pathogens, leading to complications like aneurysm, erosion, fistula, dissection, or rupture. Medical imaging and open surgical repair are commonly recommended, though endovascular repair may be considered in select cases.",
+    "Common pathogens": [
+      "Staphylococcus aureus",
+      "Pneumococcus",
+      "Escherichia coli",
+      "Salmonella"
+    ],
+    "Symptoms": [
+      "Visual loss",
+      "Jaw claudication",
+      "Limb claudication",
+      "Stroke"
+    ],
+    "Imaging techniques": [
+      "FDG-PET",
+      "CT",
+      "MRI",
+      "TEE (Transesophageal echocardiography)"
+    ],
+    "Management strategies": [
+      "Open surgical repair",
+      "Endovascular repair",
+      "Intravenous antimicrobial therapy for at least 6 weeks"
+    ],
+    "Recommendations": {
+      "COR": [
+        "1",
+        "2b",
+        "2a",
+        "2b"
+      ],
+      "LOE": [
+        "C-EO",
+        "C-LD",
+        "C-EO",
+        "C-EO"
+      ]
+    }
+  },
+  "genes": []
+}

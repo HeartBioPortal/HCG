@@ -1,0 +1,27 @@
+{
+  "content": {
+    "Title": "2023 AHA/ACC/ASPC/NLA/PCNA Chronic Coronary Disease Guideline",
+    "Summary": "The document provides guidelines for the management of chronic coronary disease (CCD), with a focus on the use of SGLT2 inhibitors and GLP-1 receptor agonists in patients with type 2 diabetes and heart failure. It discusses the cardiovascular benefits and cost-effectiveness of these medications.",
+    "Recommendations": {
+      "Use SGLT2 Inhibitors and GLP-1 Receptor Agonists": {
+        "Patients with CCD and Type 2 Diabetes": [
+          "Use of SGLT2 inhibitors or GLP-1 receptor agonists is recommended to reduce risk of major adverse cardiovascular events (MACE).",
+          "Addition of a GLP-1 receptor agonist or an SGLT2 inhibitor is cost-effective and recommended."
+        ],
+        "Patients with CCD and Heart Failure (LVEF \u226440%)": [
+          "SGLT2 inhibitors recommended to reduce risk of cardiovascular death and heart failure hospitalization.",
+          "Addition of an SGLT2 inhibitor is considered of intermediate value."
+        ],
+        "Patients with CCD and Heart Failure (LVEF >40%)": [
+          "SGLT2 inhibitor use can decrease heart failure hospitalizations and improve quality of life.",
+          "Addition of an SGLT2 inhibitor is of uncertain value."
+        ]
+      }
+    },
+    "Cost-Value Statements": [
+      "Use of these medications offers high to intermediate value depending on specific conditions."
+    ],
+    "Synopsis": "The guidelines describe cardiovascular risk reduction strategies, emphasizing lifestyle modifications, GDMT, and other management like weight, glucose, and lipid control. Recommendations include maintaining specific targets for blood pressure, glucose control, and overall cardiovascular health."
+  },
+  "genes": []
+}

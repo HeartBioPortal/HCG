@@ -1,0 +1,34 @@
+{
+  "content": {
+    "Title": "Hypertriglyceridemia",
+    "Recommendations": [
+      {
+        "Class": "I",
+        "Level of Evidence": "B-NR",
+        "Details": "In adults 20 years of age or older with moderate hypertriglyceridemia (fasting or nonfasting triglycerides 175 to 499 mg/dL), clinicians should address and treat lifestyle factors (obesity and metabolic syndrome), secondary factors (diabetes mellitus, chronic liver or kidney disease and/or nephrotic syndrome, hypothyroidism), and medications that increase triglycerides."
+      },
+      {
+        "Class": "IIa",
+        "Level of Evidence": "B-R",
+        "Details": "In adults 40 to 75 years of age with moderate or severe hypertriglyceridemia and ASCVD risk of 7.5% or higher, it is reasonable to reevaluate ASCVD risk after lifestyle and secondary factors are addressed and to consider a persistently elevated triglyceride level as a factor favoring initiation or intensification of statin therapy."
+      },
+      {
+        "Class": "IIa",
+        "Level of Evidence": "B-R",
+        "Details": "In adults 40 to 75 years of age with severe hypertriglyceridemia (fasting triglycerides \u2265500 mg/dL) and ASCVD risk of 7.5% or higher, it is reasonable to address reversible causes of high triglyceride and to initiate statin therapy."
+      },
+      {
+        "Class": "IIa",
+        "Level of Evidence": "B-NR",
+        "Details": "In adults with severe hypertriglyceridemia (fasting triglycerides \u2265500 mg/dL), especially fasting triglycerides \u22651,000 mg/dL, it is reasonable to identify and address other causes of hypertriglyceridemia, and if triglycerides are persistently elevated or increasing, to further reduce triglycerides by implementation of a very low-fat diet, avoidance of refined carbohydrates and alcohol, consumption of omega-3 fatty acids, and, if necessary to prevent acute pancreatitis, fibrate therapy."
+      }
+    ],
+    "Synopsis": "Two categories of hypertriglyceridemia consist of moderate (fasting or nonfasting triglycerides 175-499 mg/dL) and severe (fasting triglycerides \u2265500 mg/dL). Excess triglycerides are carried in VLDL or chylomicrons. Severe hypertriglyceridemia increases the risk of ASCVD and acute pancreatitis.",
+    "Specific Supportive Text": [
+      "In patients with moderate hypertriglyceridemia, it is recommended to reduce both atherogenic VLDL and associated risk factors by nonpharmacological means where possible. Identification and treatment of underlying causes of elevated triglycerides are recommended.",
+      "Most patients with severe hypertriglyceridemia have multiple ASCVD risk factors.",
+      "Statin therapy is considered for the prevention of ASCVD and pancreatitis in severe hypertriglyceridemia."
+    ]
+  },
+  "genes": []
+}

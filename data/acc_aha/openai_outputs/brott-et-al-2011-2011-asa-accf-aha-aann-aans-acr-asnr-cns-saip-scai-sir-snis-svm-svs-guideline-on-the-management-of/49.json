@@ -1,0 +1,29 @@
+{
+  "content": {
+    "Title": "Diseases of the Subclavian and Brachiocephalic Arteries",
+    "Sections": [
+      {
+        "Title": "9.1. Recommendations for the Management of Patients With Occlusive Disease of the Subclavian and Brachiocephalic Arteries",
+        "Class IIa": [
+          "Extra-anatomic carotid-subclavian bypass is reasonable for patients with symptomatic posterior cerebral or cerebellar ischemia caused by subclavian artery stenosis or occlusion, in the absence of clinical factors predisposing to surgical morbidity or mortality.",
+          "Percutaneous endovascular angioplasty and stenting is reasonable for patients with symptomatic posterior cerebral or cerebellar ischemia caused by subclavian artery stenosis who are at high risk of surgical complications.",
+          "Revascularization by percutaneous angioplasty and stenting, direct arterial reconstruction, or extra-anatomic bypass surgery is reasonable for patients with symptomatic ischemia involving the anterior cerebral circulation caused by common carotid or brachiocephalic artery occlusive disease.",
+          "Revascularization by percutaneous angioplasty and stenting, direct arterial reconstruction, or extra-anatomic bypass surgery is reasonable for patients with symptomatic ischemia involving upper extremity claudication caused by subclavian or brachiocephalic arterial occlusive disease.",
+          "Revascularization by either extra-anatomic bypass surgery or subclavian angioplasty and stenting is reasonable for asymptomatic patients with subclavian artery stenosis when the ipsilateral internal mammary artery is required as a conduit for myocardial revascularization."
+        ],
+        "Class III: No Benefit": [
+          "Asymptomatic patients with asymmetrical upper-limb blood pressure, periclavicular bruit, or flow reversal in a vertebral artery caused by subclavian artery stenosis should not undergo revascularization unless the internal mammary artery is required for myocardial revascularization."
+        ]
+      },
+      {
+        "Title": "9.2. Occlusive Disease of the Subclavian and Brachiocephalic Arteries",
+        "Description": "Occlusive disease of these arteries is relatively uncommon and caused by atherosclerosis, Takayasu arteritis, giant cell arteritis, FMD, and radiation-induced arteriopathy. Symptoms may include upper-extremity ischemia, claudication, paresthesia, or pain."
+      },
+      {
+        "Title": "9.3. Subclavian Steal Syndrome",
+        "Description": "When the proximal subclavian artery becomes stenotic or occluded, collateral circulation may cause muscle fatigue in the affected arm or claudication. Symptoms may be aggravated by exercising the ipsilateral arm. Diagnosis includes identifying flow reversal in a vertebral artery."
+      }
+    ]
+  },
+  "genes": []
+}

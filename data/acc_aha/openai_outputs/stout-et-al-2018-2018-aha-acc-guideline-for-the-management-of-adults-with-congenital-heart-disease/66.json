@@ -1,0 +1,34 @@
+{
+  "content": {
+    "Title": "2018 ACHD Guideline",
+    "Authors": "Stout et al.",
+    "Source": "JACC VOL. 73, NO. 12, 2019",
+    "Date": "APRIL 2, 2019",
+    "Key Points": [
+      "Imaging for systemic RV function and potential complications should be goal-directed (S4.4.1.1-9).",
+      "CMR for quantification of RV function, avoid repetitive gadolinium contrast use (S4.4.1.1-10).",
+      "Echocardiography for baffle leak assessment (S4.4.1.1).",
+      "Sustained intra-atrial reentrant tachycardia as a SCD cause (S4.4.1.1-12).",
+      "Atrial arrhythmias management includes maintaining sinus rhythm (S4.4.1.1-11, S4.4.1.1-12).",
+      "Recommendations for d-TGA with arterial switch (S4.4.1.2-1 to S4.4.1.2-3)."
+    ],
+    "Recommendations": [
+      {
+        "Level": "I",
+        "Evidence": "C-LD",
+        "Description": "Baseline and serial imaging should be performed in adults with d-TGA with arterial switch and certain conditions (S4.4.1.2-1)."
+      },
+      {
+        "Level": "I",
+        "Evidence": "C-EO",
+        "Description": "Coronary revascularization should be planned by specialized cardiologists (S4.4.1.2-2)."
+      },
+      {
+        "Level": "IIa",
+        "Evidence": "B-NR",
+        "Description": "Perform anatomic evaluation of coronary artery patency in asymptomatic adults (S4.4.1.2-4, S4.4.1.2-5)."
+      }
+    ]
+  },
+  "genes": []
+}

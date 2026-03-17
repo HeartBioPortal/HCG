@@ -1,0 +1,52 @@
+{
+  "content": {
+    "Homocysteine-lowering Drugs": {
+      "Class IIB": "The effectiveness of folic acid and B12 vitamin supplements in individuals with lower extremity PAD and homocysteine levels greater than 14 micromoles per liter is not well established. (Level of Evidence: C)"
+    },
+    "Antiplatelet and Antithrombotic Drugs": {
+      "Class I": [
+        "Antiplatelet therapy is recommended to reduce MI, stroke, and vascular death risk in those with symptomatic atherosclerotic lower extremity PAD including those with intermittent claudication or CLI, prior lower extremity revascularization, or amputation. (Level of Evidence: A)",
+        "Aspirin (75 to 325 mg daily) is recommended to reduce MI, stroke, or vascular death risk in symptomatic atherosclerotic lower extremity PAD. (Level of Evidence: B)",
+        "Clopidogrel (75 mg per day) is recommended as an alternative to aspirin. (Level of Evidence: B)"
+      ],
+      "Class IIA": "Antiplatelet therapy can be useful to reduce the risk of MI, stroke, or vascular death in asymptomatic individuals with an ABI less than or equal to 0.90. (Level of Evidence: C)",
+      "Class IIB": [
+        "The usefulness of antiplatelet therapy in asymptomatic individuals with borderline ABI is not well established. (Level of Evidence: B)",
+        "The combination of aspirin and clopidogrel may be considered in symptomatic individuals not at increased risk of bleeding and who are at high perceived cardiovascular risk."
+      ],
+      "Class III": "Warfarin addition to antiplatelet therapy in individuals with atherosclerotic lower extremity PAD is of no benefit and potentially harmful. (Level of Evidence: B)"
+    },
+    "Claudication": {
+      "Exercise and Lower Extremity PAD Rehabilitation": {
+        "Class I": [
+          "Supervised exercise training is recommended for intermittent claudication. (Level of Evidence: A)",
+          "Exercise should be performed for 30 to 45 minutes at least 3 times a week for 12 weeks."
+        ],
+        "Class IIB": "The effectiveness of unsupervised exercise programs is not well established. (Level of Evidence: B)"
+      },
+      "Medical and Pharmacological Treatment": {
+        "Class I": [
+          "Cilostazol (100 mg orally 2 times per day) improves symptoms and increases walking distance in intermittent claudication. (Level of Evidence: A)",
+          "A therapeutic trial of cilostazol should be considered in all patients with lifestyle-limiting claudication."
+        ],
+        "Class IIB": [
+          "Pentoxifylline (400 mg 3 times per day) may be considered as a second-line alternative to cilostazol. (Level of Evidence: A)",
+          "The effectiveness of pentoxifylline is marginal and not well established. (Level of Evidence: C)"
+        ],
+        "Other Proposed Medical Therapies": {
+          "Class IIB": [
+            "The efficacy of L-arginine, propionyl-L-carnitine, and ginkgo biloba in claudication is not well established. (Level of Evidence: B)"
+          ],
+          "Class III": [
+            "Vasodilator prostaglandins (e.g., beraprost, iloprost) and vitamin E are not effective.",
+            "Chelation therapy is not indicated for claudication treatment."
+          ]
+        },
+        "Endovascular Treatment": {
+          "Class I": "Endovascular procedures are indicated for intermittent claudication with vocational or lifestyle-limiting disability."
+        }
+      }
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,48 @@
+{
+  "content": {
+    "Table": "Specific Drug Therapy for Maintenance of Sinus Rhythm in Patients With AF",
+    "Drugs": [
+      {
+        "Name": "Amiodarone",
+        "Loading Dose": "Total loading dose 6-10 g, given 400-800 mg daily in 2-4 divided doses for 1-4 wk",
+        "Maintenance Dose": "200 mg once daily",
+        "Primary Route(s) of Elimination": "Liver metabolism, Biliary excretion",
+        "Elimination Half-Life": "14-59 days",
+        "Mechanism of Action": "Inhibits IKr, IKs, INa, ICa-L, IKACh; Noncompetitive beta blocker",
+        "Major Adverse Effects": "AV block, Bradycardia, Corneal microdeposits, Elevation in transaminases, Hepatotoxicity, Hyperthyroidism, Hypothyroidism, Nausea, QT prolongation, Peripheral neuropathy, Photosensitivity, Pulmonary fibrosis, Skin pigmentation (blue-gray), TdP",
+        "Important Pharmacokinetic Drug Interactions": "Moderate* inhibitor of CYP2C9, weak\u2020 inhibitor of CYP2D6, some inhibition of CYP3A, Increases plasma concentrations of warfarin, lovastatin\u2021, simvastatin\u2021, cyclosporine, Inhibits p-gp, Increases plasma concentrations of digoxin"
+      },
+      {
+        "Name": "Dofetilide",
+        "Loading Dose": "N/A",
+        "Maintenance Dose": "CrCl >60 mL/min: 500 \u00b5g twice daily; CrCl 40-60 mL/min: 250 \u00b5g twice daily; CrCl 20-40 mL/min: 125 \u00b5g twice daily; CrCl <20 mL/min: Contraindicated",
+        "Primary Route(s) of Elimination": "Kidney",
+        "Elimination Half-Life": "10 hours",
+        "Mechanism of Action": "Inhibits IKr, and augments late INa",
+        "Major Adverse Effects": "QT prolongation, TdP",
+        "Important Pharmacokinetic Drug Interactions": "Dofetilide is renally excreted via the renal cation transport system, These drugs inhibit renal cation transport, increase plasma dofetilide concentrations, and are contraindicated in patients taking dofetilide: Cimetidine, Dolutegravir, Ketoconazole, Megestrol, Prochlorperazine, Trimethoprim (alone or in combination with sulfamethoxazole), Verapamil, In addition, hydrochlorothiazide (alone or in combination with triamterene) increases plasma dofetilide concentrations and should not be coadministered with dofetilide"
+      },
+      {
+        "Name": "Dronedarone",
+        "Loading Dose": "N/A",
+        "Maintenance Dose": "400 mg twice daily",
+        "Primary Route(s) of Elimination": "Liver metabolism",
+        "Elimination Half-Life": "13-19 hours",
+        "Mechanism of Action": "Inhibits IKr, IKs, INa, ICa-L, IKACh; Noncompetitive beta blocker",
+        "Major Adverse Effects": "Abdominal pain, Asthenia, Bradycardia, Diarrhea, Nausea and vomiting, QT prolongation, Rash, TdP",
+        "Important Pharmacokinetic Drug Interactions": "Dronedarone is a substrate for CYP3A and is a moderate inhibitor of CYP3A and CYP2D6, Dronedarone is also a substrate for, and inhibitor of, p-gp, Dronedarone may increase plasma concentrations of: Dabigatran, Digoxin, Simvastatin, Sirolimus, Tacrolimus, Warfarin, These drugs may increase plasma dronedarone concentrations: Grapefruit juice, These drugs may decrease plasma dronedarone concentrations: CYP3A inducers including St. John's wort, rifampin, and phenytoin"
+      },
+      {
+        "Name": "Flecainide",
+        "Loading Dose": "N/A",
+        "Maintenance Dose": "50-300 mg/d PO divided q 8-12 h",
+        "Primary Route(s) of Elimination": "Liver (70%), Kidney (30%)",
+        "Elimination Half-Life": "12-27 hours",
+        "Mechanism of Action": "Inhibits INa",
+        "Major Adverse Effects": "Atrial flutter, AV block, Dizziness, Dyspnea, Exacerbation of HFrEF, Headache, Nausea, QT prolongation, VT, Visual disturbances",
+        "Important Pharmacokinetic Drug Interactions": "Flecainide is a substrate for CYP2D6, These drugs may increase plasma flecainide concentrations: Amiodarone, Duloxetine, HFrEF, Fluoxetine, Paroxetine"
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,56 @@
+{
+  "content": {
+    "clinical_studies": [
+      {
+        "study_name": "RE-DUAL PCI trial",
+        "medications": [
+          "Rivaroxaban"
+        ],
+        "comparison_medications": [
+          "VKA",
+          "Rivaroxaban with Dabigatran"
+        ],
+        "findings": "Trial showed that dual antithrombotic therapy with Dabigatran versus Triple Therapy with Warfarin showed a relative reduction in major bleeding events."
+      },
+      {
+        "study_name": "AUGUSTUS",
+        "medications": [
+          "Apixaban"
+        ],
+        "findings": "Showed a 42% relative risk reduction for major bleeding compared with VKA-based regimens."
+      },
+      {
+        "study_name": "ENTRUST-AF PCI",
+        "medications": [
+          "Edoxaban"
+        ],
+        "findings": "Showed edoxaban-based regimens were noninferior to VKA-based regimens in terms of clinically relevant bleeding after PCI."
+      },
+      {
+        "study_name": "WOEST",
+        "findings": "The study compared outcomes in antiplatelet and anticoagulant therapy in patients with Dual Antiplatelet Therapy post PCI."
+      },
+      {
+        "study_name": "RE-DUAL trial",
+        "medications": [
+          "Dabigatran"
+        ],
+        "findings": "Showed substantially lower major bleeding incidence with dabigatran in comparison to other dual therapies."
+      }
+    ],
+    "clinical_recommendations": [
+      {
+        "context": "For patients with AF and CCD beyond 1 year after revascularization, without history of stent thrombosis, anticoagulation monotherapy is recommended over combination therapy."
+      }
+    ],
+    "meta_analysis": {
+      "focus": "Dual antithrombotic therapy",
+      "findings": "A meta-analysis of PIONEER AF-PCI, RE-DUAL, and AUGUSTUS demonstrated a 40% relative risk reduction in major bleeding. However, an increased risk of stent thrombosis was associated with DAT compared with triple therapy."
+    },
+    "bleeding_risks": {
+      "context": "DAT with DOAC and P2Y12 inhibitor showed increased risks of major bleeding.",
+      "note": "Such findings indicate the importance of extended triple therapy for different perceived risks."
+    }
+  },
+  "genes": []
+}

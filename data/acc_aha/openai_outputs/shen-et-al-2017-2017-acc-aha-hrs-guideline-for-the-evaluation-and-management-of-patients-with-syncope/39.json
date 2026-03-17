@@ -1,0 +1,69 @@
+{
+  "content": {
+    "title": "Recommendations for the Treatment of Pseudosyncope",
+    "recommendations": [
+      {
+        "COR": "IIb",
+        "LOE": "C-LD",
+        "Description": "In patients with suspected pseudosyncope, a candid discussion with the patient about the diagnosis may be reasonable. Some reports suggest that patients benefit from being informed of the suspected diagnosis in a clear but sympathetic manner that also acknowledges the involuntary nature of the attacks."
+      },
+      {
+        "COR": "IIb",
+        "LOE": "C-LD",
+        "Description": "Cognitive behavioral therapy may be beneficial in patients with pseudosyncope. Uncontrolled studies suggest that psychotherapy, particularly cognitive behavioral therapy, may be beneficial in conversion disorders."
+      }
+    ],
+    "uncommon_conditions": {
+      "title": "9. Uncommon Conditions Associated with Syncope",
+      "description": "Syncope has been reported in many uncommon diseases. Specific conditions may predispose the patient to various types of syncope. A list of less common conditions associated with syncope is provided for differential diagnosis.",
+      "conditions": [
+        {
+          "name": "Cardiac tamponade",
+          "clinical_characteristics": "Hypotension, tachycardia, cardiogenic shock.",
+          "notes": "Often tachycardia and hypotension; may be hypotensive and bradycardic acutely."
+        },
+        {
+          "name": "Constrictive pericarditis",
+          "clinical_characteristics": "Severe HF symptoms, including edema, exertional dyspnea, orthopnea.",
+          "notes": "May be associated with cough syncope."
+        },
+        {
+          "name": "LV noncompaction",
+          "clinical_characteristics": "Cardiomyopathy characterized by prominent LV trabeculae and deep intertrabecular recesses, due to embryologic perturbation.",
+          "notes": "Syncope reported in 5%-9% of both adult and pediatric patients. The mechanism may be a tachyarrhythmia."
+        },
+        {
+          "name": "Takotsubo cardiomyopathy",
+          "clinical_characteristics": "Apical ballooning and basal hypercontractility, often due to stress. Chest pain and ECG changes consistent with ischemia are commonly seen.",
+          "notes": "Syncope is uncommon and may be multifactorial."
+        },
+        {
+          "name": "Pulmonary embolus",
+          "clinical_characteristics": "Hypoxemia, tachycardia; hypotension and shock leading to pulseless electrical activity cardiac arrest in severe cases.",
+          "notes": "Syncope due to bradycardia and/or hypotension. One study showed higher prevalence of pulmonary embolus in older patients with first episode of syncope after admission to the hospital."
+        },
+        {
+          "name": "Pulmonary arterial hypertension",
+          "clinical_characteristics": "Occurs more often during exertion in younger patients.",
+          "notes": "Syncope due to inability to augment or sustain cardiac output during exertion, followed by vasodilatation."
+        },
+        {
+          "name": "Fabry disease",
+          "clinical_characteristics": "Lysosomal storage disorder with neuropathic pain, renal failure concurrent LVH, and HF.",
+          "notes": "Syncope usually due to AV block."
+        },
+        {
+          "name": "Amyloidosis",
+          "clinical_characteristics": "Systemic disease due to amyloid deposition. Light chain amyloidosis affects the kidneys, heart, and peripheral and autonomic nervous systems.",
+          "notes": "Syncope may be due to conduction system disease, arrhythmias, impaired cardiac output from restrictive cardiomyopathy, or neurological involvement."
+        },
+        {
+          "name": "Hemochromatosis",
+          "clinical_characteristics": "Systemic iron deposition causing liver disease, skin pigmentation, diabetes mellitus, arthropathy, impotence, and dilated cardiomyopathy.",
+          "notes": "Myocardial involvement more common than sick sinus syndrome and AV conduction disease."
+        }
+      ]
+    }
+  },
+  "genes": []
+}

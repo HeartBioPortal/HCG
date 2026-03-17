@@ -1,0 +1,26 @@
+{
+  "content": {
+    "Inherited Arrhythmic Conditions": {
+      "Prevalence": "Low",
+      "Clinical Significance": "Challenging to determine",
+      "Studies": "Few, mostly open label or non-randomized",
+      "Associated Risks": "Increased risk of SCD, cardiac arrest, overall cardiac death",
+      "ICD": "Effective in reducing cardiac arrest but impact on syncope unknown"
+    },
+    "Brugada Syndrome": {
+      "Definition": "Genetic disease with increased risk of SCD",
+      "Characteristic": "ST elevation in right precordial leads V1 and V2",
+      "Prevalence": "Higher in Asian countries"
+    },
+    "Recommendations for Brugada ECG Pattern and Syncope": {
+      "ICD Implantation": {
+        "Reasonable": "Patients with suspected arrhythmic etiology",
+        "Not Recommended": "Patients with reflex-mediated syncope or absence of risk factors"
+      },
+      "EPS": {
+        "May Be Considered": "To assess syncope mechanism due to arrhythmia"
+      }
+    }
+  },
+  "genes": []
+}

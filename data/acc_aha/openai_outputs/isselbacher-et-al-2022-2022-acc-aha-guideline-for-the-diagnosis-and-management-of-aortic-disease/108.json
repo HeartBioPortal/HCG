@@ -1,0 +1,15 @@
+{
+  "content": {
+    "For women with aortopathic conditions, multidisciplinary evaluation before and throughout pregnancy can manage blood pressure, aortic diameter, and monitor pregnancy for complications. Delivery in a cardiothoracic surgery setting is recommended for urgent management of aortic dissection. Educating women about signs of acute aortic dissection may improve outcomes. Hypertension is a risk factor for aortic dissection in pregnancy; beta blockers are used throughout pregnancy and postpartum acknowledging that fetal growth may be impacted. Labetalol is recommended for pregnant women with hypertension. The imaging frequency during pregnancy is variable but frequently needed based on individual factors. MRI without gadolinium contrast is preferred over CT for imaging to avoid fetal exposure to radiation.": "Beta-blocker therapy has shown benefits in Marfan syndrome to lessen aortic stress. ARBs and ACEIs are contraindicated during pregnancy due to teratogenicity risks. Calcium channel blockers are generally avoided in Marfan syndrome."
+  },
+  "genes": [
+    {
+      "Gene": "FBN1",
+      "Associated Conditions": [
+        "Marfan syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Beta-blocker therapy has been shown to lessen aortic growth rates in Marfan syndrome."
+    }
+  ]
+}

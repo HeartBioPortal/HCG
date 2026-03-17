@@ -1,0 +1,13 @@
+{
+  "content": {
+    "ECG Evaluation": {
+      "Initial Assessment": "In patients with syncope, a resting 12-lead electrocardiogram (ECG) is advised to identify potential causes such as arrhythmias. It offers a way to detect underlying arrhythmogenic substrates.",
+      "Interpretation": "While ECG is helpful in identifying possible causes of syncope, its prognostic value remains debated. An abnormal ECG with specific conditions can indicate an increased risk of death within one year."
+    },
+    "Risk Assessment": {
+      "Purpose": "Evaluate short- and long-term morbidity and mortality risks associated with syncope, considering the cause and underlying conditions.",
+      "Application": "Risk stratification should be used carefully, taking into account patient-specific factors and comorbidities. Clinical judgment is necessary for effective evaluation."
+    }
+  },
+  "genes": []
+}

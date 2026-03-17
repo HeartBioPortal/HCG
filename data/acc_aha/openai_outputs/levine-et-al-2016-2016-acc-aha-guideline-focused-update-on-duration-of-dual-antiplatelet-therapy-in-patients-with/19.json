@@ -1,0 +1,61 @@
+{
+  "content": {
+    "sections": [
+      {
+        "section": "7.3. Duration of DAPT in Patients With ACS Treated With PCI: Recommendations",
+        "recommendations": [
+          {
+            "COR": "I",
+            "LOE": "B-R",
+            "recommendation": "In patients with ACS treated with DAPT after BMS or DES implantation, P2Y12 inhibitor therapy (clopidogrel, prasugrel, or ticagrelor) should be given for at least 12 months."
+          },
+          {
+            "COR": "I",
+            "LOE": "B-NR",
+            "recommendation": "In patients treated with DAPT, a daily aspirin dose of 81 mg (range, 75 mg to 100 mg) is recommended."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-R",
+            "recommendation": "In patients with ACS treated with DAPT after coronary stent implantation, it is reasonable to use ticagrelor in preference to clopidogrel for maintenance P2Y12 inhibitor therapy."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-R",
+            "recommendation": "In patients with ACS treated with DAPT after coronary stent implantation, who are not at high risk for bleeding complications and who do not have a history of stroke or TIA, it is reasonable to choose prasugrel over clopidogrel for maintenance P2Y12 inhibitor therapy."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "A",
+            "recommendation": "In patients with ACS treated with coronary stent implantation who have tolerated DAPT without bleeding complications and who are not at high bleeding risk, continuation of DAPT for longer than 12 months may be reasonable."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "C-LD",
+            "recommendation": "In patients with ACS treated with DAPT after DES implantation who develop a high risk of bleeding or significant overt bleeding, discontinuation of P2Y12 therapy after 6 months may be reasonable."
+          },
+          {
+            "COR": "III: Harm",
+            "LOE": "B-R",
+            "recommendation": "Prasugrel should not be administered to patients with a prior history of stroke or TIA."
+          }
+        ]
+      },
+      {
+        "section": "7.4. Duration of DAPT in Patients With ACS Treated With CABG: Recommendation",
+        "recommendations": [
+          {
+            "COR": "I",
+            "LOE": "C-LD",
+            "recommendation": "In patients with ACS being treated with DAPT who undergo CABG, P2Y12 inhibitor therapy should be resumed after CABG to complete 12 months of DAPT therapy after ACS."
+          }
+        ]
+      },
+      {
+        "section": "7.5. Duration of DAPT in Patients With ACS",
+        "content": "Aspirin remains the cornerstone of antiplatelet therapy in patients with ACS. Further platelet inhibition can be achieved by blocking the P2Y12 receptor."
+      }
+    ]
+  },
+  "genes": []
+}

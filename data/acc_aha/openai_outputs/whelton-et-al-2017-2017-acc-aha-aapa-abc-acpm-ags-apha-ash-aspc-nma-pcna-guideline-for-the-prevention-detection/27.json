@@ -1,0 +1,25 @@
+{
+  "content": {
+    "Clinical Topic": "Hypertension and Renal Artery Stenosis",
+    "Recommendations": [
+      {
+        "Class": "I",
+        "Level of Evidence": "A",
+        "Recommendation": "Medical therapy is recommended for adults with atherosclerotic renal artery stenosis."
+      },
+      {
+        "Class": "IIb",
+        "Level of Evidence": "C-EO",
+        "Recommendation": "In adults with renal artery stenosis for whom medical management has failed (refractory hypertension, worsening renal function, and/or intractable HF) and those with nonatherosclerotic disease, including fibromuscular dysplasia, it may be reasonable to refer the patient for consideration of revascularization."
+      }
+    ],
+    "Key Points": [
+      "Primary aldosteronism is suggested by hypertension with increased plasma or renin activity.",
+      "Aldosterone-renin activity ratio is used for screening primary aldosteronism.",
+      "Confirmatory testing is often required for primary aldosteronism diagnosis.",
+      "Adrenal venous sampling is important for treatment planning in confirmed cases.",
+      "Treatments include mineralocorticoid receptor antagonists or adrenalectomy."
+    ]
+  },
+  "genes": []
+}

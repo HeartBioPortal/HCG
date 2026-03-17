@@ -1,0 +1,70 @@
+{
+  "content": {
+    "Guideline Title": "2014 AHA/ACC NSTE-ACS Guideline",
+    "Therapeutic Recommendations": {
+      "Antiplatelet and Anticoagulant Therapy": [
+        {
+          "Context": "Patients receiving a stent during PCI for NSTE-ACS should receive P2Y12 inhibitor therapy for at least 12 months.",
+          "Options": [
+            {
+              "Drug": "Clopidogrel",
+              "Dosage": "75 mg daily",
+              "Level of Evidence": "B"
+            },
+            {
+              "Drug": "Prasugrel",
+              "Dosage": "10 mg daily",
+              "Level of Evidence": "B"
+            },
+            {
+              "Drug": "Ticagrelor",
+              "Dosage": "90 mg twice daily",
+              "Level of Evidence": "B"
+            }
+          ]
+        },
+        {
+          "Recommendation": "It is reasonable to choose ticagrelor over clopidogrel for P2Y12 inhibition with early invasive strategy and/or coronary stenting.",
+          "Level of Evidence": "B"
+        },
+        {
+          "Recommendation": "It is reasonable to choose prasugrel over clopidogrel for P2Y12 treatment in patients who are not at high bleeding risk.",
+          "Level of Evidence": "B"
+        },
+        {
+          "Recommendation": "In patients with NSTE-ACS and high-risk features, it is reasonable to administer GP IIb/IIIa inhibitor at time of PCI.",
+          "Inhibitors": [
+            "abciximab",
+            "eptifibatide",
+            "tirofiban"
+          ],
+          "Level of Evidence": "B"
+        },
+        {
+          "Recommendation": "Aspirin should be continued at 81 mg per day after PCI.",
+          "Level of Evidence": "B"
+        },
+        {
+          "Recommendation": "Discontinuation of P2Y12 inhibitor therapy in less than 12 months may be reasonable if bleeding risks are significant.",
+          "Level of Evidence": "C"
+        }
+      ],
+      "Additional Recommendations": [
+        {
+          "Context": "Prasugrel should not be administered to patients with a history of stroke or transient ischemic attack.",
+          "Level of Evidence": "B"
+        },
+        {
+          "Continuation of DAPT": "Beyond 12 months can be considered in patient undergoing stent implantation.",
+          "Class": "IIb",
+          "Level of Evidence": "C"
+        }
+      ]
+    },
+    "Clinical Considerations": [
+      "DAPT consisting of aspirin and a P2Y12 inhibitor reduces risks of stent thrombosis.",
+      "Higher dose clopidogrel usage showed increased bleeding risks but efficacy returned post conversion."
+    ]
+  },
+  "genes": []
+}

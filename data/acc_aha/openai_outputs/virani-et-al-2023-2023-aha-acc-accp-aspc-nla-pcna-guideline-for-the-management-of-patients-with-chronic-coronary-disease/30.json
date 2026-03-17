@@ -1,0 +1,22 @@
+{
+  "content": {
+    "summary": "The guideline discusses the efficacy of smoking cessation methods in patients with CVD, favoring varenicline over bupropion or NRT. It also highlights the lack of data for the efficacy of e-cigarettes and smokeless tobacco for smoking cessation and suggests more research is needed. Nicotine e-cigarettes appear more effective than NRT for cessation but have associated risks like long-term dependence and adverse effects on cardiovascular health. The document advises against recommending e-cigarettes as first-line therapy. Secondhand smoke is also harmful, emphasizing policies to reduce exposure. Additionally, recommendations for alcohol consumption in CCD patients suggest limited intake and not using alcohol for cardiovascular protection. Various substances have adverse interactions with cardiovascular therapies.",
+    "recommendations": {
+      "substance_use": {
+        "routine_counseling": {
+          "level_of_evidence": "C-LD",
+          "recommendation": "Patients with CCD should be routinely asked and counseled about substance use to reduce ASCVD events."
+        },
+        "alcohol_consumption": {
+          "level_of_evidence": "B-NR",
+          "recommendation": "In patients with CCD who consume alcohol, it is reasonable to limit alcohol intake to reduce cardiovascular and all-cause death."
+        },
+        "alcohol_for_cardio_protection": {
+          "level_of_evidence": "B-NR",
+          "recommendation": "Patients with CCD should not be advised to consume alcohol for the purpose of cardiovascular protection."
+        }
+      }
+    }
+  },
+  "genes": []
+}

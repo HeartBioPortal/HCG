@@ -1,0 +1,35 @@
+{
+  "content": {
+    "Title": "2018 Bradycardia Guideline",
+    "Publication Info": {
+      "Authors": "Kusumoto et al.",
+      "Journal": "JACC Vol. 74, No. 7",
+      "Date": "August 20, 2019",
+      "Pages": "e142-S156"
+    },
+    "Subjects Covered": [
+      {
+        "Topic Code": "S4.2.4.8",
+        "Summary": "Procaineamide administration during electrophysiology study as a provocative test for intermittent atrioventricular block."
+      },
+      {
+        "Topic Code": "S4.4.4-5",
+        "Summary": "Significance of pacemakers in patients with syncope."
+      },
+      {
+        "Topic Code": "S4.4.4-8",
+        "Summary": "Impact of permanent pacemaker placement in chronic atrial fibrillation."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "Brugada syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "S4.3.5: Toded S, Suzuki K, Tsuchida K, et al. Exercise induced atrioventricular block with gap phenomenon in a patient with Brugada syndrome."
+    }
+  ]
+}

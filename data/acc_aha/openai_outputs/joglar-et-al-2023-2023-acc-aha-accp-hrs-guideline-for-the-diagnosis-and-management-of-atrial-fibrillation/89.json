@@ -1,0 +1,67 @@
+{
+  "content": {
+    "table": "TABLE 23",
+    "title": "2023 Guideline for the Diagnosis and Management of Atrial Fibrillation",
+    "drugs": [
+      {
+        "name": "Propafenone",
+        "loading_dose": "N/A",
+        "maintenance_dose": "150-300 mg PO q 8 h, ER 225-425 PO q 12 h",
+        "primary_route_of_elimination": "Liver",
+        "elimination_half_life": "9 h",
+        "mechanism_of_action": "Inhibits INa",
+        "major_adverse_effects": [
+          "Atrial flutter",
+          "Bradycardia",
+          "AV block",
+          "Dizziness",
+          "Dyspnea",
+          "Exacerbation of HFrEF",
+          "Nausea",
+          "Taste disturbances",
+          "VT",
+          "Visual disturbances"
+        ],
+        "important_pharmacokinetic_drug_interactions": "Propafenone is a substrate for CYP2D6; These drugs may increase plasma propafenone concentrations: Fluoxetine, Paroxetine; Propafenone may increase plasma digoxin concentrations; Propafenone may increase plasma warfarin concentrations"
+      },
+      {
+        "name": "Sotalol",
+        "loading_dose": "CrCl >60 mL/min: 40-80 mg twice daily for 3-4 days; CrCl 40-60 mL/min: 80 mg once daily for 3 days; CrCl <40 mL/min: Contraindicated",
+        "maintenance_dose": "CrCl >60 mL/min: 80-160 mg twice daily; CrCl 40-60 mL/min: 80-160 mg once daily; CrCl <40 mL/min: Contraindicated",
+        "primary_route_of_elimination": "Kidney",
+        "elimination_half_life": "12 h",
+        "mechanism_of_action": "Inhibits IKs; Beta blocker\u2014Sotalol augments late INa",
+        "major_adverse_effects": [
+          "AV block",
+          "Bradycardia",
+          "Bronchospasm",
+          "Diarrhea",
+          "Exacerbation of HFrEF",
+          "Fatigue",
+          "Nausea and vomiting",
+          "QT prolongation",
+          "TdP"
+        ],
+        "important_pharmacokinetic_drug_interactions": "None"
+      }
+    ],
+    "clinical_recommendations": [
+      {
+        "COR": "1",
+        "LOE": "A",
+        "recommendation": "Patients with AF who are initiating, increasing the dose of, or reinitiating dofetilide therapy should be admitted for a minimum of 3 days to a facility that can provide continuous electrocardiographic monitoring, calculations of CrCl, and cardiac resuscitation, given the potential for proarrhythmia."
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-R",
+        "recommendation": "In patients with AF, it is reasonable to initiate sotalol therapy in a facility that can provide continuous electrocardiographic monitoring, calculations of CrCl, and cardiac resuscitation, given the potential for proarrhythmia and bradycardia."
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "recommendation": "In patients with AF who are initiating PITP dosing of flecainide and propafenone with concomitant atrioventricular nodal blocking drugs, it is reasonable to receive the first dose in a facility that can provide continuous electrocardiographic monitoring, given the potential for proarrhythmia."
+      }
+    ]
+  },
+  "genes": []
+}

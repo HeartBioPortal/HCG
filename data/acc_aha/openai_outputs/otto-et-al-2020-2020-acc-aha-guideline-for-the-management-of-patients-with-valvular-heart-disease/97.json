@@ -1,0 +1,47 @@
+{
+  "content": {
+    "guidelines": [
+      {
+        "recommendation": "Patients with IE should be evaluated and managed with consultation from a multispecialty Heart Valve Team.",
+        "details": "This team includes an infectious disease specialist, cardiologist, cardiac surgeon, anesthesiologist for surgically managed patients, and a neurologist for patients with neurological events."
+      },
+      {
+        "recommendation": "TTE is recommended in patients with suspected IE.",
+        "details": "Used to identify vegetations, assess ventricular function and pulmonary pressures, and detect complications."
+      },
+      {
+        "recommendation": "TEE is recommended in patients with known or suspected IE and nondiagnostic TTE results.",
+        "details": "Applicable when complications have developed or are clinically suspected or when intracardiac device leads are present."
+      },
+      {
+        "recommendation": "TEE and/or TTE are recommended for reevaluation in patients with IE who show a change in clinical signs or symptoms.",
+        "details": "This includes symptoms like new murmur, embolism, persistent fever, HF, abscess, or atrioventricular heart block."
+      },
+      {
+        "recommendation": "Intraoperative TEE is recommended for patients undergoing valve surgery for IE."
+      },
+      {
+        "recommendation": "A baseline TEE is recommended for patients being considered for early change to oral antibiotic therapy for stable IE.",
+        "details": "To be performed before switching to oral therapy and a repeat TEE 1 to 3 days before completion of the oral antibiotic regimen."
+      },
+      {
+        "recommendation": "TEE is recommended in patients with Staphylococcus aureus bacteremia without a known source.",
+        "details": "To diagnose possible IE."
+      },
+      {
+        "recommendation": "TEE is reasonable in patients with a prosthetic valve in the presence of persistent fever without bacteremia or a new murmur."
+      },
+      {
+        "recommendation": "CT imaging is reasonable for patients in whom the anatomy cannot be clearly delineated by echocardiography in the setting of suspected paravalvular infections."
+      },
+      {
+        "recommendation": "18F-fluorodeoxyglucose PET/CT is reasonable as adjunct diagnostic imaging in patients classified by Modified Duke Criteria as having 'possible IE'."
+      },
+      {
+        "recommendation": "TEE might be considered to detect concomitant staphylococcal IE in patients with nosocomial S. aureus bacteremia with a known portal of entry from an extracardiac source."
+      }
+    ],
+    "synopsis": "The Modified Duke Criteria are the standard for diagnosing endocarditis, which involve clinical, imaging, and bacteriological criteria. Blood cultures should be obtained in patients with VHD and known or suspected IE before starting antibiotics."
+  },
+  "genes": []
+}

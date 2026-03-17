@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Title": "2023 Guideline for the Diagnosis and Management of Atrial Fibrillation",
+    "Summary": "This guideline discusses the management and prevention of atrial fibrillation (AF), focusing on lifestyle and risk factor modification. It highlights the importance of comprehensive guideline-directed lifestyle changes for patients at increased risk of AF, targeting obesity, physical inactivity, unhealthy alcohol consumption, smoking, diabetes, and hypertension.",
+    "Recommendations": [
+      {
+        "COR": "1",
+        "LOE": "B-NR",
+        "Recommendation": "Patients at increased risk of AF should receive comprehensive guideline-directed LRFM for AF."
+      }
+    ],
+    "Key Points": [
+      "Randomized trials show that implantable cardiac monitors are most sensitive in detecting AF.",
+      "Manual review of all electrocardiographic strips may not be feasible, but automated algorithms generally suffice.",
+      "Cardiac monitoring is advised for detecting recurrences and screening among AF patients.",
+      "Lifestyle adjustments can reduce AF risk, including maintaining ideal weight, physical activity, and avoiding smoking or excessive alcohol."
+    ],
+    "Risk Factors": [
+      "Obesity and physical inactivity increase the risk of newly diagnosed AF.",
+      "High-volume endurance training should be approached with caution.",
+      "Alcohol consumption enhances the risk of AF in a linear fashion.",
+      "Smoking is associated with increased AF risk.",
+      "Diabetes increases AF risk.",
+      "Hypertension is a significant risk factor for AF."
+    ]
+  },
+  "genes": []
+}

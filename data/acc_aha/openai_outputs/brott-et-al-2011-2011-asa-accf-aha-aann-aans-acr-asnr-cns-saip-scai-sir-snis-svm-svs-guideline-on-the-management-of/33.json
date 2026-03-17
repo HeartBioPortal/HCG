@@ -1,0 +1,35 @@
+{
+  "content": {
+    "Risks Associated With Carotid Endarterectomy (CEA)": {
+      "Types of Complications": [
+        "Neurological: Hypertension or hypotension, hemorrhage, stroke, MI, thrombosis, nerve palsy",
+        "Nonneurological: Infection, arterial restenosis, and death"
+      ],
+      "Statistical Risks": {
+        "Symptomatic Patients": {
+          "Higher Risk Than Asymptomatic Patients": {
+            "Purpose": "Neurological and nonneurological complications",
+            "Statistics": [
+              "OR 1.62 for risk of death",
+              "3.2% risk of stroke or death in CREST study symtomatic patients"
+            ]
+          },
+          "Neuropathies": [
+            "7% may experience cranial nerve injury",
+            "Less than 1% have permanent injury"
+          ]
+        },
+        "Other Observations": [
+          "Cranial nerve injury rate of 5.1% in ECST",
+          "Hypertension in 5% of patients",
+          "Incidence of perioperative MI was 0.3% in NASCET"
+        ]
+      },
+      "Miscellaneous Observations": [
+        "Reports of prior neurological evaluations show reduced stroke/death rates",
+        "Recent studies show lower perioperative stroke risk but surgical risks remain high at 7.11% for stroke or death"
+      ]
+    }
+  },
+  "genes": []
+}

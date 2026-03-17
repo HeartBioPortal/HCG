@@ -1,0 +1,43 @@
+{
+  "content": {
+    "Synopsis": "The management of patients with prosthetic heart valves or repaired native valves when interruption of anticoagulant therapy is needed should consider the type and location of the valve, thromboembolic risk factors, and bleeding risk. Bridging therapy with heparin or LMWH is used to reduce thromboembolic events during temporary interruption of oral anticoagulation. Antithrombotic therapy shouldn't be stopped for low-risk procedures.",
+    "Recommendations": [
+      {
+        "COR": 1,
+        "LOE": "C-EO",
+        "Description": "Continuation of VKA anticoagulation with therapeutic INR is recommended for patients with mechanical heart valves undergoing minor procedures with easily controlled bleeding."
+      },
+      {
+        "COR": 1,
+        "LOE": "C-LD",
+        "Description": "Temporary interruption of VKA anticoagulation without bridging agents is recommended for patients with a bileaflet mechanical AVR and no risk factors undergoing invasive procedures."
+      },
+      {
+        "COR": 2,
+        "LOE": "C-LD",
+        "Description": "Administration of 4-factor prothrombin complex concentrate is reasonable for patients with a mechanical valve prosthesis undergoing emergency or invasive procedures."
+      },
+      {
+        "COR": 2,
+        "LOE": "C-LD",
+        "Description": "Bridging anticoagulation therapy is reasonable for patients with bioprosthetic heart valves or annuloplasty rings receiving anticoagulation for AF, based on CHA2DS2-VASc score."
+      },
+      {
+        "COR": 2,
+        "LOE": "C-LD",
+        "Description": "Bridging anticoagulation therapy on an individualized basis is reasonable for patients undergoing invasive procedures with risk factors."
+      }
+    ],
+    "Study References": [
+      {
+        "Study": "GALILEO",
+        "Description": "Assessed a rivaroxaban-based strategy vs. antiplatelet strategy after aortic valve replacement. Rivaroxaban was associated with higher risk of death or thromboembolic events."
+      },
+      {
+        "Study": "RE-ALIGN",
+        "Description": "Compared dabigatran with warfarin. Stopped due to excessive thrombotic/bleeding complications."
+      }
+    ]
+  },
+  "genes": []
+}

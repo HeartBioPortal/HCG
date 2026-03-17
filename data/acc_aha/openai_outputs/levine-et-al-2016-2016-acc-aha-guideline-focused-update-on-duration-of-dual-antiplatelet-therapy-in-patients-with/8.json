@@ -1,0 +1,20 @@
+{
+  "content": {
+    "Overview": "The guidelines discuss the concepts and recommendations for Dual Antiplatelet Therapy (DAPT) and its duration. Emphasis is placed on the balance between reducing ischemic risk and increasing bleeding risk with the use of P2Y12 inhibitors in addition to aspirin. Recommendations for DAPT duration are presented, with a focus on individualized assessment based on clinical judgment, patient preferences, and risk factors.",
+    "Duration Recommendations": "A Class I recommendation is made for a minimum of 6 to 12 months of DAPT for most patients. Extension beyond this period may be suggested for certain patients, depending on individual risk factors and preferences.",
+    "Considerations": "Shorter-duration DAPT is suitable for patients at lower ischemic risk with higher bleeding risk, whereas longer-duration DAPT is preferrable for patients at higher ischemic risk with lower bleeding risk. Use of ticagrelor or prasugrel is suggested over clopidogrel for decreased ischemic risk and improved outcomes.",
+    "Bleeding Risk": "Factors associated with increased ischemic and bleeding risk include prior PCI, congestive heart failure, ejection fraction, diabetes mellitus, and stent characteristics.",
+    "Tools": "The DAPT score helps evaluate the benefit/risk ratio of prolonged DAPT. Higher scores (\u22652) may favor prolonged DAPT due to the net reduction of ischemic events."
+  },
+  "genes": [
+    {
+      "Gene": "P2Y12",
+      "Associated Conditions": [
+        "Ischemic Risk",
+        "Bleeding Risk"
+      ],
+      "Occurrences": 4,
+      "context": "Intensification of antiplatelet therapy, with the addition of a P2Y12 inhibitor to aspirin monotherapy, lowers ischemic risk but increases bleeding risk. Recommendations suggest that decisions about treatment duration of DAPT require consideration of P2Y12 inhibitor therapy."
+    }
+  ]
+}

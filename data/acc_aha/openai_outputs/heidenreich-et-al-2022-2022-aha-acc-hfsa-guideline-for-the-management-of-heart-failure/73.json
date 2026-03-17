@@ -1,0 +1,82 @@
+{
+  "content": {
+    "Table 16: ESC Definition of Advanced HF": {
+      "intro": "All these criteria must be present despite optimal guideline-directed treatment.",
+      "criteria": {
+        "1": "Severe and persistent symptoms of HF (NYHA class III [advanced] or IV).",
+        "2": {
+          "description": "Severe cardiac dysfunction defined by \u22651 of these:",
+          "items": [
+            "LVEF \u226430%",
+            "Isolated RV failure",
+            "Nonoperable severe valve abnormalities",
+            "Nonoperable severe congenital heart disease",
+            "EF \u226540%, elevated natriuretic peptide levels and evidence of significant diastolic dysfunction"
+          ]
+        },
+        "3": {
+          "description": "Hospitalizations or unplanned visits in the past 12 mo for episodes of:",
+          "items": [
+            "Congestion requiring high-dose intravenous diuretics or diuretic combinations",
+            "Low output requiring inotropes or vasoactive medications",
+            "Malignant arrhythmias"
+          ]
+        },
+        "4": "Severe impairment of exercise capacity with inability to exercise or low 6-minute walk test distance (<300 m) or peak VO2 (<12\u201314 mL/kg/min) estimated to be of cardiac origin."
+      },
+      "notes": "Criteria 1 and 4 can be met in patients with cardiac dysfunction (as described in criterion 2) but who also have substantial limitations as a result of other conditions (eg, severe pulmonary disease, noncardiac cirrhosis, renal disease). The therapeutic options for these patients may be more limited.",
+      "abbreviations": {
+        "EF": "ejection fraction",
+        "ESC": "European Society of Cardiology",
+        "HF": "heart failure",
+        "LVEF": "left ventricular ejection fraction",
+        "NYHA": "New York Heart Association",
+        "RV": "right ventricular",
+        "VO2": "oxygen consumption/oxygen uptake"
+      },
+      "source_note": "Adapted with permission from Crespo-Leiro et al."
+    },
+    "Table 17: INTERMACS Profiles": {
+      "overview": "Profiles describe severity/stability of patients with advanced heart failure and features of each profile.",
+      "profiles": [
+        {
+          "Profile": 1,
+          "Profile Description": "Critical cardiogenic shock",
+          "Features": "Life-threatening hypotension and rapidly escalating inotropic/pressor support, with critical organ hypoperfusion often confirmed by worsening acidosis and lactate levels."
+        },
+        {
+          "Profile": 2,
+          "Profile Description": "Progressive decline",
+          "Features": "\"Dependent\" on inotropic support but shows signs of continuing deterioration in nutrition, renal function, fluid retention, or other major status indicators. Can apply to a patient with refractory volume overload, evidence of impaired perfusion, in whom inotropic infusions cannot be maintained because of tachyarrhythmias, clinical ischemia, or other intolerance."
+        },
+        {
+          "Profile": 3,
+          "Profile Description": "Stable but inotrope dependent",
+          "Features": "Clinically stable on mild-moderate doses of intravenous inotropes (or has a temporary circulatory support device) after repeated documentation of failure to wean without symptomatic hypotension, worsening symptoms, or progressive organ dysfunction (usually renal)."
+        },
+        {
+          "Profile": 4,
+          "Profile Description": "Resting symptoms on oral therapy at home",
+          "Features": "Patient at home on oral therapy but frequently has symptoms of congestion at rest or with activities of daily living (dressing or bathing). May have orthopnea, shortness of breath during dressing/bathing, gastrointestinal symptoms, disabling ascites, or severe lower extremity edema."
+        },
+        {
+          "Profile": 5,
+          "Profile Description": "Exertion intolerant",
+          "Features": "Patient comfortable at rest but unable to engage in any activity, living predominantly within the house or housebound."
+        },
+        {
+          "Profile": 6,
+          "Profile Description": "Exertion limited",
+          "Features": "Patient comfortable at rest without evidence of fluid overload but able to do some mild activity. Activities of daily living are comfortable; minor activities outside the home such as visiting friends or going to a restaurant can be performed, but fatigue results within a few minutes or with any meaningful physical exertion."
+        },
+        {
+          "Profile": 7,
+          "Profile Description": "Advanced NYHA class III",
+          "Features": "Clinically stable with a reasonable level of comfortable activity despite history of previous decompensation not recent. Usually able to walk more than a block. Any recent decompensation requiring IV diuretics or hospitalization in previous month should categorize the patient as Profile 6 or lower."
+        }
+      ],
+      "notes": "Adapted from Stevenson et al.; profiles 3 to 6 may be modified for patients with recurrent decompensations leading to frequent hospital/ED visits or for other modifiers such as arrhythmia. ICD indicates implantable cardioverter-defibrillator; INTERMACS, Interagency Registry for Mechanically Assisted Circulatory Support; NYHA, New York Heart Association."
+    }
+  },
+  "genes": []
+}

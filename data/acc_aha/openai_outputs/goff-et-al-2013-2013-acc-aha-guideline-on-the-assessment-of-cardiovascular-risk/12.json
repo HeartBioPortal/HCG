@@ -1,0 +1,30 @@
+{
+  "content": {
+    "Recommendations": [
+      {
+        "Section": "6.2.2. Recommendations for CQ2: Long-Term Risk Assessment",
+        "Recommendation 1": "It is reasonable to assess traditional ASCVD risk factors every 4 to 6 years in adults 20 to 79 years of age who are free from ASCVD and to estimate 10-year ASCVD risk every 4 to 6 years in adults 40 to 79 years of age who are free from ASCVD.",
+        "NHLBI Grade": "B (Moderate)",
+        "ACC/AHA COR": "IIa",
+        "LOE": "B"
+      },
+      {
+        "Recommendation 2": "Assessment of 30-year or lifetime ASCVD risk on the basis of traditional risk factors may be considered in adults 20 to 59 years of age who are free from ASCVD and are not at high short-term risk.",
+        "NHLBI Grade": "C (Weak)",
+        "ACC/AHA COR": "IIb",
+        "LOE": "C"
+      }
+    ],
+    "Implementation Considerations": {
+      "Age Range": "20 to 79 years",
+      "Repetition of Assessment": "every 4 to 6 years in persons free from clinical ASCVD",
+      "Special Populations": "Outside age range, refer to pediatric and adult primary prevention guidelines",
+      "Risk Assessment Tools": [
+        "Web-based application enabling estimation of 10-year and lifetime risk of ASCVD",
+        "Pooled Cohort Equations"
+      ]
+    },
+    "Overall Summary": "The guideline emphasizes the importance of both short-term and long-term assessment of ASCVD risk using traditional risk factors, with a recommendation for periodic reassessment to motivate therapeutic lifestyle change."
+  },
+  "genes": []
+}

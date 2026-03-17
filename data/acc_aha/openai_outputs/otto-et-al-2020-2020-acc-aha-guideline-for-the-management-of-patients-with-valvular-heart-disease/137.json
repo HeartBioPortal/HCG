@@ -1,0 +1,32 @@
+{
+  "content": {
+    "section": "2020 ACC/AHA Guideline for the Management of Valvular Heart Disease",
+    "41.1": {
+      "Diagnosis": {
+        "source": "Hamirani YS, Dietl CA, Voyles W, et al.",
+        "reference": "Circulation, 2012;126:112-6."
+      },
+      "Intervention": {
+        "source": "Hamirani YS, Dietl CA, Voyles W, et al.",
+        "reference": "Circulation, 2012;126:112-6."
+      }
+    },
+    "41.2": {
+      "Studies": [
+        {
+          "author": "Stout KK, Verrier ED",
+          "publication": "Circulation, 2009;119:232-41."
+        },
+        {
+          "author": "Lalani T, Cabell CH, Benjamin DK, et al.",
+          "publication": "Circulation, 2010;121:105-13."
+        },
+        {
+          "author": "Patel PA, Bavaria JE, Ghadimi K, et al.",
+          "publication": "J Cardiothorac Vasc Anesth, 2018;32:586-97."
+        }
+      ]
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,100 @@
+{
+  "content": {
+    "tables": [
+      {
+        "table": "Table 3",
+        "content": "Summary of Systematic Reviews by Intervention, Effectiveness Rating, and Quality",
+        "interventions": [
+          {
+            "name": "Educational Outreach Visits",
+            "process_of_care_effectiveness": "Good to Fair",
+            "clinical_effectiveness": "Good to Fair"
+          },
+          {
+            "name": "Audit and Feedback",
+            "process_of_care_effectiveness": "Good to Fair",
+            "clinical_effectiveness": "Good to Fair"
+          },
+          {
+            "name": "Reminders",
+            "process_of_care_effectiveness": "Good to Fair",
+            "clinical_effectiveness": "Good to Fair"
+          },
+          {
+            "name": "Provider Incentives",
+            "process_of_care_effectiveness": "Good",
+            "clinical_effectiveness": "Good"
+          }
+        ]
+      },
+      {
+        "table": "Table 4",
+        "content": "Contextual Factors That Appear to Hinder the Success of the Intervention Strategies",
+        "key_barriers": [
+          {
+            "context": "Organizational",
+            "factors": [
+              "Time",
+              "Human resources"
+            ]
+          },
+          {
+            "context": "Clinician Knowledge, Attitudes, and Beliefs",
+            "factors": [
+              "Skepticism",
+              "Lack of knowledge of guidelines",
+              "Age of clinicians"
+            ]
+          },
+          {
+            "context": "Workflow and Timing",
+            "factors": [
+              "Timing and effectiveness\u2014barrier to effectiveness if further away from point of decision making"
+            ]
+          }
+        ]
+      },
+      {
+        "table": "Table 5",
+        "content": "Contextual Factors That Appear to Facilitate the Success of the Intervention Strategies",
+        "key_facilitators": [
+          {
+            "context": "Characteristics of Guidelines",
+            "factors": [
+              "Short and simple format",
+              "Provide patient pamphlets",
+              "Minimal resources needed to implement"
+            ]
+          },
+          {
+            "context": "Involving Stakeholders",
+            "factors": [
+              "Involvement in planning, developing, or leading interventions"
+            ]
+          },
+          {
+            "context": "Leadership",
+            "factors": [
+              "Leader\u2019s social influence",
+              "Formal leadership"
+            ]
+          },
+          {
+            "context": "Scope of Implementation",
+            "factors": [
+              "Provider incentives more widely implemented in the UK",
+              "Multifaceted interventions more effective"
+            ]
+          },
+          {
+            "context": "Organizational Culture",
+            "factors": [
+              "Multidisciplinary teams, coordination of care, pace of change, blame-free culture"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

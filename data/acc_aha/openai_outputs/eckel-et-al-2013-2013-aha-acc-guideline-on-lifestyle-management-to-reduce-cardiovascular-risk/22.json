@@ -1,0 +1,50 @@
+{
+  "content": {
+    "title": "2013 AHA/ACC Lifestyle Management Guideline",
+    "authors": [
+      "Robert H. Eckel",
+      "John M. Jakicic",
+      "Jamy D. Ard",
+      "Janet M. de Jesus",
+      "Nancy Houston Miller"
+    ],
+    "key topics": [
+      "Lifestyle management to reduce cardiovascular risk",
+      "Physical activity benefits",
+      "Diet and exercise in diabetes prevention",
+      "Blood pressure management"
+    ],
+    "references": [
+      {
+        "title": "Effect of aerobic exercise training on serum levels of high-density lipoprotein cholesterol",
+        "authors": "Kodama S, Tanaka S, Saito K, et al.",
+        "journal": "Arch Intern Med",
+        "year": 2007
+      },
+      {
+        "title": "Resistance training improves metabolic health in type 2 diabetes",
+        "authors": "Gordon BA, Benson AC, Bird SR, et al.",
+        "journal": "Diabetes Res Clin Pract",
+        "year": 2009
+      },
+      {
+        "title": "Exercise or exercise and diet for preventing type 2 diabetes mellitus",
+        "authors": "Orozco LJ, Buchleitner AM, Gimenez-Perez G, et al.",
+        "source": "Cochrane Database Syst Rev",
+        "year": 2008
+      },
+      {
+        "title": "Behavioral counseling to promote physical activity",
+        "authors": "Lin JS, O'Connor E, Whitlock EP, et al.",
+        "journal": "Ann Intern Med",
+        "year": 2010
+      }
+    ],
+    "applicable conditions": [
+      "Type 2 diabetes",
+      "Cardiovascular disease"
+    ],
+    "conflicts of interest": "Mentioned relationships with industry and other entities"
+  },
+  "genes": []
+}

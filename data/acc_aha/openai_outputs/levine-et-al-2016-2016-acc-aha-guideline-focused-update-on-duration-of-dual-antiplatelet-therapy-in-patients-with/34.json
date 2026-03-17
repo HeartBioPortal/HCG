@@ -1,0 +1,45 @@
+{
+  "content": {
+    "reviewers": [
+      {
+        "name": "Philippe Gabriel Steg",
+        "representation": "Content Reviewer",
+        "employment": "Universit\u00e9 Paris-Diderot \u2013 Professor",
+        "consultant": [
+          "AstraZeneca",
+          "Bristol-Myers Squibb*",
+          "Daiichi-Sankyo",
+          "Eli Lilly",
+          "Merck"
+        ],
+        "speakers_bureau": "None",
+        "ownership_partnership_principal": "None",
+        "personal_research": [
+          "AstraZeneca*"
+        ],
+        "institutional_organizational_financial_benefit": "None",
+        "expert_witness": "None"
+      },
+      {
+        "name": "Tracy Y. Wang",
+        "representation": "Content Reviewer",
+        "employment": "Duke University Medical Center \u2013 Associate Professor of Medicine",
+        "consultant": [
+          "AstraZeneca*",
+          "Eli Lilly"
+        ],
+        "speakers_bureau": "None",
+        "ownership_partnership_principal": "None",
+        "personal_research": [
+          "AstraZeneca*",
+          "Bristol-Myers Squibb*",
+          "Eli Lilly/Daiichi-Sankyo Alliance*"
+        ],
+        "institutional_organizational_financial_benefit": "None",
+        "expert_witness": "None"
+      }
+    ],
+    "disclaimer": "This table represents the relationships of reviewers with industry and other entities that were disclosed at the time of peer review and determined to be relevant to this document. It does not necessarily reflect relationships with industry at the time of publication. A person is deemed to have a significant interest in a business if the interest represents ownership of  \u22655% of the voting stock or share of the business entity, or ownership of \u2265$5,000 of the fair market value of the business entity, or if funds received by the person from the business entity exceed 5% of the person's gross income for the previous year. A relationship is considered to be modest if it is less than significant under the preceding definition. Relationships that exist with no financial benefit are also included for the purpose of transparency."
+  },
+  "genes": []
+}

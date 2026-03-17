@@ -1,0 +1,35 @@
+{
+  "content": {
+    "informal_vote": {
+      "necessity_criteria": [
+        "When consensus is not obvious",
+        "Numerous or significant RWI that may cause real or perceived conflict of interest",
+        "Individuals appear to unduly influence discussion outcomes",
+        "Reconciling new guideline recommendations with existing ones"
+      ],
+      "note": "Individuals influencing the discussion may be asked to leave the room."
+    },
+    "formal_balloting": {
+      "procedure": {
+        "timing": "During pre-peer review and post-review recommendations",
+        "reviews": "Prior to ACCF Board of Trustees and AHA SACC reviews"
+      },
+      "requirements": {
+        "recusal": "Members must recuse from voting on recommendations causing conflict",
+        "tracking": "Cover sheet for development, ballots maintained permanently"
+      },
+      "confidential_balloting": "Required for all guidelines",
+      "voting_context": "Based on Robert's Rules of Order, 10th Edition"
+    },
+    "committee_process": {
+      "record_keeping": "Name and vote of each member maintained indefinitely",
+      "voting_requirements": [
+        "Confidential written ballot",
+        "Chair reviews all votes for recusal accuracy",
+        "Members with relevant RWI may discuss but must recuse during vote",
+        "Approval requires majority vote of present members"
+      ]
+    }
+  },
+  "genes": []
+}

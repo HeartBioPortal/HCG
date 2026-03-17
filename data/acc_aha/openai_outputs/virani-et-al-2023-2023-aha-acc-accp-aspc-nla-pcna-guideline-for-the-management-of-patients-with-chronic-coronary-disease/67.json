@@ -1,0 +1,41 @@
+{
+  "content": {
+    "Vasospastic Angina Diagnosis": {
+      "Nitrate-responsive angina": [
+        "Rest angina, especially between night and early morning",
+        "Marked diurnal variation in exercise tolerance, reduced in morning",
+        "Hyperventilation can precipitate an episode",
+        "Calcium channel blockers (not beta blockers) suppress episodes"
+      ],
+      "Transient ischemic electrocardiographic changes": [
+        "ST segment elevation \u22650.1 mV",
+        "ST segment depression \u22650.1 mV",
+        "New negative U waves"
+      ]
+    },
+    "Coronary Artery Spasm": {
+      "Definition": "Transient total or subtotal coronary artery occlusion (>90% constriction) with angina and ischemic ECG changes",
+      "Triggers": "Spontaneous or in response to provocative stimuli (e.g., acetylcholine, ergot, hyperventilation)"
+    },
+    "INoca Endotype Classification": {
+      "Microvascular Angina": [
+        "Microvascular resistance (IMR \u226525)",
+        "Coronary vasoreactivity (CFR by thermodilution <2.0)",
+        "Microvascular spasm"
+      ],
+      "Vasospastic Angina": [
+        "Epicardial spasm"
+      ],
+      "Mixed MVA/VSA": [
+        "CMD and epicardial vasospasm"
+      ],
+      "Obstructive CAD": [
+        ">50% lesion by diameter stenosis in epicardial artery"
+      ],
+      "Noncardiac": [
+        "Exclusion of diffuse or obstructive epicardial coronary disease with normal coronary function"
+      ]
+    }
+  },
+  "genes": []
+}

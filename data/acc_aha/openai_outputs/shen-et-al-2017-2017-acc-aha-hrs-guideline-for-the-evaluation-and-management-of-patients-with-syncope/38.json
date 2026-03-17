@@ -1,0 +1,40 @@
+{
+  "content": {
+    "Guideline Source": "2017 ACC/AHA/HRS Syncope Guideline",
+    "Recommendations": [
+      {
+        "Class": "IIa",
+        "Type": "B-NR",
+        "Statement": "Reducing or withdrawing medications that may cause hypotension can be beneficial in selected patients with syncope.",
+        "Explanation": "Medication-related syncope appears higher in older patients. Several drug classes like diuretics and sedatives have been implicated. Close supervision is required during adjustments to prevent worsening of conditions such as preexisting supine hypertension or cardiac arrhythmias."
+      },
+      {
+        "Class": "IIa",
+        "Type": "C-LD",
+        "Statement": "In selected patients with syncope due to dehydration, it is reasonable to encourage increased salt and fluid intake.",
+        "Explanation": "Sodium supplementation improves plasma volume and enhances orthostatic tolerance. This option is not suitable for patients with cardiac dysfunction, uncontrolled hypertension, or chronic kidney disease."
+      }
+    ],
+    "Conditions Discussed": [
+      "Syncope",
+      "Orthostatic Intolerance",
+      "Postural Orthostatic Tachycardia Syndrome (POTS)",
+      "Psychogenic Pseudosyncope"
+    ],
+    "Key Points on Conditions": [
+      {
+        "Condition": "Orthostatic Intolerance",
+        "Description": "Refers to symptoms developing upon standing and relieved by lying down. Common symptoms include lightheadedness, palpitations, and fatigue. It may be associated with hemodynamic disturbances."
+      },
+      {
+        "Condition": "POTS",
+        "Description": "Pathophysiology involves inappropriate tachycardia upon standing. Common in patients with elevated heart rates >120 bpm upon standing."
+      },
+      {
+        "Condition": "Psychogenic Pseudosyncope",
+        "Description": "Characterized by a syndrome of apparent loss of consciousness without cerebral perfusion impairment. Often related to psychological stress and typically occurs in young females with a history of psychological or sexual abuse."
+      }
+    ]
+  },
+  "genes": []
+}

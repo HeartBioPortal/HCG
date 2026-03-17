@@ -1,0 +1,42 @@
+{
+  "content": {
+    "Title": "Management of CAD in patients undergoing valve interventions",
+    "Clinical Guidelines Summary": {
+      "Patient Categories": [
+        {
+          "Condition": "Chronic severe secondary MR",
+          "Action": "Coronary angiography"
+        },
+        {
+          "Condition": "Low risk of CAD",
+          "Action": "Coronary CT angiography if YES, Coronary angiography if NO"
+        },
+        {
+          "Condition": "Angina, decreased LV systolic function, history of CAD, or CAD risk factors",
+          "Action": "Coronary angiography"
+        },
+        {
+          "Condition": "Low to intermediate risk of CAD",
+          "Action": "Coronary CT angiography"
+        }
+      ],
+      "Procedures": [
+        {
+          "Condition": "Left main or proximal CAD",
+          "Action": "PCI prior to TAVI"
+        },
+        {
+          "Condition": "Complex bifurcation left main and/or multivessel CAD with SYNTAX score >33",
+          "Action": "Surgical AVR and CABG"
+        },
+        {
+          "Condition": "Significant proximal CAD or left main disease",
+          "Action": "CABG"
+        }
+      ]
+    },
+    "Synopsis": "CAD is common among patients with AS, impacting long-term survival. Coronary revascularization is often performed prior to intervention, especially in patients undergoing TAVI or SAVR.",
+    "Recommendation": "In patients with severe AS, coronary revascularization should be considered. Coronary CT angiography is recommended for assessing CAD, with coronary angiography for further evaluation if needed."
+  },
+  "genes": []
+}

@@ -1,0 +1,47 @@
+{
+  "content": {
+    "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+    "Sections": [
+      {
+        "Title": "Thromboctomy",
+        "Recommendations": [
+          {
+            "COR": "3: No Benefit",
+            "LOE": "A",
+            "Recommendation": "In patients with STEMI, routine aspiration thrombectomy before primary PCI is not useful."
+          }
+        ],
+        "Synopsis": [
+          "Patients with STEMI have thrombotic occlusion of the infarct artery.",
+          "No clinical benefit from routine thrombolytic thrombectomy in PCI.",
+          "Initial studies showed improved myocardial blush grades and ST-segment-elevation resolution.",
+          "Larger studies show no benefit with thrombus aspiration."
+        ],
+        "Findings": [
+          "No benefit in reduction of infarct size or improvement in cardiovascular outcomes.",
+          "A patient-level meta-analysis showed no significant reduction in cardiovascular death but did show a higher risk of stroke with routine aspiration thrombectomy.",
+          "Thrombus aspiration in high thrombus burden patients showed reduced cardiovascular death and increased stroke risk."
+        ]
+      },
+      {
+        "Title": "Treatment of Calcified Lesions",
+        "Recommendations": [
+          {
+            "COR": "2a",
+            "LOE": "B-R",
+            "Recommendation": "In patients with fibrotic or heavily calcified lesions, plaque modification with rotational atherectomy can be useful to improve procedural success."
+          },
+          {
+            "COR": "2b",
+            "LOE": "B-NR",
+            "Recommendation": "In patients with fibrotic or heavily calcified lesions, plaque modification with orbital atherectomy, balloon atherectomy, laser angioplasty, or intracoronary lithotripsy may be considered to improve procedural success."
+          }
+        ]
+      }
+    ],
+    "References": [
+      "Referenced studies and additional information are available in Online Data Supplement 26 and 27."
+    ]
+  },
+  "genes": []
+}

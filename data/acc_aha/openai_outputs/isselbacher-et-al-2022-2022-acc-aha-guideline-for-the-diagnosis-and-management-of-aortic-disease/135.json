@@ -1,0 +1,44 @@
+{
+  "content": {
+    "Clinical Guidelines": "These guidelines discuss the management of thoracic aortic aneurysms, particularly focusing on genetic testing and screening for family members with thoracic aortic disease (TAD). The document involves various aspects including the importance of institutional volumes in operative outcomes, recommendations for managing patients with valvular heart disease, and the significance of shared decision making in cardiovascular care.",
+    "Management of TAA": "Concerns about genetic factors, gender differences in aortic size, and the importance of height when measuring aortic dimensions are included. There is also a detailed review of the relationship between SMAD3 mutations and familial thoracic aortic aneurysm.",
+    "Family Screening for TAD": "Discusses familial aspects, highlighting genetics and the need for screening among relatives. Emphasizes the role of genetic counseling and the benefits of identifying pathogenic variants.",
+    "Shared Decision-Making": "Highlights the importance of shared decision-making in patients with asymptomatic abdominal aortic aneurysms and how this approach can be beneficial."
+  },
+  "genes": [
+    {
+      "Gene": "ACTA2",
+      "Associated Conditions": [
+        "Thoracic Aortic Aneurysms",
+        "Dissections"
+      ],
+      "Occurrences": 2,
+      "context": "Guo DC, Pannu H, Papke CL, et al. Mutations in smooth muscle alpha-actin (ACTA2) lead to thoracic aortic aneurysms and dissections. Nat Genet. 2007;39: 1488-1493. Wallace SE, Regalado ES, Gong L, et al. MYLK pathogenic variants decrease presentation, pregnancy risk, and characterization of pathogenic missense variants."
+    },
+    {
+      "Gene": "MYLK",
+      "Associated Conditions": [
+        "Thoracic Aortic Disease"
+      ],
+      "Occurrences": 1,
+      "context": "Wallace SE, Regalado ES, Gong L, et al. MYLK pathogenic variants decrease presentation, pregnancy risk, and characterization of pathogenic missense variants."
+    },
+    {
+      "Gene": "SMAD3",
+      "Associated Conditions": [
+        "Familial Thoracic Aortic Aneurysms",
+        "Dissections"
+      ],
+      "Occurrences": 1,
+      "context": "Regalado ES, Guo DC, Villamizar C, et al. Exome sequencing identifies SMAD3 mutations as a cause of familial thoracic aortic aneurysms and dissection with intracranial and other arterial aneurysms."
+    },
+    {
+      "Gene": "PRKG1",
+      "Associated Conditions": [
+        "Thoracic Aortic Aneurysms"
+      ],
+      "Occurrences": 1,
+      "context": "Guo DC, Regalado E, Casteel DE, et al. Recurrent gain-of-function mutation in PRKG1 causes thoracic aortic aneurysms and acute aortic dissections."
+    }
+  ]
+}

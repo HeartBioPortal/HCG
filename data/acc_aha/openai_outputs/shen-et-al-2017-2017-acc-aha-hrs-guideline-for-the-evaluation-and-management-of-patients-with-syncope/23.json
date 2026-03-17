@@ -1,0 +1,22 @@
+{
+  "content": {
+    "Recommendation for Autonomic Evaluation": {
+      "COR": "IIa",
+      "LOE": "C-LD",
+      "Recommendation": "Referral for autonomic evaluation can be useful to improve diagnostic and prognostic accuracy in selected patients with syncope and known or suspected neurodegenerative disease."
+    },
+    "Details on Neurogenic OH": "The care of patients with neurogenic OH is complex. Selection of treatments needs to be balanced against the increased morbidity of not treating symptoms. Neurologists, cardiologists, internists, or other knowledgeable physicians should provide care. Syncope due to neurogenic OH is caused by central or peripheral autonomic nervous system damage or dysfunction, including conditions like Parkinson\u2019s disease, central nervous system disorders, peripheral autonomic dysfunction, or neuropathies.",
+    "Recommendations for Neurological Diagnostics": {
+      "COR": "IIa",
+      "LOE": "C-LD",
+      "Recommendation": "Simultaneous monitoring of an EEG and hemodynamic parameters during tilt-table testing can be useful to distinguish among syncope, pseudosyncope, and epilepsy."
+    },
+    "MRI and CT Use": {
+      "COR": "III: No Benefit",
+      "LOE": "B-NR",
+      "Recommendation": "MRI and CT of the head are not recommended in the routine evaluation of patients with syncope in the absence of focal neurological findings or head injury that support further evaluation."
+    },
+    "Neurological and Imaging Diagnostics": "Routine neurological testing is of very limited value in syncope evaluation unless specific conditions are met."
+  },
+  "genes": []
+}

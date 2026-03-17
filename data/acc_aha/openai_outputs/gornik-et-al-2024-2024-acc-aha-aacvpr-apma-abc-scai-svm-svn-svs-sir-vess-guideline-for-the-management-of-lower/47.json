@@ -1,0 +1,32 @@
+{
+  "content": {
+    "Title": "Algorithm for Revascularization for Claudication (Chronic Symptomatic PAD)",
+    "Focus": "Guideline for revascularization in patients with claudication due to chronic symptomatic Peripheral Artery Disease (PAD).",
+    "Key Steps": [
+      "Assess if symptoms are functionally limiting and response to GDMT (including structured exercise) is inadequate.",
+      "Conduct risk-benefit assessment to determine if revascularization benefits outweigh risks.",
+      "Consider revascularization if benefits outweigh risks. Options include:",
+      {
+        "Condition": "Hemodynamically significant aortoiliac or femoropopliteal disease",
+        "Options": [
+          "Surgical revascularization is reasonable if perioperative risk is acceptable.",
+          "Endovascular revascularization is effective."
+        ]
+      },
+      {
+        "Condition": "Hemodynamically significant common femoral artery disease",
+        "Option": "Endarterectomy is reasonable, particularly to preserve profunda femoris artery pathways."
+      },
+      {
+        "Condition": "High risk for surgery or favorable anatomic factors",
+        "Option": "Endovascular approaches may be considered."
+      },
+      {
+        "Condition": "Hemodynamically significant isolated infrapopliteal disease",
+        "Note": "Effectiveness of endovascular or surgical revascularization is unknown."
+      }
+    ],
+    "Recommendation": "Continue GDMT including structured exercise."
+  },
+  "genes": []
+}

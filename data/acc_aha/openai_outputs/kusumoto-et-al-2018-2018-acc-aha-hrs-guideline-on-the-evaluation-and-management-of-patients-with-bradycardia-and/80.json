@@ -1,0 +1,59 @@
+{
+  "content": {
+    "Title": "2018 Bradycardia Guideline",
+    "Authors": "Kusumoto et al.",
+    "Journal/Publication": "JACC Vol. 74, No. 7",
+    "Date": "August 20, 2019",
+    "Key Topics": [
+      {
+        "Section": "Definitions",
+        "Subsections": [
+          {
+            "Title": "Sinus Node Disease",
+            "Studies": [
+              "Rasmussen K. Chronic sinus node disease: natural course and indications for pacing.",
+              "Shaw DB, Linker NJ, Heaven PA, et al. Chronic sinoatrial disorder (sick sinus syndrome): a possible result of cardiac ischaemia."
+            ]
+          }
+        ]
+      },
+      {
+        "Section": "Epidemiology and Definitions",
+        "Subsections": [
+          {
+            "Title": "Bradycardia and Conduction Disorders",
+            "Content": [
+              "Aging changes in the human sinoatrial node.",
+              "Pathological studies in sinoatrial disorder (sick sinus syndrome).",
+              "Sick sinus syndrome in atrial disease.",
+              "AV block: is there a time for change in attitude?",
+              "Predictors and outcomes in patients with conduction disorders.",
+              "Exercise training on chronotropic response and exercise capacity.",
+              "Specific maximal myocardial heart rate and predictors for mortality."
+            ]
+          }
+        ]
+      },
+      {
+        "Section": "Clinical Manifestations of Bradycardia and Conduction Disorders",
+        "References": [
+          "Brubaker PH, Kitzman DW. Chronotropic incompetence: issues, consequences, and management.",
+          "Sarnoski B, Bayes de Luna A. Second-degree atrioventricular block: a reappraisal."
+        ]
+      },
+      {
+        "Section": "General Evaluation of Patients with Documented or Suspected Bradycardia or Conduction Disorders",
+        "Subsections": [
+          {
+            "Title": "History and Physical Examination",
+            "References": [
+              "Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias.",
+              "Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS guideline for the evaluation and management of patients with syncope."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,223 @@
+{
+  "content": {
+    "Table Identification": "TABLE 18 Continued",
+    "Document Source": "2017 High Blood Pressure Clinical Practice Guideline, JACC VOL. 71, NO. 19, 2018",
+    "Date": "MAY 15, 2018",
+    "Drug Classes": [
+      {
+        "Class": "Diuretics\u2013aldosterone antagonists",
+        "Drugs": {
+          "Eplerenone": {
+            "Usual Dose": "50-100 mg/d",
+            "Daily Frequency": "1 or 2",
+            "Comments": [
+              "Preferred agents in primary aldosteronism and resistant hypertension.",
+              "Requires twice-daily dosing for adequate BP lowering."
+            ]
+          },
+          "Spironolactone": {
+            "Usual Dose": "25-100 mg/d",
+            "Daily Frequency": "1",
+            "Comments": [
+              "Associated with greater risk of gynecomastia and impotence compared to eplerenone.",
+              "Common add-on therapy in resistant hypertension.",
+              "Avoid with K+ supplements, other K+-sparing diuretics, or significant renal dysfunction."
+            ]
+          }
+        }
+      },
+      {
+        "Class": "Beta blockers\u2013cardioselective",
+        "Drugs": {
+          "Atenolol": {
+            "Usual Dose": "25-100 mg/d",
+            "Daily Frequency": "2",
+            "Comments": [
+              "Not recommended as first-line agents unless the patient has IHD or HF."
+            ]
+          },
+          "Betaxolol": {
+            "Usual Dose": "5-20 mg/d",
+            "Daily Frequency": "1"
+          },
+          "Bisoprolol": {
+            "Usual Dose": "2.5-10 mg/d",
+            "Daily Frequency": "1",
+            "Comments": [
+              "Preferred in patients with bronchospastic airway disease requiring a beta blocker."
+            ]
+          },
+          "Metoprolol tartrate": {
+            "Usual Dose": "100-200 mg/d",
+            "Daily Frequency": "2",
+            "Comments": [
+              "Preferred in patients with HFrEF."
+            ]
+          },
+          "Metoprolol succinate": {
+            "Usual Dose": "50-200 mg/d",
+            "Daily Frequency": "1"
+          }
+        }
+      },
+      {
+        "Class": "Beta blockers\u2013cardioselective and vasodilatory",
+        "Drugs": {
+          "Nebivolol": {
+            "Usual Dose": "5-40 mg/d",
+            "Daily Frequency": "1",
+            "Comments": [
+              "Includes nitric oxide-induced vasodilation."
+            ]
+          }
+        }
+      },
+      {
+        "Class": "Beta blockers\u2013noncardioselective",
+        "Drugs": {
+          "Nadolol": {
+            "Usual Dose": "40-120 mg/d",
+            "Daily Frequency": "1",
+            "Comments": [
+              "Avoid in patients with reactive airways disease."
+            ]
+          },
+          "Propranolol IR": {
+            "Usual Dose": "80-160 mg/d",
+            "Daily Frequency": "2",
+            "Comments": [
+              "Avoid abrupt cessation."
+            ]
+          },
+          "Propranolol LA": {
+            "Usual Dose": "80-160 mg/d",
+            "Daily Frequency": "1"
+          }
+        }
+      },
+      {
+        "Class": "Beta blockers\u2013intrinsic sympathomimetic activity",
+        "Drugs": {
+          "Acebutolol": {
+            "Usual Dose": "200-800 mg/d",
+            "Daily Frequency": "2",
+            "Comments": [
+              "Generally avoid, especially in patients with IHD or HF."
+            ]
+          },
+          "Penbutolol": {
+            "Usual Dose": "10-40 mg/d",
+            "Daily Frequency": "1"
+          },
+          "Pindolol": {
+            "Usual Dose": "10-60 mg/d",
+            "Daily Frequency": "2"
+          }
+        }
+      },
+      {
+        "Class": "Beta blockers\u2013combined alpha- and beta-receptor",
+        "Drugs": {
+          "Carvedilol": {
+            "Usual Dose": "12.5-50 mg/d",
+            "Daily Frequency": "2",
+            "Comments": [
+              "Preferred in patients with HFrEF."
+            ]
+          },
+          "Carvedilol phosphate": {
+            "Usual Dose": "20-80 mg/d",
+            "Daily Frequency": "1"
+          },
+          "Labetalol": {
+            "Usual Dose": "200-800 mg/d",
+            "Daily Frequency": "2"
+          }
+        }
+      },
+      {
+        "Class": "Direct renin inhibitor",
+        "Drugs": {
+          "Aliskiren": {
+            "Usual Dose": "150-300 mg/d",
+            "Daily Frequency": "1",
+            "Comments": [
+              "Do not use in combination with ACE inhibitors or ARBs.",
+              "Very long acting.",
+              "Increased risk of hyperkalemia in CKD or on K+ supplements.",
+              "May cause acute renal failure in severe bilateral renal artery stenosis.",
+              "Avoid in pregnancy."
+            ]
+          }
+        }
+      },
+      {
+        "Class": "Alpha-1 blockers",
+        "Drugs": {
+          "Doxazosin": {
+            "Usual Dose": "1-16 mg/d",
+            "Daily Frequency": "1",
+            "Comments": [
+              "Associated with orthostatic hypotension, especially in older adults."
+            ]
+          },
+          "Prazosin": {
+            "Usual Dose": "2-20 mg/d",
+            "Daily Frequency": "2 or 3"
+          },
+          "Terazosin": {
+            "Usual Dose": "1-20 mg/d",
+            "Daily Frequency": "1 or 2"
+          }
+        }
+      },
+      {
+        "Class": "Central alpha2-agonist and other centrally acting drugs",
+        "Drugs": {
+          "Clonidine oral": {
+            "Usual Dose": "0.1-0.8 mg/d",
+            "Daily Frequency": "2",
+            "Comments": [
+              "Generally reserved as last-line because of adverse effects, especially in older adults.",
+              "Avoid abrupt discontinuation, which may induce hypertensive crisis; taper to avoid rebound hypertension."
+            ]
+          },
+          "Clonidine patch": {
+            "Usual Dose": "0.1-0.3 mg/d",
+            "Daily Frequency": "1 weekly"
+          },
+          "Methyldopa": {
+            "Usual Dose": "250-1000 mg/d",
+            "Daily Frequency": "2"
+          },
+          "Guanfacine": {
+            "Usual Dose": "0.5-2 mg/d",
+            "Daily Frequency": "1"
+          }
+        }
+      },
+      {
+        "Class": "Direct vasodilators",
+        "Drugs": {
+          "Hydralazine": {
+            "Usual Dose": "100-200 mg/d",
+            "Daily Frequency": "2 or 3",
+            "Comments": [
+              "Associated with sodium and water retention and reflex tachycardia; use with a diuretic and beta blocker.",
+              "Associated with drug-induced lupus-like syndrome at higher doses."
+            ]
+          },
+          "Minoxidil": {
+            "Usual Dose": "5-100 mg/d",
+            "Daily Frequency": "1-3",
+            "Comments": [
+              "Associated with hirsutism and requires a loop diuretic.",
+              "Associated with pericardial effusion."
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "genes": []
+}

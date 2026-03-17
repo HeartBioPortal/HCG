@@ -1,0 +1,27 @@
+{
+  "content": {
+    "summary": "The guideline addresses patients with hypertrophic cardiomyopathy (HCM) who have comorbidities such as hypertension, obesity, and sleep-disordered breathing. Key recommendations include adherence to primary prevention guidelines for cardiovascular events, weight loss interventions for overweight or obese patients, and lifestyle modifications for those with hypertension. Referral for sleep medicine evaluation is also advised if necessary. Obesity and sleep-disordered breathing can increase risk in HCM patients, possibly involving sarcomere gene variants.",
+    "recommendations": [
+      "Adherence to the ACC/AHA primary prevention guideline to reduce cardiovascular risk.",
+      "Weight loss counseling and lifestyle interventions for overweight/obese patients with HCM.",
+      "Lifestyle modifications and medical therapy for hypertension in HCM patients, with preference for beta blockers and non-dihydropyridine calcium channel blockers in obstructive HCM.",
+      "Assessment and referral for sleep-disordered breathing in HCM patients."
+    ],
+    "risks": [
+      "Comorbid conditions such as obesity and sleep-disordered breathing increase symptom burden and risk in HCM patients.",
+      "Hypertension is prevalent in HCM patients and affects sarcomere variant-negative patients disproportionately."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "Sarcomere Gene Variant",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy",
+        "Obesity",
+        "Increased Cardiovascular Risk"
+      ],
+      "Occurrences": 1,
+      "context": "Patients with HCM and sarcomere gene variants may have increased risk for cardiovascular complications and symptom burden."
+    }
+  ]
+}

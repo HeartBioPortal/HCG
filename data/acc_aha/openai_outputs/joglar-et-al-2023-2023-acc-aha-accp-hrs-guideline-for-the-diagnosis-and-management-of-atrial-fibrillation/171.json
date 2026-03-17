@@ -1,0 +1,84 @@
+{
+  "content": {
+    "Title": "2023 Guideline for the Diagnosis and Management of Atrial Fibrillation",
+    "Section": "Appendix 2",
+    "Focus": "Relationships and disclosures of reviewers in the AHA/ACC Atrial Fibrillation Peer Review Committee",
+    "Reviewers": [
+      {
+        "Name": "Peter A. Noseworthy",
+        "Employment": "Mayo Clinic",
+        "Consultant": "None",
+        "Speakers Bureau": "None",
+        "Ownership/Partnership/Principal": "None",
+        "Personal Research": "None",
+        "Institutional or Organizational Benefit": "Anumana*, Milestone\u2020",
+        "Expert Witness": "None"
+      },
+      {
+        "Name": "Cara N. Pellegrini",
+        "Employment": "University of California San Francisco",
+        "Consultant": [
+          "Abbott",
+          "Biosense Webster",
+          "Cook Medical",
+          "Medtronic"
+        ],
+        "Speakers Bureau": "None",
+        "Ownership/Partnership/Principal": "None",
+        "Personal Research": "None",
+        "Institutional or Organizational Benefit": "None",
+        "Expert Witness": "None"
+      },
+      {
+        "Name": "Stylianos E. Tzeis",
+        "Employment": "Mitera Hospital",
+        "Consultant": "Pfizer",
+        "Speakers Bureau": "None",
+        "Ownership/Partnership/Principal": "None",
+        "Personal Research": "None",
+        "Institutional or Organizational Benefit": "Bayer\u2021",
+        "Expert Witness": "None"
+      },
+      {
+        "Name": "Annabelle Santos Volgman",
+        "Employment": "Rush University Medical Center",
+        "Consultant": [
+          "Bristol Myers Squibb Foundation",
+          "DCICDP",
+          "Janssen Pharmaceuticals",
+          "Merck",
+          "Pfizer",
+          "Sanofi Aventis\u2020"
+        ],
+        "Speakers Bureau": "None",
+        "Ownership/Partnership/Principal": "None",
+        "Personal Research": "NIH\u2020",
+        "Institutional or Organizational Benefit": "Apple*",
+        "Novartis\u2021": "None"
+      },
+      {
+        "Name": "Emily P. Zeitler",
+        "Employment": "Dartmouth Hitchcock Medical Center",
+        "Consultant": [
+          "Abbott",
+          "Biosense Webster",
+          "Medtronic"
+        ],
+        "Speakers Bureau": "None",
+        "Ownership/Partnership/Principal": "None",
+        "Personal Research": "None",
+        "Institutional or Organizational Benefit": [
+          "Boston Scientific\u2020",
+          "Sanofi Aventis\u2020"
+        ],
+        "Expert Witness": "None"
+      }
+    ],
+    "Notes": [
+      "*No financial benefit.",
+      "\u2020Significant relationship.",
+      "Disclosure categories and institutional policies are detailed on the ACC website."
+    ]
+  },
+  "genes": []
+}

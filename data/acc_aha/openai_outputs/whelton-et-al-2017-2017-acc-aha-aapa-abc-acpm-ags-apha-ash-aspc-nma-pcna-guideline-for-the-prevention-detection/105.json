@@ -1,0 +1,23 @@
+{
+  "content": {
+    "10. Special Patient Groups": {
+      "Race and Ethnicity": {
+        "10.1.1": "Hypertension prevalence and control differs among adults based on race and ethnicity in the United States.",
+        "10.1.2": "Blood pressure control in Hispanics using specific antihypertensive therapies.",
+        "10.1.3": "Clinical trials examining hypertension treatment effectiveness in different racial groups.",
+        "10.1.4": "Prevention and treatment of high blood pressure in African Americans discussed in a Bayesian framework.",
+        "10.1.5": "ALLHAT findings highlighting differences in response to blood pressure treatment among racial groups."
+      }
+    }
+  },
+  "genes": [
+    {
+      "Gene": "APOL1",
+      "Associated Conditions": [
+        "Chronic kidney disease"
+      ],
+      "Occurrences": 1,
+      "context": "Saran R, Kao WH, Xie D, et al. APOL1 risk variants, race, and progression of chronic kidney disease."
+    }
+  ]
+}

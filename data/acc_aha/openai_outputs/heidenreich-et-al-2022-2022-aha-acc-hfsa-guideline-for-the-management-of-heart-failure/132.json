@@ -1,0 +1,22 @@
+{
+  "content": {
+    "Title": "2022 AHA/ACC/HFSA Heart Failure Guideline",
+    "Journal": "JACC",
+    "Volume": "79",
+    "Issue": "17",
+    "Pages": "e363-e421",
+    "Date": "May 3, 2022",
+    "Summary": "The guideline covers the treatment and management of heart failure, with a focus on different drug treatments, the role of genetic testing, and management of specific conditions like cardiac amyloidosis."
+  },
+  "genes": [
+    {
+      "Gene": "TTR",
+      "Associated Conditions": [
+        "Transthyretin amyloidosis",
+        "Cardiac amyloidosis"
+      ],
+      "Occurrences": 3,
+      "context": "Diagnostic performance of quantifiable kappa and lambda free light chain assays in clinical practice... Cost-effectiveness of tafamidis therapy for transthyretin amyloid cardiomyopathy... Unveiling transthyretin cardiac amyloidosis."
+    }
+  ]
+}

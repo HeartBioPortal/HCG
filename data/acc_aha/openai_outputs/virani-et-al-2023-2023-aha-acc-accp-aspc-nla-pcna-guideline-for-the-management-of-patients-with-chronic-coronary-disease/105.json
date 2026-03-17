@@ -1,0 +1,39 @@
+{
+  "content": {
+    "topic": "Chronic Coronary Disease Guidelines",
+    "sections": [
+      {
+        "section": "Renin\u2013Angiotensin\u2013Aldosterone Inhibitors",
+        "key_points": [
+          "Long-term ACE-inhibitor therapy can benefit patients with heart failure or left-ventricular dysfunction.",
+          "ACE inhibitors and angiotensin receptor blockers are effective in chronic stable coronary disease and can reduce mortality in patients with myocardial infarction.",
+          "Studies suggest renin-angiotensin system inhibitors may lower cardiovascular events in patients with stable coronary artery disease."
+        ]
+      },
+      {
+        "section": "Colchicine",
+        "key_points": [
+          "Colchicine may be beneficial for secondary prevention of cardiovascular disease.",
+          "It is considered for use in patients with chronic coronary disease."
+        ]
+      },
+      {
+        "section": "Immunizations",
+        "key_points": [
+          "Influenza vaccination is associated with a reduction in cardiovascular events in high-risk patients.",
+          "Regular immunizations are recommended for preventing adverse cardiovascular outcomes."
+        ]
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "PMN",
+      "Associated Conditions": [
+        "Cardiovascular Disease"
+      ],
+      "Occurrences": 1,
+      "context": "Reibman J, Levin KI, et al. A new mode of action for a di-uoligo: colchicine decreases surface expression of adhesion molecules on both neutrophils (PMN) and endothelium [abstract]. Arthritis Rheum. 1992;35(suppl):S373."
+    }
+  ]
+}

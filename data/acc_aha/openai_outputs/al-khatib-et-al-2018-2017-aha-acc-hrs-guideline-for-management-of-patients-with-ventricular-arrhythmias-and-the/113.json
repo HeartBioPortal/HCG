@@ -1,0 +1,45 @@
+{
+  "content": {
+    "Coverage": "The image is a clinical guideline focusing on long QT syndrome, catecholaminergic polymorphic ventricular tachycardia (CPVT), and related conditions. It discusses genetic factors, clinical management, and outcomes.",
+    "Themes": [
+      "Genetic testing and mutations",
+      "Therapeutic interventions",
+      "Clinical outcomes of various treatments"
+    ],
+    "Highlighted Interventions": [
+      "Genetic counseling, especially for hereditary conditions",
+      "Left cardiac sympathetic denervation",
+      "Use of beta-blockers and other medications",
+      "Surgical interventions",
+      "Long-term follow-ups and monitoring"
+    ],
+    "Patient Management": "Recommendations for using beta-blockers, specific surgeries like thoracoscopic left cardiac sympathetic denervation, and considerations for genetic counseling in families with certain mutations."
+  },
+  "genes": [
+    {
+      "Gene": "KCNQ1",
+      "Associated Conditions": [
+        "Long QT syndrome",
+        "Catecholaminergic polymorphic ventricular tachycardia (CPVT)"
+      ],
+      "Occurrences": 2,
+      "Context": "Mutations in KCNQ1 are involved in long QT syndrome and CPVT. The gene affects cardiac ion channels and predisposes to arrhythmias."
+    },
+    {
+      "Gene": "KCNH2",
+      "Associated Conditions": [
+        "Long QT syndrome"
+      ],
+      "Occurrences": 1,
+      "Context": "Mutations to KCNH2 can predispose individuals to long QT syndrome, affecting the heart rhythm."
+    },
+    {
+      "Gene": "RYR2",
+      "Associated Conditions": [
+        "Catecholaminergic polymorphic ventricular tachycardia"
+      ],
+      "Occurrences": 1,
+      "Context": "The RYR2 gene is associated with catecholaminergic polymorphic ventricular tachycardia, affecting calcium release and heart rhythm."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "content": {
+    "frequency_of_follow_up": {
+      "physiological_stage_A": {
+        "months": "36-60"
+      },
+      "physiological_stage_B": {
+        "months": "24"
+      },
+      "physiological_stage_C": {
+        "months": "6-12"
+      },
+      "physiological_stage_D": {
+        "months": "3-6"
+      }
+    },
+    "testing_intervals": {
+      "ECG": {
+        "A_B_months": "36-60",
+        "C_months": "24",
+        "D_months": "12"
+      },
+      "TTE": {
+        "A_B_months": "36-60",
+        "C_months": "12",
+        "D_months": "12"
+      },
+      "pulse_oximetry": {
+        "A_B": "As needed",
+        "C": "Each visit",
+        "D": "Each visit"
+      },
+      "exercise_test": {
+        "A_B": "As needed",
+        "C": "12-24",
+        "D": "6-12"
+      }
+    },
+    "recommendation_support_text": [
+      "Cyanosis related to right-to-left shunting in PDA may require pulse oximetry in both feet and hands.",
+      "Invasive hemodynamic assessment is crucial for evaluating pulmonary vasoreactivity.",
+      "Closure may prevent development of PAH and other symptoms if signs of significant left-to-right shunt are present."
+    ],
+    "recommendations_for_cor_triatiatum": {
+      "diagnostic": [
+        "Adults with cor triatriatum sinister should be evaluated for other congenital abnormalities.",
+        "Evaluate for pulmonary vein stenosis in adults with prior repair and recurrent symptoms."
+      ],
+      "therapeutic": [
+        "Surgical repair is recommended for obstruction or significant gradients across the membrane."
+      ]
+    }
+  },
+  "genes": []
+}

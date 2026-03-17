@@ -1,0 +1,20 @@
+{
+  "content": {
+    "clinical_guideline": "This document discusses the use of depression screening among patients with recent Acute Coronary Syndrome (ACS) and its association with cardiovascular outcomes. Positive screening for depression is linked to an increased risk of major adverse cardiovascular events (MACE). The use of antidepressants shows varying results on cardiovascular outcomes, and the document suggests considering both pharmacologic and psychotherapeutic interventions for patients with Chronic Coronary Disease (CCD) and depression. Mindfulness and cognitive-behavioral therapy are recommended for improving various psychological and cardiovascular factors.",
+    "screening_tools": [
+      {
+        "name": "Patient Health Questionnaire-2",
+        "purpose": "To assess psychological distress and depression symptoms."
+      },
+      {
+        "name": "Generalized Anxiety Disorder Questionnaire-2",
+        "purpose": "To screen for anxiety."
+      }
+    ],
+    "treatment_recommendations": [
+      "Combination pharmacologic and psychotherapeutic treatments are suggested.",
+      "Mindfulness and psychotherapy interventions are advised to improve depression and related health factors."
+    ]
+  },
+  "genes": []
+}

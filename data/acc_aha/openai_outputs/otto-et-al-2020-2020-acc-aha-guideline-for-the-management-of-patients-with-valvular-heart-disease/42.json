@@ -1,0 +1,29 @@
+{
+  "content": {
+    "Title": "Bicuspid Aortic Valve (BAV) and Associated Aortopathy",
+    "Synopsis": "BAV is a congenital anomaly affecting 0.5% to 2.0% of adults, more common in males. It can lead to a variety of valve diseases and aortic aneurysms. Patients require ongoing evaluation of the valve and aorta throughout life.",
+    "Diagnostic Recommendations": [
+      {
+        "COR": "1",
+        "LOE": "B-NR",
+        "Description": "TTE is recommended for patients with BAV to evaluate valve morphology, AS and AR severity, and aortic dimensions. It also checks for aortic coarctation."
+      },
+      {
+        "COR": "1",
+        "LOE": "C-LD",
+        "Description": "CMR or CT angiography is suggested when TTE cannot assess aortic morphology accurately."
+      },
+      {
+        "COR": "2b",
+        "LOE": "B-NR",
+        "Description": "TTE screening in first-degree relatives of BAV patients is advised for detecting BAV or asymptomatic aortic dilation."
+      }
+    ],
+    "Clinical Insights": [
+      "BAV is associated with aortic dilation and dissection risks.",
+      "Regular imaging and evaluation are necessary due to potential aortopathy.",
+      "Specific genetic cause for BAV is unknown; inheritance patterns vary."
+    ]
+  },
+  "genes": []
+}

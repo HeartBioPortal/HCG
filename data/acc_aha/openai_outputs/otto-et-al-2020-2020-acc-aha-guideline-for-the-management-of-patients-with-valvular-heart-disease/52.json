@@ -1,0 +1,52 @@
+{
+  "content": {
+    "Title": "2020 ACC/AHA Guideline for the Management of Valvular Heart Disease",
+    "Topic": "Intervention for Rheumatic Mitral Stenosis (MS)",
+    "Details": [
+      {
+        "Condition": "Severe Mitral Stenosis",
+        "Mitral Valve Area": "\u22641.5 cm\u00b2",
+        "Pathway": [
+          {
+            "Symptoms": "Symptomatic Stage D",
+            "Valve Condition": "Pliable valve, No clot, <2+ MR",
+            "Action": "PMBC at CVC (1)"
+          },
+          {
+            "Symptoms": "Symptomatic Stage D",
+            "Severe Symptoms": "NYHA III-IV",
+            "Action if Surgical Candidate": "MV Surgery (1)",
+            "Action if Not Surgical Candidate": "PMBC at CVC (2b)"
+          }
+        ]
+      },
+      {
+        "Condition": "Progressive Mitral Stenosis",
+        "Mitral Valve Area": ">1.5 cm\u00b2",
+        "Pathway": [
+          {
+            "Symptoms": "Asymptomatic Stage C",
+            "Valve Condition": "Pliable valve, No clot, <2+ MR",
+            "Action": [
+              {
+                "Condition": "PASP>50 mm Hg",
+                "Action": "PMBC at CVC (2b)"
+              },
+              {
+                "Condition": "New AF",
+                "Action": "PMBC at CVC (2a)"
+              }
+            ]
+          },
+          {
+            "Symptoms": "Exertional Symptoms",
+            "Condition": "Stress test shows Hemodynamically Significant MS",
+            "Valve Condition": "Pliable valve, No clot, <2+ MR",
+            "Action": "PMBC at CVC (2b)"
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

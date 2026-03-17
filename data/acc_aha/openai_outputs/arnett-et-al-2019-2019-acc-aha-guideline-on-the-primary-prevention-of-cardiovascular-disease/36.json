@@ -1,0 +1,51 @@
+{
+  "content": {
+    "title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+    "sections": [
+      {
+        "section": "4. Other Factors Affecting Cardiovascular Risk",
+        "subsections": [
+          {
+            "title": "4.1. Obesity and Being Overweight",
+            "studies": [
+              {
+                "authors": "LeBlanc EL, Patnode CD, Webber EM, et al.",
+                "content": "Draft evidence review for weight loss to prevent obesity-related morbidity and mortality in adults: behavioral interventions.",
+                "source": "Kaiser Permanente Research Affiliates Evidence-based Practice Center, Kaiser Permanente Center for Health Research: Portland, OR: 2018. AHRQ Publication No. 18-05239-EF-1.",
+                "link_text": "Available at: https://www.uspreventiveservicestaskforce.org/Page/Document/draft-evidence-review136-obesity-in-adults-interventions.",
+                "access_date": "Accessed January 5, 2019."
+              },
+              {
+                "authors": "Mac A, Avenell A, Bolland M, et al.",
+                "content": "Effects of weight loss interventions for adults who are obese on mortality, cardiovascular disease, and cancer: systematic review and meta-analysis.",
+                "source": "BMJ. 2017;359:j4849."
+              },
+              {
+                "authors": "Cano Giner S, Dalleck L, Culbertson CJ, et al.",
+                "content": "Coronary heart disease incidence in women by waist circumference with categories of body mass index.",
+                "source": "Eur J Prev Cardiol. 2013;20:759\u201362."
+              },
+              {
+                "authors": "Warren TY, Wilcox S, Dowda M, et al.",
+                "content": "Independent association of waist circumference with hypertension and diabetes in African American women, South Carolina, 2007\u20132009.",
+                "source": "Prev Chronic Dis. 2012;9:E105."
+              },
+              {
+                "authors": "Cemerich WS, Kenny AP, Stamatakis E, et al.",
+                "content": "Body mass index, waist circumference and waist-to-hip ratio: which is the better discriminator of cardiovascular disease mortality risk?",
+                "source": "Evidence from an individual participant meta-analysis of 82,864 participants from nine cohort studies.",
+                "source_2": "Obes Rev. 2011;12:680\u20137."
+              },
+              {
+                "authors": "Flint AJ, Rexrode KM, Hu FB, et al.",
+                "content": "Body mass index, waist circumference, and risk of coronary heart disease: a prospective study among men and women.",
+                "source": "Obes Clin Pract. 2010;4:e66\u201371."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

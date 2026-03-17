@@ -1,0 +1,35 @@
+{
+  "content": {
+    "appendix": "This is a continuation of Appendix 1 detailing relationships of committee members with industry and other entities.",
+    "committee_members": {
+      "Srihari S. Naidu": {
+        "employment": "New York Medical College, Westchester Medical Center",
+        "roles": "Professor of Medicine, Director of HCM Center and Cardiac Cath Labs",
+        "consultant": "Relevant - Bristol Myers Squibb, Cytokinetics"
+      },
+      "Sara Saberi": {
+        "employment": "University of Michigan Health Systems",
+        "roles": "Assistant Professor, Division of Cardiovascular Medicine",
+        "consultant": "Relevant - Bristol Myers Squibb, Cytokinetics",
+        "personal_research": "Relevant - Bristol Myers Squibb, Cytokinetics",
+        "institutional_organizational_benefit": "Not Relevant - HCMS\u2020, Cytokinetics\u2020, Novartis\u2020"
+      },
+      "Christopher Semsarian": {
+        "employment": "The University of Sydney, Centenary Institute, Royal Prince Alfred Hospital",
+        "roles": "Professor of Medicine, Head of Molecular Cardiology Program, Cardiologist",
+        "consultant": "None"
+      },
+      "Sabrina Times": {
+        "affiliation": "AHA/ACC Science and Health Advisor, Guidelines",
+        "consultant": "None"
+      },
+      "Cynthia Burstein Waldman": {
+        "affiliation": "HCMBeat, MGM",
+        "roles": "Founder and Editor, Vice President, Library Rights Management",
+        "consultant": "None"
+      }
+    },
+    "notes": "Disclosure represents relationships with industry and other entities that are reported, relevant, or significant, with definitions provided in a referenced policy."
+  },
+  "genes": []
+}

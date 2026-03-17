@@ -1,0 +1,51 @@
+{
+  "content": {
+    "Clinical Trials": [
+      {
+        "Name": "SAPPHIRE, 2004",
+        "Reference": 370,
+        "No. of Patients": 334,
+        "Key Features": "Multicenter randomized trial of patients with >50% symptomatic carotid stenosis (58%) or >80% asymptomatic carotid stenosis (42%) with 1 or more comorbidity criteria (high-surgical-risk group).",
+        "Death or Any Stroke": {
+          "Asymptomatic": "CEA: 10.2%, CAS: 5.4%",
+          "Combined": "CEA: 9.8%, CAS: 4.8%"
+        },
+        "Comments": "Terminated prematurely because of a drop in randomization."
+      },
+      {
+        "Name": "SAPPHIRE, 2008",
+        "Reference": 369,
+        "No. of Patients": 334,
+        "Key Features": "Multicenter randomized trial of patients with >80% asymptomatic carotid stenosis (70%) and >50% symptomatic carotid stenosis (30%).",
+        "Death or Any Stroke": {
+          "SAPPHIRE 3y data": {
+            "Stroke": "CEA: 15/167, CAS: 15/197",
+            "Death": "CEA: 35/167, CAS: 31/167"
+          }
+        },
+        "Comments": "No significant difference could be shown in long-term outcomes between patients who underwent CAS with EPD and those who underwent CEA."
+      },
+      {
+        "Name": "CREST, 2010",
+        "Reference": 360,
+        "No. of Patients": 2,
+        "Key Features": "The study included 1,321 symptomatic patients and 1,181 asymptomatic patients. Symptomatic patients in the study had >50% carotid stenosis by angiography, >70% by ultrasound, or >70% by CTA or MRA. Asymptomatic patients in the study had carotid stenosis (patients with symptoms beyond 180 d were considered asymptomatic) >60% by angiography, >70% by ultrasound, or >80% by CTA or MRA.",
+        "Death or Any Stroke": {
+          "Any periprocedural stroke or postprocedural ipsilateral stroke": {
+            "Asymptomatic": "CAS: 1.5 (2.5-0.6 SE), CEA: 8 (1.4-0.5 SE)"
+          },
+          "Any periprocedural stroke or death or postprocedural ipsilateral stroke": {
+            "Asymptomatic": "CAS: 1.5 (2.5-0.6 SE), CEA: 8 (1.4-0.5 SE)"
+          }
+        },
+        "Comments": "The risk of the composite primary outcome of stroke, MI, or death did not differ significantly among symptomatic and asymptomatic patients between CAS and CEA."
+      }
+    ],
+    "Neurological Complications": {
+      "TIA Incidence": "1% to 2% in patients undergoing CAS.",
+      "Overall Stroke Incidence": "5.5% in the ARCHER trial, with disabling stroke in 1.5% and relatively minor events in 4.0% of cases.",
+      "Device Malfunction": "Occurs in <1% of procedures and is associated with deployment failure, stent malformation, and migration."
+    }
+  },
+  "genes": []
+}

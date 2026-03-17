@@ -1,0 +1,11 @@
+{
+  "content": {
+    "SRT": "Surgical Risk Treatment (SRT) is recommended for drug-refractory symptoms and should be performed in experienced HCM centers. It is not recommended for patients with HCM who are asymptomatic and have normal exercise capacity. Septal reduction therapies (SRTs) include septic myectomy and alcohol septal ablation.",
+    "ESM": "Transaortic extended septal myectomy (ESM) is preferred for a broad range of patients and helps in reducing SAM-mediated MR and its consequences. It is advantageous for long-term survival and reduction of obstruction.",
+    "Alcohol Septal Ablation": "Considered less effective with lower outcomes compared to ESM. It is associated with a low procedural mortality rate (<1%) but requires sophisticated coronary anatomy.",
+    "Recommendations": {
+      "SRT for Obstructive HCM": "Recommended for those with symptoms refractory to medication. Guidelines suggest not performing procedures solely to reduce risk of LVOTO if asymptomatic."
+    }
+  },
+  "genes": []
+}

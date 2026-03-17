@@ -1,0 +1,32 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "level": "1A",
+        "description": "For patients with an indication for AVR for whom a bioprosthetic valve is preferred but valve or vascular anatomy or other factors are not suitable for transfemoral TAVI, SAVR is recommended."
+      },
+      {
+        "level": "1A",
+        "description": "For symptomatic patients of any age with severe AS and a high or prohibitive surgical risk, TAVI is recommended if predicted post-TAVI survival is more than 12 months with an acceptable quality of life."
+      },
+      {
+        "level": "1C-EO",
+        "description": "For symptomatic patients with severe AS for whom predicted post-TAVI or post-SAVR survival is less than 12 months or for whom minimal improvement in quality of life is expected, palliative care is recommended after shared decision-making, including discussion of patient preferences and values."
+      },
+      {
+        "level": "2bC-EO",
+        "description": "In critically ill patients with severe AS, percutaneous aortic balloon dilation may be considered as a bridge to SAVR or TAVI."
+      }
+    ],
+    "synopsis": {
+      "decision_making": "Patients choosing between SAVR and TAVI should consider surgical risk and expected valve durability. SAVR has over 50 years of usage data. TAVI generally lasts around 5 years. A key decision factor is the patient\u2019s life expectancy.",
+      "patient_age": "In the U.S., average life expectancy is stated as ages 25 at 60 years, 17 at 70 years, and 10 at 80 years for women. For men, expected additional years are 22 at age 60, 14 at age 70, and 8 at age 80.",
+      "research_coverage": "Clinical trials mainly cover older patients with higher surgical risk. Little data exist for patients under 65."
+    },
+    "recommendation_specific_text": {
+      "SAVR": "Offers excellent durability for mechanical and bioprosthetic valves. Studies with older patients show mean age in the mid-80s.",
+      "TAVI": "Less durability in younger patients who face intermediate surgical risk. Recommendations for patients over 65 focus on shared decision-making."
+    }
+  },
+  "genes": []
+}

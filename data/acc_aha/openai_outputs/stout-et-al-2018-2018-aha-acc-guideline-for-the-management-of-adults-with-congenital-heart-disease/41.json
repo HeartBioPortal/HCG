@@ -1,0 +1,52 @@
+{
+  "content": {
+    "topics": [
+      {
+        "section": "4.1.5",
+        "title": "Patent Ductus Arteriosus",
+        "diagnostic": [
+          {
+            "cor": "I",
+            "loe": "C-EO",
+            "recommendation": "Measurement of oxygen saturation should be performed in feet and both hands in adults with a PDA to assess for the presence of right-to-left shunting."
+          },
+          {
+            "cor": "IIa",
+            "loe": "C-EO",
+            "recommendation": "In addition to the standard diagnostic tools, cardiac catheterization can be useful in patients with PDA and suspected pulmonary hypertension."
+          }
+        ],
+        "therapeutic": [
+          {
+            "cor": "I",
+            "loe": "C-LD",
+            "recommendation": "PDA closure in adults is recommended if left atrial or LV enlargement is present and attributable to PDA with net left-to-right shunt, PA systolic pressure less than 50% systemic and pulmonary vascular resistance less than one third systemic."
+          },
+          {
+            "cor": "IIb",
+            "loe": "B-NR",
+            "recommendation": "PDA closure in adults may be considered in the presence of a net left-to-right shunt if PA systolic pressure is 50% or greater systemic, and/or pulmonary vascular resistance is greater than one third systemic."
+          },
+          {
+            "cor": "III: Harm",
+            "loe": "C-LD",
+            "recommendation": "PDA closure should not be performed in adults with a net right-to-left shunt and PA systolic pressure greater than two thirds systemic or pulmonary vascular resistance greater than two thirds systemic."
+          }
+        ],
+        "synopsis": [
+          "The ductus arteriosus is a vascular connection between the aorta and PA present in fetal life. It typically closes shortly after birth but may remain patent in some individuals.",
+          "The incidence of PDA is around 0.3% to 0.8% of term infants, more common in females.",
+          "Many PDAs are closed in infancy or childhood with catheter-based or surgical approaches."
+        ]
+      }
+    ],
+    "references": [
+      "Section 3.3 for surgery recommendations",
+      "Section 3.4 for diagnostic evaluation",
+      "Section 4.4.6.1 for severe PAH recommendations",
+      "Section 4.4.6.2 for Eisenmenger syndrome",
+      "Table 16 for routine testing and follow-up intervals"
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,23 @@
+{
+  "content": {
+    "Echocardiography": {
+      "Recommendation 1": "Intraoperative TEE is recommended to guide surgical repair of CHD in adults.",
+      "Recommendation 2": "Patients with ACHD should undergo transthoracic echocardiography (TTE) for initial assessment, with timing of serial assessment based on anatomic and physiological severity and clinical status."
+    },
+    "CMR Imaging": {
+      "Recommendation 1": "In patients with ACHD who have or are at risk of developing RV enlargement and dysfunction, serial CMR is recommended for quantitative assessment of RV size and function.",
+      "Recommendation 2": "CMR can be useful in the initial evaluation and serial assessment of selected patients with CHD based on anatomic complexity and clinical status."
+    },
+    "Recommendation-Specific Supportive Text": {
+      "Echocardiography": [
+        "Intraoperative TEE has a substantial impact on patient care, leading to alteration of planned procedure in 14% of cases.",
+        "Echocardiography is indispensable for managing decisions and is used for initial and serial evaluations even without symptoms."
+      ],
+      "CMR Imaging": [
+        "CMR provides data for assessment of RV size and function, advantageous over other imaging techniques.",
+        "CMR offers unrestricted access to heart and vessels noninvasively and without ionizing radiation."
+      ]
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,23 @@
+{
+  "content": {
+    "Acute Treatment Recommendations": {
+      "Intravenous Metoprolol or Propranolol": "Reasonable for acute treatment in pregnant patients with SVT when adenosine is ineffective or contraindicated.",
+      "Intravenous Verapamil": "May be reasonable for acute treatment in pregnant patients with SVT when adenosine and beta-blockers are ineffective or contraindicated.",
+      "Intravenous Procainamide": "May be reasonable for acute treatment in pregnant patients with SVT.",
+      "Intravenous Amiodarone": "May be considered for acute treatment in pregnant patients with potentially life-threatening SVT when other therapies are ineffective or contraindicated."
+    },
+    "Ongoing Management Recommendations": {
+      "Drugs for Ongoing Management": [
+        "Digoxin",
+        "Flecainide",
+        "Metoprolol",
+        "Propranolol",
+        "Propafenone",
+        "Sotalol",
+        "Verapamil"
+      ],
+      "Considerations": "Antiarrhythmic drugs should be avoided in the first trimester to minimize the risk of congenital malformations. Beta blockers have been associated with intrauterine growth retardation."
+    }
+  },
+  "genes": []
+}

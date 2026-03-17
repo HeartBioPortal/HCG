@@ -1,0 +1,20 @@
+{
+  "content": {
+    "Synopsis": {
+      "Cor triatriatum": "Occurs when a membrane divides either the left atrium or right atrium. It is usually associated with other congenital malformations such as ASD and VSD.",
+      "Supravalvular mitral stenosis": "Typically caused by a fibrous ring, separating the mitral valve from both the left atrial appendage and the pulmonary veins. It is often part of Shone complex.",
+      "Congenital Mitral Valve Disease": "Anatomically complex and often accompanied by other lesions."
+    },
+    "Recommendations": {
+      "Cor Triatriatum Sinister": {
+        "Surgery": "Should be performed when there is a substantial gradient. Mean gradient in one series was at least 8 mm Hg.",
+        "Pulmonary Venous Stenosis": "Does not usually progress over time and not associated with PAH.",
+        "Intervention in Low Gradients": "May be warranted under specific circumstances."
+      },
+      "Congenital Mitral Stenosis": {
+        "Evaluation": "Adults with congenital mitral stenosis should be evaluated for left-sided obstructive lesions."
+      }
+    }
+  },
+  "genes": []
+}

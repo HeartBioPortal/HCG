@@ -1,0 +1,3365 @@
+{
+  "content": [
+    {
+      "content": {
+        "Title": "2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy",
+        "Organizations Involved": [
+          "American Heart Association",
+          "American College of Cardiology",
+          "American Medical Society for Sports Medicine",
+          "Heart Rhythm Society",
+          "Pediatric & Congenital Electrophysiology Society",
+          "Society for Cardiovascular Magnetic Resonance"
+        ],
+        "Committee Information": "Joint Committee on Clinical Practice Guidelines",
+        "Publication Information": "Published in the Journal of the American College of Cardiology, Vol. 83, No. 23, 2024",
+        "Approval": "This document was approved by the American College of Cardiology Clinical Policy Approval Committee and the American Heart Association Science Advisory and Coordinating Committee in January 2024, and the American College of Cardiology Science and Quality Committee and the American Heart Association Executive Committee in February 2024.",
+        "Availability": "Available on the websites of the American College of Cardiology and the American Heart Association"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "AIM": "The \"2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy\" provides recommendations to guide clinicians in the management of patients with hypertrophic cardiomyopathy.",
+        "METHODS": "A comprehensive literature search was conducted from September 14, 2022, to November 22, 2022, encompassing studies, reviews, and other evidence on human subjects that were published in English from PubMed, EMBASE, the Cochrane Library, the Agency for Healthcare Research and Quality, and other selected databases relevant to this guideline. Additional relevant studies, published through May 23, 2023, during the guideline writing process, were also considered by the writing committee and added to the evidence tables, where appropriate.",
+        "STRUCTURE": "Hypertrophic cardiomyopathy remains a common genetic heart disease reported in populations globally. Recommendations from the \"2020 AHA/ACC Guideline for the Diagnosis and Treatment of Patients With Hypertrophic Cardiomyopathy\" have been updated with new evidence to guide clinicians."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          {
+            "title": "Methodology and Evidence Review",
+            "page": "2330"
+          },
+          {
+            "title": "Composition of the Writing Committee",
+            "page": "2330"
+          },
+          {
+            "title": "Document Review and Approval",
+            "page": "2330"
+          },
+          {
+            "title": "Scope of the Guideline",
+            "page": "2330"
+          },
+          {
+            "title": "Class of Recommendations and Level of Evidence",
+            "page": "2330"
+          },
+          {
+            "title": "Abbreviations",
+            "page": "2331"
+          },
+          {
+            "title": "Definition, Etiology, Clinical Course, and Natural History",
+            "page": "2331"
+          },
+          {
+            "title": "Prevalence",
+            "page": "2331"
+          },
+          {
+            "title": "Nomenclature/Differential Diagnosis",
+            "page": "2332"
+          },
+          {
+            "title": "Definition, Clinical Diagnosis, and Phenotype",
+            "page": "2333"
+          },
+          {
+            "title": "Etiology",
+            "page": "2333"
+          },
+          {
+            "title": "Natural History and Clinical Course",
+            "page": "2334"
+          },
+          {
+            "title": "Pathophysiology",
+            "page": "2334"
+          },
+          {
+            "title": "Left Ventricular Outflow Tract Obstruction",
+            "page": "2334"
+          },
+          {
+            "title": "Diastolic Dysfunction",
+            "page": "2335"
+          },
+          {
+            "title": "Mitral Regurgitation",
+            "page": "2335"
+          },
+          {
+            "title": "Myocardial Ischemia",
+            "page": "2335"
+          },
+          {
+            "title": "Autonomic Dysfunction",
+            "page": "2335"
+          },
+          {
+            "title": "Shared Decision-Making",
+            "page": "2336"
+          },
+          {
+            "title": "Multidisciplinary HCM Centers",
+            "page": "2336"
+          },
+          {
+            "title": "Diagnosis, Initial Evaluation, and Follow-up",
+            "page": "2338"
+          },
+          {
+            "title": "Clinical Diagnosis",
+            "page": "2338"
+          },
+          {
+            "title": "Echocardiography",
+            "page": "2339"
+          },
+          {
+            "title": "CMR Imaging",
+            "page": "2341"
+          },
+          {
+            "title": "Cardiac CT",
+            "page": "2343"
+          },
+          {
+            "title": "Heart Rhythm Assessment",
+            "page": "2343"
+          },
+          {
+            "title": "Angiography and Invasive Hemodynamic Assessment",
+            "page": "2345"
+          },
+          {
+            "title": "Exercise Stress Testing",
+            "page": "2346"
+          },
+          {
+            "title": "Genetics and Family Screening",
+            "page": "2347"
+          },
+          {
+            "title": "Individuals Who Are Genotype-Positive, Phenotype-Negative",
+            "page": "2351"
+          },
+          {
+            "title": "SCD Risk Assessment and Prevention",
+            "page": "2352"
+          },
+          {
+            "title": "SCD Risk Assessment",
+            "page": "2352"
+          },
+          {
+            "title": "SCD Risk Assessment in Adults With HCM",
+            "page": "2352"
+          },
+          {
+            "title": "SCD Risk Assessment in Children and Adolescents With HCM",
+            "page": "2354"
+          },
+          {
+            "title": "Patient Selection for ICD Placement",
+            "page": "2355"
+          },
+          {
+            "title": "ICD Device Selection Considerations",
+            "page": "2358"
+          },
+          {
+            "title": "Management of HCM",
+            "page": "2360"
+          },
+          {
+            "title": "Management of Symptomatic Patients With Obstructive HCM",
+            "page": "2360"
+          },
+          {
+            "title": "Pharmacological Management of Symptomatic Patients With Obstructive HCM",
+            "page": "2360"
+          },
+          {
+            "title": "Invasive Treatment of Symptomatic Patients With Obstructive HCM",
+            "page": "2362"
+          },
+          {
+            "title": "Management of Patients with Nonobstructive HCM With Preserved EF",
+            "page": "2364"
+          },
+          {
+            "title": "Management of Patients With HCM and Advanced HF",
+            "page": "2366"
+          },
+          {
+            "title": "Management of Patients With HCM and AF",
+            "page": "2370"
+          },
+          {
+            "title": "Management of Patients With HCM and Ventricular Arrhythmias",
+            "page": "2373"
+          },
+          {
+            "title": "Lifestyle Considerations for Patients With HCM",
+            "page": "2374"
+          },
+          {
+            "title": "Recreational Physical Activity and Competitive Sports",
+            "page": "2374"
+          },
+          {
+            "title": "Occupation in Patients With HCM",
+            "page": "2376"
+          },
+          {
+            "title": "Pregnancy in Patients With HCM",
+            "page": "2377"
+          },
+          {
+            "title": "Patients With Comorbidities",
+            "page": "2379"
+          },
+          {
+            "title": "Evidence Gaps and Future Directions",
+            "page": "2380"
+          },
+          {
+            "title": "Refining the Diagnosis of HCM",
+            "page": "2380"
+          },
+          {
+            "title": "Developing Therapies to Attenuate or Prevent Disease Progression",
+            "page": "2380"
+          },
+          {
+            "title": "Improving Care for Nonobstructive HCM",
+            "page": "2380"
+          },
+          {
+            "title": "Improving and Expanding Risk Stratification",
+            "page": "2380"
+          },
+          {
+            "title": "Arrhythmia Management",
+            "page": "2380"
+          },
+          {
+            "title": "Expanding Understanding of the Genetic Architecture of HCM",
+            "page": "2380"
+          }
+        ],
+        "references": "2382",
+        "appendices": [
+          {
+            "title": "Author Relationships With Industry and Other Entities",
+            "page": "2400"
+          },
+          {
+            "title": "Reviewer Relationships With Industry and Other Entities (Comprehensive)",
+            "page": "2403"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": "The document outlines updates to the 2024 Hypertrophic Cardiomyopathy (HCM) Guidelines, highlighting revised recommendations for heart rhythm assessment, exercise stress testing, ICD placement, and management of patients with HCM. Notable changes include recommendations for heart rhythm monitoring, considerations for ICD placement, management strategies for obstructive and nonobstructive HCM, and guidance on recreational physical activity and sports participation."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Key Messages": [
+          "Shared decision-making is essential for optimal clinical care and involves discussions among patients, families, and healthcare teams regarding treatment options and personal preferences.",
+          "Referral to specialized hypertrophic cardiomyopathy (HCM) centers is essential for the management of patients, particularly for complex treatment decisions.",
+          "Family history and genetic testing are crucial for managing HCM, with the need for regular pathogenetic evaluation.",
+          "Risk assessment for sudden cardiac death is important, especially for decisions regarding implantable cardioverter-defibrillator placement.",
+          "The risk factors for sudden cardiac death in children differ from adults, and specialized management at HCM centers is recommended.",
+          "Cardiac myosin inhibitors such as Mavacamten are now available for symptomatic obstructive HCM.",
+          "Invasive septal reduction therapies are effective for drug-refractory cases.",
+          "Risk of atrial fibrillation in HCM patients necessitates careful management, with new tools aiding in risk assessment.",
+          "Exercise stress testing is valuable for identifying latent exercise-induced left ventricular outflow tract obstruction.",
+          "Regular structured exercise is beneficial for HCM patients and does not increase ventricular arrhythmias risk."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Interpretation of genetic testing is crucial for treatment decisions in patients with hypertrophic cardiomyopathy (HCM)."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Preamble": "The guidelines were developed by the American College of Cardiology (ACC) and American Heart Association (AHA) to promote cardiovascular health. They are based on systematic methods and provide a foundation for cardiovascular care delivery.",
+        "Intended Use": "These guidelines offer recommendations applicable to patients with or at risk of cardiovascular disease, primarily focusing on medical practice in the United States.",
+        "Clinical Implementation": "Effective management is achieved when recommendations are followed by practitioners and patients, emphasizing decision-making and patient engagement.",
+        "Guidelines Review": "The ACC/AHA Joint Committee continuously reviews and updates guidelines based on published standards and internal reevaluation. Guidelines are restructured for user-friendliness.",
+        "New Data and Evidence": "Guidelines are updated with new data reviewed by the writing committee. Sections are dynamically reviewed after publication, eliminating previous designations like 'full revision.'",
+        "Writing Committee": "The committee consists of experts spanning various demographics and professional societies to ensure comprehensive expertise.",
+        "Relationships with Industry": "The ACC and AHA have policies to prevent bias, ensuring transparency in relationships with industry and other entities.",
+        "Evidence Review": "Development includes evidence-based methodologies with independent evidence review commissions for significant questions."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "introduction": {
+          "methodology": "The guidelines are based on an extensive evidence review using literature from MEDLINE, EMBASE, Cochrane Library, and other databases from 2013 to 2022. The focus includes topics like hypertrophic cardiomyopathy, coronary issues, and diagnostic imaging.",
+          "writing_committee": "The committee includes a diverse group of clinicians and lay representatives from organizations such as ACC, AHA, and Heart Rhythm Society.",
+          "document_review": "A peer review process was employed involving a committee appointed by ACC and AHA.",
+          "scope": "Develops the '2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy' incorporating past guidelines."
+        },
+        "guideline_directed_management_and_therapy": "This includes clinical evaluation, diagnostics, and pharmacological and procedural treatments, meant for use in the United States."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guidelines": [
+          {
+            "title": "Hypertrophic cardiomyopathy",
+            "organizations": [
+              "ACC/AHA",
+              "ESC"
+            ],
+            "publicationYears": [
+              2011,
+              2014,
+              2020
+            ]
+          },
+          {
+            "title": "Atrial fibrillation",
+            "organizations": [
+              "AHA/ACC"
+            ],
+            "publicationYears": [
+              2014,
+              2019,
+              2023
+            ]
+          },
+          {
+            "title": "Heart failure",
+            "organizations": [
+              "ACC/AHA"
+            ],
+            "publicationYears": [
+              2013,
+              2016,
+              2022
+            ]
+          },
+          {
+            "title": "Primary prevention",
+            "organizations": [
+              "AHA/ACC"
+            ],
+            "publicationYear": 2019
+          },
+          {
+            "title": "Management of overweight and obesity in adults",
+            "organizations": [
+              "AHA/ACC/TOS"
+            ],
+            "publicationYear": 2014
+          },
+          {
+            "title": "Device-based therapy for cardiac rhythm abnormalities",
+            "organizations": [
+              "ACC/AHA/HRS"
+            ],
+            "publicationYear": 2013
+          },
+          {
+            "title": "Ventricular arrhythmias and sudden cardiac death",
+            "organizations": [
+              "AHA/ACC/HRS"
+            ],
+            "publicationYear": 2017
+          },
+          {
+            "title": "Bradycardia",
+            "organizations": [
+              "ACC/AHA/HRS"
+            ],
+            "publicationYear": 2018
+          },
+          {
+            "title": "Prevention of cardiovascular disease in women",
+            "organizations": [
+              "AHA/ACC"
+            ],
+            "publicationYear": 2011
+          },
+          {
+            "title": "Secondary prevention and risk reduction therapy for patients with coronary and other atherosclerotic vascular disease",
+            "organizations": [
+              "AHA/ACC"
+            ],
+            "publicationYear": 2011
+          },
+          {
+            "title": "Assessment of cardiovascular risk in asymptomatic adults",
+            "organizations": [
+              "ACC/AHA"
+            ],
+            "publicationYear": 2010
+          },
+          {
+            "title": "Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure",
+            "organizations": [
+              "NHLBI"
+            ],
+            "publicationYear": 2003
+          },
+          {
+            "title": "VHD statement on comprehensive centers",
+            "organizations": [
+              "AATS/ACC/ASE/SCAI/STS"
+            ],
+            "publicationYear": 2019
+          }
+        ],
+        "abbreviations": [
+          {
+            "Abbreviation": "LBBB",
+            "Meaning": "left bundle branch block"
+          },
+          {
+            "Abbreviation": "LGE",
+            "Meaning": "late gadolinium enhancement"
+          },
+          {
+            "Abbreviation": "LV",
+            "Meaning": "left ventricular"
+          },
+          {
+            "Abbreviation": "LVAD",
+            "Meaning": "left ventricular assist device"
+          },
+          {
+            "Abbreviation": "LVEF",
+            "Meaning": "left ventricular ejection fraction"
+          },
+          {
+            "Abbreviation": "LVH",
+            "Meaning": "left ventricular hypertrophy"
+          },
+          {
+            "Abbreviation": "LVOT",
+            "Meaning": "left ventricular outflow tract"
+          },
+          {
+            "Abbreviation": "LVOTO",
+            "Meaning": "left ventricular outflow tract obstruction"
+          },
+          {
+            "Abbreviation": "MET",
+            "Meaning": "metabolic equivalent"
+          },
+          {
+            "Abbreviation": "MR",
+            "Meaning": "mitral regurgitation"
+          },
+          {
+            "Abbreviation": "NSVT",
+            "Meaning": "nonsustained ventricular tachycardia"
+          },
+          {
+            "Abbreviation": "NYHA",
+            "Meaning": "New York Heart Association"
+          },
+          {
+            "Abbreviation": "RCT",
+            "Meaning": "randomized controlled trial"
+          },
+          {
+            "Abbreviation": "RV",
+            "Meaning": "right ventricular"
+          },
+          {
+            "Abbreviation": "SAM",
+            "Meaning": "systolic anterior motion"
+          },
+          {
+            "Abbreviation": "SCAF",
+            "Meaning": "subclinical atrial fibrillation"
+          },
+          {
+            "Abbreviation": "SCD",
+            "Meaning": "sudden cardiac death"
+          },
+          {
+            "Abbreviation": "SRT",
+            "Meaning": "septal reduction therapy"
+          },
+          {
+            "Abbreviation": "TEE",
+            "Meaning": "transesophageal echocardiogram"
+          },
+          {
+            "Abbreviation": "TTE",
+            "Meaning": "transthoracic echocardiogram"
+          },
+          {
+            "Abbreviation": "VF",
+            "Meaning": "ventricular fibrillation"
+          },
+          {
+            "Abbreviation": "VT",
+            "Meaning": "ventricular tachycardia"
+          },
+          {
+            "Abbreviation": "VUS",
+            "Meaning": "variant of uncertain significance"
+          },
+          {
+            "Abbreviation": "AF",
+            "Meaning": "atrial fibrillation"
+          },
+          {
+            "Abbreviation": "CAD",
+            "Meaning": "coronary artery disease"
+          },
+          {
+            "Abbreviation": "CMR",
+            "Meaning": "cardiovascular magnetic resonance"
+          },
+          {
+            "Abbreviation": "CPET",
+            "Meaning": "cardiopulmonary exercise test"
+          },
+          {
+            "Abbreviation": "CRT",
+            "Meaning": "cardiac resynchronization therapy"
+          },
+          {
+            "Abbreviation": "DOAC",
+            "Meaning": "direct-acting oral anticoagulants"
+          },
+          {
+            "Abbreviation": "EF",
+            "Meaning": "ejection fraction"
+          },
+          {
+            "Abbreviation": "ES",
+            "Meaning": "extended septal myectomy"
+          },
+          {
+            "Abbreviation": "GDMT",
+            "Meaning": "guideline-directed management and therapy"
+          },
+          {
+            "Abbreviation": "HCM",
+            "Meaning": "hypertrophic cardiomyopathy"
+          },
+          {
+            "Abbreviation": "HF",
+            "Meaning": "heart failure"
+          },
+          {
+            "Abbreviation": "ICD",
+            "Meaning": "implantable cardioverter-defibrillator"
+          }
+        ],
+        "section_2_1": {
+          "title": "Prevalence",
+          "details": "HCM is a common inherited heart disease reported in populations globally. The estimated prevalence of HCM varies depending on whether subclinical or clinically evident cases are being considered, how or if the diagnosis is adjudicated, and age of the sample studied. The prevalence of unexplained asymptomatic hypertrophy in young adults in the United States has been reported in the range of 1:500. Symptomatic hypertrophy based on medical claims data has been estimated at <1:3000 adults in the United States; however, the true burden is much higher when unrecognized disease in the general population is considered. HCM is often inherited in an autosomal dominant pattern but does not require a family history of HCM. There is equal distribution of HCM by sex, although women are diagnosed less commonly than men. Differences in prevalence have been reported by race and ethnicity."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_info": {
+          "title": "Applying American College of Cardiology/American Heart Association Class of Recommendation and Level of Evidence to Clinical Strategies, Interventions, Treatments, or Diagnostic Testing in Patient Care",
+          "updated": "May 2019",
+          "class_of_recommendation": {
+            "class_1": "Strong. Benefit >>> Risk. Includes phrases like 'Is recommended' and 'Should be performed/administered/other'.",
+            "class_2a": "Moderate. Benefit >> Risk. Includes phrases like 'Is reasonable' and 'Treatment/strategy A is probably recommended'.",
+            "class_2b": "Weak. Benefit = Risk. Includes phrases like 'May/might be reasonable' and 'Usefulness/effectiveness is unknown/unclear'.",
+            "class_3_no_benefit": "Moderate. Benefit = Risk. Includes phrases like 'Is not recommended' and 'Should not be performed/administered/other'.",
+            "class_3_harm": "Strong. Risk > Benefit. Includes phrases like 'Potentially harmful' and 'Should not be performed/administered/other'."
+          },
+          "level_of_evidence": {
+            "level_a": "High-quality evidence from more than 1 RCTs. Meta-analyses of high-quality RCTs.",
+            "level_b-r": "Moderate-quality evidence from 1 or more RCTs. Meta-analyses of moderate-quality RCTs.",
+            "level_b-nr": "Moderate-quality evidence from well-executed nonrandomized studies, observational studies, or registry studies.",
+            "level_c-ld": "Randomized or nonrandomized observational or registry studies with limitations. Meta-analyses of such studies.",
+            "level_c-eo": "Consensus of expert opinion based on clinical experience."
+          },
+          "additional_info": {
+            "importance_of_rct": "RCTs are crucial but not always necessary if clinical consensus is clear.",
+            "method_of_assessment": "Including use of standardized and validated evidence grading tools.",
+            "context": "Epidemiological studies indicate the need to understand the interplay between genetics and social factors in HCM."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Context": "The document focuses on hypertrophic cardiomyopathy (HCM), its clinical definition, diagnosis, and phenotype. It distinguishes HCM from other conditions that may mimic its symptoms, such as RASopathies, mitochondrial myopathies, glycogen storage diseases, Fabry disease, amyloid cardiomyopathies, and stress cardiomyopathy. The importance of genetic testing in diagnosing HCM and differentiating it from other conditions is emphasized.",
+        "Diagnostic Criteria": "HCM diagnosis is primarily based on the imaging of the heart showing abnormal left ventricular thickness, specifically through 2D echocardiography or cardiovascular magnetic resonance. A maximal end-diastolic wall thickness of 15mm or more in adults is indicative of HCM.",
+        "Screening Recommendations": "Asymptomatic children with a family history of HCM or a positive genetic test may be screened with a threshold of a z-score >2. Family members with pathogenic variants should be carefully monitored for early detection.",
+        "Morphological Features": "Various morphological abnormalities are part of the phenotype, including hypertrophied papillary muscles, myocardial crypts, and anomalous mitral valve insertions. These features are not pathognomonic but part of the diagnostic criteria.",
+        "Genetic Basis": "The section discusses the genetic components of HCM, identifying variants in known sarcomere genes linked to the condition. Approximately 30% to 60% of HCM patients have identifiable genetic variants."
+      },
+      "genes": [
+        {
+          "Gene": "RAS-MAPK",
+          "Associated Conditions": [
+            "RASopathies"
+          ],
+          "Occurrences": 1,
+          "context": "RASopathies (variants in several genes involved in RAS-MAPK signaling) can mimic the conditions of HCM."
+        }
+      ]
+    },
+    {
+      "content": {
+        "summary": "The guideline discusses genetic variants linked to Hypertrophic Cardiomyopathy (HCM) with some patients showing no evidenced genetic etiology, suggesting new pathophysiologic mechanisms. It highlights sarcomeric genes like MYH7 and MYBPC3 as common variants. Other genes like TNNI3, TNNT2, TPM1, MYL2, MYL3, and ACTC1 are mentioned with less frequency. HCM can lead to adverse events including morality, heart failure, and atrial fibrillation, with risk factors like obesity and diabetes being influential. Prevention includes risk stratification for sudden cardiac death and consideration of implantable devices."
+      },
+      "genes": [
+        {
+          "Gene": "MYH7",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy (HCM)",
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Among patients with HCM and a pathogenic sarcomeric gene variant, the 2 most common genes are beta myosin heavy chain 7 (MYH7)..."
+        },
+        {
+          "Gene": "MYBPC3",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy (HCM)",
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Among patients with HCM and a pathogenic sarcomeric gene variant, the 2 most common genes are beta myosin heavy chain 7 (MYH7) and myosin-binding protein C3 (MYBPC3)..."
+        },
+        {
+          "Gene": "TNNI3",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy (HCM)"
+          ],
+          "Occurrences": 1,
+          "context": "variant positive, while other genes (TNNI3, TNNT2, TPM1, MYL2, MYL3, ACTC1) can account for a small proportion of patients (1%-5%)..."
+        },
+        {
+          "Gene": "TNNT2",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy (HCM)",
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "variant positive, while other genes (TNNI3, TNNT2, TPM1, MYL2, MYL3, ACTC1) can account for a small proportion of patients (1%-5%)..."
+        },
+        {
+          "Gene": "TPM1",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy (HCM)",
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "variant positive, while other genes (TNNI3, TNNT2, TPM1, MYL2, MYL3, ACTC1) can account for a small proportion of patients (1%-5%)..."
+        },
+        {
+          "Gene": "MYL2",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy (HCM)",
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "variant positive, while other genes (TNNI3, TNNT2, TPM1, MYL2, MYL3, ACTC1) can account for a small proportion of patients (1%-5%)..."
+        },
+        {
+          "Gene": "MYL3",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy (HCM)",
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "variant positive, while other genes (TNNI3, TNNT2, TPM1, MYL2, MYL3, ACTC1) can account for a small proportion of patients (1%-5%)..."
+        },
+        {
+          "Gene": "ACTC1",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy (HCM)",
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "variant positive, while other genes (TNNI3, TNNT2, TPM1, MYL2, MYL3, ACTC1) can account for a small proportion of patients (1%-5%)..."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Clinical Guideline": "This clinical guideline discusses hypertrophic cardiomyopathy (HCM) with a focus on left ventricular outflow tract obstruction (LVOTO), diastolic dysfunction, mitral regurgitation (MR), myocardial ischemia, and autonomic dysfunction.",
+        "LVOTO": "Obstruction is considered present if peak LVOT gradient is \u226530 mm Hg. Provocative maneuvers may be used to assess symptoms.",
+        "Diastolic Dysfunction": "Altered ventricular load with high intracavitary pressures and impaired LV compliance can cause diastolic abnormalities in young sarcomere gene variant carriers.",
+        "Mitral Regurgitation": "MR in HCM may be caused by systolic anterior motion (SAM) of the mitral valve, leading to a variety of potential symptoms.",
+        "Myocardial Ischemia": "Patients may be susceptible to ischemia due to mismatch between oxygen supply and demand, often exacerbated by the presence of hyperdynamic systolic function.",
+        "Autonomic Dysfunction": "Patients with HCM may experience autonomic dysfunction, with no specific recommendations for assessment."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Shared Decision-Making": {
+          "Recommendation": "For patients with HCM or at risk for HCM, shared decision-making is recommended in developing a plan of care including genetic evaluation, activity, lifestyle, and therapy choices with full disclosure of risks and benefits.",
+          "Synopsis": "Shared decision-making involves patients, families, and health care professionals collaborating to consider the patient's input and preferences, improving confidence and outcomes.",
+          "Supportive Text": "In HCM management, decisions about genetic testing, ICD implantation, advanced therapies for LVOTO, and exercise participation are crucial for discussions. Multidisciplinary HCM Centers provide opportunities for comprehensive experience."
+        },
+        "Multidisciplinary HCM Centers": {
+          "Recommendations": [
+            {
+              "COR": "1",
+              "LOE": "C-LD",
+              "Text": "In patients with HCM where SRT is indicated, procedures should occur at experienced centers with clinical outcomes excellence."
+            },
+            {
+              "COR": "2a",
+              "LOE": "C-LD",
+              "Text": "For patients with HCM, consultation or referral to comprehensive or primary HCM centers is advisable for managing complex disease-related decisions."
+            }
+          ],
+          "Synopsis": "The evolving management of HCM calls for HCM centers with specific competencies. These centers optimize care for patients and offer roles for cardiologists both within and outside HCM centers.",
+          "Supportive Text": "Referral to HCM centers provides comprehensive management, genetic counseling, advanced treatment advice, and high-level longitudinal care. Inexperienced centers performing invasive SRT may result in low procedural volume."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Suggested Competencies": {
+          "Comprehensive HCM Centers": [
+            "Diagnosis",
+            "Initial and surveillance TTE",
+            "Advanced echocardiographic imaging",
+            "Echocardiography to guide SRT",
+            "CMR imaging",
+            "Invasive evaluation for LVOTO",
+            "Coronary angiography",
+            "Stress testing",
+            "Counseling and performing family screening",
+            "Genetic testing and counseling",
+            "SCD risk assessment",
+            "ICD implantation (adults and children)",
+            "Initial AF management and stroke prevention",
+            "AF catheter ablation",
+            "Initial management of HFref and HFpef",
+            "Advanced HF management",
+            "Pharmacological therapy for HCM",
+            "Invasive management of symptomatic obstructive HCM",
+            "Counseling on patient conduct",
+            "Counseling on participation in athletics",
+            "Managing women with HCM through pregnancy",
+            "Management of comorbidities"
+          ],
+          "Primary HCM Centers and Referring Centers": [
+            "Diagnosis",
+            "Initial and surveillance TTE",
+            "CMR imaging",
+            "Genetic testing and counseling",
+            "SCD risk assessment",
+            "ICD implantation",
+            "Initial AF management and stroke prevention",
+            "Pharmacological therapy for HCM",
+            "Invasive management of symptomatic obstructive HCM",
+            "Counseling on patient conduct",
+            "Managing women with HCM through pregnancy"
+          ]
+        },
+        "Targets for Invasive Septal Reduction Therapies Outcomes": {
+          "Alcohol Septal Myectomy and Ablation": {
+            "30-d mortality": "\u22641%",
+            "30-d adverse complications": "\u22645%",
+            "30-d complete heart block": "\u22645%",
+            "Mitral valve replacement within 1 y": "\u22645%",
+            "Moderate residual mitral regurgitation": "\u22645%",
+            "Repeat procedure rate": "\u22643%",
+            "Symptomatic improvement": ">90%",
+            "Rest and provoked LVOT gradient <50 mm Hg": ">90%"
+          }
+        },
+        "Further Recommendations": [
+          "Referral to established high-volume centers for procedures with optimal safety and benefit.",
+          "Ensure comprehensive centers discuss potential alternative options with patients.",
+          "Guidance on management and referral decisions for complex procedures."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "diagnosis_evaluation": "Clinical evaluation for HCM should start with a comprehensive cardiac history, including a family history of 3 generations. This is followed by a physical examination and specific diagnostic tests to confirm or rule out HCM.",
+        "recommendation": "In patients with suspected hypertrophic cardiomyopathy (HCM), a thorough physical examination and a detailed medical and 3-generation family history are recommended.",
+        "screening": "Screening with echocardiography is recommended in asymptomatic family members. The timing of screenings varies based on age and family history.",
+        "clinical_features": {
+          "infants_and_toddlers": "Dysmorphic features, failure to thrive in conditions like RASopathies, glycogen storage diseases.",
+          "early_childhood": "Delayed or abnormal development related to RASopathies and mitochondrial diseases.",
+          "youth_and_adolescence": "Skeletal muscle weakness, ataxia due to conditions like Friedreich\u2019s ataxia.",
+          "adulthood": "Movement disorder, neuropathy associated with diseases like Anderson-Fabry."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Echocardiography Recommendations": [
+          {
+            "Recommendation": "In patients with suspected HCM, a transthoracic echocardiogram (TTE) is recommended in the initial evaluation.",
+            "References": "1-6",
+            "COR": "1",
+            "LOE": "B-NR"
+          },
+          {
+            "Recommendation": "In patients with HCM who have no change in clinical status or events, repeat TTE is recommended every 1 to 2 years to assess the degree of myocardial hypertrophy, dynamic LVOTO, MR, and myocardial function.",
+            "References": "7-14",
+            "COR": "1",
+            "LOE": "B-NR (children), C-LD (adults)"
+          },
+          {
+            "Recommendation": "For patients with HCM who experience a change in clinical status or a new clinical event, repeat TTE is recommended.",
+            "References": "9,14-17",
+            "COR": "1",
+            "LOE": "B-NR"
+          },
+          {
+            "Recommendation": "For patients with HCM and resting peak LVOT gradient <50 mm Hg, a TTE with provocative maneuvers is recommended.",
+            "References": "18-21",
+            "COR": "1",
+            "LOE": "B-NR"
+          },
+          {
+            "Recommendation": "For symptomatic patients with HCM who do not have a resting or provocable outflow tract peak gradient \u226550 mm Hg on TTE, exercise TTE is recommended for the detection and quantification of dynamic LVOTO.",
+            "References": "20-25",
+            "COR": "1",
+            "LOE": "B-NR"
+          },
+          {
+            "Recommendation": "For patients with HCM who are undergoing surgical septal myectomy, intraoperative transesophageal echocardiogram (TEE) is recommended to assess mitral valve anatomy and function and adequacy of septal myectomy.",
+            "References": "26-29",
+            "COR": "1",
+            "LOE": "B-NR"
+          },
+          {
+            "Recommendation": "For patients with HCM who are undergoing alcohol septal ablation, TTE or intraoperative TEE with intracoronary ultrasound-enhancing contrast injection of the candidate's septal perforator(s) is recommended.",
+            "References": "30-34",
+            "COR": "1",
+            "LOE": "B-NR"
+          },
+          {
+            "Recommendation": "For patients with HCM who have undergone SRT, TTE within 3 to 6 months after the procedure is recommended to evaluate the procedural results.",
+            "References": "35-38",
+            "COR": "1",
+            "LOE": "B-NR"
+          },
+          {
+            "Recommendation": "Screening: In first-degree relatives of patients with HCM, a TTE is recommended as part of initial family screening and periodic follow-up.",
+            "References": "7,25,54, Table 2",
+            "COR": "1",
+            "LOE": "B-NR"
+          },
+          {
+            "Recommendation": "Screening: In individuals who are genotype-positive, phenotype-negative, echocardiography is recommended at periodic intervals depending on age (1-2 years in children and adolescents, 3-5 years in adults) and change in clinical status.",
+            "References": "19-23",
+            "COR": "1",
+            "LOE": "B-NR"
+          },
+          {
+            "Recommendation": "For patients with HCM, TEE can be useful if TTE is inconclusive in clinical decision-making regarding medical therapy, and in situations such as planning for myectomy, exclusion of subaortic membrane or MR secondary to structural abnormalities of the mitral valve apparatus, or in the assessment of the feasibility of alcohol septal ablation.",
+            "References": "26-29",
+            "COR": "2a",
+            "LOE": "C-LD"
+          },
+          {
+            "Recommendation": "For patients with HCM in whom the diagnosis of apical HCM, apical aneurysm, or atypical patterns of hypertrophy is inconclusive on TTE, the use of an intravenous ultrasound-enhancing agent is reasonable, particularly if other imaging modalities such as CMR are not readily available or are contraindicated.",
+            "References": "44,45",
+            "COR": "2a",
+            "LOE": "B-NR"
+          },
+          {
+            "Recommendation": "For asymptomatic patients with HCM who do not have a resting or provocable outflow tract peak gradient \u226550 mm Hg on standard TTE, exercise TTE is reasonable for the detection and quantification of dynamic LVOTO.",
+            "References": "15,19,20,22-25",
+            "COR": "2a",
+            "LOE": "C-LD"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Cardiac imaging is critical for diagnosing and managing hypertrophic cardiomyopathy (HCM). Echocardiography is the main tool, with CMR as an adjunct. Imaging helps diagnose, assess severity and associated cardiac abnormalities, and risk stratification.",
+        "Recommendations": [
+          "Comprehensive 2D echocardiography is primary for diagnosing HCM, assessing LV apical aneurysms, LV function, mitral valve function, and LVOTO severity.",
+          "Routine follow-up using TTE every 1 to 2 years in asymptomatic HCM patients is crucial to monitor changes.",
+          "Changes in HCM symptoms require thorough evaluation due to possible hemodynamic or valvular disease changes. Echocardiography is primary in symptom evaluation.",
+          "LVOT gradients are dynamic; provocative maneuvers can help detect LVOTO.",
+          "Effort-related symptoms attributed to LVOTO require specific criteria to diagnose.",
+          "Intraoperative TEE is standard for surgical guidance in HCM, assessing residual SAM and LVOTO.",
+          "TTE or TEE can help guide alcohol septal ablation with ultrasound-enhancing agents improving outcomes.",
+          "Post-SRT, evaluation of septal thickness and gradient decrease is recommended, acknowledging post-operative variability.",
+          "Following HCM diagnosis, first-degree relatives should undergo echocardiography screening."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "pediatric studies yield": "Pediatric studies show echocardiographic screening for clinical HCM in first-degree relatives was 10% to 15% throughout childhood and adolescence.",
+        "median age of HCM onset": "Median age at HCM onset was 8.9 years in males.",
+        "family history and genetics": "Particularly noted in those with family history, SCD, and pathogenic variants in MYH7/MYBPC3.",
+        "clinical screening": "Regular screening is advised in childhood and adulthood for families with history of HCM.",
+        "TEE and HCM": "TEE is useful in uncertain cases of mitral valve issues or valve stenosis.",
+        "CMR imaging recommendation": [
+          "Suspected HCM when echocardiography is inconclusive.",
+          "LVH with suspicion of alternative diagnoses.",
+          "HCM not high risk for SCD needs CMR for detailed assessment.",
+          "Obstructive HCM with inconclusive echocardiography."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "MYH7",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Particularly noted in those with family history, SCD, and pathogenic variants in MYH7/MYBPC3."
+        },
+        {
+          "Gene": "MYBPC3",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Particularly noted in those with family history, SCD, and pathogenic variants in MYH7/MYBPC3."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Synopsis": "CMR imaging offers high spatial resolution for detecting and assessing myocardial replacement fibrosis (LGE). It's key for diagnosing, predicting risks in hypertrophic cardiomyopathy (HCM), and planning procedures. CMR imaging can quantify LV wall thickness, LV and RV chamber size, LV mass, systolic function, and apical aneurysms. LGE indicates higher cardiac arrest risk due to ventricular tachyarrhythmias and can guide therapy decisions, especially when echocardiography results are ambiguous.",
+        "Recommendations": [
+          "CMR imaging is critical for suspected HCM when cardiac symptoms, an abnormal 12-lead ECG, or family history are present, especially when standard tests are inconclusive.",
+          "Differences in LVH patterns and LGE help distinguish HCM from other conditions like storage diseases or infiltrative cardiomyopathies.",
+          "LGE is linked with higher risk for ventricular arrhythmias and HF symptoms, aiding in ICD therapy decisions.",
+          "CMR can characterize LVOT anatomy for potential septal myectomy or alcohol ablation.",
+          "CMR aids in managing high-risk morphologic features, helping prevent SCD and guiding ICD therapy."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Cardiac CT": {
+          "Recommendation": "In adult patients with suspected HCM, cardiac CT may be considered for diagnosis if the echocardiogram is not diagnostic and CMR imaging is unavailable.",
+          "Uses": [
+            "Clear definition of LV structure including hypertrophy pattern, wall thickness measurement, detection of subaortic membrane, and intracardiac thrombus",
+            "Assessment of myocardial fibrosis",
+            "Assessment of coronary anatomy including stenosis and anomalies"
+          ],
+          "Disadvantages": [
+            "Radiation and radioiodine contrast exposure",
+            "Inferior temporal resolution compared with echocardiography"
+          ]
+        },
+        "Heart Rhythm Assessment": {
+          "Recommendations": [
+            "Use of 12-lead ECG in patients with HCM for initial evaluation and periodic follow-up.",
+            "Ambulatory electrocardiographic monitoring (24- to 48-hour) in patients with HCM to detect arrhythmias.",
+            "Extended (>24 hours) electrocardiographic monitoring for patients with HCM experiencing palpitations or lightheadedness.",
+            "12-lead ECG for first-degree relatives of patients with HCM.",
+            "Extended ambulatory monitoring for patients at high risk of AF.",
+            "Consider extended ambulatory monitoring in adult patients without risk factors for AF who are anticoagulation-eligible."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Both 12-lead electrocardiographic and ambulatory monitoring are necessary for patients with HCM. A 12-lead ECG can provide information about LVH and repolarization abnormalities, and arrhythmias like bradycardia and tachycardia. Ambulatory monitoring is important for evaluating SCD risk. Extended monitoring helps determine the cause of symptoms or diagnose AF, especially in patients with risk factors.",
+        "Clinical Studies": "Broad spectrum of arrhythmias in HCM patients, correlation of symptoms with monitor findings is vital.",
+        "Screening": "ECGs are standard for initial screening of relatives with HCM. Electrocardiographic abnormalities can indicate LVH development in gene carriers.",
+        "Recommendation-Specific Supportive Text": [
+          "12-lead ECG abnormal in 75%-95% of HCM patients and helps identify phenocopies like atypical patterns.",
+          "Ambulatory monitoring is valuable for ventricular tachyarrhythmias like NSVT.",
+          "Extended ambulatory monitoring advised in patients with symptoms.",
+          "AF linked with adverse outcomes in HCM; screening and intervention developed via HCM-AF score."
+        ],
+        "Conditions Discussed": [
+          "HCM",
+          "LVH",
+          "Repolarization abnormalities",
+          "Arrhythmias (Bradycardia, Tachycardia)",
+          "SCD",
+          "AF",
+          "NSVT"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "6.6. Angiography and Invasive Hemodynamic Assessment",
+        "recommendations": [
+          {
+            "COR": "1",
+            "LOE": "B-NR",
+            "text": "For patients with symptomatic HCM for whom there is uncertainty regarding the presence or severity of LVOTO on noninvasive imaging studies, invasive hemodynamic assessment with cardiac catheterization is recommended."
+          },
+          {
+            "COR": "1",
+            "LOE": "B-NR",
+            "text": "In patients with HCM who have symptoms or evidence of myocardial ischemia, coronary angiography (CT or invasive) is recommended."
+          },
+          {
+            "COR": "1",
+            "LOE": "B-NR",
+            "text": "In patients with HCM who are at risk of coronary atherosclerosis, coronary angiography (CT or invasive) is recommended before surgical myectomy."
+          }
+        ],
+        "synopsis": "Echocardiography remains the gold standard for assessing dynamic outflow tract obstruction in HCM. Invasive hemodynamic assessment should be undertaken only when diagnostic information cannot be obtained from clinical and noninvasive imaging. This assessment is crucial for patients with persistent symptoms to fully characterize hemodynamic profile and LVOTO presence or severity. Outflow gradients can vary, influenced by myocardial contractility and loading conditions, thus provocative maneuvers are necessary to identify latent gradients. Coronary angiography aids in evaluating coronary atherosclerosis and significant myocardial bridging, informing surgical decisions.",
+        "contexts": [
+          "Outflow gradients can be dynamic with variability influenced by altered myocardial contractility.",
+          "Chest discomfort is common in HCM patients due to atherosclerotic coronary risk factors.",
+          "Coronary angiography is normal in those who need surgical myectomy to address coronary atherosclerosis."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "cor": "1",
+            "loe": "B-NR",
+            "recommendation": "For symptomatic patients with HCM who do not have resting or provocable outflow tract peak gradient \u226550 mm Hg on TTE, exercise TTE is recommended for the detection and quantification of dynamic LVOTO."
+          },
+          {
+            "cor": "1",
+            "loe": "B-NR",
+            "recommendation": "In patients with nonobstructive HCM and advanced HF (NYHA functional class III to class IV), cardiopulmonary exercise stress testing should be performed to quantify the degree of functional limitation and aid in selection of patients for heart transplantation or mechanical circulatory support."
+          },
+          {
+            "cor": "1",
+            "loe": "B-NR",
+            "recommendation": "In pediatric patients with HCM, regardless of symptom status, exercise stress testing is recommended to determine functional capacity and to provide prognostic information."
+          },
+          {
+            "cor": "2a",
+            "loe": "B-NR",
+            "recommendation": "In adult patients with HCM, exercise stress testing is reasonable to determine functional capacity and to provide prognostic information as part of initial evaluation."
+          },
+          {
+            "cor": "2a",
+            "loe": "C-LD",
+            "recommendation": "For asymptomatic patients with HCM who do not have a resting or provocable outflow tract peak gradient \u226550 mm Hg on standard TTE, exercise TTE is reasonable for the detection and quantification of dynamic LVOTO."
+          },
+          {
+            "cor": "2b",
+            "loe": "C-LD",
+            "recommendation": "In patients with obstructive HCM and ambiguous functional capacity, exercise stress testing may be reasonable to guide therapy."
+          },
+          {
+            "cor": "2b",
+            "loe": "C-EO",
+            "recommendation": "In patients with HCM for whom it is unclear if their functional capacity has declined, exercise stress testing may be considered every 2 to 3 years."
+          }
+        ],
+        "synopsis": "In patients with HCM, exercise stress testing is safe and provides information on the severity and mechanism of functional limitation. It is especially useful in predicting adverse events, including death, HF, and ventricular arrhythmias. It helps assess functional capacity and guides therapy decisions.",
+        "recommendation_specific_supportive_text": "Stress echocardiography can be useful particularly if the patient shows symptoms after meals. CPET is a standard part of evaluation for patients with severe symptoms. In pediatric patients, a strong association of exercise-induced changes with abnormal blood pressure response exists."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations for Genetics and Family Screening": [
+          {
+            "Level": "1 B-NR",
+            "Recommendation": "In patients with HCM, evaluation of familial inheritance, including a 3-generation family history, is recommended as part of the initial assessment."
+          },
+          {
+            "Level": "1 B-NR",
+            "Recommendation": "In patients with HCM, genetic testing is beneficial to elucidate the genetic basis to facilitate the identification of family members at risk for developing HCM (cascade testing)."
+          },
+          {
+            "Level": "1 B-NR",
+            "Recommendation": "In patients with an atypical clinical presentation of HCM or when another genetic condition is suspected to be the cause, a workup including genetic testing for HCM and other genetic causes of unexplained cardiac hypertrophy is recommended."
+          },
+          {
+            "Level": "1 B-NR",
+            "Recommendation": "In patients with HCM, genetic counseling by an expert in the genetics of cardiovascular disease is recommended so that risks, benefits, test results, and their clinical significance can be reviewed and discussed with the patient in a shared decision-making process."
+          },
+          {
+            "Level": "1 B-NR",
+            "Recommendation": "When performing genetic testing in a proband with HCM, the initial tier of genes tested should include genes with strong evidence to be disease-causing in HCM."
+          },
+          {
+            "Level": "1 B-NR",
+            "Recommendation": "In first-degree relatives of patients with HCM, both clinical screening and cascade genetic testing (when a pathogenic/likely pathogenic variant has been identified in the proband) should be offered."
+          },
+          {
+            "Level": "1 B-NR",
+            "Recommendation": "In families where a sudden unexplained death has occurred with a postmortem diagnosis of HCM, postmortem genetic testing is beneficial to facilitate cascade genetic testing and clinical screening in first-degree relatives."
+          },
+          {
+            "Level": "1 B-NR",
+            "Recommendation": "In patients with HCM who have undergone genetic testing, serial reevaluation of the clinical significance of the variant(s) identified is recommended to assess for variant reclassification, which may impact diagnosis and cascade genetic testing in family members."
+          },
+          {
+            "Level": "1 B-NR",
+            "Recommendation": "In affected families with HCM, preconception and prenatal reproductive and genetic counseling should be offered."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Genetic testing plays a crucial role in diagnosing and managing hypertrophic cardiomyopathy (HCM) in patients and families. HCM is inherited, with offspring having a 50% chance of inheriting the genetic variant. A thorough family history assessment and genetic testing should form a part of the clinical management of patients with HCM. Genetic assessment should be conducted in specialized centers.",
+        "Recommendation-Specific Supportive Text": [
+          "Family history collection assists in identifying affected and at-risk family members.",
+          "Genetic testing is crucial for confirming diagnosis, cascade testing in the family, and guiding reproductive decisions.",
+          "Genes related to HCM can be included in first-tier testing if clinical suspicion of related systemic disorders exists.",
+          "Genetic counseling is essential to help patients understand the implications of genetic findings.",
+          "HCM primarily affects the sarcomere. Genetic panels can detect disease-causing variants in 30% of sporadic and 60% of familial cases, but only 10% of patients show a core sarcomeric variant in the absence of family history."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "MYH7",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Gene panels include 8 sarcomere genes, including MYH7."
+        },
+        {
+          "Gene": "MYBPC3",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Gene panels include 8 sarcomere genes, including MYBPC3."
+        },
+        {
+          "Gene": "TNNT2",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 2,
+          "context": "Gene panels include 8 sarcomere genes, including TNNT2."
+        },
+        {
+          "Gene": "TPM1",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Gene panels include 8 sarcomere genes, including TPM1."
+        },
+        {
+          "Gene": "MYL2",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Gene panels include 8 sarcomere genes, including MYL2."
+        },
+        {
+          "Gene": "MYL3",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Gene panels include 8 sarcomere genes, including MYL3."
+        },
+        {
+          "Gene": "ACTC1",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Gene panels include 8 sarcomere genes, including ACTC1."
+        },
+        {
+          "Gene": "PRKAG2",
+          "Associated Conditions": [
+            "Glycogen Storage Disease"
+          ],
+          "Occurrences": 1,
+          "context": "Suspicion based on phenotype evaluation of a systemic disorder, including PRKAG2."
+        },
+        {
+          "Gene": "LAMP2",
+          "Associated Conditions": [
+            "Danon Disease",
+            "Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Suspicion based on phenotype evaluation of a systemic disorder, including LAMP2."
+        },
+        {
+          "Gene": "GLA",
+          "Associated Conditions": [
+            "Fabry Disease"
+          ],
+          "Occurrences": 1,
+          "context": "Suspicion based on phenotype evaluation of a systemic disorder, including GLA."
+        }
+      ]
+    },
+    {
+      "content": {
+        "genetic_testing": "Genetic testing is crucial in managing Hypertrophic Cardiomyopathy (HCM). It helps in identifying clinically actionable results which offer diagnostic clarification for the proband and cascade testing for at-risk family members.",
+        "cascade_testing": "Upon identifying a pathogenic or likely pathogenic variant, cascade testing in family members can be initiated to find at-risk individuals for further lifelong clinical surveillance. Testing is also recommended for sarcomere gene variants, which are associated with more severe disease manifestations.",
+        "postmortem_testing": "This can be useful if a family variant is suspected but unknown, and it may guide cascade genetic testing.",
+        "frequency_of_testing": "Approximately 11% of variants can be reclassified over time, affecting the clinical management of family members.",
+        "autosomal_dominant_inheritance": "HCM is inherited in an autosomal dominant pattern with a 50% chance of passing it to offspring.",
+        "counseling": "Genetic counseling is advised to explain risks, especially related to reproductive options and disease transmission."
+      },
+      "genes": [
+        {
+          "Gene": "Sarcomere Variants",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy",
+            "Sudden Cardiac Death"
+          ],
+          "Occurrences": 3,
+          "context": "Sarcomere variants are associated with more severe disease, including earlier onset, higher incidence of SCD, and arrhythmias. Patients with such variants have worse prognosis compared to those without."
+        }
+      ]
+    },
+    {
+      "content": {
+        "guideline_overview": "The guideline addresses the evaluation and testing protocol for individuals with suspected or family history of Hypertrophic Cardiomyopathy (HCM).",
+        "key_points": [
+          "A Variant of Uncertain Significance (VUS) in a proband is not actionable but may warrant family member testing in certain research or clinical settings to further clarify pathogenicity.",
+          "If genetic testing does not identify a pathogenic variant in HCM patients, further genetic testing in family members is not indicated.",
+          "For individuals with genotype-positive but phenotype-negative HCM, no follow-up is required unless new information arises that changes the pathogenicity classification of a variant."
+        ],
+        "recommended_testing_flow": {
+          "phenotype_negative": [
+            "If the family has a known pathogenic or likely pathogenic (P/LP) variant, further testing proceeds.",
+            "If not, and no family variant is known, further clinical or genetic testing is not recommended."
+          ],
+          "phenotype_positive": [
+            "Complete baseline evaluation including SCD risk and stress testing.",
+            "Regular evaluations every 1-2 years or with symptom changes, and periodic CMR every 3-5 years for SCD risk assessment."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "description": "This clinical guideline outlines the genetic testing process in hypertrophic cardiomyopathy (HCM) and provides recommendations for individuals who are genotype-positive but phenotype-negative.",
+        "HCM Genetic Testing Process": [
+          "If a disease-causing Likely Pathogenic/Pathogenic (LP/P) variant is identified, cascade genetic testing in the family is recommended.",
+          "Variants can be reclassified as LP/P or as a Variant of Unknown Significance (VUS) or Likely Benign/Benign (LB/B).",
+          "Regular reevaluation for variant reclassification is advised.",
+          "If VUS, LB/B, or no variant is identified, consider second-tier testing and clinical surveillance in the family."
+        ],
+        "Genotype-Positive, Phenotype-Negative Recommendations": [
+          "Serial clinical assessment, electrocardiography, and cardiac imaging are recommended at periodic intervals (1-2 years for children/adolescents and every 3-5 years for adults).",
+          "Participation in competitive sports is considered reasonable.",
+          "Implantable Cardioverter Defibrillator (ICD) is not recommended for primary prevention."
+        ],
+        "Flowchart Details": {
+          "Initial Testing": "HCM Index Case Targeted Gene Testing",
+          "Positive Variant": "Cascade testing and regular follow-ups are advised.",
+          "Negative Variant": "Further clinical or genetic testing is not recommended."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Genotype-positive, phenotype-negative individuals are those who carry a pathogenic or likely pathogenic HCM-causing variant but are asymptomatic without evidence of LVH on cardiac imaging. These individuals are also described as having preclinical HCM. They need ongoing cardiac surveillance for development of clinical HCM.",
+        "Clinical Features": "Reported alterations in myocardial strain, relaxation abnormalities, myocardial crypts, mitral valve leaflet abnormalities, abnormal trabeculae, myocardial scarring, electrocardiographic abnormalities, and abnormal serum NT-proBNP concentrations.",
+        "Screening Recommendations": "Ongoing screening of genotype-positive, phenotype-negative family members of all ages is important. Screening can be less frequent in individuals over >18 years of age. Preclinical screening recommended because disease can manifest at any age.",
+        "Sudden Death": "Sudden death in genotype-positive, phenotype-negative individuals is rare. No accurate risk prediction models for SCD exist in genotype-positive, phenotype-negative individuals currently.",
+        "ICD Recommendations": "ICDs are not offered for primary prevention in genotype-positive, phenotype-negative individuals due to low risk of SCD. Preemptive medical therapy is not typically offered.",
+        "SCD Risk Assessment": "Systematic noninvasive SCD risk assessment is recommended every 1 to 2 years for adults with HCM, including evaluating cardiac arrest history, syncope, family history, LV wall thickness, and ECG monitoring."
+      },
+      "genes": [
+        {
+          "Gene": "NT-proBNP",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Reported alterations include abnormal serum NT-proBNP concentrations even in the absence of LVH."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Synopsis": "Hypertrophic cardiomyopathy (HCM) is a common cause of sudden cardiac death (SCD) in young people. Younger patients with HCM are at higher risk for SCD than older patients. No sex- or race-based differences in SCD risk have been noted. Risk evaluation involves identifying clinical markers to stratify patients for SCD prevention with implantable cardioverter-defibrillators (ICDs). The use of ICDs and periodic reassessment of SCD risk are crucial in the long-term evaluation of patients with HCM.",
+        "Recommendation-Specific Supportive Text": [
+          "Observational studies in patients with HCM have identified risk factors for life-threatening ventricular arrhythmias. Initial and follow-up SCD risk assessments are crucial.",
+          "SCD risk assessment involves evaluating history of cardiac arrest, family history, ambulatory monitoring for arrhythmias, and syncope.",
+          "Cardiac magnetic resonance (CMR) imaging can help assess risk by measuring maximal LV wall thickness, apical aneurysm, and myocardial fibrosis.",
+          "Estimated 5-year SCD risk is calculated using echocardiographic measurements. The impact of newer markers like apical aneurysm and late gadolinium enhancement (LGE) on 5-year risk is undetermined."
+        ],
+        "guidelines": [
+          "For patients not at high risk for SCD, further evaluation includes family history, echocardiography, and ambulatory monitoring. CMR imaging is beneficial for assessing LV wall thickness, aneurysm, and fibrosis.",
+          "For patients aged 16 and older, echocardiographic measurements including atrial diameter and gradient help calculate SCD risk."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Guidelines for SCD Risk Assessment in Children and Adolescents with HCM": [
+          {
+            "Class": "1",
+            "Level of Evidence": "B-NR",
+            "Recommendations": [
+              "For children and adolescents with HCM, a comprehensive, systematic noninvasive SCD risk assessment should be conducted initially and every 1 to 2 years.",
+              "Assessment should include personal history of cardiac arrest or sustained ventricular arrhythmias and syncope.",
+              "Consider family history of premature HCM-related SCD, minimal LV wall thickness, EF, LV apical aneurysm.",
+              "Evaluate episodes of NSVT on continuous ambulatory ECG monitoring."
+            ]
+          },
+          {
+            "Class": "1",
+            "Level of Evidence": "C-LD",
+            "Recommendations": [
+              "In children with HCM who have a borderline risk for SCD, decisions regarding ICD placement remain uncertain and require comprehensive clinical assessment."
+            ]
+          },
+          {
+            "Class": "2a",
+            "Level of Evidence": "B-NR",
+            "Recommendations": [
+              "For patients under 16 with HCM, it is reasonable to calculate an estimated 5-year SCD risk.",
+              "Risk calculation should include echo parameters, interventricular septal thickness, LV posterior wall thickness, left atrial diameter, and genotype analysis."
+            ]
+          }
+        ],
+        "Table 8 - Clinical Sudden Death Risk Factors": [
+          "Family history of sudden death from HCM",
+          "Massive LV wall thickness",
+          "Unexplained syncope",
+          "HCM with LV systolic dysfunction",
+          "LV apical aneurysm",
+          "Extensive LGE on CMR imaging",
+          "NSVT on ambulatory monitor",
+          "Genotype status in pediatric patients with HCM"
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "HCM",
+          "Associated Conditions": [
+            "Hypertrophic cardiomyopathy",
+            "Sudden cardiac death",
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 4,
+          "context": "References to HCM in context of SCD risk assessment and genotype status as a risk factor."
+        }
+      ]
+    },
+    {
+      "content": {
+        "general": "The guideline discusses recommendations for the assessment and management of patients with Hypertrophic Cardiomyopathy (HCM). It includes criteria and methods for assessing sudden cardiac death (SCD) risk and considerations for implantable cardioverter-defibrillator (ICD) placement. Risk assessment should consider individual clinical judgment, family history, and genetic testing where applicable.",
+        "recommendations": [
+          {
+            "class": "1",
+            "level_of_evidence": "C-EO",
+            "details": "In patients with HCM, individual clinical judgment is recommended when assessing the prognostic strength of conventional risk markers, engaging the patient in ICD decision-making."
+          },
+          {
+            "class": "1",
+            "level_of_evidence": "B-NR",
+            "details": "ICD placement is recommended for patients with HCM and previous sustained VT or documented cardiac arrest."
+          },
+          {
+            "class": "2a",
+            "level_of_evidence": "B-NR",
+            "details": "Reasonable to offer ICD to adult patients with HCM and major risk factors such as family history of early HCM-related SCD, massive LVH, apical aneurysm, syncope, or LVSD."
+          },
+          {
+            "class": "2a",
+            "level_of_evidence": "B-NR",
+            "details": "Children with HCM having \u22651 conventional risk factors should consider ICD placement given the long-term risk of complications."
+          }
+        ],
+        "risk_factors": [
+          "Family history of sudden death or SCD related to HCM in relatives \u226450 years old.",
+          "Massive left ventricular hypertrophy (LVH \u226530 mm in any LV segment).",
+          "Recent syncope episodes considered arrhythmic.",
+          "Presence of LV apical aneurysm or transmural scar/LGE.",
+          "LV systolic dysfunction EF \u226450%."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Focus": "The clinical guidelines focus on risk stratification and selection of patients with hypertrophic cardiomyopathy (HCM) for implantable cardioverter-defibrillator (ICD) therapy, both primary and secondary prevention.",
+        "Risk Factors and Recommendations": [
+          {
+            "Class": "2a",
+            "Level": "B-NR",
+            "Guideline": "For patients with HCM with \u22651 major sudden cardiac death (SCD) risk factors, discussing estimated 5-year SCD risk and mortality rates can be useful in decision-making for ICD placement."
+          },
+          {
+            "Class": "2b",
+            "Level": "B-NR",
+            "Guideline": "In select adult patients with HCM and without major SCD risk factors where ICD placement is uncertain, it may be considered if there is extensive late gadolinium enhancement (LGE) by contrast-enhanced cardiac magnetic resonance (CMR) imaging or NSVT present on monitoring."
+          },
+          {
+            "Class": "2b",
+            "Level": "B-NR",
+            "Guideline": "For pediatric patients, considering factors like extensive LGE and systolic dysfunction in risk stratification can be useful in decision-making for ICD placement."
+          },
+          {
+            "Class": "3",
+            "Level": "Harm",
+            "Guideline": "For patients with HCM without risk factors, ICD placement should not be performed."
+          },
+          {
+            "Class": "3",
+            "Level": "Harm",
+            "Guideline": "ICD placement should not be done solely for competitive athletics participation."
+          }
+        ],
+        "Synopsis": "Risk stratification and management in HCM involves identifying major risk factors for SCD. Recommendations emphasize shared decision making, with the understanding that individual patients\u2019 circumstances may impact SCD risk estimates and management decisions."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2024 Hypertrophic Cardiomyopathy Guideline",
+        "General Information": [
+          "Risk estimate scores for pediatric patients, including left atrial diameter z-score and genotype status, have been developed.",
+          "An emphasis on psychosocial impacts and long-term device complications in young patients is noted.",
+          "Association of extensive LGE with increased risk for ventricular arrhythmias in adults.",
+          "SCD risk and LGE relationship in children with HCM is not well understood.",
+          "Extended monitoring for risk stratification remains uncertain in HCM.",
+          "Considerations for device therapy and ICD placement should follow evidence of risk."
+        ],
+        "Specific Points": [
+          "The complexity of ICD decision-making in young patients needs careful consideration.",
+          "5-year SCD risk calculations are emphasized for patients with major risk factors.",
+          "There is ongoing debate about the best methods for quantifying LGE.",
+          "Device therapy should avoid exposing patients to unnecessary risks."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2024 Hypertrophic Cardiomyopathy Guideline",
+        "section": "ICD Device Selection for HCM",
+        "recommendations": [
+          {
+            "cor": "1",
+            "loe": "B-NR",
+            "recommendation": "In patients with HCM who are receiving an ICD, either a single-chamber transvenous ICD or a subcutaneous ICD is recommended after a shared decision-making discussion that takes into consideration patient preferences, age, lifestyle, and potential need for pacing for bradycardia or VT termination."
+          },
+          {
+            "cor": "1",
+            "loe": "B-NR",
+            "recommendation": "In patients with HCM who are receiving a transvenous ICD, single-coil ICD leads are recommended in preference to dual-coil leads, if defibrillation threshold is deemed adequate."
+          }
+        ],
+        "decision_flow": {
+          "prior_event": "SCD, VF, sustained VT",
+          "no_prior_event": {
+            "criteria": [
+              "FH SCD",
+              "Massive LVH",
+              "Unexplained syncope",
+              "Apical aneurysm",
+              "EF <50%"
+            ],
+            "nsvt": "non sustained ventricular tachycardia",
+            "extensive_lge_on_cmr": "late gadolinium enhancement on cardiac magnetic resonance"
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "topic": "Hypertrophic Cardiomyopathy (HCM) ICD Guidelines",
+        "recommendations": [
+          {
+            "recommendation": "2a B-NR",
+            "details": "In patients with HCM who are receiving an ICD, dual-chamber ICDs are reasonable for patients with a need for atrial or atrioventricular sequential pacing for bradycardia/conduction abnormalities, or as an attempt to relieve symptoms of obstructive HCM (most commonly in patients >65 years of age)."
+          },
+          {
+            "recommendation": "2a C-LD",
+            "details": "In selected adult patients with nonobstructive HCM receiving an ICD who have NYHA class II to ambulatory class IV HF, left bundle branch block (LBBB), and LVEF <50%, cardiac resynchronization therapy (CRT) for symptom reduction is reasonable."
+          },
+          {
+            "recommendation": "2b C-LD",
+            "details": "In patients with HCM in whom a decision has been made for ICD implantation and who have paroxysmal atrial tachycardias or AF, dual-chamber ICDs may be reasonable, but this decision must be balanced against higher complication rates of dual-chamber devices."
+          }
+        ],
+        "considerations": [
+          "The decision of which type of ICD to implant is nuanced with risks and benefits.",
+          "Considerations include transvenous versus subcutaneous ICD, single-chamber versus dual-chamber vs CRT devices, and defibrillation coils.",
+          "ICD implantation in children raises additional concerns, primarily related to higher baseline heart rates and increased risk of lead fracture.",
+          "Transvenous leads have higher failure rates, while subcutaneous ICDs might pose higher complication risks for smaller individuals.",
+          "Benefits of transvenous devices include pacing ability for bradycardia and reduced size, whereas subcutaneous ICD advantages are lack of a transvenous lead and fewer lead failures.",
+          "Shared decision-making should incorporate patient preferences, lifestyle, and risk factors, especially for the need for bradycardia or VT termination pacing."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "threshold_testing_patients": "Threshold testing in patients with HCM and single-coil leads, right-sided implants, or massive hypertrophy.",
+        "dual_chamber_pacing_hcm": "In patients with HCM needing atrial pacing, dual-chamber system might be needed; shown to reduce LVOT gradients but long-term benefits unclear.",
+        "crt_benefit_in_hcm": "CRT benefits for HCM patients with functional class II, IVHF, LVEF \u226435%, and LBBB; small series show improvement in NYHA class or LV remodeling.",
+        "atrial_lead_arrhythmias": "Atrial lead may help differentiate between ventricular and supraventricular arrhythmias.",
+        "pediatric_dual_chamber_pacing": "For pediatric patients with tachyarrhythmias, dual-chamber devices may help in distinguishing VT from SVT.",
+        "management_of_hcm": {
+          "pharmacological_management": [
+            "Nonvasodilating beta blockers titrated to effectiveness.",
+            "Nondihydropyridine calcium channel blockers (verapamil, diltiazem) if beta blockers ineffective.",
+            "Addition of myosin inhibitor for persistent symptoms despite medication.",
+            "Intravenous phenylephrine for acute hypotension not responding to fluids.",
+            "Low-dose oral diuretics for persistent dyspnea with volume overload."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "Treatment guidelines for obstructive Hypertrophic Cardiomyopathy (HCM) focus on symptom relief and managing outflow tract obstruction.",
+        "medications": {
+          "beta_blockers": "First-line treatment for obstructive HCM; titrated to dose achieving symptom benefit.",
+          "calcium_channel_blockers": "Verapamil and diltiazem as alternatives to beta blockers.",
+          "vasodilators": "Discontinuation recommended due to potential worsening of symptoms.",
+          "advanced_therapies": "Disopyramide, mavacamten, and septal reduction therapy (SRT) for refractory cases."
+        },
+        "precautions": "Verapamil and diltiazem have potential vasodilating properties that may limit use in certain patients."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Acute hypotension in patients with obstructive HCM is a medical urgency. Maximizing preload and afterload, while avoiding increases in contractility or heart rate, is crucial for treating acute hypotension. Intravenous vasoconstrictors like phenylephrine can reverse this situation. Beta-blockade can be useful in combination with vasoconstrictors as it dampens contractility and improves preload by prolonging the diastolic filling period. Cautious use of low-dose diuretics may provide symptom relief but aggressive diuresis can be problematic. Introducing therapies in patients with HCM being treated for coexisting conditions should be done cautiously. Medications causing or worsening symptoms related to LVOTO should be avoided. Recommendations for invasive treatment of symptomatic patients with obstructive HCM include surgical myectomy and SRT performed at specialized centers.": "Obstructive HCM",
+        "Severe and progressive pulmonary hypertension thought to be caused by LVOTO or associated MR, Left atrial enlargement with symptoms of AF, Poor functional capacity as shown by treadmill test, High LVOT gradients in young children and adults. ": "Patient selection and treatment strategies for obstructive HCM include determining the appropriateness of GDMT, SRT, or surgical myectomy. Surgical options are recommended for patients with severe symptoms or in those for whom surgery is contraindicated. Sub-sections include specific surgical indicators like severe pulmonary hypertension, left atrial enlargement, and elevated LVOT gradients."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "SRT": "Surgical Risk Treatment (SRT) is recommended for drug-refractory symptoms and should be performed in experienced HCM centers. It is not recommended for patients with HCM who are asymptomatic and have normal exercise capacity. Septal reduction therapies (SRTs) include septic myectomy and alcohol septal ablation.",
+        "ESM": "Transaortic extended septal myectomy (ESM) is preferred for a broad range of patients and helps in reducing SAM-mediated MR and its consequences. It is advantageous for long-term survival and reduction of obstruction.",
+        "Alcohol Septal Ablation": "Considered less effective with lower outcomes compared to ESM. It is associated with a low procedural mortality rate (<1%) but requires sophisticated coronary anatomy.",
+        "Recommendations": {
+          "SRT for Obstructive HCM": "Recommended for those with symptoms refractory to medication. Guidelines suggest not performing procedures solely to reduce risk of LVOTO if asymptomatic."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Topic": "Hypertrophic Cardiomyopathy (HCM)",
+        "Key Points": [
+          "Surgical myectomy can improve outcomes such as pulmonary hypertension and left atrial enlargement.",
+          "Recommendation for surgical intervention limited to comprehensive HCM centers due to high success rates and low complication rates.",
+          "Alternative options like septal reduction therapy (SRT) discussed for severe cases.",
+          "Mitral valve replacement considered in specific cases when necessary.",
+          "Management of patients with nonobstructive HCM and preserved ejection fraction (EF) using beta blockers or calcium channel blockers."
+        ],
+        "Management Recommendations": [
+          "Beta blockers or nondihydropyridine calcium channel blockers for nonobstructive HCM with preserved EF.",
+          "Use of oral diuretics for exertional dyspnea.",
+          "Angiotensin-converting enzyme inhibitors and angiotensin receptor blockers useful in managing symptoms.",
+          "Consider apical myectomy in selected cases with severe symptoms despite medical therapy."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Symptomatic, nonobstructive HCM is a diagnostic and therapeutic challenge. It is related to differences in disease onset, severity, and risk for adverse outcomes. The overall risk for HCM-related death appears similar between patients with and without obstructive physiology. Dyspnea and chest discomfort are common symptoms. These can result from increased LV filling pressures related to diastolic dysfunction or decompensated HF. Control of comorbid conditions can provide symptom reduction.",
+        "Recommendation-Specific Supportive Text": [
+          "Pharmacological management of chest discomfort is similar to that of dyspnea. Beta blockers and nonhydropyridine calcium channel blockers are first-line agents.",
+          "Loop or thiazide diuretics may be used to improve dyspnea and volume overload when volume overload is present.",
+          "Despite pilot trials, no benefit was seen with losartan in preventing clinical outcomes.",
+          "Patients with extensive apical hypertrophy may require surgical interventions like transapical myectomy."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "MYH7",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "For younger (e.g., \u226445 years of age) patients with nonobstructive HCM due to a pathogenic or likely pathogenic cardiac sarcomere genetic variant, and a mild phenotype, valsartan may be beneficial to slow adverse cardiac remodeling."
+        }
+      ]
+    },
+    {
+      "content": {
+        "General Information": "The guideline discusses management of patients with hypertrophic cardiomyopathy (HCM) and advanced heart failure (HF). Focus is on using beta blockers, calcium channel blockers, and valsartan to manage symptoms. Recommendations are provided for patients with systolic dysfunction, persistent LV dysfunction, and those needing heart transplantation.",
+        "Recommendations": [
+          {
+            "COR": "1",
+            "LOE": "C-LD",
+            "Details": "In patients with HCM who develop systolic dysfunction with an LVEF <50%, guideline-directed medical therapy for HF with reduced EF is recommended."
+          },
+          {
+            "COR": "1",
+            "LOE": "C-LD",
+            "Details": "Diagnostic testing is recommended to assess for causes of systolic dysfunction, such as coronary artery disease (CAD)."
+          },
+          {
+            "COR": "1",
+            "LOE": "B-NR",
+            "Details": "In nonobstructive HCM and advanced HF, CPET is recommended to gauge functional limitation and aid in selection for heart transplantation."
+          },
+          {
+            "COR": "1",
+            "LOE": "B-NR",
+            "Details": "For those with nonobstructive HCM or life-threatening arrhythmias refractory to maximal GDMT, heart transplantation assessment is recommended."
+          },
+          {
+            "COR": "1",
+            "LOE": "B-R",
+            "Details": "Discontinue cardiac myosin inhibitors in patients with LVEF <50% and persistent systolic dysfunction."
+          },
+          {
+            "COR": "2a",
+            "LOE": "C-EO",
+            "Details": "Discontinuation of negative inotropic agents is reasonable for patients with LVEF <50%."
+          },
+          {
+            "COR": "2a",
+            "LOE": "B-NR",
+            "Details": "For transplant candidates, continuous-flow LVAD therapy is reasonable as a bridge to heart transplantation."
+          },
+          {
+            "COR": "2a",
+            "LOE": "C-LD",
+            "Details": "ICD placement can be beneficial for patients with persistent LVEF <50%."
+          },
+          {
+            "COR": "2a",
+            "LOE": "C-LD",
+            "Details": "CRT can improve symptoms in patients with LVEF <50% and NYHA class II to IV symptoms."
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "sarcomeric variants",
+          "Associated Conditions": [
+            "HCM",
+            "systolic dysfunction"
+          ],
+          "Occurrences": 1,
+          "context": "In patients with nonobstructive HCM, pathogenic or likely pathogenic sarcomeric variants are considered."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Summary": "An approach to the management of heart failure (HF) symptoms in patients with hypertrophic cardiomyopathy (HCM) is discussed. Ejection fraction (EF) <50% indicates severe systolic dysfunction, warranting specific therapies. Despite the infrequency of reduced EF in HCM, patients with EF <50% may have increased mortality risk, necessitating HF therapies.",
+        "HF Therapy in HCM": "Guideline directed management and therapy (GDMT) is initiated for HCM patients with reduced EF <50%. Advanced HF therapies are considered with EF <35%.",
+        "Transplantation Considerations": "Transplantation referral should follow specific guidelines. Patients with preserved EF yet restrictive physiology might not require reduced EF for transplant referral.",
+        "Medications": "Certain medications such as mavacamten are noted for efficacy in this group. Consideration is needed for drugs like negative inotropes (verapamil, diltiazem, disopyramide) disused if worsening HF.",
+        "Exercise and Assessment": "Exercise parameters assist in evaluation. Cardiopulmonary exercise testing is useful."
+      },
+      "genes": [
+        {
+          "Gene": "MYBPC3",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Myocardial transcriptomic profiling has found significant overlap in gene network activation between dilated cardiomyopathy and HCM, including MYBPC3 mutations."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Title": "Management of Symptoms in Patients With HCM",
+        "Steps": [
+          "Treat comorbidities according to guidelines.",
+          "Determine if there is obstructive physiology: If no, refer to another figure; if yes, check for symptoms.",
+          "If symptoms are present, avoid vasodilators and high-dose diuretics.",
+          "Prescribe beta blocker, verapamil, or diltiazem.",
+          "If symptoms persist, options include myosin inhibitor, disopyramide, or septal reduction therapy.",
+          "Evaluate surgical candidacy.",
+          "Consider septal ablation or myectomy based on surgical indication."
+        ],
+        "Notes": "Colors correspond to Table 3. GL indicates guideline; HCM stands for hypertrophic cardiomyopathy."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview": "The guideline presents a decision-making algorithm for patients with hypertrophic cardiomyopathy (HCM), focusing on heart failure management depending on the presence of obstructive physiology and the level of left ventricular ejection fraction (LVEF). Treatment involves guideline-directed management, evaluation for alternative causes of heart failure, and discontinuation of certain medications based on clinical findings.",
+        "Steps in Algorithm": [
+          {
+            "Condition": "Obstructive physiology",
+            "Action": "Refer to the section on obstructive HCM."
+          },
+          {
+            "Condition": "Non-obstructive physiology with LVEF <50%",
+            "Actions": [
+              "Follow GDMT per Heart Failure Guideline.",
+              "Evaluate for other causes of reduced EF.",
+              "Interrupt or discontinue myosin inhibitor.",
+              "Discontinue negative inotropic agents (verapamil, diltiazem, disopyramide)."
+            ]
+          },
+          {
+            "Condition": "Non-obstructive physiology with LVEF \u226550%",
+            "Actions": [
+              "Consider Implantable Cardioverter-Defibrillator (ICD) for certain cases.",
+              "Reevaluation after GDMT for recurrent ventricular arrhythmias."
+            ]
+          },
+          {
+            "NYHA Class I-II": "Continue current management.",
+            "NYHA Class III-IV": "Evaluate for heart transplant if LVEF <50% and LBBB is present, or LVAD if patient decompensates."
+          }
+        ],
+        "Additional Notes": [
+          "Cardiac myosin inhibitor should be discontinued if LVEF <50% and can be restarted at a lower dose if LVEF recovers.",
+          "CRT is recommended if LVEF <50% and LBBB is present."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_title": "2024 Hypertrophic Cardiomyopathy Guideline",
+        "focus": "Management of Patients with Hypertrophic Cardiomyopathy (HCM) and Atrial Fibrillation (AF)",
+        "recommendations_summary": [
+          {
+            "class_of_recommendation": "1",
+            "level_of_evidence": "B-NR",
+            "recommendation": "In patients with HCM and clinical AF, anticoagulation is recommended with DOACs as first-line option and vitamin K antagonists as second-line option."
+          },
+          {
+            "class_of_recommendation": "1",
+            "level_of_evidence": "C-LD",
+            "recommendation": "In patients with HCM and subclinical AF detected by longer monitoring, anticoagulation is recommended with DOACs as first-line option."
+          },
+          {
+            "class_of_recommendation": "1",
+            "level_of_evidence": "C-LD",
+            "recommendation": "In patients with AF in whom rate control strategy is planned, beta blockers, verapamil, or diltiazem are recommended."
+          },
+          {
+            "class_of_recommendation": "1",
+            "level_of_evidence": "C-LD",
+            "recommendation": "In patients with HCM and subclinical AF of >5 minutes duration, anticoagulation with DOACs as first-line and vitamin K antagonists as second-line option can be beneficial."
+          },
+          {
+            "class_of_recommendation": "2a",
+            "level_of_evidence": "B-NR",
+            "recommendation": "In patients with HCM and poorly tolerated AF, a rhythm-control strategy with cardioversion or antiarrhythmic drugs can be beneficial."
+          },
+          {
+            "class_of_recommendation": "2a",
+            "level_of_evidence": "B-NR",
+            "recommendation": "In patients with HCM and symptomatic AF, catheter ablation for AF can be effective."
+          },
+          {
+            "class_of_recommendation": "2a",
+            "level_of_evidence": "B-NR",
+            "recommendation": "In patients with HCM and AF who require surgical myectomy, concomitant surgical AF ablation can be beneficial for AF rhythm control."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "AF, commonly observed in patients with HCM, is associated with significant morbidity and an increased risk of stroke. Therapy includes prevention of thromboembolic events and symptom control. Use of DOACs and anticoagulation is recommended, considering the duration of AF episodes and underlying risk factors. Catheter ablation is less effective than in the general population. Surgical AF ablation might be an option during surgical myectomy. Diagnosis and management are complex, considering factors like total AF burden and presence of risk factors.",
+        "Recommendation-Specific Supportive Text": {
+          "1": "Clinical AF in patients can be managed hand through rhythm-control or rate-control strategies, considering patient-specific factors. A meta-analysis showed a prevalence of 27.09% for thromboembolism in patients with HCM with AF, with a 3.75 per 10 patient risk. The stroke risk is independent of CHA2DS2-VASc Score, emphasizing anticoagulation benefits. DOACs are effective with additional advantages. Recommendations for patients with AF atrial flutter are similar to those without HCM.",
+          "2": "Management of clinical and asymptomatic or subclinical AF (SCAF) is crucial due to increased stroke risk.",
+          "3": "Rate-control strategy may involve nonhydropyridine calcium channel blocker, beta-blocker, or a combination. The choice depends on age, underlying substrate, coexisting conditions, and severity of symptoms.",
+          "4": "SCAF is often observed in patients with implanted cardiac devices and HCM. The risk threshold for anticoagulation is still debated, though studies suggest episodes over 24 hours correlate with increased risk."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Antiarrhythmic Drug Therapy Options for Patients With HCM and AF",
+        "Section": "TABLE 9",
+        "Drugs and Usage": [
+          {
+            "Drug": "Disopyramide",
+            "Efficacy for AF": "Modest",
+            "Adverse Effects": "Anticholinergic, HF",
+            "Toxicities": "Prolonged QTc, TdP",
+            "Use in HCM": "Particularly with early onset AF. Generally used in conjunction with atrioventricular nodal blocking agents."
+          },
+          {
+            "Drug": "Flecainide and propafenone",
+            "Efficacy for AF": "\u2026",
+            "Adverse Effects": "Prolonged QRS",
+            "Toxicities": "Proarrhythmia, Typical atrial flutter",
+            "Use in HCM": "Not generally recommended in the absence of an ICD."
+          },
+          {
+            "Drug": "Sotalol",
+            "Efficacy for AF": "Modest",
+            "Adverse Effects": "Fatigue, Bradycardia",
+            "Toxicities": "Prolonged QTc, TdP",
+            "Use in HCM": "Reasonable"
+          },
+          {
+            "Drug": "Dofetilide",
+            "Efficacy for AF": "Modest",
+            "Adverse Effects": "Headache",
+            "Toxicities": "Prolonged QTc",
+            "Use in HCM": "Reasonable"
+          },
+          {
+            "Drug": "Dronedarone",
+            "Efficacy for AF": "Low",
+            "Adverse Effects": "HF",
+            "Toxicities": "Prolonged QTc",
+            "Use in HCM": "\u2026"
+          },
+          {
+            "Drug": "Amiodarone",
+            "Efficacy for AF": "Modest-high",
+            "Adverse Effects": "Bradycardia",
+            "Toxicities": "Liver, lung, thyroid, skin, neurologic, Prolonged QTc",
+            "Use in HCM": "Reasonable"
+          }
+        ],
+        "Additional Information": [
+          "AF indicates atrial fibrillation; HCM, hypertrophic cardiomyopathy; HF, heart failure; ICD, implantable cardioverter-defibrillator; and TdP, torsades de pointes.",
+          "Increased stroke risk is associated with AF in HCM.",
+          "Catheter ablation is an important role in management of AF in HCM even though RCTs do not exist.",
+          "Low mortality and morbidity compared with historical controls when treating AF in patients with HCM.",
+          "Disopyramide is safely prescribed for reduction of LVOTO."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2024 Hypertrophic Cardiomyopathy Guideline",
+        "Authors": "Ommen et al.",
+        "Published In": "Journal of the American College of Cardiology (JACC), Vol. 83, No. 23",
+        "Publication Date": "June 11, 2024",
+        "Topic": "Management of Patients with Hypertrophic Cardiomyopathy (HCM) and Ventricular Arrhythmias",
+        "Key Points": [
+          "In patients with HCM and recurrent, poorly tolerated life-threatening ventricular tachyarrhythmias refractory to maximal antiarrhythmic drug therapy and ablation, heart transplantation assessment is indicated.",
+          "For adults with HCM and symptomatic ventricular arrhythmias or recurrent ICD shocks despite beta-blocker use, antiarrhythmic drug therapy is recommended with careful selection based on patient-specific factors.",
+          "Children with HCM and recurrent ventricular arrhythmias despite beta-blocker use should have antiarrhythmic drug therapy guided by age, patient preferences, and balance of efficacy and safety.",
+          "In patients with HCM and pacing-capable ICDs, programming to minimize risk of shocks is advised.",
+          "In patients with HCM and recurrent symptomatic sustained monomorphic VT, catheter ablation can be useful when antiarrhythmic drugs are not preferred."
+        ],
+        "Specific Drugs Mentioned": [
+          "Amiodarone",
+          "Dofetilide",
+          "Mexiletine",
+          "Sotalol"
+        ],
+        "Research Context": "Study outcomes related to the use of ICD therapy and antiarrhythmic drugs in managing HCM."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2024 Hypertrophic Cardiomyopathy Guideline",
+        "sections": [
+          {
+            "title": "Pediatric Patients with HCM",
+            "description": "Recurrent episodes of VT in pediatric patients with HCM are generally treated with beta blockers. Antiarrhythmic agents may be used to address symptoms, suppress life-threatening events, or prevent unnecessary ICD shocks. ICD shocks have been linked to psychological trauma in pediatric patients. Sympathetic denervation has been reported with limited data."
+          },
+          {
+            "title": "Patient Management",
+            "description": "In patients with HCM and recurrent ventricular arrhythmias, additional therapies like epicardial ablation may be required. Freedom from VT was found in patients post-ablation. Combined epicardial and endocardial ablation is safe for treating monomorphic VT."
+          },
+          {
+            "title": "Lifestyle Considerations for Patients with HCM",
+            "description": "Recreational physical activity is beneficial for patients with mild-to-moderate intensity exercise to improve fitness and quality of life. Comprehensive evaluation is recommended for athletes with HCM prior to competitive sports participation."
+          }
+        ],
+        "guidelines": [
+          "For patients with HCM, engaging in mild-to-moderate intensity exercise is beneficial for overall health.",
+          "Athletes with HCM should undergo a comprehensive evaluation before participating in sports.",
+          "Individuals who are genotype-positive, phenotype-negative for HCM can participate in competitive sports.",
+          "Participation in vigorous recreational activities is reasonable with professional evaluation."
+        ],
+        "recommendations": {
+          "COR": [
+            "1 - Recommended",
+            "2a - Reasonable"
+          ],
+          "LOE": [
+            "B-R - Based on randomized trials",
+            "C-EO - Based on expert opinion",
+            "B-NR - Based on non-randomized trials"
+          ]
+        }
+      },
+      "genes": [
+        {
+          "Gene": "GENE_HCM",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 2,
+          "context": "Individuals who are genotype-positive, phenotype-negative for HCM, participation in competitive sports of any intensity is reasonable. In pediatric patients, age and heart size must be taken into account when considering ablation."
+        }
+      ]
+    },
+    {
+      "content": {
+        "guideline_summary": "The document provides guidelines for patients with hypertrophic cardiomyopathy (HCM) regarding physical activity and sports participation. It discusses the benefits of regular physical exercise in reducing cardiovascular risk, while emphasizing the importance of individualized evaluation before participation in vigorous activities. Patients with HCM can consider competitive sports after expert evaluation if they have no significant symptomatic limitation. Universal restriction from vigorous activities is not necessary for most patients with HCM. Specific considerations are given for individuals with an implantable cardioverter-defibrillator (ICD).",
+        "recommendations": [
+          {
+            "recommendation_class": "2b",
+            "level_of_evidence": "B-NR",
+            "summary": "Participation in competitive sports may be considered for patients with HCM with a high level of physical performance after expert review."
+          },
+          {
+            "recommendation_class": "3",
+            "level_of_evidence": "B-NR",
+            "summary": "Universal restriction from vigorous physical activity or competitive sports is not indicated for most patients with HCM."
+          },
+          {
+            "recommendation_class": "3",
+            "level_of_evidence": "C-EO",
+            "summary": "ICD placement for the sole purpose of competitive sports participation should not be performed."
+          }
+        ],
+        "key_points": [
+          "Regular physical activity promotes longevity and reduces cardiovascular risk.",
+          "Most patients with HCM benefit from at least mild- to moderate-intensity exercise.",
+          "Careful, individualized evaluation is required before engaging in vigorous exercise or competitive sports.",
+          "Genotype-positive patients with negative phenotypic expression show low risk of sudden cardiac death.",
+          "Exercise intensity can be managed by metabolic equivalents with a structured exercise plan."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "No gene mentioned",
+          "Associated Conditions": [],
+          "Occurrences": 0,
+          "context": ""
+        }
+      ]
+    },
+    {
+      "content": {
+        "HCM Patients and Exercise": "Many patients with HCM who have no or minimal symptomatic limitation can engage in vigorous-intensity exercise. Studies do not show an increased risk of ventricular arrhythmias from exercise. Competitive athletes with HCM did not experience increased arrhythmic risks compared to those who exercise less vigorously.",
+        "Risk Assessment": "Annual comprehensive clinical evaluation and risk assessment should be individualized with shared decision-making for HCM patients considering vigorous exercise.",
+        "ICD Placement": "Risk stratification and recommendations for ICD should follow the guideline's algorithm. Inappropriate ICD use should be avoided to prevent unnecessary anxiety for HCM patients.",
+        "Occupation Recommendations for HCM Patients": "HCM patients who demonstrate high physical performance may consider certain occupations after comprehensive evaluation and risk assessment for SCD."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Several occupational considerations are important for patients with HCM, particularly when potential for loss of consciousness could occur. For some occupations, federal guidelines cannot be superseded by this guideline.",
+        "Recommendation-Specific Supportive Text": [
+          "The Federal Motor Carrier Safety Administration guidelines updated in 2015 allow driving commercial vehicles for those with HCM who do not have an ICD or major SCD risk factors.",
+          "FAA guidelines do not explicitly list HCM as disqualifying for piloting aircraft, but report suggests patients with asymptomatic HCM may be considered for flying duties.",
+          "Occupations requiring considerable physical labor or high physical performance may impose risk to patients with HCM and others. Decisions should be individual and context-based."
+        ],
+        "Recommendations for Pregnancy in Patients with HCM": [
+          "Anticoagulation for pregnant women with HCM and AF for stroke prevention is recommended.",
+          "Beta blockers for symptom management in pregnant women with HCM are advised.",
+          "Vaginal delivery is recommended for most pregnant women with HCM.",
+          "Preconceptional and genetic counseling should be offered to affected families.",
+          "Care should be coordinated by a cardiologist and obstetrician for pregnant women with HCM.",
+          "It is advised to initiate GDMT for women with stable HCM who wish to become pregnant.",
+          "Cardioversion for new or recurrent AF in pregnant women with HCM is reasonable.",
+          "General or epidural anesthesia with precautions is reasonable.",
+          "Fetal echocardiography may be considered.",
+          "Use of mavacamten is contraindicated due to teratogenic effects."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Pregnancy in most women with hypertrophic cardiomyopathy (HCM) is well tolerated, with very low maternal mortality. Symptoms may include dyspnea, chest pain, palpitations, and complications such as heart failure (HF) and arrhythmias. These occur in about 25% of pregnant women with HCM. Outcomes for women with left ventricular outflow tract obstruction (LVOTO) are similar to those without obstruction.",
+        "Recommendations": [
+          "1. Atrial fibrillation (AF) is associated with stroke in HCM and can be treated with anticoagulation.",
+          "2. Beta blockers (like metoprolol) are considered safe but need fetal monitoring.",
+          "3. Cardiovascular diseases including cardiomyopathies impact delivery outcomes. Both vaginal and cesarean deliveries are options.",
+          "4. Prenatal genetic counseling is advised for understanding disease transmission risks and reproductive choices.",
+          "5. A multidisciplinary team is suggested for managing pregnant women with HCM.",
+          "6. Cardiac events can occur primarily in women with pre-existing symptoms. Options include septal reduction therapy (SRT) or implantable cardioverter-defibrillators (ICD) for severe cases.",
+          "7. Antiarrhythmic agents are generally avoided during pregnancy.",
+          "8. Anesthesia management should be comfortable and cautious.",
+          "9. Echocardiography is recommended if complications arise.",
+          "10. Fetal echocardiography assists in prenatal diagnosis.",
+          "11. Myosin inhibitors may pose fetal toxicity risks."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The guideline addresses patients with hypertrophic cardiomyopathy (HCM) who have comorbidities such as hypertension, obesity, and sleep-disordered breathing. Key recommendations include adherence to primary prevention guidelines for cardiovascular events, weight loss interventions for overweight or obese patients, and lifestyle modifications for those with hypertension. Referral for sleep medicine evaluation is also advised if necessary. Obesity and sleep-disordered breathing can increase risk in HCM patients, possibly involving sarcomere gene variants.",
+        "recommendations": [
+          "Adherence to the ACC/AHA primary prevention guideline to reduce cardiovascular risk.",
+          "Weight loss counseling and lifestyle interventions for overweight/obese patients with HCM.",
+          "Lifestyle modifications and medical therapy for hypertension in HCM patients, with preference for beta blockers and non-dihydropyridine calcium channel blockers in obstructive HCM.",
+          "Assessment and referral for sleep-disordered breathing in HCM patients."
+        ],
+        "risks": [
+          "Comorbid conditions such as obesity and sleep-disordered breathing increase symptom burden and risk in HCM patients.",
+          "Hypertension is prevalent in HCM patients and affects sarcomere variant-negative patients disproportionately."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "Sarcomere Gene Variant",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy",
+            "Obesity",
+            "Increased Cardiovascular Risk"
+          ],
+          "Occurrences": 1,
+          "context": "Patients with HCM and sarcomere gene variants may have increased risk for cardiovascular complications and symptom burden."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "Evidence Gaps and Future Directions (Section 10)",
+        "summary": "This section outlines limitations in current HCM diagnosis and management and highlights priorities for research, including refining diagnostic criteria, developing disease\u2011modifying therapies, improving care for nonobstructive HCM, expanding risk stratification, arrhythmia management, and expanding understanding of genetic architecture.",
+        "10.1_Refining_the_Diagnosis_of_HCM": {
+          "points": [
+            "Diagnosis currently based on binary LV wall thickness cutoffs leading to over- and under-diagnosis due to measurement imprecision and variability (sex, body size, comorbidities).",
+            "Recommendation to evolve toward molecular or pathway-based approaches to improve diagnostic accuracy and patient stratification."
+          ]
+        },
+        "10.2_Developing_Therapies_to_Attenuate_or_Prevent_Disease_Progression": {
+          "points": [
+            "Goal of developing safe, effective medical therapy to forestall progression\u2014existing medications (eg, valsartan) and emerging meds (eg, cardiac myosin inhibitors) are being investigated.",
+            "If specific genetic etiology identified, gene-based therapies could durably impact disease; need better understanding of pathogenesis, predictors of progression, and intermediate phenotypes."
+          ]
+        },
+        "10.3_Improving_Care_for_Nonobstructive_HCM": {
+          "points": [
+            "Nonobstructive HCM remains challenging; obstructive physiology can be targeted with medical/surgical approaches, but drivers of nonobstructive disease are less clear.",
+            "Diastolic abnormalities and myocardial energetics are thought important but not well addressed; role of cardiac myosin inhibitors in nonobstructive HCM under investigation."
+          ]
+        },
+        "10.4_Improving_and_Expanding_Risk_Stratification": {
+          "points": [
+            "Existing risk stratification algorithms have low positive-predictive value; many ICDs may be placed unnecessarily while sudden cardiac arrest can occur in patients without established risk factors.",
+            "Need new risk factors, tools (including AI), and larger prospective registries with well-genotyped and phenotyped patients, especially pediatric and underrepresented groups.",
+            "Imaging markers (LGE, abnormal 3D strain) and biomarkers (eg, troponin) may help but need validation against current metrics before clinical adoption."
+          ]
+        },
+        "10.5_Arrhythmia_Management": {
+          "points": [
+            "AF is common in adult HCM patients, often poorly tolerated and more refractory to treatment than in non-HCM patients.",
+            "Further work needed to identify robust predictors for AF, refine risk scores, and improve stratification for thromboembolic complications; technical advances in ablation may increase success rates."
+          ]
+        },
+        "10.6_Expanding_Understanding_of_the_Genetic_Architecture_of_HCM": {
+          "points": [
+            "Genetic evaluation and counseling are unevenly available; greater access to genetic testing and expert interpretation is needed.",
+            "Better understanding of genetic contributors could enable targeted therapies and improved patient stratification."
+          ]
+        },
+        "other_clinical_points": {
+          "sleep_disordered_breathing": "Highly prevalent in HCM (55\u201370%); obstructive sleep apnea associated with older age, hypertension, greater symptom burden, reduced exercise capacity, and greater prevalence of AF and NSVT. Treatment may reduce symptoms and arrhythmic complications but has not been systematically tested.",
+          "therapeutics_investigations": "Clinical benefit shown with sodium-glucose cotransporter-2 inhibitors and mineralocorticoid receptor antagonists in HFpEF; trials exploring benefit in nonobstructive HCM are needed. Lifestyle interventions and cardiopulmonary rehabilitation may be beneficial if reimbursed for HCM."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "For patients with Hypertrophic Cardiomyopathy (HCM) to improve individual care, family management, and knowledge base, there is a need for improved algorithms for interpreting genetic variants classified as uncertain significance. Efforts include ongoing research via the Clinical Genome Resource. Approximately 50% of HCM cases are genetically elusive, requiring new gene discovery. Complex genetic understanding can advance patient stratification and management, particularly in predicting heritable diseases and the effectiveness of gene-specific therapies."
+      },
+      "genes": [
+        {
+          "Gene": "HCM",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 3,
+          "context": "Approximately 50% of cases of HCM are genetically elusive. Improved algorithms for the interpretation of variants that are currently classified as variants of uncertain significance are evolving."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "2024 Hypertrophic Cardiomyopathy Guideline",
+        "published_date": "June 11, 2024",
+        "journal": "JACC Vol. 83, No. 23",
+        "references": [
+          {
+            "title": "AHA/ACC guideline for the diagnosis and treatment of hypertrophic cardiomyopathy",
+            "journal": "J Am Coll Cardiol",
+            "year": 2011
+          },
+          {
+            "title": "ESC guidelines on diagnosis and management for hypertrophic cardiomyopathy",
+            "journal": "Eur Heart J",
+            "year": 2014
+          },
+          {
+            "title": "2020 AHA/ACC guideline for the diagnosis and treatment of patients with hypertrophic cardiomyopathy",
+            "journal": "J Am Coll Cardiol",
+            "year": 2020
+          },
+          {
+            "title": "2014 AHA/ACC/HRS focused update for the management of patients with atrial fibrillation",
+            "journal": "J Am Coll Cardiol",
+            "year": 2014
+          }
+        ],
+        "scope": "The guideline addresses the evaluation, diagnosis, and treatment of hypertrophic cardiomyopathy, including recent advancements and evidence-based practices."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Prevalence": "The guideline discusses the prevalence of hypertrophic cardiomyopathy in various patient populations and the associated outcomes.",
+        "Etiology": "Genetic factors and shared genetic pathways contribute to hypertrophic cardiomyopathy.",
+        "Natural History and Clinical Course": "The guideline highlights the genetic and lifetime burden of disease in hypertrophic cardiomyopathy.",
+        "Left Ventricular Outflow Tract Obstruction": "These sections address the dynamic obstruction in hypertrophic cardiomyopathy and associated interventions.",
+        "Diastolic Dysfunction": "Comparison of myocardial alteration in hypertrophic cardiomyopathy reveals insights into diastolic dysfunction.",
+        "Mitral Regurgitation": "Discusses mitral valve anomalies and their clinical implications in cardiomyopathy."
+      },
+      "genes": [
+        {
+          "Gene": "MYBPC3",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 2,
+          "context": "Mutations in the MYBPC3 gene are commonly associated with hypertrophic cardiomyopathy as discussed in genetic insights sections."
+        },
+        {
+          "Gene": "MYH7",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Genotype studies often involve the MYH7 gene, highlighting its role in hypertrophic cardiomyopathy."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Title": "2024 Hypertrophic Cardiomyopathy Guideline",
+        "General information": "The document provides an overview of the guidelines for the diagnosis, management, and treatment of hypertrophic cardiomyopathy (HCM), with references to studies and clinical practices. It covers sections on myocardial ischemia, autonomic dysfunction, shared decision-making, and multidisciplinary care for HCM patients."
+      },
+      "genes": [
+        {
+          "Gene": "MYBPC3",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Sarcomere protein mutations in MYBPC3 are linked to hypertrophic cardiomyopathy."
+        }
+      ]
+    },
+    {
+      "content": {
+        "clinical_information": "The document discusses various clinical guidelines and research findings related to hypertrophic cardiomyopathy (HCM). It includes topics such as genetic contributions to the disease, echocardiographic advancements, family screening, clinical outcomes, and the progression of the condition. The text emphasizes the importance of surgical and clinical management based on individual patient profiles and highlights the significance of current technologies in diagnosis and treatment."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guideline": "2024 Hypertrophic Cardiomyopathy Guideline",
+        "focus": "Hypertrophic Cardiomyopathy including diagnosis, management, and imaging techniques.",
+        "sections": [
+          {
+            "title": "CMR Imaging",
+            "description": "The role of cardiovascular magnetic resonance (CMR) in the evaluation and management of patients with hypertrophic cardiomyopathy."
+          },
+          {
+            "title": "Genetic Counseling",
+            "description": "Discussion on the genetic considerations and the importance of genetic testing in hypertrophic cardiomyopathy."
+          },
+          {
+            "title": "Surgical Treatment",
+            "description": "Approaches and long-term outcomes of surgical strategies such as septal myectomy."
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "MYBPC3",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "In the context of hypertrophic cardiomyopathy, mutations in genes such as MYBPC3 are significant in diagnosis and management."
+        },
+        {
+          "Gene": "MYH7",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Mutations in the MYH7 gene have been identified in patients with hypertrophic cardiomyopathy and are relevant for familial screening."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Overview": "The document provides clinical guidelines for the evaluation and management of hypertrophic cardiomyopathy (HCM). It includes information on cardiac CT, heart rhythm assessment, and invasive hemodynamic assessment.",
+        "Cardiac CT": "Recommends the use of cardiac CT for the evaluation of patients with HCM, identifying myocardial fibrosis, and assessing left ventricular outflow tract gradients.",
+        "Heart Rhythm Assessment": "Discusses the use of electrocardiograms (ECG) and ambulatory monitoring to diagnose and prognosticate patients with HCM. Highlights the significance of atrial fibrillation and ventricular arrhythmias.",
+        "Invasive Hemodynamic Assessment": "Describes the assessment of left ventricular inflow and outflow tract pressures, using techniques such as iopetrolol for gradient determination.",
+        "Exercise Stress Testing": "Evaluates exercise stress testing for diagnosing left ventricular outflow tract obstruction in HCM patients."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_title": "2024 Hypertrophic Cardiomyopathy Guideline",
+        "topics": [
+          "Genetics and Family Screening",
+          "Indications for Genotype-Positive, Phenotype-Negative",
+          "Genetic Testing in Hypertrophic Cardiomyopathy",
+          "Interdisciplinary Psychosocial Care for Families with Inherited Cardiovascular Diseases"
+        ],
+        "key_points": [
+          {
+            "section": "Genetics and Family Screening",
+            "focus": "Risk assessment, genetic counseling, and early detection."
+          },
+          {
+            "section": "Indications for Genotype-Positive, Phenotype-Negative",
+            "focus": "Criteria for genetic testing in asymptomatic individuals."
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "LAMP2",
+          "Associated Conditions": [
+            "Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Bondue et al., found abnormal histology, imaging studies, and possibly abnormal expression in LAMP2 cardiomyopathy."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "2024 Hypertrophic Cardiomyopathy Guideline",
+        "overview": "The guideline covers assessment of sudden cardiac death risk related to hypertrophic cardiomyopathy including screening strategies, imaging techniques, and clinical evaluations.",
+        "topics_covered": [
+          "Risk assessment with cardiac MRI",
+          "Left ventricular strain analysis",
+          "Genotype-positive phenotype-negative assessment",
+          "Sudden cardiac death prevention",
+          "Implantable cardioverter-defibrillator use"
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "MYH7",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Natural history of genotype-positive phenotype-negative patients with hypertrophic cardiomyopathy. J Am Coll Cardiol. 2011;57: 258\u2013259."
+        },
+        {
+          "Gene": "MYBPC3",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Prediction of sarcomere mutations in subclinical hypertrophic cardiomyopathy. Circ Cardiovasc Imaging. 2014;7:863\u2013871."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "2024 Hypertrophic Cardiomyopathy Guideline",
+        "sections": [
+          {
+            "heading": "SCD Risk Assessment in Children and Adolescents With HCM",
+            "points": [
+              {
+                "study": "Miron A, Lafreniere-Roula M, Steve Fan CP, et al.",
+                "finding": "Validation of the risk score for sudden cardiac death risk prediction in pediatric hypertrophic cardiomyopathy.",
+                "journal": "Circulation",
+                "year": 2020,
+                "pages": "142:217-229."
+              },
+              {
+                "study": "Norrish G, Ding T, Field E, et al.",
+                "finding": "Development of a novel risk prediction model for sudden cardiac death in childhood hypertrophic cardiomyopathy (HCM Risk-Kids).",
+                "journal": "JAMA Cardiol",
+                "year": 2019,
+                "pages": "4:918-927."
+              }
+            ]
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "MYBPC3",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "43. Choudry Y, Shiue A, Jian L, et al. Cardiovascular magnetic resonance characteristics in children with hypertrophic cardiomyopathy. Circ Heart Fail. 2013;6:1013-1020."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Title": "2024 Hypertrophic Cardiomyopathy Guideline",
+        "Journal": "JACC",
+        "Volume": "83",
+        "Issue": "20",
+        "Publication Date": "June 11, 2024",
+        "Pages": "2391-2405",
+        "Section 7.2": {
+          "Title": "Patient Selection for ICD Placement",
+          "Subsections": [
+            {
+              "Number": "1",
+              "Content": "Maron BJ, Nishimura RA, Maron MS. Shared decision-making in HCM. Nat Rev Cardiol. 2017;14:125-126."
+            },
+            {
+              "Number": "2",
+              "Content": "Maron MS, Rowin EJ, Wessler BS, et al. Enhanced American College of Cardiology/American Heart Association strategy for prevention of sudden cardiac death in high-risk patients with hypertrophic cardiomyopathy. JAMA Cardiol. 2019;4:644-657."
+            },
+            {
+              "Number": "3",
+              "Content": "O\u2019Mahony C, Tome-Esteban M, Lambiase PD, et al. A validation study of the 2003 American College of Cardiology/European Society of Cardiology and 2011 American College of Cardiology Foundation/American Heart Association risk stratification and treatment algorithms for sudden cardiac death in patients with hypertrophic cardiomyopathy. Heart. 2013;99:534-541."
+            },
+            {
+              "Number": "4",
+              "Content": "Maron BJ, Spirito P, Shen W-K, et al. Implantable cardioverter-defibrillators and prevention of sudden cardiac death in hypertrophic cardiomyopathy. JAMA. 2007;298:405-412."
+            }
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document_title": "2024 Hypertrophic Cardiomyopathy Guideline",
+        "main_topics": [
+          "Risk stratification and outcomes in patients with hypertrophic cardiomyopathy (HCM)",
+          "Implantable cardioverter-defibrillator (ICD) device considerations",
+          "Prognostic implications of various tests and treatments for HCM",
+          "Sudden cardiac death in HCM patients",
+          "Efficacy and safety of ICDs and their impact on patients"
+        ],
+        "device_related_findings": [
+          "Subcutaneous ICDs for initial experience in HCM",
+          "Comparison of dual-chamber versus single-chamber ICDs",
+          "ICD considerations for children and adolescents with HCM"
+        ],
+        "methods_described": [
+          "External validation of HCM risk models for predicting sudden cardiac death",
+          "Evaluation of late gadolinium enhancement in HCM patients",
+          "Assessment of blood pressure, heart rate, and psychological profiles"
+        ],
+        "clinical trials_referenced": [
+          "The Cardiovascular Research Network study",
+          "Pacing in Hypertrophic Obstructive Cardiomyopathy trial"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Pharmacological Management": "Symptomatic patients with obstructive hypertrophic cardiomyopathy are managed using beta-adrenergic blockers like propranolol and verapamil to ameliorate angina and improve functional status. Disopyramide is also used for therapy.",
+        "Invasive Treatment": "Involves surgical myectomy or septal ablation. Outcomes compare favorably with dedicated HCM centers managing dynamic obstruction.",
+        "Genetic Considerations": "Valve and papillary muscle abnormalities may be present. Asymmetrical septal hypertrophy impacts survival. Septal reduction therapies are tailored based on morphological characteristics."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_topic": "Hypertrophic Obstructive Cardiomyopathy (HOCM) guidelines",
+        "summary": "The document reviews surgical and clinical interventions for patients with Hypertrophic Obstructive Cardiomyopathy. It includes studies on ventricular septal myectomy, mitral valve procedures, and alcohol septal ablation. It discusses various approaches such as transaortic and multidisciplinary surgical methodologies for patient management.",
+        "key_points": [
+          "Surgical myectomy provides symptom relief and can be performed in subaortic, midventricular, and apical regions.",
+          "Mitral valve involvement and repair can influence outcomes post-myectomy.",
+          "Alcohol septal ablation is an alternative to surgical methods with varying long-term outcomes.",
+          "Improvements in life expectancy and disease management have resulted from precise surgical interventions."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2024 Hypertrophic Cardiomyopathy Guideline",
+        "source": "JACC Vol. 83, No. 23, 2024",
+        "date": "June 11, 2024",
+        "focus": "Management of Patients With HCM and Advanced Heart Failure (HF)",
+        "main points": [
+          {
+            "reference": 11,
+            "authors": "Mehra MR, Canter CE, Hannan MM, et al.",
+            "topic": "2016 Heart Transplantation Criteria",
+            "details": "Discusses the criteria for heart transplantation in hypertrophic cardiomyopathy patients and a 10-year update."
+          },
+          {
+            "reference": 13,
+            "authors": "Fowler CE, Helmers MR, Sond B, et al.",
+            "topic": "Heart Allocation System",
+            "details": "Modified US Heart Allocation system updates and its impact on patients with hypertrophic cardiomyopathy."
+          },
+          {
+            "reference": 16,
+            "authors": "Muthiah K, Phan J, Robson D, et al.",
+            "topic": "Left Ventricular Assist Device (LVAD)",
+            "details": "Exploration of LVAD in hypertrophic cardiomyopathy; a case series analysis."
+          },
+          {
+            "reference": 20,
+            "authors": "Rowin EJ, Maron BJ, Carrick RT, et al.",
+            "topic": "Apical Hypertrophic Cardiomyopathy and Ventricular Systolic Dysfunction",
+            "details": "Outcomes in patients with apical hypertrophic cardiomyopathy associated with ventricular systolic dysfunction."
+          },
+          {
+            "reference": 32,
+            "authors": "Tsuda T, Iwai C, Yamauchi K, et al.",
+            "topic": "Cardiac Resynchronization Therapy",
+            "details": "Cardiac resynchronization therapy impact in hypertrophic cardiomyopathy."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guideline": "2024 Hypertrophic Cardiomyopathy Guideline",
+        "subject": "Management of Patients with HCM and AF (atrial fibrillation) and Ventricular Arrhythmias",
+        "focus": "Discusses management, outcomes, and safety related to therapies aimed at controlling atrial fibrillation and ventricular arrhythmias in patients with hypertrophic cardiomyopathy (HCM)."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Hypertrophic Cardiomyopathy": "The guideline focuses on hypertrophic cardiomyopathy (HCM), discussing its diagnosis, symptoms, and treatment options. It mentions various interventions like implantable cardioverter-defibrillators, radio-frequency catheter ablation, and surgery.",
+        "Physical Activity and Sports Participation": "The guideline addresses the safety of sports and physical activity in patients with HCM, suggesting that moderate exercise is beneficial. It highlights studies on exercise training programs and sports participation for individuals with HCM.",
+        "Sudden Cardiac Death": "Several studies are cited concerning the risk factors and prevention of sudden cardiac death in individuals with HCM. The use of implantable cardioverter-defibrillators is discussed as well as other preventative strategies.",
+        "Pediatric Considerations": "The guideline includes information specific to pediatric patients with HCM, discussing the outcomes and management strategies for younger populations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Hypertrophic Cardiomyopathy Guidelines",
+        "sections": [
+          {
+            "section": "9.2 Occupation in Patients With HCM",
+            "content": "Guidelines related to occupational considerations in patients with hypertrophic cardiomyopathy (HCM)."
+          },
+          {
+            "section": "9.3 Pregnancy in Patients With HCM",
+            "content": "Discusses pregnancy management in women with HCM, including anticoagulation use and outcomes."
+          },
+          {
+            "section": "9.4 Patients With Comorbidities",
+            "content": "Guidelines for managing HCM in patients with additional comorbidities such as obesity and obstructive sleep apnea."
+          },
+          {
+            "section": "10.1 Refining the Diagnosis of HCM",
+            "content": "Methods to improve diagnostic accuracy in HCM, including cardiovascular magnetic resonance imaging."
+          },
+          {
+            "section": "10.2 Developing Therapies to Attenuate or Prevent Disease Progression",
+            "content": "Therapeutic strategies to manage and potentially improve outcomes for patients diagnosed with HCM."
+          },
+          {
+            "section": "10.3 Improving Care for Nonobstructive HCM",
+            "content": "Care improvements for nonobstructive forms of hypertrophic cardiomyopathy."
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "MYL2",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Claes GR, van Tienen FH, Lindsey P, et al. Hyper\u00adtrophic remodeling in cardiac regulatory myosin light chain (MYL2) founder mutation carriers."
+        },
+        {
+          "Gene": "FH",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Claes GR, van Tienen FH, Lindsey P, et al. Hyper\u00adtrophic remodeling in cardiac regulatory myosin light chain (MYL2) founder mutation carriers."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "2024 Hypertrophic Cardiomyopathy Guideline",
+        "topics": [
+          {
+            "section": "10.4. Improving and Expanding Risk Stratification",
+            "content": "Discusses enhanced risk stratification for sudden cardiac death in patients with hypertrophic cardiomyopathy."
+          },
+          {
+            "section": "10.5. Arrhythmia Management",
+            "content": "Details on medication and procedures for managing atrial fibrillation in hypertrophic cardiomyopathy patients."
+          },
+          {
+            "section": "10.6. Expanding Understanding of the Genetic Architecture of HCM",
+            "content": "Focuses on genetic adaptations and recommendations based on the MOGE(M) framework for genetic cardiomyopathies."
+          }
+        ],
+        "keywords": [
+          "ACC/AHA Clinical Practice Guidelines",
+          "atrial fibrillation",
+          "cardiac myosin inhibitors",
+          "dysfunction",
+          "echocardiography",
+          "exercise",
+          "genetics",
+          "hypertrophic cardiomyopathy",
+          "implanted defibrillator",
+          "risk stratification",
+          "sudden cardiac death"
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "MYH7",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Adaptation of the MOGE(M)/AMP variant classification framework for MYH7-associated inherited cardiomyopathies."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "Author Relationships with Industry and Other Entities\u20142024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy",
+        "type": "Appendix",
+        "subject": "Hypertrophic Cardiomyopathy",
+        "participants": [
+          {
+            "name": "Steve R. Ommen",
+            "role": "Chair",
+            "employment": "Mayo Clinic\u2014Director, Hypertrophic Cardiomyopathy Clinic",
+            "consultant": "None",
+            "speakers bureau": "None",
+            "ownership/partnership/principal": "None",
+            "personal research": "None",
+            "institutional, organizational, or other financial benefit": "None",
+            "expert witness": "None"
+          },
+          {
+            "name": "Carolyn Y. Ho",
+            "role": "Vice Chair",
+            "employment": "Brigham & Women's Hospital\u2014Director, Cardiovascular Genetics Center",
+            "consultant": "Relevant: Bristol Myers Squibb, Cytokinetics; Not Relevant: Rocket Pharmaceuticals, Viz.ai",
+            "speakers bureau": "None",
+            "ownership/partnership/principal": "None",
+            "personal research": "Relevant: Cytokinetics, Pfizer",
+            "institutional, organizational, or other financial benefit": "Not Relevant: Biomarin, Novartis; Relevant: Bristol Myers Squibb",
+            "expert witness": "None"
+          },
+          {
+            "name": "Irfan M. Asif",
+            "role": "Committee Member",
+            "employment": "University of Alabama at Birmingham\u2014Associate Dean, Primary Care and Rural Health; Professor and Chair, Department of Family and Community",
+            "consultant": "None",
+            "speakers bureau": "None",
+            "ownership/partnership/principal": "None",
+            "personal research": "None",
+            "institutional, organizational, or other financial benefit": "Not Relevant: CMS, HRSA",
+            "expert witness": "None"
+          },
+          {
+            "name": "Seshadri Balaji",
+            "role": "Committee Member",
+            "employment": "Oregon Health & Science University\u2014Professor of Pediatrics, Division of Cardiology, School of Medicine; Director, Pediatric Electrophysiology",
+            "consultant": "Relevant: Janssen Pharmaceuticals, Milestone Pharmaceuticals",
+            "speakers bureau": "None",
+            "ownership/partnership/principal": "None",
+            "personal research": "Relevant: Medtronic",
+            "institutional, organizational, or other financial benefit": "None",
+            "expert witness": "Not Relevant: Defendant, Sudden death evaluation, 2022"
+          },
+          {
+            "name": "Michael A. Burke",
+            "role": "Committee Member",
+            "employment": "Emory University School of Medicine\u2014Associate Professor of Medicine",
+            "consultant": "None",
+            "speakers bureau": "None",
+            "ownership/partnership/principal": "None",
+            "personal research": "None",
+            "institutional, organizational, or other financial benefit": "Not Relevant: Pfizer",
+            "expert witness": "None"
+          },
+          {
+            "name": "Sharlene M. Day",
+            "role": "Committee Member",
+            "employment": "University of Pennsylvania\u2014Director, Translational Research, Division of Cardiovascular Medicine and Cardiovascular Institute",
+            "consultant": "None",
+            "speakers bureau": "None",
+            "ownership/partnership/principal": "None",
+            "personal research": "Relevant: Bristol Myers Squibb, Lexicon Pharmaceuticals; Not Relevant: Cytokinetics (DSMB)",
+            "institutional, organizational, or other financial benefit": "None",
+            "expert witness": "None"
+          },
+          {
+            "name": "Joseph A. Dearani",
+            "role": "Committee Member",
+            "employment": "Mayo Clinic\u2014Director of Pediatric and Adult Congenital Heart Surgery; Professor of Surgery",
+            "consultant": "None",
+            "speakers bureau": "None",
+            "ownership/partnership/principal": "None",
+            "personal research": "None",
+            "institutional, organizational, or other financial benefit": "None",
+            "expert witness": "None"
+          },
+          {
+            "name": "Kelly C. Epps",
+            "role": "Committee Member",
+            "employment": "Inova\u2014Interventional Cardiologist",
+            "consultant": "None",
+            "speakers bureau": "None",
+            "ownership/partnership/principal": "None",
+            "personal research": "None",
+            "institutional, organizational, or other financial benefit": "None",
+            "expert witness": "None"
+          },
+          {
+            "name": "Lauren Evanovich",
+            "role": "Committee Member",
+            "employment": "Patient Representative",
+            "consultant": "None",
+            "speakers bureau": "None",
+            "ownership/partnership/principal": "None",
+            "personal research": "None",
+            "institutional, organizational, or other financial benefit": "None",
+            "expert witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Committee Members": [
+          {
+            "Name": "Victor A. Ferrari",
+            "Employment": "University of Pennsylvania\u2014Chair, Penn Cardiovascular Imaging Council, Depts. of Medicine, Radiology and Penn Cardiovascular Institute; Professor Cardiovascular Medicine; Professor, Radiology",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "NOT RELEVANT \u25a0 NHLBI/NIH (DSMB)\u2021 \u25a0 JCMR\u2020",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Jos\u00e9 A. Joglar",
+            "Employment": "UT Southwestern\u2014Program Director, Clinical Cardiac Electrophysiology Fellowship Program",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Sadiya S. Khan",
+            "Employment": "Northwestern University\u2014Assistant Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Jeffrey J. Kim",
+            "Employment": "Baylor College of Medicine\u2014Director, Electrophysiology & Pacing; Professor, Pediatric Cardiology",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Michelle M. Kittleson",
+            "Employment": "Cedars\u2013Sinai\u2014Director of Education in Heart Failure and Transplantation; Director of Heart Failure Research; Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "NOT RELEVANT \u25a0 Encore Medical Education \u25a0 Journal of Heart and Lung Transplantation",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "NOT RELEVANT \u25a0 Actelion\u2021 \u25a0 Eidos\u2021 \u25a0 Gilead (One Legacy)/Baylor\u2020 \u25a0 NIH\u2021 \u25a0 Sanofi (Genzyme)\u2021 \u25a0 United Therapeutics\u2021",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Chayakrit Krittanawong",
+            "Employment": "Baylor College of Medicine\u2014Staff Physician",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Matthew W. Martinez",
+            "Employment": "Atlantic Health System/Morristown Medical Center\u2014Director, Sports Cardiology; Director, Hypertrophic Cardiomyopathy Program",
+            "Consultant": "RELEVANT \u25a0 Bristol Myers Squibb NOT RELEVANT \u25a0 Major League Soccer",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "RELEVANT \u25a0 Cytokinetics\u2021",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Seema Mital",
+            "Employment": "Hospital for Sick Children\u2014Head, Cardiovascular Research; Staff Cardiologist, Heart Function and Transplant Program",
+            "Consultant": "RELEVANT \u25a0 Bristol Myers Squibb \u25a0 Tenaya Therapeutics",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "appendix": "This is a continuation of Appendix 1 detailing relationships of committee members with industry and other entities.",
+        "committee_members": {
+          "Srihari S. Naidu": {
+            "employment": "New York Medical College, Westchester Medical Center",
+            "roles": "Professor of Medicine, Director of HCM Center and Cardiac Cath Labs",
+            "consultant": "Relevant - Bristol Myers Squibb, Cytokinetics"
+          },
+          "Sara Saberi": {
+            "employment": "University of Michigan Health Systems",
+            "roles": "Assistant Professor, Division of Cardiovascular Medicine",
+            "consultant": "Relevant - Bristol Myers Squibb, Cytokinetics",
+            "personal_research": "Relevant - Bristol Myers Squibb, Cytokinetics",
+            "institutional_organizational_benefit": "Not Relevant - HCMS\u2020, Cytokinetics\u2020, Novartis\u2020"
+          },
+          "Christopher Semsarian": {
+            "employment": "The University of Sydney, Centenary Institute, Royal Prince Alfred Hospital",
+            "roles": "Professor of Medicine, Head of Molecular Cardiology Program, Cardiologist",
+            "consultant": "None"
+          },
+          "Sabrina Times": {
+            "affiliation": "AHA/ACC Science and Health Advisor, Guidelines",
+            "consultant": "None"
+          },
+          "Cynthia Burstein Waldman": {
+            "affiliation": "HCMBeat, MGM",
+            "roles": "Founder and Editor, Vice President, Library Rights Management",
+            "consultant": "None"
+          }
+        },
+        "notes": "Disclosure represents relationships with industry and other entities that are reported, relevant, or significant, with definitions provided in a referenced policy."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_title": "2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy",
+        "appendix_title": "Appendix 2: Reviewer Relationships with Industry and Other Entities (Comprehensive)",
+        "reviewers": [
+          {
+            "name": "Mark S. Link",
+            "employment": "UT Southwestern Medical Center",
+            "financial_disclosures": {
+              "consultant": "None",
+              "speakers_bureau": "None",
+              "ownership_partnership": "None",
+              "personal_research": "None",
+              "institutional_benefit": [
+                "Journal Watch Cardiology",
+                "Circulation, Associate Editor",
+                "UpToDate"
+              ],
+              "expert_witness": "None"
+            }
+          },
+          {
+            "name": "Anandita Agarwala",
+            "employment": "Baylor Scott & White Health\u2013The Heart Hospital Baylor Plano",
+            "financial_disclosures": {
+              "consultant": "None",
+              "speakers_bureau": "None",
+              "ownership_partnership": "None",
+              "personal_research": "NIH",
+              "institutional_benefit": "None",
+              "expert_witness": "None"
+            }
+          },
+          {
+            "name": "Chad Asplund",
+            "employment": "Georgetown University",
+            "financial_disclosures": {
+              "consultant": "None",
+              "speakers_bureau": "None",
+              "ownership_partnership": "None",
+              "personal_research": "None",
+              "institutional_benefit": "None",
+              "expert_witness": "None"
+            }
+          },
+          {
+            "name": "Michael Ayers",
+            "employment": "University of Virginia",
+            "financial_disclosures": {
+              "consultant": [
+                "Athenex",
+                "Bristol Myers Squibb",
+                "HFSA"
+              ],
+              "speakers_bureau": "None",
+              "ownership_partnership": "None",
+              "personal_research": "None",
+              "institutional_benefit": "Cytokinetics",
+              "expert_witness": "Plaintiff, Chest pain, 2023"
+            }
+          },
+          {
+            "name": "C. Anwar Chahal",
+            "employment": "Wellspark Health; Mayo Clinic; Barts Heart Centre",
+            "financial_disclosures": {
+              "consultant": "None",
+              "speakers_bureau": "None",
+              "ownership_partnership": "None",
+              "personal_research": "None",
+              "institutional_benefit": "None",
+              "expert_witness": "None"
+            }
+          },
+          {
+            "name": "Jonathan Chrispin",
+            "employment": "Johns Hopkins University",
+            "financial_disclosures": {
+              "consultant": [
+                "Abbott",
+                "Biosense Webster",
+                "Boston Scientific"
+              ],
+              "speakers_bureau": "None",
+              "ownership_partnership": "None",
+              "personal_research": "None",
+              "institutional_benefit": [
+                "Abbott",
+                "Biosense Webster"
+              ],
+              "expert_witness": "None"
+            }
+          },
+          {
+            "name": "Aarti Dalal",
+            "employment": "Vanderbilt University",
+            "financial_disclosures": {
+              "consultant": "Medtronic",
+              "speakers_bureau": "None",
+              "ownership_partnership": "None",
+              "personal_research": "None",
+              "institutional_benefit": "None",
+              "expert_witness": "None"
+            }
+          },
+          {
+            "name": "Alejandro E. De Feria Alsina",
+            "employment": "University of Pennsylvania",
+            "financial_disclosures": {
+              "consultant": "None",
+              "speakers_bureau": "None",
+              "ownership_partnership": "None",
+              "personal_research": "None",
+              "institutional_benefit": "None",
+              "expert_witness": "None"
+            }
+          },
+          {
+            "name": "Jonathan Drezner",
+            "employment": "University of Washington",
+            "financial_disclosures": {
+              "consultant": "None",
+              "speakers_bureau": "None",
+              "ownership_partnership": "None",
+              "personal_research": "None",
+              "institutional_benefit": [
+                "AMSSM",
+                "National Center for Catastrophic Sports Injury Research"
+              ],
+              "expert_witness": "None"
+            }
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Reviewers": [
+          {
+            "Name": "Rajesh Kabra",
+            "Representation": "AHA/ACC HCM Guideline Peer Review Committee",
+            "Employment": "Kansas City Heart Rhythm Institute, University of Tennessee Health Science Center",
+            "Consultant": [
+              "Volta Medical"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Abbott, Fellowship Grant",
+              "Biosense Webster, Fellowship Grant",
+              "Medtronic, Fellowship Grant",
+              "Iqvia Biotech",
+              "Medtronic"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Sabeeda Kadavath",
+            "Representation": "AHA/ACC HCM Guideline Peer Review Committee",
+            "Employment": "St. Bernards Medical Center",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Elizabeth S. Kaufman",
+            "Representation": "AHA/ACC HCM Guideline Peer Review Committee Member, representing HRS",
+            "Employment": "The MetroHealth System",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "CIH"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Sabra Lewsey",
+            "Representation": "AHA/ACC HCM Guideline Peer Review Committee",
+            "Employment": "Johns Hopkins University",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Associate of Black Cardiologists, Volunteer position"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "James P. MacNamara",
+            "Representation": "AHA/ACC HCM Guideline Peer Review Committee",
+            "Employment": "UT Southwestern Medical Center",
+            "Consultant": [
+              "Lexicon"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Boehringer Ingelheim",
+              "Bristol Myers Squibb",
+              "Cytokinetics",
+              "Sardacort"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Anjali Owens",
+            "Representation": "AHA/ACC HCM Guideline Peer Review Committee",
+            "Employment": "University of Pennsylvania",
+            "Consultant": [
+              "BioMarin Pharmaceuticals",
+              "Bristol Myers Squibb",
+              "Cytokinetics",
+              "Edgewise Therapeutics",
+              "Lexeo Therapeutics",
+              "Lexicon",
+              "Myokardia",
+              "Pfizer",
+              "Renovacor",
+              "Stealth Biotherapeutics",
+              "Tenaya Therapeutics"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Array Biopharma, PI"
+            ],
+            "Expert Witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "reviewers": [
+          {
+            "name": "Hena Patel",
+            "representation": "AHA/ACC HCM Guideline Peer Review Committee",
+            "employment": "University of Chicago",
+            "consultant": null,
+            "speakers bureau": null,
+            "ownership/partnership/principal": null,
+            "personal research": "NIH\u2020",
+            "institutional financial benefit": [
+              "Alleviant Medical, Inc.",
+              "AstraZeneca*",
+              "Bristol Myers Squibb\u2020",
+              "Cytokinetics*\u2020\u2021",
+              "Pfizer\u2020"
+            ],
+            "expert witness": null
+          },
+          {
+            "name": "Nosheen Reza",
+            "representation": "AHA/ACC HCM Guideline Peer Review Committee, representing ACC/AHA JCPM",
+            "employment": "University of Pennsylvania",
+            "consultant": [
+              "Bristol Myers Squibb*",
+              "Roche Diagnostics",
+              "Zoll"
+            ],
+            "speakers bureau": null,
+            "ownership/partnership/principal": null,
+            "personal research": "NIH\u2020",
+            "institutional financial benefit": [
+              "Alleviant Medical, Inc.",
+              "AstraZeneca*",
+              "Bristol Myers Squibb\u2020",
+              "Cytokinetics*\u2020\u2021",
+              "Pfizer\u2020"
+            ],
+            "expert witness": null
+          },
+          {
+            "name": "Aldo L. Schenone",
+            "representation": "AHA/ACC HCM Guideline Peer Review Committee",
+            "employment": "Montefiore Medical Center",
+            "consultant": null,
+            "speakers bureau": null,
+            "ownership/partnership/principal": "Bristol Myers Squibb",
+            "personal research": null,
+            "institutional financial benefit": null,
+            "expert witness": null
+          },
+          {
+            "name": "Daniel Swistel",
+            "representation": "AHA/ACC HCM Guideline Peer Review Committee",
+            "employment": "New York University",
+            "consultant": null,
+            "speakers bureau": null,
+            "ownership/partnership/principal": null,
+            "personal research": null,
+            "institutional financial benefit": null,
+            "expert witness": null
+          },
+          {
+            "name": "Jose Vargas",
+            "representation": "AHA/ACC HCM Guideline Peer Review Committee",
+            "employment": "US Department of Veterans Affairs",
+            "consultant": "Bioclinica\u2020",
+            "speakers bureau": null,
+            "ownership/partnership/principal": null,
+            "personal research": null,
+            "institutional financial benefit": null,
+            "expert witness": null
+          }
+        ],
+        "disclosure note": "This table represents all reviewers' relationships with industry and other entities that were reported at the time of peer review, including those not deemed to be relevant to this document, at the time this document was under review..."
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "RAS-MAPK",
+      "Associated Conditions": [
+        "RASopathies"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "RASopathies (variants in several genes involved in RAS-MAPK signaling) can mimic the conditions of HCM."
+      ]
+    },
+    {
+      "Gene": "MYH7",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy (HCM)",
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 8,
+      "context": [
+        "Among patients with HCM and a pathogenic sarcomeric gene variant, the 2 most common genes are beta myosin heavy chain 7 (MYH7)...",
+        "Particularly noted in those with family history, SCD, and pathogenic variants in MYH7/MYBPC3.",
+        "Gene panels include 8 sarcomere genes, including MYH7.",
+        "For younger (e.g., \u226445 years of age) patients with nonobstructive HCM due to a pathogenic or likely pathogenic cardiac sarcomere genetic variant, and a mild phenotype, valsartan may be beneficial to slow adverse cardiac remodeling.",
+        "Genotype studies often involve the MYH7 gene, highlighting its role in hypertrophic cardiomyopathy.",
+        "Mutations in the MYH7 gene have been identified in patients with hypertrophic cardiomyopathy and are relevant for familial screening.",
+        "Natural history of genotype-positive phenotype-negative patients with hypertrophic cardiomyopathy. J Am Coll Cardiol. 2011;57: 258\u2013259.",
+        "Adaptation of the MOGE(M)/AMP variant classification framework for MYH7-associated inherited cardiomyopathies."
+      ]
+    },
+    {
+      "Gene": "MYBPC3",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy (HCM)",
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 10,
+      "context": [
+        "Among patients with HCM and a pathogenic sarcomeric gene variant, the 2 most common genes are beta myosin heavy chain 7 (MYH7) and myosin-binding protein C3 (MYBPC3)...",
+        "Particularly noted in those with family history, SCD, and pathogenic variants in MYH7/MYBPC3.",
+        "Gene panels include 8 sarcomere genes, including MYBPC3.",
+        "Myocardial transcriptomic profiling has found significant overlap in gene network activation between dilated cardiomyopathy and HCM, including MYBPC3 mutations.",
+        "Mutations in the MYBPC3 gene are commonly associated with hypertrophic cardiomyopathy as discussed in genetic insights sections.",
+        "Sarcomere protein mutations in MYBPC3 are linked to hypertrophic cardiomyopathy.",
+        "In the context of hypertrophic cardiomyopathy, mutations in genes such as MYBPC3 are significant in diagnosis and management.",
+        "Prediction of sarcomere mutations in subclinical hypertrophic cardiomyopathy. Circ Cardiovasc Imaging. 2014;7:863\u2013871.",
+        "43. Choudry Y, Shiue A, Jian L, et al. Cardiovascular magnetic resonance characteristics in children with hypertrophic cardiomyopathy. Circ Heart Fail. 2013;6:1013-1020."
+      ]
+    },
+    {
+      "Gene": "TNNI3",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy (HCM)"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "variant positive, while other genes (TNNI3, TNNT2, TPM1, MYL2, MYL3, ACTC1) can account for a small proportion of patients (1%-5%)..."
+      ]
+    },
+    {
+      "Gene": "TNNT2",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy (HCM)",
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 3,
+      "context": [
+        "variant positive, while other genes (TNNI3, TNNT2, TPM1, MYL2, MYL3, ACTC1) can account for a small proportion of patients (1%-5%)...",
+        "Gene panels include 8 sarcomere genes, including TNNT2."
+      ]
+    },
+    {
+      "Gene": "TPM1",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy (HCM)",
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "variant positive, while other genes (TNNI3, TNNT2, TPM1, MYL2, MYL3, ACTC1) can account for a small proportion of patients (1%-5%)...",
+        "Gene panels include 8 sarcomere genes, including TPM1."
+      ]
+    },
+    {
+      "Gene": "MYL2",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy (HCM)",
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 3,
+      "context": [
+        "variant positive, while other genes (TNNI3, TNNT2, TPM1, MYL2, MYL3, ACTC1) can account for a small proportion of patients (1%-5%)...",
+        "Gene panels include 8 sarcomere genes, including MYL2.",
+        "Claes GR, van Tienen FH, Lindsey P, et al. Hyper\u00adtrophic remodeling in cardiac regulatory myosin light chain (MYL2) founder mutation carriers."
+      ]
+    },
+    {
+      "Gene": "MYL3",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy (HCM)",
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "variant positive, while other genes (TNNI3, TNNT2, TPM1, MYL2, MYL3, ACTC1) can account for a small proportion of patients (1%-5%)...",
+        "Gene panels include 8 sarcomere genes, including MYL3."
+      ]
+    },
+    {
+      "Gene": "ACTC1",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy (HCM)",
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "variant positive, while other genes (TNNI3, TNNT2, TPM1, MYL2, MYL3, ACTC1) can account for a small proportion of patients (1%-5%)...",
+        "Gene panels include 8 sarcomere genes, including ACTC1."
+      ]
+    },
+    {
+      "Gene": "PRKAG2",
+      "Associated Conditions": [
+        "Glycogen Storage Disease"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Suspicion based on phenotype evaluation of a systemic disorder, including PRKAG2."
+      ]
+    },
+    {
+      "Gene": "LAMP2",
+      "Associated Conditions": [
+        "Danon Disease",
+        "Cardiomyopathy"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "Suspicion based on phenotype evaluation of a systemic disorder, including LAMP2.",
+        "Bondue et al., found abnormal histology, imaging studies, and possibly abnormal expression in LAMP2 cardiomyopathy."
+      ]
+    },
+    {
+      "Gene": "GLA",
+      "Associated Conditions": [
+        "Fabry Disease"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Suspicion based on phenotype evaluation of a systemic disorder, including GLA."
+      ]
+    },
+    {
+      "Gene": "Sarcomere Variants",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy",
+        "Sudden Cardiac Death"
+      ],
+      "Occurrences": 3,
+      "context": [
+        "Sarcomere variants are associated with more severe disease, including earlier onset, higher incidence of SCD, and arrhythmias. Patients with such variants have worse prognosis compared to those without."
+      ]
+    },
+    {
+      "Gene": "NT-proBNP",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Reported alterations include abnormal serum NT-proBNP concentrations even in the absence of LVH."
+      ]
+    },
+    {
+      "Gene": "HCM",
+      "Associated Conditions": [
+        "Hypertrophic cardiomyopathy",
+        "Sudden cardiac death",
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 7,
+      "context": [
+        "References to HCM in context of SCD risk assessment and genotype status as a risk factor.",
+        "Approximately 50% of cases of HCM are genetically elusive. Improved algorithms for the interpretation of variants that are currently classified as variants of uncertain significance are evolving."
+      ]
+    },
+    {
+      "Gene": "sarcomeric variants",
+      "Associated Conditions": [
+        "HCM",
+        "systolic dysfunction"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "In patients with nonobstructive HCM, pathogenic or likely pathogenic sarcomeric variants are considered."
+      ]
+    },
+    {
+      "Gene": "GENE_HCM",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "Individuals who are genotype-positive, phenotype-negative for HCM, participation in competitive sports of any intensity is reasonable. In pediatric patients, age and heart size must be taken into account when considering ablation."
+      ]
+    },
+    {
+      "Gene": "No gene mentioned",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": [
+        ""
+      ]
+    },
+    {
+      "Gene": "Sarcomere Gene Variant",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy",
+        "Obesity",
+        "Increased Cardiovascular Risk"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Patients with HCM and sarcomere gene variants may have increased risk for cardiovascular complications and symptom burden."
+      ]
+    },
+    {
+      "Gene": "FH",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Claes GR, van Tienen FH, Lindsey P, et al. Hyper\u00adtrophic remodeling in cardiac regulatory myosin light chain (MYL2) founder mutation carriers."
+      ]
+    }
+  ]
+}

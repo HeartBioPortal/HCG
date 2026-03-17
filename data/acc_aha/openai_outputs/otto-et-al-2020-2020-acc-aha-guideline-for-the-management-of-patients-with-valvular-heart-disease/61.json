@@ -1,0 +1,90 @@
+{
+  "content": {
+    "Title": "2020 ACC/AHA Guideline for the Management of Valvular Heart Disease",
+    "Figure": "Primary Mitral Regurgitation (MR)",
+    "Stages": [
+      {
+        "Stage C": {
+          "Symptom": "No symptoms due to MR"
+        }
+      },
+      {
+        "Stage D": {
+          "Symptom": "Symptoms due to MR, regardless of LV function"
+        }
+      },
+      {
+        "Stage C2": {
+          "Condition": "LV systolic dysfunction",
+          "Criteria": "LVEF \u226460% or ESD \u226540 mm"
+        }
+      },
+      {
+        "Stage C1": {
+          "Condition": "Normal LV systolic function",
+          "Criteria": "LVEF >60% or ESD <40 mm"
+        }
+      }
+    ],
+    "Interventions": [
+      {
+        "Type": "MV surgery",
+        "Condition": [
+          "High or prohibitive surgical risk with anatomy favorable for transcatheter approach and life expectancy >1 year",
+          "Successful and durable repair possible for Degenerative MV disease",
+          "Successful and durable repair possible for Rheumatic MV disease"
+        ]
+      },
+      {
+        "Type": "Transcatheter edge-to-edge MV repair (2a)",
+        "Condition": null
+      },
+      {
+        "Type": "MV surgery at primary or CVC (1)",
+        "Condition": null
+      },
+      {
+        "Type": "MV repair at CVC (2b)",
+        "Condition": null
+      },
+      {
+        "Type": "MV repair at primary or CVC (2a)",
+        "Condition": {
+          "Surgical mortality risk": "<1% with >95% likelihood of successful and durable repair without residual MR"
+        }
+      },
+      {
+        "Type": "MV repair or replacement (2b)",
+        "Condition": {
+          "Progressive increase in LV size or decrease in LVEF on at least 3 studies": "YES"
+        }
+      }
+    ],
+    "Annotations": [
+      {
+        "Center": "Comprehensive Valve Center"
+      },
+      {
+        "Parameters": [
+          "VC",
+          "RVol",
+          "RF",
+          "ERO",
+          "LVEF",
+          "ESD"
+        ]
+      },
+      {
+        "Notes": "Color correspondence to Table 2, See Prosthetic Valve section (11.2)"
+      },
+      {
+        "Extras": "Patients with severe MR and LV dysfunction should be treated in a Comprehensive Valve Center. Surgical repair strategies should ensure durability to be effective and avoid complications."
+      }
+    ],
+    "Key Points": [
+      "Severe MR may lead to worsening LV dilation and dysfunction.",
+      "Early MR repair strategy must provide durable repair to be effective."
+    ]
+  },
+  "genes": []
+}

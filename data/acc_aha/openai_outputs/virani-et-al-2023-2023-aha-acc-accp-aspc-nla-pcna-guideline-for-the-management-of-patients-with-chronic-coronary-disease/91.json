@@ -1,0 +1,29 @@
+{
+  "content": {
+    "source": "JACC Vol. 82, No. 9, 2023",
+    "purpose": "Guideline on chronic coronary disease by the American College of Cardiology/American Heart Association.",
+    "key_topics": [
+      "Screening for health-related social needs",
+      "Influence of social determinants on health outcomes",
+      "Economic and racial disparities in cardiac care",
+      "Neighborhood factors and health outcomes",
+      "Nutrition and supplements"
+    ],
+    "highlights": [
+      "Examines the impact of neighborhood socioeconomic disadvantage on cardiac outcomes.",
+      "Discusses dietary interventions for primary and secondary prevention of cardiovascular diseases.",
+      "Evaluates effects of digital health interventions post-myocardial infarction."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "PAI-1",
+      "Associated Conditions": [
+        "Myocardial Infarction",
+        "Thrombosis"
+      ],
+      "Occurrences": 1,
+      "context": "27. Bhat was investigated as a marker in patients with ST-segment elevation myocardial infarction treated with fibrinolysis, finding PAI-1 variants as a significant factor."
+    }
+  ]
+}

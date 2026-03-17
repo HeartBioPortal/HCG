@@ -1,0 +1,30 @@
+{
+  "content": {
+    "Noninvasive Evaluation": {
+      "Resting ECG": {
+        "Indication": "For patients with suspected bradycardia or conduction disorder.",
+        "Recommendation": "12-lead ECG to document rhythm, rate, and conduction, and to screen for structural heart disease or systemic illness.",
+        "Level of Evidence": "I, B-NR"
+      },
+      "Exercise Electrocardiographic Testing": {
+        "Recommendation 1": {
+          "Indication": "Suspected chronotropic incompetence.",
+          "Recommendation": "Reasonable to ascertain diagnosis and prognosis.",
+          "Level of Evidence": "IIa, B-NR"
+        },
+        "Recommendation 2": {
+          "Indication": "Exercise-related symptoms or 2:1 atrioventricular block of unknown level.",
+          "Recommendation": "Exercise testing is reasonable.",
+          "Level of Evidence": "IIa, C-LD"
+        }
+      }
+    },
+    "Synopsis": [
+      "The resting ECG is essential in evaluating known or suspected bradycardia or conduction disorder.",
+      "A 12-lead ECG helps confirm rhythm and rate disturbances, and detect abnormalities suggesting structural heart or systemic disease.",
+      "About 5% diagnosis rate in symptomatic patients using ECG.",
+      "Initial abnormal ECG predictive of adverse outcomes, such as mortality with syncope."
+    ]
+  },
+  "genes": []
+}

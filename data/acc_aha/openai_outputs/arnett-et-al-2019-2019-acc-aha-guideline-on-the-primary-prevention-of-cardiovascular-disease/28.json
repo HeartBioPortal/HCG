@@ -1,0 +1,31 @@
+{
+  "content": {
+    "counseling": "Continued supportive follow-up contacts for at least one month after discharge is recommended.",
+    "ENDS": "Not recommended as a tobacco treatment method due to unclear evidence on effectiveness and potential harm.",
+    "USPSTF recommendation": "Clinicians should direct patients who smoke tobacco to other cessation interventions.",
+    "cigarette smoking": "Strong independent risk factor for ASCVD events and premature death.",
+    "tobacco use": "Beneficial in reducing excess risk even among older adults.",
+    "risk for former smokers": "Similar to never smokers after >15 years of cessation.",
+    "tobacco dependence": "Chronic disease requiring highly skilled disease management.",
+    "secondhand smoke": "Known to cause CVD and adverse events in nonsmokers.",
+    "prohibited use": "Combustible tobacco products are prohibited in public housing.",
+    "aspirin use recommendations": [
+      {
+        "COR": "IIb",
+        "LOE": "A",
+        "recommendation": "Low-dose aspirin may be considered for primary prevention of ASCVD among select adults 40 to 70 years of age at higher ASCVD risk without increased bleeding risk."
+      },
+      {
+        "COR": "III: Harm",
+        "LOE": "B-R",
+        "recommendation": "Low-dose aspirin should not be administered for primary prevention of ASCVD among adults >70 years of age."
+      },
+      {
+        "COR": "III: Harm",
+        "LOE": "C-LD",
+        "recommendation": "Low-dose aspirin should not be administered for primary prevention of ASCVD among adults at increased risk of bleeding."
+      }
+    ]
+  },
+  "genes": []
+}

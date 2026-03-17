@@ -1,0 +1,21 @@
+{
+  "content": {
+    "NGC Database Inclusion Criteria": {
+      "Content": "The guideline contains systematically developed statements including recommendations, strategies, or information to assist healthcare decisions.",
+      "Production": "Guidelines are produced with medical associations, relevant societies, or government agencies.",
+      "Corroboration": "Documentation is based on a systematic review of scientific evidence published in peer-reviewed journals.",
+      "Language and Date of Creation": "Guidelines are available in English, current, and reviewed or revised within the last 5 years."
+    },
+    "AGREE Attributes": {
+      "Explicit Scope and Purpose": "Describes overall guideline objectives, covered clinical questions, and target patients.",
+      "Stakeholder Involvement": "Involves all relevant professional groups and patients, defines target users, and pilots guidelines among them.",
+      "Rigor of Development": "Uses systematic methods to search, select evidence, and formulate recommendations; external review and updating procedure provided."
+    },
+    "Implementation Considerations": {
+      "Patient Preferences": "Role of patient preferences in recommendations involving personal choice or values.",
+      "Algorithm": "Provides graphical descriptions of care stages and decisions in clinical care.",
+      "Application Barriers": "Describes anticipated barriers, references auxiliary documents for implementation, and suggests review criteria for changes in care."
+    }
+  },
+  "genes": []
+}

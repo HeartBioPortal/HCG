@@ -1,0 +1,30 @@
+{
+  "content": {
+    "description": "The guideline discusses various aspects of device therapy for symptomatic bradycardia and ICDs. It defines symptomatic bradycardia, emphasizes the role of medical therapy, and outlines situations where device therapy is necessary. It also mentions the significance of comprehensively evaluating the patient's condition, including quality of life considerations. Changes in recommendations are based on new trials and evidence, and the guideline stresses the importance of consistent recommendations with previous guidelines.",
+    "symptoms": [
+      "dizziness",
+      "lightheadedness",
+      "confusional states",
+      "fatigue",
+      "exercise intolerance",
+      "congestive heart failure"
+    ],
+    "conditions": [
+      "symptomatic bradycardia",
+      "sudden cardiac death (SCD)",
+      "malignant ventricular arrhythmias",
+      "acute myocardial infarction"
+    ],
+    "treatments": [
+      "pacing therapy for specific heart rate",
+      "ICDs for SCD and ventricular arrhythmias"
+    ],
+    "principles": [
+      "New evidence from trials",
+      "Health and financial considerations",
+      "Universal application with individualization",
+      "Consistency with previous guidelines"
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,42 @@
+{
+  "content": {
+    "Infant Guidelines": "Discusses evaluation and management of infants with syncope along with recommendations by the American College of Cardiology and Heart Association.",
+    "Arrhythmia Syndromes": "Examines genetic data concerning ion channels linked with sudden infant death syndrome, emphasizing inheritance in new genomic data.",
+    "Biomarkers": "Describes various biomarkers including troponins and natriuretic peptides that are predictive of ventricular arrhythmias and sudden cardiac death.",
+    "Cardiomyopathies": "Mentions inherited cardiomyopathy due to genetic variants causing arrhythmic right ventricular cardiomyopathy and the role of genetic data in disease prediction."
+  },
+  "genes": [
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "Brugada syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Variations in this gene are a known genetic cause for Brugada syndrome and used for genetic testing purposes."
+    },
+    {
+      "Gene": "KCNQ1",
+      "Associated Conditions": [
+        "Arrhythmias"
+      ],
+      "Occurrences": 1,
+      "context": "The gene is mentioned in relation to genetic information accessibility as a choice for consumer access and medical guidance."
+    },
+    {
+      "Gene": "KCNH2",
+      "Associated Conditions": [
+        "Arrhythmias"
+      ],
+      "Occurrences": 1,
+      "context": "Similar to KCNQ1, this gene is discussed concerning genetic information access regarding arrhythmias."
+    },
+    {
+      "Gene": "RYR2",
+      "Associated Conditions": [
+        "Arrhythmias"
+      ],
+      "Occurrences": 1,
+      "context": "Also included in the context of genetic information dissemination for arrhythmias."
+    }
+  ]
+}

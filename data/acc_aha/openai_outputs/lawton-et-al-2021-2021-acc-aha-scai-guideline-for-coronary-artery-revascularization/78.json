@@ -1,0 +1,43 @@
+{
+  "content": {
+    "title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+    "sections": {
+      "4.2": "Defining Coronary Artery Lesion Complexity: Calculation of the SYNTAX Score (Synergy Between PCI With TAXUS and Cardiac Surgery)",
+      "4.3": "Use of Coronary Physiology to Guide Revascularization With PCI",
+      "4.4": "Intravascular Ultrasound to Assess Lesion Severity",
+      "4.5": "Revascularization of the Infarct Artery in Patients With STEMI"
+    },
+    "references": [
+      "Sianos et al. 2005: An angiographic tool grading the complexity of coronary artery disease.",
+      "Gargi et al.: Study on 1-year outcomes after revascularization.",
+      "Cavalcante et al.: Impact of SYNTAX scores in PCI patients.",
+      "Farooq et al.: Development of SYNTAX score II for individual patient treatment.",
+      "Pijls NHJ et al.: DEFERR trial on PCI vs. medical therapy outcomes."
+    ],
+    "studies": [
+      {
+        "name": "SYNTAX",
+        "focus": "SYNTAX score calculation",
+        "applications": [
+          "PCI",
+          "cardiac surgery"
+        ]
+      },
+      {
+        "name": "DEFER",
+        "focus": "PCI intervention vs. functional management",
+        "applications": [
+          "non-significant coronary stenosis"
+        ]
+      },
+      {
+        "name": "FAME",
+        "focus": "Fractional Flow Reserve use",
+        "applications": [
+          "multivessel coronary artery disease"
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

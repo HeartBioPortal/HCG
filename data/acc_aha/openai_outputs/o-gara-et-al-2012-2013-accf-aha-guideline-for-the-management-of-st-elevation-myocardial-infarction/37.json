@@ -1,0 +1,41 @@
+{
+  "content": {
+    "Assessment of LV Function": {
+      "Recommendation": {
+        "Class I": {
+          "Statement": "LVEF should be measured in all patients with STEMI.",
+          "Level of Evidence": "C"
+        }
+      },
+      "Details": "LV function is a strong predictor of survival in patients with STEMI. It is commonly evaluated using imaging like echocardiography. Patients with significant systolic dysfunction during initial hospitalization should have LV function reevaluated \u226540 days later."
+    },
+    "Assessment of Risk for SCD": {
+      "Recommendation": {
+        "Class I": {
+          "Statement": "Patients with an initially reduced LVEF who are possible candidates for ICD therapy should undergo reevaluation of LVEF 40 or more days after discharge.",
+          "Level of Evidence": "B"
+        }
+      },
+      "Details": "The predictors of SCD risk after STEMI include ventricular arrhythmias and residual LV systolic function. ICD therapy is considered for patients with LVEF \u22640.35, following trials like DINAMIT."
+    },
+    "Posthospitalization Plan of Care": {
+      "Recommendations": {
+        "Class I": {
+          "Statements": [
+            "Posthospital systems of care should facilitate transition to outpatient care for all patients with STEMI.",
+            "Exercise-based cardiac rehabilitation/secondary prevention is recommended for patients with STEMI.",
+            "A plan of care should include medication adherence, follow-up, diet, exercise, and secondary prevention.",
+            "Encouraging smoking cessation is crucial."
+          ],
+          "Levels of Evidence": [
+            "B",
+            "B",
+            "C",
+            "A"
+          ]
+        }
+      }
+    }
+  },
+  "genes": []
+}

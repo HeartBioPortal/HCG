@@ -1,0 +1,50 @@
+{
+  "content": {
+    "Clinical Guideline": "2023 Guideline for the Diagnosis and Management of Atrial Fibrillation",
+    "Key Points": [
+      {
+        "Condition": "LA size or function",
+        "Study Type": "Single studies",
+        "Effect on Risk of AF": "LA anterior-posterior dimension: \u2191 risk (HR per 5 mm \u2191, 1.39); End diastolic LA volume (ml): \u2191 risk (HR, 1.12); LA emptying fraction: \u2191 risk (HR, 1.03)",
+        "Summary Risk of Incident AF": "\u2191 LA size, emptying fraction: \u2191 risk",
+        "Effect of LFRM": "Surgical LA reduction"
+      },
+      {
+        "Condition": "LV wall thickness",
+        "Study Type": "Single study",
+        "Effect on Risk of AF": "LV posterior wall thickness: \u2191 risk (HR per 4-mm \u2191, 1.28)",
+        "Summary Risk of Incident AF": "\u2191 Risk"
+      },
+      {
+        "Condition": "Education",
+        "Study Type": "Single studies",
+        "Effect on Risk of AF": "Higher education: \u2191 lifetime risk of AF; Higher education in young individuals: \u2193 risk of AF diagnosis",
+        "Summary Risk of Incident AF": "Variable \u2191\u2193 risk"
+      },
+      {
+        "Condition": "SES",
+        "Study Type": "Single studies",
+        "Effect on Risk of AF": "Cumulative socioeconomic disadvantage: \u2191 risk (HR, 1.57); Individual's poorest areas: 12% \u2191 risk",
+        "Summary Risk of Incident AF": "Low SES = \u2191 risk"
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "AF",
+      "Associated Conditions": [
+        "Atrial Fibrillation"
+      ],
+      "Occurrences": 3,
+      "context": "Genetic susceptibility to AF (independent measure) is associated with Indexed LA size and LA ejection fraction (dependent measures); Family history of AF: \u2191 risk; Number of AF risk loci is \u2191 with 11 number of subjects studied."
+    },
+    {
+      "Gene": "GWAS",
+      "Associated Conditions": [
+        "Atrial Fibrillation"
+      ],
+      "Occurrences": 1,
+      "context": "GWAS studies confirm a genetic link to atrial fibrillation risk with 11%\u201342% of the heritability of AF in individuals of European ancestry."
+    }
+  ]
+}

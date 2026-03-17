@@ -1,0 +1,44 @@
+{
+  "content": {
+    "Primary Prevention": "Assess ASCVD risk in each age group and emphasize adherence to a healthy lifestyle.",
+    "Age Groups and Recommendations": {
+      "Age 0-19": "Lifestyle to prevent or reduce ASCVD risk; consider diagnosis of Familial Hypercholesterolemia if high cholesterol.",
+      "Age 20-39": "Estimate lifetime risk and encourage lifestyle to reduce ASCVD risk; statin recommended if family history of premature ASCVD and LDL-C \u2265160 mg/dL.",
+      "Age 40-75 with LDL-C 70-190 mg/dL": {
+        "Without diabetes": "10-year ASCVD risk assessment begins risk discussion."
+      },
+      "Age 40-75 with diabetes": "Moderate-intensity statin recommended.",
+      "Age >75": "Clinical assessment and risk discussion suggested."
+    },
+    "Risk Categories": {
+      "<5%": "Low Risk: Emphasize lifestyle to reduce risk factors.",
+      "5% - <7.5%": "Borderline Risk: Discuss moderate-intensity statin therapy if risk enhancers are present.",
+      "7.5% - <20%": "Intermediate Risk: Consider moderate-intensity statin to reduce LDL-C by 30% - 49% if risk enhancers favor statin.",
+      "\u226520%": "High Risk: Initiate statin to reduce LDL-C \u226550%."
+    },
+    "Risk Enhancers": [
+      "Family history of premature ASCVD",
+      "Persistently elevated LDL-C \u2265160 mg/dL",
+      "Chronic kidney disease",
+      "Metabolic syndrome",
+      "Conditions specific to women (e.g., preeclampsia, premature menopause)",
+      "Inflammatory diseases (e.g., rheumatoid arthritis, psoriasis, HIV)",
+      "Ethnicity (e.g., South Asian ancestry)"
+    ],
+    "Additional Considerations": {
+      "Lipid/Biomarkers": "Persistently elevated triglycerides (\u2265175 mg/dL); hs-CRP, Lp(a), apoB, ABI in selected individuals.",
+      "CAC Score": "Consider if risk decision is uncertain; use CAC scoring for further stratification."
+    }
+  },
+  "genes": [
+    {
+      "Gene": "apoB",
+      "Associated Conditions": [
+        "Familial Hypercholesterolemia",
+        "ASCVD"
+      ],
+      "Occurrences": 1,
+      "context": "Lipid/Biomarkers: Persistently elevated triglycerides (\u2265175 mg/dL); hs-CRP, Lp(a), apoB, ABI in selected individuals."
+    }
+  ]
+}

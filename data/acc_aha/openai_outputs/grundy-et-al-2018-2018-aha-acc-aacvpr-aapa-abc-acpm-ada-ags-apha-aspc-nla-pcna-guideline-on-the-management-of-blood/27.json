@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Monitoring": "Adherence to changes in lifestyle and effects of LDL-C-lowering medication should be assessed by measurement of fasting lipids and appropriate safety indicators 4 to 12 weeks after start and adjusted every 3 to 12 months based on adherence or safety.",
+    "LDL-C Lowering Goals": "Moderate-intensity statins can reduce LDL-C levels by another 30% to 49%, high-intensity statins by \u226550%. Ezetimibe or bile acid sequestrants can provide an additional 15-25% reduction.",
+    "Recommendations for Older Adults": [
+      {
+        "Ages <75": "Moderate-intensity statin therapy may be reasonable if LDL-C levels are 70 to 189 mg/dL."
+      },
+      {
+        "Ages >75": "Reasonable to stop statin therapy when frailty, multimorbidity, or reduced life-expectancy limits benefits."
+      },
+      {
+        "Ages 76-80": "Reasonable to measure CAC to reclassify those with a CAC score of zero to avoid statin therapy."
+      }
+    ],
+    "Additional Context": "Statin therapy in older adults supports primary prevention, but older age increases susceptibility to side effects. Recommendations differ based on functional status and life expectancy."
+  },
+  "genes": [
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "Hypercholesterolemia"
+      ],
+      "Occurrences": 1,
+      "context": "Much greater additive reductions occur by adding a PCSK9 inhibitor to statin plus ezetimibe."
+    }
+  ]
+}

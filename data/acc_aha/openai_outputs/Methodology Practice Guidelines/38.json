@@ -1,0 +1,55 @@
+{
+  "content": {
+    "Checklist Title": "How to Write a Recommendation",
+    "Recommendation Classes": {
+      "Class I": [
+        "should",
+        "is recommended",
+        "is indicated",
+        "is useful/effective/beneficial"
+      ],
+      "Class IIa": [
+        "is reasonable",
+        "can be useful/effective/beneficial",
+        "is probably recommended",
+        "is probably indicated"
+      ],
+      "Class IIb": [
+        "may/might be considered",
+        "may/might be reasonable",
+        "usefulness/effectiveness is unknown/unclear/uncertain/not well established"
+      ],
+      "Class III-No Benefit": {
+        "Procedure/Test": "Not helpful",
+        "Treatment": "No proven benefit",
+        "Criteria": [
+          "is not recommended",
+          "is not indicated",
+          "should not be done",
+          "is not useful/effective/beneficial",
+          "may be harmful"
+        ]
+      },
+      "Class III-Harm": {
+        "Procedure/Test": "Excess cost w/o benefit or Harmful",
+        "Treatment": "Harmful",
+        "Criteria": [
+          "potentially harmful",
+          "causes harm",
+          "associated with excess morbidity/mortality",
+          "should not be done"
+        ]
+      }
+    },
+    "Guideline Writing Tips": [
+      "Assign each recommendation a reference.",
+      "Write separate recommendations for specific clinical objectives.",
+      "Write practical recommendations for the real-world setting.",
+      "Describe the patient demographics for each recommendation.",
+      "Use clear and unambiguous language.",
+      "Prefer active wording over passive wording for recommendations."
+    ],
+    "Example Context": "Examples were Class IIa recommendations from the 2006 ACC/AHA/ESC Guidelines for the Management of Patients with Atrial Fibrillation."
+  },
+  "genes": []
+}

@@ -1,0 +1,39 @@
+{
+  "content": {
+    "recommendation": "Specific drugs and therapies discussed for atrioventricular block include atropine, beta-adrenergic agonists like isoproterenol, and aminophylline. Temporary pacing is advised for certain patients.",
+    "drugs": [
+      {
+        "name": "Atropine",
+        "usage": "Enhances atrioventricular nodal conduction and automaticity.",
+        "adverse_effects": "Dry mouth, blurred vision, anhidrosis, urinary retention, delirium, excessive increase in heart rate."
+      },
+      {
+        "name": "Beta-adrenergic agonists",
+        "examples": "Isoproterenol, dopamine, dobutamine, epinephrine.",
+        "effect": "Enhance atrioventricular nodal conduction and automaticity of subsidiary atrioventricular junctional and ventricular pacemakers."
+      },
+      {
+        "name": "Aminophylline",
+        "type": "Methylxanthine",
+        "effect": "Increases adenosine production.",
+        "study_results": "Mixed; showed no benefit in resuscitation for out-of-hospital cardiac arrest."
+      }
+    ],
+    "temporary_pacing_recommendations": [
+      {
+        "condition": "Second-degree or third-degree atrioventricular block",
+        "requirement": "Refractory to medical therapy, hemodynamic compromise",
+        "recommendation": "Increase heart rate and improve symptoms with temporary transvenous pacing."
+      },
+      {
+        "condition": "Prolonged temporary transvenous pacing",
+        "recommendation": "Choose an externalized permanent active fixation lead over a standard passive fixation lead."
+      },
+      {
+        "condition": "Refractory to antibradycardic medical therapy",
+        "recommendation": "Consider temporary transvenous pacing until resolution."
+      }
+    ]
+  },
+  "genes": []
+}

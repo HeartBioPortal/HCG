@@ -1,0 +1,23 @@
+{
+  "content": {
+    "Clinical ASCVD": "Includes acute coronary syndrome, myocardial infarction, stable or unstable angina, coronary or other arterial revascularization, stroke, transient ischemic attack, or peripheral artery disease including aortic aneurysm.",
+    "Goal": "Achieve a \u226550% reduction in LDL-C levels.",
+    "Recommendation": "Use high-intensity statin therapy; if not tolerated, use moderate-intensity statin.",
+    "Considerations for Therapy": {
+      "Age \u226475": "High-intensity statin therapy is recommended. Adding ezetimibe may be reasonable if LDL-C \u226570 mg/dL.",
+      "Age >75": "Initiation or continuation of high-intensity statin is reasonable.",
+      "Very High-Risk Patients": "Maximal statin therapy. Consider adding ezetimibe before PCSK9-I if LDL-C \u226570 mg/dL."
+    }
+  },
+  "genes": [
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "ASCVD",
+        "High LDL-C"
+      ],
+      "Occurrences": 2,
+      "context": "If PCSK9-I is considered, add ezetimibe to maximal statin before adding PCSK9-I (Class I). If on clinically judged maximal LDL-C lowering therapy and LDL-C \u226570 mg/dL (\u22651.8 mmol/L), or non-HDL-C \u2265100 mg/dL (\u22652.6 mmol/L), adding PCSK9-I is reasonable (Class IIa)."
+    }
+  ]
+}

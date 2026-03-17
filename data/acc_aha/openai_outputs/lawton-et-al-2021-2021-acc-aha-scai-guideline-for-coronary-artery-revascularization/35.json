@@ -1,0 +1,37 @@
+{
+  "content": {
+    "Title": "Revascularization in Pregnant and Older Patients",
+    "Sections": [
+      {
+        "Section": "9.1. Revascularization in Pregnant Patients",
+        "Recommendations": [
+          {
+            "COR": "2a",
+            "LOE": "C-LD",
+            "Description": "In pregnant patients with STEMI not caused by spontaneous coronary artery dissection (SCAD), it is reasonable to perform primary PCI as the preferred revascularization strategy."
+          },
+          {
+            "COR": "2a",
+            "LOE": "C-LD",
+            "Description": "In pregnant patients with NSTE-ACS, an invasive strategy is reasonable if medical therapy is ineffective for the management of life-threatening complications."
+          }
+        ],
+        "Synopsis": "Pregnant patients require a multidisciplinary approach to determine appropriate coronary revascularization treatment. Use of antiplatelet agents during pregnancy, especially in the third trimester, should be cautious. Clopidogrel should be used for the shortest duration possible if needed.",
+        "Supportive Text": [
+          "Coronary revascularization in pregnant patients with STEMI is typically via PCI, with CABG performed when necessary.",
+          "Invasive treatment is viable if medical therapy fails in NSTE-ACS cases."
+        ]
+      },
+      {
+        "Section": "9.2. Revascularization in Older Patients",
+        "Recommendation": {
+          "COR": "1",
+          "LOE": "B-NR",
+          "Description": "In older adults, as in all patients, the treatment strategy for CAD should be based on an individual's preferences, cognitive function, and life expectancy."
+        },
+        "Synopsis": "Older patients present a unique challenge for revascularization due to complex health conditions and high comorbidity rates. The approach should be individualized."
+      }
+    ]
+  },
+  "genes": []
+}

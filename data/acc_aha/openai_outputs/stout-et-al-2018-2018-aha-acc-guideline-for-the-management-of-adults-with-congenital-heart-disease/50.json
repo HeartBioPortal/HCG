@@ -1,0 +1,36 @@
+{
+  "content": {
+    "Therapeutic Recommendations": [
+      {
+        "Class": "I",
+        "Level": "B-NR",
+        "Recommendation": "Surgical repair or catheter-based stenting is recommended for adults with hypertension and significant native or recurrent coarctation of the aorta."
+      },
+      {
+        "Class": "I",
+        "Level": "C-EO",
+        "Recommendation": "GDMT is recommended for treatment of hypertension in patients with coarctation of the aorta."
+      },
+      {
+        "Class": "IIb",
+        "Level": "B-NR",
+        "Recommendation": "Balloon angioplasty for adults with native and recurrent coarctation of the aorta may be considered if stent placement is not feasible and surgical intervention is not an option."
+      }
+    ],
+    "Synopsis": {
+      "CoA": "CoA typically occurs near the ductal remnant and left subclavian artery. Hypertension is the most common sequela, whether repaired or unrepaired.",
+      "BAV": "BAV is commonly associated with CoA. Intracranial aneurysms may occur.",
+      "Aortic Aneurysms": "Ascending aortic aneurysms are often found in those with BAV, with risk of aneurysms at coarctation repair sites in the descending thoracic aorta or arch."
+    },
+    "Long-term Follow-up": {
+      "Complications": "Reoccurrence of aortic issues, aneurysms, pseudoaneurysms, and dissection are noted. Imaging recommended for long-term follow-up.",
+      "Unoperated Adults": "Typically present with hypertension measured in the upper extremities."
+    },
+    "Recommendations": {
+      "Perform Surgeries": "Refer to Section 3.3.",
+      "Diagnostics": "Refer to Section 3.4.",
+      "Routine Testing": "Table 21 suggests intervals based on physiological stage."
+    }
+  },
+  "genes": []
+}

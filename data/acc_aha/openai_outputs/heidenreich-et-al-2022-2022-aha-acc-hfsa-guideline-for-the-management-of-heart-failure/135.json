@@ -1,0 +1,33 @@
+{
+  "content": {
+    "title": "2022 AHA/ACC/HFSA Heart Failure Guideline",
+    "journal": "JACC",
+    "volume": 79,
+    "issue": 17,
+    "published_date": "May 3, 2022",
+    "page": "e263-e421",
+    "sections": [
+      {
+        "heading": "HeartMate Risk score",
+        "content": "Used to identify patients with similar mortality risk across all INTERMACS profiles in a large multicenter analysis.",
+        "reference": "Adamo, Tang, May, et al."
+      },
+      {
+        "heading": "U.S. Department of Health and Human Services",
+        "content": "Notice on adult heart allocation published on September 15, 2020.",
+        "reference": "https://optn.transplant.hrsa.gov/learn/professional-education/adult-heart-allocation/"
+      },
+      {
+        "heading": "Heart transplant outcomes",
+        "content": "Investigation of outcomes with the new 2018 heart allocation system in the U.S.",
+        "reference": "Goswami, B., Restrepo, E. D., et al."
+      },
+      {
+        "heading": "HeartMate Risk score validation",
+        "content": "A control trial for exercise rehabilitation after cardiac transplantation.",
+        "reference": "Kobashigawa, J.A., DaL, D.V., et al."
+      }
+    ]
+  },
+  "genes": []
+}

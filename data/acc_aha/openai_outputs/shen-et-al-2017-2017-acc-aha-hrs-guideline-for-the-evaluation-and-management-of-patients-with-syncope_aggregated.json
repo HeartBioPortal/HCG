@@ -1,0 +1,3020 @@
+{
+  "content": [
+    {
+      "content": {
+        "title": "2017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients With Syncope",
+        "description": "A report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.",
+        "collaboration": "Developed in collaboration with the American College of Emergency Physicians and Society for Academic Emergency Medicine.",
+        "endorsement": "Endorsed by the Pediatric and Congenital Electrophysiology Society.",
+        "publication": {
+          "journal": "Journal of the American College of Cardiology",
+          "volume": "Vol. 70, No. 5, 2017",
+          "issuers": [
+            "American College of Cardiology Foundation",
+            "American Heart Association, Inc.",
+            "Heart Rhythm Society"
+          ],
+          "published_by": "Elsevier"
+        },
+        "committee": "Writing committee members include several doctors, chaired by Win-Kuang Shen, MD, FACC, FAHA, FHRS."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2017 ACC/AHA/HRS Syncope Guideline",
+        "Sections": [
+          {
+            "Title": "Preamble",
+            "Page": "e41"
+          },
+          {
+            "Title": "Introduction",
+            "Subsections": [
+              {
+                "Title": "Methodology and Evidence Review",
+                "Page": "e43"
+              },
+              {
+                "Title": "Organization of the Writing Committee",
+                "Page": "e44"
+              },
+              {
+                "Title": "Document Review and Approval",
+                "Page": "e44"
+              },
+              {
+                "Title": "Scope of the Guideline",
+                "Page": "e44"
+              }
+            ]
+          },
+          {
+            "Title": "General Principles",
+            "Subsections": [
+              {
+                "Title": "Definitions: Terms and Classification",
+                "Page": "e45"
+              },
+              {
+                "Title": "Epidemiology and Demographics",
+                "Page": "e45"
+              },
+              {
+                "Title": "Initial Evaluation of Patients With Syncope",
+                "Subsections": [
+                  {
+                    "Title": "History and Physical Examination: Recommendation",
+                    "Page": "e48"
+                  },
+                  {
+                    "Title": "Electrocardiography: Recommendation",
+                    "Page": "e49"
+                  },
+                  {
+                    "Title": "Risk Assessment: Recommendations",
+                    "Page": "e49"
+                  },
+                  {
+                    "Title": "Disposition After Initial Evaluation: Recommendations",
+                    "Page": "e51"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Title": "Additional Evaluation and Diagnosis",
+            "Subsections": [
+              {
+                "Title": "Blood Testing: Recommendations",
+                "Page": "e54"
+              },
+              {
+                "Title": "Cardiovascular Testing: Recommendations",
+                "Subsections": [
+                  {
+                    "Title": "Cardiac Imaging: Recommendation",
+                    "Page": "e55"
+                  },
+                  {
+                    "Title": "Stress Testing: Recommendation",
+                    "Page": "e56"
+                  },
+                  {
+                    "Title": "Cardiac Monitoring: Recommendations",
+                    "Page": "e56"
+                  },
+                  {
+                    "Title": "In-Hospital Telemetry: Recommendation",
+                    "Page": "e57"
+                  },
+                  {
+                    "Title": "Electrophysiological Study: Recommendations",
+                    "Page": "e58"
+                  },
+                  {
+                    "Title": "Tilt-Table Testing: Recommendations",
+                    "Page": "e59"
+                  }
+                ]
+              },
+              {
+                "Title": "Neurological Testing: Recommendations",
+                "Subsections": [
+                  {
+                    "Title": "Autonomic Evaluation: Recommendation",
+                    "Page": "e60"
+                  },
+                  {
+                    "Title": "Neurological and Imaging Diagnostics: Recommendations",
+                    "Page": "e61"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Title": "Management of Cardiovascular Conditions",
+            "Subsections": [
+              {
+                "Title": "Arrhythmic Conditions: Recommendations",
+                "Subsections": [
+                  {
+                    "Title": "Bradycardia: Recommendation",
+                    "Page": "e62"
+                  },
+                  {
+                    "Title": "Supraventricular Tachycardia: Recommendations",
+                    "Page": "e63"
+                  },
+                  {
+                    "Title": "Ventricular Arrhythmia: Recommendation",
+                    "Page": "e63"
+                  }
+                ]
+              },
+              {
+                "Title": "Structural Conditions: Recommendations",
+                "Subsections": [
+                  {
+                    "Title": "Ischemic and Nonischemic Cardiomyopathy: Recommendation",
+                    "Page": "e64"
+                  },
+                  {
+                    "Title": "Valvular Heart Disease: Recommendation",
+                    "Page": "e64"
+                  },
+                  {
+                    "Title": "Hypertrophic Cardiomyopathy: Recommendation",
+                    "Page": "e64"
+                  },
+                  {
+                    "Title": "Arrhythmogenic Right Ventricular Cardiomyopathy: Recommendations",
+                    "Page": "e65"
+                  },
+                  {
+                    "Title": "Cardiac Sarcoidosis: Recommendations",
+                    "Page": "e65"
+                  }
+                ]
+              },
+              {
+                "Title": "Inheritable Arrhythmic Conditions: Recommendations",
+                "Subsections": [
+                  {
+                    "Title": "Brugada Syndrome: Recommendations",
+                    "Page": "e66"
+                  },
+                  {
+                    "Title": "Short-QT Syndrome: Recommendation",
+                    "Page": "e67"
+                  },
+                  {
+                    "Title": "Long-QT Syndrome: Recommendations",
+                    "Page": "e67"
+                  },
+                  {
+                    "Title": "Catecholaminergic Polymorphic Ventricular Tachycardia: Recommendations",
+                    "Page": "e68"
+                  },
+                  {
+                    "Title": "Early Repolarization Pattern: Recommendations",
+                    "Page": "e69"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Title": "Reflex Conditions: Recommendations",
+            "Subsections": [
+              {
+                "Title": "Vasovagal Syncope: Recommendations",
+                "Page": "e70"
+              }
+            ]
+          }
+        ],
+        "Task Force Members": [
+          "Glenn N. Levine, MD, FACC, FAHA, Chair",
+          "Patrick T. O\u2019Gara, MD, MACC, FAHA, Chair-Elect",
+          "Jonathan L. Halperin, MD, FACC, FAHA, Immediate Past Chair",
+          "Sana M. Al-Khatib, MD, MHS, FACC, FAHA",
+          "Kim K. Birtcher, MS, PharmD, AACC",
+          "Biykem Bozkurt, MD, PhD, FACC, FAHA",
+          "Ralph G. Brindis, MD, MPH, MACC",
+          "Joaquin E. Cigarroa, MD, FACC",
+          "Lesley H. Curtis, PhD, FAHA",
+          "Lee A. Fleisher, MD, FACC, FAHA",
+          "Federico Gentile, MD, FACC",
+          "Samuel Gidding, MD, FAHA",
+          "Mark A. Hlatky, MD, FACC",
+          "John Ioannidis, MD, PhD, FAHA",
+          "Jos\u00e9 Joglar, MD, FACC, FAHA",
+          "Susan J. Pressler, PhD, RN, FAHA",
+          "Duminda N. Wijeysundera, MD, PhD"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Preamble": "Since 1980, the American College of Cardiology (ACC) and American Heart Association (AHA) have translated scientific evidence into clinical practice guidelines to improve cardiovascular health. These guidelines are based on systematic methods to evaluate and classify evidence, providing a cornerstone for quality cardiovascular care. They are official policy of the ACC and AHA.",
+        "Intended Use": "Guidelines apply to patients with or at risk of cardiovascular disease, focusing on medical practice in the United States, but also have a global impact. They are intended to improve patients\u2019 quality of care, aligning with patient interests and should not replace clinical judgment.",
+        "Clinical Implementation": "Effective management occurs when recommendations are followed by healthcare providers and patients, emphasizing shared decision making.",
+        "Methodology and Modernization": "The ACC/AHA Task Force on Clinical Practice Guidelines continuously updates and modifies guideline methodology, incorporating evolving technologies and increasing dissemination efficiency."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview": "The document discusses guidelines designed to ensure recommendations remain current, emphasizing cost-value considerations and the review of new data on an ongoing basis. Updates occur approximately every six years, with new study results necessitating evaluation by the Task Force.",
+        "Selection of Writing Committee Members": "The Task Force emphasizes diverse backgrounds, integrating various geographic regions, sexes, ethnicities, and intellectual perspectives.",
+        "Relationships with Industry": "Strict policies are in place to avoid bias from industry and other entities, with full disclosure of relationships and relevant interests.",
+        "Evidence Review": "Recommendations are developed using evidence-based methodologies, focusing on randomized controlled trials and other types of studies. An independent evidence review committee (ERC) is convened when necessary.",
+        "Guideline-Directed Management and Therapy": "Includes clinical evaluation and procedural treatments, stressing the need for reviewing dosage and treatment regimens.",
+        "Class of Recommendation and Level of Evidence": "Defines the strength of recommendations, based on the quality of evidence and estimated magnitude of benefit."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Purpose": "The guidelines provide recommendations based on clinical evidence for strategies, interventions, treatments, or diagnostic testing in patient care.",
+        "Class of Recommendation (COR)": {
+          "Class I (Strong)": "Is recommended, useful, and beneficial.",
+          "Class IIa (Moderate)": "Is reasonable and can be useful.",
+          "Class IIb (Weak)": "May be considered but with uncertain usefulness.",
+          "Class III: Harm (Strong)": "Potentially harmful and should not be performed."
+        },
+        "Level of Evidence (LOE)": {
+          "Level A": "High-quality from multiple randomized controlled trials.",
+          "Level B-R": "Moderate-quality evidence from RCTs.",
+          "Level B-NR": "Moderate-quality from nonrandomized studies.",
+          "Level C-LD": "Limited data from observational or registry studies.",
+          "Level C-EO": "Consensus of expert opinion."
+        },
+        "Methodology": "Recommendations are evidence-based, derived from a comprehensive literature review of human subject research.",
+        "Search Terms": [
+          "athletes",
+          "autonomic neuropathy",
+          "bradycardia",
+          "carotid sinus hypersensitivity",
+          "carotid sinus syndrome",
+          "children",
+          "death",
+          "dehydration",
+          "diagnosis",
+          "driving",
+          "electrocardiogram",
+          "epidemiology"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2017 ACC/AHA/HRS Syncope Guideline",
+        "Purpose": "To provide contemporary, accessible, and succinct guidance on the management of adult and pediatric patients with suspected syncope.",
+        "Reviewed By": "The document was reviewed by various relevant organizations, including the ACC, AHA, HRS, and others.",
+        "Scope": "Intended for cardiologists, arrhythmia specialists, neurologists, emergency physicians, general internists, geriatric specialists, sports medicine specialists, and other healthcare professionals involved in syncope care.",
+        "Goals": [
+          "Define syncope as a symptom with different causes.",
+          "Provide guidance on evaluation and management of patients with suspected syncope.",
+          "Identify key areas lacking knowledge to foster research opportunities."
+        ],
+        "Considerations": [
+          "Includes risk stratification and prevention of sudden cardiac death (SCD) in certain populations.",
+          "Focuses on patient-centered management rather than large segments of health services."
+        ],
+        "Key Points": [
+          "The guideline involves a systematic review of clinical questions.",
+          "It includes the management of syncope in special populations like older adults and those with underlying cardiac conditions.",
+          "The writing committee was composed of clinicians with expertise in syncope."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "table": {
+          "title": "Relevant ACC/AHA Guidelines",
+          "sections": [
+            {
+              "title": "ACC/AHA guideline policy relevant to the management of syncope",
+              "guidelines": [
+                {
+                  "title": "Supraventricular tachycardia",
+                  "organization": "ACC/AHA/HRS",
+                  "year": 2015
+                },
+                {
+                  "title": "Valvular heart disease",
+                  "organization": "AHA/ACC",
+                  "year": 2014
+                },
+                {
+                  "title": "Device-based therapies for cardiac rhythm abnormalities",
+                  "organization": "ACCF/AHA/HRS",
+                  "year": 2012
+                },
+                {
+                  "title": "Ventricular arrhythmias and sudden cardiac death",
+                  "organization": "ACC/AHA/ESC",
+                  "year": 2006
+                }
+              ]
+            },
+            {
+              "title": "Other ACC/AHA guidelines of interest",
+              "guidelines": [
+                {
+                  "title": "Hypertension",
+                  "organization": "ACC/AHA",
+                  "year": null
+                },
+                {
+                  "title": "Stable ischemic heart disease",
+                  "organization": "ACC/AHA/ACP/AATS/PCNA/SCAI/STS",
+                  "year": "2012 and 2014"
+                },
+                {
+                  "title": "Atrial fibrillation",
+                  "organization": "AHA/ACC/HRS",
+                  "year": 2014
+                }
+              ]
+            },
+            {
+              "title": "Other related references",
+              "guidelines": [
+                {
+                  "title": "Scientific statement on electrocardiographic early repolarization",
+                  "organization": "AHA",
+                  "year": 2016
+                },
+                {
+                  "title": "Expert consensus statement on the diagnosis and treatment of postural tachycardia syndrome, inappropriate sinus tachycardia, and vasovagal syncope",
+                  "organization": "HRS",
+                  "year": 2015
+                }
+              ]
+            }
+          ]
+        },
+        "general_principles": {
+          "definition": {
+            "title": "Definitions: Terms and Classification",
+            "content": "The guideline defines relevant syncope terms in Table 3."
+          },
+          "epidemiology_and_demographics": {
+            "title": "Epidemiology and Demographics",
+            "content": "Syncope has various causes, with reported prevalence rates as high as 41%, and a recurrent syncope occurrence between 13-56%. In a study of 1,925 randomly selected residents of Olmsted County, Minnesota with a median age of 62 years, 364 reported episodes of syncope in their lifetime. Female prevalence was higher than male (22% vs. 15%). There is a trimodal age incidence with peaks at early adulthood, middle age, and older age."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "table": "Relevant Terms and Definitions",
+        "terms": {
+          "Syncope": "A symptom that presents with an abrupt, transient, complete loss of consciousness, associated with inability to maintain postural tone, with rapid and spontaneous recovery. The presumed mechanism is cerebral hypoperfusion.",
+          "Loss of consciousness": "A cognitive state in which one lacks awareness of oneself and one's situation, with an inability to respond to stimuli.",
+          "Transient loss of consciousness": "Self-limited loss of consciousness that can be divided into syncope and nonsyncope conditions. Nonsyncope conditions include hypoglycemia, metabolic conditions, or intoxication.",
+          "Presyncope (near-syncope)": "The symptoms before syncope, which may include lightheadedness, visual sensations like 'tunnel vision.'",
+          "Unexplained syncope": "Syncope for which a cause is undetermined after an initial evaluation.",
+          "Orthostatic intolerance": "Symptoms that occur with standing and are relieved by sitting or lying down.",
+          "Orthostatic tachycardia": "An increase in heart rate of >=30 bpm within 10 mins of standing.",
+          "Orthostatic hypotension": "A drop in blood pressure >=20 mm Hg systolic or >=10 mm Hg diastolic within 3 min of standing.",
+          "Neurogenic OH": "Due to dysfunction of the autonomic nervous system.",
+          "Cardiac syncope": "Caused by bradycardia, tachycardia, or low cardiac index.",
+          "Reflex syncope": "Due to a reflex that causes vasodilatation, bradycardia, or both.",
+          "Vasovagal syncope": "The most common form of reflex syncope, occurring due to emotions, pain, or medical settings.",
+          "Carotid sinus syndrome": "Reflex syncope associated with carotid sinus hypersensitivity.",
+          "Situational syncope": "Reflex syncope associated with specific actions like coughing or swallowing.",
+          "Postural tachycardia syndrome (POTS)": "A clinical syndrome with standing-induced symptoms like palpitations or fatigue.",
+          "Psychogenic pseudosyncope": "A syndrome of apparent but not true loss of consciousness."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "syncope_incidence_increase": "Sharp increase in incidence after 70 years of age.",
+        "types_of_syncope": "Reflex syncope is the most common (21%), followed by cardiac syncope (9%) and orthostatic hypotension (OH) (9%).",
+        "HF_association": "Syncope is present in 12% to 14% of patients with New York Heart Association class III-IV HF.",
+        "hospitalization_data": "7% annual incidence of syncope in older institutionalized adults, 23% overall prevalence, and a 30% 2-year recurrence rate.",
+        "prevalence_of_syncope": "Ranges from 0.8% to 2.4% in studies; higher prevalence in older adults.",
+        "ED_data": "6.7 million syncope episodes in emergency department (ED), 0.77% of all ED patients.",
+        "falla_Predisposition": "Older adults are prone to falls, with a 1-year fall rate of 38% among fainters versus 18.3% among nonfainters.",
+        "initial_evaluation": "Focus on history, physical examination, and ECG (Class I).",
+        "evaluation_flowchart": "Starts from transient loss of consciousness, leading to potential treatment or further evaluation."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendation": "A detailed history and physical examination should be performed in patients with syncope.",
+        "important_factors": [
+          "Prognosis, diagnosis, reversible or ameliorable factors, comorbidities, medication use, and patient/family needs.",
+          "Cardiac syncope carries a significantly worse prognosis than neurally mediated syncope.",
+          "Family history with emphasis on histories of syncope or sudden unexplained death."
+        ],
+        "diagnostic_focus": [
+          "Situations in which syncope occurs.",
+          "Prodromal symptoms.",
+          "Bystander observations, vital signs, and post-event symptoms."
+        ],
+        "physical_examination": [
+          "Orthostatic blood pressure and heart rate changes.",
+          "Presence of murmurs, gallops, or rubs suggestive of structural heart disease."
+        ],
+        "historical_characteristics": [
+          "Older age (\u226560 y) is associated with cardiac causes of syncope.",
+          "Family history of inheritable conditions or premature sudden cardiac death."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "ECG Evaluation": {
+          "Initial Assessment": "In patients with syncope, a resting 12-lead electrocardiogram (ECG) is advised to identify potential causes such as arrhythmias. It offers a way to detect underlying arrhythmogenic substrates.",
+          "Interpretation": "While ECG is helpful in identifying possible causes of syncope, its prognostic value remains debated. An abnormal ECG with specific conditions can indicate an increased risk of death within one year."
+        },
+        "Risk Assessment": {
+          "Purpose": "Evaluate short- and long-term morbidity and mortality risks associated with syncope, considering the cause and underlying conditions.",
+          "Application": "Risk stratification should be used carefully, taking into account patient-specific factors and comorbidities. Clinical judgment is necessary for effective evaluation."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Table 5 Short- and Long-Term Risk Factors": {
+          "Short-Term Risk Factors (\u226430 d)": {
+            "History: Outpatient Clinic or ED Evaluation": [
+              "Male sex",
+              "Older age (>60 y)",
+              "No prodrome",
+              "Palpitations preceding loss of consciousness",
+              "Exertional syncope",
+              "Structural heart disease",
+              "HF (heart failure)",
+              "Cerebrovascular disease",
+              "Family history of SCD (sudden cardiac death)",
+              "Trauma"
+            ],
+            "Physical Examination or Laboratory Investigation": [
+              "Evidence of bleeding",
+              "Persistent abnormal vital signs",
+              "Abnormal ECG",
+              "Positive troponin"
+            ]
+          },
+          "Long-Term Risk Factors (>30 d)": {
+            "History: Outpatient Clinic or ED Evaluation": [
+              "Male sex",
+              "Older age",
+              "Absence of nausea/vomiting preceding syncopal event",
+              "VA (ventricular arrhythmia/ventricular arrhythmias noted in table)",
+              "Cancer",
+              "Structural heart disease",
+              "HF (heart failure)",
+              "Cerebrovascular disease",
+              "Diabetes mellitus",
+              "High CHADS-2 score"
+            ],
+            "Physical Examination or Laboratory Investigation": [
+              "Abnormal ECG",
+              "Lower GFR (glomerular filtration rate)"
+            ]
+          },
+          "Notes": "Table provides short- and long-term clinical risk factors from outpatient/ED evaluation and physical/lab findings associated with adverse outcomes in syncope."
+        },
+        "Table 6 Examples of Syncope Risk Scores": [
+          {
+            "Study": "Martin",
+            "Year": 1997,
+            "Sample_N": 252,
+            "Events_N_percent": "104 (41%)",
+            "Outcome_Definition": "1-y death/arrhythmia",
+            "ED_Events": "Yes",
+            "Predictors": "Abnormal ECG; >45 y of age; VA; HF",
+            "NPV_percent": 93
+          },
+          {
+            "Study": "Sarasin",
+            "Year": 2003,
+            "Sample_N": 175,
+            "Events_N_percent": "30 (17%)",
+            "Outcome_Definition": "Inpatient arrhythmia",
+            "ED_Events": "Yes",
+            "Predictors": "Abnormal ECG; >65 y of age; HF",
+            "NPV_percent": 98
+          },
+          {
+            "Study": "OESIL",
+            "Year": 2003,
+            "Sample_N": 270,
+            "Events_N_percent": "31 (11%)",
+            "Outcome_Definition": "1-y death",
+            "ED_Events": "N/A",
+            "Predictors": "Abnormal ECG; >65 y of age; no prodrome; cardiac history",
+            "NPV_percent": 100
+          },
+          {
+            "Study": "SFSR",
+            "Year": 2004,
+            "Sample_N": 684,
+            "Events_N_percent": "79 (12%)",
+            "Outcome_Definition": "7-d serious events",
+            "ED_Events": "Yes",
+            "Predictors": "Abnormal ECG; dyspnea; hematocrit; systolic BP <90 mm Hg; HF",
+            "NPV_percent": 99
+          },
+          {
+            "Study": "Boston Syncope Rule",
+            "Year": 2007,
+            "Sample_N": 293,
+            "Events_N_percent": "68 (23%)",
+            "Outcome_Definition": "30-d serious events",
+            "ED_Events": "Yes",
+            "Predictors": "Symptoms of acute coronary syndrome; worrisome cardiac history; family history of SCD; VHD; signs of conduction disease; volume depletion; persistent abnormal vital signs; primary central nervous event",
+            "NPV_percent": 100
+          },
+          {
+            "Study": "Del Rosso",
+            "Year": 2008,
+            "Sample_N": 260,
+            "Events_N_percent": "44 (17%)",
+            "Outcome_Definition": "Cardiac etiology",
+            "ED_Events": "N/A",
+            "Predictors": "Abnormal ECG/cardiac history; palpitations; exertional; supine; precipitant (a low-risk factor); autonomic prodrome (low-risk factors)",
+            "NPV_percent": 99
+          },
+          {
+            "Study": "STePS",
+            "Year": 2008,
+            "Sample_N": 676,
+            "Events_N_percent": "41 (6%)",
+            "Outcome_Definition": "10-d serious events",
+            "ED_Events": "Yes",
+            "Predictors": "Abnormal ECG; trauma; no prodrome; male sex",
+            "NPV_percent": null
+          },
+          {
+            "Study": "Syncope Risk Score",
+            "Year": 2009,
+            "Sample_N": 2584,
+            "Events_N_percent": "173 (7%)",
+            "Outcome_Definition": "30-d serious events",
+            "ED_Events": "No",
+            "Predictors": "Abnormal ECG; >90 y of age; male sex; positive troponin; history of arrhythmia; systolic BP >160 mm Hg; near-syncope (a low-risk factor)",
+            "NPV_percent": 97
+          },
+          {
+            "Study": "ROSE",
+            "Year": 2010,
+            "Sample_N": 550,
+            "Events_N_percent": "40 (7%)",
+            "Outcome_Definition": "30-d serious events",
+            "ED_Events": "Yes",
+            "Predictors": "Abnormal ECG; B\u2011type natriuretic peptide; hemoglobin; O2Sat; fecal occult blood",
+            "NPV_percent": 98
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Disposition after initial evaluation involves deciding whether further workup can occur in an outpatient setting or if hospital-based evaluation is required. The main purpose of hospital evaluation is to expedite treatment of conditions identified or continue diagnostic evaluation for suspected syncope causes. This decision is complicated by varying resources and lack of consensus on risk thresholds. Hospital evaluation and treatment are advised for patients with syncope and a serious medical condition related to the syncope cause. Patients with presumptive reflex-mediated syncope can often be managed outpatient, unless exceptions apply, such as repeated syncope with risk of injury.": [],
+        "genes": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Intermediate-risk patients with an unclear cause of syncope may benefit from a structured emergency department (ED) observation protocol to reduce hospital admissions. This includes short-term, expedited access to cardiac testing and consultations without adverse impacts on clinical outcomes. Important risk factors include age over 50, prior history of cardiac disease, presence of a cardiac device, family history of sudden cardiac death (SCD), and symptoms inconsistent with reflex-mediated syncope. Management strategies can involve structured ED observation or referral to specialists if no serious medical conditions are present.": "genes"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2017 ACC/AHA/HRS Syncope Guideline",
+        "Table 7": {
+          "Purpose": "Examples of Serious Medical Conditions That Might Warrant Consideration of Further Evaluation and Therapy in a Hospital Setting.",
+          "Categories": {
+            "Cardiac Arrhythmic Conditions": [
+              "Sustained or symptomatic VT",
+              "Symptomatic conduction system disease or Mobitz II or third-degree heart block",
+              "Symptomatic bradycardia or sinus pauses not related to neutrally mediated syncope",
+              "Symptomatic SVT",
+              "Pacemaker/ICD malfunction",
+              "Inheritable cardiovascular conditions predisposing to arrhythmias"
+            ],
+            "Cardiac or Vascular Nonarrhythmic Conditions": [
+              "Cardiac ischemia",
+              "Severe aortic stenosis",
+              "Cardiac tamponade",
+              "HCM",
+              "Severe prosthetic valve dysfunction",
+              "Pulmonary embolism",
+              "Aortic dissection",
+              "Acute HF",
+              "Moderate-to-severe LV dysfunction"
+            ],
+            "Noncardiac Conditions": [
+              "Severe anemia/gastrointestinal bleeding",
+              "Major traumatic injury due to syncope",
+              "Persistent vital sign abnormalities"
+            ]
+          }
+        },
+        "Additional Evaluation and Diagnosis": {
+          "Overview": "Selection of diagnostic tests after initial history, physical examination, and baseline ECG is based on patient's clinical presentation, risk stratification, and diagnostic/prognostic value of testing.",
+          "Recommendations": "Broad-based use of additional testing is costly and often ineffective; recommendations are provided for appropriate syncope evaluation.",
+          "Figure 3": "Algorithm for additional evaluation and diagnosis for syncope."
+        }
+      },
+      "genes": [
+        {
+          "Gene": "HCM",
+          "Associated Conditions": [
+            "Hypertrophic Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "HCM indicates hypertrophic cardiomyopathy; it's listed under cardiac or vascular nonarrhythmic conditions that may require further evaluation."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Blood Testing Recommendations": {
+          "Biomarkers": "Availability of simple and accurate biomarkers might streamline risk stratification and diagnosis of syncope. Circulating biomarkers are evaluated as markers of hypotension or underlying disease processes, but none have met with strong success.",
+          "Targeted Blood Tests": {
+            "COR": "IIa",
+            "LOE": "B-NR",
+            "Description": "Targeted blood tests are reasonable in evaluating selected patients with syncope based on clinical assessment. Broad-panel testing is common, but data is lacking on its utility. Specific testing should be based on history and physical examination when syncope presentation or associated comorbidities suggest testing is necessary."
+          },
+          "Brain Natriuretic Peptide and High-Sensitivity Troponin": {
+            "COR": "IIb",
+            "LOE": "C-LD",
+            "Description": "Usefulness in patients with suspected cardiac syncope is uncertain. Elevated natriuretic peptide is observed in patients with syncope determined to be cardiac. Yet, contemporary troponin measurement finds only limited value unless myocardial infarction is suspected."
+          },
+          "Routine Lab Testing": {
+            "COR": "III",
+            "LOE": "No Benefit",
+            "Description": "Routine and comprehensive lab testing is not useful in patients with syncope. Specific cardiac biomarkers may have a limited diagnostic role, but broad-panel testing lacks linkages to syncope presentation or mechanism."
+          }
+        },
+        "Cardiovascular Testing Recommendations": {
+          "Overview": "Cardiovascular causes of syncope are common, often associated with poor prognosis. Testing can be crucial in evaluating and managing selected patients, emphasizing clinical judgment in selecting cardiovascular testing pathways."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Transthoracic echocardiography": "This can be useful in selected patients with syncope if structural heart disease is suspected. It is noninvasive and low risk, useful for detecting conditions like aortic stenosis, HCM, or LV dysfunction.",
+        "CT/MRI": "May be useful in selected patients with syncope of suspected cardiac etiology. Reserved for cases where noninvasive means are inconclusive. Useful for delineating cardiovascular anatomy.",
+        "Routine cardiac imaging": "Not useful for evaluating syncope unless cardiac etiology is suspected based on history, examination, or ECG."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "3.2.2. Stress Testing Recommendations": {
+          "Exercise stress testing can be helpful to diagnose syncope or presyncope during exertion in certain patients, especially those with specific structural lesions, coronary issues, or certain channelopathies. Stress tests must be done carefully, with support in place.": "3.2.3. Cardiac Monitoring Recommendations: The choice of cardiac monitor type should depend on the patient's frequency and nature of syncope episodes. Several ambulatory monitoring techniques are available, such as Holter monitors and patch recorders. Technology advances offer more strategic monitoring, specifically external loop recorders for identified arrhythmic etiology."
+        }
+      },
+      "genes": [
+        {
+          "Gene": "LQTS",
+          "Associated Conditions": [
+            "Type 1 Long QT Syndrome"
+          ],
+          "Occurrences": 1,
+          "context": "Exertion can result in syncope in a variety of conditions...such as LQTS (type 1) and catecholaminergic polymorphic ventricular tachycardia (CPVT)."
+        }
+      ]
+    },
+    {
+      "content": {
+        "clinical_guideline": "To evaluate selected ambulatory patients with syncope of suspected arrhythmic etiology, an implantable cardiac monitor (ICM) can be useful. Several RCTs and observational studies have demonstrated a benefit of the ICM in establishing a diagnosis in syncope of unclear etiology. A study showed a 19% diagnostic yield with conventional testing versus ICM, indicating higher diagnosis rates with the use of ICM.",
+        "cost_effectiveness": "The cost per diagnosis was lower in patients who received ICM than in patients who underwent conventional approaches. Differences in healthcare settings, patient populations, and technology changes are key considerations in cost assessment.",
+        "cardiac_rhythm_monitors": [
+          {
+            "type": "Holter monitor",
+            "description": "A portable, battery-operated device with continuous recording for 24-72 hours, up to 2 weeks with newer models.",
+            "patient_selection": "Symptoms frequent enough to be detected within a short period (24-72 h of monitoring)."
+          },
+          {
+            "type": "Patient-activated, transtelephonic monitor",
+            "description": "Transmits patient-activated data to a remote location.",
+            "patient_selection": "Frequent symptoms, likely to recur within 2-6 weeks. Limited use in patients with sudden incapsulated syncope."
+          },
+          {
+            "type": "External loop recorder",
+            "description": "Records and stores rhythm data for weeks to months.",
+            "patient_selection": "Frequent, spontaneous symptoms related to syncope."
+          },
+          {
+            "type": "External patch recorders",
+            "description": "Continuously records and stores rhythm data, with patient-trigger capability.",
+            "patient_selection": "Can be considered as an alternative to an external loop recorder."
+          },
+          {
+            "type": "Mobile cardiac outpatient telemetry",
+            "description": "Records and transmits data up to 30 days from preprogrammed arrhythmias.",
+            "patient_selection": "Spontaneous symptoms related to syncope and rhythm correlation."
+          },
+          {
+            "type": "Implantable cardiac monitor",
+            "description": "Subcutaneously implanted device with a battery life of 2-3 years.",
+            "patient_selection": "Recurrent, unexplained syncope after a nondiagnostic initial workup."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "In-Hospital Telemetry": {
+          "Recommendation": "Continuous ECG monitoring is useful for hospitalized patients admitted for syncope evaluation with suspected cardiac etiology.",
+          "Rationale": [
+            "Patients with syncope and structural heart disease are at high risk of death or significant arrhythmia.",
+            "Inpatient telemetry can be a valuable diagnostic modality.",
+            "The diagnostic yield is low without suspicion of an arrhythmic cause."
+          ],
+          "Study Results": [
+            "Diagnostic yield in 18% of patients with 15% demonstrating bradyarrhythmias.",
+            "8% prevalence of arrhythmias in patients without heart disease.",
+            "Telemetry may not be cost-effective for patients without suspected cardiac etiology."
+          ]
+        },
+        "Electrophysiological Study": {
+          "Role": "Limited in evaluating syncope, especially in patients without heart disease.",
+          "Benefits": [
+            "Identifies certain bradyarrhythmias or tachyarrhythmias as syncope cause.",
+            "Inducible ventricular tachycardia in patients with syncope is predictive of prognosis."
+          ],
+          "Limitations": [
+            "The role of EPS diminished due to the use of ICD for preventing SCD.",
+            "ICDs may reduce risk of death but not prevent syncope."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "EPS recommendation": "EPS is not recommended for syncope evaluation in patients with a normal ECG and normal cardiac structure and function, unless an arrhythmic etiology is suspected.",
+        "Diagnostic yield": "Proactive evaluation of 247 patients showed higher diagnostic yield with an abnormal ECG (22%) than with a normal ECG (2.6%).",
+        "Tilt-table testing utility": "Tilt-table testing can be useful for patients with syncope and suspected VVS when diagnosis is unclear after initial evaluation.",
+        "Positive response definition": "Defined as inducible presyncope or syncope with hypotension, with or without bradycardia.",
+        "Optimal tilt table angle": "A tilt-table angle of 70 degrees for 30 to 40 minutes is optimal.",
+        "Delayed OH": "Tilt-table testing useful for patients with syncope and delayed OH when initial evaluation is not diagnostic."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Tilt-table testing is recommended to distinguish convulsive syncope from epilepsy in certain patients, especially when convulsive movements and marked postictal confusion are present. Approximately 50% of patients with questionable or drug-refractory epilepsy may have positive tilt-table tests suggestive of a vasovagal etiology. Psychogenic pseudosyncope should be suspected in patients with frequent symptoms mimicking VVS. Tilt-table testing can help to differentiate syncope from true seizures. It's not recommended for predicting responses to medical treatments for VVS. Neurogenic OH-related syncope is common in patients with autonomic nervous system issues and requires effective management and evaluation.": {},
+        "genes": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendation for Autonomic Evaluation": {
+          "COR": "IIa",
+          "LOE": "C-LD",
+          "Recommendation": "Referral for autonomic evaluation can be useful to improve diagnostic and prognostic accuracy in selected patients with syncope and known or suspected neurodegenerative disease."
+        },
+        "Details on Neurogenic OH": "The care of patients with neurogenic OH is complex. Selection of treatments needs to be balanced against the increased morbidity of not treating symptoms. Neurologists, cardiologists, internists, or other knowledgeable physicians should provide care. Syncope due to neurogenic OH is caused by central or peripheral autonomic nervous system damage or dysfunction, including conditions like Parkinson\u2019s disease, central nervous system disorders, peripheral autonomic dysfunction, or neuropathies.",
+        "Recommendations for Neurological Diagnostics": {
+          "COR": "IIa",
+          "LOE": "C-LD",
+          "Recommendation": "Simultaneous monitoring of an EEG and hemodynamic parameters during tilt-table testing can be useful to distinguish among syncope, pseudosyncope, and epilepsy."
+        },
+        "MRI and CT Use": {
+          "COR": "III: No Benefit",
+          "LOE": "B-NR",
+          "Recommendation": "MRI and CT of the head are not recommended in the routine evaluation of patients with syncope in the absence of focal neurological findings or head injury that support further evaluation."
+        },
+        "Neurological and Imaging Diagnostics": "Routine neurological testing is of very limited value in syncope evaluation unless specific conditions are met."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Carotid artery imaging": "Not recommended for routine evaluation of patients with syncope without focal neurological findings indicating further evaluation.",
+        "EEG recording": "Not recommended for routine evaluation of patients with syncope without specific neurological features suggestive of a seizure.",
+        "Management of cardiovascular conditions": "Recommendations align with ACC/AHA guidelines, specifically in the context of syncope.",
+        "Identification of arrhythmic etiology": "Important for patients with syncope, especially in cases involving cardiac arrhythmias.",
+        "Evaluation of syncope associated with bradycardia": "GDMT recommended. RCT shows dual-chamber pacemaker reduces recurrent syncope.",
+        "Adenosine triphosphate": "Evidence evolving in syncope evaluation; no US consensus on use."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations for Supraventricular Tachycardia (SVT)": {
+          "In patients with syncope and SVT, GDMT is recommended.": {
+            "COR": "I",
+            "LOE": "C-EO"
+          },
+          "Notes": [
+            "Patients with SVT often manifest palpitations and lightheadedness, while syncope is uncommon.",
+            "Older patients with paroxysmal SVT are more prone to syncope than younger patients.",
+            "Evaluation should differentiate arrhythmic syncope from nonarrhythmic syncope."
+          ]
+        },
+        "Recommendations for Ventricular Arrhythmia (VA)": {
+          "In patients with syncope and VA, GDMT is recommended.": {
+            "COR": "I",
+            "LOE": "C-EO"
+          },
+          "Notes": [
+            "Patients with VA may present with syncope that is nonsustained or sustained.",
+            "Syncope from VA is multifactorial and depends on severity of the underlying cardiac disease."
+          ]
+        },
+        "Structural Conditions": {
+          "Syncope in patients with underlying heart diseases is not infrequent, and comprehensive guidelines are provided.": [
+            "ACC/AHA guidelines were reviewed to ensure current practices remain effective."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Ischemic and Nonischemic Cardiomyopathy": {
+          "Recommendation": "In patients with syncope associated with ischemic and nonischemic cardiomyopathy, GDMT is recommended.",
+          "Additional Information": "Evaluation involves diagnosis and prognosis. Treatment is based on the specific cause of syncope and associated cardiomyopathy. ICD is recommended for syncope of undetermined origin in patients with VA, and for unexplained syncope with nonischemic dilated cardiomyopathy."
+        },
+        "Valvular Heart Disease": {
+          "Recommendation": "In patients with syncope associated with valvular heart disease, GDMT is recommended.",
+          "Additional Information": "Patients with aortic stenosis may experience syncope due to hemodynamic causes. Aortic valve replacement is recommended for severe aortic stenosis and syncope."
+        },
+        "Hypertrophic Cardiomyopathy (HCM)": {
+          "Recommendation": "In patients with syncope associated with HCM, GDMT is recommended.",
+          "Additional Information": "Unexplained syncope is a predictor for SCD and ICD discharges. ICD implantation is recommended for HCM with recent syncope episodes of arrhythmic nature."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "4.2.4. Arrhythmogenic Right Ventricular Cardiomyopathy (ARVC)": {
+          "Recommendations": [
+            {
+              "COR": "I",
+              "LOE": "B-NR",
+              "Recommendation": "ICD implantation is recommended in patients with ARVC who present with syncope and have a documented sustained VA."
+            },
+            {
+              "COR": "IIa",
+              "LOE": "B-NR",
+              "Recommendation": "ICD implantation is reasonable in patients with ARVC who present with syncope of suspected arrhythmic etiology."
+            }
+          ]
+        },
+        "4.2.5. Cardiac Sarcoidosis": {
+          "Recommendations": [
+            {
+              "COR": "I",
+              "LOE": "B-NR",
+              "Recommendation": "ICD implantation is recommended in patients with cardiac sarcoidosis presenting with syncope and documented spontaneous sustained VA."
+            },
+            {
+              "COR": "I",
+              "LOE": "C-EO",
+              "Recommendation": "In patients with cardiac sarcoidosis presenting with syncope and conduction abnormalities, GDMT is recommended."
+            },
+            {
+              "COR": "IIa",
+              "LOE": "B-NR",
+              "Recommendation": "ICD implantation is reasonable in patients with cardiac sarcoidosis and syncope of suspected arrhythmic origin, particularly with LV dysfunction or pacing indication."
+            },
+            {
+              "COR": "IIa",
+              "LOE": "B-NR",
+              "Recommendation": "EPS is reasonable in patients with cardiac sarcoidosis and syncope of suspected arrhythmic etiology."
+            }
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Inherited Arrhythmic Conditions": {
+          "Prevalence": "Low",
+          "Clinical Significance": "Challenging to determine",
+          "Studies": "Few, mostly open label or non-randomized",
+          "Associated Risks": "Increased risk of SCD, cardiac arrest, overall cardiac death",
+          "ICD": "Effective in reducing cardiac arrest but impact on syncope unknown"
+        },
+        "Brugada Syndrome": {
+          "Definition": "Genetic disease with increased risk of SCD",
+          "Characteristic": "ST elevation in right precordial leads V1 and V2",
+          "Prevalence": "Higher in Asian countries"
+        },
+        "Recommendations for Brugada ECG Pattern and Syncope": {
+          "ICD Implantation": {
+            "Reasonable": "Patients with suspected arrhythmic etiology",
+            "Not Recommended": "Patients with reflex-mediated syncope or absence of risk factors"
+          },
+          "EPS": {
+            "May Be Considered": "To assess syncope mechanism due to arrhythmia"
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Short-QT Syndrome": {
+          "Description": "Short-QT syndrome is a genetic disease characterized by palpitations, syncope, and increased risk of sudden cardiac death (SCD), associated with QTc interval <340 ms.",
+          "Prognosis": "Limited data are available about its prognostic significance, particularly without documented ventricular tachycardia (VT) or ventricular fibrillation (VF). The prevalence is very low, ranging from 0.02% to 1.63%.",
+          "Recommendations": "ICD implantation may be considered in patients with short-QT pattern and syncope of suspected arrhythmic etiology. Quinidine therapy might offer some protection, but data are insufficient to make any recommendations."
+        },
+        "Long-QT Syndrome": {
+          "Diagnosis": "LQTS is diagnosed with a QTc >500 ms or LQTS risk score >=3.5 when secondary causes are excluded or in presence of a pathogenic mutation in one of the LQTS genes.",
+          "Management": {
+            "Syncope": "Recognition and treatment are needed to avoid recurrences, which could present as cardiac arrest or SCD. Avoidance of strenuous activities and drugs that prolong QT interval is recommended.",
+            "Beta-Blockers": "Indicated as first-line therapy in patients with LQTS and suspected arrhythmic syncope. Efficacy depends on genotype.",
+            "ICD Implantation": "Recommended for those who do not respond to beta-blockers or cannot tolerate them."
+          }
+        }
+      },
+      "genes": [
+        {
+          "Gene": "LQTS genes",
+          "Associated Conditions": [
+            "Long-QT Syndrome"
+          ],
+          "Occurrences": 1,
+          "context": "LQTS is diagnosed in the presence of a pathogenic mutation in 1 of the LQTS genes."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Clinical Guidelines": "The document outlines recommendations for managing patients with Long QT Syndrome (LQTS) and Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT). The primary interventions include Left Cardiac Sympathetic Denervation (LCSD) for patients intolerant to beta-blocker therapy and specific recommendations for CPVT management focusing on exercise restriction, beta-blocker therapy, flecainide, and ICD therapy."
+      },
+      "genes": [
+        {
+          "Gene": "RYR2",
+          "Associated Conditions": [
+            "Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)",
+            "Catecholaminergic polymorphic ventricular tachycardia",
+            "Sudden cardiac death"
+          ],
+          "Occurrences": 1,
+          "context": "Mutation in the gene encoding the cardiac ryanodine receptor (RyR2) (autosomal dominant) or in the cardiac calsequestrin gene (CASQ2) (autosomal recessive) is linked to CPVT."
+        },
+        {
+          "Gene": "CASQ2",
+          "Associated Conditions": [
+            "Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)",
+            "Catecholaminergic polymorphic ventricular tachycardia"
+          ],
+          "Occurrences": 1,
+          "context": "Mutation in the gene encoding the cardiac ryanodine receptor (RyR2) (autosomal dominant) or in the cardiac calsequestrin gene (CASQ2) (autosomal recessive) is linked to CPVT."
+        }
+      ]
+    },
+    {
+      "content": {
+        "syncope": {
+          "CPVT": {
+            "recommendations": [
+              "In patients with CPVT who continue to experience syncope or VA, verapamil with or without beta-blocker therapy may be considered.",
+              "Verapamil helps suppress arrhythmias and delay the onset of exercise-induced ventricular ectopy.",
+              "LCSD may be reasonable in patients with CPVT, syncope, and symptomatic VA despite optimal medical therapy."
+            ],
+            "context": "Patients with CPVT may receive verapamil to suppress arrhythmias and LCSD if syncope occurs despite optimal medical therapy."
+          }
+        },
+        "early_repolarization_pattern": {
+          "description": "Characterized by a J point and ST elevation, prevalent in young athletes and can increase risk of cardiac death.",
+          "recommendations": [
+            "ICD implantation may be considered in patients with early repolarization pattern and suspected arrhythmic syncope in the presence of a family history of early repolarization pattern with cardiac arrest.",
+            "ICD implantation may also be considered if there's a family history of unexplained SCD, VF, or polymorphic VT with documented early repolarization pattern in the family.",
+            "EPS should not be performed in patients with early repolarization pattern and history of syncope without other indications."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "5. Reflex Conditions: Recommendations",
+        "subsection": "5.1. Vasovagal Syncope: Recommendations",
+        "summary": "Vasovagal syncope (VVS) is the most common cause of syncope and a frequent reason for ED visits. It results from reflex causing hypotension and bradycardia. An episode is associated with prodrome of diaphoresis, warmth, pallor, and fatigue. Management includes patient education, physical counter-pressure maneuvers, and medications like midodrine and fludrocortisone.",
+        "recommendations": [
+          {
+            "COR": "I",
+            "LOE": "C-EO",
+            "recommendation": "Patient education on the diagnosis and prognosis of VVS."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-R",
+            "recommendation": "Physical counter-pressure maneuvers for patients with VVS with a sufficiently long prodromal period."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-R",
+            "recommendation": "Midodrine for patients with recurrent VVS without hypertension, HF, or urinary retention."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "B-R",
+            "recommendation": "Uncertain usefulness of orthostatic training for patients with frequent VVS."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "B-R",
+            "recommendation": "Fludrocortisone might help patients with recurrent VVS and inadequate response to salt and fluid intake."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Beta blockers may be reasonable for patients 42 years or older with recurrent vasovagal syncope (VVS). Efficacy for younger patients is not well supported according to the mentioned studies. The effectiveness of salt and fluid intake for VVS is limited but may be encouraged unless contraindicated, particularly for patients with a history of hypertension, renal disease, or cardiac dysfunction. In patients with recurrent VVS, a selective serotonin reuptake inhibitor like fluoxetine or paroxetine may be considered, though evidence of effectiveness is contradictory. In selected patients, reducing or withdrawing medications that cause hypotension may be considered when appropriate.": "",
+        "genes": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "5.2. Pacemakers in Vasovagal Syncope: Recommendation": "Pacemakers may be beneficial for patients with bradycardia and asystole during vasovagal syncope spells. It's crucial to select patients based on documented asystole. A positive tilt-table test may identify patients benefiting from pacing. Recommendations are based on a systematic review.",
+        "5.3. Carotid Sinus Syndrome: Recommendations": "Carotid sinus syndrome involves mechanical manipulation of the carotid sinus, leading to syncope. It's diagnosed through reproduction of syncope during carotid massage. More common in men over 40 due to baroreceptor or possibly medullary dysfunction. Pacemaker therapy is considered for patients with cardioneurogenic or mixed forms of the syndrome."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Other Reflex Conditions": "Situational syncope is defined as syncope occurring only in certain situations, like micturition, defecation, cough, and more. Investigations should determine any underlying causes. Treatments often focus on avoiding or eliminating triggering events. Recommendations include reducing salt consumption and removing or reducing hypotensive drugs and diuretics.",
+        "Orthostatic Hypotension: Recommendations": {
+          "Neurogenic Orthostatic Hypotension Recommendations": [
+            {
+              "Recommendation": "Acute water ingestion is recommended for temporary syncope relief in neurogenic OH.",
+              "Class of Recommendation": "I",
+              "Level of Evidence": "B-R"
+            },
+            {
+              "Recommendation": "Counter-pressure maneuvers can benefit patients with neurogenic OH.",
+              "Class of Recommendation": "IIa",
+              "Level of Evidence": "C-LD"
+            },
+            {
+              "Recommendation": "Compression garments can benefit patients with syncope and OH.",
+              "Class of Recommendation": "IIa",
+              "Level of Evidence": "C-LD"
+            },
+            {
+              "Recommendation": "Midodrine can benefit patients with syncope due to neurogenic OH.",
+              "Class of Recommendation": "IIa",
+              "Level of Evidence": "B-R"
+            }
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "class": "IIa",
+            "level": "B-R",
+            "statement": "Droxidopa can be beneficial in patients with syncope due to neurogenic OH.",
+            "details": "Droxidopa improves symptoms of neurogenic orthostatic hypotension (OH) due to Parkinson's disease, pure autonomic failure, and multiple system atrophy. Side effects include headache, dizziness, and nausea."
+          },
+          {
+            "class": "IIa",
+            "level": "C-LD",
+            "statement": "Fludrocortisone can be beneficial in patients with syncope due to neurogenic OH.",
+            "details": "Fludrocortisone increases plasma volume, improving symptoms of OH. It can cause edema, hypokalemia, and headache. Serious adverse reactions may occur with doses >0.3 mg daily."
+          },
+          {
+            "class": "IIb",
+            "level": "C-LD",
+            "statement": "Encouraging increased salt and fluid intake may be reasonable in selected patients with neurogenic OH.",
+            "details": "Salt and fluid supplementation may improve blood pressure and decrease symptoms of OH. High salt intake increases blood pressure via a pressor effect."
+          },
+          {
+            "class": "IIb",
+            "level": "C-LD",
+            "statement": "Pyridostigmine may be beneficial in patients with syncope due to neurogenic OH who are refractory to other treatments.",
+            "details": "Pyridostigmine improves orthostatic tolerance by increasing peripheral vascular resistance and blood pressure. Side effects include nausea, vomiting, abdominal cramping, sweating, salivation, and urinary incontinence."
+          },
+          {
+            "class": "IIb",
+            "level": "C-LD",
+            "statement": "Octreotide may be beneficial in patients with syncope and refractory recurrent postprandial or neurogenic OH.",
+            "details": "Octreotide reduces splanchnic blood flow, increases blood pressure, and improves orthostatic tolerance. It prevents postprandial hypotension."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Section": "6.2 Dehydration and Drugs: Recommendations",
+        "Summary": "The guideline discusses syncope related to medication, highlighting its prevalence in older adults with comorbidities. It emphasizes the importance of identifying and stopping medications that cause syncope while also considering the necessity of treatments. Dehydration can exacerbate orthostatic tolerance issues, worsened by heat stress. Rehydration is recommended via oral or intravenous methods to aid recovery, with additional sodium supplementation suggested for more rapid recovery."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Source": "2017 ACC/AHA/HRS Syncope Guideline",
+        "Recommendations": [
+          {
+            "Class": "IIa",
+            "Type": "B-NR",
+            "Statement": "Reducing or withdrawing medications that may cause hypotension can be beneficial in selected patients with syncope.",
+            "Explanation": "Medication-related syncope appears higher in older patients. Several drug classes like diuretics and sedatives have been implicated. Close supervision is required during adjustments to prevent worsening of conditions such as preexisting supine hypertension or cardiac arrhythmias."
+          },
+          {
+            "Class": "IIa",
+            "Type": "C-LD",
+            "Statement": "In selected patients with syncope due to dehydration, it is reasonable to encourage increased salt and fluid intake.",
+            "Explanation": "Sodium supplementation improves plasma volume and enhances orthostatic tolerance. This option is not suitable for patients with cardiac dysfunction, uncontrolled hypertension, or chronic kidney disease."
+          }
+        ],
+        "Conditions Discussed": [
+          "Syncope",
+          "Orthostatic Intolerance",
+          "Postural Orthostatic Tachycardia Syndrome (POTS)",
+          "Psychogenic Pseudosyncope"
+        ],
+        "Key Points on Conditions": [
+          {
+            "Condition": "Orthostatic Intolerance",
+            "Description": "Refers to symptoms developing upon standing and relieved by lying down. Common symptoms include lightheadedness, palpitations, and fatigue. It may be associated with hemodynamic disturbances."
+          },
+          {
+            "Condition": "POTS",
+            "Description": "Pathophysiology involves inappropriate tachycardia upon standing. Common in patients with elevated heart rates >120 bpm upon standing."
+          },
+          {
+            "Condition": "Psychogenic Pseudosyncope",
+            "Description": "Characterized by a syndrome of apparent loss of consciousness without cerebral perfusion impairment. Often related to psychological stress and typically occurs in young females with a history of psychological or sexual abuse."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Recommendations for the Treatment of Pseudosyncope",
+        "recommendations": [
+          {
+            "COR": "IIb",
+            "LOE": "C-LD",
+            "Description": "In patients with suspected pseudosyncope, a candid discussion with the patient about the diagnosis may be reasonable. Some reports suggest that patients benefit from being informed of the suspected diagnosis in a clear but sympathetic manner that also acknowledges the involuntary nature of the attacks."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "C-LD",
+            "Description": "Cognitive behavioral therapy may be beneficial in patients with pseudosyncope. Uncontrolled studies suggest that psychotherapy, particularly cognitive behavioral therapy, may be beneficial in conversion disorders."
+          }
+        ],
+        "uncommon_conditions": {
+          "title": "9. Uncommon Conditions Associated with Syncope",
+          "description": "Syncope has been reported in many uncommon diseases. Specific conditions may predispose the patient to various types of syncope. A list of less common conditions associated with syncope is provided for differential diagnosis.",
+          "conditions": [
+            {
+              "name": "Cardiac tamponade",
+              "clinical_characteristics": "Hypotension, tachycardia, cardiogenic shock.",
+              "notes": "Often tachycardia and hypotension; may be hypotensive and bradycardic acutely."
+            },
+            {
+              "name": "Constrictive pericarditis",
+              "clinical_characteristics": "Severe HF symptoms, including edema, exertional dyspnea, orthopnea.",
+              "notes": "May be associated with cough syncope."
+            },
+            {
+              "name": "LV noncompaction",
+              "clinical_characteristics": "Cardiomyopathy characterized by prominent LV trabeculae and deep intertrabecular recesses, due to embryologic perturbation.",
+              "notes": "Syncope reported in 5%-9% of both adult and pediatric patients. The mechanism may be a tachyarrhythmia."
+            },
+            {
+              "name": "Takotsubo cardiomyopathy",
+              "clinical_characteristics": "Apical ballooning and basal hypercontractility, often due to stress. Chest pain and ECG changes consistent with ischemia are commonly seen.",
+              "notes": "Syncope is uncommon and may be multifactorial."
+            },
+            {
+              "name": "Pulmonary embolus",
+              "clinical_characteristics": "Hypoxemia, tachycardia; hypotension and shock leading to pulseless electrical activity cardiac arrest in severe cases.",
+              "notes": "Syncope due to bradycardia and/or hypotension. One study showed higher prevalence of pulmonary embolus in older patients with first episode of syncope after admission to the hospital."
+            },
+            {
+              "name": "Pulmonary arterial hypertension",
+              "clinical_characteristics": "Occurs more often during exertion in younger patients.",
+              "notes": "Syncope due to inability to augment or sustain cardiac output during exertion, followed by vasodilatation."
+            },
+            {
+              "name": "Fabry disease",
+              "clinical_characteristics": "Lysosomal storage disorder with neuropathic pain, renal failure concurrent LVH, and HF.",
+              "notes": "Syncope usually due to AV block."
+            },
+            {
+              "name": "Amyloidosis",
+              "clinical_characteristics": "Systemic disease due to amyloid deposition. Light chain amyloidosis affects the kidneys, heart, and peripheral and autonomic nervous systems.",
+              "notes": "Syncope may be due to conduction system disease, arrhythmias, impaired cardiac output from restrictive cardiomyopathy, or neurological involvement."
+            },
+            {
+              "name": "Hemochromatosis",
+              "clinical_characteristics": "Systemic iron deposition causing liver disease, skin pigmentation, diabetes mellitus, arthropathy, impotence, and dilated cardiomyopathy.",
+              "notes": "Myocardial involvement more common than sick sinus syndrome and AV conduction disease."
+            }
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Table": "9 Continued",
+        "Conditions": [
+          {
+            "Category": "Infectious",
+            "Conditions": [
+              {
+                "Name": "Myocarditis",
+                "Clinical Characteristics": "Chest pain, arrhythmias, or profound LV systolic dysfunction. Hemodynamic collapse may occur.",
+                "Notes": "VT and AV block are the likely causes of syncope; transient hemodynamic collapse is possible."
+              },
+              {
+                "Name": "Lyme disease",
+                "Clinical Characteristics": "Lyme myocarditis with classical features of Lyme disease, including erythema migraines and neurological manifestations.",
+                "Notes": "Syncope may be due to AV block, but many patients manifest VVS."
+              },
+              {
+                "Name": "Chagas disease",
+                "Clinical Characteristics": "Chagasic cardiomyopathy caused by trypanosomiasis.",
+                "Notes": "Syncope and sudden death associated with ventricular tachyarrhythmias. AV block also occurs."
+              }
+            ]
+          },
+          {
+            "Category": "Neuromuscular",
+            "Conditions": [
+              {
+                "Name": "Myotonic dystrophy",
+                "Clinical Characteristics": "Autosomal dominant inheritance with multiple organ systems affected. Grip myotonia, weakness, temporal wasting, alopecia, cataracts, glucose intolerance, and daytime somnolence.",
+                "Notes": "Both bradyarrhythmia and tachyarrhythmias."
+              },
+              {
+                "Name": "Friedreich ataxia",
+                "Clinical Characteristics": "Autosomal recessive inheritance with limb and gait ataxia, bladder dysfunction, and daytime somnolence. Diffuse interstitial fibrosis and HCM.",
+                "Notes": "Syncope can be bradycardic or tachycardic. SCD is known to occur."
+              },
+              {
+                "Name": "Kearns-Sayre Syndrome",
+                "Clinical Characteristics": "Mitochondrial myopathy. Chronic progressive external ophthalmoplegia, pigmentary retinopathy.",
+                "Notes": "Many patients develop significant His-Purkinje disease."
+              },
+              {
+                "Name": "Erb dystrophy",
+                "Clinical Characteristics": "Limb girdle muscular dystrophy, manifesting as scapulohumeral and/or pelvicfemoral weakness and atrophy.",
+                "Notes": "AV conduction disease, dilated cardiomyopathy."
+              }
+            ]
+          },
+          {
+            "Category": "Anatomic",
+            "Conditions": [
+              {
+                "Name": "Lenegre-Lev disease",
+                "Clinical Characteristics": "Progressive fibrosis and sclerosis of cardiac conduction system, including the cardiac skeleton, including the aortic and mitral rings.",
+                "Notes": "Syncope is usually due to high-grade AV block."
+              },
+              {
+                "Name": "Cardiac tumors",
+                "Clinical Characteristics": "Triad of obstruction, embolic, and systemic signs and symptoms.",
+                "Notes": "Syncope is often due to obstruction to blood flow."
+              },
+              {
+                "Name": "Prosthetic valve thrombosis",
+                "Clinical Characteristics": "Ranges from asymptomatic to profound HF.",
+                "Notes": "May have similar presentation to a cardiac tumor, with a high risk of embolic phenomenon and obstruction."
+              },
+              {
+                "Name": "Anomalous coronary artery",
+                "Clinical Characteristics": "Common cause of exertional syncope or SCD, classically in young athletes.",
+                "Notes": "Syncope can be due to Bezold Jarisch reflex, hypotension, VT, or AV block."
+              },
+              {
+                "Name": "Aortic dissection",
+                "Clinical Characteristics": "Aortic dissection may manifest with neurological symptoms, myocardial infarction, and HF.",
+                "Notes": "Syncope can occur in as many as 13% of aortic dissections."
+              },
+              {
+                "Name": "Subclavian steal",
+                "Clinical Characteristics": "The phenomenon of flow reversal in a vertebral artery ipsilateral to a hemodynamically significant stenosis of the subclavian artery.",
+                "Notes": "Syncope is generally associated with upper-extremity activity."
+              },
+              {
+                "Name": "Coarctation of the aorta",
+                "Clinical Characteristics": "If severe, it can result in HF or aortic dissection.",
+                "Notes": "Associated bicuspid aortic valve stenosis may be considered with syncope."
+              },
+              {
+                "Name": "Rheumatoid arthritis",
+                "Clinical Characteristics": "Chronic, autoimmune inflammatory disorder with systemic manifestations.",
+                "Notes": "Rarely associated with complete heart block and syncope."
+              },
+              {
+                "Name": "Syringomyelia/Chiari malformation",
+                "Clinical Characteristics": "Arnold Chiari malformations are the most common form of syringomyelia.",
+                "Notes": "Syringomyelia-induced disruption of sympathetic fibers in the thoracic spinal cord is a rare mechanism of syncope."
+              },
+              {
+                "Name": "Neck/vestigal tumor",
+                "Clinical Characteristics": "Recurrent syncope is an uncommon complication of neck malignancy.",
+                "Notes": "The mechanism may be invasion of the carotid sinus or the afferent nerve fibers of the glossopharyngeal nerve."
+              }
+            ]
+          },
+          {
+            "Category": "Endocrine",
+            "Conditions": [
+              {
+                "Name": "Carcinoid syndrome/Pheochromocytoma",
+                "Clinical Characteristics": "These tumors can release vasoactive peptides and cause vasodilation, flushing, pruritus, and gastrointestinal symptoms.",
+                "Notes": "Syncope is usually due to transient hypotension."
+              },
+              {
+                "Name": "Mastocytosis/vasoactive intestinal peptide tumor",
+                "Clinical Characteristics": "",
+                "Notes": ""
+              }
+            ]
+          },
+          {
+            "Category": "Hematologic",
+            "Conditions": [
+              {
+                "Name": "Beta thalassemia major",
+                "Clinical Characteristics": "Severe anemia, multiple organ failure, and dilated cardiomyopathy due to iron overload.",
+                "Notes": "Syncope may be arrhythmic."
+              }
+            ]
+          },
+          {
+            "Category": "Neurological disorders",
+            "Conditions": [
+              {
+                "Name": "Seizure-induced bradycardia/hypotension",
+                "Clinical Characteristics": "Generally due to temporal lobe epilepsy.",
+                "Notes": "Postictal bradyarrhythmia is uncommon and likely originates from the temporal lobe or limbic system."
+              },
+              {
+                "Name": "Migraine",
+                "Clinical Characteristics": "Migraine headaches are statistically associated with syncope.",
+                "Notes": "Syncope may be vasovagal or due to orthostatic intolerance."
+              }
+            ]
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "DMPK",
+          "Associated Conditions": [
+            "Myotonic dystrophy"
+          ],
+          "Occurrences": 1,
+          "context": "Autosomal dominant inheritance with multiple organ systems affected. Grip myotonia, weakness, temporal wasting, alopecia, cataracts, glucose intolerance, and daytime somnolence."
+        },
+        {
+          "Gene": "FXN",
+          "Associated Conditions": [
+            "Friedreich ataxia"
+          ],
+          "Occurrences": 1,
+          "context": "Autosomal recessive inheritance with limb and gait ataxia, bladder dysfunction, and daytime somnolence. Diffuse interstitial fibrosis and HCM."
+        },
+        {
+          "Gene": "MT-TL1",
+          "Associated Conditions": [
+            "Kearns-Sayre Syndrome"
+          ],
+          "Occurrences": 1,
+          "context": "Mitochondrial myopathy. Chronic progressive external ophthalmoplegia, pigmentary retinopathy."
+        },
+        {
+          "Gene": "LMNA",
+          "Associated Conditions": [
+            "Erb dystrophy"
+          ],
+          "Occurrences": 1,
+          "context": "Limb girdle muscular dystrophy, manifesting as scapulohumeral and/or pelvicfemoral weakness and atrophy."
+        }
+      ]
+    },
+    {
+      "content": {
+        "recommendations": [
+          "VVS evaluation, including a detailed medical history, physical examination, family history, and a 12-lead ECG, should be performed in all pediatric patients presenting with syncope.",
+          "Noninvasive diagnostic testing should be performed in pediatric patients presenting with syncope and suspected CHD, cardiomyopathy, or primary rhythm disorder."
+        ],
+        "syncope in children": {
+          "prevalence": "30% to 50% of children experience at least 1 fainting episode by 18 years of age.",
+          "incidence": "Higher in females and peaks between 15 to 19 years of age.",
+          "types": [
+            "Neurally mediated syncope accounts for 75% of pediatric syncope.",
+            "Breath-holding spells typically occur from age 6 months to age 5 years.",
+            "Pallid breath-holding spells are seen in the first 1 to 2 years of age."
+          ],
+          "causes": "May result from obstruction to blood flow, myocardial dysfunction, or congenital coronary anomaly."
+        },
+        "family history": "A detailed family history should focus on premature SCD among first- and second-degree relatives.",
+        "risk factors": "Include absence of prodromal symptoms, palpitations with seconds of loss of consciousness, history of SCD, abnormal physical examination, and abnormal ECG.",
+        "diagnosis": "Channelopathies are major causes of cardiac-related syncope in young people. Extended monitoring is reasonable when an arrhythmia diagnosis is suspected."
+      },
+      "genes": [
+        {
+          "Gene": "LQT",
+          "Associated Conditions": [
+            "Long QT Syndrome"
+          ],
+          "Occurrences": 3,
+          "context": "External syncope has been associated with LQT3 and CPVT."
+        },
+        {
+          "Gene": "CPVT",
+          "Associated Conditions": [
+            "Catecholaminergic Polymorphic Ventricular Tachycardia"
+          ],
+          "Occurrences": 2,
+          "context": "External syncope has been associated with LQT3 and CPVT."
+        },
+        {
+          "Gene": "ARVC",
+          "Associated Conditions": [
+            "Arrhythmogenic Right Ventricular Cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Interventions recommended for adults with similar conditions presenting with syncope can be applied in children."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Management of Children with VVS": "Management should include reassurance about the benign nature of VVS, emphasizing symptom awareness and avoiding triggers like dehydration and standing for prolonged periods.",
+        "Tilt-Table Testing": "Useful for pediatric patients when diagnosis is unclear; sensitivity and specificity ranges are provided. Related to seizures and asystolic pauses.",
+        "Midodrine Use": "Recommended if VVS is not responding to lifestyle measures.",
+        "Salt and Fluid Intake": "Encouraged in selected pediatric patients with VVS.",
+        "Fludrocortisone": "Effectiveness is uncertain in pediatric patients with OH associated with syncope. Mixed study results.",
+        "Cardiac Pacing": "May be considered in severe neurally mediated syncope related to breath-holding spells.",
+        "Beta Blockers": "Not beneficial in pediatric patients with VVS."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "ACHD recommendations": [
+          {
+            "COR": "IIa",
+            "LOE": "C-EO",
+            "Recommendation": "For evaluation of patients with ACHD and syncope, referral to a specialist with expertise in ACHD can be beneficial."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-NR",
+            "Recommendation": "EPS is reasonable in patients with moderate or severe ACHD and unexplained syncope."
+          }
+        ],
+        "Context": "The guidelines provide recommendations for the management of Adult Congenital Heart Disease (ACHD), focusing on the need for specialized care and electrophysiological studies (EPS) in patients with syncope. Special considerations are given to mortality rates, arrhythmias, and specific patient groups such as older patients."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations for Geriatric Patients": [
+          {
+            "COR": "IIa",
+            "LOE": "C-EO",
+            "Recommendation": "For the assessment and management of older adults with syncope, a comprehensive approach in collaboration with an expert in geriatric care can be beneficial."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-NR",
+            "Recommendation": "It is reasonable to consider syncope as a cause of nonaccidental falls in older adults."
+          }
+        ],
+        "Key Points": [
+          "A multidisciplinary approach is beneficial in diagnosing frailty and other factors in older adults with syncope.",
+          "Consideration of frailty includes weight loss, weakness, exhaustion, reduced physical activity, and cognitive decline.",
+          "Approximately 30% of older adults with nonaccidental falls have had syncope.",
+          "Driving considerations should balance the risk of syncope with the need for driving.",
+          "The estimated acceptable risk of syncope while driving is less than 0.0017%."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "COR": "IIa",
+            "LOE": "C-EO",
+            "recommendation": "It can be beneficial for healthcare providers managing patients with syncope to know the driving laws and restrictions in their regions and discuss implications with the patient."
+          }
+        ],
+        "additional_information": [
+          "The writing committee encourages healthcare providers to be aware of regional driving laws and restrictions.",
+          "In the United States, private driving is state regulated, while commercial driving requires a federal license.",
+          "Physicians providing care to commercial drivers should be familiar with U.S. Department of Transportation policy.",
+          "Individual states may require reporting of drivers who faint, and this should be considered regardless of restriction duration.",
+          "Patient confidentiality should be maintained unless the condition poses a significant risk to others."
+        ],
+        "symptom_free_waiting_times": {
+          "OH": "1 month",
+          "VVS, no syncope in prior year": "No restriction",
+          "VVS, 1-6 syncope per year": "1 month",
+          "VVS, >6 syncope per year": "Not fit to drive until symptoms resolved",
+          "Situational syncope other than cough syncope": "1 month",
+          "Cough syncope, untreated": "Not fit to drive",
+          "Cough syncope, treated with cough suppression": "1 month",
+          "Carotid sinus syncope, untreated": "Not fit to drive",
+          "Carotid sinus syncope, treated with permanent pacemaker": "1 week",
+          "Syncope due to nonreflex bradycardia, untreated": "Not fit to drive",
+          "Syncope due to nonreflex bradycardia, treated with permanent pacemaker": "1 week",
+          "Syncope due to SVT, untreated": "Not fit to drive",
+          "Syncope due to SVT, pharmacologically suppressed": "1 month",
+          "Syncope due to SVT, treated with ablation": "1 week",
+          "Syncope with LVEF <35% and a presumed arrhythmic etiology without an ICD": "Not fit to drive",
+          "Syncope with LVEF <35% and presumed arrhythmic etiology with an ICD": "3 months",
+          "Syncope presumed due to VT/VF, structural heart disease, and LVEF \u226535%, untreated": "Not fit to drive",
+          "Syncope presumed due to VT/VF, structural heart disease, and LVEF \u226535%, treated with an ICD and guideline-directed drug therapy": "3 months",
+          "Syncope presumed due to VT with a genetic cause, untreated": "Not fit to drive",
+          "Syncope presumed due to VT with a genetic cause, treated with an ICD or guideline-directed drug therapy": "3 months",
+          "Syncope presumed due to a nonstructural heart disease VT, such as RVOT or LVOT, untreated": "Not fit to drive",
+          "Syncope presumed due to a nonstructural heart disease VT, such as RVOT or LVOT, treated successfully with ablation or suppressed pharmacologically": "3 months",
+          "Syncope of undetermined etiology": "1 month"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "10.5 Athletes: Recommendations",
+        "summary": "The guideline discusses syncope in athletes, focusing on its predominantly vasovagal origin. It highlights the increased probability of cardiac causes during exercise, the importance of thorough evaluation, and the need for cardiovascular assessment. Recommendations include screening, evaluations, and monitoring, especially for those with high-risk cardiovascular indications.",
+        "recommendations": [
+          {
+            "cor": "I",
+            "recommendation": "Cardiovascular assessment by an experienced care provider is recommended for athletes with syncope before resuming sports."
+          },
+          {
+            "cor": "IIa",
+            "recommendation": "Assessment by a specialist is reasonable for athletes with syncope and high-risk markers."
+          },
+          {
+            "cor": "IIa",
+            "recommendation": "Extended monitoring is beneficial for athletes with unexplained syncope after initial evaluation."
+          },
+          {
+            "cor": "III: Harm",
+            "recommendation": "Participation in sports is not recommended for athletes with syncope and phenotype-positive HCM, CPVT, LQTS1, or ARVC without specialist evaluation."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Quality of Life and Healthcare Cost of Syncope": {
+          "Impact of Syncope on Quality of Life": "Quality of life (QoL) is reduced with recurrent syncope, which affects physical health and mental health, including increased fear and anxiety. It also impacts daily activities like driving and working.",
+          "Healthcare Costs Associated with Syncope": "High costs are incurred in the evaluation and management of syncope, with annual hospital costs estimated to be $4.1 billion in 2014 dollars in the U.S."
+        },
+        "Emerging Technology, Evidence Gaps, and Future Directions": {
+          "Definition, Classification, and Epidemiology": "Variability in prevalence and incidence due to different methodologies and settings is noted. Standard definitions are needed for future studies.",
+          "Risk Stratification and Clinical Outcomes": "Key clinical questions include determining underlying causes of syncope and related outcomes, and identifying effective therapies to prevent recurrence and related impacts."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Studies Needed": [
+          "Determine if syncope is an independent predictor of nonfatal or fatal outcomes.",
+          "Develop risk scores for clinical settings with predefined endpoints.",
+          "Define relevant clinical outcomes for recurrent syncope, nonfatal outcomes, and fatal outcomes.",
+          "Differentiate cardiac and noncardiac clinical outcomes in various settings.",
+          "Understand the interaction and relationships among syncope symptoms, cause, and underlying conditions."
+        ],
+        "Evaluation and Diagnosis": [
+          "Improve effectiveness of patient evaluation based on risk.",
+          "Understand key components of clinical characteristics and develop standardization tools."
+        ],
+        "Management of Specific Conditions": [
+          "Treatment straightforward for cardiac causes of syncope or orthostatic causes.",
+          "Differentiate between 'arrhythmic syncope' and 'nonarrhythmic syncope' versus 'aborted SCD'.",
+          "Identify effective treatment approaches for patients with recurrent reflex syncope."
+        ],
+        "Special Populations": [
+          "Questions and research on risk stratification, evaluation, and management in pediatric and geriatric populations and athletes.",
+          "Risk associated with driving among different populations with syncope.",
+          "Usefulness of specialized syncope units in different clinical settings."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2017 ACC/AHA/HRS Syncope Guideline",
+        "Organizations Involved": [
+          "American College of Cardiology",
+          "American Heart Association",
+          "Heart Rhythm Society"
+        ],
+        "Main Focus": "Clinical Practice Guidelines for Syncope",
+        "References": [
+          "Standards for Developing Trustworthy Clinical Practice Guidelines",
+          "Standards for Systematic Reviews of Comparative Effectiveness Research",
+          "ACC/AHA statement on cost/value methodology in clinical practice guidelines",
+          "ACCF/AHA Task Force on Practice Guidelines Methodology Manual",
+          "Management of Patients with Supraventricular Tachycardia",
+          "Management of Patients with Valvular Heart Disease",
+          "Management of Patients with Atrial Fibrillation"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2017 ACC/AHA/HRS Syncope Guideline",
+        "Authors": "Shen et al.",
+        "Journal": "JACC VOL. 70, NO. 5, 2017",
+        "Publishing Date": "August 1, 2017",
+        "Pages": "e88, 1110",
+        "Key Topics": [
+          "Syncope guidelines",
+          "Management of patients with syncope",
+          "Diagnosis and treatment of orthostatic hypotension",
+          "Postural tachycardia syndrome (POTS)",
+          "Detection and management of arrhythmias",
+          "Safety on disability and transportation for syncope patients"
+        ],
+        "Mentions of Regulatory Bodies": [
+          "ACC/AHA/HRS",
+          "International Society for Adult Congenital Heart Disease",
+          "Society for Cardiovascular Angiography and Interventions",
+          "Heart Rhythm Society"
+        ],
+        "Clinical Conditions Discussed": [
+          "Ventricular arrhythmias",
+          "Syncope",
+          "Congenital heart disease",
+          "Orthostatic hypotension",
+          "Cardiomyopathy",
+          "Postural tachycardia syndrome (POTS)"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_clinical_information": "The document outlines various studies and methods related to the evaluation and management of syncope in emergency departments. It references several tools and scores, such as the San Francisco Syncope Rule, the ROSE (Risk Stratification of Syncope in the Emergency Department) study, and the CHADS2 risk score, among others. These tools aim to predict outcomes and stratify risk for patients presenting with syncope, particularly focusing on short-term and long-term clinical outcomes, mortality, and specific underlying causes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "This document is the 2017 ACC/AHA/HRS Syncope Guideline. It covers clinical guidelines related to the evaluation and management of syncope, which includes sudden cardiac death, cardiac imaging, electrocardiography, and ambulatory monitoring. The guideline discusses the use of various diagnostic tools such as MRI, CT scans, Holter monitoring, and implantable loop recorders among others for patients experiencing syncope or potential cardiac conditions. It also evaluates different cardiac markers."
+      },
+      "genes": []
+    },
+    {
+      "content": "The guideline discusses various aspects of syncope, emphasizing the role of implantable loop recorders, diagnostic strategies, and clinical evaluations. It highlights the utility of different testing methods including electrophysiologic studies and tilt-table tests. The focus is on understanding underlying causes and improving diagnostic yield for unexplained syncope, especially in elderly populations. There is an exploration of associated medical conditions, management recommendations, and advancements in diagnostic technologies.",
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2017 ACC/AHA/HRS Syncope Guideline",
+        "Authors": "Shen et al.",
+        "Source": "JACC Vol. 70, No. 5, 2017",
+        "Pages": "e92"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Clinical Information": [
+          "The document discusses various aspects of cardiac conditions, specifically focusing on ventricular arrhythmias, cardiomyopathy, and related syndromes such as Brugada syndrome. It covers topics like the efficacy of implantable cardioverter-defibrillators (ICDs), corticosteroid therapy, and ablation techniques in managing these conditions. There is also mention of epidemiological data and risk stratification related to cardiac sarcoidosis and other heart-related conditions."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "topic": "The guideline focuses on syncope, particularly in relation to implantable cardioverter-defibrillators, genetic predispositions, and certain cardiac conditions.",
+        "key_areas": [
+          "Implantable Cardioverter-Defibrillator (ICD) usage and recommendations.",
+          "Catecholaminergic polymorphic ventricular tachycardia (CPVT) and its management.",
+          "Genetic factors influencing cardiac conditions and syncope.",
+          "Medications and therapeutic strategies for managing cardiac conditions linked to syncope."
+        ],
+        "specific_conditions": [
+          "Long QT syndrome",
+          "Sudden cardiac death",
+          "Ventricular tachycardia"
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "RYR2",
+          "Associated Conditions": [
+            "Catecholaminergic polymorphic ventricular tachycardia",
+            "Sudden cardiac death"
+          ],
+          "Occurrences": 3,
+          "context": "Mutations in the cardiac ryanodine receptor gene (RYR2) underlie catecholaminergic polymorphic ventricular tachycardia. Studies have shown that these mutations can lead to arrhythmic risk during physical activity."
+        },
+        {
+          "Gene": "CASQ2",
+          "Associated Conditions": [
+            "Catecholaminergic polymorphic ventricular tachycardia"
+          ],
+          "Occurrences": 2,
+          "context": "A missense mutation in a highly conserved region of CASQ2 is associated with autosomal recessive catecholamine-induced polymorphic ventricular tachycardia. This genetic change influences calcium handling in cardiac cells."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Title": "2017 ACC/AHA/HRS Syncope Guideline",
+        "Publication": "JACC VOL. 70, NO. 5, 2017",
+        "Date": "AUGUST 1, 2017",
+        "Overview": "The document contains various studies and guidelines regarding syncope, including efficacy and safety of different drugs and interventions, as well as preventive and therapeutic strategies for vasovagal and neurocardiogenic syncope.",
+        "Key Topics": [
+          "Prevention and management of vasovagal syncope",
+          "Efficacy of midodrine, metoprolol, and other treatments",
+          "Interventions like pacemaker therapy",
+          "Effectiveness of physical counter-pressure maneuvers",
+          "Impact of lifestyle changes such as fluid and salt intake"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": [
+          "The guideline discusses various treatments and studies related to syncope, carotid sinus hypersensitivity, and orthostatic hypotension.",
+          "Several studies focus on pacing in patients with carotid sinus syndrome and the effects of different interventions on orthostatic hypotension.",
+          "Comparative studies are mentioned for pacing methods, drug effects, and physiological responses to orthostatic challenges.",
+          "The guideline references multiple randomized trials, double-blind studies, and cohort studies to discuss effective treatments and management strategies."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_info": [
+          "The document addresses various treatments and studies related to orthostatic hypotension and syncope.",
+          "Several drugs and treatment methods are discussed, such as droxidopa for neurogenic orthostatic hypotension and the use of somatostatin analogues.",
+          "The importance of managing syncope in different conditions like autonomic failure, Parkinson's disease, and diabetes is emphasized.",
+          "Clinical trials and studies are referenced to support different treatment approaches."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2017 ACC/AHA/HRS Syncope Guideline",
+        "authors": "Shen et al.",
+        "year": 2017,
+        "journal": "JACC",
+        "volume": 70,
+        "number": 5,
+        "pages": "e98-110",
+        "date": "August 1, 2017",
+        "keyPoints": [
+          {
+            "number": 517,
+            "study": "Vu Q, Vangundy TB, Shibata S",
+            "finding": "Exercise training versus propranolol in treatment of postural tachycardia syndrome",
+            "result": "Effective treatment",
+            "journal": "Hypertension",
+            "year": 2011
+          },
+          {
+            "number": 519,
+            "study": "Green EA, Ray J, Shibao CA",
+            "finding": "Effects of norepinephrine uptake inhibition on postural tachycardia syndrome",
+            "result": "Positive outcomes",
+            "journal": "Am Heart Assoc",
+            "year": 2013
+          },
+          {
+            "number": 530,
+            "study": "Shah R, Dure DK, Seeley BJ",
+            "finding": "Cough syncope from constrictive pericarditis",
+            "result": "Case report",
+            "journal": "Can J Cardiol",
+            "year": 2003
+          },
+          {
+            "number": 538,
+            "study": "Koh C, Lee PW, Yung TC",
+            "finding": "Left ventricular non-compaction in children",
+            "result": "Congenital heart defects",
+            "journal": "Congenit Heart Dis",
+            "year": 2009
+          },
+          {
+            "number": 546,
+            "study": "Moya A, Howlett S, Grunewald R",
+            "finding": "Arthralgias in Fabry cardiomyopathy",
+            "result": "Detailed",
+            "journal": "Clin Cardiol",
+            "year": 2012
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "SCN5A",
+          "Associated Conditions": [
+            "Brugada syndrome",
+            "Long QT syndrome"
+          ],
+          "Occurrences": 1,
+          "context": "Mutations in SCN5A gene can lead to Brugada syndrome and Long QT syndrome, which are associated with syncope and sudden cardiac death."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Title": "2017 ACC/AHA/HRS Syncope Guideline",
+        "Journal": "Journal of the American College of Cardiology (JACC)",
+        "Date": "August 1, 2017",
+        "Volume": "70",
+        "Number": "5",
+        "Pages": "e99-110",
+        "Topics Covered": [
+          "Clinical management of syncope",
+          "Associated diseases and conditions",
+          "Different causes of syncope including cardiovascular, neurological, and other systemic causes"
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "SMYD1",
+          "Associated Conditions": [
+            "Syncope",
+            "extracardiac contributor to syncope"
+          ],
+          "Occurrences": 1,
+          "context": "599. Monforte I, Maher R, Grieve SM, et al. Smyd1: a rare extracardiac contributor to syncope detected incidentally by CMR. Int J Cardiol. 2011;150: e62-4."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "2017 ACC/AHA/HRS Syncope Guideline",
+        "topics": [
+          "Evaluation of syncope in pediatric populations",
+          "Diagnostic protocols for unexplained syncope",
+          "Influence of heart disease on syncope in children and adolescents",
+          "Risk factors and predictors associated with syncope",
+          "Tilt table testing in syncope evaluation",
+          "Arrhythmias and congenital heart disease",
+          "Cardiogenic vs. neurocardiogenic syncope",
+          "Sudden death and syncope correlation",
+          "Pediatric syncope evaluation protocols",
+          "Comparison of various syncope testing methods"
+        ],
+        "relevant studies": [
+          "Methods of screening echocardiography for pediatric syncope",
+          "Diagnosis and evaluation methodologies for pediatric syncope",
+          "Long-term outcomes following surgical correction of tetralogy of Fallot",
+          "Prevalence of medications in adults with unexplained falls",
+          "Head-up tilt test outcomes for diagnosing unexplained syncope",
+          "Syncope caused by cardiac arrhythmias and ischemic heart conditions",
+          "Influence of atrial fibrillation and underlying heart disease in sudden death",
+          "Importance of carotid sinus responses and blood pressure measures in syncope"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2017 ACC/AHA/HRS Syncope Guideline",
+        "source": "JACC VOL. 70, NO. 5, 2017",
+        "date": "AUGUST 1, 2017: 329\u2013419",
+        "topics": [
+          {
+            "topic": "Long-term follow-up after syncope",
+            "content": "Analysis of 183 patients over 5 years indicates mortality predictors."
+          },
+          {
+            "topic": "Syncope and arrythmias",
+            "content": "Public safety issues and physician recommendations discussed."
+          },
+          {
+            "topic": "Implantable cardioverter-defibrillator",
+            "content": "Restrictions and recommendations for patients with this device."
+          },
+          {
+            "topic": "Exercise and syncope",
+            "content": "Use of exercise-based evaluations for syncope in athletes."
+          },
+          {
+            "topic": "Hypertrophic cardiomyopathy",
+            "content": "Diagnosis and management recommendations discussed."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2017 ACC/AHA/HRS Syncope Guideline",
+        "references": [
+          "Prospective evaluation of non-pharmacological treatment in vasovagal syncope. Europace. 2010",
+          "Development and validation of a scale measuring the impact of syncope on quality of life. Europace. 2009",
+          "Comparison of self-reported quality of life between patients with epilepsy and neurally mediated syncope. Epilepsia. 2007",
+          "Clinical factors associated with quality of life in patients with transient loss of consciousness. J Cardiovasc Electrophysiol. 2006",
+          "Quality of life within one year following presentation after transient loss of consciousness. Am J Cardiol. 2007",
+          "Pacing interventions for falls and syncope in the elderly. Clin Geriatr Med. 2002",
+          "The distinction between cost and charges. Ann Intern Med. 1982",
+          "Direct medical costs of syncope-related hospitalizations in the United States. Am J Cardiol. 2005",
+          "Does the use of a syncope diagnostic protocol improve the investigation and management of syncope? Heart. 2004",
+          "Cost of diagnosis and treatment of syncope in patients admitted to a cardiology unit. Europace. 2006"
+        ],
+        "keywords": [
+          "ACC/AHA Clinical Practice Guidelines",
+          "syncope",
+          "risk assessment",
+          "diagnosis",
+          "prognosis",
+          "cardiac syncope",
+          "reflex syncope",
+          "vasovagal syncope",
+          "orthostatic hypotension",
+          "neurogenic syncope",
+          "dehydration",
+          "pediatrics",
+          "adult congenital heart disease",
+          "geriatrics",
+          "driving",
+          "athletes"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline": "2017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients with Syncope",
+        "Appendix": "Author Relationships with Industry and Other Entities (Relevant)",
+        "Date": "March 2015",
+        "Committee Members": [
+          {
+            "Name": "Win-Kuang Shen",
+            "Employment": "Mayo Clinic Arizona, Department of Cardiovascular Diseases",
+            "Position": "Professor of Medicine, Chair",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": "None",
+            "Institutional Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": "None"
+          },
+          {
+            "Name": "Robert S. Sheldon",
+            "Employment": "University of Calgary, Department of Medicine",
+            "Position": "Professor",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": "None",
+            "Institutional Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": [
+              "3.2",
+              "3.2.3",
+              "3.2.5",
+              "4.1.1-4.1.3",
+              "4.2.1-4.2.5",
+              "4.3.1-4.3.5",
+              "5.1-5.3",
+              "10.1",
+              "10.2",
+              "10.3",
+              "10.5",
+              "12"
+            ]
+          },
+          {
+            "Name": "David G. Benditt",
+            "Employment": "University of Minnesota Medical School, Cardiovascular Division",
+            "Position": "Professor of Medicine",
+            "Consultant": [
+              "Medtronic",
+              "St. Jude Medical"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": "None",
+            "Institutional Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": [
+              "3.2",
+              "3.2.3",
+              "3.2.5",
+              "4.1.1-4.1.3",
+              "4.2.1-4.2.5",
+              "4.3.1-4.3.5",
+              "5.1-5.3",
+              "10.1",
+              "10.2",
+              "10.3",
+              "10.5",
+              "12"
+            ]
+          },
+          {
+            "Name": "Mitchell I. Cohen",
+            "Employment": "University of Arizona School of Medicine\u2013Phoenix, Phoenix Children's Heart Center",
+            "Position": "Clinical Professor of Child Health, Co-Director, Chief",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": "None",
+            "Institutional Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": "None"
+          },
+          {
+            "Name": "Daniel E. Forman",
+            "Employment": "University of Pittsburgh, Division of Cardiology",
+            "Position": "Professor of Medicine, Chair, Director",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": "None",
+            "Institutional Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": "None"
+          },
+          {
+            "Name": "Roy Freeman",
+            "Employment": "Harvard Medical School",
+            "Position": "Professor of Neurology, Director",
+            "Consultant": "Lundbeck",
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": "None",
+            "Institutional Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": [
+              "4.3.1-4.3.5",
+              "5.1",
+              "6.1",
+              "10.1",
+              "10.3",
+              "10.5",
+              "12"
+            ]
+          },
+          {
+            "Name": "Zachary D. Goldberger",
+            "Employment": "University of Washington School of Medicine",
+            "Position": "Assistant Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": "None",
+            "Institutional Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": "None"
+          },
+          {
+            "Name": "Blair P. Grubb",
+            "Employment": "University of Toledo Medical Center, Medicine and Pediatrics",
+            "Position": "Professor",
+            "Consultant": [
+              "Biotronik",
+              "Medtronic"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": "None",
+            "Institutional Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": [
+              "3.2",
+              "3.2.3",
+              "3.2.5",
+              "4.1.1-4.1.3",
+              "4.2.1-4.2.5",
+              "4.3.1-4.3.5",
+              "5.1-5.3",
+              "10.1",
+              "10.2",
+              "10.3",
+              "10.5",
+              "12"
+            ]
+          },
+          {
+            "Name": "Mohamed H. Hamdan",
+            "Employment": "University of Wisconsin School of Medicine",
+            "Position": "Professor and Chief of Cardiovascular Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": [
+              "F2 Solutions"
+            ],
+            "Ownership": "None",
+            "Personal Research": "None",
+            "Institutional Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": [
+              "2.3.3",
+              "12.4",
+              "12"
+            ]
+          },
+          {
+            "Name": "Andrew D. Krahn",
+            "Employment": "University of British Columbia, Division of Cardiology",
+            "Position": "Professor of Medicine and Head of Division",
+            "Consultant": [
+              "Medtronic"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": "None",
+            "Institutional Financial Benefit": [
+              "Boston Scientific",
+              "Medtronic"
+            ],
+            "Expert Witness": "None",
+            "Voting Recusals": [
+              "3.2",
+              "3.2.3",
+              "3.2.5",
+              "4.1.1-4.1.3",
+              "4.2.1-4.2.5",
+              "4.3.1-4.3.5",
+              "5.1-5.3",
+              "10.1",
+              "10.2",
+              "10.3",
+              "10.5",
+              "12"
+            ]
+          },
+          {
+            "Name": "Mark S. Link",
+            "Employment": "University of Texas Southwestern Medical Center, Division of Cardiology",
+            "Position": "Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": "None",
+            "Institutional Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "committee_members": [
+          {
+            "name": "Brian Olshansky",
+            "employment": "University of Iowa Carver College of Medicine, Cardiovascular Medicine\u2014Emeritus Professor of Internal Medicine; Mercy Hospital North Iowa\u2014Electrophysiologists",
+            "consultant": [
+              "Lundbeck"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals_by_section": "None"
+          },
+          {
+            "name": "Satish R. Raj",
+            "employment": "University of Calgary, Cardiac Sciences\u2014Associate Professor",
+            "consultant": [
+              "GE Healthcare",
+              "Lundbeck"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_benefit": [
+              "Medtronic"
+            ],
+            "expert_witness": "None",
+            "voting_recusals_by_section": "2.3.2, 2.3.4, 3.2-3.2.5, 3.3.2, 4.1.1-4.3, 4.2.1-4.2.5, 4.3.1-4.3.5, 5.1-5.3, 6.1, 7, 10.1-10.3, 10.5, 12"
+          },
+          {
+            "name": "Roopinder Kaur Sandhu",
+            "employment": "University of Alberta, Medical Division of Cardiology\u2014Assistant Professor of Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals_by_section": "None"
+          },
+          {
+            "name": "Dan Sorajja",
+            "employment": "Mayo Clinic Arizona, Cardiovascular Diseases\u2014Assistant Professor of Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals_by_section": "None"
+          },
+          {
+            "name": "Benjamin C. Sun",
+            "employment": "Oregon Health & Science University\u2014Associate Professor",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals_by_section": "None"
+          },
+          {
+            "name": "Clyde W. Yancy",
+            "employment": "Northwestern University Feinberg School of Medicine, Division of Cardiology\u2014Professor of Medicine and Chief; Diversity & Inclusion\u2014Vice Dean",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals_by_section": "None"
+          }
+        ],
+        "notes": {
+          "relationships_reviewed": "This table represents the relationships of committee members with industry and other entities that were determined to be relevant to this document.",
+          "transparency": "Relationships with no financial benefit are also included for transparency. Relationships in this table are modest unless otherwise noted.",
+          "relevant_relationships": "According to the ACC/AHA, a person has a relevant relationship if the relationship or interest relates to the same or similar subject matter, intellectual property or asset, topic, or issue addressed in the document."
+        },
+        "acknowledgements": {
+          "roy_freeman_resignation": "Roy Freeman resigned from the writing committee in November 2016, before the final balloting process."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Reviewer Relationships with Industry and Other Entities (Comprehensive)\u20142017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients with Syncope (June 2016)",
+        "Reviewers": [
+          {
+            "Name": "Italo Biaggioni",
+            "Representation": "Official Reviewer\u2014AHA",
+            "Employment": "Vanderbilt University School of Medicine\u2014Professor of Medicine",
+            "Consultant": [
+              "Lundbeck*",
+              "Shire Pharmaceuticals*",
+              "Theravance*"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "Astellas Pharma (DSMB)",
+              "AstraZeneca*",
+              "Forest Pharmaceuticals*",
+              "Janssen Pharmaceuticals (DSMB)",
+              "Lundbeck*",
+              "Theravance*"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Joaquin E. Cigarroa",
+            "Representation": "Official Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+            "Employment": "Oregon Health & Science University\u2014Clinical Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "NIH\u2020",
+              "AHA\u2020",
+              "SCAI\u2020",
+              "ASA\u2020",
+              "Catheterization and Cardiovascular Intervention\u2020"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Kenneth A. Ellenbogen",
+            "Representation": "Official Reviewer\u2014AHA",
+            "Employment": "VCU Medical Center\u2014Director, Clinical EP Laboratory",
+            "Consultant": [
+              "AtriCure*",
+              "Biosense Webster*",
+              "Biotronik*",
+              "Boston Science*",
+              "HRS*",
+              "Janssen Pharmaceuticals*",
+              "Medtronic*",
+              "Pfizer*",
+              "Sentra Heart*",
+              "St. Jude Medical*"
+            ],
+            "Speakers Bureau": "AHA",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "AtriCure*",
+              "Boston Science",
+              "Biosense Webster",
+              "Daiichi-Sankyo*",
+              "Medtronic (DSMB)",
+              "Medtronic",
+              "NIH",
+              "Sanofi-aventis"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "American Heart Journal",
+              "Biosense Webster*",
+              "Boston Science*",
+              "HRS",
+              "JCE",
+              "Medtronic*",
+              "PACE",
+              "Sanofi-aventis"
+            ],
+            "Expert Witness": [
+              "Defendant, Catheter ablation complication, 2015",
+              "Plaintiff, Lead extraction complication, 2015"
+            ]
+          },
+          {
+            "Name": "Rakesh Gopinathannair",
+            "Representation": "Official Reviewer\u2014HRS",
+            "Employment": "University of Louisville School of Medicine and Jewish Hospital Division of Cardiovascular Medicine\u2014Associate Professor of Medicine, Director of Cardiac EP",
+            "Consultant": [
+              "Boston Scientific",
+              "Health Trust PG",
+              "St. Jude Medical*"
+            ],
+            "Speakers Bureau": [
+              "AHA",
+              "Bristol-Myers Squibb",
+              "Pfizer*",
+              "Zoll Medical"
+            ],
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Robert Helm",
+            "Representation": "Official Reviewer\u2014HRS",
+            "Employment": "Boston University School of Medicine\u2014Assistant Professor of Medicine, Assistant Professor of Radiology",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "Boston Scientific",
+              "St. Jude Medical"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Appendix 2. Continued",
+        "columns": [
+          "Reviewer",
+          "Representation",
+          "Employment",
+          "Consultant",
+          "Speakers Bureau",
+          "Ownership/Partnership/Principal",
+          "Personal Research",
+          "Institutional, Organizational, or Other Financial Benefit",
+          "Expert Witness"
+        ],
+        "details": [
+          {
+            "Reviewer": "Dhanunjaya Lakkireddy",
+            "Representation": "Official Reviewer\u2014ACC Board of Governors",
+            "Employment": "University of Kansas Medical Center\u2014Professor of Medicine, Center for Excellence in AF and Complex Arrhythmias\u2014Director",
+            "Consultant": "Biosense Webster, St. Jude Medical",
+            "Speakers Bureau": "Boehringer Ingelheim, Bristol-Myers Squibb, Janssen Pharmaceuticals, Pfizer",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Reviewer": "Thad Waites",
+            "Representation": "Official Reviewer\u2014ACC Board of Trustees",
+            "Employment": "Forrest General Hospital\u2014Director of Catheterization Laboratory",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Reviewer": "Christopher Gibbons",
+            "Representation": "Organizational Reviewer\u2014AAN",
+            "Employment": "Beth Israel Deaconess Medical Center Neuropathy Clinic\u2014Director",
+            "Consultant": "Lundbeck",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "Astellas Pharma (DSMB), Janssen Pharmaceuticals (DSMB)",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Reviewer": "Kaushal H. Shah",
+            "Representation": "Organizational Reviewer\u2014ACEP/SAEM",
+            "Employment": "The Mount Sinai Hospital\u2014Associate Professor of Emergency Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Reviewer": "Mike Silka",
+            "Representation": "Organizational Reviewer\u2014PACES",
+            "Employment": "Children\u2019s Hospital Los Angeles\u2014Professor of Pediatrics, Cardiology",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "Defendant, SCD in CPVT patient, 2016"
+          },
+          {
+            "Reviewer": "Sana M. Al-Khatib",
+            "Representation": "Content Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+            "Employment": "Duke Clinical Research Institute\u2014Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "FDA, NHLBI, PCORI, VA Health System (DSMB)",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "Elsevier, AHA",
+            "Expert Witness": "None"
+          },
+          {
+            "Reviewer": "Kim K. Bircher",
+            "Representation": "Content Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+            "Employment": "University of Houston College of Pharmacy\u2014Clinical Professor",
+            "Consultant": "Jones & Bartlett Learning",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Reviewer": "Michele Brignole",
+            "Representation": "Content Reviewer",
+            "Employment": "Arrhythmologic Centre, Ospedali del Tigullio\u2014Head of Cardiology",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "F2 Solutions",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Reviewer": "Hugh Calkins",
+            "Representation": "Content Reviewer\u2014ACC EP Section Leadership Council",
+            "Employment": "Johns Hopkins Hospital\u2014Professor of Medicine, Director of EP",
+            "Consultant": "Abbott, Atricure, Boehringer Ingelheim, Medtronic",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "Boehringer Ingelheim, St. Jude Medical",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "Abbott Laboratories",
+            "Expert Witness": "Defendant, SCD, 2015"
+          },
+          {
+            "Reviewer": "Coletta Barrett",
+            "Representation": "Content Reviewer\u2014Lay Reviewer",
+            "Employment": "Our Lady of the Lake Regional Medical Center\u2014Vice President",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Reviewers": [
+          {
+            "Name": "Lin Yee Chen",
+            "Representation": "Content Reviewer",
+            "Employment": "University of Minnesota Medical School\u2014Associate Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "NIH*",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Andrew Epstein",
+            "Representation": "Content Reviewer",
+            "Employment": "University of Pennsylvania Hospital and the Veteran\u2019s Administration Medical Center\u2014Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "Biosense Webster, Biotronik, Boston Scientific (DSMB), Medtronic (DSMB), St. Jude Medical",
+            "Personal Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Susan Etheridge",
+            "Representation": "Content Reviewer\u2014ACC EP Section Leadership Council",
+            "Employment": "University of Utah\u2014Training Program Director",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "SADS Foundation, PACES\u2020",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Marci Farquhar-Snow",
+            "Representation": "Content Reviewer",
+            "Employment": "Mayo Clinic School of Health Sciences\u2014Program Director, Cardiology Nurse Practitioner, Fellowship",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Samuel S. Gidding",
+            "Representation": "Content Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+            "Employment": "Nemours/Alfred I. duPont Hospital for Children\u2014Chief, Division of Pediatric Cardiology",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "FH Foundation\u2020 International, FH Foundation\u2020",
+            "Personal Research": "None",
+            "Institutional Benefit": "FH Foundation\u2020, NIH\u2020",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Bulent Gorenek",
+            "Representation": "Content Reviewer\u2014ACC EP Section Leadership Council",
+            "Employment": "Eskisehir Osmangazi University Cardiology Department\u2014Chair",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Paul LeLorier",
+            "Representation": "Content Reviewer\u2014ACC Heart Failure and Transplant Section Leadership Council",
+            "Employment": "LSU Health Sciences Center\u2014Associate Professor of Medicine and Neurology; EP Service\u2014Director",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "Medtronic*",
+            "Personal Research": "None",
+            "Institutional Benefit": "Medtronic*",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Patrick McBride",
+            "Representation": "Content Reviewer",
+            "Employment": "University of Wisconsin School of Medicine & Public Health\u2014Professor of Medicine and Family Medicine; Dean for Faculty Affairs\u2014Associate; Prevention Cardiology\u2014Associate Director",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Reviewers": [
+          {
+            "Name": "Carlos Morillo",
+            "Role": "Content Reviewer",
+            "Employment": "Cumming School of Medicine\u2014Professor, University of Calgary",
+            "Consultant": [
+              "Bayer HealthCare",
+              "Boehringer Ingelheim",
+              "Boston Scientific"
+            ],
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "Biosense Webster",
+              "Canadian Institutes of Health Research",
+              "Medtronic",
+              "Merck",
+              "Pfizer",
+              "St. Jude Medical"
+            ],
+            "Institutional Benefit": [
+              "Biotronik",
+              "Pfizer"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Rick Nishimura",
+            "Role": "Content Reviewer",
+            "Employment": "Mayo Clinic Division of Cardiovascular Disease\u2014Professor of Medicine",
+            "Consultant": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Richard Page",
+            "Role": "Content Reviewer",
+            "Employment": "University of Wisconsin School of Medicine & Public Health\u2014Chair, Department of Medicine",
+            "Consultant": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "FDA",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Antonio Raviele",
+            "Role": "Content Reviewer",
+            "Employment": "Alliance to Fight Atrial Fibrillation\u2014President; Venice Arrhythmias\u2014President",
+            "Consultant": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Marwan Refaat",
+            "Role": "Content Reviewer\u2014ACC EP Section Leadership Council",
+            "Employment": "American University of Beirut\u2014Faculty of Medicine and Medical Center",
+            "Consultant": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Melissa Robinson",
+            "Role": "Content Reviewer",
+            "Employment": "University of Washington\u2014Assistant Professor of Medicine; Director, Ventricular Arrhythmia Program",
+            "Consultant": "Medtronic",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Paola Sandroni",
+            "Role": "Content Reviewer",
+            "Employment": "Mayo Clinic\u2014Professor of Neurology; Practice Chair of Neurology",
+            "Consultant": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Colette Seifer",
+            "Role": "Content Reviewer",
+            "Employment": "University of Manitoba\u2014Associate Professor, Section of Cardiology",
+            "Consultant": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Monica Solbiati",
+            "Role": "Content Reviewer",
+            "Employment": "Fondazione IRCCS C\u00e0 Granda, Ospedale Maggiore Policlinico, Milano\u2014Senior Physician",
+            "Consultant": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Richard Sutton",
+            "Role": "Content Reviewer",
+            "Employment": "National Heart and Lung Institute, Imperial College London\u2014Emeritus Professor",
+            "Consultant": "Medtronic",
+            "Ownership/Partnership/Principal": [
+              "St. Jude Medical",
+              "Medtronic"
+            ],
+            "Personal Research": "None",
+            "Institutional Benefit": [
+              "Boston Scientific",
+              "Edwards Lifesciences",
+              "Shire Pharmaceuticals",
+              "AstraZeneca"
+            ],
+            "Expert Witness": "Defendant in fatal car accident caused by VVS patient, 3 trials in 2016"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "reviewers": [
+          {
+            "name": "Gaurav Upadhyay",
+            "role": "Content Reviewer\u2014ACC EP Section Leadership Council",
+            "employment": "University of Chicago\u2014Assistant Professor of Medicine",
+            "consultant": [
+              "Biosense Webster",
+              "Biotronik",
+              "Boston Scientific",
+              "Medtronic",
+              "St. Jude Medical",
+              "Zoll Medical"
+            ],
+            "ownership": [
+              "Biosense Webster",
+              "Biotronik*",
+              "Medtronic*"
+            ],
+            "personal research": "None",
+            "expert witness": "None"
+          },
+          {
+            "name": "Paul Varosy",
+            "role": "Content Reviewer",
+            "employment": "University of Colorado Hospital, Clinical Cardiac EP Training Program\u2014Associate Program Director; VA Eastern Colorado Healthcare System\u2014Director of Cardiovascular EP",
+            "consultant": "None",
+            "ownership": "None",
+            "personal research": [
+              "AHA\u2020",
+              "VA Office of Health Services Research and Development (PI)\u2021"
+            ],
+            "expert witness": "None"
+          }
+        ],
+        "notes": "Relationships are disclosed including those not relevant to the document at the time of review. Significant interest in business is defined by >5% ownership or income exceeding 5% from the previous year.",
+        "abbreviations": [
+          "AHA: American Heart Association",
+          "ACC: American College of Cardiology",
+          "FDA: U.S. Food and Drug Administration",
+          "EP: electrophysiology",
+          "HRS: Heart Rhythm Society",
+          "ICD: implantable cardioverter-defibrillator"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "abbreviations": {
+          "ACD": "adult congenital heart disease",
+          "ARVC": "arrhythmogenic right ventricular cardiomyopathy",
+          "AV": "atrioventricular",
+          "CHD": "congenital heart disease",
+          "CPVT": "catecholaminergic polymorphic ventricular tachycardia",
+          "CT": "computed tomography",
+          "ECG": "electrocardiogram/electrocardiographic",
+          "ED": "emergency department",
+          "EEG": "electroencephalogram/electroencephalography",
+          "EPS": "electrophysiological study",
+          "GDMT": "guideline-directed management and therapy",
+          "HCM": "hypertrophic cardiomyopathy",
+          "HF": "heart failure",
+          "ICD": "implantable cardioverter-defibrillator",
+          "ICM": "implantable cardiac monitor",
+          "LCSD": "left cardiac sympathetic denervation",
+          "LQTS": "long-QT syndrome",
+          "LV": "left ventricular",
+          "MRI": "magnetic resonance imaging",
+          "OH": "orthostatic hypotension",
+          "QoL": "quality of life",
+          "RCT": "randomized controlled trial",
+          "POTS": "postural tachycardia syndrome",
+          "SCD": "sudden cardiac death",
+          "SVT": "supraventricular tachycardia",
+          "VA": "ventricular arrhythmia",
+          "VF": "ventricular fibrillation",
+          "VT": "ventricular tachycardia",
+          "VVS": "vasovagal syncope"
+        }
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "HCM",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "HCM indicates hypertrophic cardiomyopathy; it's listed under cardiac or vascular nonarrhythmic conditions that may require further evaluation."
+      ]
+    },
+    {
+      "Gene": "LQTS",
+      "Associated Conditions": [
+        "Type 1 Long QT Syndrome"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Exertion can result in syncope in a variety of conditions...such as LQTS (type 1) and catecholaminergic polymorphic ventricular tachycardia (CPVT)."
+      ]
+    },
+    {
+      "Gene": "LQTS genes",
+      "Associated Conditions": [
+        "Long-QT Syndrome"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "LQTS is diagnosed in the presence of a pathogenic mutation in 1 of the LQTS genes."
+      ]
+    },
+    {
+      "Gene": "RYR2",
+      "Associated Conditions": [
+        "Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)",
+        "Catecholaminergic polymorphic ventricular tachycardia",
+        "Sudden cardiac death"
+      ],
+      "Occurrences": 4,
+      "context": [
+        "Mutation in the gene encoding the cardiac ryanodine receptor (RyR2) (autosomal dominant) or in the cardiac calsequestrin gene (CASQ2) (autosomal recessive) is linked to CPVT.",
+        "Mutations in the cardiac ryanodine receptor gene (RYR2) underlie catecholaminergic polymorphic ventricular tachycardia. Studies have shown that these mutations can lead to arrhythmic risk during physical activity."
+      ]
+    },
+    {
+      "Gene": "CASQ2",
+      "Associated Conditions": [
+        "Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)",
+        "Catecholaminergic polymorphic ventricular tachycardia"
+      ],
+      "Occurrences": 3,
+      "context": [
+        "Mutation in the gene encoding the cardiac ryanodine receptor (RyR2) (autosomal dominant) or in the cardiac calsequestrin gene (CASQ2) (autosomal recessive) is linked to CPVT.",
+        "A missense mutation in a highly conserved region of CASQ2 is associated with autosomal recessive catecholamine-induced polymorphic ventricular tachycardia. This genetic change influences calcium handling in cardiac cells."
+      ]
+    },
+    {
+      "Gene": "DMPK",
+      "Associated Conditions": [
+        "Myotonic dystrophy"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Autosomal dominant inheritance with multiple organ systems affected. Grip myotonia, weakness, temporal wasting, alopecia, cataracts, glucose intolerance, and daytime somnolence."
+      ]
+    },
+    {
+      "Gene": "FXN",
+      "Associated Conditions": [
+        "Friedreich ataxia"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Autosomal recessive inheritance with limb and gait ataxia, bladder dysfunction, and daytime somnolence. Diffuse interstitial fibrosis and HCM."
+      ]
+    },
+    {
+      "Gene": "MT-TL1",
+      "Associated Conditions": [
+        "Kearns-Sayre Syndrome"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Mitochondrial myopathy. Chronic progressive external ophthalmoplegia, pigmentary retinopathy."
+      ]
+    },
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [
+        "Erb dystrophy"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Limb girdle muscular dystrophy, manifesting as scapulohumeral and/or pelvicfemoral weakness and atrophy."
+      ]
+    },
+    {
+      "Gene": "LQT",
+      "Associated Conditions": [
+        "Long QT Syndrome"
+      ],
+      "Occurrences": 3,
+      "context": [
+        "External syncope has been associated with LQT3 and CPVT."
+      ]
+    },
+    {
+      "Gene": "CPVT",
+      "Associated Conditions": [
+        "Catecholaminergic Polymorphic Ventricular Tachycardia"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "External syncope has been associated with LQT3 and CPVT."
+      ]
+    },
+    {
+      "Gene": "ARVC",
+      "Associated Conditions": [
+        "Arrhythmogenic Right Ventricular Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Interventions recommended for adults with similar conditions presenting with syncope can be applied in children."
+      ]
+    },
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "Brugada syndrome",
+        "Long QT syndrome"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Mutations in SCN5A gene can lead to Brugada syndrome and Long QT syndrome, which are associated with syncope and sudden cardiac death."
+      ]
+    },
+    {
+      "Gene": "SMYD1",
+      "Associated Conditions": [
+        "Syncope",
+        "extracardiac contributor to syncope"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "599. Monforte I, Maher R, Grieve SM, et al. Smyd1: a rare extracardiac contributor to syncope detected incidentally by CMR. Int J Cardiol. 2011;150: e62-4."
+      ]
+    }
+  ]
+}

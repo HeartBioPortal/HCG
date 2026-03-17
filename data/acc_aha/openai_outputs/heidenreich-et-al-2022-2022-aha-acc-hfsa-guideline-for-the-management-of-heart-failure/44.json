@@ -1,0 +1,27 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "COR": "1",
+        "LOE": "A",
+        "Recommendation": "In patients with HFrEF and NYHA class II to IV symptoms, an MRA (spironolactone or eplerenone) is recommended to reduce morbidity and mortality, if eGFR is >30 mL/min/1.73 m2 and serum potassium is <5.0 mEq/L. Careful monitoring of potassium, renal function, and diuretic dosing should be performed at initiation and closely monitored thereafter to minimize risk of hyperkalemia and renal insufficiency."
+      },
+      {
+        "COR": "1",
+        "LOE": "A",
+        "Recommendation": "In patients with HFrEF and NYHA class II to IV symptoms, MRA therapy provides high economic value."
+      },
+      {
+        "COR": "3: Harm",
+        "LOE": "B-NR",
+        "Recommendation": "In patients taking MRA whose serum potassium cannot be maintained at <5.5 mEq/L, MRA should be discontinued to avoid life-threatening hyperkalemia."
+      }
+    ],
+    "synopsis": "MRA (also known as aldosterone antagonists or antimineralocorticoids) show consistent improvements in all-cause mortality, HF hospitalizations, and SCD across a wide range of patients with HFrEF. Patients at risk for renal dysfunction or hyperkalemia require close monitoring. The efficacy of MRAs for HFrEF is generally high. Eplerenone has fewer adverse effects compared to spironolactone due its higher selectivity for the aldosterone receptor.",
+    "recommendation_support": [
+      "Based on clinical trials such as RALES, EPHESUS, and EMPHASIS-HF, MRAs show improvements in survival and reduction in symptoms in patients with HFrEF.",
+      "Economic analyses demonstrate that MRAs are cost-effective, with a cost per QALY under $1000."
+    ]
+  },
+  "genes": []
+}

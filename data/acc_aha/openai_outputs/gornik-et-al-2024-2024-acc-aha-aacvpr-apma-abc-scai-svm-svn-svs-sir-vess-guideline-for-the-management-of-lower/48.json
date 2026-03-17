@@ -1,0 +1,22 @@
+{
+  "content": {
+    "Revascularization for Claudication: Initial Decision-Making": {
+      "1": "In patients with functionally limiting claudication who are being considered for revascularization, potential benefits with respect to QOL, walking performance, and overall functional status should be weighed against the risks and durability of intervention and possible need for repeated procedures.",
+      "2a": "In patients with functionally limiting claudication and an inadequate response to GDMT (including structured exercise), revascularization is a reasonable treatment option to improve walking function and QOL.",
+      "3": "In patients with claudication who have had an adequate clinical response to GDMT (including structured exercise), revascularization is not recommended."
+    },
+    "Revascularization for Claudication: Aortoiliac Disease and Femoropopliteal Disease (Excluding Common Femoral Artery Disease)": {
+      "1": "In patients with functionally limiting claudication and hemodynamically significant aortoiliac or femoropopliteal disease with inadequate response to GDMT (including structured exercise), endovascular revascularization is effective to improve walking performance and QOL.",
+      "2a": "In patients with functionally limiting claudication and hemodynamically significant aortoiliac or femoropopliteal disease with inadequate response to GDMT (including structured exercise), surgical revascularization is reasonable if perioperative risk is acceptable and technical factors suggest advantages over endovascular approaches."
+    },
+    "Revascularization for Claudication: Common Femoral Artery Disease": {
+      "2a": "In patients with functionally limiting claudication and hemodynamically significant common femoral artery disease with inadequate response to GDMT (including structured exercise), surgical endarterectomy is reasonable, especially if endovascular approaches adversely affect profunda femoris artery pathways.",
+      "2b": "In patients with functionally limiting claudication and hemodynamically significant common femoral artery disease with inadequate response to GDMT (including structured exercise), endovascular approaches may be considered in those at high risk for surgical revascularization and/or if anatomical factors are favorable."
+    },
+    "Revascularization for Claudication: Infrapopliteal Disease": {
+      "2b": "In patients with functionally limiting claudication and isolated hemodynamically significant infrapopliteal disease with inadequate response to GDMT (including structured exercise), the effectiveness of endovascular revascularization is unknown.",
+      "2b_2": "In patients with functionally limiting claudication and isolated hemodynamically significant infrapopliteal disease with inadequate response to GDMT (including structured exercise), the effectiveness of surgical revascularization is unknown."
+    }
+  },
+  "genes": []
+}

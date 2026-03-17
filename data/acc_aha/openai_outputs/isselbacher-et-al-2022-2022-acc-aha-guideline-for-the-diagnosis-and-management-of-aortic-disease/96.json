@@ -1,0 +1,19 @@
+{
+  "content": {
+    "Synopsis": "A Penetrating Aortic Ulcer (PAU) is an atherosclerotic lesion of the aorta with ulceration that can penetrate the elastic lamina of the aortic wall, potentially progressing to Intramural Hematoma (IMH), aortic dissection, or rupture. PAUs with IMH are associated with a high risk of disease progression, particularly when localized to the ascending aorta. Data on outcomes for PAU combined with descending thoracic and abdominal aorta are limited but show significant early disease progression among patients treated with medical management.",
+    "Recommendations": [
+      {
+        "Class of Recommendation": 1,
+        "Level of Evidence": "B-NR",
+        "Text": "In patients with isolated PAU who are symptomatic and have persistent pain that is clinically correlated with the radiologic findings, repair is recommended."
+      },
+      {
+        "Class of Recommendation": 2,
+        "Level of Evidence": "C-LD",
+        "Text": "In patients with isolated PAU who are asymptomatic but have high-risk imaging features, elective repair may be considered."
+      }
+    ],
+    "Summary": "For patients with severe atherosclerotic disease, weighing the risk of repair against patient life expectancy and risk of progression is crucial. PAUs are increasingly diagnosed incidentally and have been shown to have radiographic progression in a portion of patients."
+  },
+  "genes": []
+}

@@ -1,0 +1,33 @@
+{
+  "content": {
+    "Synopsis": "SND is diagnosed based on history and rhythm documentation. EPS may be used in rare cases to ascertain the diagnosis. There are two electrophysiology measures: SNRT and SACT, which help assess sinus node function. SNRT and SACT have limited sensitivity and specificity and are not commonly used in clinical practice.",
+    "Recommendations": [
+      {
+        "Level": "I",
+        "Class": "C-LD",
+        "Description": "Permanent pacing is indicated for patients with symptoms directly attributable to SND to increase heart rate and improve symptoms."
+      },
+      {
+        "Level": "I",
+        "Class": "C-EO",
+        "Description": "Permanent pacing is recommended for patients who develop symptomatic sinus bradycardia with no alternative treatment."
+      },
+      {
+        "Level": "IIa",
+        "Class": "C-EO",
+        "Description": "Permanent pacing is reasonable for patients with tachy-brady syndrome and symptoms attributable to bradycardia."
+      },
+      {
+        "Level": "IIa",
+        "Class": "C-EO",
+        "Description": "Permanent pacing with rate-responsive programming is reasonable for symptomatic chronotropic incompetence."
+      },
+      {
+        "Level": "IIb",
+        "Class": "C-LD",
+        "Description": "A trial of oral theophylline may be considered for patients with symptoms likely attributable to SND to improve investigational outcomes and determine the necessity of permanent pacing."
+      }
+    ]
+  },
+  "genes": []
+}

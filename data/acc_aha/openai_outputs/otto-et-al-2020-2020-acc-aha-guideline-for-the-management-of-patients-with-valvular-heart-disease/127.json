@@ -1,0 +1,35 @@
+{
+  "content": {
+    "parameters": {
+      "Authors": "Otto et al.",
+      "Journal": "Journal of the American College of Cardiology",
+      "Volume": 77,
+      "Number": 4,
+      "Publication Date": "February 2, 2021"
+    },
+    "title": "2020 ACC/AHA Guideline for the Management of Valvular Heart Disease",
+    "sections": [
+      {
+        "title": "Systolic Function and Recommendations",
+        "details": "Recommendations continue to rely on simple linear dimensions for systolic function in published series."
+      },
+      {
+        "title": "Need for New Measurements",
+        "details": "There is an urgent need to evaluate new measurements of LV size, function, and myocardial structure to predict outcomes after valve intervention."
+      },
+      {
+        "title": "Valvular Heart Disease (VHD) Prevalence",
+        "details": "Moderate to severe VHD is present in 2.5% of the US population. Research is needed to ensure optimal therapy and prevent VHD."
+      },
+      {
+        "title": "Intervention for Severe Asymptomatic VHD",
+        "details": "RCTs of intervention for severe asymptomatic VHD are important and have started for some conditions. Timing of intervention is critical."
+      },
+      {
+        "title": "Improving Outcomes in VHD",
+        "details": "Approaches include national/international registries, continuous evaluation of outcomes, and patient-centric care."
+      }
+    ]
+  },
+  "genes": []
+}

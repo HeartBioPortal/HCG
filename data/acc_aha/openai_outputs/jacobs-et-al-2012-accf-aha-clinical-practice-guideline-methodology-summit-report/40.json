@@ -1,0 +1,51 @@
+{
+  "content": {
+    "Title": "Jacobs et al. ACCF/AHA Guideline Methodology Summit Report",
+    "Sections": {
+      "6": {
+        "Title": "Articulation of recommendations",
+        "Summary": [
+          "6.1: Recommendations should be articulated in a standardized format, detailing recommended actions and circumstances.",
+          "6.2: Strong recommendations should be clearly worded for compliance evaluation.",
+          "Current Compliance: ACCF/AHA CPG methodology follows the set standards."
+        ]
+      },
+      "7": {
+        "Title": "External review",
+        "Summary": [
+          "7.1: Reviews should include a full spectrum of stakeholders, organizations, and representatives.",
+          "7.2: Authorship confidentiality must be maintained unless waived.",
+          "7.3: All external review comments should be considered.",
+          "7.4: Drafts for the external review process should be available to the general public.",
+          "Current Compliance: Extensive peer review is included, though access is not extended to the general public. Public posting is under consideration."
+        ]
+      },
+      "8": {
+        "Title": "Updating",
+        "Summary": [
+          "8.1: Publication date, systematic evidence review, and proposed update dates should be documented.",
+          "8.2: Literature should be monitored regularly for new evidence.",
+          "8.3: CPG should be updated with the emergence of new evidence or interventions.",
+          "Current Compliance: Dates and evidence review included, reviews twice yearly at major meetings. Updates based on specific criteria, maintaining safety and efficacy."
+        ]
+      }
+    },
+    "Abbreviations": {
+      "ACCF": "American College of Cardiology Foundation",
+      "AHA": "American Heart Association",
+      "COI": "conflict of interest",
+      "COR": "class of recommendation",
+      "CPG": "clinical practice guideline",
+      "CUE": "Consumers United for Evidence Based Medicine",
+      "GDC": "guideline development group",
+      "GWC": "guideline writing committee",
+      "IOM": "Institute of Medicine",
+      "LBCT": "late-breaking clinical trial",
+      "LOE": "level of evidence",
+      "RCT": "randomized controlled trial",
+      "RWI": "relationships with industry and other entities",
+      "SR": "systematic review"
+    }
+  },
+  "genes": []
+}

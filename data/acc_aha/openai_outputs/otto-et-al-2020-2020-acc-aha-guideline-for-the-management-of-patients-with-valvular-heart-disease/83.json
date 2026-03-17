@@ -1,0 +1,37 @@
+{
+  "content": {
+    "Guideline Focus": "Antithrombotic therapy for prosthetic valves",
+    "Valve Types": [
+      "Mechanical Valve",
+      "Bioprosthetic Valve"
+    ],
+    "Therapies": {
+      "Mechanical Valve": {
+        "VKA anticoagulation": "Indicated with specific INR goals",
+        "INR Goals": {
+          "Mechanical AVR with no other risk factors": "2.5",
+          "Mechanical AVR with other risk factors": "3.0",
+          "Mechanical mitral valve": "3.0"
+        },
+        "Antiplatelet Therapy": "ASA 75\u2013100 mg, if indicated"
+      },
+      "Bioprosthetic Valve": {
+        "Surgical": "Initial 3\u20136 months of ASA or VKA",
+        "TAVI": "Initial 3\u20136 months",
+        "Long-term Therapy for TAVI": "ASA 75\u2013100 mg daily or ASA with clopidogrel if low risk of bleeding"
+      }
+    },
+    "Risk Factors": [
+      "Older-generation valve",
+      "Atrial Fibrillation (AF)",
+      "Previous thromboembolism",
+      "Hypercoagulable state",
+      "LV systolic dysfunction"
+    ],
+    "Key Points": [
+      "Single-agent therapy may result in fewer 30-day deaths and less bleeding.",
+      "Risk of thromboembolism is ~0.7% per year for patients with biological valves."
+    ]
+  },
+  "genes": []
+}

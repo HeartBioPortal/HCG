@@ -1,0 +1,64 @@
+{
+  "content": {
+    "page_title": "2018 ACHD Guideline - Coarctation of the Aorta (CoA) and Valvular Pulmonary Stenosis (page e131)",
+    "source_citation": "JACC Vol. 73, No. 12, April 2, 2019; Stout et al., 2018 ACHD Guideline (page e131)",
+    "coarctation_key_points": [
+      "3. Upper body systemic hypertension is prevalent in patients with unoperated coarctation and may be present in up to one third of patients after operative or transcatheter intervention. Ambulatory blood pressure monitoring can be useful to identify and manage ambulatory hypertension.",
+      "4. Multiple studies show increased frequency of intracranial aneurysm in adults with CoA. Approximately 10% of patients with CoA have intracranial aneurysms identified on MR angiography or CTA; increasing age is a risk factor. Screening/management uncertainties exist; intracranial aneurysms are less commonly found in children and teenagers with CoA.",
+      "5. Despite successful surgical or transcatheter repair, hypertension can persist and may not be identified at rest. Up to 80% of patients with prior CoA intervention manifest an abnormally elevated upper extremity exercise blood pressure response; peak blood pressure correlates with increased LV mass. Restenosis of repaired or stented regions may be identified by increased peak blood pressure response or exercise gradients.",
+      "6. Significant native or recurrent aortic coarctation is defined by several hemodynamic criteria (see definitions below). Anatomic evidence of CoA should be obtained by advanced imaging (CMR, CTA) before intervention. Best evidence to proceed with intervention includes systemic hypertension, an elevated upper/lower extremity blood pressure gradient, and echocardiography Doppler gradient plus anatomic confirmation.",
+      "7. Long-term complications of CoA are generally related to chronic upper body systemic hypertension; systemic hypertension should be identified by resting, ambulatory, or exercise blood pressure assessment and treated medically following guideline-directed medical therapy (GDMT).",
+      "8. Balloon angioplasty alone is associated with a higher rate of intimal tears and aneurysm formation compared with stent placement."
+    ],
+    "coarctation_definitions_and_thresholds": {
+      "significant_coarctation_hemodynamic_thresholds": [
+        "Upper extremity / lower extremity resting peak-to-peak gradient > 20 mm Hg",
+        "Mean Doppler systolic gradient > 20 mm Hg",
+        "Upper extremity / lower extremity gradient > 10 mm Hg or mean Doppler gradient > 10 mm Hg plus either decreased left ventricular (LV) systolic function or aortic regurgitation (AR)",
+        "Upper extremity / lower extremity gradient > 10 mm Hg or mean Doppler gradient > 10 mm Hg with collateral flow"
+      ],
+      "exercise_findings_suggesting_restenosis_or_significant_CoA": [
+        "Increased upper to lower extremity blood pressure gradient with exercise",
+        "Increased Doppler velocity across the coarctation site during exercise transthoracic echocardiography (TTE)",
+        "Increased peak blood pressure response correlated with increased LV mass"
+      ]
+    },
+    "imaging_and_evaluation": {
+      "recommended_imaging": [
+        "Echocardiography Doppler (resting and exercise when indicated)",
+        "Advanced anatomic imaging: Cardiovascular MR (CMR) or CT angiography (CTA)"
+      ],
+      "notes": "Anatomic features (e.g., proximity to head/neck vessels, presence of concomitant aneurysm) influence whether surgery or stenting is optimal and whether a covered stent is needed."
+    },
+    "intracranial_aneurysm_statements": {
+      "prevalence": "Approximately 10% of patients with CoA have intracranial aneurysms identified on MR angiography or CTA.",
+      "considerations": "Increasing age identified as a risk factor; routine screening and management carry uncertainties; intracranial aneurysms less common in children/teenagers with CoA."
+    },
+    "valvular_pulmonary_stenosis_section": {
+      "heading": "4.3 Right-Sided Lesions \u2014 4.3.1 Valvular Pulmonary Stenosis",
+      "recommendations_summary": [
+        {
+          "cor": "I",
+          "loe": "B-NR",
+          "recommendation": "In adults with moderate or severe valvular pulmonary stenosis and otherwise unexplained symptoms of heart failure (HF), cyanosis from interatrial right-to-left communication, and/or exercise intolerance, balloon valvuloplasty is recommended (S4.3.1-1\u2013S4.3.1-4)."
+        },
+        {
+          "cor": "I",
+          "loe": "B-NR",
+          "recommendation": "In adults with moderate or severe valvular pulmonary stenosis and otherwise unexplained symptoms of HF, cyanosis, and/or exercise intolerance who are ineligible for or who failed balloon valvuloplasty, surgical repair is recommended (S4.3.1-1, S4.3.1-5\u2013S4.3.1-8)."
+        },
+        {
+          "cor": "IIa",
+          "loe": "C-EO",
+          "recommendation": "In asymptomatic adults with severe valvular pulmonary stenosis, intervention is reasonable."
+        }
+      ],
+      "supplement_note": "Referenced studies that support recommendations are summarized in the Online Data Supplement 39."
+    },
+    "other_clinical_points": [
+      "Systemic hypertension may not be consistently identifiable at rest; ambulatory blood pressure monitoring can aid in identification and management.",
+      "Multiple factors determine optimal management (surgery vs stenting): anatomy, presence of collateral flow, proximity to branch vessels, and concomitant aneurysm."
+    ]
+  },
+  "genes": []
+}

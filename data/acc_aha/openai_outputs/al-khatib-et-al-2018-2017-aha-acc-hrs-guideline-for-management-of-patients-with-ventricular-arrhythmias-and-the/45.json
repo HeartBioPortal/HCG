@@ -1,0 +1,34 @@
+{
+  "content": {
+    "figure": "Secondary and Primary Prevention of SCD in Patients With NICM",
+    "flowchart_description": "The flowchart outlines decision pathways for patients with NICM in relation to ICD candidacy based on factors such as SCA survivor, sustained VT, symptoms for VA, HF class, LVEF, and the presence of a LMNA mutation. Different pathway outcomes include ICD Class I, Class IIa, Class IIb, EP Study, or Amiodarone.",
+    "section": "7.3 Arrhythmogenic Right Ventricular Cardiomyopathy",
+    "recommendations": [
+      {
+        "COR": "I",
+        "LOE": "B-NR",
+        "details": "First-degree relatives of arrhythmogenic right ventricular cardiomyopathy patients should undergo clinical screening and genetic testing if the proband has a disease-causing mutation."
+      },
+      {
+        "COR": "I",
+        "LOE": "B-NR",
+        "details": "Patients with suspected arrhythmogenic right ventricular cardiomyopathy and VA or ECG abnormalities should have a cardiac MRI for diagnosis and risk stratification."
+      },
+      {
+        "COR": "I",
+        "LOE": "B-NR",
+        "details": "ICD is recommended for patients with arrhythmogenic right ventricular cardiomyopathy and increased SCD risk if survival greater than 1 year is expected."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [
+        "NICM"
+      ],
+      "Occurrences": 1,
+      "context": "NICM due to LMNA mutation and 2\u00b0 risk factors"
+    }
+  ]
+}

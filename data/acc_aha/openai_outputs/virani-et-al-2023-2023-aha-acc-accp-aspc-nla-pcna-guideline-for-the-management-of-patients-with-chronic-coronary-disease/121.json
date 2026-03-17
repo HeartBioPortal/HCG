@@ -1,0 +1,68 @@
+{
+  "content": {
+    "appendix_continued": "The image displays disclosures of committee members including their employment, consultancy roles, speaker engagements, personal research involvement, and other financial benefits relevant to clinical guideline formation.",
+    "committee_members": [
+      {
+        "name": "Randal J. Thomas",
+        "employment": "Mayo Clinic\ufffdProfessor, Department of Cardiovascular Medicine, Division of Preventive Cardiology",
+        "consultant": "None",
+        "speakers_bureau": "None",
+        "ownership": "None",
+        "personal_research": "NOT RELEVANT",
+        "institutional_benefit": [
+          "ACC/AHA",
+          "AHA",
+          "JRCPH"
+        ],
+        "expert_witness": "None"
+      },
+      {
+        "name": "Sean van Diepen",
+        "employment": "University of Alberta, Edmonton, Alberta, Canada\ufffdAssociate Professor, Department of Critical Care Medicine and Division of Cardiology, Department of Medicine",
+        "consultant": "None",
+        "speakers_bureau": "None",
+        "ownership": "None",
+        "personal_research": "None",
+        "institutional_benefit": [
+          "AHJ",
+          "Canadian Journal of Cardiology",
+          "European Heart Journal of Cardiovascular Care",
+          "JACC: Advances, Sr. Consulting Editor"
+        ],
+        "expert_witness": "None"
+      },
+      {
+        "name": "Barbara Wiggins",
+        "employment": "South Carolina College of Pharmacy\ufffdAffiliate Professor Medical University of South Carolina\ufffdClinical Pharmacy Specialist\ufffdCardiology",
+        "consultant": "NOT RELEVANT",
+        "speakers_bureau": "LexiComp",
+        "ownership": "None",
+        "personal_research": "None",
+        "institutional_benefit": [
+          "ACC",
+          "American Journal of Cardiovascular Drugs, Editorial Board",
+          "PERT Consortium Clinical Protocols Committee\u2020",
+          "scPharmaceuticals, (Salaried Employee)"
+        ],
+        "expert_witness": "None"
+      },
+      {
+        "name": "Marlene S. Williams",
+        "employment": "Johns Hopkins Medical Institution Bayview Medical Center\ufffdAssociate Professor of Medicine, Clinical Director of Cardiology Division of Cardiology, Department of Medicine",
+        "consultant": "NOT RELEVANT",
+        "speakers_bureau": "Haemonetics",
+        "ownership": "None",
+        "personal_research": "None",
+        "institutional_benefit": [
+          "ABC",
+          "ACC\u2020",
+          "AHA",
+          "American Journal of Cardiovascular Drugs\u2020",
+          "PERT Consortium\u2020"
+        ],
+        "expert_witness": "None"
+      }
+    ]
+  },
+  "genes": []
+}

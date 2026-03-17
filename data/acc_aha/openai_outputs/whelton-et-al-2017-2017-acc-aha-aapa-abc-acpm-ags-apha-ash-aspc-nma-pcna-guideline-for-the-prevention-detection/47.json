@@ -1,0 +1,16 @@
+{
+  "content": {
+    "clinical_guideline": "The guideline discusses treatments for hypertension in patients with Stable Ischemic Heart Disease (SIHD) and heart failure. Guideline-directed medical therapy (GDMT) beta blockers such as carvedilol, metoprolol tartrate, metoprolol succinate, nadolol, bisoprolol, propranolol, and timolol are recommended. Calcium channel blockers (CCBs), like dihydropyridine, are also effective against hypertension and angina.",
+    "recommendations": [
+      {
+        "recommendation": "In adults at increased risk of heart failure (HF), the optimal blood pressure in those with hypertension should be less than 130/80 mm Hg."
+      }
+    ],
+    "studies": {
+      "cardiovascular_health_study": "The incidence of heart failure is significantly higher in individuals with antecedent hypertension.",
+      "health_aging_body_composition_study": "Indicates increased incidence of heart failure at higher systolic blood pressures.",
+      "SPRINT": "More intensive treatment targeting SBP <120 mm Hg reduced cardiovascular disease composite outcomes and heart failure."
+    }
+  },
+  "genes": []
+}

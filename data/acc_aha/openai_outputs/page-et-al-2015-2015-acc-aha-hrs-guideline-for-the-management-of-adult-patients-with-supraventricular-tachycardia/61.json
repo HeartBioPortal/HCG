@@ -1,0 +1,21 @@
+{
+  "content": {
+    "Acute Treatment": {
+      "Recommendation": "Oral dofetilide or sotalol may be reasonable for acute treatment in ACHD patients with AT and/or atrial flutter who are hemodynamically stable.",
+      "Evidence": "Supported by small observational studies.",
+      "Risks": "Proarrhythmic events and torsades de pointes, particularly in single-ventricle physiology."
+    },
+    "Ongoing Management": {
+      "Antithrombotic Therapy": {
+        "Recommendation": "Ongoing management with antithrombotic therapy is recommended for stroke prevention in ACHD patients with AT or atrial flutter.",
+        "Risk": "Effective at reducing stroke risk; proven in several RCTs.",
+        "Comparison": "Similar to those for patients with AF."
+      },
+      "Hemodynamic Abnormalities": {
+        "Recommendation": "Assessment for potential repair of structural defects is recommended in ACHD patients as part of therapy for SVT.",
+        "Details": "Surgical or catheter ablation may prevent progression of arrhythmias."
+      }
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,49 @@
+{
+  "content": {
+    "section": "6.5 Surgical and Endovascular Management of Aortic Aneurysms",
+    "description": "Most patients with thoracic aortic aneurysm (TAA) and abdominal aortic aneurysm (AAA) are asymptomatic. Surgical or endovascular intervention aims to reduce the risk of adverse aortic events like dissection, rupture, and death. The goal of open surgery is to replace the aneurysmal segment with a prosthetic graft. Endovascular repair utilizes stent grafts.",
+    "specific_notes": [
+      "FDA-approved stent grafts are used for descending thoracic, juxtarenal, and infrarenal aortic segments.",
+      "Use of these grafts outside specified criteria may increase risk.",
+      "Careful selection for long-term surveillance is necessary."
+    ],
+    "surgical_recommendations": [
+      {
+        "COR": "1",
+        "LOE": "C-LD",
+        "description": "Surgery for symptomatic aneurysms of the aortic root and ascending aorta."
+      },
+      {
+        "COR": "1",
+        "LOE": "B-NR",
+        "description": "Surgery for asymptomatic patients with an aortic root or ascending aorta aneurysm diameter \u22655.5 cm."
+      },
+      {
+        "COR": "1",
+        "LOE": "C-LD",
+        "description": "Surgery for aortic root or ascending aorta aneurysm <5.5 cm with rapid growth rate."
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "description": "Surgery for asymptomatic aneurysm diameter \u22655.0 cm when performed by specialized teams."
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "description": "Replacement in patients undergoing valve surgery with associated ascending aorta aneurysm diameter \u22654.5 cm."
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-LD",
+        "description": "For aneurysms with specific morphology or growth rate under specialized care."
+      },
+      {
+        "COR": "2b",
+        "LOE": "C-LD",
+        "description": "Asymptomatic patients with certain body size metrics qualifying for surgery."
+      }
+    ]
+  },
+  "genes": []
+}

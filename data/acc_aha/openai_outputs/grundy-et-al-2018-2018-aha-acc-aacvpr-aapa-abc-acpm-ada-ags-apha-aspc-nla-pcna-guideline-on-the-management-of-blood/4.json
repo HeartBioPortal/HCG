@@ -1,0 +1,23 @@
+{
+  "content": {
+    "guideline_summary": "The guideline discusses recommendations for adults aged 40 to 75 years related to LDL-C levels for those with or without diabetes, specifying risk-enhancing factors for statin therapy and advising measurement of CAC if statin therapy decision is uncertain. It emphasizes the assessment and response to LDL-C-lowering treatments.",
+    "age_focus": "Adults 40 to 75 years without diabetes and with 10-year risk of 7.5% to 19.9%. Adults with diabetes and LDL-C levels 70-189 mg/dL.",
+    "risk_enhancing_factors": [
+      "Family history of premature ASCVD",
+      "Elevated LDL-C levels",
+      "Metabolic syndrome",
+      "Chronic kidney disease",
+      "History of preeclampsia or premature menopause",
+      "Chronic inflammatory disorders",
+      "High-risk ethnic groups",
+      "Persistently elevated triglycerides",
+      "Elevated biomarkers (ApoB, hs-CRP, ABI, Lp(a))"
+    ],
+    "recommendations": [
+      "Consider measuring CAC if statin therapy decision is uncertain.",
+      "Assess adherence and response to LDL-C-lowering medications with repeated lipid measurement."
+    ],
+    "goals": "Improve quality of care for patients at risk of cardiovascular disease (CVD) through clinical practice guidelines."
+  },
+  "genes": []
+}

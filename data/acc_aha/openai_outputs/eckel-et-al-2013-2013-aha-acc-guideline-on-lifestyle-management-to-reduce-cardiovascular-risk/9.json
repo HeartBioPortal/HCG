@@ -1,0 +1,58 @@
+{
+  "content": {
+    "guidelines": [
+      {
+        "title": "Dietary Patterns and Macronutrients: BP and Lipids",
+        "CQ": "Among adults, what is the effect of dietary patterns and/or macronutrient composition on CVD risk factors, when compared to no treatment or with other types of interventions?",
+        "findings": [
+          "Diets higher in fruits, vegetables, whole grains, and fatty fish, and lower in red meat tend to reduce total fat and cholesterol.",
+          "Medium adherence to the Mediterranean diet (MED pattern) tends to moderate fat intake and improve blood pressure.",
+          "The DASH dietary pattern is rich in vegetables, fruits, and low-fat dairy; low in saturated fat, total fat, and cholesterol."
+        ],
+        "diet patterns evaluated": [
+          {
+            "name": "MED Pattern",
+            "ES": [
+              {
+                "code": "ES1",
+                "effect": "Reduced BP by 6-7/2-3 mm Hg",
+                "context": "Counseling to eat a MED pattern reduced BP in free-living middle-aged or older adults."
+              },
+              {
+                "code": "ES2",
+                "effect": "No consistent effect on plasma LDLC, HDL-C, and triglycerides",
+                "context": "Counseling to eat a MED pattern in adults had no consistent impact on blood lipids."
+              }
+            ]
+          },
+          {
+            "name": "DASH Pattern",
+            "ES": [
+              {
+                "code": "ES3",
+                "effect": "Lowered BP by 5-6/3 mm Hg",
+                "context": "When followed along with typical American diet controls."
+              },
+              {
+                "code": "ES4",
+                "effect": "Lowered LDL-C by 11 mg/dL and HDL-C by 4 mg/dL",
+                "context": "When total cholesterol level <260 mg/dL and LDL-C level <160 mg/dL."
+              }
+            ],
+            "subpopulations": [
+              {
+                "code": "ES5",
+                "effect": "Lowered BP in specific populations",
+                "context": "Despite differences in age and ethnicity, DASH reduced BP in diverse subgroups."
+              }
+            ]
+          }
+        ],
+        "diet recommendations": [
+          "Focus on reducing LDL-C through dietary interventions based on findings from CQ1 and CQ2 regarding dietary patterns and fatty acids."
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

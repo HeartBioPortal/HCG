@@ -1,0 +1,23 @@
+{
+  "content": {
+    "clinical_information": [
+      "Optimal route of administration for glycoprotein IIb/IIIa receptor antagonists during percutaneous coronary intervention.",
+      "Intracoronary versus intravenous administration of abciximab in coronary stenting shows varied comparisons.",
+      "Reduction of major adverse cardiac events with intravascular ultrasound guidance in patients undergoing angioplasty.",
+      "Effects of abciximab and oral anticoagulants on patients with ST-segment elevation myocardial infarction.",
+      "Evaluation of CYP2C19 loss-of-function polymorphisms and their impact on clopidogrel and prasugrel efficacy."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "CYP2C19",
+      "Associated Conditions": [
+        "Clopidogrel resistance",
+        "Recurrent stroke",
+        "Transient ischemic attack"
+      ],
+      "Occurrences": 3,
+      "context": "Relation of CYP2C19 loss-of-function polymorphism to occurrence of drug-eluting coronary stent thrombosis. Effects of CYP2C19 genotype on outcomes of clopidogrel treatment. Association with major adverse cardiac events after clopidogrel use."
+    }
+  ]
+}

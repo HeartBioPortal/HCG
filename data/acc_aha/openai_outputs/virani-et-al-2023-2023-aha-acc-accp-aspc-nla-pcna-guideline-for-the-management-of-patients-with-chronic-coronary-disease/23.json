@@ -1,0 +1,88 @@
+{
+  "content": {
+    "Title": "Social Determinants of Health and Cardiovascular Care for Patients With CCD",
+    "Focus": "Actionable Steps for Clinicians and Care Teams",
+    "Categories": [
+      {
+        "Title": "Health Care System",
+        "Points": [
+          "Lack of health insurance and/or underinsured",
+          "Limited provider access",
+          "Poor quality of care",
+          "Refer for insurance subsidies for coverage of services and medications to support adherence as necessary",
+          "Expand health care services options (eg, telehealth, extended hours, patient portals) to foster longitudinal follow-up and cardiac rehabilitation participation",
+          "Apply value-based lens to care"
+        ]
+      },
+      {
+        "Title": "Education/Health Literacy",
+        "Points": [
+          "Low literacy",
+          "Lack of higher education",
+          "Assess health literacy to ensure patient understanding of treatment recommendations",
+          "Provide patient education materials at appropriate education level"
+        ]
+      },
+      {
+        "Title": "Economic Stability",
+        "Points": [
+          "Low/limited income, debt constraints",
+          "Quality food insecurity",
+          "Refer to social services for local employment/financial services options",
+          "Provide community-based resources and subsidies for affordable food options to support healthy diet"
+        ]
+      },
+      {
+        "Title": "Physical Environment",
+        "Points": [
+          "Housing instability",
+          "Limited access to green space",
+          "Environmental exposures",
+          "Neighborhood crime/violence",
+          "Rurality/dense urban areas",
+          "Limited transportation",
+          "Refer to social services for viable housing options",
+          "Provide community-based resources for affordable and safe recreational facilities and municipal parks to promote physical activity",
+          "Provide telehealth and digital health options (mobile devices) to support healthy lifestyle"
+        ]
+      },
+      {
+        "Title": "Gender Considerations and/or Sexual Orientation",
+        "Points": [
+          "Sex and gender bias",
+          "Discrimination and victimization",
+          "Tailor care to meet patient personal preferences",
+          "Consider sex differences in treatment responses"
+        ]
+      },
+      {
+        "Title": "Culture and Language",
+        "Points": [
+          "Cultural and linguistic factors",
+          "Ensure access to interpreter services",
+          "Review sociocultural considerations affecting health (eg, faith/spirituality, body image, age)",
+          "Ensure health care workforce diversity"
+        ]
+      },
+      {
+        "Title": "Systemic Racism",
+        "Points": [
+          "Implicit and explicit bias",
+          "Discrimination",
+          "Constrained access to health, financial, and physical environmental resources",
+          "Apply equity-focused lens to care to foster enhanced patient-provider communication"
+        ]
+      },
+      {
+        "Title": "Social Support",
+        "Points": [
+          "Social isolation, limited social integration",
+          "Screen for mental health/well-being, stressors",
+          "Refer as needed to mental health professionals",
+          "Assess social capital/network to support health behaviors and health care participation"
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

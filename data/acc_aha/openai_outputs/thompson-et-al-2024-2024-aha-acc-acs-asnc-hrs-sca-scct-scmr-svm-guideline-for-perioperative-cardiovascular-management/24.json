@@ -1,0 +1,36 @@
+{
+  "content": {
+    "Overview": "The image outlines a stepwise approach to perioperative cardiac assessment for patients with cardiovascular risk factors or diseases scheduled for noncardiac surgery. Key considerations include emergency surgery, acute cardiac conditions, estimation of perioperative risk, and various risk factors and modifiers.",
+    "Key Steps": [
+      "Initial assessment for emergency surgery or acute cardiac conditions.",
+      "Use of a risk calculator for adverse cardiovascular events.",
+      "Estimation of risk based on factors like heart valve disease, pulmonary hypertension, coronary artery disease, decompensated heart failure, ICD presence, and frailty.",
+      "Preoperative biomarker risk assessment including BNP, NT-proBNP, and troponin levels.",
+      "Decision-making regarding surgery proceeding or delaying based on calculated risk and functional capacity."
+    ],
+    "Risk Modifiers": [
+      "Severe valvular heart disease",
+      "Severe pulmonary hypertension",
+      "Poorly controlled hypertension",
+      "Recent stroke",
+      "ICD presence",
+      "Frailty"
+    ],
+    "Biomarkers": [
+      "BNP",
+      "NT-proBNP",
+      "Troponin"
+    ],
+    "Considerations for Testing": [
+      "12-lead ECG for known cardiovascular disease or symptoms.",
+      "Echocardiography for ventricular dysfunction or valve disease.",
+      "Noninvasive stress testing via CCTA for coronary artery disease."
+    ],
+    "Management Recommendations": [
+      "GDMT initiation for long-term cardiovascular risk and disease management.",
+      "Multidisciplinary team discussions for elevated risk findings.",
+      "Postoperative troponin surveillance if necessary."
+    ]
+  },
+  "genes": []
+}

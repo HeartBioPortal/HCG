@@ -1,0 +1,19 @@
+{
+  "content": {
+    "Synopsis": "Patients with BAV (Bicuspid Aortic Valve) often require lifelong surveillance due to the progression of valve disease and the growth of the aorta. Diagnostic imaging plays an integral role in monitoring patients.",
+    "Recommendation-Specific Supportive Text": [
+      "Aortopathy is present in 20% to 40% of patients with BAV and is linked with dilation of the aortic sinuses, ascending aorta, and/or arch.",
+      "In patients with BAV who have indications for SAVR and a diameter of the aortic sinuses or ascending aorta >4.5 cm, replacement is recommended.",
+      "Patients with high-risk factors like rapid diameter change or family history of aortic dissection may need more frequent monitoring.",
+      "Studies suggest that the aorta can continue to dilate in patients with BAV post valve replacement surgery."
+    ],
+    "Interventions for Patients with BAV": {
+      "Replacement of the Aorta": [
+        "Operative intervention is recommended for patients with a BAV and aortic diameter >5.5 cm.",
+        "For a diameter of the aortic sinuses or ascending aorta of 5.0 to 5.5 cm, surgery is reasonable at a Comprehensive Valve Center.",
+        "For low-risk patients or those who meet criteria for replacement, valve-sparing surgery may be considered."
+      ]
+    }
+  },
+  "genes": []
+}

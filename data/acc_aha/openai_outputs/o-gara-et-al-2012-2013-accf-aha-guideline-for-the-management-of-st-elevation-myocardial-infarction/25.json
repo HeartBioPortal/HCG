@@ -1,0 +1,156 @@
+{
+  "content": {
+    "title": "Adjunctive Antithrombotic Therapy to Support PCI After Fibrinolytic Therapy",
+    "antiplatelet_therapy": {
+      "aspirin": {
+        "loading_dose": {
+          "amount": "162 to 325-mg",
+          "timing": "given with fibrinolytic agent (before PCI)",
+          "COR": "I",
+          "LOE": "A",
+          "references": [
+            "308",
+            "330",
+            "331"
+          ]
+        },
+        "maintenance_dose": {
+          "amount": "81 to 325-mg",
+          "timing": "after PCI (indefinite)",
+          "COR": "I",
+          "LOE": "A",
+          "references": [
+            "253",
+            "254",
+            "257",
+            "259",
+            "330",
+            "331"
+          ]
+        },
+        "preferred_daily_dose": {
+          "amount": "81 mg",
+          "context": "preferred daily maintenance dose",
+          "COR": "IIa",
+          "LOE": "B",
+          "references": [
+            "253",
+            "259",
+            "263",
+            "264"
+          ]
+        }
+      },
+      "P2Y12_receptor_inhibitors": {
+        "loading_doses": {
+          "for_patients_with_previous_clopidogrel": {
+            "dose": "Continue clopidogrel 75 mg daily without an additional loading dose",
+            "COR": "I",
+            "LOE": "C",
+            "references": [
+              "260",
+              "262",
+              "330",
+              "331"
+            ]
+          },
+          "for_patients_without_previous_clopidogrel": [
+            {
+              "condition": "PCI performed <=24 h after fibrinolytic therapy",
+              "clopidogrel_dose": "300-mg loading dose",
+              "COR": "I",
+              "LOE": "C"
+            },
+            {
+              "condition": "PCI performed >24 h after fibrinolytic therapy",
+              "clopidogrel_dose": "600-mg loading dose",
+              "COR": "I",
+              "LOE": "C"
+            },
+            {
+              "condition": "PCI performed >24 h after treatment with fibrin-specific or >48 h after a non\u2013fibrin-specific agent",
+              "prasugrel_dose": "60 mg at the time of PCI",
+              "COR": "IIa",
+              "LOE": "B",
+              "references": [
+                "260",
+                "262"
+              ]
+            }
+          ],
+          "patients_with_prior_stroke/TIA": {
+            "drug": "prasugrel",
+            "classification": "Harm",
+            "COR": "III",
+            "LOE": "B",
+            "references": [
+              "260"
+            ]
+          }
+        }
+      },
+      "maintenance_doses": {
+        "DES": {
+          "clopidogrel_dose": "75 mg daily",
+          "COR": "I",
+          "LOE": "C",
+          "references": [
+            "260",
+            "262",
+            "330",
+            "331"
+          ]
+        },
+        "prasugrel": {
+          "dose": "10 mg daily",
+          "COR": "IIa",
+          "LOE": "B",
+          "references": [
+            "260",
+            "262"
+          ]
+        },
+        "BMS": {
+          "description": "Continue therapy for at least 30 d and up to 1 y",
+          "clopidogrel_dose": "75 mg daily",
+          "COR": "I",
+          "LOE": "C",
+          "references": [
+            "330",
+            "331"
+          ]
+        }
+      }
+    },
+    "anticoagulant_therapy": {
+      "UFH": {
+        "description": "Continue UFH through PCI, administering additional IV boluses as needed to maintain therapeutic ACT.",
+        "COR": "I",
+        "LOE": "C"
+      },
+      "enoxaparin": {
+        "description": "Continue through PCI with no additional drug if last dose within previous 8 h, or 0.3-mg/kg IV bolus if last dose was 8 to 12 h earlier",
+        "COR": "I",
+        "LOE": "B",
+        "references": [
+          "332",
+          "390"
+        ]
+      },
+      "fondaparinux": {
+        "description": "As sole anticoagulant for PCI",
+        "classification": "Harm",
+        "COR": "III",
+        "LOE": "B",
+        "references": [
+          "304"
+        ]
+      }
+    },
+    "notes": {
+      "balloon_angioplasty": "May be reasonable for selected patients.",
+      "ACT": "No planned GP Iib/IIIa receptor antagonist treatment is 250\u2013300 s (HemoTec device) or 300\u2013350 s (Hemochron device)."
+    }
+  },
+  "genes": []
+}

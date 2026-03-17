@@ -1,0 +1,30 @@
+{
+  "content": {
+    "Ventricular septal defects (VSDs)": {
+      "Initial presentation": "VSDs create a volume load to the left heart.",
+      "Commonality": "Most commonly encountered form of CHD.",
+      "Types": [
+        "Isolated muscular and perimembranous VSDs are small and close spontaneously.",
+        "Large nonrestrictive defects in cyanotic patients with Eisenmenger syndrome."
+      ],
+      "Management": {
+        "Watchful waiting": "Small restrictive defects of the muscular or membranous septum may be watched.",
+        "Surgical closure": "Considered for significant hemodynamic defects."
+      }
+    },
+    "Associated syndromes": [
+      "Eisenmenger syndrome: Cyanosis/hypoxemia due to right-to-left shunt reversal."
+    ],
+    "Surgical considerations": [
+      "Early VSD closure improves survival rates.",
+      "Aortic valve surgery may be needed for AR."
+    ],
+    "Risk factors": [
+      "Untreated VSD leads to increased risk of IE, involving tricuspid and pulmonic valves."
+    ],
+    "Additional considerations": [
+      "Patients with PAH may need special care to reduce mortality risks."
+    ]
+  },
+  "genes": []
+}

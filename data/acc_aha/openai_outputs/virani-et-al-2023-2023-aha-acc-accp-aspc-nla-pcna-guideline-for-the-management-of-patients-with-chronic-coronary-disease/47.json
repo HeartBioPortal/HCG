@@ -1,0 +1,78 @@
+{
+  "content": {
+    "Overview": "The guideline provides recommendations for antiplatelet therapy and oral anticoagulants in patients with Chronic Coronary Disease (CCD).",
+    "Recommendations": [
+      {
+        "Category": "Antiplatelet Therapy Without Oral Anticoagulants",
+        "Items": [
+          {
+            "Recommendation": "Low-dose aspirin (81 mg) is recommended to reduce atherosclerotic events for patients with CCD and no indication for oral anticoagulant therapy.",
+            "COR": "1",
+            "LOE": "A"
+          },
+          {
+            "Recommendation": "In patients with CCD treated with PCI, dual antiplatelet therapy (DAPT) consisting of aspirin and clopidogrel for 6 months post-PCI followed by single antiplatelet therapy (SAPT) is indicated to reduce MACE and bleeding events.",
+            "COR": "1",
+            "LOE": "A"
+          },
+          {
+            "Recommendation": "In select patients with CCD treated with PCI and a drug-eluting stent (DES), a 3-month course of DAPT followed by P2Y12 inhibitor monotherapy for at least 12 months is reasonable to reduce bleeding risk.",
+            "COR": "2a",
+            "LOE": "A"
+          },
+          {
+            "Recommendation": "For patients with CCD and a previous MI, extended DAPT beyond 12 months for up to 3 years may be reasonable to reduce MACE.",
+            "COR": "2b",
+            "LOE": "A"
+          },
+          {
+            "Recommendation": "In patients with CCD and a history of MI without a history of stroke, TIA, or ICH, vorapaxar may be added to aspirin therapy to reduce MACE.",
+            "COR": "2b",
+            "LOE": "B-R"
+          },
+          {
+            "Recommendation": "In patients with CCD, the use of DAPT after CABG may reduce the incidence of saphenous vein graft occlusion.",
+            "COR": "2b",
+            "LOE": "B-R"
+          },
+          {
+            "Recommendation": "In patients with CCD without recent ACS or PCI-related indication for DAPT, the addition of clopidogrel to aspirin is not useful.",
+            "COR": "3: No benefit",
+            "LOE": "A"
+          },
+          {
+            "Recommendation": "In patients with CCD and previous stroke, TIA, or ICH, vorapaxar should not be added to DAPT due to increased bleeding risk.",
+            "COR": "3: Harm",
+            "LOE": "A"
+          },
+          {
+            "Recommendation": "In patients with CCD and previous stroke, TIA, or ICH, prasugrel should not be used due to risk of significant or fatal bleeding.",
+            "COR": "3: Harm",
+            "LOE": "B-R"
+          },
+          {
+            "Recommendation": "In patients with CCD, chronic NSAIDs should not be used due to increased cardiovascular and bleeding complications.",
+            "COR": "3: Harm",
+            "LOE": "B-R"
+          }
+        ]
+      },
+      {
+        "Category": "Antiplatelet Therapy With Direct Oral Anticoagulant (DOAC)",
+        "Items": [
+          {
+            "Recommendation": "In patients who have undergone elective PCI and require oral anticoagulant therapy, DAPT for 1 to 4 weeks followed by clopidogrel for 6 months should be administered in addition to DOAC.",
+            "COR": "1",
+            "LOE": "B-R"
+          },
+          {
+            "Recommendation": "For those who have undergone PCI and require oral anticoagulant therapy, continuing aspirin in addition to clopidogrel for up to 1 month is reasonable if the patient has a high thrombotic risk and low bleeding risk.",
+            "COR": "2a",
+            "LOE": "B-R"
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,18 @@
+{
+  "content": {
+    "ACHD recommendations": [
+      {
+        "COR": "IIa",
+        "LOE": "C-EO",
+        "Recommendation": "For evaluation of patients with ACHD and syncope, referral to a specialist with expertise in ACHD can be beneficial."
+      },
+      {
+        "COR": "IIa",
+        "LOE": "B-NR",
+        "Recommendation": "EPS is reasonable in patients with moderate or severe ACHD and unexplained syncope."
+      }
+    ],
+    "Context": "The guidelines provide recommendations for the management of Adult Congenital Heart Disease (ACHD), focusing on the need for specialized care and electrophysiological studies (EPS) in patients with syncope. Special considerations are given to mortality rates, arrhythmias, and specific patient groups such as older patients."
+  },
+  "genes": []
+}

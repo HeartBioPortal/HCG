@@ -1,0 +1,34 @@
+{
+  "content": {
+    "Summary": "The guideline discusses the optimal revascularization strategies for patients with STEMI and multivessel CAD. It emphasizes the use of a Heart Team approach to tailor treatment methods such as multivessel PCI or CABG, and highlights findings from various trials.",
+    "Clinical Guidelines": [
+      {
+        "Practice": "Heart Team approach is utilized to determine optimal revascularization strategy in STEMI and multivessel CAD.",
+        "Details": [
+          "Multivessel PCI at the time of primary PCI is recommended.",
+          "PCI of the infarct artery only is associated with a reduction in risk compared to non-infarct artery treatments."
+        ]
+      },
+      {
+        "Practice": "Elective CABG and staged PCI",
+        "Details": [
+          "Elective CABG remains an appropriate option after PCI of infarct artery.",
+          "Staged PCI is noted for specific patient conditions."
+        ]
+      }
+    ],
+    "Trials": [
+      {
+        "Name": "COMPLETE trial",
+        "Findings": "Staged PCI of non-infarct artery showed risk reduction.",
+        "Focus": "Patients with successful PCI of infarct artery and others who meet criteria for CABG."
+      },
+      {
+        "Name": "CULPRIT-SHOCK",
+        "Findings": "Culprit-only PCI recommended for primary treatment in STEMI with cardiogenic shock.",
+        "Focus": "Patients with acute MI complicated by shock."
+      }
+    ]
+  },
+  "genes": []
+}

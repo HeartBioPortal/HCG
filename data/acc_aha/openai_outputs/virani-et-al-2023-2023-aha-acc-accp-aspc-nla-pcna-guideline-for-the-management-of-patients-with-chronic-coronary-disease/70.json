@@ -1,0 +1,33 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "cor": 1,
+        "loe": "C-LD",
+        "text": "In patients with CCD and cancer, a multidisciplinary team including cardiology and oncology expertise is recommended to improve long-term CVD outcomes."
+      },
+      {
+        "cor": 1,
+        "loe": "C-LD",
+        "text": "Women with CCD who are contemplating pregnancy or who are pregnant should be risk-stratified and counseled regarding risks of adverse maternal, obstetric, and fetal outcomes."
+      },
+      {
+        "cor": 1,
+        "loe": "C-LD",
+        "text": "Women with CCD who are contemplating pregnancy or who are pregnant should receive care from a multidisciplinary cardio-obstetric care team beginning before conception and continuing throughout pregnancy, delivery, and postpartum to improve maternal and fetal outcomes."
+      },
+      {
+        "cor": 2,
+        "loe": "C-LD",
+        "text": "In women with CCD, continuation of statin use during pregnancy may be considered."
+      }
+    ],
+    "synopsis": {
+      "text": "Cancer and CCD share mechanistic pathophysiology and are leading causes of death globally, sharing risk factors like lifestyle, obesity, smoking, diabetes, and age. Patients with CCD and cancer have high cardiovascular risk and are often undertreated. Chemotherapy and radiation therapy commonly used in cancer may have cardiac toxicity and increase CVD risk factors. AHA recommends improved communication between oncology and cardiology specialists and encourages cardio-oncology rehabilitation for patients at risk. Multidisciplinary teams should manage complex cardiovascular adverse effects in cancer treatment, including thromboprophylaxis for high-risk patients."
+    },
+    "recommendation_specific_support": {
+      "text": "A multidisciplinary cardio-oncology team should manage patients before, during, and after cancer treatment, focusing on improving cardiovascular outcomes and managing common conditions like thromboembolism prophylaxis. Cardio-oncology is crucial for minimizing negative cardiovascular effects. If no antithrombotic regimen, options like apixaban, rivaroxaban, or low-molecular-weight heparin may be offered."
+    }
+  },
+  "genes": []
+}

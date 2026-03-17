@@ -1,0 +1,37 @@
+{
+  "content": {
+    "cost-effectiveness": "The incremental cost-effectiveness for CRT remains <$150,000 per QALY with intermediate value for patients with NYHA class I to II.",
+    "LBBB benefits": "Most benefit from CRT with LBBB and QRS durations >150 ms.",
+    "LVEF consideration": "Extension of benefit for LVEF between 35% and 50% noted.",
+    "patients with AF": "Included in several trials like MUSTIC, RAFT; benefits in COMPANION and MADIT-CRT.",
+    "ICD trials": "1-year survival as standard inclusion for ICD and CRT trials."
+  },
+  "genes": [
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [
+        "Cardiomyopathy",
+        "Cardiac transplantation",
+        "Refractory arrhythmias"
+      ],
+      "Occurrences": 1,
+      "context": "Patients with LMNA/C cardiomyopathy will progress to cardiac transplantation, sometimes precipitated by refractory arrhythmias more than by pump failure."
+    },
+    {
+      "Gene": "C",
+      "Associated Conditions": [
+        "Desmosomal proteins"
+      ],
+      "Occurrences": 1,
+      "context": "Variants such as LMNA/C, desmosomal proteins, phospholamban, and Filamin-C carry implications for sudden death prevention."
+    },
+    {
+      "Gene": "Filamin-C",
+      "Associated Conditions": [
+        "Arrhythmogenic risk"
+      ],
+      "Occurrences": 1,
+      "context": "Variants of Filamin-C have implications for ICD for sudden death prevention in patients."
+    }
+  ]
+}

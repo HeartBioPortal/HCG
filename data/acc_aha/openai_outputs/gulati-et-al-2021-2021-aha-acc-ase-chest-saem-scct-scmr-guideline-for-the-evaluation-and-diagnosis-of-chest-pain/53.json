@@ -1,0 +1,63 @@
+{
+  "content": {
+    "section": "5.2 Patients With Known CAD Presenting With Stable Chest Pain",
+    "recommendations": [
+      {
+        "for": "patients with obstructive CAD and stable chest pain",
+        "recommendation": "it is recommended to optimize GDMT"
+      },
+      {
+        "for": "patients with known nonobstructive CAD and stable chest pain",
+        "recommendation": "it is recommended to optimize preventive therapies"
+      }
+    ],
+    "synopsis": {
+      "clinician_action": "Clinicians should opt to intensify GDMT first if there is an opportunity.",
+      "current_guidelines": "No current guidelines for nonobstructive CAD; adhere to CV prevention guidelines."
+    },
+    "recommendation_support": [
+      {
+        "organization": "ACC/AHA",
+        "action": "Recommend optimization of anti-ischemic and preventive therapies for CAD risk factors",
+        "goal": "Reduce angina burden and improve clinical outcomes"
+      }
+    ],
+    "anatomic_testing": [
+      {
+        "for": "patients with obstructive CAD and stable chest pain despite GDMT and moderate-severe ischemia",
+        "recommendation": "ICA recommended for guiding therapeutic decision-making"
+      },
+      {
+        "for": "patients with obstructive CAD with stable chest pain and no prior stress testing",
+        "recommendation": "ICA benefits from FFR or instantaneous wave free ratio"
+      },
+      {
+        "for": "symptomatic patients with CCTA-defined stenosis",
+        "recommendation": "ICA recommended for guiding therapeutic decision-making"
+      },
+      {
+        "for": "patients with previous coronary revascularization",
+        "recommendation": "CCTA reasonable for evaluating bypass graft or stent patency"
+      }
+    ],
+    "stress_testing": [
+      {
+        "for": "patients with stable chest pain despite optimal GDMT",
+        "recommendation": "stress PET/SPECT MPI, CMR or echocardiography for diagnosis"
+      },
+      {
+        "for": "selected for rest/stress nuclear MPI",
+        "recommendation": "PET preferable to SPECT for better diagnostic accuracy"
+      },
+      {
+        "for": "exercising treadmill testing",
+        "recommendation": "assess symptoms, evaluate capacity, select management"
+      },
+      {
+        "for": "undergoing stress PET MPI or stress CMR",
+        "recommendation": "addition of MBFR improves diagnostic accuracy and risk stratification"
+      }
+    ]
+  },
+  "genes": []
+}

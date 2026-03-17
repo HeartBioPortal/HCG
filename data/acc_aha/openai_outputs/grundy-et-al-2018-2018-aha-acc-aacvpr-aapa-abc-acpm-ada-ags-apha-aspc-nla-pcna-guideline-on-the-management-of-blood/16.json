@@ -1,0 +1,31 @@
+{
+  "content": {
+    "Summary": "The guideline discusses treatment options for patients with severe hypercholesterolemia, focusing on the use of statins, ezetimibe, bile acid sequestrants, and PCSK9 inhibitors. It emphasizes the significance of managing LDL-C levels to reduce cardiovascular risks and mentions the effectiveness of specific treatments in both primary and secondary prevention settings.",
+    "Treatment Highlights": [
+      "Statin therapy is effective for patients with high LDL-C levels.",
+      "Addition of ezetimibe to statin can further reduce cardiovascular risk in patients with specific characteristics.",
+      "Bile acid sequestrants may be added for patients unable to use PCSK9 inhibitors.",
+      "PCSK9 inhibitors show promise for those with heterozygous Familial Hypercholesterolemia (FH)."
+    ],
+    "ASCVD Risk": "Patients with baseline LDL-C \u2265190 mg/dL are at high risk for ASCVD events.",
+    "Study Findings": "Large studies demonstrate reduced risk of incident myocardial infarction (MI) and coronary heart disease (CHD) with statin use."
+  },
+  "genes": [
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "Familial Hypercholesterolemia (FH)"
+      ],
+      "Occurrences": 3,
+      "context": "PCSK9 inhibitors are promising drugs for treatment of FH. "
+    },
+    {
+      "Gene": "LPA",
+      "Associated Conditions": [
+        "Increased ASCVD risk"
+      ],
+      "Occurrences": 1,
+      "context": "Independent predictors of incident ASCVD over a 5.5-year follow-up period include LPA \u226550 mg/dL."
+    }
+  ]
+}

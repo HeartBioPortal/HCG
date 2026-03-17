@@ -1,0 +1,43 @@
+{
+  "content": {
+    "Title": "2017 High Blood Pressure Clinical Practice Guideline",
+    "Authors": [
+      "Whelton et al.",
+      "2018"
+    ],
+    "Focus": "High blood pressure management",
+    "Population Data": {
+      "African Americans": "Discusses management in context of race and responses to medications.",
+      "Pregnant Women": "Includes specific guidelines for managing hypertension during pregnancy."
+    },
+    "Conditions Covered": [
+      "Hypertension",
+      "Preeclampsia",
+      "Eclampsia",
+      "Chronic Hypertension"
+    ],
+    "Therapies Discussed": [
+      "Antihypertensive medications",
+      "ACE inhibitors",
+      "Angiotensin receptor blockers",
+      "Lifestyle interventions"
+    ],
+    "Risk Factors": [
+      "Sex",
+      "Age",
+      "Ethnicity"
+    ],
+    "Medication Interactions": "Discusses the effects of antihypertensive therapy on different demographics.",
+    "Specific Studies": [
+      {
+        "Reference": "SPRINT Research Group",
+        "Findings": "Effects of blood pressure lowering."
+      },
+      {
+        "Reference": "VALUE trial",
+        "Findings": "Outcomes of hypertensive patients using different medication regimens."
+      }
+    ]
+  },
+  "genes": []
+}

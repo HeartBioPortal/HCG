@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Summary": "Heritable thoracic aortic aneurysms and dissections (HTAD) can occur due to a highly penetrant rare variant or mutation in a single gene. Such conditions are familial, often involving genes related to external matrix proteins or transforming growth factor-\u03b2 pathways. Syndromes like Marfan and Loeys-Dietz predispose individuals to rapid aortic growth and increased risk of dissection.",
+    "Clinical Recommendations": [
+      "Screening for genetic conditions and family history due to higher risks involved in syndromic presentations.",
+      "Prophylactic surgery is often recommended to prevent aortic rupture and extend the lifespan of patients with HTAD.",
+      "The GenTAC study supports the utility of proactive monitoring and potential surgical interventions when appropriate."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "FBN1",
+      "Associated Conditions": [
+        "Marfan syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Pathogenic variants in genes related to extracellular matrix proteins are often implicated, particularly in relation to conditions like Marfan syndrome."
+    },
+    {
+      "Gene": "TGFBR1 or TGFBR2",
+      "Associated Conditions": [
+        "Loeys-Dietz syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Mutations involving transforming growth factor-\u03b2 pathways (TGF-\u03b2) are noted in syndromic forms like Loeys-Dietz syndrome."
+    }
+  ]
+}

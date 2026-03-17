@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Recommendations": [
+      {
+        "Class": "2a",
+        "Level of Evidence": "B-R",
+        "Recommendation": "In patients undergoing coronary stent implantation, IVUS can be useful for procedural guidance, particularly in cases of left main or complex coronary artery stenting, to reduce ischemic events."
+      },
+      {
+        "Class": "2a",
+        "Level of Evidence": "B-R",
+        "Recommendation": "In patients undergoing coronary stent implantation, OCT is a reasonable alternative to IVUS for procedural guidance, except in ostial left main disease."
+      },
+      {
+        "Class": "2a",
+        "Level of Evidence": "C-LD",
+        "Recommendation": "In patients with stent failure, IVUS or OCT is reasonable to determine the mechanism of stent failure."
+      }
+    ],
+    "Synopsis": "Intracoronary imaging is useful in guiding coronary stent implantation in cases involving the left main artery or complex lesions, allowing full-thickness visibility and assessment of plaque and stent conditions. IVUS and OCT provide different advantages, with IVUS not requiring contrast media while OCT requires it but offers higher resolution.",
+    "Studies": [
+      "Meta-analyses on IVUS-guided PCI showed a reduction in major adverse cardiac events (MACE).",
+      "The ILUMIEN study compared OCT and IVUS for peri-procedural guidance and showed noninferiority of OCT.",
+      "The DOCTORS trial showed that OCT-guided PCI resulted in improved post-PCI FFR."
+    ]
+  },
+  "genes": []
+}

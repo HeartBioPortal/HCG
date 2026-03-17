@@ -1,0 +1,159 @@
+{
+  "content": {
+    "Cardiac involvement": "Occurs in several neuromuscular dystrophies. A 12-lead ECG and echocardiogram are important for initial assessment. Extensive cardiac involvement may include distal conduction disease, ventricular dysfunction, and atrial arrhythmias. Myotonic dystrophy patients require ambulatory monitoring. Pacemaker implantation may be necessary based on arrhythmias or ventricular dysfunction.",
+    "Neuromuscular dystrophies": [
+      {
+        "Disease": "Duchenne",
+        "Inheritance": "X-linked recessive",
+        "Primary Cardiac Pathology": "NICM",
+        "Frequency of Cardiac Involvement": ">90%",
+        "Causes of Death": "Respiratory, HF",
+        "Associated with Sudden Death?": "Yes, uncertain etiology"
+      },
+      {
+        "Disease": "Becker",
+        "Inheritance": "X-linked recessive",
+        "Primary Cardiac Pathology": "NICM",
+        "Frequency of Cardiac Involvement": "60%-75%",
+        "Causes of Death": "HF, respiratory",
+        "Associated with Sudden Death?": "Yes, uncertain etiology"
+      },
+      {
+        "Disease": "Limb-girdle type 1B",
+        "Inheritance": "Autosomal dominant",
+        "Primary Cardiac Pathology": "Conduction system disease and NICM",
+        "Frequency of Cardiac Involvement": ">90%",
+        "Causes of Death": "Sudden, HF",
+        "Associated with Sudden Death?": "Yes"
+      },
+      {
+        "Disease": "Limb-girdle type 2C-2F",
+        "Inheritance": "Autosomal recessive",
+        "Primary Cardiac Pathology": "NICM",
+        "Frequency of Cardiac Involvement": "<25%",
+        "Causes of Death": "Respiratory, HF",
+        "Associated with Sudden Death?": "Uncertain"
+      },
+      {
+        "Disease": "Limb-girdle type 2I",
+        "Inheritance": "Autosomal recessive",
+        "Primary Cardiac Pathology": "NICM",
+        "Frequency of Cardiac Involvement": "20%-80%",
+        "Causes of Death": "Respiratory, HF",
+        "Associated with Sudden Death?": "Uncertain"
+      },
+      {
+        "Disease": "Myotonic type 1",
+        "Inheritance": "Autosomal dominant",
+        "Primary Cardiac Pathology": "Conduction system disease",
+        "Frequency of Cardiac Involvement": "60%-80%",
+        "Causes of Death": "Respiratory, sudden, HF",
+        "Associated with Sudden Death?": "30% of deaths, uncertain bradycardia versus tachycardia"
+      },
+      {
+        "Disease": "Myotonic type 2",
+        "Inheritance": "Autosomal dominant",
+        "Primary Cardiac Pathology": "Conduction system disease",
+        "Frequency of Cardiac Involvement": "10%-25%",
+        "Causes of Death": "Normal causes",
+        "Associated with Sudden Death?": "Reported"
+      },
+      {
+        "Disease": "Emery-Dreifuss",
+        "Inheritance": "X-linked and autosomal dominant or recessive",
+        "Primary Cardiac Pathology": "Conduction system disease and NICM",
+        "Frequency of Cardiac Involvement": ">90%",
+        "Causes of Death": "Sudden, HF",
+        "Associated with Sudden Death?": "Yes"
+      },
+      {
+        "Disease": "Fascioscapulohumeral",
+        "Inheritance": "Autosomal dominant",
+        "Primary Cardiac Pathology": "Possibly conduction disease",
+        "Frequency of Cardiac Involvement": "5%-15%",
+        "Causes of Death": "Normal causes, respiratory rarely",
+        "Associated with Sudden Death?": "Not reported"
+      }
+    ],
+    "Recommendations for Cardiac Channelopathies": [
+      {
+        "COR": "I",
+        "LOE": "B-NR",
+        "Recommendation": "Genetic counseling and mutation-specific genetic testing are recommended for first-degree relatives of patients with a causative mutation for long QT syndrome, catecholaminergic polymorphic ventricular tachycardia, short QT syndrome, or Brugada syndrome."
+      },
+      {
+        "COR": "I",
+        "LOE": "B-NR",
+        "Recommendation": "In patients with a cardiac channelopathy and SCA, an ICD is recommended if meaningful survival of greater than 1 year is expected."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "Dystrophin",
+      "Associated Conditions": [
+        "Duchenne",
+        "Becker"
+      ],
+      "Occurrences": 2,
+      "context": "X-linked recessive dystrophy affecting the Dystrophin gene with involvement in NICM and high frequency of cardiac involvement."
+    },
+    {
+      "Gene": "Lamin A/C",
+      "Associated Conditions": [
+        "Limb-girdle type 1B",
+        "Emery-Dreifuss"
+      ],
+      "Occurrences": 2,
+      "context": "Associated with conduction system disease and NICM with autosomal dominant inheritance."
+    },
+    {
+      "Gene": "Sarcoglycan",
+      "Associated Conditions": [
+        "Limb-girdle type 2C-2F"
+      ],
+      "Occurrences": 1,
+      "context": "Autosomal recessive disorder associated with NICM."
+    },
+    {
+      "Gene": "Fukutin-related protein",
+      "Associated Conditions": [
+        "Limb-girdle type 2I"
+      ],
+      "Occurrences": 1,
+      "context": "Autosomal recessive disorder associated with NICM."
+    },
+    {
+      "Gene": "CTG repeat expansion",
+      "Associated Conditions": [
+        "Myotonic type 1"
+      ],
+      "Occurrences": 1,
+      "context": "Associated with conduction system disease in an autosomal dominant manner."
+    },
+    {
+      "Gene": "CCTG repeat expansion",
+      "Associated Conditions": [
+        "Myotonic type 2"
+      ],
+      "Occurrences": 1,
+      "context": "Associated with conduction system disease in an autosomal dominant manner."
+    },
+    {
+      "Gene": "Emerin",
+      "Associated Conditions": [
+        "Emery-Dreifuss"
+      ],
+      "Occurrences": 1,
+      "context": "X-linked disorder associated with conduction system disease and NICM."
+    },
+    {
+      "Gene": "D4Z4 repeat contraction",
+      "Associated Conditions": [
+        "Fascioscapulohumeral"
+      ],
+      "Occurrences": 1,
+      "context": "Autosomal dominant disorder possibly affecting conduction disease."
+    }
+  ]
+}

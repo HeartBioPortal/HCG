@@ -1,0 +1,38 @@
+{
+  "content": {
+    "title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+    "source": "JACC VOL. 84, NO. 19, 2024",
+    "sections": [
+      {
+        "section_number": "6.5",
+        "title": "Anticoagulation for Stroke Prevention",
+        "details": "Discusses updated approaches for patients with recent episodes of preoperative atrial fibrillation post noncardiac surgery."
+      },
+      {
+        "section_number": "6.6",
+        "title": "Cardiovascular Implantable Electronic Devices",
+        "details": "Reviews the perioperative management of patients with implantable defibrillators and pacemakers. Highlights reports on electromagnetic interference and management strategies."
+      },
+      {
+        "section_number": "6.7",
+        "title": "Previous Stroke or Transient Ischemic Attack",
+        "details": "Examines management of patients with history of stroke or transient ischemic attacks during noncardiac surgery."
+      },
+      {
+        "section_number": "6.8",
+        "title": "Obstructive Sleep Apnea",
+        "details": "Discusses the perioperative screening and management of patients with obstructive sleep apnea undergoing surgery."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "ACTC",
+      "Associated Conditions": [
+        "Atrial Fibrillation"
+      ],
+      "Occurrences": 1,
+      "context": "Effect of continuous electrocardiogram monitoring on detection of undiagnosed atrial fibrillation after hospitalization for cardiac surgery."
+    }
+  ]
+}

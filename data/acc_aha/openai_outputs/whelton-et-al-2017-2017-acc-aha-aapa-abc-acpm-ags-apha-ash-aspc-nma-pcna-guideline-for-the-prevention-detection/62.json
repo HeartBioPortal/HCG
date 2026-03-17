@@ -1,0 +1,19 @@
+{
+  "content": {
+    "Topic": "Management of Hypertension in Patients with Aortic Disease",
+    "Recommendation": "Beta blockers are recommended as the preferred antihypertensive agents in patients with hypertension and thoracic aortic disease.",
+    "Synopsis": "Thoracic aortic aneurysms are typically asymptomatic until a catastrophic event such as aortic dissection or rupture occurs. Antihypertensive therapy is largely based on studies associating hypertension with aortic dissection. High BP variability was an independent risk factor for the prognosis of aortic dissection.",
+    "Ethnic and Racial Considerations": "Hypertension control rates are lower for blacks, Hispanic Americans, and Asian Americans than for whites. Black Americans face significantly greater risks of hypertension-related complications and mortality compared to whites.",
+    "Specific Genetic Note": "Some black individuals with hypertension may have the APOL1 gene variant, which is associated with a higher risk of chronic kidney disease and may affect response to certain BP lowering medications."
+  },
+  "genes": [
+    {
+      "Gene": "APOL1",
+      "Associated Conditions": [
+        "chronic kidney disease (CKD)"
+      ],
+      "Occurrences": 1,
+      "context": "Finally, the excess risk of CKD outcomes in at least some blacks with hypertension may be due to the presence of high-risk APOL1 (apolipoprotein L1) genetic variants."
+    }
+  ]
+}

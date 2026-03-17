@@ -1,0 +1,71 @@
+{
+  "content": {
+    "synopsis": "Arrhythmogenic right ventricular cardiomyopathy (ARVC) is an inherited cardiomyopathy affecting the right ventricle, potentially leading to life-threatening arrhythmias. It's characterized by myocardial replacement with fibrous and adipose tissue. Both ventricular arrhythmias (VA) and sudden cardiac death (SCD) are common manifestations.",
+    "recommendations": [
+      {
+        "id": 4,
+        "class": "I",
+        "level": "B-NR",
+        "text": "In patients with arrhythmogenic right ventricular cardiomyopathy and VA, a beta blocker is recommended."
+      },
+      {
+        "id": 5,
+        "class": "I",
+        "level": "B-NR",
+        "text": "In patients with a clinical diagnosis of ARVC, avoiding intensive exercise is recommended."
+      },
+      {
+        "id": 6,
+        "class": "IIa",
+        "level": "B-NR",
+        "text": "In patients with clinically diagnosed or suspected ARVC, genetic counseling and testing can be useful for diagnosis and targeted family screening."
+      },
+      {
+        "id": 7,
+        "class": "IIa",
+        "level": "B-NR",
+        "text": "In patients with ARVC and syncope presumed due to VA, an ICD can be useful if meaningful survival greater than 1 year is expected."
+      },
+      {
+        "id": 8,
+        "class": "IIa",
+        "level": "B-NR",
+        "text": "In patients with clinical evidence of ARVC but not VA, a beta blocker can be useful."
+      },
+      {
+        "id": 9,
+        "class": "IIa",
+        "level": "B-NR",
+        "text": "In patients with ARVC and recurrent symptomatic sustained VT in whom a beta blocker is ineffective or not tolerated, catheter ablation may be beneficial."
+      },
+      {
+        "id": 10,
+        "class": "IIa",
+        "level": "B-NR",
+        "text": "In patients with suspected ARVC, a signal-averaged ECG can be useful for diagnosis and risk stratification."
+      },
+      {
+        "id": 11,
+        "class": "IIb",
+        "level": "B-NR",
+        "text": "In asymptomatic patients with clinical evidence of ARVC, an electrophysiological study may be considered for risk stratification."
+      }
+    ],
+    "additional_content": [
+      "Selected first-degree relatives should be offered further testing, as 35% to 40% may have ARVC.",
+      "Genetic mutation often involves a desmosomal protein with autosomal dominant inheritance.",
+      "Mutation-positive individuals need monitoring for disease progression.",
+      "A cardiac MRI is essential for assessing ventricular function and identifying scar and fibrosis."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "Desmosomal protein",
+      "Associated Conditions": [
+        "Arrhythmogenic right ventricular cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Arrhythmogenic right ventricular cardiomyopathy is often due to a mutation involving a desmosomal protein, and it usually has autosomal dominant inheritance with variable penetrance."
+    }
+  ]
+}

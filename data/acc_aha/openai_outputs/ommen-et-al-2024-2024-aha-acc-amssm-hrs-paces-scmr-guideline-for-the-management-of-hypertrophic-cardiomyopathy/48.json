@@ -1,0 +1,12 @@
+{
+  "content": {
+    "Synopsis": "AF, commonly observed in patients with HCM, is associated with significant morbidity and an increased risk of stroke. Therapy includes prevention of thromboembolic events and symptom control. Use of DOACs and anticoagulation is recommended, considering the duration of AF episodes and underlying risk factors. Catheter ablation is less effective than in the general population. Surgical AF ablation might be an option during surgical myectomy. Diagnosis and management are complex, considering factors like total AF burden and presence of risk factors.",
+    "Recommendation-Specific Supportive Text": {
+      "1": "Clinical AF in patients can be managed hand through rhythm-control or rate-control strategies, considering patient-specific factors. A meta-analysis showed a prevalence of 27.09% for thromboembolism in patients with HCM with AF, with a 3.75 per 10 patient risk. The stroke risk is independent of CHA2DS2-VASc Score, emphasizing anticoagulation benefits. DOACs are effective with additional advantages. Recommendations for patients with AF atrial flutter are similar to those without HCM.",
+      "2": "Management of clinical and asymptomatic or subclinical AF (SCAF) is crucial due to increased stroke risk.",
+      "3": "Rate-control strategy may involve nonhydropyridine calcium channel blocker, beta-blocker, or a combination. The choice depends on age, underlying substrate, coexisting conditions, and severity of symptoms.",
+      "4": "SCAF is often observed in patients with implanted cardiac devices and HCM. The risk threshold for anticoagulation is still debated, though studies suggest episodes over 24 hours correlate with increased risk."
+    }
+  },
+  "genes": []
+}

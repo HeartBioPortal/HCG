@@ -1,0 +1,74 @@
+{
+  "content": {
+    "Title": "Antiplatelet and Antithrombotic Therapy for PAD",
+    "Description": "Recommendations for antiplatelet and antithrombotic therapy to reduce the risk of major adverse cardiovascular events (MACE) and major adverse limb events (MALE) in patients with peripheral artery disease (PAD).",
+    "Recommendations": [
+      {
+        "Class": "1",
+        "Level of Evidence": "A",
+        "Recommendation": "In patients with symptomatic PAD, single antiplatelet therapy is recommended to reduce the risk of MACE."
+      },
+      {
+        "Class": "1",
+        "Level of Evidence": "B-R",
+        "Recommendation": "In patients with symptomatic PAD, single antiplatelet therapy with clopidogrel alone (75 mg daily) is recommended to reduce the risk of MACE."
+      },
+      {
+        "Class": "1",
+        "Level of Evidence": "C-LD",
+        "Recommendation": "In patients with symptomatic PAD, single antiplatelet therapy with aspirin alone (range, 75-325 mg daily) is recommended to reduce the risk of MACE."
+      },
+      {
+        "Class": "1",
+        "Level of Evidence": "A",
+        "Recommendation": "In patients with symptomatic PAD, low-dose rivaroxaban (2.5 mg twice daily) combined with low-dose aspirin is effective to reduce the risk of MACE and MALE."
+      },
+      {
+        "Class": "1",
+        "Level of Evidence": "B-R",
+        "Recommendation": "After endovascular or surgical revascularization for PAD, antiplatelet therapy is recommended."
+      },
+      {
+        "Class": "1",
+        "Level of Evidence": "A",
+        "Recommendation": "After endovascular or surgical revascularization for PAD, low-dose rivaroxaban (2.5 mg twice daily) combined with low-dose aspirin is recommended to reduce the risk of MACE and MALE."
+      },
+      {
+        "Class": "2a",
+        "Level of Evidence": "C-LD",
+        "Recommendation": "After endovascular revascularization for PAD, dual antiplatelet therapy with a P2Y12 antagonist and low-dose aspirin is reasonable for at least 1 to 6 months."
+      },
+      {
+        "Class": "2a",
+        "Level of Evidence": "C-LD",
+        "Recommendation": "After endovascular or surgical revascularization in patients with PAD who require full-intensity anticoagulation for another indication and are not at high risk of bleeding, adding single antiplatelet therapy is reasonable."
+      },
+      {
+        "Class": "2a",
+        "Level of Evidence": "C-EO",
+        "Recommendation": "In patients with asymptomatic PAD, single antiplatelet therapy is reasonable to reduce the risk of MACE."
+      },
+      {
+        "Class": "2b",
+        "Level of Evidence": "B-R",
+        "Recommendation": "In patients with symptomatic PAD without recent revascularization, the benefit of dual antiplatelet therapy is uncertain."
+      },
+      {
+        "Class": "2b",
+        "Level of Evidence": "B-R",
+        "Recommendation": "In patients with symptomatic PAD, the benefit of vorapaxar added to existing antiplatelet therapy is uncertain."
+      },
+      {
+        "Class": "2b",
+        "Level of Evidence": "B-R",
+        "Recommendation": "After surgical revascularization for PAD with a prosthetic graft, dual antiplatelet therapy with a P2Y12 antagonist and low-dose aspirin may be reasonable for at least 1 month."
+      },
+      {
+        "Class": "3",
+        "Level of Evidence": "Harm A",
+        "Recommendation": "In patients with PAD without another indication (e.g., atrial fibrillation), full-intensity oral anticoagulation should not be used to reduce the risk of MACE and MALE."
+      }
+    ]
+  },
+  "genes": []
+}

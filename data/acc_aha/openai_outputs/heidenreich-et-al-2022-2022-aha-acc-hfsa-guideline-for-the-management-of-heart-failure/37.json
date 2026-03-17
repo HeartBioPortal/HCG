@@ -1,0 +1,157 @@
+{
+  "content": {
+    "Potential Barriers": [
+      {
+        "Category": "Medical Barriers",
+        "Barriers": [
+          {
+            "Barrier": "Cognitive impairment",
+            "Screening Tools": [
+              "Mini-Cog",
+              "Mini-Mental State Examination (MMSE)",
+              "Montreal Cognitive Assessment (MoCA)"
+            ],
+            "Interventions": [
+              "Home health aide",
+              "Home meal deliveries",
+              "Adult day care",
+              "Geriatric psychiatry referral",
+              "Memory care support groups"
+            ]
+          },
+          {
+            "Barrier": "Depression",
+            "Screening Tools": [
+              "Hamilton Depression Rating Scale (HAM-D)",
+              "Beck Depression Inventory-II (BDI-II)",
+              "Patient Health Questionnaire-9 (PHQ-9)"
+            ],
+            "Interventions": [
+              "Psychotherapy",
+              "Selective serotonin reuptake inhibitors",
+              "Nurse-led support"
+            ]
+          },
+          {
+            "Barrier": "Substance use disorders",
+            "Screening Tools": [
+              "Tobacco, Alcohol, Prescription medication, and other Substance use (TAPS)"
+            ],
+            "Interventions": [
+              "Referral to social work services and community support partners",
+              "Referral for addiction psychiatry consultation"
+            ]
+          },
+          {
+            "Barrier": "Frailty",
+            "Screening Tools": [
+              "Fried frailty phenotype"
+            ],
+            "Interventions": [
+              "Cardiac rehabilitation",
+              "Registered dietitian nutritionist evaluation for malnutrition"
+            ]
+          }
+        ]
+      },
+      {
+        "Category": "Social Barriers",
+        "Barriers": [
+          {
+            "Barrier": "Financial burden of HF treatments",
+            "Screening Tools": [
+              "Comprehensive Score for Financial Toxicity-Functional Assessment of Chronic Illness Therapy (COST-FACIT)"
+            ],
+            "Interventions": [
+              "PharmD referral to review prescription assistance eligibilities"
+            ]
+          },
+          {
+            "Barrier": "Food insecurity",
+            "Screening Tools": [
+              "Hunger Vital Sign, 2 items",
+              "U.S. Household Food Security Survey Module, 6 items"
+            ],
+            "Interventions": [
+              "Determine eligibility for the Supplemental Nutrition Assistance Program (SNAP)",
+              "Connect patients with community partners such as food pantries/food banks",
+              "Home meal deliveries",
+              "Registered dietitian nutritionist evaluation for potential malnutrition"
+            ]
+          },
+          {
+            "Barrier": "Homelessness or housing insecurity",
+            "Screening Tools": [
+              "Homelessness Screening Clinical Reminder (HSCR)"
+            ],
+            "Interventions": [
+              "Referral to local housing services",
+              "Connect patients with community housing partners"
+            ]
+          },
+          {
+            "Barrier": "Intimate partner violence or elder abuse",
+            "Screening Tools": [
+              "Humiliation, Afraid, Rape, Kick (HARK) questionnaire",
+              "Partner Violence Screen (PVS)",
+              "Woman Abuse Screening Tool (WAST)"
+            ],
+            "Interventions": [
+              "Referral to social work services and community support partners"
+            ]
+          },
+          {
+            "Barrier": "Limited English proficiency or other language barriers",
+            "Screening Tools": [
+              "Routinely inquire in which language the patient is most comfortable conversing"
+            ],
+            "Interventions": [
+              "Access to interpreter services covering a wide range of languages, ideally in person or, alternatively, via video platform",
+              "Printed educational materials in a range of appropriate languages"
+            ]
+          },
+          {
+            "Barrier": "Low health literacy",
+            "Screening Tools": [
+              "Short Assessment of Health Literacy (SAHL)",
+              "Rapid Estimate of Adult Literacy in Medicine-Short Form (REALM-SF)",
+              "Brief Health Literacy Screen (BHLS), 3 items"
+            ],
+            "Interventions": [
+              "Agency for Healthcare Research and Quality (AHRQ) Health Literacy Universal Precautions Toolkit",
+              "Written education tools provided at sixth grade reading level or below",
+              "Graphic educational documents"
+            ]
+          },
+          {
+            "Barrier": "Social isolation or low social support",
+            "Screening Tools": [
+              "Patient-Reported Outcomes Measurement Information System (PROMIS) Social Isolation Short Form"
+            ],
+            "Interventions": [
+              "Determine eligibility for home care services",
+              "Support group referral"
+            ]
+          },
+          {
+            "Barrier": "Transport limitations",
+            "Screening Tools": [
+              "No validated tools currently available."
+            ],
+            "Interventions": [
+              "Referral to social work services",
+              "Determine eligibility for insurance or state-based transportation, or reduced-cost public transportation",
+              "Maximize opportunities for telehealth visits and remote monitoring"
+            ]
+          }
+        ]
+      }
+    ],
+    "Recommendation for Dietary Sodium Restriction": {
+      "COR": "2a",
+      "LOE": "C-LD",
+      "Recommendation": "For patients with stage C HF, avoiding excessive sodium intake is reasonable to reduce congestive symptoms."
+    }
+  },
+  "genes": []
+}

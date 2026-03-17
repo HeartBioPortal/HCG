@@ -1,0 +1,73 @@
+{
+  "content": {
+    "Alternative Diagnoses for Leg Pain or Claudication Not Related to PAD": {
+      "Conditions": [
+        {
+          "Condition": "Hip arthritis",
+          "Location": "Lateral hip, thigh",
+          "Characteristic": "Aching discomfort",
+          "Effect of Exercise": "After variable degree of exercise",
+          "Effect of Rest": "Not quickly relieved",
+          "Effect of Position": "Improved when not bearing weight",
+          "Other Characteristics": "Symptoms variable; history of degenerative arthritis"
+        },
+        {
+          "Condition": "Foot/ankle arthritis",
+          "Location": "Ankle, foot, arch",
+          "Characteristic": "Aching pain",
+          "Effect of Exercise": "After variable degree of exercise; may also be present at rest",
+          "Effect of Rest": "Not quickly relieved",
+          "Effect of Position": "May be relieved by not bearing weight",
+          "Other Characteristics": "Symptoms variable"
+        },
+        {
+          "Condition": "Nerve root compression",
+          "Location": "Radiates down leg",
+          "Characteristic": "Sharp lancinating pain",
+          "Effect of Exercise": "Induced by sitting, standing, or walking (variable)",
+          "Effect of Rest": "Often present at rest",
+          "Effect of Position": "Improved by change in position",
+          "Other Characteristics": "History of back problems; worse with sitting; relief when supine or standing"
+        },
+        {
+          "Condition": "Spinal stenosis (degenerative disc disease or tumor)",
+          "Location": "Often bilateral buttocks, posterior leg",
+          "Characteristic": "Pain and weakness",
+          "Effect of Exercise": "May mimic claudication",
+          "Effect of Rest": "Variable relief but can take a long time to recover",
+          "Effect of Position": "Relief by lumbar spine flexion",
+          "Other Characteristics": "Worse with standing and extending spine"
+        },
+        {
+          "Condition": "Symptomatic popliteal (Baker's) cyst",
+          "Location": "Behind knee, down calf",
+          "Characteristic": "Swelling, tenderness",
+          "Effect of Exercise": "With exercise",
+          "Effect of Rest": "Also present at rest",
+          "Effect of Position": "None",
+          "Other Characteristics": "Not intermittent"
+        },
+        {
+          "Condition": "Venous claudication",
+          "Location": "Entire leg, worse in calf",
+          "Characteristic": "Tight, bursting pain",
+          "Effect of Exercise": "After walking",
+          "Effect of Rest": "Subsides slowly",
+          "Effect of Position": "Relief speeded by leg elevation",
+          "Other Characteristics": "History of iliofemoral deep vein thrombosis; edema; signs of venous stasis"
+        },
+        {
+          "Condition": "Chronic compartment syndrome",
+          "Location": "Calf muscles",
+          "Characteristic": "Tight, bursting pain",
+          "Effect of Exercise": "After strenuous exercise (jogging)",
+          "Effect of Rest": "Subsides very slowly",
+          "Effect of Position": "Relief with rest",
+          "Other Characteristics": "Typically heavy muscled athletes"
+        }
+      ]
+    },
+    "Diagnostic Evaluation": "Patients at increased risk of PAD require thorough vascular examination focusing on lower extremities. Proper care in pulse assessment and additional evaluation for peripheral neuropathy should be considered."
+  },
+  "genes": []
+}

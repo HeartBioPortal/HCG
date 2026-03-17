@@ -1,0 +1,36 @@
+{
+  "content": {
+    "guidelines": "2024 Peripheral Artery Disease Guideline",
+    "topics": [
+      "Atherectomy devices",
+      "Endovascular treatment",
+      "Conduit for surgical revascularization",
+      "Team-Based Care for CLTI",
+      "Revascularization for CLI"
+    ],
+    "clinical focus": [
+      "Common femoral artery interventions",
+      "Peripheral artery disease treatments",
+      "Stenting and bifurcation lesions",
+      "Vascular surgery efficacy",
+      "Patient preferences in treatment"
+    ],
+    "important notes": [
+      "Assessment of factors in treatment decisions",
+      "Device selection in aorto-iliac interventions",
+      "Biodegradable stent implantations",
+      "Long-term outcomes for femoropopliteal angioplasty",
+      "Recommendations for team-based care improvements"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "ACTA2",
+      "Associated Conditions": [
+        "Smooth muscle function"
+      ],
+      "Occurrences": 1,
+      "context": "Recommendation of ACTA2 in evaluations related to atherosclerotic disease."
+    }
+  ]
+}

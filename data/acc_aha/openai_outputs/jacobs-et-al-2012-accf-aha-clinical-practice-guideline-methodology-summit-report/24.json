@@ -1,0 +1,25 @@
+{
+  "content": {
+    "USPTF Levels of Certainty Regarding Net Benefit": {
+      "High": "The available evidence usually includes consistent results from well-designed, well-conducted studies in representative primary care populations. These studies assess the effects of the preventive service on health outcomes. This conclusion is therefore unlikely to be strongly affected by the results of future studies.",
+      "Moderate": "The available evidence is sufficient to determine the effects of the preventive service on health outcomes, but confidence in the estimate is constrained by factors such as number, size, or quality of individual studies, inconsistency of findings across individual studies, limited generalizability of findings to routine primary care practice, and lack of coherence in the chain of evidence.",
+      "Low": "The available evidence is insufficient to assess effects on health outcomes due to limited number or size of studies, important flaws in study design or methods, inconsistency of findings across individual studies, gaps in the chain of evidence, findings not generalizable to routine primary care practice, and lack of information on important health outcomes."
+    },
+    "Underlying considerations for ACCF/AHA CPG development": [
+      "Science of the data and reserving a place in the set of instructions for clinicians.",
+      "Dynamic and variable resource distribution.",
+      "Difficulty in describing patient preference distribution without formal data."
+    ],
+    "Recommendation Grading": {
+      "NHLBI Evidence Quality and Recommendation Strength": {
+        "High": "Well-designed and conducted RCTs.",
+        "Moderate": "RCTs with minor limitations or well-conducted observational studies.",
+        "Low": "RCTs with major limitations or observational studies with major limitations."
+      }
+    },
+    "Workgroup 4 Recommendations": [
+      "Retain the current ACCF/AHA COR and LOE structure/nomenclature."
+    ]
+  },
+  "genes": []
+}

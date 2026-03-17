@@ -1,0 +1,36 @@
+{
+  "content": {
+    "key_points": [
+      {
+        "topic": "Cardiac MRI",
+        "details": "Cardiac MRI is used to detect biventricular involvement and late gadolinium enhancement in patients with arrhythmogenic right ventricular cardiomyopathy (ARVC). It correlates with the location of VT substrate identified by endocardial and epicardial mapping."
+      },
+      {
+        "topic": "Electrocardiographic and Holter Findings",
+        "details": "Detection of cardiac MRI abnormalities often precedes electrocardiographic abnormalities in mutation-positive individuals. Monitoring VA burden and beta-blocker adequacy through ambulatory monitoring is advised."
+      },
+      {
+        "topic": "Fatty or Fibrotic Tissue Replacement",
+        "details": "ARVC is characterized by progressive replacement of myocytes which correlates with ventricular dysfunction."
+      },
+      {
+        "topic": "Sustained VT and SCD",
+        "details": "Sustained VT is critical for SCA and SCD prevention in ARVC, and treatment often includes ICD shocks."
+      },
+      {
+        "topic": "Exercise Recommendations",
+        "details": "Exercise may accelerate disease progression and arrhythmic risk, with recommendations for limited activity levels for those with ARVC and their mutation-positive relatives."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "RS",
+      "Associated Conditions": [
+        "Arrhythmogenic right ventricular cardiomyopathy"
+      ],
+      "Occurrences": 4,
+      "context": "Frequent PVCs correlate with arrhythmic risk (S7.3-9). Sustained VT is an important predictor of adverse cardiac events (S7.3-9)."
+    }
+  ]
+}

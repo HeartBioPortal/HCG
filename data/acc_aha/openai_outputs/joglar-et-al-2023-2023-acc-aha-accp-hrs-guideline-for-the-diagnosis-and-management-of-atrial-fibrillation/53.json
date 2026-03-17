@@ -1,0 +1,24 @@
+{
+  "content": {
+    "section": "6.6.1. Management of Patients With AF and ICH",
+    "recommendations": [
+      {
+        "COR": "2a",
+        "LOE": "C-LD",
+        "recommendation": "In patients with AF and conditions associated with very high risk of thromboembolic events (>5%/year), such as rheumatic heart disease or a mechanical heart valve, early (1-2 weeks) resumption of anticoagulation after ICH is reasonable to reduce the risk of thromboembolic events."
+      },
+      {
+        "COR": "2b",
+        "LOE": "C-LD",
+        "recommendation": "In patients with AF and ICH, delayed (4-8 weeks) resumption of anticoagulation may be considered to balance the risks of thromboembolic and hemorrhagic complications after careful risk benefit assessment."
+      },
+      {
+        "COR": "2b",
+        "LOE": "B-NR",
+        "recommendation": "In patients with AF and conditions associated with high risk of recurrent ICH (eg, cerebral amyloid angiopathy) anticoagulation-sparing strategies (eg, LAAO) may be considered to reduce the risk of recurrent hemorrhage."
+      }
+    ],
+    "synopsis": "ICH refers to bleeding within compartments of the cranial vault, and management considers mechanism and most broadly traumatic vs nontraumatic etiologies."
+  },
+  "genes": []
+}

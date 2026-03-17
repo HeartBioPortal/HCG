@@ -1,0 +1,30 @@
+{
+  "content": {
+    "title": "Heart Failure Guidelines",
+    "summary": "The guideline discusses recommendations for the integration of care, transitions, and team-based approaches for heart failure (HF) management. It emphasizes the importance of multidisciplinary HF disease management programs, patient-centered discharge instructions, participation in benchmarking systems, and early follow-up post-hospitalization.",
+    "recommendations": [
+      {
+        "COR": 1,
+        "LOE": "B-R",
+        "Details": "In patients with high-risk HF, referral to multidisciplinary HF disease management programs is recommended to reduce hospitalizations."
+      },
+      {
+        "COR": 1,
+        "LOE": "B-NR",
+        "Details": "In hospitalized patients with worsening HF, patient-centered discharge instructions with a clear transitional care plan are essential before discharge."
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "Details": "Participation in systems that allow for benchmarking to performance measures is reasonable to enhance evidence-based therapy and care quality."
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "Details": "Early follow-up, usually within 7 days of discharge, is reasonable to optimize care and reduce rehospitalization."
+      }
+    ],
+    "synopsis": "Transition from inpatient to outpatient care in HF patients is crucial due to the progressive disease state and complex medical regimens. Optimal transitions can reduce readmissions and improve satisfaction."
+  },
+  "genes": []
+}

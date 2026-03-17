@@ -1,0 +1,110 @@
+{
+  "content": {
+    "Table Name": "Selected Routine Medical Therapies",
+    "Therapies": [
+      {
+        "Name": "Beta-Receptor Antagonists",
+        "Indications": [
+          "All patients without contraindication",
+          "Patients with refractory hypertension or ongoing ischemia without contraindication"
+        ],
+        "Dose/Administration": [
+          "Oral: Metoprolol tartrate 25 to 50 mg every 6 to 12 h orally, then transition to twice-daily dosing",
+          "IV: Metoprolol tartrate IV 5 mg every 5 min as tolerated up to 3 doses"
+        ],
+        "Avoid/Caution": [
+          "Signs of HF",
+          "Low output state",
+          "Increased risk of cardiogenic shock",
+          "Prolonged first-degree or high-grade AV block",
+          "Reactive airways disease"
+        ]
+      },
+      {
+        "Name": "ACE Inhibitors",
+        "Indications": [
+          "Patients with anterior infarction, post-MI LV systolic dysfunction",
+          "Used routinely for all patients without contraindication"
+        ],
+        "Dose/Administration": [
+          "Lisinopril 2.5 to 5 mg/d to start, titrate to 10 mg/d or higher",
+          "Captopril 6.25 to 12.5 mg 3 times/d to start, titrate to 25 to 50 mg 3 times/d"
+        ],
+        "Avoid/Caution": [
+          "Hypotension",
+          "Renal failure",
+          "Hyperkalemia"
+        ]
+      },
+      {
+        "Name": "ARB",
+        "Indications": [
+          "Patients intolerant of ACE inhibitors"
+        ],
+        "Dose/Administration": [
+          "Valsartan 20 mg twice daily, titrate to 160 mg twice daily"
+        ],
+        "Avoid/Caution": [
+          "Hypotension",
+          "Renal failure",
+          "Hyperkalemia"
+        ]
+      },
+      {
+        "Name": "Statins",
+        "Indications": [
+          "All patients without contraindications"
+        ],
+        "Dose/Administration": [
+          "High-dose atorvastatin 80 mg daily"
+        ]
+      },
+      {
+        "Name": "Nitroglycerin",
+        "Indications": [
+          "Ongoing chest pain",
+          "Hypertension and HF"
+        ],
+        "Dose/Administration": [
+          "0.4 mg sublingual every 5 min up to 3 doses",
+          "IV dosing to begin at 10 mcg/min"
+        ]
+      },
+      {
+        "Name": "Oxygen",
+        "Indications": [
+          "Clinically significant hypoxemia (oxygen saturation <90%)",
+          "HF",
+          "Dyspnea",
+          "Pain",
+          "Anxiety",
+          "Pulmonary edema"
+        ],
+        "Dose/Administration": [
+          "2 to 4 L/min via nasal cannula",
+          "Increase rate or change to face mask as needed"
+        ]
+      },
+      {
+        "Name": "Morphine",
+        "Indications": [],
+        "Dose/Administration": [
+          "4 to 8 mg IV initially, with lower doses in elderly",
+          "2 to 8 mg IV every 5 to 15 min if needed"
+        ],
+        "Avoid/Caution": [
+          "Lethargic or moribund patient",
+          "Hypotension",
+          "Bradycardia",
+          "Known hypersensitivity"
+        ]
+      }
+    ],
+    "Clinical Notes": [
+      "ACE inhibitors reduce fatal and nonfatal major cardiovascular events in patients with STEMI.",
+      "The benefits of ACE inhibitors are independent of other pharmacotherapies.",
+      "ACE inhibitors are recommended for patients with STEMI and no contraindications."
+    ]
+  },
+  "genes": []
+}

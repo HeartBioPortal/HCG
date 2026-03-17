@@ -1,0 +1,96 @@
+{
+  "content": {
+    "Age-Related Changes": {
+      "Central arterial stiffness": {
+        "Clinical Alteration": "\u2191 SBP / \u2193 DBP, \u2191 LVH; \u2191 diastolic function; \u2191 coronary perfusion pressure; \u2193 ischemia/infarct threshold for tachycardia/hypertension with and without coronary obstructive disease; \u2191 PA pressure",
+        "Clinical Impact in NSTE-ACS": "\u2191 risk end-organ damage (cerebrovascular accident, AKI); \u2191 BP liability; \u2191 reirfarction/ischemia; orthostatic hypotension; \u2191 HF; \u2191 pulmonary edema"
+      },
+      "LV diastolic function": {
+        "Clinical Alteration": "\u2191 LA size; \u2193 early passive LV filling; \u2191 late LV filling and \u2191 LV EDP; \u2191 PA pressure",
+        "Clinical Impact in NSTE-ACS": "\u2191 Risk AF; \u2191 pulmonary edema / CO / \u2193 DOE; \u2191 pulmonary edema with \u2191 HR / BP"
+      },
+      "Response to beta-adrenergic stimulation": {
+        "Clinical Alteration": "\u2193 HR / inotropic responsiveness to stress; resting systolic LV function unchanged with age",
+        "Clinical Impact in NSTE-ACS": "Hypotension, \u2191 HF, \u2191 HR response"
+      },
+      "Conduction system changes": {
+        "Clinical Alteration": "\u2193 Sinus node cells; \u2191 AV conduction; \u2191 LBBB, and \u2191 RBBB",
+        "Clinical Impact in NSTE-ACS": "Difficult to interpret electrocardiographic MI/ischemia; \u2191 heart block; SSS; \u2191 SVT; \u2191 sensitivity to conduction system drugs"
+      },
+      "Volume regulating hormones": {
+        "Clinical Alteration": "\u2193 Na, K, and water regulation\u2014BP lability",
+        "Clinical Impact in NSTE-ACS": "Altered electrolytes, \u2191 sensitivity to fluid therapy/diuretics"
+      },
+      "Renal changes": {
+        "Clinical Alteration": "\u2193 GFR (0.8 mL/min/y), \u2193 Na/K clearance, normal serum creatinine (despite moderate to severe CKD), altered drug clearance; \u2193 urine concentrating ability",
+        "Clinical Impact in NSTE-ACS": "CrCl or eGFR must be calculated for drug dosing, \u2191 sensitivity to contrast nephropathy, \u2191 risk AKI"
+      },
+      "Fat-muscle redistribution": {
+        "Clinical Alteration": "\u2191 Third spacing of fluid, may alter drug storage; \u2193 VO2 max",
+        "Clinical Impact in NSTE-ACS": "May alter fluid/drug dosing, decreased CO; DOE; early fatigability"
+      },
+      "Baroreceptor sensitivity": {
+        "Clinical Alteration": "\u2191 BP lability",
+        "Clinical Impact in NSTE-ACS": "Orthostatic hypotension, fall risk"
+      },
+      "Clotting factor/platelet function/hemostasis": {
+        "Clinical Alteration": "\u2191 Bleeding and clotting risk, \u2191 sensitivity to anticoagulants/antithrombins",
+        "Clinical Impact in NSTE-ACS": "\u2191 Risk cerebrovascular accident/reinfraction/recurrent ischemia, bleeding, thrombosis, PE, DVT; may alter drug dosing/sensitivity; \u2191 stent thrombosis"
+      }
+    },
+    "Freedom Trial Outcomes": {
+      "2 years": {
+        "Primary composite": {
+          "PCI": "13.0%",
+          "CABG": "11.9%"
+        },
+        "Death from any cause": {
+          "PCI": "6.7%",
+          "CABG": "6.3%"
+        },
+        "MI": {
+          "PCI": "6.7%",
+          "CABG": "4.7%"
+        },
+        "Stroke": {
+          "PCI": "1.5%",
+          "CABG": "2.7%"
+        },
+        "Cardiovascular death": {
+          "PCI": "0.9%",
+          "CABG": "1.3%"
+        }
+      },
+      "5 years": {
+        "Primary composite": {
+          "PCI": "26.6%",
+          "CABG": "18.7%"
+        },
+        "Death from any cause": {
+          "PCI": "16.3%",
+          "CABG": "10.9%"
+        },
+        "MI": {
+          "PCI": "13.9%",
+          "CABG": "6.0%"
+        },
+        "Stroke": {
+          "PCI": "2.4%",
+          "CABG": "5.2%"
+        },
+        "Cardiovascular death": {
+          "PCI": "10.9%",
+          "CABG": "6.8%"
+        }
+      },
+      "P Values": {
+        "Primary composite": "0.005",
+        "Death from any cause": "0.049",
+        "MI": "<0.001",
+        "Stroke": "0.035",
+        "Cardiovascular death": "0.12"
+      }
+    }
+  },
+  "genes": []
+}

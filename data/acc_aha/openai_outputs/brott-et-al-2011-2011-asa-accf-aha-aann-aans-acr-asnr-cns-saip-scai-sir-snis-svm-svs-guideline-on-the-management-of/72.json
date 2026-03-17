@@ -1,0 +1,35 @@
+{
+  "content": {
+    "title": "ACCF/AHA Practice Guidelines on the Management of Patients with Extracranial Carotid and Vertebral Artery Disease",
+    "sections": [
+      {
+        "title": "Endovascular Management",
+        "references": [
+          "Edgell RC, Abou-Chebl A, Yadav JS. Endovascular management of spontaneous carotid artery dissection.",
+          "Sangue G, Batocchi C, Panico MA, et al. Endovascular management of acute carotid artery dissection.",
+          "Malek AM, Higashida RT, Phatouros CC, et al. Endovascular management of extracranial carotid artery dissection."
+        ]
+      },
+      {
+        "title": "Stenting",
+        "references": [
+          "DeCarlo P, Brillman J, Levy DI. Stenting: a new approach to carotid dissection."
+        ]
+      }
+    ],
+    "keyWords": [
+      "carotid endarterectomy",
+      "carotid stenosis",
+      "carotid stenting",
+      "extracranial carotid artery",
+      "revascularization",
+      "stroke",
+      "vertebral artery disease"
+    ],
+    "appendix": {
+      "title": "Author Relationships with Industry and Other Entities",
+      "description": "Detailed author relationships with industry for conflict of interest disclosure."
+    }
+  },
+  "genes": []
+}

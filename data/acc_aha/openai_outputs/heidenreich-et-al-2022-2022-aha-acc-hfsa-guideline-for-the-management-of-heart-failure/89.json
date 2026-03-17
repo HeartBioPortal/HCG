@@ -1,0 +1,72 @@
+{
+  "content": {
+    "Title": "Management of Comorbidities in Patients With Heart Failure (HF)",
+    "Recommendations": [
+      {
+        "Category": "Management of Anemia or Iron Deficiency",
+        "Recommendations": [
+          {
+            "Level": "2a",
+            "LOE": "B-R",
+            "Text": "In patients with HF with reduced ejection fraction (HFrEF) and iron deficiency with or without anemia, intravenous iron replacement is reasonable to improve functional status and quality of life (QOL)."
+          },
+          {
+            "Level": "3: Harm",
+            "LOE": "B-R",
+            "Text": "In patients with HF and anemia, erythropoietin-stimulating agents should not be used to improve morbidity and mortality."
+          }
+        ]
+      },
+      {
+        "Category": "Management of Hypertension",
+        "Recommendations": [
+          {
+            "Level": "1",
+            "LOE": "C-LD",
+            "Text": "In patients with HFrEF and hypertension, uptitration of GDMT to the maximally tolerated target dose is recommended."
+          }
+        ]
+      },
+      {
+        "Category": "Management of Sleep Disorders",
+        "Recommendations": [
+          {
+            "Level": "2a",
+            "LOE": "C-LD",
+            "Text": "In patients with HF and suspicion of sleep-disordered breathing, a formal sleep assessment is reasonable to confirm the diagnosis and differentiate between obstructive and central sleep apnea."
+          },
+          {
+            "Level": "2a",
+            "LOE": "B-R",
+            "Text": "In patients with HF and obstructive sleep apnea, continuous positive airway pressure may be reasonable to improve sleep quality and decrease daytime sleepiness."
+          },
+          {
+            "Level": "3: Harm",
+            "LOE": "B-R",
+            "Text": "In patients with NYHA class II to IV HFrEF and central sleep apnea, adaptive servo-ventilation causes harm."
+          }
+        ]
+      },
+      {
+        "Category": "Management of Diabetes",
+        "Recommendations": [
+          {
+            "Level": "1",
+            "LOE": "A",
+            "Text": "In patients with HF and type 2 diabetes, the use of SGLT2i is recommended for the management of hyperglycemia and to reduce HF-related morbidity and mortality."
+          }
+        ]
+      }
+    ],
+    "Synopsis": "Multimorbidity is common in patients with HF, with >85% of patients having \u22652 additional chronic conditions like hypertension, ischemic heart disease, diabetes, anemia, CKD, morbid obesity, frailty, and malnutrition, which complicate HF management and prognosis.",
+    "Specific Recommendations": [
+      {
+        "Category": "Anemia",
+        "Details": [
+          "Routine baseline assessment of all patients with HF includes an evaluation for anemia, which is independently associated with HF disease severity and decreases response to treatment."
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

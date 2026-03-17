@@ -1,0 +1,35 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "cor": "I",
+        "lOE": "C-LD",
+        "recommendation": "Evaluation for and treatment of reversible causes are recommended in patients with suspected IST (160,185).",
+        "details": "It's important to distinguish IST from physiological sinus tachycardia or focal AT. Further laboratory and imaging studies are necessary to determine reversible causes like substances and drugs, infection, anemia, and hyperthyroidism."
+      },
+      {
+        "cor": "IIa",
+        "lOE": "B-R",
+        "recommendation": "Ivabradine is reasonable for ongoing management in patients with symptomatic IST (168-176).",
+        "details": "Ivabradine showed reduced daytime heart rate and improved exercise tolerance and symptoms in patients with IST. A significant number of patients reported complete symptom resolution."
+      },
+      {
+        "cor": "IIb",
+        "lOE": "C-LD",
+        "recommendation": "Beta blockers may be considered for ongoing management in patients with symptomatic IST (170,172).",
+        "details": "Beta blockers are modestly effective in lowering the heart rate and improving symptoms. Metoprolol succinate reduced heart rate over four weeks. However, the effectiveness is modest, and hypotension may limit the use."
+      },
+      {
+        "cor": "IIb",
+        "lOE": "C-LD",
+        "recommendation": "The combination of beta blockers and ivabradine may be considered for ongoing management in patients with IST (172).",
+        "details": "Combination therapy has shown good tolerance and efficacy in reducing heart rate and resolving IST symptoms."
+      }
+    ],
+    "focalAtrialTachycardia": {
+      "definition": "Focal AT is characterized as a fast rhythm from a discrete origin, conducting in a centrifugal manner throughout the atrial tissue.",
+      "prevalence": "Focal AT represents approximately 3% to 17% of the patients referred for SVT ablation."
+    }
+  },
+  "genes": []
+}

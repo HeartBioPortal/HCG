@@ -1,0 +1,24 @@
+{
+  "content": {
+    "Table": "Table 5: Table of Definitions of Commonly Used Terms in this Document",
+    "Terms": [
+      {
+        "Term": "Ventricular Tachycardia (VT)",
+        "Definition": "Cardiac arrhythmia of \u22653 consecutive complexes originating in the ventricles at a rate >100 bpm (cycle length: <600 ms). Types include: Sustained VT, Nonsustained VT, Monomorphic VT, Polymorphic VT, Bidirectional VT."
+      },
+      {
+        "Term": "Torsades de pointes",
+        "Definition": "Polymorphic VT that occurs in the setting of a long-QT interval and is characterized by a waxing and waning QRS amplitude. It often has a long-short initiating sequence with a long coupling interval to the first VT beat."
+      },
+      {
+        "Term": "Ventricular Flutter",
+        "Definition": "A regular VA \u2265300 bpm (cycle length: 200 ms) with a sinusoidal, monomorphic appearance; no isoelectric interval between successive QRS complexes."
+      },
+      {
+        "Term": "Ventricular Fibrillation",
+        "Definition": "Rapid, grossly irregular electrical activity with marked variability in electrocardiographic waveform, ventricular rate usually >300 bpm (cycle length: <200 ms)."
+      }
+    ]
+  },
+  "genes": []
+}

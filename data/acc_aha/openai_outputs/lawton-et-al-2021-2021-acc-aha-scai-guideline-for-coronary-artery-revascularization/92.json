@@ -1,0 +1,35 @@
+{
+  "content": {
+    "title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+    "articles": [
+      {
+        "authors": "The INFUSE-AMI randomized trial",
+        "publication": "JAMA. 2012",
+        "summary": "Discusses the use of platelet glycoprotein IIb/IIIa inhibition for STEMI."
+      },
+      {
+        "authors": "Montalescot G, Barragan P, Wittenberg O, et al.",
+        "publication": "N Engl J Med. 2001",
+        "summary": "Alciximab and heparin vs. bivalirudin for non-ST-elevation myocardial infarction."
+      },
+      {
+        "authors": "Kastrati A, Mehilli J, Schulz H, et al.",
+        "publication": "JAMA. 2004",
+        "summary": "Clinical trial of abciximab in elective percutaneous coronary intervention."
+      },
+      {
+        "authors": "Yusuf S, Mehta SR, Chrolavicius S, et al.",
+        "publication": "N Engl J Med. 2006",
+        "summary": "Fondaparinux vs. enoxaparin in acute coronary syndromes."
+      }
+    ],
+    "topics": [
+      "Glycoprotein IIb/IIIa inhibitors",
+      "Bivalirudin",
+      "Fondaparinux",
+      "Enoxaparin",
+      "Radial vs. femoral access"
+    ]
+  },
+  "genes": []
+}

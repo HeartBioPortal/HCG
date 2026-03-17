@@ -1,0 +1,23 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "COR": "1",
+        "LOE": "A",
+        "Recommendation": "In patients with PAD and type 2 diabetes, use of glucagon-like peptide-1 agonists (liraglutide and semaglutide) and sodium-glucose cotransporter-2 (SGLT-2) inhibitors (canagliflozin, dapagliflozin, and empagliflozin) are effective to reduce the risk of MACE."
+      },
+      {
+        "COR": "1",
+        "LOE": "C-EO",
+        "Recommendation": "In patients with PAD, management of diabetes should be coordinated among members of the health care team."
+      },
+      {
+        "COR": "2b",
+        "LOE": "B-NR",
+        "Recommendation": "In patients with PAD and diabetes, glycemic control may be beneficial to improve limb outcomes."
+      }
+    ],
+    "summary": "Diabetes is a significant risk factor for PAD and CLTI. A mix of pharmacological and nonpharmacological therapies is recommended. Updated care standards validate the use of specific drug therapies, improving outcomes in diabetic patients with PAD. A coordinated healthcare team effort is essential for effective diabetes management."
+  },
+  "genes": []
+}

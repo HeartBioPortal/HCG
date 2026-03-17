@@ -1,0 +1,22 @@
+{
+  "content": {
+    "description": "This clinical guideline outlines the genetic testing process in hypertrophic cardiomyopathy (HCM) and provides recommendations for individuals who are genotype-positive but phenotype-negative.",
+    "HCM Genetic Testing Process": [
+      "If a disease-causing Likely Pathogenic/Pathogenic (LP/P) variant is identified, cascade genetic testing in the family is recommended.",
+      "Variants can be reclassified as LP/P or as a Variant of Unknown Significance (VUS) or Likely Benign/Benign (LB/B).",
+      "Regular reevaluation for variant reclassification is advised.",
+      "If VUS, LB/B, or no variant is identified, consider second-tier testing and clinical surveillance in the family."
+    ],
+    "Genotype-Positive, Phenotype-Negative Recommendations": [
+      "Serial clinical assessment, electrocardiography, and cardiac imaging are recommended at periodic intervals (1-2 years for children/adolescents and every 3-5 years for adults).",
+      "Participation in competitive sports is considered reasonable.",
+      "Implantable Cardioverter Defibrillator (ICD) is not recommended for primary prevention."
+    ],
+    "Flowchart Details": {
+      "Initial Testing": "HCM Index Case Targeted Gene Testing",
+      "Positive Variant": "Cascade testing and regular follow-ups are advised.",
+      "Negative Variant": "Further clinical or genetic testing is not recommended."
+    }
+  },
+  "genes": []
+}

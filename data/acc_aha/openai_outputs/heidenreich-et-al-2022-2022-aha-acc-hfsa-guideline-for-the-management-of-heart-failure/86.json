@@ -1,0 +1,37 @@
+{
+  "content": {
+    "Stages": [
+      {
+        "Stage": "A: At risk",
+        "Bedside Findings": "Normotensive, Normal venous pressure, Clear lungs, Warm extremities, Strong palpable pulses, Normal mentation",
+        "Selected Laboratory Markers": "Normal renal function, Normal lactate",
+        "Hemodynamics": "SBP >100 mm Hg, Hemodynamics: Normal"
+      },
+      {
+        "Stage": "B: Beginning shock ('pre-shock')",
+        "Bedside Findings": "Hypotension, Elevated venous pressure, Rales present, Warm extremities, Strong pulses, Normal mentation",
+        "Selected Laboratory Markers": "Preserved renal function, Normal lactate, Elevated BNP",
+        "Hemodynamics": "SBP <90 mm Hg, MAP <60 mm Hg, or >30 mm Hg decrease from baseline SBP, HR >100 bpm, Hemodynamics: CI \u22652.2 L/min/m\u00b2"
+      },
+      {
+        "Stage": "C: Classic cardiogenic shock",
+        "Bedside Findings": "Hypotension, Hypoperfusion, Elevated venous pressure, Rales present, Cold, ashen, diaphoretic, Weak or nonpalpable pulses, Altered mentation, Decreased urine output, Respiratory distress",
+        "Selected Laboratory Markers": "Impaired renal function, Increased lactate, Elevated BNP, Increased LFTs, Acidosis",
+        "Hemodynamics": "SBP <90 mm Hg; MAP <60 mm Hg; >30 mm Hg from baseline SBP despite drugs and temporary MCS, HR >100 bpm, Hemodynamics: CI \u22642.2 L/min/m\u00b2; PCWP >15 mm Hg; CPO <0.6 W; PAPI <2.0; CVP:PCWI >1.0"
+      },
+      {
+        "Stage": "D: Deteriorating",
+        "Bedside Findings": "Worsening hypotension, Worsening hypoperfusion, Same as stage C",
+        "Selected Laboratory Markers": "Persistent or worsening values of stage C",
+        "Hemodynamics": "Escalating use of pressors or MCS to maintain SBP and end-organ perfusion in setting of stage C hemodynamics"
+      },
+      {
+        "Stage": "E: Extremis",
+        "Bedside Findings": "Refractory hypotension, Refractory hypoperfusion, Cardiac arrest, CPR",
+        "Selected Laboratory Markers": "Worsening values of stage C laboratories",
+        "Hemodynamics": "SBP only with resuscitation, PEA, Recurrent VT/VF"
+      }
+    ]
+  },
+  "genes": []
+}

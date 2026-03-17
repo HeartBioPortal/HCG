@@ -1,0 +1,67 @@
+{
+  "content": {
+    "Table Section": "Continued",
+    "Drug Classes Discussed": [
+      "Cardiac Glycosides",
+      "Class III Antiarrhythmic Agents"
+    ],
+    "Drugs": [
+      {
+        "Name": "Digoxin",
+        "Initial Dose": "0.25\u20130.5 mg IV bolus",
+        "Subsequent Dose": "0.25\u20131.0 mg over 24 h as needed",
+        "Potential Adverse Effects": [
+          "Anorexia",
+          "Nausea",
+          "Vomiting",
+          "Visual changes",
+          "Cardiac arrhythmias"
+        ],
+        "Precautions": [
+          "Renal dysfunction",
+          "WPW with AF/atrial flutter",
+          "AV block greater than first degree or SA node dysfunction (without pacemaker)",
+          "Interactions with drugs having AV nodal-blocking properties",
+          "It's a P-glycoprotein substrate"
+        ]
+      },
+      {
+        "Name": "Amiodarone",
+        "Initial Dose": "150 mg IV over 10 min",
+        "Subsequent Dose": "Infusion at 1 mg/min (360 mg) over next 6 h, then 0.5 mg/min (540 mg) over remaining 18 h",
+        "Potential Adverse Effects": [
+          "Hypotension",
+          "Bradycardia",
+          "Phlebitis",
+          "QT prolongation",
+          "Torsades de pointes",
+          "Increased INR"
+        ],
+        "Precautions": [
+          "Sinus or AV conduction disease (without pacemaker)",
+          "Inflammatory liver disease",
+          "Hepatic dysfunction",
+          "Interactions with drugs having SA and/or AV nodal-blocking properties",
+          "CYP2D6, CYP2C9, and CYP3A4 interactions"
+        ]
+      },
+      {
+        "Name": "Ibutilide",
+        "Initial Dose": "Contraindicated when QTc >440 ms; 1 mg over 10 min if \u226560 kg; if <60 kg, then 0.01 mg/kg",
+        "Subsequent Dose": "Can repeat 1 mg once, if arrhythmia does not terminate within 10 min",
+        "Potential Adverse Effects": [
+          "QT prolongation",
+          "Torsades de pointes",
+          "AV block"
+        ],
+        "Precautions": [
+          "Prolonged QT interval",
+          "History of torsades de pointes",
+          "Avoid other QT interval\u2013prolonging drugs",
+          "Concurrent administration of high-dose magnesium"
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

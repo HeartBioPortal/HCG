@@ -1,0 +1,37 @@
+{
+  "content": {
+    "clinical_guidelines": "The guidelines discuss various topics related to aortic dissection and arteritis, particularly focusing on giant cell arteritis and Takayasu arteritis. Pregnancy-related aortic complications, the use and management of glucocorticoids, immunosuppressives, and imaging techniques in arteritis are covered.",
+    "specific_topics": [
+      "Aortic dissection risk management in pregnancy",
+      "Guidelines for diagnosis and management of giant cell arteritis",
+      "Use of imaging in diagnosing arteritis",
+      "Medication management, including glucocorticoids and immunotherapy for arteritis"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "ACTA2",
+      "Associated Conditions": [
+        "aortic dissection"
+      ],
+      "Occurrences": 1,
+      "context": "ACTA2 mutations. Am J Med Genet A. 2014;164:106-112."
+    },
+    {
+      "Gene": "MYLK",
+      "Associated Conditions": [
+        "aortic dissection"
+      ],
+      "Occurrences": 1,
+      "context": "Wallace SE, Regalado ES, Gong L, et al. MYLK pathogenic variants aortic disease presentation, pregnancy risk, and characterization of pathogenic missense variants."
+    },
+    {
+      "Gene": "PRKG1",
+      "Associated Conditions": [
+        "aortic dissection"
+      ],
+      "Occurrences": 1,
+      "context": "Natural history of type B aortic dissection in patients with PRKG1 mutation c.530G>A (p.Arg177Gln)."
+    }
+  ]
+}

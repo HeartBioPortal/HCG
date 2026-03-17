@@ -1,0 +1,16 @@
+{
+  "content": {
+    "general_info": "The document consists of guidelines and studies focused primarily on the management and risk factors associated with cardiac conditions, particularly those linked to ion channelopathies like Brugada syndrome, long QT syndrome, and arrhythmogenic disorders in myotonic dystrophy. Recommendations and findings from various studies are listed, covering device-based therapies, genetic screening, and pharmaceutical interventions."
+  },
+  "genes": [
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "Brugada syndrome",
+        "long QT syndrome"
+      ],
+      "Occurrences": 4,
+      "context": "S7.9.3: Wilde AA, Moss AJ, Kaufman ES, et al. Clinical aspects of type 3 long-QT syndrome for arrhythmic risk assessment: the LQT3 syndrome is caused by mutations in the SCN5A gene. Circulation. 2016;134:872-82."
+    }
+  ]
+}

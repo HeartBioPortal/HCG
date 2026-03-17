@@ -1,0 +1,18 @@
+{
+  "content": {
+    "Evaluation of Acute Chest Pain With Suspected Gastrointestinal Syndromes": {
+      "COR": "2a",
+      "LOE": "C-LD",
+      "Recommendation": "In patients with recurrent acute chest pain without evidence of a cardiac or pulmonary cause, evaluation for gastrointestinal causes is reasonable.",
+      "Synopsis": "Among outpatients with chest pain, approximately 10% to 20% have a gastrointestinal cause. Gastrointestinal pain may result from stimulation of chemoreceptors or mechanoreceptors by abnormal contraction or distention, or of thermoreceptors. Gastroesophageal reflux disease is the most likely cause for recurrent unexplained chest pain of esophageal origin. It can mimic myocardial ischemia and may be described as squeezing or burning. Other causes include esophagitis and allergic conditions such as eosinophilic esophagitis. Esophageal motility disorders can present as squeezing retrosternal pain or spasm. Correlation with heartburn, regurgitation, and relief with antacids can suggest an esophageal cause.",
+      "Recommendation-Specific Supportive Text": "The first step is a careful history and evaluation. Upper endoscopy should be considered for diagnostics, especially if patients exhibit symptoms like dysphagia or unintentional weight loss."
+    },
+    "Evaluation of Acute Chest Pain With Suspected Anxiety and Other Psychosomatic Considerations": {
+      "COR": "2a",
+      "LOE": "B-R",
+      "Recommendation": "For patients with recurrent, similar presentations for acute chest pain with no evidence of physiological cause on prior diagnostic evaluation including a negative workup for myocardial ischemia, referral to a cognitive-behavioral therapist is reasonable.",
+      "Synopsis": "The heart-brain relationship is well established. Stress cardiomyopathy may result in recurrent chest pain despite normal coronary arteries. It has been labeled as INOCA, atypical angina, and noncardiac chest pain. There is a close association of this symptom with psychological syndromes."
+    }
+  },
+  "genes": []
+}

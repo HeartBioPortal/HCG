@@ -1,0 +1,65 @@
+{
+  "content": {
+    "Traditional Risk Factors": [
+      "Hypertension",
+      "Obesity and metabolic syndrome",
+      "Diabetes",
+      "Unhealthy diet and physical inactivity",
+      "Hyperlipidemia",
+      "Tobacco use",
+      "Family history of premature CAD"
+    ],
+    "Nontraditional Risk Factors": [
+      "HIV and ART",
+      "Recreational substance use",
+      "Systemic inflammatory disorders",
+      "Pregnancy-related complications",
+      "Familial hypercholesterolemia",
+      "Miscellaneous factors such as psychological well-being"
+    ],
+    "Key Points": [
+      "AFIJI study evaluated young patients with CAD, finding diabetes and smoking associated with recurrent MACE.",
+      "Chronic inflammatory disease state associated with poor outcomes.",
+      "Traditional risk factors among young adults with CAD are significant alongside nontraditional factors.",
+      "Unique nontraditional factors include chronic inflammation, genetics (such as Ch9p21 locus), and recreational drug use."
+    ],
+    "Nonatherosclerotic Causes of CCD": [
+      {
+        "Cause": "Kawasaki disease",
+        "Presentation": "Late sequelae: coronary artery aneurysm, stenosis, thrombosis, or fistula",
+        "Management": [
+          "Lifelong follow-up with quantitative assessment of luminal dimensions",
+          "Low-dose aspirin therapy",
+          "Low-dose aspirin plus anticoagulant therapy"
+        ]
+      },
+      {
+        "Cause": "Coronary artery anomalies",
+        "Presentation": "Anomalous left coronary artery origin, Anomalous origin of the coronary artery with interarterial course",
+        "Management": [
+          "Surgical repair",
+          "Surgical correction if symptomatic"
+        ]
+      },
+      {
+        "Cause": "Myocardial bridging",
+        "Presentation": "Exercise-induced ischemia, Coronary artery vasospasm, Sudden cardiac death",
+        "Management": [
+          "Beta-adrenergic blocking agents",
+          "Restriction to low-intensity sports",
+          "Surgical correction if symptoms refractory"
+        ]
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "Ch9p21 locus",
+      "Associated Conditions": [
+        "Coronary Artery Disease (CAD)"
+      ],
+      "Occurrences": 1,
+      "context": "Genetics (Ch9p21 locus) among factors for young adults with CCD"
+    }
+  ]
+}

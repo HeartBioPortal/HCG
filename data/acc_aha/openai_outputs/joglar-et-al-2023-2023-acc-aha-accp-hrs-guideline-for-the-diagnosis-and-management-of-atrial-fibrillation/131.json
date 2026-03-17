@@ -1,0 +1,54 @@
+{
+  "content": {
+    "clinical_guideline": "2023 Guideline for the Diagnosis and Management of Atrial Fibrillation",
+    "subject": "Atrial Fibrillation (AF)",
+    "sections": [
+      {
+        "title": "Mechanisms and Pathophysiology",
+        "focus": "Spontaneous initiation of AF, electrical and structural remodeling."
+      },
+      {
+        "title": "Electrophysiological Mechanisms and Electrical Remodeling",
+        "focus": "Ectopic beats origin; type 2 currents; myocardial changes."
+      },
+      {
+        "title": "Atrial Structural Abnormalities, Remodeling, and Atrial Myopathy",
+        "focus": "Fibrosis, hypertrophy, and functional alterations."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "KCNE1",
+      "Associated Conditions": [
+        "atrial fibrillation"
+      ],
+      "Occurrences": 1,
+      "context": "Potential reduction in chronic human atrial fibrillation."
+    },
+    {
+      "Gene": "GJA1",
+      "Associated Conditions": [
+        "atrial fibrogenesis and atrial fibrillation"
+      ],
+      "Occurrences": 1,
+      "context": "Connexin40 and connexin43 alterations associated with structural changes in atrial fibrillation."
+    },
+    {
+      "Gene": "CAMKII",
+      "Associated Conditions": [
+        "atrial fibrillation"
+      ],
+      "Occurrences": 2,
+      "context": "Involved in enhanced sarcoplasmic reticulum Ca2+ leak and associated with arrhythmogenic activity."
+    },
+    {
+      "Gene": "JNK2",
+      "Associated Conditions": [
+        "atrial fibrillation"
+      ],
+      "Occurrences": 1,
+      "context": "Signaling pathways involved in stress responses and potential therapeutic target."
+    }
+  ]
+}

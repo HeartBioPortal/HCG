@@ -1,0 +1,27 @@
+{
+  "content": {
+    "clinical_guideline": "The guideline discusses the management of myocardial injury after noncardiac surgery (MINS). The MANAGE trial evaluated medical therapy for MINS using dabigatran versus placebo, showing a reduction in vascular events without increasing major bleeding risks. Dabigatran significantly decreased vascular events but was associated with an increase in minor bleeding and gastrointestinal bleeding. The guideline also addresses the management of patients with postoperative STEMI/NSTEMI, emphasizing on balancing bleeding and thrombotic risks.",
+    "recommendations": [
+      "Patients with postoperative STEMI after NCS should receive GDMT, considering ICA and balancing risks.",
+      "Patients with NSTEMI after NCS should receive medical therapy, considering postoperative risks.",
+      "Patients with suspected type 2 MI should address underlying causes such as supply-demand mismatch or nonischemic causes."
+    ],
+    "risk_factors": [
+      "Peak cTn concentration",
+      "Bleeding events",
+      "Peripheral artery disease",
+      "Increased platelet and coagulation gene expression"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "platelet and coagulation genes",
+      "Associated Conditions": [
+        "myocardial injury",
+        "subsequent MINS"
+      ],
+      "Occurrences": 1,
+      "context": "Increased preoperative expression of platelet- and coagulation-related genes has been identified as a risk factor for subsequent MINS, highlighting a need for further research into their role in antithrombotic therapy."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "content": {
+    "section": "4.2. Adults With Type 2 Diabetes Mellitus",
+    "summary": {
+      "recommendations": [
+        {
+          "class": "I",
+          "level_of_evidence": "A",
+          "recommendation": "For all adults with T2DM, a tailored nutrition plan focusing on a heart-healthy dietary pattern is recommended to improve glycemic control, achieve weight loss if needed, and improve other ASCVD risk factors."
+        },
+        {
+          "class": "I",
+          "level_of_evidence": "A",
+          "recommendation": "Adults with T2DM should perform at least 150 minutes per week of moderate-intensity physical activity or 75 minutes of vigorous-intensity physical activity to improve glycemic control, achieve weight loss if needed, and improve other ASCVD risk factors."
+        },
+        {
+          "class": "IIa",
+          "level_of_evidence": "B-R",
+          "recommendation": "For adults with T2DM, it is reasonable to initiate metformin as first-line therapy along with lifestyle therapies at the time of diagnosis to improve glycemic control and reduce ASCVD risk."
+        },
+        {
+          "class": "IIb",
+          "level_of_evidence": "B-R",
+          "recommendation": "For adults with T2DM and additional ASCVD risk factors who require glucose-lowering therapy despite initial lifestyle modifications and metformin, it may be reasonable to initiate a sodium-glucose cotransporter 2 (SGLT-2) inhibitor or a glucagon-like peptide-1 receptor (GLP-1R) agonist to improve glycemic control and reduce CVD risk."
+        }
+      ],
+      "synopsis": {
+        "definition": "T2DM, defined as a hemoglobin A1c (HbA1c) >6.5%, is a metabolic disorder characterized by insulin resistance leading to hyperglycemia.",
+        "prevalence": "Approximately 12% of U.S. adults have diabetes, 90% to 95% of whom have T2DM.",
+        "risk_factors": "The development and progression of T2DM are heavily influenced by dietary pattern, physical activity, and body weight.",
+        "management": "Recommended management includes a heart-healthy dietary pattern, lifestyle interventions, metformin, SGLT-2 inhibitors, and GLP-1R agonists."
+      },
+      "lifestyle_modifications": {
+        "nutrition": "A heart-healthy dietary pattern is crucial, focusing on intake of fiber-rich whole grains and avoidance of refined carbohydrates.",
+        "physical_activity": "Exercise programs for T2DM have been shown to improve glycemic control, with aerobic and resistance training being particularly effective."
+      }
+    }
+  },
+  "genes": []
+}

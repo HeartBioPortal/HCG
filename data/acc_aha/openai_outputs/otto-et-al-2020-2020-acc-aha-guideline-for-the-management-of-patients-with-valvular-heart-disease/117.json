@@ -1,0 +1,32 @@
+{
+  "content": {
+    "guideline": "2020 ACC/AHA Guideline for the Management of Valvular Heart Disease",
+    "recommendations": [
+      {
+        "cor": "1",
+        "loe": "C-EO",
+        "description": "For patients undergoing TAVI, 1) contrast-enhanced coronary CT angiography is recommended or 2) an invasive coronary angiogram is reasonable to assess coronary anatomy and guide revascularization."
+      },
+      {
+        "cor": "2a",
+        "loe": "C-LD",
+        "description": "For patients undergoing TAVI with significant left main or proximal CAD with or without angina, revascularization by PCI before TAVI is reasonable."
+      },
+      {
+        "cor": "2a",
+        "loe": "C-LD",
+        "description": "In patients with significant AS and CAD, consisting of complex bifurcation left main and/or multivessel CAD with a SYNTAX score >33, SAVR and CABG are reasonable and preferred over TAVI and PCI."
+      }
+    ],
+    "clinical_points": [
+      "Use of LMWH during pregnancy is associated with a higher rate of thrombotic complications.",
+      "Anti-Xa direct oral anticoagulants have not been shown to be safe in patients with mechanical heart valves.",
+      "Subcutaneous LMWH without anti-Xa level monitoring poses a high risk of thromboembolism and maternal death in pregnant patients with mechanical prostheses."
+    ],
+    "surgical_considerations": [
+      "Concomitant surgical procedures can be beneficial to avoid subsequent reoperation.",
+      "Risks of added cardiopulmonary bypass time and renal injury must be considered in specific patient populations."
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,15 @@
+{
+  "content": {
+    "Endoleaks Overview": "Endoleaks are classified into five types based on the source and location of the leak. They result in the persistence of blood flow outside the graft and within the aneurysm sac, hindering complete thrombosis. Lifelong surveillance imaging is necessary to monitor the appearance of endoleaks.",
+    "Types of Endoleaks": {
+      "Type Ia": "Proximal attachment site endoleak.",
+      "Type Ib": "Distal attachment site endoleak.",
+      "Type II": "Backfilling of the aneurysm sac through branch vessels of the aorta.",
+      "Type III": "Graft defect or component misalignment.",
+      "Type IV": "Leakage through the graft wall attributable to endograft porosity.",
+      "Type V": "Caused by endotension, possibly resulting from aortic pressure transmitted through the graft/thrombus to the aneurysm sac."
+    },
+    "Patient Management": "Patients with endografts require lifelong surveillance to monitor for the occurrence of endoleaks."
+  },
+  "genes": []
+}

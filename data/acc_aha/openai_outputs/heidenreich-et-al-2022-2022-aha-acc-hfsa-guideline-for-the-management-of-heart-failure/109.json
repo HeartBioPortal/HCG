@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Scope of the Guideline": "The document refers to various guidelines and updates focusing on the treatment and management of cardiovascular conditions, including heart failure, coronary artery disease, valvular heart disease, hypertension, and myocardial infarction among others. These guidelines are authored by collaborations among various associations such as the American College of Cardiology, American Heart Association, and other related bodies.",
+    "Key Guidelines and Updates": [
+      {
+        "Title": "ACC/AHA guideline for the management of patients with valvular heart disease",
+        "Publication": "Otto CM, Nishimura RA, Bonow RO, et al. 2020",
+        "Journal": "J Am Coll Cardiol"
+      },
+      {
+        "Title": "ACCF/AHA guideline for coronary artery revascularization",
+        "Publication": "Lawton JS, Tamis-Holland JE, Bangalore S, et al. 2021",
+        "Journal": "J Am Coll Cardiol"
+      },
+      {
+        "Title": "AHA/ACC guideline on the primary prevention of cardiovascular disease",
+        "Publication": "Arnett DK, Blumenthal RS, Albert MA, et al. 2019",
+        "Journal": "J Am Coll Cardiol"
+      },
+      {
+        "Title": "ACC/AHA guideline on the management of heart failure",
+        "Publication": "Yancy CW, Jessup M, Bozkurt B, et al. 2017",
+        "Journal": "J Am Coll Cardiol"
+      }
+    ]
+  },
+  "genes": []
+}

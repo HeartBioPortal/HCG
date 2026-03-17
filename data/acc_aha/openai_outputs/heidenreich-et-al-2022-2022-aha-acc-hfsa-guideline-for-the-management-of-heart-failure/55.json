@@ -1,0 +1,17 @@
+{
+  "content": {
+    "Summary": "In patients with progression of HF with reduced ejection fraction (HFrEF) despite guideline-directed medical therapy (GDMT), there may be a role for novel therapeutic agents. An oral soluble guanylate cyclase stimulator, vericiguat, is discussed as a treatment option. The VICTORIA trial studied patients with HFrEF and high risk of worsening, and results showed a potential benefit in reducing heart failure hospitalization and cardiovascular death with vericiguat compared to placebo.",
+    "Recommendations": [
+      {
+        "Level": "2b",
+        "Grade": "B-R",
+        "Recommendation": "In selected high-risk patients with HFrEF and recent worsening of HF already on GDMT, an oral soluble guanylate cyclase stimulator (vericiguat) may be considered to reduce HF hospitalization and cardiovascular death."
+      }
+    ],
+    "Synopsis": "Vericiguat binds and stimulates soluble guanylate cyclase (sGC) to increase cGMP production, which has beneficial effects in patients with HF, such as vasodilation and improvement in endothelial function.",
+    "Study": "The VICTORIA trial was a phase III trial that randomized 5050 high-risk patients with worsening HFrEF to receive vericiguat versus placebo. Over a median follow-up of 10.8 months, the primary outcome of cardiovascular death or HF hospitalization was lower in the vericiguat group.",
+    "Patient Inclusion Criteria": "Patients had to have LVEF <45%, NYHA class II to IV, elevated NT-proBNP levels, and recent HF worsening.",
+    "Key Findings": "The reduction in cardiovascular events was significant, although the absolute risk reduction was lower than expected."
+  },
+  "genes": []
+}

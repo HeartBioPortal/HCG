@@ -1,0 +1,39 @@
+{
+  "content": {
+    "clinical_guideline": "To evaluate selected ambulatory patients with syncope of suspected arrhythmic etiology, an implantable cardiac monitor (ICM) can be useful. Several RCTs and observational studies have demonstrated a benefit of the ICM in establishing a diagnosis in syncope of unclear etiology. A study showed a 19% diagnostic yield with conventional testing versus ICM, indicating higher diagnosis rates with the use of ICM.",
+    "cost_effectiveness": "The cost per diagnosis was lower in patients who received ICM than in patients who underwent conventional approaches. Differences in healthcare settings, patient populations, and technology changes are key considerations in cost assessment.",
+    "cardiac_rhythm_monitors": [
+      {
+        "type": "Holter monitor",
+        "description": "A portable, battery-operated device with continuous recording for 24-72 hours, up to 2 weeks with newer models.",
+        "patient_selection": "Symptoms frequent enough to be detected within a short period (24-72 h of monitoring)."
+      },
+      {
+        "type": "Patient-activated, transtelephonic monitor",
+        "description": "Transmits patient-activated data to a remote location.",
+        "patient_selection": "Frequent symptoms, likely to recur within 2-6 weeks. Limited use in patients with sudden incapsulated syncope."
+      },
+      {
+        "type": "External loop recorder",
+        "description": "Records and stores rhythm data for weeks to months.",
+        "patient_selection": "Frequent, spontaneous symptoms related to syncope."
+      },
+      {
+        "type": "External patch recorders",
+        "description": "Continuously records and stores rhythm data, with patient-trigger capability.",
+        "patient_selection": "Can be considered as an alternative to an external loop recorder."
+      },
+      {
+        "type": "Mobile cardiac outpatient telemetry",
+        "description": "Records and transmits data up to 30 days from preprogrammed arrhythmias.",
+        "patient_selection": "Spontaneous symptoms related to syncope and rhythm correlation."
+      },
+      {
+        "type": "Implantable cardiac monitor",
+        "description": "Subcutaneously implanted device with a battery life of 2-3 years.",
+        "patient_selection": "Recurrent, unexplained syncope after a nondiagnostic initial workup."
+      }
+    ]
+  },
+  "genes": []
+}

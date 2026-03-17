@@ -1,0 +1,47 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "class": "I",
+        "details": [
+          "Permanent pacemaker implantation is indicated for third-degree and advanced second-degree AV block at any anatomic level after catheter ablation of the AV junction.",
+          "Indicated for persistent symptomatic bradycardia after AV block of any anatomic level not expected to resolve after cardiac surgery.",
+          "Indicated for symptomatic third-degree or advanced second-degree AV block with neuromuscular diseases associated with AV block."
+        ]
+      },
+      {
+        "class": "IIa",
+        "details": [
+          "Reasonable for persistent third-degree AV block in asymptomatic adult patients without cardiomegaly.",
+          "Reasonable for second-degree AV block found at intra- or infra-His levels on electrophysiological study."
+        ]
+      },
+      {
+        "class": "IIb",
+        "details": [
+          "May be considered for neuromuscular diseases associated with advanced AV block.",
+          "May be considered for AV block due to drug use or toxicity when the block is expected to resolve after drug withdrawal."
+        ]
+      },
+      {
+        "class": "III",
+        "details": [
+          "Not indicated for first-degree AV block without symptoms.",
+          "Not indicated for asymptomatic type I second-degree AV block at the supra-Hisian level."
+        ]
+      }
+    ],
+    "chronic_bifascicular_block": {
+      "description": "Refers to ECG evidence of impaired conduction below the AV node in both the right and left bundles. It may present with bilateral bundle-branch block or alternating bundle-branch block.",
+      "risks": "Associated with high mortality and a substantial incidence of sudden death when presenting with advanced AV block."
+    }
+  },
+  "genes": [
+    {
+      "Gene": "ACTA2",
+      "Associated Conditions": [],
+      "Occurrences": 0,
+      "context": ""
+    }
+  ]
+}

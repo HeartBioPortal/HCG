@@ -1,0 +1,49 @@
+{
+  "content": {
+    "guideline_title": "2018 Bradycardia Guideline",
+    "publication_details": "Kusumoto et al., JACC Vol. 74, No. 7, 2019, August 20, 2019",
+    "table_title": "Cardiac Rhythm Monitors",
+    "monitors": [
+      {
+        "type": "Nonphysician prescribed smartphone-based systems",
+        "description": "Commercially available smartphone-based systems that can record a rhythm strip when the patient has symptoms or continuously depending on the technology.",
+        "patient_selection": "Patient access to the technology."
+      },
+      {
+        "type": "Holter monitor",
+        "description": "Continuous recording for 24\u201372 h; up to 2 wk with newer models. Symptom rhythm correlation can be achieved through a patient event diary and patient-activated annotations.",
+        "patient_selection": "Symptoms frequent enough to be detected within a short period (24\u201372 h) of monitoring."
+      },
+      {
+        "type": "Patient-activated, transtelephonic monitor (event monitor)",
+        "description": "A recording device that transmits patient-activated data (live or stored) via an analog telephone line to a central remote monitoring station (e.g., physician office).",
+        "patient_selection": "Frequent, spontaneous symptoms likely to recur within 2\u20136 wk. Limited use in patients with incapacitating symptoms."
+      },
+      {
+        "type": "External loop recorder (patient or auto triggered)",
+        "description": "A device that continuously records and stores rhythm data over weeks to months. Patient activated, or auto triggered (e.g., to record asymptomatic arrhythmias) to provide a recording of events antecedent to (3\u201314 min), during, and after (1\u20134 min) the triggered event. Newer models are equipped with a cellular telephone, which transmits triggered data automatically over a wireless network to a remote monitoring system.",
+        "patient_selection": "Frequent, spontaneous symptoms potentially related to bradycardia or conduction disorder, likely to recur within 2-6 wk."
+      },
+      {
+        "type": "External patch recorders",
+        "description": "Patch device that continuously records and stores rhythm data, with patient-trigger capability to allow for symptom-rhythm correlation. No leads or wires, and adhesive to the chest wall/sternum. Various models record from 2-14 d. Offers accurate means of assessing burden of AF. Patient activated, or auto triggered (e.g., to record asymptomatic arrhythmias) to provide a recording of events antecedent to, during, and after the triggered event.",
+        "patient_selection": "Can be considered as an alternative to external loop recorder. Given that it is leadless, can be accurately self-applied, and is largely water resistant, it may be more comfortable and less cumbersome than an external loop recorder, potentially improving compliance."
+      },
+      {
+        "type": "Mobile cardiac outpatient telemetry",
+        "description": "Device that records and transmits data (up to 30 d) from prerecorded arrhythmias or patient activation to a communication hub at the patient\u2019s home. Significant arrhythmias are detected; the monitor automatically transmits the patient\u2019s electrocardiographic data through a wireless network to the central monitoring station, which is attended by trained technicians 24 h/d.",
+        "patient_selection": "Spontaneous symptoms, potentially related to bradycardia or conduction disorder, that are too brief, to subtle, or infrequent to be readily documented with patient-activated monitors. In high-risk patients whose rhythm requires real-time monitoring."
+      },
+      {
+        "type": "Implantable cardiac monitor",
+        "description": "Subcutaneously implanted device, with a battery life of 2-3 y. Triggered by the patient (or often family member witness) to store the event. Models allow for transtelephonic transmission, as well as automatic detection of significant arrhythmias with remote monitoring.",
+        "patient_selection": "Infrequent, unexplained symptoms, potentially related to bradycardia or conduction disorder after a nondiagnostic initial workup, with or without structural heart disease."
+      }
+    ],
+    "supportive_text": {
+      "study_1": "In a prospective study of 95 individuals with syncope of uncertain origin after history, physical examination and ECG, up to 72 hours of continuous ambulatory monitoring uncovered significant bradyarrhythmia in 11%.",
+      "study_2": "A study of 518 consecutive 24-hour Holter monitors performed for a broad range of cardiac symptoms revealed significant bradyarrhythmia in only 4%, and none manifested advanced atrioventricular block."
+    }
+  },
+  "genes": []
+}

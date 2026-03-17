@@ -1,0 +1,37 @@
+{
+  "content": {
+    "guideline_summary": "The document provides guidelines for patients with hypertrophic cardiomyopathy (HCM) regarding physical activity and sports participation. It discusses the benefits of regular physical exercise in reducing cardiovascular risk, while emphasizing the importance of individualized evaluation before participation in vigorous activities. Patients with HCM can consider competitive sports after expert evaluation if they have no significant symptomatic limitation. Universal restriction from vigorous activities is not necessary for most patients with HCM. Specific considerations are given for individuals with an implantable cardioverter-defibrillator (ICD).",
+    "recommendations": [
+      {
+        "recommendation_class": "2b",
+        "level_of_evidence": "B-NR",
+        "summary": "Participation in competitive sports may be considered for patients with HCM with a high level of physical performance after expert review."
+      },
+      {
+        "recommendation_class": "3",
+        "level_of_evidence": "B-NR",
+        "summary": "Universal restriction from vigorous physical activity or competitive sports is not indicated for most patients with HCM."
+      },
+      {
+        "recommendation_class": "3",
+        "level_of_evidence": "C-EO",
+        "summary": "ICD placement for the sole purpose of competitive sports participation should not be performed."
+      }
+    ],
+    "key_points": [
+      "Regular physical activity promotes longevity and reduces cardiovascular risk.",
+      "Most patients with HCM benefit from at least mild- to moderate-intensity exercise.",
+      "Careful, individualized evaluation is required before engaging in vigorous exercise or competitive sports.",
+      "Genotype-positive patients with negative phenotypic expression show low risk of sudden cardiac death.",
+      "Exercise intensity can be managed by metabolic equivalents with a structured exercise plan."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "No gene mentioned",
+      "Associated Conditions": [],
+      "Occurrences": 0,
+      "context": ""
+    }
+  ]
+}

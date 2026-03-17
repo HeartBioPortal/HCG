@@ -1,0 +1,24 @@
+{
+  "content": {
+    "recommendations": "Recommendations for the use of physical activity to improve lipid levels and blood pressure. The development of formal evidence tables was considered unnecessary by the subcommittee, with resources available in various report supplements.",
+    "5.4. CQ3 Evidence Statements": {
+      "5.4.1. Physical Activity and Lipids": "Evidence supports the use of physical activity alone for improvements in lipids such as HDL-C, LDL-C, triglycerides, and non\u2013HDL-C. The evidence is based on reviews from the 2008 Physical Activity Guidelines Advisory Committee Report and subsequent systematic reviews from 2001 onward.",
+      "5.4.2. Physical Activity and BP": "Evidence supports the use of physical activity alone for improvements in blood pressure, sourced from the 2008 Physical Activity Guidelines Advisory Committee Report and systematic reviews from 2001 onward.",
+      "5.4.2.1. Aerobic Exercise Training and BP": "Explains the benefits of aerobic exercise in managing blood pressure, with specific evidence statements provided in Table 16.",
+      "5.4.2.2. Resistance Exercise Training and BP": "Focuses on a meta-analysis that highlights the impact of resistance training on systolic BP among people with type 2 diabetes, although the review did not provide consistent evidence for BP reduction.",
+      "5.4.2.3. Combination of Aerobic and Resistance Exercise Training and BP": "Indicates a lack of published meta-analyses or reviews examining combined aerobic and resistance exercise training for BP."
+    },
+    "Tables": {
+      "Table 15. ESs for Physical Activity and Lipids": [
+        "ES1: Aerobic activity reduces LDL-C.",
+        "ES2: Aerobic activity reduces non\u2013HDL-C.",
+        "ES3: Aerobic activity shows no effect on triglycerides.",
+        "ES4: Aerobic activity shows no effect on HDL-C."
+      ],
+      "Table 16. ES for Aerobic Exercise Training and BP": [
+        "ES1: Aerobic activity decreases systolic and diastolic BP."
+      ]
+    }
+  },
+  "genes": []
+}

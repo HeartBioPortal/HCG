@@ -1,0 +1,181 @@
+{
+  "content": {
+    "Table": "9 Continued",
+    "Conditions": [
+      {
+        "Category": "Infectious",
+        "Conditions": [
+          {
+            "Name": "Myocarditis",
+            "Clinical Characteristics": "Chest pain, arrhythmias, or profound LV systolic dysfunction. Hemodynamic collapse may occur.",
+            "Notes": "VT and AV block are the likely causes of syncope; transient hemodynamic collapse is possible."
+          },
+          {
+            "Name": "Lyme disease",
+            "Clinical Characteristics": "Lyme myocarditis with classical features of Lyme disease, including erythema migraines and neurological manifestations.",
+            "Notes": "Syncope may be due to AV block, but many patients manifest VVS."
+          },
+          {
+            "Name": "Chagas disease",
+            "Clinical Characteristics": "Chagasic cardiomyopathy caused by trypanosomiasis.",
+            "Notes": "Syncope and sudden death associated with ventricular tachyarrhythmias. AV block also occurs."
+          }
+        ]
+      },
+      {
+        "Category": "Neuromuscular",
+        "Conditions": [
+          {
+            "Name": "Myotonic dystrophy",
+            "Clinical Characteristics": "Autosomal dominant inheritance with multiple organ systems affected. Grip myotonia, weakness, temporal wasting, alopecia, cataracts, glucose intolerance, and daytime somnolence.",
+            "Notes": "Both bradyarrhythmia and tachyarrhythmias."
+          },
+          {
+            "Name": "Friedreich ataxia",
+            "Clinical Characteristics": "Autosomal recessive inheritance with limb and gait ataxia, bladder dysfunction, and daytime somnolence. Diffuse interstitial fibrosis and HCM.",
+            "Notes": "Syncope can be bradycardic or tachycardic. SCD is known to occur."
+          },
+          {
+            "Name": "Kearns-Sayre Syndrome",
+            "Clinical Characteristics": "Mitochondrial myopathy. Chronic progressive external ophthalmoplegia, pigmentary retinopathy.",
+            "Notes": "Many patients develop significant His-Purkinje disease."
+          },
+          {
+            "Name": "Erb dystrophy",
+            "Clinical Characteristics": "Limb girdle muscular dystrophy, manifesting as scapulohumeral and/or pelvicfemoral weakness and atrophy.",
+            "Notes": "AV conduction disease, dilated cardiomyopathy."
+          }
+        ]
+      },
+      {
+        "Category": "Anatomic",
+        "Conditions": [
+          {
+            "Name": "Lenegre-Lev disease",
+            "Clinical Characteristics": "Progressive fibrosis and sclerosis of cardiac conduction system, including the cardiac skeleton, including the aortic and mitral rings.",
+            "Notes": "Syncope is usually due to high-grade AV block."
+          },
+          {
+            "Name": "Cardiac tumors",
+            "Clinical Characteristics": "Triad of obstruction, embolic, and systemic signs and symptoms.",
+            "Notes": "Syncope is often due to obstruction to blood flow."
+          },
+          {
+            "Name": "Prosthetic valve thrombosis",
+            "Clinical Characteristics": "Ranges from asymptomatic to profound HF.",
+            "Notes": "May have similar presentation to a cardiac tumor, with a high risk of embolic phenomenon and obstruction."
+          },
+          {
+            "Name": "Anomalous coronary artery",
+            "Clinical Characteristics": "Common cause of exertional syncope or SCD, classically in young athletes.",
+            "Notes": "Syncope can be due to Bezold Jarisch reflex, hypotension, VT, or AV block."
+          },
+          {
+            "Name": "Aortic dissection",
+            "Clinical Characteristics": "Aortic dissection may manifest with neurological symptoms, myocardial infarction, and HF.",
+            "Notes": "Syncope can occur in as many as 13% of aortic dissections."
+          },
+          {
+            "Name": "Subclavian steal",
+            "Clinical Characteristics": "The phenomenon of flow reversal in a vertebral artery ipsilateral to a hemodynamically significant stenosis of the subclavian artery.",
+            "Notes": "Syncope is generally associated with upper-extremity activity."
+          },
+          {
+            "Name": "Coarctation of the aorta",
+            "Clinical Characteristics": "If severe, it can result in HF or aortic dissection.",
+            "Notes": "Associated bicuspid aortic valve stenosis may be considered with syncope."
+          },
+          {
+            "Name": "Rheumatoid arthritis",
+            "Clinical Characteristics": "Chronic, autoimmune inflammatory disorder with systemic manifestations.",
+            "Notes": "Rarely associated with complete heart block and syncope."
+          },
+          {
+            "Name": "Syringomyelia/Chiari malformation",
+            "Clinical Characteristics": "Arnold Chiari malformations are the most common form of syringomyelia.",
+            "Notes": "Syringomyelia-induced disruption of sympathetic fibers in the thoracic spinal cord is a rare mechanism of syncope."
+          },
+          {
+            "Name": "Neck/vestigal tumor",
+            "Clinical Characteristics": "Recurrent syncope is an uncommon complication of neck malignancy.",
+            "Notes": "The mechanism may be invasion of the carotid sinus or the afferent nerve fibers of the glossopharyngeal nerve."
+          }
+        ]
+      },
+      {
+        "Category": "Endocrine",
+        "Conditions": [
+          {
+            "Name": "Carcinoid syndrome/Pheochromocytoma",
+            "Clinical Characteristics": "These tumors can release vasoactive peptides and cause vasodilation, flushing, pruritus, and gastrointestinal symptoms.",
+            "Notes": "Syncope is usually due to transient hypotension."
+          },
+          {
+            "Name": "Mastocytosis/vasoactive intestinal peptide tumor",
+            "Clinical Characteristics": "",
+            "Notes": ""
+          }
+        ]
+      },
+      {
+        "Category": "Hematologic",
+        "Conditions": [
+          {
+            "Name": "Beta thalassemia major",
+            "Clinical Characteristics": "Severe anemia, multiple organ failure, and dilated cardiomyopathy due to iron overload.",
+            "Notes": "Syncope may be arrhythmic."
+          }
+        ]
+      },
+      {
+        "Category": "Neurological disorders",
+        "Conditions": [
+          {
+            "Name": "Seizure-induced bradycardia/hypotension",
+            "Clinical Characteristics": "Generally due to temporal lobe epilepsy.",
+            "Notes": "Postictal bradyarrhythmia is uncommon and likely originates from the temporal lobe or limbic system."
+          },
+          {
+            "Name": "Migraine",
+            "Clinical Characteristics": "Migraine headaches are statistically associated with syncope.",
+            "Notes": "Syncope may be vasovagal or due to orthostatic intolerance."
+          }
+        ]
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "DMPK",
+      "Associated Conditions": [
+        "Myotonic dystrophy"
+      ],
+      "Occurrences": 1,
+      "context": "Autosomal dominant inheritance with multiple organ systems affected. Grip myotonia, weakness, temporal wasting, alopecia, cataracts, glucose intolerance, and daytime somnolence."
+    },
+    {
+      "Gene": "FXN",
+      "Associated Conditions": [
+        "Friedreich ataxia"
+      ],
+      "Occurrences": 1,
+      "context": "Autosomal recessive inheritance with limb and gait ataxia, bladder dysfunction, and daytime somnolence. Diffuse interstitial fibrosis and HCM."
+    },
+    {
+      "Gene": "MT-TL1",
+      "Associated Conditions": [
+        "Kearns-Sayre Syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Mitochondrial myopathy. Chronic progressive external ophthalmoplegia, pigmentary retinopathy."
+    },
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [
+        "Erb dystrophy"
+      ],
+      "Occurrences": 1,
+      "context": "Limb girdle muscular dystrophy, manifesting as scapulohumeral and/or pelvicfemoral weakness and atrophy."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "content": {
+    "Topic": "Acute Limb Ischemia (ALI)",
+    "Guideline Overview": "Patients with ALI should be evaluated for revascularization and receive medical therapy concurrently. Systemic anticoagulation with unfractionated heparin is recommended on diagnosis unless contraindicated.",
+    "Recommendations": [
+      {
+        "COR": "1",
+        "LOE": "C-EO",
+        "Recommendation": "Systemic anticoagulation with unfractionated heparin should be administered to all patients with ALI at diagnosis, regardless of cause or anatomic level of occlusion."
+      }
+    ],
+    "Considerations": "In patients at high risk of bleeding, or with contraindications such as aortic dissection or major vascular trauma, alternative therapies or management of anticoagulation may be necessary. Delayed primary closure of fasciotomy incisions can mitigate wound morbidity."
+  },
+  "genes": []
+}

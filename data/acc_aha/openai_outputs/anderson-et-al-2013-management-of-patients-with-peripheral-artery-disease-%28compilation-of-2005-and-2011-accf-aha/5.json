@@ -1,0 +1,69 @@
+{
+  "content": {
+    "guideline": "Management of Patients With PAD",
+    "topics": [
+      {
+        "section": "2.2.2 Pulse Volume Recording",
+        "classIia": "Pulse volume recordings are reasonable to establish the initial lower extremity PAD diagnosis, assess localization and severity, and follow the status of lower extremity revascularization procedures.",
+        "levelOfEvidence": "B"
+      },
+      {
+        "section": "2.2.3 Continuous-Wave Doppler Ultrasound",
+        "classI": "Continuous-wave Doppler ultrasound blood flow measurements are useful to provide an accurate assessment of lower extremity PAD location and severity, to follow lower extremity PAD progression, and to provide quantitative follow-up after revascularization procedures.",
+        "levelOfEvidence": "B"
+      },
+      {
+        "section": "2.2.4 Treadmill Exercise Testing With and Without ABI Assessments and 6-Minute Walk Test",
+        "classI": [
+          "Exercise treadmill tests are recommended to provide the most objective evidence of the magnitude of the functional limitation of claudication and to measure the response to therapy.",
+          "A standardized exercise protocol should be used to ensure reproducibility of measurements of pain-free walking distance and maximal walking distance.",
+          "Exercise treadmill tests with measurement of pre-exercise and postexercise ABI values are recommended for differentiating arterial claudication from nonarterial claudication."
+        ],
+        "classIib": [
+          "A 6-minute walk test may be reasonable to provide an objective assessment of claudication and response to therapy in elderly individuals or others not amenable to treadmill testing."
+        ],
+        "levelOfEvidence": "B"
+      },
+      {
+        "section": "2.2.5 Duplex Ultrasound",
+        "classI": [
+          "Duplex ultrasound of the extremities is useful to diagnose anatomic location and degree of stenosis of PAD.",
+          "Duplex ultrasound is recommended for routine surveillance after bypass with a venous conduit."
+        ],
+        "classIia": [
+          "Duplex ultrasound of the extremities can be useful to select patients as candidates for endovascular intervention.",
+          "Duplex ultrasound can be useful to select patients as candidates for surgical bypass and to select the sites of surgical anastomosis."
+        ],
+        "classIib": "The use of duplex ultrasound is not well established to assess long-term patency of percutaneous transluminal angioplasty.",
+        "levelOfEvidence": "B"
+      },
+      {
+        "section": "2.2.6 Computed Tomographic Angiography",
+        "classIib": [
+          "Computed tomographic angiography (CTA) of the extremities may be considered to diagnose anatomic location and presence of significant stenosis in patients with lower extremity PAD.",
+          "CTA of the extremities may be considered as a substitute for magnetic resonance angiography for those with contraindications to MRA."
+        ],
+        "levelOfEvidence": "B"
+      },
+      {
+        "section": "2.2.7 Magnetic Resonance Angiography",
+        "classI": [
+          "MRA of the extremities is useful to diagnose anatomic location and degree of stenosis of PAD.",
+          "MRA of the extremities should be performed with gadolinium enhancement.",
+          "MRA of the extremities is useful in selecting patients with lower extremity PAD as candidates for endovascular intervention."
+        ],
+        "classIib": [
+          "MRA of the extremities may be considered to select patients with lower extremity PAD as candidates for surgical bypass and to select the sites of surgical anastomosis.",
+          "MRA of the extremities may be considered for postrevascularization surveillance."
+        ],
+        "levelOfEvidence": "B"
+      },
+      {
+        "section": "2.2.8 Contrast Angiography",
+        "classI": "Decisions regarding the potential utility of invasive therapy should be made with a complete anatomic assessment.",
+        "levelOfEvidence": "B"
+      }
+    ]
+  },
+  "genes": []
+}

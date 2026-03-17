@@ -1,0 +1,26 @@
+{
+  "content": {
+    "Recommendations for Pacing After Mitral Valve Surgery": [
+      {
+        "COR": "I",
+        "LOE": "B-NR",
+        "Recommendations": "In patients who have new postoperative SND or atrioventricular block associated with persistent symptoms or hemodynamic instability that does not resolve after mitral valve repair or replacement surgery, permanent pacing is recommended before discharge (S8.1.2.3.2-1, S8.1.2.3.2-2)."
+      },
+      {
+        "COR": "IIa",
+        "LOE": "C-LD",
+        "Recommendations": "In patients undergoing mitral valve surgery, routine placement of temporary epicardial pacing wires is reasonable (S8.1.2.3.2-1\u2013S8.1.2.3.2-3)."
+      },
+      {
+        "COR": "IIb",
+        "LOE": "C-EO",
+        "Recommendations": "In patients undergoing surgical mitral valve repair or replacement who will likely require future CRT or ventricular pacing, intraoperative placement of a permanent epicardial left ventricular lead may be considered."
+      }
+    ],
+    "Synopsis": "Incidence of new atrioventricular block has been reported in as high as 23.5% of patients undergoing mitral valve replacement or ring repair (S8.1.2.3.2-1). In a pathologic study, 55 hearts from patients who had not undergone surgery were examined to evaluate the relationship between the atrioventricular node, atrioventricular nodal artery and mitral annulus (S8.1.2.3.2-1). In the dissected hearts, 23% had an atrioventricular nodal artery that ran close to the mitral valve, suggesting that damage to the artery may play a role in the development of atrioventricular block after mitral valve surgery. The need for a PPM after mitral surgery ranges from 1% to 9% (S8.1.2.3.2-1, S8.1.2.3.2-3, S8.1.2.3.2-4). The cause may be influenced by type of surgery and may be lower in the repair population in whom an incomplete annuloplasty band could avoid injury to the atrioventricular nodal artery (S8.1.2.3.2-2, S8.1.2.3.2-4).",
+    "Recommendation-Specific Supportive Text": [
+      "The need for PPM placement is common after mitral valve surgery (S8.1.2.3.2-1, S8.1.2.3.2-2, S8.1.2.3.2-5). In part to facilitate postsurgical recovery (such as moving out of the intensive care setting, ambulation, and the initiation of anticoagulation), patients in whom new onset atrioventricular block or SND develops and does not improve should undergo permanent pacer placement before discharge for persistent symptomatic or hemodynamically significant bradycardia. Because mitral valve surgery involves injury of the atrioventricular node region rather than the His bundle injury associated with aortic valve surgery, the threshold for pacemaker implant is higher. Specific timing of pacemaker implant has not been formally studied and will always depend on the individual clinical situation but 5 to 7 days after mitral valve surgery is probably reasonable."
+    ]
+  },
+  "genes": []
+}

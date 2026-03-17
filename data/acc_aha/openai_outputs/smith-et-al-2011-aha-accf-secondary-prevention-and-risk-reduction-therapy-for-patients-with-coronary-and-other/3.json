@@ -1,0 +1,78 @@
+{
+  "content": {
+    "Physical activity": {
+      "Goal": "At least 30 minutes, 7 days per week",
+      "Recommendations": [
+        "Clinician should encourage 30 to 60 minutes of moderate-intensity aerobic activity, at least 5 days per week.",
+        "Risk assessment with a physical activity history is recommended.",
+        "Counsel patients to report and be evaluated for symptoms related to exercise."
+      ],
+      "Levels of Evidence": {
+        "Class I": [
+          "B",
+          "B",
+          "C"
+        ],
+        "Class IIa": [
+          "C"
+        ]
+      }
+    },
+    "Weight management": {
+      "Goals": [
+        "Body mass index: 18.5 to 24.9 kg/m\u00b2",
+        "Waist circumference: women <35 inches (<89 cm), men <40 inches (<102 cm)"
+      ],
+      "Recommendations": [
+        "Assess body mass index and/or waist circumference at every visit.",
+        "Promote a body mass index between 18.5 and 24.9 kg/m\u00b2.",
+        "For increased waist circumference, intensify therapeutic lifestyle interventions."
+      ],
+      "Levels of Evidence": {
+        "Class I": [
+          "B",
+          "B",
+          "C"
+        ]
+      }
+    },
+    "Type 2 diabetes mellitus management": {
+      "Recommendations": [
+        "Care should be coordinated with an endocrinologist.",
+        "Daily physical activity, weight management, blood pressure control, and lipid management recommended."
+      ],
+      "Levels of Evidence": {
+        "Class I": [
+          "C",
+          "B"
+        ],
+        "Class IIa": [
+          "A",
+          "C"
+        ],
+        "Class IIb": [
+          "C"
+        ]
+      }
+    },
+    "Antiplatelet agents/anticoagulants": {
+      "Recommendations": [
+        "Aspirin 75\u2013162 mg daily for patients with coronary artery disease.",
+        "Clopidogrel 75 mg daily as an alternative for aspirin-intolerant patients.",
+        "Combination of a P2Y12 receptor antagonist with aspirin for ACS or PCI patients.",
+        "Specific dosing for patients with stents recommended.",
+        "Consider anticoagulant strategies after coronary artery bypass surgery."
+      ],
+      "Levels of Evidence": {
+        "Class I": [
+          "A",
+          "B",
+          "A",
+          "A",
+          "A"
+        ]
+      }
+    }
+  },
+  "genes": []
+}

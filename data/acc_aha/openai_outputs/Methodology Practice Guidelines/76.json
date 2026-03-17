@@ -1,0 +1,38 @@
+{
+  "content": {
+    "Eligibility for Committee": {
+      "Relevancy": {
+        "Relationship or interest": "Must relate to the same or similar subject, topic, or issue in the document.",
+        "Company/entity": "Makes a drug, drug class, or device addressed in the document or makes a competing drug/device.",
+        "Personal/Household": "Potential for financial, professional, or personal gain/loss related to the document."
+      }
+    },
+    "Voting and Recommendations": {
+      "Relevant Relationship": [
+        {
+          "Condition": "Relevant RWI regarding a product/competing product; document section relates to this.",
+          "Permission": "Participate in discussions, not in drafting or voting."
+        },
+        {
+          "Condition": "Relevant RWI regarding a product/competing product; document section is not related.",
+          "Permission": "Participate, draft, and vote."
+        },
+        {
+          "Condition": "Relevant RWI regarding product/competing product; document relates to product/service sponsor.",
+          "Permission": "Participate in discussions, not in drafting or voting."
+        }
+      ]
+    },
+    "Disclosure Timing": [
+      "Disclosure in writing or online before writing effort.",
+      "Transparency ensured during writing and sign-off processes.",
+      "Report new relationships during writing to chair immediately."
+    ],
+    "RWI Management": {
+      "Writing Committee Balance": {
+        "Chair/Co-Chairs": "Must have no relevant RWI. Selected based on competency in managing the writing group."
+      }
+    }
+  },
+  "genes": []
+}

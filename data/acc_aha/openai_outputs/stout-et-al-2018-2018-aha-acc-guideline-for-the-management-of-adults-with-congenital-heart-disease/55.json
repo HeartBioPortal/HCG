@@ -1,0 +1,76 @@
+{
+  "content": {
+    "Testing Intervals": {
+      "Physiological Stage A": "24-36 months",
+      "Physiological Stage B": "24 months",
+      "Physiological Stage C": "6-12 months",
+      "Physiological Stage D": "3-6 months"
+    },
+    "Frequency": {
+      "Outpatient ACHD cardiologist": [
+        24,
+        36,
+        24
+      ],
+      "ECG": [
+        24,
+        36,
+        24
+      ],
+      "TTE": [
+        24,
+        36,
+        24
+      ],
+      "CMR/CCT": [
+        36,
+        60,
+        36,
+        24,
+        36
+      ],
+      "Exercise test": [
+        36,
+        24,
+        24
+      ]
+    },
+    "Clinical Summary": {
+      "pulmonary branch": "Can be isolated or associated with syndromes like Noonan, Alagille, Williams, maternal rubella exposure.",
+      "imaging": "TTE, CMR, CCT used for visualization and assessment.",
+      "interventions": "Balloon angioplasty, stenting for branch PA stenosis, especially with TOF or Williams syndrome."
+    },
+    "Recommendations for Double-Chambered Right Ventricle": {
+      "Surgical repair": {
+        "Class I C-LD": "Recommended for adults with unexplained HF symptoms.",
+        "Class IIb C-LD": "Considered for asymptomatic patients with severe gradient."
+      }
+    }
+  },
+  "genes": [
+    {
+      "Gene": "Noonan",
+      "Associated Conditions": [
+        "syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Pulmonary branch and peripheral PS can occur in association with a syndrome (e.g., Noonan)."
+    },
+    {
+      "Gene": "Alagille",
+      "Associated Conditions": [
+        "syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Pulmonary branch and peripheral PS can occur in association with a syndrome (e.g., Alagille)."
+    },
+    {
+      "Gene": "Williams",
+      "Associated Conditions": [
+        "syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Pulmonary branch and peripheral PS can occur in association with a syndrome (e.g., Williams)."
+    }
+  ]
+}

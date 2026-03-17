@@ -1,0 +1,36 @@
+{
+  "content": {
+    "Procedures for Use of HBPM": {
+      "Patient Training": [
+        "Information about hypertension",
+        "Selection of equipment",
+        "Acknowledgment that individual BP readings may vary substantially",
+        "Interpretation of results"
+      ],
+      "Devices": [
+        "Verify use of automated validated devices.",
+        "Verifying appropriate cuff size.",
+        "Check for significant left/right inter-arm differences in BP."
+      ],
+      "Instructions on HBPM Procedures": [
+        "Remain still before measurements.",
+        "Ensure proper sitting posture during measurements.",
+        "Bottom of the cuff should be placed directly above the antecubital fossa."
+      ],
+      "Take Multiple Readings": "At least 2 readings 1 min apart in the morning and evening.",
+      "Record All Readings": [
+        "Monitors with built-in memory should be brought to all clinic appointments.",
+        "BP should be based on an average of readings on \u22652 occasions for clinical decision-making."
+      ]
+    },
+    "Values of SBP/DBP for Clinic and ABPM Measurements": [
+      "Clinic readings: 120/80, 130/80, 140/90, 160/100",
+      "HBPM, Daytime ABPM, Nighttime ABPM, 24-hour ABPM values provided."
+    ],
+    "Ambulatory BP Monitoring": {
+      "Major RCTs": "Based on the use of clinic BP readings supplemented by ABPM",
+      "ABPM Conducted": "Includes readings every 15 to 30 minutes throughout the day, and every 15 minutes to 1 hour during the night."
+    }
+  },
+  "genes": []
+}

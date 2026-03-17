@@ -1,0 +1,60 @@
+{
+  "content": {
+    "Title": "RCTs and Meta-Analyses of Garlic Therapy for Risk Treatment of Risk Factors",
+    "Objective": "The guideline discusses the incorporation of evidence from various research forms for managing chronic stable angina and risk factors through garlic therapy.",
+    "Summary": [
+      {
+        "Condition": "Hypercholesterolemia",
+        "Studies": [
+          {
+            "Author": "Berthold",
+            "Year": 1998,
+            "Study Type": "RCT",
+            "Patients": "25+",
+            "Daily Dose and Preparation": "10 mg steam distilled oil",
+            "Effect": "No difference in multiple measures"
+          },
+          {
+            "Author": "Isaacsohn",
+            "Year": 1998,
+            "Study Type": "RCT",
+            "Patients": 40,
+            "Daily Dose and Preparation": "900 mg powder",
+            "Effect": "No difference in multiple measures"
+          },
+          {
+            "Author": "Jain",
+            "Year": 1993,
+            "Study Type": "RCT",
+            "Patients": 42,
+            "Daily Dose and Preparation": "900 mg powder",
+            "Effect": "Reduction in LDL of 11% vs. 3% for placebo"
+          },
+          {
+            "Author": "Warshafsky",
+            "Year": 1993,
+            "Study Type": "Meta-analysis",
+            "Trials": 5,
+            "Daily Dose and Preparation": "1/2 - 1 clove per day",
+            "Effect": "Reduction in total cholesterol of 95 mg/dL"
+          }
+        ]
+      },
+      {
+        "Condition": "Hypertension",
+        "Studies": [
+          {
+            "Author": "Silagy",
+            "Year": 1994,
+            "Study Type": "Meta-analysis",
+            "Trials": 8,
+            "Daily Dose and Preparation": "600-900 mg powder",
+            "Effect": "Small reduction in systolic and diastolic BP"
+          }
+        ]
+      }
+    ],
+    "Additional Information": "American College of Physicians guidelines for chronic stable angina management discussed. An EPC added a comprehensive summary of SRs and CPGs, highlighting the importance of independent review in enhancing the credibility of scientific research."
+  },
+  "genes": []
+}

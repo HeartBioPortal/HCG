@@ -1,0 +1,27 @@
+{
+  "content": {
+    "title": "2020 ACC/AHA Guideline for the Management of Valvular Heart Disease",
+    "key_points": [
+      "Bridging therapy is discussed in the context of anticoagulation management.",
+      "Various studies and trials compare effectiveness and safety of different anticoagulants such as warfarin, dabigatran, and apixaban.",
+      "Issues related to valve thrombosis, embolic complications, and surgical considerations are highlighted.",
+      "The role of direct oral anticoagulants (DOACs) and low-molecular-weight heparin (LMWH) in perioperative settings are reviewed.",
+      "The use of novel agents like idarucizumab and andexanet alfa for reversal of anticoagulation effects is mentioned."
+    ],
+    "clinical_studies": [
+      {
+        "study": "Heras M, et al.",
+        "discussion": "High risk of thromboembolism early after bioprosthetic cardiac valve replacement."
+      },
+      {
+        "study": "Collu A, et al.",
+        "discussion": "Comparison between warfarin and aspirin after heart valve replacement."
+      },
+      {
+        "study": "Aramendi JI, et al.",
+        "discussion": "Anticoagulation protocols for bioprosthetic valve replacement."
+      }
+    ]
+  },
+  "genes": []
+}

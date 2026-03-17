@@ -1,0 +1,19 @@
+{
+  "content": {
+    "exercise_training": "Exercise training is associated with improvements in functional capacity, exercise duration, health-related quality of life, and reduction in heart failure hospitalizations in patients with heart failure with reduced ejection fraction (HFrEF) and heart failure with preserved ejection fraction (HFpEF).",
+    "diuretics_recommendations": [
+      {
+        "cor": "1",
+        "loe": "B-NR",
+        "recommendation": "In patients with heart failure who have fluid retention, diuretics are recommended to relieve congestion, improve symptoms, and prevent worsening heart failure."
+      },
+      {
+        "cor": "1",
+        "loe": "B-NR",
+        "recommendation": "For patients with heart failure and congestive symptoms, addition of a thiazide to treatment with a loop diuretic should be reserved for patients who do not respond to moderate- or high-dose loop diuretics to minimize electrolyte abnormalities."
+      }
+    ],
+    "diuretics_details": "Bumetanide, furosemide, and torsemide are loop diuretics that inhibit reabsorption of sodium or chloride at the loop of Henle. Thiazide diuretics such as chlorthalidone or hydrochlorothiazide may be used in patients with hypertension and mild fluid retention. Metolazone or chlorothiazide may be added in refractory edema unresponsive to loop diuretics alone."
+  },
+  "genes": []
+}

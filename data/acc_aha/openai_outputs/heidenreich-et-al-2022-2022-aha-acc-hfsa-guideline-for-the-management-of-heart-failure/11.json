@@ -1,0 +1,19 @@
+{
+  "content": {
+    "Stage A: At Risk for HF": "Individuals are at risk for heart failure (HF) but do not show symptoms, structural heart disease, or cardiac biomarkers of stretch or injury. This includes patients with hypertension, atherosclerotic cardiovascular disease (CVD), diabetes, metabolic syndrome, obesity, exposure to cardiotoxic agents, genetic variants for cardiomyopathy, or a family history of cardiomyopathy.",
+    "Stage B: Pre-HF": "No symptoms or signs of heart failure, but with evidence of risk such as structural heart disease (e.g., reduced left or right ventricular systolic function, reduced ejection fraction, ventricular hypertrophy, chamber enlargement), valvular diseases, or evidence for increased filling pressures.",
+    "Stage C: Symptomatic HF": "Structural heart disease with current or previous symptoms of heart failure.",
+    "Stage D: Advanced HF": "Marked symptoms of heart failure that interfere with daily life, along with recurrent hospitalizations despite guideline-directed medical therapy.",
+    "NYHA Classification": "Used to categorize symptoms and functional capacity of patients with symptomatic or advanced heart failure. It predicts mortality and determines eligibility for treatment strategies."
+  },
+  "genes": [
+    {
+      "Gene": "ACTA2",
+      "Associated Conditions": [
+        "Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Patients at risk for heart failure include those with genetic variants for cardiomyopathy, such as ACTA2."
+    }
+  ]
+}

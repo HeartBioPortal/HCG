@@ -1,0 +1,46 @@
+{
+  "content": {
+    "plan_of_care": [
+      "2010 CPG for cardiopulmonary resuscitation and emergency cardiovascular care\u2014part 9: post-cardiac arrest care",
+      "2013 STEMI CPG"
+    ],
+    "patient_education": [
+      "Recognizing symptoms of MI",
+      "Activating EMS, signs and symptoms for urgent vs. emergency evaluations",
+      "CPR training for family members",
+      "Risk assessment and prognosis",
+      "Advanced directives",
+      "Social networks/social isolation"
+    ],
+    "socioeconomic_factors": {
+      "access_to_health_insurance": [
+        "Access to clinicians",
+        "Disability",
+        "Social services",
+        "Community services"
+      ]
+    },
+    "class_1_recommendations": [
+      "Reasonable to use an aspirin maintenance dose of 81 mg per day in preference to higher maintenance doses in patients with NSTE-ACS treated inversely or with coronary stent implantation",
+      "Reasonable to use ticagrelor in preference to clopidogrel for maintenance P2Y12 treatment in patients with NSTE-ACS who undergo an early invasive or ischemia-guided strategy",
+      "Reasonable to choose prasugrel over clopidogrel for maintenance P2Y12 treatment in patients with NSTE-ACS who undergo PCI who are not at high risk for bleeding complications",
+      "Discontinue P2Y12 inhibitor therapy if the risk of bleeding outweighs the benefit after stent implantation"
+    ],
+    "class_3_recommendations": [
+      "Continuation of DAPT beyond 12 months may be considered in patients undergoing stent implantation"
+    ],
+    "combined_oral_anticoagulant_therapy": {
+      "class_1": [
+        "Duration of triple antithrombotic therapy with a vitamin K antagonist, aspirin, and a P2Y12 receptor inhibitor in patients with NSTE-ACS should be minimized to the least extent possible to limit risk",
+        "Proton pump inhibitors should be prescribed in patients with NSTE-ACS with a history of gastrointestinal bleeding who require triple antithrombotic therapy"
+      ],
+      "class_2a": [
+        "Proton pump inhibitor use is reasonable in patients with NSTE-ACS without a known history of gastrointestinal bleeding who require triple antithrombotic therapy"
+      ],
+      "class_3": [
+        "Targeting oral anticoagulant therapy to a lower INR may be reasonable in patients with NSTE-ACS managed with aspirin and a P2Y12 inhibitor"
+      ]
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,19 @@
+{
+  "content": {
+    "Clinical Context": "The document provides guidelines for the diagnosis and management of Atrial Fibrillation (AF). It highlights that patients with AF often have multiple conditions that can increase AF risk or are exacerbated by it. The guideline emphasizes comprehensive care approaches tailored to individual patients to improve outcomes and reduce AF burden.",
+    "Recommendations": [
+      {
+        "COR": "1",
+        "LOE": "A",
+        "Recommendation": "Patients with AF should receive comprehensive care addressing guideline-directed lifestyle risk factor management (LRFM), AF symptoms, risk of stroke, and other associated medical conditions to reduce AF burden, progression, or consequences."
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-R",
+        "Recommendation": "In patients with AF, use of clinical care pathways, such as nurse-led AF clinics, is reasonable to promote comprehensive, team-based care and to enhance adherence to evidence-based therapies for AF and associated conditions."
+      }
+    ],
+    "Synopsis": "Randomized trials have shown that interventions aimed at AF risk factors can reduce AF burden. Clinical care pathways and algorithms, including LRFM, have been promising in trials. However, it is unclear if a multidisciplinary team leads to better outcomes. Coordination of care among clinicians is emphasized. Several studies and trials, such as RACE 3, have shown varied efficacy in AF management strategies."
+  },
+  "genes": []
+}

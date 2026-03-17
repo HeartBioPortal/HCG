@@ -1,0 +1,52 @@
+{
+  "content": {
+    "Synopsis": "In patients with chronic symptomatic PAD and claudication, medical therapy with cilostazol has been shown to reduce symptoms of claudication and improve walking distance. In limited studies, cilostazol has also been shown to reduce restenosis after endovascular therapy for femoropopliteal stenosis. Cilostazol is contraindicated in patients with congestive heart failure. Other medical therapies, including pentoxifylline and chelation therapy, have not been shown to provide benefit in terms of leg symptoms for individuals with PAD.",
+    "Medications Recommendations": [
+      {
+        "Medication": "Cilostazol",
+        "Recommendations": [
+          {
+            "COR": "1",
+            "LOE": "A",
+            "Description": "Recommended to improve leg symptoms and increase walking distance in patients with claudication."
+          },
+          {
+            "COR": "2b",
+            "LOE": "B-R",
+            "Description": "May be useful to reduce restenosis after endovascular therapy for femoropopliteal disease."
+          },
+          {
+            "COR": "3",
+            "LOE": "C-LD",
+            "Description": "Should not be administered in patients with PAD and congestive heart failure of any severity."
+          }
+        ]
+      },
+      {
+        "Medication": "Pentoxifylline",
+        "Recommendations": [
+          {
+            "COR": "3",
+            "LOE": "B-R",
+            "Description": "Not recommended for treatment of claudication in patients with chronic symptomatic PAD."
+          }
+        ]
+      },
+      {
+        "Medication": "Chelation Therapy",
+        "Recommendations": [
+          {
+            "COR": "3",
+            "LOE": "B-R",
+            "Description": "Not recommended for treatment of claudication in patients with chronic symptomatic PAD."
+          }
+        ]
+      }
+    ],
+    "Vitamin D": {
+      "Association": "Lower vitamin D levels associated with increased risk of PAD.",
+      "Meta-analysis": "Supplementation with vitamin D showed no benefit for reduction in MACE or all-cause death."
+    }
+  },
+  "genes": []
+}

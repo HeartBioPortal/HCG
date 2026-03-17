@@ -1,0 +1,104 @@
+{
+  "content": {
+    "Drugs for Pharmacological Conversion of AF to Sinus Rhythm": [
+      {
+        "Drug": "Amiodarone",
+        "Route of Administration": "IV",
+        "Loading Dose": "5-7 mg/kg or 300 mg*",
+        "Maintenance Dose": "1200-3000 mg via continuous infusion over 24 h",
+        "Approximate Time to Conversion to Sinus Rhythm": "8-12 h",
+        "Primary Route(s) of Elimination": "Liver metabolism, Biliary excretion",
+        "Elimination Half-Life": "9-36 d",
+        "Major Adverse Effects": [
+          "Bradycardia",
+          "Hypotension",
+          "QT prolongation",
+          "Phlebitis",
+          "TdP"
+        ]
+      },
+      {
+        "Drug": "Flecainide",
+        "Route of Administration": "Oral\u2020",
+        "Loading Dose": "200 mg if <70 kg, 300 mg if >70 kg, single dose",
+        "Primary Route(s) of Elimination": [
+          "Liver (70%)",
+          "Kidney (30%)\u2021"
+        ],
+        "Elimination Half-Life": "12-27 h",
+        "Major Adverse Effects": [
+          "Atrial flutter",
+          "AV block",
+          "Dizziness",
+          "Dyspnea",
+          "Exacerbation of HFrEF",
+          "Headache",
+          "Nausea",
+          "QT prolongation",
+          "VT",
+          "Visual disturbances"
+        ]
+      },
+      {
+        "Drug": "Ibutilide",
+        "Route of Administration": "IV",
+        "Loading Dose": "\u226560 kg: 1 mg over 10 min <60 kg: 0.01 mg/kg over 10 min",
+        "Approximate Time to Conversion to Sinus Rhythm": "30-90 min",
+        "Primary Route(s) of Elimination": "Liver",
+        "Elimination Half-Life": "2-12 h",
+        "Major Adverse Effects": [
+          "Nonsustained VT",
+          "QT prolongation",
+          "TdP"
+        ]
+      },
+      {
+        "Drug": "Procainamide",
+        "Route of Administration": "IV",
+        "Loading Dose": "1 g over 30 min",
+        "Maintenance Dose": "2 mg/min continuous infusion over 1 h",
+        "Approximate Time to Conversion to Sinus Rhythm": "30-60 min",
+        "Primary Route(s) of Elimination": [
+          "Liver (16-33%)",
+          "Kidney (50-65%)\u2021"
+        ],
+        "Elimination Half-Life": "3-4 h (parent) 7 h (NAPA)",
+        "Major Adverse Effects": [
+          "Agranulocytosis",
+          "AV block",
+          "Exacerbation of HFrEF",
+          "Hypotension",
+          "Neutropenia",
+          "QT prolongation",
+          "Rash",
+          "Thrombocytopenia",
+          "TdP"
+        ]
+      },
+      {
+        "Drug": "Propafenone",
+        "Route of Administration": "Oral",
+        "Loading Dose": "450 mg if <70 kg, 600 mg if >70 kg, single dose",
+        "Primary Route(s) of Elimination": "Liver",
+        "Elimination Half-Life": "9 h",
+        "Major Adverse Effects": [
+          "Atrial flutter",
+          "AV block",
+          "Dizziness",
+          "Dyspnea",
+          "Exacerbation of HFrEF",
+          "Nausea",
+          "Taste disturbances",
+          "VT",
+          "Visual disturbances"
+        ]
+      }
+    ],
+    "Additional Notes": [
+      "*Some studies have administered intravenous amiodarone for 24 h followed by oral administration.",
+      "\u2020Flecainide is available in an intravenous dosage form in Europe.",
+      "\u2021Percentage of a dose excreted unchanged in urine."
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,43 @@
+{
+  "content": {
+    "Definition of Very High-Risk": "History of multiple major ASCVD events or one major ASCVD event and multiple high-risk conditions.",
+    "Major ASCVD Events": [
+      "Recent acute coronary syndrome (within the past 12 months)",
+      "History of myocardial infarction",
+      "History of ischemic stroke",
+      "Symptomatic peripheral artery disease"
+    ],
+    "High-Risk Conditions": [
+      "Age \u226565 years",
+      "Familial hypercholesterolemia",
+      "History of coronary interventions",
+      "Diabetes",
+      "Hypertension",
+      "Chronic kidney disease",
+      "Current tobacco smoking",
+      "Persistently elevated LDL-C",
+      "History of congestive heart failure"
+    ],
+    "Therapeutic Approaches": [
+      "Maximally tolerated statin therapy",
+      "Addition of ezetimibe",
+      "Use of PCSK9 monoclonal antibody"
+    ],
+    "Cost-Effectiveness": "Ezetimibe is cost-effective especially in high-risk patients; PCSK9 inhibitors were also evaluated.",
+    "Clinical Trials": [
+      "FOURIER trial (evaluated evolocumab)",
+      "ODYSSEY OUTCOMES trial (evaluated alirocumab)"
+    ],
+    "Outcomes": "Significant ASCVD risk reduction observed, with improvements in health outcomes noted in different setups."
+  },
+  "genes": [
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "Atherosclerotic cardiovascular disease"
+      ],
+      "Occurrences": 3,
+      "context": "The FOURIER trial evaluated evolocumab among those with established ASCVD. The cost-effectiveness of adding generic ezetimibe to maximally tolerated statin therapy is sensitive to the assumption regarding the effect of ezetimibe on cardiovascular and all-cause death."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "content": {
+    "Title": "Stages of Chronic AR",
+    "Definitions": {
+      "At Risk of AR": {
+        "Valve Anatomy": [
+          "BAV (or other congenital valve anomaly)",
+          "Aortic valve sclerosis",
+          "Diseases of the aortic sinuses or ascending aorta",
+          "History of rheumatic fever or known rheumatic heart disease",
+          "IE"
+        ],
+        "Valve Hemodynamics": "AR severity: none or trace",
+        "Hemodynamic Consequences": "None",
+        "Symptoms": "None"
+      },
+      "Progressive AR": {
+        "Valve Anatomy": [
+          "Mild to moderate calcification of a trileaflet valve BAV (or other congenital valve anomaly)",
+          "Dilated aortic sinuses",
+          "Rheumatic valve changes",
+          "Previous IE"
+        ],
+        "Mild AR": {
+          "Jet width": "<25% of LVOT",
+          "Vena contracta": "<0.3 cm",
+          "Regurgitant volume": "<30 mL/beat",
+          "Regurgitant fraction": "<30%",
+          "ERO": "<0.10 cm\u00b2",
+          "Angiography": "Grade 1"
+        },
+        "Moderate AR": {
+          "Jet width": "25%-64% of LVOT",
+          "Vena contracta": "0.3\u20130.6 cm",
+          "Regurgitant volume": "30\u201359 mL/beat",
+          "Regurgitant fraction": "30% to 49%",
+          "ERO": "0.10\u20130.29 cm\u00b2",
+          "Angiography": "Grade 2"
+        },
+        "Hemodynamic Consequences": [
+          "Normal LV systolic function",
+          "Normal LV volume or mild LV dilation"
+        ],
+        "Symptoms": "None"
+      },
+      "Asymptomatic Severe AR": {
+        "Valve Anatomy": [
+          "Calcific aortic valve disease",
+          "Bicuspid valve (or other congenital abnormality)",
+          "Dilated aortic sinuses or ascending aorta",
+          "Rheumatic valve changes",
+          "IE with abnormal leaflet closure or perforation"
+        ],
+        "Severe AR": {
+          "Jet width": "\u226565% of LVOT",
+          "Vena contracta": ">0.6 cm",
+          "Holodiastolic flow reversal": "in the proximal abdominal aorta",
+          "Regurgitant volume": "\u226560 mL/beat",
+          "Regurgitant fraction": "\u226550%",
+          "ERO": ">0.3 cm\u00b2",
+          "Angiography": "Grade 3 to 4"
+        },
+        "Additional Requirements": "Diagnosis of chronic severe AR requires evidence of LV dilation",
+        "Hemodynamic Consequences": [
+          "CI: Normal LVEF (>55%) and mild to moderate LV dilation (LVESD <50 mm)",
+          "C2: Abnormal LV systolic function with depressed LV LVEF (\u226455%) or severe LV dilation (LVESD >50 mm or indexed LVESD >25 mm/m\u00b2)"
+        ],
+        "Symptoms": "None; exercise testing is reasonable to confirm symptom status"
+      },
+      "Symptomatic Severe AR": {
+        "Valve Anatomy": [
+          "Calcific valve disease",
+          "Bicuspid valve (or other congenital abnormality)",
+          "Dilated aortic sinuses or ascending aorta",
+          "Rheumatic valve changes",
+          "Previous IE with abnormal leaflet closure or perforation"
+        ],
+        "Severe AR": {
+          "Doppler jet width": "\u226565% of LVOT",
+          "Vena contracta": ">0.6 cm",
+          "Holodiastolic flow reversal": "in the proximal abdominal aorta",
+          "Regurgitant volume": "\u226560 mL/beat",
+          "Regurgitant fraction": "\u226550%",
+          "ERO": ">0.3 cm\u00b2",
+          "Angiography": "Grade 3 to 4"
+        },
+        "Additional Requirements": "Diagnosis of chronic severe AR requires evidence of LV dilation",
+        "Hemodynamic Consequences": [
+          "Symptomatic severe AR may occur with normal LV systolic function (LVEF >55%), mild to moderate LV dysfunction (LVEF 40% to 55%), or severe LV dysfunction (LVEF <40%)",
+          "Moderate to severe LV dilation is present"
+        ],
+        "Symptoms": "Exertional dyspnea or angina or more severe HF symptoms"
+      }
+    }
+  },
+  "genes": []
+}

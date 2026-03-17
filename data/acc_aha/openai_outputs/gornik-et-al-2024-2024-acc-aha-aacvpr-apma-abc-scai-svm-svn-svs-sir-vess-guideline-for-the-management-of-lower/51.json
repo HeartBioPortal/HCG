@@ -1,0 +1,20 @@
+{
+  "content": {
+    "Revascularization for Claudication: Common Femoral Artery Disease": {
+      "Trials": "No randomized trials for common femoral endarterectomy versus medical therapy.",
+      "Outcomes": "Low risk of 30-day mortality and low early reintervention rates.",
+      "Complications": "Wound infection (3.4%), lymphatic fistula (3.4%), and need for procedure-related local revision (8.6%).",
+      "Patency Rates": "Excellent patency rates and similar 1-year patency when compared with common femoral endovascular interventions.",
+      "Procedures": "Endarterectomy is typically used."
+    },
+    "Revascularization for Claudication: Infrapopliteal Disease": {
+      "Usage": "Isolated infrapopliteal disease is rare and typically occurs in patients with CLTI.",
+      "Procedure Efficacy": "No RCTs comparing surgical revascularization versus medical therapy.",
+      "Registry Findings": "Infrapopliteal bypasses with autogenous vein were associated with higher complication rates."
+    },
+    "Recommendation for Surgical Revascularization for Femoropopliteal Disease": {
+      "For Functionally Limiting Claudication": "Bypass to the popliteal artery with autogenous vein is preferred over prosthetic graft material."
+    }
+  },
+  "genes": []
+}

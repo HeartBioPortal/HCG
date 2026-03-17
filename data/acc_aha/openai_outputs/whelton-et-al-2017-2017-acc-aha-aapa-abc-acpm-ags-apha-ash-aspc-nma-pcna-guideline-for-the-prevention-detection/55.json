@@ -1,0 +1,18 @@
+{
+  "content": {
+    "Figure Information": "Algorithm on management of hypertension in patients with acute ischemic stroke.",
+    "Initial Assessment": "Patients with acute (<72 h from symptom onset) ischemic stroke and elevated BP.",
+    "IV Thrombolysis Treatment": "For patients qualifying for IV thrombolysis, lower SBP to <185 mm Hg and DBP <110 mm Hg before initiation, and maintain BP <180/105 mm Hg for 24 h after IV thrombolysis (Class I).",
+    "BP Management in Non-thrombolysis": "For BP >220/110 mm Hg, lower BP 15% during the first 24 h (Class Iib).",
+    "Non-treatment Under Certain Conditions": "BP <220/110 mm Hg, initiating or reinitiating treatment within 48-72 hours is ineffective to prevent death or dependency. (Class III: No Benefit).",
+    "Reinitiate Treatment": "For preexisting hypertension, reinitiate antihypertensive drugs after neurological stability (Class IIa).",
+    "Supportive Text": [
+      "BP cutoffs aligned with clinical trials for intravenous thrombolysis.",
+      "High BP during initial 24 hours linked to higher risk of symptomatic ICH.",
+      "Extreme arterial hypertension leads to encephalopathy, cardiac compromise, renal damage.",
+      "Rapid hypotension can be harmful due to reduced organ perfusion.",
+      "RCT data indicates antihypertensive agents reduce BP but not beneficial for mortality or dependency during acute phase."
+    ]
+  },
+  "genes": []
+}

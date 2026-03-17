@@ -1,0 +1,45 @@
+{
+  "content": {
+    "Evaluation of CVD Risk": {
+      "Factors": [
+        "Medical history/family history/pregnancy complication history",
+        "Symptoms of CVD",
+        "Depression screening in women with CVD",
+        "Physical examination including blood pressure, body mass index, waist size",
+        "Laboratory tests including fasting lipoproteins and glucose",
+        "Framingham risk assessment if no CVD or diabetes"
+      ]
+    },
+    "Implement Class I Lifestyle Recommendations (for all)": [
+      "Smoking cessation",
+      "DASH-like diet",
+      "Regular physical activity",
+      "Weight management"
+    ],
+    "High Risk CVD Criteria": [
+      "Clinically established CHD",
+      "Cerebrovascular disease",
+      "Peripheral arterial disease",
+      "Abdominal aortic aneurysm",
+      "Diabetes mellitus",
+      "Chronic kidney disease",
+      "10-year predicted CVD risk \u226510%"
+    ],
+    "Recommendations for High Risk Women": {
+      "Recent cardiovascular event, procedure, or congestive heart failure symptoms": {
+        "Yes": "Refer to cardiac rehabilitation",
+        "No": "Implement Class I Recommendations: Blood pressure control, LDL-C-lowering therapy (goal <100 mg/dL), \u03b2-Blocker, Angiotensin-converting enzyme inhibitor/angiotensin receptor blocker"
+      },
+      "No History of Paroxysmal Atrial Fibrillation": "Implement Class I Recommendations: Blood pressure control, LDL-C-lowering therapy if \u2265190 mg/dL",
+      "With History of Paroxysmal Atrial Fibrillation": "Implement Class I Recommendations: Warfarin or Aspirin or Dabigatran"
+    },
+    "Consider Class II Recommendations": [
+      "LDL-C-lowering therapy (goal <70 mg/dL in very high-risk women)",
+      "Non-HDL-C-lowering therapy (goal <130 mg/dL in very high-risk women with recent ACS or multiple poorly controlled cardiovascular risk factors)",
+      "Glycemic control in diabetics",
+      "Aspirin/antiplatelet agents",
+      "Omega-3 fatty acids"
+    ]
+  },
+  "genes": []
+}

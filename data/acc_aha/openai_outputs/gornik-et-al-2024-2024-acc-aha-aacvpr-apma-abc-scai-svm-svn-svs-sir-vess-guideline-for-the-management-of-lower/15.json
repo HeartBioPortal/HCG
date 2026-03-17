@@ -1,0 +1,69 @@
+{
+  "content": {
+    "Algorithm": "Diagnostic Testing for Peripheral Artery Disease (PAD)",
+    "Sections": [
+      {
+        "Title": "Patients with suspected or at risk of PAD (excluding CLTI)",
+        "Tests": [
+          "Resting ABI with or without PVR and/or Doppler waveforms.",
+          "Exercise treadmill ABI",
+          "TBI with waveforms"
+        ],
+        "Decisions": [
+          {
+            "Condition": "Resting ABI \u2264 0.9",
+            "Action": "Exercise treadmill ABI (2a)"
+          },
+          {
+            "Condition": "Resting ABI > 0.9 and \u2264 1.40",
+            "Action": "Exercise treadmill ABI or TBI with waveforms"
+          },
+          {
+            "Condition": "Resting ABI > 1.40",
+            "Action": "TBI with waveforms"
+          }
+        ]
+      },
+      {
+        "Title": "Patients with suspected CLTI",
+        "Tests": [
+          "Resting ABI",
+          "TBI with waveforms, TcPO\u2082, and/or SPP"
+        ],
+        "Decisions": [
+          {
+            "Condition": "Resting ABI \u2264 0.9 or Resting ABI > 1.40",
+            "Action": "TBI with waveforms, TcPO\u2082, and/or SPP (2a)"
+          },
+          {
+            "Condition": "Resting ABI > 0.9 and \u2264 1.40",
+            "Action": "Diagnosis confirmation required"
+          }
+        ]
+      }
+    ],
+    "Next Steps": [
+      {
+        "Condition": "Diagnosis of PAD confirmed",
+        "Action": "Chronic symptomatic PAD or asymptomatic PAD management"
+      },
+      {
+        "Condition": "Symptoms are functionally limiting",
+        "Action": "Consider revascularization strategy"
+      }
+    ],
+    "Interpretation": {
+      "ABI": {
+        "Normal": "1.00-1.40",
+        "Borderline": "0.91-0.99",
+        "Abnormal": "\u22640.90",
+        "Noncompressible": ">1.40"
+      },
+      "TBI": {
+        "Normal": ">0.70",
+        "Abnormal": "\u22640.70"
+      }
+    }
+  },
+  "genes": []
+}

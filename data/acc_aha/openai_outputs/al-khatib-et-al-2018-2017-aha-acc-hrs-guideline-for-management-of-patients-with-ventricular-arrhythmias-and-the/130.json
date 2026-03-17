@@ -1,0 +1,44 @@
+{
+  "content": {
+    "Purpose": "This table represents the relationships of reviewers with industry and other entities at the time of peer review, highlighting potential conflicts of interest relevant to clinical guidelines.",
+    "Reviewers": [
+      {
+        "Name": "Silvia G. Priori",
+        "Roles": "Content Reviewer",
+        "Employment": "Universit\u00e0 di Pavia, Istituti Clinici Scientifici Maugeri, Pavia, Italia",
+        "Consultant": [
+          "Ambry Genetics",
+          "Boston Scientific",
+          "Medtronic"
+        ],
+        "Ownership": [
+          "Audentes Therapeutics Inc",
+          "Gilead Sciences"
+        ],
+        "Financial Benefit": [
+          "HRS",
+          "GS-US-372-1234"
+        ]
+      },
+      {
+        "Name": "Susan Strong",
+        "Roles": "Official Reviewer\u2014AHA",
+        "Employment": "Sabin Middle School"
+      },
+      {
+        "Name": "Win-Kuang Shen",
+        "Roles": "Content Reviewer",
+        "Employment": "Mayo Clinic Arizona, Phoenix Campus"
+      },
+      {
+        "Name": "Zachary D. Goldberger",
+        "Roles": "Official Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+        "Employment": "University of Washington School of Medicine",
+        "Consultant": [
+          "RubiconMD"
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,27 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "level": "IIb",
+        "class": "C-LD",
+        "details": "For patients with ischemic heart disease and ICD shocks for sustained monomorphic VT or symptomatic sustained monomorphic VT that is recurrent or hemodynamically tolerated, catheter ablation as first-line therapy may be considered to reduce recurrent VA."
+      },
+      {
+        "level": "III: Harm",
+        "class": "B-R",
+        "details": "In patients with prior MI, Class IC antiarrhythmic medications (e.g., flecainide and propafenone) should not be used."
+      },
+      {
+        "level": "III: Harm",
+        "class": "C-LD",
+        "details": "In patients with incessant VT or VF, an ICD should not be implanted until sufficient control of the VA is achieved to prevent repeated ICD shocks."
+      },
+      {
+        "level": "III: No Benefit",
+        "class": "C-LD",
+        "details": "In patients with ischemic heart disease and sustained monomorphic VT, coronary revascularization alone is an ineffective therapy to prevent recurrent VT."
+      }
+    ]
+  },
+  "genes": []
+}

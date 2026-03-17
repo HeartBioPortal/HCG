@@ -1,0 +1,58 @@
+{
+  "content": {
+    "title": "Pulmonary Valve Replacement in Patients with TOF Repair and PR",
+    "purpose": "Guideline for evaluation and treatment of pulmonary valve concerns post-TOF repair.",
+    "steps": [
+      {
+        "condition": "TOF repair with PR",
+        "action": {
+          "Yes": "Evaluation by an ACHD cardiologist & advanced HF team (Class I)",
+          "No": "Assess PR severity"
+        }
+      },
+      {
+        "condition": "Severely decreased LV or RV systolic function",
+        "action": {
+          "Yes": "Pulmonary valve replacement (Class I)"
+        }
+      },
+      {
+        "condition": "PR severity",
+        "action": {
+          "Mid PR": "Follow-up with ACHD cardiologist (Class I)",
+          "Moderate or more PR": "Evaluate for symptoms"
+        }
+      },
+      {
+        "condition": "Symptoms",
+        "action": {
+          "Yes": "Pulmonary valve replacement (Class I)",
+          "No": "Assess further criteria"
+        }
+      },
+      {
+        "condition": "Any 2 of the following: Mild or moderate RV or LV systolic dysfunction, Severe RV dilation (RVEDVi \u2265160 mL/m\u00b2, or RVESVi \u226580 mL/m\u00b2, or RVEDVi \u22652x LVEDV), RVSP due to RVOT obstruction \u22652/3 systemic pressure, Progressive reduction in objective exercise tolerance",
+        "action": {
+          "Yes": "Pulmonary valve replacement (Class IIa)",
+          "No": "Check for sustained tachyarrhythmias"
+        }
+      },
+      {
+        "condition": "Sustained tachyarrhythmias",
+        "action": {
+          "Yes": "Pulmonary valve replacement (Class IIb)",
+          "No": "Check for residual lesions requiring surgical interventions"
+        }
+      },
+      {
+        "condition": "Residual lesions requiring surgical interventions",
+        "action": {
+          "Yes": "Pulmonary valve replacement (Class IIb)",
+          "No": "Follow-up with ACHD cardiologist (Class I)"
+        }
+      }
+    ],
+    "notes": "Symptoms may include dyspnea, chest pain, and/or exercise intolerance referable to PR or otherwise unexplained. ACHD indicates adult congenital heart disease; HF, heart failure; LV, left ventricular; LVEDV, left ventricular end diastolic volume; PR, pulmonary regurgitation; RV, right ventricular; RVEDV, right ventricular end diastolic volume; RVEDVi, right ventricular end diastolic volume index; RVESVi, right ventricular end systolic volume index; RVOT, right ventricular outflow tract; RVSP, right ventricular systolic pressure; and TOF, tetralogy of Fallot."
+  },
+  "genes": []
+}

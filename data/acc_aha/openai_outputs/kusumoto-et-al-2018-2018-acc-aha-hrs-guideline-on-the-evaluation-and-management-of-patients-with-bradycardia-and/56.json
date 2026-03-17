@@ -1,0 +1,41 @@
+{
+  "content": {
+    "Conduction Disorders": {
+      "Description": "QRS abnormalities caused by fascicular blocks and bundle branch blocks due to delayed or blocked conduction within branches of the His-Purkinje system.",
+      "Subtypes": [
+        "Right bundle branch block",
+        "Left bundle branch block (LBBB)",
+        "Bifascicular block"
+      ]
+    },
+    "Pathophysiology": "Involves dysfunction in components of the conduction axis, which could be developmental, hereditary/genetic, metabolic, infectious, inflammatory, infiltrative, traumatic, ischemic, malignant, or degenerative.",
+    "Recommendations": [
+      {
+        "Type": "I",
+        "Class": "B-NR",
+        "Recommendation": "In patients with newly detected LBBB, a transthoracic echocardiogram to exclude structural heart disease is recommended."
+      },
+      {
+        "Type": "I",
+        "Class": "C-LD",
+        "Recommendation": "In symptomatic patients with conduction system disease, ambulatory electrocardiographic monitoring is useful when atrioventricular block is suspected."
+      },
+      {
+        "Type": "IIa",
+        "Class": "B-NR",
+        "Recommendation": "In selected patients presenting with intraventricular conduction disorders other than LBBB, transthoracic echocardiography is reasonable if structural heart disease is suspected."
+      },
+      {
+        "Type": "IIa",
+        "Class": "B-NR",
+        "Recommendation": "In patients with symptoms suggestive of intermittent bradycardia and an identified conduction system disease with no demonstrated atrioventricular block, an EPS is reasonable."
+      },
+      {
+        "Type": "IIa",
+        "Class": "C-LD",
+        "Recommendation": "In selected patients with LBBB where echocardiogram is unrevealing of structural heart disease, advanced imaging is reasonable."
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,25 @@
+{
+  "content": {
+    "Core Components of CR": [
+      "Patient assessment",
+      "Nutritional counseling",
+      "Weight management",
+      "Blood pressure management",
+      "Lipid management",
+      "Diabetes management",
+      "Tobacco cessation",
+      "Psychosocial management",
+      "Physical activity counseling",
+      "Exercise training"
+    ],
+    "Recommendation-Specific Supportive Text": [
+      {
+        "1": "Patients with CCD should undergo routine measurement of BMI with or without waist circumference for initial evaluation and as a guide to efficacy of weight loss intervention.",
+        "2": "Lifestyle modification with associated weight loss improves obesity-related CCD comorbidities. A weight loss of 5% to 7% of body weight is typically beneficial.",
+        "3": "Candidates for weight-loss drug therapy include individuals with a BMI \u226530 kg/m\u00b2 or a BMI of 27 to 29.9 kg/m\u00b2 with weight-related comorbidities who have not met weight-loss goals.",
+        "4": "Patients with CCD and severe obesity (BMI \u226540 kg/m\u00b2 or BMI 35-39.9 kg/m\u00b2 with a weight-related comorbidity) may benefit from a bariatric procedure."
+      }
+    ]
+  },
+  "genes": []
+}

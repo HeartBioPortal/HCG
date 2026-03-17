@@ -1,0 +1,52 @@
+{
+  "content": {
+    "Clinical Guidelines for SCD Risk Assessment in Children and Adolescents with HCM": [
+      {
+        "Class": "1",
+        "Level of Evidence": "B-NR",
+        "Recommendations": [
+          "For children and adolescents with HCM, a comprehensive, systematic noninvasive SCD risk assessment should be conducted initially and every 1 to 2 years.",
+          "Assessment should include personal history of cardiac arrest or sustained ventricular arrhythmias and syncope.",
+          "Consider family history of premature HCM-related SCD, minimal LV wall thickness, EF, LV apical aneurysm.",
+          "Evaluate episodes of NSVT on continuous ambulatory ECG monitoring."
+        ]
+      },
+      {
+        "Class": "1",
+        "Level of Evidence": "C-LD",
+        "Recommendations": [
+          "In children with HCM who have a borderline risk for SCD, decisions regarding ICD placement remain uncertain and require comprehensive clinical assessment."
+        ]
+      },
+      {
+        "Class": "2a",
+        "Level of Evidence": "B-NR",
+        "Recommendations": [
+          "For patients under 16 with HCM, it is reasonable to calculate an estimated 5-year SCD risk.",
+          "Risk calculation should include echo parameters, interventricular septal thickness, LV posterior wall thickness, left atrial diameter, and genotype analysis."
+        ]
+      }
+    ],
+    "Table 8 - Clinical Sudden Death Risk Factors": [
+      "Family history of sudden death from HCM",
+      "Massive LV wall thickness",
+      "Unexplained syncope",
+      "HCM with LV systolic dysfunction",
+      "LV apical aneurysm",
+      "Extensive LGE on CMR imaging",
+      "NSVT on ambulatory monitor",
+      "Genotype status in pediatric patients with HCM"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "HCM",
+      "Associated Conditions": [
+        "Hypertrophic cardiomyopathy",
+        "Sudden cardiac death"
+      ],
+      "Occurrences": 4,
+      "context": "References to HCM in context of SCD risk assessment and genotype status as a risk factor."
+    }
+  ]
+}

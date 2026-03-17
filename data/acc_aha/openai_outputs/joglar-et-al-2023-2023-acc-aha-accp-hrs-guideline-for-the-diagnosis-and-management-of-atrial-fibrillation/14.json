@@ -1,0 +1,144 @@
+{
+  "content": {
+    "Conditions": [
+      {
+        "Name": "CAD",
+        "Study Type": "Single study",
+        "Effect on Risk of AF": "MI: Population attributable fraction 3.6%",
+        "Summary Risk of Incident AF": "\u2191 Risk",
+        "Effect of LRF/M": "N/A"
+      },
+      {
+        "Name": "VHD",
+        "Study Type": "Single studies",
+        "Effect on Risk of AF": [
+          "Significant heart murmur: \u2191 risk (HR, 2.38)",
+          "Significant heart murmur: Population attributable fraction 21.9%; \u2191 1 over time to 3.1%"
+        ],
+        "Summary Risk of Incident AF": "\u2191 Risk",
+        "Effect of LRF/M": "N/A"
+      },
+      {
+        "Name": "Cardiac surgery",
+        "Study Type": "Single study",
+        "Effect on Risk of AF": "Multicenter validated risk prediction model: \u2191 risk after CABG",
+        "Summary Risk of Incident AF": "\u2191 Risk",
+        "Effect of LRF/M": "Prophylactic amiodarone, beta blockers: \u2193 postop AF"
+      },
+      {
+        "Name": "CKD",
+        "Study Type": "SR/MA",
+        "Effect on Risk of AF": "CKD: \u2191 risk (HR, 1.47)",
+        "Summary Risk of Incident AF": "\u2191\u2191 Risk",
+        "Effect of LRF/M": "N/A"
+      },
+      {
+        "Name": "Obstructive sleep apnea",
+        "Study Type": "SR/MA",
+        "Effect on Risk of AF": "OSA: \u2191 risk",
+        "Summary Risk of Incident AF": "\u2191 Risk",
+        "Effect of LRF/M": "Observational studies of SDB treatment: \u2193 AF burden"
+      },
+      {
+        "Name": "Thyroid disease",
+        "Study Type": "SR/MA",
+        "Effect on Risk of AF": "Clinical hyperthyroidism: \u2191 risk (RR, 2.35)",
+        "Summary Risk of Incident AF": "\u2191 Risk",
+        "Effect of LRF/M": "N/A"
+      },
+      {
+        "Name": "Sepsis",
+        "Study Type": "Single study",
+        "Effect on Risk of AF": "Severe sepsis: \u2191 risk (OR, 6.82)",
+        "Summary Risk of Incident AF": "\u2191 Risk",
+        "Effect of LRF/M": "N/A"
+      },
+      {
+        "Name": "Markers on ECG",
+        "Study Type": "SR/MA",
+        "Effect on Risk of AF": "Prolonged PR: \u2191 risk (RR, 1.45)",
+        "Summary Risk of Incident AF": "Prolonged PR: \u2191 risk",
+        "Effect of LRF/M": "N/A"
+      },
+      {
+        "Name": "Biomarkers",
+        "Study Type": "SR/MA",
+        "Effect on Risk of AF": "BNP: \u2191 risk (HR per 1-SD ln-BNP, 1.66)",
+        "Summary Risk of Incident AF": "\u2191\u2191 Risk",
+        "Effect of LRF/M": "N/A"
+      },
+      {
+        "Name": "Inflammatory markers",
+        "Study Type": "SR/MA",
+        "Effect on Risk of AF": "CRP: \u2191 risk (SMD, 0.95)",
+        "Summary Risk of Incident AF": "CRP, IL-6, TNF-\u03b1, DUSP13, FKBP7, Spondin-1: \u2191 risk",
+        "Effect of LRF/M": "N/A"
+      },
+      {
+        "Name": "Lp(a)",
+        "Study Type": "SR/MA",
+        "Effect on Risk of AF": "Lp(a): HR, 1.03",
+        "Summary Risk of Incident AF": "\u2191 Risk",
+        "Effect of LRF/M": "N/A"
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "DUSP13",
+      "Associated Conditions": [
+        "Inflammatory markers"
+      ],
+      "Occurrences": 1,
+      "context": "DUSP13, FKBP7, Spondin-1: \u2191 risk"
+    },
+    {
+      "Gene": "FKBP7",
+      "Associated Conditions": [
+        "Inflammatory markers"
+      ],
+      "Occurrences": 1,
+      "context": "DUSP13, FKBP7, Spondin-1: \u2191 risk"
+    },
+    {
+      "Gene": "Spondin-1",
+      "Associated Conditions": [
+        "Inflammatory markers"
+      ],
+      "Occurrences": 1,
+      "context": "DUSP13, FKBP7, Spondin-1: \u2191 risk"
+    },
+    {
+      "Gene": "IL-6",
+      "Associated Conditions": [
+        "Inflammatory markers"
+      ],
+      "Occurrences": 1,
+      "context": "CRP, IL-6, TNF-\u03b1: \u2191 risk"
+    },
+    {
+      "Gene": "TNF-\u03b1",
+      "Associated Conditions": [
+        "Inflammatory markers"
+      ],
+      "Occurrences": 1,
+      "context": "CRP, IL-6, TNF-\u03b1: \u2191 risk"
+    },
+    {
+      "Gene": "IL-6R",
+      "Associated Conditions": [
+        "Inflammatory markers"
+      ],
+      "Occurrences": 1,
+      "context": "IL-6R, TNFSF12: \u2193 risk"
+    },
+    {
+      "Gene": "TNFSF12",
+      "Associated Conditions": [
+        "Inflammatory markers"
+      ],
+      "Occurrences": 1,
+      "context": "IL-6R, TNFSF12: \u2193 risk"
+    }
+  ]
+}

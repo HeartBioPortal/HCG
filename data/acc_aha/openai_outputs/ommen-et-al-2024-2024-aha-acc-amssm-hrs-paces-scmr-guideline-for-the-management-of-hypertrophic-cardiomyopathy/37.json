@@ -1,0 +1,19 @@
+{
+  "content": {
+    "threshold_testing_patients": "Threshold testing in patients with HCM and single-coil leads, right-sided implants, or massive hypertrophy.",
+    "dual_chamber_pacing_hcm": "In patients with HCM needing atrial pacing, dual-chamber system might be needed; shown to reduce LVOT gradients but long-term benefits unclear.",
+    "crt_benefit_in_hcm": "CRT benefits for HCM patients with functional class II, IVHF, LVEF \u226435%, and LBBB; small series show improvement in NYHA class or LV remodeling.",
+    "atrial_lead_arrhythmias": "Atrial lead may help differentiate between ventricular and supraventricular arrhythmias.",
+    "pediatric_dual_chamber_pacing": "For pediatric patients with tachyarrhythmias, dual-chamber devices may help in distinguishing VT from SVT.",
+    "management_of_hcm": {
+      "pharmacological_management": [
+        "Nonvasodilating beta blockers titrated to effectiveness.",
+        "Nondihydropyridine calcium channel blockers (verapamil, diltiazem) if beta blockers ineffective.",
+        "Addition of myosin inhibitor for persistent symptoms despite medication.",
+        "Intravenous phenylephrine for acute hypotension not responding to fluids.",
+        "Low-dose oral diuretics for persistent dyspnea with volume overload."
+      ]
+    }
+  },
+  "genes": []
+}

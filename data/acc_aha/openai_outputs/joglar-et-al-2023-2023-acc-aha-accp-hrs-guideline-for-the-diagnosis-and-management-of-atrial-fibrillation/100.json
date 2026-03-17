@@ -1,0 +1,15 @@
+{
+  "content": {
+    "synopsis": "In patients with pacemakers, programming strategies to reduce RV pacing can reduce the incidence of AF. Pacing algorithms have been designed to identify and terminate atrial arrhythmias and have been moderately effective in patients with arrhythmias associated with more organized atrial activation due to reentry.",
+    "recommendation_specific_supportive_text": [
+      "Several randomized and nonrandomized studies suggest that when patients require cardiac-implanted electronic devices for sinus node dysfunction, those that maintain atrioventricular synchrony reduce the incidence and progression of AF.",
+      "Post hoc analyses and meta-analyses demonstrate that the amount of ventricular pacing is important for the development of AF.",
+      "Algorithms to reduce ventricular pacing reduced AF incidence in individual studies, but benefit in RCTs extends to those with very infrequent pacing.",
+      "Specialized antitachycardia pacing algorithms can terminate atrial tachyarrhythmias but have not reduced AF burden significantly.",
+      "Several studies have evaluated atrial pacing algorithms to reduce AF with mixed results, questioning their efficacy.",
+      "His bundle and left bundle branch pacing may reduce AF incidence compared with RV pacing, especially in patients with high ventricular pacing requirements.",
+      "Surgical ablation recommendations suggest that, for patients with AF who are undergoing cardiac surgery, concomitant surgical ablation can be beneficial to reduce the risk of recurrent AF."
+    ]
+  },
+  "genes": []
+}

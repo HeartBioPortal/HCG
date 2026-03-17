@@ -1,0 +1,50 @@
+{
+  "content": {
+    "Sections": [
+      {
+        "Title": "Diagnostic Procedures",
+        "Introduction": {
+          "Purpose": "Define the purpose of the procedures.",
+          "Scope": "Outline the scope of the procedures."
+        },
+        "Description of the Diagnostic Tool": {
+          "Content": [
+            "Specific procedures",
+            "Equipment",
+            "Sensitivity/specificity",
+            "General considerations",
+            "Comparison with other diagnostic tools/Clinical comparative effectiveness"
+          ]
+        },
+        "Specific Conditions": {
+          "Content": [
+            "Clinical uses subdivided by the diseases/conditions they can diagnose, including diagnosis, assessment, prognosis, risk stratification, screening, etc."
+          ]
+        },
+        "Special Populations": {
+          "Content": [
+            "Patient groups such as elderly, women, pediatric"
+          ]
+        }
+      }
+    ],
+    "Committee Guidance": {
+      "Process": [
+        "Development of a comprehensive outline by the chair and staff.",
+        "Preliminary searches and abstract review."
+      ],
+      "Scope Updates": "Identification of specific areas with sufficient clinical evidence.",
+      "Assignments": {
+        "Writing": {
+          "Determination": "Guideline chair/co-chairs assign sections to primary and secondary authors.",
+          "Responsibilities": "Primary author drafts and secondary authors edit and provide content.",
+          "RWI Policy": {
+            "Primary Author": "May not have relevant RWI.",
+            "Secondary Author": "May have relevant RWI."
+          }
+        }
+      }
+    }
+  },
+  "genes": []
+}

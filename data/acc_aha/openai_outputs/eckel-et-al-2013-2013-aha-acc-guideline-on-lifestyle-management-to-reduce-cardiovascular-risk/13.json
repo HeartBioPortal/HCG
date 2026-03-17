@@ -1,0 +1,59 @@
+{
+  "content": {
+    "sections": [
+      {
+        "title": "4.4. CQ2 Evidence Statements",
+        "details": {
+          "description": "Evidence statements for sodium and BP, with details about the unit of measure for sodium in studies."
+        }
+      },
+      {
+        "title": "4.5. Diet Recommendations for BP Lowering",
+        "recommendations": [
+          {
+            "advice": "Consume a dietary pattern that emphasizes intake of vegetables, fruits, and whole grains; includes low-fat dairy products, poultry, fish, legumes, nontropical vegetable oils, and nuts; and limits intake of sweets, sugar-sweetened beverages, and red meats.",
+            "adaptation": "Adapt the dietary pattern to individual needs.",
+            "plans": "Follow dietary plans such as the DASH dietary pattern, the USDA Food Pattern, or the AHA Diet."
+          },
+          {
+            "number": 2,
+            "advice": "Advise adults who would benefit from BP lowering to reduce sodium intake."
+          },
+          {
+            "number": 3,
+            "advice": "Advise adults to consume no more than 2,400 mg of sodium/day and further reduction to 1,500 mg can result in greater BP reduction."
+          }
+        ],
+        "rationale": [
+          {
+            "description": "Based on studies of the DASH dietary pattern which provide high-quality evidence for improving lipid profiles and BP. The BP-lowering effect is shown in various demographics, suggesting benefits in maintaining a consistent diet."
+          },
+          {
+            "description": "Reducing sodium intake is shown to lower BP, with trials showing the BP-lowering effect is independent of weight change."
+          },
+          {
+            "description": "Reductions to 1,000 mg/day of sodium have been shown to be beneficial in trials."
+          }
+        ],
+        "grades": [
+          {
+            "grade": "A (strong); ACC/AHA COR: I, LOE: A",
+            "number": 1
+          },
+          {
+            "grade": "A (strong); ACC/AHA COR: I, LOE: A",
+            "number": 2
+          },
+          {
+            "grade": "B (moderate); ACC/AHA COR: IIa, LOE: B",
+            "number": 3
+          }
+        ]
+      }
+    ],
+    "dietary_guidelines": {
+      "USDA": "USDA Food Pattern and DASH dietary pattern are consistent with other national guidelines. USDA Food Pattern offers vegetarian and vegan adaptations."
+    }
+  },
+  "genes": []
+}

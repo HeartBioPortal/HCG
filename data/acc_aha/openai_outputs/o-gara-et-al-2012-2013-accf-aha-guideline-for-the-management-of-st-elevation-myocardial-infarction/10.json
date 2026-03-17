@@ -1,0 +1,24 @@
+{
+  "content": {
+    "summary": "The guideline focuses on optimizing treatment for patients with ST elevation myocardial infarction (STEMI), particularly the timing of reperfusion therapy. It emphasizes the importance of reducing door-to-device times to improve patient outcomes and suggests integrating new protocols to facilitate hospital processes and emergency responses. This includes the necessity for prompt transfer to PCI-capable hospitals and the consideration of fibrinolytic therapy when delays are unavoidable. The document discusses the challenges faced by hospitals in meeting the recommended 90 minutes door-to-balloon time and provides strategies like Mission: Lifeline and other initiatives to ensure timely reperfusion.",
+    "key_points": [
+      "Emphasis on timely reperfusion being more critical than therapy choice.",
+      "ACC's 2006 initiative to improve door-to-device times."
+    ],
+    "strategies": [
+      "Mission: Lifeline aimed at improving system readiness.",
+      "Patient education, improvements in EMS and ED care."
+    ],
+    "factors_for_therapy_selection": [
+      "Time since symptom onset.",
+      "Risk of bleeding from fibrinolysis.",
+      "Presence of shock or severe heart failure (HF).",
+      "Time needed for transfer to a PCI-capable hospital."
+    ],
+    "findings": [
+      "Transferring patients within 90 minutes improves outcomes.",
+      "Reducing door-to-device time to \u226490 minutes in clinical settings."
+    ]
+  },
+  "genes": []
+}

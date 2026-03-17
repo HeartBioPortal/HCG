@@ -1,0 +1,46 @@
+{
+  "content": {
+    "Primary Prevention for ICDs": [
+      {
+        "class": "I",
+        "recommendation": "In patients with NICM, HF with NYHA class II-III symptoms and an LVEF of 35% or less, despite GDMT, an ICD is recommended if meaningful survival of greater than 1 year is expected."
+      },
+      {
+        "class": "IIa",
+        "recommendation": "In patients with NICM due to a Lamin A/C mutation who have 2 or more risk factors (NSVT, LVEF <45%, nonmissense mutation, and male sex), an ICD can be beneficial if meaningful survival of greater than 1 year is expected."
+      },
+      {
+        "class": "IIb",
+        "recommendation": "In patients with NICM, HF with NYHA class I symptoms and an LVEF of 35% or less, despite GDMT, an ICD may be considered if meaningful survival of greater than 1 year is expected."
+      },
+      {
+        "class": "III",
+        "recommendation": "In patients with medication-refractory NYHA class IV HF who are not candidates for cardiac transplantation, an LVAD, or a CRT defibrillator that incorporates both pacing and defibrillation capabilities, an ICD should not be implanted."
+      }
+    ],
+    "Supporting Text": [
+      "It's important that patients with NICM be on GDMT for HF for at least 3 months before primary prevention ICD is offered.",
+      "Four prospective RCTs initially evaluated ICDs for primary prevention of SCD in patients with NICM.",
+      "Total mortality at 5 years was 27% in the placebo group and 21% in the ICD group.",
+      "ICD reduced SCD from 8.4% to 4.3% with no difference in all-cause mortality.",
+      "Several meta-analyses, and trials have discussed ICD benefits.",
+      "Laminoathies are diseases caused by mutations in the Lamin A/C gene."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "Lamin A/C",
+      "Associated Conditions": [
+        "Subtypes of muscular dystrophy",
+        "Progeria",
+        "Cardiomyopathy",
+        "Atrial fibrillation",
+        "Conduction disturbances",
+        "VA",
+        "NICM"
+      ],
+      "Occurrences": 2,
+      "context": "Laminoathies are diseases caused by mutations mainly in the Lamin A/C gene that produce various inherited diseases including subtypes of muscular dystrophy and progeria. Cardiac manifestations include atrial fibrillation, conduction disturbances, VA, and NICM."
+    }
+  ]
+}

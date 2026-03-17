@@ -1,0 +1,17 @@
+{
+  "content": {
+    "section": "2.8.3. Remote Follow-Up and Monitoring",
+    "description": "The section discusses the importance of follow-up and remote monitoring of cardiovascular implantable electronic devices (CIEDs), which include pacemakers, ICDs, CRTs, and implantable loop recorders. The document notes the shift from routine in-person office follow-up to transtelephonic monitoring combined with remote follow-up, especially after the 2008 DBT guideline. Modern remote monitoring uses bidirectional telemetry with encoded and encrypted radiofrequency signals. The benefits of remote monitoring include the early discovery of clinical events and improved patient survival. A detailed description of techniques, indications, personnel, and frequency has been published as a consensus document.",
+    "technologies": [
+      "Transtelephonic Monitoring",
+      "Bidirectional Telemetry"
+    ],
+    "clinical benefits": [
+      "Early discovery of clinical events",
+      "Improved patient survival",
+      "Decreased time to clinical decision"
+    ],
+    "table_reference": "Table 4a provides the minimum frequency of CIED in-person or remote monitoring."
+  },
+  "genes": []
+}

@@ -1,0 +1,25 @@
+{
+  "content": {
+    "Title": "2017 High Blood Pressure Clinical Practice Guideline",
+    "Authors": "Whelton et al.",
+    "Publication Information": "JACC Vol. 71, No. 19, 2018, May 15, 2018:e127-248",
+    "Figure Overview": "Blood Pressure (BP) Thresholds and Recommendations for Treatment and Follow-Up",
+    "BP Categories": {
+      "Normal BP": "BP <120/80 mm Hg",
+      "Elevated BP": "BP 120\u2013129/<80 mm Hg",
+      "Stage 1 Hypertension": "BP 130-139/80-89 mm Hg",
+      "Stage 2 Hypertension": "BP \u2265140/90 mm Hg"
+    },
+    "Recommendations": {
+      "Normal BP": "Promote optimal lifestyle habits. Reassess in 1 y (Class IIa)",
+      "Elevated BP": "Nonpharmacological therapy (Class I). Reassess in 3\u20136 mo (Class I)",
+      "Stage 1 Hypertension": {
+        "Low CVD Risk (<10%)": "Nonpharmacological therapy (Class I). Reassess in 3\u20136 mo (Class I)",
+        "High CVD Risk (\u226510%)": "Nonpharmacological therapy and BP-lowering medication (Class I). Reassess in 1 mo (Class I)"
+      },
+      "Stage 2 Hypertension": "Nonpharmacological therapy and BP-lowering medication (Class I). Reassess in 1 mo (Class I)"
+    },
+    "Additional Notes": "The ACC/AHA Pooled Cohort Equations and the inclusion of DM or CKD in risk assessment. Monitoring post-initiation of RAS inhibitor or diuretic therapy. Consideration of therapy intensification and adherence assessment."
+  },
+  "genes": []
+}

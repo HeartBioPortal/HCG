@@ -1,0 +1,22 @@
+{
+  "content": {
+    "Overview": "The guidelines focus on the management of NSTE-ACS in older adult patients (\u226575 years of age), emphasizing the need for evidence-based therapy and the appropriate use of GDMT. Consideration is given to the unique challenges older adults face, such as altered pharmacokinetics, polypharmacy, and comorbidities.",
+    "Recommendations": {
+      "Class I": [
+        "Older patients with NSTE-ACS treated with GDMT, early invasive strategy, and revascularization as appropriate.",
+        "Pharmacotherapy in older patients adjusted for age-related changes.",
+        "Management decisions tailored to individual preferences and conditions."
+      ],
+      "Class IIa": [
+        "Use of Bivalirudin over GP IIb/IIIa or UFH initially.",
+        "CABG considered for older patients with suitable comorbidities."
+      ]
+    },
+    "Special Considerations": {
+      "Older Patients": "Often present with atypical symptoms and are under-represented in clinical trials.",
+      "Drug Interactions": "AGE-related changes can affect drug efficacy and safety.",
+      "Bleeding Risk": "Increased in older adults, requiring careful management of anticoagulation therapy."
+    }
+  },
+  "genes": []
+}

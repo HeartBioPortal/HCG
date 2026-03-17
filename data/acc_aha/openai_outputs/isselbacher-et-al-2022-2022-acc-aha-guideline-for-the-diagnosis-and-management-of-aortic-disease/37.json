@@ -1,0 +1,63 @@
+{
+  "content": {
+    "title": "2022 ACC/AHA Aortic Disease Guideline \u2014 Excerpt: Marfan Syndrome",
+    "overview": "Patients with Marfan syndrome may develop disease of the ascending and descending aorta. Transthoracic echocardiography (TTE) can assess aortic root, ascending aorta, aortic arch, proximal and distal descending aorta; CT or MRI can be used when more distal segments are not adequately visualized. Surgical aortic root replacement can prevent type A aortic dissection and improve longevity for patients with Marfan syndrome and aortic root aneurysms. Long-term complications after aortic root replacement include graft infections, pseudoaneurysms, aneurysms in the distal aorta, and aortic dissection distal to the graft.",
+    "Medical_Therapy_Recommendations_for_Marfan_Syndrome": [
+      {
+        "COR": 1,
+        "LOE": "A",
+        "Recommendation": "In patients with Marfan syndrome, treatment with either a beta blocker or an ARB, in maximally tolerated doses (unless contraindicated), is recommended to reduce the rate of aortic dilation.",
+        "citations": [
+          1,
+          2
+        ]
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-LD",
+        "Recommendation": "In patients with Marfan syndrome, the use of both a beta blocker and an ARB, in maximally tolerated doses (unless contraindicated), is reasonable to reduce the rate of aortic dilation.",
+        "citations": [
+          3,
+          4
+        ]
+      }
+    ],
+    "Synopsis": "Beta blockers have long been recommended to reduce heart rate, myocardial contractility, and slow aortic root growth in Marfan syndrome. ARBs have more recently been found to be efficacious in some studies.",
+    "Recommendation_Specific_Supportive_Text": {
+      "1": "Open-label study: Propranolol for >10 years was associated with reduction in aortic root growth rate and fewer clinical events compared with control (no treatment).",
+      "2": "Retrospective evaluation in children with Marfan syndrome found beta-blocker treatment associated with reduced aortic growth rate.",
+      "3": "Losartan prevented aneurysm formation in mouse models of Marfan syndrome.",
+      "4": "Small nonrandomized open-label study of children with prior rapid aortic root growth suggested ARBs dramatically slowed aortic root growth.",
+      "5": "Randomized trials comparing an ARB to a beta blocker in Marfan patients found no significant difference in aortic root growth rate or clinical events between the two treatments.",
+      "6": "Multiple trials compared adding an ARB to beta-blocker therapy; in some studies addition of an ARB reduced aortic root growth over 3- to 5-year follow-up, and a meta-analysis confirmed slower growth rates with combination therapy."
+    },
+    "Interventions_Replacement_of_Aortic_Root_in_Marfan_Syndrome": [
+      {
+        "COR": 1,
+        "LOE": "B-NR",
+        "Recommendation": "In patients with Marfan syndrome and an aortic root diameter of \u22655.0 cm, surgery to replace the aortic root and ascending aorta is recommended.",
+        "citations": [
+          1,
+          4
+        ]
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "Recommendation": "In patients with Marfan syndrome, an aortic root diameter of \u22654.5 cm and features associated with an increased risk of aortic dissection, surgery to replace the aortic root and ascending aorta is reasonable when performed by experienced surgeons in a multidisciplinary aortic team.",
+        "notes": "See referenced Table 10 for features associated with increased risk of aortic dissection.",
+        "citations": [
+          1,
+          3,
+          4
+        ]
+      }
+    ],
+    "additional_clinical_points": [
+      "In some individuals thorough TTE may accurately assess diameters of aortic root, ascending aorta, aortic arch, and descending aorta; if segments distal to ascending aorta are not adequately visualized, use CT or MRI.",
+      "In Marfan syndrome, distal thoracic aortic aneurysm (TAA) and abdominal aortic aneurysm (AAA) may occur but are less common than root disease; many individuals with distal aortic disease had prior root replacement or smoke cigarettes.",
+      "Long-term complications after root replacement include graft infections, pseudoaneurysms, distal aneurysms, and distal aortic dissection."
+    ]
+  },
+  "genes": []
+}

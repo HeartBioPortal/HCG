@@ -1,0 +1,48 @@
+{
+  "content": {
+    "title": "2018 Bradycardia Guideline",
+    "topics": [
+      "Treatment for calcium channel blocker overdose",
+      "Use of glucagon in overdose cases",
+      "Temporary pacing for symptomatic bradycardia",
+      "Temporary pacemaker procedures and complications",
+      "Chronic therapy for Bradycardia"
+    ],
+    "sections": [
+      {
+        "section": "5.3.2.4.3",
+        "content": "Use of digoxin immune Fab (ovine) in the treatment of digoxin toxicity. Studies discuss its safety and efficacy results from observational studies."
+      },
+      {
+        "section": "5.3.3",
+        "content": "Temporary Pacing for Bradycardia Attributable to SND (Sick Sinus Syndrome). Various studies and trials are mentioned regarding techniques and outcomes."
+      },
+      {
+        "section": "5.3.3.1",
+        "content": "Hzenski and Buckley's study on digoxin-toxic cardiac patients. It mentions specific evaluation protocols involved."
+      },
+      {
+        "section": "5.4.1",
+        "content": "General Principles of Chronic Therapy/Management of Bradycardia Attributable to SND."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "SND",
+      "Associated Conditions": [
+        "Bradycardia"
+      ],
+      "Occurrences": 2,
+      "context": "5.3.3 Temporary Pacing for Bradycardia attributable to SND. Discusses pacing for symptomatic bradycardia due to SND. Various studies on techniques and their effectiveness are reviewed."
+    },
+    {
+      "Gene": "Fab",
+      "Associated Conditions": [
+        "Digoxin toxicity"
+      ],
+      "Occurrences": 1,
+      "context": "5.3.2.4.3 Digoxin immune Fab (ovine) for the treatment of digoxin toxicity. The discussions focus on its safety and effectiveness being evaluated through observational studies."
+    }
+  ]
+}

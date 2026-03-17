@@ -1,0 +1,13 @@
+{
+  "content": {
+    "Cost-Value Considerations": {
+      "Biomarkers": {
+        "B-Type Natriuretic Peptide (BNP) and NT-proBNP": "Used for evaluating perioperative risk in patients with elevated-risk NCS, CVD symptoms, or age \u226565 with cardiovascular risk factors. Uncertain value in terms of cost and health improvement."
+      },
+      "Preoperative Cardiac Troponin (cTn)": "Evaluates perioperative risk in patients undergoing elevated-risk NCS. Often used with known CVD, symptoms, or age \u226565. Uncertain value due to lack of studies."
+    },
+    "12-Lead ECG": "Inexpensive and used to assess elevated-risk NCS patients with active CVD symptoms. Predictive of short-term mortality and MACE, but its utility beyond risk factor assessment is debated.",
+    "Coronary Computed Tomography Angiography (CCTA)": "Offers anatomic information for myocardial ischemia but leads to increased interventions without improving outcomes in CAD patients."
+  },
+  "genes": []
+}

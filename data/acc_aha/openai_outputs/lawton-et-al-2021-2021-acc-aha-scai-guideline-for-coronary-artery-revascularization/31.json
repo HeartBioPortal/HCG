@@ -1,0 +1,20 @@
+{
+  "content": {
+    "section": "7.3 Revascularization to Improve Symptoms",
+    "recommendations": [
+      {
+        "COR": "1",
+        "LOE": "A",
+        "text": "In patients with refractory angina despite medical therapy and with significant coronary artery stenoses amenable to revascularization, revascularization is recommended to improve symptoms."
+      },
+      {
+        "COR": "3: Harm",
+        "LOE": "C-LD",
+        "text": "In patients with angina but no anatomic or physiological criteria for revascularization, neither CABG nor PCI should be performed."
+      }
+    ],
+    "synopsis": "One of the main goals of coronary revascularization with either PCI or CABG surgery is to improve symptoms. Medical therapy can often be effective, but revascularization offers greater improvement in angina or quality of life than does medical therapy alone. However, inappropriate revascularization of nonobstructive plaques can lead to progression of CAD and inappropriate PCI can cause peri-procedural MIs without improving outcomes. In patients requiring revascularization for significant left main CAD with high-complexity CAD, CABG over PCI is recommended to improve survival.",
+    "recommendation_support": "Multiple RCTs confirm that revascularization improves anginal symptoms more than optimal medical therapy. Results from trials like ORBITA questioned the placebo effect, while ISCHEMIA showed relevant improvement."
+  },
+  "genes": []
+}

@@ -1,0 +1,31 @@
+{
+  "content": {
+    "Anti-Ischemic and Analgesic Medications": {
+      "Nitrates": {
+        "Recommendations": {
+          "Class I": [
+            "Patients with NSTE-ACS with continuing ischemic pain should receive sublingual nitroglycerin every 5 minutes for up to 3 doses."
+          ],
+          "Class IIa": [
+            "Intravenous nitroglycerin is indicated for NSTE-ACS for persistent ischemia, HF, or hypertension."
+          ],
+          "Class III Harm": [
+            "Nitrates should not be administered to patients with NSTE-ACS who recently received a phosphodiesterase inhibitor."
+          ]
+        },
+        "Effects": "They are vasodilators that relieve angina symptoms but do not reduce mortality rates."
+      },
+      "Analgesic Therapy": {
+        "Recommendations": {
+          "Class IIb": [
+            "Morphine sulfate may be administered intravenously for continued ischemic chest pain."
+          ],
+          "Class III Harm": [
+            "Nonsteroidal anti-inflammatory drugs (NSAIDs) should not be initiated during hospitalization for NSTE-ACS."
+          ]
+        }
+      }
+    }
+  },
+  "genes": []
+}

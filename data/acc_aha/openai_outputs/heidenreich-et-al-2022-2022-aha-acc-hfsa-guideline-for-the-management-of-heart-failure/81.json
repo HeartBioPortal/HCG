@@ -1,0 +1,25 @@
+{
+  "content": {
+    "Summary": "Hospitalization for HFrEF (Heart Failure with reduced Ejection Fraction) is an opportunity to optimize guideline-directed medical therapy (GDMT). Several studies have shown the benefits of continuing GDMT during hospitalization for heart failure (HF). However, adherence to GDMT post-discharge remains suboptimal. Recommendations from various trials and registries are discussed, emphasizing the continuation of GDMT.",
+    "Recommendations": [
+      {
+        "Trial": "OPTIMIZE-HF",
+        "Findings": "Discontinuation of beta blockers was associated with higher risk in-hospital mortality. Caution is advised when discontinuing these therapies, especially in patients with marked volume overload."
+      },
+      {
+        "Trial": "Get With The Guidelines-Heart Failure (GWTG-HF)",
+        "Findings": "Withdrawal of ACEi-ARB was associated with higher risk of post-discharge mortality and readmission."
+      },
+      {
+        "Trial": "ARIC",
+        "Findings": "Discontinuation of oral GDMT was associated with higher mortality risk."
+      },
+      {
+        "Trial": "CHAMP-HF",
+        "Findings": "Few patients achieved target doses of beta blockers or ACEi-ARB."
+      }
+    ],
+    "Additional Notes": "Stopping medications such as spironolactone and beta blockers in certain conditions can worsen renal function and heart failure morbidity. Using nebivolol in elderly patients showed equivalent outcomes regardless of systolic blood pressure (SBP) levels."
+  },
+  "genes": []
+}

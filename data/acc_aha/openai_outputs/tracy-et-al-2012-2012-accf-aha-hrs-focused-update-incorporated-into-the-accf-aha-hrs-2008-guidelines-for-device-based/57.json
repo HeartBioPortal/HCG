@@ -1,0 +1,36 @@
+{
+  "content": {
+    "title": "Device Guideline: 2012 Update Incorporated",
+    "topics": [
+      "ventricular non-compaction",
+      "isolated noncompaction of the left ventricular myocardium",
+      "Brugada syndrome",
+      "long-term outcomes of implanted cardioverter-defibrillators",
+      "clinical features of Brugada syndrome"
+    ],
+    "key points": [
+      "The document discusses isolated noncompaction of the ventricular myocardium and its clinical symptoms.",
+      "Brugada syndrome is characterized by right bundle branch block, persistent ST segment elevation, and sudden cardiac death.",
+      "The prevalence and clinical follow-up of Brugada syndrome are highlighted.",
+      "Gene mutations, such as those linked to cardiac conditions, are associated with ventricular tachycardia."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "RYR2",
+      "Associated Conditions": [
+        "catecholaminergic polymorphic ventricular tachycardia"
+      ],
+      "Occurrences": 2,
+      "context": "Lahat H, Pras E, Eldar M. RYR2 and CASQ2 mutations in patients suffering from catecholaminergic polymorphic ventricular tachycardia. Circulation. 2001;103:e79. Laitinen PJ, Brown KM, Piippo K, et al. Mutations of the cardiac ryanodine receptor (RyR2) gene in familial polymorphic ventricular tachycardia."
+    },
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "long QT syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Priori SG, Napolitano C, Schwartz PJ, et al. A novel form of short QT syndrome (SQTS) is caused by a mutation in the ICN5A gene. Circ Res. 2005;96:800\u20137."
+    }
+  ]
+}

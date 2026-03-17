@@ -1,0 +1,20 @@
+{
+  "content": {
+    "Nonpharmacological strategies": {
+      "Preconception": "Counseling and testing for heritable cardiac conditions. Use cardiovascular risk tools and echocardiography.",
+      "During Pregnancy": "Monitor for HF signs or cardiovascular instability. Consider echocardiographic screening in the third trimester.",
+      "Postpartum": "Recommendations from obstetrics and neonatology. Management should include hemodynamic monitoring."
+    },
+    "Pharmacological strategies": {
+      "Preconception": "Review medications, modify HF pharmacotherapy to minimize risk of placental hypoperfusion. Repeat echocardiography if needed.",
+      "During Pregnancy": "Monitor blood pressure, heart rate, volume status. Adjust doses appropriately.",
+      "Postpartum": "For patients with PPCM and LVEF <35%, initiate GDMT including beta blockers and anticoagulation if appropriate."
+    },
+    "Multidisciplinary care": {
+      "Preconception": "Consultation with genetics, gynecology, and relevant teams.",
+      "During Pregnancy": "Management with obstetrics and maternal-fetal medicine teams.",
+      "Postpartum": "Management with neonatology and obstetrics teams."
+    }
+  },
+  "genes": []
+}

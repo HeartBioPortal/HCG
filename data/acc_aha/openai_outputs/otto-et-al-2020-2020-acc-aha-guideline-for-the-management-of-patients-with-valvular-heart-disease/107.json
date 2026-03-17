@@ -1,0 +1,33 @@
+{
+  "content": {
+    "Topics": [
+      "Pregnancy and valvular heart disease (VHD).",
+      "Initial management of women with VHD before and during pregnancy.",
+      "Recommendations for clinical evaluation and pre-pregnancy counseling for women with suspected or severe VHD."
+    ],
+    "Recommendations": [
+      {
+        "Class": "1",
+        "Level of Evidence": "B-NR",
+        "Description": "Women with suspected valve disease who are considering pregnancy should undergo a clinical evaluation and TTE before pregnancy."
+      },
+      {
+        "Class": "1",
+        "Level of Evidence": "B-NR",
+        "Description": "Women with severe valve disease (Stages C and D) who are considering pregnancy should undergo pre-pregnancy counseling by a cardiologist."
+      },
+      {
+        "Class": "1",
+        "Level of Evidence": "B-NR",
+        "Description": "Pregnant women with severe valve disease (Stages C and D) should be monitored in a tertiary-care center with a dedicated Heart Valve Team."
+      },
+      {
+        "Class": "2a",
+        "Level of Evidence": "B-NR",
+        "Description": "In asymptomatic women with severe valve disease (Stage C1) who are considering pregnancy, exercise testing is reasonable before pregnancy for risk assessment."
+      }
+    ],
+    "Synopsis": "Evaluation is best performed before conception for best outcomes. The frequency and intensity of follow-up during pregnancy depend on the type and severity of valve lesion and patient symptoms."
+  },
+  "genes": []
+}

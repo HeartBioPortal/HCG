@@ -1,0 +1,16 @@
+{
+  "content": {
+    "Synopsis": "Controlling the ventricular rate in atrial fibrillation (AF) with a rapid ventricular response in the acute setting can be challenging and is crucial for symptom control. Some agents may not be preferable due to underlying comorbidities. For patients needing intravenous rate-control agents, hypotension or decompensated heart failure may limit options.",
+    "Recommendation-Specific Supportive Text": [
+      {
+        "description": "A placebo-controlled trial on continuous intravenous diltiazem infusion for heart rate control during AF and AFL showed better maintenance of response compared to placebo. Another RCT compared diltiazem, digoxin, or amiodarone, and found diltiazem reduced heart rate quickly and more effectively. Amiodarone showed faster control in the emergency setting.",
+        "study_outcomes": "Patients receiving diltiazem infusion showed a slower loss of response. The diltiazem group achieved rate control faster than digoxin or amiodarone groups."
+      },
+      {
+        "description": "Intravenous digoxin was less effective than diltiazem in several RCTs. However, intravenous magnesium appears beneficial over conventional therapy, often showing superior control for rapid AF.",
+        "study_outcomes": "Intravenous diltiazem achieved more rapid heart rate control than digoxin. Intravenous magnesium was superior in achieving rate control in various studies."
+      }
+    ]
+  },
+  "genes": []
+}

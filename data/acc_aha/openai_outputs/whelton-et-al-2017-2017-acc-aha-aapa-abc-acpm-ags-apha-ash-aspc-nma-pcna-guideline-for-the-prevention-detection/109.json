@@ -1,0 +1,39 @@
+{
+  "content": {
+    "title": "2017 High Blood Pressure Clinical Practice Guideline",
+    "topics": [
+      {
+        "section": "11",
+        "title": "Antihypertensive Medication Adherence Strategies",
+        "details": [
+          "Perioperative use of clevidipine.",
+          "Systematic review and meta-analysis on antihypertensive medications.",
+          "Fixed-dose combinations in blood pressure medications."
+        ]
+      },
+      {
+        "section": "12",
+        "title": "Strategies to Improve Hypertension Treatment and Control",
+        "details": [
+          "Adherence strategies for hypertension treatment.",
+          "Antihypertensive medication adherence strategies."
+        ]
+      }
+    ],
+    "studies": [
+      {
+        "reference": "Sear JW, Bion JF.",
+        "findings": "Anesthesia related to hypertension."
+      },
+      {
+        "reference": "Mangano DT, Layug EL, Wallace A, Tateo I.",
+        "findings": "Ischemic events related to blood pressure management."
+      }
+    ],
+    "issues": [
+      "Risk and management of hypertension in surgical settings.",
+      "Impact of medication adherence on blood pressure control."
+    ]
+  },
+  "genes": []
+}

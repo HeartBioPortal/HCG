@@ -1,0 +1,30 @@
+{
+  "content": {
+    "title": "2023 Guideline for the Diagnosis and Management of Atrial Fibrillation",
+    "section": "7.3 Atrioventricular Nodal Ablation (AVNA)",
+    "synopsis": "AVNA provides effective ventricular rate control without medications but increases dependence on pacing. Important considerations include lifelong pacemaker implantation, especially regarding age and comorbidities. Small RCTs show AVNA and right ventricular pacing improve symptoms and QOL but do not affect EF or cardiac performance. AVNA results in permanent AF but does not improve quality of life with antiarrhythmic drugs. Risks include device-related complications, sudden cardiac death, and worsened heart failure, associated with malignant arrhythmias alleviated by early postprocedure rate programming. AVNA should not be a first-line therapy.",
+    "recommendations": [
+      {
+        "COR": 1,
+        "LOE": "C-LD",
+        "Recommendation": "In patients with AF and a persistently rapid ventricular response who undergo AVNA, initial pacemaker lower rate programming should be 80 to 90 bpm to reduce the risk of sudden death."
+      },
+      {
+        "COR": 2,
+        "LOE": "B-R",
+        "Recommendation": "In patients with AF and uncontrolled rapid ventricular response refractory to rate-control medications, AVNA can be used to improve symptoms and quality of life."
+      },
+      {
+        "COR": 1,
+        "LOE": "B-NR",
+        "Recommendation": "In patients with AF who are planned to undergo AVNA, implantation of a pacemaker before ablation is recommended."
+      },
+      {
+        "COR": 2,
+        "LOE": "C-LD",
+        "Recommendation": "In patients with AF with normal EF undergoing AVNA, conduction system pacing of the His bundle or left bundle area may be reasonable."
+      }
+    ]
+  },
+  "genes": []
+}

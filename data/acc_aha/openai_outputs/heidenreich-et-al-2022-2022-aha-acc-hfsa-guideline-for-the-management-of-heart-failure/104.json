@@ -1,0 +1,32 @@
+{
+  "content": {
+    "Title": "2022 AHA/ACC/HFSA Heart Failure Guideline",
+    "Publication": "JACC VOL. 79, NO. 17, 2022",
+    "Date": "MAY 3, 2022",
+    "Palliative and Supportive Care Domains": {
+      "Communication": "Central to palliative care approaches are communication and patient-caregiver engagement techniques.",
+      "Conveyance of Prognosis": "Addresses patient and caregiver understanding of disease, treatment, and prognosis, emphasizing the importance of realistic expectations.",
+      "Clarifying Goals of Care": "Includes discussions about treatment discontinuation, location of death, and hospice care for end-stage heart failure.",
+      "Shared Decision-Making": "Process by which patients and clinicians choose optimal health care decisions considering risks, benefits, and patient values.",
+      "Symptom Management": "Includes addressing dyspnea, fatigue, pain, nausea, and other symptoms of heart failure.",
+      "Caregiver Support": "Extends care to patient\u2019s loved ones, offering support beyond death."
+    },
+    "Figure": {
+      "Title": "A Depiction of the Clinical Course of HF",
+      "Description": "Shows quality of life and intensity of care over time from onset of CHF to end-of-life care.",
+      "Phases": [
+        "Onset of CHF",
+        "Sudden Death",
+        "Decompensations",
+        "Pump Failure"
+      ],
+      "Strategies": [
+        "Disease-modifying therapies",
+        "Symptom palliation therapies",
+        "Transition to Advanced Heart Failure",
+        "Inversion to End-of-Life Care"
+      ]
+    }
+  },
+  "genes": []
+}

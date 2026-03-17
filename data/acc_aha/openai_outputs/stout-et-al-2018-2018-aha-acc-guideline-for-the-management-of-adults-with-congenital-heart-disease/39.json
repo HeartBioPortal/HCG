@@ -1,0 +1,46 @@
+{
+  "content": {
+    "Title": "Atrioventricular Septal Defect",
+    "Recommendations": [
+      {
+        "COR": "IIa",
+        "LOE": "C-EO",
+        "Recommendation": "Cardiac catheterization can be useful in adults with atrioventricular septal defect when pulmonary hypertension is suspected."
+      },
+      {
+        "COR": "I",
+        "LOE": "C-LD",
+        "Recommendation": "Surgery for severe left atrioventricular valve regurgitation is recommended per GDMT indications for mitral regurgitation."
+      },
+      {
+        "COR": "I",
+        "LOE": "C-EO",
+        "Recommendation": "Surgery for primary repair of atrioventricular septal defect or closure of residual shunts in adults with repaired atrioventricular septal defect is recommended when there is a net left-to-right shunt (Qp:Qs \u22651.5:1), PA systolic pressure less than 50% systemic and pulmonary vascular resistance less than one third systemic."
+      },
+      {
+        "COR": "IIa",
+        "LOE": "C-EO",
+        "Recommendation": "Operation for discrete LVOT obstruction in adults with atrioventricular septal defect is reasonable with a maximum gradient of 50 mm Hg or greater, a lesser gradient if HF symptoms are present, or if concomitant moderate-to-severe mitral or AR are present."
+      },
+      {
+        "COR": "IIb",
+        "LOE": "C-EO",
+        "Recommendation": "Surgery for primary repair of atrioventricular septal defect or closure of residual shunts in adults with repaired atrioventricular septal defect may be considered in the presence of a net left-to-right shunt (Qp:Qs \u22651.5:1), if PA systolic pressure is 50% or more systemic, and/or pulmonary vascular resistance is greater than one third systemic."
+      },
+      {
+        "COR": "III: Harm",
+        "LOE": "C-LD",
+        "Recommendation": "Surgery for primary repair of atrioventricular septal defect or closure of residual shunts in adults with repaired atrioventricular septal defect should not be performed with PA systolic pressure greater than two thirds systemic, pulmonary vascular resistance greater than two thirds systemic, or a net right-to-left shunt."
+      }
+    ],
+    "Synopsis": "AVSDs represent about 4% to 5% of congenital heart defects, including primum ASD, inlet VSD, and common atrioventricular valve. Occurrence in syndromes such as Down syndrome is noted. Surgical repair is common, and management requires monitoring for valve regurgitation and stenosis."
+  },
+  "genes": [
+    {
+      "Gene": "NONE",
+      "Associated Conditions": [],
+      "Occurrences": 0,
+      "context": "There are no specific gene mentions in the provided text."
+    }
+  ]
+}

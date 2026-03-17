@@ -1,0 +1,27 @@
+{
+  "content": {
+    "Duplex ultrasound": "Used for targeting branch vessel surveillance after FEVAR. Helpful in routine cross-sectional imaging for surveillance of fenestration sites, branch junctions, and flow adequacy in certain arteries.",
+    "Para-anastomotic aneurysms": "These occur after open AAA repair with incidence rates at different postoperative years: 1%, 6%, 27% to 35% at 5, 10, and 15 years. Late aortic aneurysms found in different aortic repair segments with rising incidence 7 years postoperatively.",
+    "Surveillance recommendation": "Vascular Surgery and European Society of Cardiology recommend imaging every 5 years post-AAA repair.",
+    "Acute Aortic Syndromes (AAS)": {
+      "Characteristics": "Life-threatening, high mortality rate (1% to 2%/h). Symptoms include sharp or stabbing pain, mainly in chest or back, radiating at times.",
+      "Significance": "Presentation overlaps with other conditions. Requires prompt identification for proper therapy.",
+      "Blood Pressure Measurement": "Measure in both arms and lower extremities to detect differentials. Listen for murmurs to indicate conditions like aortic dissection."
+    },
+    "Signs and symptoms of AAS": [
+      {
+        "Symptom": "New murmur of aortic regurgitation",
+        "Cause": "Incomplete aortic valve closure caused by tethering to aortic dilated area or cusp prolapse."
+      },
+      {
+        "Symptom": "Horner's syndrome",
+        "Cause": "Compression of sympathetic chain."
+      },
+      {
+        "Symptom": "Paraplegia",
+        "Cause": "Spinal malperfusion due to intercostal artery involvement."
+      }
+    ]
+  },
+  "genes": []
+}

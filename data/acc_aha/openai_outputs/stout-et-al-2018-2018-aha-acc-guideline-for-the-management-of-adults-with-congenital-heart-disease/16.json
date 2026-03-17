@@ -1,0 +1,29 @@
+{
+  "content": {
+    "3.4.1 Electocardiogram": {
+      "Recommendations for Electrocardiogram": {
+        "Recommendations": [
+          "A standard 12-lead electrocardiogram (ECG) is recommended in adults with CHD with serial assessment depending on the specific ACHD AP classification or when symptoms develop or worsen.",
+          "Ambulatory electrocardiographic monitoring should be performed in patients with CHD who are at risk of tachyarrhythmia, bradyarrhythmia or heart block, or when symptoms possibly of arrhythmic origin develop."
+        ]
+      },
+      "Recommendation-Specific Supportive Text": [
+        "The ECG is an essential part of a complete cardiovascular evaluation of a patient with ACHD.",
+        "Asymptomatic arrhythmias seen in patients with ACHD may be associated with development of symptoms and increased risk of death.",
+        "Sinus node dysfunction is common in patients with atrial switch repairs of transposition of the great arteries (TGA).",
+        "Complete heart block is seen in patients with congenitally corrected transposition of the great arteries (CCTGA) or late after atrioventricular septal defect (AVSD) repair."
+      ]
+    },
+    "3.4.2 Ionizing Radiation Principles": {
+      "Recommendation for Ionizing Radiation Principles": {
+        "Recommendation": "Strategies to limit and monitor radiation exposure are recommended during imaging of patients with ACHD, with studies not involving ionizing radiation chosen whenever appropriate."
+      },
+      "Recommendation-Specific Supportive Text": [
+        "Low-dose ionizing radiation is a known carcinogen.",
+        "Certain levels of exposure similar to medical exposure have been associated with later malignancy.",
+        "Patients with ACHD have multiple potential exposures to low-dose ionizing radiation throughout their lifetimes."
+      ]
+    }
+  },
+  "genes": []
+}

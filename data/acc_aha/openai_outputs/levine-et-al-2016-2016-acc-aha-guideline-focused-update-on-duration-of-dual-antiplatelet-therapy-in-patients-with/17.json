@@ -1,0 +1,22 @@
+{
+  "content": {
+    "title": "Treatment Algorithm for Duration of P2Y12 Inhibitor Therapy in Patients with SIHD",
+    "description": "This guideline focuses on the duration of dual antiplatelet therapy (DAPT) in patients with stable ischemic heart disease (SIHD) without acute coronary syndrome (ACS) within the past several years. It highlights the use of P2Y12 inhibitors and aspirin therapy, providing guidance based on levels of bleeding risk, history of myocardial infarction (MI), and other clinical scenarios. It is recommended to consider patient history, potential bleeding risks, and benefit-risk ratios when determining the duration of DAPT.",
+    "key points": [
+      "P2Y12 inhibitor therapy is recommended for varying durations depending on the history of ACS, MI, or stent implementation.",
+      "In patients with no prior MI or recent coronary intervention, continuing P2Y12 inhibitors is generally not beneficial.",
+      "In patients with prior MI, longer durations of P2Y12 inhibitor therapy may be reasonable based on individual risk assessments.",
+      "High bleeding risk requires careful consideration of the duration and necessity of continued therapy."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "P2Y12",
+      "Associated Conditions": [
+        "Ischemic Complications"
+      ],
+      "Occurrences": 4,
+      "context": "Clopidogrel is the only currently used P2Y12 inhibitor studied in patients with SIHD undergoing PCI. The greatest reduction in ischemic events was seen in patients in whom P2Y12 inhibitor therapy either had not been discontinued or had been discontinued \u226430 days before enrollment in the study."
+    }
+  ]
+}

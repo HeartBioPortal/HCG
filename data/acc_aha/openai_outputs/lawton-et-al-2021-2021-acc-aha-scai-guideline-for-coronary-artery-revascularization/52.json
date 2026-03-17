@@ -1,0 +1,45 @@
+{
+  "content": {
+    "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+    "Anticoagulant Dosing During PCI": {
+      "UFH": {
+        "Additional Dosing": "2000-5000 U to achieve an ACT of 250-300 s",
+        "No Prior Anticoagulant Therapy": "70-100 U/kg initial bolus to achieve target ACT"
+      },
+      "Enoxaparin": {
+        "With Prior Treatment": {
+          "Previous SC Dose 8-12 hrs or 1 SC Dose": "No additional unless recently given",
+          "0.3 mg/kg IV Recommended": "If last SC dose within 8 hrs and additional not needed"
+        },
+        "No Prior Anticoagulant Therapy": "0.5-0.75 mg/kg IV bolus"
+      },
+      "Bivalirudin": {
+        "With UFH History": "Repeat ACT",
+        "In Therapeutic Range": "0.75 mg/kg IV bolus, 1.75 mg/kg/h IV infusion",
+        "No UFH History": "0.75 mg/kg IV bolus, 1.75 mg/kg/h IV infusion"
+      },
+      "Argatroban": {
+        "Prior Therapy": "350 \u00b5g/kg bolus, then 15 \u00b5g/kg/min IV infusion",
+        "Without Prior Therapy": "200 \u00b5g/kg IV bolus, then 15 \u00b5g/kg/min IV infusion"
+      }
+    },
+    "Heparin-Induced Thrombocytopenia": {
+      "Alternative Anticoagulants": [
+        "Argatroban",
+        "Bivalirudin"
+      ]
+    },
+    "RCT Highlights": {
+      "Bivalirudin vs Heparin": "Reported no difference but less bleeding with bivalirudin",
+      "Radial Artery Intervention Impact": "Lower reduction in bleeding"
+    },
+    "Enoxaparin": {
+      "As an Alternative to UFH": "Noninferior for NSTE-ACS",
+      "RCT": "ATOLL trial"
+    },
+    "PCI Highlight": {
+      "Pre-PCI Enoxaparin": "Avoid UFH if administered within past 12 hours"
+    }
+  },
+  "genes": []
+}

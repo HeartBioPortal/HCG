@@ -1,0 +1,176 @@
+{
+  "content": {
+    "title": "Characteristics of Previously Published Risk Scores and Current Pooled Cohort Equations (Including Data Sources, Covariates, and Outcomes)",
+    "risk_scores": [
+      {
+        "study_group": "Framingham CHD",
+        "study_and_region": "Framingham MA, USA",
+        "data_source": "EAF, EAM",
+        "publication_year": 1998,
+        "risk_factors": [
+          "Total Chol",
+          "HDL Chol",
+          "Systolic BP",
+          "Smoking"
+        ],
+        "outcomes": [
+          "Coronary Revasc",
+          "Angina Pectoris",
+          "CHD Death"
+        ]
+      },
+      {
+        "study_group": "ATP III",
+        "study_and_region": "Framingham MA, USA",
+        "data_source": "EAF, EAM",
+        "publication_year": 2001,
+        "risk_factors": [
+          "Total Chol",
+          "HDL Chol",
+          "Systolic BP",
+          "Diabetes",
+          "Smoking"
+        ],
+        "outcomes": [
+          "CHD Death"
+        ]
+      },
+      {
+        "study_group": "Framingham Global",
+        "study_and_region": "Framingham MA, USA",
+        "data_source": "EAF, EAM",
+        "publication_year": 2008,
+        "risk_factors": [
+          "Total Chol",
+          "HDL Chol",
+          "Systolic BP",
+          "HbA1c*",
+          "Smoking"
+        ],
+        "outcomes": [
+          "Coronary Revasc",
+          "CHD Death",
+          "Stroke"
+        ]
+      },
+      {
+        "study_group": "PROCAM",
+        "study_and_region": "Munster, Germany",
+        "data_source": "EM",
+        "publication_year": 2002,
+        "risk_factors": [
+          "Total Chol",
+          "HDL Chol",
+          "Systolic BP"
+        ],
+        "outcomes": [
+          "CHD Death",
+          "Myocardial Infarct"
+        ]
+      },
+      {
+        "study_group": "QRISK",
+        "study_and_region": "QRSEARCH, United Kingdom",
+        "data_source": "EF, EM",
+        "publication_year": 2007,
+        "risk_factors": [
+          "Total Chol",
+          "Systolic BP",
+          "Diabetes",
+          "Family Hx CVD\u2021",
+          "Body Mass Index",
+          "Social Deprivation\u2020"
+        ],
+        "outcomes": [
+          "Coronary Revasc",
+          "Angina Pectoris",
+          "Unstable Angina",
+          "Myocardial Infarct",
+          "Stroke",
+          "Transient Ischemic Attack"
+        ]
+      },
+      {
+        "study_group": "Reynolds Men",
+        "study_and_region": "Phys Health Study USA",
+        "data_source": "EAF",
+        "publication_year": 2008,
+        "risk_factors": [
+          "Total Chol",
+          "HDL Chol",
+          "Systolic BP"
+        ],
+        "outcomes": [
+          "CHD Death",
+          "Stroke"
+        ]
+      },
+      {
+        "study_group": "Reynolds Women",
+        "study_and_region": "Women\u2019s Health Study USA",
+        "data_source": "EAM",
+        "publication_year": 2007,
+        "risk_factors": [
+          "Total Chol",
+          "HDL Chol",
+          "Systolic BP",
+          "Family Hx CVD\u2021",
+          "Body Mass Index"
+        ],
+        "outcomes": [
+          "CHD Death",
+          "Stroke"
+        ]
+      },
+      {
+        "study_group": "EURO-SCORE",
+        "study_and_region": "12 cohorts, Europe",
+        "data_source": "EF, EM",
+        "publication_year": 2003,
+        "risk_factors": [
+          "Total Chol",
+          "HDL Chol",
+          "Systolic BP",
+          "Diabetes",
+          "Family Hx CVD\u2021"
+        ],
+        "outcomes": [
+          "CHD Death",
+          "Stroke"
+        ]
+      },
+      {
+        "study_group": "Pooled cohort (current)",
+        "study_and_region": "CARDIA, Framingham, ARIC, CHS, USA",
+        "data_source": "EAF, EAM, AAM",
+        "publication_year": null,
+        "risk_factors": [
+          "Total Chol",
+          "HDL Chol",
+          "Systolic BP",
+          "Diabetes",
+          "Smoking"
+        ],
+        "outcomes": [
+          "Coronary Revasc",
+          "Unstable Angina",
+          "CHD Death",
+          "Stroke"
+        ]
+      }
+    ],
+    "notes": [
+      "* Only among those with diabetes.",
+      "\u2020 Measure of social deprivation.",
+      "\u2021 Definitions of a positive family history vary."
+    ],
+    "outcome_types": [
+      "Hard CVD, Including Cardiac Failure",
+      "Hard ASCVD",
+      "Hard CHD",
+      "Total CHD",
+      "Total CHD, Including Revascularization"
+    ]
+  },
+  "genes": []
+}

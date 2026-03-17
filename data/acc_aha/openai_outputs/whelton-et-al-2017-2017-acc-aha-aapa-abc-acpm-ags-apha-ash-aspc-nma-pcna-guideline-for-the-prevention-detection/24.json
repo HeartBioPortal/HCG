@@ -1,0 +1,121 @@
+{
+  "content": {
+    "Primary Aldosteronism": {
+      "Prevalence": "8%-20%",
+      "Clinical Indications": [
+        "Resistant hypertension",
+        "Hypertension with hypokalemia",
+        "Muscle cramps or weakness",
+        "Hypertension and obstructive sleep apnea"
+      ],
+      "Physical Examination": "Arrhythmias, especially atrial fibrillation",
+      "Screening Tests": "Plasma aldosterone renin ratio under standardized conditions",
+      "Additional Tests": "Oral sodium loading test, adrenal CT scan"
+    },
+    "Obstructive Sleep Apnea": {
+      "Prevalence": "25%-50%",
+      "Clinical Indications": [
+        "Resistant hypertension",
+        "Snoring",
+        "Pauses during sleep"
+      ],
+      "Physical Examination": "Obesity, Mallampati class III-IV",
+      "Screening Tests": "Berlin Questionnaire, Epworth Sleepiness Score",
+      "Additional Tests": "Polysomnography"
+    },
+    "Drug or Alcohol Induced": {
+      "Prevalence": "2%-4%",
+      "Clinical Indications": [
+        "Use of drugs: caffeine, alcohol, NSAIDs",
+        "Withdrawal from certain agents"
+      ],
+      "Physical Examination": "Symptoms include fine tremor, sweating",
+      "Screening Tests": "Urinary drug screen",
+      "Additional Tests": "Response to withdrawal of suspected agent"
+    },
+    "Pheochromocytoma/Paraganglioma": {
+      "Prevalence": "0.1%-0.6%",
+      "Clinical Indications": [
+        "Resistant hypertension",
+        "Paroxysmal hypertension"
+      ],
+      "Physical Examination": "Skin stigmata of neurofibromatosis",
+      "Screening Tests": "24-h urinary fractionated metanephrines",
+      "Additional Tests": "CT or MRI scan"
+    },
+    "Cushing\u2019s Syndrome": {
+      "Prevalence": "<0.1%",
+      "Clinical Indications": [
+        "Rapid weight gain",
+        "Proximal muscle weakness"
+      ],
+      "Physical Examination": "Central obesity",
+      "Screening Tests": "Overnight 1-mg dexamethasone suppression test",
+      "Additional Tests": "24-h urinary free cortisol excretion"
+    },
+    "Hypothyroidism": {
+      "Prevalence": "<1%",
+      "Clinical Indications": [
+        "Dry skin",
+        "Cold intolerance",
+        "Weight gain"
+      ],
+      "Physical Examination": "Delayed ankle reflex",
+      "Screening Tests": "Thyroid-stimulating hormone, free thyroxine"
+    },
+    "Hyperthyroidism": {
+      "Prevalence": "<1%",
+      "Clinical Indications": [
+        "Warm moist skin",
+        "Nervousness",
+        "Proximal muscle weakness"
+      ],
+      "Physical Examination": "Lid lag",
+      "Screening Tests": "Thyroid-stimulating hormone, free thyroxine",
+      "Additional Tests": "Radioactive iodine uptake and scan"
+    },
+    "Aortic Coarctation": {
+      "Prevalence": "0.1%",
+      "Clinical Indications": [
+        "Young patient with hypertension"
+      ],
+      "Physical Examination": "BP higher in upper extremities",
+      "Screening Tests": "Echocardiogram",
+      "Additional Tests": "Thoracic and abdominal CT angiogram or MRA"
+    },
+    "Primary Hyperparathyroidism": {
+      "Prevalence": "Rare",
+      "Clinical Indications": [
+        "Hypercalcemia"
+      ],
+      "Screening Tests": "Serum calcium",
+      "Additional Tests": "Serum parathyroid hormone"
+    },
+    "Congenital Adrenal Hyperplasia": {
+      "Prevalence": "Rare",
+      "Clinical Indications": [
+        "Hypertension and hypokalemia",
+        "Virilization"
+      ],
+      "Screening Tests": "Signs of virilization or incomplete masculinization"
+    }
+  },
+  "genes": [
+    {
+      "Gene": "11-beta-OH",
+      "Associated Conditions": [
+        "Congenital adrenal hyperplasia"
+      ],
+      "Occurrences": 2,
+      "context": "Signs of virilization (11-beta-OH or incomplete masculinization (17-alpha-OH)); Hypertension and hypokalemia with low or normal aldosterone and renin."
+    },
+    {
+      "Gene": "17-alpha-OH",
+      "Associated Conditions": [
+        "Congenital adrenal hyperplasia"
+      ],
+      "Occurrences": 1,
+      "context": "Signs of virilization (11-beta-OH or incomplete masculinization (17-alpha-OH))."
+    }
+  ]
+}

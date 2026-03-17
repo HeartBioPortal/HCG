@@ -1,0 +1,29 @@
+{
+  "content": {
+    "Title": "2023 Guideline for the Diagnosis and Management of Atrial Fibrillation",
+    "Section": "4. Clinical Evaluation",
+    "Subsection": "4.1 Risk Stratification and Population Screening",
+    "Summary": {
+      "Risk Models": {
+        "Description": "There are over 20 risk prediction models for incident atrial fibrillation (AF) in the community.",
+        "Main Model": "The most widely replicated risk model for newly diagnosed AF is CHARGE-AF.",
+        "CHARGE-AF": "Cohorts for Heart and Aging Research in Genomic Epidemiology Model for atrial fibrillation.",
+        "C2HEST Model": "Derived and validated in Asian cohorts."
+      },
+      "Screening": {
+        "Methods": "Various protocols including electrocardiographic recordings, consumer-based devices, and continuous external monitors.",
+        "Study Findings": {
+          "AI Model": "Algorithm able to risk-stratify older adults at risk for stroke; associated with increased AF detection.",
+          "Mass Population Screening": "With a smartphone app rarely detected a new diagnosis of AF.",
+          "General Suggestion": "Risk stratification models and screening programs need improvement to enhance outcomes and cost-effectiveness."
+        }
+      }
+    },
+    "Tables": {
+      "Table 5": "Publicly Available Decision Aids",
+      "Table 6": "CHARGE-AF Risk Score for Detecting Incident AF",
+      "Table 7": "C2HEST Risk Score for Detecting Incident AF"
+    }
+  },
+  "genes": []
+}

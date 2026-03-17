@@ -1,0 +1,19 @@
+{
+  "content": {
+    "Antiarrhythmic medications": "Classified by the Vaughan Williams 4-level schema: class I (fast sodium channel blockers), class II (beta blockers), class III (repolarization potassium current blockers), and class IV (nondihydropyridines calcium channel blockers).",
+    "Medications with Prominent Sodium Channel Blockade": "Sodium channel blockers have a limited role in the prevention of VT/SCD. Specific medications include lidocaine, mexiletine, quinidine, and flecainide.",
+    "Newer medication": "Ranolazine is noted for potential benefit in reducing late sodium current blockade.",
+    "Beta Blockers": "Effective in treating VA, reducing SCD risk, and often used as first-line antiarrhythmic therapy. Reduces mortality and SCD in patients with HF.",
+    "Amiodarone and Sotalol": "Amiodarone reduces incidence of SCD but has controversial effects on mortality. No survival benefit shown for SCD-HeFT compared with placebo."
+  },
+  "genes": [
+    {
+      "Gene": "RYR",
+      "Associated Conditions": [
+        "Arrhythmia"
+      ],
+      "Occurrences": 1,
+      "context": "Their antiarrhythmic efficacy is related to the effects of adrenergic-receptor blockade on sympathetically mediated triggering mechanisms, slowing of the sinus rate, and possibly inhibition of excess calcium release by the ryanodine receptor."
+    }
+  ]
+}

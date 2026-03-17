@@ -1,0 +1,41 @@
+{
+  "content": {
+    "guideline": "2018 ACR Guideline",
+    "focus": "Exercise, mental health, neurodevelopmental issues, and endocarditis in congenital heart disease.",
+    "sections": [
+      {
+        "title": "Exercise and Sports",
+        "details": [
+          "Lapse of care is a predictor of morbidity in adults with congenital heart disease.",
+          "Physical activity in congenital heart disease shows various benefits, including psychological effects and influence on mortality.",
+          "Specific recommendations for exercise and competitive sports participation are provided based on individual capacity and associated risks."
+        ]
+      },
+      {
+        "title": "Mental Health and Neurodevelopmental Issues",
+        "details": [
+          "Anxiety and depression prevalent among congenital heart disease patients.",
+          "Psychosocial support is essential.",
+          "Neurodevelopmental outcomes and strategies to support cognitive development are addressed."
+        ]
+      },
+      {
+        "title": "Endocarditis Prevention",
+        "details": [
+          "Guidelines on the prevention of infective endocarditis in patients with congenital heart disease.",
+          "Antibiotic prophylaxis recommendations discussed."
+        ]
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "APOE2",
+      "Associated Conditions": [
+        "Neurodevelopmental dysfunction after cardiac surgery"
+      ],
+      "Occurrences": 1,
+      "context": "Validation of association of the apolipoprotein E2 allele with neurodevelopmental dysfunction after cardiac surgery in neonates and infants."
+    }
+  ]
+}

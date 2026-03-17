@@ -1,0 +1,48 @@
+{
+  "content": {
+    "title": "Congenitally Corrected Transposition of the Great Arteries",
+    "sections": [
+      {
+        "type": "Diagnostic",
+        "recommendations": [
+          {
+            "COR": "IIa",
+            "LOE": "C-LD",
+            "description": "CMR is reasonable in adults with CCTGA to determine systemic RV dimensions and systolic function."
+          }
+        ]
+      },
+      {
+        "type": "Therapeutic",
+        "recommendations": [
+          {
+            "COR": "I",
+            "LOE": "B-NR",
+            "description": "Tricuspid valve replacement is recommended for symptomatic adults with CCTGA and severe TR, and preserved or mildly depressed systemic ventricular function."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "C-LD",
+            "description": "Tricuspid valve replacement is reasonable for asymptomatic adults with CCTGA and severe TR with dilation or mild dysfunction of the systemic ventricle."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "B-NR",
+            "description": "Conduit intervention/replacement may be considered for adults with CCTGA and symptomatic subpulmonary left ventricle-to-PA conduit dysfunction."
+          }
+        ]
+      }
+    ],
+    "synopsis": [
+      "The clinical course of adults with CCTGA often depends on the prevalence and severity of associated cardiac anomalies.",
+      "Conduction abnormalities are common, and spontaneous complete heart block prevalence increases with age.",
+      "Many adults with CCTGA are referred for tricuspid valve replacement due to dysfunction."
+    ],
+    "recommendation_specific_supportive_text": [
+      "CMR is useful for quantification of systemic RV size and function.",
+      "Administration of gadolinium contrast is useful in identifying fibrotic myocardium.",
+      "Tricuspid valve replacement in adults with dysplastic tricuspid valve."
+    ]
+  },
+  "genes": []
+}

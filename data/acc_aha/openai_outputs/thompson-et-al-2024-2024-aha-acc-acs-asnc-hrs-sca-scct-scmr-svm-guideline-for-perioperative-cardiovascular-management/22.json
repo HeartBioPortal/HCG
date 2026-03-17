@@ -1,0 +1,23 @@
+{
+  "content": {
+    "title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+    "key_points": [
+      {
+        "recommendation": "Routine preoperative risk assessment with CCTA is not recommended for patients without specific high-risk indications.",
+        "reason": "CCTA is useful in select patients with suspected high-risk coronary anatomy but lacks overall evidence for widespread preoperative use."
+      },
+      {
+        "risk_assessment_with_CCTA": "Considered in patients with elevated risk for perioperative cardiovascular events as determined by risk scores.",
+        "additional_use": "Incremental risk assessment over clinical risk scores, especially in those with low functional capacity."
+      },
+      {
+        "study_reference": "CCTA-VISION study indicates marginal improvement in postoperative cardiovascular event risk prediction with CCTA.",
+        "outcome_effectiveness": "CCTA overestimates risk in patients unlikely to experience events, leading to potential surgical delays and unnecessary resource use."
+      },
+      {
+        "recommendation_for_invasive_coronary_angiography": "Not recommended for patients undergoing noncardiac surgery (NCS) to improve perioperative outcomes."
+      }
+    ]
+  },
+  "genes": []
+}

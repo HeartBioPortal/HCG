@@ -1,0 +1,970 @@
+{
+  "content": [
+    {
+      "content": {
+        "Title": "2013 AHA/ACC Guideline on Lifestyle Management to Reduce Cardiovascular Risk",
+        "Overview": "This document is a report from the American College of Cardiology and the American Heart Association Task Force on Practice Guidelines. It focuses on lifestyle management for reducing cardiovascular risks and is endorsed by various associations related to cardiovascular health.",
+        "Endorsing Bodies": [
+          "American Association of Cardiovascular and Pulmonary Rehabilitation",
+          "American Pharmacists Association",
+          "American Society for Nutrition",
+          "American Society for Preventive Cardiology",
+          "American Society of Hypertension",
+          "Association of Black Cardiologists",
+          "National Lipid Association",
+          "Preventive Cardiovascular Nurses Association",
+          "WomenHeart: The National Coalition for Women With Heart Disease"
+        ],
+        "Key Participants": {
+          "Expert Work Group Members": [
+            "Robert H. Eckel, MD, FAHA, Co-Chair",
+            "John M. Jakicic, PhD, Co-Chair",
+            "Jamy D. Ard, MD",
+            "Janet M. de Jesus, MS, RD",
+            "Nancy Houston Miller, RN, BSN, FAHA",
+            "Van S. Hubbard, MD, PhD",
+            "I-Min Lee, MD, ScD",
+            "Alice H. Lichtenstein, DSc, FAHA",
+            "Catherine M. Loria, PhD, FAHA",
+            "Barbara E. Millen, DrPH, RD, FADA",
+            "Cathy A. Nonas, MS, RD",
+            "Frank M. Sacks, MD, FAHA",
+            "Sidney C. Smith, Jr, MD, FACC, FAHA",
+            "Laura P. Svetkey, MD, MHS",
+            "Thomas A. Wadden, PhD",
+            "Susan Z. Yanovski, MD"
+          ],
+          "Methodology Members": [
+            "Karima A. Kendall, PhD",
+            "Laura C. Morgan, MA",
+            "Michael G. Trolisni, PhD, MBA",
+            "George Velasco",
+            "Janusz Wnek, PhD"
+          ],
+          "ACC/AHA Task Force Members": [
+            "Jeffrey L. Anderson, MD, FACC, FAHA, Chair",
+            "Jonathan L. Halperin, MD, FACC, FAHA, Chair\u2013Elect",
+            "Nancy M. Albert, PhD, CCNS, CCRN, FAHA",
+            "Biykem Bozkurt, MD, PhD, FACC, FAHA",
+            "Ralph G. Brindis, MD, MPH, MACC",
+            "Lesley H. Curtis, PhD, FAHA",
+            "David DeMets, PhD",
+            "Judith S. Hochman, MD, FACC, FAHA",
+            "Richard J. Kovacs, MD, FACC, FAHA",
+            "E. Magnus Ohman, MD, FACC",
+            "Susan J. Pressler, PhD, RN, FAAN, FAHA",
+            "Frank W. Sellke, MD, FACC, FAHA",
+            "Win-Kuang Shen, MD, FACC, FAHA",
+            "Sidney C. Smith, Jr, MD, FACC, FAHA, Chair",
+            "Gordon F. Tomaselli, MD, FACC, FAHA, Co-Chair"
+          ]
+        },
+        "Publication": "The guideline is published in both Circulation and the Journal of the American College of Cardiology.",
+        "Access Information": "This is an open access article under the terms of the Creative Commons Attribution Non-Commercial-NoDerivs License."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_title": "2013 AHA/ACC Lifestyle Management Guideline",
+        "authors": "Eckel et al.",
+        "publishing_journal": "Journal of the American College of Cardiology (JACC)",
+        "publication_date": "July 1, 2014",
+        "focus": "Reducing cardiovascular risk through lifestyle management as guided by American College of Cardiology (ACC) and American Heart Association (AHA).",
+        "objectives": [
+          "Prevent cardiovascular diseases (CVDs).",
+          "Improve management of people with these diseases through professional education and research.",
+          "Develop guidelines, standards, and policies that promote optimal patient care and cardiovascular health."
+        ],
+        "collaborations": "Collaboration with National Heart, Lung, and Blood Institute (NHLBI) and other professional organizations.",
+        "plan_of_action": [
+          "Develop clinical practice guidelines for assessing cardiovascular risk.",
+          "Address lifestyle modifications to reduce cardiovascular risk.",
+          "Manage blood cholesterol in adults.",
+          "Manage overweight and obesity in adults."
+        ],
+        "document_sections": [
+          "Scope of Guideline",
+          "Methodology and Evidence Review",
+          "Document Reviews and Approval",
+          "Lifestyle Management Recommendations",
+          "CQ1\u2014Dietary Patterns and Macronutrients: BP and Lipids",
+          "CQ2\u2014Sodium and Potassium: BP and CVD Outcomes",
+          "CQ3\u2014Physical Activity: Lipids and BP",
+          "Heart-Healthy Nutrition and Physical Activity Behaviors",
+          "Gaps in Evidence and Future Research Needs"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Introduction": "The guideline aims to focus on lifestyle management for the prevention of cardiovascular disease (CVD). It emphasizes a healthy lifestyle as essential for preventing CVD, which is a significant cause of morbidity and mortality globally.",
+        "Development Process": "The guidelines were developed through review processes involving federal agencies, scientific experts, and public feedback. Recommendations are based on the highest-quality evidence available, using randomized trials, meta-analyses, and observational studies. Each recommendation is mapped from NHLBI grading to ACC/AHA grading.",
+        "Scope": "The guideline is intended for primary care providers to help manage hypercholesterolemia and hypertension through changes in dietary patterns, nutrient intake, and physical activity. The document focuses on modifiable CVD risk factors by tailoring recommendations.",
+        "Methodology": "The guideline uses randomized controlled trials, meta-analyses, observational studies, and systematic reviews to formulate recommendations for adults aged 18 or older."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Classification of Recommendation and Level of Evidence": {
+          "CLASS I": {
+            "Description": "Benefit >>> Risk. Procedure/Treatment SHOULD be performed/administered."
+          },
+          "CLASS IIa": {
+            "Description": "Benefit >> Risk. It is reasonable to perform procedure/administer treatment."
+          },
+          "CLASS IIb": {
+            "Description": "Benefit \u2265 Risk. Procedure/Treatment MAY BE CONSIDERED."
+          },
+          "CLASS III": {
+            "No Benefit": {
+              "Description": "Procedure/Treatment is not useful/effective and may be harmful."
+            },
+            "Harm": {
+              "Description": "Procedure/Treatment causes harm."
+            }
+          }
+        },
+        "Levels of Evidence": {
+          "LEVEL A": "Data derived from multiple randomized clinical trials or meta-analyses.",
+          "LEVEL B": {
+            "Subcategories": {
+              "B-R": "Data derived from a single randomized trial or nonrandomized studies.",
+              "B-NR": "Only consensus opinion of experts, case studies, or standard of care."
+            }
+          },
+          "LEVEL C": {
+            "Subcategories": {
+              "C-LD": "Limited data.",
+              "C-EO": "Expert opinion."
+            }
+          }
+        },
+        "Other Information": {
+          "Emphasis": "The Work Group emphasized dietary patterns rather than individual dietary components.",
+          "Research Focus": "Impact of dietary patterns and macronutrient composition on cholesterol levels and blood pressure."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Focus": "The guideline focuses on the strength of recommendations and quality of evidence regarding cardiovascular disease (CVD) risk factors.",
+        "Strength of Recommendations": {
+          "A": "Strong recommendation with substantial net benefit.",
+          "B": "Moderate recommendation with moderate to substantial net benefit.",
+          "C": "Weak recommendation with a small net benefit.",
+          "D": "Recommendation against with no net benefit or where harms outweigh benefits.",
+          "E": "Expert opinion where evidence is unclear or conflicting.",
+          "N": "No recommendation for or against with unclear or conflicting evidence."
+        },
+        "Quality of Evidence": {
+          "High": "Well-designed RCTs and meta-analyses with strong confidence estimates.",
+          "Moderate": "RCTs with minor limitations and meta-analyses with moderate confidence.",
+          "Low": "RCTs or observational studies with major limitations, affecting confidence and estimates."
+        },
+        "CVD Risk Factors": "The Work Group focused on a lifestyle document including dietary approaches and physical activity, while excluding interventions with minimal effects on CVD. Exercise evidence indicates a dose-dependent link with CVD rates."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "critical_questions": [
+          "CQ1: Among adults, what is the effect of dietary patterns and/or macronutrient composition on CVD risk factors, when compared with no treatment or with other types of interventions?",
+          "CQ2: Among adults, what is the effect of dietary intake of sodium and potassium on CVD risk factors and outcomes, when compared with no treatment or with other types of interventions?",
+          "CQ3: Among adults, what is the effect of physical activity on BP and lipids when compared with no treatment or with other types of interventions?"
+        ],
+        "general_guideline": "The guidelines emphasize the importance of diet and physical activity in managing and reducing cardiovascular disease risk factors in adults. Key factors include control of BP and lipids through dietary patterns and physical activity. Particular attention is given to individuals with elevated LDL-C, hypertension, diabetes, and other risk factors, promoting heart-healthy nutrition and behaviors for adults younger than 80 years.",
+        "recommendation_approach": "The Work Group developed questions based on expert opinion and literature review, focusing on diet and physical activity's impact on high-risk populations with CVD factors.",
+        "research_focus": "Highlighting systematic reviews from 1998 to 2009 and extending evidence on dietary fats and lipids back to 1990. Physical activity evidence was updated to May 2011."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations": [
+          {
+            "Title": "LDL-C: Advise adults who would benefit from LDL-C lowering to:",
+            "Strategies": [
+              "Consume a dietary pattern that emphasizes intake of vegetables, fruits, and whole grains; includes low-fat dairy products, poultry, fish, legumes, non-tropical vegetable oils, and nuts; and limits intake of sweets, sugar-sweetened beverages, and red meats.",
+              "Adapt dietary pattern to appropriate calorie requirements, personal and cultural food preferences, and nutrition therapy for other medical conditions.",
+              "Achieve this pattern by following plans such as the DASH dietary pattern, the USDA Food Pattern, or the AHA Diet.",
+              "Aim for a dietary pattern that achieves 5%-6% of calories from saturated fat.",
+              "Reduce percent of calories from saturated fat.",
+              "Reduce percent of calories from trans fat."
+            ]
+          },
+          {
+            "Title": "BP: Advise adults who would benefit from BP lowering to:",
+            "Strategies": [
+              "Consume a dietary pattern that emphasizes intake of vegetables, fruits, and whole grains; includes low-fat dairy products, poultry, fish, legumes, non-tropical vegetable oils, and nuts; and limits intake of sweets, sugar-sweetened beverages, and red meats.",
+              "Adapt dietary pattern to appropriate calorie requirements, personal and cultural food preferences, and nutrition therapy for other medical conditions.",
+              "Achieve this pattern by following plans such as the DASH dietary pattern, the USDA Food Pattern, or the AHA Diet.",
+              "Lower sodium intake.",
+              "Consume no more than 2,400 mg of sodium/d; further reduction of sodium intake to 1,500 mg/d can result in even greater reduction in BP; even without achieving these goals, reducing sodium intake by at least 1,000 mg/d lowers BP.",
+              "Combine the DASH dietary pattern with lower sodium intake."
+            ]
+          }
+        ],
+        "Physical Activity": [
+          {
+            "Category": "Lipid",
+            "Recommendation": "In general, advise adults to engage in aerobic physical activity to reduce LDL-C and non\u2013HDL-C.",
+            "Details": "3\u20134 sessions per week, lasting on average 40 min per session, and involving moderate-to vigorous-intensity physical activity."
+          },
+          {
+            "Category": "BP",
+            "Recommendation": "In general, advise adults to engage in aerobic physical activity to lower BP.",
+            "Details": "3\u20134 sessions per week, lasting on average 40 min per session, and involving moderate-to vigorous-intensity physical activity."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Title": "2013 AHA/ACC Lifestyle Management Guideline",
+        "Purpose": "Activity recommendations for BP and lipid lowering.",
+        "CQ1 Focus": "Dietary Patterns and Macronutrients: BP and Lipids",
+        "Important Themes": [
+          "The importance of nutrition in modifying the risk of CVD.",
+          "Dietary patterns and their relationship to health outcomes such as CVD."
+        ],
+        "Work Group": "Composed of 12 members and 4 ex-officio members with expertise in various relevant areas.",
+        "Selection Criteria": "Based on a Population, Intervention, Comparator, Outcomes, Timing, and Setting (PICOTS) approach.",
+        "Literature Review": [
+          "17 studies met the inclusion criteria and were rated good or fair quality.",
+          "The information is in the Dietary Pattern Summary Tables (Tables B-1 through B-8)."
+        ],
+        "Evidence Statements": "Focus on dietary patterns and effects on BP and lipids.",
+        "Specific Patterns": [
+          "MED pattern description (Table 7)."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guidelines": [
+          {
+            "title": "Dietary Patterns and Macronutrients: BP and Lipids",
+            "CQ": "Among adults, what is the effect of dietary patterns and/or macronutrient composition on CVD risk factors, when compared to no treatment or with other types of interventions?",
+            "findings": [
+              "Diets higher in fruits, vegetables, whole grains, and fatty fish, and lower in red meat tend to reduce total fat and cholesterol.",
+              "Medium adherence to the Mediterranean diet (MED pattern) tends to moderate fat intake and improve blood pressure.",
+              "The DASH dietary pattern is rich in vegetables, fruits, and low-fat dairy; low in saturated fat, total fat, and cholesterol."
+            ],
+            "diet patterns evaluated": [
+              {
+                "name": "MED Pattern",
+                "ES": [
+                  {
+                    "code": "ES1",
+                    "effect": "Reduced BP by 6-7/2-3 mm Hg",
+                    "context": "Counseling to eat a MED pattern reduced BP in free-living middle-aged or older adults."
+                  },
+                  {
+                    "code": "ES2",
+                    "effect": "No consistent effect on plasma LDLC, HDL-C, and triglycerides",
+                    "context": "Counseling to eat a MED pattern in adults had no consistent impact on blood lipids."
+                  }
+                ]
+              },
+              {
+                "name": "DASH Pattern",
+                "ES": [
+                  {
+                    "code": "ES3",
+                    "effect": "Lowered BP by 5-6/3 mm Hg",
+                    "context": "When followed along with typical American diet controls."
+                  },
+                  {
+                    "code": "ES4",
+                    "effect": "Lowered LDL-C by 11 mg/dL and HDL-C by 4 mg/dL",
+                    "context": "When total cholesterol level <260 mg/dL and LDL-C level <160 mg/dL."
+                  }
+                ],
+                "subpopulations": [
+                  {
+                    "code": "ES5",
+                    "effect": "Lowered BP in specific populations",
+                    "context": "Despite differences in age and ethnicity, DASH reduced BP in diverse subgroups."
+                  }
+                ]
+              }
+            ],
+            "diet recommendations": [
+              "Focus on reducing LDL-C through dietary interventions based on findings from CQ1 and CQ2 regarding dietary patterns and fatty acids."
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_recommendations": [
+          {
+            "title": "Advice adults who would benefit from LDL-C lowering to:",
+            "recommendations": [
+              "Consume a dietary pattern that emphasizes intake of vegetables, fruits, and whole grains; includes low-fat dairy products, poultry, fish, legumes, non-tropical vegetable oils, and nuts; and limits intake of sweets, sugar-sweetened beverages, and red meats.",
+              "Adapt this dietary pattern to appropriate calorie requirements, personal and cultural food preferences, and nutrition therapy for other medical conditions (including diabetes).",
+              "Achieve this pattern by following plans such as the DASH dietary pattern, the U.S. Department of Agriculture (USDA) Food Pattern, or the AHA Diet."
+            ],
+            "strength_of_evidence": "NHLBI Grade: A (strong); ACC/AHA COR: I, LOE: A",
+            "rationale": "This recommendation is based largely on studies of the DASH dietary pattern (DASH and DASH-Sodium), which provided the highest-quality evidence for a dietary pattern causing improvements in BP and lipid profiles (Tables 8 and 9). The LDL\u2013C\u2013lowering effect has been demonstrated in men and women, African Americans and non\u2013African-Americans, and in adults of all ages (Table 8, ES6)."
+          },
+          {
+            "title": "Advice adults who would benefit from LDL-C lowering to:",
+            "recommendations": [
+              "Aim for a dietary pattern that achieves 5% to 6% of calories from saturated fat."
+            ],
+            "strength_of_evidence": "NHLBI Grade: A (strong); ACC/AHA COR: I, LOE: A",
+            "rationale": "As described in Table 10, ES11 there is strong evidence that reductions in LDL-C were achieved when dietary patterns were followed in which saturated fat intake was reduced from 14% to 15% of calories to 5% to 6%. Current average intake of saturated fat at 11% of calories could be beneficial for those who would benefit from LDL-C lowering to decrease saturated fat intake to 5% to 6% of calories."
+          },
+          {
+            "title": "Advise adults who would benefit from LDL-C lowering to:",
+            "recommendations": [
+              "Reduce percentage of calories from saturated fat."
+            ],
+            "strength_of_evidence": "NHLBI Grade: A (strong); ACC/AHA COR: I, LOE: A",
+            "rationale": "Reducing saturated fat intake lowers both LDL-C and HDL-C. Because the absolute effect tends to be greater on LDL-C lowering."
+          }
+        ],
+        "tables": [
+          {
+            "title": "Table 9. ESs for DASH Variations/Glycemic Index/Load Dietary Approaches",
+            "content": [
+              {
+                "recommendation": "In adults with BP of 120\u2013159/80\u201395 mm Hg, modifying the DASH dietary pattern by replacing 10% of calories from carbohydrates with the same amount of either protein or unsaturated fat.",
+                "effect": "Low-fat dairy products, poultry, fish, legumes, and nuts; and limit intake of sweets, sugar-sweetened beverages, and red meats achieved modest reduction in BP by 1 mm Hg.",
+                "strength_of_evidence": "Moderate"
+              },
+              {
+                "recommendation": "In adults with average baseline LDL-C level of 130 mg/dL, HDL-C level of 50 mg/dL, and triglyceride level of 100 mg/dL, modifying the DASH dietary pattern by replacing 10% of calories from carbohydrates with 10% of calories from protein lowered LDL-C by 3 mg/dL, HDL-C by 1 mg/dL, and triglycerides by 16 mg/dL.",
+                "effect": "Replacing 10% of calories from carbohydrates with 10% of calories from unsaturated fat (8% monounsaturated and 2% polyunsaturated) lowered LDL-C similarly, increased HDL-C by 1 mg/dL, and lowered triglycerides by 10 mg/dL.",
+                "strength_of_evidence": "Moderate"
+              },
+              {
+                "recommendation": "Low-glycemic diets versus high-glycemic diets effect lipids or BP for adults without diabetes.",
+                "effect": "The evidence for this relationship in adults with diabetes was not reviewed.",
+                "strength_of_evidence": "Insufficient"
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "ESs for Dietary Fat and Cholesterol",
+        "Guideline Summary": {
+          "Saturated Fat": {
+            "ES11": {
+              "Description": "When food was supplied to adults in a dietary pattern with a specific macronutrient composition, LDL-C was lowered by 11-13 mg/dL in 2 studies and 11% in another.",
+              "Strength of Evidence": "High"
+            },
+            "ES12": {
+              "Description": "In controlled trials, for every 1% of energy from SFA replaced by carbohydrates or unsaturated fats, LDL-C and HDL-C have significant changes.",
+              "Strength of Evidence": "High"
+            },
+            "ES13": {
+              "Description": "In controlled trials, replacement of carbohydrates with unsaturated fats affects LDL-C, HDL-C, and triglycerides.",
+              "Strength of Evidence": "Moderate"
+            }
+          },
+          "Trans Fat": {
+            "ES14": {
+              "Description": "In controlled trials, replacement of trans fats with MUFA or PUFA lowers LDL-C and affects HDL-C.",
+              "Strength of Evidence": "Moderate"
+            },
+            "ES15": {
+              "Description": "Replacing trans fats with carbohydrates decreases LDL-C but has no effect on HDL-C and triglyceride levels.",
+              "Strength of Evidence": "Moderate"
+            }
+          },
+          "Dietary Cholesterol": {
+            "ES16": {
+              "Description": "Insufficient evidence to determine whether lowering dietary cholesterol reduces LDL-C.",
+              "Strength of Evidence": "Insufficient"
+            }
+          },
+          "Recommendations": {
+            "4": {
+              "Advice": "Advise adults who would benefit from LDL-C lowering to reduce percentage of calories from trans fat.",
+              "NHLBI Grade": "A (strong)",
+              "ACC/AHA COR": "I",
+              "LOE": "A"
+            }
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "AHA/ACC Lifestyle Management Guideline",
+        "Main Topics": [
+          "Dietary Planning for Blood Pressure Management",
+          "Impact of Sodium and Potassium on Blood Pressure (BP) and Cardiovascular Disease (CVD) Outcomes"
+        ],
+        "Resources": [
+          {
+            "Name": "DASH Eating Plan",
+            "Guides": [
+              "Your Guide to Lowering Your Blood Pressure With DASH",
+              "Your Guide to Lowering Your Blood Pressure With DASH Brochure",
+              "DASH Diet and Lifestyle Recommendations"
+            ]
+          },
+          {
+            "Name": "AHA Diet and Lifestyle Recommendations",
+            "Links": [
+              "Getting Healthy: Diet and Lifestyle Recommendations",
+              "AHA Diet and Lifestyle Recommendations 2006 Scientific Statement"
+            ]
+          },
+          {
+            "Name": "Dietary Guidelines for Americans",
+            "Links": [
+              "2010 Dietary Guidelines for Americans",
+              "2011 Dietary Guidelines for Americans Brochure",
+              "USDA Food Patterns"
+            ]
+          }
+        ],
+        "CQ2 Focus": "Effect of dietary sodium and potassium on CVD risk factors and outcomes.",
+        "Key Points": [
+          "Importance of reducing trans fat intake.",
+          "Potential independent blood pressure lowering effect of potassium.",
+          "Sodium's effect on BP may be modulated by potassium intake.",
+          "Clinical trials on mineral effects focus on CVD risk factors.",
+          "Observational studies provide evidence on dietary sodium and potassium effects on CVD outcomes."
+        ],
+        "Screening Criteria": [
+          "Studies involving adults with or without CVD risk factors.",
+          "Intervention sample sizes of at least 50 for biomarkers, 500 for cardiovascular outcomes.",
+          "Exclusion of studies where weight change exceeds >3%."
+        ],
+        "Literature Search Yield": [
+          "36 studies (46 citations) met inclusion criteria.",
+          "Studies vary by diet (sodium or potassium), dietary changes, subpopulations (sex, race, etc.)."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          {
+            "title": "4.4. CQ2 Evidence Statements",
+            "details": {
+              "description": "Evidence statements for sodium and BP, with details about the unit of measure for sodium in studies."
+            }
+          },
+          {
+            "title": "4.5. Diet Recommendations for BP Lowering",
+            "recommendations": [
+              {
+                "advice": "Consume a dietary pattern that emphasizes intake of vegetables, fruits, and whole grains; includes low-fat dairy products, poultry, fish, legumes, nontropical vegetable oils, and nuts; and limits intake of sweets, sugar-sweetened beverages, and red meats.",
+                "adaptation": "Adapt the dietary pattern to individual needs.",
+                "plans": "Follow dietary plans such as the DASH dietary pattern, the USDA Food Pattern, or the AHA Diet."
+              },
+              {
+                "number": 2,
+                "advice": "Advise adults who would benefit from BP lowering to reduce sodium intake."
+              },
+              {
+                "number": 3,
+                "advice": "Advise adults to consume no more than 2,400 mg of sodium/day and further reduction to 1,500 mg can result in greater BP reduction."
+              }
+            ],
+            "rationale": [
+              {
+                "description": "Based on studies of the DASH dietary pattern which provide high-quality evidence for improving lipid profiles and BP. The BP-lowering effect is shown in various demographics, suggesting benefits in maintaining a consistent diet."
+              },
+              {
+                "description": "Reducing sodium intake is shown to lower BP, with trials showing the BP-lowering effect is independent of weight change."
+              },
+              {
+                "description": "Reductions to 1,000 mg/day of sodium have been shown to be beneficial in trials."
+              }
+            ],
+            "grades": [
+              {
+                "grade": "A (strong); ACC/AHA COR: I, LOE: A",
+                "number": 1
+              },
+              {
+                "grade": "A (strong); ACC/AHA COR: I, LOE: A",
+                "number": 2
+              },
+              {
+                "grade": "B (moderate); ACC/AHA COR: IIa, LOE: B",
+                "number": 3
+              }
+            ]
+          }
+        ],
+        "dietary_guidelines": {
+          "USDA": "USDA Food Pattern and DASH dietary pattern are consistent with other national guidelines. USDA Food Pattern offers vegetarian and vegan adaptations."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overall Results": {
+          "Dietary Sodium and BP": [
+            "In adults 25 to 80 years of age with BP 120\u2013159/80\u201395 mm Hg, reducing sodium intake lowers BP. (Strength of Evidence: High)"
+          ],
+          "Different Levels of Sodium Intake": [
+            "In adults 25 to 75 years of age with BP 120\u2013159/80\u201395 mm Hg, a reduction in sodium intake that achieves mean 24-h urinary sodium excretion of approximately 2,400 mg/d, relative to approximately 3,300 mg/d, lowers BP by 2/1 mm Hg. (Strength of Evidence: Moderate)",
+            "A further reduction achieving approximately 1,500 mg/d lowers BP by 7/3 mm Hg. (Strength of Evidence: Moderate)"
+          ],
+          "Subpopulations": [
+            "Counseling to reduce sodium intake by an average of 1,150 mg/d reduces BP by 3\u20134/1\u20132 mm Hg in adults 30\u201380 years with or without hypertension. (Strength of Evidence: High)"
+          ],
+          "Effect of Sodium on BP in Subgroups": [
+            "Reducing sodium lowers BP in men and women, African-American and non-African-American adults, and older/younger adults with prehypertension or hypertension. (Strength of Evidence: High)"
+          ],
+          "Dietary Pattern Changes": [
+            "In adults 22\u201380 years, a combination of reduced sodium intake plus DASH lowers BP more than reduced sodium alone. (Strength of Evidence: Moderate)"
+          ],
+          "In Context of Other Minerals": [
+            "Insufficient evidence to determine if changing dietary intake of other minerals like potassium, calcium, magnesium, lowers BP more than reducing sodium alone. (Strength of Evidence: Insufficient)"
+          ],
+          "Sodium and CVD Outcomes": [
+            "A reduction in sodium intake of 1,000 mg/d reduces CVD events by about 30%. (Strength of Evidence: Low)",
+            "Higher dietary sodium intake is linked with a higher risk of stroke and CVD. (Strength of Evidence: Low)",
+            "Insufficient evidence on sodium intake and HF development. (Strength of Evidence: Insufficient)",
+            "Insufficient evidence on dietary sodium intake in patients with existing HF. (Strength of Evidence: Insufficient)"
+          ],
+          "Potassium and BP/CVD Outcomes": [
+            "Insufficient evidence on increasing dietary potassium intake lowering BP. (Strength of Evidence: Insufficient)",
+            "Higher dietary potassium intake is associated with lower stroke risk. (Strength of Evidence: Low)",
+            "Insufficient evidence on potassium intake and HF, CVD mortality. (Strength of Evidence: Insufficient)"
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Question": "Among adults, what is the effect of physical activity on BP and lipids when compared with no treatment or with other types of interventions?",
+        "Key Points": [
+          "Reducing sodium intake by about 1,000 mg/d is recommended to reduce hypertension and cardiovascular events.",
+          "Recommendation differs slightly from current dietary guidelines, which suggest a sodium limit of 2,300 mg/d.",
+          "Significant changes in sodium intake may require behavior changes and food manufacturing adjustments.",
+          "Physical activity is associated with lower rates of chronic diseases, including cardiovascular disease (CVD).",
+          "A meta-analysis estimated that increasing physical activity could eliminate 6% of coronary heart disease, and increase global life expectancy by 0.68 years.",
+          "Physical activity benefits lipid profiles and blood pressure (BP).",
+          "27% of the reduction in observed CVD rates is due to reduced BP from activity, while 19% and 16% are due to lipid profile improvements."
+        ],
+        "Recommendations": [
+          "Combine the DASH dietary pattern with lower sodium intake.",
+          "Strong advice for adults with prehypertension or hypertension to lower sodium for BP management.",
+          "Review and apply findings from systematic reviews and meta-analyses on effects of physical activity."
+        ],
+        "Study Data": {
+          "26 systematic reviews and meta-analyses identified that met criteria for inclusion or were rated as good or fair quality (2001 onwards).": "11 studies with data on BP outcomes, 14 on lipid outcomes."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": "Recommendations for the use of physical activity to improve lipid levels and blood pressure. The development of formal evidence tables was considered unnecessary by the subcommittee, with resources available in various report supplements.",
+        "5.4. CQ3 Evidence Statements": {
+          "5.4.1. Physical Activity and Lipids": "Evidence supports the use of physical activity alone for improvements in lipids such as HDL-C, LDL-C, triglycerides, and non\u2013HDL-C. The evidence is based on reviews from the 2008 Physical Activity Guidelines Advisory Committee Report and subsequent systematic reviews from 2001 onward.",
+          "5.4.2. Physical Activity and BP": "Evidence supports the use of physical activity alone for improvements in blood pressure, sourced from the 2008 Physical Activity Guidelines Advisory Committee Report and systematic reviews from 2001 onward.",
+          "5.4.2.1. Aerobic Exercise Training and BP": "Explains the benefits of aerobic exercise in managing blood pressure, with specific evidence statements provided in Table 16.",
+          "5.4.2.2. Resistance Exercise Training and BP": "Focuses on a meta-analysis that highlights the impact of resistance training on systolic BP among people with type 2 diabetes, although the review did not provide consistent evidence for BP reduction.",
+          "5.4.2.3. Combination of Aerobic and Resistance Exercise Training and BP": "Indicates a lack of published meta-analyses or reviews examining combined aerobic and resistance exercise training for BP."
+        },
+        "Tables": {
+          "Table 15. ESs for Physical Activity and Lipids": [
+            "ES1: Aerobic activity reduces LDL-C.",
+            "ES2: Aerobic activity reduces non\u2013HDL-C.",
+            "ES3: Aerobic activity shows no effect on triglycerides.",
+            "ES4: Aerobic activity shows no effect on HDL-C."
+          ],
+          "Table 16. ES for Aerobic Exercise Training and BP": [
+            "ES1: Aerobic activity decreases systolic and diastolic BP."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "5.5. Physical Activity Recommendations": {
+          "1": "Advise adults to engage in aerobic physical activity to reduce LDL-C and non-HDL-C: 3 to 4 sessions per week, lasting on average 40 minutes per session, involving moderate- to vigorous-intensity physical activity.",
+          "2": "Advise adults to engage in aerobic physical activity to lower BP: 3 to 4 sessions per week, lasting on average 40 minutes per session, involving moderate- to vigorous-intensity physical activity."
+        },
+        "Rationale": {
+          "LDL-C": "Recommendation based on evidence from meta-analyses and reviews. Consistent with 2008 Physical Activity Guidelines Advisory Committee Report.",
+          "BP": "Recommendation based on evidence from meta-analyses and reviews as well as 2008 Physical Activity Guidelines Advisory Committee Report."
+        },
+        "5.6. Heart-Healthy Nutrition and Physical Activity Behaviors": {
+          "Overview": "Encourages heart-healthy nutrition and physical activity behaviors consistent with 2010 Dietary Guidelines for Americans and 2008 Physical Activity Guidelines for Americans."
+        },
+        "6. Gaps in Evidence and Future Research Needs": {
+          "Diet": "Research needed on interaction between dietary modification and statin treatment, relative effects of different types of fats and carbohydrates."
+        },
+        "Table 17: Heart-Healthy Nutrition and Physical Activity Behaviors": {
+          "Guidelines": [
+            "Consume a diet emphasizing vegetables, fruits, whole grains, dairy products, poultry, fish, legumes. Limit sweets, sugar-sweetened beverages, red meats.",
+            "Plan dietary patterns suitable to preferences and conditions.",
+            "Engage in 2 hours 30 minutes per week of moderate-intensity physical activity, or equivalent.",
+            "Maintain healthy weight."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "topics": [
+          "Relative effects of naturally occurring fiber and supplements on lipids and other risk factors.",
+          "Effects of dietary cholesterol on LDL-C and HDL-C over the ranges of cholesterol and saturated fat intakes.",
+          "Effect of dietary pattern and sodium intake in adults taking BP-lowering or lipid-lowering medications.",
+          "Strategies for effectively implementing diet and sodium intake recommendations.",
+          "Increased understanding of factors affecting dietary patterns and sodium on BP and lipids.",
+          "Further understanding the characteristics of individuals for whom exercise of a certain dose increases HDL-C or reduces triglycerides.",
+          "Clarifying the relationship between physical activity and BP.",
+          "Determining how diet and physical activity affect lipids and BP synergistically.",
+          "Defining optimal exercise doses that impact lipids and BP."
+        ],
+        "recommendations": [
+          "Further research on exercise intensity and outcomes.",
+          "Effective implementation of evidence-based recommendations."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2013 AHA/ACC Lifestyle Management Guideline",
+        "focus": "The guideline discusses dietary patterns, nutrition, and their impact on cardiovascular and chronic diseases.",
+        "summary": "The references include studies on nutrient intake, dietary intervention trials, and their effects on cardiovascular risk factors and chronic disease outcomes. Key areas include Mediterranean diet effects, dietary patterns, and cholesterol management."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2013 AHA/ACC Lifestyle Management Guideline",
+        "topics": [
+          "Mediterranean diet and hypertension",
+          "Low-fat dietary patterns and cardiovascular disease",
+          "Low-glycemic diets and diabetes",
+          "DASH diet and hypertension",
+          "Effects of diet on blood pressure",
+          "Sodium intake and cardiovascular outcomes",
+          "Dietary guidelines",
+          "Trans fat intake in the US population",
+          "Potassium intake and stroke risk",
+          "Salt substitution in dietary interventions"
+        ],
+        "summary": "The clinical guideline emphasizes various dietary patterns and their impact on cardiovascular health, blood pressure, and hypertension management. It discusses the Mediterranean and low-fat diets, DASH diet, sodium and potassium intake, and their effects on diseases such as hypertension, diabetes, and cardiovascular disease."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2013 AHA/ACC Lifestyle Management Guideline",
+        "topics": [
+          "Sodium intake and cardiovascular disease",
+          "Magnesium intake and risk of coronary heart disease",
+          "Potassium intake and stroke risk",
+          "Physical activity and cardiovascular health",
+          "Exercise and hypertension",
+          "Exercise-based rehabilitation for cardiovascular health"
+        ],
+        "key_points": [
+          "High sodium intake is associated with increased risk of hypertension, stroke, and cardiovascular diseases.",
+          "Potassium and magnesium intake are linked to reduced risk of stroke and coronary heart disease.",
+          "Physical activity and specific exercises like qigong, aerobic, and resistance training can manage hypertension and improve cardiovascular health.",
+          "Exercise-based rehabilitation serves as an effective intervention for patients with coronary heart disease."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2013 AHA/ACC Lifestyle Management Guideline",
+        "authors": [
+          "Robert H. Eckel",
+          "John M. Jakicic",
+          "Jamy D. Ard",
+          "Janet M. de Jesus",
+          "Nancy Houston Miller"
+        ],
+        "key topics": [
+          "Lifestyle management to reduce cardiovascular risk",
+          "Physical activity benefits",
+          "Diet and exercise in diabetes prevention",
+          "Blood pressure management"
+        ],
+        "references": [
+          {
+            "title": "Effect of aerobic exercise training on serum levels of high-density lipoprotein cholesterol",
+            "authors": "Kodama S, Tanaka S, Saito K, et al.",
+            "journal": "Arch Intern Med",
+            "year": 2007
+          },
+          {
+            "title": "Resistance training improves metabolic health in type 2 diabetes",
+            "authors": "Gordon BA, Benson AC, Bird SR, et al.",
+            "journal": "Diabetes Res Clin Pract",
+            "year": 2009
+          },
+          {
+            "title": "Exercise or exercise and diet for preventing type 2 diabetes mellitus",
+            "authors": "Orozco LJ, Buchleitner AM, Gimenez-Perez G, et al.",
+            "source": "Cochrane Database Syst Rev",
+            "year": 2008
+          },
+          {
+            "title": "Behavioral counseling to promote physical activity",
+            "authors": "Lin JS, O'Connor E, Whitlock EP, et al.",
+            "journal": "Ann Intern Med",
+            "year": 2010
+          }
+        ],
+        "applicable conditions": [
+          "Type 2 diabetes",
+          "Cardiovascular disease"
+        ],
+        "conflicts of interest": "Mentioned relationships with industry and other entities"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Appendix 1. Continued",
+        "documentInfo": "ACC/AHA 2013 Lifestyle Management Guideline - Committee Members, Employment, and Disclosures",
+        "committeeMembers": [
+          {
+            "name": "Van S. Hubbard",
+            "employment": "National Institute of Diabetes and Digestive and Kidney Diseases\u2014Director, NIH Division of Nutrition Research Coordination",
+            "disclosures": {
+              "consultant": "None",
+              "speakersBureau": "None",
+              "ownershipPartnershipPrincipal": "None",
+              "personalResearch": "None",
+              "expertWitness": "None"
+            }
+          },
+          {
+            "name": "I-Min Lee",
+            "employment": "Harvard University\u2014Professor of Medicine, Harvard Medical School",
+            "disclosures": {
+              "consultant": "Virgin HealthMiles",
+              "speakersBureau": "None",
+              "ownershipPartnershipPrincipal": "None",
+              "personalResearch": "None",
+              "expertWitness": "None"
+            }
+          },
+          {
+            "name": "Alice H. Lichtenstein",
+            "employment": "Tufts University, USDA Human Nutrition Research Center on Aging\u2014Senior Scientist and Director, Cardiovascular Nutrition Laboratory Friedman School; Stanley N. Gershoff Professor of Nutrition Science and Policy",
+            "disclosures": {
+              "consultant": "None",
+              "speakersBureau": "None",
+              "ownershipPartnershipPrincipal": "None",
+              "personalResearch": "None",
+              "expertWitness": "None"
+            }
+          },
+          {
+            "name": "Catherine M. Loria",
+            "employment": "NHLBI\u2014Nutritional Epidemiologist",
+            "disclosures": {
+              "consultant": "None",
+              "speakersBureau": "None",
+              "ownershipPartnershipPrincipal": "None",
+              "personalResearch": "None",
+              "expertWitness": "None"
+            }
+          },
+          {
+            "name": "Barbara E. Millen",
+            "employment": "Boston Nutrition Foundation\u2014Chairman; Millennium Prevention\u2014President",
+            "disclosures": {
+              "consultant": "Boston Nutrition Foundation, Millennium Prevention",
+              "speakersBureau": "None",
+              "ownershipPartnershipPrincipal": "Boston Nutrition Foundation, Millennium Prevention",
+              "personalResearch": "None",
+              "expertWitness": "None"
+            }
+          },
+          {
+            "name": "Cathy A. Nonas",
+            "employment": "New York City Department of Health and Mental Hygiene\u2014Senior Advisor, Bureau for Chronic Disease Prevention and Tobacco Control",
+            "disclosures": {
+              "consultant": "None",
+              "speakersBureau": "None",
+              "ownershipPartnershipPrincipal": "None",
+              "personalResearch": "None",
+              "expertWitness": "None"
+            }
+          },
+          {
+            "name": "Frank M. Sacks",
+            "employment": "Harvard School of Public Health, Department of Nutrition\u2014Professor of Cardiovascular Disease Prevention; Brigham and Women\u2019s Hospital\u2014Senior Physician and Professor of Medicine",
+            "disclosures": {
+              "consultant": "None",
+              "speakersBureau": "None",
+              "ownershipPartnershipPrincipal": "None",
+              "personalResearch": "None",
+              "expertWitness": "Federal Trade Commission; Unilever, Keebler"
+            }
+          },
+          {
+            "name": "Sidney C. Smith, Jr",
+            "employment": "University of North Carolina\u2014Professor of Medicine; Director, Center for Cardiovascular Science and Medicine",
+            "disclosures": {
+              "consultant": "None",
+              "speakersBureau": "None",
+              "ownershipPartnershipPrincipal": "None",
+              "personalResearch": "None",
+              "expertWitness": "None"
+            }
+          }
+        ],
+        "period": "2008\u20132012 for disclosures, with updates in 2013",
+        "note": "Continued on the next page"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2013 AHA/ACC Lifestyle Management Guideline",
+        "section": "Appendix 1. Continued",
+        "authors": [
+          {
+            "name": "Laura R. Svetkey",
+            "affiliation": "Duke University, Duke Hypertension Center",
+            "positions": [
+              "Professor",
+              "Director, Clinical Research",
+              "Director, Sarah W. Stedman Nutrition and Metabolism Center"
+            ],
+            "relationships": {
+              "consultant": "None",
+              "speakers bureau": "None",
+              "ownership/partnership/principal": "None",
+              "personal research": "None",
+              "expert witness": "None"
+            }
+          },
+          {
+            "name": "Thomas A. Wadden",
+            "affiliation": "University of Pennsylvania Perelman School of Medicine",
+            "positions": [
+              "Professor of Psychology, Psychiatry",
+              "Director, Center for Weight and Eating Disorders"
+            ],
+            "relationships": {
+              "consultant": [
+                "Alere Wellbeing",
+                "BMIQ",
+                "Novo Nordisk",
+                "Orexigen",
+                "Vivus"
+              ],
+              "speakers bureau": "None",
+              "ownership/partnership/principal": "None",
+              "personal research": [
+                "Novo Nordisk",
+                "Nutrisystem",
+                "Weight Watchers"
+              ],
+              "expert witness": "None"
+            }
+          },
+          {
+            "name": "Susan Z. Yanovski",
+            "affiliation": "National Institute of Diabetes and Digestive and Kidney Diseases",
+            "positions": [
+              "Division of Digestive Diseases and Nutrition\u2014Co-Director, Office of Obesity Research"
+            ],
+            "relationships": {
+              "consultant": "None",
+              "speakers bureau": "None",
+              "ownership/partnership/principal": "None",
+              "personal research": "None",
+              "expert witness": "None"
+            }
+          }
+        ],
+        "disclaimer": "This table reflects the relevant healthcare-related relationships of authors with industry and other entities provided by the panels during the document development process (2008\u20132012)."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2013 AHA/ACC Guideline on Lifestyle Management to Reduce Cardiovascular Risk",
+        "Purpose": "To outline expert reviewer relationships with industry and other entities",
+        "Appendix 2": {
+          "Expert Reviewers": {
+            "Nancy Albert": {
+              "Employment": "Cleveland Clinic Foundation",
+              "Role": "Sr. Director of Nursing Research and CNS, Kaufman Center for Heart Failure",
+              "Representation": "ACC/AHA Task Force on Practice Guidelines",
+              "Consultant": [
+                "BG Medicine",
+                "Gambro",
+                "Medtronic"
+              ]
+            },
+            "Gerald Fletcher": {
+              "Employment": "Mayo Medical School Mayo Clinic Jacksonville",
+              "Role": "Professor of Medicine",
+              "Representation": "ACC/AHA",
+              "Consultant": "None"
+            },
+            "Frederick Kushner": {
+              "Employment": "Heart Clinic of Louisiana, Tulane University Medical Center",
+              "Role": "Medical Director, Clinical Professor",
+              "Representation": "ACC/AHA",
+              "Consultant": "Federal Drug Administration Science Board"
+            },
+            "Linda Van Horn": {
+              "Employment": "Northwestern University Feinberg School of Medicine",
+              "Role": "Professor, Preventive Medicine; Associate Dean, Faculty Development",
+              "Representation": "ACC/AHA",
+              "Consultant": "None"
+            }
+          }
+        },
+        "Appendix 3": {
+          "Abbreviations": {
+            "BP": "blood pressure",
+            "COR": "Class of Recommendation",
+            "CQ": "critical question",
+            "CVD": "cardiovascular disease",
+            "DASH": "Dietary Approaches to Stop Hypertension",
+            "ES": "evidence statement",
+            "HDLC": "high-density lipoprotein cholesterol",
+            "LDLC": "low-density lipoprotein cholesterol",
+            "LOE": "Level of Evidence",
+            "MED": "Mediterranean-style diet",
+            "NHLBI": "National Heart, Lung, and Blood Institute",
+            "PICOTS": "Population, Intervention, Comparator, Outcomes, Timing, and Setting",
+            "RCT": "randomized controlled trial",
+            "RWI": "relationships with industry and other entities",
+            "USDA": "U.S. Department of Agriculture"
+          }
+        }
+      },
+      "genes": []
+    }
+  ],
+  "genes": []
+}

@@ -1,0 +1,18 @@
+{
+  "content": {
+    "Definitions and Classification of AAS": "Acute Aortic Syndromes (AAS) are life-threatening conditions caused by breaches in the integrity of the aortic wall, including aortic dissection, intramural hematoma, and penetrating atherosclerotic ulcer.",
+    "Aortic Dissection": "Occurs when a tear in the intimal layer allows blood to pass, creating a false lumen. It can lead to complications like aortic regurgitation, myocardial ischemia, cardiac tamponade, stroke, or malperfusion syndromes. If the false lumen tears externally, it can be fatal.",
+    "Incidence and Demographics": "Aortic dissection occurs in 5 to 30 cases per million per year, primarily affecting men aged 50 to 70. Conditions like Marfan syndrome, BAV, Loeys-Dietz syndrome, and vascular Ehlers-Danlos syndrome are risk factors.",
+    "Temporal Classification": "Dissections are classified into hyperacute (<24 hours), acute (2-7 days), subacute (8-30 days), and chronic (>30 days)."
+  },
+  "genes": [
+    {
+      "Gene": "BAV",
+      "Associated Conditions": [
+        "Aortic dissection"
+      ],
+      "Occurrences": 1,
+      "context": "Patients with conditions like Marfan syndrome, BAV, Loeys-Dietz syndrome, and vascular Ehlers-Danlos syndrome present at younger ages."
+    }
+  ]
+}

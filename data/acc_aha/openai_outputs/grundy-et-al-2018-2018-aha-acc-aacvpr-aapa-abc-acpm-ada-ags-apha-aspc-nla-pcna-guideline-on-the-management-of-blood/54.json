@@ -1,0 +1,45 @@
+{
+  "content": {
+    "Title": "2018 Cholesterol Clinical Practice Guideline",
+    "Sections": [
+      {
+        "Number": "S4.4.4.1-18",
+        "Title": "Children and Adolescents",
+        "Topics": [
+          {
+            "Research Focus": "Comparison of Two Glycemic Index Diets",
+            "Study": "Tamir I, Davidson M, Leal M, Wacca M. et al.",
+            "Findings": "Two glycemic index diets varied on their impact on childhood subclinical atherosclerosis."
+          },
+          {
+            "Treatment": "Dorgan JF, et al.",
+            "Findings": "Effectiveness of cholesterol-lowering intervention in children."
+          }
+        ]
+      },
+      {
+        "Number": "S4.4.4.32",
+        "Title": "Familial Hypercholesterolemia Screening",
+        "Reference": "National Institute for Health and Care Excellence (NICE) guidelines."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "APOB",
+      "Associated Conditions": [
+        "Familial Hypercholesterolemia"
+      ],
+      "Occurrences": 1,
+      "context": "Screening for familial hypercholesterolemia in children involves analysis of the LDL receptor, APOB, and PCSK9 genes."
+    },
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "Familial Hypercholesterolemia"
+      ],
+      "Occurrences": 1,
+      "context": "Screening for familial hypercholesterolemia in children involves analysis of the LDL receptor, APOB, and PCSK9 genes."
+    }
+  ]
+}

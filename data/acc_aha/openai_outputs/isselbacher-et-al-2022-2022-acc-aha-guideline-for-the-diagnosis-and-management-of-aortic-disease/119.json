@@ -1,0 +1,24 @@
+{
+  "content": {
+    "Title": "Diagnosis and Management of Prosthetic Aortic Graft Infection",
+    "Date": "December 13, 2022",
+    "Source": "2022 ACC/AHA Aortic Disease Guideline",
+    "Summary": "The guideline provides recommendations for antimicrobial therapy and surgical options for patients with prosthetic aortic graft infections, with an emphasis on diagnosis, treatment, and late management strategies.",
+    "Diagnosis": [
+      "For patients with a prosthetic aortic graft showing signs of unexplained infection or gastrointestinal bleeding, cross-sectional imaging is advised."
+    ],
+    "Treatment": [
+      "Hemodynamically stable patients with infected grafts should consider open surgery with reconstruction or bypass.",
+      "Hemodynamically unstable patients should undergo open surgery.",
+      "Endovascular therapy may be used in unstable patients or those not suitable for open surgery."
+    ],
+    "Late Management": [
+      "After treatment of an acute infection, at least 6 weeks of targeted antimicrobial therapy is recommended.",
+      "For infections involving resistant organisms or after reconstruction, prolonged suppressive therapy can be considered."
+    ],
+    "Additional Notes": [
+      "Graft infections, although uncommon, can be influenced by factors such as contamination during implantation."
+    ]
+  },
+  "genes": []
+}

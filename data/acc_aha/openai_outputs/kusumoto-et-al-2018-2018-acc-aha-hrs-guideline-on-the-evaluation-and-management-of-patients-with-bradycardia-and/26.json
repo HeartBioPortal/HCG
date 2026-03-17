@@ -1,0 +1,27 @@
+{
+  "content": {
+    "Title": "Acute Bradycardia Algorithm",
+    "Description": "This algorithm outlines the steps for assessing and treating acute bradycardia, including evaluation of reversible causes and the use of medications such as Atropine, and potential interventions like pacing. The algorithm incorporates decision points based on symptom severity and potential drug toxicity.",
+    "Steps": [
+      "Assess and treat reversible causes (COR I)",
+      "Evaluate moderate or severe symptoms",
+      "Administer Atropine if symptoms are severe (Class IIa)",
+      "Determine type of drug toxicity if applicable",
+      "Use appropriate interventions based on type of toxicity, such as IV Calcium, IV Glucagon, or Anti-digoxin Fab",
+      "Consider high dose insulin for certain toxicities (COR IIa)",
+      "Evaluate continuation of symptoms, leading to pacing or other interventions as necessary",
+      "Identify severe symptoms or hemodynamic instability",
+      "Consider beta-agonists or aminophylline if MI with AV block is present"
+    ],
+    "Notes": [
+      "Use Atropine with caution post-heart transplant.",
+      "Simultaneous pacing preparation may be necessary with pharmacologic treatment in drug toxicity cases."
+    ],
+    "Color Guide": {
+      "COR I": "Green",
+      "COR IIa": "Yellow",
+      "COR IIb": "Orange"
+    }
+  },
+  "genes": []
+}

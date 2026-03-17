@@ -1,0 +1,68 @@
+{
+  "content": {
+    "Checklist Description": "Checklist A is designed to ensure guidelines incorporate desired criteria for clinical practice, based on the Conference on Guideline Standardization (COGS).",
+    "Sections": [
+      {
+        "Title": "1. Overview Material",
+        "Description": "Provide a structured abstract that includes the guideline\u2019s release date, status (original, updated), and print and electronic sources."
+      },
+      {
+        "Title": "2. Focus",
+        "Description": "Describe the primary disease/condition and intervention/service/technology that the guideline addresses. Indicate any alternative preventive, diagnostic, or therapeutic interventions considered during development."
+      },
+      {
+        "Title": "3. Goal",
+        "Description": "Describe the goal that following the guideline is expected to achieve, including the rationale for development on this topic."
+      },
+      {
+        "Title": "4. Users/setting",
+        "Description": "Describe the intended users of the guideline (e.g., provider types, patients) and the settings in which the guideline is intended to be used."
+      },
+      {
+        "Title": "5. Target Population",
+        "Description": "Describe the patient population eligible for guideline recommendations and list any exclusion criteria."
+      },
+      {
+        "Title": "6. Developer",
+        "Description": "Identify the organization(s) responsible for guideline development and the names/credentials/potential conflicts of interest of individuals involved in the guideline\u2019s development."
+      },
+      {
+        "Title": "7. Funding source/sponsor",
+        "Description": "Identify the funding source/sponsor and describe its role in developing and/or reporting the guideline. Disclose potential conflict of interest."
+      },
+      {
+        "Title": "8. Evidence collection",
+        "Description": "Describe the methods used to search the scientific literature, including the range of dates and databases searched, and criteria applied to filter the retrieved evidence."
+      },
+      {
+        "Title": "9. Recommendation grading criteria",
+        "Description": "Describe the criteria used to rate the quality of evidence that supports the recommendations and the system for describing the strength of recommendations."
+      },
+      {
+        "Title": "10. Method for synthesizing evidence",
+        "Description": "Describe how evidence was used to create recommendations (e.g., through evidence tables, meta-analysis, decision analysis)."
+      },
+      {
+        "Title": "11. Prerelease review",
+        "Description": "Describe how the guideline developer reviewed and/or tested the guidelines prior to release."
+      },
+      {
+        "Title": "12. Update plan",
+        "Description": "State whether or not there is a plan to update the guideline and, if applicable, an expiration date for this version of the guideline."
+      },
+      {
+        "Title": "13. Definitions",
+        "Description": "Define unfamiliar terms and those critical to correct application of the guideline that might be subject to misinterpretation."
+      },
+      {
+        "Title": "14. Recommendations and rationale",
+        "Description": "State the recommended action precisely and the specific circumstances under which to perform it. Justify each recommendation by describing the linkage between the recommendation and its supporting evidence."
+      },
+      {
+        "Title": "15. Potential benefits and risks",
+        "Description": "Describe anticipated benefits and potential risks associated with the guideline."
+      }
+    ]
+  },
+  "genes": []
+}

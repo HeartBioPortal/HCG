@@ -1,0 +1,48 @@
+{
+  "content": {
+    "title": "Evidence Gaps and Future Directions (Section 10)",
+    "summary": "This section outlines limitations in current HCM diagnosis and management and highlights priorities for research, including refining diagnostic criteria, developing disease\u2011modifying therapies, improving care for nonobstructive HCM, expanding risk stratification, arrhythmia management, and expanding understanding of genetic architecture.",
+    "10.1_Refining_the_Diagnosis_of_HCM": {
+      "points": [
+        "Diagnosis currently based on binary LV wall thickness cutoffs leading to over- and under-diagnosis due to measurement imprecision and variability (sex, body size, comorbidities).",
+        "Recommendation to evolve toward molecular or pathway-based approaches to improve diagnostic accuracy and patient stratification."
+      ]
+    },
+    "10.2_Developing_Therapies_to_Attenuate_or_Prevent_Disease_Progression": {
+      "points": [
+        "Goal of developing safe, effective medical therapy to forestall progression\u2014existing medications (eg, valsartan) and emerging meds (eg, cardiac myosin inhibitors) are being investigated.",
+        "If specific genetic etiology identified, gene-based therapies could durably impact disease; need better understanding of pathogenesis, predictors of progression, and intermediate phenotypes."
+      ]
+    },
+    "10.3_Improving_Care_for_Nonobstructive_HCM": {
+      "points": [
+        "Nonobstructive HCM remains challenging; obstructive physiology can be targeted with medical/surgical approaches, but drivers of nonobstructive disease are less clear.",
+        "Diastolic abnormalities and myocardial energetics are thought important but not well addressed; role of cardiac myosin inhibitors in nonobstructive HCM under investigation."
+      ]
+    },
+    "10.4_Improving_and_Expanding_Risk_Stratification": {
+      "points": [
+        "Existing risk stratification algorithms have low positive-predictive value; many ICDs may be placed unnecessarily while sudden cardiac arrest can occur in patients without established risk factors.",
+        "Need new risk factors, tools (including AI), and larger prospective registries with well-genotyped and phenotyped patients, especially pediatric and underrepresented groups.",
+        "Imaging markers (LGE, abnormal 3D strain) and biomarkers (eg, troponin) may help but need validation against current metrics before clinical adoption."
+      ]
+    },
+    "10.5_Arrhythmia_Management": {
+      "points": [
+        "AF is common in adult HCM patients, often poorly tolerated and more refractory to treatment than in non-HCM patients.",
+        "Further work needed to identify robust predictors for AF, refine risk scores, and improve stratification for thromboembolic complications; technical advances in ablation may increase success rates."
+      ]
+    },
+    "10.6_Expanding_Understanding_of_the_Genetic_Architecture_of_HCM": {
+      "points": [
+        "Genetic evaluation and counseling are unevenly available; greater access to genetic testing and expert interpretation is needed.",
+        "Better understanding of genetic contributors could enable targeted therapies and improved patient stratification."
+      ]
+    },
+    "other_clinical_points": {
+      "sleep_disordered_breathing": "Highly prevalent in HCM (55\u201370%); obstructive sleep apnea associated with older age, hypertension, greater symptom burden, reduced exercise capacity, and greater prevalence of AF and NSVT. Treatment may reduce symptoms and arrhythmic complications but has not been systematically tested.",
+      "therapeutics_investigations": "Clinical benefit shown with sodium-glucose cotransporter-2 inhibitors and mineralocorticoid receptor antagonists in HFpEF; trials exploring benefit in nonobstructive HCM are needed. Lifestyle interventions and cardiopulmonary rehabilitation may be beneficial if reimbursed for HCM."
+    }
+  },
+  "genes": []
+}

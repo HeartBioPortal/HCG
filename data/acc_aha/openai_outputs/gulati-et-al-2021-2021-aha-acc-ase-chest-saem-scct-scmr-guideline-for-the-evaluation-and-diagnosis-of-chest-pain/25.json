@@ -1,0 +1,24 @@
+{
+  "content": {
+    "Myopericarditis": "Heterogeneous in manifestation; includes fulminant myocarditis with high mortality.",
+    "Noncardiovascular Syndromes": "Life-threatening conditions such as esophageal rupture, tension pneumothorax, sickle cell chest crisis.",
+    "Nonemergency Causes": "Include costochondritis and musculoskeletal or gastrointestinal causes. Strategies should minimize unnecessary testing.",
+    "Algorithm": "Patient-centric approach for acute chest pain; distinguishes between cardiac and non-cardiac causes.",
+    "Evaluation Steps": [
+      "Acute chest pain?",
+      "History and physical examination",
+      "ECG (electrocardiogram)",
+      "Detection of potential cardiac cause",
+      "STEMI consideration",
+      "If non-cardiac, evaluate using patient-centric algorithms."
+    ],
+    "Conditions": [
+      "Acute coronary syndrome",
+      "Acute aortic syndrome",
+      "Pulmonary embolism",
+      "Acute myopericarditis",
+      "Valvular heart disease"
+    ]
+  },
+  "genes": []
+}

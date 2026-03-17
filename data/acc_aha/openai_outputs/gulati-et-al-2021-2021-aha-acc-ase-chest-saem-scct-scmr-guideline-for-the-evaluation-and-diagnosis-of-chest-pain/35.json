@@ -1,0 +1,24 @@
+{
+  "content": {
+    "Evaluation Algorithm": "The diagram outlines an evaluation algorithm for patients with suspected acute coronary syndrome (ACS) at intermediate risk with known coronary artery disease (CAD).",
+    "Immediate Steps": [
+      "Patients with acute chest pain are assessed based on obstructive or nonobstructive CAD.",
+      "Nonobstructive CAD (<50% stenosis) may lead directly to discharge or consideration of INOCA pathway.",
+      "Obstructive CAD (>=50% stenosis) can involve stress testing or fractional flow reserve (FFR) testing."
+    ],
+    "Testing Options": [
+      "For nonobstructive CAD, CCTA is an option.",
+      "Options for obstructive CAD include stress testing modalities like Stress CMR, echocardiography, PET, and SPECT or FFR-CT.",
+      "The decision to proceed with invasive coronary angiography (ICA) may be dependent on the results of stress testing."
+    ],
+    "Special Considerations": [
+      "For patients with high-risk CAD or frequent angina, stress testing is prioritized.",
+      "An abnormal functional test may lead to consideration of ICA."
+    ],
+    "Testing Guidance": [
+      "The choice of test should be guided by local availability and expertise.",
+      "High-quality CCTA and stress tests are referenced for varying extents of stenosis."
+    ]
+  },
+  "genes": []
+}

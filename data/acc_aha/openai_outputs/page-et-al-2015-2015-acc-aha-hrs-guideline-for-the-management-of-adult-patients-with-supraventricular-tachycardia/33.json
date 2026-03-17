@@ -1,0 +1,24 @@
+{
+  "content": {
+    "Acute Treatment": {
+      "Recommendation": "Intravenous metoprolol or verapamil can be useful for acute treatment in patients with multifocal atrial tachycardia (MAT).",
+      "Mechanism": "MAT can involve triggered activity. Intravenous verapamil may terminate arrhythmia by slowing ventricular response, though it may cause hypotension. Metoprolol works by slowing the ventricular rate.",
+      "Avoidance": "Beta blockers and verapamil are usually avoided in patients with severe pulmonary disease or acute decompensated heart failure."
+    },
+    "Ongoing Management": {
+      "Recommendations": [
+        {
+          "Drugs": "Oral verapamil or diltiazem",
+          "Use": "Recommended for ongoing management in patients with recurrent symptomatic MAT.",
+          "Notes": "Verapamil does not exacerbate pulmonary disease. Data for diltiazem in MAT is lacking."
+        },
+        {
+          "Drug": "Metoprolol",
+          "Use": "Reasonable for ongoing management in patients with recurrent symptomatic MAT.",
+          "Notes": "Beta blockers are often avoided in acute decompensated heart failure or for patients with severe pulmonary diseases."
+        }
+      ]
+    }
+  },
+  "genes": []
+}

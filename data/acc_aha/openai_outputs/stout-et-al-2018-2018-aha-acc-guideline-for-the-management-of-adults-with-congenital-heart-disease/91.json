@@ -1,0 +1,41 @@
+{
+  "content": {
+    "sections": [
+      {
+        "3.8": "Infective Endocarditis",
+        "details": "Updated guidelines on the prevention of infective endocarditis."
+      },
+      {
+        "3.9": "Congenital Syndromes",
+        "details": "Various studies discuss the under-recognition of 22q11.2 deletion syndromes and its effects on patients with congenital heart defects."
+      },
+      {
+        "3.10": "Acquired Cardiovascular Disease",
+        "details": "Discusses the spectrum and outcomes of congenital heart diseases in Europe during the follow-up period of the Euro Heart Survey."
+      },
+      {
+        "3.11": "Noncardiac Medical Issues",
+        "details": "Explores issues related to hepatitis C infection and noncardiac surgery in adults with congenital heart defects."
+      },
+      {
+        "3.12": "Noncardiac Surgery",
+        "details": "Reviews factors influencing perioperative events and outcomes for adults with congenital heart disease undergoing noncardiac surgery."
+      },
+      {
+        "3.13": "Pregnancy, Reproduction, and Sexual Health",
+        "details": "Examines cardiac outcomes during pregnancy in women with congenital heart disease and the implications of reproductive healthcare."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "22q11.2",
+      "Associated Conditions": [
+        "Congenital heart defects",
+        "DiGeorge/velocardiofacial syndrome"
+      ],
+      "Occurrences": 4,
+      "context": "The guideline discusses the under-recognition of 22q11.2 deletion syndrome and its association with congenital heart defects, referencing multiple studies highlighting its prevalence and diagnostic challenges."
+    }
+  ]
+}

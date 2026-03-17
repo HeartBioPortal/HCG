@@ -1,0 +1,31 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "class": "2b",
+        "level_of_evidence": "B-R",
+        "recommendation": "In selected high-risk patients, elective insertion of an appropriate hemodynamic support device as an adjunct to PCI may be reasonable to prevent hemodynamic compromise during PCI."
+      }
+    ],
+    "synopsis": "Patients undergoing complex PCI are at risk of hypotension, decompensated heart failure, shock, or arrhythmias that may lead to rapid hemodynamic deterioration or death. Intra-aortic balloon pump counterpulsation provides minimal hemodynamic support for PCI but improves coronary and cerebral perfusion. New hemodynamic support devices are undergoing evaluation in clinical trials.",
+    "recommendation_specific_supporting_text": [
+      "The routine use of hemodynamic support devices for complex PCI has not been shown to reduce cardiovascular events.",
+      "In the BCIS-1 trial, there was no difference in the primary composite outcome with intra-aortic balloon counterpulsation."
+    ],
+    "pharmacotherapy": {
+      "class": "1",
+      "level_of_evidence": "B-R",
+      "recommendations": [
+        "In patients undergoing PCI, a loading dose of aspirin, followed by daily dosing, is recommended to reduce ischemic events.",
+        "In patients with ACS undergoing PCI, a loading dose of a P2Y12 inhibitor, followed by daily dosing, is recommended to reduce ischemic events."
+      ],
+      "level_of_evidence_c": {
+        "recommendations": [
+          "In patients with SIHD undergoing PCI, a loading dose of clopidogrel, followed by daily dosing, is recommended to reduce ischemic events.",
+          "In patients undergoing PCI within 24 hours after fibrinolytic therapy, a loading dose of 300 mg of clopidogrel, followed by daily dosing, is recommended to reduce ischemic events."
+        ]
+      }
+    }
+  },
+  "genes": []
+}

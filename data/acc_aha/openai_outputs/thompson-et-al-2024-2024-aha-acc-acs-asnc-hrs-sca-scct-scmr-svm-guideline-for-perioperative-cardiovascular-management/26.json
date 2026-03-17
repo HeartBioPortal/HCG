@@ -1,0 +1,42 @@
+{
+  "content": {
+    "Recommendations for Hypertension and Perioperative Blood Pressure Management": {
+      "Preoperative Blood Pressure Management": [
+        {
+          "COR": "2a",
+          "LOE": "C-EO",
+          "Recommendation": "For most patients with hypertension planned for elective NCS, it is reasonable to continue medical therapy for hypertension throughout the perioperative period."
+        },
+        {
+          "COR": "2b",
+          "LOE": "C-LD",
+          "Recommendation": "In patients undergoing elective elevated-risk surgery who have cardiovascular risk factors for perioperative complications and recent history of poorly controlled hypertension with SBP \u2265180 mm Hg or DBP \u2265110 mm Hg before the day of surgery, deferring surgery may be considered to reduce the risk of perioperative complications."
+        }
+      ],
+      "Intraoperative Blood Pressure Management": [
+        {
+          "COR": "1",
+          "LOE": "B-NR",
+          "Recommendation": "In patients undergoing NCS, maintaining an intraoperative mean arterial pressure (MAP) \u226560 to 65 mm Hg or SBP \u226590 mm Hg is recommended to reduce the risk of myocardial injury."
+        }
+      ],
+      "Postoperative Blood Pressure Management": [
+        {
+          "COR": "1",
+          "LOE": "B-NR",
+          "Recommendation": "In patients undergoing NCS, treatment of hypotension (MAP <60-65 or SBP <90 mm Hg) in the postoperative period is recommended to limit the risk of cardiovascular, cerebrovascular, renal events, and mortality."
+        },
+        {
+          "COR": "1",
+          "LOE": "C-EO",
+          "Recommendation": "In patients with hypertension undergoing NCS, it is recommended that preoperative antihypertensive medications be restarted as soon as clinically reasonable to avoid complications from postoperative hypertension."
+        }
+      ]
+    },
+    "Perioperative Hypertension": {
+      "Effects": "Perioperative hypertension affects an estimated 25% of patients undergoing major NCS and is a leading cause for postponement of elective surgery.",
+      "Risks": "Uncontrolled hypertension increases the risk of cardiovascular disease, cerebrovascular events, and bleeding."
+    }
+  },
+  "genes": []
+}

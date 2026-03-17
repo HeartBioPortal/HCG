@@ -1,0 +1,35 @@
+{
+  "content": {
+    "guideline": "2023 AHA/ACC/ACCP/ASPCA/NLA/PCNA Chronic Coronary Disease Guideline",
+    "focus": "Cardiac Allograft Vasculopathy in Heart Transplant Recipients",
+    "sections": [
+      {
+        "heading": "6.9. Cardiac Allograft Vasculopathy in Heart Transplant Recipients",
+        "key_points": [
+          "Various studies and trials are referenced, highlighting the timing and management of cardiac allograft vasculopathy.",
+          "Use of hydroxy-3-methylglutaryl-coenzyme A reductase inhibitors (statins) is recommended for delaying progression of cardiac allograft vasculopathy.",
+          "The impact of immunosuppressive therapies, such as everolimus, sirolimus, and calcineurin inhibitors, is discussed in relation to managing cardiac allograft vasculopathy.",
+          "Clinical guidelines suggest regular follow-up and possible conversion to different immunosuppressive agents under specific clinical circumstances."
+        ]
+      },
+      {
+        "heading": "7. Follow-Up Plan and Testing in Stable Patients",
+        "key_points": [
+          "Importance of regular follow-up testing and monitoring in stable heart transplant recipients.",
+          "Assessment through various clinical trials emphasizing personalized treatment and lifestyle interventions."
+        ]
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "Hyperlipidemia",
+        "Cardiac Allograft Vasculopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Kobayashi MA, Moriuchi JD, Juks H, et al. Ten-year follow-up of a randomized trial of pravastatin in heart transplant recipients."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content": {
+    "Recommendations for Prosthetic Valve Stenosis": [
+      {
+        "COR": 1,
+        "LOE": "B-NR",
+        "Recommendation": "In patients with symptomatic severe stenosis of a bioprosthetic or mechanical prosthetic valve, repeat surgical intervention is indicated unless surgical risk is high or prohibitive."
+      },
+      {
+        "COR": 2,
+        "LOE": "B-NR",
+        "Recommendation": "For severely symptomatic patients with bioprosthetic aortic valve stenosis and high or prohibitive surgical risk, a transcatheter ViV procedure is reasonable when performed at a Comprehensive Valve Center."
+      },
+      {
+        "COR": 2,
+        "LOE": "B-NR",
+        "Recommendation": "For patients with significant bioprosthetic valve stenosis attributable to suspected or documented valve thrombosis, oral anticoagulation with a VKA is reasonable."
+      }
+    ],
+    "Intervention for Prosthetic Valve Stenosis": {
+      "Bioprosthetic Valves": "Less thrombogenic than mechanical counterparts. Diagnosis of subclinical bioprosthetic valve thrombosis increased with CT imaging.",
+      "Cine-CT Imaging": "Allows detection of pannus or thrombus on or adjacent to valves, not possible with fluoroscopy.",
+      "Stenosis Causes": "May occur due to progressive structural valve degeneration or pannus formation, also due to thrombus, reversible with anticoagulation."
+    },
+    "Outcomes": [
+      {
+        "Procedure": "Transcatheter ViV",
+        "Survival Rate": "83.2% at 1 year",
+        "Complications": "7.6% had a stroke, 1.7% had a major stroke within 1 month."
+      }
+    ],
+    "Synopsis": "Cumulative survival rates are higher with reoperative AVR than with transcatheter ViV treatment for prosthetic valve stenosis. Surgical approach associated with incidence of patient-prosthesis mismatch, reduced paravalvular leak, lower aortic valve gradients."
+  },
+  "genes": []
+}

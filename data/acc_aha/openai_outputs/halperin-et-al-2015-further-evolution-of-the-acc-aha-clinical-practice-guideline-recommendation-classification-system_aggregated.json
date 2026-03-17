@@ -1,0 +1,124 @@
+{
+  "content": [
+    {
+      "content": {
+        "title": "Further Evolution of the ACC/AHA Clinical Practice Guideline Recommendation Classification System",
+        "introduction": "For 3 decades, the American College of Cardiology (ACC) and the American Heart Association (AHA) have jointly developed clinical practice guidelines to align patient care with scientific evidence. The 2015 ACC/AHA/HRS Guideline on the Management of Patients With Supraventricular Tachycardia introduced the latest recommendation classification system, which continues to evolve.",
+        "classes_of_recommendation": "Guideline recommendations are categorized by the Class of Recommendation (COR) and Level of Evidence (LOE). Class I recommendations are strong, indicating usefulness and effectiveness. Class II recommendations are weaker.",
+        "authors": [
+          "Jonathan L. Halperin, MD, FACC, FAHA",
+          "Glenn N. Levine, MD, FACC, FAHA",
+          "Sana M. Al-Khatib, MD, MHS, FACC, FAHA",
+          "Kim K. Birtcher, PharmD, AACC",
+          "Biykem Bozkurt, MD, PhD, FACC, FAHA",
+          "Ralph G. Brindis, MD, MPH, MACC",
+          "Joaquin E. Cigarroa, MD, FACC",
+          "Lesley H. Curtis, PhD, FAHA",
+          "Lee A. Fleisher, MD, FACC, FAHA",
+          "Federico Gentile, MD, FACC",
+          "Samuel Gidding, MD, FAHA",
+          "Mark A. Hlatky, MD, FACC",
+          "John Ikonomidis, MD, PhD, FAHA",
+          "Jos\u00e9 Joglar, MD, FACC, FAHA",
+          "Susan J. Pressler, PhD, RN, FAHA",
+          "Duminda N. Wijeysundera, MD, PhD"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "ACC/AHA Recommendation System: Applying Class of Recommendation and Level of Evidence to Clinical Strategies, Interventions, Treatments, or Diagnostic Testing in Patient Care",
+        "Classes of Recommendation": {
+          "Class I (Strong)": {
+            "Benefit vs. Risk": "Benefit >>> Risk",
+            "Suggested Phrases": [
+              "Is recommended",
+              "Is indicated/useful/effective/beneficial",
+              "Should be performed/administered/other",
+              "Treatment/strategy A is recommended/indicated in preference to treatment B",
+              "Treatment A should be chosen over treatment B"
+            ]
+          },
+          "Class IIa (Moderate)": {
+            "Benefit vs. Risk": "Benefit >> Risk",
+            "Suggested Phrases": [
+              "Is reasonable",
+              "Can be useful/effective/beneficial",
+              "Treatment/strategy A is probably recommended/indicated in preference to treatment B",
+              "It is reasonable to choose treatment A over treatment B"
+            ]
+          },
+          "Class IIb (Weak)": {
+            "Benefit vs. Risk": "Benefit \u2265 Risk",
+            "Suggested Phrases": [
+              "May/might be reasonable",
+              "May/might be considered",
+              "Usefulness/effectiveness is unknown/unclear/uncertain or not well established"
+            ]
+          },
+          "Class III (No Benefit - Moderate)": {
+            "Benefit vs. Risk": "Benefit = Risk",
+            "Suggested Phrases": [
+              "Is not recommended",
+              "Is not indicated/useful/effective/beneficial",
+              "Should not be performed/administered/other"
+            ],
+            "Context": "Generally, LOE A or B use only"
+          },
+          "Class III (Harm - Strong)": {
+            "Benefit vs. Risk": "Risk > Benefit",
+            "Suggested Phrases": [
+              "Potentially harmful",
+              "Causes harm",
+              "Associated with excess morbidity/mortality",
+              "Should not be performed/administered/other"
+            ]
+          }
+        },
+        "Levels of Evidence": {
+          "Level A": {
+            "Description": [
+              "High-quality evidence from more than 1 RCT",
+              "Meta-analyses of high-quality RCTs",
+              "One or more RCTs corroborated by high-quality registry studies"
+            ]
+          },
+          "Level B-R (Randomized)": {
+            "Description": [
+              "Moderate-quality evidence from 1 or more RCTs",
+              "Meta-analyses of moderate-quality RCTs"
+            ]
+          },
+          "Level B-NR (Nonrandomized)": {
+            "Description": [
+              "Moderate-quality evidence from 1 or more well-designed, well-executed nonrandomized studies, observational studies, or registry studies",
+              "Meta-analyses of such studies"
+            ]
+          },
+          "Level C-LD (Limited Data)": {
+            "Description": [
+              "Randomized or nonrandomized observational or registry studies with limitations of design or execution",
+              "Meta-analyses of such studies",
+              "Physiological or mechanistic studies in human subjects"
+            ]
+          },
+          "Level C-EO (Expert Opinion)": {
+            "Description": [
+              "Consensus of expert opinion based on clinical experience"
+            ]
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "The guideline discusses the classification of evidence levels in clinical practice, specifically the American College of Cardiology/American Heart Association's system. Levels of Evidence (LOE) A, B, and C are detailed, with an emphasis on adjusting recommendations based on evidence strength. It highlights the integration of cost and health economics, the creation of decision tools, and the incorporation of electronic health records. The guideline seeks to enhance the precision, granularity, and applicability of recommendations.",
+        "context": "The guideline aligns with recommendations by the Institute of Medicine in 2011, addressing challenges like evidence quality assessment and cost integration. It stresses ongoing adaptations to support comprehensive evidence evaluation."
+      },
+      "genes": []
+    }
+  ],
+  "genes": []
+}

@@ -1,0 +1,37 @@
+{
+  "content": {
+    "Blunt Aortic Injury Grades": [
+      {
+        "Grade": 1,
+        "Description": "Minor intimal tear, intimal defect, or thrombus (\u226410 mm in length or width)"
+      },
+      {
+        "Grade": 2,
+        "Description": "Large intimal flap, intimal defect, or thrombus (>10 mm in length or width)"
+      },
+      {
+        "Grade": 3,
+        "Description": "Pseudoaneurysm"
+      },
+      {
+        "Grade": 4,
+        "Description": "Aortic rupture"
+      }
+    ],
+    "Management": {
+      "Nonoperative": "Some injuries may not show progression and do not require intervention.",
+      "Operative": "Required for patients with progression, symptoms, or grade 4 injuries.",
+      "Endovascular vs Open Repair": "Endovascular is preferred for certain injuries; no FDA-approved devices for the abdominal aorta."
+    },
+    "Specific Findings": {
+      "Grade 4 Injuries": "High mortality rate; many cases in the first 24 hours due to cardiac arrest.",
+      "Grade 2 Injuries": "Can be managed nonoperatively unless progression occurs."
+    },
+    "REBOA": {
+      "Use": "Emerging for hemorrhage control, but associated with increased risk in certain scenarios.",
+      "Contraindications": "Pericardial tamponade and major thoracic hemorrhage."
+    },
+    "Outcomes": "Mortality and risk differ based on injury grade and management choice."
+  },
+  "genes": []
+}

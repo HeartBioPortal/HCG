@@ -1,0 +1,35 @@
+{
+  "content": {
+    "title": "Use of DAPT for Patients After PCI",
+    "source": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+    "context": "This guideline provides recommendations for dual antiplatelet therapy (DAPT) duration in patients undergoing percutaneous coronary intervention (PCI). The flowchart categorizes patients based on whether they have stable ischemic heart disease (SIHD) or acute coronary syndrome (ACS), and whether they receive drug-eluting stents (DES) or bare metal stents (BMS).",
+    "therapy_recommendations": [
+      {
+        "time_frame": "0 months",
+        "SIHD_DES": "At least 6 months aspirin plus clopidogrel",
+        "SIHD_BMS": "At least 1 month of aspirin plus clopidogrel",
+        "ACS": "At least 12 months of aspirin plus clopidogrel, or prasugrel, or ticagrelor"
+      },
+      {
+        "time_frame": "1 month",
+        "discontinuation": "Discontinuation of aspirin after 1-3 months with continued P2Y12 monotherapy may be reasonable if high risk of bleeding"
+      },
+      {
+        "time_frame": "3 months",
+        "discontinuation": "Discontinuation of P2Y12 after 3 months may be reasonable if high risk of bleeding"
+      },
+      {
+        "time_frame": "6 months",
+        "discontinuation": "Discontinuation of P2Y12 after 6 months may be reasonable if high risk of bleeding",
+        "SIHD_DES_extension": "More than 6 months of DAPT may be reasonable if no significant bleeding risk",
+        "SIHD_BMS_extension": "More than 3 months of DAPT may be reasonable if no significant bleeding risk"
+      },
+      {
+        "time_frame": "12 months",
+        "ACS_extension": "More than 1 year of DAPT may be reasonable if no significant bleeding risk"
+      }
+    ],
+    "additional_notes": "Use a Heart Team approach when decisions are unclear; consult Section 17 for questions and future directions."
+  },
+  "genes": []
+}

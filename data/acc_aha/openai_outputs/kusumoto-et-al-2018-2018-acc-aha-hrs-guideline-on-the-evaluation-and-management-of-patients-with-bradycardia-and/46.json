@@ -1,0 +1,28 @@
+{
+  "content": {
+    "title": "Management of Bradycardia or Pauses Attributable to Chronic Atrioventricular Block Algorithm",
+    "description": "This guideline outlines the management of bradycardia and chronic atrioventricular (AV) block through a decision-making process involving symptoms, neuromuscular diseases, and pacing recommendations.",
+    "flow": [
+      "Identify AV block type: Marked first-degree AV Block, Mobitz Type I block, or Complete Heart Block.",
+      "Check for symptoms in each block type.",
+      "Inspect for neuromuscular diseases and progressive conduction tissue disorder.",
+      "Pacing options range from permanent pacing (Class I, IIa, IIb, Harm) based on symptoms and conditions.",
+      "Consider risks like ventricular arrhythmia, cardiac resynchronization therapy, and ejection fraction for pacing decisions.",
+      "Pacing options include single chamber, dual chamber, and right ventricular pacing lead based on specific indications."
+    ],
+    "notes": [
+      "Colors in the chart correspond to different classes of recommendation.",
+      "Additional factors such as LVEF and predicted pacing percentage influence pacing type."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [
+        "Neuromuscular disease"
+      ],
+      "Occurrences": 2,
+      "context": "Lamin A/C (LMNA) neuromuscular disease is assessed for permanent pacing decisions in patients with marked first-degree AV block and Mobitz Type I block."
+    }
+  ]
+}

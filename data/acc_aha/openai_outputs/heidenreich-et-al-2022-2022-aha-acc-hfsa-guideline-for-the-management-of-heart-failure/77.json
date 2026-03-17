@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Topic": "Mechanical Circulatory Support",
+    "Summary": "MCS is used for patients with advanced HFfEF to enhance lifespan and functional capacity. Both temporary and durable options exist, differing in terms of location, approach, flow characteristics, pump mechanisms, and supported ventricles. Durable LVADs show improved survival and functional outcomes, especially with NYHA class IV patients.",
+    "Recommendations": [
+      {
+        "Class": 1,
+        "Level": "A",
+        "Recommendation": "In patients with advanced HFfEF with NYHA class IV symptoms on intravenous inotropes or temporary MCS, durable LVAD implantation is effective for improving functional status, QoL, and survival."
+      },
+      {
+        "Class": 2,
+        "Level": "B-R",
+        "Recommendation": "In patients with advanced HFfEF and NYHA class IV symptoms despite GDMT, durable MCS benefits include improved symptoms and reduced mortality."
+      },
+      {
+        "Class": "Value Statement: Uncertain Value (B-NR)",
+        "Recommendation": "In such patients, durable MCS provides low to intermediate economic value based on costs and outcomes."
+      },
+      {
+        "Class": 2,
+        "Level": "B-NR",
+        "Recommendation": "In patients with hemodynamic compromise and shock, temporary MCS is reasonable as a 'bridge to recovery' or 'bridge to decision'."
+      }
+    ]
+  },
+  "genes": []
+}

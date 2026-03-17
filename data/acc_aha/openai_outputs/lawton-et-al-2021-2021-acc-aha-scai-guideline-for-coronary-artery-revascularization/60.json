@@ -1,0 +1,43 @@
+{
+  "content": {
+    "General Information": [
+      {
+        "Aspect": "Continuation of Aspirin",
+        "Details": "Continuation of aspirin until the time of surgery is likely associated with a reduction in myocardial infarction (MI) but increases the risk of perioperative bleeding and transfusion."
+      },
+      {
+        "Aspect": "P2Y12 Receptor Inhibitor",
+        "Details": "The administration of aspirin and a P2Y12 receptor inhibitor (e.g., clopidogrel, ticagrelor, prasugrel) is common, particularly in the setting of ACS or recent stent placement."
+      },
+      {
+        "Aspect": "Glycoprotein IIb/IIIa Inhibitors",
+        "Details": "These inhibitors (e.g., eptifibatide, tirofiban, abciximab) are sometimes given to patients who are at high risk of acute ischemic events while awaiting CABG."
+      },
+      {
+        "Aspect": "Clopidogrel Discontinuation",
+        "Details": "CABG performed <5 days after the discontinuation of clopidogrel is associated with an increased risk of major bleeding complications."
+      },
+      {
+        "Aspect": "Preoperative Ticagrelor",
+        "Details": "Experience suggests that preoperative ticagrelor should be withheld to reduce bleeding and blood product administration."
+      },
+      {
+        "Aspect": "Prasugrel Timing",
+        "Details": "Timing for prasugrel is less established, with higher major bleeding risk if surgery is performed early (<3 days)."
+      },
+      {
+        "Aspect": "Aspirin Therapy in Immediate Preoperative Period",
+        "Details": "Initiation of aspirin therapy in the immediate preoperative period (<24 hours) was linked to increased episodes of major bleeding, but no significant differences were found in major cardiovascular events."
+      }
+    ],
+    "Beta Blockers": [
+      {
+        "Recommendation": "Patients without contraindication to beta blockers should receive them before surgery to reduce postoperative atrial fibrillation and potentially to reduce in-hospital and 30-day mortality rates."
+      },
+      {
+        "Recommendation": "The role of preoperative beta blockers in acute postoperative myocardial ischemia and ventricular arrhythmia is uncertain."
+      }
+    ]
+  },
+  "genes": []
+}

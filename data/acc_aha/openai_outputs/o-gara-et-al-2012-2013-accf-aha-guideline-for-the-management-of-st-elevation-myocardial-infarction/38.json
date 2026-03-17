@@ -1,0 +1,69 @@
+{
+  "content": {
+    "Plan of Care for Patients with STEMI": {
+      "Medications": [
+        "Antithrombotic therapies",
+        "Beta blockers",
+        "ACE inhibitors/ARBs/aldosterone antagonists",
+        "Statins"
+      ],
+      "Physical activity/cardiac rehabilitation": [
+        "Physical Activity",
+        "Cardiorespiratory fitness (MET capacity)"
+      ],
+      "Risk factor modification/lifestyle interventions": [
+        "Smoking cessation",
+        "Diet/nutrition"
+      ],
+      "Management of comorbidities": [
+        "Overweight/obesity",
+        "Lipids",
+        "Hypertension",
+        "Diabetes",
+        "Heart Failure (HF)",
+        "Arrhythmia/arrhythmia risk"
+      ],
+      "Psychosocial factors": [
+        "Sexual activity",
+        "Gender-specific issues",
+        "Depression, stress, and anxiety",
+        "Alcohol use",
+        "Culturally sensitive issues"
+      ],
+      "Provider follow-up": [
+        "Cardiologist",
+        "Primary care provider",
+        "Advanced practice nurse/physician assistant",
+        "Other relevant medical specialists"
+      ],
+      "Patient/family education": [
+        "Plan of care for acute MI",
+        "Recognizing symptoms of MI",
+        "Activating EMS, signs and symptoms for urgent vs emergency evaluations",
+        "CPR training for family members",
+        "Risk assessment & prognosis",
+        "Advanced directives",
+        "Social network/social isolation"
+      ],
+      "Socioeconomic factors": [
+        "Access to health insurance coverage",
+        "Access to healthcare providers",
+        "Disability",
+        "Social services",
+        "Community services"
+      ]
+    },
+    "Resources/References": {
+      "Antithrombotic therapies": "Sections 4.4, 5.1, 6.4",
+      "Beta blockers": "Section 8.1",
+      "ACE inhibitors/ARBs/aldosterone antagonists": "Section 8.2",
+      "Statins": "Section 8.3",
+      "Smoking cessation": "ACCP Tobacco Cessation Toolkit (615)",
+      "Physical Activity": "AHA/ACC 2011 Update: Secondary Prevention and Risk Reduction Therapy (249)",
+      "Cardiorespiratory fitness": "AACVPR/ACC/AHA 2010 Update: Performance Measures on Cardiac Rehabilitation (616)",
+      "Patient/family education": "AHA CPR Guideline (201)",
+      "Socioeconomic factors": "http://www.qualityforum.org/Topics/Care_Coordination.aspx"
+    }
+  },
+  "genes": []
+}

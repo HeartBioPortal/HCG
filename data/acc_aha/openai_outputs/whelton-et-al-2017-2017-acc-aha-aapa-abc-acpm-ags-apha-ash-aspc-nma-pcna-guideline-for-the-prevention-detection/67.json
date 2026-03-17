@@ -1,0 +1,20 @@
+{
+  "content": {
+    "Topic": "Resistant Hypertension - Diagnosis, Evaluation, and Treatment",
+    "Guideline Overview": "The guideline addresses resistant hypertension, defined as blood pressure that remains above goal despite the use of three antihypertensive medications of different classes, one of which should be a diuretic. It includes steps such as confirming treatment resistance, excluding pseudoresistance, identifying and minimizing contributing lifestyle factors and interfering substances, screening for secondary causes of hypertension, and implementing pharmacological treatment.",
+    "Diagnosis Steps": [
+      "Confirm treatment resistance with office SBP/DBP \u2265130/80 mm Hg despite optimal medication or requiring \u22654 medications to achieve control.",
+      "Exclude pseudoresistance by ensuring accurate measurements and adherence.",
+      "Identify and reverse lifestyle factors like obesity and high-salt intake.",
+      "Discontinue or minimize interfering substances such as NSAIDs and stimulants.",
+      "Screen for secondary causes like primary aldosteronism and CKD."
+    ],
+    "Treatment Recommendations": [
+      "Maximize diuretic therapy.",
+      "Add mineralocorticoid receptor antagonists.",
+      "Use different mechanism agents and loop diuretics if needed.",
+      "Refer to specialists if blood pressure is uncontrolled after 6 months."
+    ]
+  },
+  "genes": []
+}

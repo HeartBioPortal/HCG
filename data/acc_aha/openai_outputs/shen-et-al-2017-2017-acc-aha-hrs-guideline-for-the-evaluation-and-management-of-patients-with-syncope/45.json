@@ -1,0 +1,44 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "COR": "IIa",
+        "LOE": "C-EO",
+        "recommendation": "It can be beneficial for healthcare providers managing patients with syncope to know the driving laws and restrictions in their regions and discuss implications with the patient."
+      }
+    ],
+    "additional_information": [
+      "The writing committee encourages healthcare providers to be aware of regional driving laws and restrictions.",
+      "In the United States, private driving is state regulated, while commercial driving requires a federal license.",
+      "Physicians providing care to commercial drivers should be familiar with U.S. Department of Transportation policy.",
+      "Individual states may require reporting of drivers who faint, and this should be considered regardless of restriction duration.",
+      "Patient confidentiality should be maintained unless the condition poses a significant risk to others."
+    ],
+    "symptom_free_waiting_times": {
+      "OH": "1 month",
+      "VVS, no syncope in prior year": "No restriction",
+      "VVS, 1-6 syncope per year": "1 month",
+      "VVS, >6 syncope per year": "Not fit to drive until symptoms resolved",
+      "Situational syncope other than cough syncope": "1 month",
+      "Cough syncope, untreated": "Not fit to drive",
+      "Cough syncope, treated with cough suppression": "1 month",
+      "Carotid sinus syncope, untreated": "Not fit to drive",
+      "Carotid sinus syncope, treated with permanent pacemaker": "1 week",
+      "Syncope due to nonreflex bradycardia, untreated": "Not fit to drive",
+      "Syncope due to nonreflex bradycardia, treated with permanent pacemaker": "1 week",
+      "Syncope due to SVT, untreated": "Not fit to drive",
+      "Syncope due to SVT, pharmacologically suppressed": "1 month",
+      "Syncope due to SVT, treated with ablation": "1 week",
+      "Syncope with LVEF <35% and a presumed arrhythmic etiology without an ICD": "Not fit to drive",
+      "Syncope with LVEF <35% and presumed arrhythmic etiology with an ICD": "3 months",
+      "Syncope presumed due to VT/VF, structural heart disease, and LVEF \u226535%, untreated": "Not fit to drive",
+      "Syncope presumed due to VT/VF, structural heart disease, and LVEF \u226535%, treated with an ICD and guideline-directed drug therapy": "3 months",
+      "Syncope presumed due to VT with a genetic cause, untreated": "Not fit to drive",
+      "Syncope presumed due to VT with a genetic cause, treated with an ICD or guideline-directed drug therapy": "3 months",
+      "Syncope presumed due to a nonstructural heart disease VT, such as RVOT or LVOT, untreated": "Not fit to drive",
+      "Syncope presumed due to a nonstructural heart disease VT, such as RVOT or LVOT, treated successfully with ablation or suppressed pharmacologically": "3 months",
+      "Syncope of undetermined etiology": "1 month"
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,16 @@
+{
+  "content": {
+    "overview": "The document provides a clinical guideline for adults with congenital heart disease (ACHD), focusing on pharmacological therapies and specific lesion treatments.",
+    "pharmacological_therapy": {
+      "management_of_heart_failure": "2017 ACC/AHA/HFSA focused update for the 2013 ACCF/AHA guideline uses beta blockers, including carvedilol or metoprolol XL, for adults with congenital heart disease and dysfunction of the systemic right ventricle.",
+      "epoprostenol_use": "Epoprostenol use in adults with cyanotic congenital heart disease with Eisenmenger syndrome.",
+      "angiotensin_receptor_blockade": "Angiotensin receptor blockade, with drugs like valsartan, improves systemic right ventricular function in adults.",
+      "ramipril_use": "Ramipril in patients with repaired tetralogy of Fallot for the optimization of right atrial size and prevention of heart failure."
+    },
+    "specific_lesions": {
+      "atrial_septal_defect": "Surgical and transcatheter closure options for atrial septal defect in adults, including long-term outcomes and complications.",
+      "patent_foramen_ovale": "Catheter device closure of patent foramen ovale and its impact on reducing stroke risk."
+    }
+  },
+  "genes": []
+}

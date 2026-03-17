@@ -1,0 +1,52 @@
+{
+  "content": {
+    "evidence_statements": [
+      {
+        "author_group": "USPSTF",
+        "factor": "hs-CRP",
+        "conclusion": "Strong evidence indicates that CRP is associated with CHD events. However, moderate, consistent evidence suggests that adding CRP to risk prediction models among initially intermediate-risk persons does not improve risk stratification."
+      },
+      {
+        "author_group": "Helfand et al., 2009",
+        "factor": "hs-CRP, CAC, CIMT, ABI",
+        "conclusion": "The current evidence does not support the routine use of any of the 9 risk factors for further risk stratification of intermediate-risk persons. hs-CRP was associated with CHD and led to some reclassification. CAC, CIMT, and ABI were associated with CHD and some reclassification, but the size and value of this reclassification are uncertain."
+      },
+      {
+        "author_group": "Emerging Risk Factors Collaboration",
+        "factor": "hs-CRP",
+        "conclusion": "CRP concentration has continuous associations with the risk for coronary heart disease, ischaemic stroke, vascular mortality, and death from several cancers."
+      },
+      {
+        "author_group": "Schnell-Inderst et al., 2010",
+        "factor": "hs-CRP",
+        "conclusion": "For MI and cardiovascular mortality, adding hs-CRP to traditional risk factors improves risk prediction, but the clinical relevance and cost-effectiveness of this improvement remain unclear."
+      },
+      {
+        "author_group": "Emerging Risk Factors Collaboration",
+        "factor": "ApoB",
+        "conclusion": "Provided evidence of rough equivalence of associations of CVD with non-HDL-C and ApoB after multivariable adjustment."
+      },
+      {
+        "author_group": "Sniderman et al., 2011",
+        "factor": "ApoB",
+        "conclusion": "ApoB was more strongly related to risk of ASCVD than other lipid measurements. The validity of adding ApoB to models for risk prediction is questioned."
+      },
+      {
+        "author_group": "Kodama et al., 2009",
+        "factor": "Cardiorespiratory fitness",
+        "conclusion": "Better cardiorespiratory fitness is associated with lower risk of all-cause mortality and CHD/CVD."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "ApoB",
+      "Associated Conditions": [
+        "ASCVD",
+        "CVD"
+      ],
+      "Occurrences": 2,
+      "context": "ApoB was more strongly related to risk of ASCVD than other non\u2013HDL-C or LDL-C in a substitution model that also included HDL-C. The article provides evidence of rough equivalence of associations of CVD with non-HDL-C and ApoB after multivariable adjustment."
+    }
+  ]
+}

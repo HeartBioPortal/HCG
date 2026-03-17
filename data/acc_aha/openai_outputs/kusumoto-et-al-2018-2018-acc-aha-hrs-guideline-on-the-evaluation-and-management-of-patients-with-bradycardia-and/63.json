@@ -1,0 +1,29 @@
+{
+  "content": {
+    "Recommendations": [
+      {
+        "Class": "I",
+        "Level": "B-NR",
+        "Details": "In patients undergoing surgery for AF, routine placement of temporary epicardial pacing wires is recommended."
+      },
+      {
+        "Class": "I",
+        "Level": "B-NR",
+        "Details": "In patients who have new postoperative SND or atrioventricular block associated with symptoms or hemodynamic instability that does not resolve after surgery for AF, permanent pacing is recommended before discharge."
+      },
+      {
+        "Class": "IIb",
+        "Level": "C-EO",
+        "Details": "In patients undergoing surgery for AF who will likely require future CRT or ventricular pacing, intra-operative placement of a permanent epicardial left ventricular lead may be considered."
+      }
+    ],
+    "Synopsis": {
+      "AF Impact": "AF is present in 30% to 50% of patients undergoing valve surgery and is associated with reduced survival and increased risk of stroke.",
+      "Surgical Correction": "Successful surgical correction of AF is associated with improved patient survival.",
+      "Recurrence": "Up to 65% of patients may experience recurrent AF post-surgery.",
+      "Findings": "Recent studies reveal mixed results regarding post-surgical bradycardia risk and PPM implantation needs.",
+      "Meta-analysis": "A meta-analysis found no difference in the need for a permanent pacer in patients randomized to additional surgery for AF."
+    }
+  },
+  "genes": []
+}

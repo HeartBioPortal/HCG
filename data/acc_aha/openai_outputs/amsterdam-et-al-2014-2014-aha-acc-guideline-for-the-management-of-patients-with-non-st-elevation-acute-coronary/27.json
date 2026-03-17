@@ -1,0 +1,10 @@
+{
+  "content": {
+    "Bivalirudin": "0.10 mg/kg loading dose followed by 0.25 mg/kg per hour (only in patients managed with an early invasive strategy), continued until diagnostic angiography or PCI, with only provisional use of GP IIb/IIIa inhibitor, provided the patient is also treated with DAPT (Level of Evidence: B).",
+    "Fondaparinux": "2.5 mg SC daily, continued for the duration of hospitalization or until PCI is performed (Level of Evidence: B).",
+    "Additional Anticoagulants": "If PCI is performed while the patient is on fondaparinux, an additional anticoagulant with anti-IIa activity (either UFH or bivalirudin) should be administered because of catheter thrombosis risk (Level of Evidence: B).",
+    "UFH": "Initial loading dose of 60 IU/kg (maximum 4,000 IU) with initial infusion of 12 IU/kg per hour (maximum 1,000 IU/h) adjusted per activated partial thromboplastin time for 48 hours or until PCI is performed (Level of Evidence: B).",
+    "Low-Molecular-Weight Heparin": "LMWHs are adequately absorbed after subcutaneous administration and have less platelet activation. Dose based on CrCl, usually 1 mg/kg SC every 12 hours."
+  },
+  "genes": []
+}

@@ -1,0 +1,43 @@
+{
+  "content": {
+    "title": "Recommendations for Ongoing Management of AVNRT",
+    "recommendations": [
+      {
+        "cor": "I",
+        "loe": "B-R",
+        "description": "Oral verapamil or diltiazem is recommended for ongoing management in patients with AVNRT who are not candidates for, or prefer not to undergo, catheter ablation."
+      },
+      {
+        "cor": "I",
+        "loe": "B-NR",
+        "description": "Catheter ablation of the slow pathway is recommended in patients with AVNRT."
+      },
+      {
+        "cor": "I",
+        "loe": "B-R",
+        "description": "Oral beta blockers are recommended for ongoing management in patients with AVNRT who are not candidates for, or prefer not to undergo, catheter ablation."
+      },
+      {
+        "cor": "IIa",
+        "loe": "B-R",
+        "description": "Flecainide or propafenone is reasonable for ongoing management in patients without structural heart disease or ischemic heart disease who have AVNRT and are not candidates for, or prefer not to undergo, catheter ablation and in whom beta blockers, diltiazem, or verapamil are ineffective or contraindicated."
+      },
+      {
+        "cor": "I",
+        "loe": "B-NR",
+        "description": "Clinical follow-up without pharmacological therapy or ablation is reasonable for ongoing management in minimally symptomatic patients with AVNRT."
+      },
+      {
+        "cor": "IIb",
+        "loe": "B-R",
+        "description": "Oral sotalol or dofetilide may be reasonable for ongoing management in patients with AVNRT who are not candidates for, or prefer not to undergo, catheter ablation."
+      }
+    ],
+    "notes": [
+      "Verapamil and diltiazem should be avoided in patients with systolic heart failure.",
+      "Catheter ablation is regarded as first-line therapy for symptomatic AVNRT.",
+      "Flecainide and propafenone are contraindicated in patients with structural heart disease or ischemic heart disease."
+    ]
+  },
+  "genes": []
+}

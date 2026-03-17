@@ -1,0 +1,39 @@
+{
+  "content": {
+    "Guideline": "2022 ACC/AHA Aortic Disease Guideline",
+    "Topics": [
+      "Medical Therapy in Loeys-Dietz Syndrome",
+      "Loeys-Dietz Syndrome Surgical Interventions",
+      "Vascular Ehlers-Danlos Syndrome",
+      "Turner Syndrome"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "SMAD3",
+      "Associated Conditions": [
+        "Thoracic aortic disease",
+        "Osteoarthritis syndrome"
+      ],
+      "Occurrences": 3,
+      "context": "Exome sequencing identifies SMAD3 mutations as a cause of familial thoracic aortic aneurysm and dissection. SMAD3 pathogenic variants: risk for thoracic aortic disease and associated complications. Mutations in SMAD3 cause a syndromic form of aortic aneurysms and dissections with early-onset osteoarthritis."
+    },
+    {
+      "Gene": "TGFB2",
+      "Associated Conditions": [
+        "Loeys-Dietz syndrome",
+        "Aortic aneurysms and dissections"
+      ],
+      "Occurrences": 2,
+      "context": "Homozygous loss-of-function mutations in TGFB2 with cardiovascular phenotypes and connective tissue disorders. Pathogenic SMAD3 variants known to cause aortic aneurysm, Loeys-Dietz syndrome, and early-onset osteoarthritis syndrome."
+    },
+    {
+      "Gene": "ACTA2",
+      "Associated Conditions": [
+        "Thoracic aortic disease"
+      ],
+      "Occurrences": 1,
+      "context": "Recurrent loss-of-function mutations in ACTA2."
+    }
+  ]
+}

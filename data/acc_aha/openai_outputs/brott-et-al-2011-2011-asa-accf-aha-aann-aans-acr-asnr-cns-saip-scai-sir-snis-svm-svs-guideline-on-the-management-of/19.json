@@ -1,0 +1,20 @@
+{
+  "content": {
+    "Duplex Ultrasonography": {
+      "Purpose": "Assessment of carotid stenosis",
+      "Sensitivity and Specificity": "Varies based on degree of stenosis, with sensitivity ranging from around 75% to 100% and specificity from around 69% to 100%."
+    },
+    "Magnetic Resonance Angiography (MRA)": {
+      "Sensitivity": "97% to 100%",
+      "Specificity": "82% to 96%",
+      "Pitfalls": "Overestimation of stenosis, inability to distinguish subtotal and complete occlusion, issues with claustrophobia and compatibility with implanted devices.",
+      "Adverse Reactions": "Nephrogenic systemic fibrosis in patients with renal dysfunction when using gadolinium-based contrast agents."
+    },
+    "Computed Tomographic Angiography (CTA)": {
+      "Capabilities": "Provides anatomic imaging and evaluation of tortuous vessels; facilitates evaluation of occlusion.",
+      "Technological Evolution": "Improved resolution and faster imaging with newer detectors.",
+      "Limitations": "Accuracy affected by higher degrees of stenosis and smaller vessel diameters."
+    }
+  },
+  "genes": []
+}

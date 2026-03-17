@@ -1,0 +1,40 @@
+{
+  "content": {
+    "source": "JACC 2023 Guideline for the Diagnosis and Management of Atrial Fibrillation (page image)",
+    "figure": "Figure 17 - Acute Rate Control in AF With RVR",
+    "flowchart_decision_nodes": [
+      {
+        "question": "Hemodynamically stable?",
+        "if_no": "Direct current cardioversion (Class 1)"
+      },
+      {
+        "question": "If hemodynamically stable: Decompensated HF?",
+        "if_yes": "IV amiodarone (2b); Verapamil, diltiazem* (Class 3: Harm)"
+      },
+      {
+        "question": "If not decompensated HF",
+        "if_no": "Beta blockers, verapamil, or diltiazem (Class 1); Digoxin (2a); Amiodarone (2b)"
+      }
+    ],
+    "adjunct_recommendations": [
+      "Addition of magnesium to AV nodal blockade (2a)",
+      "Note: verapamil/diltiazem contraindicated in patients with moderate-severe LV dysfunction regardless of decompensated HF (see footnote)"
+    ],
+    "evidence_summary": [
+      "Intravenous amiodarone shown to be effective in controlling ventricular rates in critically ill patients; retrospective studies reported significant heart rate decrease without BP decrease compared with IV diltiazem and digoxin.",
+      "One randomized study of critically ill AF patients compared diltiazem infusion, amiodarone bolus/infusion, and amiodarone regimen; diltiazem allowed better rate control over 24 hours but was associated with higher hypotension requiring discontinuation.",
+      "Limited data for non-dihydropyridine calcium-channel blockers (eg, diltiazem) in HFrEF due to presumed negative inotropic effects; retrospective analyses show increased morbidity (eg, acute kidney injury within 48 hours, increased HF worsening) in patients with LVEF \u226450% receiving diltiazem."
+    ],
+    "levels_of_evidence_seen_on_page": [
+      "Class 1 (direct current cardioversion; beta blockers/verapamil/diltiazem when not decompensated HF)",
+      "Class 2a (digoxin; addition of magnesium to AV nodal blockade)",
+      "Class 2b (IV amiodarone in decompensated HF; amiodarone for rate control)",
+      "Class 3 (harm) for verapamil/diltiazem in decompensated HF or moderate-severe LV dysfunction"
+    ],
+    "important_notes": [
+      "Asterisk: verapamil/diltiazem contraindicated in patients with moderate-severe LV dysfunction regardless of decompensated HF",
+      "Abbreviations on page: AF (atrial fibrillation), AV (atrioventricular), HF (heart failure), LV (left ventricular), LVEF (left ventricular ejection fraction), RVR (rapid ventricular response)"
+    ]
+  },
+  "genes": []
+}

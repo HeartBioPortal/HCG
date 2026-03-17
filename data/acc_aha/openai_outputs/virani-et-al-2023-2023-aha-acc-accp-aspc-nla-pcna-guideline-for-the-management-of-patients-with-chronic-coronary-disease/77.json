@@ -1,0 +1,90 @@
+{
+  "content": {
+    "Common Antiretroviral Therapy Drugs": [
+      {
+        "Class": "Protease inhibitors",
+        "Drugs": [
+          {
+            "Name": "Atazanavir",
+            "Effect": "Increases HDL-C and decreases LDL-C levels"
+          },
+          {
+            "Name": "Darunavir",
+            "Effect": "Increases HDL-C levels"
+          },
+          {
+            "Name": "Fosamprenavir",
+            "Effect": "Hypertriglyceridemia"
+          },
+          {
+            "Name": "Ritonavir",
+            "Effect": "Increases HDL-C levels"
+          },
+          {
+            "Name": "Saquinavir",
+            "Effect": "Neutral"
+          },
+          {
+            "Name": "Tipranavir",
+            "Effect": "Dyslipidemia"
+          }
+        ]
+      },
+      {
+        "Class": "NRTIs",
+        "Drugs": [
+          {
+            "Name": "Abacavir",
+            "Effect": "Increases total cholesterol, LDL-C, and HDL-C levels"
+          },
+          {
+            "Name": "Lamivudine",
+            "Effect": "Increases total cholesterol, LDL-C, and HDL-C levels"
+          },
+          {
+            "Name": "Tenofovir fumarate disoproxil",
+            "Effect": "Lowers LDL levels"
+          },
+          {
+            "Name": "Zidovudine",
+            "Effect": "Hypertriglyceridemia"
+          }
+        ]
+      },
+      {
+        "Class": "NNRTIs",
+        "Drugs": [
+          {
+            "Name": "Efavirenz",
+            "Effect": "Increases total cholesterol, LDL-C, HDL-C, and triglyceride levels"
+          },
+          {
+            "Name": "Nevirapine",
+            "Effect": "Neutral or decreases lipid levels"
+          },
+          {
+            "Name": "Rilpivirine",
+            "Effect": "Neutral"
+          }
+        ]
+      },
+      {
+        "Class": "Integrase inhibitors",
+        "Drugs": [
+          {
+            "Name": "Dolutegravir",
+            "Effect": "Neutral"
+          },
+          {
+            "Name": "Raltegravir",
+            "Effect": "Increases HDL levels"
+          }
+        ]
+      }
+    ],
+    "Excess Cardiovascular Risk": "Excess cardiovascular risk in patients with HIV may be due to side effects from antiretroviral therapy affecting lipid levels.",
+    "Recommendations": "Switch from abacavir due to increased cardiovascular events risk.",
+    "Drug Interactions": "Interactions with protease inhibitors and statins can increase levels of the latter, increasing rhabdomyolysis risk."
+  },
+  "genes": []
+}

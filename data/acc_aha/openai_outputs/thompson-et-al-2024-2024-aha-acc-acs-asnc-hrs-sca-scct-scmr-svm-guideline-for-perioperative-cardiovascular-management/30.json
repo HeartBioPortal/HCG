@@ -1,0 +1,28 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "class_of_recommendation": 1,
+        "level_of_evidence": "C-LD",
+        "description": "Patients receiving stable doses of targeted medical therapies for pulmonary arterial hypertension (PAH) undergoing NCS should continue these agents to reduce risk of perioperative MACE."
+      },
+      {
+        "class_of_recommendation": 2,
+        "level_of_evidence": "C-LD",
+        "description": "Patients with severe PH undergoing elevated-risk NCS should be referred to a specialized PH center for risk assessment and optimization."
+      },
+      {
+        "class_of_recommendation": 2,
+        "level_of_evidence": "C-LD",
+        "description": "Invasive hemodynamic monitoring is reasonable in patients with severe PH undergoing elevated-risk NCS."
+      },
+      {
+        "class_of_recommendation": 2,
+        "level_of_evidence": "C-EO",
+        "description": "Administration of short-acting inhaled pulmonary vasodilators in patients with precapillary PH undergoing elevated-risk NCS may reduce elevated RV afterload."
+      }
+    ],
+    "synopsis": "The role of PH in perioperative MACE is largely defined by observational data. A recent guideline detailed the diagnosis, evaluation, and management of PH. Preoperative risk stratification should include right heart catheterization and echocardiographic evaluation."
+  },
+  "genes": []
+}

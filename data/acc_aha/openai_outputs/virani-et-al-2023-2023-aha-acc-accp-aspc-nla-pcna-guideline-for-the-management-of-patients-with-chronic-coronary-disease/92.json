@@ -1,0 +1,15 @@
+{
+  "content": {
+    "clinical_guidelines": "The document outlines various clinical guidelines and studies related to chronic coronary disease. Topics covered include the effects of dietary interventions, supplementation, genetic susceptibility, and the impact of different diets on cardiovascular health. Specific focus is given to the relationship between dietary fats, vitamins, and coronary artery health. The guideline also highlights studies showing the effects of omega-3 fatty acids, calcium, vitamins C and E, and multivitamins on cardiovascular outcomes. Additionally, it covers the importance of sodium and blood pressure control, and nutritional recommendations to align with the American Heart Association guidelines."
+  },
+  "genes": [
+    {
+      "Gene": "VDR",
+      "Associated Conditions": [
+        "Coronary artery disease"
+      ],
+      "Occurrences": 1,
+      "context": "48. Bhatti JS, Kaur S, Bhatti GK, et al. Genetic susceptibility of vitamin D receptor (VDR) gene variants (BsmI, TaqI and FokI) to coronary artery disease in Asian Indians. Endocrine Practice. 2019;25:64."
+    }
+  ]
+}

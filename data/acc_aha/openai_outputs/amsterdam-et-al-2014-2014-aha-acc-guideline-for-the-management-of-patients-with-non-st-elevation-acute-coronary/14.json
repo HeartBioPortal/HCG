@@ -1,0 +1,8 @@
+{
+  "content": {
+    "GRACE Risk Model": "The GRACE Risk Model is used to calculate the risk of in-hospital mortality for patients with acute coronary syndrome (ACS). It takes into account various predictive factors including Killip class, systolic blood pressure (SBP), heart rate, age, creatinine level, cardiac arrest at admission, ST-segment deviation, and elevated cardiac enzyme levels. Points are assigned according to these factors to sum up a total score that corresponds to the probability of in-hospital death.",
+    "Calibration": "The model is calibrated using a simplified global registry of ACS mortality model to predict in-hospital mortality. A plot for calibration is provided showing the observed mortality rate versus the predicted probability of death.",
+    "Conversion": "To convert serum creatinine level to micromoles per liter, multiply by 88.4."
+  },
+  "genes": []
+}

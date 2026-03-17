@@ -1,0 +1,37 @@
+{
+  "content": {
+    "Device Guideline": "2012 Update Incorporated",
+    "Recommendation": "Pacing to Prevent Atrial Fibrillation",
+    "Class": "III",
+    "Details": "Permanent pacing is not indicated for the prevention of AF in patients without any other indication for pacemaker implantation.",
+    "Level of Evidence": "B (215)",
+    "Pacing for Hemodynamic Indications": {
+      "General": "Most commonly used to treat or prevent abnormal rhythms, pacing can alter the activation sequence in the paced chambers.",
+      "Impact": "Can be benign or harmful. May be beneficial in certain conditions to decrease symptoms.",
+      "HCM Discussion": "Refer to Section 2.4.2, Obstructive Hypertrophic Cardiomyopathy."
+    },
+    "Cardiac Resynchronization Therapy (CRT)": {
+      "Changes": [
+        "Limitation of Class I indication to patients with QRS duration \u2265150 ms.",
+        "Limitation of Class I indication to patients with Left bundle-branch block (LBBB) pattern.",
+        "Expansion of Class I indication to NYHA class III with LBBB and QRS duration \u2265150 ms.",
+        "Addition of Class IIb recommendation for patients with LVEF \u226430%, ischemic etiology of heart failure, sinus rhythm, LBBB with QRS duration \u2264150 ms, and NYHA class I symptoms."
+      ],
+      "Important Aspects": "Implications for patient selection.",
+      "Mechanical Dyssynchrony": {
+        "Definitions": "Seen in patients with ventricular conduction delay.",
+        "Frequency": ">40% of patients with dilated cardiomyopathy and QRS duration >120 ms."
+      },
+      "Clinical Trials": {
+        "COMPANION Study": {
+          "Results": "30% decrease in hospitalizations and mortality for CRT."
+        },
+        "CARE-HF Study": {
+          "Focus": "Significant QRS duration prolongation \u2192 36% reduction in death."
+        }
+      },
+      "QRS Considerations": "Different rules for patients with QRS duration <150 ms."
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,36 @@
+{
+  "content": {
+    "section": "5.3.3",
+    "title": "Temporary Pacing for Bradycardia Attributable to SND",
+    "guidelines": [
+      {
+        "COR": "IIa",
+        "LOE": "C-LD",
+        "recommendation": "In patients with persistent hemodynamically unstable SND refractory to medical therapy, temporary transvenous pacing is reasonable to increase heart rate and improve symptoms until a PPM is placed or the bradycardia resolves."
+      },
+      {
+        "COR": "IIb",
+        "LOE": "C-LD",
+        "recommendation": "In patients with SND with severe symptoms or hemodynamic compromise, temporary transcutaneous pacing may be considered to increase heart rate and improve symptoms until a temporary transvenous or PPM is placed or the bradycardia resolves."
+      },
+      {
+        "COR": "III: Harm",
+        "LOE": "C-LD",
+        "recommendation": "In patients with SND with minimal and/or infrequent symptoms without hemodynamic compromise, temporary transcutaneous or transvenous pacing should not be performed."
+      }
+    ],
+    "synopsis": [
+      {
+        "point": "The use of temporary transvenous pacing for SND is uncommon but necessary in certain cases of hemodynamic instability."
+      },
+      {
+        "point": "Complications include venous thrombosis, pulmonary emboli, life-threatening arrhythmias, and infection."
+      },
+      {
+        "point": "Temporary pacing can be implemented transcutaneously or via transesophageal approach."
+      }
+    ],
+    "recommendation_specific_support": "There are no RCTs or observational studies specific to temporary transvenous pacing for SND. However, case series suggest effective outcomes."
+  },
+  "genes": []
+}

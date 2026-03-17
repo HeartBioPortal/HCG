@@ -1,0 +1,32 @@
+{
+  "content": {
+    "guideline": "2022 ACC/AHA Aortic Disease Guideline",
+    "topics": [
+      "Coarctation of the Aorta (CoA)",
+      "Aberrant Subclavian Artery",
+      "Kommerell's Diverticulum"
+    ],
+    "key_points": [
+      "TTE can detect gradients across the site of coarctation and assess for the recurrence of coarctation.",
+      "Imaging such as MRI or CT is preferable for arch and descending aortic complications.",
+      "Surveillance imaging post-CoA repair is often obtained every 3 to 5 years.",
+      "Significant narrowing or recoarctation may include collateral formation.",
+      "Upper extremity hypertension and lower extremity hypoperfusion are typical signs of CoA.",
+      "Adults with CoA are at risk for complications including hypertension and intracranial aneurysms.",
+      "Screening strategies for intracranial aneurysms require shared decision-making."
+    ],
+    "recommendations": [
+      {
+        "cor": "2a",
+        "loe": "C-LD",
+        "recommendation": "For patients with an Aberrant Subclavian Artery without thoracic aortic imaging, dedicated imaging to assess for TAA is reasonable."
+      },
+      {
+        "cor": "2b",
+        "loe": "C-LD",
+        "recommendation": "For patients with Kommerell's diverticulum, repair might be reasonable based on anatomy and comorbidities if the diverticulum orifice is >3.0 cm."
+      }
+    ]
+  },
+  "genes": []
+}

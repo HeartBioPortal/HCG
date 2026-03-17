@@ -1,0 +1,141 @@
+{
+  "content": {
+    "Guidelines": [
+      {
+        "Title": "Focused update on DAPT with coronary artery disease",
+        "Organization": "ACC/AHA",
+        "Publication Year": 2016
+      },
+      {
+        "Title": "Management of blood cholesterol",
+        "Organization": "AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA",
+        "Publication Year": 2018
+      },
+      {
+        "Title": "Prevention, detection, evaluation, and management of high blood pressure in adults",
+        "Organization": "ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA",
+        "Publication Year": 2018
+      },
+      {
+        "Title": "Management of adults with congenital heart disease",
+        "Organization": "AHA/ACC",
+        "Publication Year": 2018
+      },
+      {
+        "Title": "Diagnosis and treatment of patients with hypertrophic cardiomyopathy",
+        "Organization": "AHA/ACC",
+        "Publication Year": 2020
+      },
+      {
+        "Title": "Management of patients with valvular heart disease",
+        "Organization": "ACC/AHA",
+        "Publication Year": 2021
+      },
+      {
+        "Title": "Coronary artery revascularization",
+        "Organization": "ACC/AHA/SCAI",
+        "Publication Year": 2021
+      },
+      {
+        "Title": "Evaluation and diagnosis of chest pain",
+        "Organization": "AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR",
+        "Publication Year": 2021
+      },
+      {
+        "Title": "Prevention of stroke in patients with stroke and transient ischemic attack",
+        "Organization": "AHA/ASA",
+        "Publication Year": 2021
+      },
+      {
+        "Title": "Management of heart failure",
+        "Organization": "AHA/ACC/HFSA",
+        "Publication Year": 2022
+      },
+      {
+        "Title": "Management of patients with chronic coronary disease",
+        "Organization": "AHA/ACC/ASPC/NLA/PCNA",
+        "Publication Year": 2023
+      },
+      {
+        "Title": "Management of atrial fibrillation",
+        "Organization": "ACC/AHA/ACCP/HRS",
+        "Publication Year": 2023
+      }
+    ],
+    "Scientific Statements": [
+      {
+        "Title": "Evaluation and management of right-sided heart failure",
+        "Organization": "AHA",
+        "Publication Year": 2018
+      },
+      {
+        "Title": "Cardiovascular considerations in caring for pregnant patients",
+        "Organization": "AHA",
+        "Publication Year": 2020
+      },
+      {
+        "Title": "Emerging evidence on coronary heart disease screening in kidney and liver transplantation candidates",
+        "Organization": "AHA",
+        "Publication Year": 2025
+      },
+      {
+        "Title": "Diagnosis and management of patients with myocardial injury after noncardiac surgery",
+        "Organization": "AHA",
+        "Publication Year": 2021
+      },
+      {
+        "Title": "Evaluation and management of pulmonary hypertension in noncardiac surgery",
+        "Organization": "AHA",
+        "Publication Year": 2023
+      }
+    ],
+    "Consensus Document/Reports": [
+      {
+        "Title": "Prevention of premature discontinuation of DAPT in patients with coronary artery stents",
+        "Organization": "AHA/ACC/SCAI/ACS/ADA/ACP",
+        "Publication Year": 2007
+      },
+      {
+        "Title": "Expert consensus statement on perioperative management of patients with implantable defibrillators, pacemakers and arrhythmia monitors",
+        "Organization": "AHA/ASA/HRS/STS",
+        "Publication Year": 2011
+      },
+      {
+        "Title": "Expert consensus decision pathway for perioperational management of anticoagulation in patients with nonvalvular atrial fibrillation",
+        "Organization": "ACC",
+        "Publication Year": 2017
+      }
+    ],
+    "Definitions": {
+      "Surgical Timing and Risk": [
+        {
+          "Timing": "Emergency",
+          "Definition": "Immediate threat to life or limb without surgical intervention, where there is very limited or no time for preoperative clinical evaluation, typically <2 h."
+        },
+        {
+          "Timing": "Urgent",
+          "Definition": "Threat to life or limb without surgical intervention, where there may be time for preoperative clinical evaluation to allow interventions that could reduce risk of MACE or other postoperative complications, typically >2 to <24 h."
+        },
+        {
+          "Timing": "Time-sensitive",
+          "Definition": "Surgery may be delayed up to 3 mo to allow for preoperative evaluation and management without negatively impacting outcomes."
+        },
+        {
+          "Timing": "Elective",
+          "Definition": "The surgery could be delayed to permit a complete preoperative evaluation and appropriate management."
+        }
+      ],
+      "Risk Category": [
+        {
+          "Risk Level": "Low risk",
+          "Definition": "Combined surgical and patient characteristics predict a low risk of MACE of <1%."
+        },
+        {
+          "Risk Level": "Elevated risk",
+          "Definition": "Combined surgical and patient characteristics predict an elevated risk of MACE of \u22651%."
+        }
+      ]
+    }
+  },
+  "genes": []
+}

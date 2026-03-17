@@ -1,0 +1,44 @@
+{
+  "content": {
+    "title": "Chronic Coronary Disease Guideline",
+    "description": "Guidelines on managing chronic coronary disease, focusing on lipid management and lifestyle changes.",
+    "content_summary": [
+      "Bempedoic acid is an ATP-citrate lyase inhibitor that reduces LDL-C levels by 15% to 25% depending on statin background. It is associated with fewer muscle-related side effects.",
+      "Inclisiran is a small interfering RNA that targets PCSK9 mRNA, reducing LDL-C levels by approximately 50%. It is administered as a single subcutaneous dose followed by a dose at 3 months, then every 6 months.",
+      "Considerations for dietary supplements containing omega-3 fatty acids and their cardiovascular benefits were addressed."
+    ],
+    "recommendations": [
+      "Bempedoic acid can be combined with ezetimibe for additional cholesterol reduction.",
+      "Inclisiran administration should be performed by a trained health professional.",
+      "Low-dose omega-3 fatty acid supplementation does not reduce MACE in patients with coronary heart disease."
+    ],
+    "nonpharmacologic_management": [
+      {
+        "intervention": "Weight loss",
+        "goal": "Ideal body weight aim for \u22651 kg reduction",
+        "impact_on_sbp": "Approximately \u22125 mm Hg in hypertensive patients"
+      },
+      {
+        "intervention": "Healthy diet",
+        "goal": "Fruits, vegetables, whole grains, and low-fat dairy",
+        "impact_on_sbp": "Approximately \u221211 mm Hg in hypertensive patients"
+      },
+      {
+        "intervention": "Reduced dietary sodium",
+        "goal": "<1,500 mg/day for most adults",
+        "impact_on_sbp": "Approximately \u22125/6 mm Hg in hypertensive patients"
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "Hyperlipidemia",
+        "Atherosclerosis"
+      ],
+      "Occurrences": 2,
+      "context": "Inclisiran is a small interfering RNA directed to break down PCSK9 mRNA, resulting in reduced synthesis of PCSK9. Inclisiran reduces LDL-C levels by approximately 50% and is administered as a single subcutaneous dose, with a second dose at 3 months, then every 6 months."
+    }
+  ]
+}

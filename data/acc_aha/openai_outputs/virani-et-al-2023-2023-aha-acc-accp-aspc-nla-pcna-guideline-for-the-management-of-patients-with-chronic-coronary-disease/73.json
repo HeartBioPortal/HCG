@@ -1,0 +1,53 @@
+{
+  "content": {
+    "title": "Team-Based Cardio-Obstetrics Model of Care",
+    "components": [
+      "Cardio-Obstetrics Team and Patient",
+      "Cardio-Obstetrics Expert",
+      "Cardiovascular Medicine",
+      "Maternal Fetal Medicine",
+      "Obstetrics",
+      "Primary Care",
+      "Anesthesiology",
+      "Nursing",
+      "Pharmacy",
+      "Social Work",
+      "Other Specialists"
+    ],
+    "process": {
+      "Preconception": [
+        "Contraception advice",
+        "Optimize medical status",
+        "Medication adjustment",
+        "Risk assessment: mWHO, CARPREG II, ZAHARA"
+      ],
+      "Pregnancy": [
+        "Team-based care with patient",
+        "Serial monitoring",
+        "Delivery planning balancing maternal/fetal risks"
+      ],
+      "Labor/Delivery": [
+        "Mode: Vaginal delivery usually preferred",
+        "Regional anesthesia",
+        "Monitoring: consider pulse oximetry, telemetry if indicated"
+      ],
+      "Postpartum": [
+        "Monitoring: minimum 48 hours",
+        "Assess and treat cardiovascular complications",
+        "Patient counseling on symptoms of complications"
+      ],
+      "Fourth Trimester": [
+        "3-7 days follow-up post-discharge",
+        "Comprehensive evaluation within 6 weeks",
+        "Consider addition of telehealth visits",
+        "Contraception"
+      ],
+      "Long-Term": [
+        "Identify women with APO (preeclampsia and hypertensive disorders, gestational diabetes, preterm delivery, small for gestational age)",
+        "CVD risk screening"
+      ]
+    },
+    "description": "The cardio-obstetrics model of care involves multiple specialists working together and with the patient to address issues from preconception, through pregnancy and delivery, and the postpartum period. APO indicates adverse pregnancy outcomes."
+  },
+  "genes": []
+}

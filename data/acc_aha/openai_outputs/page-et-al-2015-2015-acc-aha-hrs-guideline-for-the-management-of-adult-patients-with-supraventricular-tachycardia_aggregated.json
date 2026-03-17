@@ -1,0 +1,3095 @@
+{
+  "content": [
+    {
+      "content": {
+        "title": "2015 ACC/AHA/HRS Guideline for the Management of Adult Patients With Supraventricular Tachycardia",
+        "organization": "American College of Cardiology, American Heart Association, Heart Rhythm Society",
+        "publication": {
+          "journal": "Journal of the American College of Cardiology",
+          "volume": "67",
+          "issue": "13",
+          "year": "2016"
+        },
+        "writing_committee": [
+          "Richard L. Page, MD, FACC, FAHA, FHRS, Chair",
+          "Jos\u00e9 A. Joglar, MD, FACC, FAHA, FHRS, Vice Chair",
+          "Mary A. Caldwell, RN, MBA, PhD, FAHA",
+          "Hugh Calkins, MD, FACC, FAHA, FHRS",
+          "Jamie B. Conti, MD, FACC",
+          "Barbara J. Deal, MD",
+          "N.A. Mark Estes III, MD, FACC, FAHA, FHRS",
+          "Michael E. Field, MD, FACC, FHRS",
+          "Zachary D. Goldberger, MD, MS, FACC, FAHA, FHRS",
+          "Stephen C. Hammill, MD, FACC, FHRS",
+          "Julia H. Indik, MD, PhD, FACC, FAHA, FHRS",
+          "Bruce D. Lindsay, MD, FACC, FHRS",
+          "Brian Olshansky, MD, FACC, FAHA, FHRS",
+          "Andrea M. Russo, MD, FACC, FHRS",
+          "Win-Kuang Shen, MD, FACC, FAHA, FHRS",
+          "Cynthia M. Tracy, MD, FACC",
+          "Sana M. Al-Khatib, MD, MHS, FACC, FAHA, FHRS"
+        ],
+        "acc_aha_task_force": [
+          "Jonathan L. Halperin, MD, FACC, FAHA, Chair",
+          "Glenn N. Levine, MD, FACC, FAHA, Chair-Elect",
+          "Jeffrey L. Anderson, MD, FACC, FAHA, Immediate Past Chair",
+          "Nancy M. Albert, PhD, RN, FAHA",
+          "Sana M. Al-Khatib, MD, MHS, FACC, FAHA",
+          "Kim K. Birtcher, PharmD, AACC",
+          "Biykem Bozkurt, MD, PhD, FACC, FAHA",
+          "Ralph G. Brindis, MD, MPH, MACC",
+          "Joaquin E. Cigarroa, MD, FACC",
+          "Lesley H. Curtis, PhD, FAHA",
+          "Lee A. Fleisher, MD, FACC, FAHA",
+          "Federico Gentile, MD, FACC",
+          "Samuel Gidding, MD, FAHA",
+          "Mark A. Hlatky, MD, FACC",
+          "John Ikonomidis, MD, PhD, FAHA",
+          "Jose Joglar, MD, FACC, FAHA",
+          "Richard J. Kovacs, MD, FACC, FAHA",
+          "E. Magnus Ohman, MD, FACC",
+          "Susan J. Pressler, PhD, RN, FAHA",
+          "Frank W. Sellke, MD, FACC, FAHA",
+          "Win-Kuang Shen, MD, FACC, FAHA",
+          "Duminda N. Wijeysundera, MD, PhD"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Preamble": "Introduction to the guidelines.",
+        "1. Introduction": {
+          "1.1. Methodology and Evidence Review": "Page 31",
+          "1.2. Organization of the GWC": "Page 31",
+          "1.3. Document Review and Approval": "Page 31",
+          "1.4. Scope of the Guideline": "Page 31"
+        },
+        "2. General Principles": {
+          "2.1. Mechanisms and Definitions": "Page 32",
+          "2.2. Epidemiology, Demographics, and Public Health Impact": "Page 32",
+          "2.3. Evaluation of the Patient With Suspected or Documented SVT": {
+            "2.3.1. Clinical Presentation and Differential Diagnosis on the Basis of Symptoms": "Page 34",
+            "2.3.2. Evaluation of the ECG": "Page 36"
+          },
+          "2.4. Principles of Medical Therapy": {
+            "2.4.1. Acute Treatment: Recommendations": "Page 41",
+            "2.4.2. Ongoing Management: Recommendations": "Page 43"
+          },
+          "2.5. Basic Principles of Electrophysiological Study, Mapping, and Ablation": {
+            "2.5.1. Mapping With Multiple and Roving Electrodes": "Page 45",
+            "2.5.2. Tools to Facilitate Ablation, Including 3-Dimensional Electroanatomic Mapping": "Page 45",
+            "2.5.3. Mapping and Ablation With No or Minimal Radiation": "Page 45",
+            "2.5.4. Ablation Energy Sources": "Page 46"
+          }
+        },
+        "3. Sinus Tachyarrhythmias": {
+          "3.1. Physiological Sinus Tachycardia": "Page 46",
+          "3.2. Inappropriate Sinus Tachycardia": {
+            "3.2.1. Acute Treatment": "Page 46",
+            "3.2.2. Ongoing Management: Recommendations": "Page 53"
+          }
+        },
+        "4. Nonsinus Focal Atrial Tachycardia and MAT": {
+          "4.1. Focal Atrial Tachycardia": {
+            "4.1.1. Acute Treatment: Recommendations": "Page 56",
+            "4.1.2. Ongoing Management: Recommendations": "Page 58"
+          },
+          "4.2. Multifocal Atrial Tachycardia": {
+            "4.2.1. Acute Treatment: Recommendation": "Page 59",
+            "4.2.2. Ongoing Management: Recommendations": "Page 59"
+          }
+        },
+        "5. Atrioventricular Nodal Reentrant Tachycardia": {
+          "5.1. Acute Treatment: Recommendations": "Page 61",
+          "5.2. Ongoing Management: Recommendations": "Page 63"
+        },
+        "6. Manifest and Concealed Accessory Pathways": {
+          "6.1. Management of Patients With Symptomatic Manifest or Concealed Accessory Pathways": {
+            "6.1.1. Acute Treatment: Recommendations": "Page 66",
+            "6.1.2. Ongoing Management: Recommendations": "Page 68"
+          },
+          "6.2. Management of Asymptomatic Pre-Excitation": {
+            "6.2.1. PICOTS Critical Questions": "Page 69",
+            "6.2.2. Asymptomatic Patients With Pre-Excitation: Recommendations": "Page 71"
+          },
+          "6.3. Risk Stratification of Symptomatic Patients With Manifest Accessory Pathways: Recommendations": "Page 72"
+        },
+        "7. Atrial Flutter": {
+          "7.1. Cavotricuspid Isthmus-Dependent Atrial Flutter": "Page 72",
+          "7.2. Non-Isthmus-Dependent Atrial Flutters": "Page 74",
+          "7.3. Acute Treatment: Recommendations": "Page 76",
+          "7.4. Ongoing Management: Recommendations": "Page 78"
+        },
+        "8. Junctional Tachycardia": {
+          "8.1. Acute Treatment: Recommendations": "Page 81",
+          "8.2. Ongoing Management: Recommendations": "Page 81"
+        },
+        "9. Special Populations": {
+          "9.1. Pediatrics": "Page 82",
+          "9.2. Patients With Adult Congenital Heart Disease": {
+            "9.2.1. Clinical Features": "Page 83",
+            "9.2.2. Acute Treatment: Recommendations": "Page 85",
+            "9.2.3. Ongoing Management: Recommendations": "Page 87"
+          },
+          "9.3. Pregnancy": {
+            "9.3.1. Acute Treatment: Recommendations": "Page 90",
+            "9.3.2. Ongoing Management: Recommendations": "Page 91"
+          },
+          "9.4. SVT in Older Populations": {
+            "9.4.1. Acute Treatment and Ongoing Management: Recommendations": "Page 92"
+          }
+        },
+        "10. Quality-of-Life Considerations": "Page 93"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Preamble": "Since 1980, the American College of Cardiology (ACC) and American Heart Association (AHA) have been using scientific evidence to create clinical practice guidelines. The guidelines are based on systematic methods to evaluate cardiovascular care. The ACC/AHA Task Force on Clinical Practice Guidelines aims to enhance knowledge and maintain relevance at the point of care.",
+        "Intended Use": "The guidelines provide recommendations for patients with or at risk of cardiovascular disease, intending to improve quality of care.",
+        "Evidence Review": "Guideline Writing Committees (GWCs) review literature using evidence-based methodologies. They focus on randomized controlled trials and other types of studies. Evidence Review Committees (ERCs) are used to survey and analyze evidence based on PICOTS format.",
+        "Guideline-Directed Medical Therapy": "This refers to recommendations defined by ACC/AHA Class I recommendations, including drug dosage and necessary precautions.",
+        "Class of Recommendation and Level of Evidence": "This assesses the strength and expected benefit of a recommendation. The Level of Evidence considers type, quality, quantity, and consistency of data.",
+        "Relationships With Industry": "ACC and AHA sponsor guidelines without commercial support. Conflict of interest is avoided."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Class I Recommendation": "High benefit to risk ratio. Recommended, indicated, useful, effective, or beneficial.",
+        "Class IIa Recommendation": "Moderate benefit to risk ratio. Reasonable, can be useful, effective, or beneficial.",
+        "Class IIb Recommendation": "Benefit equals or marginally exceeds risk. May be reasonable or considered.",
+        "Class III No Benefit": "No benefit, benefit equal to risk. Not recommended or indicated.",
+        "Class III Harm": "Risk exceeds benefit. Potentially harmful, should not be done.",
+        "Level A Evidence": "High-quality evidence from multiple RCTs or meta-analyses.",
+        "Level B Evidence": "Moderate-quality evidence, can be from RCTs or well-designed nonrandomized studies.",
+        "Level C Evidence": "Lower-quality evidence from observational studies or expert opinion."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": "The clinical guideline addresses the management of patients with supraventricular tachycardia (SVT) and aims to provide contemporary recommendations applicable to various conditions, excluding atrial fibrillation (AF). It emphasizes individualizing care, clinical implementation, and policy adherence. The guideline was developed through a systematic review of existing literature and documents by the ACC, AHA, and HRS. The document covers the management of asymptomatic patients with Wolff-Parkinson-White syndrome and other types of SVTs like multifocal atrial tachycardia.",
+        "Clinical Implementation": "Management is effective only with adherence to recommendations and should be enhanced by shared decision-making based on individual needs and associated conditions.",
+        "Policy": "Recommendations represent the official policy of the ACC and AHA until updated guidelines are published."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Purpose": "The guideline incorporates new and existing knowledge to provide an understanding of arrhythmia diagnosis and management, aimed at the adult population (\u226518 years of age). It includes data from clinical environments and pediatric patients.",
+        "General Principles": {
+          "SVT": {
+            "Definition": "Supra-ventricular Tachycardia (SVT) refers to types of fast heart rhythms originating above the heart's ventricles.",
+            "Exclusion": "This guideline does not discuss atrial fibrillation (AF)."
+          }
+        },
+        "Epidemiology": {
+          "SVT": "The epidemiology of SVT is difficult to determine due to incomplete data and challenges in distinguishing it from AF and atrial flutter."
+        },
+        "Cost-Effectiveness": "Cost measures are acknowledged as part of shared decision making. The ACC and AHA call for evaluation of cost/value in practice recommendations.",
+        "Reference Guidelines": [
+          {
+            "Title": "Atrial fibrillation",
+            "Organization": "AHA/ACC/HRS",
+            "Publication Year": 2014
+          },
+          {
+            "Title": "Stable ischemic heart disease",
+            "Organization": "ACC/AHA/ACP/ATS/PCNA/SAIC/STS",
+            "Publication Year": "2012/2014"
+          },
+          {
+            "Title": "Valvular heart disease",
+            "Organization": "AHA/ACC",
+            "Publication Year": 2014
+          },
+          {
+            "Title": "Assessment of cardiovascular risk",
+            "Organization": "ACC/AHA",
+            "Publication Year": 2013
+          },
+          {
+            "Title": "Heart failure",
+            "Organization": "ACC/AHA",
+            "Publication Year": 2013
+          },
+          {
+            "Title": "Antithrombotic therapy for valvular heart disease",
+            "Organization": "ACCP",
+            "Publication Year": 2012
+          },
+          {
+            "Title": "Atrial fibrillation",
+            "Organization": "ESC",
+            "Publication Year": "2012/2010"
+          },
+          {
+            "Title": "Device-based therapy",
+            "Organization": "ACC/AHA/HRS",
+            "Publication Year": 2012
+          },
+          {
+            "Title": "Atrial fibrillation",
+            "Organization": "CCS",
+            "Publication Year": "2014/2011"
+          },
+          {
+            "Title": "Hypertrophic cardiomyopathy",
+            "Organization": "ACC/AHA",
+            "Publication Year": 2011
+          },
+          {
+            "Title": "Secondary prevention and risk reduction",
+            "Organization": "AHA/ACC",
+            "Publication Year": 2011
+          },
+          {
+            "Title": "Adult congenital heart disease",
+            "Organization": "ACC/AHA",
+            "Publication Year": 2008
+          },
+          {
+            "Title": "Seventh Report of the Joint National Committee",
+            "Organization": "NHLBI",
+            "Publication Year": 2003
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Relevant Terms and Definitions": {
+          "Arrhythmia/Term": {
+            "Supraventricular tachycardia (SVT)": "An umbrella term to describe tachycardias (atrial and/or ventricular rates in excess of 100 bpm at rest), involving the His bundle or above. Includes inappropriate sinus tachycardia, atrial tachycardia, AVRT, AVNRT, and other forms of accessory pathway-mediated reentrant tachycardias.",
+            "Paroxysmal supraventricular tachycardia (PSVT)": "A clinical syndrome with regular and rapid tachycardia of abrupt onset and termination. Related to AVNRT or AVRT.",
+            "Atrial fibrillation (AF)": "Supraventricular arrhythmia with uncoordinated atrial activation, ineffective atrial contraction. Not addressed in this document.",
+            "Sinus tachycardia": "Rhythm from the sinus node; includes physiologic and inappropriate forms.",
+            "Atrial tachycardia (AT)": "SVT originating from a localized atrial site; includes focal, sinus node reentrant, and multifocal types.",
+            "Atrial flutter": "Macroreentrant AT, often with a 'sawtooth' flutter wave pattern.",
+            "Junctional tachycardia": "Nonsustained SVT arising from the AV junction.",
+            "Atrioventricular nodal reentrant tachycardia (AVNRT)": "Reentrant tachycardia with fast and slow pathway circuits involving the AV node.",
+            "Accessory pathway": "Pathway outside AV node conducting impulses between atrium and ventricles; includes manifest and concealed pathways."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "SVT Prevalence": "The general population incidence is 2.29 per 1,000 persons. The incidence of paroxysmal supraventricular tachycardia (PSVT) is estimated to be 36 per 100,000 persons per year.",
+        "Annual Cases": "Approximately 89,000 new cases per year and 570,000 persons with PSVT.",
+        "Age and Cardiovascular Disease": "PSVT patients with cardiovascular disease are older (average age 69) compared to those without (average age 37).",
+        "Gender Differences": "Women have twice the risk of men for developing PSVT with age.",
+        "AVNRT Frequency": "Greater in women than in men, with a prevalence shift in adolescents to AVRT.",
+        "Pre-excitation Prevalence": "Incidence of pre-excitation or WPW pattern on ECG is generally low at 0.1% to 0.3%.",
+        "Symptom Onset": "Average age for AVNRT is 32, and for AVRT is 23. In pediatric studies, AVRT and AVNRT onset averages at 8 and 11 years."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "SVT onset in women is more common over 50 years of age and exacerbated by pregnancy or established history of SVT, with significant impact on quality of life and related symptoms like palpitations, chest pain, and syncope more frequently. Diagnosis may also be confounded by symptoms of anxiety or panic disorders. Treatment approaches differ for AVNRT and AVRT, with hemodynamic changes during episodes being a focus of study.": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Evaluation of the ECG": "Figures 1 to 6 provide representative ECGs, with Figure 1 showing ventricular tachycardia (VT). A 12-lead ECG obtained during tachycardia and during sinus rhythm may reveal the etiology of tachycardia. A wide-complex tachycardia may represent either VT or a supraventricular rhythm with abnormal conduction. Conduction abnormalities may be due to aberrant conduction, bundle-branch block, or an accessory pathway. AV dissociation provides the diagnosis of VT. Concordance of the precordial QRS complexes suggests VT or pre-excitation. Failure to correctly identify VT can be life-threatening, leading to incorrect treatment."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Description": "The guidelines discuss atrioventricular nodal reentrant tachycardia (AVNRT). The ECG shows typical AVNRT and normal sinus rhythm after conversion. The upper panel illustrates P waves at the end of the QRS complex, commonly visible in the inferior leads and as a positive R' in lead V1. The reentrant circuit conducts anterograde over a slow atrioventricular node pathway, followed by retrograde conduction in a fast atrioventricular node pathway.",
+        "Panels": {
+          "Upper panel": "Displays the P waves at the end of the QRS complex. The reentrant circuit involves anterograde conduction over a slow pathway, with retrograde conduction over a fast pathway. Typical AVNRT is a short RP tachycardia.",
+          "Middle panel": "Shows changes when the patient is in sinus rhythm, with no R' in V1.",
+          "Bottom panels": "Shows magnified portions of lead V1 in AVNRT and sinus rhythm."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "2015 ACC/AHA/HRS SVT Guideline",
+        "types_of_tachycardia": [
+          {
+            "name": "Atypical AVNRT",
+            "description": "The reentrant circuit involves anterograde conduction over a fast atrioventricular node pathway, followed by retrograde conduction in a slow atrioventricular node pathway, resulting in a retrograde P wave (negative polarity in inferior leads) with a long RP interval. AVNRT indicates atrioventricular nodal reentrant tachycardia."
+          },
+          {
+            "name": "Orthodromic Atrioventricular Reentrant Tachycardia",
+            "description": "The reentrant circuit involves anterograde conduction over the atrioventricular node, followed by retrograde conduction over an accessory pathway, which results in a retrograde P wave with a short RP interval."
+          }
+        ],
+        "treatment_recommendation": {
+          "ACLS_guideline": "2010 Adult ACLS guideline",
+          "recommendation": "If a wide-complex tachycardia is monomorphic, regular, and hemodynamically tolerated, adenosine may help convert the rhythm to sinus and may help in the diagnosis. When doubt exists, it is safest to assume any wide-complex tachycardia is VT, particularly in patients with known cardiovascular disease, such as prior myocardial infarction."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guidelines": [
+          "For patients presenting in SVT, a 12-lead ECG can help identify the arrhythmia mechanism.",
+          "Tachycardia classification should be based on whether the ventricular rate is regular or irregular.",
+          "An irregular ventricular rate may suggest atrial fibrillation (AF), multifocal atrial tachycardia (MAT), or atrial flutter with variable AV conduction.",
+          "Rapid ventricular response in AF results in ventricular response irregularity."
+        ],
+        "ECG_analysis": [
+          {
+            "image": "Atrial Tachycardia",
+            "description": "The P wave inscribed before the QRS complex indicates atrial tachycardia originating near the left inferior pulmonary vein."
+          },
+          {
+            "image": "Permanent Form of Junctional Reciprocating Tachycardia (PJRT)",
+            "description": "Tachycardia starts after sinus rhythm, pointing to a P wave inscribed before the QRS complex."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "text": "The guideline discusses the differential diagnosis of wide-QRS complex tachycardia, focusing on various mechanisms including ventricular tachycardia, supraventricular tachycardia with pre-existing bundle-branch block, and others. It also outlines the ECG criteria to differentiate ventricular tachycardia from supraventricular tachycardia in wide-complex tachycardia. Several principles of medical therapy for acute treatment and ongoing management of tachycardia are mentioned, with references to figures and tables for further details."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Differential Diagnosis for Adult Narrow QRS Tachycardia",
+        "Diagram Explanation": "The flowchart provides a step-by-step process for diagnosing narrow QRS tachycardia based on the presence of regular tachycardia, visible P waves, atrial rate, RP intervals, and other criteria to differentiate between conditions like AVNRT, AVRT, atrial flutter, atrial tachycardia, PJRT, and MAT.",
+        "Conditions Discussed": [
+          "Narrow QRS tachycardia",
+          "Atrial fibrillation",
+          "Atrial tachycardia",
+          "Atrial flutter",
+          "AVNRT",
+          "PJRT",
+          "AVRT",
+          "Multifocal atrial tachycardia (MAT)"
+        ],
+        "Clinical Recommendations": [
+          "Record a 12-lead ECG to differentiate tachycardia mechanisms.",
+          "Assess the AV node dependency to determine treatment approaches.",
+          "Be cautious with the administration of verapamil or diltiazem for VT or pre-excited AF to avoid hemodynamic compromise or ventricular fibrillation."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Recommendations for Acute Treatment of SVT of Unknown Mechanism",
+        "Recommendations": [
+          {
+            "Recommendation": "Vagal maneuvers are recommended for acute treatment in patients with regular SVT.",
+            "Details": "Vagal maneuvers like Valsalva and carotid sinus massage should be the first-line intervention. They are performed with the patient in the supine position. Success depends on the rhythm involving the AV node.",
+            "Evidence": "Studies suggest Valsalva is more successful than carotid sinus massage."
+          },
+          {
+            "Recommendation": "Adenosine is recommended for acute treatment in patients with regular SVT.",
+            "Details": "Adenosine is effective in terminating SVT related to AVNRT or AVRT. Side effects may include discomfort and flushing.",
+            "Evidence": "Success rates range from 78% to 96%."
+          },
+          {
+            "Recommendation": "Synchronized cardioversion is recommended for acute treatment in patients with hemodynamically unstable SVT.",
+            "Details": "Prompt restoration of sinus rhythm is essential in hemodynamically unstable patients. Highly effective for terminating SVT.",
+            "Evidence": "Studies and guidelines support its use in critical cases."
+          },
+          {
+            "Recommendation": "Synchronized cardioversion is recommended for acute treatment in patients with hemodynamically stable SVT when pharmacological therapy is ineffective or contraindicated.",
+            "Details": "Considered when other therapies fail or are not suitable.",
+            "Evidence": "Supported by conversion success rates of up to 98% for agents like verapamil."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "level": "IIa",
+            "class": "B-R",
+            "description": "Intravenous diltiazem or verapamil can be effective for acute treatment in patients with hemodynamically stable SVT. They should be used carefully as these drugs may cause hypotension or ventricular fibrillation if misused, especially in patients with pre-existing conditions."
+          },
+          {
+            "level": "IIa",
+            "class": "C-LD",
+            "description": "Intravenous beta blockers are reasonable for acute treatment in patients with hemodynamically stable SVT, although their effectiveness is limited compared to diltiazem."
+          },
+          {
+            "level": "I",
+            "class": "B-R",
+            "description": "Oral beta blockers, diltiazem, or verapamil are useful for ongoing management in patients with symptomatic SVT."
+          },
+          {
+            "level": "I",
+            "class": "B-NR",
+            "description": "EP study with the option of ablation is useful for the diagnosis and potential treatment of SVT."
+          },
+          {
+            "level": "I",
+            "class": "C-LD",
+            "description": "Patients with SVT should be educated on how to perform vagal maneuvers for ongoing management."
+          }
+        ],
+        "additional_notes": "The guideline provides insight into medication efficacy, patient education on self-management techniques, and diagnostic tools for managing SVT effectively."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "2015 ACC/AHA/HRS SVT Guideline",
+        "recommendations": [
+          {
+            "class": "IIa",
+            "level": "B-R",
+            "summary": "Flecainide or propafenone is reasonable for ongoing management in patients without structural heart disease or ischemic heart disease who have symptomatic SVT and are not candidates for, or prefer not to undergo, catheter ablation.",
+            "details": [
+              "Trials show efficacy in preventing recurrences of SVT.",
+              "Proarrhythmia risk in patients with structural heart disease.",
+              "Contraindicated with beta blockers, diltiazem, or verapamil ineffective or unavailable."
+            ]
+          },
+          {
+            "class": "IIb",
+            "level": "B-R",
+            "summary": "Sotalol may be reasonable for ongoing management in patients with symptomatic SVT who are not candidates for, or prefer not to undergo, catheter ablation.",
+            "details": [
+              "Used with structural heart disease or ischemic heart disease.",
+              "Reduction in recurrence risk without proarrhythmic effects.",
+              "Potential for proarrhythmia requires consideration."
+            ]
+          },
+          {
+            "class": "IIb",
+            "level": "B-R",
+            "summary": "Dofetilide may be reasonable for ongoing management in patients with symptomatic SVT who are not candidates for, or prefer not to undergo, catheter ablation and in whom beta blockers, diltiazem, flecainide, propafenone, or verapamil are ineffective or contraindicated.",
+            "details": [
+              "Lacks beta-blocker properties.",
+              "Possibility of remaining free of SVT is higher versus placebo.",
+              "Potential for proarrhythmia requires restriction."
+            ]
+          },
+          {
+            "class": "IIb",
+            "level": "C-LD",
+            "summary": "Oral amiodarone may be considered for ongoing management in patients with symptomatic SVT who are not candidates for, or prefer not to undergo, catheter ablation and in whom beta blockers, diltiazem, dofetilide, flecainide, propafenone, sotalol, or verapamil are ineffective or contraindicated.",
+            "details": [
+              "Effective in suppressing AVNRT.",
+              "Considered as second-line therapy due to toxicity."
+            ]
+          },
+          {
+            "class": "IIb",
+            "level": "C-LD",
+            "summary": "Oral digoxin may be reasonable for ongoing management in patients with symptomatic SVT without pre-excitation who are not candidates for, or prefer not to undergo, catheter ablation.",
+            "details": [
+              "Limited evidence available.",
+              "Historically used more widely but now with caution due to risk of toxicity."
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Figure": "Acute Treatment of Regular SVT of Unknown Mechanism",
+        "Initial Treatment": "Vagal maneuvers and/or IV adenosine (Class I)",
+        "If Ineffective or Not Feasible": {
+          "Hemodynamically Stable": {
+            "Yes": "IV beta blockers, IV diltiazem, or IV verapamil (Class IIa)",
+            "No": "Synchronized cardioversion* (Class I)",
+            "If Still Ineffective or Not Feasible": "Synchronized cardioversion* (Class I)"
+          }
+        },
+        "Notes": {
+          "Color Coding": "Indicates Class of Recommendation",
+          "Footnote": "*For rhythms that break or recur spontaneously, synchronized cardioversion is not appropriate.",
+          "IV": "intravenous",
+          "SVT": "supraventricular tachycardia"
+        },
+        "Therapeutic Intervention": "Considered in the context of frequency and duration of the SVT and any clinical manifestations.",
+        "2.5": {
+          "Title": "Basic Principles of Electrophysiological Study, Mapping, and Ablation",
+          "2.5.1": "Mapping With Multiple and Roving Electrodes",
+          "Key Points": [
+            "EP study helps diagnose the arrhythmia mechanism and localize the origin.",
+            "Standards define performance and training for EP study.",
+            "EP involves multiple electrodes at \u22651 sites."
+          ],
+          "2.5.2": "Tools to Facilitate Ablation, Including 3-Dimensional Electroanatomic Mapping",
+          "Advancements": [
+            "Electroanatomic 3D mapping and magnetic navigation.",
+            "Better definition, reduction in fluoroscopy, shorter procedure times."
+          ]
+        },
+        "2.5.3": "Mapping and Ablation With No or Minimal Radiation",
+        "Summary": [
+          "Optimal fluoroscopic technique and radiation-reducing strategies are emphasized.",
+          "Use of alternative imaging systems like electroanatomic mapping to reduce ionizing radiation exposure."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Ablation Energy Sources": "Radiofrequency current is commonly used for SVT ablation. Cryoablation is an alternative used to minimize injury to the AV node during ablation of specific arrhythmias such as AVNRT and para-Hisian AT.",
+        "Sinus Tachyarrhythmias": "Sinus tachycardia refers to a condition where sinus rate exceeds 100 bpm. It can be physiological or inappropriate.",
+        "Inappropriate Sinus Tachycardia (IST)": "IST is characterized by sinus tachycardia unexplained by physiological demands. Common symptoms include weakness, fatigue, lightheadedness, and heart racing.",
+        "Distinguishing IST": "It's important to distinguish IST from other secondary causes of tachycardia like hyperthyroidism and dehydration. IST may be related to anxiety disorders or neurohormonal dysregulation.",
+        "Acute Treatment of IST": "There are no specific recommendations for acute treatment of IST."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Ongoing Management of SVT of Unknown Mechanism",
+        "sections": [
+          {
+            "description": "If pre-excitation is present in sinus rhythm and the patient is willing to undergo ablation:",
+            "actions": [
+              "EP study and catheter ablation (Class I)",
+              "If ineffective, consider medical therapy."
+            ]
+          },
+          {
+            "description": "If pre-excitation is not present and the patient prefers ablation:",
+            "actions": [
+              "EP study and catheter ablation (Class I)",
+              "If ineffective, consider medical therapy."
+            ]
+          },
+          {
+            "description": "If pre-excitation is not present and the patient is an ablation candidate but prefers medical therapy:",
+            "actions": [
+              "Medical therapy with drug options:",
+              {
+                "option1": "Beta blockers, diltiazem, or verapamil (in the absence of pre-excitation) (Class I)",
+                "option2": "Flecainide or propafenone (in the absence of SHD) (Class IIa)",
+                "option3": "Amiodarone, dofetilide, or sotalol (Class IIb)",
+                "option4": "Digoxin (in the absence of pre-excitation) (Class IIb)"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "Colors correspond to Class of Recommendation in Table 1; drugs listed alphabetically.",
+          "Clinical follow-up without treatment is also an option.",
+          "EP indicates electrophysiological; pt, patient; SHD, structural heart disease (including ischemic heart disease); and SVT, supraventricular tachycardia."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Acute Drug Therapy for SVT, Intravenous Administration",
+        "drugs": [
+          {
+            "name": "Adenosine",
+            "initial_dose": "6-mg rapid IV bolus",
+            "subsequent_or_maintenance_dose": "If no result, 12-mg rapid IV bolus; can repeat 12-mg dose 1 time",
+            "potential_adverse_effects": [
+              "Transient AV block",
+              "Flushing",
+              "Chest pain",
+              "Hypotension",
+              "Dyspnea",
+              "AF initiation or decompensation",
+              "PCV/C",
+              "Ventricular tachycardia",
+              "Bronchospasm",
+              "Coronary steal"
+            ],
+            "precautions": [
+              "AV block greater than first degree",
+              "SA node dysfunction",
+              "Reactive airway disease",
+              "Concomitant use of verapamil or digoxin",
+              "WPW"
+            ]
+          },
+          {
+            "name": "Esmolol",
+            "initial_dose": "500-mcg/kg IV bolus",
+            "subsequent_or_maintenance_dose": "Infusion at 50\u2013300 mcg/kg/min",
+            "potential_adverse_effects": [
+              "Hypotension",
+              "Worsening HF",
+              "Bronchospasm",
+              "Bradycardia"
+            ],
+            "precautions": [
+              "AV block greater than first degree",
+              "SA node dysfunction",
+              "Decompensated systolic HF",
+              "Hypotension",
+              "Cardiogenic shock",
+              "Reactive airway disease",
+              "Renal dysfunction",
+              "Drugs with SA and/or AV nodal-blocking properties"
+            ]
+          },
+          {
+            "name": "Metoprolol tartrate",
+            "initial_dose": "2.5\u20135.0-mg IV bolus",
+            "subsequent_or_maintenance_dose": "Can repeat 2.5- to 5.0-mg IV bolus in 10 min, up to 3 doses",
+            "potential_adverse_effects": [
+              "Hypotension",
+              "Worsening HF",
+              "Bronchospasm",
+              "Bradycardia"
+            ],
+            "precautions": [
+              "AV block greater than first degree",
+              "SA node dysfunction",
+              "Decompensated systolic HF",
+              "Hypotension",
+              "Reactive airway disease",
+              "Drugs with SA and/or AV nodal-blocking properties"
+            ]
+          },
+          {
+            "name": "Propranolol",
+            "initial_dose": "1 mg IV over 1 min",
+            "subsequent_or_maintenance_dose": "Can repeat 1 mg IV at 2-min intervals, up to 3 doses",
+            "potential_adverse_effects": [
+              "Hypotension",
+              "Worsening HF",
+              "Bronchospasm",
+              "Bradycardia"
+            ],
+            "precautions": [
+              "AV block greater than first degree",
+              "SA node dysfunction",
+              "Reactive airway disease",
+              "Decompensated HF",
+              "Hypotension",
+              "Hepatic or renal dysfunction",
+              "Drugs with SA and/or AV nodal-blocking properties"
+            ]
+          },
+          {
+            "name": "Diltiazem",
+            "initial_dose": "0.25-mg/kg IV bolus",
+            "subsequent_or_maintenance_dose": "Infusion at 5\u201310 mg/h, up to 15 mg/h",
+            "potential_adverse_effects": [
+              "Hypotension",
+              "Worsening HF in patients with pre-existing ventricular dysfunction",
+              "Bradycardia",
+              "Abnormal liver function studies",
+              "Acute hepatic injury"
+            ],
+            "precautions": [
+              "AV block greater than first degree",
+              "SA node dysfunction",
+              "WPW with Afib/flutter",
+              "Hypotension",
+              "Decompensated systolic HF/LV dysfunction",
+              "Drugs with SA and/or AV nodal-blocking properties",
+              "Hepatic or renal dysfunction",
+              "CYP3A4 interactions"
+            ]
+          },
+          {
+            "name": "Verapamil",
+            "initial_dose": "5\u201310 mg (0.075-0.15-mg/kg) IV bolus",
+            "subsequent_or_maintenance_dose": "Additional 10 mg (0.15 mg/kg) 30 min after first dose, then infusion at 0.005 mg/kg/min",
+            "potential_adverse_effects": [
+              "Hypotension",
+              "Worsening HF in patients with pre-existing ventricular dysfunction",
+              "Pulmonary edema in patients with hypertrophic cardiomyopathy",
+              "Bradycardia"
+            ],
+            "precautions": [
+              "AV block greater than first degree",
+              "SA node dysfunction",
+              "Decompensated systolic HF/LV dysfunction",
+              "WPW with Afib/flutter",
+              "Hypotension",
+              "Hepatic or renal dysfunction",
+              "CYP3A4 interactions"
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Table Section": "Continued",
+        "Drug Classes Discussed": [
+          "Cardiac Glycosides",
+          "Class III Antiarrhythmic Agents"
+        ],
+        "Drugs": [
+          {
+            "Name": "Digoxin",
+            "Initial Dose": "0.25\u20130.5 mg IV bolus",
+            "Subsequent Dose": "0.25\u20131.0 mg over 24 h as needed",
+            "Potential Adverse Effects": [
+              "Anorexia",
+              "Nausea",
+              "Vomiting",
+              "Visual changes",
+              "Cardiac arrhythmias"
+            ],
+            "Precautions": [
+              "Renal dysfunction",
+              "WPW with AF/atrial flutter",
+              "AV block greater than first degree or SA node dysfunction (without pacemaker)",
+              "Interactions with drugs having AV nodal-blocking properties",
+              "It's a P-glycoprotein substrate"
+            ]
+          },
+          {
+            "Name": "Amiodarone",
+            "Initial Dose": "150 mg IV over 10 min",
+            "Subsequent Dose": "Infusion at 1 mg/min (360 mg) over next 6 h, then 0.5 mg/min (540 mg) over remaining 18 h",
+            "Potential Adverse Effects": [
+              "Hypotension",
+              "Bradycardia",
+              "Phlebitis",
+              "QT prolongation",
+              "Torsades de pointes",
+              "Increased INR"
+            ],
+            "Precautions": [
+              "Sinus or AV conduction disease (without pacemaker)",
+              "Inflammatory liver disease",
+              "Hepatic dysfunction",
+              "Interactions with drugs having SA and/or AV nodal-blocking properties",
+              "CYP2D6, CYP2C9, and CYP3A4 interactions"
+            ]
+          },
+          {
+            "Name": "Ibutilide",
+            "Initial Dose": "Contraindicated when QTc >440 ms; 1 mg over 10 min if \u226560 kg; if <60 kg, then 0.01 mg/kg",
+            "Subsequent Dose": "Can repeat 1 mg once, if arrhythmia does not terminate within 10 min",
+            "Potential Adverse Effects": [
+              "QT prolongation",
+              "Torsades de pointes",
+              "AV block"
+            ],
+            "Precautions": [
+              "Prolonged QT interval",
+              "History of torsades de pointes",
+              "Avoid other QT interval\u2013prolonging drugs",
+              "Concurrent administration of high-dose magnesium"
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Ongoing Drug Therapy for SVT, Oral Administration",
+        "drugs": [
+          {
+            "name": "Atenolol",
+            "initial_daily_dose": "25-50 mg QD",
+            "max_total_daily_dose": "100 mg QD",
+            "potential_adverse_effects": [
+              "Hypotension",
+              "bronchospasm",
+              "bradycardia"
+            ],
+            "precautions": [
+              "AV block greater than first degree or SA node dysfunction (in absence of pacemaker)",
+              "Decompensated systolic HF",
+              "Hypotension",
+              "Reactive airway disease",
+              "Severe renal dysfunction",
+              "Drugs with SA and/or AV nodal-blocking properties"
+            ]
+          },
+          {
+            "name": "Metoprolol tartrate",
+            "initial_daily_dose": "25 mg BID",
+            "max_total_daily_dose": "200 mg BID",
+            "potential_adverse_effects": [
+              "Hypotension",
+              "bronchospasm",
+              "bradycardia"
+            ],
+            "precautions": [
+              "AV block greater than first degree or SA node dysfunction (in absence of pacemaker)",
+              "Decompensated systolic HF",
+              "Hypotension",
+              "Reactive airway disease",
+              "Drugs with SA and/or AV nodal-blocking properties"
+            ]
+          },
+          {
+            "name": "Metoprolol succinate (long-acting)",
+            "initial_daily_dose": "50 mg QD",
+            "max_total_daily_dose": "400 mg QD",
+            "potential_adverse_effects": [
+              "Hypotension",
+              "bronchospasm",
+              "bradycardia"
+            ],
+            "precautions": [
+              "AV block greater than first degree or SA node dysfunction (in absence of pacemaker)",
+              "Decompensated systolic HF",
+              "Hypotension",
+              "Reactive airway disease",
+              "Drugs with SA and/or AV nodal-blocking properties"
+            ]
+          },
+          {
+            "name": "Nadolol",
+            "initial_daily_dose": "40 mg QD",
+            "max_total_daily_dose": "320 mg QD",
+            "potential_adverse_effects": [
+              "Hypotension",
+              "bronchospasm",
+              "bradycardia"
+            ],
+            "precautions": [
+              "AV block greater than first degree or SA node dysfunction (in absence of pacemaker)",
+              "Decompensated systolic HF",
+              "Hypotension",
+              "Reactive airway disease",
+              "Cardiogenic shock",
+              "Renal dysfunction",
+              "Drugs with SA and/or AV nodal-blocking properties"
+            ]
+          },
+          {
+            "name": "Propranolol",
+            "initial_daily_dose": "30-60 mg in divided or single dose with long-acting formulations",
+            "max_total_daily_dose": "40-160 mg in divided or single dose with long-acting formulations",
+            "potential_adverse_effects": [
+              "Hypotension",
+              "worsening HF",
+              "bronchospasm",
+              "bradycardia"
+            ],
+            "precautions": [
+              "AV block greater than first degree or SA node dysfunction (in absence of pacemaker)",
+              "Reactive airway disease",
+              "Decompensated systolic HF",
+              "Hypotension",
+              "Drugs with SA and/or AV nodal-blocking properties"
+            ]
+          },
+          {
+            "name": "Diltiazem",
+            "initial_daily_dose": "120 mg daily in divided or single dose with long-acting formulations",
+            "max_total_daily_dose": "360 mg daily in divided or single dose with long-acting formulations",
+            "potential_adverse_effects": [
+              "Hypotension",
+              "worsening HF in patients with pre-existing ventricular dysfunction",
+              "bradycardia",
+              "abnormal liver function studies",
+              "acute hepatic injury (rare)"
+            ],
+            "precautions": [
+              "AV block greater than first degree or SA node dysfunction (in absence of pacemaker)",
+              "Hypotension",
+              "Decompensated systolic HF/severe LV dysfunction",
+              "WPW with AF/Atrial flutter",
+              "Drugs with SA and/or AV nodal-blocking properties",
+              "Diltiazem is a substrate of CYP3A4 (major) and a moderate CYP3A4 inhibitor"
+            ]
+          },
+          {
+            "name": "Verapamil",
+            "initial_daily_dose": "120 mg daily in divided or single dose with long-acting formulations",
+            "max_total_daily_dose": "480 mg daily in divided or single dose with long-acting formulations",
+            "potential_adverse_effects": [
+              "Hypotension",
+              "worsening HF in patients with pre-existing ventricular dysfunction",
+              "pulmonary edema in patients with hypertrophic cardiomyopathy",
+              "bradycardia",
+              "abnormal liver function studies"
+            ],
+            "precautions": [
+              "AV block greater than first degree or SA node dysfunction (in absence of pacemaker)",
+              "Decompensated systolic HF/severe LV dysfunction",
+              "WPW with AF/Atrial flutter",
+              "Verapamil is a moderate CYP3A4 inhibitor and also inhibits P-glycoprotein",
+              "Contraindicated with dofetilide"
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Drugs Mentioned": [
+          "Digoxin",
+          "Flecainide",
+          "Propafenone",
+          "Amiodarone"
+        ],
+        "Categories": [
+          "Cardiac glycosides",
+          "Class Ic antiarrhythmic agents",
+          "Class III antiarrhythmic agents"
+        ],
+        "Potential Adverse Effects": [
+          "Bradycardia",
+          "Heart block",
+          "Anorexia",
+          "Nausea",
+          "Vomiting",
+          "Visual changes",
+          "Cardiac arrhythmias",
+          "Atrial flutter with 1:1 AV conduction",
+          "QT prolongation",
+          "Torsades de pointes",
+          "Bradycardia",
+          "GI upset",
+          "Constipation",
+          "Hypothyroidism",
+          "Hyperthyroidism",
+          "Pulmonary fibrosis"
+        ],
+        "Precautions and Interactions": [
+          "AV block greater than first degree or SA node dysfunction",
+          "Reducing dose with amiodarone",
+          "Monitoring digoxin concentrations with certain drugs",
+          "Avoid in structural heart disease",
+          "Atrial flutter therapy",
+          "Brugada syndrome",
+          "Hepatic dysfunction",
+          "Renal dysfunction",
+          "QT-prolonging drugs",
+          "Drugs affecting CYP3A4, CYP2C8, and P-glycoprotein",
+          "Avoid combinations with certain drugs"
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "CYP3A4",
+          "Associated Conditions": [],
+          "Occurrences": 1,
+          "context": "Amiodarone is a substrate of and inhibits P-glycoprotein and CYP2D6 (moderate), CYP2C8 (moderate), and CYP3A4 (weak); amiodarone is a substrate for CYP3A4 (major) and CYP2C8 (major); amiodarone is an inhibitor of OCT2."
+        },
+        {
+          "Gene": "CYP2C8",
+          "Associated Conditions": [],
+          "Occurrences": 1,
+          "context": "Amiodarone is a substrate of and inhibits P-glycoprotein and CYP2D6 (moderate), CYP2C8 (moderate), and CYP3A4 (weak); amiodarone is a substrate for CYP3A4 (major) and CYP2C8 (major); amiodarone is an inhibitor of OCT2."
+        },
+        {
+          "Gene": "CYP2D6",
+          "Associated Conditions": [],
+          "Occurrences": 1,
+          "context": "Amiodarone is a substrate of and inhibits P-glycoprotein and CYP2D6 (moderate), CYP2C8 (moderate), and CYP3A4 (weak); amiodarone is a substrate for CYP3A4 (major) and CYP2C8 (major); amiodarone is an inhibitor of OCT2."
+        },
+        {
+          "Gene": "OCT2",
+          "Associated Conditions": [],
+          "Occurrences": 1,
+          "context": "Amiodarone is a substrate of and inhibits P-glycoprotein and CYP2D6 (moderate), CYP2C8 (moderate), and CYP3A4 (weak); amiodarone is a substrate for CYP3A4 (major) and CYP2C8 (major); amiodarone is an inhibitor of OCT2."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Drugs": [
+          {
+            "Name": "Dofetilide",
+            "Initial Daily Dose": "500 mcg every 12 h (if CrCl >60.0 mL/min), 250 mcg every 12 h (if CrCl 40\u201360.0 mL/min), 125 mcg every 12 h (if CrCl 20 to <40 mL/min), Not recommended if CrCl <20.0 mL/min",
+            "Maximum Total Daily Maintenance Dose": "Repeat ECG 2\u20133 h after administering the first dose, subsequent dosing should be down titrated based on QTc interval changes.",
+            "Potential Adverse Effects": [
+              "QT prolongation",
+              "torsades de pointes"
+            ],
+            "Precautions": "Contraindicated if baseline QTc interval or QTc >440 ms or 500 ms in patients with ventricular conduction abnormalities, severe renal dysfunction, prolonged QT interval, among others."
+          },
+          {
+            "Name": "Sotalol",
+            "Initial Daily Dose": "40\u201380 mg every 12 h",
+            "Maximum Total Daily Maintenance Dose": "160 mg every 12 h",
+            "Potential Adverse Effects": [
+              "QT prolongation",
+              "torsades de pointes",
+              "bradycardia",
+              "bronchospasm"
+            ],
+            "Precautions": "Prolonged QT, renal dysfunction, hypokalemia, avoid other QT-prolonging drugs, left ventricular dysfunction, among others."
+          },
+          {
+            "Name": "Ivabradine",
+            "Initial Daily Dose": "5 mg BID",
+            "Maximum Total Daily Maintenance Dose": "7.5 mg BID",
+            "Potential Adverse Effects": [
+              "Phosphenes",
+              "AF"
+            ],
+            "Precautions": "Concomitant drugs that can exacerbate bradycardia, decompensated HF, BP <90/50 mm Hg, CYP3A4 interactions among others."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Success and Complication Rates for Ablation of SVT",
+        "Table Details": {
+          "Arrhythmias": [
+            {
+              "Type": "Common SVTs",
+              "Subtypes": [
+                {
+                  "Arrhythmia": "AVNRT",
+                  "Acute Success": "96%-97%",
+                  "Recurrence Rate": "5%",
+                  "Major Complications": [
+                    "Overall 3%",
+                    "PPM 0.7%",
+                    "Death 0%"
+                  ],
+                  "References": [
+                    "102",
+                    "103"
+                  ]
+                },
+                {
+                  "Arrhythmia": "AVRT/accessory pathway",
+                  "Acute Success": "93%",
+                  "Recurrence Rate": "8%",
+                  "Major Complications": [
+                    "Overall 2.8%",
+                    "PPM 0.3%",
+                    "Death 0.1%",
+                    "Tamponade 0.4%"
+                  ],
+                  "References": [
+                    "102",
+                    "103"
+                  ]
+                },
+                {
+                  "Arrhythmia": "CTI-dependent atrial flutter",
+                  "Acute Success": "97%",
+                  "Recurrence Rate": "10.6% atrial flutter, 33% atrial fibrillation",
+                  "Major Complications": [
+                    "Overall 0.5%",
+                    "PPM 0.2%",
+                    "Pericardial effusion 0.3%"
+                  ],
+                  "References": [
+                    "102",
+                    "103",
+                    "121"
+                  ]
+                }
+              ]
+            },
+            {
+              "Type": "Less common SVTs",
+              "Subtypes": [
+                {
+                  "Arrhythmia": "Focal AT",
+                  "Acute Success": "80%-100%",
+                  "Recurrence Rate": "4%-27%",
+                  "Major Complications": "<1%-2%",
+                  "References": [
+                    "122-129"
+                  ]
+                },
+                {
+                  "Arrhythmia": "JT",
+                  "Acute Success": "82%-85%",
+                  "Recurrence Rate": "0-18%",
+                  "Major Complications": "0-18% CHB (overall complications N/A)",
+                  "References": [
+                    "130-132"
+                  ]
+                },
+                {
+                  "Arrhythmia": "Non-CTI-dependent atrial flutter",
+                  "Acute Success": "73%-100%",
+                  "Recurrence Rate": "7%-53%",
+                  "Major Complications": "0-7%",
+                  "References": [
+                    "122,133-140"
+                  ]
+                }
+              ]
+            }
+          ],
+          "Note": "Data in this table are derived from multiple observational studies and registries, and as such may not always reflect current practice."
+        },
+        "Section 3.2.2 Recommendations": "Ongoing management of IST is recommended to focus on symptom reduction. Ivabradine, an inhibitor of the If channel, is now being used to slow the heart rate. Radiofrequency ablation targeting early activation with isoproterenol infusion may also reduce sinus rate, with reports showing success rates of 76% to 100% in nonrandomized cohorts."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "cor": "I",
+            "lOE": "C-LD",
+            "recommendation": "Evaluation for and treatment of reversible causes are recommended in patients with suspected IST (160,185).",
+            "details": "It's important to distinguish IST from physiological sinus tachycardia or focal AT. Further laboratory and imaging studies are necessary to determine reversible causes like substances and drugs, infection, anemia, and hyperthyroidism."
+          },
+          {
+            "cor": "IIa",
+            "lOE": "B-R",
+            "recommendation": "Ivabradine is reasonable for ongoing management in patients with symptomatic IST (168-176).",
+            "details": "Ivabradine showed reduced daytime heart rate and improved exercise tolerance and symptoms in patients with IST. A significant number of patients reported complete symptom resolution."
+          },
+          {
+            "cor": "IIb",
+            "lOE": "C-LD",
+            "recommendation": "Beta blockers may be considered for ongoing management in patients with symptomatic IST (170,172).",
+            "details": "Beta blockers are modestly effective in lowering the heart rate and improving symptoms. Metoprolol succinate reduced heart rate over four weeks. However, the effectiveness is modest, and hypotension may limit the use."
+          },
+          {
+            "cor": "IIb",
+            "lOE": "C-LD",
+            "recommendation": "The combination of beta blockers and ivabradine may be considered for ongoing management in patients with IST (172).",
+            "details": "Combination therapy has shown good tolerance and efficacy in reducing heart rate and resolving IST symptoms."
+          }
+        ],
+        "focalAtrialTachycardia": {
+          "definition": "Focal AT is characterized as a fast rhythm from a discrete origin, conducting in a centrifugal manner throughout the atrial tissue.",
+          "prevalence": "Focal AT represents approximately 3% to 17% of the patients referred for SVT ablation."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Acute Treatment of Suspected Focal Atrial Tachycardia",
+        "Treatment Flowchart": {
+          "Initial Assessment": "Suspected focal atrial tachycardia",
+          "Hemodynamic Stability Check": {
+            "Stable": {
+              "Diagnosis Confirmation": "Establish diagnosis of focal atrial tachycardia",
+              "Treatment": [
+                "IV beta blocker, IV diltiazem, or IV verapamil (Class I)",
+                "If ineffective, IV adenosine (Class IIa)"
+              ]
+            },
+            "Not Stable": {
+              "First-Line Treatment": "IV adenosine (Class IIa)",
+              "If Ineffective or Not Feasible": "Cardioversion (Class I)"
+            }
+          },
+          "If Diagnosis Not Established": {
+            "Treatment": [
+              "IV adenosine (Class IIa)",
+              "If ineffective, IV amiodarone or IV ibutilide (Class IIb)"
+            ]
+          }
+        },
+        "Demographics and Characteristics": {
+          "Focal AT in Adults": "Variable symptoms, often with a benign prognosis, but AT-mediated cardiomyopathy has been reported in 10% of patients.",
+          "Types": "Sustained or non-sustained, with atrial rate between 100 and 250 bpm."
+        },
+        "Diagnosis and Mapping": {
+          "Method": "P-wave morphology on 12-lead ECG, positive P wave in leads II, III, and aVF suggest the origin from the cranial portion of either atria.",
+          "Correlation": "Shorter P-wave durations indicate para septal tissue origin.",
+          "Mapping": "Confirmed by mapping during EP studies."
+        },
+        "Underlying Mechanism": "Includes automatic, triggered activity, or micro-reentry; pharmacological testing or EP study provide modest value due to limited sensitivity and specificity."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guideline": "This document discusses the management of focal atrial tachycardia (AT). It outlines a flowchart for ongoing management: patients who are candidates for and prefer ablation can undergo catheter ablation (Class I recommendation). For those not undergoing ablation, drug therapy options include beta blockers, diltiazem, or verapamil (Class IIa); flecainide or propafenone in the absence of structural heart disease (Class IIa); and amiodarone or sotalol (Class IIb). The guideline also discusses different types of AT, such as microreentrant and sinus node reentrant tachycardia, and notes that vagal maneuvers may help determine the mechanism of supraventricular tachycardia (SVT). Additionally, digoxin and intravenous class IC drugs are mentioned as treatment options."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "class": "I",
+            "level": "C-LD",
+            "recommendation": "Intravenous beta blockers, diltiazem, or verapamil is useful for acute treatment in hemodynamically stable patients with focal AT."
+          },
+          {
+            "class": "I",
+            "level": "C-LD",
+            "recommendation": "Synchronized cardioversion is recommended for acute treatment in patients with hemodynamically unstable focal AT."
+          },
+          {
+            "class": "IIa",
+            "level": "B-NR",
+            "recommendation": "Adenosine can be useful in the acute setting to either restore sinus rhythm or diagnose the tachycardia mechanism in patients with suspected focal AT."
+          },
+          {
+            "class": "IIb",
+            "level": "C-LD",
+            "recommendation": "Intravenous amiodarone may be reasonable in the acute setting to either restore sinus rhythm or slow the ventricular rate in hemodynamically stable patients with focal AT."
+          },
+          {
+            "class": "IIb",
+            "level": "C-LD",
+            "recommendation": "Ibutilide may be reasonable in the acute setting to restore sinus rhythm in hemodynamically stable patients with focal AT."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "class": "I",
+            "LOE": "B-NR",
+            "recommendation": "Catheter ablation is recommended in patients with symptomatic focal AT as an alternative to pharmacological therapy."
+          },
+          {
+            "class": "IIa",
+            "LOE": "C-LD",
+            "recommendation": "Oral beta blockers, diltiazem, or verapamil are reasonable for ongoing management in patients with symptomatic focal AT."
+          },
+          {
+            "class": "IIa",
+            "LOE": "C-LD",
+            "recommendation": "Flecainide or propafenone can be effective for ongoing management in patients without structural heart disease or ischemic heart disease who have focal AT."
+          },
+          {
+            "class": "IIb",
+            "LOE": "C-LD",
+            "recommendation": "Oral sotalol or amiodarone may be reasonable for ongoing management in patients with focal AT."
+          }
+        ],
+        "focal_at_details": [
+          "A large number of nonrandomized cohort studies on focal AT ablation have accumulated, especially from the 2012 ablation registry in Spain.",
+          "AT was found in 333 of 11,042 ablation procedures performed.",
+          "Catheter ablation shows acute success rates above 90% to 95% with low complication rates.",
+          "AT-mediated cardiomyopathy should be recognized in patients presenting with heart failure and persistent tachycardia."
+        ],
+        "MAT_details": [
+          "MAT is a rapid, irregular rhythm defined by at least 3 distinct morphologies of P waves.",
+          "The atrial rate is >100 bpm (>90 bpm in this context).",
+          "MAT is associated with underlying conditions such as pulmonary disease, coronary disease, and valvular heart disease.",
+          "Intravenous magnesium may help in management."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Acute Treatment": {
+          "Recommendation": "Intravenous metoprolol or verapamil can be useful for acute treatment in patients with multifocal atrial tachycardia (MAT).",
+          "Mechanism": "MAT can involve triggered activity. Intravenous verapamil may terminate arrhythmia by slowing ventricular response, though it may cause hypotension. Metoprolol works by slowing the ventricular rate.",
+          "Avoidance": "Beta blockers and verapamil are usually avoided in patients with severe pulmonary disease or acute decompensated heart failure."
+        },
+        "Ongoing Management": {
+          "Recommendations": [
+            {
+              "Drugs": "Oral verapamil or diltiazem",
+              "Use": "Recommended for ongoing management in patients with recurrent symptomatic MAT.",
+              "Notes": "Verapamil does not exacerbate pulmonary disease. Data for diltiazem in MAT is lacking."
+            },
+            {
+              "Drug": "Metoprolol",
+              "Use": "Reasonable for ongoing management in patients with recurrent symptomatic MAT.",
+              "Notes": "Beta blockers are often avoided in acute decompensated heart failure or for patients with severe pulmonary diseases."
+            }
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Acute Treatment of AVNRT",
+        "Context": "This guideline addresses the acute treatment strategies for atrioventricular nodal reentrant tachycardia (AVNRT), the most common form of SVT. AVNRT is commonly observed in young adults, particularly women, without structural heart conditions. Typical symptoms include palpitations, dizziness, and neck pulsations, with a ventricular rate of 180-200 bpm. Treatment involves vagal maneuvers, IV adenosine, beta blockers, diltiazem, verapamil, and potentially synchronized cardioversion depending on the patient's hemodynamic stability."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Acute Treatment Recommendations for AVNRT": [
+          {
+            "class": "I",
+            "levelOfEvidence": "B-R",
+            "recommendation": "Vagal maneuvers are recommended for acute treatment in patients with AVNRT."
+          },
+          {
+            "class": "I",
+            "levelOfEvidence": "B-R",
+            "recommendation": "Adenosine is recommended for acute treatment in patients with AVNRT."
+          },
+          {
+            "class": "I",
+            "levelOfEvidence": "B-NR",
+            "recommendation": "Synchronized cardioversion should be performed for acute treatment in hemodynamically unstable patients with AVNRT when adenosine and vagal maneuvers do not terminate the tachycardia or are not feasible."
+          },
+          {
+            "class": "I",
+            "levelOfEvidence": "B-NR",
+            "recommendation": "Synchronized cardioversion is recommended for acute treatment in hemodynamically stable patients with AVNRT when pharmacological therapy does not terminate the tachycardia or is contraindicated."
+          },
+          {
+            "class": "IIa",
+            "levelOfEvidence": "B-R",
+            "recommendation": "Intravenous beta blockers, diltiazem, or verapamil are reasonable for acute treatment in hemodynamically stable patients with AVNRT."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendation 1": "Oral beta blockers, diltiazem, or verapamil may be reasonable for acute treatment in hemodynamically stable patients with AVNRT (Level of Evidence: C-LD).",
+        "Recommendation 2": "Intravenous amiodarone may be considered for acute treatment in hemodynamically stable patients with AVNRT when other therapies are ineffective or contraindicated (Level of Evidence: C-LD).",
+        "Study Findings": [
+          "No data specifically studying oral beta-blocker monotherapy for acute termination of AVNRT, but studies show success with oral diltiazem and propranolol.",
+          "Intravenous amiodarone was effective in terminating AVNRT in a small cohort study without long-term toxicity if given for a short period."
+        ],
+        "Flowchart": {
+          "Symptomatic AVNRT": {
+            "Assessment": "Reassess symptoms during follow-up.",
+            "Ablation Candidate": {
+              "Prefers Ablation": "Proceed with slow-pathway catheter ablation (Class I).",
+              "Does Not Prefer Ablation": "Use beta blockers, diltiazem, or verapamil (Class I)."
+            },
+            "Ineffective Treatment": {
+              "Options": [
+                "Flecainide or propafenone if no SHD (Class IIa).",
+                "Amiodarone, dofetilide, digoxin, or sotalol (Class IIb)."
+              ],
+              "Next Step": "Consider ablation if ineffective."
+            }
+          },
+          "Minimal or No Symptoms": "Clinical follow-up without treatment (Class IIa).",
+          "Self-administration": "Patients with infrequent, well-tolerated episodes may self-administer beta blockers, diltiazem, or verapamil (Class IIb)."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Recommendations for Ongoing Management of AVNRT",
+        "recommendations": [
+          {
+            "cor": "I",
+            "loe": "B-R",
+            "description": "Oral verapamil or diltiazem is recommended for ongoing management in patients with AVNRT who are not candidates for, or prefer not to undergo, catheter ablation."
+          },
+          {
+            "cor": "I",
+            "loe": "B-NR",
+            "description": "Catheter ablation of the slow pathway is recommended in patients with AVNRT."
+          },
+          {
+            "cor": "I",
+            "loe": "B-R",
+            "description": "Oral beta blockers are recommended for ongoing management in patients with AVNRT who are not candidates for, or prefer not to undergo, catheter ablation."
+          },
+          {
+            "cor": "IIa",
+            "loe": "B-R",
+            "description": "Flecainide or propafenone is reasonable for ongoing management in patients without structural heart disease or ischemic heart disease who have AVNRT and are not candidates for, or prefer not to undergo, catheter ablation and in whom beta blockers, diltiazem, or verapamil are ineffective or contraindicated."
+          },
+          {
+            "cor": "I",
+            "loe": "B-NR",
+            "description": "Clinical follow-up without pharmacological therapy or ablation is reasonable for ongoing management in minimally symptomatic patients with AVNRT."
+          },
+          {
+            "cor": "IIb",
+            "loe": "B-R",
+            "description": "Oral sotalol or dofetilide may be reasonable for ongoing management in patients with AVNRT who are not candidates for, or prefer not to undergo, catheter ablation."
+          }
+        ],
+        "notes": [
+          "Verapamil and diltiazem should be avoided in patients with systolic heart failure.",
+          "Catheter ablation is regarded as first-line therapy for symptomatic AVNRT.",
+          "Flecainide and propafenone are contraindicated in patients with structural heart disease or ischemic heart disease."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_recommendations": [
+          {
+            "class": "IIb",
+            "level": "B-R",
+            "recommendation": "Oral digoxin or amiodarone may be reasonable for ongoing treatment of AVNRT in patients who are not candidates for, or prefer not to undergo, catheter ablation.",
+            "details": "One small study randomized patients with unspecified PSVT to digoxin (0.375 mg/day), propranolol (240 mg/day), or verapamil (480 mg/day) with 1 week of placebo washout. Episodes of PSVT and duration of PSVT were largely similar among the treatments."
+          },
+          {
+            "class": "IIb",
+            "level": "C-LD",
+            "recommendation": "Self-administered (\u201cpill-in-the-pocket\u201d) acute doses of oral beta blockers, diltiazem, or verapamil may be reasonable for ongoing management in patients with infrequent, well-tolerated episodes of AVNRT.",
+            "details": "Two studies demonstrated success with the combination of diltiazem and propranolol as a 'pill-in-the-pocket' approach to acutely terminate PSVT caused by AVNRT. Safety concerns remain due to episodes of syncope."
+          }
+        ],
+        "clinical_information": {
+          "accessory_pathways": {
+            "types": [
+              "Manifest",
+              "Concealed"
+            ],
+            "characteristics": "Accessory pathways can cause supraventricular arrhythmias with certain pathways, placing patients at risk of SCD. Manifest pathways may conduct in antegrade and retrograde directions. Concealed pathways conduct only retrograde."
+          },
+          "tachycardia_types": {
+            "orthodromic_AVRT": "Involves the AV node and His Purkinje system conducting in the antegrade direction, common in patients with manifest accessory pathways.",
+            "antidromic_AVRT": "Pre-excited AVRT, retrograde conduction occurs via the AV node.",
+            "PJRT": "A circuit involving a concealed accessory pathway with retrograde decremental conduction properties, presents as orthodromic reentrant tachycardia."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Acute Treatment of Orthodromic AVRT",
+        "process": "The flowchart provides a treatment algorithm for orthodromic atrioventricular reentrant tachycardia (AVRT). It starts with vagal maneuvers and/or IV adenosine. If these are ineffective or not feasible, the patient's hemodynamic stability is assessed. The presence of pre-excitation on a resting ECG influences subsequent treatment, which may include IV beta blockers, IV diltiazem, or IV verapamil. If further intervention is needed, synchronized cardioversion is recommended."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Management of Patients": "Management of patients with symptomatic manifest or concealed accessory pathways using acute treatment recommendations for orthodromic AVRT.",
+        "Acute Treatment Recommendations": [
+          {
+            "Level of Evidence": "B-R",
+            "Class of Recommendation": "I",
+            "Recommendation": "Vagal maneuvers are recommended for acute treatment in patients with orthodromic AVRT."
+          },
+          {
+            "Level of Evidence": "B-R",
+            "Class of Recommendation": "I",
+            "Recommendation": "Adenosine is beneficial for acute treatment in patients with orthodromic AVRT."
+          },
+          {
+            "Level of Evidence": "B-NR",
+            "Class of Recommendation": "I",
+            "Recommendation": "Synchronized cardioversion should be performed for acute treatment in hemodynamically unstable patients with AVRT if vagal maneuvers or adenosine are ineffective or not feasible."
+          },
+          {
+            "Level of Evidence": "B-NR",
+            "Class of Recommendation": "I",
+            "Recommendation": "Synchronized cardioversion is recommended for acute treatment in hemodynamically stable patients with AVRT when pharmacological therapy is ineffective or contraindicated."
+          }
+        ],
+        "Vagal Maneuvers": "These include Valsalva and carotid sinus massage, performed quickly as the first-line intervention to terminate SVT.",
+        "Adenosine": "Effective for conversion of orthodromic AVRT, with minor side effects including short duration nausea, flushing, and bronchospasm.",
+        "Synchronized Cardioversion": "Highly effective in terminating SVT."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_summary": [
+          {
+            "recommendation": "Synchronized cardioversion is recommended for acute treatment in hemodynamically unstable patients with pre-excited AF.",
+            "level_of_evidence": "I",
+            "class": "B-NR"
+          },
+          {
+            "recommendation": "Ibutilide or intravenous procainamide is beneficial for acute treatment in patients with pre-excited AF who are hemodynamically stable.",
+            "level_of_evidence": "I",
+            "class": "C-LD"
+          },
+          {
+            "recommendation": "Intravenous diltiazem, verapamil, or beta blockers can be effective for acute treatment in patients with orthodromic AVRT without pre-excitation during sinus rhythm.",
+            "level_of_evidence": "IIa",
+            "class": [
+              "B-R",
+              "C-LD"
+            ]
+          },
+          {
+            "recommendation": "Beta blockers, diltiazem, or verapamil might be considered for patients with orthodromic AVRT who have pre-excitation on their resting ECG and have not responded to other therapies.",
+            "level_of_evidence": "IIb",
+            "class": "B-R"
+          },
+          {
+            "recommendation": "Intravenous digoxin, amiodarone, beta blockers, diltiazem, and verapamil are potentially harmful for acute treatment in patients with pre-excited AF.",
+            "level_of_evidence": "III",
+            "class": "Harm",
+            "summary": "Digoxin and these medications increase the ventricular rate or have a risk of inducing ventricular arrhythmia."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "6.1.2 Ongoing Management: Recommendations",
+        "recommendations": [
+          {
+            "cor": "I",
+            "loe": "B-NR",
+            "recommendation": "Catheter ablation of the accessory pathway is recommended in patients with AVRT and/or pre-excited AF.",
+            "notes": "Success rate approximately 93% to 95% and a 3% risk of major complications."
+          },
+          {
+            "cor": "I",
+            "loe": "C-LD",
+            "recommendation": "Oral beta blockers, diltiazem, or verapamil are indicated for ongoing management of AVRT in patients without pre-excitation on their resting ECG.",
+            "notes": "Effective in preventing recurrent tachycardia in approximately 50% of patients."
+          },
+          {
+            "cor": "IIa",
+            "loe": "B-R",
+            "recommendation": "Oral flecainide or propafenone is reasonable for ongoing management in patients without structural heart disease or ischemic heart disease who have AVRT and/or pre-excited AF and are not candidates for, or prefer not to undergo, catheter ablation.",
+            "notes": "Effective in approximately 85% to 90% of patients."
+          },
+          {
+            "cor": "IIb",
+            "loe": "B-R",
+            "recommendation": "Oral dofetilide or sotalol may be reasonable for ongoing management in patients with AVRT and/or pre-excited AF who are not candidates for, or prefer not to undergo, catheter ablation.",
+            "notes": "Used in patients with structural heart disease or coronary artery disease."
+          },
+          {
+            "cor": "IIb",
+            "loe": "C-LD",
+            "recommendation": "Oral amiodarone may be considered for ongoing management in patients with AVRT and/or pre-excited AF who are not candidates for, or prefer not to undergo, catheter ablation.",
+            "notes": "Important toxicity associated with long-term use."
+          },
+          {
+            "cor": "IIb",
+            "loe": "C-LD",
+            "recommendation": "Oral beta blockers, diltiazem, or verapamil may be reasonable for ongoing management of orthodromic AVRT in patients with pre-excitation on their resting ECG who are not candidates for, or prefer not to undergo, catheter ablation.",
+            "notes": "Used with caution due to risk of rapid conduction over the accessory pathway."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_info": {
+          "JACC Publication Date": "April 5, 2016",
+          "Guideline Type": "2015 ACC/AHA/HRS SVT Guideline",
+          "Page Number": "e69",
+          "Section": "6. Ongoing Management of Orthodromic AVRT",
+          "Recommendations": [
+            {
+              "Class": "IIb",
+              "Level": "C-LD",
+              "Statement": "Oral digoxin may be reasonable for ongoing management of orthodromic AVRT in patients without pre-excitation on their resting ECG who are not candidates for, or prefer not to undergo, catheter ablation (292).",
+              "Details": [
+                "Low efficacy indicates use for patients not candidates for catheter ablation or failed other antiarrhythmic drugs."
+              ]
+            },
+            {
+              "Class": "III: Harm",
+              "Level": "C-LD",
+              "Statement": "Oral digoxin is potentially harmful for ongoing management in patients with AVRT or AF and pre-excitation on their resting ECG (271).",
+              "Details": [
+                "Digoxin shortens refractory period of accessory pathway, leading to potential degeneration into AF."
+              ]
+            }
+          ]
+        },
+        "Figure": {
+          "Title": "Ongoing Management of Orthodromic AVRT",
+          "Key Points": [
+            "Pre-excitation on resting ECG guides treatment strategy.",
+            "Pathways include pharmacological options and catheter ablation.",
+            "Specific drug recommendations are made based on presence of structural heart disease (SHD)."
+          ]
+        },
+        "Management of Asymptomatic Pre-Excitation": {
+          "Section": "6.2",
+          "PICOTS Critical Questions": "Discusses risk stratification for arrhythmic events."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "The recommendations are based on a systematic review of available evidence. Four questions were considered regarding the predictive accuracy, usefulness, and effectiveness of invasive electrophysiological (EP) studies and interventions in asymptomatic pre-excitation patients. The focus is on predicting and treating arrhythmic events, including sudden cardiac death (SCD).",
+        "questions_explored": [
+          "Comparative predictive accuracy of invasive versus noninvasive EP testing for predicting arrhythmic events in asymptomatic pre-excitation.",
+          "Usefulness of invasive EP study versus no testing for predicting arrhythmic events.",
+          "Usefulness of invasive EP study versus noninvasive EP study for predicting arrhythmic events.",
+          "Efficacy and effectiveness of invasive EP study with catheter ablation versus noninvasive tests for improving outcomes."
+        ],
+        "figure_context": "The image shows an abrupt loss of pre-excitation at a heart rate of 117 bpm during exercise testing, with PR interval normalization and QRS changes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations for Asymptomatic Patients with Pre-Excitation": [
+          {
+            "COR": "I",
+            "LOE": "B-NR, C-LD",
+            "Recommendation": "In asymptomatic patients with pre-excitation, the findings of abrupt loss of conduction over a manifest pathway during exercise testing in sinus rhythm or intermittent loss of pre-excitation during ECG or ambulatory monitoring are useful to identify patients at low risk of rapid conduction over the pathway."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-NR",
+            "Recommendation": "An EP study is reasonable in asymptomatic patients with pre-excitation to risk-stratify for arrhythmic events. Catheter ablation of the accessory pathway is reasonable in asymptomatic patients with pre-excitation if an EP study identifies a high risk of arrhythmic events, including rapidly conducting pre-excited AF."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-NR",
+            "Recommendation": "Catheter ablation of the accessory pathway is reasonable in asymptomatic patients if the presence of pre-excitation precludes specific employment. Patients with asymptomatic pre-excitation whose job activities involve potential dangers should be considered for ablation."
+          }
+        ],
+        "Noninvasive Testing": "Noninvasive testing helps in identifying patients at low risk of rapid conduction over the accessory pathway and life-threatening ventricular arrhythmias.",
+        "Study Outcomes": "Malignant arrhythmias correlated more with high-risk EP properties of the accessory pathway than with the presence of symptoms. Ablation success rate is approximately 95%, with a low risk of major complications during follow-up."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Observation": "Reasonable without further evaluation or treatment in asymptomatic patients with pre-excitation.",
+        "Cohort Studies": "Most adult patients with asymptomatic pre-excitation have a benign course with few significant arrhythmic events.",
+        "Risk of SCD": "Risk is small and seen mainly in children.",
+        "Patient Information": "Patients should be informed of small risk of life-threatening arrhythmias without treatment.",
+        "Pre-excitation Evaluation": "Determining the risk of rapid conduction over accessory pathway and life-threatening ventricular arrhythmias.",
+        "Diagnostic Tests": {
+          "Exercise Testing": "Findings of abrupt loss of conduction over the pathway during exercise give insights.",
+          "Noninvasive Tests": "Offer about 90% positive predictive value and 30% negative predictive value.",
+          "EP Study": "Useful for risk stratification in symptomatic patients with pre-excitation.",
+          "Findings": {
+            "R-R Interval": "<250 ms between pre-excited complexes during induced AF.",
+            "Accessory Pathways": "Presence of multiple accessory pathways or AVRT precipitating pre-excited AF."
+          }
+        },
+        "Atrial Flutter": {
+          "Type": "Macroreentrant atrial arrhythmia.",
+          "Characteristics": "Regular atrial rate and constant P-wave morphology.",
+          "CTI-dependent Flutter": "Circuit rotates in a counterclockwise direction around tricuspid valve."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Focus": "Classification and characteristics of atrial flutter and atrial tachycardias.",
+        "Macroreentrant Atrial Tachycardia/Atrial Flutter": {
+          "Features": [
+            "Constant regular P-wave/flutter wave morphology",
+            "Rate typically >250 bpm",
+            "Mechanism: Macroreentry"
+          ]
+        },
+        "Focal Atrial Tachycardia": {
+          "Features": [
+            "Discrete P waves with isoelectric segment",
+            "Rate typically 100\u2013250 bpm",
+            "Mechanisms: Microreentry or automaticity"
+          ]
+        },
+        "Cavotricuspid Isthmus Dependent Flutter": {
+          "Description": "Right atrial reentry dependent on conduction through cavotricuspid isthmus.",
+          "Treatment": "Can be cured by ablation creating conduction block in the cavotricuspid isthmus."
+        },
+        "Not Cavotricuspid Isthmus Dependent (Atypical Atrial Flutter)": {
+          "Description": [
+            "Reentry not dependent on conduction through cavotricuspid isthmus.",
+            "Circuit usually defined by atrial scars from prior heart surgery, ablation, or idiopathic.",
+            "Location determines ablation approach and risks."
+          ],
+          "Example Conditions": [
+            "Right Atrial",
+            "Left Atrial"
+          ]
+        },
+        "ECG Characteristics": {
+          "Counterclockwise Atrial Flutter": {
+            "ECG Features": "Negative in II, III, aVF, Positive in V1"
+          },
+          "Clockwise Atrial Flutter": {
+            "ECG Features": "Positive in II, III, aVF, Negative in V1"
+          },
+          "Atypical Flutter": {
+            "ECG Feature": "Suggested by P-wave polarity that does not fit typical atrial flutter."
+          }
+        },
+        "Additional Insights": [
+          "Atrial flutter can coexist with atrial fibrillation (AF).",
+          "Post-ablation for atrial flutter, AF can develop in 22% to 50% after a mean follow-up of 14 to 30 months.",
+          "82% of patients treated by catheter ablation for flutter may manifest AF within 5 years.",
+          "Risk factors for AF after atrial flutter ablation include prior AF, depressed left ventricular function, structural heart disease, inducible AF, and increased left atrial size."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2015 ACC/AHA/HRS SVT Guideline for Acute Treatment of Atrial Flutter",
+        "Overview": "The document provides guidelines for the acute treatment of atrial flutter, including both hemodynamically stable and unstable conditions.",
+        "Treatment Strategies": {
+          "Hemodynamically Stable": {
+            "Rhythm Control": "Synchronized cardioversion, oral dofetilide, IV ibutilide, and/or rapid atrial pacing (Class I)",
+            "Rate Control": "IV beta blockers, IV diltiazem, or IV verapamil (Class I); IV amiodarone (Class IIa)"
+          },
+          "Hemodynamically Unstable": {
+            "Rhythm Control": "Synchronized cardioversion (Class I)",
+            "Rate Control": "IV amiodarone (Class IIa)"
+          }
+        },
+        "Atrial Flutter Details": {
+          "Causes": "May result from antiarrhythmic therapy of AF, especially with flecainide, propafenone, or amiodarone.",
+          "Treatment": "Ablation of the CTI-dependent flutter may prevent recurrent flutter while antiarrhythmic therapy for AF is continued.",
+          "Thromboembolism Risk": "Patients with atrial flutter have a similar risk to those with AF; anticoagulation is recommended similarly."
+        },
+        "Non-Isthmus-Dependent Atrial Flutters": {
+          "Description": "Describes macroreentrant ATs that are not dependent on conduction through the CTI.",
+          "Reentrant Circuits": "Classified as macoreentrant (large) or microreentrant (small).",
+          "Associated Conditions": "Often occur in patients with atrial scarring from surgery or ablation but may also be idiopathic."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Ongoing Management of Atrial Flutter",
+        "Management Options": [
+          "Rate Control using Beta blockers, Diltiazem, or Verapamil (Class I)",
+          "Rhythm Control Options: Amiodarone, Dofetilide, or Sotalol (Class IIa), Flecainide or Propafenone (in the absence of structural heart disease) (Class IIb)",
+          "Catheter Ablation (Class I)"
+        ],
+        "Guideline Notes": [
+          "After ensuring adequate anticoagulation or excluding left atrial thrombus by transesophageal echocardiography before conversion. Should be combined with AV nodal-blocking agents to reduce risk of 1:1 conduction during atrial flutter.",
+          "Catheter ablation of non-CTI-dependent flutter requires more extensive mapping and has lower success rates.",
+          "Location of the circuit determines risks and approach.",
+          "Certain arrhythmias occur after cardiac surgery and vary based on the type of surgical approach."
+        ],
+        "Common Conditions": [
+          "Macroreentrant atrial arrhythmias after cardiac surgery.",
+          "Patients with valve surgery or repaired atrial septal defect may experience such arrhythmias."
+        ],
+        "Procedure Effectiveness": {
+          "Catheter Ablation": "Effective in approximately 90% of patients during a second procedure."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations": [
+          "Oral dofetilide or intravenous ibutilide is useful for acute pharmacological cardioversion in patients with atrial flutter.",
+          "Intravenous or oral beta blockers, diltiazem, or verapamil are useful for acute rate control in patients with atrial flutter who are hemodynamically stable.",
+          "Elective synchronized cardioversion is indicated in stable patients with well-tolerated atrial flutter when a rhythm-control strategy is being pursued.",
+          "Synchronized cardioversion is recommended for acute treatment of patients with atrial flutter who are hemodynamically unstable and do not respond to pharmacological therapies."
+        ],
+        "Other Details": [
+          "Pharmacological cardioversion of atrial flutter is generally less effective than synchronized cardioversion and carries the potential risk of proarrhythmia.",
+          "The major risk of ibutilide is torsades de pointes, more likely to occur in patients with reduced left ventricular ejection fraction.",
+          "Hypotension is the main adverse effect of diltiazem.",
+          "Verapamil and diltiazem should be avoided in patients with advanced heart failure or with heart block or sinus node dysfunction in the absence of pacemaker therapy.",
+          "Cardioversion for atrial flutter can be successful at lower energy levels than for atrial fibrillation (AF).",
+          "Anticoagulation considerations are important for cardioversion."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Section 5": {
+          "Title": "Rapid atrial pacing for acute conversion of atrial flutter",
+          "Guideline": "Useful for patients with pacemaker or defibrillator or temporary pacing after cardiac surgery.",
+          "Details": "Effective in terminating flutter in >50% of cases. More commonly used when atrial wires are in place or with programmable devices to achieve atrial entrainment."
+        },
+        "Section 6": {
+          "Title": "Acute antithrombotic therapy for atrial flutter",
+          "Guideline": "Recommended for patients to align with therapy for atrial fibrillation.",
+          "Details": "Stroke risk is well established. Anticoagulation efficacy is demonstrated for those with additional risk factors."
+        },
+        "Section 1": {
+          "Title": "Intravenous amiodarone for ventricular rate control",
+          "Guideline": "Useful in absence of pre-excitation in atrial flutter with heart failure.",
+          "Details": "Amiodarone slows conduction, prolongs AV nodal refractoriness, preferred in critically ill patients, and not recommended for long-term."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations for Ongoing Management of Atrial Flutter": [
+          {
+            "COR": "I",
+            "LOE": "B-R",
+            "Recommendation": "Catheter ablation of the CTI is useful in patients with atrial flutter that is either symptomatic or refractory to pharmacological rate control.",
+            "Details": "Rate control is often difficult to achieve in atrial flutter; rhythm control is preferred. The CTI is the optimal target for ablation."
+          },
+          {
+            "COR": "I",
+            "LOE": "C-LD",
+            "Recommendation": "Beta blockers, diltiazem, or verapamil are useful to control the ventricular rate in patients with hemodynamically tolerated atrial flutter.",
+            "Details": "A rate-control strategy may be chosen for persistent atrial flutter. Higher doses of medication may be needed for adequate rate control."
+          },
+          {
+            "COR": "I",
+            "LOE": "C-LD",
+            "Recommendation": "Catheter ablation is useful in patients with recurrent symptomatic non-CTI-dependent atrial flutter after at least 1 antiarrhythmic agent.",
+            "Details": "Non-CTI-dependent atrial flutter is more challenging to ablate. Location of the circuit impacts ablation approach and risks."
+          },
+          {
+            "COR": "I",
+            "LOE": "B-NR",
+            "Recommendation": "Ongoing management with antithrombotic therapy is recommended in patients with atrial flutter to align with recommended antithrombotic therapy for patients with AF.",
+            "Details": "The risk of stroke associated with AF is well established. Anticoagulation reduces stroke risk in patients with atrial flutter."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guidelineRecommendations": [
+          {
+            "level": "IIa",
+            "recommendation": "Drugs useful to maintain sinus rhythm in patients with symptomatic, recurrent atrial flutter are amiodarone, dofetilide, and sotalol. Choice depends on underlying heart disease and comorbidities."
+          },
+          {
+            "level": "IIa",
+            "recommendation": "Catheter ablation is reasonable for patients with CTI-dependent atrial flutter resulting from certain drug treatments."
+          },
+          {
+            "level": "IIa",
+            "recommendation": "Catheter ablation is reasonable in patients undergoing catheter ablation of AF who have coexisting CTI-dependent atrial flutter."
+          },
+          {
+            "level": "IIa",
+            "recommendation": "Catheter ablation is reasonable for recurrent symptomatic non-CTI-dependent flutter before trying antiarrhythmic drugs."
+          },
+          {
+            "level": "IIb",
+            "recommendation": "Flecainide or propafenone may be considered for maintaining sinus rhythm in patients without structural heart disease or ischemic heart disease having symptomatic recurrent atrial flutter."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Section": "Junctional Tachycardia",
+        "Description": "Junctional tachycardia is a rapid, occasionally irregular, narrow-complex tachycardia (with rates typically of 120 bpm to 220 bpm). AV dissociation may be seen and can exclude AVNRT. It can be misdiagnosed as AF or MAT. The mechanism involves enhanced automaticity from an ectopic focus in the AV junction.",
+        "Occurrence": "Uncommon in adults, more frequent in infants postoperatively, especially after cardiac surgery for congenital heart disease.",
+        "Treatment": "Beta blockers, diltiazem, flecainide, procainamide, propafenone, and verapamil can be used. Amiodarone is less established in pediatric cases. Digoxin is not well established. Nonparoxysmal junctional tachycardia may be treated with addressing the underlying condition, use of beta blockers, adenosine, or verapamil.",
+        "Characteristics": "A transient junction rhythm may be seen following ablation for AVNRT. Nonparoxysmal type has association with automaticity or triggered activity and slower rates due to digoxin toxicity or myocardial infarction."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Acute Treatment Recommendations": [
+          {
+            "Class": "IIa",
+            "Level of Evidence": "C-LD",
+            "Recommendation": "Intravenous beta blockers are reasonable for acute treatment in patients with symptomatic junctional tachycardia."
+          },
+          {
+            "Class": "IIa",
+            "Level of Evidence": "C-LD",
+            "Recommendation": "Intravenous diltiazem, procainamide, or verapamil is reasonable for acute treatment in patients with junctional tachycardia."
+          }
+        ],
+        "Ongoing Management Recommendations": [
+          {
+            "Class": "IIa",
+            "Level of Evidence": "C-LD",
+            "Recommendation": "Oral beta blockers are reasonable for ongoing management in patients with junctional tachycardia."
+          },
+          {
+            "Class": "IIa",
+            "Level of Evidence": "C-LD",
+            "Recommendation": "Oral diltiazem or verapamil is reasonable for ongoing management in patients with junctional tachycardia."
+          },
+          {
+            "Class": "IIb",
+            "Level of Evidence": "C-LD",
+            "Recommendation": "Flecainide or propafenone may be reasonable for ongoing management in patients without structural heart disease or ischemic heart disease who have junctional tachycardia."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendation": "Catheter ablation may be reasonable in patients with junctional tachycardia when medical therapy is not effective or contraindicated.",
+        "therapy": "Radiofrequency ablation has been used as a curative therapy for junctional tachycardia.",
+        "risks": "AV block observed in 5% to 10% of cases post-ablation, transient junctional tachycardia due to compact AV node irritation.",
+        "alternatives": "Cryoablation can be an alternative due to difficulty in distinguishing junctional tachycardia from AVNRT.",
+        "pediatric considerations": "SVT in young patients differs from adults in terms of mechanism and risks; accessory pathway-mediated tachycardia and AVNRT noted to increase with age.",
+        "management": "Drug therapy options include beta blockers, diltiazem, or verapamil. Flecainide or propafenone in absence of structural heart disease. Catheter ablation if other therapies are ineffective.",
+        "pre-excitation": "Pre-excitation is present in 20% to 35% of children with SVT, higher risk in patients with AVRT precipitating AF."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guidelines": [
+          {
+            "topic": "arrhythmias, AVRT, and AVNRT in children and adults",
+            "key_points": [
+              "Higher initial doses of adenosine are needed in children than in adults.",
+              "Digoxin and propranolol have similar efficacy in infants with SVT.",
+              "Digoxin use is avoided due to its association with SCD or ventricular fibrillation.",
+              "Classical treatments include adenosine, digoxin, amiodarone, sotalol, propafenone, and flecainide.",
+              "Catheter ablation can be successfully performed in children.",
+              "Postoperative junctional tachycardia and sedation management."
+            ]
+          },
+          {
+            "topic": "Treatment of fetal SVT",
+            "key_points": [
+              "Monitoring by adult cardiologists is needed.",
+              "Common mechanisms include AVRT and atrial flutter.",
+              "Maternal administration of antiarrhythmic agents can be effective.",
+              "Flecainide, sotalol, and digoxin have demonstrated high efficacy."
+            ]
+          },
+          {
+            "topic": "Patients with Adult Congenital Heart Disease",
+            "key_points": [
+              "SVT is observed in 10% to 20% of ACHD patients.",
+              "SVT is associated with an increased risk of heart failure, stroke, and SCD.",
+              "The most common mechanism involves AVRT or atrial flutter."
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "The document provides a guideline for the acute treatment of Supraventricular Tachycardia (SVT) in patients with Adult Congenital Heart Disease (ACHD). Management is influenced by cardiac anatomy, surgical repair, hemodynamic status, and the mechanism of SVT. Decision-making for SVT treatment involves consideration of ventricular dysfunction and forms of congenital heart disease. Treatment includes intravenous (IV) medication such as adenosine, along with rhythm and rate control strategies. For rhythm control, medications like ibutilide, procainamide, and sotalol are considered. Synchronized cardioversion may be employed for persistent SVT. Limitations of catheter ablation due to anatomical challenges are noted.",
+        "treatment_flow": "It highlights different treatment steps based on hemodynamic stability: If stable, IV adenosine (Class I) is administered. If ineffective, rhythm control strategies using IV ibutilide, procainamide, or atrial pacing are suggested. If unstable, IV adenosine and/or synchronized cardioversion is recommended. Rate control may be needed if initial measures are ineffective, using medications like IV diltiazem or esmolol."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Section": "2015 ACC/AHA/HRS SVT Guideline",
+        "Focus": "Ongoing Management of SVT in ACHD Patients",
+        "Overview": [
+          "Assess hemodynamic abnormalities and intervention.",
+          "Treatment strategies include beta blockers, sotalol, catheter ablation, pre-op or intra-op ablation, surgical ablation, amiodarone, dofetilide, or atrial pacing."
+        ],
+        "Treatment Recommendations": [
+          {
+            "Class": "I",
+            "Recommendation": "Acute antithrombotic therapy is recommended for ACHD patients with atrial flutter."
+          },
+          {
+            "Class": "IIa",
+            "Recommendation": "Beta blockers, sotalol, and/or catheter ablation."
+          },
+          {
+            "Class": "IIa",
+            "Recommendation": "Pre-op or intra-op ablation for repair of Ebstein anomaly."
+          },
+          {
+            "Class": "IIa",
+            "Recommendation": "Surgical ablation."
+          },
+          {
+            "Class": "IIb",
+            "Recommendation": "Amiodarone, dofetilide, or atrial pacing."
+          }
+        ],
+        "Clinical Insight": "Development of atrial arrhythmias in ACHD patients is an indicator of hemodynamic changes. Intervention for structural defects is part of chronic arrhythmia management, especially in patients with Ebstein anomaly or repaired tetralogy of Fallot."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synchronized cardioversion": {
+          "Recommendation": "Recommended for acute treatment in ACHD patients and SVT who are hemodynamically unstable.",
+          "Notes": "Electrical cardioversion is safe for patients with sinus rhythm and should be the primary treatment in cases of hemodynamic instability. Careful electrode placement may be necessary."
+        },
+        "Intravenous diltiazem or esmolol": {
+          "Recommendation": "Recommended for acute treatment in ACHD patients and SVT who are hemodynamically stable, with caution regarding hypotension.",
+          "Notes": "Calcium channel-blocking or beta-blocking medications may help manage hemodynamic states."
+        },
+        "Intravenous adenosine": {
+          "Recommendation": "Recommended for acute treatment in ACHD patients and SVT.",
+          "Notes": "Effective for terminating reentry tachycardia or atrial flutter. Can reveal atrial activity by causing transient AV block."
+        },
+        "Intravenous ibutilide or procainamide": {
+          "Recommendation": "Can be effective for acute treatment in ACHD patients and atrial flutter who are hemodynamically stable.",
+          "Notes": "Ibutilide shows efficacy in conversion of acute episodes. Procainamide is effective in pacing conversion."
+        },
+        "Atrial pacing": {
+          "Recommendation": "Effective for acute treatment in ACHD patients and SVT who are hemodynamically stable and anticoagulated, as per antithrombotic therapy guidelines.",
+          "Notes": "Atrial pacing can terminate episodes and is useful in avoiding the use of other antiarrhythmic drugs."
+        },
+        "Elective synchronized cardioversion": {
+          "Recommendation": "Can be useful when pharmacological therapy is ineffective or contraindicated.",
+          "Notes": "Useful in patients at risk of thrombus formation and those with prolonged episodes."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Acute Treatment": {
+          "Recommendation": "Oral dofetilide or sotalol may be reasonable for acute treatment in ACHD patients with AT and/or atrial flutter who are hemodynamically stable.",
+          "Evidence": "Supported by small observational studies.",
+          "Risks": "Proarrhythmic events and torsades de pointes, particularly in single-ventricle physiology."
+        },
+        "Ongoing Management": {
+          "Antithrombotic Therapy": {
+            "Recommendation": "Ongoing management with antithrombotic therapy is recommended for stroke prevention in ACHD patients with AT or atrial flutter.",
+            "Risk": "Effective at reducing stroke risk; proven in several RCTs.",
+            "Comparison": "Similar to those for patients with AF."
+          },
+          "Hemodynamic Abnormalities": {
+            "Recommendation": "Assessment for potential repair of structural defects is recommended in ACHD patients as part of therapy for SVT.",
+            "Details": "Surgical or catheter ablation may prevent progression of arrhythmias."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "1. Preoperative catheter ablation or intraoperative surgical ablation of accessory pathways or AT is reasonable in patients with SVT undergoing surgical repair of Ebstein anomaly.": {
+          "Success rate": "Varies significantly from 92% to 100%",
+          "Conditions": "SVT, atrial flutter, atrial fibrillation",
+          "Surgical context": "Ebstein anomaly repair",
+          "Details": "Accessory pathways are present in 50% of patients with Ebstein anomaly, with a success rate ranging from 75% to 89%."
+        },
+        "2. Oral beta blockers or sotalol therapy can be useful for prevention of recurrent AT or atrial flutter in ACHD patients.": {
+          "Medications": "Beta blockers, sotalol",
+          "Conditions": "Recurrent AT or atrial flutter",
+          "Details": "Beta blockers and sotalol may decrease catecholamine-related triggers and provide AV nodal blockade during recurrent atrial arrhythmias."
+        },
+        "3. Catheter ablation is reasonable for treatment of recurrent symptomatic SVT in ACHD patients.": {
+          "Success rate": "Between 65% and 100%",
+          "Conditions": "SVT, AVNRT, AT, atrial flutter, AF",
+          "Details": "Success rates vary based on the tachycardia mechanism and type of congenital heart disease repair. Accessory pathway ablation success rates range between 75% and 89%."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section_4": {
+          "title": "Surgical ablation of AT or atrial flutter can be effective in ACHD patients undergoing planned surgical repair",
+          "class": "IIa, B-NR",
+          "details": [
+            "In patients with symptomatic SVT undergoing planned surgical repairs, arrhythmia surgery can be integrated into the operation.",
+            "Success rates for catheter ablation in patients with prior Fontan repairs are lower compared to others, with acute success in 54% to 75% and long-term freedom from AT in 27% to 50%.",
+            "No RCTs exist to compare efficacy of catheter versus surgical ablation.",
+            "Surgical repair without arrhythmia intervention is associated with higher recurrence rates of AT."
+          ]
+        },
+        "section_1": {
+          "title": "Atrial pacing may be reasonable to decrease recurrences of AT or atrial flutter in ACHD patients and sinus node dysfunction",
+          "class": "IIb, B-NR",
+          "details": [
+            "Atrial pacing is programmed to maintain pacing for the majority of time.",
+            "This approach significantly reduces tachycardia recurrences to 11% in this study.",
+            "Pacemakers can terminate recurrent episodes of AT or flutter."
+          ]
+        },
+        "section_2": {
+          "title": "Oral dofetilide may be reasonable for prevention of recurrent AT or atrial flutter in ACHD patients",
+          "class": "IIb, B-NR",
+          "details": [
+            "High rate of acute conversion of AT with longer-term efficacy ranging from 70%-85%.",
+            "Association with torsades de pointes in 10%.",
+            "Dofetilide is recommended during 72-hour inpatient monitoring."
+          ]
+        },
+        "section_3": {
+          "title": "Amiodarone may be reasonable for prevention of recurrent AT or atrial flutter in ACHD patients for whom other medications and catheter ablation are ineffective or contraindicated",
+          "class": "IIb, B-NR",
+          "details": [
+            "Effective in maintaining sinus rhythm but with side effects like thyroid disorders or AV block.",
+            "Increased risk with higher dosages.",
+            "Amiodarone is recommended for short-term use."
+          ]
+        },
+        "section_4b": {
+          "title": "Flecainide should not be administered for treatment of SVT in ACHD patients and significant ventricular dysfunction",
+          "class": "III: Harm, B-NR",
+          "details": [
+            "Flecainide shows high risk in patients with complex heart disease or ventricular dysfunction.",
+            "Efficacy was 71% in a study with 579 patients."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Pregnancy and Arrhythmias": "Pregnancy may increase susceptibility to arrhythmias and exacerbation such as frequent and re-entrant tachycardia episodes, especially in those with pre-existing conditions. There is concern for maternal and fetal outcomes due to SVT, and pharmacological treatments for SVT must consider potential fetal toxicity.",
+        "Treatment Recommendations": [
+          {
+            "Recommendation": "Vagal maneuvers are recommended as a first-line treatment for acute SVT in pregnant patients.",
+            "Level": "I C-LD",
+            "Details": "Techniques such as Valsalva and carotid sinus massage are first steps. Key element is applying pressure to increase intrathoracic pressure. Alternatives include applying pressure ice-cold towel to the face."
+          },
+          {
+            "Recommendation": "Adenosine is recommended for acute SVT if vagal maneuvers are ineffective.",
+            "Level": "I C-LD",
+            "Details": "Initial dose is 6 mg IV. Higher doses or repeated doses may be necessary. Expected to have minimal adverse fetal effects."
+          },
+          {
+            "Recommendation": "Synchronized cardioversion is recommended for hemodynamically unstable SVT if pharmacological therapy is ineffective.",
+            "Level": "I C-LD",
+            "Details": "Safe at any pregnancy stage, with monitoring of fetal response. Procedures should be conducted with care to direct energy away from the uterus."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Acute Treatment Recommendations": {
+          "Intravenous Metoprolol or Propranolol": "Reasonable for acute treatment in pregnant patients with SVT when adenosine is ineffective or contraindicated.",
+          "Intravenous Verapamil": "May be reasonable for acute treatment in pregnant patients with SVT when adenosine and beta-blockers are ineffective or contraindicated.",
+          "Intravenous Procainamide": "May be reasonable for acute treatment in pregnant patients with SVT.",
+          "Intravenous Amiodarone": "May be considered for acute treatment in pregnant patients with potentially life-threatening SVT when other therapies are ineffective or contraindicated."
+        },
+        "Ongoing Management Recommendations": {
+          "Drugs for Ongoing Management": [
+            "Digoxin",
+            "Flecainide",
+            "Metoprolol",
+            "Propranolol",
+            "Propafenone",
+            "Sotalol",
+            "Verapamil"
+          ],
+          "Considerations": "Antiarrhythmic drugs should be avoided in the first trimester to minimize the risk of congenital malformations. Beta blockers have been associated with intrauterine growth retardation."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guidelines": [
+          {
+            "class": "IIb",
+            "level_of_evidence": "C-LD",
+            "recommendation": "Catheter ablation may be reasonable in pregnant patients with highly symptomatic, recurrent, drug-refractory SVT with efforts toward minimizing radiation exposure."
+          },
+          {
+            "class": "IIb",
+            "level_of_evidence": "C-LD",
+            "recommendation": "Oral amiodarone may be considered for ongoing management in pregnant patients when treatment of highly symptomatic, recurrent SVT is required and other therapies are ineffective or contraindicated."
+          },
+          {
+            "class": "I",
+            "level_of_evidence": "B-NR",
+            "recommendation": "Diagnostic and therapeutic approaches to SVT should be individualized in patients more than 75 years of age to incorporate age, comorbid illness, physical and cognitive functions, patient preferences, and severity of symptoms."
+          }
+        ],
+        "concerns": [
+          "Radiation exposure risks to the fetus during catheter ablation.",
+          "Potential adverse effects and development of fetal hypothyroidism with oral amiodarone use.",
+          "Increased risks and complications in older patients undergoing ablation."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Quality-of-Life Considerations": {
+          "Issues": "Patients with SVT may experience recurring symptoms like lightheadedness and syncope.",
+          "Impact": "These symptoms affect quality of life, especially in daily activities.",
+          "Study Findings": "Improved quality-of-life scores for patients with SVT post-ablation."
+        },
+        "Cost-Effectiveness": {
+          "Challenges": "High costs of healthcare; evaluating based on societal and patient perspectives.",
+          "Study": "Comparisons of radiofrequency ablation and medical management for cost-effectiveness."
+        },
+        "Shared Decision Making": {
+          "Importance": "Patient inclusion in clinical decision-making processes.",
+          "Approach": "Consideration of personal goals, preferred treatments, and detailed explanation of options by clinicians."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "topic": "The guideline discusses the management of patients with Supraventricular Tachycardia (SVT) and highlights evidence gaps and future research needs.",
+        "SVT": "SVTs are among the most common arrhythmias requiring medical intervention. They can include types such as AVNRT and AVRT.",
+        "advances": "Since the early 2000s, significant advancements in pharmacological and invasive management for SVT have been made. Catheter ablation is particularly effective with a high degree of success and low complication rates.",
+        "research needs": [
+          "Definition of the mechanism and primary etiology of IST should be pursued to find better therapies.",
+          "New pharmacological therapies are needed for patients for whom ablation is not an option.",
+          "Further investigation is needed for therapies targeting atrial channels for patients with AF.",
+          "Both mapping and ablation techniques require further development to ensure successful treatment with minimal risk."
+        ],
+        "clinical trials": "Limited clinical trials focusing on arrhythmic drugs for SVT are available, and data is often extrapolated from trials on patients with AF.",
+        "recommendations": [
+          "Vagal maneuvers should be considered as first-line interventions.",
+          "Research on various drug classes is needed to determine specific efficacies for individual arrhythmias."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "American Heart Association 2015 ACC/AHA/HRS SVT Guideline",
+        "contributors": [
+          "Mark A. Creager, MD, FACC, FAHA, President",
+          "Nancy Brown, Chief Executive Officer",
+          "Rose Marie Robertson, MD, FAHA, Chief Science Officer",
+          "Gayle R. Whitman, PhD, RN, FAHA, FAAN, Senior Vice President",
+          "Marcio Di Buono, PhD, Vice President, Science, Research, and Professional Education",
+          "Jody Hundley, Production Manager, Scientific Publications",
+          "Office of Science Operations",
+          "Acknowledgments to Dr. Daniel B. Mark and Dr. Sarah A. Spinler"
+        ],
+        "references": [
+          {
+            "entry_number": 1,
+            "title": "Committee on Standards for Developing Trustworthy Clinical Practice Guidelines",
+            "context": "Institute of Medicine (U.S.) clinical practice guidelines we can trust."
+          },
+          {
+            "entry_number": 10,
+            "title": "Management of Patients with Atrial Fibrillation",
+            "context": "Report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines."
+          },
+          {
+            "entry_number": 14,
+            "title": "Management of Patients with Valvular Heart Disease",
+            "context": "Report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines."
+          }
+        ],
+        "acknowledgments": [
+          "Dr. Daniel B. Mark for invaluable assistance in reviewing studies",
+          "Dr. Sarah A. Spinler for contributions regarding antiarrhythmic drug therapy"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guidelines": "The document refers to guidelines related to the management and treatment of supraventricular tachycardia. It includes references to various studies and guidelines from organizations like the American College of Cardiology, the American Heart Association, and the Heart Rhythm Society. Topics addressed include treatment approaches, clinical features, demographic influences on the presentation and management of conditions, and procedural techniques.",
+        "studies_and_research": "Numerous studies are cited throughout the document, each contributing to the understanding of various aspects of supraventricular tachycardia. These studies explore patient demographics, treatment outcomes, electrophysiological characteristics, and the effects of different treatment interventions.",
+        "clinical_trials": "The guidelines highlight several clinical trials that investigated the treatment efficacy and management strategies of supraventricular tachycardia, such as the use of adenosine and other pharmacological interventions."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_title": "2015 ACC/AHA/HRS SVT Guideline",
+        "volume": 67,
+        "number": 13,
+        "date": "April 5, 2016",
+        "sections": [
+          {
+            "title": "General Treatment Approaches",
+            "details": [
+              "Electrocardiographic differentiation of SVT.",
+              "Risk of syncope and heart rate management.",
+              "Pacing maneuvers for arrhythmia diagnosis."
+            ]
+          },
+          {
+            "title": "Specific Treatments and Medications",
+            "details": [
+              "Vagal maneuvers for supraventricular tachycardia.",
+              "Use of adenosine and calcium channel blockers.",
+              "Radiofrequency ablation as a treatment option."
+            ]
+          },
+          {
+            "title": "Emergent and Long-term Management",
+            "details": [
+              "Use of catheter ablation for atrial flutter.",
+              "IV adenosine and its alternatives.",
+              "Long-term management with beta-blockers and verapamil."
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Reference to tachyarrhythmias including PAFIS group study on flecainide and propafenone for treatment, and various studies on catheter ablation, electrophysiological interventions, and patient outcomes related to supraventricular tachycardia, focal atrial tachycardia, and AV nodal reentrant tachycardia.": [
+          {
+            "Gene": "SCN5A",
+            "Associated Conditions": [
+              "Atrial Fibrillation"
+            ],
+            "Occurrences": 1,
+            "context": "Increased mortality among SCN5A mutation carriers with atrial fibrillation: findings from the TRAF study."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General clinical information extracted from the document": [
+          "Recommendations and studies regarding catheter mapping and ablation of supraventricular tachycardias are discussed.",
+          "Various studies focus on ablation strategies, including cryoablation and radiofrequency ablation in patients with AVNRT and atypical atrial flutter.",
+          "Efficacy studies of medications like ivabradine and metoprolol succinate in treating inappropriate sinus tachycardia.",
+          "Different approaches to assessing and improving procedural strategies for ablation.",
+          "The importance of anatomical considerations in arrhythmia management is highlighted."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2015 ACC/AHA/HRS SVT Guideline",
+        "Publication": "JACC VOL. 67, NO. 13, 2016",
+        "Date": "April 5, 2016",
+        "Key Topics": [
+          "Radiofrequency catheter ablation",
+          "Atrial flutter",
+          "Ectopic automatic atrial tachycardia",
+          "Pharmacologic management of tachycardias",
+          "Safety and efficacy of antiarrhythmic drugs",
+          "Multifocal atrial tachycardia",
+          "Verapamil treatment",
+          "Beta-blockade in tachycardia management",
+          "Metoprolol in atrial tachycardia",
+          "Flecainide and other Class I antiarrhythmic drugs"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_clinical_information": "This document contains various studies and clinical trials related to the management and treatment of conditions associated with the Wolff-Parkinson-White syndrome, among other cardiac conditions. It discusses the effects of different drugs and procedures like catheter ablation on arrhythmias and accessory pathways. Clinical studies on the safety and efficacy of medications like verapamil, atenolol, digitalis, flecainide, and propafenone are mentioned in the context of treating supraventricular tachycardias and Wolff-Parkinson-White syndrome. Long-term outcomes, patient follow-ups, and procedural success rates are also included."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2015 ACC/AHA/HRS SVT Guideline",
+        "Description": "The guideline covers various aspects of atrial fibrillation, including diagnosis, interventional procedures like catheter ablation, risk assessment, and treatment strategies."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "source": "Image from JACC VOL. 67, NO. 13, 2016, April 5, 2016, which includes references and studies related to atrial fibrillation and atrial flutter treatments and interventions.",
+        "clinical information": [
+          {
+            "study": 341,
+            "details": "Suttorp MJ, Kingma JH, Jessurun ER, et al. effectiveness of class IC antiarrhythmic drugs for acute conversion of paroxysmal atrial fibrillation or flutter after DCC."
+          },
+          {
+            "study": 342,
+            "details": "Stambler BS, Wood MA, Ellenbogen KA, et al. efficacy and safety of repeated intravenous doses of ibutilide for rapid conversion of atrial flutter or fibrillation."
+          },
+          {
+            "study": 343,
+            "details": "Kingma JH, Suttorp MJ. evaluation of flecainide, propafenone, and verapamil during acute pharmacologic conversion."
+          },
+          {
+            "study": 346,
+            "details": "Singh S, Zoble RG, Yellen L, et al. TEC-study showed efficacy and safety of dofetilide in converting atrial fibrillation episodes."
+          },
+          {
+            "study": 361,
+            "details": "Gill MS, Unterberg-Buchwald C, Schmidinger H, et al. analysis of the efficacy of amiodarone for treating atrial tachyarrhythmias in congenital heart diseases."
+          },
+          {
+            "study": 379,
+            "details": "Hsang DT, Monahan KM, Zimetbaum P, et al. focused on radiofrequency ablation versus antiarrhythmic drugs in atrial fibrillation patients."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document_title": "2015 ACC/AHA/HRS SVT Guideline",
+        "journal_reference": "J Am Coll Cardiol. 2016;67(11):e104",
+        "publication_date": "April 5, 2016",
+        "topics": [
+          "Chronic atrial fibrillation",
+          "Antiarrhythmic medications",
+          "Catheter ablation",
+          "Cardiac arrhythmias",
+          "Supraventricular tachycardia",
+          "Ventricular arrhythmias"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "topic": "The text discusses a range of clinical studies and guidelines related to the management of arrhythmias, particularly in the context of congenital heart defects and other related conditions. It covers various treatment approaches including drugs, surgical intervention, and management of specific types of tachycardia, like atrial fibrillation and junctional ectopic tachycardia. The text highlights the use of different medications and the potential outcomes of various treatment protocols."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary": "This document is a clinical guideline focused on the management of supraventricular tachycardia (SVT) in patients, particularly those with congenital heart disease and post-surgical complications. It explores various treatment methods including surgical interventions, ablation techniques, and the management of arrhythmias in specific patient populations such as infants, individuals with Ebstein's anomaly, and post-Fontan operation patients. Additionally, it discusses risk factors, the effectiveness of surgical treatments, and considerations for SVT treatment during pregnancy."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "topics": [
+          "Pregnancy and hypertension",
+          "Catheter ablation",
+          "Elderly patients",
+          "Arrhythmic events",
+          "Quality of life post-ablation",
+          "Healthcare utilization"
+        ],
+        "techniques": [
+          "Radiofrequency catheter ablation",
+          "Arrhythmia treatment",
+          "Electrophysiologic studies"
+        ],
+        "considerations": [
+          "Safety and efficacy of ablation therapies",
+          "Impact of ablation on quality of life and healthcare costs"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2015 ACC/AHA/HRS Guideline for the Management of Adult Patients With Supraventricular Tachycardia",
+        "Date": "April 2014",
+        "Appendix": "Author Relationships with Industry and Other Entities (Relevant)",
+        "Committee Members": [
+          {
+            "Name": "Richard L. Page",
+            "Role": "Chair",
+            "Institution": "University of Wisconsin School of Medicine and Public Health\u2014Chair, Department of Medicine",
+            "Disclosures": "None"
+          },
+          {
+            "Name": "Jos\u00e9 A. Joglar",
+            "Role": "Vice Chair",
+            "Institution": "University of Texas Southwestern Medical Center\u2014Professor of Internal Medicine; Program Director, Clinical Cardiac Electrophysiology",
+            "Disclosures": "None"
+          },
+          {
+            "Name": "Sana M. Al-Khatib",
+            "Role": "Committee Member",
+            "Institution": "Duke Clinical Research Institute\u2014Associate Professor of Medicine",
+            "Disclosures": "None"
+          },
+          {
+            "Name": "Mary A. Caldwell",
+            "Role": "Committee Member",
+            "Institution": "University of California San Francisco\u2014Assistant Professor (Retired)",
+            "Disclosures": "None"
+          },
+          {
+            "Name": "Hugh Calkins",
+            "Role": "Committee Member",
+            "Institution": "Johns Hopkins Hospital\u2014Professor of Medicine, Director of Electrophysiology",
+            "Disclosures": "AtriCure, Boehringer Ingelheim, Daiichi-Sankyo, St. Jude Medical (consultant)"
+          },
+          {
+            "Name": "Jamie B. Conti",
+            "Role": "Committee Member",
+            "Institution": "University of Florida\u2014Professor of Medicine, Chief of Cardiovascular Medicine",
+            "Disclosures": "Medtronic, Boston Scientific, St. Jude Medical (consultant)"
+          },
+          {
+            "Name": "Barbara J. Deal",
+            "Role": "Committee Member",
+            "Institution": "Feinberg School of Medicine, Northwestern University\u2014Professor of Pediatrics; Ann & Robert H. Lurie Children's Hospital of Chicago\u2014Division Head, Cardiology",
+            "Disclosures": "None"
+          },
+          {
+            "Name": "N.A. Mark Estes III",
+            "Role": "Committee Member",
+            "Institution": "Tufts University School of Medicine\u2014Professor of Medicine",
+            "Disclosures": "Boston Scientific, Medtronic, St. Jude Medical (consultant)"
+          },
+          {
+            "Name": "Michael E. Field",
+            "Role": "Committee Member",
+            "Institution": "University of Wisconsin School of Medicine and Public Health\u2014Assistant Professor of Medicine, Director of Cardiac Arrhythmia Service",
+            "Disclosures": "None"
+          },
+          {
+            "Name": "Zachary D. Goldberger",
+            "Role": "Committee Member",
+            "Institution": "University of Washington School of Medicine\u2014Assistant Professor of Medicine",
+            "Disclosures": "None"
+          },
+          {
+            "Name": "Stephen C. Hammill",
+            "Role": "Committee Member",
+            "Institution": "Mayo Clinic\u2014Professor Emeritus of Medicine",
+            "Disclosures": "None"
+          },
+          {
+            "Name": "Julia H. Indik",
+            "Role": "Committee Member",
+            "Institution": "University of Arizona\u2014Associate Professor of Medicine",
+            "Disclosures": "None"
+          },
+          {
+            "Name": "Bruce D. Lindsay",
+            "Role": "Committee Member",
+            "Institution": "Cleveland Clinic Foundation\u2014Professor of Cardiology",
+            "Disclosures": "Biosense Webster, Boston Scientific, Cardiologist, Medtronic (consultant)"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "APPENDIX 1. CONTINUED",
+        "source": "JACC VOL. 67, NO. 13, 2016",
+        "publication_date": "April 5, 2016",
+        "guideline": "2015 ACC/AHA/HRS SVT Guideline",
+        "description": "The document displays the relationships of committee members with industry or other entities relevant to the guideline. The table includes employment positions, consultancy roles, speaking arrangements, ownership interests, personal research affiliations, and other financial benefits.",
+        "note": "The relationships were reviewed and updated with all meetings and calls of the writing committee during the document development process. It does not necessarily reflect total relationships with industry at the time of publication."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_title": "Appendix 2: Reviewer Relationships with Industry and Other Entities (Relevant)\u20142015 ACC/AHA/HRS Guideline for the Management of Adult Patients with Supraventricular Tachycardia (March 2015)",
+        "reviewers": [
+          {
+            "name": "Eugene H. Chung",
+            "representation": "Official Reviewer\u2014HRS",
+            "employment": "University of North Carolina School of Medicine\u2014Associate Professor of Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_financial_benefit": "Zoll Medical\u2020",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Timm L. Dickfeld",
+            "representation": "Official Reviewer\u2014HRS",
+            "employment": "University of Maryland School of Medicine\u2014Associate Professor of Medicine; Baltimore Veterans Affairs Medical Center\u2014Director, Electrophysiology",
+            "consultant": "Biosense Webster",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "Biosense Webster*; General Electric*",
+            "personal_research": "None",
+            "institutional_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Samuel S. Gidding",
+            "representation": "Official Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+            "employment": "Nemours Cardiac Center\u2014Division Chief of Cardiology; Jefferson Medical College\u2014Professor of Pediatrics",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Richard J. Kovacs",
+            "representation": "Official Reviewer\u2014ACC Board of Trustees",
+            "employment": "Krarmer Institute of Cardiology\u2014Professor of Clinical Medicine",
+            "consultant": "Biomedical Systems*",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "Siemens\u2020",
+            "institutional_financial_benefit": "AstraZeneca (DSMB); MED Institute*; Eli Lilly (DSMB)*; Teva Pharmaceuticals",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Byron K. Lee",
+            "representation": "Official Reviewer\u2014AHA",
+            "employment": "University of California San Francisco\u2014Professor of Medicine",
+            "consultant": "Biotronik; Boston Scientific; St. Jude Medical",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "Zoll Medical\u2020",
+            "institutional_financial_benefit": "CarioNet*",
+            "expert_witness": "Defendant, Boehringer Ingelheimer, 2013\u2020"
+          },
+          {
+            "name": "Gregory F. Michaud",
+            "representation": "Official Reviewer\u2014AHA",
+            "employment": "Harvard Medical School\u2014Assistant Professor",
+            "consultant": "Boston Scientific; Medtronic; St. Jude Medical",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "Biosense Webster*; Boston Scientific*; St. Jude Medical*",
+            "institutional_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Simone Musco",
+            "representation": "Official Reviewer\u2014ACC Board of Governors",
+            "employment": "The International Heart Institute of Montana Foundation\u2014Cardiology Research Investigator",
+            "consultant": "None",
+            "speakers_bureau": "Bristol-Myers Squibb; Sanofi-aventis",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Mohan N. Viswanathan",
+            "representation": "Official Reviewer\u2014AHA",
+            "employment": "University of Washington School of Medicine\u2014Assistant Professor of Medicine",
+            "consultant": "Biosense Webster; Siemens\u2020; St. Jude Medical",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "Medtronic*",
+            "institutional_financial_benefit": "None",
+            "expert_witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document": "A continuation of Appendix 2 from a clinical guideline document. It lists several reviewers, their representation, employment, consulting roles, speaking engagements, ownership, research involvement, and potential financial benefits or witness roles.",
+        "reviewers": [
+          {
+            "name": "Seshadri Balaji",
+            "representation": "Content Reviewer",
+            "employment": "Oregon Health and Science University\u2014Professor of Pediatrics and Pediatric Cardiology, Director of Pacing and Electrophysiology",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": [
+              "Medtronic"
+            ],
+            "institutional_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Nancy C. Berg",
+            "representation": "Content Reviewer\u2014ACC Electrophysiology Section",
+            "employment": "Allina Health System",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Noel G. Boyle",
+            "representation": "Content Reviewer\u2014ACC Electrophysiology Section",
+            "employment": "University of California Los Angeles\u2014Clinical Professor of Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "A. John Camm",
+            "representation": "Content Reviewer",
+            "employment": "St. George\u2019s University of London\u2014Professor of Clinical Cardiology",
+            "consultant": [
+              "Bayer",
+              "Biotronik",
+              "Boehringer Ingelheim",
+              "Boston Scientific",
+              "ChanRx",
+              "Daiichi-Sankyo",
+              "Medtronic",
+              "Menarini",
+              "Mitsubishi",
+              "Novartis",
+              "Richmond Pharmacology",
+              "Sanofi-aventis",
+              "Servier Pharmaceuticals",
+              "St. Jude Medical",
+              "Takeda Pharmaceuticals",
+              "Xention"
+            ],
+            "speakers_bureau": [
+              "Pfizer"
+            ],
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Robert M. Campbell",
+            "representation": "Content Reviewer\u2014ACC Adult Congenital and Pediatric Cardiology Section",
+            "employment": "Sibley Heart Center Cardiology\u2014Director, Chief of Cardiac Services; Emory University School of Medicine\u2014Division Director of Pediatric Cardiology, Professor of Pediatrics",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Susan P. Etheridge",
+            "representation": "Content Reviewer\u2014ACC Adult Congenital and Pediatric Cardiology Section",
+            "employment": "University of Utah\u2014Training Program Director",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_benefit": "None",
+            "expert_witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "APPENDIX 2. CONTINUED",
+        "Page": "Page 112",
+        "Description": "Reviewer information including representation, employment, consultancy, speaker bureaus, ownership/partnerships, personal research, and financial benefits.",
+        "Individuals": [
+          {
+            "Name": "Paul A. Friedman",
+            "Role": "Content Reviewer",
+            "Employment": "Mayo Clinic\u2014Professor of Medicine, Cardiovascular Implantable Device Laboratory\u2014Director",
+            "Consultant": "NeoChord",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "Biotronik",
+              "Medtronic",
+              "St. Jude Medical"
+            ],
+            "Financial Benefit": [
+              "Preventice",
+              "Sorin"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Bulent Gorenek",
+            "Role": "Content Reviewer\u2014ACC Electrophysiology Section",
+            "Employment": "Eskisehir Osmangazi University\u2014Professor and Vice Director, Cardiology Department",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Jonathan L. Halperin",
+            "Role": "Content Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+            "Employment": "Mt. Sinai Medical\u2014Professor of Medicine",
+            "Consultant": [
+              "AstraZeneca",
+              "Bayer Healthcare",
+              "Biotronik",
+              "Boehringer Ingelheim",
+              "Boston Scientific",
+              "Daiichi-Sankyo",
+              "Johnson & Johnson",
+              "Medtronic",
+              "Pfizer"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Warren M. Jackman",
+            "Role": "Content Reviewer",
+            "Employment": "University of Oklahoma Health Sciences Center\u2014George Lynn Cross Research Professor Emeritus; Heart Rhythm Institute\u2014Senior Scientific Advisor",
+            "Consultant": [
+              "Biosense Webster",
+              "Boston Scientific",
+              "VytronUS"
+            ],
+            "Speakers Bureau": [
+              "AtriCure",
+              "Biosense Webster",
+              "Biotronik",
+              "Boston Scientific"
+            ],
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "G. Neal Kay",
+            "Role": "Content Reviewer",
+            "Employment": "University of Alabama\u2014Professor Emeritus",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "George J. Klein",
+            "Role": "Content Reviewer",
+            "Employment": "London Health Sciences Center\u2014Chief of Cardiology",
+            "Consultant": [
+              "Biotronik",
+              "Boston Scientific",
+              "Medtronic"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Bradley P. Knight",
+            "Role": "Content Reviewer",
+            "Employment": "Northwestern University\u2014Professor of Cardiology",
+            "Consultant": [
+              "Boston Scientific",
+              "Medtronic"
+            ],
+            "Speakers Bureau": [
+              "Biosense Webster",
+              "Biotronik",
+              "Boston Scientific",
+              "Medtronic"
+            ],
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "John D. Kugler",
+            "Role": "Content Reviewer",
+            "Employment": "University of Nebraska Medical Center\u2014Division Chief of Pediatric Cardiology",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Financial Benefit": "None",
+            "Expert Witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Reviewers": [
+          {
+            "Name": "Fred M. Kusumoto",
+            "Employment": "Mayo Clinic\u2013Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Glenn N. Levine",
+            "Employment": "Baylor College of Medicine\u2013Professor of Medicine; Director, Cardiac Care Unit",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Marco A. Mercader",
+            "Employment": "George Washington University\u2014Associate Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "William M. Miles",
+            "Employment": "University of Florida\u2014Professor of Medicine; Silverstein Chair for Cardiovascular Education; Director of the Clinical Cardiac Electrophysiology Fellowship Program",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "Medtronic (DSMB)",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Fred Morady",
+            "Employment": "University of Michigan\u2014McKay Professor of Cardiovascular Disease",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Melvin M. Scheinman",
+            "Employment": "University of California San Francisco\u2014Professor of Medicine",
+            "Consultant": "Amgen, Biosense Webster, Biotronik, Boston Scientific, Gilead Sciences, Janssen Pharmaceuticals, Medtronic, St. Jude Medical",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Sarah A. Spinler",
+            "Employment": "University of the Sciences, Philadelphia College of Pharmacy\u2014Professor of Clinical Pharmacy",
+            "Consultant": "Portola Pharmaceuticals",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "William G. Stevenson",
+            "Employment": "Brigham and Women's Hospital\u2014Director, Clinical Cardiac Electrophysiology Program",
+            "Consultant": "St. Jude Medical",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "appendix_section": "Appendix 2. Continued",
+        "reviewers": [
+          {
+            "name": "Albert L. Waldo",
+            "representation": "Content Reviewer",
+            "employment": "University Hospitals\u2014Associate Chief of Cardiovascular Medicine for Academic Affairs; Case Western Reserve University\u2014School of Medicine\u2014Professor of Medicine",
+            "consultant": [
+              "AtriCure",
+              "Biosense Webster",
+              "CadiotInsight",
+              "ChanRx",
+              "Daiichi-Sankyo",
+              "Gilead Sciences",
+              "Pfizer",
+              "St. Jude Medical"
+            ],
+            "speakers_bureau": [
+              "Bristol-Myers Squibb",
+              "Janssen Pharmaceuticals",
+              "Pfizer",
+              "St. Jude Medical"
+            ],
+            "ownership/partnership/principal": "None",
+            "personal_research": [
+              "Gilead Sciences"
+            ],
+            "institutional_organizational_or_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Edward Walsh",
+            "representation": "Content Reviewer",
+            "employment": "Harvard Medical School\u2014Professor of Pediatrics; Boston Children's Hospital\u2014Chief, Division of Cardiac Electrophysiology",
+            "consultant": [
+              "Biosense Webster"
+            ],
+            "speakers_bureau": "None",
+            "ownership/partnership/principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_or_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Richard C. Wu",
+            "representation": "Content Reviewer",
+            "employment": "University of Texas Southwestern Medical Center\u2014Professor of Internal Medicine, Director of Cardiac Electrophysiology Lab",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership/partnership/principal": "None",
+            "personal_research": [
+              "Boehringer Ingelheim",
+              "Janssen",
+              "Pharmaceutical",
+              "Medtronic"
+            ],
+            "institutional_organizational_or_other_financial_benefit": "None",
+            "expert_witness": "None"
+          }
+        ],
+        "note": "This table represents the relationships of reviewers with industry and other entities relevant to this document. A person is considered to have a significant interest in a business if the interest represents ownership of \u22655% of the voting stock or share or if funds received exceed 5% of the person\u2019s gross income from the previous year."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "abbreviations": {
+          "ACHD": "adult congenital heart disease",
+          "AF": "atrial fibrillation",
+          "AT": "atrial tachycardia",
+          "AV": "atrioventricular",
+          "AVNRT": "atrioventricular nodal reentrant tachycardia",
+          "AVRT": "atrioventricular reentrant tachycardia",
+          "BP": "blood pressure",
+          "CTI": "cavotricuspid isthmus",
+          "ECG": "electrocardiogram/electrocardiographic",
+          "ERC": "Evidence Review Committee",
+          "EP": "electrophysiological",
+          "GWC": "guideline writing committee",
+          "IST": "inappropriate sinus tachycardia",
+          "MAT": "multifocal atrial tachycardia",
+          "PJRT": "permanent form of junctional reciprocating tachycardia",
+          "PSVT": "paroxysmal supraventricular tachycardia",
+          "RCT": "randomized controlled trial",
+          "SCD": "sudden cardiac death",
+          "SVT": "supraventricular tachycardia",
+          "VT": "ventricular tachycardia",
+          "WPW": "Wolff-Parkinson-White"
+        }
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "CYP3A4",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": [
+        "Amiodarone is a substrate of and inhibits P-glycoprotein and CYP2D6 (moderate), CYP2C8 (moderate), and CYP3A4 (weak); amiodarone is a substrate for CYP3A4 (major) and CYP2C8 (major); amiodarone is an inhibitor of OCT2."
+      ]
+    },
+    {
+      "Gene": "CYP2C8",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": [
+        "Amiodarone is a substrate of and inhibits P-glycoprotein and CYP2D6 (moderate), CYP2C8 (moderate), and CYP3A4 (weak); amiodarone is a substrate for CYP3A4 (major) and CYP2C8 (major); amiodarone is an inhibitor of OCT2."
+      ]
+    },
+    {
+      "Gene": "CYP2D6",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": [
+        "Amiodarone is a substrate of and inhibits P-glycoprotein and CYP2D6 (moderate), CYP2C8 (moderate), and CYP3A4 (weak); amiodarone is a substrate for CYP3A4 (major) and CYP2C8 (major); amiodarone is an inhibitor of OCT2."
+      ]
+    },
+    {
+      "Gene": "OCT2",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": [
+        "Amiodarone is a substrate of and inhibits P-glycoprotein and CYP2D6 (moderate), CYP2C8 (moderate), and CYP3A4 (weak); amiodarone is a substrate for CYP3A4 (major) and CYP2C8 (major); amiodarone is an inhibitor of OCT2."
+      ]
+    }
+  ]
+}

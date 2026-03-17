@@ -1,0 +1,79 @@
+{
+  "content": {
+    "Title": "Revascularization in SIHD",
+    "Recommendations": [
+      {
+        "Type": "Left ventricular dysfunction and multivessel CAD",
+        "Recommendations": [
+          {
+            "Class": "1",
+            "Level of Evidence": "B-R",
+            "Details": "CABG is recommended to improve survival in patients with SIHD and multivessel CAD with severe left ventricular systolic dysfunction (ejection fraction <35%)."
+          },
+          {
+            "Class": "2a",
+            "Level of Evidence": "B-NR",
+            "Details": "CABG including a left internal mammary artery graft to the LAD is reasonable to improve survival in patients with mild-to-moderate left ventricular systolic dysfunction (ejection fraction 35%-50%)."
+          }
+        ]
+      },
+      {
+        "Type": "Left main CAD",
+        "Recommendations": [
+          {
+            "Class": "1",
+            "Level of Evidence": "B-R",
+            "Details": "CABG is recommended to improve survival in patients with significant left main stenosis."
+          },
+          {
+            "Class": "2a",
+            "Level of Evidence": "B-NR",
+            "Details": "PCI is reasonable to improve survival in selected patients for whom PCI can provide equivalent revascularization to that possible with CABG."
+          }
+        ]
+      },
+      {
+        "Type": "Multivessel CAD",
+        "Recommendations": [
+          {
+            "Class": "2b",
+            "Level of Evidence": "B-R",
+            "Details": "CABG may be reasonable to improve survival in patients with significant stenosis in 3 major coronary arteries (with or without proximal LAD) and suitable anatomy."
+          },
+          {
+            "Class": "2b",
+            "Level of Evidence": "B-R",
+            "Details": "The usefulness of PCI to improve survival is uncertain in patients with significant stenosis in 3 major coronary arteries suitable for PCI."
+          }
+        ]
+      },
+      {
+        "Type": "Stenosis in the proximal LAD artery",
+        "Recommendations": [
+          {
+            "Class": "2b",
+            "Level of Evidence": "B-R",
+            "Details": "The usefulness of coronary revascularization to improve survival is uncertain in patients with normal left ventricular ejection fraction and stenosis in the proximal LAD."
+          }
+        ]
+      },
+      {
+        "Type": "Single- or double-vessel disease not involving the proximal LAD",
+        "Recommendations": [
+          {
+            "Class": "3",
+            "Level of Evidence": "No Benefit",
+            "Details": "Coronary revascularization is not recommended to improve survival in patients with normal left ventricular ejection fraction, 1- or 2-vessel CAD involving the proximal LAD."
+          },
+          {
+            "Class": "3",
+            "Level of Evidence": "Harm",
+            "Details": "Coronary revascularization should not be performed solely to improve survival in patients with \u22651 coronary arteries not anatomically or functionally significant."
+          }
+        ]
+      }
+    ],
+    "Synopsis": "Studies show CABG offers survival benefit over medical therapy in multiple patient subsets, including those with left main CAD, triple-vessel CAD, and ischemic cardiomyopathy. The benefits of PCI vs medical therapy are subject to clinical decisions weighing risk and suitability."
+  },
+  "genes": []
+}

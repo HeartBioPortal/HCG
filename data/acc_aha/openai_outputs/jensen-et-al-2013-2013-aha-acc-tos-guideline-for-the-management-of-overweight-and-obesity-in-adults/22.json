@@ -1,0 +1,30 @@
+{
+  "content": {
+    "guideline_title": "2013 AHA/ACC/TOS Guideline for Obesity",
+    "strength_of_evidence": {
+      "lower_fat_vs_higher_carbohydrate_diets": "Low",
+      "higher_protein_diets_weight_loss": {
+        "general_population": "High",
+        "weight_loss_and_nutrients": "Low"
+      },
+      "low_carbohydrate_diets_weight_loss": "Low",
+      "low_glycemic_load_diets": "Low",
+      "dietary_patterns_weight_loss": "Low",
+      "meal_replacement_liquid_diets": "Low",
+      "very_low_calorie_diet_strategies": "Low"
+    },
+    "dietary_approaches": {
+      "higher_protein": "Recommendations to increase dietary protein (25% of total calories) in overweight and obese adults result in weight loss equivalent to a typical protein diet (15% of calories).",
+      "low_carbohydrate": "No differences in weight loss at 6 months were observed between carbohydrate-restricted and low-fat diets.",
+      "glycemic_load": "Both high and low glycemic-load diets produce comparable weight loss over 6 months.",
+      "dietary_patterns": "Calorie-restricted dietary patterns can produce weight loss comparable to an energy-restricted, lower-fat diet.",
+      "meal_replacement": "Liquid and bar meal replacements associated with increased weight loss at up to 6 months.",
+      "very_low_calorie": "Insufficient evidence to comment on the value of very-low-calorie diet interventions for weight loss."
+    },
+    "questions": [
+      "What is the efficacy of comprehensive lifestyle intervention programs in weight management for overweight and obese adults?",
+      "What characteristics of delivering comprehensive lifestyle interventions are associated with weight loss or maintenance?"
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,36 @@
+{
+  "content": {
+    "The role of electrophysiological testing in Brugada syndrome is controversial, with low predictive value for certain events. ECG and symptoms are better for risk stratification in this context. Only a single gene, SCN5A, is linked to Brugada syndrome but does not fully predict outcomes. Patients often lack ventricular extrasystoles, making therapeutic approaches critical. Catecholaminergic polymorphic ventricular tachycardia (VT) is related to stress and requires different management strategies, often involving ICDs. VF prevention could involve beta blockers and ICDs, especially in patients with specific structural heart conditions or genetic susceptibilities. Advanced heart failure and transplant patients also need careful ICD consideration to manage risks and maintain quality of life.": "genes",
+    "SCN5A": [
+      {
+        "Gene": "SCN5A",
+        "Associated Conditions": [
+          "Brugada syndrome"
+        ],
+        "Occurrences": 1,
+        "context": "Specific mutations in the SCN5A gene do not identify a subset of patients at higher risk of cardiac events."
+      }
+    ],
+    "RYR2": [
+      {
+        "Gene": "RYR2",
+        "Associated Conditions": [
+          "Catecholaminergic polymorphic VT"
+        ],
+        "Occurrences": 1,
+        "context": "Approximately one-half of the autosomal dominant cases are caused by mutations in the gene encoding the cardiac ryanodine receptor (RyR2)."
+      }
+    ],
+    "CASQ2": [
+      {
+        "Gene": "CASQ2",
+        "Associated Conditions": [
+          "Catecholaminergic polymorphic VT"
+        ],
+        "Occurrences": 1,
+        "context": "Mutations in the gene that encodes calsequestrin (CASQ2) have been associated with the recessive form of catecholaminergic polymorphic VT."
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,134 @@
+{
+  "content": {
+    "Study Focus": "Outcome of Death or Myocardial Infarction in Clinical Trials of GP IIb-IIIa Antagonists",
+    "Trial Information": [
+      {
+        "Trial": "PCI IMPACT II (1)",
+        "Study Population": "All PTCA",
+        "Drug": "eptifibatide",
+        "Results": {
+          "Placebo": {
+            "n": 112,
+            "Total": 1328,
+            "%": 8.4
+          },
+          "IIb-IIIA": {
+            "n": 93,
+            "Total": 1349,
+            "%": 6.9
+          }
+        },
+        "ARR": 0.015,
+        "RR": 0.83,
+        "95% CI": "0.63 to 1.06",
+        "p": 0.134
+      },
+      {
+        "Trial": "ESPRIT (2)",
+        "Study Population": "Elective stenting",
+        "Drug": "eptifibatide",
+        "Results": {
+          "Placebo": {
+            "n": 104,
+            "Total": 1024,
+            "%": 10.2
+          },
+          "IIb-IIIA": {
+            "n": 66,
+            "Total": 1040,
+            "%": 6.4
+          }
+        },
+        "ARR": 0.038,
+        "RR": 0.62,
+        "95% CI": "0.46 to 0.84",
+        "p": 0.0016
+      },
+      {
+        "Trial": "ISAR-REACT (3)",
+        "Study Population": "Elective stenting with clopidogrel pretreatment",
+        "Drug": "abciximab",
+        "Results": {
+          "Placebo": {
+            "n": 42,
+            "Total": 1080,
+            "%": 3.9
+          },
+          "IIb-IIIA": {
+            "n": 43,
+            "Total": 1079,
+            "%": 4.0
+          }
+        },
+        "ARR": null,
+        "RR": 1.02,
+        "95% CI": "0.68 to 1.55",
+        "p": 0.91
+      },
+      {
+        "Trial": "PURSUIT (4)",
+        "Study Population": "UA/NQWMI",
+        "Drug": "eptifibatide",
+        "Results": {
+          "Placebo": {
+            "n": 744,
+            "Total": 4739,
+            "%": 15.7
+          },
+          "IIb-IIIA": {
+            "n": 67,
+            "Total": 4722,
+            "%": 1.42
+          }
+        },
+        "ARR": 0.01428,
+        "RR": 0.09,
+        "95% CI": "0.07 to 0.12",
+        "p": "Less than 0.0001"
+      },
+      {
+        "Trial": "GUSTO IV ACS (5)",
+        "Study Population": "UA/NQWMI",
+        "Drug": "abciximab",
+        "Results": {
+          "Placebo": {
+            "n": 209,
+            "Total": 2598,
+            "%": 8.0
+          },
+          "IIb-IIIA": {
+            "n": 450,
+            "Total": 5202,
+            "%": 8.7
+          }
+        },
+        "ARR": -0.006,
+        "RR": 1.08,
+        "95% CI": "0.92 to 1.26",
+        "p": 0.36
+      },
+      {
+        "Trial": "PARAGON B (6)",
+        "Study Population": "UA/NQWMI",
+        "Drug": "lamifiban",
+        "Results": {
+          "Placebo": {
+            "n": 296,
+            "Total": 2597,
+            "%": 11.4
+          },
+          "IIb-IIIA": {
+            "n": 278,
+            "Total": 2628,
+            "%": 10.6
+          }
+        },
+        "ARR": 0.0081,
+        "RR": 0.94,
+        "95% CI": "0.77 to 1.09",
+        "p": 0.32
+      }
+    ]
+  },
+  "genes": []
+}

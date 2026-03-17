@@ -1,0 +1,100 @@
+{
+  "content": {
+    "guideline_title": "2023 Guideline for the Diagnosis and Management of Atrial Fibrillation",
+    "scope": "This document includes a review of previously published guidelines to avoid repeating existing recommendations.",
+    "search_period": "May 2022 - November 2022",
+    "evidence_review": "Literature from research involving human subjects, indexed in MEDLINE, EMBASE, Cochrane Library, the Agency for Healthcare Research and Quality, among others.",
+    "key_topics": [
+      "atrial fibrillation",
+      "pregnancy",
+      "heart defects, congenital",
+      "smoking",
+      "cardiomyopathy, hypertrophic",
+      "alcohol",
+      "caffeine",
+      "sleep",
+      "fitness",
+      "obesity",
+      "anticoagulants",
+      "diabetes",
+      "rhythm monitoring",
+      "heart failure",
+      "genetics",
+      "heart valve diseases",
+      "rate control",
+      "catheter ablation",
+      "social determinants of health",
+      "chronic kidney disease",
+      "sinus rhythm",
+      "chronic coronary syndromes",
+      "left atrial appendage occlusion",
+      "left atrial appendage exclusion",
+      "cardiac surgical procedures",
+      "amiodarone",
+      "electrical cardioversion",
+      "thromboembolism",
+      "rhythm control",
+      "Wolff-Parkinson-White syndrome"
+    ],
+    "writing_committee": "Consisted of cardiologists, cardiac electrophysiologists, surgeons, pharmacists, and patient representatives/lay stakeholders.",
+    "document_review": "Peer review committee with representatives from ACC, AHA, and collaborating organizations.",
+    "associated_guidelines": [
+      {
+        "title": "Atrial fibrillation",
+        "organization": "AHA/ACC/HRS",
+        "year": "2019-2014"
+      },
+      {
+        "title": "Atrial fibrillation",
+        "organization": "ESC/EACTS/EHRA",
+        "year": "2021"
+      },
+      {
+        "title": "Atrial fibrillation",
+        "organization": "CCS",
+        "year": "2020"
+      },
+      {
+        "title": "Management of adults with congenital heart disease",
+        "organization": "AHA/ACC",
+        "year": "2018"
+      },
+      {
+        "title": "Diagnosis and treatment of patients with hypertrophic cardiomyopathy",
+        "organization": "AHA/ACC",
+        "year": "2020"
+      },
+      {
+        "title": "Management of patients with valvular heart disease",
+        "organization": "ACC/AHA",
+        "year": "2021"
+      },
+      {
+        "title": "Coronary artery revascularization",
+        "organization": "ACC/AHA/AATS/STS/SCAI",
+        "year": "2021"
+      },
+      {
+        "title": "Evaluation and diagnosis of chest pain",
+        "organization": "AHA/ACC/ASE/CHES/SAEM/SCCT/SCMR",
+        "year": "2021"
+      },
+      {
+        "title": "Prevention of stroke in patients with stroke and transient ischemic attack",
+        "organization": "AHA/ASA",
+        "year": "2021"
+      },
+      {
+        "title": "Management of heart failure",
+        "organization": "AHA/ACC/HFSA",
+        "year": "2021"
+      },
+      {
+        "title": "Management of arrhythmias in pregnancy",
+        "organization": "HRS",
+        "year": "2023"
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,20 @@
+{
+  "content": {
+    "Guideline Focus": "The guideline focuses on the strength of recommendations and quality of evidence regarding cardiovascular disease (CVD) risk factors.",
+    "Strength of Recommendations": {
+      "A": "Strong recommendation with substantial net benefit.",
+      "B": "Moderate recommendation with moderate to substantial net benefit.",
+      "C": "Weak recommendation with a small net benefit.",
+      "D": "Recommendation against with no net benefit or where harms outweigh benefits.",
+      "E": "Expert opinion where evidence is unclear or conflicting.",
+      "N": "No recommendation for or against with unclear or conflicting evidence."
+    },
+    "Quality of Evidence": {
+      "High": "Well-designed RCTs and meta-analyses with strong confidence estimates.",
+      "Moderate": "RCTs with minor limitations and meta-analyses with moderate confidence.",
+      "Low": "RCTs or observational studies with major limitations, affecting confidence and estimates."
+    },
+    "CVD Risk Factors": "The Work Group focused on a lifestyle document including dietary approaches and physical activity, while excluding interventions with minimal effects on CVD. Exercise evidence indicates a dose-dependent link with CVD rates."
+  },
+  "genes": []
+}

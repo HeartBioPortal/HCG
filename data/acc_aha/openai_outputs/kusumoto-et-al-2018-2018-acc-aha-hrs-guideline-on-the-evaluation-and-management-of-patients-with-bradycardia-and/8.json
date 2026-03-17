@@ -1,0 +1,39 @@
+{
+  "content": {
+    "Recommendation Classes": {
+      "Class I": "Strong recommendation (Benefit >>> Risk)",
+      "Class IIa": "Moderate recommendation (Benefit >> Risk)",
+      "Class IIb": "Weak recommendation (Benefit \u2265 Risk)",
+      "Class III No Benefit": "Moderate evidence for no benefit (Benefit = Risk or \u2264 Risk)",
+      "Class III Harm": "Strong evidence for harm (Risk > Benefit)"
+    },
+    "Levels of Evidence": {
+      "Level A": "High-quality evidence from multiple RCTs",
+      "Level B-R": "Moderate-quality evidence from RCTs",
+      "Level B-NR": "Moderate-quality evidence from nonrandomized studies",
+      "Level C-LD": "Limited data from observational studies",
+      "Level C-EO": "Expert opinion based on clinical experience"
+    },
+    "Clinical Context": {
+      "Conditions Mentioned": [
+        "Bradycardia",
+        "Atrial Arrhythmias",
+        "Tachy-brady Syndrome",
+        "Sinus Node Dysfunction (SND)",
+        "Ischemic Heart Disease",
+        "Heart Failure",
+        "Valvular Heart Disease",
+        "Cerebrovascular Disease",
+        "Atrial Fibrillation (AF)"
+      ],
+      "Associated Studies": [
+        "Atherosclerosis Risk In Communities (ARIC)",
+        "Cardiovascular Health Study (CHS)"
+      ],
+      "Treatments": [
+        "Permanent Pacemaker (PPM)"
+      ]
+    }
+  },
+  "genes": []
+}

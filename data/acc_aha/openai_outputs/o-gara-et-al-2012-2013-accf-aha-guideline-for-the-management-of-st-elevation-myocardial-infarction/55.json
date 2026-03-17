@@ -1,0 +1,36 @@
+{
+  "content": {
+    "general_information": [
+      {
+        "source": "Lancet",
+        "reference": "2011;377:1409\u201320",
+        "context": "Errata in various volumes of Lancet; discussing updates and corrections to previous publications."
+      },
+      {
+        "study_details": "Glucose-lowering targets for patients with cardiovascular disease.",
+        "authors": "Kosiborod M, McGuire DK.",
+        "journal": "Circulation",
+        "year": 2010,
+        "reference": "122:2744\u201356",
+        "context": "Focus on patient management of patients with cardiovascular disease after reviewing glucose-lowering strategies."
+      },
+      {
+        "study_details": "U-shaped relationship of blood glucose with adverse outcomes among acute coronary syndrome patients.",
+        "authors": "Pinto DS, Skolnick AH, Kirtane AJ, et al.",
+        "journal": "J Am Coll Cardiol",
+        "year": 2005,
+        "reference": "46:178\u201380",
+        "context": "Examines the relationship between blood glucose levels and outcomes in ACS patients."
+      },
+      {
+        "clinical_update": "Prophylactic implantation of a defibrillator after myocardial infarction.",
+        "authors": "Hohnloser SH, Kuck KH, Dorian P, et al.",
+        "journal": "N Engl J Med",
+        "year": 2004,
+        "reference": "351:2481\u20138",
+        "context": "Discusses the outcomes of defibrillator implantation post-MI to prevent future cardiac events."
+      }
+    ]
+  },
+  "genes": []
+}

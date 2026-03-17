@@ -1,0 +1,46 @@
+{
+  "content": {
+    "title": "2024 Hypertrophic Cardiomyopathy Guideline",
+    "sections": [
+      {
+        "title": "Pediatric Patients with HCM",
+        "description": "Recurrent episodes of VT in pediatric patients with HCM are generally treated with beta blockers. Antiarrhythmic agents may be used to address symptoms, suppress life-threatening events, or prevent unnecessary ICD shocks. ICD shocks have been linked to psychological trauma in pediatric patients. Sympathetic denervation has been reported with limited data."
+      },
+      {
+        "title": "Patient Management",
+        "description": "In patients with HCM and recurrent ventricular arrhythmias, additional therapies like epicardial ablation may be required. Freedom from VT was found in patients post-ablation. Combined epicardial and endocardial ablation is safe for treating monomorphic VT."
+      },
+      {
+        "title": "Lifestyle Considerations for Patients with HCM",
+        "description": "Recreational physical activity is beneficial for patients with mild-to-moderate intensity exercise to improve fitness and quality of life. Comprehensive evaluation is recommended for athletes with HCM prior to competitive sports participation."
+      }
+    ],
+    "guidelines": [
+      "For patients with HCM, engaging in mild-to-moderate intensity exercise is beneficial for overall health.",
+      "Athletes with HCM should undergo a comprehensive evaluation before participating in sports.",
+      "Individuals who are genotype-positive, phenotype-negative for HCM can participate in competitive sports.",
+      "Participation in vigorous recreational activities is reasonable with professional evaluation."
+    ],
+    "recommendations": {
+      "COR": [
+        "1 - Recommended",
+        "2a - Reasonable"
+      ],
+      "LOE": [
+        "B-R - Based on randomized trials",
+        "C-EO - Based on expert opinion",
+        "B-NR - Based on non-randomized trials"
+      ]
+    }
+  },
+  "genes": [
+    {
+      "Gene": "GENE_HCM",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 2,
+      "context": "Individuals who are genotype-positive, phenotype-negative for HCM, participation in competitive sports of any intensity is reasonable. In pediatric patients, age and heart size must be taken into account when considering ablation."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "content": {
+    "title": "Mesenteric Arterial Disease: Recommendations",
+    "sections": [
+      {
+        "title": "Acute Intestinal Ischemia",
+        "subsections": [
+          {
+            "title": "Acute Intestinal Ischemia Caused by Arterial Obstruction",
+            "diagnosis": {
+              "class1": [
+                "Patients with acute abdominal pain out of proportion to physical findings and with a history of cardiovascular disease should be suspected of having acute intestinal ischemia.",
+                "Patients who develop acute abdominal pain after arterial interventions involving major arteries or with certain cardiac conditions should be suspected of having acute intestinal ischemia."
+              ],
+              "class3": [
+                "Duplex sonography of the abdomen is not appropriate for suspected acute intestinal ischemia."
+              ]
+            },
+            "surgicalTreatment": {
+              "class1": [
+                "Surgical treatment involves bowel resection and 'second look' operations after revascularization."
+              ]
+            },
+            "endovascularTreatment": {
+              "class2b": [
+                "Percutaneous interventions are appropriate for selected patients but may still require laparotomy."
+              ]
+            }
+          },
+          {
+            "title": "Acute Nonocclusive Intestinal Ischemia",
+            "etiology": {
+              "class1": [
+                "Nonocclusive ischemia should be suspected in patients with low blood flow or shock, patients using vasoconstrictor substances, and those undergoing abdominal surgery."
+              ]
+            },
+            "diagnosis": {
+              "class1": [
+                "Arteriography is indicated in suspected nonocclusive ischemia not responding to treatment."
+              ]
+            },
+            "treatment": {
+              "class1": [
+                "Immediate treatment of underlying shock state is crucial.",
+                "Laparotomy and bowel resection is indicated for patients with persistent symptoms."
+              ],
+              "class2a": [
+                "Transcatheter administration of vasodilators is indicated for specific cases of nonocclusive ischemia."
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Chronic Intestinal Ischemia",
+        "subsections": [
+          {
+            "title": "Diagnosis",
+            "class1": [
+              "Chronic intestinal ischemia should be suspected with abdominal pain and weight loss, especially with cardiovascular disease.",
+              "Duplex ultrasound, CTA, and MRA are useful tests.",
+              "Diagnostic angiography should be obtained if noninvasive testing is unavailable."
+            ]
+          },
+          {
+            "title": "Endovascular Treatment for Chronic Intestinal Ischemia",
+            "class1": [
+              "Percutaneous endovascular treatment is indicated for chronic intestinal ischemia."
+            ]
+          },
+          {
+            "title": "Surgical Treatment",
+            "class1": [
+              "Surgical treatment is indicated for chronic intestinal ischemia."
+            ],
+            "class2b": [
+              "Revascularization may be considered for asymptomatic obstructions in specific cases."
+            ],
+            "class3": [
+              "Surgical revascularization is not indicated for patients with asymptomatic obstructions unless undergoing surgery for other conditions."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

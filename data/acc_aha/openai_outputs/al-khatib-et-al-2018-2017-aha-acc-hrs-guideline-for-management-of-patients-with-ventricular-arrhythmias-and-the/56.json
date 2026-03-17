@@ -1,0 +1,20 @@
+{
+  "content": {
+    "Cor": "IIa",
+    "LoE": "B-NR",
+    "Recommendation": "In patients with HFrEF who are awaiting heart transplant and who otherwise would not qualify for an ICD (e.g., NYHA class IV and/or use of inotropes) with a plan to discharge home, an ICD is reasonable.",
+    "Synopsis": [
+      "Patients with HFrEF are at an increased risk for VA and SCD. The risk is increased irrespective of HFrEF etiology.",
+      "Medical therapy with neurohormonal agents decreases the risk of SCD by reducing both the incidence of VA and disease progression.",
+      "Although many of the risk factors are shared among HFrEF patients, the reason that SCD strikes a particular individual is usually unknown; some individuals may have a genetic susceptibility."
+    ],
+    "Recommendation-Specific Supportive Text": [
+      "Many patients with advanced HF listed for heart transplant would not otherwise qualify for ICD given the severity of illness including NYHA class IV status and/or use of inotropic infusion."
+    ],
+    "Other Information": [
+      "For those patients with an LVAD, the decision to place an ICD is generally independent of whether they are awaiting heart transplant.",
+      "Nearly all deaths among patients with HFpEF are sudden; a key challenge is identifying patients at risk before preventive therapies."
+    ]
+  },
+  "genes": []
+}

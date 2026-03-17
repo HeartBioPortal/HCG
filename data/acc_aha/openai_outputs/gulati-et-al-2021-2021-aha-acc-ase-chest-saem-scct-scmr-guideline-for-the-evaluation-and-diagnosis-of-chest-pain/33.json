@@ -1,0 +1,9 @@
+{
+  "content": {
+    "Evaluation Algorithm": "The algorithm is for patients with suspected ACS (Acute Coronary Syndrome) at intermediate risk with no known CAD (Coronary Artery Disease). It includes steps based on prior testing results, considering recent negative tests, stress testing, CCTA (Coronary Computed Tomography Angiography), and invasive coronary angiography. It guides management decisions based on the presence of stenosis, ischemia, or inconclusive results.",
+    "Test Choice": "Guided by local availability and expertise. Recent negative tests include normal CCTA within 2-5 years or negative stress tests within 1 year.",
+    "Stress Testing": "Outlined for emergency department patients needing further evaluation, emphasizing exercise ECG and stress echocardiography. Studies show safety and effectiveness in triage, reducing hospital stay, and identifying high-risk patients.",
+    "Other Testing Considerations": "CCTA is highlighted for ruling out stenosis. FFR-CT usage does not necessarily require additional testing. Patients with coronary artery stenosis (40-90%) require further assessment, potentially with CCTA or FFR-CT."
+  },
+  "genes": []
+}

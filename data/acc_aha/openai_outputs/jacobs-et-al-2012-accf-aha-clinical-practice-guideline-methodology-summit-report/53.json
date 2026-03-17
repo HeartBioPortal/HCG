@@ -1,0 +1,50 @@
+{
+  "content": {
+    "Title": "ACCF/AHA Guideline Methodology Summit Report",
+    "Date": "January 15, 2013",
+    "Volume": "61",
+    "Issue": "2",
+    "Page": "213-65",
+    "Section": "5. Standards for Reporting Systematic Reviews",
+    "IOM Standards and Elements": [
+      {
+        "5.2": "Peer review the draft report",
+        "5.2.1": "Use a third party to manage the peer review process",
+        "5.2.2": "Provide a public comment period for the report and publicly report on disposition of comments"
+      },
+      {
+        "5.3": "Publish the final report in a manner that ensures free public access"
+      }
+    ],
+    "ACCF/AHA Current Methodology": [
+      {
+        "5.2.1": "ACCF/AHA CPG peer review is managed by ACCF/AHA document staff."
+      },
+      {
+        "5.2.2": "Currently, while the ACCF/AHA CPGs undergo an extensive peer review process that includes scientific and clinical content experts in addition to partnering, collaborating, and other relevant professional societies, CPGs are not opened to public review and comment. See Workgroups 1 and 2."
+      }
+    ],
+    "Workgroup 5 Proposal": [
+      {
+        "5.2.1": "The ACCF/AHA has no control over independently conducted SR, but when the ACCF/AHA conducts its own SR and publishes it, it will be independently reviewed through the journal\u2019s review process."
+      },
+      {
+        "5.2.2": "The public is able to comment on CPGs through letters to the editor (postpublication). The ACCF/AHA has no control over independently conducted SR, but when the ACCF/AHA conducts its own SR, external stakeholders and patient representatives should be included in this expanded process, and the SR protocol should be open to public comment."
+      },
+      {
+        "5.3": "SRs commissioned by the ACCF and AHA will be hyperlinked from the CPG and made available through free public access. SRs performed by other groups and used as part of the CPG process may or may not be available for free public access."
+      }
+    ],
+    "Abbreviations": {
+      "ACCF": "American College of Cardiology Foundation",
+      "AHA": "American Heart Association",
+      "COI": "conflict of interest",
+      "CPG": "clinical practice guideline",
+      "GWC": "guideline writing committee",
+      "IOM": "Institute of Medicine",
+      "RWI": "relationships with industry and other entities",
+      "SR": "systematic review"
+    }
+  },
+  "genes": []
+}

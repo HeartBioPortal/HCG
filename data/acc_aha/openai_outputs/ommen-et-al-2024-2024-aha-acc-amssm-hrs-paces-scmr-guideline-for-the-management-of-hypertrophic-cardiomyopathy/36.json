@@ -1,0 +1,28 @@
+{
+  "content": {
+    "topic": "Hypertrophic Cardiomyopathy (HCM) ICD Guidelines",
+    "recommendations": [
+      {
+        "recommendation": "2a B-NR",
+        "details": "In patients with HCM who are receiving an ICD, dual-chamber ICDs are reasonable for patients with a need for atrial or atrioventricular sequential pacing for bradycardia/conduction abnormalities, or as an attempt to relieve symptoms of obstructive HCM (most commonly in patients >65 years of age)."
+      },
+      {
+        "recommendation": "2a C-LD",
+        "details": "In selected adult patients with nonobstructive HCM receiving an ICD who have NYHA class II to ambulatory class IV HF, left bundle branch block (LBBB), and LVEF <50%, cardiac resynchronization therapy (CRT) for symptom reduction is reasonable."
+      },
+      {
+        "recommendation": "2b C-LD",
+        "details": "In patients with HCM in whom a decision has been made for ICD implantation and who have paroxysmal atrial tachycardias or AF, dual-chamber ICDs may be reasonable, but this decision must be balanced against higher complication rates of dual-chamber devices."
+      }
+    ],
+    "considerations": [
+      "The decision of which type of ICD to implant is nuanced with risks and benefits.",
+      "Considerations include transvenous versus subcutaneous ICD, single-chamber versus dual-chamber vs CRT devices, and defibrillation coils.",
+      "ICD implantation in children raises additional concerns, primarily related to higher baseline heart rates and increased risk of lead fracture.",
+      "Transvenous leads have higher failure rates, while subcutaneous ICDs might pose higher complication risks for smaller individuals.",
+      "Benefits of transvenous devices include pacing ability for bradycardia and reduced size, whereas subcutaneous ICD advantages are lack of a transvenous lead and fewer lead failures.",
+      "Shared decision-making should incorporate patient preferences, lifestyle, and risk factors, especially for the need for bradycardia or VT termination pacing."
+    ]
+  },
+  "genes": []
+}

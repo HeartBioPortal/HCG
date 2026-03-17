@@ -1,0 +1,17 @@
+{
+  "content": {
+    "Synopsis": "Cardiogenic shock is a critical condition characterized by reduced cardiac output and end-organ dysfunction, commonly identified by hypotension (SBP <90 mm Hg). It typically accompanies advanced heart failure or myocardial dysfunction without significant history of heart failure, acute myocardial infarction (MI), or post-cardiac surgery. Management involves early recognition, invasive hemodynamic assessment, and utilization of pharmacological and mechanical circulatory support (MCS) systems.",
+    "Recommendations": [
+      "Management by a multidisciplinary team.",
+      "Consideration of pulmonary artery (PA) line placement in some cases to guide hemodynamic management.",
+      "For unreceptive patients to initial measures, triaging to centers with MCS capability may be necessary.",
+      "Intravenous inotropic support can be used to enhance cardiac output in appropriate cases."
+    ],
+    "Clinical Criteria": {
+      "Shock Clinical Criteria": "SBP <90 mm Hg for >30 min, with possible need for vasopressors or additional criteria like reduced urine output.",
+      "Hemodynamic Criteria": "SBP <90 mm Hg or mean BP <60 mm Hg, cardiac index <2.2 L/min/m\u00b2, pulmonary capillary wedge pressure >15 mm Hg, and other considerations like cardiac power output and shock index."
+    },
+    "Note": "The guideline highlights limitations in evidence for specific therapeutic interventions and suggests a tailored approach based on clinical presentation and available resources."
+  },
+  "genes": []
+}

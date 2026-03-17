@@ -1,0 +1,51 @@
+{
+  "content": {
+    "Synopsis": {
+      "clinical_failure": "For patients who undergo repair of a PAU, clinical failure (defined as endoleak, disease progression, graft occlusion, repeat aortic intervention, or procedure or aortic-related death) by 1 year after endovascular and open repair occur in 8.6% and 8.7%, respectively.",
+      "disease_risk": "For patients with PAUs who are managed non-operatively, the risk of disease progression is significant. Disease progression occurs more frequently in patients presenting with symptomatic versus asymptomatic PAUs but is >15% for both. Among patients with a PAU who have progression of disease on surveillance imaging, 73% will show continued worsening on subsequent imaging, and 46% will have progression to frank dissection after a mean of 12 months."
+    },
+    "Recommendation-Specific Supportive Text": "After open or endovascular repair of a PAU, there is a 9% risk of clinical failure by 12 months postoperatively.",
+    "Freedom_from_complications": "Freedom from cumulative complications and interventions is 86% at 12 months, 79% at 24 months, and 71% at 36 months postoperatively.",
+    "Series": "In a series of 109 patients with acute PAUs, 28% suffered from an aortic-related adverse event by 30 days of follow-up.",
+    "Systematic Review": "Based on a systematic review of 184 patients with either thoracic or aortic PAU, 30% had radiographic evidence of disease progression on midterm follow-up. For patients with abdominal PAU, 23% have disease progression on CTA by 8 months of follow-up, although the risk is higher in symptomatic (43%) versus asymptomatic (17%) patients.",
+    "Pregnancy": {
+      "counseling_and_management": "Counseling and management of aortic disease in pregnancy and postpartum.",
+      "recommendations": [
+        "In patients with genetic aortopathies attributable to syndromic (Marfan syndrome, Loeys-Dietz syndrome, vascular Ehlers-Danlos syndrome) and nsHTAD and who are contemplating pregnancy, genetic counseling before pregnancy to discuss the heritable nature of their condition is recommended.",
+        "In patients with syndromic and nsHTAD, Turner syndrome, BAV with aortic dilation, and other aortopathy conditions, aortic imaging before pregnancy is recommended to determine aortic diameters.",
+        "In patients with syndromic and nsHTAD, Turner syndrome, BAV with aortic dilation, and other aortopathy conditions, who are contemplating pregnancy, counseling about the risks of aortic dissection related to pregnancy is recommended."
+      ],
+      "during_pregnancy": [
+        "In patients with aortic aneurysms or at increased risk of aortic dissection, it is recommended that pregnancy be managed by a multidisciplinary team, and delivery be planned in a hospital where the capability for emergency aortic repair is available.",
+        "In patients with aortopathies who are pregnant, guideline-directed treatment of hypertension is recommended.",
+        "In patients with syndromic and nsHTAD, beta-blocker therapy during pregnancy and postpartum is recommended unless contraindicated."
+      ]
+    }
+  },
+  "genes": [
+    {
+      "Gene": "FBN1",
+      "Associated Conditions": [
+        "Marfan syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "In patients with genetic aortopathies attributable to syndromic (Marfan syndrome, Loeys-Dietz syndrome, vascular Ehlers-Danlos syndrome) and nsHTAD and who are contemplating pregnancy, genetic counseling before pregnancy to discuss the heritable nature of their condition is recommended."
+    },
+    {
+      "Gene": "TGFBR1",
+      "Associated Conditions": [
+        "Loeys-Dietz syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "In patients with genetic aortopathies attributable to syndromic (Marfan syndrome, Loeys-Dietz syndrome, vascular Ehlers-Danlos syndrome) and nsHTAD and who are contemplating pregnancy, genetic counseling before pregnancy to discuss the heritable nature of their condition is recommended."
+    },
+    {
+      "Gene": "COL3A1",
+      "Associated Conditions": [
+        "Vascular Ehlers-Danlos syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "In patients with genetic aortopathies attributable to syndromic (Marfan syndrome, Loeys-Dietz syndrome, vascular Ehlers-Danlos syndrome) and nsHTAD and who are contemplating pregnancy, genetic counseling before pregnancy to discuss the heritable nature of their condition is recommended."
+    }
+  ]
+}

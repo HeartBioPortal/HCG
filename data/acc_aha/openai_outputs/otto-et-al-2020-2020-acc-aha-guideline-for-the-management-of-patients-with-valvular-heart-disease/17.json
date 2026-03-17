@@ -1,0 +1,49 @@
+{
+  "content": {
+    "Table 9": "Examples of Procedure-Specific Risk Factors for Interventions Not Incorporated Into Existing Risk Scores are provided for different procedures including SAVR, TAVI, Surgical Mitral Valve Repair or Replacement, and TEER. Technical or anatomic risk factors and comorbidities such as severe COPD or home oxygen therapy, pulmonary hypertension, severe RV dysfunction, hepatic dysfunction, frailty, and STS score >15 are outlined.",
+    "Procedure-Specific Risk Factors": {
+      "SAVR": {
+        "Technical or Anatomic": [
+          "Prior mediastinal radiation",
+          "Ascending aortic calcification (porcelain aorta may be prohibitive)"
+        ]
+      },
+      "TAVI": {
+        "Technical or Anatomic": [
+          "Aorto-iliac occlusive disease precluding transfemoral approach",
+          "Aortic arch atherosclerosis (protuberant lesions)",
+          "Severe MR or TR",
+          "Low-lying coronary arteries",
+          "Basal septal hypertrophy",
+          "Valve morphology (e.g., bicuspid or unicuspid valve)",
+          "Extensive LV outflow tract calcification"
+        ]
+      },
+      "Surgical Mitral Valve Repair or Replacement": {
+        "Technical or Anatomic": [
+          "Prior sternotomy",
+          "Prior mediastinal radiation",
+          "Ascending aortic calcification (porcelain aorta may be prohibitive)"
+        ]
+      },
+      "TEER": {
+        "Technical or Anatomic": [
+          "Multivalve disease",
+          "Valve morphology (e.g., thickening, perforations, clefts, calcification, and stenosis)",
+          "Prior mitral valve surgery"
+        ]
+      }
+    },
+    "Comorbidities for All Procedures": [
+      "Severe COPD or home oxygen therapy",
+      "Pulmonary hypertension",
+      "Hepatic dysfunction",
+      "Frailty",
+      "STS score >15",
+      "Life expectancy < 1 year",
+      "Poor candidate for rehabilitation"
+    ],
+    "Table 10": "Shows median operative mortality rates for 6 specific surgical procedures (AVR, AVR and CABG, AVR and mitral valve replacement, Mitral valve replacement, Mitral valve replacement and CABG, Mitral valve repair, Mitral valve repair and CABG). Rates range from 1% to 9%."
+  },
+  "genes": []
+}

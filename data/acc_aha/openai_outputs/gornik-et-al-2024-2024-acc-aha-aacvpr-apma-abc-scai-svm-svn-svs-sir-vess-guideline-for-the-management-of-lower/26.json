@@ -1,0 +1,46 @@
+{
+  "content": {
+    "Geriatric Syndromes and Considerations": {
+      "Frailty": {
+        "Assessment": "Using measures such as Clinical Frailty Scale, modified Frailty Index, Risk Analysis Index.",
+        "Association": "Elevated rates of MACE associated with frailty and claudication.",
+        "Survival": "Frailty reduces survival rate; high predictor of 30-d mortality rate for all PAD revascularization procedures."
+      },
+      "Sarcopenia": {
+        "Prevalence": "10 times more prevalent in those with PAD than age-matched controls.",
+        "Association": "Lower survival rate and higher risk of MACE and MALE.",
+        "Risk": "Increased risk for muscle mass loss in lower extremities."
+      },
+      "Malnutrition": {
+        "Prevalence": "Common in older patients with PAD, affecting up to 50%.",
+        "Survival": "5-y survival rate directly related to GNRI stratification.",
+        "Mortality": "3.0-d mortality 5 times higher in severe malnutrition compared to moderate/mild."
+      },
+      "Mobility Impairment": {
+        "Association": "Poor physical function in PAD vs. non-PAD.",
+        "Ambulatory Patients": "Patients >75 y/o with PAD 13.5:1-fold more limited in pain.",
+        "Mortality": "Patients >65 y/o with PAD had a faster decline in mobility and higher mortality."
+      },
+      "Revascularization Considerations": {
+        "Age Factor": "Age >80 associated with increased mortality rate post-revascularization.",
+        "Surgery": "Patients >70 with CLTI dependent on functional status.",
+        "Treatment": "Older less likely to be prescribed GDMT post-revascularization."
+      },
+      "Impact of Amputation": {
+        "Mortality": "Higher mortality associated with amputation in older patients.",
+        "Risk Increase": "Mortality rates increased 4% yearly over age 85.",
+        "Outcome Post-CLTI": "Higher risk for surgery correlated with lower 3.0-d mortality."
+      },
+      "Polypharmacy": {
+        "Definition": "Taking \u22655 medications.",
+        "Prevalence": "Increasingly common in older patients.",
+        "Management": "Tailoring of medical therapies and shared decision-making to minimize impact."
+      }
+    },
+    "Medical Therapy and Preventive Foot Care": {
+      "Purpose": "To reduce risk of progression and limb-threatening conditions and improve leg symptoms.",
+      "Preventive Care": "Implemented to prevent ulceration and risk of CLTI."
+    }
+  },
+  "genes": []
+}

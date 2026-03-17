@@ -1,0 +1,37 @@
+{
+  "content": {
+    "title": "American Heart Association 2015 ACC/AHA/HRS SVT Guideline",
+    "contributors": [
+      "Mark A. Creager, MD, FACC, FAHA, President",
+      "Nancy Brown, Chief Executive Officer",
+      "Rose Marie Robertson, MD, FAHA, Chief Science Officer",
+      "Gayle R. Whitman, PhD, RN, FAHA, FAAN, Senior Vice President",
+      "Marcio Di Buono, PhD, Vice President, Science, Research, and Professional Education",
+      "Jody Hundley, Production Manager, Scientific Publications",
+      "Office of Science Operations",
+      "Acknowledgments to Dr. Daniel B. Mark and Dr. Sarah A. Spinler"
+    ],
+    "references": [
+      {
+        "entry_number": 1,
+        "title": "Committee on Standards for Developing Trustworthy Clinical Practice Guidelines",
+        "context": "Institute of Medicine (U.S.) clinical practice guidelines we can trust."
+      },
+      {
+        "entry_number": 10,
+        "title": "Management of Patients with Atrial Fibrillation",
+        "context": "Report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines."
+      },
+      {
+        "entry_number": 14,
+        "title": "Management of Patients with Valvular Heart Disease",
+        "context": "Report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines."
+      }
+    ],
+    "acknowledgments": [
+      "Dr. Daniel B. Mark for invaluable assistance in reviewing studies",
+      "Dr. Sarah A. Spinler for contributions regarding antiarrhythmic drug therapy"
+    ]
+  },
+  "genes": []
+}

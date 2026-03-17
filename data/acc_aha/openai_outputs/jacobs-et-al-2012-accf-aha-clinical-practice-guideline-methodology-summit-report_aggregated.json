@@ -1,0 +1,1852 @@
+{
+  "content": [
+    {
+      "content": {
+        "Title": "ACCF/AHA Clinical Practice Guideline Methodology Summit Report",
+        "Authors": "Alice K. Jacobs, MD, FACC, FAHA, Chair; Frederick G. Kushner, MD, FACC, FAHA, Workgroup 1 Chair; Steven M. Ettinger, MD, FACC, Workgroup 2 Chair; Robert A. Guyton, MD, FACC, Workgroup 3 Chair; Jeffrey L. Anderson, MD, FACC, FAHA, Workgroup 4 Chair; E. Magnus Ohman, MD, FACC, Workgroup 5 Chair",
+        "Additional Authors": "Nancy M. Albert, PhD, CCNS, CCRN, FAHA; Elliott M. Antman, MD, FACC, FAHA; Donna K. Arnett, PhD, MD, FAHA; Marnie Bertolet, PhD; Deepak L. Bhatt, MD, MPH, FACC, FAHA; Ralph G. Brindis, MD, MPH, MACC; Mark A. Creager, MD, FACC, FAHA; David L. DeMets, PhD; Kay Dickersin, PhD; Gregg C. Fonarow, MD, FACC, FAHA; Raymond J. Gibbons, MD, FACC, FAHA; Jonathan L. Halperin, MD, FACC, FAHA; Judith S. Hochman, MD, FACC, FAHA; Marguerite A. Koster, MA, MFT; Sharon-Lise T. Normand, PhD; Eduardo Ortiz, MD, MPH; Eric D. Peterson, MD, MPH, FACC, FAHA; William H. Roach, Jr, Esq; Ralph L. Sacco, MD, MS, FAHA; Sidney C. Smith, Jr, MD, FACC, FAHA; William G. Stevenson, MD, FACC, FAHA; Gordon F. Tomaselli, MD, FAHA; Clyde W. Yancy, MD, FACC, FAHA; William A. Zoghbi, MD, FACC, FAHA",
+        "Guests": "John G. Harold, MD, MACC, FAHA; Yulei He, MS, PhD; Pamela B. Mangu, MA; Amir Qaseem, MD, PhD, MHA, FACP; Michael R. Sayre, MD, FAHA; Mark R. Somerfield, PhD",
+        "Publisher": "Journal of the American College of Cardiology",
+        "Publication Year": 2013,
+        "Volume and Issue": "Vol. 61, No. 2",
+        "DOI": "doi:10.1016/j.jacc.2012.09.025"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "ACCF/AHA Guideline Methodology Summit Report",
+        "Authors": [
+          "Alice K. Jacobs, MD, FACC, FAHA",
+          "Jeffrey L. Anderson, MD, FACC, FAHA",
+          "Jonathan L. Halperin, MD, FACC, FAHA",
+          "Nancy M. Albert, PhD, CCNS, CCRN, FAHA",
+          "Mark A. Creager, MD, FACC, FAHA",
+          "David L. DeMets, PhD",
+          "Steven M. Ettinger, MD, FACC",
+          "Robert A. Guyton, MD, FACC",
+          "Judith S. Hochman, MD, FACC, FAHA",
+          "Frederick G. Kushner, MD, FACC, FAHA",
+          "E. Magnus Ohman, MD, FACC",
+          "William G. Stevenson, MD, FACC, FAHA",
+          "Clyde W. Yancy, MD, FACC, FAHA"
+        ],
+        "Sections": [
+          "Executive Summary",
+          "Full Report",
+          "Introduction",
+          "Workgroup 1: Clinical Practice Guidelines We Can Trust",
+          "Workgroup 2: Standards for Initiating a Systematic Review",
+          "Workgroup 3: Standards for Finding and Assessing Individual Studies",
+          "Workgroup 4: Standards for Synthesizing the Body of Evidence",
+          "Workgroup 5: Standards for Reporting Systematic Reviews",
+          "Appendix 1: Author Listing of Comprehensive Relationships With Industry and Others",
+          "Appendix 2: Workgroup Comparison Tables",
+          "References"
+        ],
+        "Overview": "The American College of Cardiology Foundation (ACCF) and the American Heart Association (AHA) have jointly engaged in the development of clinical practice guidelines (CPGs) for nearly 3 decades. The ACCF/AHA Task Force on Practice Guidelines oversees this process to ensure the delivery of best practice recommendations. The document outlines the methodology for developing new or updated CPGs, including the selection of a guideline writing committee, development of content, and management of potential conflicts of interest."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The document outlines the development and evaluation process for clinical practice guidelines (CPGs) by the ACCF/AHA. It emphasizes thorough review, voting, and revisions by specialized workgroups and committees. The process ensures integration of new evidence and involves patient representatives to reflect patient-centered care. The guidelines are based on systematic reviews and adhere to IOM recommendations. Following rigorous reviews, guidelines are published for academic and clinical communities.",
+        "key_highlights": [
+          "Consistent revision and approval by relevant workgroups and committees.",
+          "Inclusion of patient representatives for patient-centered guideline development.",
+          "Emphasis on evidence-based recommendations through systematic review.",
+          "Adherence to IOM reports and guidelines to ensure quality and trust."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "SR process": "The SR (Systematic Review) process, in addition to a GWC, is responsible for creating the scientific CPG. The ERC takes part in all phases such as identification, abstraction, and evidentiary quality assessment.",
+        "Use of standardized protocols": "ACCF/AHA methodology incorporates a formal SR of the evidence focused on a confined topic using standardized protocols. PICO(TS) format will be used.",
+        "Intellectual and practice perspectives": "CPG process includes a policy to address balance (race, ethnicity, sex, and expertise) among GWC. Emphasis is placed on intellectual and clinical practice perspectives.",
+        "Expanded review process": "External reviewers will be involved before CPG publication, including a spectrum of stakeholders and governmental agencies. Completed CPG will not be open to public comment.",
+        "Workgroup recommendations": {
+          "Workgroup 1": {
+            "Representation": "At least one patient representative should be a full voting member. All members should learn from relevant resources before joining.",
+            "Patient involvement": "Patients help formulate key clinical questions and treatment decisions.",
+            "CPG provision": "CPGs should be shared with a wide range of stakeholders for feedback before publication.",
+            "CPG development": "The policy should incorporate intellectual and clinical practice perspectives."
+          },
+          "Workgroup 2": {
+            "Systematic Review": "ERC members and stakeholders should participate in ACCF/AHA CPG creation. ERC role is separate and clearly defined."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Workgroup 3: Standards for Finding and Assessing Individual Studies": {
+          "Key Points": [
+            "Critical appraisal tool by the Task Force will be used in conjunction with CPGs.",
+            "Pilot system includes quantitative assessment, yes/no key factors, and scoring of risk of bias, relevance, fidelity of implementation.",
+            "Revision needed for application to observational studies.",
+            "Assessment scoring will be qualitative and judgments made by the ERC. Domains are freedom from bias, relevance, fidelity of implementation.",
+            "Summary assessment categories include fatally flawed, low quality, intermediate-quality, high quality.",
+            "Broader quality evaluation necessary for CPG parts."
+          ]
+        },
+        "Workgroup 4: Standards for Synthesizing the Body of Evidence": {
+          "Recommendations": [
+            "Standardize assessment of quality of evidence across studies.",
+            "Depict quality assessment addressing key elements for each PICO(TS) question.",
+            "Provide risk-of-bias table across studies.",
+            "Generate standardized summary and evidence table templates.",
+            "Utilize high-quality SRs from reputable organizations when available.",
+            "Minimize delays for guideline development."
+          ]
+        },
+        "Workgroup Recommendations for Standards for Quantitative Analysis": {
+          "Recommendations": [
+            "GWC and Task Force to determine need for meta-analysis.",
+            "Statistical consultation for accepted methods of meta-analysis.",
+            "Use high-quality meta-analyses from reputable sources when available.",
+            "Efforts to minimize delays for development/revision."
+          ]
+        },
+        "Workgroup Recommendations for ACCF/AHA Grading Methodology and Nomenclature": {
+          "Recommendations": [
+            "Retain current ACCF/AHA Class of Recommendation and Level of Evidence structure.",
+            "Standardize LOE A, B, C with a validated Evidence Grading Tool."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_summary": "The ACCF and AHA develop clinical practice guidelines (CPGs) to improve healthcare quality. Changes include translating evidence into recommendations, incorporating systematic reviews, and defining quality of evidence. Future directions emphasize the need for continuous monitoring, integration of patient feedback, and adapting clinical decision-making processes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary": "The document discusses the development and improvement of clinical practice guidelines (CPGs) by the ACCF/AHA in alignment with standards presented by the Institute of Medicine (IOM). The aim is to ensure evidence-based recommendations for healthcare professionals, particularly in cardiovascular medicine. Recommendations are based on a Class of Recommendation and Level of Evidence scheme. The document follows the IOM's suggestions for trustworthy CPGs, including transparency, multidisciplinary development, and consumer involvement. The Methodology Summit proposes sustained evaluation and patient-centered care, considering patient-specific conditions and involvement."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Workgroup 1 Questions for Consideration": {
+          "1": {
+            "Title": "How can the Task Force and GWC identify the appropriate \u201cpatient representative\u201d? What are the criteria to be met for selection of \u201cpatient representatives\u201d who serve? Will they be volunteers or contracted for their work?",
+            "Description": "Guidelines for identifying patient representatives, which include consumers, patients, family members, and members of consumer advocacy groups. Organizations like Cochrane Consumer Network and others are involved in identifying individuals to serve on GWC. Recommendations for principles in selecting patient representatives are provided."
+          },
+          "2": {
+            "Title": "Specifically, how is the patient representative to be integrated into the CPG process and/or peer review and/or external stakeholder review? What expectations are there for patient representative involvement?",
+            "Description": "Patient representatives assist in directing and overseeing CPG development and establishing policy. They participate in the initial work of GWC, with a focus on formulation of clinical questions, translation, and communication of CPGs."
+          },
+          "3": {
+            "Title": "What form of training will be required for patient representative participants?",
+            "Description": "Substantial preparatory training is needed to effectively integrate patient representatives into the CPG creation process."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The document discusses the involvement of patient representatives in Clinical Practice Guideline (CPG) development, highlighting the need for preparatory training, understanding of medical evidence, and participation in GWC (Guideline Writing Committee). It emphasizes the importance of comprehensive CPG development training covering reporting, understanding classifications, and risk assessment. The text outlines roles of organizations like the IOM, AHRQ, and the Cochrane Collaboration in supporting guideline formation and external reviews to ensure transparency and credibility. It also touches upon managing potential conflicts of interest during guideline development."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "ACCF/AHA Guideline Methodology Summit Report",
+        "authors": "Jacobs et al.",
+        "journal": "JACC Vol. 61, No. 2, 2013",
+        "date": "January 15, 2013",
+        "pages": "213-65",
+        "summary": "The document discusses the evaluation and updating of policies regarding potential conflicts related to intellectual bias and practice. Intellectual or clinical practice bias could come from personal opinions or experiences influencing decision-making. It emphasizes managing and identifying these biases or perspectives to ensure fair and unbiased contribution to guidelines working groups (GWCs).",
+        "key_points": [
+          "Nominations for GWCs should consider a balance of members with and without relevant work-related interests.",
+          "Candidates might be evaluated for potential biases via questionnaires.",
+          "Prospective GWC members should be open about their individual perspectives and focus on contributing to patient health prioritization."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Importance of Objectivity": "The guideline emphasizes the need for objective assessments of all information relevant to the Guideline Writing Committee (GWC) task. The GWC chair is responsible for ensuring compliance with policy and procedures, particularly regarding recusals due to conflicts.",
+        "Intellectual vs Financial Conflicts": "The task force should address potential conflicts from both intellectual and financial perspectives, being prepared to demonstrate effective management of conflicts to external groups.",
+        "Maintaining GWC Composition": "It\u2019s essential to maintain a majority of GWC members without relevant financial conflicts. A balance should be maintained with intellectual and clinical practice perspectives throughout guideline development.",
+        "GWC Assessment": "Task Force must assess potential relevant relationships at the start, assigning members with no relevant conflicts to ensure unbiased guideline development.",
+        "Workgroup 1 Recommendations": [
+          "Inclusion of patient representatives in the Task Force and GWC.",
+          "Mandatory education about evidence-based medicine for GWC members.",
+          "Responsibilities to include formulation of clinical questions and considerations of patient perspectives."
+        ],
+        "External Review Process": "Broader external review should be employed, incorporating a spectrum of viewpoints for comprehensive input.",
+        "Workgroup 2": "Charged with reviewing existing ACCF/AHA standards, ensuring scientifically valid clinical practice guidelines, and addressing modifications related to the rapid expansion of medical literature."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Workgroup Questions": [
+          {
+            "Question": "Should other stakeholders/patient representatives be involved in the development of the SR protocol?",
+            "Considerations": [
+              "Types of stakeholders/consumers to be included (e.g., payers, policy makers, patients, caregivers, family, advocacy groups)",
+              "Level and type of training required for stakeholders",
+              "Training provision by ACCF/AHA or outsourcing"
+            ]
+          },
+          {
+            "Question": "Should we redefine how RWI and intellectual and clinical practice perspectives are presently managed for those involved in the development of the SR?",
+            "Considerations": [
+              "Inclusion of a separate expert review committee (ERC) for the SR development",
+              "Roles and responsibilities of ERC and Guideline Writing Committee (GWC)",
+              "Ensuring recommendations are consistent with clinical studies and trials"
+            ]
+          }
+        ],
+        "Key Concepts": [
+          "Involvement of diverse stakeholders and training expectations",
+          "Creation of ERC to manage scientific aspects of guideline development",
+          "Importance of addressing intellectual, professional, and personal association impacts",
+          "Emphasis on real-world application and decision-making enhancement"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "Clinical Guideline Development",
+        "topics": [
+          "Consideration of expanding disclosure to include intellectual/clinical practice perspectives.",
+          "Regular updates of RWI and intellectual and practice perspectives.",
+          "Importance of systematic review (SR) in creating evidence for CPGs.",
+          "Formulation of SR topics using PICO(TS) questions and potential governmental involvement.",
+          "Public review process for SRs to enhance healthcare decision-making."
+        ],
+        "recommendations": [
+          "Use of PICO(TS) format for SR recommendations.",
+          "Collaboration with organizations for governmental agency support.",
+          "Public review for SR to enhance rigor, credibility, and stakeholding involvement.",
+          "Formal review mechanism with diverse stakeholder input including public, payers, and governmental agencies."
+        ],
+        "processes": [
+          "Task Force reviews and votes on focused updates or new guidelines.",
+          "Rigorous data evaluation from clinical trials",
+          "Development of a defined protocol to ensure unbiased SR."
+        ],
+        "challenges": [
+          "The timeline for CPG development might be extended.",
+          "Balancing commercial, professional, and intellectual biases."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "new stakeholders": "The inclusion of policy makers and payers to enhance the formal peer review and SR process.",
+        "ERC responsibilities": "The ERC should participate in the creation of ACCF/AHA CPGs focusing on a confined topic, with separate, distinct, independent, and clearly delineated roles.",
+        "PICO(TS) format": "Standardize the process by applying the PICO(TS) format to develop SR questions, which is the responsibility of the ERC.",
+        "peer review process": "Expansion to include a formal peer assessment with external stakeholders and patient representatives to enhance applicability to real-world policies.",
+        "IOM publications": "Reference to 'Clinical Practice Guidelines We Can Trust' and 'Standards for Systematic Reviews', highlighting challenges in developing CPGs due to limited resources.",
+        "CPGs definition": "Stated as clinical recommendations informed by an SR of evidence and assessment of the benefits and harms of alternative care options.",
+        "SR standards": "Developers of CPGs should use SRs meeting the IOM Committee on Standards for Systematic Reviews of Comparative Effectiveness Research.",
+        "evidence quality": "Inclusion of a quality evidence summary and rating for CPG confidence.",
+        "evidence appraisal challenges": "Challenges in study quality and evidence appraisal due to biases and external validity concerns in studies funded by industry."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "foundational_info": "The guideline discusses the methodology for ACCF/AHA Clinical Practice Guidelines (CPGs), focusing on systematic reviews (SR) and evidence quality. Challenges include generalizability, bias risk, and resource intensity. It recommends iterative review processes and suggests using key clinical questions as pilots for SR.",
+        "IOM_Standards": [
+          {
+            "standard": "3.1",
+            "description": "Conduct a comprehensive, systematic search for evidence."
+          },
+          {
+            "standard": "3.2",
+            "description": "Address potentially biased reporting of research results by searching gray literature databases."
+          },
+          {
+            "standard": "3.3",
+            "description": "Screen and select studies with pre-specified criteria, using PICO(TS) format."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "IOM Standard 3.4": "Document research compliant with current ACCF/AHA CPG methodology, excluding some large observational trials from peer-reviewed RCTs on justified grounds.",
+        "IOM Standard 3.5": "Manage data collection through standardized data extraction forms pilot-tested and customized for broader clinical questions.",
+        "IOM Standard 3.6": "Critically appraise each study assessing bias, relevance, and fidelity of implementations using scoring tools.",
+        "Risk of Bias Tool": "Utilized by ACCF/AHA, it provides a domain-based qualitative evaluation across six domains; includes a summary judgment for overall risk.",
+        "Critical Appraisal System": "3-member ERC team proposed to review studies focusing on systematic risk assessment, study relevance, and intervention fidelity."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "1": "The guideline discusses the independence of study quality assessment from PICO(TS) questions.",
+        "2": "Individual study quality assessment is needed within the context of clinical practice guidelines (CPG).",
+        "3": "With this system, each study is judged on bias, relevance, and fidelity.",
+        "4": "Workgroup 4 was tasked to synthesize a body of evidence using IOM standards.",
+        "5": "The evaluation includes quantitative and qualitative assessments tailored to study specifics.",
+        "Workgroup 4 Questions for Consideration": [
+          "Assess how ACCF/AHA methodologies handle qualitative evidence synthesis.",
+          "Evaluate different grading methodologies like GRADE and NHLBI across a body of evidence.",
+          "Analyze synthesis/analysis of studies, especially observational ones."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Summary": "The document discusses quality assessment methodologies for both randomized controlled trials (RCTs) and observational studies. It emphasizes the importance of qualitative synthesis of evidence, which goes beyond merely factual descriptions. The IOM recommends 4 elements of performance for conducting qualitative synthesis: describing clinical and methodological characteristics of studies, describing strengths and limitations, examining relationships between study characteristics and findings, and discussing relevance to various populations and settings. The GRADE system is used to designate confidence levels in evidence, with categories like high, moderate, low, and very low. The AHRQ Effective Health Care Program adopts this framework and adds the applicability aspect.",
+        "Key Methods": [
+          "Qualitative synthesis evaluates evidence for specific clinical questions.",
+          "GRADE system assesses overall quality of evidence.",
+          "GRADEpro software for conducting quality assessments."
+        ],
+        "Organizations Involved": [
+          "American College of Physicians",
+          "American College of Chest Physicians",
+          "American Academy of Neurology",
+          "AHRQ",
+          "NHLBI"
+        ],
+        "Quality Characteristics": [
+          "Risk of bias",
+          "Consistency",
+          "Precision of estimates",
+          "Directness of evidence",
+          "Dose-response association"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Table 4.1": {
+          "Title": "Example of GRADE Depiction of Evidence Profile Across Studies",
+          "Focus": "GRADE Evidence Profile: Antibiotics for Children with Acute Otitis Media",
+          "Components": [
+            {
+              "Outcome": "Pain at 24h",
+              "No. of studies": "5 (RCT)",
+              "Limitations": "No serious limitations",
+              "Inconsistency": "No serious inconsistency",
+              "Indirectness": "No serious indirectness",
+              "Imprecision": "No serious imprecision",
+              "Publication Bias": "Undetected",
+              "Number of Patients": {
+                "Placebo": "241/605",
+                "Antibiotics": "223/624"
+              },
+              "Relative Risk (95% CI)": "RR 0.99 (0.78-1.04)",
+              "Control Risk": "367/1,000",
+              "Risk Difference": "Not Significant",
+              "Quality": "High"
+            },
+            {
+              "Outcome": "Pain at 2-7d",
+              "No. of studies": "10 (RCT)",
+              "Limitations": "No serious limitations",
+              "Inconsistency": "No serious inconsistency",
+              "Indirectness": "No serious indirectness",
+              "Imprecision": "No serious imprecision",
+              "Publication Bias": "Undetected",
+              "Number of Patients": {
+                "Placebo": "303/1,366",
+                "Antibiotics": "228/1,425"
+              },
+              "Relative Risk (95% CI)": "RR 0.72 (0.62-0.83)",
+              "Control Risk": "257/1,000",
+              "Risk Difference": "72 fewer per 1,000 (44-98)",
+              "Quality": "High"
+            },
+            {
+              "Outcome": "Hearing, inferred from the surrogate outcome abnormal tympanometry\u20141 mo",
+              "No. of studies": "4 (RCT)",
+              "Limitations": "No serious limitations",
+              "Inconsistency": "No serious inconsistency",
+              "Indirectness": "Serious indirectness (because of indirectness of outcome)",
+              "Imprecision": "No serious imprecision",
+              "Publication Bias": "Undetected",
+              "Number of Patients": {
+                "Placebo": "168/460",
+                "Antibiotics": "153/467"
+              },
+              "Relative Risk (95% CI)": "RR 0.89 (0.75-1.07)",
+              "Control Risk": "350/1,000",
+              "Risk Difference": "Not Significant",
+              "Quality": "Moderate"
+            },
+            {
+              "Outcome": "Hearing, inferred from the surrogate outcome abnormal tympanometry\u20143 mo",
+              "No. of studies": "3 (RCT)",
+              "Limitations": "No serious limitations",
+              "Inconsistency": "No serious inconsistency",
+              "Indirectness": "Serious indirectness (because of indirectness of outcome)",
+              "Imprecision": "No serious imprecision",
+              "Publication Bias": "Undetected",
+              "Number of Patients": {
+                "Placebo": "96/398",
+                "Antibiotics": "96/410"
+              },
+              "Relative Risk (95% CI)": "RR 0.97 (0.76-1.24)",
+              "Control Risk": "234/1,000",
+              "Risk Difference": "Not Significant",
+              "Quality": "Moderate"
+            },
+            {
+              "Outcome": "Vomiting, diarrhea, or rash",
+              "No. of studies": "5 (RCT)",
+              "Limitations": "No serious limitations",
+              "Inconsistency": "Serious inconsistency (because of inconsistency in absolute effects)",
+              "Indirectness": "No serious indirectness",
+              "Imprecision": "No serious imprecision",
+              "Publication Bias": "Undetected",
+              "Number of Patients": {
+                "Placebo": "83/711",
+                "Antibiotics": "110/690"
+              },
+              "Relative Risk (95% CI)": "RR 1.38 (1.09-1.76)",
+              "Control Risk": "113/1,000",
+              "Risk Difference": "43 more per 1,000 (10-86)",
+              "Quality": "Moderate"
+            }
+          ]
+        },
+        "Other Information": {
+          "Workgroup 4 Recommendations": {
+            "Focus": "Assessing and Addressing the Quality of a Body of Evidence",
+            "Recommendations": [
+              "Adopt IOM-recommended basic characteristics of quality and elements for assessing quality across studies.",
+              "Standardize methods for quality assessment across studies and conduct qualitative assessments."
+            ]
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Quantitative Analysis of Evidence": "The guideline discusses the standard evidence review approach, emphasizing a quantitative analysis of evidence beyond a simple binary assessment. It highlights the potential need for more thorough evaluation of evidence, using statistical thresholds to address the significance of patient outcomes.",
+        "Addressing Conventional Quantitative Analyses": "The guideline elaborates on conventional quantitative analyses, advocating for a detailed assessment of the evidence strength beyond the basic positive RCT notion. It discusses statistical thresholds like p-values <0.05 versus <0.01 or <0.001, especially in large observational datasets.",
+        "Considering New Quantitative Analyses": "The importance of evaluating data insights using confidence levels and relative risk reduction is discussed to understand their implications in a different context.",
+        "Incorporating More Rigorous Quantitative Methodology": "Meta-analyses and Bayesian analyses are advocated for, though with caution due to potential biases, emphasizing the need for well-constructed methodologies for informed decision-making.",
+        "Workgroup 4 Recommendations for Standards for Quantitative Analysis": "Recommendations include determining the need for meta-analysis, using high-quality meta-analysis from reputable organizations, and adopting new data standards for comprehensive CPGs."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_information": "The image presents guidelines for grading clinical practice models as interpreted by ACCF/AHA. It includes different strength of recommendation categories: I (Strong), IIa (Moderate), IIb (Weak), and III (No Benefit or Harm). Each strength category is paired with levels of evidence: A (High), B (Moderate), C (Low), and I (Insufficient). The table compares ACCF/AHA, GRADE, USPFT, NHLBI, and ACP grading models. The guidelines address the need for consistent evaluation across different methodologies like GRADE, NHLBI, AHRQ EPC, emphasizing clarity and accuracy in future guidelines."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Table 4.3": "Applying Classification of Recommendations and Level of Evidence",
+        "Class I": {
+          "Definition": "Benefit > Risk",
+          "Recommendation": "Procedure/Treatment SHOULD be performed/administered."
+        },
+        "Class IIa": {
+          "Definition": "Benefit >> Risk",
+          "Recommendation": "It IS REASONABLE to perform procedure/administer treatment."
+        },
+        "Class IIb": {
+          "Definition": "Benefit \u2265 Risk",
+          "Recommendation": "Procedure/Treatment MAY BE CONSIDERED."
+        },
+        "Class III": {
+          "Definition": "No Benefit or Harm",
+          "Recommendation (No Benefit)": "Procedure or treatment is not useful/effective and may be harmful.",
+          "Recommendation (Harm)": "Procedure or treatment should not be performed/administered."
+        },
+        "Level of Evidence A": "Multiple populations evaluated; data derived from multiple randomized clinical trials or meta-analyses.",
+        "Level of Evidence B": "Limited populations evaluated; data derived from a single randomized trial or nonrandomized studies.",
+        "Level of Evidence C": "Very limited populations evaluated; only consensus opinion of experts, case studies, or standard of care."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "GRADE System": {
+          "Grade 1A": {
+            "Recommendation": "Strong recommendation, high-quality evidence",
+            "Benefits vs Burdens": "Desirable effects clearly outweigh undesirable effects, or vice versa",
+            "Evidence Quality": "Consistent evidence from RCTs without important limitations or exceptionally strong evidence from observational studies",
+            "Implications": "Recommendation can apply to most patients in most circumstances; further research is very unlikely to change our confidence in the estimate of effect"
+          },
+          "Grade 1B": {
+            "Recommendation": "Strong recommendation, moderate-quality evidence",
+            "Benefits vs Burdens": "Desirable effects clearly outweigh undesirable effects, or vice versa",
+            "Evidence Quality": "Evidence from RCTs with important limitations or very strong evidence from observational studies",
+            "Implications": "Recommendation can apply to most patients in most circumstances; higher quality research may well have an important impact on our confidence in the estimate of effect and may change the estimate"
+          },
+          "Grade 1C": {
+            "Recommendation": "Strong recommendation, low or very low-quality evidence",
+            "Benefits vs Burdens": "Desirable effects clearly outweigh undesirable effects, or vice versa",
+            "Evidence Quality": "Evidence for at least one critical outcome from observational studies, case series, or RCTs with serious flaws or indirect evidence",
+            "Implications": "Recommendation can apply to most patients in many circumstances; higher-quality research is likely to have an important impact on our confidence in the estimate of effect and may well change the estimate"
+          },
+          "Grade 2A": {
+            "Recommendation": "Weak recommendation, high-quality evidence",
+            "Benefits vs Burdens": "Desirable effects closely balanced with undesirable effects",
+            "Evidence Quality": "Consistent evidence from RCTs without important limitations or exceptionally strong evidence from observational studies",
+            "Implications": "Best action may differ depending on circumstances or patient or society values; further research is very unlikely to change our confidence in the estimate of effect"
+          },
+          "Grade 2B": {
+            "Recommendation": "Weak recommendation, moderate-quality evidence",
+            "Benefits vs Burdens": "Desirable effects closely balanced with undesirable effects",
+            "Evidence Quality": "Evidence from RCTs with important limitations or very strong evidence from observational studies",
+            "Implications": "Best action may differ depending on circumstances or patient or society values; higher-quality research may well have an important impact on our confidence in the estimate of effect and may change the estimate"
+          },
+          "Grade 2C": {
+            "Recommendation": "Weak recommendation, low or very low-quality evidence",
+            "Benefits vs Burdens": "Desirable effects closely balanced with undesirable effects",
+            "Evidence Quality": "Evidence for at least one critical outcome from observational studies, case series, or RCTs with serious flaws or indirect evidence",
+            "Implications": "Other alternatives may be equally reasonable; higher-quality research is likely to have an important impact on our confidence in the estimate of effect and may well change the estimate"
+          }
+        },
+        "USPTF Recommendation Grading System": {
+          "Grade A": {
+            "Definition": "The USPSTF recommends the service. There is high certainty that the net benefit is substantial.",
+            "Suggestions for Practice": "Offer or provide this service."
+          },
+          "Grade B": {
+            "Definition": "The USPSTF recommends the service. There is high certainty that the net benefit is moderate or there is moderate certainty that the net benefit is moderate to substantial.",
+            "Suggestions for Practice": "Offer or provide this service."
+          },
+          "Grade C": {
+            "Definition": "Clinicians may provide this service to selected patients depending on individual circumstances. However, for most individuals without signs or symptoms there is likely to be only a small benefit from this service.",
+            "Suggestions for Practice": "Offer or provide this service only if other considerations support the offering or providing the service in an individual patient."
+          },
+          "Grade D": {
+            "Definition": "The USPSTF recommends against the service. There is moderate or high certainty that the service has no net benefit or that the harms outweigh the benefits.",
+            "Suggestions for Practice": "Discourage the use of this service."
+          },
+          "I Statement": {
+            "Definition": "The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of the service.",
+            "Suggestions for Practice": "Read the clinical considerations section of USPSTF Recommendation Statement. If the service is offered, patients should understand the uncertainty about the balance of benefits and harms."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "USPTF Levels of Certainty Regarding Net Benefit": {
+          "High": "The available evidence usually includes consistent results from well-designed, well-conducted studies in representative primary care populations. These studies assess the effects of the preventive service on health outcomes. This conclusion is therefore unlikely to be strongly affected by the results of future studies.",
+          "Moderate": "The available evidence is sufficient to determine the effects of the preventive service on health outcomes, but confidence in the estimate is constrained by factors such as number, size, or quality of individual studies, inconsistency of findings across individual studies, limited generalizability of findings to routine primary care practice, and lack of coherence in the chain of evidence.",
+          "Low": "The available evidence is insufficient to assess effects on health outcomes due to limited number or size of studies, important flaws in study design or methods, inconsistency of findings across individual studies, gaps in the chain of evidence, findings not generalizable to routine primary care practice, and lack of information on important health outcomes."
+        },
+        "Underlying considerations for ACCF/AHA CPG development": [
+          "Science of the data and reserving a place in the set of instructions for clinicians.",
+          "Dynamic and variable resource distribution.",
+          "Difficulty in describing patient preference distribution without formal data."
+        ],
+        "Recommendation Grading": {
+          "NHLBI Evidence Quality and Recommendation Strength": {
+            "High": "Well-designed and conducted RCTs.",
+            "Moderate": "RCTs with minor limitations or well-conducted observational studies.",
+            "Low": "RCTs with major limitations or observational studies with major limitations."
+          }
+        },
+        "Workgroup 4 Recommendations": [
+          "Retain the current ACCF/AHA COR and LOE structure/nomenclature."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "grading_system": {
+          "strong_recommendation_high_quality": {
+            "benefit": "Benefits clearly outweigh risks",
+            "methodology": "RCTs without important limitations or overwhelming evidence from observational studies",
+            "interpretation": "Strong recommendation; can apply to most patients in most circumstances without reservation",
+            "implications": {
+              "patients": "Most would want the recommended course of action and only a small proportion would not; a person should request discussion if the intervention was not offered.",
+              "clinicians": "Most patients should receive the recommended course of action.",
+              "policymakers": "The recommendation can be adopted as a policy in most situations."
+            }
+          },
+          "strong_recommendation_moderate_quality": {
+            "benefit": "Benefits clearly outweigh risks",
+            "methodology": "RCTs with important limitations or exceptionally strong evidence from observational studies",
+            "interpretation": "Strong recommendation but may change when higher-quality evidence becomes available"
+          },
+          "strong_recommendation_low_quality": {
+            "benefit": "Benefits clearly outweigh risks",
+            "methodology": "Observational studies or case series",
+            "interpretation": "Strong recommendation but may change when higher-quality evidence becomes available"
+          },
+          "weak_recommendation_high_quality": {
+            "benefit": "Benefits closely balanced with risks",
+            "methodology": "RCTs without important limitations or overwhelming evidence from observational studies",
+            "interpretation": "For patients, most would want the recommended course of action and only a small proportion would not\u2014a decision may depend on an individual\u2019s circumstances."
+          },
+          "weak_recommendation_moderate_quality": {
+            "benefit": "Benefits closely balanced with risks",
+            "methodology": "RCTs with important limitations or exceptionally strong evidence from observational studies",
+            "interpretation": "Weak recommendation; best action may differ depending on circumstances or patients\u2019 or societal values"
+          },
+          "weak_recommendation_low_quality": {
+            "benefit": "Benefits closely balanced with risks",
+            "methodology": "Observational studies or case series",
+            "interpretation": "Very weak recommendations; other alternatives may be equally reasonable",
+            "implications": {
+              "policymakers": "Policymaking will require substantial debate and involvement of many stakeholders."
+            }
+          },
+          "insufficient": {
+            "benefit": "Balance of benefits and risks cannot be determined",
+            "methodology": "Evidence is conflicting, poor quality, or lacking",
+            "interpretation": "Insufficient evidence to recommend for or against routinely providing the service",
+            "implications": {
+              "patients": "Decisions based on evidence from scientific studies cannot be made.",
+              "clinicians": "Decisions based on evidence from scientific studies cannot be made.",
+              "policymakers": "Decisions based on evidence from scientific studies cannot be made."
+            }
+          }
+        },
+        "additional_notes": [
+          "ACP indicates American College of Physicians; and RCTs, randomized controlled trials.",
+          "Standardize how LOE: A, B, C are determined using a validated ACCF/AHA Evidence Grading Tool.",
+          "Change the wording of LOE to Quality of Evidence (QOE).",
+          "Add a separate category for QOE: E (expert opinion).",
+          "Change 'Treatment Effect' on the COR/LOE table to 'Intervention Effect'.",
+          "Add adjectives that 'map' COR/LOE to the NHLBI and GRADE."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "Workgroup 4 Additional Recommendations",
+        "details": {
+          "purpose": "Additional assessment of methodological quality (risk of bias) in individual studies, evaluation of quality across the body of evidence.",
+          "recommendations": [
+            "Use standardized tools like the Cochrane Risk of Bias Tool to assess risk of bias within and across studies.",
+            "Consider potential confounding factors in observational studies, such as selection bias.",
+            "Assess consistency, precision, directness, reporting bias, and other factors in both observational studies and RCTs.",
+            "Depict quality characteristics in a summary evaluation or table format.",
+            "Provide a high-level narrative synthesis of quality of evidence."
+          ]
+        },
+        "section_2": "Workgroup 5: Standards for Reporting Systematic Reviews",
+        "details_2": {
+          "focus": "CPGs and systematic reviews are crucial to cardiology practice.",
+          "importance": [
+            "CPGs are widely used and influential in clinical practice.",
+            "Strong adherence to ACCF/AHA CPGs is associated with improved outcomes."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "RCTs and Meta-Analyses of Garlic Therapy for Risk Treatment of Risk Factors",
+        "Objective": "The guideline discusses the incorporation of evidence from various research forms for managing chronic stable angina and risk factors through garlic therapy.",
+        "Summary": [
+          {
+            "Condition": "Hypercholesterolemia",
+            "Studies": [
+              {
+                "Author": "Berthold",
+                "Year": 1998,
+                "Study Type": "RCT",
+                "Patients": "25+",
+                "Daily Dose and Preparation": "10 mg steam distilled oil",
+                "Effect": "No difference in multiple measures"
+              },
+              {
+                "Author": "Isaacsohn",
+                "Year": 1998,
+                "Study Type": "RCT",
+                "Patients": 40,
+                "Daily Dose and Preparation": "900 mg powder",
+                "Effect": "No difference in multiple measures"
+              },
+              {
+                "Author": "Jain",
+                "Year": 1993,
+                "Study Type": "RCT",
+                "Patients": 42,
+                "Daily Dose and Preparation": "900 mg powder",
+                "Effect": "Reduction in LDL of 11% vs. 3% for placebo"
+              },
+              {
+                "Author": "Warshafsky",
+                "Year": 1993,
+                "Study Type": "Meta-analysis",
+                "Trials": 5,
+                "Daily Dose and Preparation": "1/2 - 1 clove per day",
+                "Effect": "Reduction in total cholesterol of 95 mg/dL"
+              }
+            ]
+          },
+          {
+            "Condition": "Hypertension",
+            "Studies": [
+              {
+                "Author": "Silagy",
+                "Year": 1994,
+                "Study Type": "Meta-analysis",
+                "Trials": 8,
+                "Daily Dose and Preparation": "600-900 mg powder",
+                "Effect": "Small reduction in systolic and diastolic BP"
+              }
+            ]
+          }
+        ],
+        "Additional Information": "American College of Physicians guidelines for chronic stable angina management discussed. An EPC added a comprehensive summary of SRs and CPGs, highlighting the importance of independent review in enhancing the credibility of scientific research."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "ACCF/AHA Guideline Methodology Summit Report",
+        "focus": "Comparison of beta blockers and calcium antagonists in angina relief and exercise time to 1-mm ST depression",
+        "figures": [
+          {
+            "figure": "5.1a",
+            "title": "Beta Blockers Versus Ca Antagonists: Angina Relief",
+            "source": "Reproduced from Gibbons et al.",
+            "x_axis": "Trial",
+            "y_axis": "Mean Difference (<0 Favors B-Blockade)"
+          },
+          {
+            "figure": "5.1b",
+            "title": "Beta Blockers Versus Calcium Antagonists Exercise Time to 1-mm ST Depression",
+            "source": "Reproduced from Gibbons et al.",
+            "x_axis": "Trial",
+            "y_axis": "Standardized Mean Difference (>0 Favors B-Blockade)"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The document discusses the integration of CPGs (Clinical Practice Guidelines) without being considered duplicate publications. The focus is on providing a summary and addressing clinical questions without making practice recommendations. The importance of transparency in distinguishing SR (Systematic Reviews) based recommendations from others is emphasized, including the creation of 'CPG review tables' for recommendations based on non-systematically collected information. The collaboration between ERC and GWC aims to resolve any discord. It also highlights the need for evidence-based transparency and the role of liaison committee members in maintaining this."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General information": "The ACCF/AHA CPGs discuss the sequence of systematic reviews in guideline development. Recommendations supported by systematic reviews should be published separately when feasible and include appropriate class and level of evidence. The methodology encourages compliance with Institute of Medicine (IOM) recommendations. The document lists guidelines from various institutions about assessing methods, consumer involvement in healthcare, utilization of management strategies, and performance metrics in acute coronary syndrome care."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The document appears to be a section from the ACCF/AHA Clinical Practice Guideline Methodology Summit Report. It lists authors and their comprehensive relationships with industry and others as of December 2011. It includes disclosures regarding employment, consultancy, speaker's bureau, ownership/partnership, personal research, institutional/organizational financial benefits, and expert witness engagements for several committee members."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "ACCF/AHA Guideline Methodology Summit Report",
+        "authors": "Jacobs et al.",
+        "journal": "JACC Vol. 61, No. 2, 2013",
+        "publication_date": "January 15, 2013",
+        "pages": "213-65",
+        "committee_members": [
+          {
+            "name": "Elliott M. Antman",
+            "affiliation": "Harvard Medical School\u2014Associate Dean for Clinical/Translational Research",
+            "employment": "Harvard Medical",
+            "consultant": "None",
+            "speaker_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": [
+              "Daiichi Sankyo",
+              "Novartis",
+              "NIH",
+              "Accumetrics",
+              "Pfizer",
+              "Roche",
+              "Biosite",
+              "Beckman Coulter",
+              "Amgen",
+              "AstraZeneca",
+              "Bayer Healthcare",
+              "Bristol-Myers Squibb",
+              "CV Therapeutics",
+              "Eli Lilly",
+              "GlaxoSmithKline",
+              "Inotek Pharmaceuticals",
+              "Integrated Therapeutics",
+              "Merck",
+              "Millennium Pharmaceuticals",
+              "Nuvelo",
+              "Ortho-Clinical Diagnostics",
+              "Pharmaceutical Research Institute",
+              "Sanofi-Aventis",
+              "Sanofi-Synthelabo Recherche",
+              "Schering-Plough Research Institute"
+            ],
+            "institutional_organizational_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Donna K. Arnett",
+            "affiliation": "University of Alabama at Birmingham, Epidemiology School of Public Health\u2014Chair and Professor",
+            "employment": "University of Alabama at Birmingham",
+            "consultant": "None",
+            "speaker_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Marnie Bertolet",
+            "affiliation": "University of Pittsburgh, Department of Epidemiology, Graduate School of Public Health\u2014Assistant Professor",
+            "employment": "University of Pittsburgh",
+            "consultant": "None",
+            "speaker_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Deepak L. Bhatt",
+            "affiliation": "VA Boston Healthcare System\u2014Chief of Cardiology; Brigham and Women\u2019s Hospital\u2014Senior Physician; TIMI Study Group\u2014Senior Investigator; Harvard Medical School\u2014Professor of Medicine",
+            "employment": "VA Boston Healthcare System",
+            "consultant": "None",
+            "speaker_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": [
+              "Amarin",
+              "AstraZeneca",
+              "Bristol-Myers Squibb",
+              "Duke Clinical Research Institute",
+              "Eisai",
+              "Ethicon",
+              "Medtronic",
+              "PLx Pharma",
+              "Sanofi-Aventis",
+              "The Medicines Company",
+              "Takeda"
+            ],
+            "institutional_organizational_other_financial_benefit": [
+              "ACC Cardiosource.org\u2014(Clinical Trials Editor)",
+              "AHA GWTG (Science Subcommittee Chair)"
+            ],
+            "expert_witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Committee Members": [
+          {
+            "Name": "Ralph G. Brindis",
+            "Employment": "Northern California Kaiser Permanente\u2014Senior Advisor for Cardiovascular Disease; University of California, San Francisco\u2014Clinical Professor of Medicine",
+            "Consultant": "None",
+            "Speaker's Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "California State Elective PCI Project (Advisory Board)",
+              "C-PORT Elective RCT",
+              "DAPT Trial (Advisory Board)",
+              "State of California Health Department (STEMI-PCI Work Group)",
+              "State of California\u2014OSHPD"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Mark A. Creager",
+            "Employment": "Brigham and Women\u2019s Hospital, Vascular Center\u2014Director; Harvard Medical School\u2014Professor of Medicine",
+            "Consultant": [
+              "AstraZeneca",
+              "Itamar",
+              "Genzyme",
+              "Merck",
+              "Novartis",
+              "Vascutek"
+            ],
+            "Speaker's Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "American Board of Vascular Medicine",
+              "AHA",
+              "Society for Vascular Medicine"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "David L. DeMets",
+            "Employment": "University of Wisconsin\u2014Max Halperin Professor of Biostatistics and Medical Informatics",
+            "Consultant": [
+              "Dana Farber Cancer Center (Advisory Board)",
+              "Duke University (Advisory Board)",
+              "Rockefeller University (Advisory Board)",
+              "University of Texas San Antonio and South Western Universities (Advisory Board)",
+              "Vanderbilt University (Advisory Board)"
+            ],
+            "Speaker's Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "Actelion (DSMB)",
+              "Anthera (DSMB)",
+              "AstraZeneca (DSMB)",
+              "Boehringer Ingelheim (DSMB)",
+              "Genentech (DSMB)",
+              "GlaxoSmithKline (DSMB)",
+              "Medtronic (DSMB)",
+              "NHLBI (DSMB)",
+              "Roche (DSMB)",
+              "Sanofi-aventis (DSMB)"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "NIH (Advisory Board)"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Kay Dickersin",
+            "Employment": "Johns Hopkins Bloomberg School of Public Health\u2014Professor; Center for Clinical Trials\u2014Director; U.S. Cochrane Center, Department of Epidemiology\u2014Director",
+            "Consultant": "None",
+            "Speaker's Bureau": "None",
+            "Ownership/Partnership/Principal": "LifebridgeHealth",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Committee Members": [
+          {
+            "Name": "Steven M. Ettinger",
+            "Employment": "Penn State University, Penn State Heart & Vascular Institute\u2014Professor of Medicine and Radiology; Interventional Program Director",
+            "Consultant": "None",
+            "Speaker's Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "Medtronic",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Gregg C. Fonarow",
+            "Employment": "UCLA, Division of Cardiology\u2014Professor of Medicine; Ahmanson-UCLA Cardiomyopathy Center\u2014Director",
+            "Consultant": [
+              "Amgen",
+              "Gambro",
+              "Johnson & Johnson",
+              "Medtronic",
+              "Novartis*",
+              "Takeda"
+            ],
+            "Speaker's Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "NHLBI*",
+              "NIH/NIAID*",
+              "Novartis*"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "ACCF/AHA Task Force on Clinical Data Standards\u2020",
+              "ACTION Registry GWTG (Steering Committee Chair)\u2020",
+              "Medtronic\u2014IMPROVE HF (Steering Committee)\u2020"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Raymond J. Gibbons",
+            "Employment": "Mayo Clinic\u2014Professor of Medicine",
+            "Consultant": [
+              "Lantheus Medical Imaging",
+              "Molecular Insight Pharmaceuticals"
+            ],
+            "Speaker's Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "Velomedix*",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Robert A. Guyton",
+            "Employment": "Emory University School of Medicine\u2014Distinguished Charles Ross Hatcher, Jr., Professor of Surgery; Emory University Hospital\u2014Chief of Cardiothoracic Surgery",
+            "Consultant": "None",
+            "Speaker's Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "NIH\u2020",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "2011, Defendant, cardiac surgery\u2014aortic dissection during coronary bypass"
+          },
+          {
+            "Name": "Jonathan L. Halperin",
+            "Employment": "Mount Sinai School of Medicine\u2014Robert and Harriet Heilbrunn Professor of Medicine (Cardiology)",
+            "Consultant": [
+              "Astellas Pharma",
+              "AstraZeneca\u2020",
+              "AtriCure",
+              "Bayer HealthCare",
+              "Biotronik*",
+              "Boehringer Ingelheim*",
+              "Bristol-Meyers Squibb",
+              "Daiichi Sankyo",
+              "Johnson & Johnson",
+              "Ortho-McNeil",
+              "Janssen Pharmaceuticals",
+              "Pfizer",
+              "Sanofi-aventis*"
+            ],
+            "Speaker's Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "American College of Chest Physicians\u2020",
+              "FDA (Cardiorenal Advisory Committee)",
+              "NIH, NHLBI\u2020",
+              "NIH, NHLBI (DSMB)\u2020"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "John G. Harold",
+            "Employment": "Cedars-Sinai Heart Institute and David Geffen School of Medicine at UCLA\u2014Clinical Professor of Medicine",
+            "Consultant": "None",
+            "Speaker's Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "ACC (President-Elect)",
+              "American Board of Internal Medicine\u2020",
+              "AHA*"
+            ],
+            "Expert Witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "ACCF/AHA Guideline Methodology Summit Report",
+        "publication_info": "JACC Vol. 61, No. 2, 2013, January 15, 2013:213-65",
+        "authors_contributions": [
+          {
+            "name": "Yulei He",
+            "affiliation": "Harvard Medical School, Department of Health Care Policy",
+            "role": "Assistant Professor",
+            "contributions": {}
+          },
+          {
+            "name": "Judith S. Hochman",
+            "affiliation": "New York University School of Medicine, Harold Snyder Family Professor of Cardiology",
+            "contributions": {
+              "industry_and_agencies": [
+                "Bristol-Myers Squibb",
+                "Eli Lilly",
+                "GlaxoSmithKline",
+                "Sanofi-aventis"
+              ],
+              "personal_research": [
+                "Bayer HealthCare (DSMB)",
+                "Johnson & Johnson (DSMB)",
+                "Merck\u2014TIMI 50 (DSMB)",
+                "Schering-Plough\u2014TIMI 50 (DSMB)"
+              ]
+            }
+          },
+          {
+            "name": "Marguerite A. Koster",
+            "affiliation": "Kaiser Permanente Southern California, Permanente Medical Group",
+            "role": "Practice Leader",
+            "contributions": {}
+          },
+          {
+            "name": "Frederick G. Kushner",
+            "affiliation": "Tulane University Medical Center, Clinical Professor",
+            "role": "Medical Director",
+            "contributions": {
+              "institutional_financial_benefits": [
+                "FDA (Science Advisory Board)"
+              ]
+            }
+          },
+          {
+            "name": "Pamela B. Mangu",
+            "affiliation": "American Society of Clinical Oncology",
+            "role": "Senior Practice Guideline Specialist",
+            "contributions": {}
+          },
+          {
+            "name": "Sharon-Lise T. Normand",
+            "affiliation": "Harvard Medical School, Department of Health Care Policy",
+            "role": "Professor of Health Care Policy-Biostatistics",
+            "contributions": {
+              "industry_and_agencies": [
+                "Institute for Clinical Evaluative Sciences",
+                "Massachusetts Medical Society",
+                "The Medicines Company"
+              ],
+              "institutional_financial_benefits": [
+                "VA Health Administration"
+              ]
+            }
+          },
+          {
+            "name": "E. Magnus Ohman",
+            "affiliation": "Duke University Medical Center, Department of Medicine",
+            "role": "Director",
+            "contributions": {
+              "industry_consultations": [
+                "AstraZeneca",
+                "Bristol-Myers Squibb",
+                "Boehringer Ingelheim",
+                "Gilead Sciences",
+                "Liposcience",
+                "Merck",
+                "Pozen",
+                "Roche",
+                "Sanofi-aventis",
+                "The Medicines Company",
+                "WebMD"
+              ],
+              "personal_research": [
+                "Daiichi Sankyo",
+                "Eli Lilly",
+                "Maquet"
+              ]
+            }
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document_title": "ACCF/AHA Guideline Methodology Summit Report",
+        "journal": "JACC",
+        "date": "January 15, 2013",
+        "committee_members": [
+          {
+            "name": "Eduardo Ortiz",
+            "employment": "NIH/NHLBI, Division for the Application of Research Discoveries",
+            "role": "Senior Medical Officer",
+            "consultant": "None",
+            "speaker's_bureau": "None",
+            "ownership/partnership": "None",
+            "personal_research": "None",
+            "institutional_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Eric D. Peterson",
+            "employment": "Duke University Medical Center",
+            "role": "Professor of Medicine & Director of Clinical Research Institute",
+            "consultant": "None",
+            "speaker's_bureau": "None",
+            "ownership/partnership": "None",
+            "personal_research": [
+              "Eli Lilly",
+              "Johnson & Johnson"
+            ],
+            "institutional_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Amir Qaseem",
+            "employment": "American College of Physicians",
+            "role": "Director, Clinical Policy Medical Education Division",
+            "consultant": "None",
+            "speaker's_bureau": "None",
+            "ownership/partnership": "None",
+            "personal_research": "None",
+            "institutional_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "William H. Roach, Jr.",
+            "employment": "AHA",
+            "role": "Chairman of the Board",
+            "consultant": [
+              "Various hospitals/academic medical centers (general counsel)"
+            ],
+            "speaker's_bureau": "None",
+            "ownership/partnership": "None",
+            "personal_research": "None",
+            "institutional_benefit": "AHA",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Ralph L. Sacco",
+            "employment": "University of Miami, Miller School of Medicine, Department of Neurology",
+            "role": "Chairman",
+            "consultant": "None",
+            "speaker's_bureau": "None",
+            "ownership/partnership": "None",
+            "personal_research": "None",
+            "institutional_benefit": "AHA",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Michael R. Sayre",
+            "employment": "Ohio State University",
+            "role": "Associate Professor of Emergency Medicine",
+            "consultant": "None",
+            "speaker's_bureau": "None",
+            "ownership/partnership": "None",
+            "personal_research": "Medtronic Foundation",
+            "institutional_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Sidney C. Smith, Jr.",
+            "employment": "University of North Carolina at Chapel Hill",
+            "role": "Professor of Medicine",
+            "consultant": "None",
+            "speaker's_bureau": "None",
+            "ownership/partnership": "None",
+            "personal_research": "None",
+            "institutional_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Mark R. Somerfield",
+            "employment": "American Society of Clinical Oncology",
+            "role": "Director, Clinical Affairs",
+            "consultant": "None",
+            "speaker's_bureau": "None",
+            "ownership/partnership": "None",
+            "personal_research": "None",
+            "institutional_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "William G. Stevenson",
+            "employment": "Brigham and Women's Hospital",
+            "role": "Director; Harvard Medical School - Professor of Medicine",
+            "program": "Cardiac Arrhythmia Program",
+            "consultant": "None",
+            "speaker's_bureau": "Biosense Webster (needle ablation patent)",
+            "ownership/partnership": "Biosense Webster",
+            "personal_research": "Circulation, Arrhythmia and EP (Editor)",
+            "institutional_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Gordon F. Tomaselli",
+            "employment": "Johns Hopkins University, Division of Cardiology",
+            "role": "Chief; Michel Mirowski Professor of Cardiology; Professor of Medicine and Molecular Medicine",
+            "consultant": "None",
+            "speaker's_bureau": "None",
+            "ownership/partnership": "None",
+            "personal_research": "AHA (President)",
+            "institutional_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Clyde W. Yancy",
+            "employment": "Northwestern University, Feinberg School of Medicine",
+            "role": "Magerstadt Professor of Medicine; Division of Cardiology - Chief",
+            "consultant": "None",
+            "speaker's_bureau": "None",
+            "ownership/partnership": "None",
+            "personal_research": "AHA; Patient Centered Outcomes Research Institute",
+            "institutional_benefit": "None",
+            "expert_witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "reportTitle": "ACCF/AHA Guideline Methodology Summit Report",
+        "documentDate": "January 15, 2013",
+        "context": "This table represents all healthcare relationships of authors with industry and other entities, emphasizing transparency of interests. The document aims to delineate relevant relationships at the time of publication related to cardiovascular health."
+      },
+      "genes": [
+        {
+          "Gene": "COAG",
+          "Associated Conditions": [
+            "Anticoagulation Through Genetics"
+          ],
+          "Occurrences": 1,
+          "context": "Clarification of Optimal Anticoagulation Through Genetics"
+        }
+      ]
+    },
+    {
+      "content": {
+        "Title": "APPENDIX 2. WORKGROUP COMPARISON TABLES",
+        "General Information": [
+          {
+            "Element": "1. Establishing transparency",
+            "IOM Standards and Elements": "The processes by which a CPG is developed and funded should be detailed explicitly and publicly accessible.",
+            "ACCF/AHA Current Methodology": "The ACCF/AHA Methodology Manual and processes are public on the ACCF and AHA websites. Selected processes are detailed in the preamble with each CPG.",
+            "Workgroup 1 Proposal": "The ACCF/AHA CPG methodology is currently compliant."
+          },
+          {
+            "Element": "2. Management of COI",
+            "Sub-elements": [
+              {
+                "Element": "2.1 Prior to selection of the Guideline Development Group (GDG)",
+                "IOM Standards and Elements": "Individuals being considered for membership should declare all interests and activities potentially resulting in COI with development group activity, by written disclosure.",
+                "ACCF/AHA Current Methodology": "The ACCF/AHA has a very detailed RWI policy that includes this standard.",
+                "Workgroup 1 Proposal": "Patient representatives and all other GWC members should explicitly declare any intellectual bias. The GWC chair is responsible for balancing competing intellectual perspectives."
+              },
+              {
+                "Element": "2.2 Disclosure of COIs within GDG",
+                "IOM Standards and Elements": "All COI of each GDG member should be reported and discussed. Each panel member should explain how their COI could influence the CPG development.",
+                "ACCF/AHA Current Methodology": "The ACCF/AHA has a very detailed RWI policy that includes this standard.",
+                "Workgroup 1 Proposal": "The ACCF/AHA CPG methodology is currently compliant."
+              },
+              {
+                "Element": "2.3 Divestment",
+                "IOM Standards and Elements": "Members of the GDG should divest themselves of financial investments.",
+                "ACCF/AHA Current Methodology": "The ACCF/AHA RWI policy does not require divestment but requires that RWI be balanced and managed appropriately.",
+                "Workgroup 1 Proposal": "Divestment is not required by ACCF/AHA policy."
+              },
+              {
+                "Element": "2.4 Exclusions",
+                "IOM Standards and Elements": "GDG members should not have COI.",
+                "ACCF/AHA Current Methodology": "The ACCF/AHA policy requires that a majority of the GWC have no relevant RWI.",
+                "Workgroup 1 Proposal": "The ACCF/AHA policy requires that a majority of the GWC have no relevant RWI."
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "IOM Standards and Elements": [
+          {
+            "3. GDC composition": {
+              "3.1": "The GDG should be multidisciplinary and balanced, comprising a variety of methodological experts and clinicians, and populations expected to be affected by the CPG.",
+              "3.2": "Patient and public involvement should be facilitated by including a current or former patient and a patient advocate or patient/consumer organization representative in the GDG.",
+              "3.3": "Strategies to increase effective participation of patient and consumer representatives, including training in appraisal of evidence, should be adopted by GDGs."
+            }
+          },
+          {
+            "4. CPG-SR intersection": {
+              "4.1": "CPG developers should use SRs that meet standards set by the IOM\u2019s Committee on Standards for Systematic Reviews of Comparative Effectiveness Research.",
+              "4.2": "When SRs are conducted, the GDG and SR team should interact regarding the scope, approach, and output of both processes."
+            }
+          },
+          {
+            "5. Establishing evidence foundations and rating strength of recommendations": {
+              "5.1": "For each recommendation, explanation of the reasoning, description of potential benefits and harms, and other relevant information should be provided."
+            }
+          }
+        ],
+        "ACCF/AHA Current Methodology": [
+          {
+            "3. GDC composition": {
+              "3.1": "The ACCF/AHA GWC is a multidisciplinary group that may include various specialists.",
+              "3.2": "The ACCF/AHA GWC does not currently include patients and public representatives.",
+              "3.3": "The ACCF/AHA GWC does not currently include patients and public representatives."
+            }
+          },
+          {
+            "4. CPG-SR intersection": {
+              "4.1": "Current ACCF/AHA CPG evidence-review methodology does not incorporate a formal SR.",
+              "4.2": "Current ACCF/AHA CPG evidence-review methodology does not incorporate a separate ERC."
+            }
+          },
+          {
+            "5. Establishing evidence foundations and rating strength of recommendations": {
+              "5.1": "The ACCF/AHA CPG methodology uses COR/LOE methodology."
+            }
+          }
+        ],
+        "Workgroup 1 Proposal": "The ACCF/AHA CPG methodology is currently compliant. Inclusion of a patient representative in the GWC is recommended. An evidence grading tool to review the quality of the evidence is being developed."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Jacobs et al. ACCF/AHA Guideline Methodology Summit Report",
+        "Sections": {
+          "6": {
+            "Title": "Articulation of recommendations",
+            "Summary": [
+              "6.1: Recommendations should be articulated in a standardized format, detailing recommended actions and circumstances.",
+              "6.2: Strong recommendations should be clearly worded for compliance evaluation.",
+              "Current Compliance: ACCF/AHA CPG methodology follows the set standards."
+            ]
+          },
+          "7": {
+            "Title": "External review",
+            "Summary": [
+              "7.1: Reviews should include a full spectrum of stakeholders, organizations, and representatives.",
+              "7.2: Authorship confidentiality must be maintained unless waived.",
+              "7.3: All external review comments should be considered.",
+              "7.4: Drafts for the external review process should be available to the general public.",
+              "Current Compliance: Extensive peer review is included, though access is not extended to the general public. Public posting is under consideration."
+            ]
+          },
+          "8": {
+            "Title": "Updating",
+            "Summary": [
+              "8.1: Publication date, systematic evidence review, and proposed update dates should be documented.",
+              "8.2: Literature should be monitored regularly for new evidence.",
+              "8.3: CPG should be updated with the emergence of new evidence or interventions.",
+              "Current Compliance: Dates and evidence review included, reviews twice yearly at major meetings. Updates based on specific criteria, maintaining safety and efficacy."
+            ]
+          }
+        },
+        "Abbreviations": {
+          "ACCF": "American College of Cardiology Foundation",
+          "AHA": "American Heart Association",
+          "COI": "conflict of interest",
+          "COR": "class of recommendation",
+          "CPG": "clinical practice guideline",
+          "CUE": "Consumers United for Evidence Based Medicine",
+          "GDC": "guideline development group",
+          "GWC": "guideline writing committee",
+          "IOM": "Institute of Medicine",
+          "LBCT": "late-breaking clinical trial",
+          "LOE": "level of evidence",
+          "RCT": "randomized controlled trial",
+          "RWI": "relationships with industry and other entities",
+          "SR": "systematic review"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Workgroup 2 Comparison Table": {
+          "IOM Standards and Elements": [
+            "2.1 Establish a team with appropriate expertise and experience to conduct the SR",
+            "2.2 Manage bias and COI of the team conducting the SR"
+          ],
+          "2.1.1 Include expertise in the pertinent clinical content areas": "The ACCF/AHA does not perform a formal SR according to IOM standards, but rather the literature is reviewed and incorporated into a CPG.",
+          "2.1.2 Include expertise in SR methods": "The ACCF/AHA does not perform a formal SR according to IOM standards.",
+          "2.1.3 Include expertise in searching for relevant evidence": "The ACCF/AHA does not perform a formal SR according to IOM standards.",
+          "2.1.4 Include expertise in quantitative methods": "The ACCF/AHA does not perform a formal SR according to IOM standards.",
+          "2.1.5 Include other expertise as appropriate": "The ACCF/AHA does not perform a formal SR according to IOM standards.",
+          "2.2.1 Require each team member to disclose potential COI and professional or intellectual bias": "The ACCF/AHA has an official RWI policy.",
+          "2.2.2 Exclude individuals with a clear financial conflict": "The ACCF/AHA does not exclude all individuals with a relevant RWI."
+        },
+        "Standards for Initiating a Systemative Review": [
+          "A committee should be formed of individuals with appropriate expertise.",
+          "The ERC and GWC should remain separate."
+        ],
+        "Workgroup 2 Proposal": {
+          "ERC includes statisticians, stakeholders, policymakers, and expand with consumers input.": "The ERC includes experts from various fields such as nurses, pharmacists."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Document Title": "ACCF/AHA Guideline Methodology Summit Report",
+        "Date": "January 15, 2013",
+        "Journal": "JACC Vol. 61, No. 2, 2013",
+        "Topics Covered": [
+          "Standards for Initiating a Systematic Review",
+          "Handling of Intellectual Bias",
+          "Expert and Stakeholder Input",
+          "Conflict of Interest Management",
+          "Analytic Framework Development",
+          "Clinical Question Formulation"
+        ],
+        "Summary": [
+          {
+            "2.2.3": "Emphasizes excluding individuals whose professional or intellectual bias would diminish the credibility of the review process."
+          },
+          {
+            "2.3.1": "Discusses ensuring expert and stakeholder input is involved, and the independence of the review team is protected."
+          },
+          {
+            "2.5.1": "Focuses on confirming the need for new reviews and developing analytic frameworks, with a mention of Checklist 1 for standards in question formulation."
+          },
+          {
+            "ACCF/AHA Policy": "No official policy on intellectual bias during guideline formulation, but ensures diverse expert opinions are included."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "generalSummary": "The document discusses the ACCF/AHA methodology for initiating a systematic review in clinical practice guidelines (CPG). It compares existing methods with IOM standards, noting that the ACCF/AHA does not follow a formal systematic review (SR) according to IOM standards but incorporates literature into CPGs based on availability and quality of evidence.",
+        "systematicReviewProtocol": {
+          "rationale": "No formal SR is performed according to IOM standards, with literature reviewed and incorporated into CPGs.",
+          "literatureSelectionCriteria": "Inclusion and exclusion criteria based on defined search limits for MeSH searches.",
+          "searchStrategy": "Described in the Methodology Manual, with an emphasis on availability and quality of evidence.",
+          "evidenceGrading": "An Evidence Grading Tool is being developed to systematize the analysis of individual studies."
+        },
+        "dataExtraction": {
+          "strategy": "No explicit data extraction is completed. Evidence is included in tables created by staff or GWC members.",
+          "conflictResolution": "This process is not currently part of the ACCF/AHA methodology."
+        },
+        "evidenceEvaluation": {
+          "grading": "Done implicitly by GWC members.",
+          "quantitativeAndQualitativeStrategies": "The current practice of rarely using differential treatment effects persists."
+        },
+        "timeTable": {
+          "updateTimeframe": "Searches are limited to the timeframe following the last CPG version. For new or full revisions, no time limits unless necessary, with preference to keep the range ~10 years prior."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Standards for Initiating a Systematic Review": {
+          "Protocol Submission and Review": "The ACCF/AHA CPGs do not undergo a public comment period; however, a thorough peer review is conducted.",
+          "Public Protocol Availability": "Protocols are published in the Journal of the American College of Cardiology and Circulation."
+        },
+        "Recommendations for Conducting Systematic Reviews": {
+          "Evidence Search": "Given existing resources, conducting a systematic review (SR) for all topics may not be feasible.",
+          "External Resources": "Existing high-quality systematic reviews (SR) should be used.",
+          "Collaboration": "Partnerships with organizations conducting SRs as stand-alone products or for guideline support should be considered."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Standards for Finding and Assessing Individual Studies": {
+          "3.1.1": "No librarian is used; key questions in PICOT(S) format are not used; however, key search terms are used based on the CPG table of contents.",
+          "3.1.2": "GWC members determine the search strategy using the CPG table of contents, a spreadsheet of LBCTs, and literature used in the current CPG.",
+          "3.1.3": "GWC members may provide peer examination, input into search strategies, and key words.",
+          "3.1.4": "Databases used include MEDLINE, PubMed, and clinicaltrials.gov.",
+          "3.1.5": "PubMed\u2019s 'search for additional articles' and Google Scholar are both used.",
+          "3.1.6": "Unpublished data are only considered if not used in CPG figures or tables unless the data have important public health implications.",
+          "3.1.7": "The time period for searches is stated in the CPG introduction. Cardiovascular meetings using the English language are routinely monitored."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "3.1.8": "Search subject-specific databases if other databases are unlikely to provide all relevant evidence.",
+        "3.1.9": "Search regional bibliographic databases if other databases are unlikely to provide all relevant evidence.",
+        "3.2": "Take action to address potentially biased reporting of research results.",
+        "3.2.1": "Search grey literature databases, clinical trial registries, and other sources of unpublished information about studies.",
+        "3.2.2": "Invite researchers to clarify information related to study eligibility, study characteristics, and risk of bias.",
+        "3.2.3": "Invite all study sponsors and researchers to submit unpublished data, including unreported outcomes, for possible inclusion in the systematic review.",
+        "3.2.4": "Hand search selected journals and conference abstracts."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "3. Standards for Finding and Assessing Individual Studies": [
+          {
+            "3.2.5 Conduct a Web search": "Web searches are conducted by GWC and CPG staff using sites like PubMed and Google Scholar."
+          },
+          {
+            "3.2.6 Search for studies reported in languages other than English if appropriate": "PubMed search features include English-only journals. Articles in other languages may be used if translated. The ACCF/AHA recommends inclusion of studies published in multiple languages."
+          },
+          {
+            "3.3 Screen and select studies": [
+              {
+                "3.3.1 Include or exclude studies based on the protocol's prespecified criteria": "Studies inclusion/exclusion based on GWC-defined criteria. ACCF/AHA methodology should clarify these criteria."
+              },
+              {
+                "3.3.2 Use observational studies in addition to RCT": "Focus on published articles, including RCTs and nonrandomized studies. ACCF/AHA recommends observational studies should be searched."
+              },
+              {
+                "3.3.3 Use two or more members of the review team, working independently": "CPG sections may be screened independently by members with expertise."
+              }
+            ]
+          },
+          {
+            "3.3.4 Train screeners using written documentation": "GWC members receive orientation to ACCF/AHA Methodology Manual to improve accuracy."
+          },
+          {
+            "3.3.5 Use one of two strategies to select studies": "Research staff conducts searches, and relevant articles are sent to GWC members."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Sections": [
+          {
+            "Title": "3.3.6 Taking account of the risk of bias",
+            "Details": "Consider including observational studies to address gaps in the evidence from RCT on the benefits of interventions."
+          },
+          {
+            "Title": "3.4 Document the search",
+            "Details": "Maintain an electronic file of searches by GWC members; include search criteria and key terms for CPG introduction."
+          },
+          {
+            "Title": "3.4.2 Document the disposition of each report identified",
+            "Details": "Exclude unjustified studies or reports in the CPG."
+          },
+          {
+            "Title": "3.5 Manage data collection",
+            "Details": "Use multiple reviewers for critical data extraction; no formal pilot-testing for data supplement tables."
+          },
+          {
+            "Title": "3.5.2 Link publications from the same study",
+            "Details": "Identify multiple publications to avoid repeating information."
+          },
+          {
+            "Title": "3.5.3 Use standard data extraction forms",
+            "Details": "Develop evidence tables with uniform key characteristics for standardization."
+          },
+          {
+            "Title": "3.5.4 Pilot-test the data extraction forms and process",
+            "Details": "Data extraction forms should be piloted and revised."
+          }
+        ],
+        "Current Methodology": "ACCF/AHA CPG methodology is currently compliant, with the use of observational and unpublished studies, and audited data for FDA approval being considered."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "ACCF/AHA Guideline Methodology Summit Report",
+        "Sections": [
+          {
+            "Title": "3. Standards for Finding and Assessing Individual Studies",
+            "Elements": [
+              {
+                "IOM Standards": "Critically appraise each study",
+                "ACCF/AHA Methodology": {
+                  "3.6.1": {
+                    "Task": "Systematically assess the risk of bias, using predefined criteria",
+                    "Description": "GWC expertise is used to assess the risk of bias. The ACCF/AHA system for assessing bias is subjective and qualitative.",
+                    "Workgroup Proposal": "Documentation of the assessment of the risk of bias is essential. The system used is controversial with multiple tools, including one by ACCF/AHA."
+                  }
+                }
+              },
+              {
+                "IOM Standards": "Assess relevance of the study's populations, interventions, and outcome measures",
+                "ACCF/AHA Methodology": {
+                  "3.6.2": {
+                    "Task": "Subjectively assess bias relevance",
+                    "Description": "System is subjective and relies on GWC members to assess relevance.",
+                    "Workgroup Proposal": "Relevance of the study's populations, interventions, and others should be assessed."
+                  }
+                }
+              },
+              {
+                "IOM Standards": "Assess fidelity of interventions",
+                "ACCF/AHA Methodology": {
+                  "3.6.3": {
+                    "Task": "Review the fidelity of interventions",
+                    "Description": "GWC assesses this implicitly.",
+                    "Workgroup Proposal": "Explicit assessment of intervention delivery is needed."
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "Title": "4. Standards for Synthesizing the Body of Evidence",
+            "Elements": [
+              {
+                "IOM Standards": "Use a prespecified method to evaluate the body of evidence",
+                "ACCF/AHA Methodology": {
+                  "4.1.1": {
+                    "Task": "Assess characteristics of the body of evidence",
+                    "Description": "ACCF/AHA does not systematically assess these characteristics but judges consistency, precision, and directness.",
+                    "Workgroup Proposal": "IOM-recommended elements should be accepted for describing quality across studies."
+                  }
+                }
+              },
+              {
+                "IOM Standards": "Systematically assess additional characteristics for observational research",
+                "ACCF/AHA Methodology": {
+                  "4.1.2": {
+                    "Task": "Assess dose-response, plausible confounding, strength of association",
+                    "Description": "Performed on a case basis.",
+                    "Workgroup Proposal": {
+                      "Recommendations": [
+                        "Standardize method of assessment",
+                        "Depict qualitative assessments",
+                        "Provide risk-of-bias table formats",
+                        "Generate summary and evidence templates"
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "IOM Standards and Elements": [
+          "For each outcome specified in the protocol, use consistent language to characterize the level of confidence in the estimates of the effect of an intervention.",
+          "Conduct a qualitative synthesis.",
+          "Describe the clinical and methodological characteristics of the included studies, including their size, inclusion or exclusion of important subgroups, timeliness, and other relevant factors.",
+          "Describe the strengths and limitations of individual studies and patterns across studies.",
+          "Describe, in plain terms, how flaws in the design or execution of the study (or groups of studies) could bias the results, explaining the reasoning behind these judgments.",
+          "Describe the relationships between the characteristics of the individual studies and their reported findings and patterns across studies.",
+          "Discuss the relevance of individual studies to the populations, comparisons, cointerventions, settings, and outcomes or measures of interest.",
+          "Decide if, in addition to a qualitative analysis, the SR will include a quantitative analysis (meta-analysis).",
+          "Explain why a pooled estimate might be useful to decision makers.",
+          "If conducting a meta-analysis, use expert methodologists to develop, execute, and peer review the meta-analyses."
+        ],
+        "ACCF/AHA Current Methodology": [
+          "By using the COR/LOE, the ACCF/AHA uses consistent language to characterize the level of confidence in the estimates of the effect of an intervention.",
+          "This is currently presented in the form of evidence tables but may be presented in the text as well.",
+          "Reporting meta-analyses for the subject is encouraged. Limitations regarding meta-analyses are explained in the text.",
+          "Meta-analyses are not performed by GWC members, but published meta-analyses are reported. Meta-analyses used must be published in peer-reviewed journals, and any limitations of the meta-analysis are explained."
+        ],
+        "Workgroup 4 Proposal": [
+          "The IOM standard should be followed.",
+          "The Workgroup proposes the following: Carry out a qualitative assessment of individual studies and aggregated studies where appropriate.",
+          "This will require allocation of resources for additional methodological expertise, because this exercise is judged to be beyond the expertise and time commitment expected of GWC members alone.",
+          "When available, high-quality SRs from reputable organizations (e.g., the NHLBI, Cochrane, Kaiser, or EPC) should be used.",
+          "If a new SR is needed, resources will need to be secured to pursue de novo analysis.",
+          "Notwithstanding these efforts to standardize and improve the qualitative analysis of bodies of evidence, every effort should be made to minimize delays in time to CPG development/revision."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "4.4.2": "Addresses heterogeneity among study effects. ACCF/AHA implicitly judges heterogeneity to decide on downgrading recommendations.",
+        "4.4.3": "Estimates are not accompanied by measures of statistical uncertainty.",
+        "4.4.4": "Sensitivity of conclusions to changes in protocol, assumptions, and study selection is not assessed.",
+        "Review by Workgroup": "ACCF/AHA uses COR/LOE while other systems differ. Options include keeping the current method, changing to GRADE, NHLBI, or another system.",
+        "Workgroup 4 Proposal": [
+          "Consider IOM standard for addressing heterogeneity and statistical uncertainty.",
+          "Use current ACCF/AHA COR and LOE structure.",
+          "Standardize LOE and add adjectives for grading (strong, moderate, weak, against).",
+          "Plan regular evidence review, develop a list of metrics."
+        ],
+        "5.1 Standards for Reporting Systematic Reviews": {
+          "5.1.1": "Each CPG is titled; ACCF/AHA CPGs are not usually based on formal SR.",
+          "5.1.2": "All CPGs have an executive summary, no abstract from GWC.",
+          "5.1.3": "Executive summary available online."
+        },
+        "Workgroup 5 Proposal": [
+          "Published SR should reflect the CPG title.",
+          "Use IOM Standards for independently conducted SR."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "ACCF/AHA Guideline Methodology Summit Report",
+        "section": "Standards for Reporting Systematic Reviews",
+        "guidelines": [
+          {
+            "IOM Standard": "5.1.4",
+            "ACCF/AHA Comment": "No summary created for lay public due to technical nature aimed at cardiologists and medical practitioners.",
+            "Workgroup 5 Proposal": "Use relevant IOM Standards and Elements for SR as a standalone document."
+          },
+          {
+            "IOM Standard": "5.1.5",
+            "ACCF/AHA Comment": "Not applicable as SRs are not generally conducted. CPGs have an introduction that includes evidence review.",
+            "Workgroup 5 Proposal": "Use relevant IOM Standards and Elements for SR as a standalone document."
+          },
+          {
+            "IOM Standard": "5.1.6",
+            "ACCF/AHA Comment": "Not applicable as SRs are not generally conducted for ACCF/AHA CPGs.",
+            "Workgroup 5 Proposal": "Use relevant IOM Standards and Elements for SR as a standalone document."
+          },
+          {
+            "IOM Standard": "5.1.7",
+            "ACCF/AHA Comment": "Not applicable as SRs are not generally conducted.",
+            "Workgroup 5 Proposal": "Use relevant IOM Standards and Elements for SR as a standalone document."
+          },
+          {
+            "IOM Standard": "5.1.8",
+            "ACCF/AHA Comment": "Not applicable as SRs are not generally conducted.",
+            "Workgroup 5 Proposal": "Use relevant IOM Standards and Elements for SR as a standalone document."
+          },
+          {
+            "IOM Standard": "5.1.9",
+            "ACCF/AHA Comment": "No outside funding accepted. RWI policy for GWC available online.",
+            "Workgroup 5 Proposal": "Use relevant IOM Standards and Elements for SR as a standalone document."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "ACCF/AHA Guideline Methodology Summit Report",
+        "Date": "January 15, 2013",
+        "Volume": "61",
+        "Issue": "2",
+        "Page": "213-65",
+        "Section": "5. Standards for Reporting Systematic Reviews",
+        "IOM Standards and Elements": [
+          {
+            "5.2": "Peer review the draft report",
+            "5.2.1": "Use a third party to manage the peer review process",
+            "5.2.2": "Provide a public comment period for the report and publicly report on disposition of comments"
+          },
+          {
+            "5.3": "Publish the final report in a manner that ensures free public access"
+          }
+        ],
+        "ACCF/AHA Current Methodology": [
+          {
+            "5.2.1": "ACCF/AHA CPG peer review is managed by ACCF/AHA document staff."
+          },
+          {
+            "5.2.2": "Currently, while the ACCF/AHA CPGs undergo an extensive peer review process that includes scientific and clinical content experts in addition to partnering, collaborating, and other relevant professional societies, CPGs are not opened to public review and comment. See Workgroups 1 and 2."
+          }
+        ],
+        "Workgroup 5 Proposal": [
+          {
+            "5.2.1": "The ACCF/AHA has no control over independently conducted SR, but when the ACCF/AHA conducts its own SR and publishes it, it will be independently reviewed through the journal\u2019s review process."
+          },
+          {
+            "5.2.2": "The public is able to comment on CPGs through letters to the editor (postpublication). The ACCF/AHA has no control over independently conducted SR, but when the ACCF/AHA conducts its own SR, external stakeholders and patient representatives should be included in this expanded process, and the SR protocol should be open to public comment."
+          },
+          {
+            "5.3": "SRs commissioned by the ACCF and AHA will be hyperlinked from the CPG and made available through free public access. SRs performed by other groups and used as part of the CPG process may or may not be available for free public access."
+          }
+        ],
+        "Abbreviations": {
+          "ACCF": "American College of Cardiology Foundation",
+          "AHA": "American Heart Association",
+          "COI": "conflict of interest",
+          "CPG": "clinical practice guideline",
+          "GWC": "guideline writing committee",
+          "IOM": "Institute of Medicine",
+          "RWI": "relationships with industry and other entities",
+          "SR": "systematic review"
+        }
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "COAG",
+      "Associated Conditions": [
+        "Anticoagulation Through Genetics"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Clarification of Optimal Anticoagulation Through Genetics"
+      ]
+    }
+  ]
+}

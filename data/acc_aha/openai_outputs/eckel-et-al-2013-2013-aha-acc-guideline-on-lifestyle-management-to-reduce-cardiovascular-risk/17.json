@@ -1,0 +1,27 @@
+{
+  "content": {
+    "5.5. Physical Activity Recommendations": {
+      "1": "Advise adults to engage in aerobic physical activity to reduce LDL-C and non-HDL-C: 3 to 4 sessions per week, lasting on average 40 minutes per session, involving moderate- to vigorous-intensity physical activity.",
+      "2": "Advise adults to engage in aerobic physical activity to lower BP: 3 to 4 sessions per week, lasting on average 40 minutes per session, involving moderate- to vigorous-intensity physical activity."
+    },
+    "Rationale": {
+      "LDL-C": "Recommendation based on evidence from meta-analyses and reviews. Consistent with 2008 Physical Activity Guidelines Advisory Committee Report.",
+      "BP": "Recommendation based on evidence from meta-analyses and reviews as well as 2008 Physical Activity Guidelines Advisory Committee Report."
+    },
+    "5.6. Heart-Healthy Nutrition and Physical Activity Behaviors": {
+      "Overview": "Encourages heart-healthy nutrition and physical activity behaviors consistent with 2010 Dietary Guidelines for Americans and 2008 Physical Activity Guidelines for Americans."
+    },
+    "6. Gaps in Evidence and Future Research Needs": {
+      "Diet": "Research needed on interaction between dietary modification and statin treatment, relative effects of different types of fats and carbohydrates."
+    },
+    "Table 17: Heart-Healthy Nutrition and Physical Activity Behaviors": {
+      "Guidelines": [
+        "Consume a diet emphasizing vegetables, fruits, whole grains, dairy products, poultry, fish, legumes. Limit sweets, sugar-sweetened beverages, red meats.",
+        "Plan dietary patterns suitable to preferences and conditions.",
+        "Engage in 2 hours 30 minutes per week of moderate-intensity physical activity, or equivalent.",
+        "Maintain healthy weight."
+      ]
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,25 @@
+{
+  "content": {
+    "section": "2.4 Genetics",
+    "information": [
+      "Lubitz SA, Yin X, Fontes JD, et al. discussed the association between familial atrial fibrillation and the risk of new-onset atrial fibrillation.",
+      "Brugada R, Tapscott T, Czernuszewicz GZ, et al. identified a genetic locus for familial atrial fibrillation.",
+      "Chen YH, Xu SJ, Bendahhou S, et al. identified a gain-of-function mutation linked to familial atrial fibrillation.",
+      "Weng LC, Choi SH, Klarin D, et al. explored the heritability of atrial fibrillation.",
+      "Roselli C, Chaffin MD, Weng LC, et al. conducted multi-ethnic genome-wide association studies for atrial fibrillation.",
+      "Low SK, Takahashi A, Ebana Y, et al. focused on a new genetic locus associated with atrial fibrillation in the Japanese population.",
+      "Lee Y, Kim TH, Yang PS, et al. studied Korean atrial fibrillation network, emphasizing the impact of early-onset atrial fibrillation combined with hypertrophic cardiomyopathy.",
+      "Choi SH, Jurgens SJ, Weng LC, et al. studied monogenic and polygenic contributions to atrial fibrillation risk."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "KCNN3",
+      "Associated Conditions": [
+        "Familial Atrial Fibrillation"
+      ],
+      "Occurrences": 1,
+      "context": "Chen YH, Xu SJ, Bendahhou S, et al. KCNN3 gain-of-function mutation in familial atrial fibrillation. Hum Mol Genet. 2003;299:254-254."
+    }
+  ]
+}

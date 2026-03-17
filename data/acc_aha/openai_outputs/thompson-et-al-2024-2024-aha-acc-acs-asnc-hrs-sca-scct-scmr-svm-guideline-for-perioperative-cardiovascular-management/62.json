@@ -1,0 +1,23 @@
+{
+  "content": {
+    "General Information": "The guideline discusses the use of temporary Mechanical Circulatory Support (MCS) and Pulmonary Artery (PA) catheters in patients undergoing noncardiac surgery (NCS). Temporary MCS may help maintain adequate organ perfusion during challenging procedures, allowing diagnostic evaluation, treatment, and patient management. It is recommended for patients with acute hemodynamic instability and cardiopulmonary dysfunction undergoing urgent or emergency NCS. Emergency use has increased, and careful perioperative management is advised. PA catheterization may be considered when specific medical conditions affect hemodynamics and cannot be corrected before surgery. Routine use is not recommended for reducing morbidity or mortality.",
+    "Clinical Recommendations": [
+      {
+        "COR": "2b",
+        "LOE": "C-LD",
+        "Recommendation for MCS": "In patients with acute, severe hemodynamic instability and cardiopulmonary dysfunction undergoing urgent or emergency NCS, temporary MCS devices may be used preemptively or as rescue therapy."
+      },
+      {
+        "COR": "2b",
+        "LOE": "C-LD",
+        "Recommendation for PA Catheters": "In patients with CVD undergoing NCS, the use of PA catheterization may be considered when underlying medical conditions that significantly affect hemodynamics cannot be corrected."
+      },
+      {
+        "COR": "3: No benefit",
+        "LOE": "A",
+        "Recommendation for PA Catheters": "In patients with CVD undergoing NCS, routine use of PA catheterization is not recommended to reduce morbidity or mortality."
+      }
+    ]
+  },
+  "genes": []
+}

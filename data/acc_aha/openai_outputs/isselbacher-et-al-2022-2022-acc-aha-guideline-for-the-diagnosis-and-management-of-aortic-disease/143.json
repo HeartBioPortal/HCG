@@ -1,0 +1,40 @@
+{
+  "content": {
+    "sections": [
+      {
+        "title": "5. Surgical and Endovascular Management of Aortic Aneurysms",
+        "details": "Various methods and guidelines regarding the surgical and endovascular management of aortic aneurysms, including the use of stent grafts for aortic arch diseases."
+      },
+      {
+        "title": "6.5.1. Surgery for Surgical Replacement of the Ascending Aorta and Aortic Valve",
+        "details": "Guidelines for surgery involving replacement of the ascending aorta and the aortic valve, including valve-sparing procedures and repair techniques."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "FBN1",
+      "Associated Conditions": [
+        "Marfan syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "FBN1 gene mutations are implicated in connective tissue disorders such as Marfan syndrome, affecting aortic root dilation."
+    },
+    {
+      "Gene": "ACTA2",
+      "Associated Conditions": [
+        "Thoracic aortic aneurysms"
+      ],
+      "Occurrences": 1,
+      "context": "Mutations in the ACTA2 gene can lead to familial thoracic aortic aneurysms and dissections, requiring monitoring of aortic dimensions."
+    },
+    {
+      "Gene": "TGFBR2",
+      "Associated Conditions": [
+        "Loeys-Dietz syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "TGFBR2 gene mutations are associated with Loeys-Dietz syndrome, often resulting in aggressive aortic aneurysms needing surgical intervention."
+    }
+  ]
+}

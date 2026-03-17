@@ -1,0 +1,33 @@
+{
+  "content": {
+    "references": [
+      "Cardiovascular risk and inhibition of cyclooxygenase.",
+      "Estrogen plus progestin and risk of coronary heart disease.",
+      "Benefits of estrogen plus progestin in healthy postmenopausal women.",
+      "Efficacy of statins in men and women.",
+      "Cardiac rehabilitation and survival in older coronary patients.",
+      "MMWR Prevention and control of influenza.",
+      "Joint Commission 2014 National Patient Safety Goals.",
+      "American College of Chest Physicians Tobacco dependence treatment toolkit."
+    ],
+    "focus": [
+      "Cardiovascular outcomes",
+      "Estrogen and hormone therapy",
+      "Statins",
+      "Cardiac rehabilitation",
+      "Influenza vaccination",
+      "Patient safety",
+      "Tobacco dependence treatment"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "HFE",
+      "Associated Conditions": [
+        "Venous Thromboembolism"
+      ],
+      "Occurrences": 1,
+      "context": "Lorme F, Yusuf S, Arnold M, et al. Homocysteine lowering with folic acid and B vitamins in vascular disease."
+    }
+  ]
+}

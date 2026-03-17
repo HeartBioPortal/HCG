@@ -1,0 +1,20 @@
+{
+  "content": {
+    "General Information": [
+      "The document features a list of clinical guidelines and studies related to cardiac care, emphasizing the management and outcomes of various cardiovascular interventions.",
+      "Key topics include age-related differences in diagnostic and treatment approaches, outcomes of coronary angiography, early resuscitation in acute myocardial infarction, and utilization of coronary artery bypass grafting.",
+      "The guidelines discuss the use of intra-aortic balloon pumps and percutaneous coronary interventions in high-risk patient scenarios.",
+      "Several studies review pharmacological approaches in the prevention and management of ventricular arrhythmias and the use of implantable cardioverter-defibrillators."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "CSF2",
+      "Associated Conditions": [
+        "coronary syndromes"
+      ],
+      "Occurrences": 1,
+      "context": "Implications of diabetes in patients with acute coronary syndromes: The Global Registry of Acute Coronary Events (GRACE). Am Heart J 2004;148:657-63."
+    }
+  ]
+}

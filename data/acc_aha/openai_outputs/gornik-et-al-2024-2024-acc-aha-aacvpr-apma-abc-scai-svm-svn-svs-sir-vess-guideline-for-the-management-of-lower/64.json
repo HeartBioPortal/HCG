@@ -1,0 +1,36 @@
+{
+  "content": {
+    "topics": [
+      "Guidance for patients with extensive tissue destruction and surgical resection considerations.",
+      "Management for patients with CLTI who have undergone minor amputation.",
+      "Use of tools like WiFI and GLASS for outcome validation in CLTI patient care.",
+      "Registry and data collection efforts such as the VQI and NCDR.",
+      "Acute Limb Ischemia (ALI) definitions and treatment categories."
+    ],
+    "sections": [
+      {
+        "title": "Chronic Limb-Threatening Ischemia (CLTI) Management",
+        "details": [
+          "Primary amputation considered after thorough specialist review.",
+          "Longitudinal care for post-amputation patients with CLTI.",
+          "Tools like WiFI and GLASS for prognosis and outcomes."
+        ]
+      },
+      {
+        "title": "Data and Registry Information",
+        "details": [
+          "The Vascular Quality Initiative (VQI) registry collects clinical, procedural, and outcome data.",
+          "NCDR and other registries assist in benchmarking procedural outcomes."
+        ]
+      },
+      {
+        "title": "Acute Limb Ischemia (ALI)",
+        "details": [
+          "ALI defined by symptom duration <2 weeks.",
+          "Categories I, II, and III limb states based on salvageability."
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

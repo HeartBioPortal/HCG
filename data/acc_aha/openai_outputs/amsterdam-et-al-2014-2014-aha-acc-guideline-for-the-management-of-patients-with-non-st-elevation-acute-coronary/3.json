@@ -1,0 +1,41 @@
+{
+  "content": {
+    "sections": [
+      {
+        "title": "4.3. Initial Oral and Intravenous Antiplatelet Therapy",
+        "details": "Recommendations for NSTE-ACS patients with an invasive or ischemia-guided strategy."
+      },
+      {
+        "title": "5. Myocardial Revascularization",
+        "details": "Focus on PCI considerations, including antiplatelet and anticoagulant therapy."
+      },
+      {
+        "title": "6. Late Hospital Care, Hospital Discharge, and Posthospital Discharge Care",
+        "details": "Emphasis on cardioprotective therapy, symptom management, and use of medications post-discharge."
+      },
+      {
+        "title": "6.2. Medical Regimen and Use of Medications at Discharge",
+        "details": {
+          "subsections": [
+            {
+              "title": "6.2.3. Platelet Function and Genetic Phenotype Testing",
+              "details": "Considerations for testing to optimize antiplatelet therapy."
+            }
+          ]
+        }
+      },
+      {
+        "title": "7. Special Patient Groups",
+        "details": "Recommendations for older patients, HF, diabetes, CKD, and acute conditions."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "Unknown",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": "6.2.3. Platelet Function and Genetic Phenotype Testing - Considerations for testing to optimize antiplatelet therapy."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "content": {
+    "Title": "2020 ACC/AHA Guideline for the Management of Valvular Heart Disease",
+    "Stage Definitions": [
+      {
+        "Stage": "C2",
+        "Definition": "Asymptomatic severe AS with LV ejection fraction <50%",
+        "Valve Anatomy": "Severe leaflet calcification/fibrosis or congenital stenosis with severely reduced leaflet opening",
+        "Valve Hemodynamics": "Aortic Vmax \u22654 m/s or mean \u0394P \u226540 mm Hg; AVA typically \u22641.0 cm\u00b2",
+        "Hemodynamic Consequences": "LVEF <50%",
+        "Symptoms": "None"
+      },
+      {
+        "Stage": "D1",
+        "Definition": "Symptomatic severe high-gradient AS",
+        "Valve Anatomy": "Severe leaflet calcification/fibrosis or congenital stenosis with severely reduced leaflet opening",
+        "Valve Hemodynamics": "Aortic Vmax \u22654 m/s or mean \u0394P \u226540 mm Hg; AVA typically \u22641.0 cm\u00b2",
+        "Hemodynamic Consequences": [
+          "LV diastolic dysfunction",
+          "LV hypertrophy",
+          "Pulmonary hypertension"
+        ],
+        "Symptoms": [
+          "Exertional dyspnea",
+          "Decreased exercise tolerance",
+          "Exertional angina",
+          "Exertional syncope/presyncope"
+        ]
+      },
+      {
+        "Stage": "D2",
+        "Definition": "Symptomatic severe low-flow, low-gradient AS with reduced LVEF",
+        "Valve Anatomy": "Severe leaflet calcification/fibrosis with severely reduced leaflet motion",
+        "Valve Hemodynamics": [
+          "AVA \u22641.0 cm\u00b2 with resting aortic Vmax <4 m/s or mean \u0394P <40 mm Hg",
+          "Dobutamine stress echocardiography shows AVA <1.0 cm\u00b2 with Vmax \u22654 m/s"
+        ],
+        "Hemodynamic Consequences": [
+          "LV diastolic dysfunction",
+          "LV hypertrophy with LVEF <50%"
+        ],
+        "Symptoms": [
+          "Heart Failure (HF)",
+          "Angina",
+          "Syncope or presyncope"
+        ]
+      },
+      {
+        "Stage": "D3",
+        "Definition": "Symptomatic severe low-gradient/severe AS with normal LVEF or paradoxical low-flow severe AS",
+        "Valve Anatomy": "Severe leaflet calcification/fibrosis with severely reduced leaflet motion",
+        "Valve Hemodynamics": [
+          "AVA \u22641.0 cm\u00b2 with aortic Vmax <4 m/s or mean \u0394P <40 mm Hg",
+          "Stroke volume index <35 ml/m\u00b2",
+          "Measured with patient is normotensive (systolic blood pressure <140 mm Hg)"
+        ],
+        "Hemodynamic Consequences": [
+          "Increased LV relative wall thickness",
+          "Small LV chamber",
+          "Low stroke volume",
+          "Restrictive diastolic filling with LVEF \u226550%"
+        ],
+        "Symptoms": [
+          "Heart Failure (HF)",
+          "Angina",
+          "Syncope or presyncope"
+        ]
+      }
+    ],
+    "Recommendations for Diagnostic Testing": [
+      {
+        "COR": "1",
+        "LOE": "A",
+        "Recommendation": "TTE is indicated for accurate diagnosis of the cause of AS, assessment of hemodynamic severity, measurement of LV size and systolic function, and determination of prognosis and timing of valve intervention."
+      },
+      {
+        "COR": "1",
+        "LOE": "B-NR",
+        "Recommendation": "In patients with suspected low-flow, low-gradient severe AS with normal LVEF (Stage D3), optimization of blood pressure control is recommended before measurement of AS severity by TTE, TEI, cardiac catheterization, or CMR."
+      }
+    ]
+  },
+  "genes": []
+}

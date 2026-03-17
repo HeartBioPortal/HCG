@@ -1,0 +1,26 @@
+{
+  "content": {
+    "guideline_title": "2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline",
+    "focus": "This document provides guidelines on chronic coronary diseases, mentioning studies related to treatments involving SGLT2 inhibitors and GLP-1 receptor agonists.",
+    "sections": [
+      {
+        "section_title": "4.2.8. SGLT2 Inhibitors and GLP-1 Receptor Agonists",
+        "highlights": [
+          {
+            "study": "Zinman B, Wanner C, Lachin JM, et al.",
+            "findings": "Empagliflozin, cardiovascular outcomes, and mortality in type 2 diabetes."
+          },
+          {
+            "study": "Cannon CP, Pratley R, Dagogo-Jack S, et al.",
+            "findings": "Cardiovascular outcomes with ertugliflozin in type 2 diabetics."
+          },
+          {
+            "study": "Koskinen JU, Cavender MA, Fu AZ, et al.",
+            "findings": "Lower risk of heart failure and death with SGLT2 inhibitors."
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

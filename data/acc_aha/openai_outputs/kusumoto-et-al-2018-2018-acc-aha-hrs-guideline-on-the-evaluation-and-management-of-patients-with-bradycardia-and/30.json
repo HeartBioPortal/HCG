@@ -1,0 +1,23 @@
+{
+  "content": {
+    "summary": "The clinical guideline discusses therapies for bradycardia attributed to digoxin, SND, or atrioventricular block. It considers the use of digoxin-specific antibody (Fab) in cases of digoxin toxicity to improve heart rate and hemodynamic stability.",
+    "recommendations": [
+      {
+        "cor": "IIa",
+        "loe": "C-LD",
+        "recommendation": "For patients with bradycardia and symptoms or hemodynamic compromise due to digoxin toxicity, use of digoxin Fab is reasonable."
+      },
+      {
+        "cor": "III: No Benefit",
+        "loe": "C-LD",
+        "recommendation": "For similar patients, dialysis is not recommended for digoxin removal."
+      }
+    ],
+    "therapy_details": [
+      "Glucagon as a treatment for counteracting beta blocker effects; standard therapy in cardiac arrest with bolus and infusion recommendations.",
+      "High-dose insulin therapy is discussed, suggesting benefits but noting limited evidence."
+    ],
+    "antidote_usage": "Digoxin Fab binds digoxin, monitored for efficacy in reducing symptoms of digoxin toxicity, with attention to dosing and serum levels."
+  },
+  "genes": []
+}

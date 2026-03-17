@@ -1,0 +1,24 @@
+{
+  "content": {
+    "Synopsis": "Hypertensive emergencies are defined as severe elevations in blood pressure (BP) (>180/120 mm Hg) with evidence of new or worsening target organ damage. The 1-year death rate is >79%, and median survival is 10.4 months if untreated. Examples include hypertensive encephalopathy, ICH, acute ischemic stroke, acute left ventricular failure, and pulmonary edema. Immediate reduction of BP is recommended.",
+    "Management": {
+      "Hypertensive Emergency": {
+        "Criteria": "Severe BP elevation with target organ damage.",
+        "Action": "Admit to ICU (Class I).",
+        "Conditions": [
+          "Aortic dissection",
+          "Severe preeclampsia or eclampsia",
+          "Pheochromocytoma crisis"
+        ],
+        "BP Reduction Strategy": {
+          "Aortic Dissection": "Reduce SBP to <140 mm Hg during the first hour.",
+          "Others": "Reduce BP by max 25% over first hour, then gradually to normal over next 24-48 hours."
+        }
+      },
+      "Markedly Elevated BP Without Target Organ Damage": {
+        "Action": "Reinstitute/intensify oral antihypertensive drug therapy and arrange follow-up."
+      }
+    }
+  },
+  "genes": []
+}

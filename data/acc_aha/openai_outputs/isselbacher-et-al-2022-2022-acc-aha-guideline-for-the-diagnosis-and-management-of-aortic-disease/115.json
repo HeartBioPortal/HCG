@@ -1,0 +1,39 @@
+{
+  "content": {
+    "title": "2018 EULAR Recommended Algorithm for the Pharmacological Treatment of Giant Cell Arteritis",
+    "phases": [
+      {
+        "phase": "Phase I",
+        "initial_treatment": {
+          "glucocorticoids": "Start GC 40\u201360 mg/d",
+          "optional_treatment": "Consider use of intravenous methylprednisolone 0.25\u20131 g/d for 3 d"
+        },
+        "tapering": "Taper GCs to 15\u201320 mg/d within 2\u20133 months and then to \u22645 mg/d after 1 year",
+        "follow_up": {
+          "target_achieved": "Continue taper",
+          "no_target_achieved": {
+            "major_relapse": "Increase GC to 40\u201360 mg/d",
+            "minor_relapse": "Increase GC to last effective dose"
+          }
+        }
+      },
+      {
+        "phase": "Phase II",
+        "treatment": {
+          "tocilizumab_or_methotrexate": "Start Tocilizumab (or Methotrexate)",
+          "tapering": "Taper GC (to 0 mg at 6 months with Tocilizumab)"
+        },
+        "follow_up": {
+          "target_achieved": "Taper tocilizumab or methotrexate",
+          "no_target_achieved": "Consult expert center"
+        }
+      }
+    ],
+    "abbreviations": {
+      "GC": "Glucocorticoids",
+      "GCA": "Giant Cell Arteritis",
+      "TNF": "Tumor Necrosis Factor"
+    }
+  },
+  "genes": []
+}

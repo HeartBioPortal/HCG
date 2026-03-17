@@ -1,0 +1,24 @@
+{
+  "content": {
+    "Selected Risk Factors for Bleeding in Patients With ACS": [
+      "Advanced age (\u2265 75 y)",
+      "Female sex",
+      "Heart failure or shock",
+      "Diabetes mellitus",
+      "Body size",
+      "History of GI bleeding",
+      "Presentation with STEMI or NSTEMI (vs UA)",
+      "Severe renal dysfunction (CrCl <30 mL/min)",
+      "Elevated white blood cell count",
+      "Anemia",
+      "Use of fibrinolytic therapy",
+      "Invasive strategy",
+      "Inappropriate dosing of antithrombotic medications",
+      "Chronic oral anticoagulant therapy"
+    ],
+    "Vascular Access Site Bleeding": "Vascular access site bleeding is the most common type of bleeding after STEMI, particularly after PCI. Risk factors include female sex, advanced age, renal insufficiency, anemia, IABP, use of GP IIb/IIIa antagonists, and low-molecular-weight heparin within 48 hours of PCI.",
+    "Acute Kidney Injury": "The risk of renal failure with STEMI relates to a host of factors, including patient age, prehospital renal function, medications, contrast volume, and hemodynamic status. Contrast-induced nephropathy after angiography and intervention for STEMI is always a risk.",
+    "Hyperglycemia": "There is a U-shaped relationship between glucose levels and death in STEMI and ACS."
+  },
+  "genes": []
+}

@@ -1,0 +1,48 @@
+{
+  "content": {
+    "reviewers": [
+      {
+        "name": "Gaurav Upadhyay",
+        "role": "Content Reviewer\u2014ACC EP Section Leadership Council",
+        "employment": "University of Chicago\u2014Assistant Professor of Medicine",
+        "consultant": [
+          "Biosense Webster",
+          "Biotronik",
+          "Boston Scientific",
+          "Medtronic",
+          "St. Jude Medical",
+          "Zoll Medical"
+        ],
+        "ownership": [
+          "Biosense Webster",
+          "Biotronik*",
+          "Medtronic*"
+        ],
+        "personal research": "None",
+        "expert witness": "None"
+      },
+      {
+        "name": "Paul Varosy",
+        "role": "Content Reviewer",
+        "employment": "University of Colorado Hospital, Clinical Cardiac EP Training Program\u2014Associate Program Director; VA Eastern Colorado Healthcare System\u2014Director of Cardiovascular EP",
+        "consultant": "None",
+        "ownership": "None",
+        "personal research": [
+          "AHA\u2020",
+          "VA Office of Health Services Research and Development (PI)\u2021"
+        ],
+        "expert witness": "None"
+      }
+    ],
+    "notes": "Relationships are disclosed including those not relevant to the document at the time of review. Significant interest in business is defined by >5% ownership or income exceeding 5% from the previous year.",
+    "abbreviations": [
+      "AHA: American Heart Association",
+      "ACC: American College of Cardiology",
+      "FDA: U.S. Food and Drug Administration",
+      "EP: electrophysiology",
+      "HRS: Heart Rhythm Society",
+      "ICD: implantable cardioverter-defibrillator"
+    ]
+  },
+  "genes": []
+}

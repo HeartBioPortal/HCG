@@ -1,0 +1,244 @@
+{
+  "content": {
+    "Title": "Oral Antihypertensive Drugs",
+    "Classes": [
+      "Primary agents",
+      "Secondary agents"
+    ],
+    "Primary Agents": {
+      "Thiazide or thiazide-type diuretics": [
+        {
+          "Drug": "Chlorthalidone",
+          "Usual Dose Range (mg/d)": "12.5-25",
+          "Daily Frequency": "1",
+          "Comments": "Preferred for its prolonged half-life and proven trial reduction of CVD."
+        },
+        {
+          "Drug": "Hydrochlorothiazide",
+          "Usual Dose Range (mg/d)": "25-50",
+          "Daily Frequency": "1",
+          "Comments": "Monitor for hyponatremia, hypokalemia, uric acid, and calcium levels."
+        },
+        {
+          "Drug": "Indapamide",
+          "Usual Dose Range (mg/d)": "1.25-2.5",
+          "Daily Frequency": "1",
+          "Comments": "Use with caution in patients with history of acute gout unless patient is on uric acid\u2013lowering therapy."
+        },
+        {
+          "Drug": "Metolazone",
+          "Usual Dose Range (mg/d)": "2.5-5",
+          "Daily Frequency": "1",
+          "Comments": "N/A"
+        }
+      ],
+      "ACE inhibitors": [
+        {
+          "Drug": "Benezapril",
+          "Usual Dose Range (mg/d)": "10-40",
+          "Daily Frequency": "1 or 2",
+          "Comments": "Do not use in combination with ARBs or direct renin inhibitor."
+        },
+        {
+          "Drug": "Captopril",
+          "Usual Dose Range (mg/d)": "12.5-150",
+          "Daily Frequency": "2 or 3",
+          "Comments": "Increased risk of hyperkalemia, especially in CKD or those on K supplements or K-sparing drugs."
+        },
+        {
+          "Drug": "Enalapril",
+          "Usual Dose Range (mg/d)": "5-40",
+          "Daily Frequency": "1 or 2",
+          "Comments": "Risk of acute renal failure in severe bilateral renal artery stenosis."
+        },
+        {
+          "Drug": "Fosinopril",
+          "Usual Dose Range (mg/d)": "10-40",
+          "Daily Frequency": "1",
+          "Comments": "Do not use if history of angioedema with ACE inhibitors."
+        },
+        {
+          "Drug": "Lisinopril",
+          "Usual Dose Range (mg/d)": "10-40",
+          "Daily Frequency": "1",
+          "Comments": "Avoid in pregnancy."
+        },
+        {
+          "Drug": "Moxepril",
+          "Usual Dose Range (mg/d)": "7.5-30",
+          "Daily Frequency": "1 or 2",
+          "Comments": "N/A"
+        },
+        {
+          "Drug": "Perindopril",
+          "Usual Dose Range (mg/d)": "4-16",
+          "Daily Frequency": "1",
+          "Comments": "N/A"
+        },
+        {
+          "Drug": "Quinapril",
+          "Usual Dose Range (mg/d)": "10-80",
+          "Daily Frequency": "1 or 2",
+          "Comments": "N/A"
+        },
+        {
+          "Drug": "Ramipril",
+          "Usual Dose Range (mg/d)": "2.5-20",
+          "Daily Frequency": "1 or 2",
+          "Comments": "N/A"
+        },
+        {
+          "Drug": "Trandolapril",
+          "Usual Dose Range (mg/d)": "1-4",
+          "Daily Frequency": "1",
+          "Comments": "N/A"
+        }
+      ],
+      "ARBs": [
+        {
+          "Drug": "Azilsartan",
+          "Usual Dose Range (mg/d)": "40-80",
+          "Daily Frequency": "1",
+          "Comments": "Do not use in combination with ACE inhibitors or direct renin inhibitor."
+        },
+        {
+          "Drug": "Candesartan",
+          "Usual Dose Range (mg/d)": "8-32",
+          "Daily Frequency": "1",
+          "Comments": "Risk of hyperkalemia in CKD or on K supplements or K-sparing drugs."
+        },
+        {
+          "Drug": "Eprosartan",
+          "Usual Dose Range (mg/d)": "600-800",
+          "Daily Frequency": "1 or 2",
+          "Comments": "Risk of acute renal failure in severe bilateral renal artery stenosis."
+        },
+        {
+          "Drug": "Irbesartan",
+          "Usual Dose Range (mg/d)": "150-300",
+          "Daily Frequency": "1",
+          "Comments": "Do not use if history of angioedema with ARBs."
+        },
+        {
+          "Drug": "Losartan",
+          "Usual Dose Range (mg/d)": "50-100",
+          "Daily Frequency": "1 or 2",
+          "Comments": "Patients with a history of angioedema with ACE inhibitor can receive ARB 6 weeks after stopping ACE inhibitor."
+        },
+        {
+          "Drug": "Olmesartan",
+          "Usual Dose Range (mg/d)": "20-40",
+          "Daily Frequency": "1",
+          "Comments": "Avoid in pregnancy."
+        },
+        {
+          "Drug": "Telmisartan",
+          "Usual Dose Range (mg/d)": "20-80",
+          "Daily Frequency": "1",
+          "Comments": "N/A"
+        },
+        {
+          "Drug": "Valsartan",
+          "Usual Dose Range (mg/d)": "80-320",
+          "Daily Frequency": "1",
+          "Comments": "N/A"
+        }
+      ],
+      "CCB\u2013dihydropyridines": [
+        {
+          "Drug": "Amlodipine",
+          "Usual Dose Range (mg/d)": "2.5-10",
+          "Daily Frequency": "1",
+          "Comments": "Avoid in patients with HFrEF; amlodipine or felodipine may be used if required."
+        },
+        {
+          "Drug": "Felodipine",
+          "Usual Dose Range (mg/d)": "2.5-10",
+          "Daily Frequency": "1",
+          "Comments": "Associated with dose-related pedal edema, more common in women."
+        },
+        {
+          "Drug": "Isradipine",
+          "Usual Dose Range (mg/d)": "5-10",
+          "Daily Frequency": "2",
+          "Comments": "N/A"
+        },
+        {
+          "Drug": "Nicardipine SR",
+          "Usual Dose Range (mg/d)": "60-120",
+          "Daily Frequency": "2",
+          "Comments": "N/A"
+        },
+        {
+          "Drug": "Nifedipine LA",
+          "Usual Dose Range (mg/d)": "30-90",
+          "Daily Frequency": "1",
+          "Comments": "N/A"
+        },
+        {
+          "Drug": "Nisolodpine",
+          "Usual Dose Range (mg/d)": "17-34",
+          "Daily Frequency": "1",
+          "Comments": "N/A"
+        }
+      ],
+      "CCB\u2013nondihydropyridines": [
+        {
+          "Drug": "Diltiazem ER",
+          "Usual Dose Range (mg/d)": "120-360",
+          "Daily Frequency": "1",
+          "Comments": "Avoid with beta blockers due to increased risk of bradycardia and heart block."
+        },
+        {
+          "Drug": "Verapamil SR",
+          "Usual Dose Range (mg/d)": "120-360",
+          "Daily Frequency": "1 or 2",
+          "Comments": "Do not use in patients with HFrEF."
+        },
+        {
+          "Drug": "Verapamil-delayed onset ER",
+          "Usual Dose Range (mg/d)": "100-300",
+          "Daily Frequency": "1 (in the evening)",
+          "Comments": "Drug interactions with diltiazem and verapamil (CYP3A4 major substrate and moderate inhibitor)."
+        }
+      ]
+    },
+    "Secondary Agents": {
+      "Diuretics\u2013loop": [
+        {
+          "Drug": "Bumetanide",
+          "Usual Dose Range (mg/d)": "0.5-2",
+          "Daily Frequency": "2",
+          "Comments": "Preferred for patients with symptomatic HF, preferred over thiazides in moderate-to-severe CKD (e.g., GFR <30 mL/min)."
+        },
+        {
+          "Drug": "Furosemide",
+          "Usual Dose Range (mg/d)": "20-80",
+          "Daily Frequency": "2",
+          "Comments": "N/A"
+        },
+        {
+          "Drug": "Torsemide",
+          "Usual Dose Range (mg/d)": "5-10",
+          "Daily Frequency": "1",
+          "Comments": "N/A"
+        }
+      ],
+      "Diuretics\u2013potassium sparing": [
+        {
+          "Drug": "Amiloride",
+          "Usual Dose Range (mg/d)": "5-10",
+          "Daily Frequency": "1 or 2",
+          "Comments": "Monotherapy agents, minimally effective antihypertensive agents."
+        },
+        {
+          "Drug": "Triamterene",
+          "Usual Dose Range (mg/d)": "50-100",
+          "Daily Frequency": "1 or 2",
+          "Comments": "Combination therapy of potassium-sparing diuretic with a thiazide can be considered in patients with hypokalemia on thiazide monotherapy. Avoid in patients with significant CKD (e.g., GFR <45 mL/min)."
+        }
+      ]
+    }
+  },
+  "genes": []
+}

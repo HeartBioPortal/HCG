@@ -1,0 +1,12 @@
+{
+  "content": {
+    "Synopsis": "Chest radiographs are noninvasive tests useful for disorders associated with chest pain. Their effectiveness increases with higher pretest probability indicated by history or physical examination. Though often not diagnostic on their own, they aid in ruling out differentials like pulmonary conditions or heart failure. Cardiovascular biomarkers help diagnose myocardial injury in patients with chest pain, with cardiac troponin (cTn) being the preferred choice due to high sensitivity and specificity.",
+    "Recommendations": [
+      "Serial cTn I or T levels are critical in identifying acute myocardial injury.",
+      "High-sensitivity cTn is preferred for more rapid detection or exclusion of myocardial injury.",
+      "Clinicians must be familiar with the analytical performance and limits of their cTn assays.",
+      "Creatine kinase myocardial (CK-MB) isoenzyme and myoglobin are not recommended for diagnosing acute myocardial injury."
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,33 @@
+{
+  "content": {
+    "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+    "Focus": "The guideline provides information on coronary revascularization techniques, especially comparing off-pump and on-pump coronary artery bypass grafting. It also discusses strategies for reducing sternal wound infections and the effects of different perioperative management approaches in cardiac surgeries.",
+    "Key Topics": [
+      "Comparison between off-pump and on-pump coronary artery bypass outcomes",
+      "Importance of complete revascularization to reduce complications",
+      "Postoperative management strategies, including insulin infusion for reducing sternal wound infections",
+      "Details from various studies on different surgical approaches and patient outcomes in coronary surgeries"
+    ],
+    "Studies Mentioned": [
+      {
+        "Authors": "Houlind et al.",
+        "Study": "Danish On-pump Versus Off-pump Randomization Study (DOORS)",
+        "Findings": "Off-pump coronary artery bypass surgery is inferior in graft patency compared to on-pump surgeries."
+      },
+      {
+        "Authors": "Puskas JD et al.",
+        "Findings": "Off-pump coronary artery bypass provides benefits such as reduced myocardial injury and transfusion requirements."
+      },
+      {
+        "Authors": "Dunne B et al.",
+        "Finding": "Five-year quality of life between off-pump and on-pump coronary surgeries has been evaluated."
+      },
+      {
+        "Authors": "Lazar HL, Chipkin SR, et al.",
+        "Findings": "Tight glucose control during coronary artery bypass decreases ischemic events"
+      }
+    ],
+    "Focus Area": "Insulin infusion and other methods to reduce sternal wound infection in CABG patients, and the impact of perioperative management strategies on patient outcomes."
+  },
+  "genes": []
+}

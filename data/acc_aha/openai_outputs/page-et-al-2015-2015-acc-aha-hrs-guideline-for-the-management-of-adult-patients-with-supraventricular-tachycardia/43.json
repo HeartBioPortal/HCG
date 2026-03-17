@@ -1,0 +1,41 @@
+{
+  "content": {
+    "guideline_info": {
+      "JACC Publication Date": "April 5, 2016",
+      "Guideline Type": "2015 ACC/AHA/HRS SVT Guideline",
+      "Page Number": "e69",
+      "Section": "6. Ongoing Management of Orthodromic AVRT",
+      "Recommendations": [
+        {
+          "Class": "IIb",
+          "Level": "C-LD",
+          "Statement": "Oral digoxin may be reasonable for ongoing management of orthodromic AVRT in patients without pre-excitation on their resting ECG who are not candidates for, or prefer not to undergo, catheter ablation (292).",
+          "Details": [
+            "Low efficacy indicates use for patients not candidates for catheter ablation or failed other antiarrhythmic drugs."
+          ]
+        },
+        {
+          "Class": "III: Harm",
+          "Level": "C-LD",
+          "Statement": "Oral digoxin is potentially harmful for ongoing management in patients with AVRT or AF and pre-excitation on their resting ECG (271).",
+          "Details": [
+            "Digoxin shortens refractory period of accessory pathway, leading to potential degeneration into AF."
+          ]
+        }
+      ]
+    },
+    "Figure": {
+      "Title": "Ongoing Management of Orthodromic AVRT",
+      "Key Points": [
+        "Pre-excitation on resting ECG guides treatment strategy.",
+        "Pathways include pharmacological options and catheter ablation.",
+        "Specific drug recommendations are made based on presence of structural heart disease (SHD)."
+      ]
+    },
+    "Management of Asymptomatic Pre-Excitation": {
+      "Section": "6.2",
+      "PICOTS Critical Questions": "Discusses risk stratification for arrhythmic events."
+    }
+  },
+  "genes": []
+}

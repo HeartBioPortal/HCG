@@ -1,0 +1,40 @@
+{
+  "content": {
+    "Guidelines": [
+      {
+        "Section": "QT-prolonging medications",
+        "Details": "QT-prolonging medications are not used in patients with congenital or acquired long QT syndrome unless there is no suitable alternative or the benefit greatly exceeds the risk."
+      },
+      {
+        "Section": "Sodium channel blockers",
+        "Details": [
+          "Sodium channel blockers increase mortality among patients convalescing from MI.",
+          "Sodium channel blockers can increase defibrillation energy requirement and pacing thresholds.",
+          "Successful treatment with beta blockers and intravenous fat emulsion has been reported."
+        ]
+      }
+    ],
+    "Adult Congenital Heart Disease Recommendations": [
+      {
+        "Recommendation 1": "Adult patients with repaired complex congenital heart disease presenting with frequent, complex, or sustained VA should undergo evaluation for potential residual anatomic or coronary abnormalities."
+      },
+      {
+        "Recommendation 2": "Patients with adult congenital heart disease and complex or sustained VA in the presence of important residual hemodynamic lesions should receive treatment as indicated."
+      },
+      {
+        "Recommendation 3": "Patients with adult congenital heart disease and hemodynamically unstable VT should be evaluated for an ICD if meaningful survival of greater than 1 year is expected."
+      },
+      {
+        "Recommendation 4": "Patients with adult congenital heart disease with SCA due to VT or VF without reversible causes should be evaluated for an ICD if meaningful survival of greater than 1 year is expected."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "None",
+      "Associated Conditions": [],
+      "Occurrences": 0,
+      "context": ""
+    }
+  ]
+}

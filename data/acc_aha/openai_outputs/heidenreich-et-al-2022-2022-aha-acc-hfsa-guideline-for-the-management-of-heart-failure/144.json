@@ -1,0 +1,39 @@
+{
+  "content": {
+    "title": "2022 AHA/ACC/HFSA Heart Failure Guideline",
+    "general_info": "The document is a clinical guideline focused on cardiovascular complications in the context of cancer therapies and heart failure management. It lists numerous studies and articles relevant to the effects of various cancer treatments on cardiac health.",
+    "sections": [
+      {
+        "title": "Cardiotoxicity and Cancer Treatments",
+        "details": "Multiple entries discuss the cardiotoxic effects of cancer treatments, including anthracyclines, trastuzumab, and fluoropyrimidines, with a focus on monitoring and management strategies. Specific drugs and regimens mentioned include Doxorubicin, Cyclophosphamide, and Trastuzumab."
+      },
+      {
+        "title": "Biomarkers for Cardiotoxicity",
+        "details": "Studies focused on identifying biomarkers for early detection and monitoring of cardiotoxicity induced by cancer therapies are discussed. Troponins and natriuretic peptides are mentioned as potential biomarkers."
+      },
+      {
+        "title": "Drug-Induced Cardiac Dysfunction",
+        "details": "Drugs such as Imatinib, a tyrosine kinase inhibitor, are noted for their potential to induce cardiac dysfunction, with specific cases and outcomes described."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "HER2",
+      "Associated Conditions": [
+        "Breast cancer",
+        "Cardiotoxicity"
+      ],
+      "Occurrences": 2,
+      "context": "Use of trastuzumab-based chemotherapy and monoclonal antibody against HER2 for metastatic breast cancer. HER2 status and association with cardiotoxicity."
+    },
+    {
+      "Gene": "BRCA1",
+      "Associated Conditions": [
+        "Breast cancer"
+      ],
+      "Occurrences": 1,
+      "context": "BRCA1 mutation associated with breast cancer treatment and potential cardiac effects."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "content": {
+    "summary": "The document is a guideline review for ICD implantation concerning sudden cardiac death (SCD) and mentions specific conditions like chronic kidney disease (CKD) and valvular heart disease. Recommendations are based on evidence from systematic reviews and comorbidities include renal disease, chronic obstructive pulmonary disease, atrial fibrillation, and heart disease.",
+    "recommendations": [
+      {
+        "age": "Older age is defined as \u226575 years."
+      },
+      {
+        "CKD": "No definitive recommendation for ICD in patients with ESRD on dialysis due to insufficient data."
+      },
+      {
+        "Valvular Heart Disease": "Evaluation and treatment are necessary; GDMT for depressed LVEF and NICM is recommended. Presence of VA is not always an indication for valve replacement."
+      }
+    ]
+  },
+  "genes": []
+}

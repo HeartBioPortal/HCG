@@ -1,0 +1,101 @@
+{
+  "content": {
+    "title": "Guidelines for the Prevention of CVD in Women",
+    "sections": [
+      {
+        "title": "Lifestyle Interventions",
+        "subsections": [
+          {
+            "title": "Cigarette smoking",
+            "recommendations": [
+              "Women should be advised not to smoke and to avoid environmental tobacco smoke.",
+              "Provide counseling at each encounter.",
+              "Use nicotine replacement and other pharmacotherapy as needed in conjunction with a behavioral program or smoking cessation program."
+            ],
+            "classLevel": "Class I; Level of Evidence B"
+          },
+          {
+            "title": "Physical activity",
+            "recommendations": [
+              "Accumulate at least 150 min/wk of moderate exercise, 75 min/wk of vigorous exercise, or an equivalent combination.",
+              "Aerobic activity should be performed in episodes of at least 10 min.",
+              "Benefits increase with up to 5 hours (300 min/wk) physical activity."
+            ],
+            "classLevel": [
+              "Class I; Level of Evidence B",
+              "Class IIa; Level of Evidence B"
+            ]
+          },
+          {
+            "title": "Cardiac rehabilitation",
+            "recommendations": [
+              "Recommended for women with recent cardiovascular events or prior symptoms of heart failure.",
+              "Applicable for new-onset or chronic angina, recent cerebrovascular event, peripheral arterial disease."
+            ],
+            "classLevel": "Class I; Level of Evidence B"
+          },
+          {
+            "title": "Dietary intake",
+            "recommendations": [
+              "Consume a diet rich in fruits and vegetables.",
+              "Choose whole-grain, high-fiber foods."
+            ],
+            "warning": "Avoid high mercury fish (e.g., shark, swordfish).",
+            "classLevel": "Class I; Level of Evidence B"
+          },
+          {
+            "title": "Weight maintenance/reduction",
+            "recommendations": [
+              "Maintain or achieve healthy body weight (BMI <25 kg/m\u00b2 in US women).",
+              "Use programs balancing physical activity, caloric intake."
+            ],
+            "classLevel": "Class I; Level of Evidence B"
+          },
+          {
+            "title": "Omega-3 fatty acids",
+            "recommendations": [
+              "Consider 1800 mg/d of EPA for hypertriglyceridemia."
+            ],
+            "classLevel": "Class IIb; Level of Evidence B"
+          }
+        ]
+      },
+      {
+        "title": "Major risk factor interventions",
+        "subsections": [
+          {
+            "title": "Blood pressure: optimal level and lifestyle",
+            "recommendations": [
+              "Aim for blood pressure <120/80 mm Hg.",
+              "Encourage weight control and reduced consumption of fats."
+            ],
+            "classLevel": "Class I; Level of Evidence B"
+          },
+          {
+            "title": "Blood pressure: pharmacotherapy",
+            "recommendations": [
+              "Indicated when blood pressure is \u2265140/90 mm Hg.",
+              "Consider thiazide diuretics as part of the drug regimen."
+            ],
+            "classLevel": "Class I; Level of Evidence A"
+          },
+          {
+            "title": "Lipid and lipoprotein levels: optimal levels and lifestyle",
+            "recommendations": [
+              "Target LDL-C <100 mg/dL, HDL-C >50 mg/dL, triglycerides <150 mg/dL."
+            ],
+            "classLevel": "Class I; Level of Evidence B"
+          },
+          {
+            "title": "Lipids: pharmacotherapy for LDL-C lowering, high-risk women",
+            "recommendations": [
+              "LDL-C\u2013lowering drugs recommended in CHD women aiming to achieve an LDL-C <100 mg/dL."
+            ],
+            "classLevel": "Class I; Level of Evidence A"
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

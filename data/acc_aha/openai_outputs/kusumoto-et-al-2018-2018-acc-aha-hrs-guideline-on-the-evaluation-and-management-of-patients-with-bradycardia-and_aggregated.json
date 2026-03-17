@@ -1,0 +1,3062 @@
+{
+  "content": [
+    {
+      "content": {
+        "title": "2018 ACC/AHA/HRS Guideline on the Evaluation and Management of Patients With Bradycardia and Cardiac Conduction Delay",
+        "description": "A report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.",
+        "collaboration": "Developed in collaboration with the American Association for Thoracic Surgery, the Pediatric & Congenital Electrophysiology Society, and the Society of Thoracic Surgeons.",
+        "endorsement": "Endorsed by the American Association for Thoracic Surgery, the Pediatric & Congenital Electrophysiology Society, and the Society of Thoracic Surgeons."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2018 Bradycardia Guideline",
+        "Task Force Members": "Led by Glenn N. Levine, MD, FACC, FAHA and includes a group of medical professionals specialized in cardiology.",
+        "Purpose": "Guidelines for the management of bradycardia and cardiac conduction delay.",
+        "Structure": "Includes sections on methodology, evidence review, clinical manifestation, evaluation, and management.",
+        "Key Sections": [
+          "Introduction",
+          "Epidemiology and Definitions",
+          "Clinical Manifestations of Bradycardia and Conduction Disorders",
+          "General Evaluation",
+          "Noninvasive and Invasive Testing",
+          "Bradycardia Attributable to SND"
+        ],
+        "Noninvasive Testing": [
+          "Resting ECG",
+          "Exercise Electrocardiographic Testing",
+          "Ambulatory Electrocardiography",
+          "Imaging",
+          "Laboratory Testing",
+          "Genetic Testing",
+          "Sleep Apnea Evaluation"
+        ],
+        "Invasive Testing": [
+          "Implantable Cardiac Monitor",
+          "Electrophysiology Study"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          "5.3 Acute Management of Reversible Causes of SND",
+          "5.4 Chronic Therapy/Management of Bradycardia Attributable to SND",
+          "6 Bradycardia Attributable to Atrioventricular Block",
+          "7 Conduction Disorders (With 1:1 Atrioventricular Conduction)",
+          "8 Special Populations",
+          "9 Evaluation of the Risks for Ventricular Arrhythmias in Patients Who Require Permanent Pacing",
+          "10 Cost and Value Considerations",
+          "11 Shared Decision-Making",
+          "12 Quality of Life",
+          "13 Discontinuation of Pacemaker Therapy",
+          "14 End-of-Life Considerations",
+          "15 Knowledge Gaps and Future Research"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Breathing disorders and nocturnal bradycardias": "Treatment of sleep apnea may reduce frequency of arrhythmias and offer cardiovascular benefits. Screening for sleep apnea in the presence of nocturnal bradycardias is advised.",
+        "Left bundle branch block": "Increases risk of structural heart disease and helps diagnose left ventricular systolic dysfunction. Echocardiography is recommended for initial screening.",
+        "Sinus node dysfunction": "No specific minimum heart rate or pause duration is established for permanent pacing. Temporal correlation between symptoms and bradycardia is important.",
+        "Atrioventricular block": "Permanent pacing recommended for high-grade/complete block. Other blocks require specific symptoms for consideration.",
+        "Left ventricular ejection fraction": "Patients with 36%-50% fraction and atrioventricular block should consider permanent pacing. Preference given to physiologic ventricular activation techniques.",
+        "Conduction system abnormalities": "Recommendations on procedure surveillance and pacemaker implant post valve replacement.",
+        "Shared decision-making": "Emphasis on patient-centered care and decision-making for bradycardia with pacemaker indication.",
+        "Emerging pacing technologies": "His bundle pacing, transcatheter leadless pacing systems, require further investigation.",
+        "Preamble": "Clinical guidelines provide recommendations based on evidence, aimed at enhancing patient care and aligning with patient interests through shared decision-making."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "introduction": {
+          "methodology_and_evidence_review": "The guidelines are evidence-based, with an extensive review of literature from January 2017 to September 2017. The databases used include PubMed, EMBASE, and others relevant to healthcare research and quality. Key search words include AV block, bradycardia, bundle branch block, conduction disturbance, left bundle branch block, loop recorder, pauses, permanent pacemaker, sick sinus syndrome, sinus node dysfunction, and temporary pacemaker.",
+          "guideline_changes": "Modifications have been made to enhance user-friendliness, presented in a modular knowledge chunk format. The complete version is available online."
+        },
+        "organization_of_the_writing_committee": "Composed of experts such as cardiac electrophysiologists and cardiologists. It included representatives from ACC, AHA, HRS, AATS, PACES, and STS.",
+        "document_review_and_approval": "The document was reviewed and approved for publication by the governing bodies such as the ACC, AHA, and HRS; endorsed by other related societies."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Purpose": "The guideline provides guidance to clinicians for managing patients with bradycardia or related symptoms, associated with bradycardia or cardiac conduction system disorders.",
+        "Supersedes": "2008 and 2012 ACCF/AHA/HRS guidelines for pacemaker recommendations.",
+        "Target Audience": "General internists, family physicians, emergency physicians, anesthesiologists, surgeons, cardiologists, and arrhythmia specialists.",
+        "Age Focus": "Adult population (>18 years), with some recommendations for pediatric patients.",
+        "Scope": "Focus on practical clinical evaluation and management of bradycardia and cardiac conduction disorders.",
+        "Objectives": [
+          "Describe the clinical significance of bradycardia.",
+          "Address inherited/acquired disorders of sinus node and other conducting tissues.",
+          "Delineate clinical presentation and evaluation approach for bradycardia.",
+          "Evaluate evidence for diagnostic testing modalities.",
+          "Define evidence base for treatment modalities including device-based therapies."
+        ],
+        "Recommendations": "Designated with class of recommendation (COR) and level of evidence (LOE).",
+        "Abbreviations": {
+          "ACD": "adult congenital heart disease",
+          "AF": "atrial fibrillation",
+          "CIED": "cardiovascular implantable electronic devices",
+          "CRT": "cardiac resynchronization therapy",
+          "HV": "His-ventricular",
+          "ICD": "implantable cardioverter defibrillator",
+          "ICM": "implantable cardiac monitor",
+          "ECG": "electrocardiogram",
+          "EPS": "electrophysiology study",
+          "LBBB": "left bundle branch block",
+          "LVEF": "left ventricular ejection fraction",
+          "MI": "myocardial infarction",
+          "MRI": "magnetic resonance imaging",
+          "PPM": "permanent pacemaker",
+          "QOL": "quality of life",
+          "RBBB": "right bundle branch block",
+          "RCT": "randomized controlled trial",
+          "RV": "right ventricle",
+          "SACT": "sinotrial conduction time",
+          "SND": "sinus node dysfunction",
+          "SNRT": "sinus node recovery time",
+          "TAVR": "transcatheter aortic valve replacement"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Associated Guidelines and Related References",
+        "Summary": "This clinical guideline provides a detailed list of publications and organizations related to various cardiovascular conditions and their management. It includes guidelines for managing ventricular arrhythmias, syncope, stable ischemic heart disease, atrial fibrillation, and postoperative cardiovascular evaluation. The document also includes expert consensus statements on various topics like cardiac device management, MRI imaging in cardiology, and genetic testing for cardiomyopathies.",
+        "Key Points": [
+          "Guidelines are provided by multiple organizations including ACC/AHA/HRS, AHA, ACCF, and others.",
+          "Conditions addressed: Ventricular arrhythmias, sudden cardiac death, syncope, ischemic heart disease, atrial fibrillation, and more.",
+          "Expert consensus statements on cardiac devices, pacing and resynchronization therapy, and genetic testing.",
+          "Discussion on epidemiology and definitions of bradycardia and conduction disorders, highlighting the impact of aging and degenerative changes on conduction."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendation Classes": {
+          "Class I": "Strong recommendation (Benefit >>> Risk)",
+          "Class IIa": "Moderate recommendation (Benefit >> Risk)",
+          "Class IIb": "Weak recommendation (Benefit \u2265 Risk)",
+          "Class III No Benefit": "Moderate evidence for no benefit (Benefit = Risk or \u2264 Risk)",
+          "Class III Harm": "Strong evidence for harm (Risk > Benefit)"
+        },
+        "Levels of Evidence": {
+          "Level A": "High-quality evidence from multiple RCTs",
+          "Level B-R": "Moderate-quality evidence from RCTs",
+          "Level B-NR": "Moderate-quality evidence from nonrandomized studies",
+          "Level C-LD": "Limited data from observational studies",
+          "Level C-EO": "Expert opinion based on clinical experience"
+        },
+        "Clinical Context": {
+          "Conditions Mentioned": [
+            "Bradycardia",
+            "Atrial Arrhythmias",
+            "Tachy-brady Syndrome",
+            "Sinus Node Dysfunction (SND)",
+            "Ischemic Heart Disease",
+            "Heart Failure",
+            "Valvular Heart Disease",
+            "Cerebrovascular Disease",
+            "Atrial Fibrillation (AF)"
+          ],
+          "Associated Studies": [
+            "Atherosclerosis Risk In Communities (ARIC)",
+            "Cardiovascular Health Study (CHS)"
+          ],
+          "Treatments": [
+            "Permanent Pacemaker (PPM)"
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Manifestations": "Bradycardia can vary from insidious symptoms to episodes of frank syncope. It is classified into SND (Sinus Node Dysfunction) and atrioventricular block categories. The manifestations depend on electrophysiologic variations, ventricular rates, and medication effects. SND may present with ectopic atrial rhythm, intermittent pauses, or ventricular escape. Atrioventricular block symptoms depend on whether the block is fixed or intermittent.",
+        "Definitions": "Bradycardia is defined as a heart rate <60 bpm in adults. Clinically significant pauses are >3 seconds. Chronotropic incompetence is defined by failure to reach expected heart rates during exertion, often related to the age-predicted maximal heart rate.",
+        "Conditions Addressed": "Bradycardia, conduction disorders, sinus node dysfunction, atrioventricular block."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Terms": [
+          {
+            "Term": "Sinus node dysfunction (with accompanying symptoms)",
+            "Definition or Description": [
+              "Sinus bradycardia: Sinus rate <50 bpm",
+              "Ectopic atrial bradycardia: Atrial depolarization attributable to an atrial pacemaker other than the sinus node with a rate <50 bpm",
+              "Sinoatrial exit block: Evidence that blocked conduction between the sinus node and adjacent atrial tissue is present.",
+              "Sinus pause: Sinus node depolarizes >3 s after the last atrial depolarization",
+              "Sinus node arrest: No evidence of sinus node depolarization",
+              "Tachycardia-bradycardia ('tachy-brady') syndrome: Sinus bradycardia, ectopic atrial bradycardia, or sinus pause alternating with periods of abnormal atrial tachycardia, atrial flutter, or AF.",
+              "Chronotropic incompetence: Inability of the heart to increase its rate commensurate with increased activity or demand.",
+              "Iatrogenic: Related to medical examination or treatment.",
+              "First-degree atrioventricular block: Associated with 1:1 atrioventricular conduction and a PR interval >200 ms.",
+              "Second-degree atrioventricular block: P waves with a constant rate (<100 bpm)",
+              "Mobitz type I: P waves with a constant rate (<100 bpm) with a periodic single nonconducted P wave",
+              "Mobitz type II: P waves with a constant rate (<100 bpm) with a periodic single nonconducted P wave with a given block pattern.",
+              "2:1 atrioventricular block: P waves with a constant rate",
+              "Advanced, high-grade, or high-degree atrioventricular block: >2 consecutive P waves at a constant physiologic rate"
+            ]
+          },
+          {
+            "Term": "Conduction tissue disease",
+            "Definition or Description": [
+              "RBBB (as defined in adults):",
+              "Complete RBBB: QRS duration \u2265120 ms",
+              "Incomplete RBBB: Same QRS morphology criteria as complete RBBB but with a QRS duration between 110 and 119 ms",
+              "LBBB (as defined in adults):",
+              "Complete LBBB: QRS duration \u2265120 ms in adults"
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "The history and physical examination remain the foundation for clinically evaluating patients with potential bradycardia or conduction disorders. This process is particularly critical for patients with structural heart disease.",
+        "Recommendation": "In patients with suspected bradycardia or conduction disorders, a comprehensive history and physical examination should be performed.",
+        "Clinical Manifestations": "Manifestations depend on the underlying cause. Patients with isolated right bundle branch block may be asymptomatic. Patients with left bundle branch block may experience heart failure.",
+        "Potential Causes": "Bradycardia may be due to conduction disorders or systemic illnesses, often complicated by vagal syncope.",
+        "Evaluation": "The evaluation should address the frequency, timing, duration, and triggers of symptoms, involving a review of medications and lifestyle factors."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "figure": "Evaluation of Bradycardia and Conduction Disease Algorithm",
+        "key_steps": [
+          "Patient evaluation begins if symptoms suggestive of bradycardia or conduction disorder are present.",
+          "Comprehensive history and physical examination is recommended (Class I).",
+          "ECG (Class I) and directed blood testing (Class IIa) are advised depending on findings.",
+          "Sleep apnea consideration.",
+          "Algorithm branches based on conduction disorders (SND, AV Block, non-diagnostic) with respective diagnostic pathways.",
+          "Exercise and ambulatory ECG testing are recommended based on symptoms (Classes I, IIa).",
+          "Careful clinical examination including carotid sinus massage as stroke risks with carotid sinus syndrome are highlighted."
+        ],
+        "recommendation_classes": {
+          "Class I": "General acceptance and usage for these practices.",
+          "Class IIa": "Considerable evidence supports these practices."
+        },
+        "additional_notes": {
+          "Autonomic regulation disorders are noted for syncope and near syncope symptoms.": "logy is noted to be essential in ensuring correct diagnosis of bradycardia phenotypes."
+        },
+        "clinical_conditions": [
+          "Bradycardia",
+          "Conduction disorder",
+          "Sinus hypersensitivity syndrome",
+          "Syncope"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Initial Evaluation of Suspected or Documented SND Algorithm",
+        "year": "2019",
+        "journal": "JACC",
+        "volume": "74",
+        "issue": "7",
+        "date": "August 20, 2019",
+        "guideline": "2018 Bradycardia Guideline",
+        "authors": "Kusumoto et al.",
+        "initial_steps": [
+          "Evidence for sinus node dysfunction",
+          "Reversible or physiological cause",
+          "Treatment effective or unnecessary",
+          "Suspicion for structural heart disease"
+        ],
+        "assessments": [
+          {
+            "assessment": "Transthoracic echocardiography",
+            "class": "IIa"
+          },
+          {
+            "assessment": "Advanced imaging",
+            "class": "IIa"
+          },
+          {
+            "assessment": "Exercise ECG testing",
+            "class": "IIa"
+          },
+          {
+            "assessment": "Ambulatory ECG monitoring",
+            "class": "I"
+          },
+          {
+            "assessment": "Electrophysiology study",
+            "class": "IIb"
+          }
+        ],
+        "note": "Colors correspond to Class of Recommendation. Sinus pauses, sinus bradycardia, junctional rhythm, ectopic atrial rhythm (all with heart rates <50 bpm) while awake."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Initial Evaluation of Suspected Atrioventricular Block Algorithm",
+        "process": {
+          "step_1": "Evidence for AV Block",
+          "step_2": "Determine if reversible or physiologic cause",
+          "step_3": "If yes, treat underlying cause as needed (e.g., sleep apnea) and observe if treatment is effective or not necessary.",
+          "step_4": "If no reversible cause, assess for Mobitz Type II, Advanced AV Block, or complete heart block.",
+          "step_5": "If Mobitz Type II or higher, proceed with TransThoracic echocardiography (Class I).",
+          "step_6": "Assess for suspicion of infiltrative cardiomyopathy, endocarditis, congenital heart disease, etc.",
+          "step_7": "If suspicion exists, use advanced imaging or electrophysiology study as appropriate.",
+          "step_8": "Determine site of AV block (infranodal, unclear, or AV node)."
+        },
+        "recommendations": {
+          "transThoracic_echocardiography": "Class I",
+          "advanced_imaging": "Class IIa",
+          "exercise_testing": "Class IIa",
+          "electrophysiology_study": "Class IIb"
+        },
+        "notes": [
+          "Refer to Class of Recommendation in Table 2 for imaging methods.",
+          "AV node more likely site of block with second-degree Mobitz type I."
+        ],
+        "definitions": {
+          "AV": "atrioventricular",
+          "ACHD": "adult congenital heart disease",
+          "CHD": "congenital heart disease",
+          "CM": "cardiomyopathy"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2018 Bradycardia Guideline",
+        "Medications Inducing/Exacerbating Bradycardia/Conduction Disorders": {
+          "Antihypertensive": [
+            "Beta-adrenergic receptor blockers",
+            "Clonidine",
+            "Methyldopa",
+            "Non-dihydropyridine calcium channel blockers",
+            "Reserpine"
+          ],
+          "Antiarrhythmic": [
+            "Adenosine",
+            "Amiodarone",
+            "Dronedarone",
+            "Flecainide",
+            "Procainamide",
+            "Propafenone",
+            "Quinidine",
+            "Sotalol"
+          ],
+          "Psychoactive": [
+            "Donepezil",
+            "Lithium",
+            "Opioid analgesics",
+            "Phenothiazine antiemetics and antipsychotics",
+            "Phenytoin",
+            "Selective serotonin reuptake inhibitors",
+            "Tricyclic antidepressants"
+          ],
+          "Other": [
+            "Anesthetic drugs (propofol)",
+            "Cannabis",
+            "Digoxin",
+            "Ivabradine",
+            "Muscle relaxants (e.g., succinylcholine)"
+          ]
+        },
+        "Conditions Associated With Bradycardia and Conduction Disorders": {
+          "Intrinsic": {
+            "Cardiomyopathy": "Ischemic or nonischemic",
+            "Congenital heart disease": null,
+            "Degenerative fibrosis": null,
+            "Infection/inflammation": [
+              "Chagas disease",
+              "Diphtheria",
+              "Infectious endocarditis",
+              "Lyme disease",
+              "Myocarditis",
+              "Sarcoidosis",
+              "Toxoplasmosis"
+            ],
+            "Infiltrative disorders": [
+              "Amyloidosis",
+              "Hemochromatosis",
+              "Lymphoma"
+            ],
+            "Ischemia/infarction": null,
+            "Rheumatological conditions": [
+              "Rheumatoid arthritis",
+              "Scleroderma",
+              "Systemic lupus erythematosus"
+            ],
+            "Surgical or procedural trauma": [
+              "Cardiac procedures such as ablation or cardiac catheterization",
+              "Congenital heart disease surgery",
+              "Septal myomectomy for hypertrophic obstructive cardiomyopathy",
+              "Valve surgery (including percutaneous valve replacement)"
+            ]
+          },
+          "Extrinsic": {
+            "Autonomic perturbation": [
+              "Carotid sinus hypersensitivity",
+              "Neurally-mediated syncope/presyncope",
+              "Physical conditioning",
+              "Situational syncope",
+              "Sleep (with or without sleep apnea)"
+            ],
+            "Metabolic": [
+              "Acidosis",
+              "Hyperkalemia",
+              "Hypokalemia",
+              "Hypothermia",
+              "Hypothyroidism",
+              "Hypoxia"
+            ]
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Noninvasive Evaluation": {
+          "Resting ECG": {
+            "Indication": "For patients with suspected bradycardia or conduction disorder.",
+            "Recommendation": "12-lead ECG to document rhythm, rate, and conduction, and to screen for structural heart disease or systemic illness.",
+            "Level of Evidence": "I, B-NR"
+          },
+          "Exercise Electrocardiographic Testing": {
+            "Recommendation 1": {
+              "Indication": "Suspected chronotropic incompetence.",
+              "Recommendation": "Reasonable to ascertain diagnosis and prognosis.",
+              "Level of Evidence": "IIa, B-NR"
+            },
+            "Recommendation 2": {
+              "Indication": "Exercise-related symptoms or 2:1 atrioventricular block of unknown level.",
+              "Recommendation": "Exercise testing is reasonable.",
+              "Level of Evidence": "IIa, C-LD"
+            }
+          }
+        },
+        "Synopsis": [
+          "The resting ECG is essential in evaluating known or suspected bradycardia or conduction disorder.",
+          "A 12-lead ECG helps confirm rhythm and rate disturbances, and detect abnormalities suggesting structural heart or systemic disease.",
+          "About 5% diagnosis rate in symptomatic patients using ECG.",
+          "Initial abnormal ECG predictive of adverse outcomes, such as mortality with syncope."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Exercise electrocardiographic testing": "Integral to diagnosing chronotropic incompetence, which is an inability to increase heart rate with physical activity. Chronotropic incompetence impacts prognosis and exercise tolerance, especially in individuals with cardiovascular disease. Testing is beneficial for identifying conduction disorders, like atrioventricular block, often precipitated by myocardial ischemia.",
+        "Conduction disorders": "Frequently induced by exercise, these include myocardial ischemia and coronary vasospasm. Coronary angiographies often reveal stenosis, but the yield of testing without symptoms is low.",
+        "Ambulatory electrocardiographic monitoring": "Important for documenting bradycardia or conduction disorders, aiding in correlation between heart rate and conduction anomalies.",
+        "Recommendation": "Exercise testing in individuals with suspected bradycardia or conduction disorders is recommended to detect abnormalities associated with these conditions."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_title": "2018 Bradycardia Guideline",
+        "publication_details": "Kusumoto et al., JACC Vol. 74, No. 7, 2019, August 20, 2019",
+        "table_title": "Cardiac Rhythm Monitors",
+        "monitors": [
+          {
+            "type": "Nonphysician prescribed smartphone-based systems",
+            "description": "Commercially available smartphone-based systems that can record a rhythm strip when the patient has symptoms or continuously depending on the technology.",
+            "patient_selection": "Patient access to the technology."
+          },
+          {
+            "type": "Holter monitor",
+            "description": "Continuous recording for 24\u201372 h; up to 2 wk with newer models. Symptom rhythm correlation can be achieved through a patient event diary and patient-activated annotations.",
+            "patient_selection": "Symptoms frequent enough to be detected within a short period (24\u201372 h) of monitoring."
+          },
+          {
+            "type": "Patient-activated, transtelephonic monitor (event monitor)",
+            "description": "A recording device that transmits patient-activated data (live or stored) via an analog telephone line to a central remote monitoring station (e.g., physician office).",
+            "patient_selection": "Frequent, spontaneous symptoms likely to recur within 2\u20136 wk. Limited use in patients with incapacitating symptoms."
+          },
+          {
+            "type": "External loop recorder (patient or auto triggered)",
+            "description": "A device that continuously records and stores rhythm data over weeks to months. Patient activated, or auto triggered (e.g., to record asymptomatic arrhythmias) to provide a recording of events antecedent to (3\u201314 min), during, and after (1\u20134 min) the triggered event. Newer models are equipped with a cellular telephone, which transmits triggered data automatically over a wireless network to a remote monitoring system.",
+            "patient_selection": "Frequent, spontaneous symptoms potentially related to bradycardia or conduction disorder, likely to recur within 2-6 wk."
+          },
+          {
+            "type": "External patch recorders",
+            "description": "Patch device that continuously records and stores rhythm data, with patient-trigger capability to allow for symptom-rhythm correlation. No leads or wires, and adhesive to the chest wall/sternum. Various models record from 2-14 d. Offers accurate means of assessing burden of AF. Patient activated, or auto triggered (e.g., to record asymptomatic arrhythmias) to provide a recording of events antecedent to, during, and after the triggered event.",
+            "patient_selection": "Can be considered as an alternative to external loop recorder. Given that it is leadless, can be accurately self-applied, and is largely water resistant, it may be more comfortable and less cumbersome than an external loop recorder, potentially improving compliance."
+          },
+          {
+            "type": "Mobile cardiac outpatient telemetry",
+            "description": "Device that records and transmits data (up to 30 d) from prerecorded arrhythmias or patient activation to a communication hub at the patient\u2019s home. Significant arrhythmias are detected; the monitor automatically transmits the patient\u2019s electrocardiographic data through a wireless network to the central monitoring station, which is attended by trained technicians 24 h/d.",
+            "patient_selection": "Spontaneous symptoms, potentially related to bradycardia or conduction disorder, that are too brief, to subtle, or infrequent to be readily documented with patient-activated monitors. In high-risk patients whose rhythm requires real-time monitoring."
+          },
+          {
+            "type": "Implantable cardiac monitor",
+            "description": "Subcutaneously implanted device, with a battery life of 2-3 y. Triggered by the patient (or often family member witness) to store the event. Models allow for transtelephonic transmission, as well as automatic detection of significant arrhythmias with remote monitoring.",
+            "patient_selection": "Infrequent, unexplained symptoms, potentially related to bradycardia or conduction disorder after a nondiagnostic initial workup, with or without structural heart disease."
+          }
+        ],
+        "supportive_text": {
+          "study_1": "In a prospective study of 95 individuals with syncope of uncertain origin after history, physical examination and ECG, up to 72 hours of continuous ambulatory monitoring uncovered significant bradyarrhythmia in 11%.",
+          "study_2": "A study of 518 consecutive 24-hour Holter monitors performed for a broad range of cardiac symptoms revealed significant bradyarrhythmia in only 4%, and none manifested advanced atrioventricular block."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "4.2.4. Imaging in Patients With Documented or Suspected Bradycardia or Conduction Disorders",
+        "recommendations": [
+          {
+            "COR": "I",
+            "LOE": "B-NR",
+            "recommendation": "In patients with newly identified LBBB, second-degree Mobitz type II atrioventricular block, high-grade atrioventricular block, or third-degree atrioventricular block with or without apparent structural heart disease or coronary artery disease, transthoracic echocardiography is recommended."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-NR",
+            "recommendation": "In selected patients presenting with bradycardia or conduction disorders other than LBBB, second-degree Mobitz type II atrioventricular block, high-grade atrioventricular block, or third-degree atrioventricular block, transthoracic echocardiography is reasonable if structural heart disease is suspected."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "C-LD",
+            "recommendation": "In selected patients with bradycardia or bundle branch block, disease-specific advanced imaging (e.g., transesophageal echocardiography, computed tomography, cardiac magnetic resonance imaging [MRI], or nuclear imaging) is reasonable if structural heart disease is suspected yet not confirmed by other diagnostic modalities."
+          },
+          {
+            "COR": "III: No Benefit",
+            "LOE": "B-NR",
+            "recommendation": "In the evaluation of patients with asymptomatic sinus bradycardia or first-degree atrioventricular block and no clinical evidence of structural heart disease, routine cardiac imaging is not indicated."
+          }
+        ],
+        "synopsis": "Bradycardia or conduction disorders may present in a range of cardiovascular and systemic diseases. The presence of structural heart disease significantly impacts prognosis. Echocardiography is encouraged, especially in those with syncope or suspected cardiac disease.",
+        "other_notes": "An international survey reported widespread use of echocardiography for patients with syncope. Advanced imaging should be careful considered for specific cases."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "1": "Patients with bradycardia or conduction disorders may be evaluated through echocardiography to identify structural cardiac abnormalities.",
+        "2": "Cardiac MRI and CT can help identify conditions like sarcoidosis, hemochromatosis, and amyloidosis contributing to conduction disturbance.",
+        "3": "Nuclear imaging techniques can help distinguish cardiomyopathies and diagnose cardiac sarcoidosis.",
+        "4": "In patients without clinical evidence of heart disease, echocardiography is not recommended.",
+        "5": "Laboratory testing such as thyroid function and Lyme titer may be reasonable based on clinical suspicion for underlying causes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Bradycardia attributable to sinoatrial node dysfunction or atrioventricular block may result from conditions such as hypothyroidism, rheumatologic disorders, and infections. Genetic mutations linked to bradycardia include those affecting ion channels, nuclear envelope proteins, and other structural proteins.",
+        "Recommendations": [
+          {
+            "COR": "I",
+            "LOE": "C-EO",
+            "Text": "Genetic testing of first-degree relatives for mutation-specific genes in patients with identified causative mutations in conduction disorders is recommended."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "C-EO",
+            "Text": "Genetic counseling and targeted testing in relatives of patients with inherited conduction disease may be considered."
+          }
+        ],
+        "Genetic Testing": "It is endorsed for families of patients with progressive cardiac conduction disease-causing mutations. Testing is crucial for symptomatic family members and asymptomatic carriers of conductance disease-associated mutations."
+      },
+      "genes": [
+        {
+          "Gene": "SCN5A",
+          "Associated Conditions": [
+            "Inherited conduction disease",
+            "Progressive conduction disease",
+            "Genetic cause of atrioventricular block",
+            "Inherited arrhythmia",
+            "Bradycardia or conduction disorder",
+            "Brugada syndrome",
+            "Cardiac conduction disease",
+            "Arrhythmias",
+            "Brugada Syndrome",
+            "Progressive Cardiac Conduction Defect"
+          ],
+          "Occurrences": 1,
+          "context": "The SCN5A gene, encoding the cardiac sodium channel alpha subunit, is the most common identifiable gene responsible for inherited conduction disease."
+        },
+        {
+          "Gene": "HCN4",
+          "Associated Conditions": [
+            "Cardiac pacemaker dysfunction"
+          ],
+          "Occurrences": 1,
+          "context": "Mutations in the cardiac pacemaker channel gene HCN4 have been identified."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "Sleep Apnea Evaluation and Treatment in Patients With Documented or Suspected Bradycardia or Conduction Disorders",
+        "source": "2018 Bradycardia Guideline (JACC)",
+        "recommendations": [
+          {
+            "number": 1,
+            "COR": "I",
+            "LOE": "B-NR",
+            "recommendation_text": "In patients with documented or suspected bradycardia or conduction disorder during sleep, screening for symptoms of sleep apnea syndrome is recommended with subsequent confirmatory testing directed by clinical suspicion.",
+            "references": "S4.2.7-1\u2013S4.2.7-11"
+          },
+          {
+            "number": 2,
+            "COR": "I",
+            "LOE": "B-NR",
+            "recommendation_text": "In patients with sleep-related bradycardia or conduction disorder and documented obstructive sleep apnea, treatment directed specifically at the sleep apnea (e.g., continuous positive airway pressure and weight loss) is recommended.",
+            "references": "S4.2.7-12\u2013S4.2.7-16"
+          },
+          {
+            "number": 3,
+            "COR": "IIa",
+            "LOE": "B-NR",
+            "recommendation_text": "In patients who have previously received or are being considered for a permanent pacemaker for bradycardia or conduction disorder, screening for sleep apnea syndrome is reasonable.",
+            "references": "S4.2.7-10, S4.2.7-11"
+          }
+        ],
+        "synopsis": "Nocturnal bradyarrhythmias (sinus bradycardia, sinus arrest, sinus exit block, atrioventricular block, junctional rhythm, and periods of asystole) are common during sleep. Many events are physiologic, vagally mediated, and asymptomatic, especially in young or conditioned individuals. Patients with sleep apnea demonstrate higher prevalence of sleep-related bradycardia and conduction disorders, primarily during apneic episodes. Treatment of underlying sleep apnea (for example with CPAP and weight loss) reduces frequency of bradyarrhythmias and in many patients eliminates the need for pacemaker implantation.",
+        "prevalence_and_rates": {
+          "sleep_disordered_breathing_US_estimate": "\u224824% men, 9% women (much asymptomatic or unrecognized)",
+          "higher_prevalence_in_cardiovascular_disease": "ranges from \u224847% to 83% depending on specific disorder",
+          "profound_nocturnal_sinus_bradycardia": "estimated range 7.2% to 40%",
+          "second_or_third_degree_AV_block": "estimated range 1.3% to 13.3%",
+          "sinus_pauses": "estimated range 3.3% to 33%"
+        },
+        "recommendation_specific_support": "Sleep-disordered breathing is common and often asymptomatic; more severe sleep apnea is associated with higher rates of bradyarrhythmias. A stereotypical pattern of progressive bradycardia during apnea/hypopnea with tachycardia and hypertension during arousal has been described and can help in diagnosis.",
+        "clinical_implications": [
+          "Screen for sleep apnea in patients with bradycardia or conduction disorders encountered during sleep or in those considered for pacemaker implantation.",
+          "Treat documented obstructive sleep apnea (CPAP, weight loss) to reduce bradyarrhythmia burden and potentially avoid pacemaker implantation.",
+          "Consider targeted confirmatory testing (polysomnography) when clinical suspicion for sleep apnea exists."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          {
+            "title": "Sleep Apnea and Bradyarrhythmias",
+            "points": [
+              "Sleep apnea can cause nocturnal bradyarrhythmias and has cardiovascular benefits when treated.",
+              "Nocturnal bradyarrhythmias suggest screening for sleep apnea.",
+              "Treatment of these arrhythmias can be effective with management of sleep apnea.",
+              "Studies show improvement in sleep and bradyarrhythmias with positive airway pressure."
+            ]
+          },
+          {
+            "title": "Prevalence and Diagnosis",
+            "points": [
+              "Undiagnosed sleep apnea may be prevalent among patients needing pacemakers for bradycardia.",
+              "Certain conditions increase the risk for sleep apnea and bradyarrhythmias.",
+              "Implantable cardiac monitors (ICM) are recommended for patients with infrequent symptoms of bradycardia when noninvasive evaluations are nondiagnostic."
+            ]
+          }
+        ],
+        "recommendations": [
+          "Long-term ambulatory monitoring with an ICM is reasonable for patients with infrequent symptoms of bradycardia."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guideline": "The guideline discusses the use of invasive Electrophysiology Study (EPS) for patients with symptoms suggestive of bradycardia, such as syncope or presyncope. EPS is used to assess cardiac conduction and diagnose bradycardia mechanisms when noninvasive methods are inconclusive. The goal of EPS is to identify arrhythmias or conduction disorders in patients, especially those with a history of heart disease.",
+        "EPS_suitability": "EPS is considered when initial evaluations such as ECG, echocardiogram, or ambulatory monitoring do not provide a conclusive diagnosis. It is used predominantly for patients with unexplained syncope or presyncope.",
+        "risks": "The risk of complications from EPS is low, including risks such as cardiac tamponade and ventricular arrhythmia.",
+        "bradycardia_association": "Bradycardia is often related to high-grade atrioventricular block, sick sinus syndrome (SND), and neurocardiogenic syncope.",
+        "importance_of_ICM": "Implantable Cardiac Monitors (ICM) are emphasized as useful when symptoms are infrequent.",
+        "recommendation": "An EPS may be a reasonable approach for diagnosing patients with bradycardia or unexplained syncope, especially in those with existing heart conditions."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sinonodal node": "Composed of pacemaker cells, transitional cells, endothelial cells, fibroblasts, and extracellular scaffolding.",
+        "genome-wide association": "Identified multiple loci in ion channel and channel interacting proteins related to heart rate.",
+        "cardiomyocytes structure": "Protection of pacemaker cells, suppression of hyperpolarization.",
+        "age-related changes": "Increased fibrosis correlates with slower heart rate.",
+        "histopathology": "Association between more extensive fibrosis, SND, and arrhythmias.",
+        "sinus bradycardia": "Not associated with adverse outcomes if asymptomatic.",
+        "symptoms of SND": "Range from mild fatigue to syncope.",
+        "dyspnea": "Caused by chronotropic incompetence, lightheadedness, chronic fatigue.",
+        "SND correlation": "Symptoms correlate with bradycardia and heart rate.",
+        "acute management": "Evaluation and treatment of reversible causes recommended."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Acute Bradycardia Algorithm",
+        "Description": "This algorithm outlines the steps for assessing and treating acute bradycardia, including evaluation of reversible causes and the use of medications such as Atropine, and potential interventions like pacing. The algorithm incorporates decision points based on symptom severity and potential drug toxicity.",
+        "Steps": [
+          "Assess and treat reversible causes (COR I)",
+          "Evaluate moderate or severe symptoms",
+          "Administer Atropine if symptoms are severe (Class IIa)",
+          "Determine type of drug toxicity if applicable",
+          "Use appropriate interventions based on type of toxicity, such as IV Calcium, IV Glucagon, or Anti-digoxin Fab",
+          "Consider high dose insulin for certain toxicities (COR IIa)",
+          "Evaluate continuation of symptoms, leading to pacing or other interventions as necessary",
+          "Identify severe symptoms or hemodynamic instability",
+          "Consider beta-agonists or aminophylline if MI with AV block is present"
+        ],
+        "Notes": [
+          "Use Atropine with caution post-heart transplant.",
+          "Simultaneous pacing preparation may be necessary with pharmacologic treatment in drug toxicity cases."
+        ],
+        "Color Guide": {
+          "COR I": "Green",
+          "COR IIa": "Yellow",
+          "COR IIb": "Orange"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "5.3.2. Acute Medical Therapy for Bradycardia",
+        "subsection": "5.3.2.1. Atropine and Beta Agonists for Bradycardia Attributable to SND",
+        "recommendations": [
+          {
+            "COR": "IIa",
+            "LOE": "C-LD",
+            "recommendation": "In patients with SND associated with symptoms or hemodynamic compromise, atropine is reasonable to increase sinus rate."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "C-LD",
+            "recommendation": "In patients with SND associated with symptoms or hemodynamic compromise who are at low likelihood of coronary ischemia, isoproterenol, dopamine, dobutamine, or epinephrine may be considered to increase heart rate and improve symptoms."
+          },
+          {
+            "COR": "III: Harm",
+            "LOE": "C-LD",
+            "recommendation": "In patients who have undergone heart transplant without evidence for autonomic reinnervation, atropine should not be used to treat sinus bradycardia."
+          }
+        ],
+        "synopsis": [
+          "Several drugs can be used for the acute treatment of bradycardia.",
+          "Atropine is a parasympatholytic drug that blocks the muscarinic acetylcholine receptor.",
+          "It facilitates sinoatrial conduction and increases sinus node automaticity.",
+          "Isoproterenol is a nonselective beta agonist with chronotropic and inotropic effects on cardiac myocytes."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Acute Medical Management of Bradycardia Attributable to SND or Atrioventricular Block",
+        "Symptomatic sinus bradycardia or atrioventricular block": {
+          "Atropine": "0.5-1 mg IV (max 3 mg total)",
+          "Dopamine": "5 to 20 mcg/kg/min IV starting at 5 mcg/kg/min",
+          "Isoproterenol": "20-60 mcg IV bolus followed by 0.5-10 mcg or infusion of 1-20 mcg/min",
+          "Epinephrine": "2-10 mcg/min IV or 0.1-0.5 mcg/kg/min IV"
+        },
+        "Second- or third-degree atrioventricular block associated with acute inferior MI": {
+          "Aminophylline": "250 mg IV bolus"
+        },
+        "Calcium channel blocker overdose": {
+          "10% calcium chloride": "1-2 g IV",
+          "10% calcium gluconate": "3-6 g IV"
+        },
+        "Beta-blocker or calcium channel blocker overdose": {
+          "Glucagon": "3-10 mg IV",
+          "High-dose insulin therapy": "IV bolus of 1 unit/kg followed by infusion"
+        },
+        "Digoxin overdose": {
+          "Digoxin antibody fragment": "Dosage depends on amount ingested"
+        },
+        "Post-heart transplant": {
+          "Aminophylline": "6 mg/kg IV",
+          "Theophylline": "300 mg IV"
+        },
+        "Spinal cord injury": {
+          "Aminophylline": "6 mg/kg IV",
+          "Theophylline": "Oral dose of 5-10 mg/kg/d"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Atropine Use": "Atropine is used in the treatment of bradycardia, specifically in patients with hemodynamically unstable sinus bradycardia and atrioventricular block. It has been shown to have some benefit and minimal risk of worsening bradycardia, ischemia, or potentiating ventricular fibrillation.",
+        "Isoproterenol Use": "Case reports describe isoproterenol's salutary use in sinus bradycardia, but there is no clinical trial data to support it. Isoproterenol increases myocardial oxygen demand and is best avoided in cases with coronary ischemia. It's predominantly used in the electrophysiology lab.",
+        "Heart Transplantation": "In patients who have undergone heart transplants, isoproterenol can cause paradoxical heart block. Sympathetic reinnervation can occur after long-term follow-up, but parasympathetic reinnervation is less common.",
+        "Therapy for Bradycardia": "Recommendations for patients with bradycardia caused by beta-blocker or calcium channel blocker overdose include using intravenous calcium or high-dose insulin therapy to increase heart rate and improve symptoms.",
+        "Cardiovascular Effects": "Beta-blocker and calcium channel blocker toxicity can cause systemic cardiovascular effects like negative chronotropic and inotropic effects, and vasodilation."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The clinical guideline discusses therapies for bradycardia attributed to digoxin, SND, or atrioventricular block. It considers the use of digoxin-specific antibody (Fab) in cases of digoxin toxicity to improve heart rate and hemodynamic stability.",
+        "recommendations": [
+          {
+            "cor": "IIa",
+            "loe": "C-LD",
+            "recommendation": "For patients with bradycardia and symptoms or hemodynamic compromise due to digoxin toxicity, use of digoxin Fab is reasonable."
+          },
+          {
+            "cor": "III: No Benefit",
+            "loe": "C-LD",
+            "recommendation": "For similar patients, dialysis is not recommended for digoxin removal."
+          }
+        ],
+        "therapy_details": [
+          "Glucagon as a treatment for counteracting beta blocker effects; standard therapy in cardiac arrest with bolus and infusion recommendations.",
+          "High-dose insulin therapy is discussed, suggesting benefits but noting limited evidence."
+        ],
+        "antidote_usage": "Digoxin Fab binds digoxin, monitored for efficacy in reducing symptoms of digoxin toxicity, with attention to dosing and serum levels."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "class_of_recommendation": "IIa",
+            "level_of_evidence": "C-LD",
+            "summary": "In post-heart transplant patients, aminophylline or theophylline is reasonable to increase heart rate if clinically indicated."
+          },
+          {
+            "class_of_recommendation": "IIa",
+            "level_of_evidence": "C-LD",
+            "summary": "In patients with SND associated with symptoms or hemodynamic compromise in the setting of acute spinal cord injury, aminophylline or theophylline is reasonable to increase heart rate and improve symptoms."
+          }
+        ],
+        "synopsis": "The methylxanthines theophylline and aminophylline exert positive chronotropic effects on the heart by inhibiting the suppressive effects of adenosine on the sinoatrial node. There is no direct evidence supporting the use in acute SND without spinal cord injury or post-transplantation, but they may restore sinus rate in certain patients. Atropine is ineffective for post-transplant SND. Limited data support the use of terbutaline, and observational studies have shown improved heart rate using theophylline or aminophylline."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "5.3.3",
+        "title": "Temporary Pacing for Bradycardia Attributable to SND",
+        "guidelines": [
+          {
+            "COR": "IIa",
+            "LOE": "C-LD",
+            "recommendation": "In patients with persistent hemodynamically unstable SND refractory to medical therapy, temporary transvenous pacing is reasonable to increase heart rate and improve symptoms until a PPM is placed or the bradycardia resolves."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "C-LD",
+            "recommendation": "In patients with SND with severe symptoms or hemodynamic compromise, temporary transcutaneous pacing may be considered to increase heart rate and improve symptoms until a temporary transvenous or PPM is placed or the bradycardia resolves."
+          },
+          {
+            "COR": "III: Harm",
+            "LOE": "C-LD",
+            "recommendation": "In patients with SND with minimal and/or infrequent symptoms without hemodynamic compromise, temporary transcutaneous or transvenous pacing should not be performed."
+          }
+        ],
+        "synopsis": [
+          {
+            "point": "The use of temporary transvenous pacing for SND is uncommon but necessary in certain cases of hemodynamic instability."
+          },
+          {
+            "point": "Complications include venous thrombosis, pulmonary emboli, life-threatening arrhythmias, and infection."
+          },
+          {
+            "point": "Temporary pacing can be implemented transcutaneously or via transesophageal approach."
+          }
+        ],
+        "recommendation_specific_support": "There are no RCTs or observational studies specific to temporary transvenous pacing for SND. However, case series suggest effective outcomes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2018 Bradycardia Guideline",
+        "Volume": "JACC VOL. 74, NO. 7, 2019",
+        "Date": "August 20, 2019",
+        "Figure Description": "Acute Pacing Algorithm",
+        "Algorithm Details": {
+          "Main Decision Points": [
+            "Hemodynamic instability despite medical therapy",
+            "Critically ill due to bradycardia",
+            "Permanent pacemaker indicated and capability immediately available"
+          ],
+          "Interventions": [
+            "Transcutaneous pacing (Class IIb)",
+            "Implant Permanent pacemaker",
+            "Prolonged temporary pacing needed",
+            "Externalized permanent pacing lead (Class IIa)",
+            "Temporary transvenous pacing wire (Class IIa)"
+          ],
+          "Notes": [
+            "Careful management of anesthesia to avoid or minimize the use of drugs associated with bradycardia is required."
+          ]
+        },
+        "References": [
+          {
+            "Section": "S5.3.3-1, S5.3.3-18\u2013S5.3.3-20, S5.3.3-22",
+            "Details": "Increases in heart rate and blood pressure, and tolerable patient tolerance."
+          },
+          {
+            "Section": "S5.3.3-21",
+            "Details": "Systematic review showing improvement in survival to discharge in non-asystolic patients with symptomatic bradycardia."
+          },
+          {
+            "Section": "S5.3.3-31",
+            "Details": "Strategy shown to be effective in the perioperative setting for rapid treatment of bradycardia."
+          },
+          {
+            "Section": "S5.3.3-5, S5.3.3-10, S5.3.3-15, S5.3.3-25\u2013S5.3.3-29",
+            "Details": "Temporary transvenous pacing associated with a high risk of complications."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "5.4. Chronic Therapy/Management of Bradycardia Attributable to SND",
+        "principles": "General principles for chronic therapy/management of bradycardia attributable to SND are discussed, including recommendations and levels of evidence.",
+        "recommendations": [
+          {
+            "COR": "III: Harm",
+            "LOE": "C-LD",
+            "details": "In asymptomatic individuals with sinus bradycardia or sinus pauses that are secondary to physiologically elevated parasympathetic tone, permanent pacing should not be performed."
+          },
+          {
+            "COR": "III: Harm",
+            "LOE": "C-LD",
+            "details": "In patients with sleep-related sinus bradycardia or transient sinus pauses occurring during sleep, permanent pacing should not be performed unless other indications for pacing are present."
+          },
+          {
+            "COR": "III: Harm",
+            "LOE": "C-LD",
+            "details": "In patients with asymptomatic SND, or in those in whom the symptoms have been documented to occur in the absence of bradycardia or chronotropic incompetence, permanent pacing should not be performed."
+          }
+        ],
+        "synopsis": "The goal of anti-bradycardia therapy in SND is to increase the heart rate so that cardiac output is normalized. There is no established minimum heart rate for treatment indication. Identifying temporal correlation between symptoms and bradycardia is crucial. Permanent pacing is not advised for asymptomatic individuals with elevated parasympathetic tone.",
+        "supportive_text": [
+          "Young individuals may have parasympathetic tone at rest with sinus rates below 40 bpm.",
+          "Sinus bradycardia can occur during heightened vagal tone such as during sleep.",
+          "SND can manifest as sinus bradycardia or recurrent sinus pauses but does not necessitate permanent pacing in asymptomatic cases."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "cor": "I",
+            "loe": "C-EO",
+            "recommendation": "Patients presenting with symptomatic SND secondary to a reversible cause should first be managed by directing the therapy at eliminating or mitigating the offending condition."
+          },
+          {
+            "cor": "IIb",
+            "loe": "C-EO",
+            "recommendation": "In patients with symptoms suggestive of bradycardia (e.g., syncope, lightheadedness) who are also undergoing an EPS for another indication, evaluation of sinus node function as part of the EPS may be considered."
+          },
+          {
+            "cor": "IIb",
+            "loe": "C-EO",
+            "recommendation": "In symptomatic patients with suspected SND, EPS for the assessment of sinus node function may be considered when the diagnosis remains uncertain after initial noninvasive evaluations."
+          },
+          {
+            "cor": "III",
+            "loe": "C-LD",
+            "recommendation": "In patients with asymptomatic sinus bradycardia, an EPS should not be performed unless other indications for electrophysiological testing exist."
+          }
+        ],
+        "synopsis": "Patients may present with symptomatic sinus bradycardia attributable to reversible causes. Medications are frequent culprits. Negative chronotropic drugs such as beta blockers, calcium channel blockers, and digoxin can decrease the sinus rate. Sodium-channel and potassium-channel blocking antiarrhythmic drugs can also exacerbate bradycardia in patients with preexisting SND. Hypothyroidism can cause clinically significant bradycardia. Cardiovascular abnormalities respond well to replacement therapy with thyroxine (T4). Metabolic abnormalities such as severe systemic acidosis or hypokalemia can uncommonly cause sinus bradycardia in acute settings. Reversible physiological disturbances should be considered and treated first.",
+        "recommendation_specific_support": "When sinus bradycardia is the consequence of nonessential medications, permanent cardiac pacing should not be considered a first-line treatment.",
+        "additional_information": "Treatable conditions predisposing to sinus bradycardia include elevated intracranial pressure, acute MI, severe hypothermia, and obstructive sleep apnea."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "SND is diagnosed based on history and rhythm documentation. EPS may be used in rare cases to ascertain the diagnosis. There are two electrophysiology measures: SNRT and SACT, which help assess sinus node function. SNRT and SACT have limited sensitivity and specificity and are not commonly used in clinical practice.",
+        "Recommendations": [
+          {
+            "Level": "I",
+            "Class": "C-LD",
+            "Description": "Permanent pacing is indicated for patients with symptoms directly attributable to SND to increase heart rate and improve symptoms."
+          },
+          {
+            "Level": "I",
+            "Class": "C-EO",
+            "Description": "Permanent pacing is recommended for patients who develop symptomatic sinus bradycardia with no alternative treatment."
+          },
+          {
+            "Level": "IIa",
+            "Class": "C-EO",
+            "Description": "Permanent pacing is reasonable for patients with tachy-brady syndrome and symptoms attributable to bradycardia."
+          },
+          {
+            "Level": "IIa",
+            "Class": "C-EO",
+            "Description": "Permanent pacing with rate-responsive programming is reasonable for symptomatic chronotropic incompetence."
+          },
+          {
+            "Level": "IIb",
+            "Class": "C-LD",
+            "Description": "A trial of oral theophylline may be considered for patients with symptoms likely attributable to SND to improve investigational outcomes and determine the necessity of permanent pacing."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Permanent cardiac pacing is indicated to alleviate symptoms of cerebral hypoperfusion due to bradycardia when reversible causes are excluded. Symptomatic SND (sick sinus node dysfunction) is a common indication for pacing, particularly in cases of atrioventricular block. The correlation between symptoms and bradycardia can justify pacing, with QOL improvement being a main benefit.",
+        "Recommendation-Specific Supportive Text": [
+          {
+            "Text": "Bradycardia correlated with symptoms can lead to clinical improvements with permanent cardiac pacing. It is seen as the gold standard for diagnosis and treatment due to the high likelihood of response.",
+            "Reference": "S5.4.4-1, S5.4.4-2."
+          },
+          {
+            "Text": "Beta-blocking and calcium channel-blocking drugs can worsen SND symptoms. Permanent pacing may be indicated to counter these effects.",
+            "Reference": "S5.4.4-5\u2013S5.4.4-7."
+          },
+          {
+            "Text": "Patients with heart rates (bradycardia) exacerbated by atrial tachyarrhythmias may require pacing. Treatment with drugs might otherwise worsen symptoms.",
+            "Reference": "S5.4.4-10."
+          },
+          {
+            "Text": "Chronic incompetence related to heart response to physical activity is diagnosed via ambulatory heart rate monitoring or electrocardiographic testing.",
+            "Reference": "S5.4.4-13."
+          },
+          {
+            "Text": "Theophylamine treatment showed varied effectiveness, with permanent pacing showing better results. This is particularly noted in symptomatic SND.",
+            "Reference": "S5.4.4-3."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "class": "I",
+            "level of evidence": "B-R",
+            "recommendation": "In symptomatic patients with SND, atrial-based pacing is recommended over single chamber ventricular pacing."
+          },
+          {
+            "class": "I",
+            "level of evidence": "B-R",
+            "recommendation": "In symptomatic patients with SND and intact atrioventricular conduction without evidence of conduction abnormalities, dual chamber or single chamber atrial pacing is recommended."
+          },
+          {
+            "class": "IIa",
+            "level of evidence": "B-R",
+            "recommendation": "In symptomatic patients with SND who have dual chamber pacemakers and intact atrioventricular conduction, it is reasonable to program the dual chamber pacemaker to minimize ventricular pacing."
+          },
+          {
+            "class": "IIa",
+            "level of evidence": "C-EO",
+            "recommendation": "In symptomatic patients with SND in which frequent ventricular pacing is not expected or the patient has significant comorbidities, single chamber ventricular pacing is reasonable."
+          }
+        ],
+        "synopsis": {
+          "area of interest": "Investigation of optimal pacing mode in SND.",
+          "findings": "Atrial-based pacing modes offer advantage over ventricular-based modes with respect to a lower incidence of AF."
+        },
+        "additional information": {
+          "studies reviewed": "4 major RCTs.",
+          "clinical outcomes": "AF hospitalization, stroke incidence, heart failure, and mortality compared between dual and single chamber pacing."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Chronic SND Management Algorithm",
+        "Description": "This guideline outlines the management of sinus node dysfunction (SND) using a flowchart that guides decisions based on symptoms, bradycardia correlation, and other conditions. It includes options for permanent pacing, oral theophylline, and observational strategies.",
+        "Key Recommendations": [
+          "Confirm symptoms and rule out reversible causes when SND is suspected.",
+          "Permanent pacing (Class I) should be considered when symptoms are correlated with bradycardia and due to required GDMT without reasonable alternative.",
+          "Oral theophylline (Class IIb) can be considered if there's response suggesting symptomatic SND and the patient is unwilling to have a PPM.",
+          "Observation is recommended (Class III: Harm) if asymptomatic.",
+          "Various pacing options are recommended based on additional factors like infrequent pacing needs, significant comorbidities, AV conduction, and whether the patient should avoid an RV lead.",
+          "A program to minimize ventricular pacing is recommended to reduce the risk of atrial fibrillation and heart failure hospitalization."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "ventricular pacing": "It is recommended to preserve atrioventricular synchrony. For first-degree atrioventricular block, inappropriate atrial and ventricular contraction timing is a concern. Single chamber pacemakers might be preferred for patients with a poor prognosis.",
+        "bradycardia attributable to block": "Discusses the pathophysiology, etiology, and classifications of bradycardia due to atrioventricular block. It includes descriptions of conditions affecting atrioventricular conduction, such as congenital defects, infections (e.g., Lyme disease), degenerative changes associated with age, chronic hypertension, and diabetes mellitus.",
+        "classification of atrioventricular block": "Blocks are categorized based on location (atrioventricular node, intra-Hisian, infra-Hisian) and degree (first-degree, second-degree Mobitz I and II, high-grade).",
+        "diagnosis considerations": "Accurate diagnosis requires ECG evaluation and consideration of atrial and ventricular rates. Atrioventricular block can be complex due to associated conditions like bradycardia or prematurity of atrial contraction."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Etiology of Atrioventricular Block": {
+          "Congenital/Genetic": [
+            "Congenital AV block (associated with maternal systemic lupus erythematosus)",
+            "Congenital heart defects (e.g., L-TGA)",
+            "Genetic (e.g., SCN5A mutations)"
+          ],
+          "Infectious": [
+            "Lyme carditis",
+            "Bacterial endocarditis with perivalvar abscess",
+            "Acute rheumatic fever",
+            "Chagas disease",
+            "Toxoplasmosis"
+          ],
+          "Inflammatory/Infiltrative": [
+            "Myocarditis",
+            "Amyloidosis",
+            "Cardiac sarcoidosis",
+            "Rheumatologic disease: Systemic sclerosis, SLE, RA, reactive arthritis (Reiter\u2019s syndrome)",
+            "Other cardiomyopathy\u2013idiopathic, valvular"
+          ],
+          "Ischemic": [
+            "Acute MI",
+            "Coronary ischemia without infarction\u2013unstable angina, variant angina",
+            "Chronic ischemic cardiomyopathy"
+          ],
+          "Degenerative": [
+            "Lev\u2019s and Lenegre\u2019s diseases"
+          ],
+          "Vagotonic-associated with increased vagal tone": [
+            "Sleep, obstructive sleep apnea",
+            "High-level athletic conditioning",
+            "Neurocardiogenic"
+          ],
+          "Metabolic/Endocrine": [
+            "Acid-base disorders",
+            "Poisoning/overdose (e.g., mercury, cyanide, carbon monoxide, mad honey)",
+            "Thyroid disease (both hypothyroidism and hyperthyroidism)",
+            "Adrenal disease (e.g., pheochromocytoma, hypoaldosteronism)"
+          ],
+          "Other diseases": [
+            "Neuromuscular diseases (e.g., myotonic dystrophy, Kearns-Sayre syndrome, Erb\u2019s dystrophy)",
+            "Lymphoma"
+          ],
+          "Iatrogenic": [
+            "Medication related: Beta blockers, verapamil, diltiazem, digoxin",
+            "Antiarrhythmic drugs",
+            "Neutraceuticals",
+            "Catheter ablation",
+            "Cardiac surgery, especially valve surgery",
+            "TAVR, alcohol septal ablation"
+          ]
+        },
+        "Clinical Presentation": {
+          "Symptoms": "Symptoms related to atrioventricular block vary and depend largely on the degree of atrioventricular block, the ventricular rate, and the frequency of its occurrence. Profound first-degree atrioventricular block can lead to symptoms of fatigue or exertional intolerance. Symptoms may include a decrease in cardiac output and an increase in pulmonary capillary wedge pressure. Second-degree atrioventricular block type I (Wenckebach) is often asymptomatic but can cause symptoms of exertional intolerance or dizziness if occurring frequently."
+        }
+      },
+      "genes": [
+        {
+          "Gene": "SCN5A",
+          "Associated Conditions": [
+            "Genetic cause of atrioventricular block"
+          ],
+          "Occurrences": 1,
+          "context": "Genetic (e.g., SCN5A mutations)"
+        }
+      ]
+    },
+    {
+      "content": {
+        "Acute Management": "Patients with transient or reversible causes of atrioventricular block, such as Lyme carditis or drug toxicity, should have medical therapy and supportive care, including temporary transvenous pacing if necessary. In selected patients with chronic stable doses of necessary antiarrhythmic therapy, it is reasonable to proceed to permanent pacing without further observation. Permanent pacing is also recommended for patients with cardiac sarcoidosis if survival of greater than 1 year is expected. Recommendations include considering reversibility in patients with thyroid function abnormalities.",
+        "Cause of Atrioventricular Block": [
+          "Lyme carditis",
+          "Drug toxicity",
+          "Cardiac sarcoidosis",
+          "Thyroid function abnormalities",
+          "Digoxin toxicity"
+        ],
+        "Lyme Disease": "Caused by Borrelia burgdorferi, transmitted by Ixodes deer tick. Most commonly manifests as atrioventricular block. Resolution is common after antibiotic therapy within a median time of 6 days.",
+        "Digoxin Toxicity": "A known but increasingly uncommon cause of atrioventricular block, reversible after drug discontinuation."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          {
+            "title": "Medications for Atrioventricular Block",
+            "content": "Medications such as beta blockers, nondihydropyridine calcium channel blockers, and antiarrhythmic medications are commonly used for treatment of hypertension, arrhythmias, heart failure, and atrioventricular conduction disorders. These medications may sometimes cause a reversible atrioventricular block."
+          },
+          {
+            "title": "Cardiac Sarcoidosis",
+            "content": "Cardiac sarcoidosis is associated with atrioventricular block and ventricular arrhythmias. Treatment with corticosteroids shows limited success in reversing atrioventricular block. Permanent pacing is often considered to prevent implantation delays."
+          },
+          {
+            "title": "Thyroid Disease",
+            "content": "Severe thyroid disease, like myxedema, can sometimes cause reversible atrioventricular block. In cases with hyperthyroidism or hypothyroidism, only about 20% of patients had resolution of block upon restoration of euthyroid state."
+          },
+          {
+            "title": "Recommendations for Acute Medical Therapy",
+            "content": "For patients with second-degree or third-degree atrioventricular block: Atropine, isoproterenol, dopamine, dobutamine, or epinephrine may be considered to improve atrioventricular conduction, increase ventricular rate, and improve symptoms."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendation": "Specific drugs and therapies discussed for atrioventricular block include atropine, beta-adrenergic agonists like isoproterenol, and aminophylline. Temporary pacing is advised for certain patients.",
+        "drugs": [
+          {
+            "name": "Atropine",
+            "usage": "Enhances atrioventricular nodal conduction and automaticity.",
+            "adverse_effects": "Dry mouth, blurred vision, anhidrosis, urinary retention, delirium, excessive increase in heart rate."
+          },
+          {
+            "name": "Beta-adrenergic agonists",
+            "examples": "Isoproterenol, dopamine, dobutamine, epinephrine.",
+            "effect": "Enhance atrioventricular nodal conduction and automaticity of subsidiary atrioventricular junctional and ventricular pacemakers."
+          },
+          {
+            "name": "Aminophylline",
+            "type": "Methylxanthine",
+            "effect": "Increases adenosine production.",
+            "study_results": "Mixed; showed no benefit in resuscitation for out-of-hospital cardiac arrest."
+          }
+        ],
+        "temporary_pacing_recommendations": [
+          {
+            "condition": "Second-degree or third-degree atrioventricular block",
+            "requirement": "Refractory to medical therapy, hemodynamic compromise",
+            "recommendation": "Increase heart rate and improve symptoms with temporary transvenous pacing."
+          },
+          {
+            "condition": "Prolonged temporary transvenous pacing",
+            "recommendation": "Choose an externalized permanent active fixation lead over a standard passive fixation lead."
+          },
+          {
+            "condition": "Refractory to antibradycardic medical therapy",
+            "recommendation": "Consider temporary transvenous pacing until resolution."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Temporary transvenous pacing techniques have been used for nearly 60 years with limited data to guide their use. Early literature suggests a high rate of complications and dislodgement, necessitating a careful consideration of atrioventricular block. In settings such as MI, emphasis is on reperfusion over temporary pacing. The safety of prolonged temporary pacing with externalized active fixation has been demonstrated over the past 10 years. Transcutaneous pacing devices developed over 60 years ago have limited acute myocardial infarction treatment roles.",
+        "Recommendation-Specific Supportive Text": [
+          "Temporary transvenous pacing, introduced in 1959, associated with high complication rates particularly in acute MI setting. Trials showed better outcomes with balloon-tipped catheters. Techniques like internal jugular access under fluoroscopic guidance reduce complications.",
+          "Use of active fixation permanent pacing leads for prolonged temporary pacing has shown benefits for patients with contraindications to PPM implantation.",
+          "Transcutaneous pacing, first used in 1952, is now common alongside external defibrillators. It's a short-term bridge in settings like bradyasystolic cardiac arrest. However, other benefits include in low-intensity cost settings."
+        ],
+        "Chronic Therapy/Management of Bradycardia Attributable to Atrioventricular Block": "Algorithm for bradycardia management is given in Figure 7. Subsections cover general principles, reversible causes, additional testing, and permanent pacing for chronic blocks."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Management of Bradycardia or Pauses Attributable to Chronic Atrioventricular Block Algorithm",
+        "description": "This guideline outlines the management of bradycardia and chronic atrioventricular (AV) block through a decision-making process involving symptoms, neuromuscular diseases, and pacing recommendations.",
+        "flow": [
+          "Identify AV block type: Marked first-degree AV Block, Mobitz Type I block, or Complete Heart Block.",
+          "Check for symptoms in each block type.",
+          "Inspect for neuromuscular diseases and progressive conduction tissue disorder.",
+          "Pacing options range from permanent pacing (Class I, IIa, IIb, Harm) based on symptoms and conditions.",
+          "Consider risks like ventricular arrhythmia, cardiac resynchronization therapy, and ejection fraction for pacing decisions.",
+          "Pacing options include single chamber, dual chamber, and right ventricular pacing lead based on specific indications."
+        ],
+        "notes": [
+          "Colors in the chart correspond to different classes of recommendation.",
+          "Additional factors such as LVEF and predicted pacing percentage influence pacing type."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "LMNA",
+          "Associated Conditions": [
+            "Neuromuscular disease",
+            "dilated cardiomyopathy",
+            "limb girdle muscular dystrophy",
+            "autosomal dominant variant of Emery-Dreifuss",
+            "atrial arrhythmias",
+            "ventricular arrhythmias",
+            "atrioventricular block",
+            "Neuromuscular disorders",
+            "lamin A/C cardiomyopathy",
+            "Atrioventricular block",
+            "Dilated cardiomyopathy",
+            "Conduction disease",
+            "Arrhythmias"
+          ],
+          "Occurrences": 2,
+          "context": "Lamin A/C (LMNA) neuromuscular disease is assessed for permanent pacing decisions in patients with marked first-degree AV block and Mobitz Type I block."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "General Principles of Chronic Therapy/Management of Bradycardia Attributable to Atrioventricular Block",
+        "recommendations": {
+          "1": {
+            "COR": "III: Harm",
+            "LOE": "C-LD",
+            "text": "In patients with first-degree atrioventricular block or second-degree Mobitz type I (Wenckebach) or 2:1 atrioventricular block which is believed to be at the level of the atrioventricular node, with symptoms that do not temporally correspond to the atrioventricular block, permanent pacing should not be performed."
+          },
+          "2": {
+            "COR": "III: Harm",
+            "LOE": "C-LD",
+            "text": "In asymptomatic patients with first-degree atrioventricular block or second-degree Mobitz type I (Wenckebach) or 2:1 atrioventricular block which is believed to be at the level of the atrioventricular node, permanent pacing should not be performed."
+          }
+        },
+        "synopsis": "The presence or absence of symptoms is a major determinant on whether permanent pacing will be required in the setting of bradycardia associated with atrioventricular block. In addition to symptoms, there are 3 additional clinical issues that must be considered when deciding on the use of permanent pacing in patients with atrioventricular block.",
+        "additional_information": "Significant amounts of right ventricular pacing are potentially deleterious. Patients with atrioventricular block may have an associated systemic disease that leads to progressive atrioventricular block or has additional risk for ventricular arrhythmias."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Transient/Potentially Reversible Causes of Atrioventricular Block",
+        "recommendations": {
+          "1": {
+            "cor": "I",
+            "loe": "C-LD",
+            "description": "In patients with symptomatic atrioventricular block attributable to a known reversible cause in whom the atrioventricular block does not resolve despite treatment of the underlying cause, permanent pacing is recommended."
+          },
+          "2": {
+            "cor": "III: Harm",
+            "loe": "C-LD",
+            "description": "In patients who had acute atrioventricular block attributable to a known reversible and nonrecurrent cause, and have had complete resolution of the atrioventricular block with treatment of the underlying cause, permanent pacing should not be performed."
+          },
+          "3": {
+            "cor": "III: Harm",
+            "loe": "C-LD",
+            "description": "In patients with asymptomatic vagally mediated atrioventricular block, permanent pacing should not be performed."
+          }
+        },
+        "synopsis": "Atrioventricular block can be secondary to a potentially reversible primary process, such as metabolic derangements and some infectious diseases. Conditions such as Lyme carditis causing atrioventricular block often resolve with antibiotics without the need for permanent pacing. Atrioventricular block attributable to medications, such as beta-blocker overdose or digoxin toxicity, often resolves with supportive care and drug withdrawal. In patients with obstructive sleep apnea, episodes usually resolve with continuous positive airway pressure. Vagotonic atrioventricular block can result in paroxysmal atrioventricular block, not requiring pacing if asymptomatic. Atrioventricular block in the setting of ischemia and MI is addressed in another section.",
+        "recommendations_specific": [
+          "In patients with atrioventricular block and an acute infection like Lyme disease, effective antibiotic treatment usually reverses the atrioventricular block although resolution may take a month or longer. However, permanent pacing is not warranted if the block resolves.",
+          "Reversible causes of atrioventricular block include myocardial ischemia, electrolyte derangements, hyperkalemia, and Lyme disease.",
+          "Vagally mediated atrioventricular block observed during ambulatory electrocardiographic monitoring may not be of clinical concern and typically presents with high vagal tone."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary": "The clinical guideline discusses management of bradycardia attributable to atrioventricular block, emphasizing the differentiation between Mobitz type I and II due to prognostic implications. Recommendations include the use of ambulatory ECG monitoring, exercise treadmill stress tests, and pharmacological challenges to evaluate the need for permanent pacing.",
+        "Recommendations": [
+          {
+            "COR": "IIa",
+            "LOE": "B-R",
+            "Details": "In patients with symptoms of first-degree or second-degree Mobitz type I atrioventricular block, ambulatory electrocardiographic monitoring is recommended to establish correlation between symptoms and rhythm abnormalities."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "C-LD",
+            "Details": "In patients with exertional symptoms and first-degree or second-degree Mobitz type I atrioventricular block at rest, an exercise treadmill test is recommended to assess potential benefit from permanent pacing."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "B-NR",
+            "Details": "In selected patients with second-degree atrioventricular block, an electrophysiological study (EPS) may be considered to determine the block level and pacing benefits."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "C-LD",
+            "Details": "In selected patients with second-degree atrioventricular block, carotid sinus massage, and/or pharmacological challenge may help determine the block level and benefit from pacing."
+          }
+        ],
+        "Diagnosis": "Identifies factors such as PR interval duration, QRS width, and symptoms like dizziness or syncope to guide management decisions in patients with atrioventricular block."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "ECG Diagnostic Use": "The resting ECG is helpful for identifying bundle branch block or hemiblock, suggesting potential atrioventricular block.",
+        "Electrophysiology Study (EPS)": "Used to determine the anatomic site of atrioventricular block (AV node, intra-His, infra-His) in second-degree block cases where the type cannot be determined from electrocardiography.",
+        "Carotid Sinus Massage and Medication Tests": "Used to identify the presence of paroxysmal atrioventricular block and level of block.",
+        "Therapies Recommended": [
+          "Permanent pacing is recommended for various conditions including acquired second-degree Mobitz type II atrioventricular block, complete heart block, and symptomatic bradycardia.",
+          "Additional defibrillator capability is advised for patients with neuromuscular disorders and prolonged HV interval."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": "The document is a clinical guideline focusing on bradycardia and recommendations for permanent pacing. Patients with symptomatic atrioventricular block, regardless of progression risk, require pacing. Different clinical scenarios are detailed, including neuromuscular disorders and specific genetic conditions affecting pacing decisions. Synopsis and recommendation-specific supporting texts provide evidence and justification for pacing decisions based on historical and observational studies."
+      },
+      "genes": [
+        {
+          "Gene": "Lamin A/C",
+          "Associated Conditions": [
+            "limb-girdle muscular dystrophies",
+            "Emery-Dreifuss muscular dystrophies"
+          ],
+          "Occurrences": 1,
+          "context": "In patients with lamin A/C gene mutations, including limb-girdle and Emery-Dreifuss muscular dystrophies, with a PR interval greater than 240 ms and LBBB, permanent pacing, with additional defibrillator capability if needed and meaningful survival of greater than 1 year is expected, is reasonable."
+        }
+      ]
+    },
+    {
+      "content": {
+        "general_information": [
+          "The guideline discusses implications of pauses in atrioventricular rhythm, noting that such pauses may be symptomatic or asymptomatic.",
+          "Beta blockers are recommended as guideline-directed therapy for heart failure and after myocardial infarction.",
+          "Atrioventricular block is a key consideration in cardiac sarcoidosis and other infiltrative cardiomyopathies.",
+          "Systemic corticosteroids have shown variable success in resolving atrioventricular block in some patients with cardiac sarcoidosis.",
+          "There is mention of atrioventricular blocks in conditions like lamin A/C cardiomyopathy, noting associations with fibrotic changes evident in MRI scans.",
+          "The guideline discusses the classification and potential impacts of different kinds of atrioventricular blocks, including first-degree, second-degree, and Mobitz type I blocks."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "LMNA",
+          "Associated Conditions": [
+            "dilated cardiomyopathy",
+            "limb girdle muscular dystrophy",
+            "autosomal dominant variant of Emery-Dreifuss",
+            "atrial arrhythmias",
+            "ventricular arrhythmias",
+            "atrioventricular block"
+          ],
+          "Occurrences": 1,
+          "context": "Patients with mutations in the lamin A/C gene can present with atrioventricular block, atrial arrhythmias, and ventricular arrhythmias. Lamin A/C genetic defects have been linked to dilated cardiomyopathy, limb girdle muscular dystrophy, and an autosomal dominant variant of Emery-Dreifuss."
+        }
+      ]
+    },
+    {
+      "content": {
+        "guideline_title": "2018 Bradycardia Guideline",
+        "recommendations": [
+          {
+            "COR": "I",
+            "LOE": "A",
+            "Recommendation": "In patients with SND and atrioventricular block who require permanent pacing, dual chamber pacing is recommended over single chamber ventricular pacing.",
+            "Reference": "S6.4.4.1\u2013S6.4.4.1-7"
+          },
+          {
+            "COR": "I",
+            "LOE": "A",
+            "Recommendation": "In select patients with atrioventricular block who require permanent pacing in whom frequent ventricular pacing is not expected, or who have significant comorbidities that are likely to determine clinical outcomes and that may limit the benefit of dual chamber pacing, single chamber ventricular pacing is effective.",
+            "Reference": "S6.4.4.1\u2013S6.4.4.1-8\u2013S6.4.4.1-10"
+          },
+          {
+            "COR": "I",
+            "LOE": "B-R",
+            "Recommendation": "For patients in sinus rhythm with a single chamber ventricular pacemaker who develop pacemaker syndrome, revising to a dual chamber pacemaker is recommended.",
+            "Reference": "S6.4.4.1\u2013S6.4.4.1-2, S6.4.4.1-5, S6.4.4.1-8\u2013S6.4.4.1-10"
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-R",
+            "Recommendation": "In patients with atrioventricular block who have an indication for permanent pacing with a LVEF between 36% and 50% and are expected to require ventricular pacing more than 40% of the time, it is reasonable to choose pacing methods that maintain physiologic ventricular activation (e.g., cardiac resynchronization therapy [CRT] or His bundle pacing) over right ventricular pacing.",
+            "Reference": "S6.4.4.1\u2013S6.4.4.1-15, S6.4.4.1-16, S6.4.4.1-19"
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-NR",
+            "Recommendation": "In patients with atrioventricular block who have an indication for permanent pacing with a LVEF between 36% and 50% and are expected to require ventricular pacing less than 40% of the time, it is reasonable to choose right ventricular pacing over pacing methods that maintain physiologic ventricular activation (e.g., CRT or His bundle pacing).",
+            "Reference": "S6.4.4.1-15, S6.4.4.1-16, S6.4.4.1-20, S6.4.4.1-21"
+          },
+          {
+            "COR": "IIb",
+            "LOE": "B-NR",
+            "Recommendation": "In patients with atrioventricular block at the level of the atrioventricular node who have an indication for permanent pacing, His bundle pacing may be considered to maintain physiologic ventricular activation.",
+            "Reference": "S6.4.4.1-19, S6.4.4.1-22\u2013S6.4.4.1-25"
+          },
+          {
+            "COR": "III: Harm",
+            "LOE": "C-LD",
+            "Recommendation": "In patients with permanent or persistent AF in whom a rhythm control strategy is not planned, implantation of an atrial lead should not be performed.",
+            "Reference": "S6.4.4.1-26, S6.4.4.1-27"
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "LMNA",
+          "Associated Conditions": [
+            "Neuromuscular disorders"
+          ],
+          "Occurrences": 1,
+          "context": "other types of less common neuromuscular disorders (without lamin A/C involvement) is limited to case reports."
+        }
+      ]
+    },
+    {
+      "content": {
+        "general_information": "The guideline discusses the effects of pacing in patients with atrioventricular block, including observational studies, randomized controlled trials (RCTs), and outcomes of dual vs. single chamber pacing. Specialized pacing modalities may alleviate negative effects, but advanced pacing options should be considered based on individual factors. Dual chamber devices are generally preferred but single chamber pacing can be reasonable for certain patients.",
+        "clinical_situations": [
+          "Patients with high-grade atrioventricular block often need pacemaker implantation due to symptoms such as syncope or heart failure.",
+          "Dual chamber pacing showed no improvement in mortality but had less atrial fibrillation and pacemaker syndrome compared to single chamber pacing.",
+          "Single chamber ventricular pacing can be a reasonable option for patients who only require intermittent pacing."
+        ],
+        "recommendation_specific_text": [
+          "RCTs like PASE and CTOPP were discussed regarding mode selection and did not show a significant difference in mortality or stroke between dual and single chamber pacing.",
+          "Patients on dual chamber pacing showed fewer incidences of atrial fibrillation and pacemaker syndrome."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Points": [
+          "Decreased systolic blood pressure during pacing and use of beta blockers observed in patients, suggesting the need for possible system revision to a dual chamber system.",
+          "Risk of RV pacing induced cardiomyopathy increases when RV pacing exceeds 40%.",
+          "Studies highlight the deleterious effects of chronic RV pacing on ventricular function in certain patients.",
+          "DAVID trial showed the risk of increased HF events and decrease in LVEF with 40% pacing.",
+          "In patients with LVEF > 50%, CRT is not associated with increased functional capacity compared to RV pacing.",
+          "His bundle pacing may offer benefits by preventing adverse remodeling observed with RV pacing.",
+          "His bundle pacing has shown to be feasible with positive outcomes in heart failure indicators.",
+          "No benefit found in permanent AF patients with dual chamber systems in terms of pacing the atrium."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Conduction Disorders": {
+          "Description": "QRS abnormalities caused by fascicular blocks and bundle branch blocks due to delayed or blocked conduction within branches of the His-Purkinje system.",
+          "Subtypes": [
+            "Right bundle branch block",
+            "Left bundle branch block (LBBB)",
+            "Bifascicular block"
+          ]
+        },
+        "Pathophysiology": "Involves dysfunction in components of the conduction axis, which could be developmental, hereditary/genetic, metabolic, infectious, inflammatory, infiltrative, traumatic, ischemic, malignant, or degenerative.",
+        "Recommendations": [
+          {
+            "Type": "I",
+            "Class": "B-NR",
+            "Recommendation": "In patients with newly detected LBBB, a transthoracic echocardiogram to exclude structural heart disease is recommended."
+          },
+          {
+            "Type": "I",
+            "Class": "C-LD",
+            "Recommendation": "In symptomatic patients with conduction system disease, ambulatory electrocardiographic monitoring is useful when atrioventricular block is suspected."
+          },
+          {
+            "Type": "IIa",
+            "Class": "B-NR",
+            "Recommendation": "In selected patients presenting with intraventricular conduction disorders other than LBBB, transthoracic echocardiography is reasonable if structural heart disease is suspected."
+          },
+          {
+            "Type": "IIa",
+            "Class": "B-NR",
+            "Recommendation": "In patients with symptoms suggestive of intermittent bradycardia and an identified conduction system disease with no demonstrated atrioventricular block, an EPS is reasonable."
+          },
+          {
+            "Type": "IIa",
+            "Class": "C-LD",
+            "Recommendation": "In selected patients with LBBB where echocardiogram is unrevealing of structural heart disease, advanced imaging is reasonable."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Ambulatory electrocardiographic monitoring is used to establish a symptom-rhythm correlation or document previously unknown pathologic atrioventricular block. The presence of LBBB, but not RBBB, is associated with coronary disease and heart failure. The threshold for further imaging is lower in patients with LBBB. An EPS has low specificity and sensitivity but can be helpful in patients with demonstrated conduction abnormalities.",
+        "Recommendation": [
+          "Ambulatory electrocardiographic monitoring can help document atrioventricular block.",
+          "Echocardiography can identify treatable diseases or inform decisions about the cardiac resynchronization device placement.",
+          "Patients with RBBB or intraventricular conduction delay have a risk of left ventricular systolic dysfunction.",
+          "EPS predicts risk of heart block; cardiac MRI helps in assessing additional conditions.",
+          "Patients with LBBB or normal left ventricular function should consider further imaging if suspicion of connective tissue diseases or cardiomyopathy arises."
+        ],
+        "Devices": "Personal electronic monitoring devices are prevalent."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Evaluation of Conduction Disorders Algorithm",
+        "description": "Flowchart for assessing and managing conduction disorders, specifying steps to determine underlying causes, considering reversible or physiological causes, genetic associations, and specific types of conduction disorders to guide treatment decisions.",
+        "steps": [
+          "Evaluate for evidence of conduction disorder.",
+          "Determine if there is a reversible or physiological cause.",
+          "If reversible, treat underlying cause such as ischemia.",
+          "If not reversible, assess for genetic disorders associated with conduction disease.",
+          "Follow conduction disorders treatment algorithm if a genetic disorder is involved.",
+          "If no genetic disorder, check for suspicion of conditions like infiltrative cardiomyopathy, endocarditis, or ACHD.",
+          "Depending on the type of conduction disorder, use advanced imaging or transthoracic echocardiography for further evaluation.",
+          "Treat any identified abnormalities and assess symptoms suggestive of intermittent bradycardia.",
+          "Utilize ambulatory ECG monitoring and electrophysiology studies if indicated."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "citation": "JACC VOL. 74, NO. 7, 2019; Kusumoto et al. 2018 Bradycardia Guideline; AUGUST 20, 2019:e51-e156",
+        "section_title": "Recommendations for Management of Conduction Disorders (With 1:1 Atrioventricular Conduction and Normal PR Intervals)",
+        "overview": "Management of conduction disorders with 1:1 atrioventricular conduction and a normal PR interval; patient-centered approach with assessment of underlying heart disease, symptomatology, and baseline ECG (bundle branch block, nonspecific intraventricular delay, fascicular block in isolation or in combination). Pacing therapy considerations when progressive disease or disorders associated with progressive disease (eg, Emery-Dreifuss muscular dystrophy or Kearns-Sayre syndrome) are present.",
+        "recommendations": [
+          {
+            "number": 1,
+            "COR": "I",
+            "LOE": "C-LD",
+            "recommendation": "In patients with syncope and bundle branch block who are found to have an HV interval 70 ms or greater or evidence of infranodal block at EPS, permanent pacing is recommended.",
+            "references": "(S7.5-1, S7.5-2)"
+          },
+          {
+            "number": 2,
+            "COR": "I",
+            "LOE": "C-LD",
+            "recommendation": "In patients with alternating bundle branch block, permanent pacing is recommended.",
+            "references": "(S7.5-3)"
+          },
+          {
+            "number": 3,
+            "COR": "IIa",
+            "LOE": "C-LD",
+            "recommendation": "In patients with Kearns-Sayre syndrome and conduction disorders, permanent pacing is reasonable, with additional defibrillator capability if appropriate and meaningful survival of greater than 1 year is expected.",
+            "references": "(S7.5-4, S7.5-5)"
+          },
+          {
+            "number": 4,
+            "COR": "IIb",
+            "LOE": "C-LD",
+            "recommendation": "In patients with Anderson-Fabry disease and QRS prolongation greater than 110 ms, permanent pacing, with additional defibrillator capability if needed and meaningful survival of greater than 1 year is expected, may be considered.",
+            "references": "(S7.5-6, S7.5-7)"
+          },
+          {
+            "number": 5,
+            "COR": "IIb",
+            "LOE": "C-LD",
+            "recommendation": "In patients with heart failure, a mildly to moderately reduced LVEF (36%-50%), and LBBB (QRS \u2265150 ms), CRT may be considered.",
+            "references": "(S7.5-8, S7.5-9)"
+          },
+          {
+            "number": 6,
+            "COR": "III: Harm",
+            "LOE": "B-NR",
+            "recommendation": "In asymptomatic patients with isolated conduction disease and 1:1 atrioventricular conduction, permanent pacing is not indicated (in the absence of other indications for pacing).",
+            "references": "(S7.5-10\u2014S7.5-15)"
+          }
+        ],
+        "synopsis": "Assessment of conduction disorders with 1:1 atrioventricular conduction and normal PR interval requires evaluation of underlying heart disease, symptoms, and baseline ECG. True alternating bundle branch block is evidence for significant infranodal disease and a high likelihood of developing complete heart block with slow or absent ventricular escape. Pacing can be considered when an underlying progressive disorder is present (examples listed in text).",
+        "recommendation_specific_supportive_text": [
+          "1. In a patient with syncope, the presence of bundle branch block on ECG is a predictor for abnormal conduction properties identified at EPS. For patients with bundle branch block, the underlying cause for syncope may be related to vasodepressor mechanisms rather than heart block mediated bradycardia. An EPS can be used to evaluate atrioventricular conduction and identify the presence and extent of infranodal disease. Permanent pacing has been recommended for patients with syncope and HV intervals \u226570 ms or frank infranodal block.",
+          "2. Alternating bundle branch block (QRS complexes with alternating LBBB and RBBB morphologies) implies unstable conduction disease in both conduction bundles, and patients with this electrocardiographic pattern..."
+        ],
+        "notable_conditions_mentioned": [
+          "Left bundle branch block (LBBB)",
+          "Right bundle branch block (RBBB)",
+          "Alternating bundle branch block",
+          "Kearns-Sayre syndrome",
+          "Anderson-Fabry disease",
+          "Emery-Dreifuss muscular dystrophy",
+          "Heart failure with reduced LVEF"
+        ],
+        "figure_references": "Figure 9 referenced (not shown on page).",
+        "footnote_references": "Referenced studies summarized in Online Data Supplements 41, 42, and 43."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Management of conduction disorders involves making decisions based on factors such as syncope, bundle branch block (BBB), left ventricular ejection fraction (LVEF), and heart failure (HF) symptoms. Permanent pacing or cardiac resynchronization therapy may be recommended depending on specific conditions. Kearns-Sayre syndrome and Anderson-Fabry disease are mentioned as conditions affecting cardiac conduction. Clinical trials such as PROSPECT and REVERSE are noted for their insights into cardiac therapy responses.": "genes: []"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Special Populations": {
+          "Perioperative Management": "Management of bradycardia after cardiac surgery is based on historical practices, involving temporary epicardial pacing wires. Risks include bleeding leading to cardiac tamponade or death. The need for pacing varies with surgery type and patient risk factors such as age, AF, prior surgery, renal failure, and endocarditis.",
+          "Patients at Risk for Bradycardia": "Patients at high risk of intraoperative or periprocedural bradycardia may require transcutaneous pacing pads.",
+          "Recommendations": [
+            {
+              "Class": "IIa",
+              "LOE": "B-NR",
+              "Recommendation": "Transcutaneous pacing pads are reasonable for high-risk patients for intraoperative bradycardia."
+            },
+            {
+              "Class": "III",
+              "LOE": "B-NR",
+              "Recommendation": "Avoid prophylactic transvenous pacing in LBBB patients requiring pulmonary artery catheterization."
+            }
+          ],
+          "Synopsis": "Significant bradycardia during surgery is linked to patient and procedure-related factors. Risks include age, comorbidities, low heart rates, and use of certain drugs. Non-cardiac procedures like abdominal insufflation involving the trigeminal nerve can cause bradycardia."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Postoperative bradycardia and conduction disorders can occur after cardiac surgery, with risks dependent on surgery type and anatomical relationships to the conduction system. Specific guidelines suggest when pacing is recommended, especially after isolated coronary artery bypass surgery. Recommendations include permanent pacing for new postoperative SND or atrioventricular block with persistent symptoms or instability, and temporary pacing wires for coronary artery bypass surgery.": {},
+        "genes": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations": [
+          {
+            "Class": "I",
+            "Level": "B-NR",
+            "Details": "In patients undergoing surgery for AF, routine placement of temporary epicardial pacing wires is recommended."
+          },
+          {
+            "Class": "I",
+            "Level": "B-NR",
+            "Details": "In patients who have new postoperative SND or atrioventricular block associated with symptoms or hemodynamic instability that does not resolve after surgery for AF, permanent pacing is recommended before discharge."
+          },
+          {
+            "Class": "IIb",
+            "Level": "C-EO",
+            "Details": "In patients undergoing surgery for AF who will likely require future CRT or ventricular pacing, intra-operative placement of a permanent epicardial left ventricular lead may be considered."
+          }
+        ],
+        "Synopsis": {
+          "AF Impact": "AF is present in 30% to 50% of patients undergoing valve surgery and is associated with reduced survival and increased risk of stroke.",
+          "Surgical Correction": "Successful surgical correction of AF is associated with improved patient survival.",
+          "Recurrence": "Up to 65% of patients may experience recurrent AF post-surgery.",
+          "Findings": "Recent studies reveal mixed results regarding post-surgical bradycardia risk and PPM implantation needs.",
+          "Meta-analysis": "A meta-analysis found no difference in the need for a permanent pacer in patients randomized to additional surgery for AF."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_information": [
+          "Recommendations for pacing after aortic valve surgery involve placing temporary or permanent pacing wires.",
+          "Temporary epicardial pacing is suggested for patients undergoing surgical aortic valve replacement or repair.",
+          "Permanent pacing is recommended for patients with new postoperative SND or atrioventricular block with persistent symptoms.",
+          "Intraoperative placement of a permanent epicardial left ventricular lead may be considered for some patients."
+        ],
+        "specific_notes": [
+          "Conduction system injury is common after aortic valve replacement.",
+          "Risk factors for pacemaker implantation post-surgery include: preoperative RBBB, multivalve surgery, prolonged PR interval, age over 70, and other factors.",
+          "Pacemaker implantation rates vary depending on surgery type: mitral alone 3.5%, aortic alone 5.1%, tricuspid alone 12%, etc."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations for Pacing After Mitral Valve Surgery": [
+          {
+            "COR": "I",
+            "LOE": "B-NR",
+            "Recommendations": "In patients who have new postoperative SND or atrioventricular block associated with persistent symptoms or hemodynamic instability that does not resolve after mitral valve repair or replacement surgery, permanent pacing is recommended before discharge (S8.1.2.3.2-1, S8.1.2.3.2-2)."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "C-LD",
+            "Recommendations": "In patients undergoing mitral valve surgery, routine placement of temporary epicardial pacing wires is reasonable (S8.1.2.3.2-1\u2013S8.1.2.3.2-3)."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "C-EO",
+            "Recommendations": "In patients undergoing surgical mitral valve repair or replacement who will likely require future CRT or ventricular pacing, intraoperative placement of a permanent epicardial left ventricular lead may be considered."
+          }
+        ],
+        "Synopsis": "Incidence of new atrioventricular block has been reported in as high as 23.5% of patients undergoing mitral valve replacement or ring repair (S8.1.2.3.2-1). In a pathologic study, 55 hearts from patients who had not undergone surgery were examined to evaluate the relationship between the atrioventricular node, atrioventricular nodal artery and mitral annulus (S8.1.2.3.2-1). In the dissected hearts, 23% had an atrioventricular nodal artery that ran close to the mitral valve, suggesting that damage to the artery may play a role in the development of atrioventricular block after mitral valve surgery. The need for a PPM after mitral surgery ranges from 1% to 9% (S8.1.2.3.2-1, S8.1.2.3.2-3, S8.1.2.3.2-4). The cause may be influenced by type of surgery and may be lower in the repair population in whom an incomplete annuloplasty band could avoid injury to the atrioventricular nodal artery (S8.1.2.3.2-2, S8.1.2.3.2-4).",
+        "Recommendation-Specific Supportive Text": [
+          "The need for PPM placement is common after mitral valve surgery (S8.1.2.3.2-1, S8.1.2.3.2-2, S8.1.2.3.2-5). In part to facilitate postsurgical recovery (such as moving out of the intensive care setting, ambulation, and the initiation of anticoagulation), patients in whom new onset atrioventricular block or SND develops and does not improve should undergo permanent pacer placement before discharge for persistent symptomatic or hemodynamically significant bradycardia. Because mitral valve surgery involves injury of the atrioventricular node region rather than the His bundle injury associated with aortic valve surgery, the threshold for pacemaker implant is higher. Specific timing of pacemaker implant has not been formally studied and will always depend on the individual clinical situation but 5 to 7 days after mitral valve surgery is probably reasonable."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Placement of temporary epicardial pacing wires at the time of mitral valve surgery is routine due to the risk of postsurgical bradycardia. New approaches include using pacing pulmonary artery catheters for minimally invasive mitral valve surgery and temporary cardiac resynchronization using pacing wires for hemodynamic improvement. Left ventricular lead can be implanted post-CRT if necessary. Recommendations for tricuspid valve surgery include routine temporary pacing wires placement, permanent pacing for unresolved instability after surgery, and intraoperative placement in high-risk cases. The atrioventricular node relates closely to tricuspid valve interventions, and repair techniques aim to avoid node injury, with a significant percentage experiencing regurgitation.": "genes"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The clinical guideline discusses pacing after tricuspid valve surgery and transcatheter aortic valve replacement (TAVR), emphasizing the management of conduction disturbances. In patients with new atrioventricular block post-surgery, permanent pacemaker (PPM) placement is recommended if symptoms persist. Similarly, for persistent left bundle branch block (LBBB), PPM implantation should be considered. The guideline reviews predictors for PPM implantation, noting factors like existing conduction disturbances before TAVR, and how they relate to increased mortality and procedural risks.",
+        "clinical_guideline_details": [
+          "PPM necessity is frequent after tricuspid valve surgery.",
+          "Transvalvular endocardial ventricular leads should not pass mechanical valves; permanent epicardial pacing may be required.",
+          "MRI may be safely performed with abandoned leads following specific protocols."
+        ],
+        "specific_recommendations": [
+          {
+            "COR": "I",
+            "LOE": "B-NR",
+            "recommendation": "In patients with new atrioventricular block after TAVR, permanent pacing is recommended if the block does not resolve."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-NR",
+            "recommendation": "In patients with persistent new bundle branch block after TAVR, careful surveillance for bradycardia is reasonable."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "B-NR",
+            "recommendation": "In patients with new persistent LBBB after TAVR, PPM implantation may be considered."
+          }
+        ],
+        "synopsis": "The literature on conduction disturbances after TAVR is extensive, with PPM predictors before TAVR including preexisting RBBB, increased prosthesis to left ventricular outflow tract ratio, and increased left ventricular end-diastolic diameter."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "High-degree atrioventricular block": "Most commonly observed in the immediate periprocedural period and persists beyond 48 hours in 2% to 20% of patients.",
+        "Pacemaker implantation after TAVR": "General decrease in requirements due to evolving technology. Timeframe for pacemaker implantation after TAVR ranges from 2 days to several weeks.",
+        "New bundle branch block after TAVR": "29% of patients with new LBBB can develop high-degree atrioventricular block post-discharge. Increases risk for PPM (permanent pacemaker) post-TAVR.",
+        "LBBB occurrence post-TAVR": "Occurs in 10% of patients and resolves in approximately 50% within 6 to 12 months.",
+        "Heart transplant and conduction system": "With heart transplants, pacemaker rates have decreased from 10% to 14% to 2% to 4%.",
+        "SND after heart transplantation": "Most common cause for bradycardia post-transplantation, accounting for about 80% of cases.",
+        "Guidelines for pacing post-transplant": "The same for patients with SND and atrioventricular block. Specific care for symptomatic SND."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "In patients with hypertrophic cardiomyopathy and symptoms attributable to left ventricular outflow tract obstruction, surgical myectomy or alcohol septal ablation may reduce septal thickness and improve symptoms. Risk of abnormal atrioventricular conduction varies widely among studies. Estimates range from 10% to 33% for alcohol septal ablation and 2% to 4% for surgical myectomy. A meta-analysis suggests the risk of abnormal atrioventricular conduction requiring permanent pacing is higher following alcohol septal ablation relative to myectomy. Recovery of conduction is observed in most patients.",
+        "Selected Patients Risks": "Patients with hypertrophic cardiomyopathy are at risk for sudden cardiac death. Guidelines have identified risk factors, including a history of ventricular arrhythmias, sudden cardiac death, unexplained syncope, and a maximal left ventricular wall thickness \u226530 mm. Surgical myectomy is associated with decreased risk of sudden death.",
+        "Atrioventricular Block Details": "Transient atrioventricular block after alcohol septal ablation occurs in 15% to 50% of patients and usually resolves within 24 hours. The development of intraprocedural blocks is more likely with preexisting conditions. In studies, persistent complete atrioventricular block >24 hours may require pacing for rare support at 2 weeks.",
+        "Research Findings": "Potential risk factors for persistent atrioventricular block lack consistency. Identified risks include first-degree atrioventricular block or LBBB, transient blocks, and new RBBB after procedures. Late conduction issues >48 hours post-procedure have been observed. Certain patient characteristics reduce the risk of heart block post ablative procedures."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Guidelines": {
+          "Managing Episodes of Bradycardia Associated With Postoperative AF": "AF occurs commonly after cardiac surgery in adults, with a peak incidence 2 to 4 days postoperatively and an overall incidence ranging from 10% to 65%. Postoperative AF is more common in patients undergoing valve surgery than in those having isolated coronary artery bypass graft. Bradycardia may manifest in several forms, including slow ventricular response during AF and prolonged sinus pauses after sinus rhythm is restored, indicating potential heart block. Pacing may be required if resolution does not occur. Bradyarrhythmias post-AF can be complicated by other arrhythmias, transient postoperative effects, or drugs. Pacemaker implantation may be required for some patients with refractory AF.",
+          "Bradycardia Management for Adult Congenital Heart Disease": "Recommendations are provided for managing bradycardia in adults with ACHD. Permanent pacing is often recommended for symptomatic adults with SND, chronotropic incompetence, atrioventricular block, and complex ventricular issues. Atrial-based permanent pacing may be considered in those with pacemakers to prevent atrial arrhythmias. For patients with intracardiac shunts, endocardial pacing is potentially harmful."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Adults with congenital heart disease (ACHD) are a diverse group with varied anatomical and conduction issues, requiring specialized care. This guideline focuses on adults with ACHD and emphasizes using adult-specific references.",
+        "Recommendation-Specific Supportive Text": [
+          "Permanent pacing can alleviate SND symptoms in adults with ACHD, but higher mortality and atrial flutter risks exist.",
+          "Atrioventricular block at any level increases mortality, though no studies exist to compare treatment strategies.",
+          "Certain features, including genetic factors, are identified as high-risk markers for outcomes in patients with congenital complete heart block.",
+          "Postoperative heart block risks vary by anatomy, surgery, and genetics.",
+          "Permanent pacing can be considered in asymptomatic congenital complete heart block patients.",
+          "Reentrant atrial arrhythmias in ACHD may not allow for effective termination.",
+          "Endocardial leads retain better longevity and are less prone to failure."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "CTGA",
+          "Associated Conditions": [
+            "congenital anomalies"
+          ],
+          "Occurrences": 1,
+          "context": "Certain congenital anomalies (e.g., CTGA and the endocardial cushion defects) are inherently associated with a more fragile atrioventricular conduction system."
+        }
+      ]
+    },
+    {
+      "content": {
+        "general": "The guideline discusses the management of bradycardia in the context of acute myocardial infarction (MI). It highlights the importance of temporary pacing in patients with medically refractory symptomatic or hemodynamically significant bradycardia due to sinoatrial node dysfunction (SND) or atrioventricular block. Specific guidance is provided for handling second-degree Mobitz type II atrioventricular block and other block types, alongside considerations for temporary versus permanent pacing.",
+        "recommendations": [
+          "Temporary pacing for patients with acute MI and significant bradycardia (COR I, LOE B-NR).",
+          "Patients with SND or atrioventricular block should undergo waiting periods before permanent pacing (COR I, LOE B-NR).",
+          "Permanent pacing is indicated for certain atrioventricular blocks after a waiting period (COR I, LOE B-NR).",
+          "Administration of atropine is reasonable for certain cases of bradycardia or atrioventricular block (COR IIa, LOE B-NR).",
+          "Permanent pacing should not be performed for transient atrioventricular block (COR III: Harm, LOE B-NR).",
+          "Permanent pacing not recommended for specific block types without accompanying conditions (COR III: Harm, LOE B-NR)."
+        ],
+        "other_information": "The synopsis emphasizes the transient nature of SND and atrioventricular blocks in certain MIs, and the necessity to consider the conduction issue effects, myocardial injury extent, and intraventricular conduction disturbances for prognosis. The role of shunts in systemic thromboembolism and lead complications is also noted."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Complication": "MI with conduction disturbances",
+        "Factors": [
+          "Ischemia",
+          "Extent and location of MI",
+          "Reperfusion",
+          "Autonomic effects"
+        ],
+        "Therapies": [
+          "Temporary methods (if delay occurs)",
+          "Atropine (for inferred conduction disease)",
+          "Avoid early PPM implantation (unless necessary)"
+        ],
+        "Indications": [
+          "CIEDs with defibrillator capacity recommended for low LVEF"
+        ],
+        "Risks": [
+          "Death ranges from 3% to 7% with cardiac procedures",
+          "Intracranial pressure increase",
+          "Neurologic disorders associated with bradycardia"
+        ],
+        "Considerations": [
+          "Anterior MI assoc. with worse prognosis and higher mortality",
+          "Persistent inferior myocardial injury risks"
+        ],
+        "Neurologic disorders": "May be associated with bradycardia"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "preserved parasympathetic responses": "Responses via the vagus nerve.",
+        "profound bradycardia": "Triggered by noxious stimuli such as bladder catheterization.",
+        "multicenter study": "In a study of 315 patients with spinal cord injury, bradycardia accounted for 50% of cardiovascular complications.",
+        "bradycardia resolution": "Usually resolves after weeks or removal of the stimulus, favoring conservative management.",
+        "epilepsy and bradycardia": "In patients with epilepsy and symptomatic bradycardia, permanent pacing can be considered if antiepileptic medications are ineffective.",
+        "seizures and bradycardia": "Occurs in 0.15% to 0.3% of seizure patients, often linked to ictal bradycardia.",
+        "permanent pacing": "Evaluated in cases with significant bradycardia with seizures.",
+        "risk of ventricular arrhythmias": "Patients requiring pacing therapy should be assessed for future arrhythmias and need for ICD."
+      },
+      "genes": [
+        {
+          "Gene": "LMNA",
+          "Associated Conditions": [
+            "lamin A/C cardiomyopathy"
+          ],
+          "Occurrences": 1,
+          "context": "For example, patients with symptomatic bradycardia caused by atrioventricular block who also have heart failure symptoms and an LVEF of \u226435%, myotonic dystrophy, lamin A/C cardiomyopathy, cardiac sarcoidosis, or hypertrophic cardiomyopathy are at ICD therapy risk."
+        }
+      ]
+    },
+    {
+      "content": {
+        "General Information": "The guideline discusses considerations for pacemaker implantation in patients at risk of ventricular arrhythmias and sudden cardiac death. It emphasizes shared decision-making involving patients and clinicians to discuss potential benefits and risks. ICDs are recommended for patients with sustained ventricular arrhythmias due to higher risk of complications. Cost implications are significant and variable, depending on device type and reimbursement factors. Cost-effectiveness of dual chamber systems compared to single-chamber systems is also analyzed.",
+        "Recommendations": [
+          "In patients with symptomatic bradycardia or conduction disorder, engage in shared decision-making based on evidence and patient preferences.",
+          "Inform patients about procedural benefits, risks, and alternative therapies when considering pacemaker implantation or revision.",
+          "Avoid pacemaker therapy in patients with strong contraindications or no expected clinical benefit."
+        ],
+        "Conclusion": "Decisions on pacemaker implantation should be individualized after evaluating risks, benefits, and patient goals. Discussions should involve long-term management and potential lead management issues."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendation-Specific Supportive Text": {
+          "Patient Preferences": "Consideration of patient preferences is essential for management decisions, especially for patients with symptomatic bradycardia.",
+          "Shared Decision-Making": "The guideline endorses shared decision-making as a vital aspect of care, involving at least two participants (clinician and patient), sharing information, building a consensus, and reaching an agreement.",
+          "Risks of Pacemaker Implantation": "Although the risks are low, the benefit-risk ratio is not favorable if the overall benefit is low. Discussions should involve patient and family if needed.",
+          "Quality of Life": "Patients with PPM implantation indication showed substantial QOL improvements post-implantation, although mode of pacing (dual vs. single chamber) showed inconsistent results."
+        },
+        "Pacemaker Implantation/Revision": {
+          "Procedural Risks": "These are heart procedures not typically associated with high risk but can be complicated by adverse events in elderly patients with comorbidities.",
+          "Discussion": "A thorough discussion should involve the implications of living with an implantable device and patient-specific benefits."
+        },
+        "Discontinuation of Pacemaker Therapy": {
+          "Recommendation": "Discontinuation is reasonable if complications arise or the indication resolves, after evaluation of symptoms.",
+          "COR": "IIa",
+          "LOE": "C-LD"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "synopsis": "Guidelines for the implantation of permanent pacemakers (PPMs) have been reviewed. Decision-making around not replacing a pacemaker is complex and previously not addressed. Physicians face challenges with pacemaker surgery and related complications that don't justify continued pacing when initial indications resolve.",
+        "pacing and complications": "In patients with pacemaker-related complications, continued need for pacing is questioned. Discontinuation options include reprogramming or surgical explantation. A study estimated that 30% of pacemakers may have been implanted for lower indications.",
+        "study findings": "A study found that in patients without clear indications, pacing therapy was ceased with 30 patients having their pacemakers explanted after over a year of monitoring.",
+        "end-of-life considerations": "Healthcare professionals face ethical issues in pacemaker deactivation at end-of-life stages. Conversation and legal clarity about deactivation is vital for physicians, patients, and families. Patients with decision-making capacity can refuse treatment, including pacemaker use.",
+        "patient considerations": "Clarification for patients about decisions, legal surrogates, and family expectations about pacemaker deactivation is important. Deactivating a pacemaker won't necessarily lead to immediate mortality unless the patient is pacemaker-dependent."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary": "The guideline discusses managing bradycardia, specifically the evolving role and technology of pacing. It highlights the importance of device deactivation processes and addresses knowledge gaps related to cardiac resynchronization and pacing in various patient populations.",
+        "Pacemaker Deactivation": "Requires a written order and should be accompanied by an advance directive. Considerations include patient capacity and discussion of consequences. Religious beliefs may affect decision-making.",
+        "Knowledge Gaps and Future Research": "Focus on His bundle pacing, its benefits, and knowledge gaps regarding resynchronization pacing. Pacing therapy's interactions with other cardiac devices and long-term implications remain uncertain."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Overview": "The document is a set of guidelines on the evaluation and management of patients with bradycardia and cardiac conduction delay, including device-based therapy and other treatments. It references various reports and guidelines from different cardiovascular organizations.",
+        "Key References": [
+          "2008 ACC/AHA/HRS Guidelines for bradycardia and conduction disorders.",
+          "2014 AHA/ACC Guideline for coronary artery bypass graft surgery.",
+          "2013 ACCF/AHA Guideline for heart failure management.",
+          "2013 ACC/AHA guideline on ST-elevation myocardial infarction management."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2018 Bradycardia Guideline",
+        "Authors": "Kusumoto et al.",
+        "Journal/Publication": "JACC Vol. 74, No. 7",
+        "Date": "August 20, 2019",
+        "Key Topics": [
+          {
+            "Section": "Definitions",
+            "Subsections": [
+              {
+                "Title": "Sinus Node Disease",
+                "Studies": [
+                  "Rasmussen K. Chronic sinus node disease: natural course and indications for pacing.",
+                  "Shaw DB, Linker NJ, Heaven PA, et al. Chronic sinoatrial disorder (sick sinus syndrome): a possible result of cardiac ischaemia."
+                ]
+              }
+            ]
+          },
+          {
+            "Section": "Epidemiology and Definitions",
+            "Subsections": [
+              {
+                "Title": "Bradycardia and Conduction Disorders",
+                "Content": [
+                  "Aging changes in the human sinoatrial node.",
+                  "Pathological studies in sinoatrial disorder (sick sinus syndrome).",
+                  "Sick sinus syndrome in atrial disease.",
+                  "AV block: is there a time for change in attitude?",
+                  "Predictors and outcomes in patients with conduction disorders.",
+                  "Exercise training on chronotropic response and exercise capacity.",
+                  "Specific maximal myocardial heart rate and predictors for mortality."
+                ]
+              }
+            ]
+          },
+          {
+            "Section": "Clinical Manifestations of Bradycardia and Conduction Disorders",
+            "References": [
+              "Brubaker PH, Kitzman DW. Chronotropic incompetence: issues, consequences, and management.",
+              "Sarnoski B, Bayes de Luna A. Second-degree atrioventricular block: a reappraisal."
+            ]
+          },
+          {
+            "Section": "General Evaluation of Patients with Documented or Suspected Bradycardia or Conduction Disorders",
+            "Subsections": [
+              {
+                "Title": "History and Physical Examination",
+                "References": [
+                  "Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias.",
+                  "Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS guideline for the evaluation and management of patients with syncope."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": "The guideline discusses the evaluation and management of bradycardia and conduction disorders. It covers resting ECG for initial evaluation, exercise electrocardiographic testing, ambulatory electrocardiography, and imaging in patients with documented or suspected bradycardia. The guideline references studies related to the use of different diagnostic tools and their effectiveness in certain clinical conditions, especially in patients with syncope or conduction disorders."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "bundle branch block": "Studies explore its prognosis, influence on cardiovascular metrics, and its association with conditions like cardiomyopathy and increased risk of mortality.",
+        "electrocardiography": "Several references discuss its use in assessing ventricular function and predicting heart conditions.",
+        "echocardiography": "Referencing its criteria and utility in guidelines, particularly in myocardial ischemia and structural heart diseases.",
+        "imaging techniques": "The document mentions the use of cardiac magnetic resonance, multislice computed tomography, and other advanced imaging for diagnosis and risk assessment."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overall Summary": "This document is the 2018 Bradycardia Guideline from Kusumoto et al. It includes sections on various diagnostic and management strategies for conditions like bradycardia, arrhythmias, and related syndromes. It discusses diagnostic imaging techniques, genetic testing, and specific case studies, emphasizing the importance of precise diagnosis and treatment strategies for cardiovascular conditions.",
+        "Diagnostic Techniques": [
+          "Cardiovascular magnetic resonance imaging",
+          "Electrocardiography",
+          "Echocardiography",
+          "Genetic testing"
+        ],
+        "Focus Areas": [
+          "Delayed enhancement magnetic resonance imaging",
+          "Genetic testing for conductive disorders",
+          "Significance of sleep apnea evaluation"
+        ],
+        "Important Conditions Discussed": [
+          "Infective endocarditis",
+          "Cardiac amyloidosis",
+          "Sarcoidosis",
+          "Pacemaker channel dysfunction",
+          "Sleep apnea in relation to cardiac conditions"
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "SCN5A",
+          "Associated Conditions": [
+            "Inherited arrhythmia",
+            "Bradycardia or conduction disorder"
+          ],
+          "Occurrences": 1,
+          "context": "SCN5A is mentioned in the context of genetic testing in patients with suspected bradycardia or conduction disorders, particularly in cases of inherited arrhythmia."
+        }
+      ]
+    },
+    {
+      "content": {
+        "document_title": "2018 Bradycardia Guideline",
+        "publication_info": {
+          "authors": "Kusumoto et al.",
+          "journal": "JACC",
+          "volume": "74",
+          "issue": "7",
+          "year": "2019"
+        },
+        "sections": [
+          {
+            "title": "4.3. Invasive Testing",
+            "subsections": [
+              {
+                "title": "4.3.1. Implantable Cardiac Monitor in Patients With Documented or Suspected Bradycardia or Conduction Disorders",
+                "points": [
+                  "Randomized studies focusing on the assessment of syncope.",
+                  "Long-term electrocardiographic monitoring recommended in specific cases."
+                ]
+              },
+              {
+                "title": "4.3.2. Electrophysiology Study in Patients With Documented or Suspected Bradycardia or Conduction Disorders",
+                "points": [
+                  "Indicated for patients with recurrent syncope of unknown cause.",
+                  "Helps diagnose underlying arrhythmias."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "5. BRADYCARDIA ATTRIBUTABLE TO SND",
+            "subsections": [
+              {
+                "title": "5.1. Pathology/Pathophysiology/Etiology of SND",
+                "points": [
+                  "Sinotrial node pathology discussed.",
+                  "Role of electrophysiology in identifying sinus node dysfunction."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "Hcn4",
+          "Associated Conditions": [
+            "resting heart rate"
+          ],
+          "Occurrences": 1,
+          "context": "Benson DW, Friedman RA, Sule N. Use of implantable loop recorders in the diagnosis and management of syncope. Eur Heart J. 2004;25: 1257-63. Hcn4 identification of heart rate-associated loci and their effects on cardiac conduction and rhythm disorders."
+        },
+        {
+          "Gene": "MYH6",
+          "Associated Conditions": [
+            "risk of sick sinus syndrome"
+          ],
+          "Occurrences": 1,
+          "context": "Holm H, Gudbjartsson DF, Sulem P, et al. A rare variant in MYH6 is associated with high risk of sick sinus syndrome. Nat Genet. 2011;43:316-20."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Title": "2018 Bradycardia Guideline",
+        "Sections": [
+          {
+            "5.3.1": "Access Management of SND",
+            "5.3.2": "Acute Management of Reversible Causes of SND",
+            "5.3.3.1-5.3.3.50": "Various studies and case reports on sin node dysfunction, atrial fibrillation, effects of medications, bradycardia, and related conditions."
+          }
+        ],
+        "Key Points": [
+          "Investigation of reversible causes of sinus node dysfunction including hypothyroidism, electrolyte imbalances, and medications.",
+          "Importance of identifying and managing underlying causes for improving outcomes.",
+          "Medication effects on conduction systems and their potential risks."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2018 Bradycardia Guideline",
+        "main_topics": [
+          "Acute Medical Therapy for Bradycardia",
+          "Atropine and Beta Agonists for Bradycardia Attributable to SNO",
+          "Theory of Beta Blocker and Calcium Channel Blocker Mediated Bradycardia Attributable to SNO or Atrioventricular Block"
+        ],
+        "sections": {
+          "5.3.2": {
+            "description": "Acute medical therapy for bradycardia",
+            "subsections": {
+              "5.3.2.1": {
+                "title": "Atropine and Beta Agonists for Bradycardia Attributable to SNO",
+                "focus": [
+                  "Efficacy of atropine and isoproterenol",
+                  "Treatment for patients with hemodynamically stable bradyarrhythmia"
+                ]
+              },
+              "5.3.2.2": {
+                "title": "Theory of Beta Blocker and Calcium Channel Blocker Mediated Bradycardia",
+                "focus": [
+                  "Calcium channel blocking drug overdose",
+                  "High-dose insulin therapy as evidence-based approach"
+                ]
+              }
+            }
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Therapy of Digitalis-Mediated Bradycardia": {
+          "Treatment of life-threatening digitalis intoxication with digoxin-specific Fab antibody fragments": "Reported successful treatments.",
+          "Comparison of different approaches": "Digoxin-specific Fab antibodies are effective in severe cases."
+        },
+        "Aminophylline or Theophylline for Bradycardia": {
+          "Use in patients with spinal cord injury": "Theophylline reported to reverse bradycardia secondary to spinal cord injury."
+        },
+        "Use of Aminophylline in Bradycardia": {
+          "Aminophylline use in spinal cord injury": "Reported beneficial effects for bradycardia treatment."
+        },
+        "Atropine for Bradycardia": {
+          "Evidence for atropine in unstable patients": "Atropine use in emergency settings has been documented for unstable bradycardia and heart block."
+        },
+        "Electrophysiology Evaluations": {
+          "Sinus node function assessment": "Used in the context of hereditary arrhythmias and bradycardia."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2018 Bradycardia Guideline",
+        "topics": [
+          "Treatment for calcium channel blocker overdose",
+          "Use of glucagon in overdose cases",
+          "Temporary pacing for symptomatic bradycardia",
+          "Temporary pacemaker procedures and complications",
+          "Chronic therapy for Bradycardia"
+        ],
+        "sections": [
+          {
+            "section": "5.3.2.4.3",
+            "content": "Use of digoxin immune Fab (ovine) in the treatment of digoxin toxicity. Studies discuss its safety and efficacy results from observational studies."
+          },
+          {
+            "section": "5.3.3",
+            "content": "Temporary Pacing for Bradycardia Attributable to SND (Sick Sinus Syndrome). Various studies and trials are mentioned regarding techniques and outcomes."
+          },
+          {
+            "section": "5.3.3.1",
+            "content": "Hzenski and Buckley's study on digoxin-toxic cardiac patients. It mentions specific evaluation protocols involved."
+          },
+          {
+            "section": "5.4.1",
+            "content": "General Principles of Chronic Therapy/Management of Bradycardia Attributable to SND."
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "SND",
+          "Associated Conditions": [
+            "Bradycardia"
+          ],
+          "Occurrences": 2,
+          "context": "5.3.3 Temporary Pacing for Bradycardia attributable to SND. Discusses pacing for symptomatic bradycardia due to SND. Various studies on techniques and their effectiveness are reviewed."
+        },
+        {
+          "Gene": "Fab",
+          "Associated Conditions": [
+            "Digoxin toxicity"
+          ],
+          "Occurrences": 1,
+          "context": "5.3.2.4.3 Digoxin immune Fab (ovine) for the treatment of digoxin toxicity. The discussions focus on its safety and effectiveness being evaluated through observational studies."
+        }
+      ]
+    },
+    {
+      "content": {
+        "clinical_topics": [
+          "Bradycardia management",
+          "Electrophysiologic studies",
+          "Implantable electrical devices",
+          "Sinus node syndrome",
+          "Mortality and cerebrovascular events",
+          "Pharmacologic testing",
+          "Permanent pacing",
+          "Heart failure management"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2018 Bradycardia Guideline",
+        "authors": "Kusumoto et al.",
+        "sections": [
+          {
+            "section": "6. BRADYCARDIA ATTRIBUTABLE TO ATRIOVENTRICULAR BLOCK",
+            "subsections": [
+              {
+                "subsection": "6.2. Clinical Presentation",
+                "details": [
+                  "Prevention of syncope through permanent cardiac pacing in patients with bifascicular block and syncope of unknown origin.",
+                  "Ventricular-atrial gradient and its use as a surrogate for stress device-ventricular block.",
+                  "First-degree atrioventricular block: clinical manifestations, indications for pacing, pacemaker management.",
+                  "Isoprenaline in patients with drug-induced atrioventricular medial block."
+                ]
+              },
+              {
+                "subsection": "6.3. Acute Management",
+                "sub-subsections": [
+                  {
+                    "sub-subsection": "6.3.1. Acute Management of Reversible Causes of Bradycardia Attributable to Atrioventricular Block",
+                    "details": [
+                      "Management of Lyme carditis.",
+                      "Reversal of atropine-resistant atrioventricular block post-myocardial infarction."
+                    ]
+                  },
+                  {
+                    "sub-subsection": "6.3.2. Acute Medical Therapy for Bradycardia Attributable to Atrioventricular Block",
+                    "details": [
+                      "Efficacy of atropine and isoproterenol in hemodynamically unstable bradycardia.",
+                      "Randomized controlled trials comparing pacing versus conservative treatment in inferior myocardial infarction."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "therapy_section": "Chronic therapy and management of bradycardia attributable to atrioventricular block and bundle branch block are discussed, highlighting the importance of guidelines from ACCF/AHA regarding heart failure management. Various studies on temporary cardiac pacing, technology, effectiveness, and safety are reviewed.",
+        "chronic_therapy": "Heart failure guidelines from ACCF/AHA are emphasized in managing bradycardia related to atrioventricular block.",
+        "general_principles": "The section discusses observation strategies for degrees of atrioventricular block.",
+        "prehospital_care": "Guidelines and practices for prehospital cardiac care using transcutaneous pacing are mentioned, including advantages in emergency scenarios."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2018 Bradycardia Guideline",
+        "Publication Info": {
+          "Authors": "Kusumoto et al.",
+          "Journal": "JACC Vol. 74, No. 7",
+          "Date": "August 20, 2019",
+          "Pages": "e142-S156"
+        },
+        "Subjects Covered": [
+          {
+            "Topic Code": "S4.2.4.8",
+            "Summary": "Procaineamide administration during electrophysiology study as a provocative test for intermittent atrioventricular block."
+          },
+          {
+            "Topic Code": "S4.4.4-5",
+            "Summary": "Significance of pacemakers in patients with syncope."
+          },
+          {
+            "Topic Code": "S4.4.4-8",
+            "Summary": "Impact of permanent pacemaker placement in chronic atrial fibrillation."
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "SCN5A",
+          "Associated Conditions": [
+            "Brugada syndrome"
+          ],
+          "Occurrences": 1,
+          "context": "S4.3.5: Toded S, Suzuki K, Tsuchida K, et al. Exercise induced atrioventricular block with gap phenomenon in a patient with Brugada syndrome."
+        }
+      ]
+    },
+    {
+      "content": {
+        "guideline": "2018 Bradycardia Guideline",
+        "topics": [
+          "Effects of pacing in patients with heart failure",
+          "Complications of pacemaker implantation",
+          "Pacemaker syndrome",
+          "Management of cardiac conditions associated with gene mutations"
+        ],
+        "procedures": [
+          "Pacemaker implantation",
+          "AV nodal modification",
+          "Implantable cardioverter-defibrillator use"
+        ],
+        "conditions": [
+          "Heart block",
+          "Atrioventricular nodal reentrant tachycardia",
+          "Sarcoidosis",
+          "Familial dilated cardiomyopathy"
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "LMNA",
+          "Associated Conditions": [
+            "Atrioventricular block",
+            "Dilated cardiomyopathy",
+            "Conduction disease",
+            "Arrhythmias"
+          ],
+          "Occurrences": 5,
+          "context": "Reports of cardiac conditions associated with LMNA mutations include familial dilated cardiomyopathy, arrhythmias, conduction disease, and atrioventricular block."
+        },
+        {
+          "Gene": "SCN5A",
+          "Associated Conditions": [
+            "Cardiac conduction disease",
+            "Arrhythmias"
+          ],
+          "Occurrences": 1,
+          "context": "SCN5A mutations are implicated in cardiac conduction disease and arrhythmias."
+        }
+      ]
+    },
+    {
+      "content": {
+        "generalClinicalInfo": "The document provides clinical guidelines primarily focused on bradycardia management, specifically through pacing therapies. It covers topics such as the incidence and impact of pacemaker syndrome, characteristics of patients receiving ventricular pacing, the impact of different pacing strategies on cardiac function, and specific trials comparing methods like His-bundle pacing and right ventricular pacing. The guidelines incorporate findings from numerous studies about the near-term and long-term outcomes of these pacing therapies in various types of heart conditions."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guideline_overview": "This guideline focuses on the management and study of bradycardia and related conduction disorders, using various diagnostic and therapeutic approaches including MCOT systems, ambulatory ECG, magnetic resonance imaging, and the significance of bundle branch blocks and conduction delays.",
+        "studies_and_analysis": [
+          "External looping and mobile cardiac outpatient telemetry systems for arrhythmia detection.",
+          "Risk assessment using exercise testing in conduction disorders and the prognostic implications of conduction delays.",
+          "Association of idiopathic atrioventricular block with clinical outcomes."
+        ],
+        "diagnostic_methods": [
+          "Holter monitors for arrhythmia detection.",
+          "Magnetic resonance imaging for connective tissue disease diagnosis.",
+          "Prognostic assessments using exercise-induced biomarkers."
+        ],
+        "therapeutic_interventions": [
+          "Conduction system pacing for atrioventricular block.",
+          "Cardiac resynchronization therapy in patients with left ventricular dysfunction."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "SCN5A",
+          "Associated Conditions": [
+            "Brugada Syndrome",
+            "Progressive Cardiac Conduction Defect"
+          ],
+          "Occurrences": 1,
+          "context": "SCN5A gene mutations have been associated with various forms of conduction disorders including Brugada syndrome and progressive cardiac conduction defect."
+        }
+      ]
+    },
+    {
+      "content": {
+        "section": "8. SPECIAL POPULATIONS",
+        "subsections": [
+          {
+            "title": "8.1. Perioperative Management",
+            "highlights": [
+              "Prophylactic pacing before cardiac surgery to prevent bradycardia.",
+              "Implantable defibrillator usage in postoperative settings."
+            ]
+          },
+          {
+            "title": "8.1.1. Patients at Risk for Bradycardia During Noncardiac Surgery",
+            "highlights": [
+              "Bradycardia during surgery can lead to hemodynamic instability.",
+              "Preoperative screening for conduction abnormalities is important."
+            ]
+          },
+          {
+            "title": "8.1.2. Coronary Artery Bypass",
+            "highlights": [
+              "Consideration of natural history of conduction defects after surgery.",
+              "Potential role of temporary pacing wires."
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary": "The document is about clinical guidelines related to various cardiac procedures, including surgery for atrial fibrillation, valve replacement, and management of pacemakers. It covers outcomes, risks, and recommendations post-surgery.",
+        "Sections": [
+          "Surgery for Atrial Fibrillation",
+          "Valve Replacement Procedures",
+          "Pacemaker Implantation and Management",
+          "Tricuspid Valve Surgery",
+          "Resynchronization Therapy"
+        ],
+        "Key Procedures": {
+          "Atrial Fibrillation Correction Surgery": "Discussed in terms of outcomes, risks, and techniques.",
+          "Surgical Aortic Valve Replacement": "Includes patient outcomes and long-term effects on pacemaker dependency.",
+          "Mitral Valve Surgery": "Complications like left bundle branch block are considered.",
+          "Tricuspid Valve Surgery": "Analyzes risks related to pulmonary artery hypertension.",
+          "Temporary Percutaneous Ventricular Assist Devices": "Mentioned as support post-cardiac surgery."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_clinical_information": "The clinical guideline discusses various topics related to cardiac procedures and their outcomes, including transcatheter valve replacement, heart transplant, and the risks associated with pacemaker implantation. It provides insights into the predictors and management of complications like atrioventricular block, conduction abnormalities, and heart failure. Studies and clinical trials are referenced, exploring the effects of these cardiac interventions and the factors influencing patient outcomes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "topics": [
+          "Prognostic implications of nonsustained ventricular tachycardia in patients with hypertrophic cardiomyopathy.",
+          "Continuous rhythm monitoring for ventricular arrhythmias after septal alcohol ablation for hypertrophic cardiomyopathy.",
+          "Predictors of complete heart block after transcoronary ablation of septal hypertrophy.",
+          "Outcomes and continuous monitoring in patients with hypertrophic cardiomyopathy after different ablation therapies.",
+          "Managing episodes of bradycardia associated with postoperative AF.",
+          "Bradycardia management for adult congenital heart disease.",
+          "Atrial fibrillation after cardiac surgery and related studies."
+        ],
+        "key_points": [
+          "Atrial fibrillation and management strategies post cardiac surgery.",
+          "Incidence of complete heart block after ablation for hypertrophic obstructive cardiomyopathy.",
+          "Therapeutic strategies for managing heart rhythm conditions post heart surgeries."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          {
+            "section": "S8.2.4",
+            "description": "Congenital complete atrioventricular block: clinical and electrophysiologic predictors of need for pacemaker implantation."
+          },
+          {
+            "section": "S8.2.6",
+            "description": "Epicardial versus endocardial permanent pacing in adults with congenital heart disease."
+          },
+          {
+            "section": "S8.3.1",
+            "description": "Management of high-degree atrioventricular block complicating ST segment elevation myocardial infarction in the contemporary era."
+          },
+          {
+            "section": "S8.3.2",
+            "description": "Relation of new permanent right or left bundle branch block to mortality in acute myocardial infarction."
+          },
+          {
+            "section": "S8.3.10",
+            "description": "The incidence and mortality of interventricular conduction defects in acute myocardial infarction."
+          },
+          {
+            "section": "S8.3.15",
+            "description": "Temporary transvenous cardiac pacing for bradycardias."
+          },
+          {
+            "section": "S8.3.19",
+            "description": "Significance of bundle branch block complicating acute myocardial infarction."
+          },
+          {
+            "section": "S8.3.33",
+            "description": "Management of cardiovascular complications in non-neuromuscular diseases."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          {
+            "section": "9. Evaluation of the Risks for Ventricular Arrhythmias in Patients Who Require Permanent Pacing",
+            "details": [
+              "This section discusses the risk factors and considerations for patients requiring permanent pacing and the potential for ventricular arrhythmias."
+            ]
+          },
+          {
+            "section": "10. Cost and Value Considerations",
+            "details": [
+              "Considers the costs and economic implications of cardiac pacemaker implantation.",
+              "Discusses various aspects of single-chamber and dual-chamber pacemakers, including cost-effectiveness and clinical effectiveness.",
+              "References various studies related to economic evaluations of pacemaker systems."
+            ]
+          },
+          {
+            "section": "11. Shared Decision-Making",
+            "details": [
+              "Emphasizes the importance of including patients in the decision-making process regarding their treatment options.",
+              "Discusses communication between healthcare providers and patients to explain benefits and risks of different treatment options."
+            ]
+          },
+          {
+            "section": "12. Quality of Life",
+            "details": [
+              "Focuses on the impact of cardiac devices on patients' quality of life.",
+              "References studies that evaluate the quality of life in patients with pacemakers and comparable conditions."
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Authors": "Kusumoto et al.",
+        "Publication": "2018 Bradycardia Guideline",
+        "Key Topics": [
+          "Improvements in cardiac function and quality of life",
+          "Considerations for pacemaker therapy discontinuation",
+          "End-of-life considerations related to cardiac devices",
+          "Knowledge gaps and future research directions"
+        ],
+        "Sections": {
+          "12. Discontinuation of Pacemaker Therapy": [
+            "Importance of implantable pacemaker therapy in patients with refractory issues.",
+            "Criteria for pacemaker explantation."
+          ],
+          "14. End-of-Life Considerations": [
+            "Concerns regarding deactivating implantable devices.",
+            "Ethical discussions on withdrawal of pacemaker devices."
+          ],
+          "15. Knowledge Gaps and Future Research": [
+            "Research on electrical resynchronization and His-bundle pacing."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline": "2018 ACC/AHA/HRS Guideline on the Evaluation and Management of Patients with Bradycardia and Cardiac Conduction Delay",
+        "Date": "July 2018",
+        "Information": "Appendix 1 displays author relationships with industry and other entities relevant to the guideline.",
+        "Committee Members": [
+          {
+            "Name": "Fred M. Kusumoto",
+            "Affiliation": "Mayo Clinic\u2014Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": "None"
+          },
+          {
+            "Name": "Mark H. Schoenfeld",
+            "Affiliation": "Yale University School of Medicine\u2014Clinical Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": "None"
+          },
+          {
+            "Name": "Keneth A. Ellenbogen",
+            "Affiliation": "VCU Medical Center\u2014Director, Clinical Electrophysiology",
+            "Consultant": "Biotronik, Boston Scientific, Janssen Pharmaceuticals, Medtronic, Pfizer, St. Jude Medical",
+            "Speakers Bureau": "Biotronik, Biosense Webster, Boston Scientific, Medtronic, Sanofi-Aventis, St. Jude Medical",
+            "Ownership/Partnership/Principal": "Biotronik, Boston Scientific, Medtronic",
+            "Personal Research": "Biosense Webster, Boston Scientific, Medtronic, Sanofi-Aventis, Medtronic (DSMB)",
+            "Institutional, Organizational, or Other Financial Benefit": "Biosense Webster, Boston Scientific",
+            "Expert Witness": "None",
+            "Voting Recusals": "4.3.1, 4.3.2, 5, 6, 7, 8, 9, 11, 13"
+          },
+          {
+            "Name": "Michael R. Gold",
+            "Affiliation": "Medical University of South Carolina\u2014Director, Division of Cardiology and Professor of Medicine",
+            "Consultant": "Boston Scientific, Medtronic, St. Jude Medical",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "Boston Scientific, St. Jude Medical",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusals": "4.3.1, 5, 6, 7, 8, 9, 11, 13"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Committee Members": [
+          {
+            "Name": "Cara Pellegrini",
+            "Employment": "University of California San Francisco, School of Medicine\u2013Associate Professor",
+            "Consultant": [
+              "Abbott",
+              "Medtronic"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusal by Section": "4, 3.1, 5, 6, 7, 8, 9, 11, 13"
+          },
+          {
+            "Name": "Kimberly A. Selzman",
+            "Employment": "University of Utah School of Medicine\u2013Associate Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusal by Section": "None"
+          },
+          {
+            "Name": "Annemarie Thompson",
+            "Employment": "Duke University School of Medicine\u2014Professor of Anesthesiology and Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusal by Section": "None"
+          },
+          {
+            "Name": "Paul D. Varosy",
+            "Employment": "VA Eastern Colorado Health Care System\u2014Director, Cardiac Electrophysiology; University of Colorado\u2014Associate Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Voting Recusal by Section": "None"
+          }
+        ],
+        "Notes": "The table indicates relationships of committee members with industry relevant at the time of document development. Relationships with no financial benefit are also listed for transparency. Members must recuse themselves from related voting sections if necessary."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Appendix 2. Abbreviated Reviewer Relationships with Industry and Other Entities\u20142018 ACC/AHA/HRS Guideline on the Evaluation and Management of Patients with Bradycardia and Cardiac Conduction Delay (August 2018)",
+        "journal": "JACC, Vol. 74, No. 7, 2019",
+        "reviewers": [
+          {
+            "name": "Yong-Mei Cha",
+            "representation": "Official Reviewer\u2014AHA",
+            "employment": "Mayo Clinic, Division of Cardiovascular Diseases",
+            "comprehensiveRWI": "No"
+          },
+          {
+            "name": "Zachary D. Goldberger",
+            "representation": "Official Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+            "employment": "University of Washington School of Medicine\u2014Assistant Professor of Medicine; Division of Cardiology, Harborview Medical Center",
+            "comprehensiveRWI": "No"
+          },
+          {
+            "name": "Richard J. Kovacs",
+            "representation": "Official Reviewer\u2014ACC Science and Quality Committee",
+            "employment": "Indiana University School of Medicine, Krannert Institute of Cardiology\u2014Professor of Clinical Medicine",
+            "comprehensiveRWI": "Yes"
+          },
+          {
+            "name": "Kevin F. Kwaku",
+            "representation": "Official Reviewer\u2014AHA",
+            "employment": "Dartmouth-Hitchcock Medical",
+            "comprehensiveRWI": "No"
+          },
+          {
+            "name": "Daniel M. Philbin Jr",
+            "representation": "Official Reviewer\u2014ACC Board of Governors",
+            "employment": "New England Heart Institute",
+            "comprehensiveRWI": "Yes"
+          },
+          {
+            "name": "Peter A. Brady",
+            "representation": "Organizational Reviewer\u2014HRS",
+            "employment": "Mayo Clinic, Mayo Foundation",
+            "comprehensiveRWI": "No"
+          },
+          {
+            "name": "Ratika Parkash",
+            "representation": "Organizational Reviewer\u2014HRS",
+            "employment": "Dalhousie University and Nova Scotia Health Authority\u2014Professor of Medicine, Division of Cardiology (Arrhythmia); Director of Research, Division of Cardiology",
+            "comprehensiveRWI": "Yes"
+          },
+          {
+            "name": "Jonathan Philpott",
+            "representation": "Organizational Reviewer\u2014STS",
+            "employment": "Mid-Atlantic Cardiothoracic Surgeons",
+            "comprehensiveRWI": "Yes"
+          },
+          {
+            "name": "Kevin Shannon",
+            "representation": "Organizational Reviewer\u2014PACES",
+            "employment": "Mattel Children\u2019s Hospital at UCLA\u2014Clinical Professor, Division of Pediatric Cardiology",
+            "comprehensiveRWI": "Yes"
+          },
+          {
+            "name": "Gus J. Vlahakes",
+            "representation": "Organizational Reviewer\u2014AATS",
+            "employment": "Harvard Medical School and Massachusetts General Hospital\u2014Professor of Surgery",
+            "comprehensiveRWI": "No"
+          },
+          {
+            "name": "Nazeem Aloum",
+            "representation": "Content Reviewer",
+            "employment": "University of Washington",
+            "comprehensiveRWI": "No"
+          },
+          {
+            "name": "Sana M. Al-Khatib",
+            "representation": "Content Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+            "employment": "Duke Clinical Research Institute\u2014Professor of Medicine",
+            "comprehensiveRWI": "Yes"
+          },
+          {
+            "name": "Joshua A. Beckman",
+            "representation": "Content Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+            "employment": "Vanderbilt University Medical Center\u2014Director, Section of Vascular Medicine",
+            "comprehensiveRWI": "Yes"
+          },
+          {
+            "name": "Kim K. Bircher",
+            "representation": "Content Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+            "employment": "University of Houston College of Pharmacy\u2014Clinical Professor",
+            "comprehensiveRWI": "Yes"
+          },
+          {
+            "name": "Mitchell I. Cohen",
+            "representation": "Content Reviewer\u2014PACES",
+            "employment": "Pediatric Cardiology Associates",
+            "comprehensiveRWI": "No"
+          },
+          {
+            "name": "Freddy Del-Carpio Munoz",
+            "representation": "Content Reviewer\u2014ERP Member",
+            "employment": "Mayo Clinic",
+            "comprehensiveRWI": "No"
+          },
+          {
+            "name": "Bernard Dennis",
+            "representation": "Content Reviewer\u2014ACC/AHA Lay Reviewer",
+            "employment": "Dennis Associates, LLC",
+            "comprehensiveRWI": "No"
+          },
+          {
+            "name": "Anita Deswal",
+            "representation": "Content Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+            "employment": "Michael E. DeBakey VA Medical Center\u2014Chief, Cardiology; Baylor College of Medicine\u2014Professor of Medicine",
+            "comprehensiveRWI": "Yes"
+          },
+          {
+            "name": "Andrew E. Epstein",
+            "representation": "Content Reviewer",
+            "employment": "The Hospital of the University of Pennsylvania\u2014Professor of Medicine",
+            "comprehensiveRWI": "Yes"
+          },
+          {
+            "name": "Michael F. Field",
+            "representation": "Content Reviewer",
+            "employment": "University of Wisconsin School of Medicine and Public Health\u2014Director, Clinical Electrophysiology and Cardiac Arrhythmia Service",
+            "comprehensiveRWI": "No"
+          },
+          {
+            "name": "Michael J. Firstenberg",
+            "representation": "Content Reviewer\u2014ACC Surgeons Member Section and Leadership Council",
+            "employment": "The Medical Center of Aurora\u2014Chair, Cardiovascular and Cardiothoracic Surgery",
+            "comprehensiveRWI": "No"
+          },
+          {
+            "name": "John D. Fisher",
+            "representation": "Content Reviewer\u2014ACC Electrophysiology Member Section Chair",
+            "employment": "Montefiore Medical Center\u2014Program Director CCEP",
+            "comprehensiveRWI": "Yes"
+          },
+          {
+            "name": "Federico Gentile",
+            "representation": "Content Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+            "employment": "Centro Cardiologico Gentile",
+            "comprehensiveRWI": "No"
+          },
+          {
+            "name": "Anne M. Gillis",
+            "representation": "Content Reviewer",
+            "employment": "University of Calgary",
+            "comprehensiveRWI": "Yes"
+          },
+          {
+            "name": "Bulent Gorenek",
+            "representation": "Content Reviewer",
+            "employment": "Eskisehir Osmangazi University Cardiology Department\u2014 Professor of Cardiology",
+            "comprehensiveRWI": "Yes"
+          },
+          {
+            "name": "Mohamed H. Hamdan",
+            "representation": "Content Reviewer",
+            "employment": "University of Wisconsin\u2013Madison\u2014 Chief of Cardiovascular Medicine",
+            "comprehensiveRWI": "Yes"
+          },
+          {
+            "name": "Glenn N. Levine",
+            "representation": "Content Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+            "employment": "Baylor College of Medicine\u2014 Professor of Medicine; Michael E. DeBakey Medical Center\u2014Director, Cardiac Care Unit",
+            "comprehensiveRWI": "Yes"
+          },
+          {
+            "name": "Mark S. Link",
+            "representation": "Content Reviewer",
+            "employment": "UT Southwestern Medical Center",
+            "comprehensiveRWI": "Yes"
+          },
+          {
+            "name": "Daniel L. Lustgarten",
+            "representation": "Content Reviewer",
+            "employment": "University of Vermont School of Medicine",
+            "comprehensiveRWI": "Yes"
+          },
+          {
+            "name": "Siva K. Mulpuru",
+            "representation": "Content Reviewer\u2014ERC Member",
+            "employment": "Mayo Clinic\u2014Associate Professor",
+            "comprehensiveRWI": "Yes"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document_title": "2018 Bradycardia Guideline",
+        "authors": "Kusumoto et al.",
+        "publication_details": "JACC Vol. 74, No. 7, 2019, August 20, 2019:e51-e156",
+        "appendix": "APPENDIX 2. CONTINUED",
+        "description": "List of reviewers with their representation, employment, and comprehensive RWI status.",
+        "notes": "The table represents relationships with industry and other entities. Detailed reviewer disclosures can be found online."
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "Inherited conduction disease",
+        "Progressive conduction disease",
+        "Genetic cause of atrioventricular block",
+        "Inherited arrhythmia",
+        "Bradycardia or conduction disorder",
+        "Brugada syndrome",
+        "Cardiac conduction disease",
+        "Arrhythmias",
+        "Brugada Syndrome",
+        "Progressive Cardiac Conduction Defect"
+      ],
+      "Occurrences": 6,
+      "context": [
+        "The SCN5A gene, encoding the cardiac sodium channel alpha subunit, is the most common identifiable gene responsible for inherited conduction disease.",
+        "Genetic (e.g., SCN5A mutations)",
+        "SCN5A is mentioned in the context of genetic testing in patients with suspected bradycardia or conduction disorders, particularly in cases of inherited arrhythmia.",
+        "S4.3.5: Toded S, Suzuki K, Tsuchida K, et al. Exercise induced atrioventricular block with gap phenomenon in a patient with Brugada syndrome.",
+        "SCN5A mutations are implicated in cardiac conduction disease and arrhythmias.",
+        "SCN5A gene mutations have been associated with various forms of conduction disorders including Brugada syndrome and progressive cardiac conduction defect."
+      ]
+    },
+    {
+      "Gene": "HCN4",
+      "Associated Conditions": [
+        "Cardiac pacemaker dysfunction"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Mutations in the cardiac pacemaker channel gene HCN4 have been identified."
+      ]
+    },
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [
+        "Neuromuscular disease",
+        "dilated cardiomyopathy",
+        "limb girdle muscular dystrophy",
+        "autosomal dominant variant of Emery-Dreifuss",
+        "atrial arrhythmias",
+        "ventricular arrhythmias",
+        "atrioventricular block",
+        "Neuromuscular disorders",
+        "lamin A/C cardiomyopathy",
+        "Atrioventricular block",
+        "Dilated cardiomyopathy",
+        "Conduction disease",
+        "Arrhythmias"
+      ],
+      "Occurrences": 10,
+      "context": [
+        "Lamin A/C (LMNA) neuromuscular disease is assessed for permanent pacing decisions in patients with marked first-degree AV block and Mobitz Type I block.",
+        "Patients with mutations in the lamin A/C gene can present with atrioventricular block, atrial arrhythmias, and ventricular arrhythmias. Lamin A/C genetic defects have been linked to dilated cardiomyopathy, limb girdle muscular dystrophy, and an autosomal dominant variant of Emery-Dreifuss.",
+        "other types of less common neuromuscular disorders (without lamin A/C involvement) is limited to case reports.",
+        "For example, patients with symptomatic bradycardia caused by atrioventricular block who also have heart failure symptoms and an LVEF of \u226435%, myotonic dystrophy, lamin A/C cardiomyopathy, cardiac sarcoidosis, or hypertrophic cardiomyopathy are at ICD therapy risk.",
+        "Reports of cardiac conditions associated with LMNA mutations include familial dilated cardiomyopathy, arrhythmias, conduction disease, and atrioventricular block."
+      ]
+    },
+    {
+      "Gene": "Lamin A/C",
+      "Associated Conditions": [
+        "limb-girdle muscular dystrophies",
+        "Emery-Dreifuss muscular dystrophies"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "In patients with lamin A/C gene mutations, including limb-girdle and Emery-Dreifuss muscular dystrophies, with a PR interval greater than 240 ms and LBBB, permanent pacing, with additional defibrillator capability if needed and meaningful survival of greater than 1 year is expected, is reasonable."
+      ]
+    },
+    {
+      "Gene": "CTGA",
+      "Associated Conditions": [
+        "congenital anomalies"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Certain congenital anomalies (e.g., CTGA and the endocardial cushion defects) are inherently associated with a more fragile atrioventricular conduction system."
+      ]
+    },
+    {
+      "Gene": "Hcn4",
+      "Associated Conditions": [
+        "resting heart rate"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Benson DW, Friedman RA, Sule N. Use of implantable loop recorders in the diagnosis and management of syncope. Eur Heart J. 2004;25: 1257-63. Hcn4 identification of heart rate-associated loci and their effects on cardiac conduction and rhythm disorders."
+      ]
+    },
+    {
+      "Gene": "MYH6",
+      "Associated Conditions": [
+        "risk of sick sinus syndrome"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Holm H, Gudbjartsson DF, Sulem P, et al. A rare variant in MYH6 is associated with high risk of sick sinus syndrome. Nat Genet. 2011;43:316-20."
+      ]
+    },
+    {
+      "Gene": "SND",
+      "Associated Conditions": [
+        "Bradycardia"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "5.3.3 Temporary Pacing for Bradycardia attributable to SND. Discusses pacing for symptomatic bradycardia due to SND. Various studies on techniques and their effectiveness are reviewed."
+      ]
+    },
+    {
+      "Gene": "Fab",
+      "Associated Conditions": [
+        "Digoxin toxicity"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "5.3.2.4.3 Digoxin immune Fab (ovine) for the treatment of digoxin toxicity. The discussions focus on its safety and effectiveness being evaluated through observational studies."
+      ]
+    }
+  ]
+}

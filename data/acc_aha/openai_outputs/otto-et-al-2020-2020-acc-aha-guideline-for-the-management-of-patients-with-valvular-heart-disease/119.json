@@ -1,0 +1,29 @@
+{
+  "content": {
+    "Recommendations for Management of CAD in Patients Undergoing Valve Surgery": [
+      {
+        "COR": "1",
+        "LOE": "C-LD",
+        "Recommendation": "In patients with symptoms of angina, objective evidence of ischemia, decreased LV systolic function, history of CAD, or coronary risk factors (including men >40 years of age and postmenopausal women), invasive coronary angiography is indicated before valve intervention."
+      },
+      {
+        "COR": "1",
+        "LOE": "C-LD",
+        "Recommendation": "In patients with chronic severe secondary MR, invasive coronary angiography should be performed as part of the evaluation."
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "Recommendation": "In selected patients with a low to intermediate pretest probability of CAD, contrast-enhanced coronary CT angiography is reasonable to exclude the presence of significant obstructive CAD."
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-LD",
+        "Recommendation": "In patients undergoing valve repair or replacement with significant proximal CAD (\u226570% reduction in luminal diameter in major coronary arteries or \u226550% reduction in luminal diameter in the left main coronary artery and/or physiologically significance), CABG is reasonable for selective patients."
+      }
+    ],
+    "Synopsis": "Coronary imaging in the setting of VHD defines anatomy that may be at risk during surgery or intervention. CAD and VHD often coexist, and in the case of secondary MR they have a pathophysiological link. Revascularization may positively impact the valve disease and aid in remodeling. In surgical settings, intervention efforts are made to correct surgically correctable presence before surgery. There is a preference for a less invasive approach using CT angiography.",
+    "Recommendation-Specific Supportive Text": "CAD is frequently present among patients with VHD and may contribute to angina perceptions. Coronary anatomy knowledge aids in risk stratification and guides revascularization strategy."
+  },
+  "genes": []
+}

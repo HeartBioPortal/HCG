@@ -1,0 +1,65 @@
+{
+  "content": {
+    "clinical_topics": [
+      {
+        "title": "Coarctation of the Aorta",
+        "sections": [
+          {
+            "sub_section": "Definition and Outcomes",
+            "details": [
+              "Systematic review added an evaluation of injury to the aortic wall, based on 15 years of experience."
+            ]
+          },
+          {
+            "sub_section": "Interventions and Treatments",
+            "details": [
+              "Reports on long-term follow-up data and complications from surgical repair procedures.",
+              "Comparative studies in adults and children for bicuspid aortic valve implications and aortic repair."
+            ]
+          },
+          {
+            "sub_section": "Prognosis and Long-term Follow-up",
+            "details": [
+              "Cohort study outcomes on arterial hypertension in coarctation repair patients.",
+              "Observational data on associated cardiac conditions post-repair."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Pulmonary Stenosis",
+        "sections": [
+          {
+            "sub_section": "Valvular Pulmonary Stenosis Outcomes",
+            "details": [
+              "Long-term data shows varied recovery post-valvotomy.",
+              "Prospective analysis of pediatric conditions and balloon valvuloplasty impact."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Branch and Peripheral Pulmonary Stenosis",
+        "sections": [
+          {
+            "sub_section": "Long-term Conditions",
+            "details": [
+              "Children outcomes of balloon angioplasty studied.",
+              "Comparative insights on treatment methods and medium-term follow-up."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "ACTA2",
+      "Associated Conditions": [
+        "Aortic Aneurysm"
+      ],
+      "Occurrences": 1,
+      "context": "Abbott ME discusses statistical and historical perspectives of coarctation of the aorta. Bicuspid aortic valve and familial thoracic aortic aneurysm pathology mentions involvement of ACTA2."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "content": {
+    "title": "2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline",
+    "topics": [
+      {
+        "category": "Women",
+        "details": [
+          "Hormone therapy and its impact on coronary artery disease risk in postmenopausal women.",
+          "Venous thromboembolic events associated with oral contraception."
+        ]
+      },
+      {
+        "category": "Pregnancy",
+        "details": [
+          "Hormone replacement therapy's effects on certain prothrombotic genotypes.",
+          "Importance of managing familial hypercholesterolemia during pregnancy."
+        ]
+      },
+      {
+        "category": "Older Adults",
+        "details": [
+          "Impact of age on coronary artery disease patients (especially those older than 80).",
+          "Consideration of complete revascularization in elderly patients."
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

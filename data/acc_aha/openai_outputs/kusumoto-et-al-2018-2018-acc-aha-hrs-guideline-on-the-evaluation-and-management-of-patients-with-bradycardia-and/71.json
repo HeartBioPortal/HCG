@@ -1,0 +1,24 @@
+{
+  "content": {
+    "Synopsis": "Adults with congenital heart disease (ACHD) are a diverse group with varied anatomical and conduction issues, requiring specialized care. This guideline focuses on adults with ACHD and emphasizes using adult-specific references.",
+    "Recommendation-Specific Supportive Text": [
+      "Permanent pacing can alleviate SND symptoms in adults with ACHD, but higher mortality and atrial flutter risks exist.",
+      "Atrioventricular block at any level increases mortality, though no studies exist to compare treatment strategies.",
+      "Certain features, including genetic factors, are identified as high-risk markers for outcomes in patients with congenital complete heart block.",
+      "Postoperative heart block risks vary by anatomy, surgery, and genetics.",
+      "Permanent pacing can be considered in asymptomatic congenital complete heart block patients.",
+      "Reentrant atrial arrhythmias in ACHD may not allow for effective termination.",
+      "Endocardial leads retain better longevity and are less prone to failure."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "CTGA",
+      "Associated Conditions": [
+        "congenital anomalies"
+      ],
+      "Occurrences": 1,
+      "context": "Certain congenital anomalies (e.g., CTGA and the endocardial cushion defects) are inherently associated with a more fragile atrioventricular conduction system."
+    }
+  ]
+}

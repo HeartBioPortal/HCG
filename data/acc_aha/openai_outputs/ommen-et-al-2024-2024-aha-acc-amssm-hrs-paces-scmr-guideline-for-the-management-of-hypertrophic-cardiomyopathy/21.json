@@ -1,0 +1,23 @@
+{
+  "content": {
+    "Synopsis": "Both 12-lead electrocardiographic and ambulatory monitoring are necessary for patients with HCM. A 12-lead ECG can provide information about LVH and repolarization abnormalities, and arrhythmias like bradycardia and tachycardia. Ambulatory monitoring is important for evaluating SCD risk. Extended monitoring helps determine the cause of symptoms or diagnose AF, especially in patients with risk factors.",
+    "Clinical Studies": "Broad spectrum of arrhythmias in HCM patients, correlation of symptoms with monitor findings is vital.",
+    "Screening": "ECGs are standard for initial screening of relatives with HCM. Electrocardiographic abnormalities can indicate LVH development in gene carriers.",
+    "Recommendation-Specific Supportive Text": [
+      "12-lead ECG abnormal in 75%-95% of HCM patients and helps identify phenocopies like atypical patterns.",
+      "Ambulatory monitoring is valuable for ventricular tachyarrhythmias like NSVT.",
+      "Extended ambulatory monitoring advised in patients with symptoms.",
+      "AF linked with adverse outcomes in HCM; screening and intervention developed via HCM-AF score."
+    ],
+    "Conditions Discussed": [
+      "HCM",
+      "LVH",
+      "Repolarization abnormalities",
+      "Arrhythmias (Bradycardia, Tachycardia)",
+      "SCD",
+      "AF",
+      "NSVT"
+    ]
+  },
+  "genes": []
+}

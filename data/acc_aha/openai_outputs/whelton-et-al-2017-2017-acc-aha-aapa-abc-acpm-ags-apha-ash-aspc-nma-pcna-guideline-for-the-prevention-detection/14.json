@@ -1,0 +1,21 @@
+{
+  "content": {
+    "guideline_summary": "2017 High Blood Pressure Clinical Practice Guideline emphasizes the importance of accurate BP measurement for diagnosis and management of high BP. It outlines a protocol for BP measurement, including proper patient preparation, device validation, and technique.",
+    "BP_measurement_recommendations": [
+      "Have the patient relax for more than 5 minutes before measuring.",
+      "Avoid caffeine, exercise, and smoking 30 minutes prior.",
+      "Use validated BP measurement devices.",
+      "Average multiple readings to estimate BP."
+    ],
+    "BP_measurement_methods": [
+      "Auscultatory: using mercury columns for direct measurement.",
+      "Oscillometric: involving sensors to detect changes in blood volume."
+    ],
+    "clinical_issues_addressed": [
+      "Errors in BP measurement leading to misleading BP levels.",
+      "Structured BP treatment strategies have shown improvement in BP control."
+    ],
+    "evidence_reference": "Structured, goal-oriented BP treatment initiatives improve BP control, with higher control rates in specialized settings."
+  },
+  "genes": []
+}

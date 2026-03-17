@@ -1,0 +1,86 @@
+{
+  "content": {
+    "title": "Focused Update on Duration of Dual Antiplatelet Therapy",
+    "source": "JACC Vol. 68, No. 10, 2016",
+    "date": "September 6, 2016",
+    "table": {
+      "title": "Applying Class of Recommendation and Level of Evidence to Clinical Strategies, Interventions, Treatments, or Diagnostic Testing in Patient Care",
+      "update": "Updated August 2015",
+      "classes_of_recommendation": [
+        {
+          "class": "I (Strong)",
+          "benefit_vs_risk": "Benefit >>> Risk",
+          "suggested_phrases": [
+            "Is recommended",
+            "Is indicated/useful/effective/beneficial",
+            "Should be performed/administered/other",
+            "Treatment/strategy A is recommended/indicated in preference to treatment B",
+            "Treatment A should be chosen over treatment B"
+          ]
+        },
+        {
+          "class": "IIa (Moderate)",
+          "benefit_vs_risk": "Benefit >> Risk",
+          "suggested_phrases": [
+            "Is reasonable",
+            "Can be useful/effective/beneficial",
+            "Treatment/strategy A is probably recommended/indicated in preference to treatment B",
+            "It is reasonable to choose treatment A over treatment B"
+          ]
+        },
+        {
+          "class": "IIb (Weak)",
+          "benefit_vs_risk": "Benefit \u2265 Risk",
+          "suggested_phrases": [
+            "May/might be reasonable",
+            "May/might be considered",
+            "Usefulness/effectiveness is unknown/unclear/uncertain or not well established"
+          ]
+        },
+        {
+          "class": "III: No Benefit (Moderate)",
+          "benefit_vs_risk": "Benefit = Risk",
+          "suggested_phrases": [
+            "Is not recommended",
+            "Is not indicated/useful/effective/beneficial",
+            "Should not be performed/administered/other"
+          ]
+        },
+        {
+          "class": "III: Harm (Strong)",
+          "benefit_vs_risk": "Risk > Benefit",
+          "suggested_phrases": [
+            "Potentially harmful",
+            "Causes harm",
+            "Associated with excess morbidity/mortality",
+            "Should not be performed/administered/other"
+          ]
+        }
+      ],
+      "levels_of_evidence": [
+        {
+          "level": "A",
+          "description": "High-quality evidence from more than 1 RCT, meta-analyses of high-quality RCTs, or one or more RCTs corroborated by high-quality registry studies"
+        },
+        {
+          "level": "B-R (Randomized)",
+          "description": "Moderate-quality evidence from 1 or more RCTs, meta-analyses of moderate-quality RCTs"
+        },
+        {
+          "level": "B-NR (Nonrandomized)",
+          "description": "Moderate-quality evidence from 1 or more well-designed, well-executed nonrandomized studies, observational studies, or registry studies"
+        },
+        {
+          "level": "C-LD (Limited Data)",
+          "description": "Randomized or nonrandomized observational or registry studies with limitations of design or execution, meta-analyses of such studies"
+        },
+        {
+          "level": "C-EO (Expert Opinion)",
+          "description": "Consensus of expert opinion based on clinical experience"
+        }
+      ]
+    },
+    "guidelines_review": "Guidelines are reviewed annually by the Task Force and are official policy of the ACC and AHA."
+  },
+  "genes": []
+}

@@ -1,0 +1,55 @@
+{
+  "content": {
+    "Title": "Anomalous Pulmonary Venous Connections",
+    "Description": "Clinical guidelines for the evaluation and treatment of anomalous pulmonary venous connections in adults.",
+    "Recommendations": [
+      {
+        "Type": "Diagnostic",
+        "Recommendations": [
+          {
+            "COR": "I",
+            "LOE": "B-NR",
+            "Recommendation": "CMR or CTA is recommended for evaluation of partial anomalous pulmonary venous connection."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-NR",
+            "Recommendation": "Cardiac catheterization can be useful in adults with partial anomalous pulmonary venous connection to further define hemodynamics."
+          }
+        ]
+      },
+      {
+        "Type": "Therapeutic",
+        "Recommendations": [
+          {
+            "COR": "I",
+            "LOE": "B-NR",
+            "Recommendation": "Surgical repair is recommended for patients with partial anomalous pulmonary venous connection when functional capacity is impaired."
+          },
+          {
+            "COR": "I",
+            "LOE": "B-NR",
+            "Recommendation": "Repair of partial anomalous pulmonary venous connection is recommended at the time of closure of a sinus venosus defect or ASD."
+          },
+          {
+            "COR": "I",
+            "LOE": "B-NR",
+            "Recommendation": "Repair of a scimitar vein is recommended in adults when functional capacity is impaired."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-NR",
+            "Recommendation": "Surgery can be useful for right- or left-sided partial anomalous pulmonary venous connection in asymptomatic adults with RV volume overload."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-NR",
+            "Recommendation": "Surgery can be useful for repair of a scimitar vein in adults with evidence of RV volume overload, with Qp:Qs 1.5:1 or greater."
+          }
+        ]
+      }
+    ],
+    "Synopsis": "Abnormal connection between a pulmonary vein and systemic vein results in right heart volume overload, similar to ASD. The most common connection involves the right upper pulmonary vein to the superior vena cava. The condition may lead to low-velocity venous flow impacts risk of thrombosis."
+  },
+  "genes": []
+}

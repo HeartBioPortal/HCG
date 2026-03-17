@@ -1,0 +1,24 @@
+{
+  "content": {
+    "Preoperative and postoperative management of direct oral anticoagulants (DOACs) and vitamin K antagonists (VKAs) is outlined for varying levels of procedure bleeding risk: high, low/moderate, and minimal. The need for interruption or resumption of anticoagulation therapy depends on factors such as the bleeding risk associated with the surgical procedure and the patient's renal function. Thromboembolic risk is categorized by factors such as history of venous thromboembolism, atrial fibrillation, mechanical valve presence, and other anticoagulation indications. Management strategies include dosage adjustments and timing of medication resumption. Specific recommendations are provided for patients with high thrombotic risk and for the use of low-molecular-weight heparin (LMWH) when bridging is necessary.": {},
+    "genes": [
+      {
+        "Gene": "G20210A",
+        "Associated Conditions": [
+          "Venous thromboembolism"
+        ],
+        "Occurrences": 2,
+        "context": "In cases of high thromboembolic risk, the presence of genetic mutations such as prothrombin gene G20210A can increase the risk of venous thromboembolism."
+      },
+      {
+        "Gene": "Factor V Leiden",
+        "Associated Conditions": [
+          "Venous thromboembolism"
+        ],
+        "Occurrences": 2,
+        "context": "Neonates with heterozygous Factor V Leiden are at increased risk for venous thromboembolism, especially when combined with other risk factors."
+      }
+    ]
+  },
+  "genes": []
+}

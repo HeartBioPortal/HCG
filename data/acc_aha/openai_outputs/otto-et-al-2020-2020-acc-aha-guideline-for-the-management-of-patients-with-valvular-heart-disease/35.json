@@ -1,0 +1,114 @@
+{
+  "content": {
+    "Table Title": "A Simplified Framework With Examples of Factors Favoring SAVR, TAVI, or Palliation Instead of Aortic Valve Intervention",
+    "Factors Listed": {
+      "Age/life expectancy": {
+        "Favors SAVR": "Younger age/longer life expectancy",
+        "Favors TAVI": "Older age/fewer expected remaining years of life",
+        "Favors Palliation": "Limited life expectancy"
+      },
+      "Valve Anatomy": {
+        "Favors SAVR": [
+          "BAV",
+          "Subaortic (LV outflow tract) calcification",
+          "Rheumatic valve disease",
+          "Small or large aortic annulus"
+        ],
+        "Favors TAVI": "Calcific AS of a trileaflet valve"
+      },
+      "Prosthetic Valve Preference": {
+        "Favors SAVR": [
+          "Mechanical or surgical bioprosthetic valve preferred",
+          "Concern for patient-prosthesis mismatch"
+        ],
+        "Favors TAVI": [
+          "Bioprosthetic valve preferred",
+          "Favorable ratio of life expectancy to valve durability"
+        ]
+      },
+      "Concurrent Cardiac Conditions": {
+        "Favors SAVR": [
+          "Aortic dilatation",
+          "Severe primary MR",
+          "Severe CAD requiring bypass grafting",
+          "Septal hypertrophy requiring myectomy",
+          "AF"
+        ],
+        "Favors TAVI": [
+          "Severe calcification of the ascending aorta",
+          "Previous cardiac surgery with at-risk coronary grafts"
+        ],
+        "Favors Palliation": [
+          "Irreversible severe LV systolic dysfunction",
+          "Severe MR attributable to annular calcification"
+        ]
+      },
+      "Noncardiac Conditions": {
+        "Favors SAVR": "None specified",
+        "Favors TAVI": [
+          "Severe lung, liver, or renal disease",
+          "Mobility issues"
+        ],
+        "Favors Palliation": [
+          "Symptoms likely attributable to noncardiac conditions",
+          "Severe dementia",
+          "Moderate to severe involvement of \u22652 other organ systems"
+        ]
+      },
+      "Frailty": {
+        "Favors SAVR": "Not frail or few frailty measures",
+        "Favors TAVI": "Frailty likely to improve after TAVI",
+        "Favors Palliation": "Severe frailty unlikely to improve after TAVI"
+      },
+      "Estimated Procedural or Surgical Risk": {
+        "Favors SAVR": [
+          "SAVR risk low",
+          "TAVI risk high"
+        ],
+        "Favors TAVI": "TAVI risk low to medium",
+        "Favors Palliation": "Prohibitive SAVR risk (>15%)"
+      },
+      "Procedure-specific Impediments": {
+        "Favors SAVR": [
+          "Valve anatomy, annular size, or low coronary ostial height precludes TAVI",
+          "Vascular access does not allow transfemoral TAVI"
+        ],
+        "Favors TAVI": [
+          "Previous cardiac surgery with at-risk coronary grafts",
+          "Previous chest irradiation"
+        ],
+        "Favors Palliation": [
+          "Valve anatomy, annular size, or coronary ostial height precludes TAVI",
+          "Vascular access does not allow transfemoral TAVI"
+        ]
+      },
+      "Goals of Care and Patient Preferences and Values": {
+        "Favors SAVR": [
+          "Less uncertainty about valve durability",
+          "Avoid repeat intervention",
+          "Lower risk of permanent pacer",
+          "Life prolongation",
+          "Symptom relief",
+          "Improved long-term exercise capacity and QOL",
+          "Avoid vascular complications",
+          "Accepts longer hospital stay, pain in recovery"
+        ],
+        "Favors TAVI": [
+          "Accepts uncertainty about valve durability and possible repeat intervention",
+          "Higher risk of permanent pacer",
+          "Life prolongation",
+          "Symptom relief",
+          "Improved exercise capacity and QOL",
+          "Prefers shorter hospital stay, less postprocedural pain"
+        ],
+        "Favors Palliation": [
+          "Life prolongation not an important goal",
+          "Avoid futile or unnecessary diagnostic or therapeutic procedures",
+          "Avoid procedural stroke",
+          "Avoid possibility of cardiac pacer"
+        ]
+      }
+    }
+  },
+  "genes": []
+}

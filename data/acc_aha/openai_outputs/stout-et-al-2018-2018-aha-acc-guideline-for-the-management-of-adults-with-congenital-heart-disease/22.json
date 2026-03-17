@@ -1,0 +1,142 @@
+{
+  "content": {
+    "Title": "3.9. Concomitant Syndromes",
+    "Recommendation": "1. Genetic testing for 22q11 deletions is reasonable for patients with conotruncal cardiac defects.",
+    "Synopsis": "Patients with genetic syndromes may exhibit phenotypic manifestations and associated CHD as features of a genetic abnormality. An underlying chromosomal abnormality exists in at least 10% of infants with CHD. Clinicians are advised to recognize the potential for undiagnosed genetic abnormalities affecting overall health and to pursue appropriate evaluation.",
+    "Common Genetic Syndromes with CHD": [
+      {
+        "Syndrome": "DiGeorge syndrome",
+        "Clinical Features": "Thymic and parathyroid hypoplasia, immunodeficiency, low-set ears, hypocalcemia, speech and learning disorders, renal anomalies, psychiatric disease",
+        "Common Cardiac Findings": "IAA type B, aortic arch anomalies, truncus arteriosus, TOF"
+      },
+      {
+        "Syndrome": "Down syndrome",
+        "Clinical Features": "Developmental disability, characteristic facial features, hypotonia, palmar crease",
+        "Common Cardiac Findings": "ASD, VSD, AVSD, TOF"
+      },
+      {
+        "Syndrome": "Holt-Oram syndrome",
+        "Clinical Features": "Upper limb skeletal abnormalities",
+        "Common Cardiac Findings": "ASD, VSD, MV disease"
+      },
+      {
+        "Syndrome": "Klinefelter syndrome",
+        "Clinical Features": "Tall stature, hypoplastic testes, delayed puberty, developmental disability",
+        "Common Cardiac Findings": "PDA, ASD, MV prolapse"
+      },
+      {
+        "Syndrome": "Noonan syndrome",
+        "Clinical Features": "Facial anomalies, webbed neck, chest deformity, short stature, lymphatic abnormalities, bleeding abnormalities",
+        "Common Cardiac Findings": "PS, ASD, HCM"
+      },
+      {
+        "Syndrome": "Turner syndrome",
+        "Clinical Features": "Short stature, webbed neck, lymphedema, primary amenorrhea",
+        "Common Cardiac Findings": "Coarctation, BAV, aortic stenosis, hypoplastic left heart, ascending aortopathy"
+      },
+      {
+        "Syndrome": "Williams syndrome",
+        "Clinical Features": "Elfin face, social personality, hearing loss, developmental delay, infantile hypercalcemia",
+        "Common Cardiac Findings": "Supravalvular aortic stenosis, peripheral PS"
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "22q11.2",
+      "Associated Conditions": [
+        "DiGeorge syndrome"
+      ],
+      "Occurrences": 2,
+      "context": "Genetic testing for 22q11 deletions is reasonable for patients with conotruncal cardiac defects."
+    },
+    {
+      "Gene": "TBX5",
+      "Associated Conditions": [
+        "Holt-Oram syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Upper limb skeletal abnormalities 75% have CHD."
+    },
+    {
+      "Gene": "47 XXY",
+      "Associated Conditions": [
+        "Klinefelter syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Tall stature, hypoplastic testes, delayed puberty, developmental disability. 50% have CHD."
+    },
+    {
+      "Gene": "PTPN11",
+      "Associated Conditions": [
+        "Noonan syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Facial anomalies, webbed neck, chest deformity, short stature, lymphatic abnormalities, bleeding abnormalities. 80% have CHD."
+    },
+    {
+      "Gene": "KRAS",
+      "Associated Conditions": [
+        "Noonan syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Facial anomalies, webbed neck, chest deformity, short stature, lymphatic abnormalities, bleeding abnormalities. 80% have CHD."
+    },
+    {
+      "Gene": "SOS1",
+      "Associated Conditions": [
+        "Noonan syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Facial anomalies, webbed neck, chest deformity, short stature, lymphatic abnormalities, bleeding abnormalities. 80% have CHD."
+    },
+    {
+      "Gene": "RAF1",
+      "Associated Conditions": [
+        "Noonan syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Facial anomalies, webbed neck, chest deformity, short stature, lymphatic abnormalities, bleeding abnormalities. 80% have CHD."
+    },
+    {
+      "Gene": "NRAS",
+      "Associated Conditions": [
+        "Noonan syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Facial anomalies, webbed neck, chest deformity, short stature, lymphatic abnormalities, bleeding abnormalities. 80% have CHD."
+    },
+    {
+      "Gene": "BRAF",
+      "Associated Conditions": [
+        "Noonan syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Facial anomalies, webbed neck, chest deformity, short stature, lymphatic abnormalities, bleeding abnormalities. 80% have CHD."
+    },
+    {
+      "Gene": "MAP2K1",
+      "Associated Conditions": [
+        "Noonan syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Facial anomalies, webbed neck, chest deformity, short stature, lymphatic abnormalities, bleeding abnormalities. 80% have CHD."
+    },
+    {
+      "Gene": "45X",
+      "Associated Conditions": [
+        "Turner syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Short stature, webbed neck, lymphedema, primary amenorrhea. 30% have CHD."
+    },
+    {
+      "Gene": "7q11.23",
+      "Associated Conditions": [
+        "Williams syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Elfin face, social personality, hearing loss, developmental delay, infantile hypercalcemia. 50%-80% have CHD."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "content": {
+    "recommendation": {
+      "COR": "2a",
+      "LOE": "B-R",
+      "Description": "In patients with stroke or TIA of undetermined cause, initial cardiac monitoring and, if needed, extended monitoring with an implantable loop recorder are reasonable to improve detection of AF."
+    },
+    "synopsis": "Approximately 25% to 30% of ischemic strokes remain cryptogenic after standard stroke evaluation. A large proportion of these events are presumed to be related to occult AF, particularly those of embolic appearance. Antiplatelet therapy (APT) is the recommended treatment of choice for patients with cryptogenic stroke, including embolic stroke of undetermined source. In patients with AF in general, however, anticoagulation has been shown to be superior to APT for stroke risk reduction. Detection of occult AF after stroke may have significant therapeutic implications. Randomized trials have shown longer durations of cardiac monitoring result in higher rates of AF detection after stroke. Limited data exist on the effects of extended monitoring on risk reduction of recurrent stroke or poststroke mortality.",
+    "recommendation_specific_support": "Growing evidence supports the use of extended cardiac monitoring for the identification of occult AF in patients with cryptogenic stroke. The EMBRACE trial and the CRYSTAL-AF trial have shown that extended monitoring was associated with higher rates of AF detection."
+  },
+  "genes": []
+}

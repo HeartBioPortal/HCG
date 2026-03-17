@@ -1,0 +1,642 @@
+{
+  "content": [
+    {
+      "content": {
+        "title": "ACC/AHA Special Report: Clinical Practice Guideline Implementation Strategies: A Summary of Systematic Reviews by the NHLBI Implementation Science Work Group",
+        "authors": [
+          {
+            "name": "Wiley V. Chan, MD",
+            "role": "Co-Chair"
+          },
+          {
+            "name": "Thomas A. Pearson, MD, MPH, PhD, FAHA",
+            "role": "Co-Chair"
+          },
+          {
+            "name": "Glen C. Bennett, MPH",
+            "role": "Expert Panel Member"
+          },
+          {
+            "name": "William C. Cushman, MD, FAHA",
+            "role": "Expert Panel Member"
+          },
+          {
+            "name": "Thomas A. Gaziano, MD, MSc",
+            "role": "Expert Panel Member"
+          },
+          {
+            "name": "Paul N. Gorman, MD, PhD",
+            "role": "Expert Panel Member"
+          },
+          {
+            "name": "Joel Handler, MD",
+            "role": "Expert Panel Member"
+          },
+          {
+            "name": "Harlan M. Krumholz, MD, ScM, FACC, FAHA",
+            "role": "Expert Panel Member"
+          },
+          {
+            "name": "Robert F. Kushner, MD",
+            "role": "Expert Panel Member"
+          },
+          {
+            "name": "Thomas D. MacKenzie, MD, MSPH",
+            "role": "Expert Panel Member"
+          },
+          {
+            "name": "Ralph L. Sacco, MD, FAHA",
+            "role": "Expert Panel Member"
+          },
+          {
+            "name": "Sidney C. Smith, Jr, MD, FACC, FAHA",
+            "role": "Expert Panel Member"
+          },
+          {
+            "name": "Victor J. Stevens, PhD",
+            "role": "Expert Panel Member"
+          },
+          {
+            "name": "Barbara L. Wells, PhD",
+            "role": "Expert Panel Member"
+          }
+        ],
+        "methodology_members": [
+          {
+            "name": "Graciela Castillo, MPH"
+          },
+          {
+            "name": "Susan K.R. Heil, PhD"
+          },
+          {
+            "name": "Jennifer Stephens, MPH"
+          },
+          {
+            "name": "Julie C. Jacobson Vann, PhD, MS, RN"
+          }
+        ],
+        "other_info": [
+          "This document was approved by the American College of Cardiology Board of Trustees and the American Heart Association Science Advisory and Coordinating Committee in October 2016.",
+          "It was co-published in the journal Circulation.",
+          "This document is available online on the websites of the American College of Cardiology and the American Heart Association."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Background": "In 2008, the National Heart, Lung, and Blood Institute convened an Implementation Science Work Group to assess evidence-based strategies for effectively implementing clinical practice guidelines. This was part of a larger effort to update existing clinical practice guidelines on cholesterol, blood pressure, and overweight/obesity.",
+        "Objectives": "Review evidence from the published implementation science literature and identify effective or promising strategies to enhance the adoption and implementation of clinical practice guidelines.",
+        "Methods": "The systematic review focused on 4 critical questions, each addressing the adoption and effectiveness of 4 intervention strategies: (1) reminders, (2) educational outreach visits, (3) audit and feedback, and (4) provider incentives. A scoping review of the Rx for Change database of systematic reviews was used to identify promising guideline implementation interventions aimed at providers.",
+        "Results": {
+          "Audit Feedback and Educational Outreach": "Generally effective in improving both process of care and clinical outcomes.",
+          "Provider Incentives": "Showed mixed effectiveness.",
+          "Reminders": "Generally ineffective for clinical outcomes.",
+          "Barriers": "Included time constraints, resource limits, timing, clinician skepticism, and knowledge of guidelines.",
+          "Facilitators": "Included format, resources, end-user involvement, stakeholder involvement, leadership support, organizational culture, and electronic guidelines systems."
+        },
+        "Conclusion": "The strategies of audit and feedback and educational outreach visits were generally effective in improving both processes of care and clinical outcomes. Reminders and provider incentives showed mixed effectiveness or were generally ineffective."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Introduction": "The National Heart, Lung, and Blood Institute (NHLBI) sponsored the development of clinical practice guidelines (CPGs) starting in the 1970s to promote application of research findings for cardiovascular, lung, and blood diseases. In 2008, expert panels were formed to update guidelines for high cholesterol, high blood pressure, and obesity using evidence reviews. By 2013, collaboration with the American College of Cardiology (ACC) and American Heart Association (AHA) was initiated to produce these guidelines.",
+        "Challenges": "Uneven implementation of evidence-based CPGs is a challenge in improving public health. Patient adherence to recommendations is crucial for clinical outcomes.",
+        "Collaboration": "The ACC/AHA Task Force on Clinical Practice Guidelines started updating these guidelines in 2014 as a response to emerging evidence.",
+        "Focus": "The report focuses on key steps of provider adoption and adherence to clinical guidelines."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "The ISWG developed a conceptual framework using Multilevel Approaches Toward Community Health (MATCH) to define four levels where guideline implementation strategies can be initiated: policy level, clinical institution level, provider level, and patient level. The current taxonomy, derived from the Cochrane Effective Practice and Organisation of Care (EPOC) Group, includes Professional Interventions, Financial Interventions, Organizational Interventions, and Regulatory Interventions. The ISWG used an Rx for Change database to review existing systematic reviews on healthcare implementation strategies, identifying three strategies with some evidence of effectiveness: academic detailing, audit and feedback, and provider reminders. A fourth strategy, provider incentives, was also included based on evidence from Europe and U.S. healthcare systems.": 20
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview": "The guideline discusses implementation strategies for clinical practice guidelines (CPGs) influenced by education, visits, reminders, audits, feedback, and incentives. It details inclusion and exclusion criteria for reviews, focusing on studies affecting patient care directly. The search was limited to English-language resources.",
+        "Process": "The ISWG maintained evidence separation in study reviews. Multiple researchers examined and abstracted data using standardized tools. The process included a rigorous validation for down-selecting reviews.",
+        "Data Analysis": "Effectiveness was judged based on the proportion of positive outcomes, classifying interventions as generally effective, mixed effectiveness, or generally ineffective. For certain questions, insights were drawn from qualitative analyses.",
+        "Results": "From 826 articles, 55 were selected, including 39 systematic reviews and 16 overviews of systematic reviews. They were rated for quality, with various scores determining their level of acceptance."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Critical Question 1": "The effectiveness of selected intervention strategies was assessed, including educational outreach visits, reminders, audit and feedback, and provider incentives. Educational outreach visits showed general effectiveness in improving process-of-care outcomes, particularly in prescribing behaviors. Audit and feedback showed improved process-of-care and clinical outcomes. Reminders had mixed effectiveness for process-of-care outcomes but general ineffectiveness for clinical outcomes. Provider incentives showed mixed effectiveness, with most positive outcomes related to diabetes mellitus and asthma.",
+        "Critical Question 2": "The cost considerations of implementing interventions were examined. Studies varied in how cost-effectiveness was measured, including savings per physician, cost avoidance, and hospitals' return on investment. Five good-quality and three fair-quality SRs provided information on intervention costs or cost reductions. Educational outreach visits were generally effective, while reminders had mixed effectiveness. Provider incentives reduced costs and were cost-effective.",
+        "Critical Question 3": "Explored the contextual barriers that hinder or limit clinician adherence to guidelines."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "4. DISCUSSION": {
+          "4.1 Common Themes in the Evidence and Practice Implications": "The evidence shows a greater increase in CPG adherence in practices with low-baseline adherence. Multifaceted interventions tend to be more effective. Emphasis should be on helping implementers understand their current practices and how they may differ from forthcoming recommendations. A self-assessment toolkit could help in selecting strategies.",
+          "4.2 Report Limitations": "Data were not retrieved from primary studies, limiting information on interventions. A qualitative synthesis was used, preventing size assessment of expected benefits. The report depended on judgments of SR authors and quality. Only 4 interventions were considered, and other interventions may have shown effectiveness. Some assessments included single and multifaceted interventions. Few evaluations provided potential influence information, and not many reported clinical effectiveness or cost outcomes."
+        },
+        "3.4 Critical Question 4": "Addresses how policy, regulatory, organizational, and financial factors influence the success of clinical-institutional interventions such as educational outreach, reminders, audits, feedback, and incentives. Multifaceted interventions may be more effective.",
+        "3.5 Summary": "Summarizes the effectiveness of selected interventions. Multifaceted interventions are more effective. Many reviews don\u2019t focus on CVD risk factors. Cost and effectiveness were not explicitly evaluated."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "The report discusses the implementation of Clinical Practice Guidelines (CPGs) and highlights the importance of evidence-based interventions for improving clinical and process outcomes. It emphasizes the need for additional systematic reviews and empirical research to understand the effectiveness of these strategies in different healthcare settings. Challenges such as the lack of explicit terminology and standardized criteria for measuring success are addressed. The potential role of Electronic Health Records (EHRs) in improving implementation is explored, along with the need for pragmatic trials that leverage real-world data. The importance of qualitative analysis in understanding the contextual factors influencing the success of implementations is also mentioned.": [],
+        "genes": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Translation Outlook 1": "Audit and feedback along with educational outreach visits are generally effective for improving both process of care and clinical outcomes while provider incentives showed mixed effectiveness. Reminders showed mixed effectiveness for process of care and were generally ineffective for improving clinical outcomes.",
+        "Translation Outlook 2": "Multifaceted interventions were more effective than a single intervention strategy.",
+        "Translation Outlook 3": "Additional research is needed on intervention effectiveness with special emphasis on improving methods and study designs, increasing the use of pragmatic trials, leveraging electronic clinical data, and evaluating cost effectiveness of interventions."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": "The document is a special report on clinical practice guideline implementation strategies, published by ACC/AHA. The focus is on the effectiveness of different interventions, cost implications, and the role of systematic reviews in clinical practice. It reviews various studies on educational interventions, decision-support systems, audit and feedback mechanisms, and the impact of clinical practice on health outcomes. Specific areas of interest include adherence to asthma guidelines, venous thromboembolism prevention, and the reduction of cesarean sections.",
+        "Studies Reviewed": [
+          "Educational interventions for arthritis clinical practice guidelines.",
+          "Audit and feedback effects on professional practice and healthcare outcomes.",
+          "Interventions to reduce primary care delay in cancer referrals.",
+          "Interventions increasing healthcare provider adherence to asthma guidelines.",
+          "Venous thromboembolism prevention in hospitalized patients.",
+          "Non-clinical interventions for reducing unnecessary cesarean sections.",
+          "Improving clinical practice via decision-support systems."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Multilevel Model of CPG Implementation Strategies": {
+          "Levels": [
+            "Policy Level",
+            "Clinical Institution Level",
+            "Provider Level",
+            "Patient Level"
+          ],
+          "Influences": [
+            "Organizational features",
+            "Culture",
+            "Previous practice",
+            "Communication behavior"
+          ],
+          "Outcomes": {
+            "Patient 'Hard' Outcomes": [
+              "Heart Attack",
+              "Stroke",
+              "Death"
+            ],
+            "Provider Intermediate Outcomes": [
+              "Screening and diagnosis",
+              "Treatments and procedures",
+              "Advice and counseling",
+              "Referrals"
+            ],
+            "Patient Intermediate Outcomes": [
+              "Risk factor levels",
+              "Knowledge",
+              "Behaviors",
+              "Treatment adherence"
+            ]
+          }
+        },
+        "Not Included in Review": [
+          "Performance measures",
+          "Accreditation",
+          "Insurance reimbursement",
+          "Clinical guideline",
+          "Distribution of educational materials",
+          "Local opinion leaders",
+          "Educational meetings",
+          "Improving quality of services",
+          "Patient-system support",
+          "Tailored intervention"
+        ],
+        "EPOC Definition of Intervention Strategies": {
+          "Provider Reminders": "Patient or encounter specific information designed to prompt a health professional to recall information.",
+          "Academic Detailing": "Use of a trained person who meets with providers to give information with the intent of changing provider's practice.",
+          "Audit and Feedback": "Summary of clinical performance with recommendations for clinical action.",
+          "Pay for Performance": "Financial reward or benefit for doing specific action."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "description": "The image presents a flowchart illustrating the selection of articles for inclusion in an ACC/AHA Special Report on CPG Implementation Strategies. It tracks the process from initial record identification through database searching and other means, to final selection for qualitative synthesis. Various reasons for exclusion, such as intervention/population mismatch, study type, language, and poor-quality rating, are noted. The effectiveness of interventions like educational outreach visits, audit and feedback, reminders, and provider incentives on process-of-care and clinical outcomes is summarized in a table."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "tables": [
+          {
+            "table": "Table 3",
+            "content": "Summary of Systematic Reviews by Intervention, Effectiveness Rating, and Quality",
+            "interventions": [
+              {
+                "name": "Educational Outreach Visits",
+                "process_of_care_effectiveness": "Good to Fair",
+                "clinical_effectiveness": "Good to Fair"
+              },
+              {
+                "name": "Audit and Feedback",
+                "process_of_care_effectiveness": "Good to Fair",
+                "clinical_effectiveness": "Good to Fair"
+              },
+              {
+                "name": "Reminders",
+                "process_of_care_effectiveness": "Good to Fair",
+                "clinical_effectiveness": "Good to Fair"
+              },
+              {
+                "name": "Provider Incentives",
+                "process_of_care_effectiveness": "Good",
+                "clinical_effectiveness": "Good"
+              }
+            ]
+          },
+          {
+            "table": "Table 4",
+            "content": "Contextual Factors That Appear to Hinder the Success of the Intervention Strategies",
+            "key_barriers": [
+              {
+                "context": "Organizational",
+                "factors": [
+                  "Time",
+                  "Human resources"
+                ]
+              },
+              {
+                "context": "Clinician Knowledge, Attitudes, and Beliefs",
+                "factors": [
+                  "Skepticism",
+                  "Lack of knowledge of guidelines",
+                  "Age of clinicians"
+                ]
+              },
+              {
+                "context": "Workflow and Timing",
+                "factors": [
+                  "Timing and effectiveness\u2014barrier to effectiveness if further away from point of decision making"
+                ]
+              }
+            ]
+          },
+          {
+            "table": "Table 5",
+            "content": "Contextual Factors That Appear to Facilitate the Success of the Intervention Strategies",
+            "key_facilitators": [
+              {
+                "context": "Characteristics of Guidelines",
+                "factors": [
+                  "Short and simple format",
+                  "Provide patient pamphlets",
+                  "Minimal resources needed to implement"
+                ]
+              },
+              {
+                "context": "Involving Stakeholders",
+                "factors": [
+                  "Involvement in planning, developing, or leading interventions"
+                ]
+              },
+              {
+                "context": "Leadership",
+                "factors": [
+                  "Leader\u2019s social influence",
+                  "Formal leadership"
+                ]
+              },
+              {
+                "context": "Scope of Implementation",
+                "factors": [
+                  "Provider incentives more widely implemented in the UK",
+                  "Multifaceted interventions more effective"
+                ]
+              },
+              {
+                "context": "Organizational Culture",
+                "factors": [
+                  "Multidisciplinary teams, coordination of care, pace of change, blame-free culture"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Suggested Actions": [
+          {
+            "Title": "Address Study Design Issues",
+            "Research Needs": [
+              "Clear descriptions of study methods and the interventions",
+              "Explicit implementer and target of intervention",
+              "Standardized measures of outcomes and descriptions of practice settings"
+            ]
+          },
+          {
+            "Title": "Conduct New Research to Test the Effectiveness of Interventions",
+            "Research Needs": [
+              "Effect on clinical outcomes, rather than intermediate outcomes",
+              "Cost effectiveness",
+              "Effect of multicomponent interventions, including specific combinations of interventions",
+              "Effect of policy-level interventions, for example, reimbursement, accreditation, publicly reported quality metrics",
+              "Effect of interventions targeting varieties of settings, including baseline workflows, clinician types, types of diseases and conditions"
+            ]
+          },
+          {
+            "Title": "Focus Evaluations on Contextual Factors",
+            "Research Needs": [
+              "Organizational and practice context",
+              "Involvement of stakeholders and leadership",
+              "Integration with workflow",
+              "Implementation scope",
+              "Duration",
+              "Timing"
+            ]
+          },
+          {
+            "Title": "Leverage EHR Data and Tools",
+            "Research Needs": [
+              "Mine data for observational studies",
+              "Platform for pragmatic prospective studies",
+              "Access longer-term data than RCTs",
+              "Aggregate data and/or interventions by key factors, for example, patient characteristics, clinician characteristics, clinic, healthcare delivery system"
+            ]
+          },
+          {
+            "Title": "Conduct Qualitative and Observational Research",
+            "Research Needs": [
+              "Effectiveness in diverse populations",
+              "Drivers of success in real-world implementations",
+              "Contextual issues not amenable to RCTs"
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "type": "Author Relationships with Industry and Other Entities",
+        "title": "Clinical Practice Guideline Implementation Strategies",
+        "summary": "A summary of systematic reviews by the NHLBI Implementation Science Work Group (2012-2016)",
+        "authors": [
+          {
+            "name": "Wiley V. Chan",
+            "employment": "Kaiser Permanente Northwest",
+            "roles": [
+              "Director of Guidelines and Evidence-Based Medicine through 2014 and consultant"
+            ],
+            "relationships": {
+              "ownership_partnership_principal": [
+                "PCORI"
+              ],
+              "personal_research": [
+                "Community Clinics Health Network"
+              ]
+            }
+          },
+          {
+            "name": "Thomas A. Pearson",
+            "employment": "University of Rochester Medical Center",
+            "roles": [
+              "Executive Vice President for Research and Education"
+            ],
+            "relationships": {
+              "personal_research": [
+                "NCATS",
+                "NHLBI",
+                "PCORI"
+              ]
+            }
+          },
+          {
+            "name": "Glen C. Bennett",
+            "employment": "NHLBI",
+            "roles": [
+              "Program Coordinator"
+            ]
+          },
+          {
+            "name": "Graciela Castillo",
+            "employment": "American Institutes for Research",
+            "roles": [
+              "Senior Researcher"
+            ]
+          },
+          {
+            "name": "William C. Cushman",
+            "employment": "The University of Tennessee Health Science Center",
+            "roles": [
+              "Professor, Preventative Medicine"
+            ]
+          },
+          {
+            "name": "Thomas A. Gaziano",
+            "employment": "Harvard Medical School, Brigham and Women's Hospital",
+            "roles": [
+              "Assistant Professor",
+              "Associate Physician in Cardiovascular Medicine"
+            ],
+            "relationships": {
+              "personal_research": [
+                "NHLBI",
+                "NIA"
+              ]
+            }
+          },
+          {
+            "name": "Paul N. Gorman",
+            "employment": "Oregon Health and Science University",
+            "roles": [
+              "Associate Professor"
+            ],
+            "relationships": {
+              "personal_research": [
+                "AHRQ",
+                "National Science Foundation"
+              ]
+            }
+          },
+          {
+            "name": "Joel Handler",
+            "employment": "Southern California Permanente Medical Group",
+            "roles": [
+              "Staff Physician"
+            ]
+          },
+          {
+            "name": "Susan K.R. Heil",
+            "employment": "American Institutes for Research",
+            "roles": [
+              "Health and Social Development"
+            ]
+          },
+          {
+            "name": "Julie C. Jacobson Vann",
+            "employment": "The University of North Carolina at Chapel Hill",
+            "roles": [
+              "Associate Professor"
+            ]
+          },
+          {
+            "name": "Harlan M. Krumholz",
+            "employment": "Yale-New Haven Hospital",
+            "roles": [
+              "Director"
+            ],
+            "consulting": [
+              "United Healthcare"
+            ],
+            "institutional_organizational_benefit": [
+              "Medtronic",
+              "Johnson & Johnson"
+            ]
+          },
+          {
+            "name": "Robert F. Kushner",
+            "employment": "Northwestern University",
+            "roles": [
+              "Professor in Medicine"
+            ],
+            "consulting": [
+              "Novo Nordisk",
+              "Weight Watchers",
+              "Zafgen",
+              "Retrofit",
+              "Takeda"
+            ],
+            "ownership_partnership_principal": [
+              "Aspire Bariatrics"
+            ]
+          },
+          {
+            "name": "Thomas D. MacKenzie",
+            "employment": "Denver Health Foundation",
+            "roles": [
+              "Chief Quality Officer"
+            ],
+            "relationships": {
+              "personal_research": [
+                "NCATS",
+                "NHLBI",
+                "PCORI"
+              ]
+            }
+          },
+          {
+            "name": "Ralph L. Sacco",
+            "employment": "University of Miami Health System",
+            "roles": [
+              "Chairman and Professor Department of Neurology"
+            ],
+            "consulting": [
+              "Boehringer Ingelheim"
+            ],
+            "personal_research": [
+              "NINDS",
+              "AHA",
+              "Duke Clinical Research Institute (DSMB)",
+              "UCSF (DSMB)"
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "context": "This table details the healthcare-related relationships of authors with industry and other entities during the document development process (2012-2016) for the ACC/AHA Special Report on CPG Implementation Strategies. The document was reviewed and updated in conjunction with meetings and calls of the panel. It includes authors' employment, consultancy roles, honoraria, and research funding, emphasizing NIH and other institutional affiliations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "focus": "Reviewer relationships with industry and other entities related to clinical practice guideline implementation.",
+        "details": [
+          {
+            "Reviewer": "Ralph G. Brindis",
+            "Representation": "Official Reviewer \u2013 ACC/AHA Task Force on Clinical Practice Guidelines",
+            "Employment": "University of California\u2013Clinical Professor of Medicine",
+            "Consultant": "ACC* FDA CV Device Panel\u2020",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "State of California OSHPD\u2020",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Reviewer": "David C. Goff, Jr.",
+            "Representation": "Official Reviewer \u2013 AHA",
+            "Employment": "Wake Forest University Public Health Sciences\u2013Internal Medicine\u2013Professor",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "NIH\u2020",
+            "Institutional, Organizational, or Other Financial Benefit": "AHA* Colorado School of Public Health\u2020",
+            "Expert Witness": "None"
+          },
+          {
+            "Reviewer": "Edward P. Havranek",
+            "Representation": "Official Reviewer \u2013 AHA",
+            "Employment": "Denver Health Medical Center\u2013Cardiologist",
+            "Consultant": "AHA* NHLBI\u2020 PCORI\u2020",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Reviewer": "Robert C. Hendel",
+            "Representation": "Official Reviewer \u2013 ACC Board of Trustees",
+            "Employment": "University of Miami - Cardiac Imaging and Outpatient Services\u2013Director",
+            "Consultant": "Adenosine Therapeutics Astellas Pharma*",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Reviewer": "Srinivas Murali",
+            "Representation": "Official Reviewer \u2013 ACC Board of Governors",
+            "Employment": "Allegheny Health Network\u2013Director, Cardiovascular Institute",
+            "Consultant": "Actelion Bayer",
+            "Speakers Bureau": "Actelion",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "Cardiokinetics CVRx Gilead Actelion Lung, LLC Bayer",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Reviewer": "John A. Spertus",
+            "Representation": "Official Reviewer \u2013 AHA",
+            "Employment": "Saint Luke\u2019s Mid America Heart Institute\u2013Director, Health Outcomes Research; University of Missouri\u2013Kansas City\u2013Professor",
+            "Consultant": "Amgen Novartis\u2020 Regeneron\u2020 United Healthcare (Scientific Advisory Board)",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "Health Outcomes Sciences*",
+            "Institutional, Organizational, or Other Financial Benefit": "ACC* AHA\u2020 Lilly\u2020 Gilead Sciences*",
+            "Expert Witness": "None"
+          }
+        ],
+        "note": "Relationships include disclosed connections with industry and other entities at the time of peer review."
+      },
+      "genes": []
+    }
+  ],
+  "genes": []
+}

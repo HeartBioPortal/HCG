@@ -1,0 +1,17 @@
+{
+  "content": {
+    "reportTitle": "ACCF/AHA Guideline Methodology Summit Report",
+    "documentDate": "January 15, 2013",
+    "context": "This table represents all healthcare relationships of authors with industry and other entities, emphasizing transparency of interests. The document aims to delineate relevant relationships at the time of publication related to cardiovascular health."
+  },
+  "genes": [
+    {
+      "Gene": "COAG",
+      "Associated Conditions": [
+        "Anticoagulation Through Genetics"
+      ],
+      "Occurrences": 1,
+      "context": "Clarification of Optimal Anticoagulation Through Genetics"
+    }
+  ]
+}

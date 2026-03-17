@@ -1,0 +1,45 @@
+{
+  "content": {
+    "guideline": "2020 ACC/AHA Guideline for the Management of Valvular Heart Disease",
+    "focus": "Secondary Mitral Regurgitation (MR)",
+    "key_points": [
+      "Secondary MR often responds to guideline-directed medical therapy (GDMT).",
+      "Mitral valve surgery or transcatheter edge-to-edge repair (TEER) is recommended for specific patients with chronic severe secondary MR.",
+      "TEER is indicated for improving symptoms and prolonging life in patients with chronic severe secondary MR.",
+      "Surgery may be beneficial for those with mitral valve replacement or repair procedures.",
+      "Specific recommendations for intervention based on clinical symptoms and left ventricular function are provided."
+    ],
+    "recommendations": [
+      {
+        "COR": "2a",
+        "LOE": "B-R",
+        "recommendation": "In patients with chronic severe secondary MR related to LV systolic dysfunction (LVEF <50%) who have persistent symptoms (NYHA class III, IV) on GDMT, TEER is reasonable."
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "recommendation": "In patients with severe secondary MR (Stages C and D), mitral valve surgery is reasonable when CABG is undertaken for myocardial ischemia."
+      },
+      {
+        "COR": "2b",
+        "LOE": "B-NR",
+        "recommendation": "In patients with chronic severe secondary MR from atrial annular dilation with preserved LV systolic function (LVEF \u226550%), mitral valve surgery may be considered."
+      },
+      {
+        "COR": "2b",
+        "LOE": "B-NR",
+        "recommendation": "In patients with CAD and chronic severe secondary MR related to LV systolic dysfunction (LVEF <50%), mitral valve surgery may be considered."
+      },
+      {
+        "COR": "2b",
+        "LOE": "B-R",
+        "recommendation": "In patients undergoing mitral valve surgery because of severe symptoms with persistent GDMT for HF, mitral valve replacement may be reasonable."
+      }
+    ],
+    "clinical_trials": [
+      "COAPT trial demonstrated improvement in survival for patients with secondary MR with persistent symptoms.",
+      "Mitra-FR trial compared MitraClip device with GDMT."
+    ]
+  },
+  "genes": []
+}

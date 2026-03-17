@@ -1,0 +1,50 @@
+{
+  "content": {
+    "title": "2023 Guideline for the Diagnosis and Management of Atrial Fibrillation",
+    "figure": "Treatment Algorithm for Pharmacological Conversion of AF to Sinus Rhythm",
+    "patient_categories": {
+      "normal_lv_function": {
+        "recommendations": [
+          "IV Amiodarone",
+          "Ibutilide",
+          "Procainamide (as an alternative)"
+        ],
+        "evidence_level": "2a (Amiodarone, Ibutilide), 2b (Procainamide)"
+      },
+      "hfref": {
+        "description": "LVEF \u226440%",
+        "recommendations": [
+          "IV Amiodarone"
+        ],
+        "evidence_level": "2a"
+      },
+      "af_outside_hospital": {
+        "description": "AF occurring outside the hospital in patients with normal LV function (\"pill-in-the-pocket\")",
+        "recommendations": [
+          "Flecainide",
+          "Propafenone"
+        ],
+        "evidence_level": "2a"
+      }
+    },
+    "key_points": [
+      "Amiodarone requires several hours for efficacy.",
+      "Ibutilide is generally effective within 30 to 90 minutes.",
+      "Amiodarone and Ibutilide may cause QT interval prolongation and torsades de pointes.",
+      "Procainamide can be considered for selected patients."
+    ],
+    "studies": [
+      {
+        "study_type": "Randomized, placebo-controlled studies",
+        "finding": "Relative risks of sinus rhythm with intravenous amiodarone at 6 to 8 hours and 24 hours were 1.23 (P=0.022) and 1.44 (P<0.001)."
+      },
+      {
+        "finding": "Pharmacological cardioversion of AF with intravenous amiodarone requires 8 to 12 hours compared to shorter response time with ibutilide."
+      },
+      {
+        "finding": "Single oral doses of flecainide and propafenone are effective with 4-hour conversion rates."
+      }
+    ]
+  },
+  "genes": []
+}

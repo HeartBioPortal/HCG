@@ -1,0 +1,57 @@
+{
+  "content": {
+    "Section": "6.5.3.6. Access Issues for TEVAR in Descending TAA",
+    "Recommendations": {
+      "1": {
+        "COR": "1",
+        "LOE": "B-NR",
+        "Text": "In patients with descending TAA undergoing TEVAR, review of preoperative CTA of the iliofemoral vessels should be performed to evaluate access."
+      },
+      "2": {
+        "COR": "1",
+        "LOE": "B-NR",
+        "Text": "In patients with descending TAA undergoing TEVAR, if iliac access is marginal or inadequate to prevent access-related complications, the use of alternative conduits is recommended."
+      },
+      "3": {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "Text": "In patients with descending TAA undergoing TEVAR who have suitable anatomy, total percutaneous femoral access is a reasonable alternative to open surgical cutdown to avoid access-related complications."
+      }
+    },
+    "Synopsis": {
+      "Text": "Iliac artery access for stent-graft delivery systems is marginal in up to 21% of cases in which TEVAR is performed for descending TAA. Review of the CTA of the iliofemoral system is essential to ensure that marginal or inadequate access is managed. Alternative access was used in 9.4% to 21.1% of patients during clinical trials due to small or diseased access vessels."
+    },
+    "Supportive Text": [
+      "Thoracic endovascular stent grafts require a thorough review of the iliofemoral system to avoid access complications.",
+      "Alternative access was used in 9.4% to 21.1% of patients due to small or diseased access vessels.",
+      "Alternative access required in clinical trials for 21.1% of patients undergoing TEVAR.",
+      "Percutaneous access associated with fewer complications and shorter length of stay."
+    ],
+    "Subsections": {
+      "6.5.4": {
+        "Title": "Thoracoabdominal Aortic Aneurysms",
+        "6.5.4.1": {
+          "Title": "Size Thresholds for Open Surgical Repair of TAAA",
+          "Recommendations": {
+            "1": {
+              "COR": "1",
+              "LOE": "B-NR",
+              "Text": "In patients with intact degenerative TAAA, repair is recommended when the diameter is \u22656.0 cm."
+            },
+            "2": {
+              "COR": "2a",
+              "LOE": "B-NR",
+              "Text": "In patients with intact degenerative TAAA, repair is reasonable when the diameter is \u22655.5 cm and the repair is performed by experienced surgeons in a Multidisciplinary Aortic Team."
+            },
+            "3": {
+              "COR": "2a",
+              "LOE": "B-NR",
+              "Text": "In patients with intact degenerative TAAA who have features associated with an increased risk of rupture, repair is reasonable when the diameter is <5.5 cm."
+            }
+          }
+        }
+      }
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,12 @@
+{
+  "content": {
+    "LevelOfEvidence": "Assigning a Level of Evidence B or C should not imply a weak recommendation. Many clinical questions do not lend themselves to experimentation or high-quality investigations, yet are relevant.",
+    "ComparativeEffectiveness": "Comparative effectiveness statements are based on clinical effectiveness for Class I and IIa recommendations with Level of Evidence A and B.",
+    "PerformanceMeasures": {
+      "Quantification": "Performance measures must be quantifiable with a defined numerator and denominator.",
+      "GuidelineRecommendations": "Guideline recommendations should be clear with minimal ambiguity to facilitate incorporation into practice.",
+      "SelectionProcess": "Involves evaluating evidence strength and defining clinical significance of outcomes expected from performance measures."
+    }
+  },
+  "genes": []
+}

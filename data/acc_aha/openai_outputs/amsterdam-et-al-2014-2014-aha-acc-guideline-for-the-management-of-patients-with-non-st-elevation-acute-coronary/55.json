@@ -1,0 +1,29 @@
+{
+  "content": {
+    "section_7.12": {
+      "title": "ACS With Angiographically Normal Coronary Arteries",
+      "recommendation": "If coronary angiography reveals normal coronary arteries and endothelial dysfunction is suspected, invasive physiological assessment such as coronary flow reserve measurement may be considered.",
+      "evidence_level": "B",
+      "details": "ACS associated with angiographically normal or non-obstructive coronary arteries may be related to coronary endothelial dysfunction, coronary vasospasm, and coronary artery dissection. Treatment involves nitrates, beta blockers, calcium channel blockers, and lifestyle changes. Estrogen is not recommended."
+    },
+    "section_7.13": {
+      "title": "Stress (Takotsubo) Cardiomyopathy",
+      "class_I_recommendations": [
+        "Stress cardiomyopathy should be considered in patients with apparent ACS and nonobstructive CAD.",
+        "Imaging with ventriculography, echocardiography, or MRI should be performed to confirm or exclude stress cardiomyopathy.",
+        "Patients should be treated with conventional agents such as ACE inhibitors, beta blockers, aspirin, and diuretics.",
+        "Anticoagulation should be administered in patients who develop LV thrombi."
+      ],
+      "class_IIa_recommendations": [
+        "Use catecholamines cautiously for patients with symptomatic hypotension if outflow tract obstruction is not present.",
+        "Use of IABP for refractory shock is reasonable.",
+        "Beta blockers and alpha-adrenergic agents may be used if outflow tract obstruction is present."
+      ],
+      "class_IIb_recommendations": [
+        "Prophylactic anticoagulation may be considered to inhibit LV thrombi development."
+      ],
+      "details": "Stress cardiomyopathy involves apical ballooning and electrocardiographic changes. It is more common in post-menopausal women and is usually triggered by emotional or physical stress."
+    }
+  },
+  "genes": []
+}

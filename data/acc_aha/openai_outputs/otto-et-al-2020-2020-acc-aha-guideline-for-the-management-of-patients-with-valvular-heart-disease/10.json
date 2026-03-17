@@ -1,0 +1,123 @@
+{
+  "content": {
+    "Evaluation of Patients with Known or Suspected VHD": {
+      "Initial Evaluation": {
+        "Tests": [
+          {
+            "Test": "TTE (Transthoracic Echocardiogram)",
+            "Indication": "Establishes chamber size and function, valve morphology and severity, and effect on pulmonary and systemic circulation"
+          },
+          {
+            "Test": "History and physical",
+            "Indication": "Establishes symptom severity, comorbidities, valve disease presence and severity, and presence of heart failure"
+          },
+          {
+            "Test": "ECG",
+            "Indication": "Establishes rhythm, LV function, and presence or absence of hypertrophy"
+          }
+        ]
+      },
+      "Further Diagnostic Testing": {
+        "Tests": [
+          {
+            "Test": "Chest x-ray",
+            "Indication": "Important for symptomatic patient; establishes heart size and presence or absence of pulmonary vascular congestion, intrinsic lung disease, and calcification of aorta and pericardium"
+          },
+          {
+            "Test": "TEE",
+            "Indication": "Provides high-quality assessment of mitral and prosthetic valve, including definition of intracardiac masses and possible associated abnormalities (e.g., intracardiac abscess, LA thrombus)"
+          },
+          {
+            "Test": "CMR",
+            "Indication": "Provides assessment of LV volumes and function, valve severity, and aortic disease"
+          },
+          {
+            "Test": "PET CT",
+            "Indication": "Aids in determination of active infection or inflammation"
+          },
+          {
+            "Test": "Stress testing",
+            "Indication": "Gives an objective measure of exercise capacity"
+          },
+          {
+            "Test": "Catheterization",
+            "Indication": "Provides measurement of intracardiac and pulmonary pressures, valve severity, and hemodynamic response to exercise and drugs"
+          }
+        ]
+      },
+      "Further Risk Stratification": {
+        "Tests": [
+          {
+            "Test": "Biomarkers",
+            "Indication": "Provide indirect assessment of filling pressures and myocardial damage"
+          },
+          {
+            "Test": "TTE strain",
+            "Indication": "Helps assess intrinsic myocardial performance"
+          },
+          {
+            "Test": "CMR",
+            "Indication": "Assesses fibrosis by gadolinium enhancement"
+          },
+          {
+            "Test": "Stress testing",
+            "Indication": "Provides prognostic markers"
+          },
+          {
+            "Test": "Procedural risk",
+            "Indication": "Quantified by STS (Predicted Risk of Mortality) and TAVI scores"
+          },
+          {
+            "Test": "Frailty score",
+            "Indication": "Provides assessment of risk of procedure and chance of recovery of quality of life"
+          }
+        ]
+      },
+      "Preprocedural Testing": {
+        "Tests": [
+          {
+            "Test": "Dental examination",
+            "Indication": "Rules out potential infection sources"
+          },
+          {
+            "Test": "CT coronary angiogram or invasive coronary angiogram",
+            "Indication": "Gives an assessment of coronary anatomy"
+          },
+          {
+            "Test": "CT: Peripheral",
+            "Indication": "Assesses femoral access for TAVI and other transcatheter procedures"
+          },
+          {
+            "Test": "CT: Cardiac",
+            "Indication": "Assesses suitability for TAVI and other transcatheter procedures"
+          }
+        ]
+      }
+    },
+    "Stages of VHD": {
+      "Stages": [
+        {
+          "Stage": "A",
+          "Definition": "At risk",
+          "Description": "Patients with risk factors for development of VHD"
+        },
+        {
+          "Stage": "B",
+          "Definition": "Progressive",
+          "Description": "Patients with progressive VHD (mild to moderate severity and asymptomatic)"
+        },
+        {
+          "Stage": "C",
+          "Definition": "Asymptomatic severe",
+          "Description": "Asymptomatic patients who have the criteria for severe VHD. 1: Asymptomatic patients with severe VHD in whom the LV or RV remains compensated, 2: Asymptomatic patients with severe VHD with decompensation of the LV or RV"
+        },
+        {
+          "Stage": "D",
+          "Definition": "Symptomatic severe",
+          "Description": "Patients who have developed symptoms as a result of VHD"
+        }
+      ]
+    }
+  },
+  "genes": []
+}

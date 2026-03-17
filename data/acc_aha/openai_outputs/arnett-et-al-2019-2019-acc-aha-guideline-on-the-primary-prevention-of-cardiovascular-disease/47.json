@@ -1,0 +1,78 @@
+{
+  "content": {
+    "Medical Subject Headings (MeSH) Terms": {
+      "Acute Coronary Syndrome": [
+        "Acute coronary syndromes"
+      ],
+      "Angina Unstable": [
+        "Unstable angina",
+        "Angina Unstable"
+      ],
+      "Myocardial infarction": [],
+      "Shock cardiogenic": [
+        "shock cardiogenic"
+      ],
+      "Myocardial Stunning": [
+        "myocardial stunning"
+      ],
+      "No Reflow Phenomenon": [],
+      "Heart Arrest": [],
+      "St elevation myocardial infarction": [
+        "STEMI"
+      ],
+      "Non-st elevated myocardial infarction": [
+        "NSTEMI"
+      ],
+      "Death/sudden cardiac": [],
+      "Stroke": [],
+      "Brain Infarction": [],
+      "Brain Stem Infarctions": [],
+      "Lateral Medullary Syndrome": [],
+      "Cerebral Infarction": [],
+      "Myocardial ischemia": [],
+      "Dementia Multi infarct": [],
+      "Myocardial revascularization": [],
+      "Coronary artery bypass": [],
+      "Internal mammary coronary artery anastomosis": [],
+      "Angioplasty": [
+        "angioplasty transluminal percutaneous coronary"
+      ],
+      "Heart failure": [
+        "CHF OR CHD"
+      ],
+      "Hospitalization": [
+        "Hospitalization? OR rehospitalization?"
+      ],
+      "Atherectomy coronary": [],
+      "Coronary stent": [],
+      "CABG": [
+        "bypass grafts"
+      ],
+      "Carotid": [],
+      "Pathology": [],
+      "Physiopathology": [],
+      "Non-coronary revascularization procedure": [],
+      "Carotid revascularization?": [],
+      "Lower extremity revascularization?": [],
+      "Percutaneous transluminal angioplasty?": [],
+      "Stent placement?": [],
+      "Abdominal aortic aneurysm repair?": [],
+      "AAA repair?": [],
+      "Complications": [],
+      "Event? OR outcome? OR episode?": [],
+      "Risk score": [],
+      "Cardiovascular diseases": [
+        "Cardiovascular OR CVD"
+      ],
+      "Cardiovascular disease": [],
+      "Coronary disease": [
+        "coronary"
+      ],
+      "Coronary artery disease": [],
+      "Cerebrovascular disorders": [],
+      "Dyspnea paroxysmal": [],
+      "Edema cardiac": []
+    }
+  },
+  "genes": []
+}

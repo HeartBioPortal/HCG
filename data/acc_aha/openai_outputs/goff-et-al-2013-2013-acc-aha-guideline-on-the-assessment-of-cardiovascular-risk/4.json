@@ -1,0 +1,57 @@
+{
+  "content": {
+    "title": "Applying Classification of Recommendation and Level of Evidence",
+    "classification_levels": {
+      "CLASS I": {
+        "description": "Procedure/Treatment SHOULD be performed/administered",
+        "suggestions": [
+          "is recommended",
+          "is indicated",
+          "is useful/effective/beneficial"
+        ]
+      },
+      "CLASS IIa": {
+        "description": "It is REASONABLE to perform procedure/administer treatment",
+        "suggestions": [
+          "is reasonable",
+          "can be useful/effective/beneficial",
+          "is probably recommended or indicated"
+        ]
+      },
+      "CLASS IIb": {
+        "description": "Procedure/Treatment MAY BE CONSIDERED",
+        "suggestions": [
+          "may/might be considered",
+          "usefulness/effectiveness is unknown/uncertain or not well established"
+        ]
+      },
+      "CLASS III": {
+        "description": "No Benefit OR Harm",
+        "no_benefit_terms": [
+          "is not recommended",
+          "is not indicated",
+          "should not be performed/administered",
+          "is not useful/beneficial/effective"
+        ],
+        "harmful_terms": [
+          "potentially harmful",
+          "causes harm",
+          "associated with excess morbidity/mortality",
+          "should not be performed/administered"
+        ]
+      }
+    },
+    "methodology_and_evidence_review": {
+      "source": "Full Work Group Report supplement",
+      "provided_by": "NHLBI Systematic Evidence Review",
+      "link": "http://www.nhlbi.nih.gov/guidelines/cvd_adult/risk_assessment/",
+      "focus": [
+        "Development of 10-year risk prediction equations for ASCVD",
+        "Data from non-Hispanic African-American and non-Hispanic white men and women aged 40 to 79",
+        "Based on several long-standing population-based cohort studies funded by the NHLBI"
+      ],
+      "definition": "10-year risk was defined as the risk of developing a first ASCVD event, defined as nonfatal myocardial infarction or ASCVD"
+    }
+  },
+  "genes": []
+}

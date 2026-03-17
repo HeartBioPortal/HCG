@@ -1,0 +1,50 @@
+{
+  "content": {
+    "Title": "3.13. Pregnancy, Reproduction, and Sexual Health",
+    "Subsection": "3.13.1. Pregnancy",
+    "Recommendations": [
+      {
+        "COR": "I",
+        "LOE": "C-LD",
+        "Recommendation": "Women with congenital heart disease (CHD) should receive pre-pregnancy counseling with input from an ACHD cardiologist to determine maternal cardiac, obstetrical, and fetal risks, and potential long-term risks to the mother."
+      },
+      {
+        "COR": "I",
+        "LOE": "C-LD",
+        "Recommendation": "An individualized plan of care that addresses expectations and contingencies should be developed for and with women with CHD who are pregnant or who may become pregnant and shared with the patient and all caregivers."
+      },
+      {
+        "COR": "I",
+        "LOE": "B-NR",
+        "Recommendation": "Women with CHD receiving chronic anticoagulation should be counseled, ideally before conception, on the risks and benefits of specific anticoagulants during pregnancy."
+      },
+      {
+        "COR": "I",
+        "LOE": "B-NR",
+        "Recommendation": "Women with ACHD AP classification IIB-D, IIA-D, and IIIA-D* should be managed collaboratively during pregnancy by ACHD cardiologists, obstetricians, and anesthesiologists experienced in ACHD."
+      },
+      {
+        "COR": "I",
+        "LOE": "C-EO",
+        "Recommendation": "In collaboration with an ACHD cardiologist to ensure accurate assessment of pregnancy risk, patients at high risk of maternal morbidity or mortality should be counseled against becoming pregnant or be given the option of terminating pregnancy."
+      },
+      {
+        "COR": "I",
+        "LOE": "B-NR",
+        "Recommendation": "Men and women of childbearing age with CHD should be counseled on the risk of CHD recurrence in offspring."
+      },
+      {
+        "COR": "IIa",
+        "LOE": "B-NR",
+        "Recommendation": "Exercise testing can be useful for risk assessment in women with ACHD AP classification IC-D, IIA-D, and IIIA-D* who are considering pregnancy."
+      },
+      {
+        "COR": "I",
+        "LOE": "B-NR",
+        "Recommendation": "When either parent has CHD, it is reasonable to perform fetal echocardiography."
+      }
+    ],
+    "Synopsis": "Most data regarding cardiac and obstetric risk to women with CHD during pregnancy derive from retrospective case series. Many women with CHD considering pregnancy may have received inconsistent guidance regarding pregnancy risks. Several risk scores have been developed to risk-stratify women with heart disease during pregnancy. All women with CHD should receive appropriate counseling regarding contraception choices. A multidisciplinary team that includes ACHD specialists and maternal-fetal medicine obstetricians is appropriate for achieving optimal outcomes."
+  },
+  "genes": []
+}

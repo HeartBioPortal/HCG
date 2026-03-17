@@ -1,0 +1,34 @@
+{
+  "content": {
+    "Guideline Focus": "The clinical guidelines focus on risk stratification and selection of patients with hypertrophic cardiomyopathy (HCM) for implantable cardioverter-defibrillator (ICD) therapy, both primary and secondary prevention.",
+    "Risk Factors and Recommendations": [
+      {
+        "Class": "2a",
+        "Level": "B-NR",
+        "Guideline": "For patients with HCM with \u22651 major sudden cardiac death (SCD) risk factors, discussing estimated 5-year SCD risk and mortality rates can be useful in decision-making for ICD placement."
+      },
+      {
+        "Class": "2b",
+        "Level": "B-NR",
+        "Guideline": "In select adult patients with HCM and without major SCD risk factors where ICD placement is uncertain, it may be considered if there is extensive late gadolinium enhancement (LGE) by contrast-enhanced cardiac magnetic resonance (CMR) imaging or NSVT present on monitoring."
+      },
+      {
+        "Class": "2b",
+        "Level": "B-NR",
+        "Guideline": "For pediatric patients, considering factors like extensive LGE and systolic dysfunction in risk stratification can be useful in decision-making for ICD placement."
+      },
+      {
+        "Class": "3",
+        "Level": "Harm",
+        "Guideline": "For patients with HCM without risk factors, ICD placement should not be performed."
+      },
+      {
+        "Class": "3",
+        "Level": "Harm",
+        "Guideline": "ICD placement should not be done solely for competitive athletics participation."
+      }
+    ],
+    "Synopsis": "Risk stratification and management in HCM involves identifying major risk factors for SCD. Recommendations emphasize shared decision making, with the understanding that individual patients\u2019 circumstances may impact SCD risk estimates and management decisions."
+  },
+  "genes": []
+}

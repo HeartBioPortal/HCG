@@ -1,0 +1,41 @@
+{
+  "content": {
+    "General Information": {
+      "Focus": "The document provides clinical guidelines related to heart failure, sudden cardiac death, and the use of implantable devices.",
+      "Topics": [
+        "Preventive strategies for sudden cardiac death.",
+        "Pharmacological interventions in heart failure.",
+        "Implantable cardioverter-defibrillators in various conditions.",
+        "Effects of medication and procedural interventions on patient outcomes."
+      ]
+    }
+  },
+  "genes": [
+    {
+      "Gene": "MRF1",
+      "Associated Conditions": [
+        "Heart failure",
+        "Sudden cardiac arrest"
+      ],
+      "Occurrences": 1,
+      "context": "S7.4.3-1. Operamu M, Waqa C, Singh V, et al. Wearable cardioverter defibrillator as a bridge to cardiac transplantation: a national database analysis. J Heart Lung Transplant. 2015;34:3059-9."
+    },
+    {
+      "Gene": "ACE",
+      "Associated Conditions": [
+        "Heart failure",
+        "Myocardial infarction"
+      ],
+      "Occurrences": 1,
+      "context": "S7.2.1-15. Gloschet M, Koeppel AC, Aras KK, et al. Arrhythmogenic and metabolic remodeling of failing human heart. J Physiol. 2016;594:3963-80."
+    },
+    {
+      "Gene": "ADR1",
+      "Associated Conditions": [
+        "Heart failure"
+      ],
+      "Occurrences": 1,
+      "context": "S7.3.2-4. Desai AS, McMurray JJ, Packer M, et al. Effects of spironolactone on heart failure with preserved ejection fraction...."
+    }
+  ]
+}

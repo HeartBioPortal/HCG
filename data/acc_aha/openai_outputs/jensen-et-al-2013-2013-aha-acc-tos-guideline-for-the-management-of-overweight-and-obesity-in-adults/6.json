@@ -1,0 +1,32 @@
+{
+  "content": {
+    "Title": "2013 AHA/ACC/TOS Guideline for Obesity",
+    "Purpose": "Provides a guideline for the treatment of overweight and obesity in adults.",
+    "Organizations Involved": [
+      "The National Heart, Lung, and Blood Institute (NHLBI)",
+      "The American Heart Association (AHA)",
+      "The American College of Cardiology (ACC)",
+      "The Obesity Society (TOS)"
+    ],
+    "Development": "Based on a systematic review by NHLBI covering literature from 1980-1997, updated with stakeholder inputs in 2005.",
+    "Panel": "The Expert Panel developed clinical questions (CQs) to address the obesity guidelines, examining various risk factors and interventions.",
+    "Sections": [
+      {
+        "Rationale": "To guide providers in obesity management, focusing on appropriate weight loss criteria.",
+        "Approach": "Evidence-based methodologies for developing expert summaries (ESs) and recommendations.",
+        "Key Questions": [
+          "CQ1: Expected health benefits of weight loss.",
+          "CQ2: Health risks of overweight/obesity and BMI cutpoints.",
+          "CQ3: Efficacy of dietary interventions.",
+          "CQ4: Comprehensive lifestyle therapy.",
+          "CQ5: Safety of bariatric procedures."
+        ]
+      }
+    ],
+    "Panel Members": {
+      "Size": "15 members and 3 ex-officio members",
+      "Expertise": "Psychology, nutrition, physical activity, etc."
+    }
+  },
+  "genes": []
+}

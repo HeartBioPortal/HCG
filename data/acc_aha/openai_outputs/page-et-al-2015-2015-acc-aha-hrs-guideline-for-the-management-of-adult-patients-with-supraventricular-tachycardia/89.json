@@ -1,0 +1,28 @@
+{
+  "content": {
+    "abbreviations": {
+      "ACHD": "adult congenital heart disease",
+      "AF": "atrial fibrillation",
+      "AT": "atrial tachycardia",
+      "AV": "atrioventricular",
+      "AVNRT": "atrioventricular nodal reentrant tachycardia",
+      "AVRT": "atrioventricular reentrant tachycardia",
+      "BP": "blood pressure",
+      "CTI": "cavotricuspid isthmus",
+      "ECG": "electrocardiogram/electrocardiographic",
+      "ERC": "Evidence Review Committee",
+      "EP": "electrophysiological",
+      "GWC": "guideline writing committee",
+      "IST": "inappropriate sinus tachycardia",
+      "MAT": "multifocal atrial tachycardia",
+      "PJRT": "permanent form of junctional reciprocating tachycardia",
+      "PSVT": "paroxysmal supraventricular tachycardia",
+      "RCT": "randomized controlled trial",
+      "SCD": "sudden cardiac death",
+      "SVT": "supraventricular tachycardia",
+      "VT": "ventricular tachycardia",
+      "WPW": "Wolff-Parkinson-White"
+    }
+  },
+  "genes": []
+}

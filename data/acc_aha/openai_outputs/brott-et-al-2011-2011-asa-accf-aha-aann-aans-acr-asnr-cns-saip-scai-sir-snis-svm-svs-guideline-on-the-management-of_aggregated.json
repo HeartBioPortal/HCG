@@ -1,0 +1,3038 @@
+{
+  "content": [
+    {
+      "content": {
+        "title": "2011 ASA/ACCF/AHA/AANN/AANS/ACR/ASNR/CNS/SAIP/SCAI/SIR/SNIS/SVM/SVS Guideline on the Management of Patients With Extracranial Carotid and Vertebral Artery Disease",
+        "purpose": "A report by various associations including the American College of Cardiology Foundation, American Heart Association, American Stroke Association, and others to provide guidelines on managing patients with extracranial carotid and vertebral artery disease.",
+        "collaborators": [
+          "American Academy of Neurology",
+          "Society of Cardiovascular Computed Tomography"
+        ],
+        "writing_committee": [
+          "Thomas G. Brott, MD",
+          "Jonathan L. Halperin, MD",
+          "Suhny Abbara, MD",
+          "J. Michael Bacharach, MD",
+          "John D. Barr, MD",
+          "Ruth L. Bush, MD, MPH",
+          "Christopher U. Cates, MD",
+          "Mark A. Creager, MD",
+          "Susan B. Fowler, PhD",
+          "Gary Friday, MD",
+          "Vicki S. Hertzberg, PhD",
+          "E. Bruce McIff, MD",
+          "Wesley S. Moore, MD",
+          "Peter D. Panagos, MD",
+          "Thomas S. Riles, MD",
+          "Robert H. Rosenwasser, MD",
+          "Allen J. Taylor, MD"
+        ],
+        "acknowledgments": "The committee acknowledges the memory of Robert W. Hobson II, MD. Document approval was by multiple authorities including the American College of Cardiology Foundation and the American Heart Association Science Advisory and Coordinating Committee. The guideline was accepted in November 2010."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Preamble": "Overview of the guidelines and their significance.",
+        "Introduction": {
+          "Methodology and Evidence Review": "Describes the methods used in compiling the guidelines.",
+          "Organization of the Writing Committee": "Details the structure and roles within the committee.",
+          "Document Review and Approval": "Explains the process of review and approval for the guidelines.",
+          "Anatomy and Definitions": "Provides essential definitions and anatomical information.",
+          "Epidemiology of Extracranial Cerebrovascular Disease and Stroke": "Discusses the prevalence and impact of these conditions."
+        },
+        "Atherosclerotic Disease of the Extracranial Carotid and Vertebral Arteries": {
+          "Evaluation of Asymptomatic Patients": "Guidelines for assessing asymptomatic patients at risk for carotid artery disease.",
+          "Cerebrovascular Disease as a Marker": "Discusses using cerebrovascular disease as an indicator for systemic atherosclerosis."
+        },
+        "Clinical Presentation": {
+          "Natural History of Atherosclerotic Carotid Artery Disease": "Explores the progression of the disease.",
+          "Characterization of Atherosclerotic Lesions": "Details the types of lesions found in carotid arteries."
+        },
+        "Symptoms and Signs of Transient Ischemic Attack and Ischemic Stroke": {
+          "Public Awareness": "Emphasizes the importance of public awareness of stroke risk factors and warning signs."
+        },
+        "Clinical Assessment of Patients": {
+          "Acute Ischemic Stroke": "Guidelines for assessing acute ischemic stroke.",
+          "Transient Ischemic Attack": "Guidelines for assessing transient ischemic attacks."
+        },
+        "Diagnosis and Testing": {
+          "Recommendations for Diagnostic Testing": "Outlines the recommended tests for patients showing symptoms.",
+          "Carotid Duplex Ultrasonography": "Describes the use of ultrasonography in diagnosis."
+        },
+        "Medical Therapy for Patients": {
+          "Recommendations for the Treatment of Hypertension": "Guidelines for managing hypertension in the context of atherosclerotic disease."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "topics": [
+          "Cessation of Tobacco Smoking",
+          "Control of Hyperlipidemia",
+          "Management of Diabetes Mellitus",
+          "Hyperhomocysteinemia",
+          "Obesity and the Metabolic Syndrome",
+          "Physical Inactivity",
+          "Antithrombotic Therapy",
+          "Revascularization",
+          "Carotid Endarterectomy",
+          "Carotid Artery Stenting",
+          "Vertebral Artery Disease",
+          "Diseases of the Subclavian and Brachiocephalic Arteries"
+        ],
+        "sections": {
+          "7. Revascularization": [
+            "7.1. Recommendations for Selection of Patients for Carotid Revascularization",
+            "7.2. Carotid Endarterectomy",
+            "7.3. Carotid Artery Stenting",
+            "7.4. Comparative Assessment of Carotid Endarterectomy and Stenting",
+            "7.5. Durability of Carotid Revascularization"
+          ],
+          "8. Vertebral Artery Disease": [
+            "8.1. Anatomy of the Vertebrobasilar Arterial Circulation",
+            "8.2. Epidemiology of Vertebral Artery Disease",
+            "8.3. Clinical Presentation of Patients With Vertebrobasilar Arterial Insufficiency",
+            "8.4. Evaluation of Patients With Vertebral Artery Disease",
+            "8.5. Vertebral Artery Imaging",
+            "8.6. Medical Therapy of Patients With Vertebral Artery Disease",
+            "8.7. Vertebral Artery Revascularization"
+          ],
+          "9. Diseases of the Subclavian and Brachiocephalic Arteries": [
+            "9.1. Recommendations for the Management of Patients With Occlusive Disease",
+            "9.2. Occlusive Disease",
+            "9.3. Subclavian Steal Syndrome",
+            "9.4. Revascularization"
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          "10. Special Populations",
+          "10.1. Neurological Risk Reduction in Patients With Carotid Artery Disease Undergoing Cardiac or Noncardiac Surgery",
+          "10.1.1. Recommendations for Carotid Artery Evaluation and Revascularization Before Cardiac Surgery",
+          "10.1.2. Neurological Risk Reduction in Patients With Carotid Artery Disease Undergoing Coronary Bypass Surgery",
+          "10.1.3. Neurological Risk Reduction in Patients Undergoing Noncoronary Cardiac or Noncardiac Surgery",
+          "11. Nonatherosclerotic Carotid and Vertebral Artery Diseases",
+          "11.1. Fibromuscular Dysplasia",
+          "11.1.1. Recommendations for Management of Patients With Fibromuscular Dysplasia of the Extracranial Carotid Arteries",
+          "11.2. Cervical Artery Dissection",
+          "11.2.1. Recommendations for Management of Patients With Cervical Artery Dissection",
+          "12. Future Research",
+          "References",
+          "Appendix 1. Author Relationships With Industry and Other Entities",
+          "Appendix 2. Reviewer Relationships With Industry and Other Entities",
+          "Appendix 3. Abbreviation List"
+        ],
+        "preamble": "The American College of Cardiology Foundation (ACCF) and the American Heart Association (AHA) have jointly engaged in the production of guidelines in the area of cardiovascular disease since 1980. The ACCF/AHA Task Force on Practice Guidelines (Task Force) is charged with developing, updating, and revising practice guidelines for cardiovascular diseases and procedures. Writing committees perform a formal literature review and weigh the strength of evidence for recommendations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Applying Classification of Recommendations and Level of Evidence",
+        "Classification": {
+          "Class I": {
+            "Definition": "Benefit >>> Risk. Procedure/Treatment SHOULD be performed/administered.",
+            "Level A": "Multiple populations evaluated. Data derived from multiple randomized clinical trials or meta-analyses.",
+            "Level B": "Limited populations evaluated. Data derived from a single randomized trial or nonrandomized studies.",
+            "Level C": "Very limited populations evaluated. Only consensus opinion of experts, case studies, or standard of care."
+          },
+          "Class IIa": {
+            "Definition": "Benefit >> Risk. Additional studies with focused objectives needed. IT IS REASONABLE to perform procedure/administer treatment.",
+            "Level A": "Multiple populations evaluated. Data derived from multiple randomized clinical trials or meta-analyses.",
+            "Level B": "Limited populations evaluated. Data derived from a single randomized trial or nonrandomized studies.",
+            "Level C": "Very limited populations evaluated. Only consensus opinion of experts, case studies, or standard of care."
+          },
+          "Class IIb": {
+            "Definition": "Benefit \u2265 Risk. Additional studies with broad objectives needed. Additional registry data would be helpful. Procedure/Treatment MAY BE CONSIDERED.",
+            "Level A": "Recommendation\u2019s usefulness/effectiveness is less well established. Greater conflicting evidence from multiple randomized trials or meta-analyses.",
+            "Level B": "Recommendation\u2019s usefulness/effectiveness is less well established. Greater conflicting evidence from single randomized trial or nonrandomized studies.",
+            "Level C": "Recommendation\u2019s usefulness/effectiveness is less well established. Only diverging expert opinion, case studies, or standard of care."
+          },
+          "Class III": {
+            "No Benefit": {
+              "Definition": "Procedure/Treatment is not useful/effective and may be harmful.",
+              "Level A": "Sufficient evidence from multiple randomized trials or meta-analyses.",
+              "Level B": "Recommendation that procedure or treatment is not useful/effective and may be harmful.",
+              "Level C": "Recommendation that procedure or treatment is not useful/effective and may be harmful."
+            },
+            "Harm": {
+              "Definition": "Procedure/Treatment is not recommended and may be harmful.",
+              "Level A": "Causes harm according to multiple randomized trials or meta-analyses.",
+              "Level B": "Causes harm according to single randomized trial or nonrandomized studies.",
+              "Level C": "Causes harm based on expert opinion, case studies, or standard of care."
+            }
+          }
+        },
+        "Comparator Phrases": {
+          "Class IIa, Level of Evidence A or B": "Comparative effectiveness phrases have been suggested."
+        },
+        "Task Force Information": {
+          "Purpose": "To avoid actual, potential, or perceived conflicts of interest.",
+          "Writing Committee": "The writing committee members volunteered their time."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "introduction": "The ACCF/AHA guidelines are intended to assist healthcare providers in clinical decision making by providing generally acceptable approaches for diagnosis, management, and prevention of specific diseases or conditions. The guidelines are based on a thorough review of scientific evidence and aim to improve patient care by defining practices that meet most patients' needs in most circumstances. Clinical judgment and local care availability should be considered in applying these guidelines, with the overarching goal of improving care quality.",
+        "methodology_and_evidence_review": "The ACCF/AHA writing committee developed the 2011 guidelines for managing patients with Extracranial Carotid and Vertebral Artery Disease (ECVD) through comprehensive literature reviews, focusing on various aspects of carotid and vertebral artery intervention as of May 2010. Searches were limited to English-language publications and addressed conditions such as atherosclerosis, carotid artery disease, and stroke, among others.",
+        "evidence_based_methodologies": "The Task Force utilized evidence-based methodologies, although adjustment for different interventions posed challenges. The document focuses on vascular diseases themselves and not on managing patients with acute stroke or prevention of disease across a population, which is covered under a different guideline."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "topics": [
+          "Pathogenesis and diagnostic evaluation of patients with ECVD.",
+          "Management of patients with ECVD in acute and non-acute settings.",
+          "Diverse clinical representation in the guideline writing committee.",
+          "Guidelines approved by major cardiovascular and neurological bodies.",
+          "Anatomy and variations of the aortic arch and cervical arteries."
+        ],
+        "goals": [
+          "Improve diagnosis and management of ECVD.",
+          "Enhance prevention and decrease the recurrence of ischemic events.",
+          "Promote better clinical decision-making to improve patient outcomes."
+        ],
+        "definitions": [
+          {
+            "term": "Bovine aortic arch",
+            "definition": "A frequent variant where the brachiocephalic and left common carotid arteries share a common origin."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Figure 1 Explanation": {
+          "Panel A": "The most common aortic arch branching pattern in humans has separate origins for the innominate, left common carotid, and left subclavian arteries.",
+          "Panel B": "A pattern with a common origin for the innominate and left common carotid arteries, sometimes erroneously referred to as a 'bovine arch.'",
+          "Panel C": "A variant where the left common carotid artery originates separately from the innominate artery, also mistakenly called a 'bovine arch.'",
+          "Panel D": "A branching pattern found in cattle with a single brachiocephalic trunk eventually splitting into bilateral subclavian arteries and a bicarotid trunk."
+        },
+        "Explanation": "The text discusses the configuration of the circle of Willis, extracanial cerebrovascular disease, and stroke.",
+        "Cerebrovascular Disease and Stroke": {
+          "Causes": [
+            "Atherosclerosis",
+            "Fibromuscular dysplasia (FMD)",
+            "Cystic medial necrosis",
+            "Arteritis",
+            "Dissection"
+          ],
+          "Risks": "Patients with extracranial cerebrovascular disease (ECVD) have increased risks for other cardiovascular events like myocardial infarction (MI), peripheral arterial disease (PAD), and death."
+        },
+        "Epidemiology": "Stroke is a leading cause of death in industrialized nations, ranking third after heart disease and cancer."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_information": [
+          "The prevalence of stroke varies regionally, and geographic data may not be broadly applicable.",
+          "The Great Cincinnati/Northern Kentucky Stroke Study reported approximately 700,000 stroke events annually.",
+          "Increased stroke prevalence found in the southeastern 'stroke belt' of the U.S.",
+          "Disparities in stroke incidence are noted among different racial/ethnic groups, with higher occurrences in Black and Hispanic populations compared to Whites.",
+          "Evidence of silent cerebral infarction increases with age, affecting a significant percentage of older adults.",
+          "Approximately 54% of stroke deaths in 1999 were due to unspecified causes.",
+          "Extracranial carotid stenosis is more prevalent in men and increases with age.",
+          "The prevalence of \u226550% carotid stenosis was 7% in men and 5% in women aged 66 to 93.",
+          "Carotid plaque was more frequently found in older populations.",
+          "Subclinical carotid disease is associated with increased stroke risk over long periods.",
+          "Atherosclerotic disease of extracranial carotid and vertebral arteries is similar to other arteriopathies, beginning with lipid accumulation."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "classI": "In asymptomatic patients with known or suspected carotid stenosis, duplex ultrasonography by a qualified technologist in a certified laboratory is the initial diagnostic test recommended to detect hemodynamically significant carotid stenosis.",
+        "classIIa": [
+          "It is reasonable to perform duplex ultrasonography to detect hemodynamically significant carotid stenosis in asymptomatic patients with carotid bruit.",
+          "It is also reasonable to repeat duplex ultrasonography annually by a qualified technologist to assess the progression or regression of disease and response to therapeutic interventions in patients with atherosclerosis who have had stenosis greater than 50% detected previously."
+        ],
+        "classIIb": [
+          "Duplex ultrasonography to detect hemodynamically significant carotid stenosis may be considered in asymptomatic patients with symptomatic PAD, coronary artery disease, aortic aneurysm, but its clinical outcomes are unclear.",
+          "It might be considered to detect carotid stenosis in asymptomatic patients without clinical evidence of atherosclerosis but with risk factors like hypertension, hyperlipidemia, and a family history of ischemic stroke. However, outcomes are uncertain."
+        ],
+        "classIIInobenefit": [
+          "Carotid duplex ultrasonography is not recommended for screening of asymptomatic patients who have no clinical manifestations or risks for atherosclerosis.",
+          "It is not recommended for routine evaluation of patients with unrelated neurological or psychiatric disorders.",
+          "Routine serial imaging of the extracranial carotid arteries is not recommended for patients without risk factors for atherosclerotic carotid disease."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations": {
+          "Screening": "The AHA/ASA guideline for stroke prevention recommended against screening the general population for asymptomatic carotid stenosis due to lack of cost-effectiveness, false positives, and the small benefit of intervention.",
+          "Target Group": "The American Society of Neuroimaging suggested screening adults older than 65 with three or more cardiovascular risk factors. The ACCF/SCAI/SVMB/SIR/ASITN panel recommended screening symptomatic patients with carotid bruits and candidates for coronary artery bypass."
+        },
+        "Extracranial Cerebrovascular Disease": "Patients with extracranial carotid or vertebral atherosclerosis often have systemic atherosclerosis. They face increased risks of MI and death, especially those with carotid stenosis, EVCVD, and coronary atherosclerosis.",
+        "Carotid IMT": "IMT measurement is an indicator of systemic atherosclerosis, although not yet a recognized screening method for atherosclerotic risk in the US."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Presentation": {
+          "3.1 Summary": "Extracranial atherosclerotic disease accounts for 15% to 20% of ischemic strokes. The relationship between plaque severity and ischemic events is complex. Medical therapy's effect on stroke risk varies with the degree of stenosis. The Framingham Heart Study showed a higher stroke incidence in patients with cervical bruits. Studies indicated the natural history involves various stroke risk scenarios.",
+          "3.2 Summary": "Severity of stenosis correlates with different parameters of plaque vulnerability and stroke risk. Characteristics like ulceration and echolucency are key in assessing stenosis severity. Imaging methods, including MRI and PET, are used for characterizing lesions and evaluating metabolic activity in plaques."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Event Rates in Patients With Carotid Artery Stenosis Managed Without Revascularization",
+        "sections": [
+          {
+            "type": "table",
+            "details": [
+              {
+                "study": "Hertzer et al. (78)",
+                "patients": 290,
+                "symptom_status": "Asymptomatic",
+                "stenosis_percentage": "\u226550",
+                "follow_up": "33-38 mo",
+                "medication_therapy": "Aspirin or dipyridamole (n=104); or anticoagulation with warfarin (n=9); or no medical treatment (n=82)",
+                "endpoint": "Death, TIA, Stroke",
+                "event_rate_over_study_period_percent": "22.0, or 7.33 annualized for death; 8.21, or 2.74 annualized for TIA; 2.93, or 1.31 annualized for stroke"
+              },
+              {
+                "study": "Spence et al. (79)",
+                "patients": 168,
+                "symptom_status": "Asymptomatic",
+                "stenosis_percentage": "\u226560",
+                "follow_up": "\u226512 mo",
+                "medication_therapy": "Multiple, including antiplatelet, statins, exercise, Mediterranean diet, ACE inhibitors",
+                "endpoint": "Stroke",
+                "event_rate_over_study_period_percent": "3.8, or 1.3 annualized"
+              },
+              {
+                "study": "Marquardt et al. (80)",
+                "patients": 1153,
+                "symptom_status": "Asymptomatic",
+                "stenosis_percentage": "\u226550",
+                "follow_up": "Mean 3 y",
+                "medication_therapy": "Multiple, including antiplatelet, anticoagulation, statin, antihypertensive drugs",
+                "endpoint": "Ipsilateral stroke",
+                "event_rate_over_study_period_percent": "0.34 (0.95% CI: 0.01 to 1.87) average annual event rate"
+              },
+              {
+                "study": "Abbott et al. (81)",
+                "patients": 202,
+                "symptom_status": "Asymptomatic",
+                "stenosis_percentage": "60-90",
+                "follow_up": "Mean 34 mo",
+                "medication_therapy": "Multiple, including antiplatelet, warfarin, antihypertensive drugs, cholesterol-lowering therapy",
+                "endpoint": "Ipsilateral stroke or TIA; ipsilateral carotid hemispheric stroke",
+                "event_rate_over_study_period_percent": "3.1 (95% CI: 0.7 to 5.5) average annual rate for stroke or TIA; 1.0 (95% CI: 0.4 to 2.4) average annual rate for hemispheric stroke"
+              },
+              {
+                "study": "Goessens et al. (82)",
+                "patients": 2684,
+                "symptom_status": "Asymptomatic",
+                "stenosis_percentage": "\u226550",
+                "follow_up": "Mean 3.6 y (SD 2.3)",
+                "medication_therapy": "Multiple, including antiplatelet, antihypertensive drugs, lipid-lowering agents, ACE inhibitors, and/or AIIA",
+                "endpoint": "Ischemic stroke; death",
+                "event_rate_over_study_period_percent": "Death: 9.0 or 2.5 annualized; ischemic stroke: 2.0 or 0.4 annualized"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "content": "Macrophage activity quantified by PET and neovascular angiogenesis assessed by MRI have been observed in experimental models. Biomarkers such as C-reactive protein and certain matrix metalloproteinases with the potential to identify carotid plaque instability have also been investigated, but the reliability of biomarkers in predicting clinical events has not been established. Several studies have shown that plaque composition is modified by treatment with statins. Despite these advances in understanding the pathophysiology of atherosclerotic plaque, the utility of biomarkers in predicting clinical events remains uncertain."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "3.3 Symptoms and Signs of Transient Ischemic Attack and Ischemic Stroke": {
+          "TIA Definition": "TIA is defined as a syndrome of acute neurological dysfunction referable to a single brain artery, characterized by symptoms lasting <24 hours.",
+          "Revised Definition": "A revised definition exists for symptoms that last <1 hour, although the typical duration is <15 minutes.",
+          "Stroke Symptoms": "Include left-sided weakness, paresthesia, apraxia, ataxia, dizziness, imbalance, etc.",
+          "Prehospital Delay": "Factors include clinical characteristics and demographic, cognitive, and behavioral factors."
+        },
+        "4 Clinical Assessment of Patients With Focal Cerebral Ischemic Symptoms": {
+          "4.1 Acute Ischemic Stroke": "Guidelines for emergency stroke care should be followed. Thrombolytic therapy administered, and preventive measures taken.",
+          "4.2 Transient Ischemic Attack": "TIA is important for identifying stroke risk. Approximately 240,000 TIAs diagnosed annually in the US. Early recognition critical.",
+          "4.3 Amaurosis Fugax": "Caused by temporary reduction of blood flow to an eye resulting in monocular blindness."
+        },
+        "Public Awareness": "Materials developed by AHA and ASA focus on recognizing symptoms of TIA and stroke and encouraging seeking immediate care. Initiatives led to improvement in public knowledge."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "vision_loss": "Transient monocular blindness is often associated with ischemic events and may lead from carotid artery stenosis or occlusion, among other causes.",
+        "stroke_risk": "Stroke risk is lower in patients with transient monocular blindness than those with hemispheric TIA. Medical treatment alone can reduce the stroke risk associated with transient monocular blindness, which is related to the number of stroke risk factors such as hypertension, hypercholesterolemia, diabetes, and smoking.",
+        "intracranial_ischemia": "Caused by atherosclerosis, vasculitis, or tumors etc. Intracranial evaluation may be crucial for presenting high-grade lesions.",
+        "atherosclerotic_disease": "Significant as a cerebral ischemia risk factor, though specific guidelines for aortic arch disease need to be referred to.",
+        "neurological_symptoms": "Nonfocal neurological symptoms in TIA patients may include transient global amnesia and nonrotational dizziness, highlighting the complexity in diagnosis.",
+        "diagnostic_testing": "For patients with neurological symptoms, initial evaluations should consider possible ischemic origins with noninvasive imaging methods like duplex ultrasonography recommended."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Level of Evidence": {
+          "C": "Recommendation supported by expert opinion, case studies, or standard of care."
+        },
+        "Imaging and Diagnostic Recommendations": [
+          "Noninvasive imaging is recommended for initial evaluation of carotid stenosis.",
+          "MRA or CTA is suggested when ultrasound is equivocal.",
+          "Carotid ultrasound may be considered in patients with retinal or hemispheric neurological symptoms with suspected ischemic origin.",
+          "CT or MRI may be used for better-quality imaging."
+        ],
+        "Therapeutic Recommendations": [
+          "Catheter-based angiography may be needed for definitive diagnosis or to assess lesion severity when noninvasive results are inconclusive.",
+          "Catheter-based angiography may be an option in patients with renal dysfunction."
+        ],
+        "Indications for Imaging": [
+          "Cervical bruit in asymptomatic patients.",
+          "Follow-up of known stenosis (>20% reduction).",
+          "Vascular assessment in patients with multiple risk factors for atherosclerosis.",
+          "Stroke risk assessment for CAD or PAD patients."
+        ],
+        "Special Considerations": [
+          "Importance of consistent imaging assessment to ensure high quality.",
+          "Exploration of the accuracy of noninvasive imaging techniques compared with catheter-based angiography."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The document discusses the assessment of arterial stenosis severity for surgical or endovascular intervention, particularly focusing on the use of carotid duplex ultrasonography. This technique evaluates the internal carotid artery by measuring peak systolic velocity to determine stenosis. The document emphasizes the complexity of distinguishing between various stenosis severities and the importance of corroborating results with angiographic measurements. It outlines that a peak systolic velocity of 125 to 230 cm/s in the internal carotid artery indicates a stenosis between 50% to 69%. Furthermore, stenosis above 70% is associated with higher velocities above 230 cm/s. The text also highlights challenges in ultrasonic measurements due to patient-specific factors and suggests methods to improve diagnostic accuracy.",
+        "key_points": [
+          "Carotid duplex ultrasonography is used for assessing arterial stenosis.",
+          "A peak systolic velocity of 125 to 230 cm/s is indicative of 50% to 69% stenosis.",
+          "Velocities above 230 cm/s typically indicate >70% stenosis.",
+          "Challenges include variability in patients and effects of calcification.",
+          "Accuracy is dependent on the expertise of technologists and calibration of imaging systems."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Variability between different centers": [
+          {
+            "Author": "Perkins et al.",
+            "Study Parameters": "Questionnaire on carotid duplex practice; 73 vascular laboratories",
+            "Conclusions": "Diversity in diagnostic criteria; diversity in method of stenosis grading"
+          },
+          {
+            "Author": "Robless et al.",
+            "Study Parameters": "Questionnaire on carotid duplex practice; 71 vascular laboratories",
+            "Conclusions": "Diversity in method of stenosis grading; diversity concerning the Doppler angle used"
+          },
+          {
+            "Author": "Alexandrov et al.",
+            "Study Parameters": "2 Vascular laboratories in 2 hospitals; same equipment",
+            "Conclusions": "A definite velocity criterion does not have the same validity and predictive value to grade carotid stenosis at different laboratories"
+          },
+          {
+            "Author": "Schwartz et al.",
+            "Study Parameters": "10 Systems, 9 hospitals",
+            "Conclusions": "Predictive ability of different parameters to quantify stenosis was different from 1 device to another"
+          },
+          {
+            "Author": "Fillinger et al.",
+            "Study Parameters": "2 Vascular laboratories, 4 systems, 360 bifurcations",
+            "Conclusions": "Most accurate duplex criteria for a \u226560% ICA stenosis were machine specific"
+          },
+          {
+            "Author": "Howard",
+            "Study Parameters": "37 Centers, 63 Doppler devices",
+            "Conclusions": "Performance of Doppler ultrasound was heterogeneous between devices"
+          },
+          {
+            "Author": "Howard/prospective",
+            "Study Parameters": "19 Centers, 30 Doppler devices",
+            "Conclusions": "Performance relates to the device-sonographer-reader system. Cut point for the peak systolic flow to ensure a positive predictive value of 90% in predicting a \u226560% stenosis ranged from 151 to 390 cm/s or from 5,400 to 11,250 Hz"
+          }
+        ],
+        "Interequipment variability": [
+          {
+            "Author": "Ranke/prospective",
+            "Study Parameters": "20 ICA, 10 patients, 2 different systems, same observer",
+            "Conclusions": "Intrastentonic peak flow velocity values were significantly higher with 1 system"
+          },
+          {
+            "Author": "Wolstenhulme/prospective",
+            "Study Parameters": "2 Systems, 43 patients, same observer",
+            "Conclusions": "Limits of agreements (within 95% of different lie) between systems: \u22120.47 to 0.45 m/s"
+          },
+          {
+            "Author": "Daigle/in vitro",
+            "Study Parameters": "6 Systems, velocity-calibrated string flow phantom",
+            "Conclusions": "Five of 6 systems: overestimation of all peak velocities compared with the calibrated string flow phantom"
+          }
+        ],
+        "Interobserver and intraobserver variability": [
+          {
+            "Author": "Ranke/prospective",
+            "Study Parameters": "20 ICA, 11 patients, same system, 2 observers",
+            "Conclusions": "Interobserver variation expressed as 95% CI for predicted stenosis between 2 observers was 13.6% with peak systolic velocity and 15.4% with mean velocity ratio"
+          },
+          {
+            "Author": "Wolstenhulme/prospective",
+            "Study Parameters": "20 Patients, 2 systems, 1 observer",
+            "Conclusions": "Intraobserver reproducibility coefficient for both machines was 0.48 cm/s"
+          }
+        ],
+        "Magnetic Resonance Angiography (MRA)": {
+          "Description": "MRA can generate high-resolution noninvasive images of the cervical arteries. It helps in detailed evaluation of the cerebral arteries. Slowly flowing blood is better imaged with contrast-enhanced MRA.",
+          "Technological advances": "Has reduced image acquisition time and improved the quality of MRA, allowing for better evaluation of patients with ECVD."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Duplex Ultrasonography": {
+          "Purpose": "Assessment of carotid stenosis",
+          "Sensitivity and Specificity": "Varies based on degree of stenosis, with sensitivity ranging from around 75% to 100% and specificity from around 69% to 100%."
+        },
+        "Magnetic Resonance Angiography (MRA)": {
+          "Sensitivity": "97% to 100%",
+          "Specificity": "82% to 96%",
+          "Pitfalls": "Overestimation of stenosis, inability to distinguish subtotal and complete occlusion, issues with claustrophobia and compatibility with implanted devices.",
+          "Adverse Reactions": "Nephrogenic systemic fibrosis in patients with renal dysfunction when using gadolinium-based contrast agents."
+        },
+        "Computed Tomographic Angiography (CTA)": {
+          "Capabilities": "Provides anatomic imaging and evaluation of tortuous vessels; facilitates evaluation of occlusion.",
+          "Technological Evolution": "Improved resolution and faster imaging with newer detectors.",
+          "Limitations": "Accuracy affected by higher degrees of stenosis and smaller vessel diameters."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Sensitivity and Specificity of Computed Tomographic Angiography as a Function of Degree of Carotid Stenosis",
+        "Summary": "The table contains data on the sensitivity and specificity of computed tomographic angiography (CTA) for varying degrees of carotid stenosis. Studies indicate that CTA is comparable to catheter angiography with high sensitivity and specificity, particularly for <70% carotid artery stenosis (100% specificity). The document discusses the advantages and limitations of CTA, such as the need for iodinated contrast media and potential issues with assessing heavily calcified lesions.",
+        "Section 5.5": "Catheter-based angiography remains the standard for evaluating ECVD. There are challenges, including the risk of stroke associated with the procedure, which is estimated to be <1%."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Section": "Medical Therapy for Patients With Atherosclerotic Disease of the Extracranial Carotid or Vertebral Arteries",
+        "Details": "Carotid duplex ultrasonography is favored for screening patients at moderate risk. If results are equivocal, MRA or CTA may be used to explore disease extent. The method's choice depends on individual patient conditions such as renal insufficiency or metal implants.",
+        "Recommendations": {
+          "Class I": "Antihypertensive treatment is strongly recommended to maintain blood pressure below 140/90 mm Hg.",
+          "Class IIa": "During hyperacute periods, antihypertensive treatment may be considered but without a specific target blood pressure.",
+          "Considerations": [
+            "The risk of stroke increases with higher blood pressure.",
+            "Approximately 30%-45% increase in stroke risk per 10-mm Hg increase in systolic pressure."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section_titles": [
+          "Cessation of Tobacco Smoking",
+          "Control of Hyperlipidemia"
+        ],
+        "Cessation of Tobacco Smoking": {
+          "Recommendation": "Patients with extracranial carotid or vertebral atherosclerosis who smoke cigarettes should be advised to quit smoking and offered smoking cessation interventions to reduce the risks of atherosclerosis progression and stroke."
+        },
+        "Control of Hyperlipidemia": {
+          "Recommendations": [
+            {
+              "Class I": "Treatment with a statin medication is recommended for all patients with extracranial carotid or vertebral atherosclerosis to reduce low-density lipoprotein (LDL) cholesterol below 100 mg/dL."
+            },
+            {
+              "Class IIa": [
+                "Treatment with a statin medication is reasonable for all patients with extracranial carotid or vertebral atherosclerosis who sustain ischemic stroke to reduce LDL-cholesterol to a level near or below 70 mg/dL.",
+                "If treatment with a statin (including trials of higher-dose statins and higher-potency statins) does not achieve the goal selected for a patient, intensifying LDL-lowering drug therapy with an additional drug from among those with evidence of improving outcomes can be effective (bile acid sequestrants or niacin).",
+                "For patients who do not tolerate statins, LDL-lowering therapy with bile acid sequestrants and/or niacin is reasonable."
+              ]
+            }
+          ],
+          "Notes": [
+            "The relationship between cholesterol and ischemic stroke is not as evident as between cholesterol and myocardial infarction (MI), with inconsistent findings from population-based studies.",
+            "The ARIC study found no association of hypercholesterolemia with stroke."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": "The clinical guideline discusses the relationship between cholesterol levels, statin therapy, and the risk of ischemic stroke in patients. Observational studies highlight that lower HDL cholesterol levels are associated with increased risk of ischemic stroke, whereas statin therapy reduces the risk of stroke in patients with atherosclerosis. Statins also help in lowering the rate of myocardial infarction and cardiovascular death in patients with coronary artery disease (CAD). Various studies and meta-analyses have investigated the effects of statin therapy on cardiovascular health, emphasizing the benefit of lipid-lowering treatments across different populations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "managementDiabetesAtherosclerosis": {
+          "class": "IIa",
+          "recommendations": [
+            {
+              "dietExerciseDrugs": "Useful for patients with diabetes mellitus and extracranial carotid or vertebral artery atherosclerosis.",
+              "note": "The benefit of intensive glucose-lowering therapy to a glycosylated hemoglobin level less than 7.0% has not been established.",
+              "references": [
+                286,
+                287
+              ],
+              "levelOfEvidence": "A"
+            },
+            {
+              "statinTherapy": "Administration of statin-type lipid-lowering medication to reduce LDL cholesterol to near or below 70 mg/dL is reasonable for patients with diabetes mellitus and atherosclerosis.",
+              "references": [
+                288
+              ],
+              "levelOfEvidence": "B"
+            }
+          ]
+        },
+        "riskOfIschemicStrokeDiabetes": {
+          "comparison": "Increased 2- to 5-fold in patients with diabetes compared to those without.",
+          "factors": [
+            "Elevated fasting and postchallenge glucose levels associated with stroke (292)",
+            "Diabetes associated with carotid IMT and arterial stenosis (24)",
+            "Diabetes and fasting glucose associated with carotid IMT (293-295)"
+          ]
+        },
+        "insulinResistanceAtherosclerosisStudy": {
+          "findings": "Diabetes and fasting glucose associated with carotid IMT, which advanced more rapidly in patients with diabetes.",
+          "references": [
+            293,
+            295
+          ]
+        },
+        "intensiveInsulinTherapy": {
+          "trials": [
+            {
+              "name": "ACCORD and ADVANCE",
+              "findings": "Intensive treatment did not reduce risk of stroke in patients with type 2 diabetes compared with conventional treatment.",
+              "references": [
+                301
+              ]
+            },
+            {
+              "name": "UKPDS",
+              "finding": "Intense treatment reduced rates of nonfatal MI and stroke.",
+              "references": [
+                302
+              ]
+            }
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Increased carotid IMT": "Approximately 3-fold more likely among participants with the highest homocysteine levels.",
+        "Homocysteine": "Various studies explore its relationship with cardiovascular outcomes, including stroke.",
+        "Vitamin therapy": "B-complex vitamin therapy did not confirm a benefit in reducing cardiovascular outcomes, including stroke.",
+        "Obesity and metabolic syndrome": "Associated with carotid atherosclerosis; strongest relationship with hypertension.",
+        "Physical inactivity": "Modifiable risk factor for stroke with a prevalence of 25%."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_table": "American Heart Association/American Stroke Association Guidelines for Antithrombotic Therapy in Patients with Ischemic Stroke of Noncardioembolic Origin (Secondary Prevention)",
+        "antiplatelet_agents": "Initial treatment with aspirin (50\u2013325 mg/d) alone is recommended, or the combination of aspirin and extended-release dipyridamole, or clopidogrel.",
+        "combinations": "Combination of aspirin and extended-release dipyridamole is recommended over aspirin alone.",
+        "clopidogrel": "May be considered instead of aspirin in patients hypersensitive to aspirin.",
+        "aspirin_and_clopidogrel": "Addition of aspirin to clopidogrel increases the risk of hemorrhage.",
+        "clinical_notes": [
+          "For prevention of thromboembolic ischemic events, antiplatelet drugs reduce risk.",
+          "In patients with atherosclerosis of extracranial carotid or vertebral arteries, aspirin is contradindicated by bleeding; clopidogrel is a reasonable alternative.",
+          "Full-intensity parenteral anticoagulation not recommended for patients with extracranial cerebrovascular atherosclerosis.",
+          "Clopidogrel with aspirin not recommended within 3 months after stroke or TIA."
+        ],
+        "studies": [
+          "Asymptomatic Carotid Bruit Study: No benefit demonstrated of platelet-inhibitor drugs for prevention of stroke.",
+          "Veterans Affairs Cooperative Study: Some events suggest aspirin may not significantly work in low sample sizes.",
+          "ESPS-2 Study: 25 mg aspirin twice daily may be better in selected patients.",
+          "PROFESS Study: No significant observations recorded different from previous clopidogrel studies."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Optimum therapy for recurrent cerebral ischemia during antiplatelet therapy involves aspirin or clopidogrel. Aspirin resistance can occur more frequently in those taking 81 mg daily. Clopidogrel\u2019s effectiveness is reduced by genetic variations in CYP450 system enzymes, specifically CYP2C19, impacting metabolism and potentially treatment outcomes. Guidelines suggest genotyping patients with cerebrovascular disease to identify those with clopidogrel metabolism issues for better therapy compliance. Nonsteroidal anti-inflammatory drugs (NSAIDs) aren't linked with increased stroke risk but are implicated in MI and gastrointestinal bleeding. Recommendations for carotid revascularization include surgical intervention under specific risk conditions.": "No known improved outcome with other therapies."
+      },
+      "genes": [
+        {
+          "Gene": "CYP2C19",
+          "Associated Conditions": [
+            "Clopidogrel resistance",
+            "cerebrovascular disease",
+            "stroke",
+            "response to clopidogrel"
+          ],
+          "Occurrences": 2,
+          "context": "Clopidogrel resistance has also been described and its effectiveness is diminished because of genetic variations in the cytochrome P450 system, which depends primarily on the function of CYP2C19. Genetic variability in CYP enzymes that affect platelet function has been associated with adverse outcomes."
+        }
+      ]
+    },
+    {
+      "content": {
+        "guideline_points": [
+          {
+            "point": "CEV over CEA is recommended in older patients when arterial pathoanatomy is unfavorable for endovascular intervention."
+          },
+          {
+            "point": "CEA is recommended over CAS for patients with neck anatomy unfavorable for arterial surgery."
+          },
+          {
+            "point": "Intervention within 2 weeks is recommended for stroke or TIA patients with no contraindications."
+          },
+          {
+            "point": "Prophylactic CAS may be considered for selected patients with asymptomatic carotid stenosis, but its effectiveness compared to medical therapy is not well established."
+          },
+          {
+            "point": "Revascularization effectiveness for patients at high risk due to comorbidities is not well established."
+          },
+          {
+            "point": "Carotid endarterectomy (CEA) significantly reduces the incidence of ipsilateral stroke."
+          }
+        ],
+        "classifications": [
+          "Class III: No Benefit - Carotid revascularization is not recommended for disabilities caused by cerebral infarction."
+        ],
+        "trial_summaries": [
+          {
+            "trial": "NASCET",
+            "summary": "Designed to test the hypothesis that patients with moderate to severe ipsilateral carotid stenosis would benefit from CEA."
+          },
+          {
+            "trial": "ECST",
+            "summary": "Performed similarly to NASCET, but showed benefit of CEA only for more severe stenosis."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Comparative Utility of Various Management Strategies for Patients With Carotid Stenosis in Clinical Trials",
+        "Clinical Trials": [
+          {
+            "Reference": "NASCET (1991) (84)",
+            "Patient Population": "Symptomatic, 70% to 99% stenosis",
+            "Intervention": "CEA",
+            "Comparator": "Medical therapy",
+            "No. of Patients": {
+              "Treatment Group": 328,
+              "Comparator Group": 321
+            },
+            "Events": {
+              "Treatment Group": 9,
+              "Comparator Group": 26
+            },
+            "Event Used to Calculate NNT": "Ipsilateral stroke",
+            "ARR": 17.0,
+            "NNT": 12
+          },
+          {
+            "Reference": "ECST (2003) (378)",
+            "Patient Population": "Symptomatic, 70% to 99% stenosis",
+            "Intervention": "CEA",
+            "Comparator": "Medical therapy",
+            "No. of Patients": "Not reported",
+            "Events": "Not reported",
+            "Event Used to Calculate NNT": "Ipsilateral ischemic stroke and surgical stroke or death; ARR provided in study",
+            "ARR": 18.7,
+            "NNT": 27
+          },
+          {
+            "Reference": "ECST (2003) (378)",
+            "Patient Population": "Symptomatic, 70% to 99% stenosis",
+            "Intervention": "CEA",
+            "Comparator": "Medical therapy",
+            "No. of Patients": {
+              "Treatment Group": 429,
+              "Comparator Group": 850
+            },
+            "Events": {
+              "Treatment Group": 6.8
+            },
+            "Event Used to Calculate NNT": "Stroke or surgical death; ARR provided in study",
+            "ARR": 21.2,
+            "NNT": 24
+          },
+          {
+            "Reference": "NASCET (1998) (20)",
+            "Patient Population": "Symptomatic, 50% to 69% stenosis",
+            "Intervention": "CEA",
+            "Comparator": "Medical therapy",
+            "No. of Patients": {
+              "Treatment Group": 430,
+              "Comparator Group": 428
+            },
+            "Events": {
+              "Treatment Group": 15.7,
+              "Comparator Group": 22.2
+            },
+            "Event Used to Calculate NNT": "Ipsilateral stroke",
+            "ARR": 6.5,
+            "NNT": 77
+          },
+          {
+            "Reference": "ASYMPTOMATIC CEA",
+            "Details": "Various references comparing CEA to medical therapy showing differences in ARR and NNT based on patient populations with asymptomatic conditions."
+          },
+          {
+            "Reference": "SAPPHIRE 1 y data (2004) (370)",
+            "Patient Population": "Mixed population: Symptomatic, \u226550% stenosis; Asymptomatic, \u226580% stenosis",
+            "Intervention": "CEA",
+            "Comparator": "CAS",
+            "No. of Patients": {
+              "Treatment Group": 167,
+              "Comparator Group": 167
+            },
+            "Events": {
+              "Treatment Group": 7.9,
+              "Comparator Group": 6.2
+            },
+            "Event Used to Calculate NNT": "Stroke",
+            "ARR": 1.7,
+            "NNT": 58
+          }
+        ],
+        "Summary": "The table compares different clinical trials about management strategies for carotid stenosis, including interventions such as Carotid Endarterectomy (CEA) and Carotid Artery Stenting (CAS). The effectiveness is measured through ARR and NNT depending on whether the patient is symptomatic or asymptomatic."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview": "This table presents data from various trials comparing Carotid Endarterectomy (CEA) and Carotid Artery Stenting (CAS) in patients with different conditions related to carotid artery stenosis. The trials include SAPPHIRE, ICSS, and CREST, and evaluate outcomes such as stroke incidence and other adverse events within specified time frames.",
+        "Trials": [
+          {
+            "Name": "SAPPHIRE 3y data",
+            "Year": 2008,
+            "Population": "Mixed population",
+            "Intervention": "CEA",
+            "Comparator": "CAS",
+            "Outcomes": [
+              {
+                "Condition": "\u226550% stenosis",
+                "Events": {
+                  "Treatment": 9.0,
+                  "Comparator": 9.0,
+                  "Event": "Stroke"
+                }
+              },
+              {
+                "Condition": "\u226550% stenosis, Asymptomatic, \u226580% stenosis",
+                "Events": {
+                  "Treatment": 5.4,
+                  "Comparator": 6.6,
+                  "Event": "Ipsilateral stroke"
+                }
+              }
+            ]
+          },
+          {
+            "Name": "ICSS",
+            "Year": 2010,
+            "Population": "Symptomatic",
+            "Intervention": "CEA",
+            "Comparator": "CAS",
+            "Outcomes": [
+              {
+                "Events": {
+                  "Treatment": 4.1,
+                  "Comparator": 7.7,
+                  "Event": "All strokes within 120 d after randomization"
+                }
+              },
+              {
+                "Events": {
+                  "Treatment": 3.3,
+                  "Comparator": 7.0,
+                  "Event": "All strokes within 30 d after randomization"
+                }
+              }
+            ]
+          },
+          {
+            "Name": "CREST symptomatic",
+            "Year": 2010,
+            "Population": "Symptomatic",
+            "Intervention": "CEA",
+            "Comparator": "CAS",
+            "Outcomes": [
+              {
+                "Events": {
+                  "Treatment": 8.4,
+                  "Comparator": 8.6,
+                  "Event": "All strokes, MIs, or deaths within periprocedural period and postprocedural ipsilateral strokes"
+                }
+              }
+            ]
+          },
+          {
+            "Name": "CREST asymptomatic",
+            "Year": 2010,
+            "Population": "Asymptomatic",
+            "Intervention": "CEA",
+            "Comparator": "CAS",
+            "Outcomes": [
+              {
+                "Events": {
+                  "Treatment": 4.9,
+                  "Comparator": 5.6,
+                  "Event": "All strokes, MIs, or deaths within periprocedural period and postprocedural ipsilateral strokes"
+                }
+              }
+            ]
+          }
+        ],
+        "Notes": "Some data values are approximations. Event definitions vary among trials, emphasizing the need for careful interpretation of meta-analyses."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "overview": "This guideline discusses the effectiveness and outcomes of Carotid Endarterectomy (CEA) in asymptomatic patients. It reviews various studies, highlighting differences in treatment groups and the impact of surgical versus medical management. The guideline emphasizes the importance of patient selection based on multiple factors including age, sex, and comorbidities for improved outcomes.",
+        "studies": [
+          {
+            "name": "ECST and NASCET",
+            "findings": "Surgery was most effective in patients with >70% carotid stenosis without occlusion or near-occlusion.",
+            "context": "The differing methods of measuring stenosis impact the benefit perceived in patients with less severe conditions."
+          },
+          {
+            "name": "ACST",
+            "findings": "The 30-day risk of stroke or death was 3.1%. Five-year rates, including perioperative events, were 6.4% for early-surgery group vs 11.7% for immediate medical management.",
+            "context": "Randomized 3,120 asymptomatic patients to compare surgery to medical management with significant findings in long-term outcomes."
+          },
+          {
+            "name": "VACS",
+            "findings": "Even with stenosis >60%, inclusion of TIA impacts the balance of benefits and risks.",
+            "context": "The study was stopped before completion as significant benefit from surgery appeared to inform practice."
+          },
+          {
+            "name": "Veteran Affairs",
+            "findings": "30-day mortality rate was 1.9% in patients assigned to surgery with a combined 5-year incidence suggesting the necessity for careful patient selection.",
+            "context": "Analyzes the hypothesis that combining CEA with aspirin and risk factor control could reduce adverse outcomes."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "key_points": [
+          "Residual collateral perfusion pressure is crucial during cerebral function monitoring.",
+          "Primary closure in arterial repair is speedy but may lead to recurrent stenosis.",
+          "Patch closure ensures complete plaque removal but requires longer time.",
+          "Eversion CEA is attempted to avoid patch closure.",
+          "Hospitals with fewer annual CEAs have poorer results unless large volumes are handled.",
+          "Surgical risk increases with age; particular attention needed for patients over 75."
+        ],
+        "surgical_outcomes": [
+          "ACAS study reports a 1.5% morbidity and mortality rate for CEA.",
+          "In NASCET and ECST studies, older patients faced higher risks.",
+          "In SPACE trial, lower benefits noted for patients over 75 from CEA."
+        ],
+        "gender_factors": [
+          "Women have higher operative risk and less favorable outcomes than men."
+        ],
+        "demographic_factors": [
+          "Older age is linked with higher perioperative risk.",
+          "Race-based differences in CEA outcomes are unclear due to study limitations."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Risks Associated With Carotid Endarterectomy (CEA)": {
+          "Types of Complications": [
+            "Neurological: Hypertension or hypotension, hemorrhage, stroke, MI, thrombosis, nerve palsy",
+            "Nonneurological: Infection, arterial restenosis, and death"
+          ],
+          "Statistical Risks": {
+            "Symptomatic Patients": {
+              "Higher Risk Than Asymptomatic Patients": {
+                "Purpose": "Neurological and nonneurological complications",
+                "Statistics": [
+                  "OR 1.62 for risk of death",
+                  "3.2% risk of stroke or death in CREST study symtomatic patients"
+                ]
+              },
+              "Neuropathies": [
+                "7% may experience cranial nerve injury",
+                "Less than 1% have permanent injury"
+              ]
+            },
+            "Other Observations": [
+              "Cranial nerve injury rate of 5.1% in ECST",
+              "Hypertension in 5% of patients",
+              "Incidence of perioperative MI was 0.3% in NASCET"
+            ]
+          },
+          "Miscellaneous Observations": [
+            "Reports of prior neurological evaluations show reduced stroke/death rates",
+            "Recent studies show lower perioperative stroke risk but surgical risks remain high at 7.11% for stroke or death"
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Randomized Trials Comparing Endarterectomy With Stenting in Symptomatic Patients With Carotid Stenosis",
+        "trials": [
+          {
+            "trial": "Leicester, 1998",
+            "no_of_patients": 17,
+            "key_features": "Single center; patients with symptomatic carotid stenosis >70%.",
+            "death_or_any_stroke": {
+              "CEA": "0/10 (0%)",
+              "CAS": "5/7 (71.4%)"
+            },
+            "p_value": "0.0034",
+            "comments": "Terminated prematurely because of safety concerns."
+          },
+          {
+            "trial": "CAVATAS-CEA, 2001",
+            "no_of_patients": 504,
+            "key_features": "Multicenter; patients of any age with symptomatic or asymptomatic carotid stenosis suitable for CEA or CAS.",
+            "death_or_any_stroke": {
+              "CEA": "25/253 (9.9%)",
+              "CAS": "25/251 (10.0%)"
+            },
+            "p_value": "NS in original article; OR not reported",
+            "comments": "Follow-up to 3 y; relatively low stent use (26%) in CAS group."
+          },
+          {
+            "trial": "Kentucky, 2001",
+            "no_of_patients": 104,
+            "key_features": "Single center; patients with symptomatic carotid stenosis >70% (events within 3 mo of evaluation).",
+            "death_or_any_stroke": {
+              "CEA": "1/51 (2.0%)",
+              "CAS": "0/53 (0%)"
+            },
+            "odds_ratio": "0.31 (0.01 to 7.90)"
+          },
+          {
+            "trial": "SAPPHIRE, 2004",
+            "no_of_patients": 334,
+            "key_features": "Multicenter randomized trial of patients with \u226580% asymptomatic carotid stenosis (70%) and \u226550% symptomatic carotid stenosis (30%).",
+            "death_or_any_stroke": {
+              "CEA": "9.3% symptomatic patients",
+              "CAS": "2.1% symptomatic patients"
+            },
+            "p_value": "0.18",
+            "comments": "Terminated prematurely because of a drop in randomization."
+          },
+          {
+            "trial": "EVA-3S, 2006",
+            "no_of_patients": 527,
+            "key_features": "Multicenter; patients with symptomatic carotid stenosis >60% within 120 d before enrollment suitable for CEA or CAS.",
+            "death_or_any_stroke": {
+              "CEA": "10/259 (3.9%)",
+              "CAS": "25/261 (9.6%)"
+            },
+            "relative_risk": "2.5 (1.2 to 5.1)",
+            "p_value": "0.01",
+            "comments": "Study terminated prematurely because of safety and futility issues; concerns about operator inexperience in the CAS arm and nonuniform use of embolism protection devices."
+          },
+          {
+            "trial": "SPACE, 2006",
+            "no_of_patients": 1183,
+            "key_features": "Multicenter; patients >50 y old with symptomatic carotid stenosis >70% in the 180 d before enrollment.",
+            "primary_endpoint": "Ipsilateral ischemic stroke or death from time of randomization to 300 d after the procedure",
+            "death_or_any_stroke": {
+              "CEA": "37/584 (6.3%)",
+              "CAS": "41/599 (6.8%)"
+            },
+            "odds_ratio": "1.19 (0.75 to 1.92)",
+            "comments": "Study terminated prematurely after futility analysis; concerns about operator inexperience in the CAS arm and nonuniform use of embolism protection devices."
+          },
+          {
+            "trial": "EVA-3S 4y follow-up, 2008",
+            "no_of_patients": 527,
+            "key_features": "Multicenter, randomized, open, assessor-blinded, noninferiority trial. Compared outcome after CAS with outcome after CEA in 527 patients who had carotid stenosis of at least 60% that had recently become symptomatic.",
+            "major_outcome_events": "Up to 4 y for any periprocedural stroke or death",
+            "death_or_any_stroke": {
+              "CEA": "6.2%",
+              "CAS": "11.1%"
+            },
+            "hazard_ratio": {
+              "any_stroke_periprocedural_death": "1.77 (1.03 to 3.02)",
+              "any_stroke_or_death": "1.39 (0.96 to 2.00)",
+              "for_CAS_vs_CEA": "1.97 (1.06 to 3.67)",
+              "p": "0.04 for any stroke or periprocedural death; 0.08 for any stroke or death; 0.03 for CAS vs CEA"
+            },
+            "comments": "A hazard function analysis showed 4y differences in cumulative probabilities of outcomes between CAS and CEA were largely accounted for by the higher periprocedural (within 30 d of the procedure) risk of stenting compared with endarterectomy. After the periprocedural period, the risk of ipsilateral stroke was low and similar in the 2 treatment groups."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Trials": [
+          {
+            "Trial": "SPACE 2y",
+            "Year": 2008,
+            "No. of Patients": 1214,
+            "Key Features": "Patients with symptomatic, severe (\u226570%) carotid artery stenosis were recruited to this noninferiority trial and randomly assigned with a block randomization design to undergo CAS or CEA.",
+            "Death or Any Stroke": {
+              "Intention to Treat Population": {
+                "Ipsilateral ischemic strokes within 2 years": {
+                  "CAS": "55 (9.5%)",
+                  "CEA": "50 (8.8%)"
+                },
+                "Any deaths between randomization and 2 years": {
+                  "CAS": "32 (5.3%)",
+                  "CEA": "28 (5.0%)"
+                },
+                "Any strokes between randomization and 2 years": {
+                  "CAS": "64 (10.9%)",
+                  "CEA": "57 (10.1%)"
+                },
+                "Ipsilateral ischemic stroke within 31 days and 2 years": {
+                  "CAS": "12 (2.2%)",
+                  "CEA": "10 (1.9%)"
+                }
+              },
+              "Per Protocol Population": {
+                "Ipsilateral ischemic strokes within 2 years": {
+                  "CAS": "53 (9.4%)",
+                  "CEA": "43 (7.8%)"
+                },
+                "Any deaths between randomization and 2 years": {
+                  "CAS": "29 (6.2%)",
+                  "CEA": "25 (4.9%)"
+                },
+                "Any strokes between randomization and 2 years": {
+                  "CAS": "61 (11.5%)",
+                  "CEA": "51 (9.8%)"
+                },
+                "Ipsilateral ischemic stroke within 31 days and 2 years": {
+                  "CAS": "12 (2.3%)",
+                  "CEA": "10 (2.0%)"
+                }
+              }
+            },
+            "OR (95% CI)": {
+              "Intention to Treat Population": "HR 1.10 (0.75 to 1.61)",
+              "Per Protocol Population": "HR 1.23 (0.82 to 1.83)",
+              "Ipsilateral ischemic stroke within 31 days and 2 years": "HR 1.17 (0.51 to 2.70)"
+            },
+            "Comments": "In both the intention-to-treat and per protocol populations, recurrent stenosis of \u226570% was significantly more frequent in the CAS group than the CEA group, with a life-table estimate of 10.7% versus 4.6% (p=0.0009 and p=0.0007, respectively)."
+          },
+          {
+            "Trial": "SAPPHIRE 3y",
+            "Year": 2008,
+            "No. of Patients": 260,
+            "Key Features": "Long-term data were collected for 260 individuals; included symptomatic carotid artery stenosis of at least 50% of the luminal diameter or an asymptomatic stenosis of at least 80%.",
+            "Death or Any Stroke": {
+              "Stroke": {
+                "CAS": "15 (9.0%)",
+                "CEA": "15 (9.0%)"
+              },
+              "Ipsilateral stroke": {
+                "CAS": "11 (7.0%)",
+                "CEA": "9 (4.5%)"
+              },
+              "Death": {
+                "CAS": "31 (18.6%)",
+                "CEA": "35 (21%)"
+              }
+            },
+            "OR (95% CI)": {
+              "Stroke": "p=0.99 (\u22126.1 to 6.1)",
+              "Death": "p=0.68 (\u221210.9 to 6.1)"
+            },
+            "Comments": "Data were calculated using n=167 for both groups because breakdowns of CAS and CEA for N=260 were not given."
+          },
+          {
+            "Trial": "Wallstent",
+            "Year": 2005,
+            "No. of Patients": 219,
+            "Key Features": "Included symptomatic angiographic carotid stenosis >70%.",
+            "Death or Any Stroke": {
+              "CAS": "13 (12.2%)",
+              "CEA": "5 (4.5%)"
+            },
+            "Comments": "Premature termination based on futility analysis."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_studies": [
+          {
+            "trial": "SAPPHIRE (symptomatic data), 2008",
+            "participants": 96,
+            "key_features": "Included patients with \u226550% carotid stenosis.",
+            "death_or_any_stroke": "CEA: 3 (3.5%), CAS: 0",
+            "comments": "Premature termination secondary to declining enrollment."
+          },
+          {
+            "trial": "ICSS, 2010",
+            "participants": 1,
+            "key_features": "Multicenter study. In the study, the degree of carotid stenosis was 70% to 99% in 89% of stent patients and in 91% of endarterectomy patients. Study patients had >50% carotid artery stenosis measured by the NASCET criteria.",
+            "death_or_any_stroke": "120-d follow-up data available only: CAS: 72/853 (8.5%), CEA: 40/857 (4.7%)",
+            "or_ci": "OR not available; HR 1.86 (1.26 to 2.74) p=0.001",
+            "comments": "Primary outcome was 3 yr rate of fatal or disabling stroke in any territory; interim results have been provided for 120-d rate of stroke, death, or procedural MI."
+          },
+          {
+            "trial": "CREST, 2010",
+            "participants": 2,
+            "key_features": "The study included 1,321 symptomatic patients and 1,181 asymptomatic patients. Symptomatic patients in the study had \u226550% carotid stenosis by angiography, \u224870% by ultrasound or \u224870% by CTA or MRA. Asymptomatic patients had carotid stenosis (patients with symptoms beyond 180 d were considered asymptomatic) \u226560% by angiography, \u224870% by ultrasound, or \u224880% by CTA or MRA.",
+            "death_or_any_stroke": "Any periprocedural stroke or postprocedural ipsilateral stroke: Symptomatic: CAS: 37 (5.5; 0.9) SE, CEA: 21 (3.2; 0.7) SE; Any periprocedural stroke or death or postprocedural ipsilateral stroke: Symptomatic: CAS: 40 (6.0; 0.9) SE, CEA: 21 (3.2; 0.7) SE",
+            "or_ci": "Any periprocedural stroke or postprocedural ipsilateral stroke: Symptomatic: p=0.04; Any periprocedural stroke or death or postprocedural ipsilateral stroke: Symptomatic: p=0.02",
+            "comments": "The risk of composite primary outcome of stroke, MI, or death did not differ significantly among symptomatic and asymptomatic patients between CAS and CEA."
+          }
+        ],
+        "comorbidities_and_concerns": "Other medical comorbidities contribute to the risk associated with CEA (444, 452, 482). Patients with pulmonary disease, particularly those requiring supplementary oxygen, are at risk of complications including ventilator dependence and pneumonia (483). Renal insufficiency is an independent risk factor for adverse outcomes of pulmonary complications and cardiac events after CEA (484)."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Circumstances": "Patients who undergo radical neck surgery or tracheostomy face surgical challenges due to risks including cranial nerve injury.",
+        "Radiation Therapy": "Designed to avoid severe fibrotic tissue reactions post-surgery. CEA can be performed post-radiation with challenges.",
+        "Safety of Carotid Surgery": "Complication rates for CEA have improved over generations, with lower risks reported recently.",
+        "Medical Therapy Evolution": "Incorporation of pharmacotherapy and surgical advances improved outcomes. Statins and other medications have reduced cardiovascular risks.",
+        "Periprocedural Management": {
+          "Recommendation": "Aspirin and clopidogrel or dipyridamole recommended before and after CEA for stroke prophylaxis."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Recommendations": [
+          "Administration of antihypertensive medication is recommended as needed to control blood pressure before and after CEA. (Level of Evidence: C)",
+          "The findings on clinical neurological examination should be documented within 24 hours before and after CEA. (Level of Evidence: C)",
+          "Patch angioplasty can be beneficial for closure of the arteriotomy after CEA. (Level of Evidence: B)",
+          "Administration of statin lipid-lowering medication for prevention of ischemic events is reasonable for patients who have undergone CEA irrespective of serum lipid levels, although the optimum agent and dose and the efficacy for prevention of restenosis have not been established (501). (Level of Evidence: B)",
+          "Noninvasive imaging of the extracranial carotid arteries is reasonable 1 month, 6 months, and annually after CEA to assess patency and exclude the development of new or contralateral lesions (364,502). Once stability has been established over an extended period, surveillance at longer intervals may be appropriate. Termination of surveillance is reasonable when the patient is no longer a candidate for intervention. (Level of Evidence: C)"
+        ],
+        "Study Findings": {
+          "ACE (Acetylsalicylic Acid and Carotid Endarterectomy) Study": {
+            "Description": "A trial involving 2849 patients and 4 different daily aspirin-dose regimens.",
+            "Findings": "Patients assigned to lower-dose aspirin groups had lower rates of perioperative stroke, MI, and death within 30 days. The optimum duration of antithrombotic therapy after CEA is not established, but therapy is reasonable for long-term prevention of ischemic events."
+          },
+          "CASES-PMS Study": {
+            "Description": "Involved 1493 patients at 73 sites.",
+            "Findings": "Compared results with the pooled results of the SAPPHIRE trial and other registries."
+          },
+          "CAPTURE Registry": {
+            "Description": "Included 2,500 high-risk patients.",
+            "Findings": "30-day rate of major stroke or death was 2.9%."
+          }
+        },
+        "Procedures": {
+          "CEA": {
+            "Morbidity and Mortality": "0.44% mortality rate, 0.95% stroke rate."
+          },
+          "CAS": {
+            "Comparison": "The risks associated with CAS may be lower than CEA in patients at elevated risk of surgical complications."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Trials": [
+          {
+            "Name": "SAPPHIRE, 2004",
+            "Reference": 370,
+            "No. of Patients": 334,
+            "Key Features": "Multicenter randomized trial of patients with >50% symptomatic carotid stenosis (58%) or >80% asymptomatic carotid stenosis (42%) with 1 or more comorbidity criteria (high-surgical-risk group).",
+            "Death or Any Stroke": {
+              "Asymptomatic": "CEA: 10.2%, CAS: 5.4%",
+              "Combined": "CEA: 9.8%, CAS: 4.8%"
+            },
+            "Comments": "Terminated prematurely because of a drop in randomization."
+          },
+          {
+            "Name": "SAPPHIRE, 2008",
+            "Reference": 369,
+            "No. of Patients": 334,
+            "Key Features": "Multicenter randomized trial of patients with >80% asymptomatic carotid stenosis (70%) and >50% symptomatic carotid stenosis (30%).",
+            "Death or Any Stroke": {
+              "SAPPHIRE 3y data": {
+                "Stroke": "CEA: 15/167, CAS: 15/197",
+                "Death": "CEA: 35/167, CAS: 31/167"
+              }
+            },
+            "Comments": "No significant difference could be shown in long-term outcomes between patients who underwent CAS with EPD and those who underwent CEA."
+          },
+          {
+            "Name": "CREST, 2010",
+            "Reference": 360,
+            "No. of Patients": 2,
+            "Key Features": "The study included 1,321 symptomatic patients and 1,181 asymptomatic patients. Symptomatic patients in the study had >50% carotid stenosis by angiography, >70% by ultrasound, or >70% by CTA or MRA. Asymptomatic patients in the study had carotid stenosis (patients with symptoms beyond 180 d were considered asymptomatic) >60% by angiography, >70% by ultrasound, or >80% by CTA or MRA.",
+            "Death or Any Stroke": {
+              "Any periprocedural stroke or postprocedural ipsilateral stroke": {
+                "Asymptomatic": "CAS: 1.5 (2.5-0.6 SE), CEA: 8 (1.4-0.5 SE)"
+              },
+              "Any periprocedural stroke or death or postprocedural ipsilateral stroke": {
+                "Asymptomatic": "CAS: 1.5 (2.5-0.6 SE), CEA: 8 (1.4-0.5 SE)"
+              }
+            },
+            "Comments": "The risk of the composite primary outcome of stroke, MI, or death did not differ significantly among symptomatic and asymptomatic patients between CAS and CEA."
+          }
+        ],
+        "Neurological Complications": {
+          "TIA Incidence": "1% to 2% in patients undergoing CAS.",
+          "Overall Stroke Incidence": "5.5% in the ARCHER trial, with disabling stroke in 1.5% and relatively minor events in 4.0% of cases.",
+          "Device Malfunction": "Occurs in <1% of procedures and is associated with deployment failure, stent malformation, and migration."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "ECVD Guideline",
+        "Volume": "JACC Vol. 57, No. 8, 2011",
+        "Main Topics": [
+          {
+            "Section": "7.3.3",
+            "Title": "Prevention of Cerebral Embolism in Patients Undergoing Catheter-Based Carotid Intervention",
+            "Description": "EPDs (Embolic Protection Devices) are effective in reducing embolic material during interventions, particularly in coronary saphenous vein graft angioplasty. They have been shown to reduce rates of ischemic stroke during CAS (Carotid Artery Stenting)."
+          },
+          {
+            "Section": "7.3.4",
+            "Title": "Intravascular Ultrasound Imaging in Conjunction With Catheter-Based Carotid Intervention",
+            "Description": "IVUS (Intravascular Ultrasound) is an imaging technique used to provide detailed information on arterial diameter and wall. It has been used for coronary and peripheral arteries and may aid in reducing complications like severe plaque protrusion."
+          },
+          {
+            "Section": "7.3.5",
+            "Title": "Management of Patients Undergoing Endovascular Carotid Artery Stenting",
+            "Subsection": "7.3.5.1",
+            "Recommendations": "Dual-antiplatelet therapy is recommended before and after CAS. Administration of antihypertensive medications is recommended. EPD deployment during CAS is beneficial for stroke risk reduction."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Immediate management post-carotid artery stenting (CAS) involves monitoring the access site and neurological and hemodynamic function. Clopidogrel and aspirin are recommended for antiplatelet therapy. Patients should cease smoking and manage conditions like hypertension, hyperlipidemia, and diabetes. Anticoagulation can be achieved with unfractionated heparin, and several pharmacological agents may treat hemodynamic derangements. Postoperative care includes serial follow-ups with imaging to monitor restenosis. The CaRESS trial assessed nonrandomized comparisons of carotid endarterectomy and CAS in patients.": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Kaplan-Meier estimates show no significant differences in outcomes like death, stroke, and myocardial infarction (MI) between Carotid Endarterectomy (CEA) and Carotid Artery Stenting (CAS) at 30 and 365 days post-procedure. Meta-analyses indicate no major differences between CEA and CAS regarding major short-term outcomes, though CAS may have higher rates of periprocedural strokes. The SAPPHIRE study demonstrated technical success in asymptomatic patients with a 30-day stroke, MI, or death incidence difference between CAS (4.8%) and CEA (9.8%). The CAVATAS trial highlighted similar stroke or death rates at 30 days between CAS and CEA but noted specific procedural complications.": null
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "study_design": "The SPACE trial was designed to test whether CAS was noninferior to CEA in patients with high-grade carotid artery stenosis. Patients had >70% stenosis and were recruited from 2001-2006. The EVA-3S trial randomized patients within 120 days of TIA or stroke with >60% stenosis. Both trials compared CAS to CEA procedures.",
+        "outcome_measures": "The primary outcome was the composite of ipsilateral stroke or death within 30 days. Secondary outcomes included different types of strokes and disabling strokes.",
+        "trial_results": {
+          "SPACE_trial": {
+            "sample_size": 1200,
+            "outcomes": {
+              "primary_response_events": "37 (6.3%) for CEA vs 41 (6.8%) for CAS",
+              "death": "5 (0.9%) for CEA vs 4 (0.7%) for CAS",
+              "all_stroke": "36 (6.2%) for CEA vs 25 (4.2%) for CAS"
+            }
+          },
+          "EVA3S_trial": {
+            "stopped_early": "Enrollment was stopped in 2005 due to higher 30-day rates of stroke and adverse events in CAS.",
+            "outcomes": {
+              "primary_response_events": "10 (3.9%) for CEA vs 25 (9.6%) for CAS",
+              "death": "3 (1.2%) for CEA vs 6 (2.3%) for CAS",
+              "all_stroke": "9 (3.5%) for CEA vs 24 (9.2%) for CAS"
+            }
+          }
+        },
+        "limitations": "Unequal training and experience of surgeons performing CAS and non-uniform use of EPDs in CAS procedures."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Study Context": "The document discusses clinical guidelines for revascularization techniques in patients with carotid artery stenosis. It references studies like CREST which compare carotid artery stenting (CAS) and carotid endarterectomy (CEA) in both symptomatic and asymptomatic patients.",
+        "Patient Groups": "Symptomatic patients with >50% carotid stenosis and asymptomatic patients with >60% stenosis.",
+        "Key Findings": "The 30-day composite rate of stroke, death, or procedural MI was 8.5% in the CAS group versus 5.2% in the CEA group. Primary endpoints in CREST included the occurrence of stroke, death, or MI during the periprocedural period and ipsilateral stroke thereafter up to 4 years.",
+        "Outcomes": "CAS was associated with a higher periprocedural risk of stroke or death but not necessarily with worse long-term outcomes compared to CEA. Age influences outcomes, with CAS favored over CEA for those under 70, and CEA favored for those over 70.",
+        "Clinical Recommendations": "Endarterectomy is generally recommended over stenting for patients with carotid stenosis, especially with factors such as advanced cardiopulmonary disease affecting choice. CAS may have implications for cognitive function due to differences in microembolic cerebral injury."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Durability Recommendations": [
+          {
+            "Class": "I",
+            "Recommendation": [
+              "In patients with symptomatic cerebral ischemia and recurrent carotid stenosis due to intimal hyperplasia or atherosclerosis, reoperation through CEA or CAS is recommended using the same criteria as for initial revascularization.",
+              "Reoperative CEA or CAS after initial revascularization is reasonable when imaging identifies rapidly progressive restenosis indicating a complete occlusion."
+            ],
+            "Level of Evidence": "C"
+          },
+          {
+            "Class": "IIb",
+            "Recommendation": [
+              "In asymptomatic patients with recurrent carotid stenosis due to intimal hyperplasia or atherosclerosis, reoperative CEA or CAS may be considered using the established criteria for initial revascularization."
+            ],
+            "Level of Evidence": "C"
+          },
+          {
+            "Class": "III Harm",
+            "Recommendation": [
+              "Reoperative CEA or CAS should not be performed in asymptomatic patients with less than 70% carotid stenosis that has remained stable."
+            ],
+            "Level of Evidence": "C"
+          }
+        ],
+        "Clinical Durability": [
+          "Clinical durability refers to the sustained efficacy of CEA and CAS in preventing stroke.",
+          "In larger trials, ipsilateral stroke rates 30 days post-procedure were about 1% to 2% for symptomatic and 0.5% to 0.8% for asymptomatic patients.",
+          "Clinical durability for CEA and CAS beyond 5 years is not clearly determined.",
+          "Primary causes of early restenosis are usually intimal hyperplasia, while late restenosis typically involves progression of atherosclerosis."
+        ],
+        "Anatomic Durability": [
+          "The incidence of recurrent carotid stenosis depends on the detection method, with lower rates when patches are used.",
+          "Recurrent carotid stenosis after CEA is usually a tri-modal phenomenon.",
+          "For both CEA and CAS, stenosis is rare after proper procedures."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Section": "8. Vertebral Artery Disease",
+        "Topics": [
+          "Symptomatic obstructive disease of the vertebral arteries is less common than carotid stenosis in clinical practice.",
+          "The prevalence, pathophysiology, and natural history of vertebral artery disease are not well understood.",
+          "Patients with vertebral artery disease face increased risks of other cardiovascular ischemic events like MI, PAD, and vascular death."
+        ],
+        "Subsections": [
+          {
+            "8.1. Anatomy of the Vertebrobasilar Arterial Circulation": [
+              "The left and right vertebral arteries are split into 4 segments (V1 through V4).",
+              "Anatomical variants are more common than in the carotid circulation.",
+              "Significant portions of the population may have variations affecting blood flow."
+            ]
+          },
+          {
+            "8.2. Epidemiology of Vertebral Artery Disease": [
+              "Approx. 20% of posterior circulation strokes may be due to vertebral artery atherosclerosis.",
+              "The New England Medical Center Posterior Circulation Registry found significant stenosis association with higher stroke risks.",
+              "Studies indicate patients with combined carotid and vertebral artery stenosis face greater ischemic episodes."
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Presentation": "Atherosclerotic stenosis affects the vertebral arteries, causing symptoms like dizziness, blurred vision, and syncope due to artery stenosis or occlusive disease.",
+        "Evaluation of Patients": "Noninvasive imaging like CTA or MRA is recommended for evaluating vertebral artery disease.",
+        "Imaging Recommendations": "Recommendations include using CTA or MRA over ultrasound for vertebral artery evaluation, and catheter-based angiography when necessary.",
+        "Medical Therapy": "Lifestyle modifications and medications like aspirin or clopidogrel are recommended for managing atherosclerosis involving the vertebral arteries."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Optimum management of patients with symptomatic vertebral artery stenosis is not as well established as for patients with carotid stenosis. Various treatments and approaches have been developed and evaluated in trials, but results for vertebral artery disease remain less definitive. It is emphasized that medical management should follow the guidelines for those with carotid artery disease, highlighting prevention of complications in other vascular beds. Anticoagulation is often recommended when there is thrombosis at the origin of the vertebral artery. The WASID trials indicate the efficacy of anticoagulants in ischemic events. Surgical management and endovascular interventions are discussed, with emphases on endarterectomy and stenting for vertebral artery disease.": "Vertebral artery reconstruction has perioperative mortality rates of 0% to 4%, with more complex cases showing higher risks. Outcomes of angioplasty and stenting are comparable for carotid artery disease. Despite technical feasibility, such interventions show varied results and lack strong evidence for preventing complications greater than conservative management."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Diseases of the Subclavian and Brachiocephalic Arteries",
+        "Sections": [
+          {
+            "Title": "9.1. Recommendations for the Management of Patients With Occlusive Disease of the Subclavian and Brachiocephalic Arteries",
+            "Class IIa": [
+              "Extra-anatomic carotid-subclavian bypass is reasonable for patients with symptomatic posterior cerebral or cerebellar ischemia caused by subclavian artery stenosis or occlusion, in the absence of clinical factors predisposing to surgical morbidity or mortality.",
+              "Percutaneous endovascular angioplasty and stenting is reasonable for patients with symptomatic posterior cerebral or cerebellar ischemia caused by subclavian artery stenosis who are at high risk of surgical complications.",
+              "Revascularization by percutaneous angioplasty and stenting, direct arterial reconstruction, or extra-anatomic bypass surgery is reasonable for patients with symptomatic ischemia involving the anterior cerebral circulation caused by common carotid or brachiocephalic artery occlusive disease.",
+              "Revascularization by percutaneous angioplasty and stenting, direct arterial reconstruction, or extra-anatomic bypass surgery is reasonable for patients with symptomatic ischemia involving upper extremity claudication caused by subclavian or brachiocephalic arterial occlusive disease.",
+              "Revascularization by either extra-anatomic bypass surgery or subclavian angioplasty and stenting is reasonable for asymptomatic patients with subclavian artery stenosis when the ipsilateral internal mammary artery is required as a conduit for myocardial revascularization."
+            ],
+            "Class III: No Benefit": [
+              "Asymptomatic patients with asymmetrical upper-limb blood pressure, periclavicular bruit, or flow reversal in a vertebral artery caused by subclavian artery stenosis should not undergo revascularization unless the internal mammary artery is required for myocardial revascularization."
+            ]
+          },
+          {
+            "Title": "9.2. Occlusive Disease of the Subclavian and Brachiocephalic Arteries",
+            "Description": "Occlusive disease of these arteries is relatively uncommon and caused by atherosclerosis, Takayasu arteritis, giant cell arteritis, FMD, and radiation-induced arteriopathy. Symptoms may include upper-extremity ischemia, claudication, paresthesia, or pain."
+          },
+          {
+            "Title": "9.3. Subclavian Steal Syndrome",
+            "Description": "When the proximal subclavian artery becomes stenotic or occluded, collateral circulation may cause muscle fatigue in the affected arm or claudication. Symptoms may be aggravated by exercising the ipsilateral arm. Diagnosis includes identifying flow reversal in a vertebral artery."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "9.4. Revascularization of the Brachiocephalic and Subclavian Arteries",
+        "approaches": [
+          "Prosthetic extra-anatomic bypass grafting from the ipsilateral carotid artery to the subclavian artery is used to restore blood flow.",
+          "Extra-anatomic methods include carotid-axillary or axilloaxillary bypass with polytetrafluoroethylene or Dacron grafts.",
+          "Surgical repair associated with low morbidity and high long-term patency.",
+          "Subclavian artery stenosis can be treated with angioplasty, atherectomy, and stenting.",
+          "Balloon angioplasty and stenting have better outcomes compared to angioplasty alone.",
+          "Some reports favor bypass surgery for good surgical candidates.",
+          "Brachiocephalic artery occlusive disease is often treated by carotid or subclavian artery stenosis, with transthoracic revascularization preferred in embolic cases."
+        ],
+        "procedure success rates": [
+          "Procedure was initially successful in 93% of cases in one study.",
+          "High 1-year and 5-year patency rates: 100% at 1 year, 96% at 5 years post-surgical bypass."
+        ],
+        "risks": [
+          "Complications can include embolism, heart failure, and arterial pseudoneurysm.",
+          "Balloon angioplasty and stenting showed fewer complications compared to bypass surgery."
+        ],
+        "recommendations": [
+          "Angioplasty and stenting recommended for subclavian and brachiocephalic arteries.",
+          "Bypass surgery is preferred for certain candidates, percutaneous stenting when anatomy permits."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          {
+            "title": "10.1. Neurological Risk Reduction in Patients With Carotid Artery Disease Undergoing Cardiac or Noncardiac Surgery",
+            "subsections": [
+              {
+                "title": "10.1.1 Recommendations for Carotid Artery Evaluation and Revascularization Before Cardiac Surgery",
+                "details": [
+                  {
+                    "class": "IIA",
+                    "recommendations": [
+                      "Carotid duplex ultrasound screening is reasonable before elective CABG surgery in patients older than 65 years of age and in those with left main coronary stenosis, PAD, a history of cigarette smoking, a history of stroke or TIA, or carotid bruit. (Level of Evidence: C)",
+                      "Carotid revascularization by CEA or CAS with embolic protection before or concurrent with myocardial revascularization surgery is reasonable in patients with greater than 80% carotid stenosis who have experienced ipsilateral retinal or hemispheric cerebral ischemic symptoms within 6 months. (Level of Evidence: C)"
+                    ]
+                  },
+                  {
+                    "class": "IIb",
+                    "recommendations": [
+                      "In patients with asymptomatic carotid stenosis, even if severe, the safety and efficacy of carotid revascularization before or concurrent with myocardial revascularization are not well established. (Level of Evidence: C)"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "10.1.2 Neurological Risk Reduction in Patients With Carotid Artery Disease Undergoing Coronary Bypass Surgery",
+                "summary": "CABG patients without carotid atherosclerosis face higher stroke risks than patients without carotid disease. Evidence is inconclusive on the benefit of carotid intervention in asymptomatic cases. With symptomatic carotid stenosis patients, there are indications that certain approaches, like performing CEA before CABG, may reduce the risk of stroke and death."
+              },
+              {
+                "title": "10.1.3 Neurological Risk Reduction in Patients Undergoing Noncoronary Cardiac or Noncardiac Surgery",
+                "summary": "For professional guidelines on managing such patients, the 2009 ACCF/AHA focused update is recommended."
+              }
+            ]
+          },
+          {
+            "title": "11. Nonatherosclerotic Carotid and Vertebral Artery Diseases",
+            "summary": "Nonatherosclerotic diseases of these arteries, such as FMD and arterial dissection, are uncommon and less understood compared to atherosclerosis."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "11.1. Fibromuscular Dysplasia": {
+          "11.1.1. Recommendations for Management of Patients With Fibromuscular Dysplasia of the Extracranial Carotid Arteries": {
+            "Class IIa": [
+              "Annual noninvasive imaging of the carotid arteries is reasonable initially for patients with FMD to detect changes in the extent or severity of disease.",
+              "Administration of platelet-inhibitor medication can be beneficial in patients with FMD of the carotid arteries to prevent thromboembolism.",
+              "Carotid angioplasty with or without stenting is reasonable for patients with retinal or hemispheric cerebral ischemic symptoms related to FMD of the ipsilateral carotid artery."
+            ],
+            "Class III: No Benefit": [
+              "Revascularization is not recommended for patients with asymptomatic FMD of a carotid artery, regardless of the severity of stenosis."
+            ],
+            "General Information": "FMD is a nonatherosclerotic, noninflammatory vascular disease characterized by focal stenosis or multiple constrictions. The incidence of carotid FMD is low and is most commonly encountered in middle-aged women. Symptoms can include stroke, TIA, carotid dissection, Horner syndrome, cranial nerve palsies, and subarachnoid hemorrhage."
+          }
+        },
+        "11.2. Cervical Artery Dissection": {
+          "11.2.1. Recommendations for Management of Patients With Cervical Artery Dissection": {
+            "Class I": [
+              "Contrast-enhanced CTA, MRA, and catheter-based contrast angiography are useful for the diagnosis of cervical artery dissection."
+            ],
+            "Class IIa": [
+              "Antithrombotic treatment with either an anticoagulant or a platelet inhibitor for at least 3 to 6 months is reasonable for patients."
+            ],
+            "Class IIb": [
+              "Carotid angioplasty and stenting might be considered when ischemic neurological symptoms have not responded to antithrombotic therapy.",
+              "The safety and effectiveness of pharmacological therapy with a beta-adrenergic antagonist, angiotensin inhibitor, or nonhydropyridine calcium channel antagonist to lower blood pressure and reduce arterial wall stress are not well established."
+            ],
+            "General Information": "Carotid or vertebral artery dissection can occur spontaneously or after minor trauma. Symptoms like hyperflexion, hyperextension of the neck, or chiropractic manipulation have been associated with dissection. Dissection can stem from an intimal tear leading to intramural hematomas."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Incidence": {
+          "Spontaneous carotid artery dissection": "2.5 to 3 per 100,000 population",
+          "Carotid artery dissection": "Approximately 2% of ischemic strokes",
+          "Vertebral artery dissection": {
+            "Younger patients": "10% to 15% of ischemic strokes",
+            "General": "Not well defined"
+          }
+        },
+        "Risk Factors": [
+          "Cephalad motion of the vertebral artery",
+          "Penetrating trauma",
+          "Amphetamine abuse"
+        ],
+        "Symptoms": [
+          "Pain on one side of the head or neck",
+          "Horner syndrome",
+          "Neurologic symptoms",
+          "Headache",
+          "Neck pain",
+          "Vomiting",
+          "Disturbances of vision or speech"
+        ],
+        "Diagnostic Approach": [
+          "Clinical examination",
+          "Brain imaging",
+          "Vascular imaging"
+        ],
+        "Treatment": [
+          "Anticoagulation with heparin followed by warfarin",
+          "Anticoagulants vs. antiplatelet agents"
+        ],
+        "Future Research Recommendations": [
+          "Improve understanding of asymptomatic patients",
+          "Develop risk thresholds for detecting significant carotid stenosis",
+          "Measure IMT of carotid artery",
+          "Understand the connection between carotid stenosis and ischemic brain events"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary": "The document discusses advancements in imaging technologies for evaluating patients with Extracranial Cerebrovascular Disease (ECVD). It highlights the limitations of current methods and the need for improved imaging to identify stroke risk. The use of antiplatelet therapy and anticoagulation in patients with ECVD and those who suffer acute ischemic stroke is covered, alongside the importance of investigating drug resistance and genetic profiling. The paper calls for clinical guidelines to focus on individual patient evaluations based on risk factors and personalized medicine approaches.",
+        "Clinical Imaging": "PET/CT, PET/MRI are used to evaluate ECVD by identifying plaque instability and inflammation biomarkers. MRI and CT are expanding into wider patient demographics.",
+        "Antiplatelet Therapy": "Current treatments are not fully proven effective for asymptomatic patients with ECVD. Ongoing research is needed to find optimal antithrombotic therapy.",
+        "Drug Resistance": "Emphasizes the need for genetic profiling to understand drug resistance in treatment.",
+        "Anticoagulation": "Few studies are available on its use post-acute ischemic stroke in ECVD patients. Increased risk of ischemic injury poses challenges.",
+        "Specific Therapies": "Antihypertensive therapy is under evaluation for those with impaired cerebral perfusion. Importance of targeting cholesterol and ischemic stroke prevention strategies.",
+        "Gender and Demography": "Acknowledges the need to address differences in stroke presentation and treatment outcomes related to sex, ethnicity, and other clinical features."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_information": "The clinical guideline discusses careful consideration for the duration and intensity of antithrombotic therapy after revascularization, noting differences in treatment efficacy among demographic groups like women, older patients, and middle-aged white males. It emphasizes the need for more research on vascular lumen, pathobiology of atherosclerosis, plaque composition, and calcification to explore clinical manifestations of ECVD. CREST results provide guidance on carotid artery stenting and endarterectomy, urging against extrapolation of current practice until more structured trials are conducted. It underlines the complexity of vertebral arterial disease due to its rarity compared to carotid stenosis.",
+        "clinical_points": [
+          "Attention to the long-term prevention of ischemic events in patients after revascularization.",
+          "Need for research on differences in outcomes based on demographic variables.",
+          "CREST trial results indicate comparable outcomes for CAS and CEA but emphasize further studies for older patients.",
+          "Consideration of patient-specific factors in treatment strategies for symptomatic and asymptomatic patients.",
+          "Challenges in studying less common ECVD forms even in controlled trials."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_information": "This document is a clinical guideline for stroke and cardiovascular disease, listing studies and recommendations related to cerebral and carotid artery diseases. It covers epidemiological data, risk factors, and preventative measures, including the role of carotid thickness, the importance of addressing racial and ethnic disparities in health outcomes, and the effectiveness of different medical imaging techniques for assessing cardiovascular risks."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_information": [
+          "The document provides guidelines and studies related to cardiovascular health and the treatment of carotid artery diseases, particularly focusing on the measurement and impact of arterial wall thickness.",
+          "Various studies are cited discussing the associations between carotid artery conditions and cardiovascular events, the predictive power of arterial wall thickness measurements, and the outcomes of surgical vs. medical interventions.",
+          "There are references to the role of genetic factors, lifestyle interventions, and medications in managing cardiovascular risks."
+        ],
+        "key_topics": [
+          "Coronary artery calcium as a measure of cardiovascular disease.",
+          "Predictive value of carotid intima-media thickness for cardiovascular events.",
+          "Implications of arterial wall thickness measurement in stroke risk assessment.",
+          "Outcomes of carotid endarterectomy compared to medical therapy.",
+          "Role of cholesterol management in cardiovascular risk reduction."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general": [
+          "The guideline discusses carotid plaque echogenicity and its role in predicting silent cerebral infarctions.",
+          "Identification techniques for different types of plaque using ultrasound and computed tomography are explored.",
+          "Evaluation of inflammatory markers and plaque inflammation is examined using imaging techniques like MRI and PET.",
+          "Various studies analyze the effects of lipid-lowering treatments, such as statins, on the progression of atherosclerotic lesions and stroke prevention.",
+          "Guidelines for the prevention and management of transient ischemic attacks and strokes are outlined."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "ACTA2",
+          "Associated Conditions": [
+            "Atherosclerosis"
+          ],
+          "Occurrences": 1,
+          "context": "Winter PM, Morawski AM, Caruthers SD, et al. Molecular imaging of angiogenesis in early-stage atherosclerosis with \u0003B1v\u00003B2-integrin-targeted nanoparticles."
+        },
+        {
+          "Gene": "MMP2",
+          "Associated Conditions": [
+            "Atherosclerosis",
+            "Artery Stenosis"
+          ],
+          "Occurrences": 2,
+          "context": "Alvarez B, Ruiz C, Chacon P, et al. Serum values of metalloproteinase 2 and metalloproteinase 9 related to unstable plaque and inflammatory cells in patients with greater than 70% carotid artery stenosis."
+        }
+      ]
+    },
+    {
+      "content": {
+        "general_information": "The document primarily focuses on the use of ultrasound and angiography in detecting and evaluating carotid and vertebral artery conditions, specifically stenosis. Various studies and guidelines from different organizations are cited, discussing the diagnostic value of different imaging techniques, the accuracy of these methods, and criteria for their use in clinical practice."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The clinical guideline image discusses various imaging techniques used for evaluating carotid artery stenosis, a condition where the carotid arteries narrow, reducing blood flow to the brain and increasing stroke risk. Techniques mentioned include duplex ultrasonography, contrast-enhanced MR angiography, CT angiography, and Doppler ultrasound. Studies compare the effectiveness and accuracy of these methods in diagnosing carotid artery stenosis, with a focus on technical advancements and their clinical implications."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "244": "Chobanian AV, Bakris GL, Black HR, et al. The Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure: the JNC 7 report. JAMA. 2003;289:2560\u201372.",
+        "246": "Wolf PA, D\u2019Agostino RB, Kannel WB, et al. Cigarette smoking as a risk factor for stroke, The Framingham Study. JAMA. 1988;259:1025\u20139.",
+        "247": "Shinton R, Beevers G. Meta-analysis of relation between cigarette smoking and stroke. BMJ. 1989;298:789\u201394.",
+        "248": "Kawakci T, Colditz GA, Stampfer MJ, et al. Smoking cessation and decreased risk of stroke in women. JAMA. 1993;269:232\u20136.",
+        "249": "Boulos AS, Mason JO, Lee IM, et al. Cigarette smoking and stroke in a cohort of U.S. male physicians. Ann Intern Med. 1994;120:458\u201362.",
+        "256": "Sharrett AR, Ding J, Criqui MH, et al. Smoking, diabetes, and blood cholesterol differ in their associations with subclinical atherosclerosis: the Multiethnic Study of Atherosclerosis (MESA). Atherosclerosis. 2006;184:416\u20137."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_clinical_information": [
+          {
+            "study": "Krum H et al.",
+            "topic": "Lipid levels and the risk of ischemic stroke in women"
+          },
+          {
+            "study": "Lawrence W et al.",
+            "topic": "Cholesterol and vascular mortality"
+          },
+          {
+            "study": "Sharrett AR et al.",
+            "topic": "Associations of lipoprotein cholesterol, apolipoproteins A-I and B, and triglycerides with carotid atherosclerosis and coronary heart disease"
+          },
+          {
+            "study": "Wasserman BA et al.",
+            "topic": "Risk factor associations with the presence of a lipid core in carotid plaque"
+          },
+          {
+            "study": "Brid MJ, Mude MI, Glass TR et al.",
+            "topic": "Effects of statins on stroke prevention in patients with and without coronary heart disease"
+          },
+          {
+            "study": "Amarenco P et al.",
+            "topic": "Statins in stroke prevention and carotid atherosclerosis"
+          },
+          {
+            "study": "Baigent C et al.",
+            "topic": "Effect of cholesterol-lowering treatment"
+          },
+          {
+            "study": "Siliesn H et al.",
+            "topic": "Atorvastatin reduces the risk of cardiovascular events in patients with carotid atherosclerosis"
+          },
+          {
+            "study": "MRC/BHF Heart Protection Study",
+            "topic": "Cholesterol lowering with simvastatin"
+          },
+          {
+            "study": "Crouse JR III et al.",
+            "topic": "Effect of rosuvastatin on progression of carotid intima-media thickness"
+          },
+          {
+            "study": "Taylor AJ et al.",
+            "topic": "ARBITER study: comparing the effects of atorvastatin and pravastatin on carotid intima media thickness"
+          },
+          {
+            "study": "Smilde TJ et al.",
+            "topic": "Effect of aggressive versus conventional lipid lowering on atherosclerosis progression"
+          },
+          {
+            "study": "Canner PL et al.",
+            "topic": "Coronary Drug Project: long-term benefit with niacin"
+          },
+          {
+            "study": "Bloomfield HE et al.",
+            "topic": "Reduction in stroke with gemfibrozil"
+          },
+          {
+            "study": "Keech A et al.",
+            "topic": "Effects of long-term fenofibrate therapy"
+          },
+          {
+            "study": "Taylor AJ et al.",
+            "topic": "STAR study: simvastatin with or without ezetimibe"
+          },
+          {
+            "study": "Gerstein HC et al.",
+            "topic": "Effects of intensive glucose lowering in type 2 diabetes"
+          },
+          {
+            "study": "Patel A et al.",
+            "topic": "Efficacy of intensive blood glucose control in patients with type 2 diabetes"
+          },
+          {
+            "study": "Colhoun HM et al.",
+            "topic": "Primary prevention of cardiovascular disease with atorvastatin in type 2 diabetes"
+          },
+          {
+            "study": "Manson JE et al.",
+            "topic": "Management of stroke among women"
+          },
+          {
+            "study": "Folsom AR et al.",
+            "topic": "Risk factors for atherosclerosis"
+          },
+          {
+            "study": "Smith NL et al.",
+            "topic": "Postchallenge serum glucose measures"
+          },
+          {
+            "study": "Wagenknecht LE et al.",
+            "topic": "Duration of diabetes and carotid thickness"
+          },
+          {
+            "study": "Haffner SM et al.",
+            "topic": "Atherosclerosis in type 2 diabetic and nondiabetic subjects"
+          },
+          {
+            "study": "Wagenknecht LE et al.",
+            "topic": "Progression of carotid atherosclerosis"
+          },
+          {
+            "study": "Laakso M et al.",
+            "topic": "Benefits of strict glucose and blood pressure control"
+          },
+          {
+            "study": "Nathan DM et al.",
+            "topic": "Intensive diabetes therapy"
+          },
+          {
+            "study": "Scottish Intercollegiate Guidelines Network.",
+            "topic": "Collaborative meta-analysis of individual data"
+          },
+          {
+            "study": "Schulb J et al.",
+            "topic": "Association between plasma homocysteine concentrations"
+          },
+          {
+            "study": "Malinow MR et al.",
+            "topic": "Carotid artery intimal-medial wall thickening"
+          },
+          {
+            "study": "McQuillan BM et al.",
+            "topic": "Prediction of cardiovascular events"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "EVOGe Guideline: Full Text",
+        "summary": "The document discusses various studies related to stroke prevention, cardiovascular health, and associated factors. It highlights links between homocysteine levels, B vitamin intake, metabolic syndrome, cardiovascular risk factors, and the effectiveness of medications like aspirin, clopidogrel, and statins in different populations, including the elderly and those with specific conditions like metabolic syndrome and hypercholesterolemia."
+      },
+      "genes": [
+        {
+          "Gene": "CYP2C19",
+          "Associated Conditions": [
+            "stroke",
+            "response to clopidogrel"
+          ],
+          "Occurrences": 1,
+          "context": "Mega JL, Close SL, Wiviott SD, et al. Cytochrome P-450 polymorphisms and response to clopidogrel. N Engl J Med. 2009;360:354\u201362."
+        }
+      ]
+    },
+    {
+      "content": {
+        "general_information": [
+          "Recommendations from clinical experts and reports by the FDA and American Heart Association on the use of specific drugs and procedures for stroke prevention and treatment.",
+          "Discussion on the effectiveness of carotid endarterectomy versus stenting in preventing recurrent strokes.",
+          "Analysis of various clinical trials such as SAPPHIRE, CAVATAS, and others regarding treatment methods for symptomatic and asymptomatic carotid artery stenosis.",
+          "Information on the safety and effectiveness of specific medications and procedures such as selective COX-2 inhibitors, emboli protection during carotid stenting, and the use of nicotine for smoking cessation in clinical practice.",
+          "Meta-analyses and reviews on the risk-benefit profiles of carotid surgeries and medications in stroke prevention."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guidelines": [
+          {
+            "study": "Fiestum R, Banvall T, Cohn S, et al.",
+            "finding": "Hemodynamic effects of primary closure versus patch angioplasty of the carotid artery.",
+            "reference": "Acta Chir Scand. 1992;64:43\u20139."
+          },
+          {
+            "study": "RosenblattD, Archie JP Jr, Garcia-Rinaldi R, et al.",
+            "finding": "Carotid patch angioplasty: immediate and long-term results.",
+            "reference": "J Vasc Surg. 1990;12: 326\u201335."
+          },
+          {
+            "study": "Vanmache R, Van Schil P, De Maeseneer M.",
+            "finding": "Closure of the internal carotid artery after endarterectomy: the advantages of patch angioplasty without strictures.",
+            "reference": "Ann Vasc Surg. 1990;4:481\u20134."
+          },
+          {
+            "study": "Clagett GP, Patterson CB, Fisher DF Jr, et al.",
+            "finding": "Vein patch versus primary closure for carotid endarterectomy.",
+            "reference": "A randomized prospective study in selected group of patients. J Vasc Surg. 1989;9:213\u201323."
+          },
+          {
+            "study": "Eikelboom BC, Ackerstaff RG, Hoeneveld HuG, et al.",
+            "finding": "Benefits of carotid patching: a randomized study.",
+            "reference": "J Vasc Surg. 1988;7:240\u20137."
+          },
+          {
+            "study": "Hertzer NR, Beven EG, O'Hara PJ, et al.",
+            "finding": "A prospective study of vein patch angioplasty during carotid endarterectomy.",
+            "reference": "Three-year results for 801 patients and 901 operations.",
+            "journal": "Ann Surg. 1987;206:628\u201335."
+          },
+          {
+            "study": "Katz MJ, Jones GT, Degenhardt J, et al.",
+            "finding": "The use of patch angioplasty after the incidence of carotid restenosis following thromboendarterectomy.",
+            "reference": "J Cardiovasc Surg (Torino). 1987;28:2\u20138."
+          },
+          {
+            "study": "AbuRahma AF, Robinson PA, Saiedy S, et al.",
+            "finding": "Prospective randomized trial of three carotid endarterectomies: primary closure versus patching.",
+            "reference": "Stroke. 1999;30:1185\u20139."
+          },
+          {
+            "study": "Bond R, Rerkasem K, AbuRahma AF, et al.",
+            "finding": "Patch angioplasty versus primary closure for carotid endarterectomy.",
+            "reference": "Cochrane Database Syst Rev. 2004;CD000160."
+          },
+          {
+            "study": "Cao P, De Rango P, Cieri E, et al.",
+            "finding": "Eversion versus conventional endarterectomy.",
+            "reference": "Semin Vasc Surg. 2004;17:236\u201342."
+          },
+          {
+            "study": "Crawford RS, Chung TK, Hodgman T, et al.",
+            "finding": "Restenosis after eversion patch closure carotid endarterectomy.",
+            "reference": "J Vasc Surg. 2007;46: 41\u20138."
+          },
+          {
+            "study": "Narayanan S, Yenokyan G, Thompson RE, et al.",
+            "finding": "Statistical modeling of the volume-outcome effect for carotid endarterectomy from a 5-year statewide database.",
+            "reference": "J Vasc Surg. 2008;48:343\u201350."
+          },
+          {
+            "study": "Champlin AR, Zuckerman RS, Finlayson SR.",
+            "finding": "Annual hospital and high-risk operations: how would regionalization affect surgical volume and hospital revenue?",
+            "reference": "J Am Coll Surg. 2006;203:599\u2013604."
+          },
+          {
+            "study": "Matsen SL, Chang DC, Perler BA, et al.",
+            "finding": "Trends in the in-hospital stroke following carotid endarterectomy in California and Maryland.",
+            "reference": "J Vasc Surg. 2006;44:488\u201395."
+          },
+          {
+            "study": "Goodney PP, Stukel TA, Lucas FL, et al.",
+            "finding": "Hospital volume, length of stay, and readmission rates in high-risk surgery.",
+            "reference": "Ann Surg. 2003;238: 161\u20137."
+          },
+          {
+            "study": "Deen HG.",
+            "finding": "Surgeon volume and carotid endarterectomy.",
+            "reference": "J Am Coll Surg. 2003;196:826\u20137."
+          },
+          {
+            "study": "Cowen JA Jr, Dimick JB, Thompson BG, et al.",
+            "finding": "Surgeon volume as an indicator of outcomes after carotid endarterectomy: comment.",
+            "reference": "An effect independent of specialty practice and hospital volume.",
+            "journal": "J Am Coll Surg. 2007;205:814\u201321."
+          },
+          {
+            "study": "Feasby TE, Quan H, Ghali WA.",
+            "finding": "Hospital and surgeon determinants of carotid endarterectomy outcomes.",
+            "reference": "Neurol. 2002;59:1757\u201381."
+          },
+          {
+            "study": "Birkmeyer JD, Siewers AE, Finlayson EV, et al.",
+            "finding": "Hospital volume and surgical mortality in the United States.",
+            "reference": "N Engl J Med. 2002;346: 1128\u201337."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {},
+      "genes": []
+    },
+    {
+      "content": {
+        "articles": [
+          {
+            "author": "Middleton S, Donnelly N",
+            "title": "Outcomes of carotid endarterectomy",
+            "findings": "Comparison of outcomes of CEA between Australian and New South Wales hospitals."
+          },
+          {
+            "author": "Chiesa R, Melissano G, Castellano R, et al.",
+            "title": "Carotid endarterectomy experience in 5,425 cases",
+            "findings": "A large-scale study on carotid endarterectomy."
+          },
+          {
+            "author": "Krapstream B, Parson H, Lindback J, et al.",
+            "title": "Outcomes of carotid endarterectomy",
+            "findings": "Improvement in CEA outcomes from a population-based registry."
+          },
+          {
+            "author": "Kennedy J, Quan H, Buchan AM, et al.",
+            "title": "Statins and carotid endarterectomy",
+            "findings": "Statins associated with better outcomes after CEA."
+          },
+          {
+            "author": "Taylor DW, Barnett HJ, Haynes RB, et al.",
+            "title": "Low-dose and high-dose acetylsalicylic acid for patients undergoing CEA",
+            "findings": "Comparison of aspirin dosages in randomized controlled trials."
+          },
+          {
+            "author": "Lamuraglia GM, Stoner MC, Brewster DC, et al.",
+            "title": "Determinants of carotid endarterectomy outcomes",
+            "findings": "Effects of serum lipids and lipid-lowering drugs on CEA outcomes."
+          },
+          {
+            "author": "Roth SM, Back MR, Bandyk DF, et al.",
+            "title": "A national algorithm for duplex scan surveillance after carotid endarterectomy",
+            "findings": "Guidelines established for post-CEA surveillance."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "topics": [
+          "Carotid artery stenting",
+          "Embolic protection devices",
+          "Carotid endarterectomy",
+          "Stent restenosis",
+          "Balloon angioplasty",
+          "Hyperperfusion syndrome",
+          "Safety and efficacy of carotid stenting",
+          "Technical limitations of carotid stenting"
+        ],
+        "highlights": [
+          "Carotid artery stenting is evaluated in various clinical trials and patient follow-ups.",
+          "Embolic protection devices are essential for protecting against complications during stenting.",
+          "Stent restenosis and in-stent neointimal proliferation are challenging issues in patients.",
+          "Balloon angioplasty with stenting has shown varying results in different trials.",
+          "Hyperperfusion syndrome should be distinguished carefully post-stenting."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "APOE",
+          "Associated Conditions": [
+            "Atherosclerosis"
+          ],
+          "Occurrences": 1,
+          "context": "Ali ZA, Alp N, Lupton H, et al. Increased in-stent stenosis in ApoE knockout mice: insights from a novel mouse model of balloon angioplasty and stenting."
+        }
+      ]
+    },
+    {
+      "content": {
+        "topics": [
+          "Contemporary incidence and predictors of major adverse cardiac events",
+          "Meta-analysis of clinical outcomes in carotid artery stenting",
+          "Updated review of global carotid artery stenting registry",
+          "Early outcome of carotid angioplasty and stenting with and without protection devices",
+          "Impact of intravascular ultrasound on endovascular interventions",
+          "Safety and efficacy of intravascular ultrasound-guided carotid artery stenting",
+          "Bivalirudin as an anticoagulation agent in peripheral interventions",
+          "Three-year analysis of carotid stenting outcomes",
+          "Carotid endarterectomy in asymptomatic patients"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "ECVD Guideline Full Text",
+        "journal": "JACC Vol. 57, No. 8, 2011",
+        "page": "e85",
+        "date": "February 22, 2011",
+        "topics": [
+          "Carotid artery stenosis",
+          "Extracranial vertebral artery disease",
+          "Surgical revascularization",
+          "Stenting of arterial stenosis"
+        ],
+        "clinical focus": [
+          "Management of recurrent carotid stenosis",
+          "Surgical treatment for vertebral artery disease",
+          "Endovascular techniques for revascularization",
+          "Outcomes post-interventional treatment"
+        ],
+        "studies discussed": [
+          {
+            "author": "Zierler RE et al.",
+            "focus": "Carotid artery stenosis following endarterectomy",
+            "publication": "Arch Surg. 1982;117:1408\u201315."
+          },
+          {
+            "author": "DeGroot RD et al.",
+            "focus": "Surgical revascularization of the extracranial vertebral artery",
+            "publication": "J Vasc Surg. 2000;31:9\u201318."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guideline": "The document contains guidelines and studies related to vascular interventions, spanning topics like stenting, surgical bypass, and management of conditions like carotid artery stenosis, fibromuscular dysplasia, and arterial dissections. It emphasizes outcomes and various methods such as stents, surgical grafting, and angioplasty."
+      },
+      "genes": [
+        {
+          "Gene": "COL4A1",
+          "Associated Conditions": [
+            "Cervical arterial dissection",
+            "Intracranial artery dissection"
+          ],
+          "Occurrences": 1,
+          "context": "DiLuna ML, Bydon M, Guldner M, et al. Neurological picture: complications from cervical intra-arterial injection. J Neurol Neurosurg Psychiatry. 2007;78:1189."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "ACCF/AHA Practice Guidelines on the Management of Patients with Extracranial Carotid and Vertebral Artery Disease",
+        "sections": [
+          {
+            "title": "Endovascular Management",
+            "references": [
+              "Edgell RC, Abou-Chebl A, Yadav JS. Endovascular management of spontaneous carotid artery dissection.",
+              "Sangue G, Batocchi C, Panico MA, et al. Endovascular management of acute carotid artery dissection.",
+              "Malek AM, Higashida RT, Phatouros CC, et al. Endovascular management of extracranial carotid artery dissection."
+            ]
+          },
+          {
+            "title": "Stenting",
+            "references": [
+              "DeCarlo P, Brillman J, Levy DI. Stenting: a new approach to carotid dissection."
+            ]
+          }
+        ],
+        "keyWords": [
+          "carotid endarterectomy",
+          "carotid stenosis",
+          "carotid stenting",
+          "extracranial carotid artery",
+          "revascularization",
+          "stroke",
+          "vertebral artery disease"
+        ],
+        "appendix": {
+          "title": "Author Relationships with Industry and Other Entities",
+          "description": "Detailed author relationships with industry for conflict of interest disclosure."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document_type": "ECVD Guideline Disclosure Table",
+        "committee_members": [
+          {
+            "name": "John D. Barr",
+            "affiliation": "Scripps Memorial Hospitals",
+            "roles": [
+              "Consultant",
+              "Speaker"
+            ],
+            "companies": [
+              "Boston Scientific",
+              "Cordis Neurovascular",
+              "Abbott",
+              "Guidant"
+            ]
+          },
+          {
+            "name": "Ruth L. Bush",
+            "affiliation": "Scott & White Hospital, Texas A&M University",
+            "roles": [
+              "Consultant"
+            ],
+            "companies": [
+              "Abbott",
+              "Endologix",
+              "Guidant",
+              "InvaVein",
+              "VNUS"
+            ]
+          },
+          {
+            "name": "Christopher U. Cates",
+            "affiliation": "Emory University Hospital",
+            "roles": [
+              "Consultant"
+            ],
+            "companies": [
+              "Boston Scientific",
+              "Cordis Endovascular",
+              "Medtronic"
+            ]
+          },
+          {
+            "name": "Mark A. Creager",
+            "affiliation": "Brigham & Women's Hospital",
+            "roles": [
+              "Consultant"
+            ],
+            "companies": [
+              "Sanofi-aventis",
+              "Bristol-Myers Squibb/Sanofi Partnership",
+              "Merck",
+              "Sanofi-aventis"
+            ]
+          },
+          {
+            "name": "Susan B. Fowler",
+            "affiliation": "Morristown Memorial Hospital",
+            "roles": [
+              "Consultant"
+            ],
+            "companies": [
+              "Genentech"
+            ]
+          },
+          {
+            "name": "Gary Friday",
+            "affiliation": "Bryn Mawr Hospital Lankenau Institute for Medical Research",
+            "roles": [
+              "Research"
+            ],
+            "companies": [
+              "NIH",
+              "Pfizer"
+            ],
+            "events": [
+              "Bayer legal cases involving phenylpropanolamine (2007) and Aprotinin (2010)",
+              "Johnson & Johnson legal case, Evra (2007)",
+              "Pfizer legal cases, Neurontin (2008), Bextra (2007)"
+            ]
+          },
+          {
+            "name": "Vicki S. Hertzberg",
+            "affiliation": "Emory University School of Public Health",
+            "roles": []
+          },
+          {
+            "name": "E. Bruce McIff",
+            "affiliation": "University of Utah College of Medicine",
+            "roles": [
+              "Consultant"
+            ],
+            "companies": [
+              "Cordis",
+              "Medtronic"
+            ]
+          },
+          {
+            "name": "Wesley S. Moore",
+            "affiliation": "David Geffen School of Medicine at UCLA",
+            "roles": [
+              "Research"
+            ],
+            "companies": [
+              "Abbott Vascular",
+              "Medtronic"
+            ]
+          },
+          {
+            "name": "Peter D. Panagos",
+            "affiliation": "Washington University",
+            "roles": [
+              "Consultant"
+            ],
+            "companies": [
+              "Genentech",
+              "PDL Biopharma"
+            ],
+            "research": "NIH (National Institute of Neurological Disorders and Stroke)"
+          },
+          {
+            "name": "Thomas S. Riles",
+            "affiliation": "New York University School of Medicine",
+            "roles": []
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2011 ASA/ACCF/AHA/AANN/AANS/ACR/ASNR/CNS/SAIP/SCAI/SIR/SNIS/SVM/SVS Guideline on the Management of Patients With Extracranial Carotid and Vertebral Artery Disease",
+        "committee_members": [
+          {
+            "name": "Robert H. Rosenwasser",
+            "employment": "Thomas Jefferson University Hospital for Neuroscience",
+            "consultant": null,
+            "speaker": null,
+            "ownership_principal": "Boston Scientific",
+            "research": "Micrus/Boston Scientific, NIH",
+            "financial_benefit": null,
+            "expert_witness": null
+          },
+          {
+            "name": "Allen J. Taylor",
+            "employment": "Washington Hospital Center",
+            "consultant": "Kos, Pfizer",
+            "speaker": null,
+            "ownership_principal": "Kos",
+            "research": null,
+            "financial_benefit": null,
+            "expert_witness": null
+          }
+        ],
+        "peer_reviewers": [
+          {
+            "name": "Amjad Almahameed",
+            "representation": "Society for Vascular Medicine",
+            "consultant": null,
+            "speaker": null,
+            "ownership_principal": null,
+            "research": null,
+            "financial_benefit": null,
+            "expert_witness": null
+          },
+          {
+            "name": "Sepideh Amin-Hanjani",
+            "representation": "Congress of Neurological Surgeons",
+            "consultant": null,
+            "speaker": null,
+            "ownership_principal": null,
+            "research": null,
+            "financial_benefit": null,
+            "expert_witness": null
+          },
+          {
+            "name": "Tracey Anderson",
+            "representation": "American Association of Neuroscience Nurses",
+            "consultant": null,
+            "speaker": null,
+            "ownership_principal": null,
+            "research": null,
+            "financial_benefit": null,
+            "expert_witness": null
+          },
+          {
+            "name": "Joshua Beckman",
+            "representation": "AHA",
+            "consultant": "Bristol-Myers Squibb, GlaxoSmithKline, Sanofi",
+            "speaker": "Merck",
+            "ownership_principal": null,
+            "research": null,
+            "financial_benefit": null,
+            "expert_witness": null
+          },
+          {
+            "name": "Carl Black",
+            "representation": "Society of Interventional Radiology",
+            "consultant": null,
+            "speaker": null,
+            "ownership_principal": null,
+            "research": null,
+            "financial_benefit": null,
+            "expert_witness": null
+          },
+          {
+            "name": "Jeffery Cavendish",
+            "representation": "ACCF Board of Governors",
+            "consultant": null,
+            "speaker": null,
+            "ownership_principal": null,
+            "research": null,
+            "financial_benefit": null,
+            "expert_witness": null
+          },
+          {
+            "name": "Seemant Chaturvedi",
+            "representation": "ASA",
+            "consultant": null,
+            "speaker": null,
+            "ownership_principal": null,
+            "research": null,
+            "financial_benefit": null,
+            "expert_witness": null
+          }
+        ],
+        "notes": "This table represents the relationships of committee members and peer reviewers with industry and other entities as reported. Significant relationships are noted with an asterisk. CREST refers to Carotid Revascularization Endarterectomy versus Stenting Trial. NIH refers to National Institutes of Health."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "reviewers": [
+          {
+            "name": "Yung-Wei Chi",
+            "representation": "Society for Vascular Medicine",
+            "consultant": "None",
+            "speaker": "None",
+            "ownership": "None",
+            "research": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Kevin Cockroft",
+            "representation": "American Association of Neurological Surgeons",
+            "consultant": [
+              "Bayer",
+              "EKR Therapeutics",
+              "PBC Biopharma"
+            ],
+            "speaker": "None",
+            "ownership": "None",
+            "research": [
+              "CoAxia",
+              "MRC",
+              "NIH"
+            ],
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "John Connors",
+            "representation": "American College of Radiology",
+            "consultant": "None",
+            "speaker": "None",
+            "ownership": "None",
+            "research": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Daniel Edmundowicz",
+            "representation": "Society of Atherosclerosis Imaging and Prevention",
+            "consultant": [
+              "Abbott",
+              "GNC Corporation",
+              "Merck Schering-Plough"
+            ],
+            "speaker": "None",
+            "ownership": "None",
+            "research": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Steven M. Ettinger",
+            "representation": "ACCF/AHA Task Force on Practice Guidelines",
+            "consultant": "None",
+            "speaker": "None",
+            "ownership": "None",
+            "research": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Larry B. Goldstein",
+            "representation": "ASA",
+            "consultant": [
+              "Abbott",
+              "Pfizer"
+            ],
+            "speaker": "None",
+            "ownership": "None",
+            "research": [
+              "AHA/Bugher",
+              "NIH/CREST"
+            ],
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "William Gray",
+            "representation": "Society for Cardiovascular Angiography and Interventions",
+            "consultant": [
+              "Abbott Vascular",
+              "Aramann Medical",
+              "BioCardia",
+              "Coherex Medical",
+              "Contego Medical",
+              "FlatLUX 3D",
+              "Lutonix",
+              "Mercator",
+              "QuantumCor",
+              "Silk Road",
+              "SpiRx Closure",
+              "Stereotaxis",
+              "W.L. Gore"
+            ],
+            "speaker": "None",
+            "ownership": [
+              "CoAptus",
+              "Ovalis",
+              "Paragon",
+              "Pathway Medical"
+            ],
+            "research": [
+              "Attritech",
+              "Cordis",
+              "NIH/CREST"
+            ],
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Catherine Harris",
+            "representation": "American Association of Neuroscience Nurses",
+            "consultant": "None",
+            "speaker": "None",
+            "ownership": "None",
+            "research": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Donald Heck",
+            "representation": "Society of NeuroInterventional Surgery",
+            "consultant": [
+              "Codman Neurovascular"
+            ],
+            "speaker": "None",
+            "ownership": "None",
+            "research": [
+              "Abbott Vascular",
+              "Boston Scientific",
+              "Cordis Endovascular"
+            ],
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "David Holmes",
+            "representation": "ACCF Board of Trustees",
+            "consultant": "None",
+            "speaker": "None",
+            "ownership": "None",
+            "research": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Elad Levy",
+            "representation": "Congress of Neurological Surgeons",
+            "consultant": [
+              "Boston Scientific",
+              "Cordis Neurovascular",
+              "ev3",
+              "Micrus Endovascular"
+            ],
+            "speaker": "None",
+            "ownership": [
+              "Intratech Medical",
+              "Micrus Endovascular"
+            ],
+            "research": [
+              "Boston Scientific",
+              "Abbott Vascular",
+              "ev3"
+            ],
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document_type": "Clinical Guideline",
+        "review_roles": [
+          {
+            "name": "William Mackey",
+            "role": "Official Reviewer\u2014Society for Vascular Surgery",
+            "consultant": "None",
+            "speaker": "None",
+            "ownership/partnership/principal": "None",
+            "research": "None",
+            "institutional_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Jon Matsumura",
+            "role": "Official Reviewer\u2014AHA",
+            "consultant": [
+              "Abbott"
+            ],
+            "speaker": "None",
+            "ownership/partnership/principal": "None",
+            "research": [
+              "Bard",
+              "Cook",
+              "Cordis",
+              "ev3",
+              "Lumen",
+              "Medtronic",
+              "W.L. Gore"
+            ],
+            "institutional_financial_benefit": "None",
+            "expert_witness": [
+              "W.L. Gore"
+            ]
+          },
+          {
+            "name": "J. Mocco",
+            "role": "Official Reviewer\u2014American Association of Neurological Surgeons",
+            "consultant": [
+              "Cordis"
+            ],
+            "speaker": "None",
+            "ownership/partnership/principal": "None",
+            "research": "None",
+            "institutional_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Christopher Moran",
+            "role": "Official Reviewer\u2014Society of NeuroInterventional Surgery",
+            "consultant": [
+              "Boston Scientific",
+              "Cordis Neurovascular",
+              "ev3"
+            ],
+            "speaker": [
+              "Boston Scientific",
+              "Cordis Neurovascular",
+              "ev3"
+            ],
+            "ownership/partnership/principal": "None",
+            "research": "None",
+            "institutional_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Issam Moussa",
+            "role": "Official Reviewer\u2014Society for Cardiovascular Angiography and Interventions",
+            "consultant": "None",
+            "speaker": "None",
+            "ownership/partnership/principal": "None",
+            "research": "None",
+            "institutional_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Paolo Raggi",
+            "role": "Official Reviewer\u2014Society of Atherosclerosis Imaging and Prevention",
+            "consultant": "None",
+            "speaker": "None",
+            "ownership/partnership/principal": "None",
+            "research": "None",
+            "institutional_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Caron Rockman",
+            "role": "Official Reviewer\u2014Society for Vascular Surgery",
+            "consultant": "None",
+            "speaker": "None",
+            "ownership/partnership/principal": "None",
+            "research": "None",
+            "institutional_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Robert Tarr",
+            "role": "Official Reviewer\u2014American Society of Neuroradiology",
+            "consultant": [
+              "Boston Scientific",
+              "Cordis Neurovascular"
+            ],
+            "speaker": "None",
+            "ownership/partnership/principal": "None",
+            "research": "None",
+            "institutional_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Susan Tocco",
+            "role": "Official Reviewer\u2014American Association of Neuroscience Nurses",
+            "consultant": "None",
+            "speaker": "None",
+            "ownership/partnership/principal": "None",
+            "research": "None",
+            "institutional_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Pat Zrelak",
+            "role": "Official Reviewer\u2014American Association of Neuroscience Nurses",
+            "consultant": "None",
+            "speaker": "None",
+            "ownership/partnership/principal": "None",
+            "research": "None",
+            "institutional_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Christopher Zylak",
+            "role": "Official Reviewer\u2014Society of Interventional Radiology",
+            "consultant": "None",
+            "speaker": [
+              "Abbott",
+              "Concentric Medical"
+            ],
+            "ownership/partnership/principal": "None",
+            "research": "None",
+            "institutional_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Don Casey",
+            "role": "Organizational Reviewer\u2014American College of Physicians",
+            "consultant": "None",
+            "speaker": "None",
+            "ownership/partnership/principal": "None",
+            "research": "None",
+            "institutional_financial_benefit": "None",
+            "expert_witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Peer Reviewers": [
+          {
+            "Name": "Jonathan A. Edlow",
+            "Representation": "Organizational Reviewer\u2014American College of Emergency Physicians",
+            "Consultant": "None",
+            "Speaker": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "J. Stephen Huff",
+            "Representation": "Organizational Reviewer\u2014American College of Emergency Physicians",
+            "Consultant": "None",
+            "Speaker": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Eric Bates",
+            "Representation": "Content Reviewer\u2014Expert Consensus Document on Carotid Stenting",
+            "Consultant": [
+              "Bristol-Myers Squibb",
+              "Daiichi Sankyo",
+              "Lilly",
+              "Momenta",
+              "Novartis",
+              "Sanofi-aventis",
+              "Takeda"
+            ],
+            "Speaker": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Jorge Belardi",
+            "Representation": "Content Reviewer\u2014ACCF Interventional Scientific Committee",
+            "Consultant": [
+              "Boston Scientific",
+              "Medtronic"
+            ],
+            "Speaker": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Sharon Christman",
+            "Representation": "Content Reviewer\u2014AHA Peripheral Vascular Disease Steering Committee",
+            "Consultant": "None",
+            "Speaker": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Michael Cowley",
+            "Representation": "Content Reviewer",
+            "Consultant": "None",
+            "Speaker": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Colin Derdeyn",
+            "Representation": "Content Reviewer\u2014AHA",
+            "Consultant": "W.L. Gore*",
+            "Speaker": "None",
+            "Ownership/Partnership/Principal": "nFocus",
+            "Research": "Genentech*",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Jose Diez",
+            "Representation": "Content Reviewer\u2014ACCF Catheterization Committee",
+            "Consultant": "None",
+            "Speaker": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Bruce Ferguson",
+            "Representation": "Content Reviewer\u2014ACCF Surgeons\u2019 Scientific Council",
+            "Consultant": "None",
+            "Speaker": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Karen Furie",
+            "Representation": "Content Reviewer\u2014AHA",
+            "Consultant": "None",
+            "Speaker": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Research": [
+              "ASA-Bugher*",
+              "NINDS*"
+            ],
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Hitinder Gurm",
+            "Representation": "Content Reviewer\u2014ACCF Peripheral Vascular Disease Committee",
+            "Consultant": "None",
+            "Speaker": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Norman Hertzer",
+            "Representation": "Content Reviewer\u2014ACCF/AHA Peripheral Arterial Disease Guideline Writing Committee",
+            "Consultant": "None",
+            "Speaker": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Loren Hiratzka",
+            "Representation": "Content Reviewer\u2014ACCF/AHA Peripheral Arterial Disease Guideline Writing Committee",
+            "Consultant": "None",
+            "Speaker": "AHA",
+            "Ownership/Partnership/Principal": "None",
+            "Research": "None",
+            "Institutional Benefit": "None",
+            "Expert Witness": "2007; defendant; misdiagnosis of thoracic aortic disease"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "ECVD Guideline: Full Text",
+        "date": "February 22, 2011",
+        "journal": "JACC Vol. 57, No. 8, 2011"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "ReviewInformation": {
+          "Reviewer": "Christopher White",
+          "Type": "Content Reviewer",
+          "Consultant": "Boston Scientific",
+          "Speaker": "None",
+          "Ownership/Partnership/Principal": "None",
+          "Research": "Boston Scientific",
+          "InstitutionalOrganizationalFinancialBenefit": "None",
+          "ExpertWitness": "None"
+        },
+        "AbbreviationList": [
+          {
+            "CABG": "coronary artery bypass graft"
+          },
+          {
+            "CAD": "coronary artery disease"
+          },
+          {
+            "CAS": "carotid artery stenting"
+          },
+          {
+            "CEA": "carotid endarterectomy"
+          },
+          {
+            "CT": "computed tomography"
+          },
+          {
+            "CTA": "computed tomography angiography"
+          },
+          {
+            "ECVD": "extracranial carotid and vertebral artery disease"
+          },
+          {
+            "EPD": "embolic protection device"
+          },
+          {
+            "FMD": "fibromuscular dysplasia"
+          },
+          {
+            "IMT": "intima-media thickness"
+          },
+          {
+            "IVUS": "intravascular ultrasound"
+          },
+          {
+            "LDL": "low-density lipoprotein"
+          },
+          {
+            "MI": "myocardial infarction"
+          },
+          {
+            "MRA": "magnetic resonance angiography"
+          },
+          {
+            "MRI": "magnetic resonance imaging"
+          },
+          {
+            "NSAID": "nonsteroidal anti-inflammatory drugs"
+          },
+          {
+            "PAD": "peripheral arterial disease"
+          },
+          {
+            "PET": "positron emission tomography"
+          },
+          {
+            "TIA": "transient ischemic attack"
+          }
+        ],
+        "RelationshipDisclaimer": "The table represents reported relationships by reviewers with industry and other entities relevant to this document according to the ACCF disclosure system. It may not reflect relationships at the time of publication. Relationships are considered significant based on ownership, stock shares, or income percentage criteria."
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "CYP2C19",
+      "Associated Conditions": [
+        "Clopidogrel resistance",
+        "cerebrovascular disease",
+        "stroke",
+        "response to clopidogrel"
+      ],
+      "Occurrences": 3,
+      "context": [
+        "Clopidogrel resistance has also been described and its effectiveness is diminished because of genetic variations in the cytochrome P450 system, which depends primarily on the function of CYP2C19. Genetic variability in CYP enzymes that affect platelet function has been associated with adverse outcomes.",
+        "Mega JL, Close SL, Wiviott SD, et al. Cytochrome P-450 polymorphisms and response to clopidogrel. N Engl J Med. 2009;360:354\u201362."
+      ]
+    },
+    {
+      "Gene": "ACTA2",
+      "Associated Conditions": [
+        "Atherosclerosis"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Winter PM, Morawski AM, Caruthers SD, et al. Molecular imaging of angiogenesis in early-stage atherosclerosis with \u0003B1v\u00003B2-integrin-targeted nanoparticles."
+      ]
+    },
+    {
+      "Gene": "MMP2",
+      "Associated Conditions": [
+        "Atherosclerosis",
+        "Artery Stenosis"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "Alvarez B, Ruiz C, Chacon P, et al. Serum values of metalloproteinase 2 and metalloproteinase 9 related to unstable plaque and inflammatory cells in patients with greater than 70% carotid artery stenosis."
+      ]
+    },
+    {
+      "Gene": "APOE",
+      "Associated Conditions": [
+        "Atherosclerosis"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Ali ZA, Alp N, Lupton H, et al. Increased in-stent stenosis in ApoE knockout mice: insights from a novel mouse model of balloon angioplasty and stenting."
+      ]
+    },
+    {
+      "Gene": "COL4A1",
+      "Associated Conditions": [
+        "Cervical arterial dissection",
+        "Intracranial artery dissection"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "DiLuna ML, Bydon M, Guldner M, et al. Neurological picture: complications from cervical intra-arterial injection. J Neurol Neurosurg Psychiatry. 2007;78:1189."
+      ]
+    }
+  ]
+}

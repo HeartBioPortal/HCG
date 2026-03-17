@@ -1,0 +1,58 @@
+{
+  "content": {
+    "Title": "2013 AHA/ACC Guideline on Lifestyle Management to Reduce Cardiovascular Risk",
+    "Purpose": "To outline expert reviewer relationships with industry and other entities",
+    "Appendix 2": {
+      "Expert Reviewers": {
+        "Nancy Albert": {
+          "Employment": "Cleveland Clinic Foundation",
+          "Role": "Sr. Director of Nursing Research and CNS, Kaufman Center for Heart Failure",
+          "Representation": "ACC/AHA Task Force on Practice Guidelines",
+          "Consultant": [
+            "BG Medicine",
+            "Gambro",
+            "Medtronic"
+          ]
+        },
+        "Gerald Fletcher": {
+          "Employment": "Mayo Medical School Mayo Clinic Jacksonville",
+          "Role": "Professor of Medicine",
+          "Representation": "ACC/AHA",
+          "Consultant": "None"
+        },
+        "Frederick Kushner": {
+          "Employment": "Heart Clinic of Louisiana, Tulane University Medical Center",
+          "Role": "Medical Director, Clinical Professor",
+          "Representation": "ACC/AHA",
+          "Consultant": "Federal Drug Administration Science Board"
+        },
+        "Linda Van Horn": {
+          "Employment": "Northwestern University Feinberg School of Medicine",
+          "Role": "Professor, Preventive Medicine; Associate Dean, Faculty Development",
+          "Representation": "ACC/AHA",
+          "Consultant": "None"
+        }
+      }
+    },
+    "Appendix 3": {
+      "Abbreviations": {
+        "BP": "blood pressure",
+        "COR": "Class of Recommendation",
+        "CQ": "critical question",
+        "CVD": "cardiovascular disease",
+        "DASH": "Dietary Approaches to Stop Hypertension",
+        "ES": "evidence statement",
+        "HDLC": "high-density lipoprotein cholesterol",
+        "LDLC": "low-density lipoprotein cholesterol",
+        "LOE": "Level of Evidence",
+        "MED": "Mediterranean-style diet",
+        "NHLBI": "National Heart, Lung, and Blood Institute",
+        "PICOTS": "Population, Intervention, Comparator, Outcomes, Timing, and Setting",
+        "RCT": "randomized controlled trial",
+        "RWI": "relationships with industry and other entities",
+        "USDA": "U.S. Department of Agriculture"
+      }
+    }
+  },
+  "genes": []
+}

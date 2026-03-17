@@ -1,0 +1,17 @@
+{
+  "content": {
+    "3.2.2. Stress Testing Recommendations": {
+      "Exercise stress testing can be helpful to diagnose syncope or presyncope during exertion in certain patients, especially those with specific structural lesions, coronary issues, or certain channelopathies. Stress tests must be done carefully, with support in place.": "3.2.3. Cardiac Monitoring Recommendations: The choice of cardiac monitor type should depend on the patient's frequency and nature of syncope episodes. Several ambulatory monitoring techniques are available, such as Holter monitors and patch recorders. Technology advances offer more strategic monitoring, specifically external loop recorders for identified arrhythmic etiology."
+    }
+  },
+  "genes": [
+    {
+      "Gene": "LQTS",
+      "Associated Conditions": [
+        "Type 1 Long QT Syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Exertion can result in syncope in a variety of conditions...such as LQTS (type 1) and catecholaminergic polymorphic ventricular tachycardia (CPVT)."
+    }
+  ]
+}

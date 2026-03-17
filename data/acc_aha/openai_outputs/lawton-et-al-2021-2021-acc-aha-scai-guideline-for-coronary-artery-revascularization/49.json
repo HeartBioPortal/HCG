@@ -1,0 +1,70 @@
+{
+  "content": {
+    "section_title": "Oral and Parenteral Antiplatelet Agents for Patients Undergoing PCI",
+    "drugs": [
+      {
+        "name": "Aspirin",
+        "loading_dose": "162-325 mg orally",
+        "maintenance_dose": "75-100 mg orally daily"
+      },
+      {
+        "name": "Clopidogrel",
+        "loading_dose": "600 mg orally",
+        "maintenance_dose": "75 mg orally daily"
+      },
+      {
+        "name": "Prasugrel",
+        "loading_dose": "60 mg orally",
+        "maintenance_dose": "10 mg orally daily"
+      },
+      {
+        "name": "Ticagrelor",
+        "loading_dose": "180 mg orally",
+        "maintenance_dose": "90 mg orally twice a day"
+      },
+      {
+        "name": "Abciximab",
+        "loading_dose": "0.25 mg/kg bolus",
+        "maintenance_dose": "0.125 \u00b5g/kg/min infusion for 12 h"
+      },
+      {
+        "name": "Eptifibatide",
+        "loading_dose": "180 \u00b5g/kg bolus",
+        "maintenance_dose": "2.0 \u00b5g/kg/min infusion"
+      },
+      {
+        "name": "Tirofiban",
+        "loading_dose": "25 \u00b5g/kg over 3 min bolus",
+        "maintenance_dose": "0.15 \u00b5g/kg/min infusion"
+      },
+      {
+        "name": "Cangrelor",
+        "loading_dose": "30 \u00b5g/kg bolus",
+        "maintenance_dose": "4 \u00b5g/kg/min infusion"
+      }
+    ],
+    "clinical_studies": [
+      {
+        "name": "CLARITY",
+        "description": "Clopidogrel resulted in a 46% reduction in rate of cardiovascular death or recurrent MI or stroke at 30 days among patients referred for PCI."
+      },
+      {
+        "name": "TRITON-TIMI 38",
+        "description": "Prasugrel reduced the rate of the composite endpoint of death from vascular causes, MI, or stroke compared with clopidogrel."
+      },
+      {
+        "name": "PLATO",
+        "description": "No significant differences in study-defined bleeding events with ticagrelor compared to clopidogrel, though non-CABG major bleeding was higher with ticagrelor."
+      },
+      {
+        "name": "TREAT",
+        "description": "Support the use of ticagrelor over clopidogrel in patients with STEMI treated with fibrinolytic therapy."
+      }
+    ],
+    "notes": [
+      "Ticagrelor and prasugrel not studied for long-term clinical outcomes in patients with SIHD undergoing PCI.",
+      "Older patients may require individualized loading doses based on risk of bleeding."
+    ]
+  },
+  "genes": []
+}

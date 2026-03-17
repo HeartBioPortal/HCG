@@ -1,0 +1,78 @@
+{
+  "content": {
+    "section": "11.2 Antithrombotic Therapy",
+    "recommendations": [
+      {
+        "COR": "1",
+        "LOE": "A",
+        "recommendation": "In patients with a mechanical prosthetic valve, anticoagulation with a VKA is recommended."
+      },
+      {
+        "COR": "1",
+        "LOE": "B-NR",
+        "recommendation": "For patients with a mechanical bileaflet or current-generation single-tilting disk AVR and no risk factors for thromboembolism, anticoagulation with a VKA to achieve an INR of 2.5 is recommended."
+      },
+      {
+        "COR": "1",
+        "LOE": "B-NR",
+        "recommendation": "For patients with a mechanical AVR and additional risk factors for thromboembolism or older-generation prosthesis, anticoagulation with a VKA is indicated to achieve an INR of 3.0."
+      },
+      {
+        "COR": "1",
+        "LOE": "B-NR",
+        "recommendation": "For patients with a mechanical mitral valve replacement, anticoagulation with a VKA is indicated to achieve an INR of 3.0."
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-R",
+        "recommendation": "For patients with a bioprosthetic TAVI, aspirin 75 to 100 mg daily is reasonable in the absence of other indications for oral anticoagulants."
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "recommendation": "For all patients with a bioprosthetic SAVR or mitral valve replacement, aspirin 75 to 100 mg daily is reasonable in the absence of other indications for oral anticoagulants."
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "recommendation": "For patients with a bioprosthetic SAVR or mitral valve replacement who are at low risk of bleeding, anticoagulation with a VKA to achieve an INR of 2.5 is reasonable for at least 3 months and for as long as 6 months after surgical replacement."
+      },
+      {
+        "COR": "2b",
+        "LOE": "B-R",
+        "recommendation": "For patients with a mechanical SAVR or mitral valve replacement who are managed with a VKA and have an indication for antiplatelet therapy, addition of aspirin 75 to 100 mg daily may be considered when the risk of bleeding is low."
+      },
+      {
+        "COR": "2b",
+        "LOE": "B-R",
+        "recommendation": "For patients with a mechanical On-X AVR and no thromboembolic risk factors, use of a VKA targeted to a lower INR (1.5\u20132.0) may be reasonable starting \u22653 months after surgery, with continuation of aspirin 75 to 100 mg daily."
+      },
+      {
+        "COR": "2b",
+        "LOE": "B-NR",
+        "recommendation": "For patients with a bioprosthetic TAVI who are at low risk of bleeding, dual-antiplatelet therapy with aspirin 75 to 100 mg and clopidogrel 75 mg may be reasonable for 3 to 6 months after valve implantation."
+      },
+      {
+        "COR": "2b",
+        "LOE": "B-NR",
+        "recommendation": "For patients with a bioprosthetic TAVI who are at low risk of bleeding, anticoagulation with a VKA to achieve an INR of 2.5 may be reasonable for at least 3 months after valve implantation."
+      },
+      {
+        "COR": "3: Harm",
+        "LOE": "B-R",
+        "recommendation": "For patients with bioprosthetic TAVI, treatment with low-dose rivaroxaban (10 mg daily) plus aspirin (75\u2013100 mg) is contraindicated in the absence of other indications for oral anticoagulants."
+      },
+      {
+        "COR": "3: Harm",
+        "LOE": "B-R",
+        "recommendation": "For patients with a mechanical valve prosthesis, anticoagulation with the direct thrombin inhibitor, dabigatran, is contraindicated."
+      },
+      {
+        "COR": "3: Harm",
+        "LOE": "C-EO",
+        "recommendation": "For patients with a mechanical valve prosthesis, the use of anti-Xa direct oral anticoagulants has not been assessed and is not recommended."
+      }
+    ]
+  },
+  "genes": []
+}

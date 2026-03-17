@@ -1,0 +1,84 @@
+{
+  "content": {
+    "Class of Recommendation": {
+      "Class 1 (Strong)": {
+        "Strength": "Benefit >>> Risk",
+        "Suggested Phrases": [
+          "Is recommended",
+          "Is indicated/useful/effective/beneficial",
+          "Should be performed/administered/other"
+        ],
+        "Comparative Effectiveness": "Treatment/strategy A is recommended/indicated in preference to treatment B"
+      },
+      "Class 2a (Moderate)": {
+        "Strength": "Benefit >> Risk",
+        "Suggested Phrases": [
+          "Is reasonable",
+          "Can be useful/effective/beneficial"
+        ],
+        "Comparative Effectiveness": "Treatment/strategy A is probably recommended/indicated in preference to treatment B"
+      },
+      "Class 2b (Weak)": {
+        "Strength": "Benefit \u2265 Risk",
+        "Suggested Phrases": [
+          "May/might be reasonable",
+          "May/might be considered",
+          "Usefulness/effectiveness is unknown/unclear/uncertain or not well-established"
+        ]
+      },
+      "Class 3: No Benefit (Moderate)": {
+        "Strength": "Benefit = Risk",
+        "Suggested Phrases": [
+          "Is not recommended",
+          "Is not indicated/useful/effective/beneficial",
+          "Should not be performed/administered/other"
+        ]
+      },
+      "Class 3: Harm (Strong)": {
+        "Strength": "Risk > Benefit",
+        "Suggested Phrases": [
+          "Potentially harmful",
+          "Causes harm",
+          "Associated with excess morbidity/mortality",
+          "Should not be performed/administered/other"
+        ]
+      }
+    },
+    "Level of Evidence": {
+      "Level A": "High-quality evidence from more than 1 RCT",
+      "Level B-R (Randomized)": "Moderate-quality evidence from 1 or more RCTs",
+      "Level B-NR (Nonrandomized)": "Moderate-quality evidence from 1 or more well-designed observational studies",
+      "Level C-LD (Limited Data)": "Randomized or nonrandomized observational studies with design/execution limitations",
+      "Level C-EO (Expert Opinion)": "Consensus of expert opinion based on clinical experience"
+    },
+    "Abbreviations": {
+      "ACEI": "Angiotensin-converting enzyme inhibitors",
+      "ACS": "Acute coronary syndrome",
+      "ARNI": "Angiotensin receptor-neprilysin inhibitors",
+      "ARB": "Angiotensin (II) receptor blockers",
+      "AF": "Atrial fibrillation",
+      "AL-CM": "Immunoglobulin light chain amyloid cardiomyopathy",
+      "ATTR-CM": "Transthyretin amyloid cardiomyopathy",
+      "ATTRv": "Variant transthyretin amyloidosis",
+      "ATTRwt": "Wild-type transthyretin amyloidosis",
+      "BNP": "B-type natriuretic peptide",
+      "CABG": "Coronary artery bypass graft",
+      "CAD": "Coronary artery disease",
+      "CCM": "Cardiac contractility modulation",
+      "CHF": "Congestive heart failure",
+      "CKD": "Chronic kidney disease",
+      "CMR": "Cardiovascular magnetic resonance",
+      "COVID-19": "Coronavirus disease 2019",
+      "CPET": "Cardiopulmonary exercise test",
+      "CRT": "Cardiac resynchronization therapy",
+      "CRT-D": "Cardiac resynchronization therapy with defibrillation",
+      "CRT-P": "Cardiac resynchronization therapy with pacemaker",
+      "CT": "Computed tomography",
+      "CVD": "Cardiovascular disease",
+      "CVP": "Central venous pressure",
+      "DOAC": "Direct-acting oral anticoagulants",
+      "DPP-4": "Dipeptidyl peptidase-4"
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,70 @@
+{
+  "content": {
+    "section": "Hypertrophic Cardiomyopathy (HCM)",
+    "recommendations": [
+      {
+        "COR": "I",
+        "LOE": "B-NR",
+        "recommendation": "In patients with HCM, SCD risk stratification should be performed at the time of initial evaluation and periodically thereafter."
+      },
+      {
+        "COR": "I",
+        "LOE": "B-NR",
+        "recommendation": "In patients with HCM who have survived an SCA due to VT or VF, or have spontaneous sustained VT causing syncope or hemodynamic compromise, an ICD is recommended if meaningful survival greater than 1 year is expected."
+      },
+      {
+        "COR": "I",
+        "recommendation": "In first-degree relatives of patients with HCM, an ECG and echocardiogram should be performed."
+      },
+      {
+        "COR": "I",
+        "LOE": "B-NR",
+        "recommendation": "In first-degree relatives of patients with HCM due to a known causative mutation, genetic counseling and mutation-specific genetic testing are recommended."
+      },
+      {
+        "COR": "IIa",
+        "LOE": "B-NR",
+        "recommendation": "In patients with clinically suspected or diagnosed HCM, genetic counseling and genetic testing are reasonable."
+      },
+      {
+        "COR": "IIa",
+        "LOE": [
+          "B-NR",
+          "C-LD"
+        ],
+        "recommendation": "In patients with HCM and 1 or more of the following risk factors, an ICD is reasonable if meaningful survival of greater than 1 year is expected: maximum LV wall thickness \u226530 mm, SCD in 1 or more first-degree relatives presumably caused by HCM, or more episodes of unexplained syncope within the preceding 6 months."
+      },
+      {
+        "COR": "IIa",
+        "LOE": [
+          "B-NR",
+          "C-LD"
+        ],
+        "recommendation": "In patients with HCM who have spontaneous NSVT or an abnormal blood pressure response with exercise, who also have additional SCD risk modifiers or high risk features, an ICD is reasonable if meaningful survival greater than 1 year is expected."
+      },
+      {
+        "COR": "IIb",
+        "LOE": [
+          "B-NR",
+          "C-LD"
+        ],
+        "recommendation": "In patients with HCM who have NSVT or an abnormal blood pressure response with exercise, but do not have any other SCD risk modifiers, an ICD may be considered but its benefit is uncertain."
+      },
+      {
+        "COR": "IIb",
+        "recommendation": "In patients with HCM and a history of sustained VT or VF, amiodarone may be considered when an ICD is not feasible or not preferred by the patient."
+      },
+      {
+        "COR": "III: No Benefit",
+        "LOE": "B-NR",
+        "recommendation": "In patients with HCM, an invasive electrophysiological study with programmed ventricular stimulation should not be performed for risk stratification."
+      },
+      {
+        "COR": "III: No Benefit",
+        "LOE": "B-NR",
+        "recommendation": "In patients with an identified HCM genotype in the absence of SCD risk factors, an ICD should not be implanted."
+      }
+    ]
+  },
+  "genes": []
+}

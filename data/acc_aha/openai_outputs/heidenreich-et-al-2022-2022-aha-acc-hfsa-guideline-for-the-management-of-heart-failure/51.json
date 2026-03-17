@@ -1,0 +1,129 @@
+{
+  "content": {
+    "table_title": "Selected Prescription Medications That May Cause or Exacerbate HF",
+    "medications": [
+      {
+        "Drug or Therapeutic Class": "COX, nonselective inhibitors (NSAIDs)",
+        "Associated with HF": "Causes Direct Myocardial Toxicity",
+        "Magnitude of HF Induction or Precipitation": "Major",
+        "LOE for HF Induction or Precipitation": "B",
+        "Possible Mechanism(s)": "Prostaglandin inhibition leading to sodium and water retention, increased systemic vascular resistance, and blunted response to diuretics",
+        "Onset": "Immediate"
+      },
+      {
+        "Drug or Therapeutic Class": "COX, selective inhibitors (COX-2 inhibitors)",
+        "Associated with HF": "Causes Direct Myocardial Toxicity",
+        "Magnitude of HF Induction or Precipitation": "Major",
+        "LOE for HF Induction or Precipitation": "B",
+        "Possible Mechanism(s)": "Prostaglandin inhibition leading to sodium and water retention, increased systemic vascular resistance, and blunted response to diuretics",
+        "Onset": "Immediate"
+      },
+      {
+        "Drug or Therapeutic Class": "Thiazolidinediones",
+        "Associated with HF": "Exacerbates Underlying Myocardial Dysfunction",
+        "Magnitude of HF Induction or Precipitation": "Major",
+        "LOE for HF Induction or Precipitation": "A",
+        "Possible Mechanism(s)": "Possible calcium channel blockade",
+        "Onset": "Intermediate"
+      },
+      {
+        "Drug or Therapeutic Class": "Saxagliptin",
+        "Associated with HF": "Exacerbates Underlying Myocardial Dysfunction",
+        "Magnitude of HF Induction or Precipitation": "Major",
+        "LOE for HF Induction or Precipitation": "A",
+        "Possible Mechanism(s)": "Unknown",
+        "Onset": "Intermediate to delayed"
+      },
+      {
+        "Drug or Therapeutic Class": "Alogliptin",
+        "Associated with HF": "Exacerbates Underlying Myocardial Dysfunction",
+        "Magnitude of HF Induction or Precipitation": "Major",
+        "LOE for HF Induction or Precipitation": "A",
+        "Possible Mechanism(s)": "Unknown",
+        "Onset": "Intermediate to delayed"
+      },
+      {
+        "Drug or Therapeutic Class": "Flecainide",
+        "Associated with HF": "Exacerbates Underlying Myocardial Dysfunction",
+        "Magnitude of HF Induction or Precipitation": "Major",
+        "LOE for HF Induction or Precipitation": "A",
+        "Possible Mechanism(s)": "Negative inotrope, proarrhythmic effects",
+        "Onset": "Immediate to intermediate"
+      },
+      {
+        "Drug or Therapeutic Class": "Disopyramide",
+        "Associated with HF": "Exacerbates Underlying Myocardial Dysfunction",
+        "Magnitude of HF Induction or Precipitation": "Major",
+        "LOE for HF Induction or Precipitation": "B",
+        "Possible Mechanism(s)": "Negative inotrope",
+        "Onset": "Immediate to intermediate"
+      },
+      {
+        "Drug or Therapeutic Class": "Sotalol",
+        "Associated with HF": "Exacerbates Underlying Myocardial Dysfunction",
+        "Magnitude of HF Induction or Precipitation": "Major",
+        "LOE for HF Induction or Precipitation": "A",
+        "Possible Mechanism(s)": "Proarrhythmic properties, beta blockade",
+        "Onset": "Immediate to intermediate"
+      },
+      {
+        "Drug or Therapeutic Class": "Dronedarone",
+        "Associated with HF": "Exacerbates Underlying Myocardial Dysfunction",
+        "Magnitude of HF Induction or Precipitation": "Major",
+        "LOE for HF Induction or Precipitation": "A",
+        "Possible Mechanism(s)": "Negative inotrope",
+        "Onset": "Immediate to intermediate"
+      },
+      {
+        "Drug or Therapeutic Class": "Alpha-1 blockers",
+        "Subcategories": [
+          {
+            "Drug": "Doxazosin",
+            "Associated with HF": "Exacerbates Underlying Myocardial Dysfunction",
+            "Magnitude of HF Induction or Precipitation": "Moderate",
+            "LOE for HF Induction or Precipitation": "B",
+            "Possible Mechanism(s)": "Beta-1-receptor stimulation with increases in renin and aldosterone",
+            "Onset": "Intermediate to delayed"
+          },
+          {
+            "Drug": "Diltiazem",
+            "Associated with HF": "Exacerbates Underlying Myocardial Dysfunction",
+            "Magnitude of HF Induction or Precipitation": "Major",
+            "LOE for HF Induction or Precipitation": "B",
+            "Possible Mechanism(s)": "",
+            "Onset": "Immediate to intermediate"
+          },
+          {
+            "Drug": "Verapamil",
+            "Associated with HF": "Exacerbates Underlying Myocardial Dysfunction",
+            "Magnitude of HF Induction or Precipitation": "Major",
+            "LOE for HF Induction or Precipitation": "B",
+            "Possible Mechanism(s)": "Negative inotrope",
+            "Onset": "Immediate to intermediate"
+          },
+          {
+            "Drug": "Nifedipine",
+            "Associated with HF": "Exacerbates Underlying Myocardial Dysfunction",
+            "Magnitude of HF Induction or Precipitation": "Moderate",
+            "LOE for HF Induction or Precipitation": "C",
+            "Possible Mechanism(s)": "Negative inotrope",
+            "Onset": "Immediate to intermediate"
+          }
+        ]
+      }
+    ],
+    "general_recommendations": [
+      {
+        "COR": "1",
+        "LOE": "A",
+        "Recommendation": "In patients with HFrEF, titration of guideline-directed medication dosing to achieve target doses shown to be efficacious in RCTs is recommended, to reduce cardiovascular mortality and HF hospitalizations, unless not well tolerated."
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-EO",
+        "Recommendation": "In patients with HFfEF, titration and optimization of guideline-directed medications as frequently as every 1 to 2 weeks depending on the patient\u2019s symptoms, vital signs, and laboratory findings can be useful to optimize management."
+      }
+    ]
+  },
+  "genes": []
+}

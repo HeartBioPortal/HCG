@@ -1,0 +1,26 @@
+{
+  "content": {
+    "Blood Testing Recommendations": {
+      "Biomarkers": "Availability of simple and accurate biomarkers might streamline risk stratification and diagnosis of syncope. Circulating biomarkers are evaluated as markers of hypotension or underlying disease processes, but none have met with strong success.",
+      "Targeted Blood Tests": {
+        "COR": "IIa",
+        "LOE": "B-NR",
+        "Description": "Targeted blood tests are reasonable in evaluating selected patients with syncope based on clinical assessment. Broad-panel testing is common, but data is lacking on its utility. Specific testing should be based on history and physical examination when syncope presentation or associated comorbidities suggest testing is necessary."
+      },
+      "Brain Natriuretic Peptide and High-Sensitivity Troponin": {
+        "COR": "IIb",
+        "LOE": "C-LD",
+        "Description": "Usefulness in patients with suspected cardiac syncope is uncertain. Elevated natriuretic peptide is observed in patients with syncope determined to be cardiac. Yet, contemporary troponin measurement finds only limited value unless myocardial infarction is suspected."
+      },
+      "Routine Lab Testing": {
+        "COR": "III",
+        "LOE": "No Benefit",
+        "Description": "Routine and comprehensive lab testing is not useful in patients with syncope. Specific cardiac biomarkers may have a limited diagnostic role, but broad-panel testing lacks linkages to syncope presentation or mechanism."
+      }
+    },
+    "Cardiovascular Testing Recommendations": {
+      "Overview": "Cardiovascular causes of syncope are common, often associated with poor prognosis. Testing can be crucial in evaluating and managing selected patients, emphasizing clinical judgment in selecting cardiovascular testing pathways."
+    }
+  },
+  "genes": []
+}

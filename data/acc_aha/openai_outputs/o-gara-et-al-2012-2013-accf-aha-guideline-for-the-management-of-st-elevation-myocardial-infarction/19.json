@@ -1,0 +1,56 @@
+{
+  "content": {
+    "Title": "2013 ACCF/AHA STEMI Guideline: Full Text",
+    "Section": [
+      {
+        "Name": "Table 6. Contraindications and Cautions for Fibrinolytic Therapy in STEMI",
+        "Contraindications": {
+          "Absolute": [
+            "Any prior ICH",
+            "Known structural cerebral vascular lesion",
+            "Known malignant intracranial neoplasm",
+            "Ischemic stroke within 3 months except acute ischemic stroke within 4.5 hrs",
+            "Suspected aortic dissection",
+            "Active bleeding or bleeding diathesis",
+            "Significant closed-head or facial trauma within 3 months",
+            "Intracranial or intraspinal surgery within 2 months",
+            "Severe uncontrolled hypertension",
+            "For streptokinase, prior treatment within the previous 6 months"
+          ],
+          "Relative": [
+            "History of chronic, severe, poorly controlled hypertension",
+            "Significant hypertension on presentation",
+            "History of prior ischemic stroke > 3 months",
+            "Dementia",
+            "Known intracranial pathology not covered under absolute contraindications",
+            "Traumatic or prolonged CPR",
+            "Major surgery < 3 weeks",
+            "Recent internal bleeding",
+            "Noncompressible vascular punctures",
+            "Pregnancy",
+            "Active peptic ulcer",
+            "Oral anticoagulant therapy"
+          ]
+        }
+      },
+      {
+        "Name": "5.1.4.2. Adjunctive Anticoagulant Therapy with Fibrinolysis",
+        "Recommendations": [
+          {
+            "Class": "I",
+            "Details": "Patients with STEMI undergoing reperfusion with fibrinolytic therapy should receive anticoagulant therapy for a minimum of 48 hours, and preferably for the duration of the index hospitalization."
+          }
+        ]
+      },
+      {
+        "Name": "Anticoagulation",
+        "Details": "Anticoagulation is recommended in support of fibrin-specific therapy to improve vessel patency and prevent reocclusion. UFH, Enoxaparin, and Fondaparinux are mentioned regarding their administration."
+      },
+      {
+        "Name": "5.2. Assessment of Reperfusion after Fibrinolysis",
+        "Details": "TIMI 3 flow is highly indicative of successful reperfusion. Less than 70% resolution of ST elevation and the absence of reperfusion arrhythmias are associated with worse prognosis."
+      }
+    ]
+  },
+  "genes": []
+}

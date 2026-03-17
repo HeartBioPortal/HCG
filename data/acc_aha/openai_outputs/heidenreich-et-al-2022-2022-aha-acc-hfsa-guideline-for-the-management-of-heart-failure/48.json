@@ -1,0 +1,34 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "COR": "2b",
+        "LOE": "B-R",
+        "recommendation": "In patients with HF class II to IV symptoms, omega-3 polyunsaturated fatty acid (PUFA) supplementation may be reasonable to use as adjunctive therapy to reduce mortality and cardiovascular hospitalizations."
+      },
+      {
+        "COR": "2b",
+        "LOE": "B-R",
+        "recommendation": "In patients with HF who experience hyperkalemia while taking a renin\u2013angiotensin\u2013aldosterone system inhibitor (RAASi), the effectiveness of potassium binders (patiromer, sodium zirconium cyclosilicate) to improve outcomes by facilitating continuation of RAASi therapy is uncertain."
+      },
+      {
+        "COR": "3: No Benefit",
+        "LOE": "B-R",
+        "recommendation": "In patients with chronic HFrEF without a specific indication, anticoagulation is not recommended."
+      }
+    ],
+    "synopsis": [
+      "Trials show that omega-3 PUFA supplementation results in a 10% to 20% risk reduction in fatal and nonfatal cardiovascular events.",
+      "Hyperkalemia is common in HF and can lead to arrhythmias and underuse of GDMT.",
+      "Newer potassium-binding agents can lower potassium levels and enable treatment with a RAASi in patients with HF."
+    ],
+    "recommendation_specific_text": [
+      "GISSI-HF showed a reduction in death with omega-3 PUFA in symptomatic patients with HF.",
+      "The REDUCE-IT trial showed a reduction in cardiovascular events with 2 g of icosapent ethyl."
+    ],
+    "other_content": [
+      "The outcome of death or admission to hospital for a cardiovascular event was significantly reduced with omega-3 PUFA."
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,37 @@
+{
+  "content": {
+    "summary": "Catheter ablation has been shown to reduce arrhythmia, improve quality of life, and, in some cases, cardiovascular outcomes. The risk of thromboembolic events is increased after ablation, with a post-ablation stroke risk of 0.8%. Thus, oral anticoagulation before, during, and after ablation is critical.",
+    "recommendations": [
+      {
+        "text": "All patients require anticoagulation with heparin or direct thrombin inhibitors during catheter ablation. Those on warfarin should continue uninterrupted warfarin, as it is associated with lower thromboembolic events.",
+        "additional_info": "Interrupted warfarin leads to higher silent cerebral ischemic events. Uninterrupted direct-acting oral anticoagulants (DOACs) are non-inferior to vitamin K antagonists (VKAs)."
+      },
+      {
+        "text": "Stroke risk increases after ablation due to vascular and cardiac issues. Lower stroke risk is seen after ablation; however, trials using uninterrupted anticoagulation have not shown a reduction in stroke rates.",
+        "additional_info": "Observational data vary, showing increased stroke risk in patients with CHA\u2082DS\u2082-VASc score \u22652. Discontinuation of anticoagulation after 3 months for patients with insignificant arrhythmia may be possible."
+      }
+    ],
+    "studies": [
+      {
+        "name": "COMPARE",
+        "findings": "Interrupted warfarin increases periprocedural thromboembolic events; uninterrupted warfarin shows lower rates."
+      },
+      {
+        "name": "OPTION",
+        "context": "Testing noninferiority of LAAO versus continued anticoagulation post-ablation."
+      }
+    ],
+    "anticoagulants_comparison": [
+      {
+        "drugs": [
+          "apixaban",
+          "dabigatran",
+          "edoxaban",
+          "rivaroxaban"
+        ],
+        "findings": "Trials show non-inferiority of uninterrupted direct-acting oral anticoagulants compared with VKAs."
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,71 @@
+{
+  "content": {
+    "Reversal agents": {
+      "Idarucizumab": {
+        "Class": "Humanized monoclonal antibody fragment",
+        "FDA Indications": [
+          "Reversal of dabigatran effects",
+          "For emergency surgery/urgent procedures",
+          "Life-threatening or uncontrolled bleeding"
+        ],
+        "Off-label Indications": "N/A",
+        "Dosing": "5 g (2 separate vials of 2.5 g/vial) intravenous infusion over 5 min",
+        "Onset": "Within 5 min",
+        "Duration": "12-24 h",
+        "Monitoring": "Coagulation parameters (aPTT, diluted thrombin time, or ecarin clotting time) between 12 and 24 h",
+        "Others": [
+          "Risk of serious reactions",
+          "No procoagulant effect based on endogenous thrombin potential"
+        ]
+      },
+      "Andexanet alfa": {
+        "Class": "A recombinant modified human factor Xa protein",
+        "FDA Indications": [
+          "Reversal of apixaban or rivaroxaban",
+          "For life-threatening or uncontrolled bleeding"
+        ],
+        "Off-label Indications": "Edoxaban-associated life-threatening bleeding",
+        "Dosing": "Low-dose: 400-mg bolus, High-dose: 800-mg bolus",
+        "Onset": "Within 2 min",
+        "Duration": "8 h",
+        "Monitoring": "Current commercial anti-Xa activity assays are unsuitable",
+        "Others": [
+          "No FDA indication for other factor Xa inhibitors",
+          "Serious adverse events"
+        ]
+      },
+      "4-Factor PCC": {
+        "Class": "PCC: coagulation factors II, VII, IX, and X",
+        "FDA Indications": [
+          "Major bleeding or need for urgent surgery",
+          "Invasive procedure in patients receiving VKAs"
+        ],
+        "Off-label Indications": "Reversal of factor Xa inhibitors",
+        "Dosing": "Warfarin reversal based on pretreatment INR",
+        "Onset": "Within 10 min",
+        "Duration": "12 h",
+        "Monitoring": "Warfarin reversal: Repeat INR within 30 min",
+        "Others": [
+          "May not be indicated for patients with thromboembolic events"
+        ]
+      },
+      "Activated PCC": {
+        "Class": "Nonactivated factors II, IX, and X",
+        "FDA Indications": [
+          "Control and prevention of bleeding episodes, perioperative management",
+          "Prophylaxis to prevent or reduce bleeding frequency in patients with hemophilia A and B"
+        ],
+        "Off-label Indications": "Dabigatran-associated life-threatening bleeding",
+        "Dosing": "50 units/kg once",
+        "Onset": "Within 30 min",
+        "Duration": "N/A",
+        "Monitoring": "N/A",
+        "Others": [
+          "Does not include heparin",
+          "Not effective to reverse factor Xa inhibitors"
+        ]
+      }
+    }
+  },
+  "genes": []
+}

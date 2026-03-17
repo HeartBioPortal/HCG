@@ -1,0 +1,37 @@
+{
+  "content": {
+    "section": "8.3.4 Upstream Therapy",
+    "upstreamTherapy": {
+      "pharmacologicalTreatments": [
+        "glucocorticoids",
+        "ACE inhibitors",
+        "ARBs",
+        "aldosterone antagonists",
+        "statins",
+        "omega-3 polyunsaturated fatty acids",
+        "antioxidants",
+        "sodium-glucose cotransporter 2 inhibitors"
+      ],
+      "RCTFindings": [
+        "Statins reduced postoperative AF in small RCTs.",
+        "Sodium-glucose cotransporter 2 inhibitors appear to prevent new AF in patients with type 2 diabetes, HF, or CKD.",
+        "Omega-3 fatty acids do not reduce AF and may be associated with higher occurrence of AF."
+      ]
+    },
+    "catheterAblation": {
+      "recommendations": [
+        {
+          "COR": "1",
+          "LOE": "A",
+          "description": "Catheter ablation is useful for patients with symptomatic AF in whom antiarrhythmic drugs have been ineffective, contraindicated, not tolerated or not preferred."
+        },
+        {
+          "COR": "1",
+          "LOE": "A",
+          "description": "Catheter ablation is useful as first-line therapy in selected patients with symptomatic paroxysmal AF to improve symptoms and reduce progression to persistent AF."
+        }
+      ]
+    }
+  },
+  "genes": []
+}

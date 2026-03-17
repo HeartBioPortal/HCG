@@ -1,0 +1,3195 @@
+{
+  "content": [
+    {
+      "content": {
+        "title": "2024 AHA/ACC/ACS/ASNC/HRS/SCA/SCCT/SCMR/SVM Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery",
+        "organizations": [
+          "American College of Cardiology",
+          "American Heart Association",
+          "American College of Surgeons",
+          "American Society of Nuclear Cardiology",
+          "Heart Rhythm Society",
+          "Society of Cardiovascular Anesthesiologists",
+          "Society of Cardiovascular Computed Tomography",
+          "Society for Cardiovascular Magnetic Resonance",
+          "Society for Vascular Medicine"
+        ],
+        "writing_committee": [
+          "Annemarie Thompson, MD, MBA, FAHA",
+          "Kirsten E. Fleischmann, MD, MPH, FACC",
+          "Nathaniel R. Smilowitz, MD, MS, FACC",
+          "Lisa de las Fuentes, MD, MS, FAHA",
+          "Debabrata Mukherjee, MD, MS, FACC, FAHA",
+          "Niti R. Aggarwal, MD, FACC, FASNC",
+          "Faraz S. Ahmad, MD, MS, FACC, FAHA",
+          "Robert B. Allen, JD",
+          "S. Elissa Altin, MD, FACC, FSVMI",
+          "Andrew Auerbach, MD, MPH",
+          "Jeffrey S. Berger, MD, MS, FAHA, FACC",
+          "Benjamin Chow, MD, PhD, FACC, FASNC, MSCCT",
+          "Habib A. Dakik, MD, FACC",
+          "Eric L. Eisenstein, DBA",
+          "Marie Gerhard-Herman, MD, FACC, FAHA",
+          "Kamrouz Ghadimi, MD, MHSc, FAHA",
+          "Bessie Kachulis, MD",
+          "Jacinthe Leclerc, RN, PhD, FAHA",
+          "Christopher S. Lee, PhD, RN, FAHA",
+          "Tracy E. Macaulay, PharmD, FACC",
+          "Gail Mates, BS",
+          "Geno J. Merli, MD, FSVIM",
+          "Purvi Parwani, MBBS, MPH, FACC",
+          "Jeanne E. Poole, MD, FACC, FHRS",
+          "Michael W. Rich, MD, FACC",
+          "Kurt Ruetzler, MD, PhD, FAHA",
+          "Steven C. Stain, MD, FACS",
+          "BobbieJean Sweitzer, MD",
+          "Amy W. Talbot, MPH",
+          "Saraschandra Vallabhajosyula, MD, MSc, FAHA, FACC",
+          "John Whittle, MD",
+          "Kim Allan Williams Sr, MD, MACC, FAHA, MASNC"
+        ],
+        "notes": {
+          "conflict_of_interest": "Writing committee members must recuse themselves from sections where conflicts of interest may apply",
+          "appendices": "Appendix 1 contains detailed information",
+          "footnotes": {
+            "1": "Former AHA/ACC Joint Committee on Clinical Practice Guidelines",
+            "2": "Former AHA/ACC Joint Committee on Clinical Data Standards",
+            "3": "Former AHA/ACC Joint Committee on Performance Measures",
+            "4": "Society of Vascular Medicine representative",
+            "5": "Society of Cardiovascular Computed Tomography representative",
+            "6": "Society of Cardiovascular Anesthesiologists representative",
+            "7": "Society for Cardiovascular Magnetic Resonance representative",
+            "8": "Heart Rhythm Society representative",
+            "9": "American College of Surgeons representative",
+            "10": "American Society of Nuclear Cardiology representative"
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Aim": "The '2024 AHA/ACC/ACS/ASNC/HRS/SCA/SCCT/SCMR/SVM Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery' provides recommendations to guide clinicians in the perioperative cardiovascular evaluation and management of adult patients undergoing noncardiac surgery.",
+        "Methods": "A comprehensive literature search was conducted from August 2022 to March 2023 to identify clinical studies, reviews, and other evidence on human subjects in English from MEDLINE (through PubMed), EMBASE, the Cochrane Library, the Agency for Healthcare Research and Quality, and other selected databases relevant to this guideline.",
+        "Structure": "Recommendations from the '2014 ACC/AHA Guideline on Perioperative Cardiovascular Evaluation and Management of Patients Undergoing Noncardiac Surgery' have been updated with new evidence. The 2024 guideline provides a consolidation of guidance for clinicians that updates the 2014 guideline. Evidence-based management strategies, including pharmacological therapies, perioperative monitoring, and devices for cardiovascular disease and associated medical conditions, have been developed."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Table of Contents": [
+          {
+            "Section": 1,
+            "Title": "Introduction",
+            "Subsections": [
+              "Methodology and Evidence Review",
+              "Composition of the Writing Committee",
+              "Guideline Review and Approval",
+              "Scope of the Guideline",
+              "Definitions of Surgical Timing and Risk",
+              "Class of Recommendations and Level of Evidence",
+              "Abbreviations"
+            ]
+          },
+          {
+            "Section": 2,
+            "Title": "Epidemiology of Cardiovascular Disease and Complications in Patients Undergoing Noncardiac Surgery",
+            "Subsections": [
+              "Team Based Care",
+              "Quality of Life"
+            ]
+          },
+          {
+            "Section": 3,
+            "Title": "Risk Calculators",
+            "Subsections": [
+              "Cardiovascular Risk Indices",
+              "Functional Capacity Assessment",
+              "Frailty",
+              "Preoperative Biomarkers for Risk Stratification"
+            ]
+          },
+          {
+            "Section": 4,
+            "Title": "Preoperative Cardiovascular Diagnostic Testing",
+            "Subsections": [
+              "12-Lead Electrocardiogram",
+              "Assessment of Ventricular Function",
+              "Stress Testing",
+              "Cardiopulmonary Exercise Testing",
+              "Coronary Computed Tomography Angiography",
+              "Invasive Coronary Angiography"
+            ]
+          },
+          {
+            "Section": 5,
+            "Title": "Approach to Preoperative Cardiac Testing",
+            "Subsections": [
+              "Stepwise Approach to Preoperative Cardiac Assessment"
+            ]
+          },
+          {
+            "Section": 6,
+            "Title": "Cardiovascular Comorbidities and Perioperative Management",
+            "Subsections": [
+              "Coronary Artery Disease",
+              "Hypertension and Perioperative Blood Pressure Management",
+              "Heart Failure",
+              "Valvular Heart Disease",
+              "Atrial Fibrillation",
+              "Cardiovascular Implantable Electronic Devices",
+              "Previous Stroke or Transient Ischemic Attack",
+              "Obstructive Sleep Apnea"
+            ]
+          },
+          {
+            "Section": 7,
+            "Title": "Perioperative Medical Therapy",
+            "Subsections": [
+              "Statins",
+              "Renin-Angiotensin-Aldosterone System Inhibitors",
+              "Calcium Channel Blockers",
+              "Alpha-2 Receptor Agonists",
+              "Antiplatelet Therapy and Timing of Noncardiac Surgery in Patients With Coronary Artery Disease",
+              "Oral Anticoagulants",
+              "Perioperative Beta Blockers",
+              "Perioperative Management of Blood Glucose"
+            ]
+          },
+          {
+            "Section": 8,
+            "Title": "Anesthetic Considerations and Intraoperative Management",
+            "Subsections": [
+              "Choice of Anesthetic Technique and Agent",
+              "Perioperative Pain Management",
+              "Intraoperative Monitoring Techniques"
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Top Take-Home Messages": [
+          "A stepwise approach to perioperative cardiac assessment assists in determining when surgery should proceed or if further evaluation is necessary.",
+          "Cardiovascular screening and treatment for patients undergoing noncardiac surgery should follow the same protocols as nonsurgical patients, timed to avoid unnecessary delays or overdetection and overtreatment.",
+          "Stress testing should be selectively performed, focusing on higher-risk patients where testing outcomes are independent of planned surgery.",
+          "Team-based care is critical for patients with complex conditions like cardiovascular disease.",
+          "New therapies for diabetes, heart failure, and obesity need perioperative considerations due to potential implications.",
+          "Myocardial injury after noncardiac surgery is a newly identified disease, requiring monitoring due to potential serious outcomes.",
+          "Patients with new-onset atrial fibrillation after surgery have increased stroke risk and need monitoring for arrhythmia and anticoagulation needs.",
+          "Bridging of oral anticoagulant therapy should be limited to patients at high risk for thrombotic complications.",
+          "For patients with hemodynamic instability, emergency cardiac ultrasound is advised but should not replace comprehensive echocardiography."
+        ],
+        "Preamble": {
+          "Background": "Since 1980, the ACC and AHA have provided clinical practice guidelines for cardiovascular care.",
+          "Guidelines Purpose": "Provide a systematic method to evaluate and classify evidence for cardiovascular health improvement.",
+          "Intended Use": "Applicable to patients with or at risk of developing cardiovascular conditions."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "focus": "Cardiovascular disease (CVD) with an emphasis on medical practice implementation in the United States applicable worldwide.",
+        "guidelinePurpose": "To improve quality of care and align with patients' interests, not replacing clinical judgment.",
+        "clinicalImplementation": "Guidelines are effective when followed by both practitioners and patients. Emphasizes decision-making between clinicians and patients.",
+        "methodology": "The AHA/ACC Joint Committee continually reviews and updates guidelines based on National Academy of Medicine standards.",
+        "modularFormat": "Guidelines include recommendations, brief synopsis, and supporting text.",
+        "evidenceReview": "Relies on evidence-based methodologies, including RCTs and non-randomized designs, to develop recommendations.",
+        "guidelineManagementAndTherapy": "GDMT includes clinical evaluation, diagnostic testing, and treatment."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Introduction": "The document provides guidelines for perioperative cardiovascular management for noncardiac surgery, focusing on adult patients aged 18 years and above. It includes recommendations for cardiovascular evaluation and management, addressing both pharmacological and procedural treatments. Evidence for the guidelines was gathered from research involving human subjects and databases including MEDLINE, EMBASE, and others.",
+        "Methodology and Evidence Review": "The guidelines are evidence-based and include an extensive literature review. Relevant studies published up to November 2023 were considered. Key search words involved topics such as cardiac assessment, cardiovascular risk evaluation, perioperative assessment, and myocardial protection.",
+        "Organization of the Writing Committee": "The writing committee comprises experts from various fields, including anesthesiology, cardiology, surgery, and pharmacology. Representatives from several cardiovascular societies contributed.",
+        "Guideline Review and Approval": "A peer review committee reviewed the document, and it was approved and endorsed by multiple cardiovascular societies.",
+        "Scope of the Guideline": "The guideline covers evaluation and management processes for patients undergoing noncardiac surgery, focusing on cardiovascular conditions and risks. It suggests tailored diagnostic testing and management strategies for perioperative risk assessment."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview": "The guideline discusses the perioperative cardiovascular management of patients undergoing noncardiac surgery. It emphasizes the need for a team-based, patient-centered approach to cardiovascular evaluation and management. The goal is to mitigate and manage risks through clear communication and engagement between healthcare providers.",
+        "Patient Care": "Patients should undergo a focused history and physical examination with a careful review of their medical history. Management strategies could include medical therapy, lifestyle modifications, and interventional treatments. Decisions should be team-based, and noninvasive strategies might be chosen when appropriate.",
+        "Guideline Development": "The writing committee reviewed previous guidelines and scientific statements. Changes in the new guideline include formatting and substantive changes. This guideline updates and supersedes previous guidelines on the topic.",
+        "Definitions": "Elevated risk is defined as a \u22651% risk of major adverse cardiovascular events (MACE) and involves intermediate or high-risk surgeries. Noncardiac surgeries are classified based on the associated risk of major adverse cardiac and cerebral events (MACCE)."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guidelines": [
+          {
+            "Title": "Focused update on DAPT with coronary artery disease",
+            "Organization": "ACC/AHA",
+            "Publication Year": 2016
+          },
+          {
+            "Title": "Management of blood cholesterol",
+            "Organization": "AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA",
+            "Publication Year": 2018
+          },
+          {
+            "Title": "Prevention, detection, evaluation, and management of high blood pressure in adults",
+            "Organization": "ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA",
+            "Publication Year": 2018
+          },
+          {
+            "Title": "Management of adults with congenital heart disease",
+            "Organization": "AHA/ACC",
+            "Publication Year": 2018
+          },
+          {
+            "Title": "Diagnosis and treatment of patients with hypertrophic cardiomyopathy",
+            "Organization": "AHA/ACC",
+            "Publication Year": 2020
+          },
+          {
+            "Title": "Management of patients with valvular heart disease",
+            "Organization": "ACC/AHA",
+            "Publication Year": 2021
+          },
+          {
+            "Title": "Coronary artery revascularization",
+            "Organization": "ACC/AHA/SCAI",
+            "Publication Year": 2021
+          },
+          {
+            "Title": "Evaluation and diagnosis of chest pain",
+            "Organization": "AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR",
+            "Publication Year": 2021
+          },
+          {
+            "Title": "Prevention of stroke in patients with stroke and transient ischemic attack",
+            "Organization": "AHA/ASA",
+            "Publication Year": 2021
+          },
+          {
+            "Title": "Management of heart failure",
+            "Organization": "AHA/ACC/HFSA",
+            "Publication Year": 2022
+          },
+          {
+            "Title": "Management of patients with chronic coronary disease",
+            "Organization": "AHA/ACC/ASPC/NLA/PCNA",
+            "Publication Year": 2023
+          },
+          {
+            "Title": "Management of atrial fibrillation",
+            "Organization": "ACC/AHA/ACCP/HRS",
+            "Publication Year": 2023
+          }
+        ],
+        "Scientific Statements": [
+          {
+            "Title": "Evaluation and management of right-sided heart failure",
+            "Organization": "AHA",
+            "Publication Year": 2018
+          },
+          {
+            "Title": "Cardiovascular considerations in caring for pregnant patients",
+            "Organization": "AHA",
+            "Publication Year": 2020
+          },
+          {
+            "Title": "Emerging evidence on coronary heart disease screening in kidney and liver transplantation candidates",
+            "Organization": "AHA",
+            "Publication Year": 2025
+          },
+          {
+            "Title": "Diagnosis and management of patients with myocardial injury after noncardiac surgery",
+            "Organization": "AHA",
+            "Publication Year": 2021
+          },
+          {
+            "Title": "Evaluation and management of pulmonary hypertension in noncardiac surgery",
+            "Organization": "AHA",
+            "Publication Year": 2023
+          }
+        ],
+        "Consensus Document/Reports": [
+          {
+            "Title": "Prevention of premature discontinuation of DAPT in patients with coronary artery stents",
+            "Organization": "AHA/ACC/SCAI/ACS/ADA/ACP",
+            "Publication Year": 2007
+          },
+          {
+            "Title": "Expert consensus statement on perioperative management of patients with implantable defibrillators, pacemakers and arrhythmia monitors",
+            "Organization": "AHA/ASA/HRS/STS",
+            "Publication Year": 2011
+          },
+          {
+            "Title": "Expert consensus decision pathway for perioperational management of anticoagulation in patients with nonvalvular atrial fibrillation",
+            "Organization": "ACC",
+            "Publication Year": 2017
+          }
+        ],
+        "Definitions": {
+          "Surgical Timing and Risk": [
+            {
+              "Timing": "Emergency",
+              "Definition": "Immediate threat to life or limb without surgical intervention, where there is very limited or no time for preoperative clinical evaluation, typically <2 h."
+            },
+            {
+              "Timing": "Urgent",
+              "Definition": "Threat to life or limb without surgical intervention, where there may be time for preoperative clinical evaluation to allow interventions that could reduce risk of MACE or other postoperative complications, typically >2 to <24 h."
+            },
+            {
+              "Timing": "Time-sensitive",
+              "Definition": "Surgery may be delayed up to 3 mo to allow for preoperative evaluation and management without negatively impacting outcomes."
+            },
+            {
+              "Timing": "Elective",
+              "Definition": "The surgery could be delayed to permit a complete preoperative evaluation and appropriate management."
+            }
+          ],
+          "Risk Category": [
+            {
+              "Risk Level": "Low risk",
+              "Definition": "Combined surgical and patient characteristics predict a low risk of MACE of <1%."
+            },
+            {
+              "Risk Level": "Elevated risk",
+              "Definition": "Combined surgical and patient characteristics predict an elevated risk of MACE of \u22651%."
+            }
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Applying the American College of Cardiology/American Heart Association Class of Recommendation and Level of Evidence to Clinical Strategies, Interventions, Treatments, or Diagnostic Testing in Patient Care",
+        "Classes of Recommendation": {
+          "Class 1": {
+            "Description": "Strong",
+            "Benefit vs Risk": "Benefit >>> Risk",
+            "Suggested Phrases": [
+              "Is recommended",
+              "Is indicated/useful/effective/beneficial",
+              "Should be performed/administered/other"
+            ]
+          },
+          "Class 2A": {
+            "Description": "Moderate",
+            "Benefit vs Risk": "Benefit >> Risk",
+            "Suggested Phrases": [
+              "Is reasonable",
+              "Can be useful/effective/beneficial"
+            ]
+          },
+          "Class 2B": {
+            "Description": "Weak",
+            "Benefit vs Risk": "Benefit \u2265 Risk",
+            "Suggested Phrases": [
+              "May/might be reasonable",
+              "May/might be considered"
+            ]
+          },
+          "Class 3": {
+            "Description": "No Benefit/Moderate",
+            "Benefit vs Risk": "Benefit = Risk",
+            "Suggested Phrases": [
+              "Is not recommended",
+              "Is not indicated/useful/effective/beneficial"
+            ]
+          },
+          "Class 3: Harm": {
+            "Description": "Strong Harm",
+            "Risk vs Benefit": "Risk > Benefit",
+            "Suggested Phrases": [
+              "Potentially harmful",
+              "Causes harm"
+            ]
+          }
+        },
+        "Levels of Evidence": {
+          "Level A": {
+            "Description": "High-quality evidence from more than 1 RCT",
+            "Examples": [
+              "Meta-analyses of high-quality RCTs"
+            ]
+          },
+          "Level B-R": {
+            "Description": "Moderate-quality evidence from 1 or more RCTs",
+            "Examples": [
+              "Meta-analyses of moderate-quality RCTs"
+            ]
+          },
+          "Level B-NR": {
+            "Description": "Moderate-quality evidence from well-designed nonrandomized studies",
+            "Examples": [
+              "Meta-analyses of such studies"
+            ]
+          },
+          "Level C-LD": {
+            "Description": "Randomized or nonrandomized observational or registry studies with limitations",
+            "Examples": [
+              "Meta-analyses of such studies"
+            ]
+          },
+          "Level C-EO": {
+            "Description": "Consensus of expert opinion based on clinical experience"
+          }
+        },
+        "Other Information": {
+          "Importance of Clinical Questions": "Many important clinical questions addressed in guidelines do not lend themselves to clinical trials."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Abbreviations": {
+          "ACEi": "angiotensin-converting enzyme inhibitors",
+          "ACHD": "adult congenital heart disease",
+          "ACS": "acute coronary syndrome",
+          "AF": "atrial fibrillation",
+          "AR": "aortic regurgitation",
+          "ARB": "angiotensin receptor blocker",
+          "AS": "aortic stenosis",
+          "ASCVD": "atherosclerotic cardiovascular disease",
+          "AVR": "aortic valve replacement",
+          "BMS": "bare-metal stent",
+          "BNP": "B-type natriuretic peptide",
+          "BP": "blood pressure",
+          "CAD": "coronary artery disease",
+          "CCB": "calcium channel blocker",
+          "CCD": "chronic coronary disease",
+          "CCTA": "coronary computed tomography angiography",
+          "CHD": "congenital heart disease",
+          "CIED": "cardiovascular implantable electronic device",
+          "CKD": "chronic kidney disease",
+          "CPET": "cardiopulmonary exercise testing",
+          "CT": "computed tomography",
+          "cTn": "cardiac troponin",
+          "CVD": "cardiovascular disease",
+          "DAPT": "dual antiplatelet therapy",
+          "DASI": "Duke Activity Status Index",
+          "DBP": "diastolic blood pressure",
+          "DES": "drug-eluting stent",
+          "DOAC": "direct oral anticoagulants",
+          "ECG": "electrocardiogram",
+          "EF": "ejection fraction",
+          "EMI": "electromagnetic interference",
+          "ESU": "electrosurgery units",
+          "FDA": "U.S. Food and Drug Administration",
+          "FoCUS": "focused cardiac ultrasound",
+          "GDMT": "guideline-directed management and therapy",
+          "GLP-1": "glucagon-like polypeptide-1",
+          "HCM": "hypertrophic cardiomyopathy",
+          "HF": "heart failure",
+          "HFrEF": "heart failure with reduced ejection fraction",
+          "HR": "hazard ratio",
+          "ICA": "invasive coronary angiography",
+          "ICD": "implantable cardioverter-defibrillator",
+          "LDL": "low-density lipoproteins",
+          "LV": "left ventricular",
+          "LVAD": "left ventricular assist device",
+          "LVEF": "left ventricular ejection fraction",
+          "LVOT": "left ventricular outflow tract",
+          "MACCE": "major adverse cardiac and cerebral event",
+          "MACE": "major adverse cardiovascular event",
+          "MAP": "mean arterial pressure",
+          "MCS": "mechanical circulatory support",
+          "METs": "metabolic equivalents",
+          "MI": "myocardial infarction",
+          "MICA": "myocardial infarction and cardiac arrest",
+          "MINS": "myocardial injury after noncardiac surgery",
+          "MR": "mitral regurgitation",
+          "MS": "mitral stenosis",
+          "MV": "mitral valve",
+          "NCS": "noncardiac surgery",
+          "NSQIP": "National Surgical Quality Improvement Program",
+          "NSTEMI": "non\u2013ST-segment elevation myocardial infarction",
+          "NT-proBNP": "N-terminal pro\u2013B-type natriuretic peptide",
+          "NYHA": "New York Heart Association",
+          "OAC": "oral anticoagulant/anticoagulation",
+          "OR": "odds ratio",
+          "OSA": "obstructive sleep apnea",
+          "P2Y12": "platelet adenosine diphosphate receptor",
+          "PA": "pulmonary artery",
+          "PAH": "pulmonary arterial hypertension",
+          "PCI": "percutaneous coronary intervention",
+          "PH": "pulmonary hypertension",
+          "POAF": "perioperative/postoperative atrial fibrillation",
+          "QOL": "quality of life",
+          "RAASI": "renin\u2013angiotensin\u2013aldosterone system inhibitors",
+          "RCT": "randomized controlled trial",
+          "RCRI": "Revised Cardiac Risk Index",
+          "RV": "right ventricular",
+          "SBP": "systolic blood pressure",
+          "SGLT2i": "sodium-glucose cotransporter-2 inhibitors",
+          "STEMI": "ST-segment elevation myocardial infarction",
+          "TAVI": "transcatheter aortic valve implantation",
+          "TEA": "thoracic epidural analgesia",
+          "TEE": "transesophageal echocardiography",
+          "TEER": "transcatheter edge-to-edge repair",
+          "TTE": "transthoracic echocardiogram",
+          "VHD": "valvular heart disease",
+          "VKA": "vitamin K antagonist"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "epidemiology": "Each year, approximately 14.4 million inpatient and 19.2 million ambulatory surgeries are performed in the United States, with an estimated 313 million surgeries performed worldwide. Cardiovascular risk factors and disease are prevalent among adults undergoing noncardiac surgery, and perioperative cardiovascular complications are an important cause of morbidity and mortality.",
+        "risk_factors": "Multiple cardiovascular risk factors are reported in 45% of surgical inpatients aged \u226545 years.",
+        "disease_association": "Atherosclerotic cardiovascular disease (ASCVD) is diagnosed in nearly 25% of surgical inpatients.",
+        "surgical_statistics": "The proportion of surgical inpatients with elevated cardiovascular risk increased from 6.6% to 7.7% between 2008 and 2013.",
+        "adverse_events": "In adults \u226545 undergoing in-hospital surgery, adverse events such as perioperative death, myocardial infarction (MI), or ischemic stroke occurred in 1 of every 33 surgical admissions in the United States.",
+        "common_surgeries": "Vascular, thoracic, and solid organ transplantation surgeries show the highest incidence of cardiovascular events.",
+        "team_based_care": "Multidisciplinary care models are increasingly used to manage complex conditions.",
+        "quality_of_life": "Quality of Life (QOL) is defined by the WHO as 'an individual\u2019s perception of their position in life in the context of the culture and value systems in which they live and about their goals, expectations, standards and concerns.'"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "3. Risk Calculators",
+        "subsection": "3.1. Cardiovascular Risk Indices",
+        "recommendation": {
+          "cor": "2a",
+          "loe": "B-NR",
+          "text": "In patients with known CVD being considered for NCS, a validated risk-prediction tool can be useful to estimate the risk of perioperative MACE."
+        },
+        "synopsis": "Preoperative cardiovascular risk assessment helps estimate the likelihood of adverse outcomes. Several indices, such as the RCRI, NSQIP perioperative MI, and cardiac arrest calculator, have been developed and validated. These can be used along with evaluations of surgery-related and patient-related risk factors. While such tools are valuable, there is a need for more research to assess their efficacy. The RCRI is validated for predicting major cardiac complications, but variability exists among different tools. Risk scores are not consistent, particularly in special populations like vascular surgery patients.",
+        "supportive_text": {
+          "indices": "Several indices are available for perioperative cardiovascular prediction, including the RCRI and NSQIP. The ASA physical status classification is also used. The RCRI is especially noted for its validation in estimating the risk of MACE. The Surgical Outcome Risk Tool can estimate 30-day mortality after NCS. The AUB-HAS2 cardiovascular risk index and other simplified methods assess risks using common factors such as hypertension and diabetes."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Risk Scores and Calculators",
+        "Table Information": [
+          {
+            "Calculator": "Goldman Index of Cardiac Risk (1977)",
+            "Criteria": [
+              "Age >70 years",
+              "Recent MI within 6 months",
+              "Jugular venous distention or a third heart sound",
+              "\u22655 PVCs per minute",
+              "Non-sinus rhythm or PACs on preoperative ECG",
+              "Aortic stenosis",
+              "Intraperitoneal, intrathoracic, or aortic surgery",
+              "Any emergency surgery"
+            ]
+          },
+          {
+            "Calculator": "RCRI (1999)",
+            "Criteria": [
+              "Ischemic heart disease",
+              "Cerebrovascular disease",
+              "History of HF",
+              "Insulin therapy for diabetes",
+              "Serum creatinine \u22652.0 mg/dL",
+              "Planned high-risk procedure"
+            ]
+          },
+          {
+            "Calculator": "Gupta NSQIP Risk Calculator for Perioperative MICA (2011)",
+            "Criteria": [
+              "Age",
+              "ASA class",
+              "Functional status",
+              "Procedure type"
+            ]
+          },
+          {
+            "Calculator": "American College of Surgeons NSQIP Surgical Risk Calculator V1.1 (2023)",
+            "Criteria": [
+              "Age group",
+              "Sex",
+              "ASA class",
+              "Functional status",
+              "Emergency case",
+              "Steroid use for chronic condition",
+              "Ascites within 30 d preoperatively",
+              "System sepsis within 48 h preoperatively",
+              "Ventilator dependent",
+              "Diabetes",
+              "Hypertension",
+              "Heart failure",
+              "Dyspnea",
+              "Smoker",
+              "COPD",
+              "Dialysis",
+              "Acute renal failure",
+              "BMI class"
+            ]
+          },
+          {
+            "Calculator": "Surgical Outcome Risk Tool V2.4 (2019)",
+            "Criteria": [
+              "Age",
+              "ASA class",
+              "Urgency of surgery",
+              "Severity of surgery",
+              "Cancer"
+            ]
+          },
+          {
+            "Calculator": "NSQIP Geriatric-Sensitive Cardiac Risk Index (2017)",
+            "Criteria": [
+              "Age",
+              "ASA class",
+              "History of HF",
+              "History of stroke",
+              "Diabetes",
+              "Functional status"
+            ]
+          },
+          {
+            "Calculator": "AUB-HAS2 Cardiovascular Risk Index (2019)",
+            "Criteria": [
+              "Age \u226575",
+              "History of heart disease",
+              "Symptoms of angina/dyspnea",
+              "Hemoglobin <12 mg/dL",
+              "Vascular surgery",
+              "Emergency surgery"
+            ]
+          }
+        ],
+        "Score Range Interpretation": [
+          {
+            "Score Range": "Class I: 0-5 points",
+            "Risk": "Lowest risk"
+          },
+          {
+            "Score Range": "Class II: 6-12 points",
+            "Risk": "Moderate risk"
+          },
+          {
+            "Score Range": "Class III: 13-25 points",
+            "Risk": "High risk"
+          },
+          {
+            "Score Range": "Class IV: \u226526 points",
+            "Risk": "Highest risk"
+          }
+        ],
+        "Outcome Metrics": [
+          "Intraoperative/postoperative MI",
+          "Pulmonary edema",
+          "Ventricular fibrillation",
+          "Complete heart block",
+          "Cardiac death"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendation": "1. In patients undergoing elevated-risk NCS, a structured assessment of functional capacity (such as the Duke Activity Status Index) is reasonable to stratify the risk of perioperative adverse cardiovascular events.",
+        "Synopsis": "Functional capacity is an important predictor of risk of adverse cardiovascular events after noncardiac surgery (NCS). It is measured in METs, with 4 METs as the threshold for poor functional capacity. Assessment can be done by physical tests or instruments like DASI. Poor capacity indicates increased risk of cardiac events post surgery.",
+        "Studies": [
+          {
+            "Study": "600 patients undergoing NCS",
+            "Finding": "Poor functional capacity associated with 2-fold increase in risk of in-hospital cardiovascular events.",
+            "Comparison": "9.6% versus 5.2% risk."
+          },
+          {
+            "Study": "BASEL-PMI",
+            "Finding": "Poor functional capacity associated with higher risk of death, MI, or life-threatening arrhythmias at 30 days."
+          },
+          {
+            "Study": "NSQIP",
+            "Finding": "Functional capacity data improves prediction of MI/MICA at 30 days."
+          }
+        ],
+        "Assessment Tools": [
+          {
+            "Tool": "DASI",
+            "Purpose": "To assess functional capacity",
+            "Context": "Predicting death or MI after NCS"
+          },
+          {
+            "Comparison": "CPET, ASA classification",
+            "Findings": "DASI score <34 was associated with increased 30-day death or MI."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendation": "In all patients \u226565 years of age and in those <64 years with perceived frailty who are undergoing elevated-risk NCS, preoperative frailty assessment using a validated tool can be useful for evaluating perioperative risk and guiding management.",
+        "Frailty": "Frailty is a syndrome characterized by physiological declines across multiple organ systems resulting in increased vulnerability to stressors. It is an independent risk factor for adverse outcomes after noncardiac surgery (NCS), and can impact management and inform risk discussions.",
+        "Prevalence": "The weighted prevalence of frailty was 10.7% among community-dwelling individuals \u226565 years of age.",
+        "Frailty in Women": "Women have an almost 2-fold higher prevalence of frailty than men; rates markedly higher among older patients with heart failure.",
+        "Screening Tools": "Several validated frailty assessment tools such as Physical Frailty Phenotype, Deficit Accumulation Index, Edmonton Frail Scale, FRAIL Scale, Clinical Frailty Scale, and SPPB are available."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "COR": "2a",
+            "LOE": "B-NR",
+            "description": "In patients with known CVD, or age \u226565 years, or age \u226545 years with symptoms suggestive of CVD undergoing elevated-risk NCS, it is reasonable to measure B-type natriuretic peptide (BNP) or NT-proBNP before surgery to supplement evaluation of perioperative risk."
+          },
+          {
+            "COR": "2b",
+            "LOE": "B-NR",
+            "description": "In patients with known CVD, or age \u226565 years, or age \u226545 years with symptoms suggestive of CVD undergoing elevated-risk NCS, it may be reasonable to measure cardiac troponin (cTn) before surgery to supplement evaluation of perioperative risk."
+          },
+          {
+            "COR": "2a",
+            "LOE": "B-NR",
+            "description": "For patients with known coronary heart disease, significant arrhythmia, peripheral arterial disease, cerebrovascular disease, or symptoms* of CVD undergoing elevated-risk surgery, a preoperative resting 12-lead electrocardiogram (ECG) is reasonable to establish a preoperative baseline and guide perioperative management."
+          }
+        ],
+        "synopsis": [
+          "cTn and BNP are inexpensive and widely available biomarkers that can detect and quantify myocardial injury and cardiac wall stress, respectively.",
+          "There have been several large prospective studies demonstrating the value of these biomarkers, but none in patients with elevated preoperative biomarkers for improving outcomes.",
+          "Biomarker measurement could indicate an increased risk in downstream tests."
+        ],
+        "additional_notes": [
+          {
+            "note": "NT-proBNP concentrations >100 pg/mL were independently associated with all-cause mortality."
+          },
+          {
+            "note": "Preoperative high-sensitivity cTn can identify patients at increased risk during and after the procedure."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "The resting 12-lead ECG can help predict short- and long-term morbidity and mortality for patients with coronary heart disease undergoing NCS, but adds little prognostic information beyond risk assessment tools. For a detailed risk assessment, refer to section 1.5 for surgical timing and risk, and section 3 for risk calculators. For cost-value considerations, see section 11.1.2.",
+        "Recommendations": {
+          "2a": "In patients undergoing NCS with a preoperative ECG showing new abnormalities, further evaluation is advised to refine cardiovascular risk assessment.",
+          "2b": "For asymptomatic patients undergoing elevated-risk surgeries without known CVD, a preoperative resting 12-lead ECG may be considered for baseline and management.",
+          "3": "For asymptomatic patients undergoing low-risk surgical procedures, routine preoperative resting 12-lead ECG is not recommended."
+        },
+        "Supportive Text": [
+          "A preoperative 12-lead ECG is valuable for elevated-risk surgical procedures, especially for those with coronary heart disease and related conditions.",
+          "The occurrence of specific ECG abnormalities should guide further evaluation, but tests add little prognostic value beyond risk assessments.",
+          "An abnormal preoperative ECG may not alter management except for specific cases, like second-degree Mobitz type II block.",
+          "Routine ECGs in low-risk patients have little effect on outcomes or treatment plans."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Assessment of Ventricular Function": {
+          "Left Ventricular Function": {
+            "Guidelines": [
+              {
+                "COR": 1,
+                "LOE": "B-NR",
+                "Recommendation": "In patients undergoing NCS with new dyspnea, physical examination findings of HF, or suspected new/worsening ventricular dysfunction, it is recommended to perform preoperative evaluation of LV function to help guide perioperative management."
+              },
+              {
+                "COR": 2,
+                "LOE": "C-LD",
+                "Recommendation": "In patients with a known diagnosis of HF with worsening dyspnea or other changes in clinical status undergoing NCS, preoperative assessment of LV function is reasonable to help guide perioperative management."
+              },
+              {
+                "COR": 3,
+                "LOE": "B-NR",
+                "Recommendation": "In asymptomatic and clinically stable patients undergoing NCS, routine preoperative evaluation of LV function is not recommended due to lack of benefit."
+              }
+            ]
+          }
+        },
+        "Synopsis": {
+          "Assignments": [
+            "Abnormal LV systolic or diastolic function is linked with increased perioperative MACE in NCS.",
+            "Increased risk of perioperative MACE is found with lower LV ejection fraction, higher surgical risk procedures, and additional comorbid risk factors.",
+            "Higher risk for 30-day operative mortality and readmission rates is noted in HF patients post-NCS.",
+            "Routine preoperative assessment of LV function in stable patients lacks evidence."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+        "synopsis": "Reversible myocardial ischemia is associated with increased perioperative cardiac events. The benefit of preoperative stress tests is limited, with unclear prognostic value beyond standard risk assessment tools. Preoperative revascularization has not shown reduced perioperative MACE or mortality.",
+        "key_points": [
+          "Routine preoperative LV function assessment is not beneficial in stable patients undergoing NCS.",
+          "Right ventricular function assessment is suggested in patients with MR, tricuspid regurgitation, or PH.",
+          "Stress testing is considered in elevated-risk patients with poor or unknown functional capacity."
+        ],
+        "recommendations": [
+          {
+            "COR": "2b",
+            "LOE": "B-NR",
+            "recommendation": "Consider stress testing for elevated-risk NCS patients for inducible myocardial ischemia."
+          },
+          {
+            "COR": "3",
+            "LOE": "B-R",
+            "recommendation": "Do not routinely stress test low-risk patients or those undergoing low-risk procedures due to lack of benefit."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Functional capacity of <4 METs is linked to increased risk for perioperative cardiac events regardless of disability type (e.g., CAD, HF). Stress tests may be needed in these cases, especially before surgery if high-risk myocardial ischemia is suspected or as part of pre-surgery evaluation. However, routine preoperative stress testing is not recommended for patients at low risk for cardiac issues due to cost and lack of improved outcomes. Exercise stress testing is preferred if possible due to fewer reversible defects but can still indicate risk levels. Fixed defects do not impact postoperative cardiac events but do signify CAD presence.": [],
+        "genes": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Dobutamine stress echocardiography": "Useful for preoperative risk assessment before elevated-risk NCS, especially for patients with poor or unknown functional capacity.",
+        "Positive results": "Between 5% to 50%.",
+        "Negative predictive value": "Typically >90%.",
+        "Avoid in": "Patients with uncontrolled hypertension, serious arrhythmias, unstable ACS, or hemodynamically significant LV outflow tract.",
+        "Cardiopulmonary Exercise Testing (CPET)": "Used for patients undergoing elevated-risk procedures with reduced functional capacity.",
+        "Alternative measures": "Includes 6-minute-walk-test.",
+        "Coronary Computed Tomography Angiography (CCTA)": "Recommended for patients with high-risk coronary anatomy undergoing elevated-risk surgery, but not for low-risk patients."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+        "key_points": [
+          {
+            "recommendation": "Routine preoperative risk assessment with CCTA is not recommended for patients without specific high-risk indications.",
+            "reason": "CCTA is useful in select patients with suspected high-risk coronary anatomy but lacks overall evidence for widespread preoperative use."
+          },
+          {
+            "risk_assessment_with_CCTA": "Considered in patients with elevated risk for perioperative cardiovascular events as determined by risk scores.",
+            "additional_use": "Incremental risk assessment over clinical risk scores, especially in those with low functional capacity."
+          },
+          {
+            "study_reference": "CCTA-VISION study indicates marginal improvement in postoperative cardiovascular event risk prediction with CCTA.",
+            "outcome_effectiveness": "CCTA overestimates risk in patients unlikely to experience events, leading to potential surgical delays and unnecessary resource use."
+          },
+          {
+            "recommendation_for_invasive_coronary_angiography": "Not recommended for patients undergoing noncardiac surgery (NCS) to improve perioperative outcomes."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "ICA is used to define coronary artery anatomy, diagnose atherosclerotic CAD, and assess lesion location and severity. It helps determine the necessity of revascularization. Preoperative ICA may be done in high-risk patients. There's insufficient data to recommend routine angiography for patients undergoing NCS. ICA improves outcomes in certain surgeries but is not consistently associated with improved postoperative outcomes.",
+        "Recommendation-Specific Supportive Text": "Routine invasive angiography is not recommended for revascularization needs in NCS evaluation. The CARP trial found no significant effect of preoperative coronary artery revascularization on outcomes. Two European RCTs supported these findings. Major vascular surgeries showed similar MACE rates regardless of ICA. However, ICA has shown improved long-term survival in certain settings. The strategy should be reserved for patients with significant risks.",
+        "5. Approach to Perioperative Cardiac Testing": "It recommends a framework for risk stratification. Recommendations are supported by evidence levels but should not replace clinical judgment.",
+        "6. Cardiovascular Comorbidities and Perioperative Management": {
+          "6.1. Coronary Artery Disease Synopsis": "CAD is prevalent in 18% of cases undergoing NCS, raising MACE risks. The severity of CAD affects these risks. A history of MI increases risks significantly. Properly managing ASCVD is vital before elective NCS."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview": "The image outlines a stepwise approach to perioperative cardiac assessment for patients with cardiovascular risk factors or diseases scheduled for noncardiac surgery. Key considerations include emergency surgery, acute cardiac conditions, estimation of perioperative risk, and various risk factors and modifiers.",
+        "Key Steps": [
+          "Initial assessment for emergency surgery or acute cardiac conditions.",
+          "Use of a risk calculator for adverse cardiovascular events.",
+          "Estimation of risk based on factors like heart valve disease, pulmonary hypertension, coronary artery disease, decompensated heart failure, ICD presence, and frailty.",
+          "Preoperative biomarker risk assessment including BNP, NT-proBNP, and troponin levels.",
+          "Decision-making regarding surgery proceeding or delaying based on calculated risk and functional capacity."
+        ],
+        "Risk Modifiers": [
+          "Severe valvular heart disease",
+          "Severe pulmonary hypertension",
+          "Poorly controlled hypertension",
+          "Recent stroke",
+          "ICD presence",
+          "Frailty"
+        ],
+        "Biomarkers": [
+          "BNP",
+          "NT-proBNP",
+          "Troponin"
+        ],
+        "Considerations for Testing": [
+          "12-lead ECG for known cardiovascular disease or symptoms.",
+          "Echocardiography for ventricular dysfunction or valve disease.",
+          "Noninvasive stress testing via CCTA for coronary artery disease."
+        ],
+        "Management Recommendations": [
+          "GDMT initiation for long-term cardiovascular risk and disease management.",
+          "Multidisciplinary team discussions for elevated risk findings.",
+          "Postoperative troponin surveillance if necessary."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "This guideline reviews the role of coronary revascularization before NCS. It provides specific recommendations based on patient conditions such as ACS with ST-segment elevation myocardial infarction (STEMI), non-ST-segment elevation myocardial infarction (NSTEMI), and CCD involving left main CAD. It discusses the benefits of preoperative revascularization and emphasizes a multidisciplinary approach for planned NCS.",
+        "Recommendations": [
+          "For patients with ACS, coronary revascularization is recommended before elective NCS to reduce cardiovascular events.",
+          "In patients with CCD and significant left main coronary artery stenosis, revascularization prior to NCS is recommended.",
+          "Routine preoperative revascularization is not recommended for patients with non-left main CAD planned for NCS."
+        ],
+        "Additional Information": "For patients with unstable angina and NSTEMI, revascularization is recommended if they experience cardiogenic shock or have GRACE scores >140. Revascularization is also recommended for patients with refractory symptoms despite GDMT."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations for Hypertension and Perioperative Blood Pressure Management": {
+          "Preoperative Blood Pressure Management": [
+            {
+              "COR": "2a",
+              "LOE": "C-EO",
+              "Recommendation": "For most patients with hypertension planned for elective NCS, it is reasonable to continue medical therapy for hypertension throughout the perioperative period."
+            },
+            {
+              "COR": "2b",
+              "LOE": "C-LD",
+              "Recommendation": "In patients undergoing elective elevated-risk surgery who have cardiovascular risk factors for perioperative complications and recent history of poorly controlled hypertension with SBP \u2265180 mm Hg or DBP \u2265110 mm Hg before the day of surgery, deferring surgery may be considered to reduce the risk of perioperative complications."
+            }
+          ],
+          "Intraoperative Blood Pressure Management": [
+            {
+              "COR": "1",
+              "LOE": "B-NR",
+              "Recommendation": "In patients undergoing NCS, maintaining an intraoperative mean arterial pressure (MAP) \u226560 to 65 mm Hg or SBP \u226590 mm Hg is recommended to reduce the risk of myocardial injury."
+            }
+          ],
+          "Postoperative Blood Pressure Management": [
+            {
+              "COR": "1",
+              "LOE": "B-NR",
+              "Recommendation": "In patients undergoing NCS, treatment of hypotension (MAP <60-65 or SBP <90 mm Hg) in the postoperative period is recommended to limit the risk of cardiovascular, cerebrovascular, renal events, and mortality."
+            },
+            {
+              "COR": "1",
+              "LOE": "C-EO",
+              "Recommendation": "In patients with hypertension undergoing NCS, it is recommended that preoperative antihypertensive medications be restarted as soon as clinically reasonable to avoid complications from postoperative hypertension."
+            }
+          ]
+        },
+        "Perioperative Hypertension": {
+          "Effects": "Perioperative hypertension affects an estimated 25% of patients undergoing major NCS and is a leading cause for postponement of elective surgery.",
+          "Risks": "Uncontrolled hypertension increases the risk of cardiovascular disease, cerebrovascular events, and bleeding."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          {
+            "title": "Uncontrolled Hypertension and Perioperative Complications",
+            "details": "Uncontrolled hypertension is associated with increased perioperative complications. A retrospective analysis showed that preoperative DBP >90 mm Hg was linked to increased 30-day postoperative mortality. Therefore, controlling chronic hypertension in the perioperative period is recommended. For those unable to take oral medications, intravenous medications may be used to control BP. However, a higher target BP may be acceptable for younger adults, whereas a lower target may be preferred for older adults or those with chronic hypertension."
+          },
+          {
+            "title": "Patients with Uncontrolled Hypertension",
+            "details": "Uncontrolled hypertension can increase sympathetic activity during anesthesia, leading to higher BP and heart rate. Preoperative diagnosis of hypertension was found to increase cardiovascular complications by 35%. Single-center studies associated preinduction SBP >160 mm Hg with increased composite outcomes (cardiac, neurological, or renal complications)."
+          },
+          {
+            "title": "Intraoperative Hypotension",
+            "details": "Intraoperative hypotension is linked to postoperative myocardial injury, acute kidney injury, and mortality. The HARM trial and others struggle with consistent definitions of critical hypotension levels. Studies like INPRESS and POISE-3 offer varying strategies, but more evidence is needed to support specific intraoperative BP targets."
+          },
+          {
+            "title": "Postoperative Hypertension",
+            "details": "Can arise from a variety of stimuli including pain, withdrawal of chronic antihypertensive medications, or other stressors. It can increase the risk of complications."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations": [
+          {
+            "ClassOfRecommendation": "1",
+            "LevelOfEvidence": "C-LD",
+            "Recommendation": "In patients with HF undergoing elective NCS, sodium-glucose cotransporter-2 inhibitors (SGLT2i) should be withheld for 3 to 4 days before surgery when feasible to reduce the risk of perioperative metabolic acidosis."
+          },
+          {
+            "ClassOfRecommendation": "2a",
+            "LevelOfEvidence": "C-LD",
+            "Recommendation": "In patients with compensated HF undergoing NCS, it is reasonable to continue GDMT (excluding SGLT2i) in the perioperative period, unless contraindicated, to reduce the risk of worsening HF."
+          }
+        ],
+        "Synopsis": "Patients with HF are at increased risk for perioperative complications. Elevated risks are noted in those with ischemic HF compared to those with nonischemic HF. Lower LVEF (left ventricular ejection fraction) is associated with higher 90-day mortality, highlighting the importance of optimizing HF management before surgery. SGLT2i should be withheld to prevent risks associated with perioperative metabolic acidosis."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": "The guideline discusses perioperative cardiovascular management for noncardiac surgery, focusing on heart failure with reduced ejection fraction (HFrEF) and hypertrophic cardiomyopathy (HCM). It highlights medications like ACE inhibitors, ARBs, beta blockers, mineralocorticoid receptor antagonists, and SGLT2 inhibitors for managing HFrEF. Patients with HCM should avoid factors that trigger dynamic outflow obstructions during surgery. Recommendations include maintaining sinus rhythm, using echocardiography for evaluation, and understanding management considerations like avoiding hypovolemia and reduced preload."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "class_of_recommendation": 1,
+            "level_of_evidence": "C-LD",
+            "description": "Patients receiving stable doses of targeted medical therapies for pulmonary arterial hypertension (PAH) undergoing NCS should continue these agents to reduce risk of perioperative MACE."
+          },
+          {
+            "class_of_recommendation": 2,
+            "level_of_evidence": "C-LD",
+            "description": "Patients with severe PH undergoing elevated-risk NCS should be referred to a specialized PH center for risk assessment and optimization."
+          },
+          {
+            "class_of_recommendation": 2,
+            "level_of_evidence": "C-LD",
+            "description": "Invasive hemodynamic monitoring is reasonable in patients with severe PH undergoing elevated-risk NCS."
+          },
+          {
+            "class_of_recommendation": 2,
+            "level_of_evidence": "C-EO",
+            "description": "Administration of short-acting inhaled pulmonary vasodilators in patients with precapillary PH undergoing elevated-risk NCS may reduce elevated RV afterload."
+          }
+        ],
+        "synopsis": "The role of PH in perioperative MACE is largely defined by observational data. A recent guideline detailed the diagnosis, evaluation, and management of PH. Preoperative risk stratification should include right heart catheterization and echocardiographic evaluation."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "text": "For patients with Group 1 disease (PAH), it is recommended to continue targeted medical therapies during the perioperative period given the higher risk for MACE compared with patients with non-Group 1 PH undergoing NCS.",
+            "details": [
+              "Prospective study at 11 specialized PH centers showed major complications in 6.1% and mortality in 3.5% of patients.",
+              "Importance of having specialized centers manage patients with PAH."
+            ]
+          },
+          {
+            "text": "Study from 2004 to 2014 of adult hospitalizations for major NCS highlighted a high associated risk of MACE and cardiogenic shock for Group 1 disease.",
+            "details": [
+              "43% increased odds for death, MI, or stroke.",
+              "Comparison with non-Group 1 disease showed a 2.5-fold increase in MACE."
+            ]
+          },
+          {
+            "text": "PH with a severe precapillary component is defined as mean PA pressure >40 mm Hg.",
+            "details": [
+              "Patients at risk for decompensated right HF may benefit from inhaled vasodilators."
+            ]
+          },
+          {
+            "text": "Perioperative spirometry should be performed for patients with suspected Group 1 disease or lung transplant recipients at risk.",
+            "details": [
+              "Inhaled pulmonary vasodilators can be beneficial for patients with PH-induced right HF."
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "Recommendation for Adult Congenital Heart Disease",
+        "recommendation": "In patients with intermediate- to elevated-risk congenital heart disease (CHD) lesions undergoing elective NCS, preoperative consultation with an adult congenital heart disease (ACHD) specialist is recommended before surgery.",
+        "synopsis": "Patients with ACHD are at increased risk of in-hospital mortality, longer hospitalization, and readmission after high-risk NCS. It is advised to consult with an ACHD cardiovascular specialist for these patients. Monitoring and management involving fluid balance, blood pressure, and shunt management are crucial. Preoperative evaluation of intra-abdominal pressure and avoiding hypothermia are recommended. Consultation in a facility with an established ACHD program and experts is preferred.",
+        "risk_stratification": "Table 10 categorizes risk for patients with congenital heart defects before non-cardiac surgery into low, intermediate, and elevated risk based on anatomy and functional/hemodynamic status."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Title": "Adult Congenital Heart Disease Patient Management for Noncardiac Surgery",
+        "Key Points": [
+          "Clarification of ACHD diagnosis and review of cardiac anatomy are crucial.",
+          "Identification of factors associated with increased risk of perioperative morbidity and mortality: cyanosis, heart failure (HF), poor functional capacity, pulmonary hypertension, and high-risk congenital heart disease (CHD) lesions.",
+          "Considerations for urgent/emergency procedures and operations impacting the respiratory and nervous systems.",
+          "Multidisciplinary team discussions are recommended for developing management strategies to minimize risk and optimize outcomes.",
+          "Issues to consider include endocarditis prophylaxis, prevention of venous thrombosis, specific drug dosing, complications related to underlying hemodynamics, and meticulous line care.",
+          "Attention to arrhythmias, erythrocytosis, pulmonary vascular disease, and anticoagulant adjustments for cyanotic patients is essential."
+        ],
+        "Recommendation for Left Ventricular Assist Devices": {
+          "COR": 1,
+          "LOE": "C-EO",
+          "Recommendation": "For patients with a left ventricular assist device (LVAD), coordination with the LVAD care team is recommended to mitigate the risk of perioperative major adverse cardiac events (MACE)."
+        },
+        "Synopsis": [
+          "LVAD implantation introduces perioperative challenges due to the need for therapeutic anticoagulation and risk factors such as major bleeding, infection, right HF, cardiac arrhythmias, and renal dysfunction.",
+          "Patients with an LVAD are at a higher risk of perioperative MACE, including several complications when compared to non-LVAD patients."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "LVAD in Mechanical Circulatory Support (MCS) Guidelines",
+        "details": [
+          "The potential perioperative risks of MACE in patients with an LVAD undergoing NCS are numerous and challenging.",
+          "Personalized surgical benefits should be weighed against the risk of MACE.",
+          "Current data suggest greater elective NCS risks in patients who have had an LVAD for less than 6 months compared to more than 6 months.",
+          "Recommendations are to coordinate with the LVAD team for optimal NCS timing."
+        ],
+        "heart transplantation": [
+          "In 2022, 3668 heart transplants in the US had estimated 1-year survival >90%.",
+          "Common challenges post-transplant include infection, kidney injury, chronic immune suppression, and chronic rejection."
+        ],
+        "valvular heart disease": "For complete recommendations, refer to the 2020 ACC/AHA Guideline for Valvular Heart Disease."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": {
+          "Severe AS": "Defined by current valvular heart disease and echocardiography guidelines as increased risk for adverse cardiovascular outcomes in patients undergoing NCS.",
+          "Perioperative Management": "Should be conducted in collaboration with a multidisciplinary heart valve team.",
+          "Echocardiography": "Recommended within 1 year of elevated-risk NCS for those with suspected moderate or severe AS.",
+          "Recommendation": "Perioperative risk is higher in symptomatic versus asymptomatic patients."
+        },
+        "Recommendation-Specific Supportive Text": {
+          "AVR Use": "Limited data available before moderate- or high-risk NCS; AVR may reduce risk for MACE.",
+          "Balloon Aortic Valvuloplasty": "May be considered as a bridge strategy in patients with severe AS who require elevated-risk NCS."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Management of Patients With Severe Aortic Stenosis Requiring Elective or Time-Sensitive Noncardiac Surgery",
+        "Summary": "The flowchart provides a guideline for managing patients with severe aortic stenosis who require elective or time-sensitive noncardiac surgery. It involves a multidisciplinary team for decision-making if the patient shows signs of symptomatic or asymptomatic severe aortic stenosis. Key decisions are based on the left ventricular ejection fraction (LVEF), patient's candidacy for aortic valve replacement (AVR), and whether the noncardiac surgery can be delayed.",
+        "Clinical Considerations": [
+          "Patients are assessed for symptomatic or asymptomatic severe aortic stenosis.",
+          "LVEF <50% guides critical decision paths.",
+          "Candidates for AVR should be evaluated before elevated-risk noncardiac surgery.",
+          "Team-based patient-centered decision-making is encouraged for the procedural modality.",
+          "Options include TAVI or SAVR after evaluation for those who are candidates for AVR.",
+          "For asymptomatic patients with LVEF \u226550% facing low-risk NCS, proceeding is considered reasonable."
+        ],
+        "Definitions": [
+          "Severe aortic stenosis: aortic valve area <1.0 cm\u00b2, mean aortic valve gradient \u226540 mm Hg, or peak aortic valve velocity Vmax \u22654.0 m/s.",
+          "Symptoms include exertional dyspnea, angina, heart failure, syncope, or presyncope."
+        ],
+        "Options": [
+          "Consider nonsurgical management, minimally invasive alternatives, or palliative care if not a candidate for AVR."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations": [
+          "Patients with severe mitral stenosis (MS) should be evaluated for the need for mitral valve (MV) intervention before elective noncardiac surgery (NCS).",
+          "In patients with severe MS who cannot undergo MV intervention before NCS, perioperative invasive hemodynamic monitoring is recommended to guide management and reduce cardiovascular risk.",
+          "In patients with severe MS who cannot undergo MV intervention before NCS, perioperative heart-rate control (e.g., beta blockers, calcium channel blockers, ivabradine, digoxin) is suggested to prolong diastolic filling time and decrease perioperative cardiovascular complications."
+        ],
+        "Synopsis": "Patients with moderate to severe MS are at increased risk of perioperative adverse cardiovascular events. Suspected MS can be evaluated by echocardiography, and patients may benefit from a multidisciplinary team approach. Intensive monitoring is necessary for managing tachycardia, increased transvalvular gradients, and elevated pulmonary pressures. Criteria for MV intervention include patients with severe rheumatic MS or asymptomatic with elevated pulmonary pressures.",
+        "Recommendation-Specific Supportive Text": [
+          "MV intervention may reduce morbidity and mortality rates before elective NCS in symptomatic or asymptomatic severe MS with elevated pulmonary pressures or new atrial fibrillation.",
+          "Patients with MS are at higher risk for pulmonary edema, hypotension, and arrhythmia. Changes in pulmonary hemodynamics may increase cardiovascular risk."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Aortic and mitral valvular regurgitation are common in older adults and can be detected during preoperative assessments for noncardiac surgeries (NCS). Symptoms include increasing exercise intolerance, dyspnea, and orthopnea. Echocardiography is used for detecting and assessing regurgitant aortic valves. In asymptomatic patients with normal LV systolic function, NCS can be safely performed even with severe aortic or mitral regurgitation. Exercise testing can confirm symptom absence. Valvular regurgitation can be primary or secondary, with various hemodynamic consequences. No major new evidence has altered the guidelines since the 2020 ACC/AHA guideline.",
+        "Recommendations for Chronic Aortic and Mitral Regurgitation": [
+          {
+            "COR": "1",
+            "LOE": "C-EO",
+            "Recommendation": "In patients with suspected moderate or severe valvular regurgitation, preoperative echocardiography is recommended before elective NCS to guide perioperative management."
+          },
+          {
+            "COR": "1",
+            "LOE": "C-EO",
+            "Recommendation": "In patients with VHD who meet indications for valvular intervention, the need for intervention should be considered before elective elevated-risk NCS."
+          },
+          {
+            "COR": "2a",
+            "LOE": "C-LD",
+            "Recommendation": "In asymptomatic patients with moderate or severe MR, normal LV function, and estimated PA systolic pressure <50 mm Hg, elective NCS is reasonable."
+          },
+          {
+            "COR": "2a",
+            "LOE": "C-LD",
+            "Recommendation": "In asymptomatic patients with moderate or severe aortic regurgitation and normal LV function (LVEF >55%), elective NCS is reasonable."
+          }
+        ],
+        "Recommendation-Specific Supportive Text": "Patients evaluated for NCS with known or suspected valvular regurgitation need comprehensive examinations including ECGs and echos. Recognizing the severity is crucial for management and surgical timing. Valvular regurgitation can increase cardiovascular risks during NCS."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "COR": "2a",
+            "LOE": "B-NR",
+            "description": "For patients who undergo successful transcatheter aortic valve implantation (TAVI), it is reasonable to perform NCS early as clinically indicated."
+          },
+          {
+            "COR": "2a",
+            "LOE": "C-EO",
+            "description": "For patients who undergo MV TEER, it is reasonable to perform NCS after the successful MV intervention as clinically indicated."
+          }
+        ],
+        "patients_at_risk": [
+          {
+            "condition": "moderate-severe MR",
+            "risks": [
+              "increased risk of perioperative HF",
+              "increased risk of MI"
+            ],
+            "factors": [
+              "lower EF",
+              "preexisting AF"
+            ]
+          },
+          {
+            "condition": "severe AR",
+            "risks": [
+              "HF",
+              "death"
+            ],
+            "factors": [
+              "increased ventricular volumes",
+              "myocardial wall stress"
+            ]
+          }
+        ],
+        "management_strategies": [
+          "Avoid increased afterload and bradycardia",
+          "Maintain preload",
+          "Intensive monitoring for 24 to 72 hours post-surgery"
+        ],
+        "medication_guidance": [
+          {
+            "context": "after TAVI and MV TEER",
+            "recommendation": "antiplatelet or anticoagulant therapy usage up to 6 months"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview": "This guideline discusses the management of atrial fibrillation (AF) in the setting of non-cardiac surgery (NCS).",
+        "AF Management": [
+          {
+            "Recommendation": "In patients with rapid AF identified in the setting of NCS, address potential underlying triggers like sepsis, anemia, and pain.",
+            "Level": "2a",
+            "Class": "C-LD"
+          },
+          {
+            "Recommendation": "For new-onset AF in NCS, consider anticoagulation therapy postoperatively, weighing thromboembolism against bleeding risks.",
+            "Level": "2a",
+            "Class": "C-LD"
+          },
+          {
+            "Recommendation": "Postdischarge, follow-up for thromboembolic risk after new-onset AF in NCS is crucial, with a focus on risk stratification and AF surveillance.",
+            "Level": "1",
+            "Class": "C-LD"
+          }
+        ],
+        "Associated Risks": [
+          "Patients with preexisting AF are at increased risk for mortality, heart failure, and ischemic stroke post-NCS.",
+          "Perioperative/postoperative AF is common and varies by surgery type and population."
+        ],
+        "Long-term Management": "Emphasizes the need for future studies on long-term management and surveillance of perioperative/postoperative AF."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Postoperative development of pain, anemia, electrolyte imbalance, fluid shifts, and sepsis can contribute to new-onset POAF and a rapid ventricular response. Aggressive management of these triggers is essential in POAF management. Medications like beta blockers or CCBs can control ventricular rate, with digoxin as an adjunct. Patients with AF require specific therapies, and synchronized cardioversion may be needed for hemodynamically unstable patients. Excluding left atrial appendage thrombus is necessary before attempting rhythm control in specific cases. POAF after NCS is associated with thromboembolic risks. Strategies include using oral nonvitamin K anticoagulants or no anticoagulation in patients with NCS onset AF. Continuous monitoring in cardiac surgery patients can detect AF effectively. Outpatient follow-up is recommended within 3 to 6 months after NCS to evaluate AF presence. For patients with cardiovascular implantable electronic devices, an EMI management plan is essential before surgery. Reprogramming pacemakers may be necessary to avoid pacing inhibition.": "genes",
+        " []": "* no human genes were identified in the analyzed text"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Guidelines": [
+          "Pacemaker-dependent patients with a transvenous ICD undergoing surgery above the umbilicus should have their device reprogrammed to inhibit tachytherapies or inappropriate shocks. If not pacemaker-dependent, either reprogramming or a magnet on the generator is suggested.",
+          "Patients with a pacemaker or ICD reprogrammed to asynchronous pacing should have device functioning restored post-surgery before discharge.",
+          "Patients with leadless pacemakers undergoing surgeries with anticipated EMI above the umbilicus should have their pacemakers reprogrammed to asynchronous mode.",
+          "Patients with subcutaneous ICD having noncardiac or nonthoracic surgery with anticipated EMI above the groin should reprogram the device or use a magnet to disable tachytherapies."
+        ],
+        "Synopsis": "A CIED may be identified by history, examination, records, and radiography. EMI risk is higher when the electrosurgery unit is close to the CIED pulse generator or leads, but EMI risk reduces with distance. An ESU below the umbilicus is unlikely to cause EMI with transvenous devices."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Information": "The guideline discusses management for patients with nontransvenous devices like leadless pacemakers and subcutaneous ICDs, focusing on the identification and management of potential electromagnetic interference (EMI). It outlines scenarios such as when a pacemaker is dependent on EMI presence and details the necessary interventions, including reprogramming and using a magnet. Emphasis is placed on the importance of identifying the type of cardiac implantable electronic device (CIED), its manufacturer, and programmed parameters as soon as possible, as well as ensuring proper CIED functioning before surgery. Specific recommendations highlight the use of magnets for emergencies with anticipated EMI and describe scenarios where reprogramming or the use of a magnet may be necessary to prevent inappropriate CIED responses."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guideline": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery",
+        "recommendations": [
+          {
+            "topic": "Management plans for CIED",
+            "details": [
+              "Incorporate procedure details, patient positioning, type of anticipated EMI",
+              "State specific programming changes based on patient needs like response to a magnet, pacemaker dependency, battery life, and history of arrhythmias."
+            ]
+          },
+          {
+            "topic": "Magnet pacing",
+            "details": [
+              "Rates vary by device and battery status.",
+              "Recommended asynchronous pacing with magnet use; synchronous pacing requires reprogramming."
+            ]
+          },
+          {
+            "topic": "Electrosurgical Unit (ESU)",
+            "details": [
+              "EMI is common with monopolar ESU; use dispersive electrode.",
+              "Position electrodes far from device."
+            ]
+          },
+          {
+            "topic": "Implantable Cardioverter-Defibrillators (ICDs)",
+            "details": [
+              "Program to asynchronous pacing to prevent EMI.",
+              "Antitachyarrhythmia functions are disabled to avoid inappropriate therapy."
+            ]
+          },
+          {
+            "topic": "Pacemaker recommendations",
+            "details": [
+              "Leadless pacemakers implanted in RV; may not be magnet responsive.",
+              "Subcutaneous ICDs more susceptible to ESU."
+            ]
+          },
+          {
+            "topic": "Previous stroke or TIA",
+            "recommendation": "Delay elective noncardiac surgery for at least 3 months post-stroke to reduce recurrence risk."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Stroke Risk and Management": "Patients with prior stroke or transient ischemic attack are at higher risk for a recurrent stroke or worsening neurological deficits. This increased risk diminishes over time but is highest in the first 3 months post-stroke.",
+        "Recommendation for Elective Noncardiac Surgery": "It is recommended to delay elective noncardiac surgery for \u22656 months post-stroke for better protection against recurrent stroke. However, delaying NCS for \u22656 months provides no additional protection against recurrent stroke.",
+        "Obstructive Sleep Apnea (OSA)": "OSA is a multifactorial condition associated with cardiovascular complications like hypertension, AF, HF, CAD, and stroke. A diagnosis of OSA increases the risk of postoperative cardiac and cerebrovascular complications.",
+        "OSA Recommendation": "Screening for OSA using validated questionnaires is reasonable for patients scheduled for NCS. Regional anesthesia may reduce the use of systemic opioids and the risk of pulmonary complications.",
+        "Statistics and Findings": "Approximately 34% of men and 17% of women over 40 meet the diagnostic criteria for OSA. A recent meta-analysis showed an increased incidence of postoperative complications associated with OSA. Patients with OSA had a 2.5-fold greater risk of postoperative pulmonary complications.",
+        "OSA and Perioperative Management": "Positive airway pressure ventilation should be started postoperatively as early as possible, especially for patients requiring noninvasive positive airway pressure before surgery."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "overview": "The guideline discusses the use of statins in patients undergoing noncardiac surgery (NCS) to reduce the risk of major adverse cardiovascular events (MACE). It supports the use of statins in both patients already on statins and those who meet criteria for new initiation, with the goal of long-term use. Emphasis is placed on the perioperative period as an opportunity for statin therapy initiation. Observational studies and trials indicate reduced cardiovascular complications with statin use.",
+        "details": [
+          "Statins reduce LDL-cholesterol and have pleiotropic anti-inflammatory effects beneficial in the perioperative period and beyond.",
+          "Long-term statin use is well established for prevention of atherosclerotic cardiovascular events.",
+          "Several RCTs and observational studies support the safety and efficacy of statin therapy.",
+          "Routine OSA screening before surgery is advocated due to increased prevalence in surgical patients with cardiovascular disease (CVD).",
+          "The LOAD trial evaluated atorvastatin reloading but found no difference in short-term outcomes, suggesting uncertainty regarding reloading benefits."
+        ],
+        "recommendations": [
+          "Continue statin therapy in patients currently on statins and scheduled for NCS.",
+          "Initiate statins perioperatively in statin-naive patients meeting criteria, with long-term use in mind."
+        ],
+        "study findings": [
+          "A prospective study indicated 23.7% of adults assessed before NCS were at high risk for OSA.",
+          "Statin reloading was associated with uncertainty in benefits before surgery in some studies."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Publication": "JACC Vol. 84, No. 19, 2024",
+        "Date": "November 5, 2024",
+        "Main Topics": [
+          "Perioperative Cardiovascular Management for Noncardiac Surgery",
+          "Statin therapy and its impact on perioperative MACE",
+          "Statin use for patients undergoing vascular surgery"
+        ],
+        "Key Recommendations": [
+          {
+            "COR": "2b",
+            "LOE": "B-R",
+            "Recommendation": "Select* patients on chronic renin-angiotensin-aldosterone system inhibitors (RAASI) for hypertension undergoing elevated-risk NCS should omit 24 hours before surgery to limit intraoperative hypotension."
+          },
+          {
+            "COR": "2a",
+            "LOE": "C-EO",
+            "Recommendation": "For patients on chronic RAASI for HFrEF, perioperative continuation is reasonable."
+          }
+        ],
+        "Synopsis": [
+          "ACEi and ARBs are widely used for their antihypertensive and cardiac benefits.",
+          "RCTs enrolled low- to intermediate-risk patients to evaluate RAASI safety and efficacy.",
+          "Intraoperative hypotension more common in patients continuing RAASI, yet continuation did not affect clinical outcomes substantially.",
+          "Larger RCTs are suggested for kidney function and stroke prevention."
+        ],
+        "Recommendation-Specific Supportive Text": [
+          "Omitting RAASI has been shown to reduce intraoperative hypotension but not overall clinical outcomes.",
+          "The PROPEP-ACEI study randomized patients to omit or continue ACEi before surgery, showing intraoperative hypotension less common with omission.",
+          "Meta-analysis involving patients with omitted or continued ACEi/ARB before surgery corroborate findings."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+        "Sections": [
+          {
+            "Title": "ACEi/ARB",
+            "Details": "No difference in MACE. Studies like STOPorNOT assess the impact of RAASi continuation or omission before planned surgery. No adverse events noted with continuation. POISE-3 study showed no difference in major vascular events with BP management strategies. 72% of patients were taking ACEi/ARB."
+          },
+          {
+            "Title": "Role of RAASi",
+            "Details": "RAASi in HF with reduced ejection fraction is supported by guidelines. Significant reduction in mortality and hospitalization for HF. Meta-analysis in 2018 explored perioperative omission effects on HF outcomes."
+          },
+          {
+            "Title": "7.3. Calcium Channel Blockers",
+            "Details": "CCBs are used for hypertension and dysrhythmia management. Meta-analysis in 2003 found no significant benefit in MACE from perioperative CCBs versus placebo. Consideration needed due to potential for hypotension and bradycardia with continued use."
+          },
+          {
+            "Title": "7.4. Alpha-2 Receptor Agonists",
+            "Details": "Initiating low-dose clonidine perioperatively is not recommended to reduce cardiovascular risk."
+          }
+        ],
+        "Recommendations": [
+          {
+            "COR": "3: No benefit",
+            "LOE": "B-R",
+            "Recommendation": "In patients undergoing NCS, initiation of low-dose clonidine perioperatively is not recommended to reduce cardiovascular risk."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "A single large, well-designed RCT showed no benefit of initiation of clonidine to prevent perioperative MACE. New administration is not recommended; however, perioperative continuation of chronic therapy has not been addressed in RCTs. Abrupt discontinuation can lead to norepinephrine surge and resultant rebound hypertension.",
+        "Recommendation-Specific Supportive Text": "The POISE-2 trial was a blinded RCT of 10,010 patients undergoing major NCS, randomized to low-dose clonidine or placebo to evaluate the impact on 30-day risk of death or nonfatal MI. Results showed no difference in primary outcome but a significant increase in nonfatal cardiac arrest and clinically significant bradycardia or hypotension.",
+        "7.5 Antiplatelet Therapy": "For patients with CAD undergoing elective NCS, management of perioperative antiplatelet therapy and timing of surgery should be determined by a multidisciplinary team.",
+        "Timing of NCS After PCI": {
+          "2": "Patients with recent coronary artery balloon angioplasty should delay NCS for 14 days.",
+          "3": "Patients with DES-PCI for ACS should delay NCS for \u226512 months.",
+          "4": "Patients with DES-PCI placed for CCD should delay surgery for 26 months.",
+          "5": "Patients with DES-PCI requiring time-sensitive NCS should delay NCS \u22653 months.",
+          "6": "Patients with a recent BMS or DES-PCI should avoid NCS due to a high risk of complications."
+        },
+        "Perioperative Antiplatelet Management Post PCI": {
+          "7": "Patients with prior PCI undergoing NCS should continue aspirin.",
+          "8": "Patients with CAD who require time-sensitive NCS should continue DAPT unless the risk of bleeding outweighs the benefit."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Management of antiplatelet therapy in the perioperative period of noncardiac surgery (NCS) is complex, particularly for patients with coronary artery disease (CAD) and prior percutaneous coronary intervention (PCI). Balancing the timing of antiplatelet interruption with the competing risks of thrombotic complications is crucial. The risk of perioperative stent thrombosis is highest 1-6 weeks post-PCI. Dual antiplatelet therapy (DAPT) is recommended for 6 months. Selected patients might be eligible for shorter DAPT durations based on recent data. Decisions regarding antiplatelet therapy interruption should be individualized and involve a multidisciplinary team.",
+        "Recommendation": "The need for antiplatelet therapy is emphasized for preventing ischemic cardiac events in CAD patients. Temporary discontinuation of antiplatelet therapy should be safely timed according to MACE risks. Elective NCS post-PCI demands careful interpretation of antiplatelet therapy interruption. Aspirin use has decreased as primary prevention evidence shows no cardiovascular risk reduction. Multidisciplinary consultations are essential for decisions on DAPT cessation in these contexts."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Focus": "The document provides guidelines for the optimal timing of elective or time-sensitive noncardiac surgery (NCS) for patients who require management of dual antiplatelet therapy (DAPT) following percutaneous coronary intervention (PCI).",
+        "Key Points": [
+          {
+            "Scenario": "Balloon angioplasty only",
+            "Recommendation": "Delay NCS >14 days"
+          },
+          {
+            "Scenario": "BMS-PCI (Bare-Metal Stent PCI)",
+            "Recommendation": "Delay NCS >30 days"
+          },
+          {
+            "Scenario": "DES-PCI (Drug-Eluting Stent PCI) with ACS (Acute Coronary Syndrome)",
+            "Recommendation": [
+              "Delay NCS for \u226512 months after DES-PCI",
+              "Delay NCS for \u22653 months after DES-PCI if time-sensitive indication for surgery",
+              "If DES-PCI \u2264 1 month, do not perform NCS"
+            ]
+          },
+          {
+            "Scenario": "DES-PCI with CCD (Chronic Coronary Disease)",
+            "Recommendation": [
+              "Delay NCS for \u22656 months after DES-PCI",
+              "Delay NCS for \u22653 months after DES-PCI if time-sensitive indication for surgery",
+              "If DES-PCI \u2264 1 month, do not perform NCS"
+            ]
+          }
+        ],
+        "Clinical Insights": [
+          "Perioperative cardiac events are a risk after DES-PCI, particularly within the first year.",
+          "Incidence of MACE after noncardiac surgery is highest within the first 3 months after DES-PCI.",
+          "Stent type (DES vs. BMS), timing of surgery after PCI, and indication for PCI are important factors in decision-making."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_summary": "The guideline addresses the perioperative management of antiplatelet therapy in patients undergoing noncardiac surgery (NCS) following percutaneous coronary intervention (PCI). It emphasizes delaying elective NCS at least 30 days post-PCI with bare-metal stents (BMS) or 3 months with drug-eluting stents (DES), given the bleeding and thrombotic risks. It discusses aspirin and dual antiplatelet therapy (DAPT) management, including continuation, interruption, and bridging strategies with drugs like cangrelor. Observational studies and trial results on antiplatelet management and associated risks like myocardial infarction, stent thrombosis, and bleeding are also discussed."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary": "The guideline discusses the management of oral anticoagulants (OAC) for patients with cardiovascular disease (CVD) undergoing noncardiac surgery (NCS). It highlights the importance of balancing thromboembolism and bleeding risks. Recommendations include time-based interruption of OAC for those undergoing elective NCS and the use of bridging strategies with parenteral heparin in certain high thrombotic risk patients. The guideline also emphasizes multidisciplinary assessments and the importance of patient-specific factors.",
+        "Key Recommendations": [
+          {
+            "COR": "1",
+            "LOE": "B-NR",
+            "Recommendation": "For patients with CVD receiving OAC who require elective NCS, a multidisciplinary team-based approach to time-based* interruption is recommended to balance thromboembolism and bleeding risks."
+          },
+          {
+            "COR": "2a",
+            "LOE": "C-LD",
+            "Recommendation": "In patients with CVD and high thrombotic risk undergoing NCS where interruption of vitamin K antagonist (VKA) is required, preoperative bridging with parenteral heparin can be effective."
+          },
+          {
+            "COR": "3",
+            "LOE": "C-LD",
+            "Recommendation": "In most patients with CVD undergoing elective NCS where OAC interruption is warranted, routine periprocedural bridging is not recommended due to increased bleeding risk."
+          },
+          {
+            "COR": "2a",
+            "LOE": "C-LD",
+            "Recommendation": "For patients with preoperative OAC interruption, resumption of OAC is reasonable after hemostasis is achieved."
+          }
+        ],
+        "Additional Information": "The text mentions the importance of considering patient-specific factors such as thrombotic risk, age, sex, body weight, renal clearance, surgical bleeding risk, and drug interactions when determining the appropriate OAC management strategy."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Preoperative and postoperative management of direct oral anticoagulants (DOACs) and vitamin K antagonists (VKAs) is outlined for varying levels of procedure bleeding risk: high, low/moderate, and minimal. The need for interruption or resumption of anticoagulation therapy depends on factors such as the bleeding risk associated with the surgical procedure and the patient's renal function. Thromboembolic risk is categorized by factors such as history of venous thromboembolism, atrial fibrillation, mechanical valve presence, and other anticoagulation indications. Management strategies include dosage adjustments and timing of medication resumption. Specific recommendations are provided for patients with high thrombotic risk and for the use of low-molecular-weight heparin (LMWH) when bridging is necessary.": {},
+        "genes": [
+          {
+            "Gene": "G20210A",
+            "Associated Conditions": [
+              "Venous thromboembolism"
+            ],
+            "Occurrences": 2,
+            "context": "In cases of high thromboembolic risk, the presence of genetic mutations such as prothrombin gene G20210A can increase the risk of venous thromboembolism."
+          },
+          {
+            "Gene": "Factor V Leiden",
+            "Associated Conditions": [
+              "Venous thromboembolism"
+            ],
+            "Occurrences": 2,
+            "context": "Neonates with heterozygous Factor V Leiden are at increased risk for venous thromboembolism, especially when combined with other risk factors."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_summary": "The guideline discusses the pharmacokinetic characteristics, monitoring, and reversal of Vitamin K Antagonists and Direct Oral Anticoagulants (DOACs) for perioperative management. It compares Warfarin with DOACs such as Apixaban, Rivaroxaban, Edoxaban, and Dabigatran, focusing on their mechanisms, bioavailability, time to peak concentration, half-lives, duration of action, renal clearance, and interactions. The guideline also covers the management of anticoagulation around surgical procedures, including recommendations on when to hold or reverse anticoagulation therapy in high-risk bleeding situations.",
+        "drug_comparisons": [
+          {
+            "drug": "Warfarin",
+            "properties": {
+              "mechanism": "VKORC1 (vitamin K-dependent factors)",
+              "bioavailability": ">95%",
+              "time_to_Cmax": "2-6 h",
+              "half_life": "36-48 h",
+              "duration": "~5 d (beyond normalization of INR)",
+              "renal_clearance": "0%",
+              "interactions": "CYP p450 3A4, p-glycoprotein",
+              "monitor": "PT/INR",
+              "reversal": "Vitamin K, 4F-PCC, FFP"
+            }
+          },
+          {
+            "drug": "Apixaban",
+            "properties": {
+              "mechanism": "Factor Xa inhibitor",
+              "bioavailability": "50%",
+              "time_to_Cmax": "3-4 h",
+              "half_life": "9-14 h",
+              "duration": "24 h",
+              "renal_clearance": "27%",
+              "interactions": "CYP 450 3A4/2J2, p-glycoprotein",
+              "monitor": "Anti-Xa* (DOAC)",
+              "reversal": "4F-PCC, andexanet alfa"
+            }
+          },
+          {
+            "drug": "Rivaroxaban",
+            "properties": {
+              "mechanism": "Factor Xa inhibitor",
+              "bioavailability": "100% (66% without food)",
+              "time_to_Cmax": "2-4 h",
+              "half_life": "5-9 h (11-13 h in older persons)",
+              "duration": "24 h",
+              "renal_clearance": "33%",
+              "interactions": "CYP 450 3A4/2J2, p-glycoprotein",
+              "monitor": "Anti-Xa* (DOAC)",
+              "reversal": "4F-PCC, andexanet alfa"
+            }
+          },
+          {
+            "drug": "Edoxaban",
+            "properties": {
+              "mechanism": "Factor Xa inhibitor",
+              "bioavailability": "62%",
+              "time_to_Cmax": "1-2 h",
+              "half_life": "10-14 h",
+              "duration": "24 h",
+              "renal_clearance": "37%-59%",
+              "interactions": "CYP 450 3A4 (<5%), p-glycoprotein",
+              "monitor": "Anti-Xa* (DOAC)",
+              "reversal": "4F-PCC, andexanet alfa"
+            }
+          },
+          {
+            "drug": "Dabigatran",
+            "properties": {
+              "mechanism": "Factor IIa inhibitor (direct thrombin inhibitor)",
+              "bioavailability": "3%-7%",
+              "time_to_Cmax": "1.25-3 h",
+              "half_life": "12-15 h",
+              "duration": "24 h",
+              "renal_clearance": "85% (partially dialyzable)",
+              "interactions": "p-glycoprotein",
+              "monitor": "ECT (DOAC)",
+              "reversal": "4F-PCC, idarucizumab"
+            }
+          }
+        ],
+        "management_insights": "Guideline emphasizes the importance of managing anticoagulation around surgery, considering bridging anticoagulation in high thrombotic risk patients and discusses the limited availability of supportive data for anticoagulation safety and effectiveness during such procedures."
+      },
+      "genes": [
+        {
+          "Gene": "VKORC1",
+          "Associated Conditions": [
+            "Bleeding Management with Vitamin K antagonists"
+          ],
+          "Occurrences": 1,
+          "context": "Warfarin operates through the VKORC1 (vitamin K-dependent factors) mechanism."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Recommendations for Perioperative Beta Blockers": [
+          {
+            "COR": "1",
+            "LOE": "B-NR",
+            "Recommendation": "In patients on stable doses of beta blockers undergoing NCS, beta blockers should be continued through the perioperative period as appropriate based on clinical circumstances."
+          },
+          {
+            "COR": "2b",
+            "LOE": "B-NR",
+            "Recommendation": "In patients scheduled for elective NCS who have a new indication for beta blockade, beta blockers may be initiated far enough before surgery (optimally >7 days) to permit assessments of tolerability and drug titration if needed."
+          },
+          {
+            "COR": "3",
+            "LOE": "B-R",
+            "Recommendation": "In patients undergoing NCS and with no immediate need for beta blockers, beta blockers should not be initiated on the day of surgery due to increased risk for postoperative mortality."
+          }
+        ],
+        "Synopsis": "Initial optimism regarding the efficacy of perioperative beta blockers on ischemia and subsequent major cardiac events was significantly tempered by large RCTs, suggesting that their modest benefit of reducing ischemic cardiac events and atrial arrhythmias was offset by harm (eg, stroke) and was associated with increased all-cause mortality. It is advised not to use perioperative beta blockers to reduce perioperative risk. No large RCTs have determined the optimal timing for beta-blocker initiation in the perioperative period. The strategy should restrict the use of beta blockers to patients with clear long-term or acute indications, managing chronic beta blockers as appropriate to perioperative hemodynamics."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendation-Specific Supportive Text": [
+          "Early studies of beta-blockade showed benefits in patients withdrawing beta blockers after long-term use. Acutely discontinuing beta blockers for long-term indications is harmful. Clinical judgment is recommended to titrate beta blockers perioperatively.",
+          "POISE study results showed initiating beta blockers on the day of surgery might be harmful, especially if started at higher doses. Initiating beta-blockade weeks in advance and titrating showed clinical benefit, though recent results questioned this.",
+          "Perioperative beta blockers had mixed benefits, as demonstrated by the large POISE study, with risks like hypotension and stroke. Review and meta-analyses indicated potential harms influenced by POISE sample size. Upcoming trials excluded beta-blocker trials due to unreliable data concerns."
+        ],
+        "7.8 Perioperative Management of Blood Glucose": "Recommendations include testing hemoglobin A1c for patients at risk for diabetes undergoing NCS, discontinuing SGLT2i to reduce metabolic acidosis risks, and continuing metformin for glycemic control. The US diabetes prevalence affects perioperative cardiovascular and surgical risks."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+        "recommendations": [
+          {
+            "text": "GLP-1 agonists are recommended to reduce the risk of pulmonary aspiration of gastric contents at the time of surgery if used weekly >1 week before surgery and the day before for daily dosed GLP-1 agonists.",
+            "context": "Emerging data suggest that glucagon-like polypeptide-1 (GLP-1) agonists can cause gastroparesis and delayed gastric emptying."
+          },
+          {
+            "text": "It is reasonable to check preoperative hemoglobin A1c before surgery if not obtained within 3 months.",
+            "studies": "Multiple studies assess hemoglobin A1c and outcomes, but its value remains controversial."
+          },
+          {
+            "text": "SGLT2i should ideally not be recommended until the patient is stable and has resumed a normal diet.",
+            "context": "There are no clear guidelines regarding restarting SGLT2i after surgery."
+          },
+          {
+            "text": "Metformin should be continued perioperatively as it is not associated with lactic acidosis.",
+            "context": "A population-based cohort showed no risk with metformin."
+          },
+          {
+            "text": "Preoperative diabetes treatment reduces cardiovascular mortality.",
+            "context": "Preoperative blood glucose levels correlate with postoperative outcomes."
+          },
+          {
+            "text": "In patients undergoing NCS, volatile-based anesthetic or total intravenous anesthesia is reasonable.",
+            "note": "For patients where neuraxial anesthesia is feasible, it is also reasonable."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Anesthesia Types": [
+          "Local anesthesia",
+          "Regional anesthesia",
+          "Monitored anesthesia care",
+          "General anesthesia"
+        ],
+        "Key Findings": [
+          "Neuraxial anesthesia can be used as both a primary technique and as a supplement to general anesthesia.",
+          "Several studies suggest no significant cardiovascular benefits of volatile anesthetics over intravenous anesthetics for noncardiac surgeries.",
+          "No difference in postoperative release of cardiac markers (e.g., cardiac troponin T) with sevoflurane compared to propofol or remifentanil.",
+          "Regional anesthesia may reduce mortality and cardiac morbidity compared to general anesthesia in certain procedures.",
+          "Concentration of oxygen administered during surgery does not significantly affect postoperative cardiac outcomes."
+        ],
+        "Research Insights": [
+          "A meta-analysis involving over 6000 patients showed no difference in MI rates with different anesthetic agents.",
+          "Subsequent studies confirm no significant advantage of inhaled versus intravenous anesthesia regarding cardiac outcomes.",
+          "Neuraxial anesthesia discussed for postoperative pain control."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Perioperative Pain Management": {
+          "Recommendations": [
+            {
+              "Class": "2a",
+              "Level of Evidence": "B-R",
+              "Details": "For patients undergoing major abdominal surgery, the use of epidural analgesia for postoperative pain relief is reasonable to decrease the incidence of perioperative cardiac events."
+            },
+            {
+              "Class": "2b",
+              "Level of Evidence": "B-R",
+              "Details": "For patients with a hip fracture waiting for surgical repair, epidural analgesia may be considered to decrease the incidence of perioperative cardiac events."
+            }
+          ],
+          "Synopsis": "Pain is common after surgery and can lead to complications in patients with preexisting cardiac disease, such as tachyarrhythmias and hypertension. Epidural analgesia is suggested for major abdominal surgeries and may benefit those with hip fractures, reducing cardiac risks."
+        },
+        "Echocardiography Recommendations": {
+          "Recommendations": [
+            {
+              "Class": "2a",
+              "Level of Evidence": "C-ELD",
+              "Details": "In patients with unexplained hemodynamic instability, the use of perioperative TEE or foCUS is reasonable to determine the cause if expertise is available."
+            },
+            {
+              "Class": "3: No benefit",
+              "Level of Evidence": "C-ELD",
+              "Details": "For patients undergoing NCS without significant risks, routine intraoperative TEE is not recommended for cardiac abnormality screening."
+            }
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": {
+          "Echocardiography": "Used to assess biventricular and valvular function, intracardiac structures, the pericardial space, and the thoracic aorta. Useful in cases of persistent hemodynamic instability.",
+          "Transesophageal Echocardiography (TEE)": "Increasingly used in high-risk noncardiac procedures and cardiac surgery. Low-risk but complications can occur. Used for unexplained hemodynamic instability.",
+          "Perioperative Medicine": "Focus on TTE is growing, used to coarsely identify pathology.",
+          "Hypothermia": "Associated with perioperative complications (e.g., wound infection, increased blood loss). Controversial role in postoperative cardiac events."
+        },
+        "Body Temperature Recommendation": {
+          "Recommendation": "In patients with CVD undergoing NCS, maintenance of normothermia is advised to avoid perioperative complications."
+        },
+        "Recommendation-Specific Supportive Text": {
+          "Emergency TEE Use": "Recommended for unexplained severe hemodynamic instability.",
+          "Limitations": "Limited evaluation data for intraoperative TEE effectiveness. Routinely used in cardiac procedures.",
+          "Normothermia vs Hypothermia": "A trial showed no increased incidence of cardiovascular events in hypothermia-treated patients."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": "The guideline discusses the use of temporary Mechanical Circulatory Support (MCS) and Pulmonary Artery (PA) catheters in patients undergoing noncardiac surgery (NCS). Temporary MCS may help maintain adequate organ perfusion during challenging procedures, allowing diagnostic evaluation, treatment, and patient management. It is recommended for patients with acute hemodynamic instability and cardiopulmonary dysfunction undergoing urgent or emergency NCS. Emergency use has increased, and careful perioperative management is advised. PA catheterization may be considered when specific medical conditions affect hemodynamics and cannot be corrected before surgery. Routine use is not recommended for reducing morbidity or mortality.",
+        "Clinical Recommendations": [
+          {
+            "COR": "2b",
+            "LOE": "C-LD",
+            "Recommendation for MCS": "In patients with acute, severe hemodynamic instability and cardiopulmonary dysfunction undergoing urgent or emergency NCS, temporary MCS devices may be used preemptively or as rescue therapy."
+          },
+          {
+            "COR": "2b",
+            "LOE": "C-LD",
+            "Recommendation for PA Catheters": "In patients with CVD undergoing NCS, the use of PA catheterization may be considered when underlying medical conditions that significantly affect hemodynamics cannot be corrected."
+          },
+          {
+            "COR": "3: No benefit",
+            "LOE": "A",
+            "Recommendation for PA Catheters": "In patients with CVD undergoing NCS, routine use of PA catheterization is not recommended to reduce morbidity or mortality."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "The theoretical benefits of PA catheterization in NCS are from improved understanding of hemodynamics. No large RCTs prove outcomes improvement, and it is costly and invasive. Despite sparse data, it's preferred for monitoring unstable patients, especially with shock, advanced age, or acute HF. Retrospective data showed benefits here.",
+        "Recommendation-Specific Supportive Text": "Retrospective analysis found PA-guided management beneficial for severely injured patients in shock, advanced age, or acute HF. A clinical trial confirmed PA catheter decreases mortality in acute HF, especially with inotropic support.",
+        "Perioperative Anemia Management": "Preoperative anemia is an independent risk factor for poor outcomes like respiratory, wound, and thromboembolic issues. Associated with CKD, diabetes, CVD, HF. Anemia management improves outcomes. Iron therapy preoperatively is suggested to reduce blood transfusions and increase hemoglobin."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Bleeding and Anemia": "Bleeding is associated with increased mortality. Preoperative and intraoperative anemia is linked to stroke, MI, and acute kidney injury. A transfusion threshold of 8 g/dL is recommended for orthopedic surgery patients with CVD.",
+        "Iron Supplementation": "Intravenous iron is effective in reducing postoperative transfusions and infections for patients with iron deficiency anemia, more so than oral iron.",
+        "Tranexamic Acid": "This is used to reduce excessive bleeding in patients at high risk of thromboembolism.",
+        "Myocardial Injury Surveillance": "For patients with known CVD or symptoms, or age \u226565 years with risk factors, assessing cTn at 24 and 48 hours post-surgery is advised.",
+        "Management of Myocardial Injury": "For patients developing MINS, follow-up is important, particularly for those with excess cardiovascular risk. Antithrombotic therapy might reduce thromboembolic events."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Perioperative myocardial injury (MINS) occurs in approximately 20% of patients undergoing noncardiac surgery and manifests from asymptomatic myocardial injury to overt postoperative MI. MINS is defined by ischemic symptoms, electrographic changes, or imaging evidence. It is linked to adverse short- and long-term outcomes, with a high 30-day mortality rate. MINS involves an elevated cardiac troponin (cTn) and is considered harmful, even in the absence of symptoms. Risk factors include cardiovascular, kidney disease, and surgery urgency. Surveillance for MINS using cTn is recommended in patients with known CVD and other risk factors.",
+        "Recommendation-Specific Supportive Text": "1. Troponin surveillance is advised for patients with CVD, cardiovascular risk factors, and those undergoing high-risk surgery. Elevated cTn is linked to increased 30-day mortality. Serious consideration should be made regarding the necessity and frequency of cTn surveillance in low-risk individuals. 2. Data supports better outcomes with early cardiology consultation after MINS detection. Early referral is shown to reduce cardiac-related mortality. 3. Postoperative administration of DOACs may reduce cardiovascular risk. Appropriate medical therapy intensification is recommended post-MINS."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Evaluation of an Abnormal Troponin Obtained for Postoperative Surveillance",
+        "Overview": "The flowchart provides a guideline for managing abnormal troponin levels detected after noncardiac surgery.",
+        "Steps": [
+          {
+            "Condition": "Troponin >99th percentile URL",
+            "Actions": [
+              "History and physical examination",
+              "12-lead ECG"
+            ]
+          },
+          {
+            "Condition": "ST-segment elevations?",
+            "Actions": [
+              {
+                "Yes": "STEMI",
+                "Management": "Patients developing STEMI after NCS should receive GDMT including considering invasive coronary angiography."
+              },
+              {
+                "No": [
+                  {
+                    "Criteria": "At least 1 criterion for Universal Definition of MI met",
+                    "Symptoms": [
+                      "Symptoms of acute myocardial ischemia",
+                      "New ischemic ECG changes",
+                      "Pathologic Q waves",
+                      "Imaging evidence of new loss of viable myocardium or regional wall motion abnormality",
+                      "Coronary thrombus identification"
+                    ],
+                    "Outcomes": [
+                      {
+                        "Condition": "Postoperative Myocardial Injury",
+                        "Action": [
+                          {
+                            "Subcondition": "Is myocardial injury likely due to a nonischemic process?",
+                            "Yes": "Nonischemic myocardial injury",
+                            "No": [
+                              "MINS",
+                              {
+                                "Recognition": "Outpatient referral is reasonable."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "Condition": "NSTEMI",
+                        "Actions": [
+                          {
+                            "Subcondition": "Is acute plaque rupture suspected?",
+                            "Yes": "Type 1 NSTEMI"
+                          },
+                          {
+                            "No": "Type 2 NSTEMI"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "Notes": [
+          "Presumes a rise and fall of troponin consistent with acute myocardial injury.",
+          "Nonischemic myocardial injury includes conditions like pulmonary embolism, sepsis, acute heart failure, acute stroke.",
+          "Recommendations refer to GDMT and invasive procedures based on clinical presentation and risk assessments."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guideline": "The guideline discusses the management of myocardial injury after noncardiac surgery (MINS). The MANAGE trial evaluated medical therapy for MINS using dabigatran versus placebo, showing a reduction in vascular events without increasing major bleeding risks. Dabigatran significantly decreased vascular events but was associated with an increase in minor bleeding and gastrointestinal bleeding. The guideline also addresses the management of patients with postoperative STEMI/NSTEMI, emphasizing on balancing bleeding and thrombotic risks.",
+        "recommendations": [
+          "Patients with postoperative STEMI after NCS should receive GDMT, considering ICA and balancing risks.",
+          "Patients with NSTEMI after NCS should receive medical therapy, considering postoperative risks.",
+          "Patients with suspected type 2 MI should address underlying causes such as supply-demand mismatch or nonischemic causes."
+        ],
+        "risk_factors": [
+          "Peak cTn concentration",
+          "Bleeding events",
+          "Peripheral artery disease",
+          "Increased platelet and coagulation gene expression"
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "platelet and coagulation genes",
+          "Associated Conditions": [
+            "myocardial injury",
+            "subsequent MINS"
+          ],
+          "Occurrences": 1,
+          "context": "Increased preoperative expression of platelet- and coagulation-related genes has been identified as a risk factor for subsequent MINS, highlighting a need for further research into their role in antithrombotic therapy."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Patients with perioperative NSTEMI should receive GDMT as recommended for nonsurgical patients with spontaneous MI, based on hemodynamic status and bleeding risks. It\u2019s important to include at least 1 antiplatelet, weigh benefits against risks, and consider ACEI and nitrates for symptom relief and risk reduction for angina and cardiac events. ICA may be appropriate for selected patients with postoperative NSTEMI, especially with persistent symptoms not responsive to GDMT, evidence of hemodynamic instability, or if imaging reveals abnormalities. Bariatric surgery is effective in patients with high BMI, reducing the incidence of related diseases but not without risks. Obesity management may involve GLP-1 receptor agonists.": "Patients with end-stage kidney or liver disease have higher cardiovascular risk factors and may have cardiovascular disease, recommendations include testing for CAD preoperatively, with or without transplantation. Bariatric surgery history in patients affects perioperative risks differently."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Cost-Value Considerations": {
+          "Biomarkers": {
+            "B-Type Natriuretic Peptide (BNP) and NT-proBNP": "Used for evaluating perioperative risk in patients with elevated-risk NCS, CVD symptoms, or age \u226565 with cardiovascular risk factors. Uncertain value in terms of cost and health improvement."
+          },
+          "Preoperative Cardiac Troponin (cTn)": "Evaluates perioperative risk in patients undergoing elevated-risk NCS. Often used with known CVD, symptoms, or age \u226565. Uncertain value due to lack of studies."
+        },
+        "12-Lead ECG": "Inexpensive and used to assess elevated-risk NCS patients with active CVD symptoms. Predictive of short-term mortality and MACE, but its utility beyond risk factor assessment is debated.",
+        "Coronary Computed Tomography Angiography (CCTA)": "Offers anatomic information for myocardial ischemia but leads to increased interventions without improving outcomes in CAD patients."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Cost-Value Considerations": [
+          "Stress echocardiography has greater accuracy than electrocardiographic exercise testing (ECG) but is more costly.",
+          "Stress echocardiography results were 94.8% negative, 4.7% positive, and 0.5% inconclusive compared to exercise ECG which had 55.7% negative, 7.2% positive, and 37.1% inconclusive results.",
+          "Previous trials reported mixed results in the cost and necessity of preoperative tests."
+        ],
+        "Approaches to Perioperative Care": [
+          "Few multidisciplinary care delivery models have been tested in assessing perioperative testing or cardiovascular outcomes.",
+          "Further study is required regarding the use of remote visits/telemedicine for evaluations for coordinating care for high-risk patients.",
+          "There is insufficient evidence to support the use of one perioperative risk index over another.",
+          "Optimal approaches to blood pressure assessment, thresholds, and measurement frequency have not been established.",
+          "High-quality RCTs are required to identify specific perioperative blood pressure thresholds."
+        ],
+        "Perioperative Management": [
+          "Limited evidence supporting coronary revascularization before NCS in stable patients.",
+          "Limited data on optimal timing of NCS after LVAD implantation."
+        ],
+        "Preoperative Evaluation": [
+          "No evidence that tests like stress testing offer benefit in the absence of troponin elevation.",
+          "Lack of studies on whether knowledge about electrocardiographic results aids clinical decision-making."
+        ],
+        "Research Directions": [
+          "Areas for further research are highlighted due to numerous advancements in perioperative management post-publication of the guideline."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Perioperative Medical Therapy": {
+          "DAPT Management": "There are limited high-quality data regarding DAPT management for patients who have had elective NCS after balloon angioplasty alone without placement of a stent, after TAVI, or after TEER. The efficacy and safety of shorter durations of DAPT after PCI in patients undergoing NCS requires further study.",
+          "Large RCTs": "Large RCTs are needed to elucidate the role of perioperative statin initiation on long-term outcomes, in lower-risk patients or procedures, and to define the ideal timing, medication, and dosing regimens.",
+          "Angiotensin Receptor/Neprilysin Inhibitor": "No data currently exist regarding the perioperative role (harm or benefit) with the angiotensin receptor/neprilysin inhibitor, sacubitril/valsartan. Large RCTs are needed for perioperative management of RAASi for patients planned for NCS.",
+          "Chronic Alpha-2 Receptor Agonists": "Perioperative continuation of chronic alpha-2 receptor agonists therapy has not been addressed in RCTs.",
+          "Glycoprotein IIb/IIIa Inhibitors": "There are no established data for the use of glycoprotein IIb/IIIa inhibitors as a bridging strategy in patients undergoing NCS.",
+          "Beta-blocker Initiation": "The optimal approach to beta-blocker initiation in the perioperative period remains unknown."
+        },
+        "Perioperative Surveillance": {
+          "MINS": "MINS is an underrecognized clinical dilemma requiring further investigation. There are limited data regarding optimal therapy for risk mitigation after the diagnosis of MINS, including the use of antiplatelet agents and statins."
+        },
+        "Intraoperative Management": {
+          "Routine Use of MCS": "Currently, there is no high-quality evidence to support the routine use of MCS in patients at risk for cardiogenic shock undergoing NCS.",
+          "Use of PA Catheters": "There are no large RCTs demonstrating that PA catheters improve patient outcomes or are cost effective."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+        "preamble": [
+          "Committee on Standards for Developing Trustworthy Clinical Practice Guidelines by the Institute of Medicine.",
+          "Committees focused on systematic reviews of comparative effectiveness research.",
+          "Methodology guidance from ACCF/AHA/AHA Task Force on Practice Guidelines.",
+          "Updates and expanding techniques in the application of clinical practice guidelines."
+        ],
+        "scope_of_guideline": {
+          "focus": "Cardiovascular management during noncardiac surgery.",
+          "methodology": "Developed by the American College of Cardiology/American Heart Association Task Forces and Committees."
+        },
+        "key_references": [
+          "Hypertension management and guidelines.",
+          "Management of adults with congenital heart disease.",
+          "Hypertrophic cardiomyopathy guidelines.",
+          "Valve disease management guidelines.",
+          "Coronary artery disease revascularization guidelines.",
+          "Heart failure guidelines."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+        "Main Topics": [
+          "Team-Based Care",
+          "Epidemiology of Cardiovascular Disease and Complications in Patients Undergoing Noncardiac Surgery",
+          "Telemedicine in Surgical Care",
+          "Enhanced Recovery After Surgery (ERAS) Protocols"
+        ],
+        "Authors": "Thompson et al.",
+        "Publication": "JACC Vol. 84, No. 19, 2024, November 5, 2024:1869-1969"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+        "sections": [
+          {
+            "title": "Quality of Life",
+            "topics": [
+              {
+                "study": "World Health Organization. WHOQOL: measuring quality of life.",
+                "url": "https://www.who.int/tools/whoqol",
+                "date": "October 24, 2022"
+              },
+              {
+                "study": "Comparative responsiveness of generic and specific quality-of-life instruments.",
+                "reference": "J Clin Epidemiol. 2003;56:52-60."
+              },
+              {
+                "study": "Specific measurement of health-related quality of life.",
+                "reference": "J Clin Epidemiol. 1999;52: 185-192."
+              },
+              {
+                "organization": "OSIRIS. Centre for Perioperative Care.",
+                "url": "https://www.cpoc.org.uk/shared-decision-making-osiris",
+                "date": "October 24, 2022"
+              }
+            ]
+          },
+          {
+            "title": "Cardiovascular Risk Indices",
+            "topics": [
+              {
+                "study": "Smilowitz NR, Berger JS. Perioperative cardiovascular risk assessment and management for noncardiac surgery review.",
+                "journal": "JAMA. 2020;324:279-290."
+              },
+              {
+                "study": "Lee TH, Marcantonio ER, Mangione CM, et al.",
+                "description": "Derivation and prospective validation of a simple index for prediction of cardiac risk of major noncardiac surgery.",
+                "reference": "Circulation. 1999;100:1043-1049."
+              },
+              {
+                "study": "Cohen ME, Ko CY, Bilimoria KY, et al.",
+                "description": "Optimizing ACS NSQIP models for evaluation of surgical quality and risk.",
+                "reference": "J Am Coll Surg. 2013;217:336-346.e1."
+              }
+            ]
+          },
+          {
+            "title": "Functional Capacity Assessment",
+            "topics": [
+              {
+                "study": "Reilly DF, McNeely MJ, Doerner D, et al.",
+                "description": "Self-reported exercise tolerance and the risk of serious perioperative complications.",
+                "reference": "Arch Intern Med. 1999;159: 2185-2192."
+              }
+            ]
+          },
+          {
+            "title": "Frailty",
+            "topics": [
+              {
+                "study": "Sildigui E, Banco D, Berger JC, et al.",
+                "description": "Frailty assessment and perioperative major adverse cardiovascular events after noncardiac surgery.",
+                "reference": "J Am J Med. 2023;136:372-379.e375."
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview": "The document provides guidelines for 2024 perioperative cardiovascular management for noncardiac surgery, covering topics like frailty in adult patients, preoperative biomarkers, the use of electrocardiograms, and left ventricular function. It emphasizes predictive measures and risk stratifications for cardiovascular complications.",
+        "Frailty Assessment": [
+          "Discussion of frailty's impact on surgical outcomes, particularly in elderly patients, using various evaluation scales and criteria."
+        ],
+        "Perioperative Biomarkers": [
+          "Focus on biomarkers like NT-proBNP, Troponin T, and B-type natriuretic peptides for assessing cardiovascular risk before surgery."
+        ],
+        "Electrocardiograms": [
+          "Value of 12-lead electrocardiograms in predicting postoperative cardiac complications is examined, with numerous studies cited."
+        ],
+        "Left Ventricular Function": [
+          "The role of left ventricular ejection fraction and related symptoms in assessing risk and outcomes in noncardiac surgery patients."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "NT-proBNP",
+          "Associated Conditions": [
+            "cardiovascular events in noncardiac surgery",
+            "heart failure"
+          ],
+          "Occurrences": 5,
+          "context": "Goulobic M., Jankovic P., et al. Preoperative midregional pro-adrenomedullin and high-sensitivity troponin T predict preoperative cardiovascular events in noncardiac surgery."
+        }
+      ]
+    },
+    {
+      "content": {
+        "general_info": "The guideline discusses preoperative cardiovascular management for noncardiac surgeries. It emphasizes the importance of evaluating cardiac risk factors and ventricular function, the role of stress testing, and the use of preoperative echocardiography. Various studies highlight the implications of left ventricular dysfunction, the effect of preoperative stress testing, and the benefits of different imaging modalities for risk assessment."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+        "Sections": [
+          {
+            "Title": "Dobutamine Stress Echocardiography",
+            "References": [
+              "Pre-dictive value of dobutamine echocardiography in detecting coronary artery disease.",
+              "Adverse cardiac events in patients with negative maximal versus negative submaximal dobutamine echocardiograms undergoing noncardiac surgery."
+            ]
+          },
+          {
+            "Title": "Cardiopulmonary Exercise Testing",
+            "References": [
+              "Preoperative cardiopulmonary exercise tests associated with postoperative outcomes in patients undergoing cancer surgery.",
+              "Physiological relationship between cardiorespiratory fitness and readiness for surgery."
+            ]
+          },
+          {
+            "Title": "Coronary Computed Tomography Angiography",
+            "References": [
+              "Prognostic value of coronary computed tomography angiography for preoperative evaluation.",
+              "Assessment for obstructive coronary artery disease using CT angiography."
+            ]
+          },
+          {
+            "Title": "Invasive Coronary Angiography",
+            "References": [
+              "Perioperative implications of coronary angiography findings.",
+              "Risk assessment using coronary angiography for patients undergoing noncardiac surgery."
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          {
+            "title": "6.1. Coronary Artery Disease",
+            "key_points": [
+              "Research highlights trends in cardiovascular risk and disease prevalence in non-cardiac surgery patients.",
+              "Development and validation of risk calculators for predicting cardiac risk in surgical patients.",
+              "Comparison of revascularization strategies and management of coronary artery disease in surgical contexts."
+            ]
+          },
+          {
+            "title": "6.2. Hypertension and Perioperative Blood Pressure",
+            "key_points": [
+              "Investigation into the relationship between blood pressure management and postoperative outcomes.",
+              "Analyzing associations between preoperative hypertension and surgical risks."
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery",
+        "key_points": [
+          "Intraoperative management is associated with various clinical outcomes for noncardiac surgery.",
+          "Perioperative hypotension in noncardiac surgery is a significant concern, with various studies analyzing its impact.",
+          "Use of continuous noninvasive blood pressure monitoring is explored for high-risk surgeries.",
+          "Heart failure management in the perioperative setting is also discussed."
+        ],
+        "notable_studies": [
+          "POISE-3 An Internal Trial",
+          "VISION Study"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+        "Sections": [
+          {
+            "Title": "6.3.1 Hypertrophic Cardiomyopathy",
+            "Summary": "Discusses perioperative considerations for patients with hypertrophic cardiomyopathy undergoing non-cardiac surgery."
+          },
+          {
+            "Title": "6.3.2 Pulmonary Hypertension",
+            "Summary": "Covers perioperative considerations and outcomes for patients with pulmonary hypertension undergoing non-cardiac surgery."
+          },
+          {
+            "Title": "6.3.3 Adult Congenital Heart Disease",
+            "Summary": "Explores the perioperative risks and considerations for adults with congenital heart disease undergoing non-cardiac surgery."
+          },
+          {
+            "Title": "6.3.4 Left Ventricular Assist Devices",
+            "Summary": "Focuses on the perioperative management and outcomes for patients with left ventricular assist devices."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery",
+        "topics": [
+          "mechanical circulatory support",
+          "ventricular assist devices",
+          "heart and lung transplant guidelines",
+          "valvular heart disease",
+          "aortic stenosis",
+          "mitral stenosis",
+          "percutaneous balloon valvuloplasty"
+        ],
+        "focus": [
+          "Heart transplant recipient management",
+          "Valvular heart disease management",
+          "Aortic and mitral stenosis treatment options"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+        "sections": [
+          {
+            "heading": "Atrial Regurgitation and Mitral Regurgitation",
+            "topics": [
+              {
+                "description": "Studies on mitral valve procedures and outcomes in various patient groups, including pregnant women, and effects on fetal and maternal outcomes."
+              },
+              {
+                "description": "Recommendations on management and future directions, including monitoring with echocardiography."
+              }
+            ]
+          },
+          {
+            "heading": "Transcatheter or Mitral Valve Implantation or Edge-to-Edge Repair",
+            "topics": [
+              {
+                "description": "Studies on outcomes and complications after transcatheter and surgical interventions, including outcomes in severe aortic stenosis and atrial fibrillation assessment."
+              }
+            ]
+          },
+          {
+            "heading": "Atrial Fibrillation",
+            "topics": [
+              {
+                "description": "Considerations for anticoagulation in patients with atrial fibrillation undergoing noncardiac surgery."
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+        "source": "JACC VOL. 84, NO. 19, 2024",
+        "sections": [
+          {
+            "section_number": "6.5",
+            "title": "Anticoagulation for Stroke Prevention",
+            "details": "Discusses updated approaches for patients with recent episodes of preoperative atrial fibrillation post noncardiac surgery."
+          },
+          {
+            "section_number": "6.6",
+            "title": "Cardiovascular Implantable Electronic Devices",
+            "details": "Reviews the perioperative management of patients with implantable defibrillators and pacemakers. Highlights reports on electromagnetic interference and management strategies."
+          },
+          {
+            "section_number": "6.7",
+            "title": "Previous Stroke or Transient Ischemic Attack",
+            "details": "Examines management of patients with history of stroke or transient ischemic attacks during noncardiac surgery."
+          },
+          {
+            "section_number": "6.8",
+            "title": "Obstructive Sleep Apnea",
+            "details": "Discusses the perioperative screening and management of patients with obstructive sleep apnea undergoing surgery."
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "ACTC",
+          "Associated Conditions": [
+            "Atrial Fibrillation"
+          ],
+          "Occurrences": 1,
+          "context": "Effect of continuous electrocardiogram monitoring on detection of undiagnosed atrial fibrillation after hospitalization for cardiac surgery."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Clinical Guidelines": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+        "General Information": "The guideline discusses various strategies and recommendations for managing cardiovascular risks in patients undergoing noncardiac surgery. It includes the evaluation of medications like beta-blockers, statins, and renin-angiotensin-aldosterone system inhibitors, as well as considerations for patients with obstructive sleep apnea. The guideline highlights the importance of tailored approaches for high-risk patients and the impact of different drug therapies on perioperative outcomes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery",
+        "key_points": [
+          "The risk evaluation and management of patients undergoing noncardiac surgery with a history of coronary stents are crucial.",
+          "Various studies and trials have been conducted to assess the impact of antiplatelet therapy in these patients.",
+          "A multidisciplinary approach is recommended for the perioperative antithrombotic management of patients with coronary stents undergoing surgery.",
+          "Timing of noncardiac surgery after coronary stenting is critical, with possible increased risks if conducted too soon after stent placement.",
+          "Postoperative risk associated with prior drug-eluting stent use needs careful consideration.",
+          "The discontinuation or continuation of antiplatelet therapy is a significant concern due to bleeding risks and stent thrombosis."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+        "journal": "Journal of the American College of Cardiology",
+        "volume": "84",
+        "number": "19",
+        "date": "November 5, 2024",
+        "pages": "1869\u20131969",
+        "key_points": [
+          "Emphasis on the safety of 'bridging' with antiplatelet therapy for patients on coronary stents before non-cardiac surgery.",
+          "Evaluations of different antiplatelet therapies and their effects on perioperative outcomes.",
+          "Recommendations regarding perioperative bridging anticoagulation in patients with atrial fibrillation.",
+          "Discussion on the management of patients with mechanical heart valves undergoing non-cardiac interventions."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Guidelines": "The document discusses perioperative cardiovascular management for noncardiac surgery, focusing on topics such as direct oral anticoagulants, perioperative beta blockers, and blood glucose management. The guideline reviews the effects and safety of various medications, their impact on mortality and cardiovascular morbidity, and provides systematic reviews and meta-analysis of related studies."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+        "highlights": [
+          "Guideline focuses on managing diabetic patients undergoing non-cardiac surgery, emphasizing glycemic control and the use of glucose-lowering medications.",
+          "Evaluation of perioperative analgesics and anesthetics, including ramifications of general versus regional anesthesia on postoperative outcomes.",
+          "Discussion on the role of various medications and their efficacy on pain management post-surgery, such as gabapentin and opioids.",
+          "Consideration of echocardiography techniques, especially transesophageal echocardiography, to monitor cardiac function during surgery.",
+          "Guideline references multiple clinical trials to provide evidence-based recommendations for perioperative care."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "SLC5A2",
+          "Associated Conditions": [
+            "Type 2 Diabetes Mellitus"
+          ],
+          "Occurrences": 1,
+          "context": "Suggested Canadian standards for perioperative/periprocedural glycemic management in patients with type 1 or type 2 diabetes can consider SLC5A2 inhibitors."
+        },
+        {
+          "Gene": "ND4",
+          "Associated Conditions": [
+            "Myocardial Infarction"
+          ],
+          "Occurrences": 1,
+          "context": "Perioperative outcomes after regional versus general anesthesia for above the knee amputations demonstrate significance; ND4 mitochondrial mutations are also considered."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Clinical Guidelines": "2024 Preoperative Cardiovascular Management for Noncardiac Surgery",
+        "Focus": "Perioperative management, body temperature regulation, mechanical circulatory support"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+        "sections": [
+          {
+            "title": "Pulmonary Artery Catheters",
+            "main_points": [
+              "The use of pulmonary artery catheters is associated with mixed results in terms of reducing mortality in severely ill patients.",
+              "Outcomes for patients with acute heart failure may not significantly improve with routine use of these catheters.",
+              "The evaluation of hemodynamic parameters such as pulmonary artery pressure can help inform patient management strategies."
+            ]
+          },
+          {
+            "title": "Perioperative Anemia Management",
+            "main_points": [
+              "Optimizing anemia management includes considering intravenous iron supplementation and erythropoiesis-stimulating agents.",
+              "Transfusion strategies should be tailored to individual patient needs based on hemoglobin thresholds and clinical symptoms."
+            ]
+          }
+        ],
+        "recommendations": [
+          "Consideration should be given to the cost and effectiveness of pulmonary artery catheterization in various clinical settings.",
+          "Use of early treatment strategies for managing acute transfusion-related complications should be employed.",
+          "Incorporate evidence-based approaches to anemia management for improved surgical outcomes."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          {
+            "title": "9.1 Myocardial Injury After Noncardiac Surgery Surveillance and Management",
+            "key_points": [
+              "Association of postoperative high-sensitivity troponin levels with myocardial injury and 30-day mortality among patients undergoing noncardiac surgery.",
+              "Identification of myocardial injury via perioperative troponin surveillance in major noncardiac surgery.",
+              "Troponin elevations after non-cardiac, non-vascular surgery are predictive of major adverse cardiac events and mortality.",
+              "Dabigatran in patients with myocardial injury after non-cardiac surgery."
+            ]
+          },
+          {
+            "title": "9.2 Management of Postoperative STEMI/NSTEMI",
+            "key_points": [
+              "Etiology of perioperative myocardial infarction/injury after noncardiac surgery.",
+              "Characteristics and short-term prognosis of perioperative myocardial infarction in patients undergoing noncardiac surgery."
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+        "Publication Date": "November 5, 2024",
+        "Topics": [
+          {
+            "Section": "10. Preoperative Evaluation Before Liver and Kidney Transplantation",
+            "Details": "Discussion about coronary heart disease risk among liver and kidney transplantation candidates and associated guidelines."
+          },
+          {
+            "Section": "11. Cost-Value Considerations for Biomarkers",
+            "Details": "Evaluation of clinical values of biomarkers like BNP/NT-proBNP in predicting outcomes in noncardiac surgeries."
+          },
+          {
+            "Section": "11.1.2. Cost-Value Considerations for 12-Lead ECG",
+            "Details": "Centers for Medicare and Medicaid Services provide ECG cost evaluation; includes long-term prognostic value and preoperative tests."
+          },
+          {
+            "Section": "11.2 Obesity and Bariatric Surgery",
+            "Details": "National trends in bariatric surgery and associated outcomes, such as the risks of cardiovascular disease post-surgery."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+        "Authors": "Thompson et al.",
+        "Date": "November 5, 2024",
+        "Journal": "JACC Vol. 84, No. 19",
+        "Pages": "1968-1969",
+        "Section": "11.4.4 Cost-Value Considerations for Stress Testing",
+        "Summary": [
+          "Emphasis on the economic outcomes of anatomical versus functional diagnostic testing for coronary artery disease.",
+          "Comparison of exercise echocardiography to exercise electrocardiography for clinical and economic impacts.",
+          "Evaluation of facility-level associations of preoperative stress testing with postoperative adverse cardiac events.",
+          "Identification of patients with stable chest pain and low value from noninvasive testing."
+        ],
+        "Key Considerations": [
+          "ACC/AHA clinical practice guidelines",
+          "Cardiac preoperative evaluation",
+          "Major adverse cardiovascular events",
+          "Myocardial protection",
+          "Perioperative management"
+        ],
+        "References": [
+          "Douglas PS, Hoffmann U, Patel MR, et al.",
+          "Mark DB, Douglas PS, Daniels MR.",
+          "Zacharias K, Ahmed A, Shah BN, et al.",
+          "Smilowitz NR, Berger JS.",
+          "Valle JA, Graham L, Thiruvoipati T, et al.",
+          "Fordyce CB, Douglas PS, Roberts RS, et al.",
+          "Nanna MG, Yow E, Vemulapalli S, et al."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document_title": "Appendix 1. Author Relationships with Industry and Other Entities\u20142024 AHA/ACC/ACC/ASNC/HRS/SCA/SCCT/SCMR/SVM Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery",
+        "sections": [
+          {
+            "committee_members": [
+              {
+                "name": "Annemarie Thompson",
+                "title": "Chair",
+                "employer": "Duke University Hospital",
+                "employment_role": "Professor of Anesthesiology, Medicine, and Population Health Sciences; Director, Anesthesiology Residency Program",
+                "consultant": "None",
+                "speakers_bureau": "None",
+                "ownership_partnership_principal": "None",
+                "personal_research": "None",
+                "institutional_financial_benefit": "None",
+                "expert_witness": "None"
+              },
+              {
+                "name": "Kirsten E. Fleischmann",
+                "title": "Vice Chair",
+                "employer": "UCSF School of Medicine",
+                "employment_role": "Professor of Clinical Medicine; Associate Chief of Cardiology; Medical Director, Adult Cardiac Stress & ECG Laboratories",
+                "consultant": "None",
+                "speakers_bureau": "None",
+                "ownership_partnership_principal": "None",
+                "personal_research": "Not Relevant",
+                "institutional_financial_benefit": "Not Relevant - ADA grant, Massachusetts Medical Society, NIH, Co-I, PCORI, UCSF Health",
+                "expert_witness": "None"
+              },
+              {
+                "name": "Nathaniel R. Smilowitz",
+                "title": "Vice Chair",
+                "employer": "NYU Langone Health, NYU School of Medicine",
+                "employment_role": "Assistant Professor of Medicine, Interventional Cardiology",
+                "consultant": "Relevant - Abbott",
+                "speakers_bureau": "None",
+                "ownership_partnership_principal": "None",
+                "personal_research": "None",
+                "institutional_financial_benefit": "Not Relevant - Abiomed, AHA/Sarah Ross Soter Center for Women's Cardiovascular Research at NYU Grossman School of Medicine, BioCardia, DOD/University of Florida, NHLBI/NIH",
+                "expert_witness": "None"
+              },
+              {
+                "name": "Niti R. Aggarwal",
+                "employer": "Mayo Clinic",
+                "employment_role": "Assistant Professor of Medicine, Consultant, Department of Cardiovascular Disease",
+                "consultant": "None",
+                "speakers_bureau": "None",
+                "ownership_partnership_principal": "None",
+                "personal_research": "None",
+                "institutional_financial_benefit": "None",
+                "expert_witness": "None"
+              },
+              {
+                "name": "Faraz S. Ahmad",
+                "employer": "Northwestern University Feinberg School of Medicine",
+                "employment_role": "Assistant Professor of Medicine (Cardiology)",
+                "consultant": "Not Relevant - Teladoc Livongo",
+                "speakers_bureau": "None",
+                "ownership_partnership_principal": "Not Relevant",
+                "personal_research": "Not Relevant - Healthority, AHA, Amarn Health, CDC, Duke University School of Medicine, NIH, PCORI",
+                "institutional_financial_benefit": "Relevant - Pfizer",
+                "expert_witness": "None"
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Committee Member Information": [
+          {
+            "Name": "Robert B. Allen",
+            "Employment": "Juris Doctor heart surgery patient (septal myectomy); AHA volunteer\u2013SW Region Board; Prior Chair, Corporate Operations Coordinating Committee",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "S. Elissa Altin",
+            "Employment": "Yale School of Medicine\u2013Assistant Professor",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "RELEVANT: Boston Scientific",
+            "Institutional, Organizational, or Other Financial Benefit": "NOT RELEVANT: Bard\u2020, Cardiovascular Systems, Inc.\u2020, MicroPort\u2020",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Andrew Auerbach",
+            "Employment": "UCSF, Division of Hospital Medicine\u2014Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "NOT RELEVANT: ADViCE\u2020, Kuretic\u2020",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "NOT RELEVANT: AHRQ\u2020, FDA\u2020, NHLBI\u2020, UpToDate\u2020",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Jeffrey S. Berger",
+            "Employment": "NYU School of Medicine\u2013Associate Professor of Medicine and Surgery; Director, Center for the Prevention of Cardiovascular Disease",
+            "Consultant": "RELEVANT: Amgen, Janssen Pharmaceuticals\u2020",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "RELEVANT: Amgen",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Benjamin Chow",
+            "Employment": "University of Ottawa Heart Institute\u2013Professor of Medicine (Cardiology and Nuclear Medicine) and Radiology",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "NOT RELEVANT: TD Bank\u2020 RELEVANT: Artrya\u2020, Siemens*",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Habib A. Dakik",
+            "Employment": "American University of Beirut Medical Center\u2013Professor of Medicine, Chief of Cardiology",
+            "Consultant": "None",
+            "Speakers Bureau": "NOT RELEVANT: GE Healthcare",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Lisa de las Fuentes",
+            "Employment": "Washington University School of Medicine in St. Louis\u2013Professor of Medicine and Biostatistics",
+            "Consultant": "NOT RELEVANT: Acceleren, Aerovate, Altavant, Bayer, CVR Consulting\u2020, Express Scripts, Gossamer, Impact PH\u2020, Johnson & Johnson\u2020, Liquidia, Merck, Sommetrics*, Vadreris, V-Wave, WebMD, LLC\u2020",
+            "Speakers Bureau": "NOT RELEVANT: Ferrer, Simply Speaking\u2020",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "NOT RELEVANT: Acceleren\u2020, Altavant\u2020, Bayer\u2020, Gossamer\u2020, Johnson & Johnson\u2020, Medtronic\u2020, PhaseBio\u2020, Respiart\u2020, Trio Analytics\u2020, United Therapeutics\u2020, University of Kentucky (DSMB)*, University of Toronto (DSMB)*, Vadreris\u2020",
+            "Institutional, Organizational, or Other Financial Benefit": "NOT RELEVANT: ACC*, AHA\u2020, NIH\u2020, PHA\u2020",
+            "Expert Witness": "Plaintiff, patent infringement (Johnson & Johnson), 2022\u2020"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "committee_members": [
+          {
+            "name": "Eric L. Eisenstein",
+            "employment": "Duke University\u2014Associate Professor Emeritus in Medicine; University of Victoria, Canada\u2014Adjunct Associate Professor, School of Health Information Science",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "NOT RELEVANT",
+            "institutional_organizational_or_other_financial_benefit": [
+              "Burroughs Wellcome Fund\u2014Innovation in Regulatory Science",
+              "Eunice Kennedy Shriver National Institute of Child Health and Human Development*",
+              "NCATS*",
+              "NHLBI*",
+              "NIH*"
+            ],
+            "expert_witness": "None"
+          },
+          {
+            "name": "Marie Gerhard-Herman",
+            "employment": "Harvard Medical School\u2014Associate Professor",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "NOT RELEVANT",
+            "institutional_organizational_or_other_financial_benefit": [
+              "Progeria Research Foundation\u2020"
+            ],
+            "expert_witness": "None"
+          },
+          {
+            "name": "Kamrouz Ghadimi",
+            "employment": "Duke University School of Medicine\u2014Associate Professor, Anesthesiology & Critical Care; Director, Clinical Research Unit, Department of Anesthesiology",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "NOT RELEVANT",
+            "institutional_organizational_or_other_financial_benefit": [
+              "IARS\u2020",
+              "Octapharma*",
+              "PCORI"
+            ],
+            "expert_witness": "None"
+          },
+          {
+            "name": "Bessie Kachulis",
+            "employment": "Columbia University Medical Center\u2014Professor of Anesthesiology; Director of Evidence Based Medicine, Cardiothoracic Anesthesiology",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_or_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Jacinth Leclerc",
+            "employment": "Universit\u00e9 Laval\u2014Scientist, Quebec Heart & Lung Institute\u2014Adjunct Professor of Pharmacy",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_or_other_financial_benefit": [
+              "JSS Medical Research (DSMB)"
+            ],
+            "expert_witness": "None"
+          },
+          {
+            "name": "Christopher S. Lee",
+            "employment": "Boston College, William F. Connell School of Nursing\u2014Barry Family/Goldman Sachs Endowed Professor",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "NOT RELEVANT",
+            "institutional_organizational_or_other_financial_benefit": [
+              "NIH\u2020"
+            ],
+            "expert_witness": "None"
+          },
+          {
+            "name": "Tracy E. Macaulay",
+            "employment": "University of Kentucky College of Pharmacy\u2014Clinical Professor of Pharmacy & Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_or_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Gail Mates",
+            "employment": "AHA National Spokesperson, Go Red for Women; You're the Cure Committee Member; Health for Good Chair; Mission Board Member",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_or_other_financial_benefit": "None",
+            "expert_witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Committee Members": [
+          {
+            "Name": "Geno J. Merli",
+            "Employment": "Thomas Jefferson University Sidney Kimmel Medical College\u2014Professor, Co-Director, Jefferson Vascular Center; Thomas Jefferson University Hospital\u2014Senior VP, Associate CMO",
+            "Consultant": "NOT RELEVANT",
+            "Speakers Bureau": "\u25a0 LowRisk, LLC*",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "RELEVANT \u25a0 Bristol Myers Squibb/Pfizer*",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Debabrata Mukherjee",
+            "Employment": "Texas Tech University Health Science Center El Paso\u2014Chief, Cardiovascular Medicine; Chairman, Department of Internal Medicine",
+            "Consultant": "NOT RELEVANT \u25a0 ACC\u2020",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Purvi Parwani",
+            "Employment": "Loma Linda University Health\u2014Associate Professor of Medicine; Director, Echocardiography Laboratory",
+            "Consultant": "RELEVANT \u25a0 Medtronic",
+            "Speakers Bureau": "RELEVANT \u25a0 AstraZeneca",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "NOT RELEVANT \u25a0 SCMR",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Jeanne E. Poole",
+            "Employment": "University of Washington\u2014Professor of Medicine, Division of Cardiology",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "NOT RELEVANT \u25a0 Boston Scientific (Institutional research grant)",
+            "Institutional, Organizational, or Other Financial Benefit": "NOT RELEVANT \u25a0 HRS\u2020 RELEVANT \u25a0 AtriCure \u25a0 Biotronik\u2020 \u25a0 Kestra, Inc.\u2020 \u25a0 Medtronic",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Michael W. Rich",
+            "Employment": "Washington University School of Medicine\u2014Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Kurt Ruetzler",
+            "Employment": "Cleveland Clinic\u2014Assistant Professor of Anesthesiology, Department of Anesthesiology",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Steven C. Stain",
+            "Employment": "Lahey Hospital and Medical Center\u2014Chair, Department of Surgery",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "committee_members": [
+          {
+            "name": "BobbieJean Sweitzer",
+            "employment": "University of VA INOVA Health\u2014Professor, Medical Education",
+            "consultant": [
+              "UpToDate"
+            ],
+            "speakers_bureau": [],
+            "ownership": [],
+            "personal_research": [],
+            "institutional_benefit": [
+              "IARSt"
+            ],
+            "expert_witness": [
+              "Defendant, elderly man died of aspergillosis, 2022",
+              "Defendant, elderly man developed bradycardia during GA, 2022",
+              "Plaintiff, hypoxic encephalopathy after NPPE after airway obstruction, 2022",
+              "Plaintiff, patient with extreme obesity and OSA had to be intubated urgently in ED, 2021",
+              "Plaintiff, patient died after massive intra-operative hemorrhage during back surgery, 2021",
+              "Plaintiff, elderly woman having elective spine surgery bled to death, 2021",
+              "Plaintiff, ischemic optic neuritis with visual loss, 2021",
+              "Plaintiff, patient had arm injury during transport from procedure room to the recovery room, 2021",
+              "Plaintiff, cardiac arrest after general anesthesia for shoulder surgery, 2021"
+            ]
+          },
+          {
+            "name": "Amy W. Tablott",
+            "employment": "AHA/ACC Science and Health Advisor, Guidelines",
+            "consultant": [],
+            "speakers_bureau": [],
+            "ownership": [],
+            "personal_research": [],
+            "institutional_benefit": [],
+            "expert_witness": []
+          },
+          {
+            "name": "Sarachandra Vallabhajosyula",
+            "employment": "Warren Alpert Medical School of Brown University and Lifespan Cardiovascular Institute\u2014Assistant Professor of Medicine, Division of Cardiology, Department of Medicine; Medical Director, Cardiac Intensive Care Unit and Inpatient Services",
+            "consultant": [],
+            "speakers_bureau": [],
+            "ownership": [],
+            "personal_research": [],
+            "institutional_benefit": [
+              "Abiomed",
+              "Tufts University"
+            ],
+            "expert_witness": []
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Committee Member": {
+          "John Whittle": {
+            "Employment": "University College London Hospitals\u2013Clinical Lead, Perioperative Medicine (Critical Care) and Prehabilitation; Honorary Associate Professor & Lead for Perioperative Translational Medicine",
+            "Consultant": [
+              "BEPOM",
+              "Predicate HPG",
+              "SplendoHealth"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Baxter",
+              "InBody",
+              "PhysioFlow",
+              "UCLH Charity",
+              "UK NIH"
+            ],
+            "Expert Witness": "None"
+          },
+          "Kim Allan Williams, Sr.": {
+            "Employment": "University of Louisville School of Medicine\u2014Chair, Department of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          }
+        },
+        "General Information": "The table represents all relationships of committee members with industry and other entities. The data includes relationships not deemed relevant to the document. Disclosures marked with * indicate no financial benefit, and those with \u2020 entered under the Clinical Trial Enroller category. Relationships with minor financial benefit are not included. SAMY Talbot is an ACC/AHA joint staff member."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "APPENDIX 2: PEER REVIEW COMMITTEE RELATIONSHIPS WITH INDUSTRY AND OTHER ENTITIES\u20142024 AHA/ACC/ACS/ANSC/HRS/SCA/SCCT/SCMR/SVM GUIDELINE FOR PERIOPERATIVE CARDIOVASCULAR MANAGEMENT FOR NONCARDIAC SURGERY",
+        "reviewers": [
+          {
+            "name": "Jacqueline E. Tamis-Holland",
+            "employment": "Cleveland Clinic",
+            "consultant": "None",
+            "speakers_bureau": "EBIX",
+            "ownership_partnership_principal": "None",
+            "personal_research": [
+              "Concepts Medical*",
+              "CORISMA II trial, Investigator"
+            ],
+            "institutional_organizational_benefit": [
+              "AHA*",
+              "NYS*"
+            ],
+            "expert_witness": "None"
+          },
+          {
+            "name": "Marietta Ambrose",
+            "employment": "University of Pennsylvania",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Danielle Blais",
+            "employment": "Ohio State University Wexner Medical Center",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Jeanna Blitz",
+            "employment": "Nordian Healthcare Solutions",
+            "consultant": [
+              "Guidepoint",
+              "Providence Anesthesia Associates",
+              "Society for Advancement of Patient Blood Management"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_benefit": [
+              "Caption Health*",
+              "Society for Perioperative Assessment and Quality Improvement*"
+            ],
+            "expert_witness": "None"
+          },
+          {
+            "name": "Renee Bullock-Palmer",
+            "employment": "Deborah Heart and Lung Center",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_benefit": [
+              "Abbott",
+              "AHA*",
+              "Amgen",
+              "ASNC*",
+              "IAC, Board of Directors*"
+            ],
+            "expert_witness": "None"
+          },
+          {
+            "name": "Shea E. Hogan",
+            "employment": "Denver Health",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_benefit": [
+              "ACC",
+              "CPC Clinical Research\u2020"
+            ],
+            "expert_witness": [
+              "Plaintiff (State of Colorado), review of standard of care, 2023",
+              "Plaintiff (Fireback Legal, Inc.), 2023",
+              "Plaintiff (Round Table), case review 2023"
+            ]
+          },
+          {
+            "name": "Michelle M. Kittleson",
+            "employment": "Cedars-Sinai Smidt Heart Institute",
+            "consultant": "None",
+            "speakers_bureau": "Encore Medical Education*",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_benefit": [
+              "Actelion\u2021",
+              "Eidos Therapeutics\u2021",
+              "Gilead (One Legacy/Baylor)",
+              "Journal of Heart and Lung Transplantation*",
+              "NIH\u2020",
+              "Sanofi (Genzyme Corporation) \u2021",
+              "United Therapeutics\u2021"
+            ],
+            "expert_witness": "None"
+          },
+          {
+            "name": "Clauden Louis",
+            "employment": "BayCare Medical System; Winter Haven Hospital; Bostick Heart Center",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Elizabeth Magnusen",
+            "employment": "Saint Luke's Mid America Heart Institute",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_benefit": [
+              "Abbott\u2020",
+              "ACC",
+              "AHA*",
+              "Ancora Heart\u2020",
+              "Corvia\u2020",
+              "Edwards Lifesciences\u2020",
+              "NIH\u2020",
+              "V-Wave\u2020"
+            ],
+            "expert_witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Document": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+        "Appendix": "Appendix 2: Continued",
+        "Information": "This table represents all reviewers\u2019 relationships with industry and other entities reported at the time of peer review. The disclosures may not reflect current relationships with industry at the time of publication. Guidelines on relationships and financial interests are noted. It includes disclosures from several reviewers including their employment, consultancy, speaker engagements, ownerships, personal research, and other financial benefits."
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "VKORC1",
+      "Associated Conditions": [
+        "Bleeding Management with Vitamin K antagonists"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Warfarin operates through the VKORC1 (vitamin K-dependent factors) mechanism."
+      ]
+    },
+    {
+      "Gene": "platelet and coagulation genes",
+      "Associated Conditions": [
+        "myocardial injury",
+        "subsequent MINS"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Increased preoperative expression of platelet- and coagulation-related genes has been identified as a risk factor for subsequent MINS, highlighting a need for further research into their role in antithrombotic therapy."
+      ]
+    },
+    {
+      "Gene": "NT-proBNP",
+      "Associated Conditions": [
+        "cardiovascular events in noncardiac surgery",
+        "heart failure"
+      ],
+      "Occurrences": 5,
+      "context": [
+        "Goulobic M., Jankovic P., et al. Preoperative midregional pro-adrenomedullin and high-sensitivity troponin T predict preoperative cardiovascular events in noncardiac surgery."
+      ]
+    },
+    {
+      "Gene": "ACTC",
+      "Associated Conditions": [
+        "Atrial Fibrillation"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Effect of continuous electrocardiogram monitoring on detection of undiagnosed atrial fibrillation after hospitalization for cardiac surgery."
+      ]
+    },
+    {
+      "Gene": "SLC5A2",
+      "Associated Conditions": [
+        "Type 2 Diabetes Mellitus"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Suggested Canadian standards for perioperative/periprocedural glycemic management in patients with type 1 or type 2 diabetes can consider SLC5A2 inhibitors."
+      ]
+    },
+    {
+      "Gene": "ND4",
+      "Associated Conditions": [
+        "Myocardial Infarction"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Perioperative outcomes after regional versus general anesthesia for above the knee amputations demonstrate significance; ND4 mitochondrial mutations are also considered."
+      ]
+    }
+  ]
+}

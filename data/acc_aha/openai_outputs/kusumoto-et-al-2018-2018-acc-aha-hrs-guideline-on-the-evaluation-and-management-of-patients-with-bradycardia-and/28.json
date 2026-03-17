@@ -1,0 +1,34 @@
+{
+  "content": {
+    "Title": "Acute Medical Management of Bradycardia Attributable to SND or Atrioventricular Block",
+    "Symptomatic sinus bradycardia or atrioventricular block": {
+      "Atropine": "0.5-1 mg IV (max 3 mg total)",
+      "Dopamine": "5 to 20 mcg/kg/min IV starting at 5 mcg/kg/min",
+      "Isoproterenol": "20-60 mcg IV bolus followed by 0.5-10 mcg or infusion of 1-20 mcg/min",
+      "Epinephrine": "2-10 mcg/min IV or 0.1-0.5 mcg/kg/min IV"
+    },
+    "Second- or third-degree atrioventricular block associated with acute inferior MI": {
+      "Aminophylline": "250 mg IV bolus"
+    },
+    "Calcium channel blocker overdose": {
+      "10% calcium chloride": "1-2 g IV",
+      "10% calcium gluconate": "3-6 g IV"
+    },
+    "Beta-blocker or calcium channel blocker overdose": {
+      "Glucagon": "3-10 mg IV",
+      "High-dose insulin therapy": "IV bolus of 1 unit/kg followed by infusion"
+    },
+    "Digoxin overdose": {
+      "Digoxin antibody fragment": "Dosage depends on amount ingested"
+    },
+    "Post-heart transplant": {
+      "Aminophylline": "6 mg/kg IV",
+      "Theophylline": "300 mg IV"
+    },
+    "Spinal cord injury": {
+      "Aminophylline": "6 mg/kg IV",
+      "Theophylline": "Oral dose of 5-10 mg/kg/d"
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,22 @@
+{
+  "content": {
+    "shared_decision_making": {
+      "importance": "Patients with VA or at increased risk for SCD should engage in shared decision-making based on the best available evidence and their own preferences and values.",
+      "recommendations": [
+        {
+          "cor": "I",
+          "loe": "B-NR",
+          "decision_context": "Decisions on ICD implantation or replacement should consider patient risks, effectiveness of the ICD, and potential complications."
+        }
+      ]
+    },
+    "ICD_usage": {
+      "end_of_life": "Decisions whether to deactivate ICDs at end of life are important for avoiding unnecessary suffering.",
+      "patient_reported_outcomes": "Patients may report a preference to die naturally rather than prevent SCD at all costs."
+    },
+    "ethics": {
+      "deactivation": "Patients and surrogates should be offered the option to deactivate the antitachycardia function while leaving pacing active."
+    }
+  },
+  "genes": []
+}

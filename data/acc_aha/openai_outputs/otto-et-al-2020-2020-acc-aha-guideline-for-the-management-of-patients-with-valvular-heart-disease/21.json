@@ -1,0 +1,56 @@
+{
+  "content": {
+    "guideline_title": "2020 ACC/AHA Guideline for the Management of Valvular Heart Disease",
+    "imaging_follow_up": {
+      "mechanical_valve_surgery": "Baseline",
+      "bioprosthetic_valve_surgery": "Baseline, 5 and 10 years after surgery, then annually",
+      "bioprosthetic_valve_transcatheter": "Baseline and then annually",
+      "mitral_valve_repair_surgery": "Baseline, 1 year, then every 2 to 3 years",
+      "mitral_valve_repair_transcatheter": "Baseline and then annually",
+      "bicuspid_aortic_valve_disease": "Continued post-AVR monitoring if aortic size is \u22654.0 cm at time of AVR"
+    },
+    "imaging_notes": {
+      "tte": "Standard approach for periodic imaging",
+      "additional_imaging": "CT, fluoroscopy CMR, or PET for concern of valve dysfunction or endocarditis"
+    },
+    "aortic_stenosis": {
+      "management": "Depends on accurate diagnosis of cause and stage",
+      "stages_of_as": {
+        "stage_a": {
+          "definition": "At risk of AS",
+          "valve_anatomy": [
+            "BAV (or other congenital valve anomaly)",
+            "Aortic valve sclerosis"
+          ],
+          "hemodynamics": "Aortic Vmax <2 m/s with normal leaflet motion",
+          "symptoms": "None"
+        },
+        "stage_b": {
+          "definition": "Progressive AS",
+          "valve_anatomy": [
+            "Mild to moderate leaflet calcification/fibrosis of a bicuspid or trileaflet valve",
+            "Rheumatic valve changes with commissural fusion"
+          ],
+          "hemodynamics": {
+            "mild_as": "Aortic Vmax 2.0\u20132.9 m/s or mean \u0394P <20 mm Hg",
+            "moderate_as": "Aortic Vmax 3.0\u20133.9 m/s or mean \u0394P 20\u201339 mm Hg"
+          },
+          "hemodynamic_consequences": "Early LV diastolic dysfunction may be present; Normal LVEF",
+          "symptoms": "None"
+        },
+        "stage_c1": {
+          "definition": "Asymptomatic severe AS",
+          "valve_anatomy": "Severe leaflet calcification/fibrosis or congenital stenosis with severely reduced leaflet opening",
+          "hemodynamics": {
+            "aortic_vmax": "\u22654 m/s or mean \u0394P \u226540 mm Hg",
+            "ava": "\u22641.0 cm\u00b2",
+            "very_severe_as": "Aortic Vmax \u22655 m/s or mean P \u226560 mm Hg"
+          },
+          "hemodynamic_consequences": "LV diastolic dysfunction or Mild LV hypertrophy; Normal LVEF",
+          "symptoms": "None; Exercise testing is reasonable to confirm symptom status"
+        }
+      }
+    }
+  },
+  "genes": []
+}

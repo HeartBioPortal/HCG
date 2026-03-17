@@ -1,0 +1,22 @@
+{
+  "content": {
+    "Title": "Differential Diagnosis for Adult Narrow QRS Tachycardia",
+    "Diagram Explanation": "The flowchart provides a step-by-step process for diagnosing narrow QRS tachycardia based on the presence of regular tachycardia, visible P waves, atrial rate, RP intervals, and other criteria to differentiate between conditions like AVNRT, AVRT, atrial flutter, atrial tachycardia, PJRT, and MAT.",
+    "Conditions Discussed": [
+      "Narrow QRS tachycardia",
+      "Atrial fibrillation",
+      "Atrial tachycardia",
+      "Atrial flutter",
+      "AVNRT",
+      "PJRT",
+      "AVRT",
+      "Multifocal atrial tachycardia (MAT)"
+    ],
+    "Clinical Recommendations": [
+      "Record a 12-lead ECG to differentiate tachycardia mechanisms.",
+      "Assess the AV node dependency to determine treatment approaches.",
+      "Be cautious with the administration of verapamil or diltiazem for VT or pre-excited AF to avoid hemodynamic compromise or ventricular fibrillation."
+    ]
+  },
+  "genes": []
+}

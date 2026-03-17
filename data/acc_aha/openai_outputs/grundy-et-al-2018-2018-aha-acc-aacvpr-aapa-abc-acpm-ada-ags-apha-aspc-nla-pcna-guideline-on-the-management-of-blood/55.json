@@ -1,0 +1,17 @@
+{
+  "content": {
+    "summary": "The document is a clinical practice guideline focused on cholesterol management, hypercholesterolemia, and associated cardiovascular risks in various populations, especially addressing familial hypercholesterolemia in children and adolescents. It emphasizes the significance of ethnicity, genetics, and socio-economic factors in cardiovascular risk and treatment outcomes.",
+    "focus": "The document discusses cholesterol reduction strategies, guidelines development, and implications for ethnic groups and genetic diversity."
+  },
+  "genes": [
+    {
+      "Gene": "HPS2-THRIVE",
+      "Associated Conditions": [
+        "Hypercholesterolemia",
+        "Cardiovascular Risk"
+      ],
+      "Occurrences": 1,
+      "context": "HPS2-THRIVE randomized placebo-controlled trial in 25 673 high-risk patients of European origin."
+    }
+  ]
+}

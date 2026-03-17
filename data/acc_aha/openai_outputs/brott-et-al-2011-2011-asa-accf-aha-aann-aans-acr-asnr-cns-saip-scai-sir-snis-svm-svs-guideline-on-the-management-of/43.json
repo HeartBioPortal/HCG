@@ -1,0 +1,26 @@
+{
+  "content": {
+    "study_design": "The SPACE trial was designed to test whether CAS was noninferior to CEA in patients with high-grade carotid artery stenosis. Patients had >70% stenosis and were recruited from 2001-2006. The EVA-3S trial randomized patients within 120 days of TIA or stroke with >60% stenosis. Both trials compared CAS to CEA procedures.",
+    "outcome_measures": "The primary outcome was the composite of ipsilateral stroke or death within 30 days. Secondary outcomes included different types of strokes and disabling strokes.",
+    "trial_results": {
+      "SPACE_trial": {
+        "sample_size": 1200,
+        "outcomes": {
+          "primary_response_events": "37 (6.3%) for CEA vs 41 (6.8%) for CAS",
+          "death": "5 (0.9%) for CEA vs 4 (0.7%) for CAS",
+          "all_stroke": "36 (6.2%) for CEA vs 25 (4.2%) for CAS"
+        }
+      },
+      "EVA3S_trial": {
+        "stopped_early": "Enrollment was stopped in 2005 due to higher 30-day rates of stroke and adverse events in CAS.",
+        "outcomes": {
+          "primary_response_events": "10 (3.9%) for CEA vs 25 (9.6%) for CAS",
+          "death": "3 (1.2%) for CEA vs 6 (2.3%) for CAS",
+          "all_stroke": "9 (3.5%) for CEA vs 24 (9.2%) for CAS"
+        }
+      }
+    },
+    "limitations": "Unequal training and experience of surgeons performing CAS and non-uniform use of EPDs in CAS procedures."
+  },
+  "genes": []
+}

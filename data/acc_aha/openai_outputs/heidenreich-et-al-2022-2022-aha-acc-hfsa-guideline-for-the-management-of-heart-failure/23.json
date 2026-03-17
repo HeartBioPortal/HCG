@@ -1,0 +1,66 @@
+{
+  "content": {
+    "Examples of Factors Implicating Possible Genetic Cardiomyopathy": {
+      "Phenotypic Category": [
+        {
+          "Category": "Cardiac morphology",
+          "Patient or Family Member Phenotypic Finding": [
+            "Marked LV hypertrophy",
+            "LV noncompaction",
+            "Right ventricular thinning or fatty replacement on imaging or biopsy"
+          ],
+          "Ask Specifically About Family Members": [
+            "Any mention of cardiomyopathy, enlarged or weak heart, HF",
+            "Document even if attributed to other causes, such as alcohol or peripartum cardiomyopathy"
+          ]
+        },
+        {
+          "Category": "Findings on 12-lead ECG",
+          "Patient or Family Member Phenotypic Finding": [
+            "Abnormal high or low voltage or conduction, and repolarization, altered RV forces"
+          ],
+          "Ask Specifically About Family Members": [
+            "Long QT or Brugada syndrome"
+          ]
+        },
+        {
+          "Category": "Dysrhythmias",
+          "Patient or Family Member Phenotypic Finding": [
+            "Frequent NSVT or very frequent PVCs",
+            "Sustained ventricular tachycardia or fibrillation"
+          ],
+          "Ask Specifically About Family Members": [
+            "ICD",
+            "Recurrent syncope",
+            "Sudden death attributed to 'massive heart attack' without known CAD",
+            "Unexplained fatal event such as drowning or single-vehicle crash"
+          ]
+        },
+        {
+          "Category": "Extracardiac features",
+          "Patient or Family Member Phenotypic Finding": [
+            "Skeletal myopathy",
+            "Neuropathy",
+            "Cutaneous stigmata",
+            "Other possible manifestations of systemic syndromes"
+          ],
+          "Ask Specifically About Family Members": [
+            "Any known skeletal muscle disease, including mention of Duchenne and Becker's, Emery-Dreifuss limb-girdle dystrophy",
+            "Systemic syndromes: Dysmorphic features, Mental retardation, Congenital deafness, Neurofibromatosis, Renal failure with neuropathy"
+          ]
+        }
+      ]
+    },
+    "4.4. Evaluation With Cardiac Imaging": {
+      "Recommendations for Evaluation With Cardiac Imaging": [
+        "In patients with suspected or new-onset HF, or those presenting with acute decompensated HF, a chest x-ray should be performed to assess heart size and pulmonary congestion and to detect alternative cardiac, pulmonary, and other diseases.",
+        "In patients with suspected or newly diagnosed HF, transthoracic echocardiography (TTE) should be performed during initial evaluation to assess cardiac structure and function.",
+        "In patients with HF who have had a significant clinical change, repeat measurement of EF, degree of structural remodeling, and valvular function are useful to inform therapeutic interventions.",
+        "In patients for whom echocardiography is inadequate, alternative imaging (e.g., CMR, CT, radionuclide imaging) is recommended for assessment of LVEF.",
+        "In patients with HF or cardiomyopathy, CMR can be useful for diagnosis or management.",
+        "In patients with HF, an evaluation for possible ischemic heart disease can be useful to identify the cause and guide management."
+      ]
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,2224 @@
+{
+    "2011 ASA/ACCF/AHA/AANN/AANS/ACR/ASNR/CNS/SAIP/SCAI/SIR/SNIS/SVM/SVS Guideline on the Management of Patients With Extracranial Carotid and Vertebral Artery Disease": [
+        {
+            "Gene": "CYP2C19",
+            "Associated Conditions": [
+                "Clopidogrel resistance",
+                "cerebrovascular disease",
+                "stroke",
+                "response to clopidogrel"
+            ],
+            "Occurrences": 3,
+            "context": [
+                "Clopidogrel resistance has also been described and its effectiveness is diminished because of genetic variations in the cytochrome P450 system, which depends primarily on the function of CYP2C19. Genetic variability in CYP enzymes that affect platelet function has been associated with adverse outcomes.",
+                "Mega JL, Close SL, Wiviott SD, et al. Cytochrome P-450 polymorphisms and response to clopidogrel. N Engl J Med. 2009;360:354\u201362."
+            ]
+        },
+        {
+            "Gene": "ACTA2",
+            "Associated Conditions": [
+                "Atherosclerosis"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Winter PM, Morawski AM, Caruthers SD, et al. Molecular imaging of angiogenesis in early-stage atherosclerosis with \u0003B1v\u00003B2-integrin-targeted nanoparticles."
+            ]
+        },
+        {
+            "Gene": "MMP2",
+            "Associated Conditions": [
+                "Atherosclerosis",
+                "Artery Stenosis"
+            ],
+            "Occurrences": 2,
+            "context": [
+                "Alvarez B, Ruiz C, Chacon P, et al. Serum values of metalloproteinase 2 and metalloproteinase 9 related to unstable plaque and inflammatory cells in patients with greater than 70% carotid artery stenosis."
+            ]
+        },
+        {
+            "Gene": "APOE",
+            "Associated Conditions": [
+                "Atherosclerosis"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Ali ZA, Alp N, Lupton H, et al. Increased in-stent stenosis in ApoE knockout mice: insights from a novel mouse model of balloon angioplasty and stenting."
+            ]
+        },
+        {
+            "Gene": "COL4A1",
+            "Associated Conditions": [
+                "Cervical arterial dissection",
+                "Intracranial artery dissection"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "DiLuna ML, Bydon M, Guldner M, et al. Neurological picture: complications from cervical intra-arterial injection. J Neurol Neurosurg Psychiatry. 2007;78:1189."
+            ]
+        }
+    ],
+    "2013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction": [
+        {
+            "Gene": "CYP2C19",
+            "Associated Conditions": [
+                "reduced-function allele affecting clopidogrel metabolism",
+                "Clopidogrel resistance",
+                "Recurrent stroke",
+                "Transient ischemic attack",
+                "ST-elevation myocardial infarction"
+            ],
+            "Occurrences": 8,
+            "context": [
+                "The antiplatelet response to clopidogrel may vary as a function of patient phenotype, hepatic CYP450 enzyme system polymorphisms (predominantly CYP 2C19*2), which can result in diminished platelet inhibition and increased risks of major adverse cardiovascular events and stent thrombosis.",
+                "Relation of CYP2C19 loss-of-function polymorphism to occurrence of drug-eluting coronary stent thrombosis. Effects of CYP2C19 genotype on outcomes of clopidogrel treatment. Association with major adverse cardiac events after clopidogrel use.",
+                "Mega JL, Close SL, Wiviott SD, et al. Genetic variants in ABCB1 and CYP2C19 and cardiovascular outcomes after treatment with clopidogrel and prasugrel in the TRITON-TIMI 38 trial: a pharmacogenetic analysis."
+            ]
+        },
+        {
+            "Gene": "P2RY12",
+            "Associated Conditions": [
+                "STEMI",
+                "CABG"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Reference to the use of P2Y12 receptor antagonists is in relation to elective CABG in the ACCF/AHA Guideline for CABG."
+            ]
+        },
+        {
+            "Gene": "ABCB1",
+            "Associated Conditions": [
+                "ST-elevation myocardial infarction"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Mega JL, Close SL, Wiviott SD, et al. Genetic variants in ABCB1 and CYP2C19 and cardiovascular outcomes after treatment with clopidogrel and prasugrel in the TRITON-TIMI 38 trial: a pharmacogenetic analysis."
+            ]
+        }
+    ],
+    "2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Guideline for the Management of Patients With Chronic Coronary Disease": [
+        {
+            "Gene": "PCSK9",
+            "Associated Conditions": [
+                "Lipid disorders",
+                "Cardiovascular Disease",
+                "MACE",
+                "Cardiovascular risk",
+                "High LDL-C",
+                "Atherosclerotic cardiovascular disease",
+                "Chronic Coronary Disease",
+                "High LDL-C levels",
+                "Hyperlipidemia",
+                "Atherosclerosis",
+                "atherosclerotic cardiovascular disease",
+                "cardiovascular events",
+                "Cardiac Allograft Vasculopathy"
+            ],
+            "Occurrences": 21,
+            "context": [
+                "PCSK9 (proprotein convertase subtilisin/kexin type 9) inhibitors may be used in select populations for lipid lowering in patients with CCD.",
+                "A PCSK9 monoclonal antibody can be beneficial to further reduce the risk of MACE. In patients with CCD who are very high risk, the use of PCSK9 monoclonal antibodies is projected to be of uncertain economic value at US prices.",
+                "PCSK9 monoclonal antibodies are mentioned as agents that can improve outcomes when added to statin therapy to further reduce cardiovascular risk, particularly when additional LDL-C lowering is necessary.",
+                "The FOURIER trial evaluated evolocumab among those with established ASCVD. The cost-effectiveness of adding generic ezetimibe to maximally tolerated statin therapy is sensitive to the assumption regarding the effect of ezetimibe on cardiovascular and all-cause death.",
+                "Clinicians bypassing the addition of ezetimibe before adding a PCSK9 monoclonal antibody should recognize this may not be cost effective. PCSK9 monoclonal antibodies are of low economic value in patients at low to moderate risk of adverse cardiovascular events.",
+                "PCSK9 monoclonal antibodies may be considered to further reduce LDL-C levels when ezetimibe and statins are insufficient.",
+                "Inclisiran is a small interfering RNA directed to break down PCSK9 mRNA, resulting in reduced synthesis of PCSK9. Inclisiran reduces LDL-C levels by approximately 50% and is administered as a single subcutaneous dose, with a second dose at 3 months, then every 6 months.",
+                "Meta-analysis of clinical outcomes of PCSK9 modulators in patients with established ASCVD.",
+                "Kobayashi MA, Moriuchi JD, Juks H, et al. Ten-year follow-up of a randomized trial of pravastatin in heart transplant recipients."
+            ]
+        },
+        {
+            "Gene": "VDR",
+            "Associated Conditions": [
+                "Coronary artery disease"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "48. Bhatti JS, Kaur S, Bhatti GK, et al. Genetic susceptibility of vitamin D receptor (VDR) gene variants (BsmI, TaqI and FokI) to coronary artery disease in Asian Indians. Endocrine Practice. 2019;25:64."
+            ]
+        }
+    ],
+    "2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults": [
+        {
+            "Gene": "APOL1",
+            "Associated Conditions": [
+                "chronic kidney disease (CKD)",
+                "chronic kidney disease",
+                "Chronic kidney disease"
+            ],
+            "Occurrences": 3,
+            "context": [
+                "Finally, the excess risk of CKD outcomes in at least some blacks with hypertension may be due to the presence of high-risk APOL1 (apolipoprotein L1) genetic variants.",
+                "APOL1 is mentioned in relation to rapid decline in estimated glomerular filtration rate among black individuals and its role in predicting kidney disease progression.",
+                "Saran R, Kao WH, Xie D, et al. APOL1 risk variants, race, and progression of chronic kidney disease."
+            ]
+        },
+        {
+            "Gene": "AGT",
+            "Associated Conditions": [
+                "Hypertension"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Genetic and molecular aspects of hypertension are discussed, including the role of genes such as AGT."
+            ]
+        },
+        {
+            "Gene": "CYP11B2",
+            "Associated Conditions": [
+                "Primary Aldosteronism"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Use of plasma renin activity to screen for primary aldosteronism: a review of the literature. Endocrinol Metab Clin North Am."
+            ]
+        }
+    ],
+    "2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease": [],
+    "2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy": [
+        {
+            "Gene": "MYH7",
+            "Associated Conditions": [
+                "Hypertrophic Cardiomyopathy (HCM)",
+                "Hypertrophic Cardiomyopathy"
+            ],
+            "Occurrences": 8,
+            "context": [
+                "Among patients with HCM and a pathogenic sarcomeric gene variant, the 2 most common genes are beta myosin heavy chain 7 (MYH7)...",
+                "Particularly noted in those with family history, SCD, and pathogenic variants in MYH7/MYBPC3.",
+                "Gene panels include 8 sarcomere genes, including MYH7.",
+                "For younger (e.g., \u226445 years of age) patients with nonobstructive HCM due to a pathogenic or likely pathogenic cardiac sarcomere genetic variant, and a mild phenotype, valsartan may be beneficial to slow adverse cardiac remodeling.",
+                "Genotype studies often involve the MYH7 gene, highlighting its role in hypertrophic cardiomyopathy.",
+                "Mutations in the MYH7 gene have been identified in patients with hypertrophic cardiomyopathy and are relevant for familial screening.",
+                "Natural history of genotype-positive phenotype-negative patients with hypertrophic cardiomyopathy. J Am Coll Cardiol. 2011;57: 258\u2013259.",
+                "Adaptation of the MOGE(M)/AMP variant classification framework for MYH7-associated inherited cardiomyopathies."
+            ]
+        },
+        {
+            "Gene": "MYBPC3",
+            "Associated Conditions": [
+                "Hypertrophic Cardiomyopathy (HCM)",
+                "Hypertrophic Cardiomyopathy"
+            ],
+            "Occurrences": 10,
+            "context": [
+                "Among patients with HCM and a pathogenic sarcomeric gene variant, the 2 most common genes are beta myosin heavy chain 7 (MYH7) and myosin-binding protein C3 (MYBPC3)...",
+                "Particularly noted in those with family history, SCD, and pathogenic variants in MYH7/MYBPC3.",
+                "Gene panels include 8 sarcomere genes, including MYBPC3.",
+                "Myocardial transcriptomic profiling has found significant overlap in gene network activation between dilated cardiomyopathy and HCM, including MYBPC3 mutations.",
+                "Mutations in the MYBPC3 gene are commonly associated with hypertrophic cardiomyopathy as discussed in genetic insights sections.",
+                "Sarcomere protein mutations in MYBPC3 are linked to hypertrophic cardiomyopathy.",
+                "In the context of hypertrophic cardiomyopathy, mutations in genes such as MYBPC3 are significant in diagnosis and management.",
+                "Prediction of sarcomere mutations in subclinical hypertrophic cardiomyopathy. Circ Cardiovasc Imaging. 2014;7:863\u2013871.",
+                "43. Choudry Y, Shiue A, Jian L, et al. Cardiovascular magnetic resonance characteristics in children with hypertrophic cardiomyopathy. Circ Heart Fail. 2013;6:1013-1020."
+            ]
+        },
+        {
+            "Gene": "TNNI3",
+            "Associated Conditions": [
+                "Hypertrophic Cardiomyopathy (HCM)"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "variant positive, while other genes (TNNI3, TNNT2, TPM1, MYL2, MYL3, ACTC1) can account for a small proportion of patients (1%-5%)..."
+            ]
+        },
+        {
+            "Gene": "TNNT2",
+            "Associated Conditions": [
+                "Hypertrophic Cardiomyopathy (HCM)",
+                "Hypertrophic Cardiomyopathy"
+            ],
+            "Occurrences": 3,
+            "context": [
+                "variant positive, while other genes (TNNI3, TNNT2, TPM1, MYL2, MYL3, ACTC1) can account for a small proportion of patients (1%-5%)...",
+                "Gene panels include 8 sarcomere genes, including TNNT2."
+            ]
+        },
+        {
+            "Gene": "TPM1",
+            "Associated Conditions": [
+                "Hypertrophic Cardiomyopathy (HCM)",
+                "Hypertrophic Cardiomyopathy"
+            ],
+            "Occurrences": 2,
+            "context": [
+                "variant positive, while other genes (TNNI3, TNNT2, TPM1, MYL2, MYL3, ACTC1) can account for a small proportion of patients (1%-5%)...",
+                "Gene panels include 8 sarcomere genes, including TPM1."
+            ]
+        },
+        {
+            "Gene": "MYL2",
+            "Associated Conditions": [
+                "Hypertrophic Cardiomyopathy (HCM)",
+                "Hypertrophic Cardiomyopathy"
+            ],
+            "Occurrences": 3,
+            "context": [
+                "variant positive, while other genes (TNNI3, TNNT2, TPM1, MYL2, MYL3, ACTC1) can account for a small proportion of patients (1%-5%)...",
+                "Gene panels include 8 sarcomere genes, including MYL2.",
+                "Claes GR, van Tienen FH, Lindsey P, et al. Hyper\u00adtrophic remodeling in cardiac regulatory myosin light chain (MYL2) founder mutation carriers."
+            ]
+        },
+        {
+            "Gene": "MYL3",
+            "Associated Conditions": [
+                "Hypertrophic Cardiomyopathy (HCM)",
+                "Hypertrophic Cardiomyopathy"
+            ],
+            "Occurrences": 2,
+            "context": [
+                "variant positive, while other genes (TNNI3, TNNT2, TPM1, MYL2, MYL3, ACTC1) can account for a small proportion of patients (1%-5%)...",
+                "Gene panels include 8 sarcomere genes, including MYL3."
+            ]
+        },
+        {
+            "Gene": "ACTC1",
+            "Associated Conditions": [
+                "Hypertrophic Cardiomyopathy (HCM)",
+                "Hypertrophic Cardiomyopathy"
+            ],
+            "Occurrences": 2,
+            "context": [
+                "variant positive, while other genes (TNNI3, TNNT2, TPM1, MYL2, MYL3, ACTC1) can account for a small proportion of patients (1%-5%)...",
+                "Gene panels include 8 sarcomere genes, including ACTC1."
+            ]
+        },
+        {
+            "Gene": "PRKAG2",
+            "Associated Conditions": [
+                "Glycogen Storage Disease"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Suspicion based on phenotype evaluation of a systemic disorder, including PRKAG2."
+            ]
+        },
+        {
+            "Gene": "LAMP2",
+            "Associated Conditions": [
+                "Danon Disease",
+                "Cardiomyopathy"
+            ],
+            "Occurrences": 2,
+            "context": [
+                "Suspicion based on phenotype evaluation of a systemic disorder, including LAMP2.",
+                "Bondue et al., found abnormal histology, imaging studies, and possibly abnormal expression in LAMP2 cardiomyopathy."
+            ]
+        },
+        {
+            "Gene": "GLA",
+            "Associated Conditions": [
+                "Fabry Disease"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Suspicion based on phenotype evaluation of a systemic disorder, including GLA."
+            ]
+        },
+        {
+            "Gene": "NT-proBNP",
+            "Associated Conditions": [
+                "Hypertrophic Cardiomyopathy"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Reported alterations include abnormal serum NT-proBNP concentrations even in the absence of LVH."
+            ]
+        }
+    ],
+    "2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization": [],
+    "2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation": [
+        {
+            "Gene": "BTK",
+            "Associated Conditions": [],
+            "Occurrences": 1,
+            "context": [
+                "BTK: Bruton's tyrosine kinase"
+            ]
+        },
+        {
+            "Gene": "BMI1",
+            "Associated Conditions": [
+                "Obesity",
+                "Adiposity"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "SR/MA: BMI\u2191 RR, 1.28 per 5-unit \u2191 in BMI11."
+            ]
+        },
+        {
+            "Gene": "DUSP13",
+            "Associated Conditions": [
+                "Inflammatory markers"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "DUSP13, FKBP7, Spondin-1: \u2191 risk"
+            ]
+        },
+        {
+            "Gene": "FKBP7",
+            "Associated Conditions": [
+                "Inflammatory markers"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "DUSP13, FKBP7, Spondin-1: \u2191 risk"
+            ]
+        },
+        {
+            "Gene": "TNFSF12",
+            "Associated Conditions": [
+                "Inflammatory markers"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "IL-6R, TNFSF12: \u2193 risk"
+            ]
+        },
+        {
+            "Gene": "NLRP3",
+            "Associated Conditions": [
+                "Atrial Fibrillation"
+            ],
+            "Occurrences": 3,
+            "context": [
+                "NLRP3 inflammasome activation contributes to oxidative stress and inflammation, leading to atrial fibrillation.",
+                "NLRP3 knockdown prevented AF inducibility in a mouse model, implicating the NLRP3 inflammasome in AF pathophysiology. NLRP3-blocking drugs are in development."
+            ]
+        },
+        {
+            "Gene": "CALM2",
+            "Associated Conditions": [
+                "Atrial Fibrillation"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Activation of calcium-dependent calmodulin kinase II and jun kinase promotes ryanodine receptor dysfunction leading to spontaneous calcium release."
+            ]
+        },
+        {
+            "Gene": "TTN",
+            "Associated Conditions": [
+                "inherited cardiomyopathy",
+                "arrhythmia syndromes"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "A UK Biobank study identified TTN loss of function variants in 0.44% of participants, 14% of whom had AF."
+            ]
+        },
+        {
+            "Gene": "MYH7",
+            "Associated Conditions": [
+                "inherited cardiomyopathy",
+                "arrhythmia syndromes"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "A disease-associated genetic variant in genes associated with inherited cardiomyopathy or arrhythmia syndromes (most common were TTN, MYH7, MYH6, LMNA, and KCNQ1)"
+            ]
+        },
+        {
+            "Gene": "MYH6",
+            "Associated Conditions": [
+                "inherited cardiomyopathy",
+                "arrhythmia syndromes"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "A disease-associated genetic variant in genes associated with inherited cardiomyopathy or arrhythmia syndromes (most common were TTN, MYH7, MYH6, LMNA, and KCNQ1)"
+            ]
+        },
+        {
+            "Gene": "LMNA",
+            "Associated Conditions": [
+                "inherited cardiomyopathy",
+                "arrhythmia syndromes"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "A disease-associated genetic variant in genes associated with inherited cardiomyopathy or arrhythmia syndromes (most common were TTN, MYH7, MYH6, LMNA, and KCNQ1)"
+            ]
+        },
+        {
+            "Gene": "KCNQ1",
+            "Associated Conditions": [
+                "inherited cardiomyopathy",
+                "arrhythmia syndromes"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "A disease-associated genetic variant in genes associated with inherited cardiomyopathy or arrhythmia syndromes (most common were TTN, MYH7, MYH6, LMNA, and KCNQ1)"
+            ]
+        },
+        {
+            "Gene": "CYP2C9",
+            "Associated Conditions": [
+                "Atrial Fibrillation"
+            ],
+            "Occurrences": 3,
+            "context": [
+                "The use of warfarin involves narrow therapeutic window based on international normalized ratios (INRs), frequent monitoring, more frequent drug interactions (mainly through CYP2C9), dietary restrictions, and low clinical safety profile.",
+                "Warfarin metabolism S-isomer: CYP2C9",
+                "8.2.1. Prevention of Thromboembolism in the Setting of Cardioversion mentions genetic polymorphisms including CYP2C9 as important in anticoagulation management."
+            ]
+        },
+        {
+            "Gene": "CYP3A4",
+            "Associated Conditions": [
+                "Drug interaction risk in patients on DOACs"
+            ],
+            "Occurrences": 6,
+            "context": [
+                "Strong CYP3A4 inhibitors such as ketoconazole, itraconazole, and ritonavir may significantly increase DOAC plasma levels and the risk of bleeding.",
+                "Warfarin metabolism R-isomer: CYP3A4; Rivaroxaban: CYP3A4/5; Apixaban: CYP3A4"
+            ]
+        },
+        {
+            "Gene": "CYP1A2",
+            "Associated Conditions": [],
+            "Occurrences": 1,
+            "context": [
+                "Warfarin metabolism R-isomer: CYP1A2"
+            ]
+        },
+        {
+            "Gene": "CYP2C19",
+            "Associated Conditions": [],
+            "Occurrences": 1,
+            "context": [
+                "Warfarin metabolism R-isomer: CYP2C19"
+            ]
+        },
+        {
+            "Gene": "CYP3A4/5",
+            "Associated Conditions": [],
+            "Occurrences": 1,
+            "context": [
+                "Rivaroxaban metabolism: CYP3A4/5"
+            ]
+        },
+        {
+            "Gene": "F7",
+            "Associated Conditions": [
+                "coagulation"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "In patients with AF receiving warfarin who develop life-threatening bleeding, treatment with 4-factor prothrombin complex concentrate (if available) in addition to intravenous vitamin K is recommended to rapidly achieve INR correction over fresh frozen plasma and intravenous vitamin K treatment."
+            ]
+        },
+        {
+            "Gene": "BRCA1",
+            "Associated Conditions": [
+                "Atrial Fibrillation"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "In studies evaluating genetic predisposition, alterations in the BRCA1 gene were associated with increased risk of atrial fibrillation in certain populations."
+            ]
+        },
+        {
+            "Gene": "NPPA",
+            "Associated Conditions": [
+                "atrial fibrillation",
+                "heart failure"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "association of natriuretic peptides ... with the risk of atrial fibrillation ... a Mendelian randomization study in the Finnish cohort."
+            ]
+        },
+        {
+            "Gene": "KCNE1",
+            "Associated Conditions": [
+                "atrial fibrillation",
+                "Bradycardia",
+                "Long QT Syndrome"
+            ],
+            "Occurrences": 2,
+            "context": [
+                "Potential reduction in chronic human atrial fibrillation.",
+                "17. Goldberger ZE, Bocuzzi SJ, Crusey et al. Diltiazem increases late-onset syncope heart failure hospitalization in patients with early reduction in ejection fraction. The Adverse Experience Committee and the Multicenter Dilitation Postfractional Research Group. Circulation. 1991;83:52-60. 18. Kober L, Torp-Pedersen C, Moller MU, et al. Diltiazem in heart failure and the Multicenter Dilitation Study: A Multicenter Dilitation Postfractional Trial Research Group. The effect of diltiazem on mortality in heart failure - DIL Study (inthe visit KCNE1 context)"
+            ]
+        },
+        {
+            "Gene": "GJA1",
+            "Associated Conditions": [
+                "atrial fibrogenesis and atrial fibrillation"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Connexin40 and connexin43 alterations associated with structural changes in atrial fibrillation."
+            ]
+        },
+        {
+            "Gene": "JNK2",
+            "Associated Conditions": [
+                "atrial fibrillation"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Signaling pathways involved in stress responses and potential therapeutic target."
+            ]
+        },
+        {
+            "Gene": "KCNN3",
+            "Associated Conditions": [
+                "Familial Atrial Fibrillation"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Chen YH, Xu SJ, Bendahhou S, et al. KCNN3 gain-of-function mutation in familial atrial fibrillation. Hum Mol Genet. 2003;299:254-254."
+            ]
+        },
+        {
+            "Gene": "IL6",
+            "Associated Conditions": [
+                "Atrial Fibrillation"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Li Y, Pastori D, Guo Y, et al. A single nucleotide polymorphism of interleukin 6 receptor (rs2228145) for predicting incident atrial fibrillation."
+            ]
+        },
+        {
+            "Gene": "ACTN1",
+            "Associated Conditions": [
+                "atrial fibrillation"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Genetically determined tobacco and alcohol use and risk of atrial fibrillation."
+            ]
+        },
+        {
+            "Gene": "NOS3",
+            "Associated Conditions": [
+                "atrial fibrillation"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Serum glycated hemoglobin level as a predictor of atrial fibrillation: a systematic review with meta-analysis and meta-regression."
+            ]
+        },
+        {
+            "Gene": "KCNA5",
+            "Associated Conditions": [
+                "Atrial Fibrillation"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Kou WH, Tunick PA, Sheffield LT, et al. Effects of intravenous magnesium sulfate on the QT interval in patients receiving ibutilide. Pharmacotherapy. 2003;23:296-300."
+            ]
+        },
+        {
+            "Gene": "SCN5A",
+            "Associated Conditions": [
+                "Atrial fibrillation"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Goodyer WR, Dunn K, Caleshu C, et al. Broad genetic testing in a clinical setting uncovers a high prevalence of loss-of-function variants in very early onset atrial fibrillation."
+            ]
+        }
+    ],
+    "2014 AHA/ACC Guideline for the Management of Patients With Non-ST-Elevation Acute Coronary Syndromes": [
+        {
+            "Gene": "TNNT2",
+            "Associated Conditions": [
+                "Myocardial infarction (MI)",
+                "Cardiomyocyte necrosis"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Troponin T derived from genes specifically expressed in the myocardium provides high sensitive results specific for detecting cardiomyocyte necrosis."
+            ]
+        },
+        {
+            "Gene": "TNNI3",
+            "Associated Conditions": [
+                "Myocardial infarction (MI)",
+                "Cardiac injury"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Troponin I is derived from genes specifically expressed in the myocardium."
+            ]
+        },
+        {
+            "Gene": "IL6",
+            "Associated Conditions": [
+                "Coronary Artery Disease"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "IL6 polymorphisms do not predict acute myocardial infarction."
+            ]
+        },
+        {
+            "Gene": "PCSK9",
+            "Associated Conditions": [
+                "Cardiovascular diseases",
+                "Cholesterol management"
+            ],
+            "Occurrences": 2,
+            "context": [
+                "282. Chan DT, Waters D, Cole T, Nichols GA, et al. Effects of alirocumab, a PCSK9 inhibitor, on LDL cholesterol levels in patients at high cardiovascular risk. N Engl J Med 2010;XX:xxx-xxx."
+            ]
+        },
+        {
+            "Gene": "APOA1",
+            "Associated Conditions": [
+                "Coronary artery disease"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "293. Jensen J, Lipinski MJ, Gillette MA, et al. APOA1: A potential marker for cardiovascular outcomes in patients with coronary artery disease. Lancet 2011;XX:xxx-xxx."
+            ]
+        },
+        {
+            "Gene": "ABCB1",
+            "Associated Conditions": [
+                "Clopidogrel therapy efficacy"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Genetic variations in ABCB1 and CYP2C19 are associated with different outcomes after treatment with clopidogrel."
+            ]
+        },
+        {
+            "Gene": "CYP2C19",
+            "Associated Conditions": [
+                "Clopidogrel therapy efficacy"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Genetic variations in ABCB1 and CYP2C19 are associated with different outcomes after treatment with clopidogrel."
+            ]
+        },
+        {
+            "Gene": "HFE",
+            "Associated Conditions": [
+                "Venous Thromboembolism"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Lorme F, Yusuf S, Arnold M, et al. Homocysteine lowering with folic acid and B vitamins in vascular disease."
+            ]
+        },
+        {
+            "Gene": "CSF2",
+            "Associated Conditions": [
+                "coronary syndromes"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Implications of diabetes in patients with acute coronary syndromes: The Global Registry of Acute Coronary Events (GRACE). Am Heart J 2004;148:657-63."
+            ]
+        }
+    ],
+    "2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure": [
+        {
+            "Gene": "ACTA2",
+            "Associated Conditions": [
+                "Cardiomyopathy"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Patients at risk for heart failure include those with genetic variants for cardiomyopathy, such as ACTA2."
+            ]
+        },
+        {
+            "Gene": "THRB",
+            "Associated Conditions": [
+                "Hypothyroidism",
+                "Hyperthyroidism"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Thyroid-stimulating hormone level and electrocardiography is part of the standard diagnostic evaluation of a patient with HF."
+            ]
+        },
+        {
+            "Gene": "LMNA",
+            "Associated Conditions": [
+                "Cardiomyopathy",
+                "Cardiac transplantation",
+                "Refractory arrhythmias"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Patients with LMNA/C cardiomyopathy will progress to cardiac transplantation, sometimes precipitated by refractory arrhythmias more than by pump failure."
+            ]
+        },
+        {
+            "Gene": "C",
+            "Associated Conditions": [
+                "Desmosomal proteins"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Variants such as LMNA/C, desmosomal proteins, phospholamban, and Filamin-C carry implications for sudden death prevention."
+            ]
+        },
+        {
+            "Gene": "TTR",
+            "Associated Conditions": [
+                "transthyretin cardiac amyloidosis",
+                "Cardiac Amyloidosis",
+                "Transthyretin Amyloid Cardiomyopathy (ATTR-CM)",
+                "Variant Transthyretin Amyloidosis (ATTRv-CM)",
+                "Wild-type Transthyretin Amyloidosis (ATTRwt-CM)",
+                "cardiac amyloidosis",
+                "Transthyretin amyloidosis",
+                "Cardiac amyloidosis"
+            ],
+            "Occurrences": 10,
+            "context": [
+                "Tafamidis binds the thyroxin-binding site of TTR. Disease-modifying therapies include TTR silencers, TTR stabilizers, and TTR disruptors.",
+                "Perform TTR gene sequencing",
+                "TTR cardiac amyloidosis is mentioned with reference to recent findings and implications in heart failure management.",
+                "Diagnostic performance of quantifiable kappa and lambda free light chain assays in clinical practice... Cost-effectiveness of tafamidis therapy for transthyretin amyloid cardiomyopathy... Unveiling transthyretin cardiac amyloidosis."
+            ]
+        },
+        {
+            "Gene": "CTRC",
+            "Associated Conditions": [
+                "Effectiveness of neurohormonal therapies"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Studying the effectiveness of neurohormonal therapies specifically in patients with the CTRC gene is challenging given the relative infrequency of events, heterogeneity of offending agents, the poorly understood pathophysiology, and the overlap with comorbid CVD."
+            ]
+        },
+        {
+            "Gene": "HER2",
+            "Associated Conditions": [
+                "Breast Cancer",
+                "Breast cancer",
+                "Cardiotoxicity"
+            ],
+            "Occurrences": 5,
+            "context": [
+                "In a study of 2625 patients receiving anthracyclines for breast cancer or lymphoma who underwent serial LVEF monitoring, cancer therapy-related cardiomyopathy occurred in 9% of patients.",
+                "Anderson Cancer Center experience in clinical outcomes with HER2-positive tumors treated with trastuzumab and anthracycline-based therapy.",
+                "Use of trastuzumab-based chemotherapy and monoclonal antibody against HER2 for metastatic breast cancer. HER2 status and association with cardiotoxicity."
+            ]
+        },
+        {
+            "Gene": "PCSK9",
+            "Associated Conditions": [
+                "cardiovascular diseases"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "PCSK9 inhibitors are discussed in the context of potential treatments related to cardiovascular events."
+            ]
+        },
+        {
+            "Gene": "MYBPC3",
+            "Associated Conditions": [
+                "dilated cardiomyopathy"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Genetic risk of arrhythmic phenotypes in patients with dilated cardiomyopathy."
+            ]
+        },
+        {
+            "Gene": "KCNE1",
+            "Associated Conditions": [
+                "Atrial Fibrillation"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Genetic risk of atrial fibrillation in patients with dilated cardiomyopathy."
+            ]
+        },
+        {
+            "Gene": "BRCA1",
+            "Associated Conditions": [
+                "Breast cancer"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "BRCA1 mutation associated with breast cancer treatment and potential cardiac effects."
+            ]
+        },
+        {
+            "Gene": "IL2",
+            "Associated Conditions": [
+                "Peripartum Cardiomyopathy"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Home BD, Rasmussen KD, Alharethi R, et al. The chromosome 12p11.2 locus near the PTHLH gene for peripartum cardiomyopathy. Circ Cardiovasc Genet. 2013;6:435-936."
+            ]
+        }
+    ],
+    "2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease": [
+        {
+            "Gene": "FBN1",
+            "Associated Conditions": [
+                "Marfan Syndrome",
+                "Marfan syndrome",
+                "HTAD",
+                "Thoracic aortic aneurysms and dissections",
+                "thoracic aortic aneurysms"
+            ],
+            "Occurrences": 18,
+            "context": [
+                "Patients with Marfan syndrome and Loyes-Dietz syndrome, and other heritable aortic disorders, are particularly relevant in planning for pregnancy.",
+                "Marfan syndrome is associated with aortic root aneurysm, aortic dissection, TAA, MVP, long bone overgrowth, arachnodactyly, dolichostenomelia, scoliosis, pectus deformities, ectopia lentis, myopia, tall stature, pneumothorax, dural ectasia.",
+                "FBN1 identified in individuals with HTAD who do not have Marfan syndrome symptoms.",
+                "Pathogenic variants in genes related to extracellular matrix proteins are often implicated, particularly in relation to conditions like Marfan syndrome.",
+                "Marfan syndrome is an autosomal dominant connective tissue disorder caused by pathogenic variants in the FBN1 gene affecting 1 in 5,000 individuals.",
+                "Genetic aortopathies related to TAA are detailed in Section 6.1.2, 'Genetic Aortopathies'. Marfan syndrome, associated with mutations in FBN1, is specifically mentioned with regards to beta-blocker therapy effects.",
+                "Intact TAAA: In patients with Marfan syndrome, open repair is recommended over endovascular repair.",
+                "Mouse models of Marfan syndrome as well as case control studies in Marfan syndrome indicate deleterious effects of long-term calcium channel blocker use.",
+                "Patients with genetically triggered aortic diseases (eg, Marfan syndrome) have an increased risk when presenting with complicated type B aortic dissection.",
+                "In patients with genetic aortopathies attributable to syndromic (Marfan syndrome, Loeys-Dietz syndrome, vascular Ehlers-Danlos syndrome) and nsHTAD and who are contemplating pregnancy, genetic counseling before pregnancy to discuss the heritable nature of their condition is recommended.",
+                "Beta-blocker therapy has been shown to lessen aortic growth rates in Marfan syndrome.",
+                "Loeys AL, Rys B, Nuytinck L, et al. Novel mutations in FBN1 responsible for the clinical features and aortic disease in Marfan syndrome.",
+                "Standard genetic evaluation of FBN1 mutations is crucial in diagnosing Marfan syndrome.",
+                "Shore S, Berger KR, Murphy EA, et al. Progression of aortic dilatation and the benefit of long-term betaadrenergic blockade in Marfan's syndrome.",
+                "FBN1 gene mutations are implicated in connective tissue disorders such as Marfan syndrome, affecting aortic root dilation.",
+                "Imaging of the postural cardiovascular in Marfan syndrome.",
+                "4. ... Searching for new molecular markers for dissection from abdominal aortic aneurysms."
+            ]
+        },
+        {
+            "Gene": "FLNA",
+            "Associated Conditions": [
+                "Thoracic aortic aneurysm",
+                "Ehlers-Danlos syndrome with periventricular nodular heterotopia"
+            ],
+            "Occurrences": 2,
+            "context": [
+                "Others attributable to pathogenic variants in FLNA, BGN, LOX",
+                "Ehlers-Danlos syndrome with periventricular nodular heterotopia associated with FLNA includes X-linked features such as PDA, VSD, seizures, joint hypermobility."
+            ]
+        },
+        {
+            "Gene": "BGN",
+            "Associated Conditions": [
+                "Thoracic aortic aneurysm",
+                "Meester-Loeys syndrome"
+            ],
+            "Occurrences": 2,
+            "context": [
+                "Others attributable to pathogenic variants in FLNA, BGN, LOX",
+                "Meester-Loeys syndrome, associated with BGN, involves X-linked features like TAA, aortic dissection, MV disease."
+            ]
+        },
+        {
+            "Gene": "LOX",
+            "Associated Conditions": [
+                "Thoracic aortic aneurysm",
+                "LOX-related TAA",
+                "BAV with TAA",
+                "HTAD",
+                "aortic root aneurysms",
+                "Marfan syndrome-like features"
+            ],
+            "Occurrences": 7,
+            "context": [
+                "Others attributable to pathogenic variants in FLNA, BGN, LOX",
+                "LOX-related TAA features TAA, BAV, aortic dissection, Marfanoid habitus in some.",
+                "LOX is associated with BAV with TAA across syndromic and nonsyndromic HTAD and FTAA presentations.",
+                "LOX confirmed in HTAD families.",
+                "Patients with LOX mutations can present with aortic root aneurysms, fusiform dilation of the aortic root, and may have mild systemic features of Marfan syndrome.",
+                "LOX variants have an increased prevalence of BAV."
+            ]
+        },
+        {
+            "Gene": "ACTA2",
+            "Associated Conditions": [
+                "Thoracic aortic aneurysm",
+                "Smooth muscle dysfunction syndrome",
+                "Nonsyndromic HTAD",
+                "Familial TAAA",
+                "HTAD",
+                "occlusive vascular disease",
+                "aortic dissection",
+                "occlusive vascular diseases",
+                "nsHTAD",
+                "Aortic dissection related to pregnancy",
+                "Thoracic Aortic Aneurysms",
+                "Dissections",
+                "Smooth muscle alpha-actin associated disorders",
+                "Aortic aneurysm",
+                "Arterial disease",
+                "Moyamoya disease",
+                "Thoracic aortic disease",
+                "Thoracic aortic aneurysms",
+                "Aortic Dissection",
+                "Aneurysm",
+                "Smooth Muscle Dysfunction Syndrome",
+                "thoracic aortic aneurysms",
+                "aortic dissections"
+            ],
+            "Occurrences": 22,
+            "context": [
+                "ACTA2, MYH11, PRKG1, MYLK, and others",
+                "Associated with smooth muscle dysfunction syndrome, ACTA2 leads to TAA, moyamoya-like cerebrovascular disease, pulmonary hypertension, pulmonary disease, hypoperistalsis, hypotonic bladder, congenital mydriasis. Also involved in nonsyndromic HTAD and familial TAAA.",
+                "ACTA2 mutations lead to TAA and occlusive vascular disease.",
+                "Patients with ACTA2 mutations primarily present with type A or B aortic dissection, have aneurysms that involve the root and ascending aorta, and a subset of pathogenic variants predispose to occlusive vascular diseases. Surgical threshold for aortic diameter with ACTA2 mutation is set at \u22654.5 cm.",
+                "HTAD attributable to pathogenic variants in ACTA2 shows an increased prevalence of BAV.",
+                "In patients with ACTA2 pathogenic variants, 20% of aortic dissections were related to pregnancy.",
+                "Aortic dissection related to pregnancy has occurred at small aortic diameters in women with ACTA2 and MYH11 pathogenic variants.",
+                "Guo DC, Pannu H, Papke CL, et al. Mutations in smooth muscle alpha-actin (ACTA2) lead to thoracic aortic aneurysms and dissections. Nat Genet. 2007;39: 1488-1493. Wallace SE, Regalado ES, Gong L, et al. MYLK pathogenic variants decrease presentation, pregnancy risk, and characterization of pathogenic missense variants.",
+                "Mutations in smooth muscle alpha-actin (ACTA2) cause coronary artery disease, stroke, and moyamoya disease, along with other aortic condition impacts.",
+                "Recurrent loss-of-function mutations in ACTA2.",
+                "Mutations in the ACTA2 gene can lead to familial thoracic aortic aneurysms and dissections, requiring monitoring of aortic dimensions.",
+                "ACTA2 mutations are associated with thoracic aortic aneurysms and dissections, highlighting the genetic component in deciding surgical intervention.",
+                "Clinical history and management recommendations of the smooth muscle dysfunction syndrome due to ACTA2 among 179 alterations.",
+                "ACTA2 mutations. Am J Med Genet A. 2014;164:106-112.",
+                "13. ... Identification of novel genetic susceptibility loci for thoracic and abdominal aortic aneurysms via genome-wide association study of the UK Biobank Cohort."
+            ]
+        },
+        {
+            "Gene": "MYH11",
+            "Associated Conditions": [
+                "Thoracic aortic aneurysm",
+                "Familial TAAA",
+                "HTAD",
+                "aortic dissection",
+                "nsHTAD",
+                "Aortic dissection related to pregnancy",
+                "Thoracic aortic aneurysms",
+                "Dissections"
+            ],
+            "Occurrences": 8,
+            "context": [
+                "ACTA2, MYH11, PRKG1, MYLK, and others",
+                "MYH11 association with familial TAAA involves TAA, aortic dissection, PDA.",
+                "MYH11 confirmed in HTAD with significant aortic features.",
+                "Patients with MYH11 mutations primarily present with type A or B aortic dissection and may have peripheral arterial disease. Surgical threshold guidance is provided.",
+                "HTAD attributable to pathogenic variants in MYH11 shows an increased prevalence of BAV.",
+                "nsHTAD because of pathogenic variants in multiple genes (eg, ACTA2, MYH11, MYLK, PRKG1, and others).",
+                "Aortic dissection related to pregnancy has occurred at small aortic diameters in women with ACTA2 and MYH11 pathogenic variants.",
+                "Mutations in MYH11 may cause a syndrome associating thoracic aortic aneurysm/dissection and patent ductus arteriosus."
+            ]
+        },
+        {
+            "Gene": "PRKG1",
+            "Associated Conditions": [
+                "Thoracic aortic aneurysm",
+                "Familial TAAA",
+                "HTAD",
+                "nsHTAD",
+                "Thoracic Aortic Aneurysms",
+                "aortic dissection"
+            ],
+            "Occurrences": 8,
+            "context": [
+                "ACTA2, MYH11, PRKG1, MYLK, and others",
+                "PRKG1 association with familial TAAA involves aortic dissection at young ages at small aortic sizes.",
+                "PRKG1 confirmed in families showing TAD features.",
+                "PRKG1-related HTAD can present in the late teens with type A or B aortic dissection without previous aortic enlargement. Surgical threshold for aortic diameter with PRKG1 mutation is set at \u22654.2 cm without risk factors and \u22652.0 cm with risk factors.",
+                "nsHTAD because of pathogenic variants in multiple genes (eg, ACTA2, MYH11, MYLK, PRKG1, and others).",
+                "Guo DC, Regalado E, Casteel DE, et al. Recurrent gain-of-function mutation in PRKG1 causes thoracic aortic aneurysms and acute aortic dissections.",
+                "Natural history of type B aortic dissection in patients with PRKG1 mutation c.530G>A (p.Arg177Gln)."
+            ]
+        },
+        {
+            "Gene": "MYLK",
+            "Associated Conditions": [
+                "Thoracic aortic aneurysm",
+                "Familial TAAA",
+                "HTAD",
+                "aortic dissection",
+                "nsHTAD",
+                "Thoracic Aortic Disease",
+                "Aortic dissection",
+                "Pregnancy-related complications"
+            ],
+            "Occurrences": 8,
+            "context": [
+                "ACTA2, MYH11, PRKG1, MYLK, and others",
+                "MYLK association with familial TAAA involves TAA and aortic dissection at relatively small aortic size.",
+                "MYLK confirmed in HTAD with aortic features.",
+                "Patients with MYLK mutations present at age >40 years with type A aortic dissection and little previous enlargement of the aorta.",
+                "nsHTAD because of pathogenic variants in multiple genes (eg, ACTA2, MYH11, MYLK, PRKG1, and others).",
+                "Wallace SE, Regalado ES, Gong L, et al. MYLK pathogenic variants decrease presentation, pregnancy risk, and characterization of pathogenic missense variants.",
+                "Wallace SE, Regalado ES, Gong L, et al. MYLK pathogenic variants associate disease presentation, pregnancy risk, and characterization of pathogenic missense variants.",
+                "Wallace SE, Regalado ES, Gong L, et al. MYLK pathogenic variants aortic disease presentation, pregnancy risk, and characterization of pathogenic missense variants."
+            ]
+        },
+        {
+            "Gene": "TGFBR1",
+            "Associated Conditions": [
+                "Loeys-Dietz syndrome",
+                "HTAD",
+                "aortic aneurysm",
+                "aortic dissection",
+                "Aortic dissection",
+                "Loeys-Dietz Syndrome",
+                "Aortic disease"
+            ],
+            "Occurrences": 15,
+            "context": [
+                "Loeys-Dietz syndrome includes TAA, branch vessel aneurysms, aortic dissection, arterial tortuosity, MVP, craniosynostosis, hypertelorism, bluish sclera, bifid/ broad uvula, translucent skin, visible veins, club feet, dural ectasia, and premature osteoarthritis and peripheral neuropathy.",
+                "TGFBR1 implicated in HTAD families lacking syndromic features.",
+                "Pathogenic variants in Loeys-Dietz syndrome genes, in particular TGFBR1 and TGFBR2, may have earlier onset TAD.",
+                "Aortic dissection in Loeys-Dietz syndrome is linked to pathogenic variants in TGFBR1 and other genes.",
+                "TGFBR1 is mentioned in the context of surgical thresholds for prophylactic aortic root and ascending aortic replacement in Loeys-Dietz Syndrome. The aortic surgery may be recommended based on genetic variants like TGFBR1.",
+                "Patients with genetically triggered aortic diseases (eg, Loeys-Dietz syndrome) have an increased risk when presenting with complicated type B aortic dissection.",
+                "In patients with genetic aortopathies attributable to syndromic (Marfan syndrome, Loeys-Dietz syndrome, vascular Ehlers-Danlos syndrome) and nsHTAD and who are contemplating pregnancy, genetic counseling before pregnancy to discuss the heritable nature of their condition is recommended.",
+                "If Loeys-Dietz syndrome is attributable to variants in TGFBR1, TGFBR2, or SMAD3, surgery before pregnancy may be considered if the aortic diameter is \u22654.0 cm.",
+                "Loeys-Dietz syndrome (attributable to pathogenic variants in TGFBR1, TGFBR2, or SMAD3)",
+                "Aneurysm syndromes caused by mutations in the TGF-beta receptor. International Registry of Patients Carrying TGFBR1 or TGFBR2 Mutations: results of the MAC Consortium.",
+                "Occurrences of aortic disease or dissections possibly associated with TGFBR1 mutations."
+            ]
+        },
+        {
+            "Gene": "TGFBR2",
+            "Associated Conditions": [
+                "Loeys-Dietz syndrome",
+                "BAV with TAA",
+                "HTAD",
+                "TAA",
+                "aortic aneurysm",
+                "aortic dissection",
+                "Aortic dissection",
+                "Loeys-Dietz Syndrome",
+                "Thoracic aortic aneurysms",
+                "Mycotic events of Marfan syndrome",
+                "Dissections",
+                "Aortic disease"
+            ],
+            "Occurrences": 32,
+            "context": [
+                "Loeys-Dietz syndrome and BAV with TAA are associated with the gene TGFBR2.",
+                "TGFBR2 associated with risk for thoracic aortic aneurysm dissection, and related diseases.",
+                "All the Loeys-Dietz syndrome genes confer a risk for aortic involvement distal to the aortic root along with branch vessel and intracranial aneurysms, with TGFBR1 and TGFBR2 pathogenic variants.",
+                "Patients with TGFBR2 variants may have earlier aortic dissection than those with Marfan syndrome.",
+                "TGFBR2 is discussed in surgical guidelines for aortic surgery in Loeys-Dietz syndrome, considering the presence of high-risk features.",
+                "In patients with Loeys-Dietz syndrome attributable to pathogenic variants in TGFBR2 or TGFBR3, surgery before pregnancy is reasonable for aortic diameter of \u22654.5 cm.",
+                "Loeys-Dietz syndrome (attributable to pathogenic variants in TGFBR1, TGFBR2, or SMAD3)",
+                "TGFBR2 mutations cause familial thoracic aortic aneurysms and dissections associated with mild systemic features of Marfan syndrome.",
+                "TGFBR2 mutations cause familial thoracic aortic aneurysms and dissections associated with mitral valve disease. Loeys-Dietz syndrome caused by TGFBR2.",
+                "TGFBR2 gene mutations are associated with Loeys-Dietz syndrome, often resulting in aggressive aortic aneurysms needing surgical intervention.",
+                "Occurrences of aortic disease or dissections possibly associated with TGFBR2 mutations.",
+                "van de Linde D, van de Laar IM, et al. Phenotypic spectrum of TGFBR2 disease-causing variants in a Dutch-French cohort."
+            ]
+        },
+        {
+            "Gene": "SMAD3",
+            "Associated Conditions": [
+                "Loeys-Dietz syndrome",
+                "HTAD",
+                "osteoarthritis",
+                "aortic dissection",
+                "Aortic dissection",
+                "Loeys-Dietz Syndrome",
+                "Aortopathy",
+                "Familial Thoracic Aortic Aneurysms",
+                "Dissections",
+                "Aneurysms-osteoarthritis syndrome",
+                "Thoracic aortic disease",
+                "Osteoarthritis syndrome",
+                "Loyes-Dietz Syndrome"
+            ],
+            "Occurrences": 26,
+            "context": [
+                "Loeys-Dietz syndrome involves SMAD3 and includes TAA, branch vessel aneurysms, and premature osteoarthritis and peripheral neuropathy.",
+                "SMAD3 identified in HTAD families without syndromic features.",
+                "Pathogenic variants in SMAD3 are associated with premature osteoarthritis and later onset of TAD. Among patients with SMAD3-related disease, aneurysms from head to pelvis are also described.",
+                "SMAD3-related variant results in variable diameters leading to aortic dissection.",
+                "SMAD3 is referenced in relation to surgical thresholds for aortic replacement in Loeys-Dietz syndrome.",
+                "SMAD3 variants are associated with an increased prevalence of BAV.",
+                "Intact TAAA: In patients with Loeys-Dietz syndrome, open repair is recommended over endovascular repair.",
+                "Limited data are available on pregnancy and SMAD3, TGFB2, or TGF\u03b23 pathogenic variants.",
+                "If Loeys-Dietz syndrome is due to variants in TGFBR1, TGFBR2, or SMAD3, surgery before pregnancy may be considered if the aortic diameter is \u22654.0 cm.",
+                "Aortic dissection risk in those with variants in TGFRB1, TGFRB2, or SMAD3.",
+                "Loeys-Dietz syndrome (attributable to pathogenic variants in TGFBR1, TGFBR2, or SMAD3)",
+                "Regalado ES, Guo DC, Villamizar C, et al. Exome sequencing identifies SMAD3 mutations as a cause of familial thoracic aortic aneurysms and dissection with intracranial and other arterial aneurysms.",
+                "Aggressive cardiovascular phenotype of aneurysms-osteoarthritis syndrome caused by pathogenic SMAD3 variants. SMAD3 pathogenic variants: risks for thoracic aortic disease and associated complications from the National Aortic Consortium.",
+                "Exome sequencing identifies SMAD3 mutations as a cause of familial thoracic aortic aneurysm and dissection. SMAD3 pathogenic variants: risk for thoracic aortic disease and associated complications. Mutations in SMAD3 cause a syndromic form of aortic aneurysms and dissections with early-onset osteoarthritis.",
+                "MacCarrick G., Black JH 3rd, Bowdin S., et al. Loyes-Dietz syndrome: a primer for diagnosis and management.",
+                "Pilan RD, Jones GT, Milewicz DM. Genetics of thoracic aortic disease and dissection: SMAD3 pathogenic variants."
+            ]
+        },
+        {
+            "Gene": "COL3A1",
+            "Associated Conditions": [
+                "Vascular Ehlers-Danlos syndrome",
+                "Vascular Ehlers-Danlos Syndrome",
+                "vascular Ehlers-Danlos syndrome"
+            ],
+            "Occurrences": 5,
+            "context": [
+                "Vascular Ehlers-Danlos syndrome is associated with COL3A1 and features TAA, AAA, arterial rupture, aortic dissection, MVP, bowel and uterine rupture, pneumothorax, translucent skin, atrophic scars, small joint hypermobility, easy bruising, carotid-cavernous fistula.",
+                "COL3A1 is attributed to pathogenic variants leading to aortic and arterial dissections, aneurysms, and ruptures in vascular Ehlers-Danlos syndrome.",
+                "Intact TAAA: In patients with vascular Ehlers-Danlos syndrome, open repair is recommended over endovascular repair.",
+                "In patients with genetic aortopathies attributable to syndromic (Marfan syndrome, Loeys-Dietz syndrome, vascular Ehlers-Danlos syndrome) and nsHTAD and who are contemplating pregnancy, genetic counseling before pregnancy to discuss the heritable nature of their condition is recommended."
+            ]
+        },
+        {
+            "Gene": "SLC2A10",
+            "Associated Conditions": [
+                "Arterial tortuosity syndrome"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Arterial tortuosity syndrome, associated with SLC2A10, involves tortuous large and medium-sized arteries, aortic dilation, craniofacial, skin and skeletal features."
+            ]
+        },
+        {
+            "Gene": "SKI",
+            "Associated Conditions": [
+                "Shprintzen-Goldberg syndrome"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Shprintzen-Goldberg syndrome, associated with SKI, includes craniosynostosis, skeletal features, aortic dilation."
+            ]
+        },
+        {
+            "Gene": "MAT2A",
+            "Associated Conditions": [
+                "BAV with TAA"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "MAT2A is associated with BAV with TAA and presents in syndromic and nonsyndromic HTAD and FTAA with increased frequency of BAV."
+            ]
+        },
+        {
+            "Gene": "GATA5",
+            "Associated Conditions": [
+                "BAV with TAA"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "GATA5 is associated with BAV with TAA and presents in syndromic and nonsyndromic HTAD and FTAA with increased frequency of BAV."
+            ]
+        },
+        {
+            "Gene": "SMAD6",
+            "Associated Conditions": [
+                "BAV with TAA"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "SMAD6 is associated with BAV with TAA and presents in syndromic and nonsyndromic HTAD and FTAA with increased frequency of BAV."
+            ]
+        },
+        {
+            "Gene": "ROBO4",
+            "Associated Conditions": [
+                "BAV with TAA"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "ROBO4 is associated with BAV with TAA and presents in syndromic and nonsyndromic HTAD and FTAA with increased frequency of BAV."
+            ]
+        },
+        {
+            "Gene": "TBX20",
+            "Associated Conditions": [
+                "BAV with TAA"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "TBX20 is associated with BAV with TAA and presents in syndromic and nonsyndromic HTAD and FTAA with increased frequency of BAV."
+            ]
+        },
+        {
+            "Gene": "TGFB2",
+            "Associated Conditions": [
+                "HTAD",
+                "TAA",
+                "vascular diseases",
+                "Loeys-Dietz syndrome",
+                "Aortic disease",
+                "Vascular Ehlers-Danlos syndrome",
+                "HTAD (Heritable Thoracic Aortic Disease)",
+                "Aortopathy",
+                "Aortic aneurysms and dissections"
+            ],
+            "Occurrences": 15,
+            "context": [
+                "TGFB2 mutation predisposes to multiple aneurysms and dissections.",
+                "There is much less information about the aortic and branch vessel disease in patients with variants in TGFB2 and TGFB3.",
+                "In limited data, TGFB2 variants indicate less aggressive phenotype.",
+                "Marfan, Loeys-Dietz, or vascular Ehlers-Danlos syndrome, or HTAD (see Section 6.1.2, 'Genetic Aortopathies')",
+                "In women with TGFRB1 or TGFRB2 pathogenic variants, aortic dissection was reported in 0% to 19% of pregnancies. Aortic growth in pregnancy is reported in Loeys-Dietz syndrome.",
+                "Homozygous loss-of-function mutations in TGFB2 with cardiovascular phenotypes and connective tissue disorders. Pathogenic SMAD3 variants known to cause aortic aneurysm, Loeys-Dietz syndrome, and early-onset osteoarthritis syndrome."
+            ]
+        },
+        {
+            "Gene": "TGFB3",
+            "Associated Conditions": [
+                "Loeys-Dietz syndrome",
+                "Aortic disease"
+            ],
+            "Occurrences": 5,
+            "context": [
+                "There is much less information about the aortic and branch vessel disease in patients with variants in TGFB2 and TGFB3.",
+                "TGFB3 variants are mentioned in the context of aortic dissection risk."
+            ]
+        },
+        {
+            "Gene": "NOTCH1",
+            "Associated Conditions": [
+                "HTAD"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "HTAD attributable to pathogenic variants in NOTCH1 shows an increased prevalence of BAV."
+            ]
+        },
+        {
+            "Gene": "TGFBR3",
+            "Associated Conditions": [
+                "Loeys-Dietz syndrome"
+            ],
+            "Occurrences": 2,
+            "context": [
+                "In patients with Loeys-Dietz syndrome with variants in TGFBR2 or TGFBR3, surgery before pregnancy is reasonable for aortic diameter of \u22654.5 cm.",
+                "Loeys-Dietz syndrome (attributable to pathogenic variants in TGFBR2 or TGFBR3)"
+            ]
+        },
+        {
+            "Gene": "IL6R",
+            "Associated Conditions": [
+                "Giant cell arteritis"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "An interleukin-6 receptor inhibitor, was superior to either a 26-week or 52-week prednisone taper plus placebo in reducing the primary outcome of glucocorticoid-free disease remission at 1 year."
+            ]
+        },
+        {
+            "Gene": "ACVRL1",
+            "Associated Conditions": [
+                "HHT"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Bovine aortic arch - a marker for thoracic aortic disease."
+            ]
+        }
+    ],
+    "2018 AHA/ACC Guideline for the Management of Adults With Congenital Heart Disease": [
+        {
+            "Gene": "TBX5",
+            "Associated Conditions": [
+                "Holt-Oram syndrome"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Upper limb skeletal abnormalities 75% have CHD."
+            ]
+        },
+        {
+            "Gene": "PTPN11",
+            "Associated Conditions": [
+                "Noonan syndrome"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Facial anomalies, webbed neck, chest deformity, short stature, lymphatic abnormalities, bleeding abnormalities. 80% have CHD."
+            ]
+        },
+        {
+            "Gene": "KRAS",
+            "Associated Conditions": [
+                "Noonan syndrome"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Facial anomalies, webbed neck, chest deformity, short stature, lymphatic abnormalities, bleeding abnormalities. 80% have CHD."
+            ]
+        },
+        {
+            "Gene": "SOS1",
+            "Associated Conditions": [
+                "Noonan syndrome"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Facial anomalies, webbed neck, chest deformity, short stature, lymphatic abnormalities, bleeding abnormalities. 80% have CHD."
+            ]
+        },
+        {
+            "Gene": "RAF1",
+            "Associated Conditions": [
+                "Noonan syndrome"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Facial anomalies, webbed neck, chest deformity, short stature, lymphatic abnormalities, bleeding abnormalities. 80% have CHD."
+            ]
+        },
+        {
+            "Gene": "NRAS",
+            "Associated Conditions": [
+                "Noonan syndrome"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Facial anomalies, webbed neck, chest deformity, short stature, lymphatic abnormalities, bleeding abnormalities. 80% have CHD."
+            ]
+        },
+        {
+            "Gene": "BRAF",
+            "Associated Conditions": [
+                "Noonan syndrome"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Facial anomalies, webbed neck, chest deformity, short stature, lymphatic abnormalities, bleeding abnormalities. 80% have CHD."
+            ]
+        },
+        {
+            "Gene": "MAP2K1",
+            "Associated Conditions": [
+                "Noonan syndrome"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Facial anomalies, webbed neck, chest deformity, short stature, lymphatic abnormalities, bleeding abnormalities. 80% have CHD."
+            ]
+        },
+        {
+            "Gene": "ELN",
+            "Associated Conditions": [
+                "Williams syndrome"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Aortic imaging is recommended in adults with Williams syndrome, a condition associated with mutations in the ELN gene."
+            ]
+        },
+        {
+            "Gene": "APOE2",
+            "Associated Conditions": [
+                "Neurodevelopmental dysfunction after cardiac surgery"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Validation of association of the apolipoprotein E2 allele with neurodevelopmental dysfunction after cardiac surgery in neonates and infants."
+            ]
+        },
+        {
+            "Gene": "FBN1",
+            "Associated Conditions": [
+                "Marfan syndrome"
+            ],
+            "Occurrences": 1,
+            "context": [
+                ""
+            ]
+        },
+        {
+            "Gene": "ACTA2",
+            "Associated Conditions": [
+                "Aortic dissection",
+                "Aortic Aneurysm"
+            ],
+            "Occurrences": 2,
+            "context": [
+                "Aortic dissection associated with mutations in ACTA2 gene.",
+                "Abbott ME discusses statistical and historical perspectives of coarctation of the aorta. Bicuspid aortic valve and familial thoracic aortic aneurysm pathology mentions involvement of ACTA2."
+            ]
+        },
+        {
+            "Gene": "BMPR2",
+            "Associated Conditions": [
+                "pulmonary hypertension"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "BMPR2 mutations associated with complex congenital heart disease."
+            ]
+        }
+    ],
+    "2017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients With Syncope": [
+        {
+            "Gene": "RYR2",
+            "Associated Conditions": [
+                "Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)",
+                "Catecholaminergic polymorphic ventricular tachycardia",
+                "Sudden cardiac death"
+            ],
+            "Occurrences": 4,
+            "context": [
+                "Mutation in the gene encoding the cardiac ryanodine receptor (RyR2) (autosomal dominant) or in the cardiac calsequestrin gene (CASQ2) (autosomal recessive) is linked to CPVT.",
+                "Mutations in the cardiac ryanodine receptor gene (RYR2) underlie catecholaminergic polymorphic ventricular tachycardia. Studies have shown that these mutations can lead to arrhythmic risk during physical activity."
+            ]
+        },
+        {
+            "Gene": "CASQ2",
+            "Associated Conditions": [
+                "Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)",
+                "Catecholaminergic polymorphic ventricular tachycardia"
+            ],
+            "Occurrences": 3,
+            "context": [
+                "Mutation in the gene encoding the cardiac ryanodine receptor (RyR2) (autosomal dominant) or in the cardiac calsequestrin gene (CASQ2) (autosomal recessive) is linked to CPVT.",
+                "A missense mutation in a highly conserved region of CASQ2 is associated with autosomal recessive catecholamine-induced polymorphic ventricular tachycardia. This genetic change influences calcium handling in cardiac cells."
+            ]
+        },
+        {
+            "Gene": "DMPK",
+            "Associated Conditions": [
+                "Myotonic dystrophy"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Autosomal dominant inheritance with multiple organ systems affected. Grip myotonia, weakness, temporal wasting, alopecia, cataracts, glucose intolerance, and daytime somnolence."
+            ]
+        },
+        {
+            "Gene": "FXN",
+            "Associated Conditions": [
+                "Friedreich ataxia"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Autosomal recessive inheritance with limb and gait ataxia, bladder dysfunction, and daytime somnolence. Diffuse interstitial fibrosis and HCM."
+            ]
+        },
+        {
+            "Gene": "MT-TL1",
+            "Associated Conditions": [
+                "Kearns-Sayre Syndrome"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Mitochondrial myopathy. Chronic progressive external ophthalmoplegia, pigmentary retinopathy."
+            ]
+        },
+        {
+            "Gene": "LMNA",
+            "Associated Conditions": [
+                "Erb dystrophy"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Limb girdle muscular dystrophy, manifesting as scapulohumeral and/or pelvicfemoral weakness and atrophy."
+            ]
+        },
+        {
+            "Gene": "SCN5A",
+            "Associated Conditions": [
+                "Brugada syndrome",
+                "Long QT syndrome"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Mutations in SCN5A gene can lead to Brugada syndrome and Long QT syndrome, which are associated with syncope and sudden cardiac death."
+            ]
+        },
+        {
+            "Gene": "SMYD1",
+            "Associated Conditions": [
+                "Syncope",
+                "extracardiac contributor to syncope"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "599. Monforte I, Maher R, Grieve SM, et al. Smyd1: a rare extracardiac contributor to syncope detected incidentally by CMR. Int J Cardiol. 2011;150: e62-4."
+            ]
+        }
+    ],
+    "2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death": [
+        {
+            "Gene": "TSC1",
+            "Associated Conditions": [
+                "Fabry's disease"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Genotyping can have therapeutic implications for some arrhythmogenic phenotypes such as long QT syndrome and Fabry's disease."
+            ]
+        },
+        {
+            "Gene": "SCN5A",
+            "Associated Conditions": [
+                "Brugada syndrome",
+                "Long QT syndrome",
+                "Ventricular arrhythmias",
+                "Ventricular Tachycardia",
+                "Sudden Cardiac Death",
+                "Arrhythmogenic Right Ventricular Cardiomyopathy",
+                "long QT syndrome",
+                "sudden cardiac death",
+                "Exertion-related sudden unexplained death",
+                "inherited arrhythmias"
+            ],
+            "Occurrences": 17,
+            "context": [
+                "In Brugada syndrome, the role of a clear monogenic disease-causing mutation is less certain, and the genotype does not provide therapeutic or prognostic information for the proband.",
+                "SCN5A variants account for most of the subset genetic type positive Brugada syndrome. Testing identifies SCN5A variants in about 20-30% of Brugada syndrome cases.",
+                "Variations in this gene are a known genetic cause for Brugada syndrome and used for genetic testing purposes.",
+                "Priori SG, Napolitano C, Schwartz PJ, et al. Association of long QT syndrome loci and cardiac events among patients treated with beta-blockers. JAMA. 2004;292:1341\u20134.",
+                "SCN5A mutations are often involved in cases of malignant ventricular arrhythmias and sudden cardiac death.",
+                "Mentioned in the context of genetic mutations that affect heart rhythm conditions, particularly related to arrhythmias.",
+                "S7.9.3: Wilde AA, Moss AJ, Kaufman ES, et al. Clinical aspects of type 3 long-QT syndrome for arrhythmic risk assessment: the LQT3 syndrome is caused by mutations in the SCN5A gene. Circulation. 2016;134:872-82.",
+                "SCN5A mutations in the study identified Brugada syndrome cases.",
+                "KCNQ1, KCNH2, KCNJ2, SCN5A, and NOS1AP in water-related deaths in Israel.",
+                "S10.7.26: Tadros R, Thanassoulis G, Ionic G, et al. Brugada syndrome mimicked by tricyclic antidepressants overdose.",
+                "Genetic testing for inherited cardiac disease. Molecular autopsy to identify mutations such as SCN5A in cases of sudden unexplained death."
+            ]
+        },
+        {
+            "Gene": "CACNA1C",
+            "Associated Conditions": [
+                "Long QT syndrome"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "An electrophysiological study is not recommended for risk stratification for VA in the setting of long QT syndrome, catecholaminergic polymorphic ventricular tachycardia, short QT syndrome, or early repolarization syndromes."
+            ]
+        },
+        {
+            "Gene": "LMNA",
+            "Associated Conditions": [
+                "conduction disease",
+                "arrhythmias",
+                "SCD",
+                "NICM",
+                "Emery-Dreifuss muscular dystrophy",
+                "Limb-girdle muscular dystrophy",
+                "Cardiac conduction disorders",
+                "Cardiac Arrhythmias",
+                "Dilated Cardiomyopathy",
+                "dilated cardiomyopathy",
+                "conduction disorders"
+            ],
+            "Occurrences": 11,
+            "context": [
+                "Lamin A/C and NKX 2.5 mutations are associated with a high risk of early conduction disease, arrhythmias, and SCD.",
+                "NICM due to LMNA mutation and 2\u00b0 risk factors",
+                "In patients with Emery-Dreifuss and limb-girdle type 1B muscular dystrophies associated with Lamin A/C mutations, SCD accounts for about one third of all deaths. Observational studies show a significant rate of appropriate ICD therapy in patients with cardiac conduction disorders who are gene positive for Lamin A/C mutation even if LV function is preserved.",
+                "7.2.7 includes studies focusing on lamin A/C mutation carriers with data on conduction disorders and cardiomyopathy outcomes. The cardiac profiles of carriers of LMNA mutations and their significance in arrhythmias are noted.",
+                "Anselme F, Moubarak G, et al. Cardiac devices in patients with LMNA mutations suffering from conduction disorders."
+            ]
+        },
+        {
+            "Gene": "NKX2-5",
+            "Associated Conditions": [
+                "conduction disease",
+                "arrhythmias",
+                "SCD",
+                "increased risk of SCD",
+                "conductive heart defects"
+            ],
+            "Occurrences": 2,
+            "context": [
+                "Lamin A/C and NKX 2.5 mutations are associated with a high risk of early conduction disease, arrhythmias, and SCD.",
+                "Patients with septal defects and a positive family history of septal defects, cardiomyopathy, or bundle-branch block/conduction defects may have the gene mutation NKX2-5, which portends an increased risk of early SCD; genetic testing and early consideration of ICD implantation if positive is warranted."
+            ]
+        },
+        {
+            "Gene": "EMD",
+            "Associated Conditions": [
+                "Emery-Dreifuss muscular dystrophy"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "There is a paucity of data regarding the rare form of X-linked recessive Emery-Dreifuss muscular dystrophy, related to the Emerin gene mutation, but arrhythmias may be less frequent than for the Lamin A/C mutations."
+            ]
+        },
+        {
+            "Gene": "RYR2",
+            "Associated Conditions": [
+                "Catecholaminergic polymorphic ventricular tachycardia",
+                "Ventricular Arrhythmias",
+                "Arrhythmias",
+                "arrhythmogenic right ventricular cardiomyopathy",
+                "catecholaminergic polymorphic ventricular tachycardia",
+                "arrhythmogenic right ventricular dysplasia/cardiomyopathy",
+                "Catecholaminergic Polymorphic Ventricular Tachycardia"
+            ],
+            "Occurrences": 11,
+            "context": [
+                "RyR2 mutations have been reported in 47% of probands, which were de novo mutations in ~70%. RyR2 genotype status has not correlated with disease severity or response to medications.",
+                "A pathogenic role for Ca(2+) handling abnormalities in the intact RYR2 receptor in ventricular arrhythmias.",
+                "Also included in the context of genetic information dissemination for arrhythmias.",
+                "Groenveld JH, Bhonsale A, et al. Clinical presentation, long-term follow-up, and outcomes in arrhythmogenic right ventricular cardiomyopathy with RYR2 mutations.",
+                "S7.3-27. Bhonsale A, James CA, Tichnell C, et al. Risk stratification in arrhythmogenic right ventricular dysplasia/cardiomyopathy-associated desmosomal mutation carriers. Cir Arrhythm Electrophysiol. 2013;6:569-78.",
+                "The RYR2 gene is associated with catecholaminergic polymorphic ventricular tachycardia, affecting calcium release and heart rhythm.",
+                "Calcium channel mutations in calmodulin cause ventricular tachycardia and sudden cardiac death.",
+                "R. focusses on genetic testing in the evaluation of familial arrhythmia syndromes, particularly discussing the role of the RYR2 gene in catecholaminergic polymorphic ventricular tachycardia."
+            ]
+        },
+        {
+            "Gene": "KCNH2",
+            "Associated Conditions": [
+                "Short QT Syndrome",
+                "Arrhythmias",
+                "Long QT syndrome",
+                "Exertion-related sudden unexplained death",
+                "Drug-induced QT prolongation",
+                "Torsade de pointes"
+            ],
+            "Occurrences": 6,
+            "context": [
+                "Pathogenic mutations in potassium channels have been identified in approximately 10% to 20% of patients with short QT syndrome including in KCNH2 (SQTI).",
+                "Similar to KCNQ1, this gene is discussed concerning genetic information access regarding arrhythmias.",
+                "Sanger A Jr, Dick M, Fournier A, et al. The long QT syndrome in children. An international study of 287 patients. Circulation. 1995;93:1866\u201372.",
+                "Mutations to KCNH2 can predispose individuals to long QT syndrome, affecting the heart rhythm.",
+                "KCNQ1, KCNH2, KCNJ2, SCN5A, and NOS1AP in water-related deaths in Israel.",
+                "S10.7.16: K\u00e4\u00e4b S, Crawford DC, Sinner MF, et al. A large candidate gene survey identifies the KCNH2 D85N polymorphism as a possible modulator of drug-induced torsades de pointes."
+            ]
+        },
+        {
+            "Gene": "KCNQ1",
+            "Associated Conditions": [
+                "Short QT Syndrome",
+                "Arrhythmias",
+                "Long QT syndrome",
+                "Catecholaminergic polymorphic ventricular tachycardia (CPVT)",
+                "Exertion-related sudden unexplained death",
+                "Congenital Long QT Syndrome"
+            ],
+            "Occurrences": 7,
+            "context": [
+                "Pathogenic mutations in potassium channels have been identified in approximately 10% to 20% of patients with short QT syndrome including in ... KCNQ1 (SQT2).",
+                "The gene is mentioned in relation to genetic information accessibility as a choice for consumer access and medical guidance.",
+                "Mutations in KCNQ1 are involved in long QT syndrome and CPVT. The gene affects cardiac ion channels and predisposes to arrhythmias.",
+                "Analysis of KCNQ1 gene in relation to cardiac arrhythmias.",
+                "KCNQ1, KCNH2, KCNJ2, SCN5A, and NOS1AP in water-related deaths in Israel.",
+                "S10.2-8. Heradien M, Goosen A, Crotti L, et al. Does pregnancy increase cardiac risk for LQT1 patients with the KCNQ1-A341V mutation?"
+            ]
+        },
+        {
+            "Gene": "KCNJ2",
+            "Associated Conditions": [
+                "Short QT Syndrome",
+                "Exertion-related sudden unexplained death"
+            ],
+            "Occurrences": 2,
+            "context": [
+                "Pathogenic mutations in potassium channels have been identified in approximately 10% to 20% of patients with short QT syndrome including in ... KCNJ2 (SQT3).",
+                "KCNQ1, KCNH2, KCNJ2, SCN5A, and NOS1AP in water-related deaths in Israel."
+            ]
+        },
+        {
+            "Gene": "NKX2.5",
+            "Associated Conditions": [
+                "VSD",
+                "Pulmonary hypertension"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "VSD: 3%-18% <3% RV dilatation Pulmonary hypertension NKX2.5 gene"
+            ]
+        },
+        {
+            "Gene": "PKP2",
+            "Associated Conditions": [
+                "arrhythmogenic right ventricular dysplasia/cardiomyopathy"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "S7.3-38. te Riele AS, James CA, Philips B, et al. Mutation-positive arrhythmogenic right ventricular dysplasia/cardiomyopathy: the triangle of dysplasia displaced. J Cardiovasc Electrophysiol. 2013;24:1311-20."
+            ]
+        },
+        {
+            "Gene": "DSP",
+            "Associated Conditions": [
+                "arrhythmogenic right ventricular dysplasia/cardiomyopathy"
+            ],
+            "Occurrences": 1,
+            "context": [
+                ""
+            ]
+        },
+        {
+            "Gene": "DSG2",
+            "Associated Conditions": [
+                "arrhythmogenic right ventricular dysplasia/cardiomyopathy"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "S7.3-45. McKenna WJ, Judge DP. Epidemiology of the inherited cardiomyopathies. Nat Rev Cardiol. 2009;6:548-57."
+            ]
+        },
+        {
+            "Gene": "MYBPC3",
+            "Associated Conditions": [
+                "Hypertrophic cardiomyopathy"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Impact of genetic mutations such as MYBPC3 in hypertrophic cardiomyopathy; implications for genetic testing and counseling. J Med Genet. 2005;42:e59."
+            ]
+        },
+        {
+            "Gene": "TNNT2",
+            "Associated Conditions": [
+                "Hypertrophic cardiomyopathy",
+                "hypertrophic cardiomyopathy"
+            ],
+            "Occurrences": 2,
+            "context": [
+                "Impact of genetic mutations such as TNNT2 in hypertrophic cardiomyopathy; implications for genetic testing and counseling. J Med Genet. 2005;42:e59.",
+                "S7.4-4. Maron MS, Finley JJ, Bos JM, et al. Prevalence, clinical significance, and natural history of left ventricular apical aneurysms in hypertrophic cardiomyopathy. Circulation. 2008;118:1541-9."
+            ]
+        },
+        {
+            "Gene": "MRF1",
+            "Associated Conditions": [
+                "Heart failure",
+                "Sudden cardiac arrest"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "S7.4.3-1. Operamu M, Waqa C, Singh V, et al. Wearable cardioverter defibrillator as a bridge to cardiac transplantation: a national database analysis. J Heart Lung Transplant. 2015;34:3059-9."
+            ]
+        },
+        {
+            "Gene": "ACE",
+            "Associated Conditions": [
+                "Heart failure",
+                "Myocardial infarction"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "S7.2.1-15. Gloschet M, Koeppel AC, Aras KK, et al. Arrhythmogenic and metabolic remodeling of failing human heart. J Physiol. 2016;594:3963-80."
+            ]
+        },
+        {
+            "Gene": "ADR1",
+            "Associated Conditions": [
+                "Heart failure"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "S7.3.2-4. Desai AS, McMurray JJ, Packer M, et al. Effects of spironolactone on heart failure with preserved ejection fraction...."
+            ]
+        },
+        {
+            "Gene": "CALM1",
+            "Associated Conditions": [
+                "familial ventricular fibrillation",
+                "idiopathic ventricular fibrillation"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "A mutation in CALM1 encoding calmodulin in familial idiopathic ventricular fibrillation in childhood and adolescence."
+            ]
+        },
+        {
+            "Gene": "NOS1AP",
+            "Associated Conditions": [
+                "Exertion-related sudden unexplained death"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "KCNQ1, KCNH2, KCNJ2, SCN5A, and NOS1AP in water-related deaths in Israel."
+            ]
+        }
+    ],
+    "2024 ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/SIR/VESS Guideline for the Management of Lower Extremity Peripheral Artery Disease": [
+        {
+            "Gene": "PCSK9",
+            "Associated Conditions": [
+                "Peripheral Artery Disease (PAD)",
+                "Peripheral arterial disease (PAD)",
+                "Hypercholesterolemia",
+                "Peripheral artery disease"
+            ],
+            "Occurrences": 6,
+            "context": [
+                "In patients with PAD who are on maximally tolerated statin therapy and have an LDL-C level of \u226570 mg/dL, it is reasonable to add PCSK9 inhibitor therapy. In a subgroup analysis of studies evaluating PCSK9 inhibitors, use of alirocumab and evolocumab in patients with PAD were associated with lower rates of MACE and MALE compared with placebo.",
+                "This recommendation for the use of PCSK9 inhibitors in patients with PAD who have not achieved an LDL target of <70 mg/dL aligns with the 2018 AHA/ACC cholesterol guideline recommendation for patients with clinical atherosclerotic CVD.",
+                "Alirocumab in patients with polyvascular disease and recent acute coronary syndrome: ODYSSEY OUTCOMES trial and effectiveness in evolving lipid profiles."
+            ]
+        },
+        {
+            "Gene": "LDLR",
+            "Associated Conditions": [
+                "Familial hypercholesterolemia",
+                "Peripheral artery disease"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Variability of low-density lipoprotein cholesterol response with different doses of atorvastatin, rosuvastatin, and simvastatin: results from VOYAGER (earlier trial mentioning LDL receptor gene involvement)."
+            ]
+        },
+        {
+            "Gene": "SERPINA1",
+            "Associated Conditions": [
+                "Peripheral Artery Disease"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Ramos P, Mingos ED, Alonso A, et al. Serum 25-hydroxyvitamin D is associated with incident peripheral artery disease and oxidative stress and black adults in the ARIC study cohort. Atherosclerosis. 2017;257:123-129."
+            ]
+        },
+        {
+            "Gene": "HFE",
+            "Associated Conditions": [
+                "Peripheral Artery Disease"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Mazidi M, Wong ND, Katsiki N, et al. Dietary patterns and vitamins and trans fatty acids are associated with peripheral artery disease. Lipids Health Dis 2017;16:254."
+            ]
+        },
+        {
+            "Gene": "ACTA2",
+            "Associated Conditions": [
+                "Smooth muscle function"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Recommendation of ACTA2 in evaluations related to atherosclerotic disease."
+            ]
+        }
+    ],
+    "2018 ACC/AHA/HRS Guideline on the Evaluation and Management of Patients With Bradycardia and Cardiac Conduction Delay": [
+        {
+            "Gene": "SCN5A",
+            "Associated Conditions": [
+                "Inherited conduction disease",
+                "Progressive conduction disease",
+                "Genetic cause of atrioventricular block",
+                "Inherited arrhythmia",
+                "Bradycardia or conduction disorder",
+                "Brugada syndrome",
+                "Cardiac conduction disease",
+                "Arrhythmias",
+                "Brugada Syndrome",
+                "Progressive Cardiac Conduction Defect"
+            ],
+            "Occurrences": 6,
+            "context": [
+                "The SCN5A gene, encoding the cardiac sodium channel alpha subunit, is the most common identifiable gene responsible for inherited conduction disease.",
+                "Genetic (e.g., SCN5A mutations)",
+                "SCN5A is mentioned in the context of genetic testing in patients with suspected bradycardia or conduction disorders, particularly in cases of inherited arrhythmia.",
+                "S4.3.5: Toded S, Suzuki K, Tsuchida K, et al. Exercise induced atrioventricular block with gap phenomenon in a patient with Brugada syndrome.",
+                "SCN5A mutations are implicated in cardiac conduction disease and arrhythmias.",
+                "SCN5A gene mutations have been associated with various forms of conduction disorders including Brugada syndrome and progressive cardiac conduction defect."
+            ]
+        },
+        {
+            "Gene": "HCN4",
+            "Associated Conditions": [
+                "Cardiac pacemaker dysfunction"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Mutations in the cardiac pacemaker channel gene HCN4 have been identified."
+            ]
+        },
+        {
+            "Gene": "LMNA",
+            "Associated Conditions": [
+                "Neuromuscular disease",
+                "dilated cardiomyopathy",
+                "limb girdle muscular dystrophy",
+                "autosomal dominant variant of Emery-Dreifuss",
+                "atrial arrhythmias",
+                "ventricular arrhythmias",
+                "atrioventricular block",
+                "Neuromuscular disorders",
+                "lamin A/C cardiomyopathy",
+                "Atrioventricular block",
+                "Dilated cardiomyopathy",
+                "Conduction disease",
+                "Arrhythmias"
+            ],
+            "Occurrences": 10,
+            "context": [
+                "Lamin A/C (LMNA) neuromuscular disease is assessed for permanent pacing decisions in patients with marked first-degree AV block and Mobitz Type I block.",
+                "Patients with mutations in the lamin A/C gene can present with atrioventricular block, atrial arrhythmias, and ventricular arrhythmias. Lamin A/C genetic defects have been linked to dilated cardiomyopathy, limb girdle muscular dystrophy, and an autosomal dominant variant of Emery-Dreifuss.",
+                "other types of less common neuromuscular disorders (without lamin A/C involvement) is limited to case reports.",
+                "For example, patients with symptomatic bradycardia caused by atrioventricular block who also have heart failure symptoms and an LVEF of \u226435%, myotonic dystrophy, lamin A/C cardiomyopathy, cardiac sarcoidosis, or hypertrophic cardiomyopathy are at ICD therapy risk.",
+                "Reports of cardiac conditions associated with LMNA mutations include familial dilated cardiomyopathy, arrhythmias, conduction disease, and atrioventricular block."
+            ]
+        },
+        {
+            "Gene": "MYH6",
+            "Associated Conditions": [
+                "risk of sick sinus syndrome"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Holm H, Gudbjartsson DF, Sulem P, et al. A rare variant in MYH6 is associated with high risk of sick sinus syndrome. Nat Genet. 2011;43:316-20."
+            ]
+        }
+    ],
+    "2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk": [
+        {
+            "Gene": "ApoB",
+            "Associated Conditions": [
+                "ASCVD",
+                "CVD"
+            ],
+            "Occurrences": 2,
+            "context": [
+                "ApoB was more strongly related to risk of ASCVD than other non\u2013HDL-C or LDL-C in a substitution model that also included HDL-C. The article provides evidence of rough equivalence of associations of CVD with non-HDL-C and ApoB after multivariable adjustment."
+            ]
+        }
+    ],
+    "2012 ACCF/AHA/HRS Focused Update Incorporated Into the ACCF/AHA/HRS 2008 Guidelines for Device-Based Therapy of Cardiac Rhythm Abnormalities": [
+        {
+            "Gene": "ACTA2",
+            "Associated Conditions": [],
+            "Occurrences": 1,
+            "context": [
+                ""
+            ]
+        },
+        {
+            "Gene": "SCN5A",
+            "Associated Conditions": [
+                "Brugada syndrome",
+                "Bradycardia",
+                "Sudden cardiac arrest",
+                "Long QT Syndrome",
+                "Sudden Cardiac Death",
+                "long QT syndrome"
+            ],
+            "Occurrences": 6,
+            "context": [
+                "The genetic basis for the Brugada syndrome involves the cardiac sodium channel gene (SCN5A).",
+                "ICD implantation is reasonable for patients with Brugada syndrome who have documented VT that has not resulted in cardiac arrest.",
+                "Bernstein AD, Parsonnet V. Survey of cardiac pacing and defibrillation in the United States in 1993. Am J Cardiol. 1996;78:187\u201396. A Review of Pacemaker and ICD Implantation Practice in 2004 and 2005. Coronary Heart Disease, Chapter 8: Arrhythmias and Sudden Cardiac Death.",
+                "Brugada R, Hong K, Dumaine R, et al. Sudden death associated with short-QT syndrome linked to mutations in HERG. Circulation. 2004;90:1309-10-5.\nWhile SCN5A is not mentioned directly, the context and related studies involve genetic mutations linked to sudden cardiac death, including SCN5A mutations related to Long QT Syndrome.",
+                "Moss AJ, Robinson JL, Gessman L, et al. Comparison of clinical and genetic variables of cardiac events associated with loud noise versus swimming among subjects with the long QT syndrome. JAMA. 1996;276:634\u2013641.",
+                "Priori SG, Napolitano C, Schwartz PJ, et al. A novel form of short QT syndrome (SQTS) is caused by a mutation in the ICN5A gene. Circ Res. 2005;96:800\u20137."
+            ]
+        },
+        {
+            "Gene": "DMPK",
+            "Associated Conditions": [
+                "Myotonic dystrophy"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Stevenson WG, Perloff JK, Weiss JN, Anderson TL. Fascicupisular involvement in myotonic muscular dystrophy (Steinert's disease): a prospective study of 25 patients."
+            ]
+        },
+        {
+            "Gene": "MYH7",
+            "Associated Conditions": [
+                "Hypertrophic Cardiomyopathy"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Marian AJ, Mares A Jr, Kelly DP, et al. Sudden cardiac death in hypertrophic cardiomyopathy. Variability in phenotypic expression of beta-myosin heavy chain mutations. Eur Heart J. 1995;16:368\u2013376."
+            ]
+        },
+        {
+            "Gene": "RYR2",
+            "Associated Conditions": [
+                "catecholaminergic polymorphic ventricular tachycardia"
+            ],
+            "Occurrences": 2,
+            "context": [
+                "Lahat H, Pras E, Eldar M. RYR2 and CASQ2 mutations in patients suffering from catecholaminergic polymorphic ventricular tachycardia. Circulation. 2001;103:e79. Laitinen PJ, Brown KM, Piippo K, et al. Mutations of the cardiac ryanodine receptor (RyR2) gene in familial polymorphic ventricular tachycardia."
+            ]
+        }
+    ],
+    "2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain": [
+        {
+            "Gene": "FBN1",
+            "Associated Conditions": [
+                "Marfan syndrome",
+                "Aortic dissection"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Aortic dissection may be related to connective tissue disorders such as Marfan syndrome."
+            ]
+        },
+        {
+            "Gene": "TNNT2",
+            "Associated Conditions": [
+                "myocardial infarction"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Undetectable high-sensitivity cardiac troponin T level in the emergency department and risk of myocardial infarction."
+            ]
+        },
+        {
+            "Gene": "TNNI3",
+            "Associated Conditions": [
+                "myocardial infarction"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "High-sensitivity cardiac troponin concentrations below the limit of detection to exclude acute myocardial infarction."
+            ]
+        },
+        {
+            "Gene": "ACTC1",
+            "Associated Conditions": [
+                "myocardial infarction"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Universal definition of myocardial infarction."
+            ]
+        },
+        {
+            "Gene": "MPO",
+            "Associated Conditions": [
+                "acute coronary syndrome"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "The guideline mentions studies evaluating the diagnostic utility of various biomarkers, including MPO, in acute coronary syndrome."
+            ]
+        }
+    ],
+    "2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/ APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol": [
+        {
+            "Gene": "PCSK9",
+            "Associated Conditions": [
+                "Atherosclerotic Cardiovascular Disease",
+                "Hypercholesterolemia",
+                "ASCVD",
+                "High LDL-C",
+                "High LDL-C Levels",
+                "Familial Hypercholesterolemia (FH)",
+                "Cardiovascular events",
+                "Familial Hypercholesterolemia",
+                "Atherosclerotic Cardiovascular Disease (ASCVD)",
+                "Hyperlipidemia",
+                "hypercholesterolemia",
+                "atherosclerotic cardiovascular disease"
+            ],
+            "Occurrences": 34,
+            "context": [
+                "The text discusses the consideration of adding a PCSK9 inhibitor in patients with very high-risk ASCVD whose LDL-C level remains \u226570 mg/dL on maximally tolerated statin and ezetimibe therapy. It is also considered for patients with severe primary hypercholesterolemia if the patient's LDL-C level on statin plus ezetimibe remains \u2265100 mg/dL, especially if the patient has multiple factors that increase subsequent ASCVD risk events.",
+                "PCSK9 inhibitors may be useful in combination with statin therapy. In patients with ASCVD who are judged to be very high risk, PCSK9 inhibitors can be added to a maximally tolerated statin regimen.",
+                "If PCSK9-I is considered, add ezetimibe to maximal statin before adding PCSK9-I (Class I). If on clinically judged maximal LDL-C lowering therapy and LDL-C \u226570 mg/dL (\u22651.8 mmol/L), or non-HDL-C \u2265100 mg/dL (\u22652.6 mmol/L), adding PCSK9-I is reasonable (Class IIa).",
+                "PCSK9 inhibitors (evolocumab and alirocumab) are recommended for high-risk patients to lower LDL-C levels. Studies such as FOURIER and ODYSSEY have shown efficacy in reducing ASCVD events.",
+                "PCSK9 inhibitors are recommended in patients with very high risk and LDL-C \u226570 mg/dL on maximally tolerated statin therapy; the recommendation is based on evidence (LOE of A).",
+                "PCSK9 inhibitors are promising drugs for treatment of FH. ",
+                "Much greater additive reductions occur by adding a PCSK9 inhibitor to statin plus ezetimibe.",
+                "PCSK9 inhibitors further reduce LDL-C when combined with other LDL-lowering drugs. The guidelines highlight the cost-effectiveness and the economic value of PCSK9 inhibitors for secondary prevention of cardiovascular events.",
+                "PCSK9 inhibitors are analyzed for cost-effectiveness in reducing cholesterol. The guidelines discuss their use in primary prevention for patients with heterozygous familial hypercholesterolemia and potential benefits in reducing ASCVD events.",
+                "4.2.10. Hamil MV, Kazi DS. PCSK9 inhibitors, economics, and policy. J Am Coll Cardiol. 2017;70:2677-87.",
+                "Efficacy and safety of evolocumab in patients with familial hypercholesterolemia.",
+                "Efficacy and safety of alirocumab in patients with heterozygous familial hypercholesterolemia.",
+                "Comparison of alirocumab and statins in patients with hypercholesterolemia.",
+                "Evaluations of PCSK9 inhibition in adults with hypercholesterolemia.",
+                "Screening for familial hypercholesterolemia in children involves analysis of the LDL receptor, APOB, and PCSK9 genes.",
+                "7.1. Economic Value Considerations: PCSK9 Inhibitors ... PCSK9 Inhibitors: economics and policy."
+            ]
+        },
+        {
+            "Gene": "apoB",
+            "Associated Conditions": [
+                "atherosclerotic cardiovascular disease (ASCVD)",
+                "Familial Hypercholesterolemia",
+                "ASCVD"
+            ],
+            "Occurrences": 2,
+            "context": [
+                "Abbreviation: apoB, Meaning/Phrase: apolipoprotein B",
+                "Lipid/Biomarkers: Persistently elevated triglycerides (\u2265175 mg/dL); hs-CRP, Lp(a), apoB, ABI in selected individuals."
+            ]
+        },
+        {
+            "Gene": "LPA",
+            "Associated Conditions": [
+                "Increased ASCVD risk"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Independent predictors of incident ASCVD over a 5.5-year follow-up period include LPA \u226550 mg/dL."
+            ]
+        },
+        {
+            "Gene": "HMGCR",
+            "Associated Conditions": [
+                "Statin-associated autoimmune myopathy"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Statin-associated autoimmune myopathy (HMGCR antibodies, incomplete resolution) is rare."
+            ]
+        },
+        {
+            "Gene": "LDLR",
+            "Associated Conditions": [
+                "Cardiovascular Disease"
+            ],
+            "Occurrences": 2,
+            "context": [
+                "The focus on LDL-cholesterol lowering in the management of atherosclerotic cardiovascular disease includes recommendations for LDLR-related therapies."
+            ]
+        },
+        {
+            "Gene": "APOB",
+            "Associated Conditions": [
+                "Familial Hypercholesterolemia"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Screening for familial hypercholesterolemia in children involves analysis of the LDL receptor, APOB, and PCSK9 genes."
+            ]
+        }
+    ],
+    "2024 AHA/ACC/ACS/ASNC/HRS/SCA/SCCT/SCMR/SVM Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery": [
+        {
+            "Gene": "VKORC1",
+            "Associated Conditions": [
+                "Bleeding Management with Vitamin K antagonists"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Warfarin operates through the VKORC1 (vitamin K-dependent factors) mechanism."
+            ]
+        },
+        {
+            "Gene": "NT-proBNP",
+            "Associated Conditions": [
+                "cardiovascular events in noncardiac surgery",
+                "heart failure"
+            ],
+            "Occurrences": 5,
+            "context": [
+                "Goulobic M., Jankovic P., et al. Preoperative midregional pro-adrenomedullin and high-sensitivity troponin T predict preoperative cardiovascular events in noncardiac surgery."
+            ]
+        },
+        {
+            "Gene": "ACTC",
+            "Associated Conditions": [
+                "Atrial Fibrillation"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Effect of continuous electrocardiogram monitoring on detection of undiagnosed atrial fibrillation after hospitalization for cardiac surgery."
+            ]
+        },
+        {
+            "Gene": "SLC5A2",
+            "Associated Conditions": [
+                "Type 2 Diabetes Mellitus"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Suggested Canadian standards for perioperative/periprocedural glycemic management in patients with type 1 or type 2 diabetes can consider SLC5A2 inhibitors."
+            ]
+        },
+        {
+            "Gene": "ND4",
+            "Associated Conditions": [
+                "Myocardial Infarction"
+            ],
+            "Occurrences": 1,
+            "context": [
+                "Perioperative outcomes after regional versus general anesthesia for above the knee amputations demonstrate significance; ND4 mitochondrial mutations are also considered."
+            ]
+        }
+    ]
+}

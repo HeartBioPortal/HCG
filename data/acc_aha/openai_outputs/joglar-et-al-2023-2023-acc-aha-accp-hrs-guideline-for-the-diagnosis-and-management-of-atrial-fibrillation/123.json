@@ -1,0 +1,58 @@
+{
+  "content": {
+    "Medical Cancer Therapy with Increased Risk of AF": {
+      "Anthracyclines": [
+        "Doxorubicin",
+        "Epirubicin",
+        "Idarubicin",
+        "Mitoxantrone"
+      ],
+      "Antimetabolites": [
+        "Clofarabine with cytarabine",
+        "5FU",
+        "Capecitabine",
+        "Gemcitabine"
+      ],
+      "Alkylating Agents": [
+        "Cyclophosphamide",
+        "Melphalan with stem cell transplantation"
+      ],
+      "Immunomodulatory Drugs": [
+        "Lenalidomide",
+        "Interleukin-2"
+      ],
+      "TKIs": [
+        "Ibrutinib (BTK inhibitor)",
+        "Acalbrutinib",
+        "Zanubrutinib",
+        "Ponatinib and others"
+      ],
+      "VEGF Inhibitor": [
+        "Sorafenib with 5FU"
+      ],
+      "BRAF Inhibitor": [
+        "Vemurafenib"
+      ],
+      "CAR T-cell Therapy": [
+        "Tisagenlecleucel",
+        "Axicabtagene ciloleucel"
+      ],
+      "Monoclonal Antibodies": [
+        "Rituximab"
+      ]
+    },
+    "Comments": {
+      "AF and Anthracycline": "AF may be a secondary result of anthracycline cardiotoxicity.",
+      "Stem Cell Transplantation": "Associated with increased risk of AF.",
+      "BTK Inhibitors": "Ibrutinib reported varying rates of AF; second-generation BTK inhibitors have lower incidence.",
+      "FDA Adverse Event Reporting": "TKIs have associated AF based on FDA adverse events."
+    },
+    "General Information": {
+      "Increased Risk of AF": "Cancer therapies can increase the risk of AF in patients, particularly those with hypertension, MI, HF, or history of cancer.",
+      "Perioperative AF": "Strongly associated with perioperative complications.",
+      "Impact of GDMT": "GDMT may reduce AF recurrence and major adverse cardiovascular events.",
+      "DOACs vs Warfarin": "Lower risk of stroke/systemic embolism and major bleeding with DOACs in patients with AF and cancer."
+    }
+  },
+  "genes": []
+}

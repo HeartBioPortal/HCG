@@ -1,0 +1,20 @@
+{
+  "content": {
+    "Recommendation-Specific Supportive Text": {
+      "Patient Preferences": "Consideration of patient preferences is essential for management decisions, especially for patients with symptomatic bradycardia.",
+      "Shared Decision-Making": "The guideline endorses shared decision-making as a vital aspect of care, involving at least two participants (clinician and patient), sharing information, building a consensus, and reaching an agreement.",
+      "Risks of Pacemaker Implantation": "Although the risks are low, the benefit-risk ratio is not favorable if the overall benefit is low. Discussions should involve patient and family if needed.",
+      "Quality of Life": "Patients with PPM implantation indication showed substantial QOL improvements post-implantation, although mode of pacing (dual vs. single chamber) showed inconsistent results."
+    },
+    "Pacemaker Implantation/Revision": {
+      "Procedural Risks": "These are heart procedures not typically associated with high risk but can be complicated by adverse events in elderly patients with comorbidities.",
+      "Discussion": "A thorough discussion should involve the implications of living with an implantable device and patient-specific benefits."
+    },
+    "Discontinuation of Pacemaker Therapy": {
+      "Recommendation": "Discontinuation is reasonable if complications arise or the indication resolves, after evaluation of symptoms.",
+      "COR": "IIa",
+      "LOE": "C-LD"
+    }
+  },
+  "genes": []
+}

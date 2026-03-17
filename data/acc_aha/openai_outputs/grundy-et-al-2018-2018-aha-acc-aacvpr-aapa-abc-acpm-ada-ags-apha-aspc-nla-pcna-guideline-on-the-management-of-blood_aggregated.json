@@ -1,0 +1,2338 @@
+{
+  "content": [
+    {
+      "content": {
+        "Title": "2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/ APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol",
+        "Published": "Journal of the American College of Cardiology",
+        "Volume": "73, No. 24, 2019",
+        "Publishing Organizations": [
+          "American College of Cardiology",
+          "American Heart Association",
+          "American College of Cardiology Foundation",
+          "Elsevier"
+        ],
+        "Writing Committee Chair": "Scott M. Grundy, MD, PhD, FAHA",
+        "Writing Committee Vice Chair": "Neil J. Stone, MD, FACC, FAHA",
+        "Purpose": "Guideline on the management of blood cholesterol",
+        "Task Force": "American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2018 Cholesterol Clinical Practice Guideline",
+        "Authors": "Grundy et al.",
+        "Publication": "JACC Vol. 73, No. 24, 2019",
+        "Publication Date": "June 25, 2019",
+        "Page Range": "285-350",
+        "Sections": [
+          {
+            "Title": "Top 10 Take-Home Messages to Reduce Risk of Atherosclerotic Cardiovascular Disease through Cholesterol Management",
+            "Page": "e287"
+          },
+          {
+            "Title": "Preamble",
+            "Page": "e288"
+          },
+          {
+            "Title": "Introduction",
+            "Subsections": [
+              {
+                "Title": "Methodology and Evidence Review",
+                "Page": "e289"
+              },
+              {
+                "Title": "Organization of the Writing Committee",
+                "Page": "e289"
+              },
+              {
+                "Title": "Document Review and Approval",
+                "Page": "e290"
+              },
+              {
+                "Title": "Scope of the Guideline",
+                "Page": "e290"
+              },
+              {
+                "Title": "Class of Recommendation and Level of Evidence",
+                "Page": "e290"
+              },
+              {
+                "Title": "Abbreviations",
+                "Page": "e290"
+              }
+            ]
+          },
+          {
+            "Title": "High Blood Cholesterol and ASCVD",
+            "Subsections": [
+              {
+                "Title": "Serum Cholesterol, Lipoproteins, and ASCVD",
+                "Page": "e291",
+                "Subsections": [
+                  {
+                    "Title": "Cholesterol, Lipoproteins, and Apolipoprotein B",
+                    "Page": "e291"
+                  },
+                  {
+                    "Title": "Cholesterol, LDL-C, and ASCVD",
+                    "Page": "e291"
+                  },
+                  {
+                    "Title": "LDL-C and Other Risk Factors",
+                    "Page": "e292"
+                  }
+                ]
+              },
+              {
+                "Title": "Measurements of LDL-C and Non-HDL-C",
+                "Page": "e292"
+              },
+              {
+                "Title": "Measurements of Apolipoprotein B and Lipoprotein (a)",
+                "Page": "e293"
+              },
+              {
+                "Title": "Monitoring Response of LDL-C to Statin Therapy",
+                "Page": "e293"
+              }
+            ]
+          },
+          {
+            "Title": "Therapeutic Modalities",
+            "Subsections": [
+              {
+                "Title": "Lifestyle Therapies",
+                "Page": "e293",
+                "Subsections": [
+                  {
+                    "Title": "Diet Composition, Weight Control, and Physical Activity",
+                    "Page": "e293"
+                  }
+                ]
+              },
+              {
+                "Title": "Lipid-Lowering Drugs",
+                "Page": "e294",
+                "Subsections": [
+                  {
+                    "Title": "Statin Therapy",
+                    "Page": "e294"
+                  },
+                  {
+                    "Title": "Nonstatin Therapies",
+                    "Page": "e295"
+                  },
+                  {
+                    "Title": "Nonstatin Add-on Drugs to Statin Therapy",
+                    "Page": "e295"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Title": "Patient Management Groups",
+            "Subsections": [
+              {
+                "Title": "Secondary ASCVD Prevention",
+                "Page": "e295"
+              },
+              {
+                "Title": "Severe Hypercholesterolemia (LDL-C \u2265190 mg/dL [\u22654.9 mmol/L])",
+                "Page": "e299"
+              },
+              {
+                "Title": "Diabetes Mellitus in Adults",
+                "Page": "e301"
+              },
+              {
+                "Title": "Primary Prevention",
+                "Page": "e303",
+                "Subsections": [
+                  {
+                    "Title": "Evaluation and Risk Assessment",
+                    "Page": "e303"
+                  },
+                  {
+                    "Title": "Primary Prevention Adults 40 to 75 Years of Age With LDL-C Levels 70 to 189 mg/dL (1.7 to 4.8 mmol/L)",
+                    "Page": "e306"
+                  },
+                  {
+                    "Title": "Monitoring in Response to LDL-C-Lowering Therapy",
+                    "Page": "e311"
+                  },
+                  {
+                    "Title": "Primary Prevention in Other Age Groups",
+                    "Page": "e311"
+                  }
+                ]
+              },
+              {
+                "Title": "Other Populations at Risk",
+                "Page": "e316",
+                "Subsections": [
+                  {
+                    "Title": "Ethnicity",
+                    "Page": "e316"
+                  },
+                  {
+                    "Title": "Hypertriglyceridemia",
+                    "Page": "e318"
+                  },
+                  {
+                    "Title": "Issues Specific to Women",
+                    "Page": "e319"
+                  },
+                  {
+                    "Title": "Adults With CKD",
+                    "Page": "e320"
+                  },
+                  {
+                    "Title": "Adults With Chronic Inflammatory Disorders and HIV",
+                    "Page": "e321"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Title": "Statin Safety and Statin-Associated Side Effects",
+            "Page": "e322"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Section 1": "Emphasizes a heart-healthy lifestyle across the life course to reduce atherosclerotic cardiovascular disease (ASCVD) risk.",
+        "Section 2": "For patients with clinical ASCVD, reduce LDL-C using high-intensity statin therapy or maximally tolerated statin therapy.",
+        "Section 3": "For very high-risk ASCVD, use an LDL-C threshold of 70 mg/dL to consider addition of non-statins to statin therapy.",
+        "Section 4": "For patients with severe primary hypercholesterolemia, begin high-intensity statin therapy.",
+        "Section 5": "For patients aged 40 to 75 with diabetes mellitus, start moderate-intensity statin therapy.",
+        "Section 6": "For adults aged 40 to 75 evaluated for primary ASCVD prevention, have a clinician-patient risk discussion.",
+        "Section 7": "For adults aged 40 to 75 without diabetes mellitus and with LDL-C levels \u226570 mg/dL, start moderate-intensity statin if risk discussion favors it."
+      },
+      "genes": [
+        {
+          "Gene": "PCSK9",
+          "Associated Conditions": [
+            "Atherosclerotic Cardiovascular Disease",
+            "Hypercholesterolemia",
+            "ASCVD",
+            "High LDL-C",
+            "High LDL-C Levels",
+            "Familial Hypercholesterolemia (FH)",
+            "Cardiovascular events",
+            "Familial Hypercholesterolemia",
+            "Atherosclerotic Cardiovascular Disease (ASCVD)",
+            "Hyperlipidemia",
+            "hypercholesterolemia",
+            "atherosclerotic cardiovascular disease"
+          ],
+          "Occurrences": 2,
+          "context": "The text discusses the consideration of adding a PCSK9 inhibitor in patients with very high-risk ASCVD whose LDL-C level remains \u226570 mg/dL on maximally tolerated statin and ezetimibe therapy. It is also considered for patients with severe primary hypercholesterolemia if the patient's LDL-C level on statin plus ezetimibe remains \u2265100 mg/dL, especially if the patient has multiple factors that increase subsequent ASCVD risk events."
+        }
+      ]
+    },
+    {
+      "content": {
+        "guideline_summary": "The guideline discusses recommendations for adults aged 40 to 75 years related to LDL-C levels for those with or without diabetes, specifying risk-enhancing factors for statin therapy and advising measurement of CAC if statin therapy decision is uncertain. It emphasizes the assessment and response to LDL-C-lowering treatments.",
+        "age_focus": "Adults 40 to 75 years without diabetes and with 10-year risk of 7.5% to 19.9%. Adults with diabetes and LDL-C levels 70-189 mg/dL.",
+        "risk_enhancing_factors": [
+          "Family history of premature ASCVD",
+          "Elevated LDL-C levels",
+          "Metabolic syndrome",
+          "Chronic kidney disease",
+          "History of preeclampsia or premature menopause",
+          "Chronic inflammatory disorders",
+          "High-risk ethnic groups",
+          "Persistently elevated triglycerides",
+          "Elevated biomarkers (ApoB, hs-CRP, ABI, Lp(a))"
+        ],
+        "recommendations": [
+          "Consider measuring CAC if statin therapy decision is uncertain.",
+          "Assess adherence and response to LDL-C-lowering medications with repeated lipid measurement."
+        ],
+        "goals": "Improve quality of care for patients at risk of cardiovascular disease (CVD) through clinical practice guidelines."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "introduction": {
+          "methodology": {
+            "evidence": "Recommendations based on evidence where possible. Literature from PubMed, EMBASE, etc., used from May 1980 to July 2017.",
+            "topics_included": [
+              "hyperlipidemia",
+              "cholesterol",
+              "LDL-C",
+              "HDL-C",
+              "ezetimibe",
+              "bile acid sequestrants",
+              "PCSK9 inhibitors",
+              "lifestyle",
+              "diet",
+              "exercise",
+              "medications",
+              "child, adolescent screening",
+              "primary prevention",
+              "secondary prevention",
+              "cardiovascular disease",
+              "coronary artery calcium",
+              "familial hypercholesterolemia",
+              "ASCVD risk-enhancing factors",
+              "statin therapy",
+              "diabetes mellitus",
+              "women",
+              "adherence",
+              "Hispanic/Latino",
+              "South Asian",
+              "African American"
+            ],
+            "clinical_questions": {
+              "related_to": "cholesterol (Table 1)",
+              "incorporation": "Guidelines incorporated committee feedback and external studies."
+            },
+            "numerical_values": {
+              "triglycerides": "mg/dL to mmol/L conversion by dividing by 88.6",
+              "cholesterol": "mg/dL to mmol/L conversion for TC, LDL-C, HDL-C, and non-HDL-C by dividing by 38.6"
+            }
+          },
+          "writing_committee": {
+            "composition": "Consists of cardiologists, internists, and other representatives from AHA, ACC, AANP, and other organizations.",
+            "policy": "Members removed if they have industry relationships."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2018 Cholesterol Clinical Practice Guideline",
+        "Organizations": [
+          "American Society for Preventive Cardiology (ASPC)",
+          "National Lipid Association (NLA)",
+          "Preventive Cardiovascular Nurses Association (PCNA)"
+        ],
+        "Purpose": "The guideline addresses the practical management of patients with high blood cholesterol and related disorders.",
+        "Evidence": "Recommendations are based on randomized controlled trials (RCTs) primarily involving statins.",
+        "Drugs Mentioned": "Statins, Ezetimibe, PCSK9 inhibitors",
+        "Primary Focus": "Reducing atherosclerotic cardiovascular disease (ASCVD) risk and managing severe hypercholesterolemia."
+      },
+      "genes": [
+        {
+          "Gene": "apoB",
+          "Associated Conditions": [
+            "atherosclerotic cardiovascular disease (ASCVD)",
+            "Familial Hypercholesterolemia",
+            "ASCVD"
+          ],
+          "Occurrences": 1,
+          "context": "Abbreviation: apoB, Meaning/Phrase: apolipoprotein B"
+        },
+        {
+          "Gene": "FH",
+          "Associated Conditions": [
+            "familial hypercholesterolemia"
+          ],
+          "Occurrences": 1,
+          "context": "Abbreviation: FH, Meaning/Phrase: familial hypercholesterolemia"
+        },
+        {
+          "Gene": "Lp(a)",
+          "Associated Conditions": [
+            "atherosclerotic cardiovascular disease (ASCVD)",
+            "Increased ASCVD risk"
+          ],
+          "Occurrences": 1,
+          "context": "Abbreviation: Lp(a), Meaning/Phrase: lipoprotein (a)"
+        }
+      ]
+    },
+    {
+      "content": {
+        "Section": "2. High Blood Cholesterol and ASCVD",
+        "Subsections": {
+          "2.1": "Serum Cholesterol, Lipoproteins, and ASCVD",
+          "2.1.1": "Cholesterol, Lipoproteins, and Apolipoprotein B",
+          "2.1.2": "Cholesterol, LDL-C, and ASCVD"
+        },
+        "Key Points": {
+          "LDL-C": "Dominant form of atherogenic cholesterol.",
+          "VLDL": "Contains triglycerides, is atherogenic.",
+          "HDL-C": "Seemingly not atherogenic.",
+          "Apolipoprotein B (apoB)": "Main protein in LDL and VLDL, stronger indicator of atherogenicity than LDL-C alone.",
+          "Chylomicrons": "Transport dietary fat; unclear atherogenicity.",
+          "Non-HDL-C": "Combination of LDL-C and VLDL-C, more atherogenic than either alone."
+        },
+        "Evidence": "Serum cholesterol's impact on ASCVD is supported by animal studies, genetic forms of hypercholesterolemia, epidemiological studies, and RCTs. Optimal total cholesterol is about 150 mg/dL, LDL-C about 100 mg/dL."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_principle": "Lower is better for LDL-C.",
+        "major_risk_factors": [
+          "Cigarette smoking",
+          "Hypertension",
+          "Dysglycemia",
+          "Other lipoprotein abnormalities"
+        ],
+        "age_as_risk_factor": "Advancing age is a major risk factor.",
+        "risk_prediction": "Framingham Heart Study developed prediction equations for ASCVD.",
+        "calculation_method": "Friedewald formula (LDL-C = TC - (triglycerides/5) - HDL-C), which can be erroneous in hypertriglyceridemia.",
+        "recommendations_summary": [
+          "Adults 20 years or older not on lipid-lowering therapy should measure fasting or nonfasting lipid profiles.",
+          "Adults with triglyceride levels of 400 mg/dL or higher need repeat fasting lipid profile.",
+          "Individuals with LDL-C levels <70 mg/dL should have direct measurement or use a modified Friedewald formula.",
+          "Adults 20 years or older without personal ASCVD history but with family history of premature ASCVD or genetic hyperlipidemia should have fasting lipid profile."
+        ],
+        "nonfasting_sample_use": "For risk assessment in primary prevention and ASCVD, nonfasting samples can be used.",
+        "friedewald_calculation": "Risk at lowest when LDL-C is <70 mg/dL."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview": "The document discusses cholesterol management, specifically LDL-C levels and their association with ASCVD. It emphasizes the importance of various measurements such as fasting lipid profiles, LDL-C, and apolipoprotein B in evaluating cardiovascular risk. Lp(a) is identified as a risk-enhancing factor, especially in specific populations. The article also reviews responses to statin therapy and lifestyle modifications as therapeutic modalities.",
+        "LDL-C Levels": [
+          "Fasting lipid profiles are recommended for individuals with a family history of premature ASCVD or genetic hyperlipidemia.",
+          "Non-fasting samples are effective for general baseline lipid evaluation before starting statin therapy."
+        ],
+        "Apolipoprotein B and Lp(a)": [
+          "ApoB is used as a risk-enhancing factor measurement and Lp(a) is considered especially relevant in high-risk patients.",
+          "Measurement of apob may be advantageous for patients with hypertriglyceridemia."
+        ],
+        "Statin Therapy": "There's a consistent observation of reduced ASCVD risk with lowered LDL-C levels due to statin therapy.",
+        "Lifestyle Therapies": [
+          "A healthy diet with specific dietary components is recommended for patients at ASCVD risk."
+        ],
+        "Key Factors": [
+          "Lp(a) and apoB are considered alongside LDL-C as important in assessing cardiovascular risk."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Lifestyle Therapies and Metabolic Syndrome": "Lifestyle therapies are important for metabolic syndrome, which is a risk factor for ASCVD, diabetes mellitus, and all-cause death. The diagnosis is based on large waist circumference, elevated triglycerides, reduced HDL-C, elevated blood pressure, and high fasting glucose. Approximately one-third of adults in the US have metabolic syndrome.",
+        "Lipid-Lowering Drugs": "Statins are central to therapy, with other drugs like ezetimibe, bile acid sequestrants, and PCSK9 inhibitors also used. Statins are categorized into high, moderate, and low intensity based on LDL-C reduction potential.",
+        "Statin Therapy": "High-intensity statins lower LDL-C by \u226550%, moderate by 30%-49%, and low by <30%. The specific statins and doses for each intensity are listed in Table 3.",
+        "Nonstatin Therapy": "Ezetimibe lowers LDL-C by 13% to 20% and has low side effects. Bile acid sequestrants lower LDL-C by 15% to 30% with potential gastrointestinal side effects."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations": [
+          {
+            "COR": "I",
+            "LOE": "A",
+            "Details": "In patients who are 75 years of age or younger with clinical ASCVD, high-intensity statin therapy should be initiated or continued with the aim of achieving a 50% or greater reduction in LDL-C levels."
+          },
+          {
+            "COR": "I",
+            "LOE": "A",
+            "Details": "In patients with clinical ASCVD in whom high-intensity statin therapy is contraindicated or who experience statin-associated side effects, moderate-intensity statin therapy should be initiated or continued with the aim of achieving a 30% to 49% reduction in LDL-C levels."
+          },
+          {
+            "COR": "I",
+            "LOE": "B-NR",
+            "Details": "In patients with clinical ASCVD who are judged to be very high risk and considered for PCSK9 inhibitor therapy, maximally tolerated LDL-C lowering therapy should include maximally tolerated statin therapy and ezetimibe."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "A",
+            "Details": "In patients with clinical ASCVD who are judged to be very high risk and are on maximally tolerated LDL-C lowering therapy, it is reasonable to add a PCSK9 inhibitor following a clinician-patient discussion about the net benefit, safety, and cost."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-R",
+            "Details": "In patients with clinical ASCVD who are on maximally tolerated statin therapy and are judged to be at very high risk and have an LDL-C level of 70 mg/dL or higher, it is reasonable to add ezetimibe therapy."
+          },
+          {
+            "COR": "Value Statement",
+            "LOE": "B-NR",
+            "Details": "At mid-2018 list prices, PCSK9 inhibitors have a low cost value compared to good cost value statins."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-R",
+            "Details": "In patients older than 75 years of age with clinical ASCVD, it is reasonable to initiate moderate- or high-intensity statin therapy after evaluation of the potential for ASCVD risk reduction, adverse effects, and drug-drug interactions."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "C-LD",
+            "Details": "In patients older than 75 years of age who are tolerating high-intensity statin therapy, it is reasonable to continue high-intensity statin therapy after evaluation of the potential for ASCVD risk reduction, adverse effects, and drug-drug interactions."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "B-R",
+            "Details": "In patients with clinical ASCVD who are receiving maximally tolerated statin therapy and whose LDL-C level remains 70 mg/dL or higher, it may be reasonable to add ezetimibe."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "B-R",
+            "Details": "In patients with heart failure (HF) with reduced ejection fraction attributable to ischemic heart disease who have a reasonable life expectancy and are not already on a statin because of ASCVD, clinicians may consider initiation of moderate-intensity statin therapy."
+          }
+        ],
+        "Additional Information": {
+          "Nonstatin Add-on Drugs": "Under certain circumstances, nonstatin medications (ezetimibe, bile acid sequestrants, and PCSK9 inhibitors) may be useful in combination with statin therapy."
+        }
+      },
+      "genes": [
+        {
+          "Gene": "PCSK9",
+          "Associated Conditions": [
+            "ASCVD"
+          ],
+          "Occurrences": 2,
+          "context": "PCSK9 inhibitors may be useful in combination with statin therapy. In patients with ASCVD who are judged to be very high risk, PCSK9 inhibitors can be added to a maximally tolerated statin regimen."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Clinical ASCVD": "Includes acute coronary syndrome, myocardial infarction, stable or unstable angina, coronary or other arterial revascularization, stroke, transient ischemic attack, or peripheral artery disease including aortic aneurysm.",
+        "Goal": "Achieve a \u226550% reduction in LDL-C levels.",
+        "Recommendation": "Use high-intensity statin therapy; if not tolerated, use moderate-intensity statin.",
+        "Considerations for Therapy": {
+          "Age \u226475": "High-intensity statin therapy is recommended. Adding ezetimibe may be reasonable if LDL-C \u226570 mg/dL.",
+          "Age >75": "Initiation or continuation of high-intensity statin is reasonable.",
+          "Very High-Risk Patients": "Maximal statin therapy. Consider adding ezetimibe before PCSK9-I if LDL-C \u226570 mg/dL."
+        }
+      },
+      "genes": [
+        {
+          "Gene": "PCSK9",
+          "Associated Conditions": [
+            "ASCVD",
+            "High LDL-C"
+          ],
+          "Occurrences": 2,
+          "context": "If PCSK9-I is considered, add ezetimibe to maximal statin before adding PCSK9-I (Class I). If on clinically judged maximal LDL-C lowering therapy and LDL-C \u226570 mg/dL (\u22651.8 mmol/L), or non-HDL-C \u2265100 mg/dL (\u22652.6 mmol/L), adding PCSK9-I is reasonable (Class IIa)."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Statin Therapy": {
+          "High-Intensity Statin Therapy": "Reduces major vascular events by 15% without significant reduction in coronary deaths. Generally reduces LDL-C levels by \u226550%.",
+          "Moderate-Intensity Statin Therapy": "Reduces major vascular events and coronary heart disease (CHD) deaths. Shows significant reduction in major vascular events in patients >75 years of age.",
+          "Patients with ASCVD": "Recommended additional ezetimibe if LDL-C level is \u226570 mg/dL (\u22651.8 mmol/L)."
+        },
+        "PCSK9 Inhibitors": {
+          "Role": "Used for high-risk patients with a history of multiple major ASCVD events and multiple high-risk conditions.",
+          "Studies": "FOURIER and ODYSSEY OUTCOMES show significant LDL-C reduction.",
+          "Recommendations": "Only used for specific patients due to its route of administration and cost considerations."
+        },
+        "High-Risk Conditions for ASCVD": {
+          "Listed Conditions": [
+            "Recent ACS",
+            "History of stroke or ischemic stroke",
+            "Peripheral arterial disease with ABI <0.85",
+            "Age \u226565",
+            "Heterozygous familial hypercholesterolemia",
+            "Diabetes mellitus",
+            "Hypertension",
+            "CKD",
+            "Persistently elevated LDL-C",
+            "History of congestive HF"
+          ]
+        }
+      },
+      "genes": [
+        {
+          "Gene": "PCSK9",
+          "Associated Conditions": [
+            "ASCVD",
+            "High LDL-C Levels"
+          ],
+          "Occurrences": 3,
+          "context": "PCSK9 inhibitors (evolocumab and alirocumab) are recommended for high-risk patients to lower LDL-C levels. Studies such as FOURIER and ODYSSEY have shown efficacy in reducing ASCVD events."
+        }
+      ]
+    },
+    {
+      "content": {
+        "text": "This clinical guideline discusses the use of PCSK9 inhibitors and statin therapies for managing atherosclerotic cardiovascular disease (ASCVD). PCSK9 inhibitors are recommended for patients with very high risk and high LDL-C levels who are on maximally tolerated statins. The guideline emphasizes combined therapy of statins and ezetimibe in various patient scenarios, especially in elderly patients over 75 years. Cost-effectiveness and risk reductions in major vascular events are significant considerations. Studies like IMPROVE-IT and various RCTs support these recommendations."
+      },
+      "genes": [
+        {
+          "Gene": "PCSK9",
+          "Associated Conditions": [
+            "ASCVD"
+          ],
+          "Occurrences": 3,
+          "context": "PCSK9 inhibitors are recommended in patients with very high risk and LDL-C \u226570 mg/dL on maximally tolerated statin therapy; the recommendation is based on evidence (LOE of A)."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Summary": "The clinical guidelines focus on the management of severe hypercholesterolemia. Recommendations are made for patients with different LDL-C levels and consider the use of statins, ezetimibe, and PCSK9 inhibitors. The guidelines emphasize the stratification of therapies based on the risk and response of the patients.",
+        "Key Recommendations": {
+          "Class I Recommendation": "For patients aged 20-75 with an LDL-C \u2265190 mg/dL, maximally tolerated statin therapy is recommended.",
+          "Class IIa Recommendation": "For the same age group with less than 50% LDL-C reduction, add ezetimibe if LDL-C remains \u2265100 mg/dL.",
+          "Class IIb Recommendation": [
+            "For patients with a baseline LDL-C of 190 mg/dL and fasting triglycerides \u2264300 mg/dL, consider bile acid sequestrant.",
+            "For patients with heterozygous FH and LDL-C \u2265100 mg/dL, consider PCSK9 inhibitor addition."
+          ],
+          "Class IIb Recommendation with Lower Evidence": "For patients who achieve on-treatment LDL-C <130 mg/dL with statin and ezetimibe, consider a PCSK9 inhibitor."
+        },
+        "Value Statement": "Among patients with FH without definitive ASCVD evidence taking statin and ezetimibe therapy, the value of PCSK9 inhibitors remains uncertain."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary": "The guideline discusses treatment options for patients with severe hypercholesterolemia, focusing on the use of statins, ezetimibe, bile acid sequestrants, and PCSK9 inhibitors. It emphasizes the significance of managing LDL-C levels to reduce cardiovascular risks and mentions the effectiveness of specific treatments in both primary and secondary prevention settings.",
+        "Treatment Highlights": [
+          "Statin therapy is effective for patients with high LDL-C levels.",
+          "Addition of ezetimibe to statin can further reduce cardiovascular risk in patients with specific characteristics.",
+          "Bile acid sequestrants may be added for patients unable to use PCSK9 inhibitors.",
+          "PCSK9 inhibitors show promise for those with heterozygous Familial Hypercholesterolemia (FH)."
+        ],
+        "ASCVD Risk": "Patients with baseline LDL-C \u2265190 mg/dL are at high risk for ASCVD events.",
+        "Study Findings": "Large studies demonstrate reduced risk of incident myocardial infarction (MI) and coronary heart disease (CHD) with statin use."
+      },
+      "genes": [
+        {
+          "Gene": "PCSK9",
+          "Associated Conditions": [
+            "Familial Hypercholesterolemia (FH)"
+          ],
+          "Occurrences": 3,
+          "context": "PCSK9 inhibitors are promising drugs for treatment of FH. "
+        },
+        {
+          "Gene": "LPA",
+          "Associated Conditions": [
+            "Increased ASCVD risk"
+          ],
+          "Occurrences": 1,
+          "context": "Independent predictors of incident ASCVD over a 5.5-year follow-up period include LPA \u226550 mg/dL."
+        }
+      ]
+    },
+    {
+      "content": {
+        "general_information": [
+          "Patients with diabetes mellitus aged 40 to 75 years should be on moderate-intensity statin therapy regardless of estimated 10-year ASCVD risk.",
+          "For patients 20 to 75 years with an LDL-C level of 70 to 189 mg/dL, it's important to assess the 10-year ASCVD risk using race and sex-specific PCE.",
+          "Adults over 75 on statin therapy might continue using it, with considerations for benefits and risks.",
+          "In patients with diabetes and 10-year ASCVD risk of 20% or higher, adding ezetimibe to statin therapy might be reasonable to reduce LDL-C.",
+          "For adults older than 75 with diabetes, initiating statin therapy may be considered after discussing potential benefits and risks.",
+          "Young adults aged 20 to 39 with diabetes and additional risk factors might consider statin therapy."
+        ],
+        "recommendations": {
+          "40_to_75_years": "Moderate-intensity statin therapy indicated.",
+          "20_to_75_years_with_specific_LDL_C": "Assess 10-year ASCVD risk.",
+          "older_than_75_on_statin": "Continuation may be reasonable.",
+          "diabetes_with_10_year_ASCVD_20_percent": "Add ezetimibe to statin therapy.",
+          "older_than_75_not_on_statins": "Consider statin therapy after benefit-risk discussion.",
+          "20_to_39_with_risk_factors": "Consider statin therapy."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": "This clinical guideline discusses the management of ASCVD risk in adults aged 40 to 75 years with diabetes mellitus. It highlights the increased morbidity and mortality associated with diabetes and recommends the use of moderate or high-intensity statin therapy based on the individual's risk profile. Recommendations are made on the basis of both global risk and risk specific to those with diabetes. The document emphasizes the importance of personalized treatment decisions and consideration of therapy benefits versus potential adverse effects."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "LDL-C lowering": "Achieving \u226550% LDL-C lowering in adults with diabetes and \u226520% ASCVD risk.",
+        "Ezetimibe addition": "Ezetimibe 10 mg/d added to moderate-intensity statin can achieve same LDL-C lowering as high-intensity statin.",
+        "ASCVD risk in older adults": "Risk of ASCVD is high in adults >75 years with diabetes; discussion on statin benefits is recommended.",
+        "Statin benefits in younger adults": "Limited information on statin benefits in 20-39 year-olds with diabetes; risk factors increase with age.",
+        "Primary prevention": "Requires attention to prevention or management of ASCVD risk factors, especially elevated serum cholesterol.",
+        "Risk assessment": "Essential for children, adolescents, and adults. Includes evaluation for hypercholesterolemia and diabetes mellitus."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Primary Prevention": "Assess ASCVD risk in each age group and emphasize adherence to a healthy lifestyle.",
+        "Age Groups and Recommendations": {
+          "Age 0-19": "Lifestyle to prevent or reduce ASCVD risk; consider diagnosis of Familial Hypercholesterolemia if high cholesterol.",
+          "Age 20-39": "Estimate lifetime risk and encourage lifestyle to reduce ASCVD risk; statin recommended if family history of premature ASCVD and LDL-C \u2265160 mg/dL.",
+          "Age 40-75 with LDL-C 70-190 mg/dL": {
+            "Without diabetes": "10-year ASCVD risk assessment begins risk discussion."
+          },
+          "Age 40-75 with diabetes": "Moderate-intensity statin recommended.",
+          "Age >75": "Clinical assessment and risk discussion suggested."
+        },
+        "Risk Categories": {
+          "<5%": "Low Risk: Emphasize lifestyle to reduce risk factors.",
+          "5% - <7.5%": "Borderline Risk: Discuss moderate-intensity statin therapy if risk enhancers are present.",
+          "7.5% - <20%": "Intermediate Risk: Consider moderate-intensity statin to reduce LDL-C by 30% - 49% if risk enhancers favor statin.",
+          "\u226520%": "High Risk: Initiate statin to reduce LDL-C \u226550%."
+        },
+        "Risk Enhancers": [
+          "Family history of premature ASCVD",
+          "Persistently elevated LDL-C \u2265160 mg/dL",
+          "Chronic kidney disease",
+          "Metabolic syndrome",
+          "Conditions specific to women (e.g., preeclampsia, premature menopause)",
+          "Inflammatory diseases (e.g., rheumatoid arthritis, psoriasis, HIV)",
+          "Ethnicity (e.g., South Asian ancestry)"
+        ],
+        "Additional Considerations": {
+          "Lipid/Biomarkers": "Persistently elevated triglycerides (\u2265175 mg/dL); hs-CRP, Lp(a), apoB, ABI in selected individuals.",
+          "CAC Score": "Consider if risk decision is uncertain; use CAC scoring for further stratification."
+        }
+      },
+      "genes": [
+        {
+          "Gene": "apoB",
+          "Associated Conditions": [
+            "Familial Hypercholesterolemia",
+            "ASCVD"
+          ],
+          "Occurrences": 1,
+          "context": "Lipid/Biomarkers: Persistently elevated triglycerides (\u2265175 mg/dL); hs-CRP, Lp(a), apoB, ABI in selected individuals."
+        }
+      ]
+    },
+    {
+      "content": {
+        "PCE": "The Pooled Cohort Equations (PCE) predict the 10-year risk of ASCVD events (MI and stroke) in adults aged 40 to 75, using factors like age, smoking, blood pressure, and cholesterol levels. The guidelines use a risk assessment model categorizing risk into low (<5%), borderline (5% to <7.5%), intermediate (7.5% to <20%), and high (\u226520%) to guide statin therapy.",
+        "Risk Enhancers": "Risk-enhancing factors include a family history of ASCVD, premature menopause, elevated LDL-C, elevated triglycerides, elevated Lp(a), elevated hsCRP, and systemic inflammation.",
+        "Coronary Artery Calcium (CAC)": "CAC scoring is used to refine risk assessments for statin therapy, although scores of zero do not guarantee absence of ASCVD risk in all cases, like those with a family history of ASCVD or chronic inflammatory conditions."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Risk-Enhancing Factors for Clinician-Patient Risk Discussion",
+        "Primary Prevention Recommendations": {
+          "Age Range": "Adults 40 to 75 Years of Age",
+          "LDL-C Levels": "70 to 189 mg/dL (1.7 to 4.8 mmol/L)",
+          "Recommendations": [
+            {
+              "COR": "I",
+              "LOE": "A",
+              "Details": "In adults at intermediate-risk, statin therapy reduces risk of ASCVD. If a decision is made for statin therapy, a moderate-intensity statin should be recommended."
+            },
+            {
+              "COR": "I",
+              "LOE": "A",
+              "Details": "In intermediate-risk patients, LDL-C levels should be reduced by 30% or more, and for optimal ASCVD risk reduction, especially in high-risk patients, levels should be reduced by 50% or more."
+            },
+            {
+              "COR": "I",
+              "LOE": "B-NR",
+              "Details": "For the primary prevention of clinical ASCVD in adults 40 to 75 years of age with diabetes mellitus and with an LDL-C level 70 to 189 mg/dL, the 10-year ASCVD risk of a first 'hard' ASCVD event should be estimated using the race- and sex-specific PCE, categorizing adults as low risk (<5%), borderline risk (5% to <7.5%), intermediate-risk (\u22657.5% to <20%), and high-risk (\u226520%)."
+            }
+          ]
+        }
+      },
+      "genes": [
+        {
+          "Gene": "Lp(a)",
+          "Associated Conditions": [
+            "Increased ASCVD risk"
+          ],
+          "Occurrences": 1,
+          "context": "Elevated Lp(a): A relative indication for its measurement is family history of premature ASCVD. An Lp(a) \u226550 mg/dL or \u2265125 nmol/L constitutes a risk-enhancing factor especially at higher levels of Lp(a)."
+        }
+      ]
+    },
+    {
+      "content": {
+        "guideline": "Cholesterol Clinical Practice Guidelines",
+        "topic": "Assessment and management of atherosclerotic cardiovascular disease (ASCVD) risk in intermediate-risk adults.",
+        "recommendations": [
+          "Clinicians should engage in discussions with patients about risk factors, lifestyle, treatment benefits, and preferences for individualized treatment decisions.",
+          "For intermediate-risk adults, consider risk-enhancing factors for statin therapy initiation or intensification.",
+          "In certain cases, the coronary artery calcium (CAC) score can be used to decide on statin therapy initiation or postponement.",
+          "Statin therapy is advised for those with a CAC score of 100 or higher, or in the 75th percentile or higher.",
+          "Adults who cannot tolerate high-intensity statins may be advised to take nonstatin medications.",
+          "Moderate-intensity statin therapy may be justified in borderline-risk patients with risk-enhancing factors."
+        ],
+        "patient_population": "Adults 40 to 75 years of age in primary prevention classified as borderline, intermediate, or high-risk for ASCVD.",
+        "treatment_focus": [
+          "Moderate to high-intensity statin therapy.",
+          "Use of CAC scoring and consideration of other risk factors."
+        ],
+        "clinical_studies": "Based on three large-scale, exclusively primary-prevention RCTs demonstrating statin benefits.",
+        "additional_notes": "Risk discussion should include independent risk conditions and risk-enhancing factors."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_reference": "2018 Cholesterol Clinical Practice Guideline",
+        "clinical_focus": "Management of LDL-C levels using statin therapy, consideration of ASCVD risk factors, and clinician-patient risk discussions.",
+        "recommendations": [
+          {
+            "context": "Statin therapy for reducing LDL-C levels.",
+            "details": "Involves high-intensity statins like rosuvastatin to lower LDL-C by >=50%. Suggested for patients with a 10-year ASCVD risk >=20% or high-sensitivity C-reactive protein >=2.0 mg/L."
+          },
+          {
+            "context": "Evaluating ASCVD risk and its impact on therapy decisions.",
+            "details": "Clinician-patient risk discussion is crucial, especially for individuals aged 40 to 75 years. Considerations include age, sex, race/ethnicity, diabetes, smoking status, and blood pressure. The discussion is necessary for those with ASCVD risk >=7.5% to <20%."
+          },
+          {
+            "context": "Consideration of family history and elevation of LDL-C levels.",
+            "details": "Family history of ASCVD and high LDL-C (>= 160 mg/dL) indicate increased risk, warranting statin therapy even with moderate conditions."
+          },
+          {
+            "context": "Potential for adverse effects and drug interactions.",
+            "details": "Considerations for individual therapy should include potential adverse effects and interactions with other drugs."
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "CRP",
+          "Associated Conditions": [
+            "ASCVD"
+          ],
+          "Occurrences": 1,
+          "context": "JUPITER trial enrolled men >=50 years of age and women >=60 years of age with high-sensitivity C-reactive protein values >=2.0 mg/L."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Checklist": {
+          "ASCVD Risk Assessment": [
+            "Assign to statin treatment group using ASCVD Risk Estimator Plus.",
+            "In lower-risk primary-prevention adults 40-75 years of age with LDL-C \u226570 mg/dL (\u22651.8 mmol/L).",
+            "Not needed in secondary prevention, in those with LDL-C \u2265190 mg/dL (\u22654.9 mmol/L), or in those 40-75 years of age with diabetes mellitus."
+          ],
+          "Lifestyle Modifications": [
+            "Review lifestyle habits (e.g., diet, physical activity, weight or body mass index, tobacco use).",
+            "Endorse a healthy lifestyle and provide relevant advice, materials, or referrals."
+          ],
+          "Potential Net Clinical Benefit of Pharmacotherapy": [
+            "Recommend statins as first-line therapy.",
+            "Consider the combination of statin and nonstatin therapy in selected patients.",
+            "Discuss potential risk reduction from lipid-lowering therapy.",
+            "Discuss the potential for adverse effects or drug-drug interactions."
+          ],
+          "Cost Considerations": [
+            "Discuss potential out-of-pocket cost of therapy to the patient."
+          ],
+          "Shared Decision-Making": [
+            "Encourage the patient to verbalize what was heard.",
+            "Invite the patient to ask questions, express values and preferences, and state ability to adhere.",
+            "Refer patients to trustworthy materials to aid in their understanding.",
+            "Collaborate with the patient to determine therapy and follow-up plan."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "CAC Measurement Guidelines": [
+          "Patients reluctant to initiate statin therapy.",
+          "Patients concerned about restarting statin therapy after discontinuation.",
+          "Older patients with low burden of risk factors.",
+          "Middle-aged adults with a borderline risk group."
+        ],
+        "Risk Factors and Conditions": [
+          "Less CAC measurement value for patients with diabetes mellitus, persistent smoking, and family history of premature ASCVD.",
+          "Smokers have a strong risk factor, even with a CAC score of zero.",
+          "In asymptomatic diabetes, a CAC score of zero is initially favorable but risk increases after 5 years.",
+          "In family history of premature ASCVD or diabetes, CAC may provide less short-term benefit."
+        ],
+        "Calculations and Interventions": [
+          "CAC score 0 with high lifetime risk may still benefit from statin therapy.",
+          "Statin therapy initiation in adults >55 years for scores 1 to 99 may need risk reassessment.",
+          "Ezetimibe added to moderate-intensity statin lowers LDL-C."
+        ],
+        "Additional Treatment Considerations": [
+          "Benefit from statin therapy in selected lower-risk individuals.",
+          "Enhancing risk factor discussion for patients developing ASCVD.",
+          "Challenges include selecting placebo treatment for those likely to benefit less from statins."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Monitoring": "Adherence to changes in lifestyle and effects of LDL-C-lowering medication should be assessed by measurement of fasting lipids and appropriate safety indicators 4 to 12 weeks after start and adjusted every 3 to 12 months based on adherence or safety.",
+        "LDL-C Lowering Goals": "Moderate-intensity statins can reduce LDL-C levels by another 30% to 49%, high-intensity statins by \u226550%. Ezetimibe or bile acid sequestrants can provide an additional 15-25% reduction.",
+        "Recommendations for Older Adults": [
+          {
+            "Ages <75": "Moderate-intensity statin therapy may be reasonable if LDL-C levels are 70 to 189 mg/dL."
+          },
+          {
+            "Ages >75": "Reasonable to stop statin therapy when frailty, multimorbidity, or reduced life-expectancy limits benefits."
+          },
+          {
+            "Ages 76-80": "Reasonable to measure CAC to reclassify those with a CAC score of zero to avoid statin therapy."
+          }
+        ],
+        "Additional Context": "Statin therapy in older adults supports primary prevention, but older age increases susceptibility to side effects. Recommendations differ based on functional status and life expectancy."
+      },
+      "genes": [
+        {
+          "Gene": "PCSK9",
+          "Associated Conditions": [
+            "Hypercholesterolemia"
+          ],
+          "Occurrences": 1,
+          "context": "Much greater additive reductions occur by adding a PCSK9 inhibitor to statin plus ezetimibe."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Recommendations": [
+          "Clinician-patient discussions about risks and benefits of statin therapy are crucial, especially in older adults.",
+          "Deprescribing statins may be considered when the risks outweigh the benefits.",
+          "Multimorbidity, polypharmacy, frailty, cognitive decline, and other age-related factors are crucial considerations for statin therapy in older adults.",
+          "CAC scoring can help guide whether to continue or initiate statin therapy."
+        ],
+        "Research Findings": [
+          "RCTs showed no benefit from pravastatin in older adults.",
+          "Importance of both adherence insights and side effect considerations in statin therapy.",
+          "Meta-analysis highlighted a relative risk reduction in older patients taking statins versus placebo."
+        ],
+        "Considerations": [
+          "Statin therapy may not benefit individuals with zero CAC scores.",
+          "Adverse side effects potentially could outweigh the benefits of statins."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": {
+          "4.2": "Family history (FH) often goes undiagnosed in young adults with primary elevations of LDL-C.",
+          "4.4.4.2.3": "In adults with hypercholesterolemia, cascade screening helps identify family members with elevated LDL-C.",
+          "4.4.4.2.4": "Hypothyroidism, liver disease, and renal disease contribute to elevated cholesterol.",
+          "4.4.4.2.6": "Young adults with hyperlipidemia before age 55 have increased risk of coronary heart disease.",
+          "4.4.4.2.7": "High risk young adults may benefit from long-term statin therapy.",
+          "4.4.4.2.10": "In young adults, risk assessment should be based on estimation of lifetime risk.",
+          "4.4.4.2.12": "High-risk lifestyle behaviors include tobacco use, sedentary lifestyle, and poor diet.",
+          "4.4.4.2.13": "Research on cholesterol-lowering drugs has not yet been proposed for young individuals.",
+          "4.4.4.2.14": "Coronary artery calcification (CAC) scores could be used to identify those who benefit from statins."
+        },
+        "recommendations": {
+          "children_and_adolescents": {
+            "obesity": "Intensify lifestyle therapy (caloric restriction and physical activity).",
+            "lipid_abnormalities": "Lifestyle counseling for lowering LDL-C levels.",
+            "persistent_high_LDL-C": "Consider statin therapy for those 10 years or older with persistent high LDL-C not responding to lifestyle changes.",
+            "early_cvd": "Use fasting/nonfasting lipoprotein profile by age 2 to detect forms of hypercholesterolemia.",
+            "screening": "Reverse-cascade screening for moderate to severe hypercholesterolemia."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Abnormal lipid levels are common in children and adolescents, affecting about 1 in 5 adolescents. They are less common but frequent in the presence of obesity, which often leads to cardiovascular risk factors. Severe hypercholesterolemia affects 1 in 250 children and adolescents. Nonfasting lipid testing is effective for screening. There's no available evidence that lipid screening reduces cardiovascular disease events long-term. Statins and lifestyle modifications are used treatments.",
+        "Recommendations": [
+          "For children and adolescents with obesity or other metabolic risk factors, a fasting lipid profile is recommended.",
+          "For those without cardiovascular risk factors or family history, lipid testing is suggested between ages 9 and 11 and ages 17 and 21.",
+          "Lifestyle modification should include reduced caloric intake and sufficient physical activity.",
+          "There is evidence of benefits from lifestyle modification on lipid levels and subclinical atherosclerosis.",
+          "Statins and nonstatins can be considered from age 8 in the presence of specific risk factors."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_information": "The guideline discusses lipid testing in children to identify severe hypercholesterolemia, commonly related to genetic conditions such as familial hypercholesterolemia (FH). Identifying children with LDL-C levels \u2265190 mg/dL (\u22654.9 mmol/L) or \u2265160 mg/dL (\u22654.1 mmol/L) with a family history of early atherosclerosis is crucial. Reverse-cascade screening is effective for identifying family members at risk. Screening guidelines have been advised specifically for ages 9 to 11, extending to 17 to 21 due to lipid level changes during puberty. Nonsystemic bile acid sequestrants can be useful though tolerability is a concern. Nonfasting lipid screening is recommended when feasible.",
+        "key_points": [
+          "Lipid testing during childhood can identify severe hypercholesterolemia.",
+          "Severe cases include LDL-C \u2265190 mg/dL or \u2265160 mg/dL with family history.",
+          "Effective screening includes reverse-cascade screening.",
+          "Recommended screening ages are 9-11 years and 17-21 years.",
+          "Nonsystemic bile acid sequestrants may help LDL-C lowering.",
+          "Universal screening's long-term benefits and harms are uncertain."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "cor": "IIa",
+            "loe": "B-NR",
+            "recommendation": "For clinical decision-making in adults of different race/ethnicities, it is reasonable for clinicians to review race/ethnic features that can influence ASCVD risk so as to adjust choice of statin or intensity of treatment."
+          }
+        ],
+        "synopsis": "Race/ethnicity factors can influence estimates of ASCVD risk, intensity of treatment, and lipid drug use. Important examples include increased ASCVD risk in South Asians, sensitivity to statins in East Asians, and prevalence of hypertension in Blacks. Discussion on race/ethnicity and socioeconomic status is crucial for accurate ASCVD risk assessment.",
+        "table_10_summary": "Asian Americans are at higher risk for ASCVD, have lower levels of HDL-C, and higher prevalence of LDL-C. Hispanic/Latino women have higher prevalence of low HDL-C. Blacks have higher levels of HDL-C and triglycerides. There is racial/ethnic heterogeneity in dyslipidemia risk."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Metabolic issues": {
+          "Asian Americans": "Increased MetS seen with lower waist circumference than in Whites. DM develops at a lower lean body mass and at earlier age. Majority of risk in South Asians is explained by known risk factors, especially those related to insulin resistance.",
+          "Hispanic/Latino Americans": "DM disproportionately present compared with whites and blacks. There is increased prevalence of MetS and DM in Mexican Americans compared with whites and Puerto Ricans.",
+          "Blacks/African Americans": "There is increased DM and hypertension.",
+          "Comments": "Increased prevalence of DM. Features of MetS vary by race/ethnicity. Waist circumference, not weight, should be used to determine abdominal adiposity when possible."
+        },
+        "Risk Decisions": {
+          "PCE": {
+            "Asian Americans": "No separate PCE is available; use PCE for whites. PCE may underestimate ASCVD risk in South Asians. PCE may overestimate risk in East Asians.",
+            "Hispanic/Latino Americans": "No separate PCE is available; use PCE for non-Hispanic whites. If African-American ancestry is also present, then use PCE for blacks.",
+            "Blacks/African Americans": "Use PCE for blacks.",
+            "Comments": "Country-specific race/ethnicity, along with socioeconomic status, may affect estimation of risk by PCE."
+          },
+          "CAC score": {
+            "Asian Americans": "South Asian men were similar to non-Hispanic white men, but higher CAC than whites, Blacks, Latinos, and Chinese Americans. South Asian women had similar CAC scores to whites and other racial/ethnic women, although CAC burden is higher in older age.",
+            "Hispanic/Latino Americans": "CAC predicts similarly in whites and in those who identify as Hispanic/Latino.",
+            "Blacks/African Americans": "In MESA, CAC score was highest in white and Hispanic men, with blacks having significantly lower prevalence and severity of CAC.",
+            "Comments": "Risk factor differences in MESA between ethnicities did not fully explain variability in CAC. However, CAC predicted ASCVD events over and above traditional risk factors in all ethnicities."
+          }
+        },
+        "Treatment": {
+          "Lifestyle counseling": "Use lifestyle counseling to recommend a heart-healthy diet consistent with racial/ethnic preferences to avoid weight gain and address BP and lipids. Asian and Hispanic/Latino groups need to be disaggregated because of regional differences in lifestyle preferences.",
+          "Intensity of statin therapy and response to LDL-C lowering": {
+            "Asian Americans": "Japanese patients may be sensitive to statin dosing. In an open-label, randomized primary-prevention trial, Japanese participants had a reduction in CVD events with low-intensity doses of pravastatin as compared with placebo. In a secondary-prevention trial, Japanese participants with CAD benefited from a moderate-intensity dose of pravastatin.",
+            "Hispanic/Latino Americans": "No sensitivity to statin dosage is seen, as compared with non-Hispanic white or black individuals.",
+            "Blacks/African Americans": "No sensitivity to statin dosage is seen, as compared with non-Hispanic white individuals."
+          }
+        },
+        "Safety": {
+          "General": "Higher rosuvastatin plasma levels are seen in Japanese, Chinese, Malay, and Asian Indians as compared with whites. FDA recommends a lower starting dose (5 mg of rosuvastatin in Asians versus 10 mg in whites). Caution is urged as dose is uptitrated.",
+          "Hispanic/Latino Americans": "There are no specific safety issues with statins related to Hispanic/Latino ethnicity.",
+          "Blacks/African Americans": "Baseline serum CK values are higher in blacks than in whites. The 95th percentile race/ethnicity-specific and sex-specific serum CK normal levels are available for assessing changes in serum CK. Clinicians should take Asian race into account when prescribing dose of rosuvastatin (be specific in reason). In adults of East Asian descent, other statins should be used preferentially over simvastatin."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Hypertriglyceridemia",
+        "Recommendations": [
+          {
+            "Class": "I",
+            "Level of Evidence": "B-NR",
+            "Details": "In adults 20 years of age or older with moderate hypertriglyceridemia (fasting or nonfasting triglycerides 175 to 499 mg/dL), clinicians should address and treat lifestyle factors (obesity and metabolic syndrome), secondary factors (diabetes mellitus, chronic liver or kidney disease and/or nephrotic syndrome, hypothyroidism), and medications that increase triglycerides."
+          },
+          {
+            "Class": "IIa",
+            "Level of Evidence": "B-R",
+            "Details": "In adults 40 to 75 years of age with moderate or severe hypertriglyceridemia and ASCVD risk of 7.5% or higher, it is reasonable to reevaluate ASCVD risk after lifestyle and secondary factors are addressed and to consider a persistently elevated triglyceride level as a factor favoring initiation or intensification of statin therapy."
+          },
+          {
+            "Class": "IIa",
+            "Level of Evidence": "B-R",
+            "Details": "In adults 40 to 75 years of age with severe hypertriglyceridemia (fasting triglycerides \u2265500 mg/dL) and ASCVD risk of 7.5% or higher, it is reasonable to address reversible causes of high triglyceride and to initiate statin therapy."
+          },
+          {
+            "Class": "IIa",
+            "Level of Evidence": "B-NR",
+            "Details": "In adults with severe hypertriglyceridemia (fasting triglycerides \u2265500 mg/dL), especially fasting triglycerides \u22651,000 mg/dL, it is reasonable to identify and address other causes of hypertriglyceridemia, and if triglycerides are persistently elevated or increasing, to further reduce triglycerides by implementation of a very low-fat diet, avoidance of refined carbohydrates and alcohol, consumption of omega-3 fatty acids, and, if necessary to prevent acute pancreatitis, fibrate therapy."
+          }
+        ],
+        "Synopsis": "Two categories of hypertriglyceridemia consist of moderate (fasting or nonfasting triglycerides 175-499 mg/dL) and severe (fasting triglycerides \u2265500 mg/dL). Excess triglycerides are carried in VLDL or chylomicrons. Severe hypertriglyceridemia increases the risk of ASCVD and acute pancreatitis.",
+        "Specific Supportive Text": [
+          "In patients with moderate hypertriglyceridemia, it is recommended to reduce both atherogenic VLDL and associated risk factors by nonpharmacological means where possible. Identification and treatment of underlying causes of elevated triglycerides are recommended.",
+          "Most patients with severe hypertriglyceridemia have multiple ASCVD risk factors.",
+          "Statin therapy is considered for the prevention of ASCVD and pancreatitis in severe hypertriglyceridemia."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "cor": "I",
+            "loe": "B-NR",
+            "details": "Clinicians should consider conditions specific to women, such as premature menopause and history of pregnancy-associated disorders, when discussing lifestyle intervention and the potential for benefit of statin therapy."
+          },
+          {
+            "cor": "I",
+            "loe": "C-LD",
+            "details": "Women of childbearing age treated with statin therapy and are sexually active should be counseled to use a reliable form of contraception."
+          },
+          {
+            "cor": "I",
+            "loe": "C-LD",
+            "details": "Women of childbearing age with hypercholesterolemia who plan to become pregnant should stop the statin 1 to 2 months before pregnancy is attempted, or stop as soon as pregnancy is discovered."
+          }
+        ],
+        "issues_specific_to_women": [
+          "Hypertensive disorders during pregnancy",
+          "Preeclampsia",
+          "Gestational diabetes mellitus",
+          "Delivering a preterm or low-birth-weight infant",
+          "Premature menopause"
+        ],
+        "synopsis": "Atherosclerosis typically occurs later in women than in men, but CVD remains the leading cause of death in women. Statins reduce ASCVD events in women and men with ASCVD. Some pregnancy-related conditions increase ASCVD risk."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guidelines": [
+          "ASCVD risk should be assessed considering various risk-enhancing factors, including a history of gestational diabetes.",
+          "Interventions for reducing ASCVD risk include lifestyle counseling and statin therapy if appropriate.",
+          "Statins are contraindicated in pregnant women due to potential risks such as fetal malformations and are typically discontinued before pregnancy.",
+          "Statin therapy should also be stopped shortly before unplanned pregnancies and not restarted until after pregnancy and breastfeeding.",
+          "Adults with chronic kidney disease (CKD) have specific statin therapy recommendations depending on the presence of dialysis and kidney transplant status."
+        ],
+        "recommendations_for_adults_with_ckd": [
+          {
+            "cor": "IIa",
+            "loe": "B-R",
+            "recommendation": "In adults 40 to 75 years of age with LDL-C 70 to 189 mg/dL and CKD not treated with dialysis or kidney transplantation, consider statin therapy (S4.5.4-1, S4.5.4-2)."
+          },
+          {
+            "cor": "IIb",
+            "loe": "C-LD",
+            "recommendation": "Adults with advanced kidney disease on dialysis may continue statin therapy (S4.5.4-2)."
+          },
+          {
+            "cor": "III: No Benefit",
+            "loe": "B-R",
+            "recommendation": "For adults with advanced kidney disease on dialysis, initiation of a statin is not recommended (S4.5.4-3, S4.5.4-4)."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The guideline discusses the risk-enhancing factor of CKD for ASCVD and the role of statins for patients with different stages of CKD. It also covers recommendations for patients with chronic inflammatory disorders and HIV, emphasizing the need for statin therapy and lifestyle modifications to manage ASCVD risk.",
+        "CKD and ASCVD": "CKD is a risk-enhancing factor for ASCVD. Statin therapy is recommended for intermediate-risk patients. Statin initiation is not recommended for those on dialysis.",
+        "Albuminuria": "Independently associated with CVD risk. Presence with reduced eGFR increases risk. Trials show benefits of statin use.",
+        "SHARP Trial": "Supports continuation of statins in CKD patients already on treatment.",
+        "Recommendations for Chronic Conditions": "Moderate-intensity statin therapy is recommended for patients with chronic inflammatory disorders and HIV with elevated ASCVD risk."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Inflammation promotes atherosclerosis, affecting chronic rheumatologic inflammatory joint disorders such as systemic lupus erythematosus, rheumatoid arthritis (RA), and psoriasis, increasing cardiovascular disease (CVD) risks. Individuals with HIV or hepatitis C virus co-infection have elevated ASCVD risks. RA patients have increased lipid levels, which are exacerbated by some anti-inflammatory treatments. Accurate ASCVD risk assessment in these conditions is vital, emphasizing lifestyle and risk factor management.": [],
+        "genes": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Focus": "Statin therapy and management of related side effects such as statin-associated muscle symptoms (SAMS) and increased diabetes risk.",
+        "Recommendations": [
+          {
+            "Recommendation": "Identification of potential predisposing factors for statin-associated side effects is recommended before initiation of treatment.",
+            "Evidence Level": "I B-R"
+          },
+          {
+            "Recommendation": "Reassessment and rechallenge with statins or modified dosing in case of non-severe side effects to achieve maximal LDL-C lowering.",
+            "Evidence Level": "I B-R"
+          },
+          {
+            "Recommendation": "Continue statin therapy in patients with increased diabetes risk, emphasizing adherence and lifestyle changes.",
+            "Evidence Level": "I B-R"
+          },
+          {
+            "Recommendation": "Measurement of creatine kinase in severe statin-associated muscle symptoms and liver panel if symptoms of hepatotoxicity present.",
+            "Evidence Level": "I C-LD"
+          },
+          {
+            "Recommendation": "Use of statins in patients with chronic stable liver disease and schedule monitoring for safety.",
+            "Evidence Level": "I B-R"
+          },
+          {
+            "Recommendation": "Use RCT proven non-statin therapy if statin rechallenge fails to offer clinical benefit in severe or recurrent muscle symptoms.",
+            "Evidence Level": "IIa B-R"
+          },
+          {
+            "Recommendation": "Coenzyme Q10 is not recommended for routine use.",
+            "Evidence Level": "III B-R"
+          },
+          {
+            "Recommendation": "Routine measurements of creatine kinase and transaminase levels in statin-treated patients are not recommended.",
+            "Evidence Level": "III C-LD"
+          }
+        ],
+        "SAMS": "Statin-associated muscle symptoms that are often subjective and can result in non-adherence impacting ASCVD outcomes.",
+        "Emphasis on": "Patient-centered strategies, adherence, symptoms management, and maximizing benefit from statins."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Statin-Associated Side Effects (SASE)": [
+          {
+            "Effect": "Myalgias (CK Normal)",
+            "Frequency": "Infrequent (1% to 5%) in RCTs; frequent (5% to 10%) in observational studies and clinical setting",
+            "Predisposing Factors": "Age, female sex, low body mass index, high-risk medications (CYP3A4 inhibitors, OATP1B1 inhibitors), comorbidities (HIV, renal, liver, thyroid, preexisting myopathy), Asian ancestry, excess alcohol, high levels of physical activity, and trauma",
+            "Quality of Evidence": "RCTs cohorts/observational"
+          },
+          {
+            "Effect": "Myositis/myopathy (CK > ULN with concerning symptoms or objective weakness)",
+            "Frequency": "Rare",
+            "Quality of Evidence": "RCTs cohorts/observational"
+          },
+          {
+            "Effect": "Rhabdomyolysis (CK >10x ULN + renal injury)",
+            "Frequency": "Rare",
+            "Quality of Evidence": "RCTs cohorts/observational"
+          },
+          {
+            "Effect": "Statin-associated autoimmune myopathy (HMGCR antibodies, incomplete resolution)",
+            "Frequency": "Rare",
+            "Quality of Evidence": "Case reports"
+          },
+          {
+            "Effect": "New-onset diabetes mellitus",
+            "Frequency": "Depends on population; more frequent if diabetes mellitus risk factors are present, such as body mass index \u226530, fasting blood glucose \u2265100 mg/dl, metabolic syndrome, or A1c \u22656%",
+            "Predisposing Factors": "Diabetes mellitus risk factors/metabolic syndrome, high-intensity statin therapy",
+            "Quality of Evidence": "RCTs/meta-analyses"
+          },
+          {
+            "Effect": "Transaminase elevation 3\u00d7 ULN",
+            "Frequency": "Infrequent",
+            "Quality of Evidence": "RCTs/cohorts/observational, Case reports"
+          },
+          {
+            "Effect": "Hepatic failure",
+            "Frequency": "Rare",
+            "Quality of Evidence": "Rare"
+          },
+          {
+            "Effect": "Memory/cognition",
+            "Frequency": "Rare",
+            "Quality of Evidence": "Case reports; no increase in memory/cognition problems in 3 large-scale RCTs"
+          },
+          {
+            "Effect": "Cancer",
+            "Frequency": "No definite association",
+            "Quality of Evidence": "RCTs/meta-analyses"
+          },
+          {
+            "Effect": "Renal function",
+            "Frequency": "Unfounded"
+          },
+          {
+            "Effect": "Cataracts",
+            "Frequency": "Unfounded"
+          },
+          {
+            "Effect": "Tendon rupture",
+            "Frequency": "Unfounded"
+          },
+          {
+            "Effect": "Hemorrhagic stroke",
+            "Frequency": "Unfounded"
+          },
+          {
+            "Effect": "Interstitial lung disease",
+            "Frequency": "Unfounded"
+          },
+          {
+            "Effect": "Low testosterone",
+            "Frequency": "Unfounded"
+          }
+        ],
+        "Notes": [
+          "CK indicates creatine kinase.",
+          "HIV, human immunodeficiency virus.",
+          "HMGCR, 3-hydroxy-3-methyl-glutaryl-coenzyme A reductase.",
+          "SAMS, statin-associated muscle symptoms.",
+          "SAAM, statin-associated autoimmune myopathy.",
+          "SASE, statin associated side effects.",
+          "ULN, upper limit of normal."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "HMGCR",
+          "Associated Conditions": [
+            "Statin-associated autoimmune myopathy"
+          ],
+          "Occurrences": 1,
+          "context": "Statin-associated autoimmune myopathy (HMGCR antibodies, incomplete resolution) is rare."
+        }
+      ]
+    },
+    {
+      "content": {
+        "clinical_decision_making": "Effects support informed clinical decision-making for safe and effective therapy.",
+        "crossover_trials": "Patients with SAMS support alternative dosing regimens.",
+        "statin_discontinuation": "Management strategy until symptoms improve with options for reduced dose, alternative agent, or rechallenge.",
+        "rhabdomyolysis": "Patients may need to discontinue statins; reversible causes should be sought.",
+        "statin-associated_diseases": "Autoimmune myopathy, SAMS, diabetes mellitus.",
+        "baseline_liver_transaminases": "Recommended check before statin therapy and monitoring for hepatotoxicity.",
+        "SAMS_management": "Includes reassessment, rediscussion, and rechallenge.",
+        "statin_side_effects": "Symptoms are subjective, with no definitive diagnostic criteria for coenzyme Q10 deficiency."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations": [
+          "Interventions focused on improving adherence to prescribed therapy are recommended for managing adults with elevated cholesterol levels. This includes using telephone reminders, calendar reminders, integrated multidisciplinary educational activities, and pharmacist-led interventions, such as the simplification of the drug regimen to once-daily dosing.",
+          "Clinicians, health systems, and health plans should identify patients who are not receiving guideline-directed medical therapy and facilitate the initiation of appropriate guideline-directed medical therapy using multifaceted strategies to improve guideline implementation.",
+          "Before therapy is prescribed, a patient-clinician discussion should promote shared decision-making, considering the potential for ASCVD risk-reduction benefit, adverse effects, drug-drug interactions, and patient preferences."
+        ],
+        "Implementation Strategies": [
+          "Barrier overcoming and guideline implementation require multilevel strategies at patient, clinician, health system, and health plan levels.",
+          "Patient engagement is crucial for guideline adherence, where effective measures include patient-clinician discussions, addressing patient queries, and encouraging adherence to lifestyle changes and medications.",
+          "Out-of-pocket costs can be addressed through multidisciplinary educational activities and pharmacist-led interventions.",
+          "Clinician directed-reminders and educational outreach are effective in improving adherence, process-of-care, clinical, cost-reduction, and cost-effectiveness outcomes."
+        ],
+        "Challenges": [
+          "Cholesterol guideline implementation has not been optimal, often due to patient nonadherence or not receiving prescribed medications.",
+          "Educational interventions at the clinician and patient levels may improve guideline adherence.",
+          "Formulary restrictions and pre-authorization requirements can delay adherence."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Cost and Value Considerations": {
+          "Economic Value of PCSK9 Inhibitors": "ACCF/AHA guidelines stress the importance of economic value in recommendations, particularly with PCSK9 inhibitors for reducing LDL-C levels. The cost-effectiveness can range from $141,700 to $450,000 per QALY at 2018 prices, and almost all models indicate 'low value.' Reduction in costs is needed for better economic viability, estimated to be 70% to 85% in the U.S."
+        }
+      },
+      "genes": [
+        {
+          "Gene": "PCSK9",
+          "Associated Conditions": [
+            "Cardiovascular events",
+            "ASCVD"
+          ],
+          "Occurrences": 5,
+          "context": "PCSK9 inhibitors further reduce LDL-C when combined with other LDL-lowering drugs. The guidelines highlight the cost-effectiveness and the economic value of PCSK9 inhibitors for secondary prevention of cardiovascular events."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Cost-Effectiveness Analysis": "This document analyzes the cost-effectiveness of PCSK9 inhibitors in the treatment of cholesterol. The graph depicts the relationship between incremental cost-effectiveness and quality-adjusted life years (QALYs) added by PCSK9 inhibitors.",
+        "Economic Models": "Two economic models are discussed regarding the value of PCSK9 inhibitors for primary prevention in patients with heterozygous familial hypercholesterolemia (FH). One model found low value when used for FH, while another reported intermediate value.",
+        "Limitations and Knowledge Gaps": "RCTs have demonstrated LDL-C reduction benefits in reducing ASCVD risks. Concerns exist regarding PCSK9 inhibitor cost-effectiveness in FH and treatment guidelines for both primary and secondary prevention require more data.",
+        "Treatment Considerations": "Key questions include LDL-C target levels for secondary prevention, indications for PCSK9 inhibitors, and the impact of these treatments on patients with ASCVD and those with statin-associated side effects."
+      },
+      "genes": [
+        {
+          "Gene": "PCSK9",
+          "Associated Conditions": [
+            "Familial Hypercholesterolemia",
+            "Atherosclerotic Cardiovascular Disease (ASCVD)"
+          ],
+          "Occurrences": 5,
+          "context": "PCSK9 inhibitors are analyzed for cost-effectiveness in reducing cholesterol. The guidelines discuss their use in primary prevention for patients with heterozygous familial hypercholesterolemia and potential benefits in reducing ASCVD events."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Paragraphs": [
+          {
+            "Section": "8.2",
+            "Title": "Risk Assessment",
+            "Content": "In primary prevention, appropriate selection of patients for cholesterol-lowering drug therapy is crucial and dependent on risk assessment. Past guidelines used risk-assessment algorithms like Framingham risk score to estimate risk, which may overestimate or underestimate individual risk. The new guidelines emphasize the clinician-patient risk discussion in making decisions. Measurement of Coronary Artery Calcium (CAC) is proposed as a step in treatment decisions."
+          },
+          {
+            "Subsection": "8.2.1",
+            "Title": "Continuing Refinement of PCE",
+            "Content": "As the U.S. population baseline risk may decline, ongoing studies are needed to assess and update population risk, indicated by developments like QRISK in the U.K."
+          },
+          {
+            "Subsection": "8.2.2",
+            "Title": "Improvement in Lifetime Risk Estimate",
+            "Content": "Guidelines include a lifetime ASCVD risk algorithm for ages 20 to 59 years, based on insufficient data. A more robust lifelong risk algorithm is needed for better treatment decisions."
+          },
+          {
+            "Subsection": "8.2.3",
+            "Title": "Reinforcement of Clinician-Patient Risk Discussion",
+            "Content": "The clinician-patient interaction is pivotal for informing decisions, especially since cholesterol-lowering therapy is long-term."
+          },
+          {
+            "Subsection": "8.2.4",
+            "Title": "Monitoring and Adjustment of Treatment",
+            "Content": "Emphasizes the importance of ongoing interaction between the clinician and patient for therapy adherence and effectiveness."
+          },
+          {
+            "Subsection": "8.2.5",
+            "Title": "Prognostic Significance of CAC",
+            "Content": "The significance and uncertainty of intermediate CAC scores is discussed. Follow-up studies are recommended for those with a score of zero."
+          }
+        ],
+        "PresidentsAndStaff": {
+          "American College of Cardiology": [
+            "C. Michael Valentine, MD, FACC, President",
+            "Timothy W. Attebery, MBA, FACHE, Chief Executive Officer",
+            "William J. Oetgen, MD, MBA, FACC, Executive Vice President"
+          ],
+          "American Heart Association": [
+            "Ivor Benjamin, MD, FAHA, President",
+            "Nancy Brown, Chief Executive Officer"
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Introduction": {
+          "Methodology and Evidence Review": "This guideline is a systematic review for the 2018 AHA/ACC/ACP/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA guideline on the management of blood cholesterol.",
+          "Scope of the Guideline": "The efficacy and safety of more intensive lowering of LDL cholesterol were analyzed using data from studies involving over 170,000 participants."
+        },
+        "High Blood Cholesterol and ASCVD": {
+          "Serum Cholesterol, Lipoproteins, and ASCVD": {
+            "Cholesterol, LDL-C, and ASCVD": "There is a relationship between serum cholesterol and the risk of premature death from coronary heart disease."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": "The document is the 2018 Cholesterol Clinical Practice Guideline, providing a detailed analysis of cholesterol treatment options, focusing on lifestyle therapy, lipid-lowering drugs, and nonstatin therapies. Key topics include dietary management, obesity control, the efficacy of statins, specific trials related to risk reduction, and the relationship between lipoproteins and cardiovascular disease."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Document Title": "2018 Cholesterol Clinical Practice Guideline",
+        "Sections": [
+          {
+            "Title": "3.2.3. Nonstatin Add-on Drugs to Statin Therapy",
+            "Subsections": [
+              {
+                "Title": "3.2.3.1",
+                "Content": "Ezetimibe Added to Statin Therapy after Acute Coronary Syndromes."
+              },
+              {
+                "Title": "3.2.3.2",
+                "Content": "National lipid association recommendations for patient-centered management of dyslipidemia."
+              },
+              {
+                "Title": "3.2.3.3",
+                "Content": "Efficacy and safety of evolocumab in high cardiovascular risk patients with dyslipidemia."
+              },
+              {
+                "Title": "3.2.3.4",
+                "Content": "Efficacy and safety of evolocumab in reducing lipids and cardiovascular events."
+              }
+            ]
+          },
+          {
+            "Title": "4. PATIENT MANAGEMENT GROUPS",
+            "Subsections": [
+              {
+                "Title": "4.1. Secondary ASCVD Prevention",
+                "Subsections": [
+                  {
+                    "Title": "4.1.1",
+                    "Content": "High-dose atorvastatin after stroke or transient ischemic attack.",
+                    "Reference": "N Engl J Med. 2006;355:549\u201359."
+                  },
+                  {
+                    "Title": "4.1.2",
+                    "Content": "Treatment with atorvastatin vs. Cholesterol Educational Program goal in coronary heart disease.",
+                    "Reference": "Curr Med Res Opin. 2008;24:2309\u201322."
+                  },
+                  {
+                    "Title": "4.1.3",
+                    "Content": "Efficacy of statins in lowering LDL cholesterol.",
+                    "Reference": "Lancet. 2010;376:1670\u201381."
+                  },
+                  {
+                    "Title": "4.1.4",
+                    "Content": "Interpretation of the evidence for statins in cholesterol treatment.",
+                    "Reference": "Lancet. 2016;388:2532\u201361."
+                  },
+                  {
+                    "Title": "4.1.5",
+                    "Content": "Effects of simvastatin on peripheral vascular and major vascular outcomes.",
+                    "Reference": "J Vasc Surg. 2007;45:645\u201354."
+                  },
+                  {
+                    "Title": "4.1.6",
+                    "Content": "Reduction of cholesterol with simvastatin and cardiovascular mortality.",
+                    "Reference": "Lancet. 1994;344:1383\u20139."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "PCSK9",
+          "Associated Conditions": [
+            "Hyperlipidemia"
+          ],
+          "Occurrences": 1,
+          "context": "4.2.10. Hamil MV, Kazi DS. PCSK9 inhibitors, economics, and policy. J Am Coll Cardiol. 2017;70:2677-87."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Clinical Information": [
+          "This document discusses various studies and guidelines related to cholesterol management, particularly the efficacy and safety of different cholesterol-lowering interventions, such as statins, PCSK9 inhibitors, and other medications.",
+          "Focus on adults with familial hypercholesterolemia and individuals with atherosclerotic cardiovascular disease.",
+          "Discussion on diabetes mellitus in adults and its association with cardiovascular disease risk.",
+          "Evaluations of different medication regimes, including the long-term safety and outcomes associated with these therapies."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "PCSK9",
+          "Associated Conditions": [
+            "Familial Hypercholesterolemia",
+            "Atherosclerotic Cardiovascular Disease"
+          ],
+          "Occurrences": 4,
+          "context": [
+            "Efficacy and safety of evolocumab in patients with familial hypercholesterolemia.",
+            "Efficacy and safety of alirocumab in patients with heterozygous familial hypercholesterolemia.",
+            "Comparison of alirocumab and statins in patients with hypercholesterolemia.",
+            "Evaluations of PCSK9 inhibition in adults with hypercholesterolemia."
+          ]
+        }
+      ]
+    },
+    {
+      "content": {
+        "Overview": "This clinical guideline from 2018 focuses on cholesterol and its impact on cardiovascular health. It provides evidence and recommendations regarding cholesterol management, risks associated with high cholesterol, and interventions such as LDL-cholesterol lowering therapies. The guideline includes studies on the effects of statins, ezetimibe, and other interventions on cardiovascular outcomes.",
+        "Primary Prevention": {
+          "Calcium Assessment": "Coronary artery calcium assessment is discussed as a tool for evaluating the risk of coronary artery disease.",
+          "Psychology of Clinical Decision Making": "Implications of the psychology of clinical decision making on medication use are mentioned."
+        },
+        "Diet and Lifestyle": {
+          "Dietary Fats": "The effects of dietary saturated fatty acids on plasma lipids and lipoproteins are discussed."
+        },
+        "Cardiovascular Disease Risk": {
+          "Medication": "The use of statins and ezetimibe for risk reduction is evaluated. Statin therapy is recommended for certain populations to lower LDL-C and cardiovascular risk."
+        }
+      },
+      "genes": [
+        {
+          "Gene": "LDLR",
+          "Associated Conditions": [
+            "Cardiovascular Disease"
+          ],
+          "Occurrences": 2,
+          "context": "The focus on LDL-cholesterol lowering in the management of atherosclerotic cardiovascular disease includes recommendations for LDLR-related therapies."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "2018 Cholesterol Clinical Practice Guideline",
+        "general_topics": [
+          "Cholesterol management",
+          "Cardiovascular risk assessment",
+          "Use of statins in prevention",
+          "Cardiovascular disease prediction models",
+          "Guidelines for atherosclerotic cardiovascular disease"
+        ],
+        "specific_studies_and_guidelines": [
+          "Pooled Cohort Equations for cardiovascular disease prediction",
+          "ACC/AHA cholesterol management guidelines",
+          "Risk assessment and cholesterol treatment in specific populations",
+          "Impact of coronary artery calcium scoring in risk prediction",
+          "Studies on statins and cardiovascular outcomes"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2018 Cholesterol Clinical Practice Guideline",
+        "focus": "Primary Prevention Adults 40 to 75 Years of Age with LDL-C Levels 70 to 189 mg/dL (1.7-4.8 mmol/L)",
+        "key_points": [
+          {
+            "section": "4.4.2.1",
+            "details": "Efficacy and safety of more intensive lowering of LDL cholesterol in adults - meta-analysis of data from 170,000 participants in 26 randomized trials."
+          },
+          {
+            "section": "4.4.2.2",
+            "details": "Effects of lowering LDL cholesterol with simvastatin plus ezetimibe on patients with chronic kidney disease - randomized placebo-controlled trial."
+          },
+          {
+            "section": "4.4.2.3",
+            "details": "Cholesterol Treatment Trialists' Collaboration - impact of reducing LDL cholesterol with statins."
+          },
+          {
+            "section": "4.4.2.18",
+            "details": "Low percent reclassification in LDL cholesterol following high-intensity statin therapy potential implications."
+          },
+          {
+            "section": "4.4.2.19",
+            "details": "Use of coronary artery calcium score for atherosclerotic cardiovascular disease risk assessment in older adults."
+          },
+          {
+            "section": "4.4.2.20",
+            "details": "Coronary artery calcium score for diabetes and metabolic syndrome patients."
+          },
+          {
+            "section": "4.4.2.21",
+            "details": "Novel hypercholesterolemia phenotype: clinical diagnosis, management, and emerging therapies."
+          },
+          {
+            "section": "4.4.2.25",
+            "details": "Association of coronary artery calcium scoring with cardiovascular events in older adults and young adults."
+          },
+          {
+            "section": "4.4.2.34",
+            "details": "Role of family history in coronary heart disease prediction."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "2018 Cholesterol Clinical Practice Guidelines from the American College of Cardiology/American Heart Association.",
+        "focus": "Assessment of coronary artery calcium scoring, statin therapy in elderly, monitoring LDL-C lowering therapy, primary prevention in various age groups, and assessing the benefits of statins and other treatments on cardiovascular health.",
+        "recommendations": [
+          "Consideration of coronary artery calcium scoring for risk assessment in asymptomatic adults.",
+          "Monitoring LDL-C lowering therapy effectiveness, especially in older adults.",
+          "Statin therapy can be considered for primary prevention of cardiovascular disease in specific age groups.",
+          "Importance of personalized approaches to cholesterol management and risk assessment."
+        ],
+        "study references": [
+          "HEART and Renal Protection (SHARP) study regarding LDL cholesterol lowering in patients with chronic kidney disease.",
+          "Lipid Research Clinics Coronary Primary Prevention Trial on cholesterol reduction."
+        ],
+        "cardiovascular strategies": [
+          "Use of statins and other medications like ezetimibe and resins.",
+          "Assessment of cardiovascular risk using biomarkers and scores."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2018 Cholesterol Clinical Practice Guideline",
+        "Sections": [
+          {
+            "Number": "S4.4.4.1-18",
+            "Title": "Children and Adolescents",
+            "Topics": [
+              {
+                "Research Focus": "Comparison of Two Glycemic Index Diets",
+                "Study": "Tamir I, Davidson M, Leal M, Wacca M. et al.",
+                "Findings": "Two glycemic index diets varied on their impact on childhood subclinical atherosclerosis."
+              },
+              {
+                "Treatment": "Dorgan JF, et al.",
+                "Findings": "Effectiveness of cholesterol-lowering intervention in children."
+              }
+            ]
+          },
+          {
+            "Number": "S4.4.4.32",
+            "Title": "Familial Hypercholesterolemia Screening",
+            "Reference": "National Institute for Health and Care Excellence (NICE) guidelines."
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "APOB",
+          "Associated Conditions": [
+            "Familial Hypercholesterolemia"
+          ],
+          "Occurrences": 1,
+          "context": "Screening for familial hypercholesterolemia in children involves analysis of the LDL receptor, APOB, and PCSK9 genes."
+        },
+        {
+          "Gene": "PCSK9",
+          "Associated Conditions": [
+            "Familial Hypercholesterolemia"
+          ],
+          "Occurrences": 1,
+          "context": "Screening for familial hypercholesterolemia in children involves analysis of the LDL receptor, APOB, and PCSK9 genes."
+        }
+      ]
+    },
+    {
+      "content": {
+        "summary": "The document is a clinical practice guideline focused on cholesterol management, hypercholesterolemia, and associated cardiovascular risks in various populations, especially addressing familial hypercholesterolemia in children and adolescents. It emphasizes the significance of ethnicity, genetics, and socio-economic factors in cardiovascular risk and treatment outcomes.",
+        "focus": "The document discusses cholesterol reduction strategies, guidelines development, and implications for ethnic groups and genetic diversity."
+      },
+      "genes": [
+        {
+          "Gene": "HPS2-THRIVE",
+          "Associated Conditions": [
+            "Hypercholesterolemia",
+            "Cardiovascular Risk"
+          ],
+          "Occurrences": 1,
+          "context": "HPS2-THRIVE randomized placebo-controlled trial in 25 673 high-risk patients of European origin."
+        }
+      ]
+    },
+    {
+      "content": {
+        "clinical_guideline": "2018 Cholesterol Clinical Practice Guideline",
+        "authors": [
+          "Grundy et al."
+        ],
+        "publication": "JACC Vol. 73, No. 24, 2019",
+        "date": "June 25, 2019",
+        "focus": "Cholesterol management, cardiovascular disease prevention, hypertriglyceridemia, statin therapy, and guidelines for specific populations such as women and ethnic minorities.",
+        "keywords": [
+          "statins",
+          "cardiovascular risk",
+          "hypertriglyceridemia",
+          "ethnic differences",
+          "genetic factors",
+          "LDL cholesterol",
+          "triglycerides",
+          "pregnancy",
+          "women's health"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_sections": [
+          {
+            "section_title": "4.5.4. Adults With CKD",
+            "details": [
+              "Various studies are presented, examining the impact of LDL cholesterol-lowering with statins and other treatments on cardiovascular events in adults with chronic kidney disease (CKD).",
+              "The Heart Protection Study (HPS) investigated simvastatin's effect on vascular events in CKD patients.",
+              "Other studies examine the impact of statins with and without ezetimibe."
+            ]
+          },
+          {
+            "section_title": "4.5.6. Adults With Chronic Inflammatory Disorders and HIV",
+            "details": [
+              "The guideline highlights that chronic inflammatory diseases like rheumatoid arthritis and SLE are associated with an increased risk of cardiovascular disease.",
+              "Antiretroviral therapy in HIV patients may also heighten cardiovascular risk."
+            ]
+          },
+          {
+            "section_title": "5. Statin Safety and Statin-Associated Side Effects",
+            "details": [
+              "Sections discuss the safety profile of statins, including risks such as diabetes and impacts on muscle function.",
+              "Evidence is summarized from various studies on the anti-inflammatory properties of statins and their clinical implications."
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_title": "2018 Cholesterol Clinical Practice Guideline",
+        "general_information": [
+          "This document reviews various clinical studies and guidelines regarding cholesterol management and statin therapy.",
+          "It includes meta-analyses, randomized trials, and expert consensus.",
+          "Key studies mentioned involve the effects of statins in primary prevention, the impact of statin intolerance, and approaches to improve medication adherence."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "costAndValueConsiderations": {
+          "PCSK9Inhibitors": [
+            {
+              "study": "ACC/AHA statement on cost/value methodology",
+              "source": "J Am Coll Cardiol. 2014;63:2304-232",
+              "authors": "Anderson JL, Heidenreich PA, Barnett PG, et al."
+            },
+            {
+              "studyName": "Economics and clinical outcomes in patients",
+              "source": "N Engl J Med. 2017;376:173-22",
+              "authors": "Sabatine MS, Giugliano RP, Keech AC, et al."
+            },
+            {
+              "studyName": "PCSK9 Inhibitors: economics and policy",
+              "source": "J Am Coll Cardiol. 2017;70:2677-87",
+              "authors": "Hlatky MA, Kazi DS"
+            },
+            {
+              "studyName": "Efficacy and safety of cholesterol-lowering treatment: meta-analysis of data from 90,056 participants in 14 randomised trials",
+              "source": "Lancet. 2005;366:1267-78",
+              "authors": "Baigent C, Keech A, Kearney PM, et al."
+            },
+            {
+              "studyName": "Cost-effectiveness of evolocumab therapy",
+              "source": "JAMA Cardiol. 2017;2:1069-78",
+              "authors": "Fonarow GC, Keech AC, Pedersen TR, et al."
+            },
+            {
+              "studyName": "Determining when to add nonstatin therapy",
+              "source": "J Am Coll Cardiol. 2016;68:2412-21.",
+              "authors": "Robinson JG, Huijgen R, Ray K, et al."
+            }
+          ]
+        },
+        "limitationsAndKnowledgeGaps": {
+          "riskAssessment": [
+            {
+              "study": "2013 ACC/AHA guideline on the treatment of blood cholesterol",
+              "source": "J Am Coll Cardiol. 2014; 63(25 Pt B):2889-934",
+              "authors": "Stone NJ, Robinson JG, Lichtenstein AH, et al."
+            }
+          ]
+        }
+      },
+      "genes": [
+        {
+          "Gene": "PCSK9",
+          "Associated Conditions": [
+            "hypercholesterolemia",
+            "atherosclerotic cardiovascular disease"
+          ],
+          "Occurrences": 2,
+          "context": "7.1. Economic Value Considerations: PCSK9 Inhibitors ... PCSK9 Inhibitors: economics and policy."
+        }
+      ]
+    },
+    {
+      "content": {
+        "document": "Appendix 1 of the 2018 Guideline on the Management of Blood Cholesterol",
+        "type": "Author relationships with industry and other entities",
+        "date": "August 2018",
+        "details": "Lists committee members, their employment, and any potential conflicts of interest such as consulting, speakers bureau involvement, ownership/partnership, personal research, institutional benefits, and expert witness roles, all noted as 'None'."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Committee Members": [
+          {
+            "Name": "Laurence S. Sperling",
+            "Employment": "Emory University, Rollins School of Public Health\u2014Professor of Medicine, Cardiology; Professor of Global Health",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Salim S. Virani",
+            "Employment": "Baylor College of Medicine\u2014Professor, Section of Cardiovascular Research and Director, Cardiology Fellowship Training Program; Michael E. DeBakey VA Medical Center\u2014Staff Cardiologist and Investigator, Health Policy, Quality & Informatics Program, Center for Innovations in Quality, Effectiveness and Safety",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Joseph Yeboah",
+            "Employment": "Wake Forest Baptist Health\u2014Assistant Professor, Internal Medicine, Cardiovascular",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          }
+        ],
+        "Notes": [
+          "This table represents the relationships of committee members with industry and other entities deemed relevant.",
+          "Relationships with no financial benefit are included for transparency.",
+          "The Cholesterol Guideline began in September 2016.",
+          "Minor relationships with industry not considered significant over initial years of CMS Open Payment System."
+        ],
+        "Organizations": [
+          "AACVPR",
+          "ABC",
+          "ACC",
+          "ACPM",
+          "ADA",
+          "AGS",
+          "AHA",
+          "APhA",
+          "ASPC",
+          "PCNA",
+          "VA"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document_title": "2018 AHA/ACC/ACVP/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol",
+        "appendix": "Appendix 2: Reviewer Relationships with Industry and Other Entities",
+        "guideline_focus": "Management of blood cholesterol"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Appendix": "2 Continued",
+        "Reviewers": [
+          {
+            "Name": "Earl W. Ferguson",
+            "Representation": "ACPM",
+            "Employment": "Ridgecrest Regional Hospital",
+            "Consultant": "Independent Consultant",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "Bakersfield Heart Hospital",
+            "Personal Research": "None",
+            "Financial Benefit": [
+              "Growth Creators Inc./Radelva/Petreva",
+              "California Health Information Partnership and Services Organization"
+            ],
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "Edward A. Gill, Jr",
+            "Representation": "NLA",
+            "Employment": "University of Colorado Cardiology Division",
+            "Consultant": "Professor of Clinic Practice, Medicine-Cardiology",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Salary": "Acute Coronary Syndrome, 2007"
+          },
+          {
+            "Name": "Tyler J. Gluckman",
+            "Representation": "ACC Board of Governors",
+            "Employment": "Providence St. Vincent Heart Clinic",
+            "Consultant": "Medical Director",
+            "Speakers Bureau": "Boehringer Ingelheim Pharmaceuticals",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "Rita Kalyani",
+            "Representation": "ADA",
+            "Employment": "Johns Hopkins School of Medicine",
+            "Consultant": "Associate Professor of Medicine",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "Norma M. Keller",
+            "Representation": "ACC Board of Governors",
+            "Employment": "New York University Medical Center",
+            "Consultant": "Chief of Cardiology",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "Amit Khera",
+            "Representation": "ASPC",
+            "Employment": "University of Texas Southwestern Medical Center",
+            "Consultant": "Assistant Professor of Medicine",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "Carol Kirkpatrick",
+            "Representation": "NLA",
+            "Employment": "Idaho State University",
+            "Consultant": "Wellness Center Director/Clinical Associate Professor Kasiak Division of Health Sciences",
+            "Speakers Bureau": "National Lipid Association",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "G. B. John Mancini",
+            "Representation": "ACC Board of Governors",
+            "Employment": "Vancouver Hospital Research Pavilion",
+            "Consultant": "Professor of Medicine",
+            "Speakers Bureau": [
+              "Amgen",
+              "Bayer",
+              "Boehringer Ingelheim Pharmaceuticals, Inc",
+              "Eli Lilly and Company",
+              "Esperion",
+              "Merck",
+              "Pfizer",
+              "Regeneron",
+              "Sanofi-aventis/Regeneron",
+              "Servier"
+            ],
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Salary": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Appendix": "Continued list of peer reviewers for a clinical practice guideline.",
+        "Reviewers": [
+          {
+            "Name": "Laxmi S. Mehta",
+            "Representation": "Official Reviewer\u2014ACC Science and Quality Committee",
+            "Employment": "Ohio State University",
+            "Roles": "Professor of Medicine, Section Director of Preventive Cardiology and Women\u2019s Cardiovascular Health",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "AHA\u2020",
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "David Montgomery",
+            "Representation": "Official Reviewer\u2014ABC",
+            "Employment": "Piedmont Heart Institute",
+            "Roles": "Cardiologist",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "Michelle Odendahl",
+            "Representation": "Official Reviewer\u2014AGS",
+            "Employment": "Oregon State University",
+            "Roles": "Associate Professor",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "Daniel J. Rader",
+            "Representation": "Official Reviewer\u2014AHA",
+            "Employment": "Cooper-McClure Professor of Medicine, University of Pennsylvania",
+            "Roles": "Director, Preventive Cardiovascular Medicine",
+            "Consultant": "Alnylam*, Novartis*, Pfizer*, DalCor, MedImmune, Inc",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "Staten Bio*, VascularStrategies*",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "Michael W. Rich",
+            "Representation": "Official Reviewer\u2014AGS",
+            "Employment": "Washington University School of Medicine",
+            "Roles": "Professor of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "Mirvat A. Alasnag",
+            "Representation": "Content Reviewer\u2014ACC Early Career Member Section",
+            "Employment": "King Fahd Armed Forces Hospital, Jeddah-KSA",
+            "Roles": "Interventional Cardiologist",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "Kim K. Bircher",
+            "Representation": "Content Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+            "Employment": "University of Houston College of Pharmacy",
+            "Roles": "Clinical Professor",
+            "Consultant": "Jones & Bartlett Learning",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "Accreditation Council for Clinical Lipidology\u2020",
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "Conrad B. Blum",
+            "Representation": "Content Reviewer\u2014ACC/AHA",
+            "Employment": "Medicine at Columbia University Medical Center",
+            "Roles": "Professor",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "ACC-AHA\u2020",
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "Bernard Dennis",
+            "Representation": "Content Reviewer\u2014ACC/AHA Lay Reviewer",
+            "Employment": "Dennis Associates, LLC",
+            "Roles": "None",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Salary": "None"
+          },
+          {
+            "Name": "Henry Ginsberg",
+            "Representation": "Content Reviewer\u2014AHA",
+            "Employment": "Columbia University, Irving\u2013Professor of Medicine",
+            "Roles": "None",
+            "Consultant": "Merck, Resverlogix, Sanofi-Regeneron, Amgen, Akcea, Kowa, Janssen, Esperion",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None",
+            "Salary": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "peer_reviewers": [
+          {
+            "name": "Ira Goldberg",
+            "representation": "AHA",
+            "employment": "NYU Division of Endocrinology, Diabetes, and Metabolism\u2014Director",
+            "consultant": [
+              "Akcea",
+              "Amgen",
+              "Arrowhead",
+              "Intracia",
+              "Merck",
+              "Regeneron"
+            ]
+          },
+          {
+            "name": "Jos\u00e9 A. Joglar",
+            "representation": "ACC/AHA",
+            "employment": "UT Southwestern Medical Center University\u2014Professor of Medicine"
+          },
+          {
+            "name": "Glenn N. Levine",
+            "representation": "ACC/AHA",
+            "employment": "Baylor College of Medicine\u2014Professor of Medicine",
+            "expert_witness": "Defendant, Out-of-hospital cardiopulmonary arrest, 2017"
+          },
+          {
+            "name": "Daniel Levy",
+            "representation": "ACC/AHA",
+            "employment": "Center for Population Studies\u2014Director; Journal of the American Society of Hypertension\u2014Editor-in-Chief"
+          },
+          {
+            "name": "Theodore Mazzone",
+            "representation": "ACC/AHA",
+            "employment": "NorthShore University Health System\u2014Chairman, Department of Medicine"
+          },
+          {
+            "name": "Patrick E. McBride",
+            "representation": "ACC/AHA",
+            "employment": "University of Wisconsin School of Medicine and Public Health\u2014Professor Emeritus, Departments of Medicine and Family Medicine",
+            "consultant": [
+              "Health Decisions, Inc."
+            ]
+          },
+          {
+            "name": "Karen J. McConnell",
+            "representation": "APhA",
+            "employment": "Catholic Health Initiatives\u2014System Director of Clinical Pharmacy Services"
+          },
+          {
+            "name": "Pamela B. Morris",
+            "representation": "ACC",
+            "employment": "Medical University of South Carolina\u2014Professor of Medicine, Director of Preventative Cardiology",
+            "consultant": [
+              "Amgen",
+              "Esperion",
+              "Sanofi Regeneron"
+            ]
+          },
+          {
+            "name": "Nathalie Pamir",
+            "representation": "AHA",
+            "employment": "Oregon Health and Science University\u2014Assistant Professor"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Appendix 2. Continued",
+        "Purpose": "Disclosure of relationships with industry and other entities for peer reviewers.",
+        "Details": "Table includes peer reviewer names, affiliations, and potential conflicts of interest related to speaking, consulting, research, financial benefits, and other roles."
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "Atherosclerotic Cardiovascular Disease",
+        "Hypercholesterolemia",
+        "ASCVD",
+        "High LDL-C",
+        "High LDL-C Levels",
+        "Familial Hypercholesterolemia (FH)",
+        "Cardiovascular events",
+        "Familial Hypercholesterolemia",
+        "Atherosclerotic Cardiovascular Disease (ASCVD)",
+        "Hyperlipidemia",
+        "hypercholesterolemia",
+        "atherosclerotic cardiovascular disease"
+      ],
+      "Occurrences": 34,
+      "context": [
+        "The text discusses the consideration of adding a PCSK9 inhibitor in patients with very high-risk ASCVD whose LDL-C level remains \u226570 mg/dL on maximally tolerated statin and ezetimibe therapy. It is also considered for patients with severe primary hypercholesterolemia if the patient's LDL-C level on statin plus ezetimibe remains \u2265100 mg/dL, especially if the patient has multiple factors that increase subsequent ASCVD risk events.",
+        "PCSK9 inhibitors may be useful in combination with statin therapy. In patients with ASCVD who are judged to be very high risk, PCSK9 inhibitors can be added to a maximally tolerated statin regimen.",
+        "If PCSK9-I is considered, add ezetimibe to maximal statin before adding PCSK9-I (Class I). If on clinically judged maximal LDL-C lowering therapy and LDL-C \u226570 mg/dL (\u22651.8 mmol/L), or non-HDL-C \u2265100 mg/dL (\u22652.6 mmol/L), adding PCSK9-I is reasonable (Class IIa).",
+        "PCSK9 inhibitors (evolocumab and alirocumab) are recommended for high-risk patients to lower LDL-C levels. Studies such as FOURIER and ODYSSEY have shown efficacy in reducing ASCVD events.",
+        "PCSK9 inhibitors are recommended in patients with very high risk and LDL-C \u226570 mg/dL on maximally tolerated statin therapy; the recommendation is based on evidence (LOE of A).",
+        "PCSK9 inhibitors are promising drugs for treatment of FH. ",
+        "Much greater additive reductions occur by adding a PCSK9 inhibitor to statin plus ezetimibe.",
+        "PCSK9 inhibitors further reduce LDL-C when combined with other LDL-lowering drugs. The guidelines highlight the cost-effectiveness and the economic value of PCSK9 inhibitors for secondary prevention of cardiovascular events.",
+        "PCSK9 inhibitors are analyzed for cost-effectiveness in reducing cholesterol. The guidelines discuss their use in primary prevention for patients with heterozygous familial hypercholesterolemia and potential benefits in reducing ASCVD events.",
+        "4.2.10. Hamil MV, Kazi DS. PCSK9 inhibitors, economics, and policy. J Am Coll Cardiol. 2017;70:2677-87.",
+        "Efficacy and safety of evolocumab in patients with familial hypercholesterolemia.",
+        "Efficacy and safety of alirocumab in patients with heterozygous familial hypercholesterolemia.",
+        "Comparison of alirocumab and statins in patients with hypercholesterolemia.",
+        "Evaluations of PCSK9 inhibition in adults with hypercholesterolemia.",
+        "Screening for familial hypercholesterolemia in children involves analysis of the LDL receptor, APOB, and PCSK9 genes.",
+        "7.1. Economic Value Considerations: PCSK9 Inhibitors ... PCSK9 Inhibitors: economics and policy."
+      ]
+    },
+    {
+      "Gene": "apoB",
+      "Associated Conditions": [
+        "atherosclerotic cardiovascular disease (ASCVD)",
+        "Familial Hypercholesterolemia",
+        "ASCVD"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "Abbreviation: apoB, Meaning/Phrase: apolipoprotein B",
+        "Lipid/Biomarkers: Persistently elevated triglycerides (\u2265175 mg/dL); hs-CRP, Lp(a), apoB, ABI in selected individuals."
+      ]
+    },
+    {
+      "Gene": "FH",
+      "Associated Conditions": [
+        "familial hypercholesterolemia"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Abbreviation: FH, Meaning/Phrase: familial hypercholesterolemia"
+      ]
+    },
+    {
+      "Gene": "Lp(a)",
+      "Associated Conditions": [
+        "atherosclerotic cardiovascular disease (ASCVD)",
+        "Increased ASCVD risk"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "Abbreviation: Lp(a), Meaning/Phrase: lipoprotein (a)",
+        "Elevated Lp(a): A relative indication for its measurement is family history of premature ASCVD. An Lp(a) \u226550 mg/dL or \u2265125 nmol/L constitutes a risk-enhancing factor especially at higher levels of Lp(a)."
+      ]
+    },
+    {
+      "Gene": "LPA",
+      "Associated Conditions": [
+        "Increased ASCVD risk"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Independent predictors of incident ASCVD over a 5.5-year follow-up period include LPA \u226550 mg/dL."
+      ]
+    },
+    {
+      "Gene": "CRP",
+      "Associated Conditions": [
+        "ASCVD"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "JUPITER trial enrolled men >=50 years of age and women >=60 years of age with high-sensitivity C-reactive protein values >=2.0 mg/L."
+      ]
+    },
+    {
+      "Gene": "HMGCR",
+      "Associated Conditions": [
+        "Statin-associated autoimmune myopathy"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Statin-associated autoimmune myopathy (HMGCR antibodies, incomplete resolution) is rare."
+      ]
+    },
+    {
+      "Gene": "LDLR",
+      "Associated Conditions": [
+        "Cardiovascular Disease"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "The focus on LDL-cholesterol lowering in the management of atherosclerotic cardiovascular disease includes recommendations for LDLR-related therapies."
+      ]
+    },
+    {
+      "Gene": "APOB",
+      "Associated Conditions": [
+        "Familial Hypercholesterolemia"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Screening for familial hypercholesterolemia in children involves analysis of the LDL receptor, APOB, and PCSK9 genes."
+      ]
+    },
+    {
+      "Gene": "HPS2-THRIVE",
+      "Associated Conditions": [
+        "Hypercholesterolemia",
+        "Cardiovascular Risk"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "HPS2-THRIVE randomized placebo-controlled trial in 25 673 high-risk patients of European origin."
+      ]
+    }
+  ]
+}

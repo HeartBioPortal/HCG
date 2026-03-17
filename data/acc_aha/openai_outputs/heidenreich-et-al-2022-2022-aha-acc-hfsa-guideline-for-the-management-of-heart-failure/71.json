@@ -1,0 +1,29 @@
+{
+  "content": {
+    "Title": "Diagnostic and Treatment of Transthyretin Cardiac Amyloidosis Algorithm",
+    "Steps": [
+      "History, ECG, echocardiogram, cardiac MRI suggestive of cardiac amyloidosis",
+      "Check for monoclonal light chains",
+      "If presence of a monoclonal light chain: Conduct hematology-oncology consultation and consider heart or other biopsy",
+      "If no monoclonal light chain: Check Tc-99m-PYP scan",
+      "If Tc-99m-PYP abnormal: Perform TTR gene sequencing",
+      "If amyloid on heart biopsy triggers different paths: AL-CM (amyloid cardiomyopathy) vs ATTR-CM (transthyretin amyloid cardiomyopathy)",
+      "Treatment recommendations based on subtype of amyloidosis (ATTRv-CM, ATTRwt-CM)",
+      "Additional treatments include antidotes like Tafamidis",
+      "Anticoagulation regardless of CHA2DS2-VASc score in case of atrial fibrillation"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "TTR",
+      "Associated Conditions": [
+        "Cardiac Amyloidosis",
+        "Transthyretin Amyloid Cardiomyopathy (ATTR-CM)",
+        "Variant Transthyretin Amyloidosis (ATTRv-CM)",
+        "Wild-type Transthyretin Amyloidosis (ATTRwt-CM)"
+      ],
+      "Occurrences": 1,
+      "context": "Perform TTR gene sequencing"
+    }
+  ]
+}

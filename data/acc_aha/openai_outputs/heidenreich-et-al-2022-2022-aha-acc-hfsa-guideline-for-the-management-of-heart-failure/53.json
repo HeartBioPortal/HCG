@@ -1,0 +1,61 @@
+{
+  "content": {
+    "title": "Benefits of Evidence-Based Therapies for Patients With HFrEF",
+    "table_information": {
+      "therapies": [
+        "ACEi or ARB",
+        "ARNI",
+        "Beta blocker",
+        "Mineralocorticoid receptor antagonist",
+        "SGLT2i",
+        "Hydralazine or nitrate",
+        "CRT",
+        "ICD"
+      ],
+      "relative_risk_reduction": [
+        17,
+        16,
+        34,
+        30,
+        17,
+        43,
+        36,
+        23
+      ],
+      "nnt_prevent_mortality_over_time": [
+        "22 over 42 mo",
+        "36 over 27 mo",
+        "28 over 12 mo",
+        "9 over 24 mo",
+        "43 over 18 mo",
+        "25 over 10 mo",
+        "12 over 24 mo",
+        "14 over 60 mo"
+      ],
+      "nnt_12_mo_stand": [
+        77,
+        80,
+        28,
+        18,
+        63,
+        21,
+        24,
+        70
+      ],
+      "nnt_12_36_mo_stand": [
+        42,
+        27,
+        9,
+        6,
+        22,
+        7,
+        8,
+        23
+      ]
+    },
+    "context": {
+      "text": "Use of all 4 drug classes has been estimated to reduce all-cause mortality by 73% compared with no treatment. Initiation and titration should be individualized and optimized without delay according to patient\u2019s symptoms, vital signs, functional status, tolerance, renal function, electrolytes, comorbidities, specific cause of HF, and ability of follow-up."
+    }
+  },
+  "genes": []
+}

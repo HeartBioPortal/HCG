@@ -1,0 +1,18 @@
+{
+  "content": {
+    "Classification of Aortic Syndromes": "Aortic syndromes include conditions like aortic dissection, intramural hematoma, and thoracoabdominal aortic aneurysms. Management and treatment strategies vary based on the specific condition.",
+    "Management Strategies": "Different management strategies for aortic syndromes are discussed, including surgery, imaging techniques for surveillance, and guidelines for thoracoabdominal repair. Recommendations are often based on patient condition, presence of additional risk factors, and continuous patient monitoring.",
+    "Imaging Techniques": "Various imaging techniques such as MRI and echocardiography are standard methods for measuring aortic dimensions and are critical for monitoring aortic syndromes. These include SSFP (steady-state free precession), CME-MRA, and T2 black blood techniques.",
+    "Radiation Considerations": "Considerations for reducing radiation exposure during imaging are highlighted, with a reminder to prioritize patient safety in diagnostic procedures."
+  },
+  "genes": [
+    {
+      "Gene": "FBN1",
+      "Associated Conditions": [
+        "Marfan syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Loeys AL, Rys B, Nuytinck L, et al. Novel mutations in FBN1 responsible for the clinical features and aortic disease in Marfan syndrome."
+    }
+  ]
+}

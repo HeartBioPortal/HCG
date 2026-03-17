@@ -1,0 +1,19 @@
+{
+  "content": {
+    "Synopsis": {
+      "Echocardiography": "Used to assess biventricular and valvular function, intracardiac structures, the pericardial space, and the thoracic aorta. Useful in cases of persistent hemodynamic instability.",
+      "Transesophageal Echocardiography (TEE)": "Increasingly used in high-risk noncardiac procedures and cardiac surgery. Low-risk but complications can occur. Used for unexplained hemodynamic instability.",
+      "Perioperative Medicine": "Focus on TTE is growing, used to coarsely identify pathology.",
+      "Hypothermia": "Associated with perioperative complications (e.g., wound infection, increased blood loss). Controversial role in postoperative cardiac events."
+    },
+    "Body Temperature Recommendation": {
+      "Recommendation": "In patients with CVD undergoing NCS, maintenance of normothermia is advised to avoid perioperative complications."
+    },
+    "Recommendation-Specific Supportive Text": {
+      "Emergency TEE Use": "Recommended for unexplained severe hemodynamic instability.",
+      "Limitations": "Limited evaluation data for intraoperative TEE effectiveness. Routinely used in cardiac procedures.",
+      "Normothermia vs Hypothermia": "A trial showed no increased incidence of cardiovascular events in hypothermia-treated patients."
+    }
+  },
+  "genes": []
+}

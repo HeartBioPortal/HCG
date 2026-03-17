@@ -1,0 +1,15 @@
+{
+  "content": {
+    "General Information": "The document discusses various studies and trials related to cardiovascular health in the context of cancer treatments. It covers the impact of treatments like trastuzumab, anthracycline, and others on heart health, focusing on cardiotoxicity and cardiovascular dysfunction."
+  },
+  "genes": [
+    {
+      "Gene": "HER2",
+      "Associated Conditions": [
+        "Breast Cancer"
+      ],
+      "Occurrences": 2,
+      "context": "Anderson Cancer Center experience in clinical outcomes with HER2-positive tumors treated with trastuzumab and anthracycline-based therapy."
+    }
+  ]
+}

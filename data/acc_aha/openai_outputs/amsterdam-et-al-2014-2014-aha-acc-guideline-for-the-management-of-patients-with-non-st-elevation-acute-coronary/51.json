@@ -1,0 +1,36 @@
+{
+  "content": {
+    "section": "Women: Recommendations",
+    "recommendations": [
+      {
+        "class": "I",
+        "points": [
+          "Women with NSTE-ACS should receive the same pharmacological treatment as men, focusing on weight and renal function to adjust anticoagulant dosage to reduce bleeding risk.",
+          "Women with NSTE-ACS and high-risk features, like elevated troponin, should undergo an early invasive strategy."
+        ]
+      },
+      {
+        "class": "IIa",
+        "points": [
+          "Myocardial revascularization is reasonable for pregnant women with NSTE-ACS if necessary for life-threatening conditions."
+        ]
+      },
+      {
+        "class": "III",
+        "points": [
+          "Women with NSTE-ACS and low-risk features should not have early invasive treatment due to lack of benefit."
+        ]
+      }
+    ],
+    "observations": [
+      "Women of all ages have higher in-hospital and long-term complication rates from NSTE-ACS than men.",
+      "Women often experience atypical symptoms after STEMI onset.",
+      "Treatment benefits and regimens for women include aspirin, clopidogrel, anticoagulants, but focus remains on harsher outcomes and risk factors compared to men."
+    ],
+    "drug_info": [
+      "Ticagrelor is associated with reduced endpoints in patients with low GFR.",
+      "Women derive treatment benefits similar to men from medications like aspirin, copidogrel, and beta blockers."
+    ]
+  },
+  "genes": []
+}

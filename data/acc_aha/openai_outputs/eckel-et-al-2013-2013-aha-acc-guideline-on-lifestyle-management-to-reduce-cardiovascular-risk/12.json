@@ -1,0 +1,52 @@
+{
+  "content": {
+    "Title": "AHA/ACC Lifestyle Management Guideline",
+    "Main Topics": [
+      "Dietary Planning for Blood Pressure Management",
+      "Impact of Sodium and Potassium on Blood Pressure (BP) and Cardiovascular Disease (CVD) Outcomes"
+    ],
+    "Resources": [
+      {
+        "Name": "DASH Eating Plan",
+        "Guides": [
+          "Your Guide to Lowering Your Blood Pressure With DASH",
+          "Your Guide to Lowering Your Blood Pressure With DASH Brochure",
+          "DASH Diet and Lifestyle Recommendations"
+        ]
+      },
+      {
+        "Name": "AHA Diet and Lifestyle Recommendations",
+        "Links": [
+          "Getting Healthy: Diet and Lifestyle Recommendations",
+          "AHA Diet and Lifestyle Recommendations 2006 Scientific Statement"
+        ]
+      },
+      {
+        "Name": "Dietary Guidelines for Americans",
+        "Links": [
+          "2010 Dietary Guidelines for Americans",
+          "2011 Dietary Guidelines for Americans Brochure",
+          "USDA Food Patterns"
+        ]
+      }
+    ],
+    "CQ2 Focus": "Effect of dietary sodium and potassium on CVD risk factors and outcomes.",
+    "Key Points": [
+      "Importance of reducing trans fat intake.",
+      "Potential independent blood pressure lowering effect of potassium.",
+      "Sodium's effect on BP may be modulated by potassium intake.",
+      "Clinical trials on mineral effects focus on CVD risk factors.",
+      "Observational studies provide evidence on dietary sodium and potassium effects on CVD outcomes."
+    ],
+    "Screening Criteria": [
+      "Studies involving adults with or without CVD risk factors.",
+      "Intervention sample sizes of at least 50 for biomarkers, 500 for cardiovascular outcomes.",
+      "Exclusion of studies where weight change exceeds >3%."
+    ],
+    "Literature Search Yield": [
+      "36 studies (46 citations) met inclusion criteria.",
+      "Studies vary by diet (sodium or potassium), dietary changes, subpopulations (sex, race, etc.)."
+    ]
+  },
+  "genes": []
+}

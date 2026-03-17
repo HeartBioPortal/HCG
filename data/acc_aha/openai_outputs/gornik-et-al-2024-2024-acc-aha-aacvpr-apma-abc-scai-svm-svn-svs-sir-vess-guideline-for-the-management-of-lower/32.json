@@ -1,0 +1,64 @@
+{
+  "content": {
+    "Statin Therapy": {
+      "High Intensity": {
+        "LDL-C Lowering": "\u226550%",
+        "Medications": [
+          "Atorvastatin 40\u201380 mg",
+          "Rosuvastatin 20\u201340 mg"
+        ]
+      },
+      "Moderate Intensity": {
+        "LDL-C Lowering": "30%\u201349%",
+        "Medications": [
+          "Atorvastatin 10\u201320 mg",
+          "Rosuvastatin 5\u201310 mg",
+          "Simvastatin 20\u201340 mg",
+          "Pravastatin 40\u201380 mg",
+          "Lovastatin 40\u201380 mg",
+          "Fluvastatin XL 80 mg",
+          "Fluvastatin 40 mg twice daily",
+          "Pitavastatin 1\u20134 mg"
+        ]
+      },
+      "Low Intensity": {
+        "LDL-C Lowering": "<30%",
+        "Medications": [
+          "Simvastatin 10 mg",
+          "Pravastatin 10\u201320 mg",
+          "Lovastatin 20 mg",
+          "Fluvastatin 20\u201340 mg"
+        ]
+      }
+    },
+    "Clinical Recommendations": {
+      "Antihypertensive Therapy for PAD": [
+        {
+          "COR": 1,
+          "LOE": "A",
+          "Recommendation": "In patients with PAD and hypertension, antihypertensive therapy should be administered to reduce the risk of MACE."
+        },
+        {
+          "COR": 1,
+          "LOE": "B-R",
+          "Recommendation": "In patients with PAD and hypertension, a systolic blood pressure (SBP) goal of <130 mm Hg and a diastolic blood pressure target of <80 mm Hg is recommended."
+        },
+        {
+          "COR": 1,
+          "LOE": "B-R",
+          "Recommendation": "In patients with PAD and hypertension, the selective use of angiotensin-converting enzyme (ACE) inhibitors or angiotensin-receptor blockers is recommended to reduce the risk of MACE."
+        }
+      ]
+    }
+  },
+  "genes": [
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "Peripheral arterial disease (PAD)"
+      ],
+      "Occurrences": 1,
+      "context": "This recommendation for the use of PCSK9 inhibitors in patients with PAD who have not achieved an LDL target of <70 mg/dL aligns with the 2018 AHA/ACC cholesterol guideline recommendation for patients with clinical atherosclerotic CVD."
+    }
+  ]
+}

@@ -1,0 +1,2171 @@
+{
+  "content": [
+    {
+      "content": "This document is a methodology manual and policy guide from the ACCF/AHA Task Force on Practice Guidelines. The manual outlines the process and policies for creating practice guidelines for cardiovascular care.",
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview of Methodology": {
+          "Importance of ACCF/AHA Guidelines": "Emphasizes the significance of guidelines by ACCF/AHA.",
+          "Purpose and Scope of the Manual": "Details the objectives and coverage of the manual.",
+          "Staff Support": "Discusses personnel assistance for guideline development."
+        },
+        "Tools and Methods for Developing Guidelines": {
+          "Selecting Topic and Chair/Writing Committee": "Outlines the process to choose topics and organize committees.",
+          "Determining the Guideline Scope and Clinical Objectives": "Focuses on defining the guideline's coverage and goals."
+        },
+        "Defining and Conducting Appropriate and Comprehensive Literature Searches": {
+          "Finding the Evidence": {
+            "Literature Search Methodology": "Details methodologies for conducting literature searches.",
+            "Documentation of Literature Search": "Emphasizes recording search processes.",
+            "Balancing Scientific Rigor with Feasibility": "Discusses balancing thoroughness with practical constraints."
+          },
+          "Sorting the Evidence": {
+            "Reviewing the Evidence": "Focuses on evaluating gathered literature."
+          },
+          "Synthesizing and Interpreting the Evidence": {
+            "Synthesizing the Evidence": "Discusses combining insights from literature."
+          },
+          "Expert Interpretation of the Evidence": "Involves expert analysis of literature findings."
+        },
+        "Writing Recommendations": {
+          "Overview of Recommendations": {
+            "Patient-Centered Care": "Highlights focus on patient-oriented guidelines."
+          },
+          "Assigning Classification of Recommendations and Level of Evidence": {
+            "Classification of Recommendations and Level of Evidence": "Details the recommendation classification process."
+          },
+          "Creating Visual Descriptions of Recommendations and Evidence": "Describes how to visually represent guidelines."
+        },
+        "Writing Committee Discussions and Consensus Development": {
+          "Group Decision-Making": "Focuses on collective decision strategies among committee members."
+        },
+        "Web Posting and Publication": {
+          "Preparing the Pocket Guide": "Guidelines for preparing a concise version for quick reference."
+        },
+        "Maintaining Guideline Relevance and Updating Evidence": "Discusses strategies for keeping guidelines current."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          "7. Evidence Review",
+          "7.1. Evidence Review",
+          "7.1.1. Currency Review",
+          "7.1.2. Late-Breaking Clinical Trials",
+          "7.2. Development Process",
+          "7.2.1. Focused Updates",
+          "8. General Operating Procedures",
+          "8.1. Disclosure of Relationships with Industry and Other Entities Policy",
+          "8.2. Confidentiality/Nondisclosure Agreement",
+          "8.3. Copyright Assignment and License Agreement",
+          "8.4. Editorial Response Policy",
+          "Appendix A. Suggested Readings",
+          "Appendix B. Policy for Development of Guidelines",
+          "Appendix C. Organizational Relationships",
+          "Appendix D. Literature Search Request Form",
+          "Appendix E. Checklists for Guidelines"
+        ],
+        "pages": [
+          "60",
+          "61",
+          "62",
+          "64",
+          "65",
+          "66",
+          "68",
+          "73",
+          "80",
+          "85",
+          "86"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "importance": "The document emphasizes the importance of the ACCF/AHA guidelines in providing evidence-based recommendations to improve cardiovascular health care. These guidelines are developed to assist practitioners and patients in decision-making by utilizing best-researched evidence and clinical expertise. They aim to improve the quality of cardiovascular care, patient outcomes, cost-effectiveness, and identify areas for further research.",
+        "development": "The creation of these guidelines is a joint activity of the American College of Cardiology Foundation (ACCF) and the American Heart Association (AHA). The guidelines are based on a thorough review of available scientific evidence and expert opinion.",
+        "goals": "The ultimate goals of the guidelines are to ensure quality of care and serve the patient's best interests. They assist healthcare providers by describing acceptable approaches for diagnosis, management, or prevention of specific diseases or conditions."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guidelines_intent": "Appropriately constructed practice guidelines intend to minimize harm, reduce inappropriate practice variations, and assist in producing optimal health outcomes for patients. Patient-centric guidelines will be a keystone of patient-centered care.",
+        "common_uses": [
+          "Improve patient outcomes",
+          "Synthesis of latest clinical research",
+          "Determine whether practice follows the current evidence-based recommendations",
+          "Reduce practice variation",
+          "Influence policy",
+          "Promote efficient resource usage",
+          "Identify gaps in the evidence base",
+          "Serve as a basis for development of Performance Measures and Appropriate Use Criteria"
+        ],
+        "purpose_scope": "To continue as a leader in the field of clinical practice guidelines, the ACCF/AHA Task Force on Practice Guidelines has overseen the creation of this manual to assist guideline writing committees. The manual helps craft recommendations that influence care or assess performance and/or quality."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Task Force Role": "Applies a uniform methodology to guidelines for diverse diseases, conditions, diagnostics, and interventions.",
+        "Guideline Development": "Includes relationships with industry, confidentiality agreements, copyright assignments, and editorial response policies.",
+        "Exceptions": "Task Force can allow exceptions to written policies if warranted."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Document Development Process": [
+          "Select topic and writing committee",
+          "Determine guideline scope, clinical objectives and draft outline",
+          "Determine writing assignments",
+          "Define and conduct appropriate and comprehensive literature searches",
+          "Sort, evaluate and synthesize the evidence",
+          "Write recommendations based on expert interpretation of the evidence in full sentences using Task Force verb list",
+          "Reach consensus on classification of recommendations, strength of evidence and supporting references",
+          "Create tables, diagrams, algorithms, and mnemonics describing recommendations and synthesizing evidence",
+          "Ballot recommendations during writing committee sign-off",
+          "Send draft document for peer review",
+          "Respond to peer review comments",
+          "Final writing committee sign-off",
+          "Re-ballot any recommendations that have changed during peer review process",
+          "Send document for review to governing bodies of ACCF and AHA",
+          "Send document to other partner organizations and then to organizations for endorsement consideration",
+          "Web-posting and publication"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "1.3. Staff Support",
+        "description": "The ACCF and AHA provide scientific and project management staff to support the development of evidence-based guidelines. A Research Analyst/Evidence-Based Medicine Specialist and Document Manager are assigned to each guideline to assist writers with the methodology and process of guideline development.",
+        "roles": {
+          "Document Manager": [
+            "Track potential writing committee nominees, collect RWI and assist voting of relevant companies for Task Force and Chair review",
+            "Coordinate the invitation process for committees",
+            "Create and maintain document timeline, outline, and writing assignments, rosters, disclosures of RWI, and copyright assignment and license agreement",
+            "Monitor status of guideline process with frequent updates to chair and/or writing committee",
+            "Draft communication from the chair to committee members",
+            "Distribute materials to committee members",
+            "Maintain copy of citations relevant to the guideline content",
+            "Coordinate conference calls and writing committee meetings",
+            "Track committee member adherence to deadlines",
+            "Brief chair regarding important matters",
+            "Compile, enter, and edit text, references, recommendations, and tables/figures",
+            "Manage peer review process, including invitations and comment spreadsheet",
+            "Manage preparation of executive summary and pocket guide",
+            "Facilitate Board approval and endorsement by outside organizations",
+            "Assist chair with galley review/publication"
+          ],
+          "Research Analyst/Evidence-Based Medicine Specialist": [
+            "Assist chair(s) with outline development",
+            "Conduct, review, and maintain records of literature searches",
+            "Assist writing committee members with the creation of evidence tables, graphs, charts, meta-analysis, the creation of algorithms and other visual summaries of recommendations",
+            "Assist the chair in writing the methodology section of the guideline",
+            "Assist the chair and Task Force Liaison in ensuring that the recommendations are consistent with other ACCF/AHA Guidelines and other documents on the same or related topics",
+            "Assist the chair in responding to peer review and Board comments",
+            "Assist chair with executive summary and pocket guide development",
+            "Provide other scientific, technical, and writing support as requested"
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "2. Tools and Methods for Developing Guidelines",
+        "subsection": "2.1. Selecting Topic and Chair/Writing Committee",
+        "task_force_role": "The Task Force on Practice Guidelines establishes policy, selects topics for guidelines, and monitors existing guidelines for needed updates.",
+        "task_force_members": "Members are senior, respected individuals with expertise who have served on guideline writing committees.",
+        "guideline_categories": "ACCF/AHA guidelines cover health conditions, procedures, and diagnostics, prioritizing high-volume, high-cost, high-practice variations.",
+        "writing_committee_organization": "A committee is organized once a topic is identified.",
+        "chair_selection": "The Task Force selects nominees, typically cardiologists or experts in cardiology, for chair positions.",
+        "chair_responsibilities": "The chair leads, facilitates discussion, resolves differing opinions, attends meetings, and reviews written sections."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Review Expertise": "Review areas of expertise of writing committee members to determine appropriate writing assignments.",
+        "Manage RWI": "Work with oversight Task Force and staff to identify companies that produce relevant products/services. Enforce disclosure during meetings or calls. Require experts with RWI to recuse themselves. Determine if policy exemptions are needed. Work with staff to track RWI for each vote.",
+        "Manage Document": "Maintain timeline, encourage deadline adherence, facilitate writing if members fail, edit for style/voice consistency, facilitate consensus.",
+        "Manage Meetings": "Enforce document outline adherence, ensure balanced discussion, facilitate consensus, maintain RWI policy compliance.",
+        "Peer Review": "Work with staff to determine peer reviewer list, review and respond to comments."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Peer Review": {
+          "Assign comments to writing committee members based on expertise, if appropriate": true,
+          "Consider RWI of reviewers for specific comments": true,
+          "Respond to BOT and SACC reviews as necessary": true
+        },
+        "Development": {
+          "Executive summary, pocket guide, and derivative products": true,
+          "Publication and promotion phases (e.g., page proof review, press release, interviews)": true
+        },
+        "Writing Committee Member Responsibilities": {
+          "Review and consensus on document scope": true,
+          "Participation in discussions and writing assignments": true,
+          "Adhere to RWI policy": {
+            "Disclose RWI related to healthcare goods/services": true,
+            "Report new RWI immediately": true,
+            "Avoid initiating new RWI": true,
+            "Agree and comply with disclosure policy": true
+          }
+        },
+        "Collaboration": {
+          "Building consensus and collaborative writing": true,
+          "Attendance at meetings and calls": true,
+          "Independent work and review": true
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Document Creation": [
+          "Collaborate with writing committee members for recommendations",
+          "Edit sections as requested by chairs",
+          "Meet deadlines for writing and editing assigned sections",
+          "Incorporate and process data and evidence",
+          "Provide references to support sections"
+        ],
+        "Review and Approval": [
+          "Submit ballot during pre-peer review sign-off and final sign-off",
+          "Submit possible content reviewers' names",
+          "Carefully review sections and check references, tables/figures, and cover page"
+        ],
+        "Task Force Liaison Role": [
+          "Serve as a full voting member of the writing committee",
+          "Adhere to current RWI policies",
+          "Monitor progress as a section author",
+          "Ensure document consistency with previous ACCF/AHA publications",
+          "Maintain contact and facilitate sharing with other writing committees",
+          "Handle significant differences and attempt compromise",
+          "Participate in the RWI adjudication process"
+        ],
+        "Committee Requirements": [
+          "51% membership with no relevant RWI for company relevance discussion",
+          "Adjudication process involving multiple roles"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_development": "The guideline development focuses on a broad spectrum of healthcare practitioners to diversify representation across various demographics and expertise.",
+        "writing_committee_roles": {
+          "Writing Committee Chairperson(s)": "Selected by the Task Force",
+          "Writing Committee Members": "Selected by the Task Force, Writing Committee Chair(s), and Collaborating Organizations",
+          "Performance Measurement Representative": "Selected by the Performance Measurement Task Force Chair"
+        },
+        "lead_reviewer_responsibility": "Conducts a thorough review, ensuring concordance with other ACCF/AHA documents, oversees peer review, and resolves controversial issues before formal approval.",
+        "conflict_of_interest_disclosure": "Pharmaceutical employees are prohibited from membership to avoid conflicts of interest, and all members must disclose relevant relationships."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "participation": "Participation in the writing committee is dependent upon a review of all relevant RWI by the Task Force.",
+        "composition": "A majority of writing committee members must be free of relevant RWI. At least 50% of writing committee members, plus the Chair, may have no relevant RWI.",
+        "balance": "The Task Force monitors writing committee composition for RWI and other potential areas of bias.",
+        "representation": "Writing committee representation is increasingly diversified to ensure guidance is unified from all specialty areas.",
+        "recusal": "Writing committee members with a relevant RWI may participate in the discussion but must recuse themselves from voting on related recommendations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_scope": "The writing committee focuses on reaching consensus on the guideline's scope and determines writing assignments. A literature search defines the scope to ensure all parties are confident with the guideline direction.",
+        "literature_inclusion": "Once determined, the inclusion date range is added to the document's Introduction for tracking and reader transparency.",
+        "international_collaboration": "Guidelines may also be created in collaboration with international bodies like the European Society of Cardiology for broader audiences. These consider international differences in disease management and resource availability."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "ACCF/AHA Guidelines": "The guidelines are designed to provide clinically relevant information based on clinical effectiveness, independent of costs and reimbursement. If cost issues arise, they should be limited to previously published analyses, with no new economic analysis included. Recommendations are based strictly on scientific evidence, though cost effectiveness information can be included in supporting text if available."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Checklist 1: Determining the Guideline Scope and Clinical Objectives",
+        "questions_related_to_overall_guideline": [
+          "What is the guideline\u2019s targeted health condition(s), diagnostic test(s), or interventional procedure(s)?",
+          "What is the purpose of the guideline?",
+          "What is within the scope of the guideline?",
+          "What is outside the scope of the guideline?",
+          "What is the literature inclusion date range?",
+          "What is the epidemiology of the topic?",
+          "Who are the guideline\u2019s intended users?",
+          "What is the public health impact?",
+          "What is the target patient population to be addressed in the guideline?",
+          "How does the guideline relate to other existing ACCF/AHA documents (e.g., expert consensus, scientific statements, performance measures, data standards, appropriate use criteria, quality improvement)?",
+          "Can flow diagrams and evidence tables help summarize the guideline, or at least key subsections?",
+          "How does the guideline impact and improve broad health system based public health improvement goals such as the Healthy People 2010 Initiative?"
+        ],
+        "questions_related_to_clinical_objectives": [
+          "What are the important clinical objectives related to the guideline topic?",
+          "What subtopics and related topics must be included in the guideline? Are the subtopics and related topics already covered by another organization? What comorbidities are being covered or should be covered by the topic area/guideline?",
+          "Are flow diagrams appropriate to these subtopics and related topics?",
+          "What are the potential benefits and risks for individual patients associated with an intervention or procedure?",
+          "What amount of clinical flexibility is appropriate for the topic area?",
+          "What clinical options are available?",
+          "What topics have already been covered in existing ACC/AHA Guidelines?"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Identifying the Clinical Objectives": "The main goal of guideline creation is to develop recommendations for clinical practice based on evidence. It involves setting clinical objectives such as the role of exercise testing in asymptomatic patients, the use of inotropic agents in end-stage heart failure, and managing mitral regurgitation medically versus surgically.",
+        "Development of the Guideline Outline": "Guideline writers are encouraged to define the guideline outline early, using standard outlines provided by the ACCF/AHA Task Force. These outlines ensure consistency and flexibility in guidelines, improving online searchability. Writers should identify applicable 'standard concepts' and create detailed clinical objectives."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Evaluation": [
+          "Recognition",
+          "Methods for risk stratification",
+          "Other issues related to clinical assessment",
+          "Clinical comparative effectiveness"
+        ],
+        "Diagnosis and Testing": [
+          "Noninvasive testing",
+          "Invasive testing",
+          "Laboratory testing",
+          "Risk assessment"
+        ],
+        "Treatment": [
+          "Principles of management",
+          "Therapy",
+          "Medication",
+          "Procedures",
+          "Interventions",
+          "Alternative/complementary medicine",
+          "Monitoring"
+        ],
+        "Special Populations": [
+          "Concomitant disorders",
+          "Patient groups (e.g., elderly, women, pediatric)"
+        ],
+        "Follow-up": [
+          "Discharge",
+          "Long-term management",
+          "Patient education"
+        ],
+        "Future Directions": [
+          "Address areas lacking evidence or that have conflicting evidence",
+          "Address newer and/or better designed studies",
+          "Head-to-head comparisons of pharmacological treatments, new clinically applicable tests, and/or instruments"
+        ],
+        "Interventional Procedures": {
+          "Standard Concepts": {
+            "Introduction": [
+              "Purpose of the guideline",
+              "Scope"
+            ],
+            "Definition of intervention/procedure": [
+              "General considerations",
+              "Background"
+            ],
+            "Specific Conditions": [
+              "Clinical uses"
+            ],
+            "Management Strategies": [
+              "Procedure-specific considerations",
+              "Associated medical therapies",
+              "Procedural complications",
+              "Reducing risk"
+            ],
+            "Outcomes": [
+              "Definitions of success",
+              "Short-term and long-term outcomes",
+              "Comparisons with other interventions/Clinical comparative effectiveness"
+            ],
+            "Institutional/operator Issues": [
+              "Quality assurance/improvement",
+              "Volume considerations"
+            ]
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Sections": [
+          {
+            "Title": "Diagnostic Procedures",
+            "Introduction": {
+              "Purpose": "Define the purpose of the procedures.",
+              "Scope": "Outline the scope of the procedures."
+            },
+            "Description of the Diagnostic Tool": {
+              "Content": [
+                "Specific procedures",
+                "Equipment",
+                "Sensitivity/specificity",
+                "General considerations",
+                "Comparison with other diagnostic tools/Clinical comparative effectiveness"
+              ]
+            },
+            "Specific Conditions": {
+              "Content": [
+                "Clinical uses subdivided by the diseases/conditions they can diagnose, including diagnosis, assessment, prognosis, risk stratification, screening, etc."
+              ]
+            },
+            "Special Populations": {
+              "Content": [
+                "Patient groups such as elderly, women, pediatric"
+              ]
+            }
+          }
+        ],
+        "Committee Guidance": {
+          "Process": [
+            "Development of a comprehensive outline by the chair and staff.",
+            "Preliminary searches and abstract review."
+          ],
+          "Scope Updates": "Identification of specific areas with sufficient clinical evidence.",
+          "Assignments": {
+            "Writing": {
+              "Determination": "Guideline chair/co-chairs assign sections to primary and secondary authors.",
+              "Responsibilities": "Primary author drafts and secondary authors edit and provide content.",
+              "RWI Policy": {
+                "Primary Author": "May not have relevant RWI.",
+                "Secondary Author": "May have relevant RWI."
+              }
+            }
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_summary": [
+          "Members with a relevant RWI (Relationship With Industry) regarding a product or competing product can participate in discussions if the section of the document relates to the specific or competing product, but they cannot draft or vote on recommendations.",
+          "Members with a relevant RWI about a product or competing product can participate in and contribute to discussions and document drafting if the section is unrelated to the specific or competing product, and the company does not manufacture or sponsor a relevant product.",
+          "Members with relevant RWI where the section relates to the company sponsoring a product/service but not the specific product can participate in discussions but cannot draft or vote."
+        ],
+        "eligibility_determination": [
+          "A person has a relevant relationship if it relates to the same or similar subject matter, intellectual property, or issues addressed in the document.",
+          "The relationship is relevant if it involves a company/entity that makes or competes with a drug, class, or device addressed in the document.",
+          "A relevant relationship may exist if the person or a household member has connections to such companies."
+        ],
+        "note": "Rigorous selection of relevant research should be based on comprehensive, explicit criteria to ensure the guideline's validity."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "3. Defining and Conducting Appropriate and Comprehensive Literature Searches",
+        "section_details": "3.1. Finding the Evidence",
+        "description": "This section describes the process of conducting comprehensive literature searches once the outline, scope, and writing assignments of the guideline have been determined. The focus is on developing recommendations based on the entirety of the evidence. Key resources for searching include MEDLINE, the Cochrane Library, and a clinical trials database. The methodology for literature search involves reviewing published articles, emphasizing randomized clinical trials (RCTs) and systematic reviews."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Process": "Guidelines involve evaluating articles for quality and limitations. Authors are provided with templates to summarize relevant studies.",
+        "Literature Search": "Documentation of literature searches is required. Researchers and analysts help compile key search terms.",
+        "Search Criteria": "Standard search criteria include databases like MEDLINE/PubMed, Cardiosource Clinical Trials Database, and Cochrane Library."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "search_criteria": {
+          "language": "English (expandable to other languages)",
+          "subjects": "Human",
+          "time_frame": {
+            "guideline_update": "Limited to post-publication period",
+            "new_guideline": "No limits unless determined necessary"
+          },
+          "demographics": {
+            "gender_age": "Not limited, except for specific clinical objectives"
+          },
+          "publication_type": "Initially meta-analyses and systematic reviews, expandable to other types as needed",
+          "review_update": "Follows search cut-off date of review"
+        },
+        "methods": {
+          "balance_of_rigor_and_feasibility": "References Cochrane Collaboration methods, aims for inclusivity and less bias with resource considerations."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Focus": "The document emphasizes the importance of systematic reviews and rigorous evaluation of articles in evidence tables and meta-analyses to support guideline recommendations. It highlights the necessity of scientific rigor and transparency and the presentation of exact event rates of clinical trials to aid clinicians.",
+        "Statistical Measures": "Mentions the calculation of absolute risk difference (ARD), number needed to treat (NNT), number needed to harm (NNH), odds ratio (OR), relative risk (RR), hazard ratio (HR), and incidence rate ratio (IRR). Confidence intervals (CI) are also discussed for statistical accuracy."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "overview": "Guideline writers are advised against using unpublished data to support recommendations, except in specific cases. Unpublished data should be from trials at major meetings and no older than two years. Data should not be included in figures or tables unless of public health importance, and preliminary status must be indicated.",
+        "publication_bias": "The tendency to publish positive results over negative or nonsignificant findings must be taken into account by the committee.",
+        "trial_registries": "Resources such as Current Controlled Trials and NIH's Clinical Trials registry help access unpublished trial information and address publication bias.",
+        "collaboration": "Guideline staff collaborates with the National Cardiovascular Data Registry and AHA\u2019s GWTG staff for data coordination. Data not published in peer-reviewed journals cannot support recommendations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary": "The Task Force has developed guidelines for discussing pharmacotherapy. Pharmacologists may review these discussions before publication. Investigational treatments not generally available should be described clearly without Class I, IIa, or IIb recommendations. Decisions on listing these as Class III or omitting them are made by the writing committee. FDA approval should not be mentioned unless relevant. Recommendations for recently approved drugs will be based on evidence strength rather than waiting for FDA post-marketing data. Regulatory criteria for drug approval and alerts should be independent of the ACCF/AHA process."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Checklist Title": "Discussing Pharmacotherapy in Guidelines",
+        "Guidelines": [
+          "Use generic or chemical name not trade name (e.g., simvastatin, not Zocor).",
+          "Use broadest and most generic name of class appropriate (e.g., sirolimus-eluting stent, not Cypher stent).",
+          "List classes of drugs or drugs within classes according to evidence-based rationale, and state rationale (e.g., first-line, second-line or side effects or cost effectiveness). If no evidence-based rationale for listed order, list alphabetically.",
+          "List all drugs (or none) within class, indicating whether each is approved for the indication(s) under discussion (e.g., statins for primary prevention) and whether each has evidence for the indication(s) under discussion (e.g., GP IIb/IIIa inhibitors).",
+          "Discuss evidence for or against 'class effect' (e.g., issue raised by ramipril in HOPE study).",
+          "When so-called 'alternative medicines' are known to be widely used, discuss the evidence about them and the issues raised by their use (e.g., possible interactions).",
+          "Avoid the use of symbols and abbreviations when discussing drug dosing and timing (e.g., use 'micrograms' or 'mcg' instead of '\u00b5g'). The Institute for Safe Medication Practices has issued a drug error alert regarding some commonly used abbreviations (included in this section).",
+          "Whenever a guideline includes specific drug information, such sections of the guideline should be reviewed by a pharmacologist during peer review."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "3.1.3.3. Therapeutic Substitution",
+        "recommendations": [
+          "Develop recommendations for drugs by considering the therapeutic class effect.",
+          "Criteria include: a clearly defined biological target, comparable efficacy among agents, no absence of benefit, and no demonstrated ineffectiveness.",
+          "Review additional considerations such as side-effect profile, cost, clinical trial criteria, and degree of benefit.",
+          "List drugs within a therapeutic class alphabetically unless there is a preference for substitution."
+        ],
+        "issues": [
+          "Difficulty in meeting all criteria for a class effect.",
+          "Focus on international availability needs to address patient perspective over policy."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "The Institute for Safe Medication Practices List of Error-Prone Abbreviations",
+        "table": [
+          {
+            "Abbreviation": "\u03bcg",
+            "Intended Meaning": "Microgram",
+            "Misinterpretation": "Mistaken as 'mg'",
+            "Correction": "Use 'mcg'"
+          },
+          {
+            "Abbreviation": "BT",
+            "Intended Meaning": "Bedtime",
+            "Misinterpretation": "Mistaken as 'BID' (twice daily)",
+            "Correction": "Use 'bedtime'"
+          },
+          {
+            "Abbreviation": "cc",
+            "Intended Meaning": "Cubic centimeters",
+            "Misinterpretation": "Mistaken as 'u' (units)",
+            "Correction": "Use mL"
+          },
+          {
+            "Abbreviation": "D/C",
+            "Intended Meaning": "Discharge or discontinue",
+            "Misinterpretation": "Premature discontinuation of medications if D/C is intended to mean 'discharge' has been misinterpreted as 'discontinued' when followed by a list of discharge medications",
+            "Correction": ""
+          },
+          {
+            "Abbreviation": "IJ",
+            "Intended Meaning": "Injection",
+            "Misinterpretation": "Mistaken as 'IV' or 'intrajugular'",
+            "Correction": "Use 'injection'"
+          },
+          {
+            "Abbreviation": "IU",
+            "Intended Meaning": "International unit",
+            "Misinterpretation": "Mistaken as IV (intravenous) or 10 (ten)",
+            "Correction": "Use 'units'"
+          },
+          {
+            "Abbreviation": "o.d. or OD",
+            "Intended Meaning": "Once daily",
+            "Misinterpretation": "Mistaken as 'right eye' (OD-oculus dexter), leading to an oral liquid medications administered to the eye",
+            "Correction": "Use 'daily'"
+          },
+          {
+            "Abbreviation": "Per os",
+            "Intended Meaning": "By mouth, orally",
+            "Misinterpretation": "The 'os' can be mistaken as 'left eye' (OS-oculus sinister)",
+            "Correction": ""
+          },
+          {
+            "Abbreviation": "q.d. or QD",
+            "Intended Meaning": "Every day",
+            "Misinterpretation": "Mistaken as q.i.d., especially if the period after the 'q' or the tail of the 'q' is misunderstood as an 'i'",
+            "Correction": "Use 'daily'"
+          },
+          {
+            "Abbreviation": "qhs",
+            "Intended Meaning": "At bedtime",
+            "Misinterpretation": "Mistaken as 'qhr' or every hour",
+            "Correction": "Use 'at bedtime'"
+          },
+          {
+            "Abbreviation": "qn",
+            "Intended Meaning": "Nightly",
+            "Misinterpretation": "Mistaken as 'qh' (every hour)",
+            "Correction": "Use 'nightly'"
+          },
+          {
+            "Abbreviation": "q.o.d. or QOD",
+            "Intended Meaning": "Every other day",
+            "Misinterpretation": "Mistaken as 'q.d.' (daily) or 'q.i.d. (four times daily) if the 'o' is poorly written",
+            "Correction": ""
+          },
+          {
+            "Abbreviation": "q1d",
+            "Intended Meaning": "Daily",
+            "Misinterpretation": "Mistaken as q.i.d. (four times daily)",
+            "Correction": "Use 'daily'"
+          },
+          {
+            "Abbreviation": "q6pm, etc.",
+            "Intended Meaning": "Every evening at 6 PM",
+            "Misinterpretation": "Mistaken as every 6 hours",
+            "Correction": "Use '6 PM nightly' or '6 PM daily'"
+          },
+          {
+            "Abbreviation": "SC, SQ, sub q",
+            "Intended Meaning": "Subcutaneous",
+            "Misinterpretation": "SC mistaken as SL (sublingual); SQ mistaken as '5 every'; the 'q' in 'sub q' has been mistaken as 'every' (e.g., a heparin dose ordered 'sub q 2 hours before surgery' misunderstood as every 2 hours before surgery)",
+            "Correction": "Use 'subcut' or 'subcutaneously'"
+          },
+          {
+            "Abbreviation": "t/d",
+            "Intended Meaning": "One daily",
+            "Misinterpretation": "Mistaken as 'tid'",
+            "Correction": "Use '1 daily'"
+          },
+          {
+            "Abbreviation": "TIW or tiw",
+            "Intended Meaning": "3 times a week",
+            "Misinterpretation": "Mistaken as '3 times a day' or 'twice a week'",
+            "Correction": "Use '3 times weekly'"
+          },
+          {
+            "Abbreviation": "U or u",
+            "Intended Meaning": "Unit",
+            "Misinterpretation": "Mistaken as the number 0 or 4, causing a 10-fold overdose or greater (e.g., 4U seen as '40' or 'greater')",
+            "Correction": "Use 'unit'"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "table_overview": "This table provides guidance on avoiding misinterpretations in medical prescriptions by correcting common errors related to dose designations, other information, and symbols.",
+        "dose_designations": [
+          {
+            "designation": "Trailing zero after decimal point (e.g., 1.0 mg)",
+            "intended_meaning": "1 mg",
+            "misinterpretation": "Mistaken as 10 mg if the decimal point is not seen",
+            "correction": "Do not use trailing zeros for doses expressed in whole numbers"
+          },
+          {
+            "designation": "No leading zero before a decimal dose (e.g., .5 mg)",
+            "intended_meaning": "0.5 mg",
+            "misinterpretation": "Mistaken as 5 mg if the decimal point is not seen",
+            "correction": "Use zero before a decimal point when the dose is less than a whole unit"
+          },
+          {
+            "designation": "Numerical dose and unit of measure run together (e.g., 10mg, 100mL)",
+            "intended_meaning": "10 mg",
+            "misinterpretation": "The 'm' is sometimes mistaken as the number 1 if written poorly",
+            "correction": "Place adequate space between the dose and unit of measure"
+          },
+          {
+            "designation": "Large doses without properly placed commas (e.g., 100000 units)",
+            "intended_meaning": "100,000 units",
+            "misinterpretation": "100000 has been mistaken as 10,000 or 1,000,000",
+            "correction": "Use commas for dosing units at or above 1,000 or use words such as 100 'thousand' to improve readability"
+          }
+        ],
+        "symbols": [
+          {
+            "symbol": "x3d",
+            "intended_meaning": "For three days",
+            "misinterpretation": "Mistaken as '3 doses'",
+            "correction": "Use 'for three days'"
+          },
+          {
+            "symbol": "> and <",
+            "intended_meaning": "Greater than and less than",
+            "misinterpretation": "Mistaken as opposite of intended; mistakenly use correct symbol; '< 10' mistaken as '40'",
+            "correction": "Use 'greater than' or 'less than'"
+          },
+          {
+            "symbol": "/ (slash mark)",
+            "intended_meaning": "Separates two doses or indicates 'per'",
+            "misinterpretation": "Mistaken as the number 1 e.g., '25 units/10 units' misread as '25 units and 110 units'",
+            "correction": "Use 'per' rather than a slash mark to separate doses"
+          },
+          {
+            "symbol": "@",
+            "intended_meaning": "At",
+            "misinterpretation": "Mistaken as '2'",
+            "correction": "Use 'at'"
+          },
+          {
+            "symbol": "&",
+            "intended_meaning": "And",
+            "misinterpretation": "Mistaken as '2'",
+            "correction": "Use 'and'"
+          },
+          {
+            "symbol": "+",
+            "intended_meaning": "Plus or and",
+            "misinterpretation": "Mistaken as '4'",
+            "correction": "Use 'and'"
+          },
+          {
+            "symbol": "\u00b0",
+            "intended_meaning": "Hour",
+            "misinterpretation": "Mistaken as a zero (e.g., 2\u00b0 seen as q 20)",
+            "correction": "Use 'hr', 'h' or 'hour'"
+          }
+        ],
+        "source": "Adapted from ISMP list of error-prone abbreviations, symbols, and dose designations. Institute for Safe Medication Practices Medication Safety Alert 2003 (Nov 27);8(24):3-4. Available at http://www.ismp.org/Tools/abbreviationslist.pdf. Accessed April 6, 2006."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Use of Other Guidelines/Authorities": "Guideline text, recommendations, and evidence tables may be replicated from previous ACCF/AHA Guidelines and statements endorsed by both organizations (e.g., National Cholesterol Education Program). Without new evidence, existing recommendations and tables cannot be changed. Changes, if necessary, require approval by the Task Force. Consensus statements or guidelines from other organizations not endorsed by the AHA and ACCF should be avoided unless necessary, as it implies endorsement.",
+        "Sorting the Evidence": "The Research Analyst maintains literature search results by reviewing abstracts and removing irrelevant citations. During this step, only an article\u2019s title and abstract are assessed. The Research Analyst sorts abstracts to match specific clinical objectives. Writing committee members make the final decision regarding relevant evidence for recommendations. The Research Analyst provides full texts of peer-reviewed articles and studies as needed."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "3.3. Synthesizing and Interpreting the Evidence",
+        "subsection": "3.3.1. Synthesizing the Evidence",
+        "description": "Guidelines rest on a foundation of peer-reviewed clinical research. Writers synthesize evidence systematically for effective decision making. Conclusions are based on the body of evidence, guided by basic statistics for healthcare providers.",
+        "components": [
+          {
+            "component": "Statement of the clinical objective/question",
+            "details": "Defined in Section 2.2.2. Serves as the 'heading.'"
+          },
+          {
+            "component": "Recommendation",
+            "details": "Includes one or more clinical recommendations. Full sentences with classification and level of evidence. Statements of evidence levels A and B require references."
+          },
+          {
+            "component": "Explanatory text",
+            "details": "Detailed in 3.3.1.1. Narrative Synthesis of Evidence."
+          },
+          {
+            "component": "References",
+            "details": "Includes text citations and summary of trials."
+          },
+          {
+            "component": "Evidence table",
+            "details": "See 3.3.1.2. Visual and 3.3.1.3. Analytic Synthesis of Evidence."
+          },
+          {
+            "component": "Diagram, table, or graphic summary",
+            "details": "Links clinical objectives back to algorithms, diagrams, or tables, as detailed in Section 4.3."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The guideline emphasizes the use of evidence tables for summarizing clinical trial data, reserving text for clarifications. It recommends meta-analysis for consistent trial results and advises against lengthy descriptions of individual trials. The Cochrane Collaboration suggests extracting key data for evidence comparison. Data elements include patient numbers, morbidity, and statistical measures. Visual summaries like tables and graphs are encouraged. Meta-analytic methods are recommended for statistical analysis to determine data heterogeneity and effect size."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Section": "3.4. Expert Interpretation of the Evidence",
+        "Summary": "Expert interpretation is critical in guideline formulation, serving as a funnel for combining evidence from various studies into recommendations. Despite abundant evidence, much falls into a 'gray zone' of uncertainty due to issues like divergent conclusions from different trials, applicability to subpopulations, or methodological weaknesses. Recommendations must align with existing guidelines such as ACCF/AHA and JNC 7, especially when patient populations and treatment therapies overlap, unless new evidence necessitates changes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Section": "4. Writing Recommendations",
+        "Overview": "Describes the methodology of guideline development including meta-analysis and systematic review. Emphasizes the consideration of evidence and the creation of clear recommendations.",
+        "Guideline Development": "Unlike other methodologies, it involves analysis of data.",
+        "Recommendation Evolution": "Conclusions and recommendations evolve as evidence is considered. Recommendations should be concise and separated from explanatory text.",
+        "Strength of Recommendations": "Based on evidence, benefit vs. harm, and patient preference.",
+        "Comparative Effectiveness": "Class I and IIa - Level of Evidence A and B recommendations can make statements regarding the comparative effectiveness of treatments."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary": "The guidelines emphasize the importance of basing recommendations on clinical evidence. Even if a newly approved drug lacks postmarketing data, it may be recommended. In cases where evidence is lacking, off-label drugs can be considered. Recommendations overlapping with existing ones should be consistent unless new evidence dictates otherwise. Guidelines are used as a basis for ACCF and AHA activities and should be clear and detailed."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Checklist Title": "How to Write a Recommendation",
+        "Recommendation Classes": {
+          "Class I": [
+            "should",
+            "is recommended",
+            "is indicated",
+            "is useful/effective/beneficial"
+          ],
+          "Class IIa": [
+            "is reasonable",
+            "can be useful/effective/beneficial",
+            "is probably recommended",
+            "is probably indicated"
+          ],
+          "Class IIb": [
+            "may/might be considered",
+            "may/might be reasonable",
+            "usefulness/effectiveness is unknown/unclear/uncertain/not well established"
+          ],
+          "Class III-No Benefit": {
+            "Procedure/Test": "Not helpful",
+            "Treatment": "No proven benefit",
+            "Criteria": [
+              "is not recommended",
+              "is not indicated",
+              "should not be done",
+              "is not useful/effective/beneficial",
+              "may be harmful"
+            ]
+          },
+          "Class III-Harm": {
+            "Procedure/Test": "Excess cost w/o benefit or Harmful",
+            "Treatment": "Harmful",
+            "Criteria": [
+              "potentially harmful",
+              "causes harm",
+              "associated with excess morbidity/mortality",
+              "should not be done"
+            ]
+          }
+        },
+        "Guideline Writing Tips": [
+          "Assign each recommendation a reference.",
+          "Write separate recommendations for specific clinical objectives.",
+          "Write practical recommendations for the real-world setting.",
+          "Describe the patient demographics for each recommendation.",
+          "Use clear and unambiguous language.",
+          "Prefer active wording over passive wording for recommendations."
+        ],
+        "Example Context": "Examples were Class IIa recommendations from the 2006 ACC/AHA/ESC Guidelines for the Management of Patients with Atrial Fibrillation."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Primary prevention of thromboembolism in patients with nonvalvular AF": {
+          "Considerations": [
+            "Use of antithrombotic therapy (aspirin or vitamin K antagonist)",
+            "Assessment of bleeding risk",
+            "Patient preferences: age, gender, comorbidities"
+          ],
+          "Validated Risk Factors": [
+            "Age >= 75",
+            "Hypertension",
+            "Heart failure (HF)",
+            "Impaired left ventricular (LV) function",
+            "Diabetes mellitus"
+          ],
+          "Less Well-Validated Risk Factors": [
+            "Age 65-74",
+            "Female gender",
+            "Coronary artery disease (CAD)"
+          ],
+          "Recommendation Level": {
+            "Highly Validated Risk Factors": "A",
+            "Less Well-Validated Risk Factors": "B"
+          }
+        },
+        "Patient-Centered Care": {
+          "Recommendations": [
+            "Shared decision-making",
+            "Patient preferences and comorbidities consideration"
+          ]
+        },
+        "Classification of Recommendations and Level of Evidence": {
+          "Process": [
+            "Use of a color grid for evidence adjudication",
+            "Transparent mechanism for classifying recommendations"
+          ],
+          "Requirements": [
+            "Recommendation classification and level of evidence assignment",
+            "At least one reference for Level A or B"
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Evidence C Description": "Evidence C does not require a reference unless one exists as this refers to expert opinion, case studies or standards of care.",
+        "Notes on Recommendations": "Recommendations are crafted based on the treatment effect, i.e., risk versus benefit continuum, and now allow for Class III recommendations to be separated into 'no benefit' or 'harm' categories.",
+        "Classification System": "Classification of recommendations (COR) and levels of evidence (LOE) are expressed in the ACCF/AHA COR/LOE Table."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Classification Types": {
+          "Class I": "Conditions for which there is evidence and/or general agreement that a given procedure or treatment is useful and effective.",
+          "Class II": "Conditions for which there is conflicting evidence and/or a divergence of opinion about the usefulness/efficacy of a procedure or treatment.",
+          "Class IIa": "Weight of evidence/opinion is in favor of usefulness/efficacy.",
+          "Class IIb": "Usefulness/efficacy is less well established by evidence/opinion.",
+          "Class III": "Conditions for which there is evidence and/or general agreement that the procedure/treatment is not useful/effective and in some cases may be harmful.",
+          "No Benefit": "Procedure/Test not helpful or Treatment without established proven benefit.",
+          "Harm": "Procedure/Test leads to excess cost without benefit or is harmful, and/or Treatment is harmful."
+        },
+        "Level of Evidence": {
+          "Level of Evidence A": "Data derived from multiple randomized clinical trials or meta-analyses. References used to determine level of evidence must be provided and cited with the recommendation.",
+          "Level of Evidence B": "Data derived from a single randomized trial, or nonrandomized studies. References used to determine level of evidence must be provided and cited with the recommendation.",
+          "Level of Evidence C": "Consensus opinion of experts, case studies, or standard of care."
+        },
+        "Quote": "Like the collection and quality analysis of scientific data from an experimental study, collection and grading of the evidence for guideline development allow conclusions (i.e., guideline recommendations) to be developed in a manner that is supportable by the data (i.e., scientific evidence in the literature). - Heffner, 1998"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Comparator Verbs": {
+          "Class I": [
+            "Treatment/strategy A is recommended/indicated in preference to treatment B",
+            "Treatment A should be chosen over treatment B"
+          ],
+          "Class IIa": [
+            "Treatment/strategy A is probably recommended/indicated in preference to treatment B",
+            "It is reasonable to choose treatment A over treatment B"
+          ]
+        },
+        "Current COR/LOE": "Allows for the use of comparative effectiveness phrases/verbiage for Class I and Class IIa recommendations with LOE A or B only. Direct comparisons are required, restricted to LOE A and B.",
+        "4.2.2. Applying the Classifications and Levels": "There is a preference for method (classification first vs. synthesis after). Classification and level of evidence are essential, and any combination is possible. Mega-trials alone do not justify Level A."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "LevelOfEvidence": "Assigning a Level of Evidence B or C should not imply a weak recommendation. Many clinical questions do not lend themselves to experimentation or high-quality investigations, yet are relevant.",
+        "ComparativeEffectiveness": "Comparative effectiveness statements are based on clinical effectiveness for Class I and IIa recommendations with Level of Evidence A and B.",
+        "PerformanceMeasures": {
+          "Quantification": "Performance measures must be quantifiable with a defined numerator and denominator.",
+          "GuidelineRecommendations": "Guideline recommendations should be clear with minimal ambiguity to facilitate incorporation into practice.",
+          "SelectionProcess": "Involves evaluating evidence strength and defining clinical significance of outcomes expected from performance measures."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary": "The text outlines the importance of assessing the relationship between adherence to performance measures and clinical outcomes. Performance measure committees must consider the feasibility and costs associated with implementing measures, including therapy costs, reimbursement availability, and data collection costs. ACCF/AHA Class I and III guideline recommendations help identify care dimensions for performance measurement. Visual descriptions of recommendations and evidence, such as tables and diagrams, are encouraged for better understanding and application of care by physicians."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Attributes": [
+          "Written in clear and unambiguous language",
+          "Logically organized",
+          "Easy to follow",
+          "Specific about relevant populations and clinical circumstances",
+          "Specific about which elements of care are appropriate, inappropriate, and equivocal"
+        ],
+        "Expectations": "The guideline users expect evidence to be presented as proof of the recommendations\u2019 quality, with key points clearly presented and easily accessible.",
+        "Section": "Examples of good summaries of recommendations are included in this section.",
+        "Creating Tables": {
+          "Purpose": "Tables are used to augment text, display data, or organize information visually.",
+          "Characteristics": [
+            "Includes supplemental content original to the table",
+            "Brief but explanatory title",
+            "Each column and row has a descriptive heading",
+            "Logical sense across the matrix",
+            "Can be understood without the text",
+            "Abbreviations are spelled out",
+            "All data sources cited and modification information indicated"
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Text Tables": "Used for description and/or explication, text tables clarify complex information. They should simplify without replacing scientific text. Use sparingly to explain, list signs/symptoms when needed, and avoid repetition.",
+        "Treatment Strategy": {
+          "Invasive Preferred": [
+            "Recurrent angina or ischemia at rest or with low level activities despite intensive medical therapy",
+            "Elevated cardiac biomarkers (TnT or TnI)",
+            "New or presumably new ST-segment depression",
+            "Signs or symptoms of HF or new or worsening mitral regurgitation",
+            "High-risk findings from noninvasive testing",
+            "Hemodynamic instability",
+            "Sustained ventricular tachycardia",
+            "PCI within 6 months",
+            "Prior CABG",
+            "High risk TIMI or GRACE score",
+            "Patient prefers invasive evaluation",
+            "Reduced left ventricular function (LVEF less than 40%)"
+          ],
+          "Invasive Considered": [
+            "Diabetes",
+            "Chronic renal insufficiency"
+          ],
+          "Conservative Preferred": [
+            "Low risk TIMI or GRACE score",
+            "Patient or physician preference in the absence of high risk features"
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "statistical_analysis_section": "The text discusses the importance of choosing the correct format for statistical analysis using tables. It references 'Presenting Your Findings: A Practical Guide for Creating Tables' by Nicol & Pexman as a useful guide.",
+        "relative_risk": "Relative risk (RR) and odds ratios (ORs) are statistical measures used to compare risk between two different groups in clinical documents. The Absolute Risk Reduction (ARR) should be listed and is used to convey the difference in event rates (i.e., rate of harmful outcomes in the control group versus the experimental group). ARR and RR can be influenced by various factors, including disease seriousness and side effects.",
+        "arr_use": "ARR is known as the arithmetic difference in harmful outcome rates between experimental and control groups. The difference between risk levels in relative terms is highlighted. Multiple references and calculators are provided for creating the ARR and calculating the 95% confidence interval."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Study Focus": "Outcome of Death or Myocardial Infarction in Clinical Trials of GP IIb-IIIa Antagonists",
+        "Trial Information": [
+          {
+            "Trial": "PCI IMPACT II (1)",
+            "Study Population": "All PTCA",
+            "Drug": "eptifibatide",
+            "Results": {
+              "Placebo": {
+                "n": 112,
+                "Total": 1328,
+                "%": 8.4
+              },
+              "IIb-IIIA": {
+                "n": 93,
+                "Total": 1349,
+                "%": 6.9
+              }
+            },
+            "ARR": 0.015,
+            "RR": 0.83,
+            "95% CI": "0.63 to 1.06",
+            "p": 0.134
+          },
+          {
+            "Trial": "ESPRIT (2)",
+            "Study Population": "Elective stenting",
+            "Drug": "eptifibatide",
+            "Results": {
+              "Placebo": {
+                "n": 104,
+                "Total": 1024,
+                "%": 10.2
+              },
+              "IIb-IIIA": {
+                "n": 66,
+                "Total": 1040,
+                "%": 6.4
+              }
+            },
+            "ARR": 0.038,
+            "RR": 0.62,
+            "95% CI": "0.46 to 0.84",
+            "p": 0.0016
+          },
+          {
+            "Trial": "ISAR-REACT (3)",
+            "Study Population": "Elective stenting with clopidogrel pretreatment",
+            "Drug": "abciximab",
+            "Results": {
+              "Placebo": {
+                "n": 42,
+                "Total": 1080,
+                "%": 3.9
+              },
+              "IIb-IIIA": {
+                "n": 43,
+                "Total": 1079,
+                "%": 4.0
+              }
+            },
+            "ARR": null,
+            "RR": 1.02,
+            "95% CI": "0.68 to 1.55",
+            "p": 0.91
+          },
+          {
+            "Trial": "PURSUIT (4)",
+            "Study Population": "UA/NQWMI",
+            "Drug": "eptifibatide",
+            "Results": {
+              "Placebo": {
+                "n": 744,
+                "Total": 4739,
+                "%": 15.7
+              },
+              "IIb-IIIA": {
+                "n": 67,
+                "Total": 4722,
+                "%": 1.42
+              }
+            },
+            "ARR": 0.01428,
+            "RR": 0.09,
+            "95% CI": "0.07 to 0.12",
+            "p": "Less than 0.0001"
+          },
+          {
+            "Trial": "GUSTO IV ACS (5)",
+            "Study Population": "UA/NQWMI",
+            "Drug": "abciximab",
+            "Results": {
+              "Placebo": {
+                "n": 209,
+                "Total": 2598,
+                "%": 8.0
+              },
+              "IIb-IIIA": {
+                "n": 450,
+                "Total": 5202,
+                "%": 8.7
+              }
+            },
+            "ARR": -0.006,
+            "RR": 1.08,
+            "95% CI": "0.92 to 1.26",
+            "p": 0.36
+          },
+          {
+            "Trial": "PARAGON B (6)",
+            "Study Population": "UA/NQWMI",
+            "Drug": "lamifiban",
+            "Results": {
+              "Placebo": {
+                "n": 296,
+                "Total": 2597,
+                "%": 11.4
+              },
+              "IIb-IIIA": {
+                "n": 278,
+                "Total": 2628,
+                "%": 10.6
+              }
+            },
+            "ARR": 0.0081,
+            "RR": 0.94,
+            "95% CI": "0.77 to 1.09",
+            "p": 0.32
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "figure_submission": "Camera-ready figures should be submitted with crisp, clear lines, including the author's name and figure reference. Preferred file format is .TIF; editable figures should be in .PPT. JACC\u2019s instructions serve as a reference for submissions.",
+        "color_figures": "Figures in color will be printed in color, while B/W figures will be printed in B/W. Simple line graphs and charts should ideally be in B/W. ACCF/AHA Guidelines appear in both JACC and Circulation, the latter not in color.",
+        "visual_design": "For publication in Circulation, which is not in color, shapes and line patterns should distinguish data."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "4.3.4. Additional Important Points on Tables and Figures",
+        "guidelines": [
+          "If a cell in a table does not contain data, use an ellipsis (\u2026) and explain its significance in the footnote.",
+          "ACCF avoids using symbols for dosages to reduce errors and uses 'to' instead of a dash.",
+          "Footnote symbols order: *, \u2020, \u2021, \u00a7, ||, \u00b6, #.",
+          "Table notes and figure captions can include general notes, explanations of symbols, copyright notes, and references.",
+          "Sources must be cited in the table note or caption. If copyrighted by another source, permission is required."
+        ],
+        "permissions": "Sources must be referenced when data in a table/figure are subject to copyright. If data from multiple sources are used, copyright permission is not always needed."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Writing Committee Discussions and Consensus Development",
+        "Section": "5.1 Group Decision-Making",
+        "Description": "Writing committee discussions and consensus development are ongoing throughout the guideline development process. ACFF/AHA Guidelines are collaboratively created documents, requiring consensus on various aspects such as scope, clinical objectives, and recommendations. Consensus is achieved via meetings, conference calls, and emails, with more formal processes like voting when necessary. The guidelines allow for incorporating controversial topics with no minority opinions due to a lack of data supporting consensus.",
+        "Challenges": "Reaching consensus without sufficient data is difficult. The ACCF/AHA Guidelines process permits the inclusion of controversial subjects to navigate these challenges.",
+        "Voting Process": "The voting process needs to be adaptable to specific concerns. The chairperson or their designee oversees the decision to vote and its administration, ensuring each member\u2019s vote is recorded."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "informal_vote": {
+          "necessity_criteria": [
+            "When consensus is not obvious",
+            "Numerous or significant RWI that may cause real or perceived conflict of interest",
+            "Individuals appear to unduly influence discussion outcomes",
+            "Reconciling new guideline recommendations with existing ones"
+          ],
+          "note": "Individuals influencing the discussion may be asked to leave the room."
+        },
+        "formal_balloting": {
+          "procedure": {
+            "timing": "During pre-peer review and post-review recommendations",
+            "reviews": "Prior to ACCF Board of Trustees and AHA SACC reviews"
+          },
+          "requirements": {
+            "recusal": "Members must recuse from voting on recommendations causing conflict",
+            "tracking": "Cover sheet for development, ballots maintained permanently"
+          },
+          "confidential_balloting": "Required for all guidelines",
+          "voting_context": "Based on Robert's Rules of Order, 10th Edition"
+        },
+        "committee_process": {
+          "record_keeping": "Name and vote of each member maintained indefinitely",
+          "voting_requirements": [
+            "Confidential written ballot",
+            "Chair reviews all votes for recusal accuracy",
+            "Members with relevant RWI may discuss but must recuse during vote",
+            "Approval requires majority vote of present members"
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Definition of Quorum": "A quorum in an assembly is the number of voting members who must be present in order that business can be legally transacted. It refers to the number of such members present. The number of members constituting a quorum is a majority of those present, unless organizational bylaws indicate otherwise.",
+        "Board and Committees": "In all other committees and boards, the quorum is a majority of the members of the board or committee unless a different quorum is fixed by the bylaws or some other rule.",
+        "Vote Majority": "The number of members needed to carry a vote is a majority of the votes cast by persons legally entitled to vote, excluding blanks, abstentions, and recusals.",
+        "Guideline Case": "At least 51% of the members must be present to have a quorum. The number of voting members must not go below 3. If the number is uneven, it should be rounded up to the next whole number.",
+        "Consistency with Documents": "Guidelines often cover related material as other documents like ACCF/AHA Guidelines, NHLBI guidelines, and expert consensus documents."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The guidelines emphasize consistency among ACCF/AHA Guidelines except when new evidence or changes in patient practice patterns arise. Changes must be vetted by the writing committee and Task Force. Guidelines should reference existing materials to avoid repetition and maintain consistency. Inconsistencies are monitored by the Task Force Liaison. Disease-based guidelines take precedence when guidelines overlap. The Task Force Lead Reviewer handles consistency checks during peer reviews. Substantial issues may require involvement from other committees to reach consensus for recommendations.",
+        "sections": [
+          {
+            "section": 1,
+            "title": "Policy Consistency",
+            "description": "The guidelines must remain consistent unless there is new evidence or changes in practice."
+          },
+          {
+            "section": 2,
+            "title": "Guideline References",
+            "description": "Guidelines should refer to each other to reduce repetition and ensure consistency."
+          },
+          {
+            "section": 3,
+            "title": "Monitoring and Review",
+            "description": "The Task Force Liaison aids in monitoring and resolving guideline inconsistencies."
+          },
+          {
+            "section": 4,
+            "title": "Concordance Information",
+            "description": "Details on concordance are addressed in Section 4."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Figures": [
+          {
+            "Figure 5": {
+              "Title": "Associated Guidelines",
+              "Details": [
+                "Revascularization is linked to PCI, STEMI, UA/NSTEMI, CABG, and SIHD."
+              ]
+            }
+          },
+          {
+            "Figure 6": {
+              "Title": "Overlapping Guidelines",
+              "Details": [
+                "There is an overlap between PCI, STEMI, and UA/NSTEMI."
+              ]
+            }
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "5.3. Writing Committee Sign-off",
+        "summary": "At the final stages of guideline development, writers should re-examine original goals and fill any gaps before peer review. Approval is obtained from the writing committee through a formal ballot prior to peer review and leadership review for recommendation changes. Recusal due to conflicts of interest is handled carefully. Internal review is supported by Checklist 3, while Checklists A, B, and C are used for standard guideline reporting. Tools like the National Guideline Clearinghouse and the AGREE instrument aid in evaluating guideline quality."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Peer Review": "A critical stage in the development process of practice guidelines is peer review, where expert, critical, and unbiased appraisals of the document are conducted.",
+        "Selection of Peer Reviewers": "Reviewed processes involve collecting relevant information about reviewers' RWI. Reviewers sign confidentiality agreements and their information is included in an appendix. Diverse viewpoints are sought and reviewers can be official, content, or organizational, with nominations from partner organizations.",
+        "Writing Committee Response": "Final stages involve review and approval by various committees. Responses to comments are required, especially for official reviewers. A spreadsheet is used to track these."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "process": "The document goes through a review process, including peer review and approval from partner organizations. Content reviewers provide comments considered for revisions. The ACC Board and AHA SACC are involved in the approval process, after which guidelines are sent to partnering organizations for endorsement.",
+        "approval": "Partner approving bodies include ACCF, AHA, and partner organizations. Any recommendations after peer review are reconsidered if substantive. If organizations endorse the guideline, it is published with their input.",
+        "exclusion": "Organizations not endorsing the document are acknowledged, but their names are removed from the cover page."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Web Posting and Publication": "The document is not final until approved and posted on ACCF and AHA websites. Guideline-focused updates accompany full-text guidelines and highlight changes in recommendations. The full-text guideline is updated to provide current information for new or revised guidelines. An executive summary offers an abridged version of the guidelines. Publications appear in the Journal of the American College of Cardiology and Circulation.",
+        "Preparing the Pocket Guide": "Pocket guide information should directly flow from the full guideline. Guidelines must lend themselves to the pocket guide format. Each writing committee designates a writer for the pocket guide. Consistency among full-text guidelines, summaries, and pocket content must be maintained. An online version is produced for all guidelines. Industry-funded laminated pocket guides are distributed for point of care implementation. ACCF and AHA also prepare other independent supplemental materials.",
+        "Maintaining Guideline Relevance and Updating Evidence": "Maintaining up-to-date guideline content with clinical evidence and best practices in cardiology is ongoing. The Task Force explores new processes for regular updates."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "evidence_review": {
+          "currency_review": "All guidelines are reviewed by the Task Force for possible update one year after publication and yearly thereafter. The process involves monitoring new clinical trials, peer-reviewed literature, and changes in policies by regulatory bodies, especially in cardiovascular disease assessment and treatment.",
+          "agencies_monitored": [
+            "FDA-Center for Devices and Radiological Health",
+            "FDA-Center for Drug Evaluation and Research",
+            "FDA-Drug and Device Safety Alerts",
+            "Centers for Medicare and Medicaid Services",
+            "Medicare Payment Advisory Commission",
+            "FDA-Circulatory Systems Devices Advisory Committee",
+            "FDA-Cardiovascular and Renal Drugs Advisory Committee"
+          ],
+          "late_breaking_clinical_trials": "Late-breaking clinical trials are reviewed biannually. A compiled list of these trials aids in updating or revising guidelines in consultation with writing committees and the Task Force."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Development Process": "A full revision of a guideline is conducted after at least two focused updates or when new evidence suggests that many recommendations need revision or the scope significantly changes. Revisions are similar to creating new guidelines, involving changes in the writing committee to maintain freshness and adherence to RWI rules.",
+        "Methodology": "The procedures for updates, revisions, and new guidelines follow the described methodology.",
+        "Standard Formats": {
+          "Focused Update": {
+            "Scope": "Based on new evidence from LBCTs during a specific time period.",
+            "Number of meetings": "Two 4-hour meetings with ACCF/AHA sessions and conference calls.",
+            "Target time frame to peer review": "6-9 months",
+            "Publication": "Summary article with highlights of recommendation changes, with new sections linked in the Table of Contents."
+          },
+          "Revision/New Guideline": {
+            "Scope": "Substantial rewrite with comprehensive literature review.",
+            "Number of meetings": "Up to 2-3 full-day meetings.",
+            "Target time frame to peer review": "12-18 months",
+            "Publication": "Executive summary (includes all recommendations and substantive comments), no track changes in full-text publication."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Focused Updates": {
+          "Topic Selection": {
+            "Process": "Research staff compile LBCT summary sheets by guideline topic twice yearly.",
+            "Criteria": [
+              "Publication in a peer-reviewed journal",
+              "Large, randomized, placebo-controlled trial(s)",
+              "Nonrandomized data deemed important based on results impacting current safety and efficacy assumptions",
+              "Strengths/weaknesses of research methodology and findings",
+              "Likelihood of additional studies influencing current findings",
+              "Impact on current and/or likelihood of need to develop new performance measure(s)",
+              "Requests and requirements for review from the practice community, key stakeholders, and sources free of bias",
+              "Number of previous trials showing consistent results",
+              "Need for consistency with a new guideline or guideline revision"
+            ],
+            "Committee Decision": "If a majority agrees, comments are shared with the Task Force Oversight Group (TFOG) and a decision is made on whether to convene a teleconference."
+          },
+          "Decision Finalization": "Researcher develops a list of potential guideline recommendations impacted by new evidence.",
+          "Maintenance": "Research staff maintain a master list to track LBCT decisions."
+        },
+        "Chair and Committee Selection": {
+          "Composition": "Consists of previous members of the original guideline writing committee.",
+          "Considerations": "RWI relevant to new trials are taken into account."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Document Process": "The Document Manager sends an invitation letter, confidentiality agreement, and RWI form to the potential chair/s and all writing committee members. Writing committee members have the option to participate or not. Those who accept are listed as part of the Focused Update Writing Group.",
+        "Chair Selection": "If the chair has a relevant relationship with the LBCTs prompting the update, a new chair is selected. The chair rotation process allows a chair to serve only for 2 updates, after which another member is chosen.",
+        "Organizational Representation": "Previous representatives are invited to continue representing their organizations with approval.",
+        "Development Format": "A 'Consensus Conference-Style' approach is adopted for guideline development, involving mandatory face-to-face meetings to review and finalize the guideline. Evidence tables or hyperlinks to studies are recommended over lengthy text.",
+        "Focused Update": "The update is a summary with only changes to full guidelines. It includes a table of recommendations showing deleted, changed, and new recommendations, trying to match \u2018by row\u2019.",
+        "Full-text Guidelines": "Full-text remains the primary resource for users. Updates reference focused updates, and changes will be highlighted in the table of contents."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "The guideline will be re-published to include links to the focused update and will be named a 'living' guideline to reflect updates incorporation. Updates in the table of contents will be marked as 'Updated' in bold, red font, with hyperlinks. The Focused Update writing group will be listed on the cover page alongside the full guideline writing committee. ACCF and AHA emphasize maintaining high ethical standards and avoiding conflicts of interest in guideline development by balancing writing committee members' relationships with industry. Specific attention is given to maintaining a Writing Committee with a majority not influenced by relevant relationships with industry.": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "8.2. Confidentiality/Nondisclosure Agreement",
+        "summary": "All Writing Committee members must sign a Confidentiality/Nondisclosure Agreement as part of the completion of the ACC online disclosure system. This agreement ensures that members keep all guideline-related information confidential. Disclosure of any material before publication is prohibited, with violations resulting in potential removal from the committee."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "8.3. Copyright Assignment and License Agreement",
+        "details": "All writing committee members must sign a Copyright Assignment and License Agreement which transfers all rights to the ACCF and AHA. Authors can include the guidelines in various works, but without implying ACCF or AHA endorsements. Modifications and distributions require permission from ACCF and AHA, with a fee applicable for for-profit publications. Permission requests are sent to healthpermissions@elsevier.com.",
+        "section2": "8.4. Editorial Response Policy",
+        "details2": "ACCF/AHA Task Force does not respond to public guideline comments but sends acknowledgments, addressing safety issues if noted. Correct letters trigger an erratum within 30 days. JACC and CIRC policy prohibits printing letters about ACCF/AHA guidelines."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "topic": "Publication of responses to ACCF/AHA Guidelines",
+        "details": "Other journals may allow publication of letters to the editor about ACCF/AHA Guidelines. If inaccuracies are found in such letters, the chair and/or writing committee may request permission from the Task Force to publish a letter of response."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Appendix A. Suggested Readings",
+        "description": "Copies of these articles are available from Guidelines staff.",
+        "readings": [
+          {
+            "author": "The AGREE Collaboration",
+            "title": "Appraisal of Guidelines for Research & Evaluation (AGREE) Instrument",
+            "source": "www.agreecollaboration.org"
+          },
+          {
+            "author": "Ackman ML, Druetka D, Tsuyuki RT",
+            "title": "Levels of evidence in cardiovascular clinical practice guidelines",
+            "source": "Can.J.Cardiol. 2000;16(10):1249-54."
+          },
+          {
+            "author": "Barratt A, Irwig L, Glasziou P, Cumming RG, Raffle A, Hicks N",
+            "title": "Users' guides to the medical literature: XVII. How to use guidelines and recommendations about screening",
+            "source": "Evidence-Based Medicine Working Group. JAMA 1999;281(21):2029-34."
+          },
+          {
+            "author": "Bucher HC, Guyatt GH, Cook DJ, Holbrook A, McAlister FA",
+            "title": "Users' guides to the medical literature: XIX. Applying clinical trial results.",
+            "source": "Evidence-Based Medicine Working Group. JAMA 1999;282(8):771-8."
+          },
+          {
+            "author": "Cabana MD, Rand CS, Powe NR, Wu AW, Wilson MH, Abboud PA et al",
+            "title": "Why don't physicians follow clinical practice guidelines? A framework for improvement",
+            "source": "JAMA 1999;282(15):1458-65."
+          },
+          {
+            "author": "Callaham ML, Wears RL, Weber EJ, et al",
+            "title": "Positive-outcome bias and other limitations in the outcome of research abstracts submitted to a scientific meeting",
+            "source": "JAMA 1998;280(3):254-7."
+          },
+          {
+            "author": "Choudhry NK, Stelfox HT, Detsky AS",
+            "title": "Relationships between authors of clinical practice guidelines and the pharmaceutical industry",
+            "source": "JAMA 2002; 287:612-7."
+          },
+          {
+            "author": "Cook D, Giacomini M",
+            "title": "The trials and tribulations of clinical practice guidelines [editorial; comment]",
+            "source": "JAMA 1999;281(20):1950-1."
+          },
+          {
+            "author": "Cook DJ, Greengold NL, Ellrodt AG, Weingarten SR",
+            "title": "The relation between systematic reviews and practice guidelines",
+            "source": "Ann.Intern.Med. 1997;127(3):210-6."
+          },
+          {
+            "author": "Easterbrook PJ, Berlin JA, Gopalan R, Matthews DR",
+            "title": "Publication bias in clinical research",
+            "source": "Lancet 1991; 337(8746):867-72."
+          },
+          {
+            "author": "Field MJ and Lohr KN, eds",
+            "title": "Clinical Practice Guidelines: Directions for a New Program",
+            "source": "Institute of Medicine, Washington, DC: National Academy Press; 1990:38.."
+          },
+          {
+            "author": "Field MJ and Lohr KN, eds",
+            "title": "Guidelines for Clinical Practice: From Development to Use",
+            "source": "Washington, DC: National Academy Press; 1992."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "references": [
+          "Friedland DJ, Go AS, Davoren JB, Shlipak MG, Bent SW, Subak LL, Mendelson T. Evidence-Based Medicine: A Framework for Clinical Practice. Stamford: Appleton & Lange; 1998.",
+          "Gibbons RJ, Smith S, Antman EM. American College of Cardiology/American Heart Association Clinical Practice Guidelines: Part I: Where do they come from? Circulation 2003;107:2979-2986.",
+          "Gibbons RJ, Smith S, Antman EM. American College of Cardiology/American Heart Association Clinical Practice Guidelines: Part II: Evolutionary changes in a continuous quality improvement project. Circulation 2003;107:3101-3107.",
+          "Greenhalgh T. How to read a paper. Getting your bearings (deciding what the paper is about). BMJ 1997;315(7102):243-6.",
+          "Greenhalgh T. Assessing the methodological quality of published papers. BMJ 1997;315(7103):305-8.",
+          "Greenhalgh T. Papers that summarise other papers (systematic reviews and meta-analyses). BMJ 1997;315(7109):672-5.",
+          "Grilli R, Magrini N, Penna A, Mura G, Liberati A. Practice guidelines developed by specialty societies: the need for a critical appraisal. Lancet 2000;355(9198):103-6.",
+          "Grimshaw J, Eccles M, Russell I. Developing clinically valid practice guidelines. J.Eval.Clin.Pract. 1995;1(1):37-48.",
+          "Grimshaw J, Freemantle N, Wallace S, Russell I, Hurwitz B, Watt I et al. Developing and implementing clinical practice guidelines. Qual.Health Care 1995;4(1):55-64.",
+          "Grimshaw JM, Russell IT. Effect of clinical guidelines on medical practice: a systematic review of rigorous evaluations [see comments]. Lancet 1993;342(8883):1317-22.",
+          "Guyatt G, Jaeschke R, Heddle N, Cook D, Shannon H, Walter S. Basic statistics for clinicians: 1. Hypothesis testing. CMAJ. 1995;152(1):27-32.",
+          "Guyatt G, Jaeschke R, Heddle N, Cook D, Shannon H, Walter S. Basic statistics for clinicians: 2. Interpreting study results: confidence intervals. CMAJ. 1995;152(2):169-73.",
+          "Guyatt G, Walter S, Shannon H, Cook D, Jaeschke R, Heddle N. Basic statistics for clinicians: 4. Correlation and regression. CMAJ. 1995;152(4):497-504.",
+          "Guyatt GH, Sinclair J, Cook DJ, Glasziou P. Users' guides to the medical literature: XVI. How to use a treatment recommendation. Evidence-Based Medicine Working Group and the Cochrane Applicability Methods Working Group. JAMA 1999;281(19):1836-43.",
+          "Haycox A, Bagust A, Walley T. Clinical guidelines-the hidden costs. BMJ 1999;318(7180):391-3."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "references": [
+          {
+            "authors": "Hayward RS, Wilson MC, Tunis SR, Bass EB, Guyatt G",
+            "title": "Users' guides to the medical literature. VIII. How to use clinical practice guidelines. A. Are the recommendations valid?",
+            "journal": "JAMA",
+            "year": 1995,
+            "volume": 274,
+            "issue": 7,
+            "pages": "570-4"
+          },
+          {
+            "author": "Heffner JE",
+            "title": "Does evidence-based medicine help the development of clinical practice guidelines?",
+            "journal": "Chest",
+            "year": 1998,
+            "volume": 113,
+            "supplement": 3,
+            "pages": "172S-8S"
+          },
+          {
+            "authors": "Ioannidis JP, Cappelleri JC, Sacks HS, Lau J",
+            "title": "The relationship between study design, results, and reporting of randomized clinical trials of HIV infection",
+            "journal": "Control Clin Trials",
+            "year": 1997,
+            "month": "Oct",
+            "volume": 18,
+            "issue": 5,
+            "pages": "431-44"
+          },
+          {
+            "author": "Institute of Medicine",
+            "title": "Crossing the Quality Chasm: A New Health System for the 21st Century",
+            "publisher": "National Academy of Science, US",
+            "year": 2001,
+            "edition": "6th Printing May 2005"
+          },
+          {
+            "author": "Jadad A",
+            "title": "Randomized Controlled Trials",
+            "publisher": "London: BMJ Books",
+            "year": 1998
+          },
+          {
+            "authors": "Jaeschke R, Guyatt G, Shannon H, Walter S, Cook D, Heddle N",
+            "title": "Basic statistics for clinicians: 3. Assessing the effects of treatment: measures of association",
+            "note": "[published erratum appears in Can Med Assoc J 1995 Mar 15;152(6):813]",
+            "journal": "CMAJ",
+            "year": 1995,
+            "volume": 152,
+            "issue": 3,
+            "pages": "351-7"
+          },
+          {
+            "authors": "Jones RH, Ritchie JL, Fleming BB, Hammermeister KE, Leape LL",
+            "title": "28th Bethesda Conference. Task Force 1: Clinical practice guideline development, dissemination and computerization",
+            "journal": "J Am Coll Cardiol",
+            "year": 1997,
+            "month": "May",
+            "volume": 29,
+            "issue": 6,
+            "pages": "1133-41"
+          },
+          {
+            "authors": "Juni P, Witschi A, Bloch R, Egger M",
+            "title": "The hazards of scoring the quality of clinical trials for meta-analysis",
+            "note": "[see comments]",
+            "journal": "JAMA",
+            "year": 1999,
+            "volume": 282,
+            "issue": 11,
+            "pages": "1054-60"
+          },
+          {
+            "author": "Kennedy HL",
+            "title": "The importance of randomized clinical trials and evidence-based medicine: a clinician's perspective",
+            "journal": "Clin.Cardiol.",
+            "year": 1999,
+            "volume": 22,
+            "issue": 1,
+            "pages": "6-12"
+          },
+          {
+            "authors": "Krahn M, Naglie G",
+            "title": "The next step in guideline development: incorporating patient preferences",
+            "journal": "JAMA",
+            "year": 2008,
+            "volume": 300,
+            "pages": "436-8"
+          },
+          {
+            "authors": "Kuntz KM, Tsevat J, Weinstein MC, Goldman L",
+            "title": "Expert panel vs decision-analysis recommendations for postdischarge coronary angiography after myocardial infarction",
+            "journal": "JAMA",
+            "year": 1999,
+            "volume": 282,
+            "issue": 23,
+            "pages": "2246-51"
+          },
+          {
+            "authors": "Landrum MB, Normand SL",
+            "title": "Applying Bayesian ideas to the development of medical guidelines",
+            "journal": "Stat.Med.",
+            "year": 1999,
+            "volume": 18,
+            "issue": 2,
+            "pages": "117-37"
+          },
+          {
+            "authors": "Lau J, Ioannidis JP, Schmid CH",
+            "title": "Summing up evidence: one answer is not always enough",
+            "journal": "Lancet",
+            "year": 1998,
+            "volume": 351,
+            "issue": 9096,
+            "pages": "123-7"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "references": [
+          {
+            "authors": "Mulrow DC, Oxman AD, eds.",
+            "title": "Cochrane Collaboration Handbook",
+            "update": "Updated 1 March 1997",
+            "publication": "The Cochrane Collaboration",
+            "location": "Oxford",
+            "year": "1996-.",
+            "frequency": "Updated quarterly"
+          },
+          {
+            "authors": "Nicol AAM, Pexman PM.",
+            "title": "Presenting Your Findings: A Practical Guide for Creating Tables",
+            "location": "Washington",
+            "publisher": "American Psychological Association",
+            "year": "1999"
+          },
+          {
+            "authors": "Oxman AD, Thomson MA, Davis DA, Haynes RB.",
+            "title": "No magic bullets: a systematic review of 102 trials of interventions to improve professional practice",
+            "journal": "CMAJ",
+            "year": "1995",
+            "volume": "153",
+            "issue": "10",
+            "pages": "1423-31"
+          },
+          {
+            "authors": "Parmley WW.",
+            "title": "Practice guidelines and cookbook medicine--who are the cooks? [editorial]",
+            "journal": "J.Am.Coll.Cardiol.",
+            "year": "1994",
+            "volume": "24",
+            "issue": "2",
+            "pages": "567-8"
+          },
+          {
+            "authors": "Petitti DB.",
+            "title": "Meta-Analysis, Decision-Analysis, and Cost-Effectiveness Analysis: Methods for Quantitative Synthesis in Medicine",
+            "location": "New York",
+            "publisher": "Oxford University Press",
+            "year": "1994"
+          },
+          {
+            "authors": "Pogue J, Yusuf S.",
+            "title": "Overcoming the limitations of current meta-analysis of randomised controlled trials",
+            "journal": "Lancet",
+            "year": "1998",
+            "volume": "351",
+            "issue": "9095",
+            "pages": "47-52"
+          },
+          {
+            "authors": "Sackett DL, Richardson WS, Rosenberg W, and Haynes BR.",
+            "title": "Evidence-based Medicine: How to Practice and Teach EBM",
+            "location": "Edinburgh",
+            "publisher": "Churchill Livingstone",
+            "year": "1998"
+          },
+          {
+            "authors": "Shaneyfelt TM, Mayo-Smith MF, Rothwangl J.",
+            "title": "Are guidelines following guidelines? The methodological quality of clinical practice guidelines in the peer-reviewed medical literature",
+            "journal": "JAMA",
+            "year": "1999",
+            "volume": "281",
+            "issue": "20",
+            "pages": "1900-5"
+          },
+          {
+            "authors": "Shekelle PG, Woolf SH, Eccles M, Grimshaw J.",
+            "title": "Clinical guidelines: developing guidelines",
+            "journal": "BMJ",
+            "year": "1999",
+            "volume": "318",
+            "issue": "7183",
+            "pages": "593-6"
+          },
+          {
+            "authors": "Shekelle PG, Kravitz RL, Beart J, Marger M, Wang M, Lee M.",
+            "title": "Are nonspecific practice guidelines potentially harmful? A randomized comparison of the effect of nonspecific versus specific guidelines on physician decision making",
+            "journal": "Health Serv.Res.",
+            "year": "2000",
+            "volume": "34",
+            "issue": "7",
+            "pages": "1429-48"
+          },
+          {
+            "authors": "Schiffman RN, Shekelle P, Overhage M, et al.",
+            "title": "Standardized reporting of clinical practice guidelines: A proposal from the conference on guideline standardization",
+            "journal": "Ann Intern Med",
+            "year": "2003",
+            "volume": "139",
+            "pages": "493-8"
+          },
+          {
+            "authors": "Ullyot DJ.",
+            "title": "President's page: practice guidelines [news]",
+            "journal": "J.Am.Coll.Cardiol.",
+            "year": "1994",
+            "volume": "24",
+            "issue": "2",
+            "pages": "569-70"
+          },
+          {
+            "authors": "Woolf SH.",
+            "title": "Practice guidelines, a new reality in medicine. II. Methods of developing guidelines",
+            "journal": "Arch.Intern.Med.",
+            "year": "1992",
+            "volume": "152",
+            "issue": "5",
+            "pages": "946-52"
+          },
+          {
+            "authors": "Woolf SH.",
+            "title": "Do clinical practice guidelines define good medical care? The need for good science and the disclosure of uncertainty when defining 'best practices'",
+            "journal": "Chest",
+            "year": "1998",
+            "volume": "113",
+            "issue": "3 Suppl",
+            "pages": "166S-71S"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Web Resources": [
+          {
+            "Name": "The Centre for Evidence-Based Medicine, University Health Network",
+            "Website": "http://www.cebm.utoronto.ca/",
+            "Resources": [
+              {
+                "Type": "Stats calculator",
+                "Link": "http://www.cebm.utoronto.ca/practise/ca/statscal/"
+              },
+              {
+                "Type": "Online resource center",
+                "Link": "http://www.cebm.utoronto.ca/resources/websites.htm"
+              }
+            ]
+          },
+          {
+            "Name": "The Evidence-Based Resource Center",
+            "Website": "http://www.ebmny.org/thecentr2.html",
+            "Resources": [
+              {
+                "Type": "Evidence-based medicine calculator",
+                "Link": "http://www.cebm.utoronto.ca/palm/embcalc/"
+              },
+              {
+                "Type": "Stats calculator",
+                "Link": "http://www.cebm.utoronto.ca/practise/ca/statscal/"
+              },
+              {
+                "Type": "Software for critically appraised topics",
+                "Link": "http://www.cebmh.com/"
+              }
+            ]
+          }
+        ],
+        "References": [
+          {
+            "Authors": "Antman EM, Califf RM, Kupersmith J",
+            "Title": "Tools for assessment of cardiovascular tests and therapies",
+            "In": "Antman EM, editor. Cardiovascular Therapeutics: A Companion to Braunwald\u2019s Heart Disease",
+            "Edition": "Third edition",
+            "Publisher": "Philadelphia: Elsevier Saunders",
+            "Year": 2007
+          },
+          {
+            "Authors": "Nicol AAM, Pexman PM",
+            "Title": "Presenting your findings: a practical guide for creating tables",
+            "Publisher": "Washington, DC: American Psychological Association",
+            "Year": 1999
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Introduction": "The American College of Cardiology Foundation (ACCF) and American Heart Association (AHA) are committed to ethical standards in the development of clinical guidelines, asserting that no industry funding is accepted. They emphasize transparent relationships with industry to ensure unbiased scientific content. Industry employees are prohibited from serving as members of guideline writing committees.",
+        "Scope": "Involves writers, reviewers, and guidelines task force in disclosing relationships with industry and entities involved in healthcare goods and services.",
+        "Terminology": {
+          "Relationships with Industry (RWI) Versus Conflict of Interest (COI)": "RWI does not imply a conflict. Proper disclosure and management can prevent bias.",
+          "The Task Force on Practice Guidelines": "Oversees guideline development and enforces policies."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "1.2.3. Writing Committees": "Writing Committees are commissioned by the TFPG to develop guidelines on assigned topics to be published in journals based on ACCF/AHA policy.",
+        "1.2.4. Chair, Co-Chairs, Vice Chairs": "The term 'Co-Chair' refers to two or more chairs sharing equal responsibility and may not have relevant RWI. 'Vice Chair' refers to an individual subordinate to a Chair, possibly with relevant RWI.",
+        "2.0. General Principles for Managing RWI": "Guidelines for managing relationships with industry and entities for guideline development purposes.",
+        "2.1. Collecting RWI": "ACCF/AHA collects details of relationships for transparency. Authors must disclose all relationships from the past 12 months. Verbal disclosure required in conferences as well.",
+        "2.1.1. Reporting Timeframe": "Disclosure of relationships of the past 12 months, aligning with NIH and FDA standards.",
+        "2.1.2. Relationship Type": "Defines reporting categories, including Consultant, Speaker's Bureau, Ownership/Partnership/Principal, and Personal Research."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "topics": [
+          "Salary funding",
+          "Institutional or organizational relationships",
+          "Expert witness disclosures",
+          "Financial value/level of relationships",
+          "Relevance to document or topic"
+        ],
+        "institutional_relationships": {
+          "description": "Any relationship between an institution and a business or other entity, including funding from NIH or government grants.",
+          "examples": [
+            "Recruiting patients for a trial",
+            "Having fiscal authority or decision-making responsibility"
+          ]
+        },
+        "organizational_relationships": {
+          "description": "Leadership or governance responsibilities with other professional or nonprofit organizations."
+        },
+        "expert_witness_disclosures": {
+          "description": "Disclosure of all court cases or legal proceedings participation.",
+          "requirements": "Include the year of involvement and case topics."
+        },
+        "financial_relationships": {
+          "classification": "Significant, modest, or no financial relationship.",
+          "criteria_significant": "Ownership of 5% or more in a business, or substantial monetary involvement."
+        },
+        "disclosure_requirements": "Authors must report ALL relationships with industry and other entities."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Eligibility for Committee": {
+          "Relevancy": {
+            "Relationship or interest": "Must relate to the same or similar subject, topic, or issue in the document.",
+            "Company/entity": "Makes a drug, drug class, or device addressed in the document or makes a competing drug/device.",
+            "Personal/Household": "Potential for financial, professional, or personal gain/loss related to the document."
+          }
+        },
+        "Voting and Recommendations": {
+          "Relevant Relationship": [
+            {
+              "Condition": "Relevant RWI regarding a product/competing product; document section relates to this.",
+              "Permission": "Participate in discussions, not in drafting or voting."
+            },
+            {
+              "Condition": "Relevant RWI regarding a product/competing product; document section is not related.",
+              "Permission": "Participate, draft, and vote."
+            },
+            {
+              "Condition": "Relevant RWI regarding product/competing product; document relates to product/service sponsor.",
+              "Permission": "Participate in discussions, not in drafting or voting."
+            }
+          ]
+        },
+        "Disclosure Timing": [
+          "Disclosure in writing or online before writing effort.",
+          "Transparency ensured during writing and sign-off processes.",
+          "Report new relationships during writing to chair immediately."
+        ],
+        "RWI Management": {
+          "Writing Committee Balance": {
+            "Chair/Co-Chairs": "Must have no relevant RWI. Selected based on competency in managing the writing group."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Role Definitions": {
+          "Vice Chair": "A vice chair may be added for content expertise and must not have a significant relationship in the ownership category.",
+          "Committee": "Majority must be free of relevant RWI. At least 50% plus the chair may have no relevant RWI. Authors must avoid new RWIs during writing and before publication."
+        },
+        "Guideline Development": {
+          "Consensus Development": "All members can discuss the document. Those who may influence the discussion due to relevant relationships may be asked to leave the room.",
+          "Voting on Recommendations": "All members can participate. Those with relevant RWI cannot draft or vote on recommendations."
+        },
+        "Additional Notes": "The TFPG considers balance for specialty, location, practice setting, gender, race, and content expertise. Certain disclosed relationships might be considered not relevant."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          {
+            "title": "2.2.4. External Peer Review",
+            "details": "Reviewers must disclose all relevant relationships with industry and other entities related to the topic for publication in an appendix. This allows for commentary from a variety of constituencies to inform final document content."
+          },
+          {
+            "title": "2.2.5. ACCF Board of Trustees and AHA Science Advisory and Coordinating Committee Review and Approval",
+            "details": "Board and committee members may not comment or vote on clinical documents if they have relevant RWI related to the topic. Documents are approved by a majority vote of BOT and SACC members without relevant RWI."
+          },
+          {
+            "title": "2.2.6. Public Disclosure of RWI",
+            "details": "The ACCF/AHA disclosure policy is cited, and relevant relationships are published in a document appendix. A hyperlink to the comprehensive RWI of each author and TFPG member is included. Information is available on www.acc.org and www.americanheart.org."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "description": "The document is a Copyright Assignment and License Agreement between the American College of Cardiology Foundation (ACCF) and the American Heart Association (AHA). It details the transfer of rights, title, interest, and copyright ownership of a submitted work to the ACCF and AHA for publication. This includes the right to edit, publish, reproduce, and distribute the work in various formats globally. The agreement ensures the work is the author's original work and does not infringe on copyrights or contain defamatory content. It includes provisions for indemnifying the ACCF and AHA against claims and mentions the governance of the agreement by United States laws.",
+        "journal": "Journal of the American College of Cardiology; Circulation",
+        "author_rights": "Authors transfer all rights to ACCF and AHA, with provisions for indemnifying ACCF and AHA against claims.",
+        "US_government_employee_clause": "Specific allowance for works authored by U.S. Government employees to be published without restriction."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Principle": "The document outlines different types of organizational relationships, emphasizing the necessity for organizations to be ACGME accredited. It discusses guidelines for collaboration, mentioning the discretion given to the Task Force on Practice Guidelines and the Writing Committee Chair(s).",
+        "Funding": "Funding responsibilities differ based on the type of collaboration. Partnering organizations cover travel expenses for their representatives, while ACC and AHA cover other costs.",
+        "Formal Policy": "The recommendations are considered formal policy when jointly partnered. For other collaborations, they are not considered formal policy.",
+        "Staff": "Staff from co-sponsoring organizations are funded by ACC/AHA, with specific rules about attending meetings at their own expense."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Shared Marquee": "Names of all partnering organizations are included in the title with ACC/AHA listed first and all others following in alphabetical order. Collaborating organizations' names are not included in the title but are included in billing only.",
+        "Writing Committee Chair": "The Task Force on Practice Guidelines recommends individuals for the ACC/AHA chair position with the final decision made by the Task Force Oversight Group. The decision to invite additional co-chair(s) or vice chair is at the discretion of the Task Force on Practice Guidelines.",
+        "Committee Representation": "Official and equal representation (2 to 4 members per organization) is ensured depending on participation by other organizations. The representation may differ if the document is not endorsed."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Relationships with Industry and Other Entities (RWI)": "RWI for writing committee members must be reviewed and vetted for relevancy. A 51% rule requires that the committee include a chair with no relevant RWI. All efforts are made to implement this rule for equality in selection. Partnering organizations must adhere to this policy unless an exception is negotiated in advance.",
+        "Content Control/Approval": "ACC and AHA negotiate areas of disagreement among BOT and SACC. If a third partner is added, finalizing the document with respective Boards is necessary. Partnering organizations have up to six weeks to complete their review process with an up/down vote for document approval.",
+        "Policy Decisions/Methodology": "ACC/AHA methods and policies are mandated.",
+        "Peer Review": "Two official reviewers from each organization receive detailed responses from the chair. Reviewers are invited to provide organizational review and indicate a desire for final document review."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Copyright Ownership": "ACC/AHA holds the copyright; however, an unrestricted license is granted to all partner organizations to facilitate administration and management of intellectual property.",
+        "Publication": "Joint publication with a press release developed and approved by partnering organizations, including writing committee chairs as guideline spokespersons.",
+        "Endorsement": "All organizations have endorsement options. If endorsed, they can be listed as 'collaborating' or 'endorser'. Non-endorsing organizations' participation is mentioned in the guideline introduction.",
+        "Derivative Products": "ACC and AHA share costs and revenues from pocket guidelines, slide sets, and PDAs under the joint ACC/AHA Guideline Task Force budget. Other derivative products may be done jointly."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Partnering Organizations": "Partnering organizations are free to develop derivative products based on the guideline, assuming responsibility for associated costs, and must not license the guideline to other entities without ACC or AHA permission.",
+        "Concordance": "New documents developed by collaborating organizations must maintain concordance with recommendations. Collaborating organizations are not obligated to maintain concordance.",
+        "Updating a Guideline": "ACC/AHA will notify partnering organizations of updates to ascertain interest in continued participation.",
+        "Examples": {
+          "Documents": [
+            "ACC/AHA/HRS DBT GL",
+            "ACC/AHA/SCAI PCI GL",
+            "ASA/ACC/AHA/SCAI/SIR/SVMB/SVS Guideline on ECVD"
+          ],
+          "Collaborations": [
+            "HF GL with ISHLT",
+            "AF GL with HRS",
+            "HF GL with HFSA",
+            "HF GL with ACP and AAFP"
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document_type": "Literature Search Request Form",
+        "purpose": "The form is used to document all literature searches performed for the creation of clinical guidelines as part of the ACCF/AHA guideline development methodology.",
+        "sections": [
+          {
+            "title": "To Be Completed by the Requestor",
+            "fields": [
+              "Name of Guideline",
+              "Name of Requestor",
+              "Date",
+              "Years Requested",
+              "Publication Types",
+              "Clinical Question or Keywords"
+            ]
+          },
+          {
+            "title": "To Be Completed by the Searcher",
+            "subsection_title": "Template: Stored Literature Search Summary",
+            "fields": [
+              "Guideline Name",
+              "Requestor",
+              "Date Requested",
+              "Search Requested",
+              "Years Requested",
+              "Publication Types Requested",
+              "Databases Searched",
+              "Limits",
+              "Number of Search Results",
+              "Number of References Selected",
+              "Notes",
+              "Initials"
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Checklist Description": "Checklist A is designed to ensure guidelines incorporate desired criteria for clinical practice, based on the Conference on Guideline Standardization (COGS).",
+        "Sections": [
+          {
+            "Title": "1. Overview Material",
+            "Description": "Provide a structured abstract that includes the guideline\u2019s release date, status (original, updated), and print and electronic sources."
+          },
+          {
+            "Title": "2. Focus",
+            "Description": "Describe the primary disease/condition and intervention/service/technology that the guideline addresses. Indicate any alternative preventive, diagnostic, or therapeutic interventions considered during development."
+          },
+          {
+            "Title": "3. Goal",
+            "Description": "Describe the goal that following the guideline is expected to achieve, including the rationale for development on this topic."
+          },
+          {
+            "Title": "4. Users/setting",
+            "Description": "Describe the intended users of the guideline (e.g., provider types, patients) and the settings in which the guideline is intended to be used."
+          },
+          {
+            "Title": "5. Target Population",
+            "Description": "Describe the patient population eligible for guideline recommendations and list any exclusion criteria."
+          },
+          {
+            "Title": "6. Developer",
+            "Description": "Identify the organization(s) responsible for guideline development and the names/credentials/potential conflicts of interest of individuals involved in the guideline\u2019s development."
+          },
+          {
+            "Title": "7. Funding source/sponsor",
+            "Description": "Identify the funding source/sponsor and describe its role in developing and/or reporting the guideline. Disclose potential conflict of interest."
+          },
+          {
+            "Title": "8. Evidence collection",
+            "Description": "Describe the methods used to search the scientific literature, including the range of dates and databases searched, and criteria applied to filter the retrieved evidence."
+          },
+          {
+            "Title": "9. Recommendation grading criteria",
+            "Description": "Describe the criteria used to rate the quality of evidence that supports the recommendations and the system for describing the strength of recommendations."
+          },
+          {
+            "Title": "10. Method for synthesizing evidence",
+            "Description": "Describe how evidence was used to create recommendations (e.g., through evidence tables, meta-analysis, decision analysis)."
+          },
+          {
+            "Title": "11. Prerelease review",
+            "Description": "Describe how the guideline developer reviewed and/or tested the guidelines prior to release."
+          },
+          {
+            "Title": "12. Update plan",
+            "Description": "State whether or not there is a plan to update the guideline and, if applicable, an expiration date for this version of the guideline."
+          },
+          {
+            "Title": "13. Definitions",
+            "Description": "Define unfamiliar terms and those critical to correct application of the guideline that might be subject to misinterpretation."
+          },
+          {
+            "Title": "14. Recommendations and rationale",
+            "Description": "State the recommended action precisely and the specific circumstances under which to perform it. Justify each recommendation by describing the linkage between the recommendation and its supporting evidence."
+          },
+          {
+            "Title": "15. Potential benefits and risks",
+            "Description": "Describe anticipated benefits and potential risks associated with the guideline."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "NGC Database Inclusion Criteria": {
+          "Content": "The guideline contains systematically developed statements including recommendations, strategies, or information to assist healthcare decisions.",
+          "Production": "Guidelines are produced with medical associations, relevant societies, or government agencies.",
+          "Corroboration": "Documentation is based on a systematic review of scientific evidence published in peer-reviewed journals.",
+          "Language and Date of Creation": "Guidelines are available in English, current, and reviewed or revised within the last 5 years."
+        },
+        "AGREE Attributes": {
+          "Explicit Scope and Purpose": "Describes overall guideline objectives, covered clinical questions, and target patients.",
+          "Stakeholder Involvement": "Involves all relevant professional groups and patients, defines target users, and pilots guidelines among them.",
+          "Rigor of Development": "Uses systematic methods to search, select evidence, and formulate recommendations; external review and updating procedure provided."
+        },
+        "Implementation Considerations": {
+          "Patient Preferences": "Role of patient preferences in recommendations involving personal choice or values.",
+          "Algorithm": "Provides graphical descriptions of care stages and decisions in clinical care.",
+          "Application Barriers": "Describes anticipated barriers, references auxiliary documents for implementation, and suggests review criteria for changes in care."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clarity of presentation": "Recommendations are specific and unambiguous; different options for management are clearly presented; key recommendations are easily identifiable; and the guideline is supported with tools for applications.",
+        "Applicability": "Potential organizational barriers in applying the recommendations are discussed; potential cost implications are considered; and the guideline presents key review criteria for monitoring and/or audit purposes.",
+        "Editorial independence": "Externally funded guidelines should state explicitly that views and interests of the funding body have not influenced final recommendations; all group members should explicitly state potential conflicts of interest, which are recorded in the guideline."
+      },
+      "genes": []
+    }
+  ],
+  "genes": []
+}

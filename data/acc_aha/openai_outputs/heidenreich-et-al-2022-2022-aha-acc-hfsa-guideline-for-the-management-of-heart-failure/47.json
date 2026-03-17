@@ -1,0 +1,59 @@
+{
+  "content": {
+    "Title": "Treatment of HFrEF Stages C and D",
+    "Steps Overview": [
+      {
+        "Step": 1,
+        "Description": "Establish diagnosis of HFrEF. Address congestion, initiate GDMT."
+      },
+      {
+        "Step": 2,
+        "Description": "Titrate to target dosing as tolerated, considering lab results, health status, and LVEF."
+      },
+      {
+        "Step": 3,
+        "Description": "Consider patient scenarios."
+      },
+      {
+        "Step": 4,
+        "Description": "Implement additional GDMT and device therapy as indicated."
+      },
+      {
+        "Step": 5,
+        "Description": "Reassess symptoms, labs, health status, and LVEF."
+      },
+      {
+        "Step": 6,
+        "Description": "Referral for HF specialty care for additional therapy."
+      }
+    ],
+    "Medications and Therapies": [
+      "ARNI in NYHA II-III; ACEI or ARB in NYHA II-IV",
+      "Beta blocker",
+      "MRA",
+      "SGLT2i",
+      "Diuretics as needed",
+      "Hydral-nitrates",
+      "ICD",
+      "CRT-D"
+    ],
+    "Patient Scenarios": [
+      {
+        "Group": "NYHA III-IV, African American patients"
+      },
+      {
+        "Group": "NYHA I-III; LVEF \u226435%; >1 year survival"
+      },
+      {
+        "Group": "NYHA II-III; ambulatory IV; LVEF \u226435%; NSR and QRS \u2265150 ms with LBBB"
+      }
+    ],
+    "Further Options": [
+      "In select patients, durable MCS",
+      "Cardiac transplant",
+      "Palliative care (can be initiated before Stage D)",
+      "Investigational studies"
+    ]
+  },
+  "genes": []
+}

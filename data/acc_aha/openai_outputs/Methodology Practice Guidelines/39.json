@@ -1,0 +1,44 @@
+{
+  "content": {
+    "Primary prevention of thromboembolism in patients with nonvalvular AF": {
+      "Considerations": [
+        "Use of antithrombotic therapy (aspirin or vitamin K antagonist)",
+        "Assessment of bleeding risk",
+        "Patient preferences: age, gender, comorbidities"
+      ],
+      "Validated Risk Factors": [
+        "Age >= 75",
+        "Hypertension",
+        "Heart failure (HF)",
+        "Impaired left ventricular (LV) function",
+        "Diabetes mellitus"
+      ],
+      "Less Well-Validated Risk Factors": [
+        "Age 65-74",
+        "Female gender",
+        "Coronary artery disease (CAD)"
+      ],
+      "Recommendation Level": {
+        "Highly Validated Risk Factors": "A",
+        "Less Well-Validated Risk Factors": "B"
+      }
+    },
+    "Patient-Centered Care": {
+      "Recommendations": [
+        "Shared decision-making",
+        "Patient preferences and comorbidities consideration"
+      ]
+    },
+    "Classification of Recommendations and Level of Evidence": {
+      "Process": [
+        "Use of a color grid for evidence adjudication",
+        "Transparent mechanism for classifying recommendations"
+      ],
+      "Requirements": [
+        "Recommendation classification and level of evidence assignment",
+        "At least one reference for Level A or B"
+      ]
+    }
+  },
+  "genes": []
+}

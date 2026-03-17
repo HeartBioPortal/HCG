@@ -1,0 +1,22 @@
+{
+  "content": {
+    "title": "2022 AHA/ACC/HFSA Heart Failure Guideline",
+    "journal": "Journal of the American College of Cardiology (JACC)",
+    "volume": "79",
+    "issue": "17",
+    "publication_date": "May 3, 2022",
+    "pages": "e376-e421",
+    "summary": "The guideline provides comprehensive coverage on heart failure, including diagnostic and prognostic imaging modalities, myocardial viability, and the assessment of ventricular function. Recommendations emphasize the use of modalities like cardiac magnetic resonance (CMR), echocardiography, and tomographic imaging for evaluating heart structure and function."
+  },
+  "genes": [
+    {
+      "Gene": "PARP-2",
+      "Associated Conditions": [
+        "myocardial infarction",
+        "heart disease"
+      ],
+      "Occurrences": 1,
+      "context": "De Diego C, Nio G, Williams KA, et al., In a study, PARP-2 inhibitors showed increasing benefit from revascularization associated with decreasing amounts of myocardial substrate, suggesting a therapeutic potential in coronary artery disease."
+    }
+  ]
+}

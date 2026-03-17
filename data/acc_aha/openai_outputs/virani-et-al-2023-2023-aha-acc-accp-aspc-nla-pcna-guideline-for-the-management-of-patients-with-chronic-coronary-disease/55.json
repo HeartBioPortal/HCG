@@ -1,0 +1,20 @@
+{
+  "content": {
+    "Recommendation-Specific Supportive Text": [
+      {
+        "RCTs": "RAASi improved symptoms, reduced hospitalizations, prolonged survival among high-risk patients with CCD. It reduced moderate albuminuria and end-stage renal disease.",
+        "HOPE trial": "High-risk patients with CCD and preserved LVEF assigned to ramipril had significant reductions in cardiovascular outcomes.",
+        "EUROPA trial": "Perindopril reduced events in a lower risk population.",
+        "PEACE trial": "Trandolapril was not effective in patients with CCD and normal LVEF but had benefits in those with reduced renal function."
+      },
+      {
+        "Colchicine": "Rec for secondary prevention in CCD patients to reduce recurrent ASCVD events. Study showed a 47% reduction in patient costs and increased QALYs with colchicine."
+      }
+    ],
+    "Colchicine": {
+      "Mechanism": "Exhibits anti-inflammatory properties by altering inflammatory cell-mediated chemotaxis and by inhibiting microtubule polymerization. Reduces adhesion molecules and has an effect on cytokine production.",
+      "Safety": "Metabolized by cytochrome P450 3A4 and p-glycoprotein, prone to drug-drug interactions. There is a need for a highly individualized approach."
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,15 @@
+{
+  "content": {
+    "Synopsis": {
+      "Severe AS": "Defined by current valvular heart disease and echocardiography guidelines as increased risk for adverse cardiovascular outcomes in patients undergoing NCS.",
+      "Perioperative Management": "Should be conducted in collaboration with a multidisciplinary heart valve team.",
+      "Echocardiography": "Recommended within 1 year of elevated-risk NCS for those with suspected moderate or severe AS.",
+      "Recommendation": "Perioperative risk is higher in symptomatic versus asymptomatic patients."
+    },
+    "Recommendation-Specific Supportive Text": {
+      "AVR Use": "Limited data available before moderate- or high-risk NCS; AVR may reduce risk for MACE.",
+      "Balloon Aortic Valvuloplasty": "May be considered as a bridge strategy in patients with severe AS who require elevated-risk NCS."
+    }
+  },
+  "genes": []
+}

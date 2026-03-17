@@ -1,0 +1,44 @@
+{
+  "content": {
+    "sections": [
+      {
+        "title": "5",
+        "recommendation": "In adults with repaired tetralogy of Fallot physiology with high-risk characteristics and frequent VA, an electrophysiological study can be useful to evaluate the risk of sustained VT/VF."
+      },
+      {
+        "title": "6",
+        "recommendation": "In adults with repaired tetralogy of Fallot physiology and inducible VT/VF or spontaneous sustained VT, implantation of an ICD is reasonable if meaningful survival greater than 1 year is expected."
+      },
+      {
+        "title": "7",
+        "recommendation": "In patients with adult congenital heart disease with recurrent sustained monomorphic VT or recurrent ICD shocks for VT, catheter ablation can be effective."
+      },
+      {
+        "title": "8",
+        "recommendation": "In adults with repaired severe complexity adult congenital heart disease and frequent or complex VA, a beta blocker can be beneficial to reduce the risk of SCA."
+      },
+      {
+        "title": "9",
+        "recommendation": "In patients with repaired moderate or severe complexity adult congenital heart disease with unexplained syncope and at least moderate ventricular dysfunction or marked hypertrophy, either ICD implantation or an electrophysiological study with ICD implantation for inducible sustained VA is reasonable if meaningful survival of greater than 1 year is expected."
+      },
+      {
+        "title": "10",
+        "recommendation": "In patients with adult congenital heart disease and severe ventricular dysfunction (LVEF <35%) and symptoms of heart failure despite GDMT or additional risk factors, ICD implantation may be considered if meaningful survival of greater than 1 year is expected."
+      },
+      {
+        "title": "11",
+        "recommendation": "In patients with adult congenital heart disease who have asymptomatic VA, prophylactic antiarrhythmic therapy with class IC medications (i.e., flecainide, propafenone) or amiodarone is potentially harmful."
+      }
+    ],
+    "synopsis": {
+      "Tetralogy of Fallot (TOF)": "Defined as congenital heart disease with RVOT obstruction and ventricular septal defect, often requiring surgical repair.",
+      "Moderate complexity congenital heart disease": "Includes TOF, aortic stenosis, coarctation of aorta, and Ebstein anomaly.",
+      "Severe complexity congenital heart disease": "Includes transposition of the great arteries, truncus arteriosus, and single ventricle anatomy."
+    },
+    "recommendation_specific_supportive_text": {
+      "association_of_VT_with_RV_hemodynamic_abnormalities": "First established in patients with repaired TOF. Correlation of hemodynamic residue and VA with risk of VT or SCD in patients with congenital heart disease.",
+      "careful_evaluation_of_hemodynamic_status_for_optimization": "May include exercise testing to assess functional capacity."
+    }
+  },
+  "genes": []
+}

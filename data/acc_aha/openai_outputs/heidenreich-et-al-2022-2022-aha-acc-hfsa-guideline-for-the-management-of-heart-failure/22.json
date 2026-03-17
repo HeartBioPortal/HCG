@@ -1,0 +1,50 @@
+{
+  "content": {
+    "Recommendations": [
+      {
+        "COR": "1",
+        "LOE": "B-NR",
+        "Description": "In first-degree relatives of selected patients with genetic or inherited cardiomyopathies, genetic screening and counseling are recommended to detect cardiac disease and prompt consideration of treatments to decrease heart failure progression and sudden death."
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "Description": "In select patients with nonischemic cardiomyopathy, referral for genetic counseling and testing is reasonable to identify conditions that could guide treatment for patients and family members."
+      }
+    ],
+    "Synopsis": "For patients with suspected genetic or inherited cardiomyopathies, a family history should be performed, ideally diagrammed as a family tree. Genetic variants have been found in 25% to 40% of patients with dilated cardiomyopathy (DCM) with a positive family history and in 10% to 30% without a recognized family history. Genetic testing is key for risk stratification and treatment decisions, mainly regarding defibrillator use for sudden death prevention and for hypertrophic cardiomyopathy and desmosomal variants.",
+    "Recommendations-Specific Supportive Text": "Variants in titin, lamin A/C, and filamin-C are common and linked to various cardiomyopathies and arrhythmias. Genetic confirmation of Fabry\u2019s cardiomyopathy supports enzyme replacement therapy."
+  },
+  "genes": [
+    {
+      "Gene": "titin",
+      "Associated Conditions": [
+        "Dilated Cardiomyopathy (DCM)",
+        "Peripartum Cardiomyopathy",
+        "Alcoholic Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "The most common pathogenic variants identified are truncations in the large structural protein titin, which have been implicated in DCM and also in peripartum or alcoholic cardiomyopathies."
+    },
+    {
+      "Gene": "lamin A/C",
+      "Associated Conditions": [
+        "Cardiomyopathy with conduction block",
+        "Atrial arrhythmias",
+        "Ventricular arrhythmias"
+      ],
+      "Occurrences": 1,
+      "context": "Pathogenic variants in lamin A/C can be associated with conduction block and atrial arrhythmias as well as ventricular arrhythmias."
+    },
+    {
+      "Gene": "filamin-C",
+      "Associated Conditions": [
+        "Skeletal myopathies",
+        "Isolated cardiomyopathy",
+        "Ventricular arrhythmias"
+      ],
+      "Occurrences": 1,
+      "context": "Filamin-C mutations have been associated with skeletal myopathies and with isolated cardiomyopathy with ventricular arrhythmias."
+    }
+  ]
+}

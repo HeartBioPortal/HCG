@@ -1,0 +1,45 @@
+{
+  "content": {
+    "table": "High-, Moderate-, and Low-Intensity Statin Therapy",
+    "statins": {
+      "high_intensity": [
+        "Atorvastatin 40\u201380 mg",
+        "Rosuvastatin 20\u201340 mg"
+      ],
+      "moderate_intensity": [
+        "Atorvastatin 10\u201320 mg",
+        "Rosuvastatin 5\u201310 mg",
+        "Simvastatin 20\u201340 mg",
+        "Pravastatin 40\u201380 mg",
+        "Lovastatin 40 mg",
+        "Fluvastatin XL 80 mg",
+        "Fluvastatin 40 mg BID",
+        "Pitavastatin 1\u20134 mg"
+      ],
+      "low_intensity": [
+        "Simvastatin 10 mg",
+        "Pravastatin 10\u201320 mg",
+        "Lovastatin 20 mg",
+        "Fluvastatin 20\u201340 mg"
+      ]
+    },
+    "LDL_C_lowering": "Percent LDL-C reductions with the primary statin medications were estimated using the median reduction in LDL-C from the VOYAGER database.",
+    "PCSK9_monoclonal_antibodies": {
+      "Efficacy": "Considered for patients with CCD who are at low to moderate risk of adverse cardiovascular events, valuable for those with higher baseline risk of CVD events.",
+      "Cost": "The cost has declined by 60% since their initial market entry, improving cost-effectiveness."
+    },
+    "REDUCE_IT_Trial": "Randomized patients with established ASCVD or diabetes plus additional risk factors to either 4 g/day of icosapent ethyl (purified EPA only) or mineral oil placebo. Showed reduction in MACE by 25% and cardiovascular death by 20%.",
+    "RESPECT_Trial": "Showed a borderline significant reduction in MACE with icosapent ethyl 1800 mg/day in Japanese participants.",
+    "STRENGTH_Trial": "No benefit with a 4 g/day carboxylic acid formulation of omega-3 fatty acids observed, neither harm nor benefit compared to placebo."
+  },
+  "genes": [
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "Cardiovascular Disease"
+      ],
+      "Occurrences": 4,
+      "context": "Clinicians bypassing the addition of ezetimibe before adding a PCSK9 monoclonal antibody should recognize this may not be cost effective. PCSK9 monoclonal antibodies are of low economic value in patients at low to moderate risk of adverse cardiovascular events."
+    }
+  ]
+}

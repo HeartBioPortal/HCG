@@ -1,0 +1,29 @@
+{
+  "content": {
+    "Summary": "The guideline discusses the management of oral anticoagulants (OAC) for patients with cardiovascular disease (CVD) undergoing noncardiac surgery (NCS). It highlights the importance of balancing thromboembolism and bleeding risks. Recommendations include time-based interruption of OAC for those undergoing elective NCS and the use of bridging strategies with parenteral heparin in certain high thrombotic risk patients. The guideline also emphasizes multidisciplinary assessments and the importance of patient-specific factors.",
+    "Key Recommendations": [
+      {
+        "COR": "1",
+        "LOE": "B-NR",
+        "Recommendation": "For patients with CVD receiving OAC who require elective NCS, a multidisciplinary team-based approach to time-based* interruption is recommended to balance thromboembolism and bleeding risks."
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-LD",
+        "Recommendation": "In patients with CVD and high thrombotic risk undergoing NCS where interruption of vitamin K antagonist (VKA) is required, preoperative bridging with parenteral heparin can be effective."
+      },
+      {
+        "COR": "3",
+        "LOE": "C-LD",
+        "Recommendation": "In most patients with CVD undergoing elective NCS where OAC interruption is warranted, routine periprocedural bridging is not recommended due to increased bleeding risk."
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-LD",
+        "Recommendation": "For patients with preoperative OAC interruption, resumption of OAC is reasonable after hemostasis is achieved."
+      }
+    ],
+    "Additional Information": "The text mentions the importance of considering patient-specific factors such as thrombotic risk, age, sex, body weight, renal clearance, surgical bleeding risk, and drug interactions when determining the appropriate OAC management strategy."
+  },
+  "genes": []
+}

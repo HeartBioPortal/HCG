@@ -1,0 +1,65 @@
+{
+  "content": {
+    "title": "Appendix 2. Reviewer Relationships with Industry and Other Entities (Comprehensive)\u20142017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults (October 2017)",
+    "main_point": "The document details reviewer relationships with various industries and entities, categorized by employment, consulting, financial benefits, etc., concerning guidelines for blood pressure management.",
+    "reviewers": [
+      {
+        "name": "Kim K. Bircher",
+        "representation": "Official Reviewer\u2014TFPG Lead Reviewer",
+        "consultant": "Jones & Bartlett Learning",
+        "institutional_financial_benefit": "Accreditation Council for Clinical Lipidology",
+        "expert_witness": "Walgreens"
+      },
+      {
+        "name": "Roger Blumenthal",
+        "representation": "Official Reviewer\u2014Prevention Subcommittee",
+        "employment": "Johns Hopkins Hospital"
+      },
+      {
+        "name": "Anna Dominiczak",
+        "representation": "Official Reviewer\u2014AHA",
+        "employment": "University of Glasgow"
+      },
+      {
+        "name": "Carlos M. Ferrario",
+        "employment": "Wake Forest School of Medicine"
+      },
+      {
+        "name": "Eugene Yang",
+        "representation": "Official Reviewer\u2014ACC-BOG",
+        "employment": "University of Washington",
+        "consultant": [
+          "RubiconMD",
+          "Regeneron"
+        ],
+        "institutional_financial_benefit": [
+          "Amgen Inc.",
+          "Gilead Sciences, Inc. (DSMB)"
+        ],
+        "expert_witness": "Third party, CAD, 2016"
+      },
+      {
+        "name": "Robert Jay Amrien",
+        "representation": "Organizational Reviewer\u2014AAPA",
+        "employment": "Massachusetts General Hospital",
+        "expert_witness": "Defendant, aortic dissection, 2016"
+      },
+      {
+        "name": "Greg Holzman",
+        "representation": "Organizational Reviewer\u2014ACPM",
+        "employment": "Montana Department of Public Health and Human Services",
+        "institutional_financial_benefit": [
+          "American Academy of Family Medicine",
+          "American College of Preventive Medicine"
+        ]
+      },
+      {
+        "name": "Martha Gulati",
+        "representation": "Organizational Reviewer\u2014ASPC",
+        "employment": "University of Arizona College of Medicine",
+        "institutional_financial_benefit": "REATA (spouse)"
+      }
+    ]
+  },
+  "genes": []
+}

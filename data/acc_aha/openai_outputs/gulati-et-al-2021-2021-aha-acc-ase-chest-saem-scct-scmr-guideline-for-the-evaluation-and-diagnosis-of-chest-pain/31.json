@@ -1,0 +1,40 @@
+{
+  "content": {
+    "Recommendations for Intermediate-Risk Patients with Acute Chest Pain": [
+      {
+        "COR": "1",
+        "LOE": "C-EO",
+        "Recommendation": "For intermediate-risk patients with acute chest pain, TTE is recommended as a rapid, bedside test to establish baseline ventricular and valvular function, evaluate for wall motion abnormalities, and to assess for pericardial effusion."
+      },
+      {
+        "COR": "2a",
+        "LOE": "A",
+        "Recommendation": "For intermediate-risk patients with acute chest pain, management in an observation unit is reasonable to shorten length of stay and lower cost relative to an inpatient admission."
+      }
+    ],
+    "Recommendations for Intermediate-Risk Patients with No Known CAD": [
+      {
+        "COR": "1",
+        "LOE": "A",
+        "Recommendation": "For intermediate-risk patients with acute chest pain and no known CAD eligible for diagnostic testing after a negative or inconclusive evaluation for ACS, CCTA is useful for exclusion of atherosclerotic plaque and obstructive CAD."
+      },
+      {
+        "COR": "1",
+        "LOE": "C-EO",
+        "Recommendation": "For intermediate-risk patients with acute chest pain, moderate-severe ischemia on current or prior stress testing, and no known CAD established by prior anatomic testing, ICA is recommended."
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-LD",
+        "Recommendation": "For intermediate-risk patients with acute chest pain with evidence of previous mildly abnormal stress test results, CCTA is reasonable for diagnosing obstructive CAD."
+      }
+    ],
+    "Synopsis": "Patients in the ED without high-risk features and not classified as low risk are intermediate-risk. They do not have evidence of acute myocardial injury by troponin but may benefit from further cardiac testing.",
+    "Recommendation-Specific Supportive Text": [
+      "Prompt use of TTE allows for an evaluation of cardiac cause for symptoms and evaluation of alternative pathologies for acute chest pain.",
+      "Rapid echocardiographic assessment may facilitate imaging when patients are symptomatic; point-of-care echocardiograms performed by trained clinicians may be useful.",
+      "Additional testing may require more time; patients may be managed in an observation unit to improve outcomes and reduce costs."
+    ]
+  },
+  "genes": []
+}

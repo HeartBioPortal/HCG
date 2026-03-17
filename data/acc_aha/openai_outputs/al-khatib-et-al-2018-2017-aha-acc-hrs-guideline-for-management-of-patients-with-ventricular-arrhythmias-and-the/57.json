@@ -1,0 +1,34 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "for": "Patients with an LVAD",
+        "recommendation": "In patients with an LVAD and sustained VA, an ICD can be beneficial.",
+        "evidence": "S7.7.3-1",
+        "cor": "IIa",
+        "loe": "C-LD",
+        "supportingText": [
+          "Patients with an LVAD have a high risk of VA, particularly those with a history of arrhythmias.",
+          "Increased risk of VA due to myocardial irritation from LVAD.",
+          "Having an ICD allows for prompt termination of VA before major hemodynamic consequences.",
+          "Studies observed that within 7 months, 26% of patients with an LVAD had died.",
+          "Lower death rate in those with an ICD.",
+          "Patients with history of pre-LVAD VA have a nearly tenfold risk of post-LVAD VA."
+        ]
+      },
+      {
+        "for": "ICD Use After Heart Transplantation",
+        "recommendation": "In patients with a heart transplant and severe allograft vasculopathy with LV dysfunction, an ICD may be reasonable if meaningful survival of greater than 1 year is expected.",
+        "evidence": "S7.7.4-1\u2013S7.7.4-3",
+        "cor": "IIb",
+        "loe": "B-NR",
+        "supportingText": [
+          "Disease in the transplanted heart raises SCD risk by up to 35%.",
+          "Decreased LVEF and rejection are SCD predictors.",
+          "Appropriate ICD termination of VA can be beneficial in selected patients."
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

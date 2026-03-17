@@ -1,0 +1,24 @@
+{
+  "content": {
+    "Title": "Ongoing Management of Atrial Flutter",
+    "Management Options": [
+      "Rate Control using Beta blockers, Diltiazem, or Verapamil (Class I)",
+      "Rhythm Control Options: Amiodarone, Dofetilide, or Sotalol (Class IIa), Flecainide or Propafenone (in the absence of structural heart disease) (Class IIb)",
+      "Catheter Ablation (Class I)"
+    ],
+    "Guideline Notes": [
+      "After ensuring adequate anticoagulation or excluding left atrial thrombus by transesophageal echocardiography before conversion. Should be combined with AV nodal-blocking agents to reduce risk of 1:1 conduction during atrial flutter.",
+      "Catheter ablation of non-CTI-dependent flutter requires more extensive mapping and has lower success rates.",
+      "Location of the circuit determines risks and approach.",
+      "Certain arrhythmias occur after cardiac surgery and vary based on the type of surgical approach."
+    ],
+    "Common Conditions": [
+      "Macroreentrant atrial arrhythmias after cardiac surgery.",
+      "Patients with valve surgery or repaired atrial septal defect may experience such arrhythmias."
+    ],
+    "Procedure Effectiveness": {
+      "Catheter Ablation": "Effective in approximately 90% of patients during a second procedure."
+    }
+  },
+  "genes": []
+}

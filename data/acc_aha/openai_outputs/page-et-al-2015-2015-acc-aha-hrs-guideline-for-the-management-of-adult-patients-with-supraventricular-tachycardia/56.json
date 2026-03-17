@@ -1,0 +1,12 @@
+{
+  "content": {
+    "recommendation": "Catheter ablation may be reasonable in patients with junctional tachycardia when medical therapy is not effective or contraindicated.",
+    "therapy": "Radiofrequency ablation has been used as a curative therapy for junctional tachycardia.",
+    "risks": "AV block observed in 5% to 10% of cases post-ablation, transient junctional tachycardia due to compact AV node irritation.",
+    "alternatives": "Cryoablation can be an alternative due to difficulty in distinguishing junctional tachycardia from AVNRT.",
+    "pediatric considerations": "SVT in young patients differs from adults in terms of mechanism and risks; accessory pathway-mediated tachycardia and AVNRT noted to increase with age.",
+    "management": "Drug therapy options include beta blockers, diltiazem, or verapamil. Flecainide or propafenone in absence of structural heart disease. Catheter ablation if other therapies are ineffective.",
+    "pre-excitation": "Pre-excitation is present in 20% to 35% of children with SVT, higher risk in patients with AVRT precipitating AF."
+  },
+  "genes": []
+}

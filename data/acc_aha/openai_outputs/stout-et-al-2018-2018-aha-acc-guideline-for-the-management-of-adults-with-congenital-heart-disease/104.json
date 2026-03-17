@@ -1,0 +1,30 @@
+{
+  "content": {
+    "general_information": [
+      {
+        "title": "Eisenmenger Syndrome",
+        "details": [
+          "Management and treatment options for patients with Eisenmenger syndrome are discussed including the use of oral sildenafil as a treatment approach.",
+          "Studies on the combination therapy of bosentan and sildenafil have been mentioned for patients with Eisenmenger syndrome."
+        ]
+      },
+      {
+        "title": "Coronary Anomalies",
+        "details": [
+          "The anomaly of coronary arteries originating from the opposite sinus of Valsalva is discussed.",
+          "Various studies exploring the surgical management of these anomalies are mentioned."
+        ]
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "BMPR2",
+      "Associated Conditions": [
+        "pulmonary hypertension"
+      ],
+      "Occurrences": 1,
+      "context": "BMPR2 mutations associated with complex congenital heart disease."
+    }
+  ]
+}

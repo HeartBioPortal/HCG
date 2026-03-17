@@ -1,0 +1,34 @@
+{
+  "content": {
+    "guideline_reference": "2018 Cholesterol Clinical Practice Guideline",
+    "clinical_focus": "Management of LDL-C levels using statin therapy, consideration of ASCVD risk factors, and clinician-patient risk discussions.",
+    "recommendations": [
+      {
+        "context": "Statin therapy for reducing LDL-C levels.",
+        "details": "Involves high-intensity statins like rosuvastatin to lower LDL-C by >=50%. Suggested for patients with a 10-year ASCVD risk >=20% or high-sensitivity C-reactive protein >=2.0 mg/L."
+      },
+      {
+        "context": "Evaluating ASCVD risk and its impact on therapy decisions.",
+        "details": "Clinician-patient risk discussion is crucial, especially for individuals aged 40 to 75 years. Considerations include age, sex, race/ethnicity, diabetes, smoking status, and blood pressure. The discussion is necessary for those with ASCVD risk >=7.5% to <20%."
+      },
+      {
+        "context": "Consideration of family history and elevation of LDL-C levels.",
+        "details": "Family history of ASCVD and high LDL-C (>= 160 mg/dL) indicate increased risk, warranting statin therapy even with moderate conditions."
+      },
+      {
+        "context": "Potential for adverse effects and drug interactions.",
+        "details": "Considerations for individual therapy should include potential adverse effects and interactions with other drugs."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "CRP",
+      "Associated Conditions": [
+        "ASCVD"
+      ],
+      "Occurrences": 1,
+      "context": "JUPITER trial enrolled men >=50 years of age and women >=60 years of age with high-sensitivity C-reactive protein values >=2.0 mg/L."
+    }
+  ]
+}

@@ -1,0 +1,3233 @@
+{
+  "content": [
+    {
+      "content": {
+        "Title": "2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization",
+        "Description": "A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.",
+        "Committee": "American College of Cardiology Policy Approval Committee, the American Heart Association Science Advisory and Coordinating Committee, the American College of Cardiology Science and Quality Committee, and the Society for Cardiovascular Angiography and Interventions Executive Committee.",
+        "Publication": "This article has been published in Circulation and is available on the websites of the American College of Cardiology and the American Heart Association."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "Aim": "The guideline for coronary artery revascularization replaces the 2011 coronary artery bypass graft surgery and the 2011 and 2015 percutaneous coronary intervention guidelines. It provides a patient-centric approach to guide clinicians in the treatment of patients with significant coronary artery disease undergoing coronary revascularization as well as the supporting documentation to encourage their use.",
+        "Methods": "A comprehensive literature search was conducted from May 2019 to September 2019, encompassing studies, reviews, and other evidence conducted on human subjects published in English from PubMed, EMBASE, the Cochrane Collaboration, CINAHL Complete, and other relevant databases. Additional relevant studies, published through May 2021, were also considered.",
+        "Structure": "Coronary artery disease remains a leading cause of morbidity and mortality globally. Coronary revascularization is an important therapeutic option when managing patients with coronary artery disease. The 2021 coronary artery revascularization guideline provides recommendations based on contemporary evidence for the treatment of these patients. The recommendations present an evidence-based approach to managing patients with coronary artery disease who are being considered for coronary revascularization, with the intent to improve quality of care and align with patients\u2019 interests."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Preprocedural Assessment and the Heart Team": {
+          "Heart Team": "Multidisciplinary team involved in evaluating patients for heart procedures.",
+          "Predicting Risk with CABG": "Assessment methods for determining risk associated with coronary artery bypass grafting."
+        },
+        "Defining Lesion Severity": {
+          "Angiography": "Used to define anatomy and assess lesion severity.",
+          "SYNTAX Score": "Tool to calculate coronary artery lesion complexity using PCI and surgery."
+        },
+        "Revascularization in STEMI": {
+          "Infarct Artery": "Revascularization prioritized for patients with STEMI."
+        },
+        "Revascularization in NSTE-ACS": {
+          "Coronary Angiography": "Used for revascularization guidance in NSTE-ACS."
+        },
+        "Revascularization in SIHD": {
+          "Medical Therapy": "Used to enhance survival and reduce cardiovascular events in SIHD."
+        },
+        "Special Populations and Situations": {
+          "Pregnant Patients": "Revascularization considerations for expectant mothers.",
+          "Older Patients": "Guidelines for revascularization in elderly populations."
+        },
+        "Pharmacotherapy in PCI": {
+          "Aspirin and P2Y12 Inhibitors": "Medications used in patients undergoing PCI."
+        },
+        "General Procedural Issues for CABG": {
+          "Perioperative Considerations": "Pre-surgical assessments for CABG patients."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          {
+            "title": "Antiplatelet Therapy in Patients Undergoing CABG",
+            "page": "79"
+          },
+          {
+            "title": "Beta Blockers and Amiodarone in Patients Undergoing CABG",
+            "page": "80"
+          },
+          {
+            "title": "Pharmacotherapy in Patients After Revascularization",
+            "page": "81"
+          },
+          {
+            "title": "Pharmacotherapy for Risk Factor Control in Patients After Revascularization",
+            "page": "81"
+          },
+          {
+            "title": "Dual Antiplatelet Therapy in Patients After PCI",
+            "page": "81"
+          },
+          {
+            "title": "Antiplatelet Therapy in Patients After CABG",
+            "page": "83"
+          },
+          {
+            "title": "Beta Blockers in Patients After Revascularization",
+            "page": "84"
+          },
+          {
+            "title": "Beta Blockers for the Prevention of Atrial Fibrillation After CABG",
+            "page": "84"
+          },
+          {
+            "title": "Antiplatelet Therapy in Patients With Atrial Fibrillation on Anticoagulation After PCI",
+            "page": "85"
+          },
+          {
+            "title": "Recommendations for Addressing Psychosocial Factors and Lifestyle Changes After Revascularization",
+            "page": "86"
+          },
+          {
+            "title": "Cardiac Rehabilitation and Education",
+            "page": "86"
+          },
+          {
+            "title": "Smoking Cessation in Patients After Revascularization",
+            "page": "87"
+          },
+          {
+            "title": "Psychological Interventions in Patients After Revascularization",
+            "page": "88"
+          },
+          {
+            "title": "Revascularization Outcomes",
+            "page": "89"
+          },
+          {
+            "title": "Assessment of Outcomes in Patients After Revascularization",
+            "page": "89"
+          },
+          {
+            "title": "Unanswered Questions and Future Directions",
+            "page": "90"
+          },
+          {
+            "title": "Special Populations",
+            "page": "90"
+          },
+          {
+            "title": "Underrepresented Racial and Ethnic Groups",
+            "page": "90"
+          },
+          {
+            "title": "Special Clinical Situations",
+            "page": "90"
+          },
+          {
+            "title": "Left Ventricular Dysfunction",
+            "page": "90"
+          },
+          {
+            "title": "SCAD",
+            "page": "91"
+          },
+          {
+            "title": "Coronary Artery Aneurysm",
+            "page": "91"
+          },
+          {
+            "title": "Myocardial Bridging",
+            "page": "91"
+          },
+          {
+            "title": "Treatment of Graft Failure",
+            "page": "91"
+          },
+          {
+            "title": "Antiplatelet Therapy in Patients With ACS After CABG With an Indication for Anticoagulation",
+            "page": "91"
+          },
+          {
+            "title": "Revascularization Considerations",
+            "page": "91"
+          },
+          {
+            "title": "Use of the Radial Artery for a Conduit After Radial Artery Catheterization",
+            "page": "91"
+          },
+          {
+            "title": "Completeness of Revascularization in Multivessel Disease",
+            "page": "92"
+          },
+          {
+            "title": "Hybrid Coronary Surgery",
+            "page": "92"
+          },
+          {
+            "title": "Revascularization Before Percutaneous Valve Procedures",
+            "page": "92"
+          },
+          {
+            "title": "Revascularization Before Organ Transplantation",
+            "page": "93"
+          }
+        ],
+        "appendices": [
+          {
+            "title": "Author Relationships With Industry and Other Entities (Relevant)",
+            "page": "e124"
+          },
+          {
+            "title": "Reviewer Relationships With Industry and Other Entities (Comprehensive)",
+            "page": "e126"
+          }
+        ],
+        "take_home_messages": [
+          "Treatment decisions should be based on clinical indications, and efforts to reduce disparities of care are warranted.",
+          "A multidisciplinary Heart Team approach is recommended for uncertain treatment strategies.",
+          "Surgical revascularization is indicated to improve survival in patients with significant left main disease.",
+          "Updated trials suggest a survival benefit with revascularization in certain patient groups.",
+          "Radial artery is preferred as a surgical revascularization conduit."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "saphenous vein conduit use": "Recommended for bypass to second most important target vessel with significant stenosis after the left anterior descending coronary artery.",
+        "radial artery access": "Recommended for patients undergoing percutaneous intervention with acute coronary syndrome or stable ischemic heart disease.",
+        "short duration of dual antiplatelet therapy": "Recommended after percutaneous revascularization in patients with stable ischemic heart disease.",
+        "staged percutaneous intervention": "Considered for a significantly stenosed non-culprit artery in patients with ST-segment\u2013elevation myocardial infarction.",
+        "revascularization decisions in diabetes": "Optimized by the use of a Heart Team approach.",
+        "treatment decisions based on surgical risk": "Should include the calculation of a patient\u2019s surgical risk with the SYNTAX score.",
+        "clinical practice guidelines": "Provide recommendations for patients with or at risk of developing cardiovascular disease (CVD).",
+        "implementation of guidelines": "Effective when followed by both practitioners and patients.",
+        "guideline updates": "Continuously reviewed by the ACC/AHA Joint Committee in response to evolving technologies."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Review Process": "Recommendations are updated dynamically with new data and reviewed by the writing committee and experts. The terms 'full revision' and 'focused update' will be phased out.",
+        "Committee Structure": "The Joint Committee ensures diverse representation in the guideline writing committee, including different geographic regions, sexes, races, and clinical practice settings.",
+        "Relationships and Biases": "The ACC and AHA have rigorous policies to prevent bias and improper influence. Comprehensive disclosure information is available.",
+        "Evidence Review": "Recommendations are based on the latest evidence, including systematic reviews, randomized trials, and expert opinion. Evidence review involves a structured process with a broad literature search.",
+        "Specific Areas of Focus": "The guideline addresses percutaneous coronary intervention, coronary artery bypass graft surgery, and other related procedures. Drug recommendations and management therapies are included."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Associated Guidelines and Statements",
+        "Guidelines": [
+          {
+            "Title": "2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death",
+            "Organization": "AHA/ACC/HRS",
+            "Publication Year": 2017
+          },
+          {
+            "Title": "2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease",
+            "Organization": "ACC/AHA",
+            "Publication Year": 2020
+          },
+          {
+            "Title": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+            "Organization": "ACC/AHA",
+            "Publication Year": 2019
+          },
+          {
+            "Title": "2016 ACC/AHA Guideline Focused Update on Dual Antiplatelet Therapy in Patients With Coronary Artery Disease",
+            "Organization": "ACC/AHA",
+            "Publication Year": 2016
+          },
+          {
+            "Title": "2018 AHA/ACC/ACVP/AAPA/ABC/ACP/MDA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol",
+            "Organization": "AHA/ACC/ACVP/AAPA/ABC/ACP/MDA/AGS/APhA/ASPC/NLA/PCNA",
+            "Publication Year": 2019
+          },
+          {
+            "Title": "2018 AHA/ACC Guideline for the Management of Adults With Congenital Heart Disease",
+            "Organization": "AHA/ACC",
+            "Publication Year": 2019
+          },
+          {
+            "Title": "2014 AHA/ACC/HRS Guideline for the Management of Patients With Atrial Fibrillation",
+            "Organization": "AHA/ACC/HRS",
+            "Publication Year": 2014
+          },
+          {
+            "Title": "Focused Update of the 2014 AHA/ACC/HRS Guideline for the Management of Patients With Atrial Fibrillation",
+            "Organization": "AHA/ACC/HRS",
+            "Publication Year": 2019
+          },
+          {
+            "Title": "2013 Multimodality Appropriate Use Criteria for the Detection and Risk Assessment of Stable Ischemic Heart Disease",
+            "Organization": "ACCF/AHA/ASE/ASNC/HFSA/HRS/SCAI/SCCT/SCMR/STS",
+            "Publication Year": 2014
+          },
+          {
+            "Title": "ACC/AHA/SCAI Focused Update on Primary Percutaneous Coronary Intervention for Patients With ST-Elevation Myocardial Infarction",
+            "Organization": "ACC/AHA",
+            "Publication Year": 2016
+          },
+          {
+            "Title": "2014 AHA/ACC Guideline for the Management of Patients With Non\u2013ST-Elevation Acute Coronary Syndromes",
+            "Organization": "NHA/ACC",
+            "Publication Year": 2014
+          },
+          {
+            "Title": "2013 ACC/AHA Guideline for the Management of ST-Elevation Myocardial Infarction",
+            "Organization": "ACC/AHA",
+            "Publication Year": 2013
+          },
+          {
+            "Title": "2013 ACCF/AHA Guideline for the Management of Heart Failure",
+            "Organization": "ACCF/AHA",
+            "Publication Year": 2013
+          },
+          {
+            "Title": "2017 ACC/AHA/HFSA Focused Update of the 2013 ACCF/AHA Guideline for the Management of Heart Failure",
+            "Organization": "ACC/AHA/HFSA",
+            "Publication Year": 2017
+          },
+          {
+            "Title": "2011 ACCF/AHA Guideline for Coronary Artery Bypass Graft Surgery",
+            "Organization": "ACCF/AHA",
+            "Publication Year": 2011
+          },
+          {
+            "Title": "2011 ACCF/AHA/SCAI Guideline for Percutaneous Coronary Intervention",
+            "Organization": "ACCF/AHA/SCAI",
+            "Publication Year": 2013
+          },
+          {
+            "Title": "2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death",
+            "Organization": "AHA/ACC/HRS",
+            "Publication Year": 2018
+          },
+          {
+            "Title": "2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults",
+            "Organization": "ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA",
+            "Publication Year": 2018
+          },
+          {
+            "Title": "2012 ACCF/AHA/AACP/PCNA/SCAVI/STS Guideline for the Diagnosis and Management of Patients with Stable Ischemic Heart Disease",
+            "Organization": "ACCF/AHA/AACP/PCNA/SCAVI/STS",
+            "Publication Year": 2012
+          },
+          {
+            "Title": "2018 ACC Expert Consensus Decision Pathway on Tobacco Cessation Treatment",
+            "Organization": "ACC",
+            "Publication Year": 2018
+          },
+          {
+            "Title": "Clinical Practice Guideline for Treating Tobacco Use and Dependence: 2008 Update Panel, Liaisons, and Staff: A Clinical Practice Guideline for Treating Tobacco Use and Dependence: 2008 Update",
+            "Organization": "U.S. Public Health Service",
+            "Publication Year": 2008
+          },
+          {
+            "Title": "AATS Expert Consensus Review on Prevention and Management of Sternal Wound Infections",
+            "Organization": "AATS",
+            "Publication Year": 2016
+          },
+          {
+            "Title": "2018 ACC/AHA Clinial Performance and Quality Measures for Cardiac Rehabilitation",
+            "Organization": "ACC/AHA",
+            "Publication Year": 2018
+          },
+          {
+            "Title": "Spontaneous Coronary Artery Dissection: Current State of the Science",
+            "Organization": "AHA",
+            "Publication Year": 2018
+          },
+          {
+            "Title": "Contemporary Management of Cardiogenic Shock",
+            "Organization": "AHA",
+            "Publication Year": 2017
+          },
+          {
+            "Title": "Secondary Prevention After Coronary Artery Bypass Graft Surgery: A Scientific Statement From the American Heart Association",
+            "Organization": "AHA",
+            "Publication Year": 2015
+          },
+          {
+            "Title": "Pharmacologic Approaches to Glycemic Treatment: Standards of Medical Care in Diabetes\u20132018",
+            "Organization": "ADA",
+            "Publication Year": 2018
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Table Description": "This table applies ACC/AHA Class of Recommendation and Level of Evidence to clinical strategies, interventions, treatments, or diagnostic testing in patient care, updated as of May 2019.",
+        "Classes of Recommendation": {
+          "Class 1 (Strong)": "Benefit >>> Risk. Suggested phrases recommend treatments be performed as beneficial.",
+          "Class 2a (Moderate)": "Benefit >> Risk. Suggestions include treatments that are reasonable and can be beneficial.",
+          "Class 2b (Weak)": "Benefit \u2265 Risk. Considerations for treatments that may be reasonable or uncertain in effectiveness.",
+          "Class 3 (No Benefit or Harm)": {
+            "Moderate": "Benefit = Risk. Treatments are not recommended or useful.",
+            "Strong": "Risk > Benefit. Treatments are potentially harmful and should not be performed."
+          }
+        },
+        "Levels of Evidence": {
+          "Level A": "High-quality evidence from more than one RCT.",
+          "Level B-R (Randomized)": "Moderate-quality evidence from one or more RCTs.",
+          "Level B-NR (Nonrandomized)": "Moderate-quality evidence from observational studies.",
+          "Level C-LD (Limited Data)": "Data from observational or registry studies.",
+          "Level C-EO (Expert Opinion)": "Consensus based on expert opinion."
+        },
+        "Additional Notes": "Recommendations can vary by outcomes specified. The method of assessing quality is evolving."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "GuidelineScope": "The 2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization updates and consolidates the 2011 CABG and the 2011 and 2015 PCI guidelines. It includes sections on revascularization from the 2012 SIHD guideline, the 2013 STEMI guideline, and the 2014 NSTEMI guideline. The focus is on a patient-centric approach using modern treatment options.",
+        "TargetAudience": "Cardiovascular clinicians involved in the care of patients for whom revascularization is considered or indicated.",
+        "Recommendations": "Updated with latest evidence to improve clinical outcomes, aiming for shared decision-making with patients.",
+        "Level of Evidence": "Based on type, quantity, and consistency of data from clinical trials."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Improving Equity of Care in Revascularization and Shared Decision-Making",
+        "Recommendation": "In patients who require coronary revascularization, treatment decisions should be based on clinical indication, regardless of sex or race or ethnicity, and efforts to reduce disparities of care are warranted.",
+        "Synopsis": "Health disparities by sex and race are evident in cardiovascular disease in the United States, and social factors are strongly associated with cardiovascular health outcomes. Differences in access to care and outcomes persist due to sociodemographic characteristics. Despite controlling for baseline factors, studies generally show similar outcomes for revascularization across sexes and races. Emphasis is placed on equitable treatment based on patient\u2019s clinical characteristics, with no distinction by sex, race, or ethnicity."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Shared Decision-Making and Informed Consent",
+        "Recommendations": [
+          {
+            "Level": "1",
+            "LOE": "C-LD",
+            "Description": "In patients undergoing revascularization, decisions should be patient-centered\u2014considerate of patient\u2019s preferences and goals, cultural beliefs, health literacy, and social determinants of health\u2014and made in collaboration with the patient's support system."
+          },
+          {
+            "Level": "1",
+            "LOE": "C-LD",
+            "Description": "In patients undergoing coronary angiography or revascularization, adequate information about benefits, risks, therapeutic consequences, and potential alternatives in the performance of percutaneous and surgical myocardial revascularization should be given, when feasible, with sufficient time for informed decision-making to improve clinical outcomes."
+          }
+        ],
+        "Key Points": [
+          "Shared decision-making is a collaborative approach with unbiased, evidence-based information to align with patient's values and preferences.",
+          "Important fundamentals for shared decision-making include understanding social determinants of health, health literacy, and communication employing patient-centered language.",
+          "Patients should be educated about treatment options using online modules, decision aids, or videos.",
+          "Knowledge of risks and benefits as well as procedure-related and long-term outcomes is crucial for informed decision-making.",
+          "Acknowledgment of the patient's right to decline or accept recommended treatments is necessary."
+        ],
+        "Patient Education": [
+          "The need for continued medical therapy with or without revascularization should be discussed.",
+          "Lifestyle modification and secondary prevention strategies are key components of patient education.",
+          "Challenges may arise when scientific data supports a treatment, but the patient prefers an alternative."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "Figure": "Shared Decision-Making Algorithm",
+        "Informed Consent": "Clinician provides the best available evidence for treatment options, including the risks and benefits of each option.",
+        "Patient-Centered Care": "Treatment and care options take into consideration individual values and preferences.",
+        "Shared Decision-Making": "A collaborative decision about treatment or care is documented and shared with relevant stakeholders.",
+        "Ideal Components of the Shared Decision-Making and Informed Consent Process": {
+          "Patient-Centered Care": [
+            "Assess a patient's ability to understand complex health information.",
+            "Seek support of family/others.",
+            "Elicit and respect cultural, racial, ethnic, or religious preferences and values.",
+            "Evaluate social determinants of health (education, income, access to health care).",
+            "Improve telephone/telemedicine access.",
+            "Discuss treatment alternatives and how each affects the patient's quality of life."
+          ],
+          "Shared Decision-Making": [
+            "Encourage questions and explain the patient's role in the decision-making partnership.",
+            "Clearly and accurately communicate the potential risks and benefits of a particular procedure and alternative treatments.",
+            "Ensure that patients have a key role in deciding what revascularization approach is appropriate.",
+            "Use shared decision aids (e.g., Alphabetical List of Decision Aids by Health Topic, Ottawa Hospital Research Institute, SHARE Approach Curriculum Tools, Agency for Health care Research and Quality).",
+            "Spend sufficient time to engage in shared decision-making; allow for a second opinion.",
+            "Work with a chaplain, social worker, or other team members to facilitate shared decision-making.",
+            "Encourage patients to share their fears, stress, or other emotions, and address appropriately.",
+            "Negotiate decision in partnership with the patient and family members.",
+            "Respect patient's autonomy to decline recommended treatment."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "Table": "Table 3 - Consent Procedures",
+        "Details": [
+          "Use plain language, avoiding jargon, and adopt the patient's words; integrate pictures to teach.",
+          "Document teach-back of patient's knowledge and understanding.",
+          "Conduct conversations with a trained interpreter, as needed.",
+          "Provide patient-specific short- and long-term risks, benefits, and alternative treatments.",
+          "Provide unbiased, evidence-based, reliable, accessible, and relevant information to patient.",
+          "Discuss specific risks and benefits with regard to survival, relief of angina, quality of life, and potential additional intervention, as well as uncertainties associated with different treatment strategies.",
+          "Provide patient time to reflect on the trade-offs imposed by the outcome estimates.",
+          "Provide information on the level of operator expertise, volume of the facility, and local results in the performance of coronary revascularization options.",
+          "Clearly inform of the need for continued medical therapy and lifestyle modifications."
+        ],
+        "Section": "3. Preprocedural Assessment and the Heart Team",
+        "Subsection": "3.1 The Heart Team",
+        "Recommendation": [
+          {
+            "COR": "1",
+            "LOE": "B-NR",
+            "Details": "In patients for whom the optimal treatment strategy is unclear, a Heart Team approach that includes representatives from interventional cardiology, cardiac surgery, and clinical cardiology is recommended to improve patient outcomes."
+          }
+        ],
+        "Synopsis": "A multidisciplinary Heart Team, involving the cardiologist, cardiac surgeon, and other specialists, is critical for revascularization decision-making. Randomized trials comparing PCI and CABG led to the Heart Team approach, emphasizing consensus for optimal revascularization. Conditions for Heart Team involvement include complex coronary disease, combined conditions impacting revascularization success, and other impactful clinical or social statuses.",
+        "Recommendation-Specific Supporting Text": [
+          "Observational studies using the Heart Team have included interventional cardiology, cardiac surgery, and noninvasive cardiologists.",
+          "Additional input from primary physicians, palliative care, critical care, anesthesiology, and imaging specialists.",
+          "Studies show favorable outcomes with the Heart Team in cases of unprotected left main disease, triple-vessel disease, or diseases involving the proximal LAD artery, such as in diabetes."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Phases of Patient-Centric Care in the Treatment of Coronary Artery Disease": {
+          "Pre": [
+            "Shared Decision-Making",
+            "Social Determinants of CV Health",
+            "Risk/Benefit Assessment",
+            "Acuity (e.g., STEMI, Shock, SIHD)"
+          ],
+          "Periprocedural": [
+            "Special Populations",
+            "Consent",
+            "Anatomic and Functional Lesion Assessment",
+            "Procedures",
+            "Pain Management",
+            "Sedation/Anesthesia",
+            "Antithrombotic Therapy"
+          ],
+          "Post": [
+            "Cardiac Rehabilitation",
+            "Smoking Cessation",
+            "Psychosocial Interventions",
+            "Pharmacotherapy",
+            "Management of CV Risk Factors",
+            "Assessment of Outcomes"
+          ]
+        },
+        "Factors for Consideration by the Heart Team": {
+          "Coronary Anatomy": [
+            "Left main disease",
+            "Multivessel disease",
+            "High anatomic complexity (e.g., bifurcation disease, high SYNTAX score)"
+          ],
+          "Comorbidities": [
+            "Diabetes",
+            "Systolic dysfunction",
+            "Coagulopathy",
+            "Valvular heart disease",
+            "Frailty",
+            "Malignant neoplasm",
+            "Immunosuppression",
+            "Debilitating neurological disorders",
+            "Liver disease/cirrhosis",
+            "Prior CVA",
+            "Calcified/porcelain aorta",
+            "Aortic aneurysm"
+          ],
+          "Procedural Factors": [
+            "Local and regional outcomes",
+            "Access site for PCI",
+            "Surgical risk",
+            "PCI risk"
+          ],
+          "Patient Factors": [
+            "Unstable presentation or shock",
+            "Patient preferences",
+            "Inability or unwillingness to adhere to DAPT",
+            "Patient social support",
+            "Religious beliefs",
+            "Patient education, knowledge, and understanding"
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "3.2. Predicting Patient Risk of Death With CABG",
+        "recommendation": "In patients who are being considered for CABG, calculation of the STS risk score is recommended to help stratify patient risk.",
+        "synopsis": "The STS risk score predicts adverse outcomes such as death, renal failure, and prolonged ventilation in patients undergoing CABG. It is periodically updated and compares to EuroSCORE II for predicting adverse outcomes.",
+        "supporting_text": "The STS risk score has been validated in several studies and demonstrates predictive value. It is preferred over EuroSCORE II for higher mortality risk patients. STS and EuroSCORE II don't fully account for cirrhosis, frailty, and malnutrition.",
+        "table_5": {
+          "risk_factors": [
+            "Cirrhosis",
+            "Frailty",
+            "Malnutrition"
+          ],
+          "assessment_tools": [
+            "MELD score",
+            "Gait speed",
+            "MUST"
+          ]
+        },
+        "section_4": "Defining Lesion Severity",
+        "method": "Coronary angiography is used to define coronary anatomy and stenosis severity, guiding revascularization strategies."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendation": "In patients with multivessel CAD, an assessment of CAD complexity, such as the SYNTAX score, may be useful to guide revascularization.",
+        "anatomic complexity": "Factors such as completeness of revascularization, predicted risk of death, and other outcomes are critical for determining revascularization type.",
+        "syntax score": "Derived from the SYNTAX trial, used to grade anatomic complexity in patients with multivessel disease. It predicts long-term major adverse events and has been validated in studies.",
+        "syntax score 2020": "Retrospectively developed to incorporate clinical variables besides anatomic ones. Demonstrates prediction of adverse events post-revascularization."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "4.3. Use of Coronary Physiology to Guide Revascularization With PCI",
+        "recommendations": [
+          {
+            "cor": 1,
+            "loe": "A",
+            "text": "In patients with angina or an anginal equivalent, undocumented ischemia, and angiographically intermediate stenoses, the use of fractional flow reserve (FFR) or instantaneous wave-free ratio (iFR) is recommended to guide the decision to proceed with PCI."
+          },
+          {
+            "cor": "3: No benefit",
+            "loe": "B-R",
+            "text": "In stable patients with angiographically intermediate stenoses and FFR >0.80 or iFR >0.89, PCI should not be performed."
+          }
+        ],
+        "synopsis": "FFR and iFR are physiological methods to assess lesion significance. FFR is defined as the ratio of maximal blood flow in a region distal to a lesion compared with normal maximal blood flow of an artery. iFR is the instantaneous wave-free ratio of coronary pressure distal to the coronary lesion to the aortic pressure, which avoids the need for adenosine. The FAME 2 trial tested PCI strategy for lesions with abnormal FFR.",
+        "keyPoints": [
+          "FFR and iFR have been studied in endpoints of death, MI, or repeat revascularization.",
+          "Recruitment for FAME 2 was stopped due to benefit from reduced ischemia-driven revascularization.",
+          "FFR use in surgical revascularization needs more investigation.",
+          "Less distal anastomoses were reported in trials comparing CABG with FFR-guided versus angiogram-guided revascularization."
+        ],
+        "recommendationSpecificSupportiveText": [
+          "PCI for stenosis \u226550% with abnormal FFR reduced composite risk versus PCI guided by angiography.",
+          "Trials show iFR-guided PCI noninferior to FFR-guided PCI.",
+          "Lower procedure-related risk with iFR versus FFR."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Intravascular ultrasound (IVUS) provides anatomical details beyond traditional coronary angiography and is useful for assessing the left main artery. It offers higher resolution images, aiding in precise lesion evaluation. The text highlights IVUS's role in treating lesions with minimal lumen areas and comparing its findings with fractional flow reserve (FFR) values.",
+        "Recommendations": [
+          "In patients with intermediate stenosis of the left main artery, IVUS is reasonable for assessing lesion severity.",
+          "In patients with STEMI and ischemic symptoms for less than 12 hours, PCI should be performed to improve survival.",
+          "In patients with STEMI and complications, CABG or PCI is recommended to improve survival, regardless of time delays from MI onset.",
+          "In patients with STEMI who show failed reperfusion after fibrinolytic therapy, PCI of the infarct artery should be performed.",
+          "For patients treated with fibrinolytic therapy, subsequent angiography and potential PCI help to improve clinical outcomes."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "Sections": [
+          {
+            "Heading": "Continued",
+            "Points": [
+              "In patients with STEMI who are stable and presenting 12 to 24 hours after symptom onset, PCI is recommended to improve clinical outcomes.",
+              "In patients with STEMI in whom PCI is not feasible or successful, CABG can be effective.",
+              "In patients with STEMI complicated by ongoing ischemia, PCI can improve outcomes.",
+              "In asymptomatic stable patients with STEMI with a totally occluded artery, PCI should not be performed.",
+              "In patients with STEMI, emergency CABG should not be performed after failed PCI unless necessary."
+            ]
+          },
+          {
+            "Heading": "Synopsis",
+            "Summary": "Immediate reperfusion therapy improves outcomes in STEMI patients. Primary PCI is superior to fibrinolytic therapy. Use CABG with caution. Mechanical support devices may improve outcomes."
+          },
+          {
+            "Heading": "Recommendation-Specific Supportive Text",
+            "Summary": "Primary PCI reduces mortality and major complications. Early revascularization benefits patients with STEMI complicated by cardiogenic shock."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Indications for Revascularization in STEMI (Patients Without Fibrinolytics)",
+        "description": "This figure provides an algorithm for revascularization in STEMI patients without the use of fibrinolytics, focusing on decision-making based on symptom onset, PCI feasibility, and presence of ischemic symptoms or complications such as cardiogenic shock.",
+        "algorithm_sections": [
+          {
+            "condition": "Symptom onset <12 h",
+            "pci_feasible": true,
+            "recommendation": "Primary PCI (1)"
+          },
+          {
+            "condition": "Symptom onset <12 h",
+            "pci_feasible": false,
+            "additional_condition": "Large area or myocardium at risk",
+            "recommendation": "CABG (2a)"
+          },
+          {
+            "condition": "Symptom onset \u226512 h",
+            "sub_conditions": [
+              {
+                "condition": "Cardiogenic shock or heart failure",
+                "pci_feasible": true,
+                "recommendation": "Primary PCI (1)"
+              },
+              {
+                "condition": "Cardiogenic shock or heart failure",
+                "pci_feasible": false,
+                "recommendation": "CABG (1)"
+              },
+              {
+                "condition": "Ongoing ischemia, heart failure, or electrical instability",
+                "pci_feasible": true,
+                "recommendation": "Primary PCI (2a)"
+              },
+              {
+                "condition": "Symptom onset within 12\u201324 h",
+                "recommendation": "PCI (2a)"
+              },
+              {
+                "condition": "Totally occluded infarct artery >24 h and no symptoms or severe ischemia",
+                "recommendation": "PCI (3: No Benefit)"
+              }
+            ]
+          }
+        ],
+        "recommendation_note": "The algorithm does not cover every patient scenario and clinicians are advised to use a Heart Team approach. Lack of data may limit formal recommendations.",
+        "additional_study_notes": [
+          "Studies indicate reduced bleeding with half-dose tenecteplase in patients >75 years of age.",
+          "Benefits of early PCI were supported by trials showing reduced rates of death or infarction."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": {
+          "Study Context": "Invasive coronary stenting study compared with conservative strategy.",
+          "PCI Recommendations": [
+            "Delayed PCI of an infarct artery beyond 24 hours should be considered only in patients with a patent artery.",
+            "Emergency CABG should be considered for patients with ongoing ischemia and a large area of myocardium at risk."
+          ],
+          "Outcomes": [
+            "Invasive strategy showed lower ventricular infarct size and mortality rates.",
+            "No RCTs examining benefit of PCI in STEMI beyond 12 hours."
+          ],
+          "COR/LOE Recommendations": [
+            "Staged PCI recommended for non-infarct artery stenosis in stable patients with multivessel disease.",
+            "Elective CABG reasonable for complex multivessel disease.",
+            "PCI of non-infarct artery may be considered to reduce event rates."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary": "The guideline discusses the optimal revascularization strategies for patients with STEMI and multivessel CAD. It emphasizes the use of a Heart Team approach to tailor treatment methods such as multivessel PCI or CABG, and highlights findings from various trials.",
+        "Clinical Guidelines": [
+          {
+            "Practice": "Heart Team approach is utilized to determine optimal revascularization strategy in STEMI and multivessel CAD.",
+            "Details": [
+              "Multivessel PCI at the time of primary PCI is recommended.",
+              "PCI of the infarct artery only is associated with a reduction in risk compared to non-infarct artery treatments."
+            ]
+          },
+          {
+            "Practice": "Elective CABG and staged PCI",
+            "Details": [
+              "Elective CABG remains an appropriate option after PCI of infarct artery.",
+              "Staged PCI is noted for specific patient conditions."
+            ]
+          }
+        ],
+        "Trials": [
+          {
+            "Name": "COMPLETE trial",
+            "Findings": "Staged PCI of non-infarct artery showed risk reduction.",
+            "Focus": "Patients with successful PCI of infarct artery and others who meet criteria for CABG."
+          },
+          {
+            "Name": "CULPRIT-SHOCK",
+            "Findings": "Culprit-only PCI recommended for primary treatment in STEMI with cardiogenic shock.",
+            "Focus": "Patients with acute MI complicated by shock."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Revascularization of Noninfarct-Related Coronary Artery Lesions in Patients With STEMI",
+        "description": "Flowchart guidance for revascularization in patients with ST-segment-elevation myocardial infarction (STEMI) and noninfarct-related coronary artery issues.",
+        "key_points": [
+          "Assess for cardiogenic shock in patients with STEMI and successful PCI.",
+          "Revascularization options depend on presence of low-risk patient profiles and lesion complexity.",
+          "Routine revascularization of non-culprit artery indicated if cardiogenic shock is present.",
+          "Deferred revascularization in certain non-complex cases after evaluating myocardium at risk and comorbidities.",
+          "Decision pathways include involvement of Heart Team discussions for complex multivessel diseases.",
+          "Use of CABG or staged PCI based on complexity and Heart Team recommendations.",
+          "Guideline-Directed Medical Therapy (GDMT) considered in non-complex cases."
+        ],
+        "footnotes": [
+          "CABG: coronary artery bypass graft.",
+          "GDMT: guideline-directed medical therapy.",
+          "PCI: percutaneous coronary intervention.",
+          "STEMI: ST-segment-elevation myocardial infarction.",
+          "Decisions should consider renal function, lesion anatomy, and patient comorbidities.",
+          "Heart Team discussions ensure suitable decision-making.",
+          "Staged PCI can be performed in hospital or post-discharge."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Patient Clinical Status Definitions": {
+          "Elective": "The patient's cardiac function has been stable in the days or weeks before intervention. The intervention can be deferred without increased risk of compromise to cardiac outcome.",
+          "Urgent": "Intervention is required during the same hospitalization to minimize chance of further clinical deterioration.",
+          "Emergency": "Patients have ongoing, refractory cardiac compromise not responsive to any form of therapy except cardiac intervention.",
+          "Emergency/Salvage": "Patients require resuscitation en route to the operating room or procedure room."
+        },
+        "Revascularization in NSTE-ACS": {
+          "Recommendations for Coronary Angiography and Revascularization": [
+            {
+              "Class": "1",
+              "Level of Evidence": "A",
+              "Recommendation": "In patients with NSTE-ACS at elevated risk of ischemic events who are candidates for revascularization, an invasive strategy is indicated."
+            },
+            {
+              "Class": "1",
+              "Level of Evidence": "B-R",
+              "Recommendation": "In patients with NSTE-ACS and cardiogenic shock who are candidates, emergency revascularization is recommended to reduce death risk."
+            },
+            {
+              "Class": "1",
+              "Level of Evidence": "C-LD",
+              "Recommendation": "In patients with NSTE-ACS with refractory instability, an immediate invasive strategy is indicated to improve outcomes."
+            },
+            {
+              "Class": "2a",
+              "Level of Evidence": "B-R",
+              "Recommendation": "In NSTE-ACS patients stabilized at high clinical event risk, an early invasive strategy is reasonable to improve outcomes."
+            },
+            {
+              "Class": "2a",
+              "Level of Evidence": "B-R",
+              "Recommendation": "In NSTE-ACS patients stabilized at low risk, an invasive strategy before hospital discharge is reasonable to improve outcomes."
+            },
+            {
+              "Class": "2a",
+              "Level of Evidence": "B-NR",
+              "Recommendation": "In NSTE-ACS patients with failed PCI and ischemia or hemodynamic compromise, emergency CABG is reasonable."
+            },
+            {
+              "Class": "3: Harm",
+              "Level of Evidence": "B-R",
+              "Recommendation": "In NSTE-ACS with cardiogenic shock, routine multivessel PCI of non-culprit lesions should not be performed."
+            }
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Invasive approaches for patients with NSTE-ACS lead to improved outcomes and are recommended for those at a high risk of death or MI. The GRACE score is used to determine risk levels. For those with ongoing ischemia or hemodynamic compromise, individualized treatment is advised. High-risk patients benefit most from invasive procedures, which are especially effective in reducing mortality and recurrent events. Immediate revascularization may not significantly alter outcomes compared to strategic planning, but quick interventions can aid patients with ST segment elevation myocardial infarction. Trials like SHOCK and TIMACS support strategic angiography timing based on patient condition and risk scores.": [],
+        "genes": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "Authors": "Lawton et al.",
+        "Journal": "JACC Vol. 79, No. 2, 2022",
+        "Key Points": [
+          "The guideline discusses early versus delayed invasive strategies in patients with NSTE-ACS.",
+          "Early invasive strategy is recommended for cardiogenic shock, refractory angina, or high-risk patients within 24 hours.",
+          "Invasive strategy with intent to perform revascularization is recommended before hospital discharge.",
+          "Retrospective reviews have shown a reduced mortality rate with emergency CABG in ongoing ischemia or hemodynamic compromise.",
+          "CULPRIT-SHOCK trial indicated that PCI with staged revascularization of non-culprit lesions results in better outcomes.",
+          "No benefit of immediate multivessel PCI in NSTEMI was found from the CULPRIT-SHOCK trial."
+        ],
+        "Clinical Recommendations": [
+          {
+            "Condition": "NSTE-ACS",
+            "Strategies": [
+              "Immediate invasive strategy for cardiogenic shock or hemodynamic instability.",
+              "Early invasive strategy (within 24 hours) for high-risk patients.",
+              "Planned invasive strategy for stable patients prior to discharge."
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Revascularization in SIHD",
+        "Recommendations": [
+          {
+            "Type": "Left ventricular dysfunction and multivessel CAD",
+            "Recommendations": [
+              {
+                "Class": "1",
+                "Level of Evidence": "B-R",
+                "Details": "CABG is recommended to improve survival in patients with SIHD and multivessel CAD with severe left ventricular systolic dysfunction (ejection fraction <35%)."
+              },
+              {
+                "Class": "2a",
+                "Level of Evidence": "B-NR",
+                "Details": "CABG including a left internal mammary artery graft to the LAD is reasonable to improve survival in patients with mild-to-moderate left ventricular systolic dysfunction (ejection fraction 35%-50%)."
+              }
+            ]
+          },
+          {
+            "Type": "Left main CAD",
+            "Recommendations": [
+              {
+                "Class": "1",
+                "Level of Evidence": "B-R",
+                "Details": "CABG is recommended to improve survival in patients with significant left main stenosis."
+              },
+              {
+                "Class": "2a",
+                "Level of Evidence": "B-NR",
+                "Details": "PCI is reasonable to improve survival in selected patients for whom PCI can provide equivalent revascularization to that possible with CABG."
+              }
+            ]
+          },
+          {
+            "Type": "Multivessel CAD",
+            "Recommendations": [
+              {
+                "Class": "2b",
+                "Level of Evidence": "B-R",
+                "Details": "CABG may be reasonable to improve survival in patients with significant stenosis in 3 major coronary arteries (with or without proximal LAD) and suitable anatomy."
+              },
+              {
+                "Class": "2b",
+                "Level of Evidence": "B-R",
+                "Details": "The usefulness of PCI to improve survival is uncertain in patients with significant stenosis in 3 major coronary arteries suitable for PCI."
+              }
+            ]
+          },
+          {
+            "Type": "Stenosis in the proximal LAD artery",
+            "Recommendations": [
+              {
+                "Class": "2b",
+                "Level of Evidence": "B-R",
+                "Details": "The usefulness of coronary revascularization to improve survival is uncertain in patients with normal left ventricular ejection fraction and stenosis in the proximal LAD."
+              }
+            ]
+          },
+          {
+            "Type": "Single- or double-vessel disease not involving the proximal LAD",
+            "Recommendations": [
+              {
+                "Class": "3",
+                "Level of Evidence": "No Benefit",
+                "Details": "Coronary revascularization is not recommended to improve survival in patients with normal left ventricular ejection fraction, 1- or 2-vessel CAD involving the proximal LAD."
+              },
+              {
+                "Class": "3",
+                "Level of Evidence": "Harm",
+                "Details": "Coronary revascularization should not be performed solely to improve survival in patients with \u22651 coronary arteries not anatomically or functionally significant."
+              }
+            ]
+          }
+        ],
+        "Synopsis": "Studies show CABG offers survival benefit over medical therapy in multiple patient subsets, including those with left main CAD, triple-vessel CAD, and ischemic cardiomyopathy. The benefits of PCI vs medical therapy are subject to clinical decisions weighing risk and suitability."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "Publication": "JACC Vol. 79, No. 2, 2022",
+        "Key Recommendations": [
+          {
+            "Recommendation": "Revascularization with CABG",
+            "Applicable Patients": "Patients with left ventricular dysfunction and CAD",
+            "Supporting Evidence": "STICH Trial",
+            "Comments": "No significant survival benefit initially, but shows benefit over 10-year follow-up."
+          },
+          {
+            "Recommendation": "PCI or medical therapy for patients with left main CAD",
+            "Evidence": "Inferential but plausible",
+            "Supporting Studies": "Registry studies and meta-analyses"
+          },
+          {
+            "Recommendation": "Class 2b recommendation for CABG",
+            "Introduction": "Based on recent evidence showing no advantage of CABG over medical therapy",
+            "Comments": "Newer surgical techniques or drugs may have improved prognosis"
+          },
+          {
+            "Recommendation": "Consideration of PCI improvement survival",
+            "Applicable Patients": "Patients with multivessel CAD and stable ischemic heart disease"
+          }
+        ],
+        "Clinical Trials and Studies": [
+          "STICH (Surgical Treatment for Ischemic Heart Failure) Trial",
+          "Veterans Administration Coronary Artery Bypass Cooperative Study",
+          "ISCHEMIA Trial"
+        ],
+        "Context": "Evaluation of recent data to assess the need for revascularization procedures in specific patient populations"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Revascularization in Patients with SIHD",
+        "Description": "This flowchart outlines the decision-making process for revascularization in patients with stable ischemic heart disease (SIHD). It addresses indications to improve symptoms and anatomic indications to improve survival.",
+        "Key Points": [
+          "Indications include refractory angina on medical therapy, left main disease, and multivessel CAD.",
+          "Options for treatment include CABG, PCI, and GDMT.",
+          "Decisions are influenced by factors like significant left main stenosis, ischemic cardiomyopathy, suitability for CABG, and ejection fraction (EF).",
+          "Use of heart team discussions for complex cases is encouraged."
+        ],
+        "Clinical Options": {
+          "CABG": "Coronary artery bypass graft",
+          "PCI": "Percutaneous coronary intervention",
+          "GDMT": "Guideline-directed medical therapy"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Clinical practice guidelines include recommendations for revascularization in SIHD patients based on CABG or PCI to improve survival or reduce symptoms compared to medical therapy alone. Several studies suggest revascularization lowers the risk of adverse events such as cardiac death, MI, or urgent revascularization compared with medical therapy alone.",
+        "Recommendations": {
+          "1": "In patients with SIHD and multivessel CAD appropriate for either CABG or PCI, revascularization is recommended to reduce the risk of cardiovascular events such as spontaneous MI, unplanned urgent revascularizations, or cardiac death."
+        },
+        "Supporting Evidence": [
+          "The MASS II study found lower 10-year rates of cardiac death after CABG or PCI than after medical therapy alone.",
+          "A meta-analysis of 25 studies enrolling 19,806 patients showed reduced overall MI following revascularization.",
+          "A dedicated RCT found no survival advantage for CABG or PCI over medical therapy in certain settings.",
+          "The ISCHEMIA trial found no difference in event rates in certain patients with multivessel CAD between CABG or PCI versus medical therapy."
+        ],
+        "Clinical Principle": "The more myocardium at risk, the greater the survival advantage of revascularization over medical therapy."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "7.3 Revascularization to Improve Symptoms",
+        "recommendations": [
+          {
+            "COR": "1",
+            "LOE": "A",
+            "text": "In patients with refractory angina despite medical therapy and with significant coronary artery stenoses amenable to revascularization, revascularization is recommended to improve symptoms."
+          },
+          {
+            "COR": "3: Harm",
+            "LOE": "C-LD",
+            "text": "In patients with angina but no anatomic or physiological criteria for revascularization, neither CABG nor PCI should be performed."
+          }
+        ],
+        "synopsis": "One of the main goals of coronary revascularization with either PCI or CABG surgery is to improve symptoms. Medical therapy can often be effective, but revascularization offers greater improvement in angina or quality of life than does medical therapy alone. However, inappropriate revascularization of nonobstructive plaques can lead to progression of CAD and inappropriate PCI can cause peri-procedural MIs without improving outcomes. In patients requiring revascularization for significant left main CAD with high-complexity CAD, CABG over PCI is recommended to improve survival.",
+        "recommendation_support": "Multiple RCTs confirm that revascularization improves anginal symptoms more than optimal medical therapy. Results from trials like ORBITA questioned the placebo effect, while ISCHEMIA showed relevant improvement."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The guideline discusses coronary artery disease (CAD) revascularization in patients with diabetes. It evaluates coronary artery bypass grafting (CABG) and percutaneous coronary intervention (PCI). CABG often shows better survival rates, especially in patients with complex anatomy. The SYNTAX score is used to assess disease complexity, affecting treatment decisions. For patients with diabetes and multivessel CAD, CABG is preferred if they have involvement of the left anterior descending artery (LAD) and are suitable candidates. PCI is considered for poor surgical candidates.",
+        "recommendations": [
+          "CABG is recommended over PCI for patients with diabetes and multivessel CAD with LAD involvement.",
+          "PCI can be useful for poor surgical candidates with multivessel CAD.",
+          "PCI may be considered for patients with left main stenosis and low to intermediate complexity disease."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "publication": "JACC Vol. 79, No. 2, 2022",
+        "date": "January 18, 2022:e21\u2013e129",
+        "recommendation_summary": "Guidelines for patients with previous Coronary Artery Bypass Grafting (CABG) and considerations for Percutaneous Coronary Intervention (PCI) and CABG in diabetes patients.",
+        "key_recommendations": [
+          {
+            "COR": "2a",
+            "LOE": "B-NR",
+            "recommendation": "In patients with previous CABG with a patent LIMA to the LAD who need repeat revascularization, if PCI is feasible, it is reasonable to choose PCI over CABG."
+          },
+          {
+            "COR": "2a",
+            "LOE": "C-LD",
+            "recommendation": "In patients with previous CABG and refractory angina on GDMT that is attributable to LAD disease, it is reasonable to choose CABG over PCI when an internal mammary artery (IMA) can be used as a conduit to the LAD."
+          },
+          {
+            "COR": "2b",
+            "LOE": "B-NR",
+            "recommendation": "In patients with previous CABG and complex CAD, it may be reasonable to choose CABG over PCI when an IMA can be used as a conduit to the LAD."
+          }
+        ],
+        "clinical_trials": [
+          {
+            "name": "FREEDOM",
+            "focus": "Comparing CABG with PCI exclusively in 1900 patients with diabetes."
+          },
+          {
+            "name": "EXCEL",
+            "focus": "Large RCT exclusively enrolled patients with left main CAD."
+          }
+        ],
+        "key_points": [
+          "High surgical risk patients with diabetes are more likely to require PCI in current practice.",
+          "No significant statistical difference in cardiovascular mortality rate between PCI and CABG groups."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendation": [
+          "In patients with multivessel CAD amenable to treatment with either PCI or CABG who are unable to access, tolerate, or adhere to DAPT for the appropriate duration of treatment, CABG is reasonable in preference to PCI."
+        ],
+        "Synopsis": "Patients undergoing coronary revascularization should consider factors that affect adherence to medications. Premature cessation of DAPT after PCI is associated with stent thrombosis and poor outcomes. Risk factors for stent thrombosis include patient-specific, lesion-specific, and treatment-specific factors. Early DAPT interruption is a reversible risk factor for stent thrombosis. CABG is a safe option for patients not likely to adhere to DAPT.",
+        "Supporting Information": [
+          "Stent thrombosis after PCI can lead to large-territory MI and poor outcomes. Early DAPT interruption can significantly increase the risk of stent thrombosis."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Revascularization in Pregnant and Older Patients",
+        "Sections": [
+          {
+            "Section": "9.1. Revascularization in Pregnant Patients",
+            "Recommendations": [
+              {
+                "COR": "2a",
+                "LOE": "C-LD",
+                "Description": "In pregnant patients with STEMI not caused by spontaneous coronary artery dissection (SCAD), it is reasonable to perform primary PCI as the preferred revascularization strategy."
+              },
+              {
+                "COR": "2a",
+                "LOE": "C-LD",
+                "Description": "In pregnant patients with NSTE-ACS, an invasive strategy is reasonable if medical therapy is ineffective for the management of life-threatening complications."
+              }
+            ],
+            "Synopsis": "Pregnant patients require a multidisciplinary approach to determine appropriate coronary revascularization treatment. Use of antiplatelet agents during pregnancy, especially in the third trimester, should be cautious. Clopidogrel should be used for the shortest duration possible if needed.",
+            "Supportive Text": [
+              "Coronary revascularization in pregnant patients with STEMI is typically via PCI, with CABG performed when necessary.",
+              "Invasive treatment is viable if medical therapy fails in NSTE-ACS cases."
+            ]
+          },
+          {
+            "Section": "9.2. Revascularization in Older Patients",
+            "Recommendation": {
+              "COR": "1",
+              "LOE": "B-NR",
+              "Description": "In older adults, as in all patients, the treatment strategy for CAD should be based on an individual's preferences, cognitive function, and life expectancy."
+            },
+            "Synopsis": "Older patients present a unique challenge for revascularization due to complex health conditions and high comorbidity rates. The approach should be individualized."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations": [
+          {
+            "COR": "1",
+            "LOE": "C-LD",
+            "Description": "In patients with CKD undergoing contrast media injection for coronary angiography, measures should be taken to minimize the risk of contrast-induced acute kidney injury (AKI)."
+          },
+          {
+            "COR": "1",
+            "LOE": "C-EO",
+            "Description": "In patients with STEMI and CKD, coronary angiography and revascularization are recommended, with adequate measures to reduce the risk of AKI."
+          },
+          {
+            "COR": "2a",
+            "LOE": "B-NR",
+            "Description": "In high-risk patients with NSTE-ACS and CKD, it is reasonable to perform coronary angiography and revascularization, with adequate measures to reduce the risk of AKI."
+          },
+          {
+            "COR": "2a",
+            "LOE": "C-EO",
+            "Description": "In low-risk patients with NSTE-ACS and CKD, it is reasonable to weigh the risk of coronary angiography and revascularization against the potential benefit."
+          },
+          {
+            "COR": "3: No benefit",
+            "LOE": "B-R",
+            "Description": "In asymptomatic patients with stable CAD and CKD, routine angiography and revascularization are not recommended if there is no compelling indication."
+          }
+        ],
+        "Synopsis": "Patients with CKD constitute a growing subset of the population and have worse outcomes after AMI or PCI. Risk of cardiovascular death has been correlated with impaired renal function (glomerular filtration rate). Preexisting CKD is the strongest independent risk factor for AKI, linked with increased mortality. Strategies include adequate hydration, minimizing contrast media, and use of high-dose statins to reduce AKI risk."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Best Practices for CKD Patients Undergoing Angiography": [
+          "Assess risk of contrast-induced AKI before procedure.",
+          "Administer adequate preprocedural hydration.",
+          "Record and minimize volume of contrast media.",
+          "Pretreat with high-intensity statins.",
+          "Use radial artery if feasible.",
+          "Avoid N-acetyl-L-cysteine for AKI prevention.",
+          "Do not provide prophylactic renal replacement therapy.",
+          "Delay CABG in stable patients beyond 24 hours after angiography if feasible."
+        ],
+        "Clinical Insights": [
+          "AKI prevention has limited clinical benefit in some trials.",
+          "Revascularization is recommended for STEMI patients despite CKD due to reduced mortality.",
+          "Observational studies show a lower mortality rate for invasive strategies in NSTE-ACS with CKD.",
+          "Risk-reduction from invasive strategies is often seen in high-risk subgroups.",
+          "The ISCHEMIA-CKD trial observed no improved outcomes for invasive strategies versus conservative ones for moderate CKD with ischemia."
+        ],
+        "Recommendation for Noncardiac Surgery": [
+          "Patients with non-left main or noncomplex CAD undergoing noncardiac surgery should not receive routine coronary revascularization just to reduce perioperative cardiovascular events."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "summary": "This guideline provides recommendations for coronary revascularization to reduce ventricular arrhythmias. It highlights the lack of benefit for routine revascularization before vascular surgery and suggests specific recommendations for patients with ventricular arrhythmias.",
+        "recommendations": [
+          {
+            "cor": "1",
+            "loe": "B-NR",
+            "recommendation": "In patients with ventricular fibrillation, polymorphic ventricular tachycardia (VT), or cardiac arrest, revascularization of significant CAD is recommended to improve survival."
+          },
+          {
+            "cor": "3: No Benefit",
+            "loe": "C-LD",
+            "recommendation": "In patients with CAD and suspected scar-mediated sustained monomorphic VT, revascularization is not recommended for the sole purpose of preventing recurrent VT."
+          }
+        ],
+        "supportive_text": [
+          "The CARP study found no difference in 30-day and 1-year rates of death or MI with PCI or CABG compared to medical therapy.",
+          "Revascularization may reduce the burden of polymorphic VT and ventricular fibrillation, resulting in improved survival.",
+          "Monomorphic VT in nonacute settings is usually due to scar-related reentry."
+        ],
+        "synopsis": "Evaluation for potential ischemic CAD is crucial in patients with ventricular arrhythmias. Revascularization in life-threatening ventricular arrhythmias and survivors of cardiac arrest is linked to reduced arrhythmia and improved survival, especially with CABG or PCI."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "9.6. Revascularization in Patients With SCAD",
+        "recommendations": [
+          {
+            "cor": "2b",
+            "loe": "C-LD",
+            "recommendation": "In patients with SCAD who have hemodynamic instability or ongoing ischemia despite conservative therapy, revascularization may be considered if feasible."
+          },
+          {
+            "cor": "3: Harm",
+            "loe": "C-LD",
+            "recommendation": "Routine revascularization for SCAD should not be performed."
+          }
+        ],
+        "synopsis": "SCAD is characterized by the interruption of the coronary artery intimal layer and intramural hematoma, causing vessel compression, and typically presenting as an ACS. A notable subset is associated with ongoing symptomatic ischemia, which can progress to complete occlusion. Treatment of patients with SCAD is challenging, and guidance from randomized trials is lacking. Selective revascularization may be necessary in certain scenarios.",
+        "recommendation_support": [
+          "SCAD may often heal without intervention, but patients with ischemia, occlusion, or instability may need urgent revascularization.",
+          "A study of patients with SCAD and presenting with STEMI showed better survival without revascularization compared to PCI.",
+          "Several retrospective studies suggest higher rates of cardiovascular events in patients who had a first-line revascularization strategy."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "In patients after orthotopic heart transplantation, cardiac allograft vasculopathy presents a treatment challenge. It is a major cause of death following the first year. It is characterized by diffuse intimal hyperplasia. Limited treatment options include retransplantation. PCI serves as a palliative treatment in patients with focal disease. DES is favored over BMS for native CAD but was not clearly beneficial for cardiac allograft vasculopathy.",
+        "Recommendations": [
+          {
+            "Class": 1,
+            "Level": "A",
+            "Recommendation": "1. In patients with ACS undergoing PCI, a radial approach is preferred to reduce the risk of death, vascular complications, or bleeding."
+          },
+          {
+            "Class": 1,
+            "Level": "A",
+            "Recommendation": "2. In patients with SIHD undergoing PCI, the radial approach is recommended to reduce access site bleeding and vascular complications."
+          }
+        ],
+        "General": "Radial artery catheterization and PCI have gained popularity for their advantages such as faster ambulation and fewer complications. Experienced operators are recommended."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Transradial Access vs Femoral Access": "The MATRIX trial showed a significantly lower rate of primary endpoint of net adverse clinical events in transradial compared to transfemoral access. This was driven by a lower rate of bleeding events and a lower 30-day mortality rate.",
+        "SAFARI-STEMI Trial": "Demonstrated no significant difference in 30-day mortality between radial and femoral access.",
+        "Recommendation for Choice of Stent Type": "DES should be used over BMS to prevent restenosis, MI, or acute stent thrombosis.",
+        "DES Developments": "Newer-generation DES have higher efficacy and safety. Durables are ranked as durable-polymer DES > biodegradable-polymer DES > BMS based on safety."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations": [
+          {
+            "Class": "2a",
+            "Level of Evidence": "B-R",
+            "Recommendation": "In patients undergoing coronary stent implantation, IVUS can be useful for procedural guidance, particularly in cases of left main or complex coronary artery stenting, to reduce ischemic events."
+          },
+          {
+            "Class": "2a",
+            "Level of Evidence": "B-R",
+            "Recommendation": "In patients undergoing coronary stent implantation, OCT is a reasonable alternative to IVUS for procedural guidance, except in ostial left main disease."
+          },
+          {
+            "Class": "2a",
+            "Level of Evidence": "C-LD",
+            "Recommendation": "In patients with stent failure, IVUS or OCT is reasonable to determine the mechanism of stent failure."
+          }
+        ],
+        "Synopsis": "Intracoronary imaging is useful in guiding coronary stent implantation in cases involving the left main artery or complex lesions, allowing full-thickness visibility and assessment of plaque and stent conditions. IVUS and OCT provide different advantages, with IVUS not requiring contrast media while OCT requires it but offers higher resolution.",
+        "Studies": [
+          "Meta-analyses on IVUS-guided PCI showed a reduction in major adverse cardiac events (MACE).",
+          "The ILUMIEN study compared OCT and IVUS for peri-procedural guidance and showed noninferiority of OCT.",
+          "The DOCTORS trial showed that OCT-guided PCI resulted in improved post-PCI FFR."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "Sections": [
+          {
+            "Title": "Thromboctomy",
+            "Recommendations": [
+              {
+                "COR": "3: No Benefit",
+                "LOE": "A",
+                "Recommendation": "In patients with STEMI, routine aspiration thrombectomy before primary PCI is not useful."
+              }
+            ],
+            "Synopsis": [
+              "Patients with STEMI have thrombotic occlusion of the infarct artery.",
+              "No clinical benefit from routine thrombolytic thrombectomy in PCI.",
+              "Initial studies showed improved myocardial blush grades and ST-segment-elevation resolution.",
+              "Larger studies show no benefit with thrombus aspiration."
+            ],
+            "Findings": [
+              "No benefit in reduction of infarct size or improvement in cardiovascular outcomes.",
+              "A patient-level meta-analysis showed no significant reduction in cardiovascular death but did show a higher risk of stroke with routine aspiration thrombectomy.",
+              "Thrombus aspiration in high thrombus burden patients showed reduced cardiovascular death and increased stroke risk."
+            ]
+          },
+          {
+            "Title": "Treatment of Calcified Lesions",
+            "Recommendations": [
+              {
+                "COR": "2a",
+                "LOE": "B-R",
+                "Recommendation": "In patients with fibrotic or heavily calcified lesions, plaque modification with rotational atherectomy can be useful to improve procedural success."
+              },
+              {
+                "COR": "2b",
+                "LOE": "B-NR",
+                "Recommendation": "In patients with fibrotic or heavily calcified lesions, plaque modification with orbital atherectomy, balloon atherectomy, laser angioplasty, or intracoronary lithotripsy may be considered to improve procedural success."
+              }
+            ]
+          }
+        ],
+        "References": [
+          "Referenced studies and additional information are available in Online Data Supplement 26 and 27."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Fibrotic or heavily calcified lesions can hinder stent expansion. Calcium deposits thicker than 500 \u03bcm or involving an arc of the vessel >270\u00b0 predict the need for lesion modification. Lesions can be modified by rotational atherectomy, orbital atherectomy, cutting balloon atherotomy, intracoronary lithotripsy, or excimer laser angioplasty. Randomized trials show that routine use of athereolytic devices does not improve clinical outcomes. However, these devices may enhance procedural success in specific circumstances.",
+        "Recommendation-Specific Supportive Text": [
+          {
+            "Recommendation": "Rotational atherectomy uses a diamond-tipped burr and is associated with restenosis and lumen loss. Trials have shown enhanced stent delivery and expansion in calcified vessels compared to balloons or cutting/sculpting balloons."
+          },
+          {
+            "Recommendation": "Orbital atherectomy is similar to rotational atherectomy and is indicated for inelastic lesions that cannot be dilated with balloons. Excimer laser coronary angioplasty uses a photo-acoustic mechanism helpful for calcified lesions or nonexpandable stents."
+          }
+        ],
+        "Treatment of Saphenous Vein Graft (SVG) Disease": {
+          "Recommendations": [
+            "In patients with previous CABG undergoing PCI of a SVG, using an embolic protection device is recommended to decrease distal embolization risk.",
+            "In patients with previous CABG, if PCI of a diseased native coronary artery is feasible, it is recommended to choose PCI of the native artery over SVG.",
+            "In patients with chronic occlusion of a SVG, percutaneous revascularization is not recommended."
+          ],
+          "Recommendation-Specific Supportive Text": [
+            "Embolic protection devices are used to prevent distal embolization. The SAFER trial showed that these devices can decrease SVG PCI complications."
+          ]
+        },
+        "Outcomes": "SVG PCI is associated with high MACE, procedural MI risk, no-reflow, stent thrombosis, and ischemia-driven revascularization in the long-term."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary": "This section of the guideline discusses the use of protection devices during percutaneous coronary intervention (PCI) and the outcomes of using native arteries versus saphenous vein grafts (SVG) in coronary artery disease patients undergoing PCI. It mentions that no randomized studies compare the outcomes between PCI of diseased native arteries and PCI of SVGs. Observational studies have shown mixed results, and the use of embotic protection devices is debated. Regarding chronic total occlusion (CTO), the guideline notes the rarity of randomized trials proving the benefit of PCI in terms of cardiac outcomes.",
+        "Recommendations": [
+          {
+            "Class": "2b",
+            "Level of Evidence": "B-R",
+            "Details": "In patients with suitable anatomy who have refractory angina on medical therapy, after treatment of non-CTO lesions, the benefit of PCI of a CTO to improve symptoms is uncertain."
+          }
+        ],
+        "Synopsis": "Chronic total occlusion (CTO) is observed in about a quarter of coronary angiography patients. Technical advances have led to high success rates in interventions, although mortality after CTO PCI is low, complications occur in a significant minority. Procedural enthusiasm stems from retrospective data but RCTs have not supported meaningful improvement."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Optimal Medical Therapy for Chronic Total Occlusions": "Optimal medical therapy for the treatment of chronic total occlusions indicated a reduced frequency of angina and improved quality of life. However, further trials are suggested to explore more definitive endpoints.",
+        "Recommendations for Patients with Stent Restenosis": [
+          {
+            "COR": "1",
+            "LOE": "A",
+            "Recommendation": "Use DES for patients with clinical in-stent restenosis undergoing repeat PCI to improve outcomes if conditions allow."
+          },
+          {
+            "COR": "2a",
+            "LOE": "C-EO",
+            "Recommendation": "Consider CABG for patients with recurrent diffuse ISR requiring revascularization."
+          },
+          {
+            "COR": "2b",
+            "LOE": "B-NR",
+            "Recommendation": "Use brachytherapy for patients with recurrent ISR to improve symptoms."
+          }
+        ],
+        "Synopsis": "Usage of newer-generation DES has reduced ISR risk compared to older stents. Neointimal hyperplasia after stent intervention remains the main mechanism of ISR. Various treatments have been explored including angioplasty, CABG, and vascular brachytherapy, with DES being more beneficial. ISR treatment should be individualized."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "class": "2b",
+            "level_of_evidence": "B-R",
+            "recommendation": "In selected high-risk patients, elective insertion of an appropriate hemodynamic support device as an adjunct to PCI may be reasonable to prevent hemodynamic compromise during PCI."
+          }
+        ],
+        "synopsis": "Patients undergoing complex PCI are at risk of hypotension, decompensated heart failure, shock, or arrhythmias that may lead to rapid hemodynamic deterioration or death. Intra-aortic balloon pump counterpulsation provides minimal hemodynamic support for PCI but improves coronary and cerebral perfusion. New hemodynamic support devices are undergoing evaluation in clinical trials.",
+        "recommendation_specific_supporting_text": [
+          "The routine use of hemodynamic support devices for complex PCI has not been shown to reduce cardiovascular events.",
+          "In the BCIS-1 trial, there was no difference in the primary composite outcome with intra-aortic balloon counterpulsation."
+        ],
+        "pharmacotherapy": {
+          "class": "1",
+          "level_of_evidence": "B-R",
+          "recommendations": [
+            "In patients undergoing PCI, a loading dose of aspirin, followed by daily dosing, is recommended to reduce ischemic events.",
+            "In patients with ACS undergoing PCI, a loading dose of a P2Y12 inhibitor, followed by daily dosing, is recommended to reduce ischemic events."
+          ],
+          "level_of_evidence_c": {
+            "recommendations": [
+              "In patients with SIHD undergoing PCI, a loading dose of clopidogrel, followed by daily dosing, is recommended to reduce ischemic events.",
+              "In patients undergoing PCI within 24 hours after fibrinolytic therapy, a loading dose of 300 mg of clopidogrel, followed by daily dosing, is recommended to reduce ischemic events."
+            ]
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "DAPT with aspirin and oral P2Y12 inhibitors is essential for preventing thrombotic complications with PCI. Aspirin is a key agent and should be administered peri-procedurally. Oral P2Y12 inhibitors used include clopidogrel, ticagrelor, and prasugrel. Clinical trials suggest ticagrelor and prasugrel are more effective than clopidogrel in patients with ACS undergoing PCI. Contraindications for ticagrelor and prasugrel include previous intracranial hemorrhage, ischemic stroke, or transient ischemic attack. Dosing and choice of agents may need adjustment in elderly or lower body weight patients.": {
+          "PLATO trial": "examined the use of low-dose aspirin with ticagrelor and suggested chewable aspirin may be preferable.",
+          "A loading dose of clopidogrel is necessary for most effective PCI results. The CREDO trial showed benefits of pretreatment with clopidogrel.": "Essential for patients undergoing PCI. Starting with a loading dose offers best protection against ischemic events, especially when used promptly post-procedure."
+        },
+        "genes": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section_title": "Oral and Parenteral Antiplatelet Agents for Patients Undergoing PCI",
+        "drugs": [
+          {
+            "name": "Aspirin",
+            "loading_dose": "162-325 mg orally",
+            "maintenance_dose": "75-100 mg orally daily"
+          },
+          {
+            "name": "Clopidogrel",
+            "loading_dose": "600 mg orally",
+            "maintenance_dose": "75 mg orally daily"
+          },
+          {
+            "name": "Prasugrel",
+            "loading_dose": "60 mg orally",
+            "maintenance_dose": "10 mg orally daily"
+          },
+          {
+            "name": "Ticagrelor",
+            "loading_dose": "180 mg orally",
+            "maintenance_dose": "90 mg orally twice a day"
+          },
+          {
+            "name": "Abciximab",
+            "loading_dose": "0.25 mg/kg bolus",
+            "maintenance_dose": "0.125 \u00b5g/kg/min infusion for 12 h"
+          },
+          {
+            "name": "Eptifibatide",
+            "loading_dose": "180 \u00b5g/kg bolus",
+            "maintenance_dose": "2.0 \u00b5g/kg/min infusion"
+          },
+          {
+            "name": "Tirofiban",
+            "loading_dose": "25 \u00b5g/kg over 3 min bolus",
+            "maintenance_dose": "0.15 \u00b5g/kg/min infusion"
+          },
+          {
+            "name": "Cangrelor",
+            "loading_dose": "30 \u00b5g/kg bolus",
+            "maintenance_dose": "4 \u00b5g/kg/min infusion"
+          }
+        ],
+        "clinical_studies": [
+          {
+            "name": "CLARITY",
+            "description": "Clopidogrel resulted in a 46% reduction in rate of cardiovascular death or recurrent MI or stroke at 30 days among patients referred for PCI."
+          },
+          {
+            "name": "TRITON-TIMI 38",
+            "description": "Prasugrel reduced the rate of the composite endpoint of death from vascular causes, MI, or stroke compared with clopidogrel."
+          },
+          {
+            "name": "PLATO",
+            "description": "No significant differences in study-defined bleeding events with ticagrelor compared to clopidogrel, though non-CABG major bleeding was higher with ticagrelor."
+          },
+          {
+            "name": "TREAT",
+            "description": "Support the use of ticagrelor over clopidogrel in patients with STEMI treated with fibrinolytic therapy."
+          }
+        ],
+        "notes": [
+          "Ticagrelor and prasugrel not studied for long-term clinical outcomes in patients with SIHD undergoing PCI.",
+          "Older patients may require individualized loading doses based on risk of bleeding."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "cor": "2b",
+            "loe": "B-R",
+            "recommendation": "In patients undergoing PCI who are P2Y12 inhibitor na\u00efve, intravenous cangrelor may be reasonable to reduce periprocedural ischemic events."
+          },
+          {
+            "cor": "2a",
+            "loe": "C-LD",
+            "recommendation": "In patients with ACS undergoing PCI with large thrombus burden, no-reflow, or slow flow, intravenous glycoprotein IIb/IIIa inhibitor agents are reasonable to improve procedural success."
+          },
+          {
+            "cor": "3",
+            "loe": "B-R",
+            "recommendation": "In patients with SIHD undergoing PCI, the routine use of an intravenous glycoprotein IIb/IIIa inhibitor agent is not recommended."
+          }
+        ],
+        "synopsis": "Cangrelor is a potent, direct, reversible, short-acting intravenous P2Y12 inhibitor. It is used for rapid onset of platelet inhibition in patients who have not been pretreated with a P2Y12 inhibitor and is compared favorably with clopidogrel.",
+        "key_studies": "CHAMPION trials showed lower rates of stent thrombosis and death with cangrelor compared to clopidogrel."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Glycoprotein IIb/IIIa receptor inhibitors are drugs that target the glycoprotein IIb/IIIa platelet receptor. The use of these inhibitors in conjunction with PCI has not shown improved outcomes and may increase bleeding. These inhibitors may be reserved for specific cases with large thrombus burden.",
+        "Recommendations": [
+          {
+            "COR": "1",
+            "LOE": "C-EO",
+            "Recommendation": "In patients undergoing PCI, administration of UFH is useful to reduce ischemic events."
+          },
+          {
+            "COR": "1",
+            "LOE": "C-LD",
+            "Recommendation": "In patients with heparin-induced thrombocytopenia undergoing PCI, bivalirudin or argatroban should replace UFH."
+          },
+          {
+            "COR": "2b",
+            "LOE": "A",
+            "Recommendation": "In patients undergoing PCI, bivalirudin may reduce bleeding."
+          },
+          {
+            "COR": "2b",
+            "LOE": "B-R",
+            "Recommendation": "In patients treated with enoxaparin, intravenous enoxaparin can be considered during PCI."
+          },
+          {
+            "COR": "3: Harm",
+            "LOE": "B-R",
+            "Recommendation": "Subcutaneous enoxaparin should not be used for PCI if administered within 12 hours prior, to avoid increased bleeding."
+          }
+        ],
+        "Antithrombotic Therapy": "Includes UFH, bivalirudin, and enoxaparin. Fondaparinux is not recommended alone in PCI."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "Anticoagulant Dosing During PCI": {
+          "UFH": {
+            "Additional Dosing": "2000-5000 U to achieve an ACT of 250-300 s",
+            "No Prior Anticoagulant Therapy": "70-100 U/kg initial bolus to achieve target ACT"
+          },
+          "Enoxaparin": {
+            "With Prior Treatment": {
+              "Previous SC Dose 8-12 hrs or 1 SC Dose": "No additional unless recently given",
+              "0.3 mg/kg IV Recommended": "If last SC dose within 8 hrs and additional not needed"
+            },
+            "No Prior Anticoagulant Therapy": "0.5-0.75 mg/kg IV bolus"
+          },
+          "Bivalirudin": {
+            "With UFH History": "Repeat ACT",
+            "In Therapeutic Range": "0.75 mg/kg IV bolus, 1.75 mg/kg/h IV infusion",
+            "No UFH History": "0.75 mg/kg IV bolus, 1.75 mg/kg/h IV infusion"
+          },
+          "Argatroban": {
+            "Prior Therapy": "350 \u00b5g/kg bolus, then 15 \u00b5g/kg/min IV infusion",
+            "Without Prior Therapy": "200 \u00b5g/kg IV bolus, then 15 \u00b5g/kg/min IV infusion"
+          }
+        },
+        "Heparin-Induced Thrombocytopenia": {
+          "Alternative Anticoagulants": [
+            "Argatroban",
+            "Bivalirudin"
+          ]
+        },
+        "RCT Highlights": {
+          "Bivalirudin vs Heparin": "Reported no difference but less bleeding with bivalirudin",
+          "Radial Artery Intervention Impact": "Lower reduction in bleeding"
+        },
+        "Enoxaparin": {
+          "As an Alternative to UFH": "Noninferior for NSTE-ACS",
+          "RCT": "ATOLL trial"
+        },
+        "PCI Highlight": {
+          "Pre-PCI Enoxaparin": "Avoid UFH if administered within past 12 hours"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "General Procedural Issues for CABG",
+        "Section": "12.1 Perioperative Considerations in Patients Undergoing CABG",
+        "Recommendation": "For patients undergoing CABG, establishment of multidisciplinary, evidence-based perioperative management programs is recommended to optimize analgesia, minimize opioid exposure, prevent complications and to reduce time to extubation, length of stay, and health care costs.",
+        "Synopsis": "Emphasizes the use of fast-track cardiac anesthesia and multidisciplinary perioperative programs to improve outcomes after CABG. These programs utilize short-acting anesthetic agents and targeted monitoring modalities.",
+        "Key Points": [
+          "Fast-track cardiac anesthesia is crucial for improving outcomes.",
+          "Enhanced recovery programs focus on minimizing opioid exposure and reducing extubation time.",
+          "Use of specific anesthetic and monitoring modalities is recommended.",
+          "Intraoperative mechanical ventilation strategies and non-opioid medications can benefit outcomes."
+        ],
+        "Table 11 Highlights": {
+          "Perioperative analgesia": "Use of nonopioid medications and regional techniques to reduce opioid use.",
+          "Maintenance anesthesia": "Choice of intravenous versus volatile agents.",
+          "Mechanical ventilation": "Usage of lung-protective ventilation strategies.",
+          "Goal-directed therapy": "Protocols for fluids and vasopressors targeting specific hemodynamic goals.",
+          "TEE and CABG": "Intraoperative TEE for assessment of cardiac functions and decision-making."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Pulmonary artery catheter": {
+          "High-risk surgery": "Highly selective use of pulmonary artery catheters for high-risk patients (older, with congestive heart failure, pulmonary hypertension, or previous multiple valve procedures) may be safe and may potentially aid in the surveillance and treatment of hemodynamic instability.",
+          "Low-risk surgery": "The use of pulmonary artery catheters in low-risk or clinically stable patients is discouraged as it is associated with increased interventions without associated improvement in morbidity or mortality rates."
+        },
+        "CNS monitoring": {
+          "Cerebral oxygen saturation": "Intraoperative monitoring of cerebral oxygen saturation is shown to guide anesthetic decision-making and may prevent postoperative neurocognitive dysfunction.",
+          "Processed electroencephalogram": "Routine use of intraoperative monitoring of processed electroencephalogram has yielded inconsistent results with respect to the prevention of recall, determination of depth of anesthesia, or improvement in rate of recovery after cardiac surgery."
+        },
+        "Bypass Conduits in Patients Undergoing CABG": {
+          "Use of Radial Artery": "In patients undergoing isolated CABG, use of a radial artery is recommended over a saphenous vein conduit to improve long-term cardiac outcomes.",
+          "Use of IMA": "In patients undergoing CABG, IMA should be used to bypass the LAD to improve survival and reduce recurrent ischemic events.",
+          "Use of BIMA": "In patients undergoing CABG, bilateral IMA (BIMA) grafting may be beneficial to improve long-term cardiac outcomes."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Best practices for the use of bypass conduits in CABG include various strategies such as using radial artery grafts to target vessels with subocclusive stenoses, avoiding the use of the radial artery after transradial catheterization, and using bilateral or surgical artery procedures in patients with coronary artery disease. The internal mammary artery should be harvested using the skeletonization technique to reduce the risk of wound complications, and an endoscopic saphenous vein harvest is recommended in patients at risk of wound complications. The decision to add CABG to patients with significant CAD involves considering various factors such as comorbidities and technical feasibility.": {
+          "CASS (Coronary Artery Surgery Study) registry indicates improved survival with LIMA-LAD compared to SVG graft. LIMA grafting reduces death and revascularization. A single RCT showed improved event-free survival with LIMA arm at 10 years. BIMA's benefit is supported by observational studies and a meta-analysis of 38 studies. A noted decreased mortality rate with BIMA use. However, a high rate of crossover was noted from BIMA to single IMA. Increasing BIMA volume is associated with better survival outcomes.": {
+            "Recommendations for CABG in patients undergoing cardiac surgery include its use in patients with significant CAD for reducing ischemic events, and it may be reasonable for those with intermediate CAD.": {
+              "Additional considerations include the risk of sternal infection with BIMA grafting and the importance of surgical expertise.": {
+                "A multidisciplinary discussion can help weigh risks and benefits of CABG, especially for patients with jeopardized myocardium and reduced ejection fraction.": {
+                  "Various studies support the use of BIMA grafting in CABG and highlight the associated mortality benefits and potential complications.": {}
+                },
+                "genes": []
+              }
+            }
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview": "The guideline discusses the addition of CABG (Coronary Artery Bypass Grafting) to cardiac surgeries and its impact on patients with and without significant CAD (Coronary Artery Disease). It covers the risks, benefits, and recommendations regarding CABG, including age-related risks, postoperative outcomes, and the incorporation of CABG with other cardiac operations such as AVR (Aortic Valve Replacement).",
+        "Key Recommendations": "1. Routine use of epi-aortic ultrasound scanning in patients undergoing CABG is recommended to reduce atheroembolic complications. 2. Limited data on CABG in intermediate CAD, but testing with iFR or FFR may help guide decision-making.",
+        "Supporting Evidence": "Studies show CABG increases the risk of perioperative morbidity but improves long-term survival and quality of life. Observational studies have demonstrated the impact of CABG on postoperative outcomes, including mortality reduction.",
+        "Epi-aortic Ultrasound": "Recognized as the gold standard for the detection of atherosclerosis, epi-aortic ultrasound is superior to digital palpation or echocardiography and has been associated with better operative outcomes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Use of Cardiopulmonary Bypass in Patients Undergoing CABG",
+        "Recommendations": [
+          {
+            "COR": "2a",
+            "LOE": "B-R",
+            "Guideline": "In patients with significant calcification of the aorta, the use of techniques to avoid aortic manipulation (off-pump techniques or beating heart) is reasonable to decrease the incidence of perioperative stroke when performed by experienced surgeons."
+          },
+          {
+            "COR": "2b",
+            "LOE": "B-R",
+            "Guideline": "In patients with significant pulmonary disease, off-pump surgery may be reasonable to reduce perioperative risk when performed by experienced surgeons."
+          }
+        ],
+        "Synopsis": "When planning operative strategy for CABG, risks of aortic manipulation need consideration. Alternative operative strategies like off-pump or beating heart approaches are suggested to minimize complications, particularly in the presence of a calcified ascending aorta and pulmonary disease. Off-pump CABG potentially reduces immediate short-term risks such as stroke, blood transfusion, extubation, and mechanical ventilation.",
+        "Additional Recommendations": [
+          {
+            "COR": "1",
+            "LOE": "B-R",
+            "Guideline": "For patients undergoing CABG, an intraoperative continuous insulin infusion is recommended to maintain serum glucose level <180 mg/dL to reduce sternal wound infection."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Sternal wound infection has become less common in CABG surgery, with current rates reported to be less than 1%. However, the associated risk of death may increase several-fold. Management of hyperglycemia with perioperative insulin infusion to maintain a glucose level <180 mg/dL is important to prevent infection, improve survival, and reduce ischemic events. Continuous intravenous insulin reduces postoperative complications such as mediastinitis, cardiac arrhythmias, deep sternal wound infections, renal failure, and length of stay. Additional strategies include antibiotic prophylaxis and other measures.",
+        "Recommendation-Specific Supportive Text": [
+          "Continuous intravenous infusion of insulin is effective in maintaining blood glucose <180 mg/dL in patients undergoing CABG to reduce the risk of sternal wound infection.",
+          "The optimal level of glycemic control remains controversial. Some studies show that maintaining glucose levels between 100 mg/dL and 140 mg/dL may not reduce complications versus a higher target of up to 180 mg/dL.",
+          "RCTs have found that continuous intravenous insulin is associated with reduced variability in glucose concentration, reduced hospital length of stay, and reduced ischemic events compared to subcutaneous insulin.",
+          "Aggressive preventive approaches, including antibiotics and nasal carriers' treatment, show varying levels of evidence for reducing infections.",
+          "RCTs comparing intensive and conventional treatment have found no significant differences in outcomes."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Best Practices to Reduce Sternal Wound Infection in Patients Undergoing CABG": [
+          "Perform nasal swab testing for Staphylococcus aureus.",
+          "Apply mupirocin 2% ointment to known nasal carriers of S aureus.",
+          "Apply preoperative intranasal mupirocin 2% ointment to patients with unknown nasal culture or PCR result.",
+          "Redose prophylactic antimicrobials for long procedures or in cases of excessive blood loss during CABG.",
+          "Measure perioperative HbA1c.",
+          "Treat all distant extrathoracic infections before nonemergency surgical coronary revascularization.",
+          "Advise smoking cessation before elective CABG surgery.",
+          "Apply topical antibiotics to the cut edges of the sternum during cardiac surgical procedures.",
+          "Use skeletonized harvest of IMA in BIMA grafting.",
+          "Do not continue prophylactic antibiotics beyond 48 hours."
+        ],
+        "Antiplatelet Therapy Recommendations": [
+          "Patients already taking aspirin should continue until the time of surgery.",
+          "For urgent CABG, clopidogrel and ticagrelor should be discontinued at least 24 hours before surgery.",
+          "Discontinue short-acting glycoprotein IIb/IIIa inhibitors before surgery to reduce bleeding risk.",
+          "For elective CABG, discontinue clopidogrel 5 days, ticagrelor 3 days, and prasugrel 7 days before surgery.",
+          "Do not initiate aspirin in patients not already taking it in the immediate preoperative period."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": [
+          {
+            "Aspect": "Continuation of Aspirin",
+            "Details": "Continuation of aspirin until the time of surgery is likely associated with a reduction in myocardial infarction (MI) but increases the risk of perioperative bleeding and transfusion."
+          },
+          {
+            "Aspect": "P2Y12 Receptor Inhibitor",
+            "Details": "The administration of aspirin and a P2Y12 receptor inhibitor (e.g., clopidogrel, ticagrelor, prasugrel) is common, particularly in the setting of ACS or recent stent placement."
+          },
+          {
+            "Aspect": "Glycoprotein IIb/IIIa Inhibitors",
+            "Details": "These inhibitors (e.g., eptifibatide, tirofiban, abciximab) are sometimes given to patients who are at high risk of acute ischemic events while awaiting CABG."
+          },
+          {
+            "Aspect": "Clopidogrel Discontinuation",
+            "Details": "CABG performed <5 days after the discontinuation of clopidogrel is associated with an increased risk of major bleeding complications."
+          },
+          {
+            "Aspect": "Preoperative Ticagrelor",
+            "Details": "Experience suggests that preoperative ticagrelor should be withheld to reduce bleeding and blood product administration."
+          },
+          {
+            "Aspect": "Prasugrel Timing",
+            "Details": "Timing for prasugrel is less established, with higher major bleeding risk if surgery is performed early (<3 days)."
+          },
+          {
+            "Aspect": "Aspirin Therapy in Immediate Preoperative Period",
+            "Details": "Initiation of aspirin therapy in the immediate preoperative period (<24 hours) was linked to increased episodes of major bleeding, but no significant differences were found in major cardiovascular events."
+          }
+        ],
+        "Beta Blockers": [
+          {
+            "Recommendation": "Patients without contraindication to beta blockers should receive them before surgery to reduce postoperative atrial fibrillation and potentially to reduce in-hospital and 30-day mortality rates."
+          },
+          {
+            "Recommendation": "The role of preoperative beta blockers in acute postoperative myocardial ischemia and ventricular arrhythmia is uncertain."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "In patients undergoing elective CABG, the risks and benefits of beta-blocker or amiodarone administration before surgery should be carefully considered. Preoperative beta blockers are associated with reduced incidence of postoperative atrial fibrillation, but recent data show mixed results for other outcomes like death and arrhythmias.",
+        "Recommendation-Specific Supporting Text": "Small RCTs and meta-analyses have shown preoperative beta blockers reduce atrial fibrillation after CABG. However, the trials have limitations due to mixed arms and initiation timing. Preoperative prophylactic amiodarone decreases the incidence of atrial arrhythmias and stroke compared to placebo. Observational data on beta-blockers show mixed results in reducing hospital and 30-day mortality.",
+        "Pharmacotherapy in Patients After Revascularization": "Patients need aggressive secondary preventive measures which include lifestyle changes and medications to control cholesterol, blood sugar, and blood pressure, alongside antiplatelet therapies.",
+        "Recommendation for Dual Antiplatelet Therapy": "Shorter-duration DAPT (1-3 months) is recommended in selected patients undergoing PCI, with subsequent transition to P2Y12 inhibitor monotherapy to reduce bleeding risk."
+      },
+      "genes": [
+        {
+          "Gene": "P4502D6",
+          "Associated Conditions": [
+            "Operative death"
+          ],
+          "Occurrences": 1,
+          "context": "One study found that, when compared with no preoperative beta blockers, noncytochrome P4502D6 metabolized agents (i.e., atenolol and sotalol) were associated with a lower incidence of operative death; however, P4502D6 metabolized agents (i.e., metoprolol, propranolol, carvedilol, and labetalol) were not."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "Use of DAPT for Patients After PCI",
+        "source": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "context": "This guideline provides recommendations for dual antiplatelet therapy (DAPT) duration in patients undergoing percutaneous coronary intervention (PCI). The flowchart categorizes patients based on whether they have stable ischemic heart disease (SIHD) or acute coronary syndrome (ACS), and whether they receive drug-eluting stents (DES) or bare metal stents (BMS).",
+        "therapy_recommendations": [
+          {
+            "time_frame": "0 months",
+            "SIHD_DES": "At least 6 months aspirin plus clopidogrel",
+            "SIHD_BMS": "At least 1 month of aspirin plus clopidogrel",
+            "ACS": "At least 12 months of aspirin plus clopidogrel, or prasugrel, or ticagrelor"
+          },
+          {
+            "time_frame": "1 month",
+            "discontinuation": "Discontinuation of aspirin after 1-3 months with continued P2Y12 monotherapy may be reasonable if high risk of bleeding"
+          },
+          {
+            "time_frame": "3 months",
+            "discontinuation": "Discontinuation of P2Y12 after 3 months may be reasonable if high risk of bleeding"
+          },
+          {
+            "time_frame": "6 months",
+            "discontinuation": "Discontinuation of P2Y12 after 6 months may be reasonable if high risk of bleeding",
+            "SIHD_DES_extension": "More than 6 months of DAPT may be reasonable if no significant bleeding risk",
+            "SIHD_BMS_extension": "More than 3 months of DAPT may be reasonable if no significant bleeding risk"
+          },
+          {
+            "time_frame": "12 months",
+            "ACS_extension": "More than 1 year of DAPT may be reasonable if no significant bleeding risk"
+          }
+        ],
+        "additional_notes": "Use a Heart Team approach when decisions are unclear; consult Section 17 for questions and future directions."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "After PCI, the use of DAPT prevents stent thrombosis and reduces ischemic events but increases bleeding. Recent studies suggest shorter-term DAPT (3-6 months) shows less bleeding and fewer ischemic events compared to longer-term DAPT (>12 months). The guidelines highlight recommendations for short and prolonged DAPT followed by aspirin monotherapy post-revascularization. Trials have shown 40% reduction in bleeding events with shorter-term DAPT followed by P2Y12 monotherapy.",
+        "Recommendations for Antiplatelet Therapy in Patients After CABG": "1. Patients undergoing CABG should receive aspirin postoperatively to reduce SVG closure and adverse cardiovascular events. 2. In selected patients with CABG, DAPT with aspirin and ticagrelor or clopidogrel for 1 year may improve vein graft patency.",
+        "CABG-specific Synopsis": "DAPT therapy mechanisms in CABG patients differ due to bypassing of coronary tree and distinct pathophysiology from ACS. Surgical bleeding remains a concern particularly in perioperative periods."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The guideline discusses recommendations for the use of beta blockers in patients after revascularization, particularly those with stable ischemic heart disease (SIHD) and normal left ventricular function. It concludes that the routine use of beta blockers is not beneficial in reducing cardiovascular events after complete revascularization. For patients after CABG (Coronary Artery Bypass Grafting), beta blockers are recommended to reduce the incidence of postoperative atrial fibrillation.",
+        "recommendations": [
+          {
+            "topic": "Beta Blockers in Patients After Revascularization",
+            "class_of_recommendation": "3: No benefit",
+            "level_of_evidence": "C-LD",
+            "recommendation": "In patients with SIHD and normal left ventricular function, the routine use of chronic oral beta blockers is not beneficial to reduce cardiovascular events after complete revascularization."
+          },
+          {
+            "topic": "Beta Blockers for the Prevention of Atrial Fibrillation After CABG",
+            "class_of_recommendation": "1",
+            "level_of_evidence": "B-R",
+            "recommendation": "In patients after CABG, beta blockers are recommended and should be started as soon as possible to reduce the incidence or clinical sequelae of postoperative atrial fibrillation."
+          }
+        ],
+        "supportive_text": [
+          "In patients with preserved left ventricular function, there is a lack of data supporting the routine use of beta blockers after revascularization.",
+          "Large meta-analyses and observational studies have not shown benefits of beta blockers in patients undergoing PCI for stable angina."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general": "New-onset postoperative atrial fibrillation occurs in about 18% of patients after CABG and is associated with increased risk of stroke and mortality. Beta-blockers may reduce the incidence of atrial fibrillation and ventricular arrhythmias. Recommendations include discontinuing aspirin in patients with atrial fibrillation undergoing PCI and using anticoagulants like rivaroxaban or warfarin to reduce bleeding risks.",
+        "recommendations": [
+          {
+            "class": 1,
+            "loe": "B-R",
+            "recommendation": "In patients with atrial fibrillation undergoing PCI on anticoagulants, discontinue aspirin 1 to 4 weeks after PCI and use non-vitamin K oral anticoagulant or warfarin."
+          },
+          {
+            "class": 2,
+            "loe": "B-R",
+            "recommendation": "In patients with atrial fibrillation undergoing PCI on DAPT or P2Y12 inhibitor, use non-vitamin K oral anticoagulant over warfarin."
+          }
+        ],
+        "studies": [
+          {
+            "name": "AUGUSTUS trial",
+            "findings": "Apixaban with fewer bleeding and hospitalization compared to warfarin."
+          },
+          {
+            "name": "ENTRUST-AF-PCI trial",
+            "findings": "Edoxaban with lower bleeding in atrial fibrillation patients compared to warfarin."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          "Patients who have undergone revascularization should be prescribed a comprehensive cardiac rehabilitation program to reduce death and hospital readmissions and improve the quality of life.",
+          "Patients should be educated about cardiovascular disease (CVD) risk factors and their modification."
+        ],
+        "synopsis": "Cardiac rehabilitation is evidence-based, including education, behavior modification, and exercise training to improve prevention outcomes in CVD patients. It addresses comorbid conditions, monitors safety issues, and facilitates adherence to medical therapies. The rehabilitation may be center-based or home-based, each overcoming different participation barriers.",
+        "recommendation_specific_support": [
+          "The safety and effectiveness of center-based cardiac rehabilitation are well-established with reductions in hospital readmissions, secondary events, and deaths.",
+          "Core components of home-based cardiac rehabilitation are similar to center-based programs."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "15.2 Smoking Cessation in Patients After Revascularization",
+        "recommendations": [
+          {
+            "COR": "1",
+            "LOE": "A",
+            "recommendation": "In patients who use tobacco and have undergone coronary revascularization, a combination of behavioral interventions plus pharmacotherapy is recommended to maximize cessation and reduce adverse cardiac events."
+          },
+          {
+            "COR": "1",
+            "LOE": "A",
+            "recommendation": "In patients who use tobacco and have undergone coronary revascularization, smoking cessation interventions are recommended during hospitalization and should include supportive follow-up for at least 1 month after discharge to facilitate tobacco cessation and reduce morbidity and mortality."
+          }
+        ],
+        "synopsis": "Tobacco use, especially cigarette smoking, is a major risk factor for cardiovascular morbidity and mortality. Continued smoking after revascularization is associated with adverse clinical outcomes, particularly stent thrombosis. Cessation therapies include behavioral and pharmacological interventions, such as varenicline, bupropion, and individual counseling. Varenicline has shown high efficacy among patients motivated to quit smoking."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "15.3 Psychological Interventions in Patients After Revascularization",
+        "Recommendations": [
+          {
+            "COR": "1",
+            "LOE": "B-R",
+            "Recommendation": "In patients who have undergone coronary revascularization who have symptoms of depression, anxiety, or stress, treatment with cognitive behavioral therapy, psychological counseling, and/or pharmacological interventions is beneficial to improve quality of life and cardiac outcomes."
+          },
+          {
+            "COR": "2b",
+            "LOE": "C-LD",
+            "Recommendation": "In patients who have undergone coronary revascularization, it may be reasonable to screen for depression and refer or treat when it is indicated to improve quality of life and recovery."
+          }
+        ],
+        "Synopsis": [
+          "Cardiac events and coronary revascularization are distressing, leading to psychosocial morbidity.",
+          "Anxiety, depression, and stress are associated with poor adherence to health behaviors, compromised quality of life, and increased recurrent cardiac events.",
+          "20% of patients who undergo CABG remain depressed postoperatively.",
+          "Several psychological therapies are used for secondary prevention to improve outcomes, including relaxation, stress management, and cognitive behavioral therapy."
+        ],
+        "Recommendation-Specific Supportive Text": [
+          "Escitalopram was more effective than placebo in reducing depression.",
+          "ENRICHD trial demonstrated therapy with counseling or SSRIs reduced depression but not event-free survival after 24 months.",
+          "Depression is a common comorbidity after revascularization.",
+          "Effective depression treatments, including depression screening and support systems, are highlighted."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Traditional ASCVD Risk Factors": [
+          "Diabetes",
+          "Smoking",
+          "Obesity and unhealthy diet",
+          "Physical inactivity",
+          "Hypertension",
+          "Dyslipidemia"
+        ],
+        "Psychosocial Risk Factors": [
+          "Income level",
+          "Behavioral risk",
+          "Psychological factors",
+          "Educational factors",
+          "Employment status",
+          "Physical and social environment"
+        ],
+        "Revascularization Outcomes": {
+          "Assessment of Outcomes": [
+            {
+              "Recommendation": "With the goal of improving patient outcomes, it is recommended that cardiac surgery and PCI programs participate in state, regional, or national clinical data registries and receive periodic reports of their risk-adjusted outcomes as a quality assessment and improvement strategy.",
+              "COR": "1",
+              "LOE": "B-NR"
+            },
+            {
+              "Recommendation": "With the goal of improving patient outcomes, it is reasonable for cardiac surgery and PCI programs to have a quality improvement program that routinely reviews institutional quality programs and outcomes, reviews individual operator outcomes, provides peer review of difficult or complicated cases, and performs random case reviews.",
+              "COR": "2a",
+              "LOE": "C-LD"
+            },
+            {
+              "Recommendation": "Smaller volume cardiac surgery and PCI programs may consider affiliating with a high-volume center to improve patient care.",
+              "COR": "2b",
+              "LOE": "C-EO"
+            }
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Centers that provide coronary revascularization should participate in clinical data registries with the intent to review and continuously improve patient outcomes. Comparison of outcomes through national databases allows for improvement in quality improvement initiatives.",
+        "Recommendation-Specific Supporting Text": {
+          "1": "Participation in registries that provide risk-adjusted outcomes is beneficial in quality assessment and improvement.",
+          "2": "Quality and performance measures are defined by attributes related to structure, processes, and risk-adjusted outcomes.",
+          "3": "Small-volume coronary revascularization programs may benefit from affiliation with larger volume programs."
+        },
+        "Unanswered Questions and Future Directions": "The indications for revascularization and the approach to treatment in patients with CAD are based on evidence supporting benefit or lack thereof.",
+        "Special Populations": {
+          "Underrepresented Racial and Ethnic Groups": "There are persistent disparities in outcomes in CVD treatments. Recommendations are often derived from RCT data with skewed demographic representation.",
+          "Left Ventricular Dysfunction": "While CABG improves outcomes, the effectiveness varies with myocardial viability."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "17.2": {
+          "General Information": "The document discusses various conditions related to coronary revascularization, including SCAD, coronary artery aneurysm, myocardial bridging, and treatment of graft failure. Clinical guidelines emphasize cautious use of PCI for SCAD and limited robust data for treating graft failure. It also touches on considerations for antiplatelet therapy in patients with ACS after CABG, particularly with an indication for anticoagulation.",
+          "Sections": {
+            "17.2.1": "Insufficient data on the role of PCI in patients with left ventricular dysfunction to improve survival or cardiovascular outcomes.",
+            "17.2.2": "SCAD is increasingly recognized as a cause of ACS in young patients, especially women. The management is cautious, with conservative treatment prevailing.",
+            "17.2.3": "Coronary artery aneurysms are rare findings; no clear best treatment exists.",
+            "17.2.4": "Myocardial Bridging can lead to ischemia, AMI, stress cardiomyopathy. Surgical approaches show promise in patients with ischemic pain.",
+            "17.2.5": "Graft failure lacks robust recommendations. Consideration for intervention should involve a Heart Team.",
+            "17.2.6": "Antiplatelet therapy after ACS and CABG requires careful consideration and further study."
+          }
+        },
+        "17.3": {
+          "Section 17.3.1": "Use of radial artery for a conduit after radial artery catheterization is increasing."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "CABG": "The radial artery is preferred over LIMA if manipulated. Surgery benefits due to reduced acute and long-term graft patency.",
+        "Findings": "Increased intimal thickness and medial dissections often noted after radial artery catheterization. Abnormal findings persist.",
+        "Further Research": "Needed to determine healing and suitability for graft harvesting.",
+        "Multivessel Disease": "Operators attempt to treat all vessels. No trials directly compare strategies. Outcomes worse with incomplete revascularization.",
+        "Hybrid Surgery": "Combines off-pump LIMA with PCI. Shows similar rates of death and stroke compared to CABG. Popularity rising, especially in the US.",
+        "PCI Before TAVR": "Variable CAD presence in TAVR patients. PCI often planned if proximal obstruction."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Revascularization Before Organ Transplantation": {
+          "RCTs": "There are currently no RCTs evaluating the role of revascularization before solid organ transplantation.",
+          "Vascular Surgery": "The RCT of revascularization before vascular surgery did not report improved outcomes with PCI.",
+          "Cardiovascular Events": "Increased risk of cardiovascular events among renal transplant recipients is noted.",
+          "Routine Risk Assessment": "Performed before consideration for transplantation due to obstructive CAD.",
+          "Transplantation Surgeons' Hesitation": "Surgeons are hesitant due to the increased risk without revascularization.",
+          "Reference to Patients": "Common referral for revascularization in preparation for organ transplantation.",
+          "Ischemia CKD Trial": "No differences in outcomes with routine revascularization even with severe ischemia noted in Ischemia CKD trial.",
+          "Waitlist": "Only about 10% of enrolled patients were on the waitlist for transplantation.",
+          "Conclusions": "Uncertainty remains on whether revascularization before organ transplantation offers better outcomes. RCTs are needed."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "Source": "JACC VOL. 79, NO. 2, 2022",
+        "Date": "January 18, 2022",
+        "Highlights": [
+          "Describes standards for systematic reviews relevant to coronary revascularization.",
+          "Guideline updates on percutaneous coronary intervention for ST-elevation myocardial infarction, NST-elevation acute coronary syndromes, and management of adults with congenital heart disease.",
+          "Includes guidelines for the management of heart rhythm disorders, hyperlipidemia, and other cardiovascular conditions."
+        ],
+        "References": [
+          {
+            "ID": 1,
+            "Authors": "Anderson JL, Heidenreich PA, Barnett PG, et al.",
+            "Title": "ACC/AHA statement on cost/value methodology in clinical practice guidelines and performance measures: a report of the American College of Cardiology/American Heart Association Task Force on Performance Measures and Task Force on Practice Guidelines.",
+            "Journal": "J Am Coll Cardiol.",
+            "Year": 2014,
+            "Pages": "633-2342."
+          },
+          {
+            "ID": 2,
+            "Authors": "O'Gara PT, Kushner FG, Ascheim DD, et al.",
+            "Title": "ACCF/AHA guideline for the management of ST-elevation myocardial infarction.",
+            "Journal": "J Am Coll Cardiol.",
+            "Year": 2013,
+            "Pages": "e78-e140."
+          },
+          {
+            "ID": 3,
+            "Authors": "Amsterdam EA, Wenger NK, Brindis RG, et al.",
+            "Title": "AHA/ACC guideline for the management of patients with non-ST-elevation acute coronary syndromes.",
+            "Journal": "J Am Coll Cardiol.",
+            "Year": 2014,
+            "Pages": "e139-e228."
+          },
+          {
+            "ID": 4,
+            "Authors": "Al-Khatib SM, Stevenson WG, Ackerman MJ, et al.",
+            "Title": "2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death.",
+            "Journal": "J Am Coll Cardiol.",
+            "Year": 2018,
+            "Pages": "e91-e220."
+          },
+          {
+            "ID": 5,
+            "Authors": "Arnett DK, Blumenthal R, Albert M, et al.",
+            "Title": "2019 ACC/AHA guideline on the primary prevention of cardiovascular disease.",
+            "Journal": "J Am Coll Cardiol.",
+            "Year": 2019,
+            "Pages": "e177-e232."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Practice Guidelines": "Focus on coronary revascularization, tobacco cessation, management of chronic stable angina, prevention and management of cardiovascular disorders, pharmacologic approaches to glycemic treatment in diabetes, and sex differences in clinical outcomes and treatment.",
+        "Methodology": "Recommendations derived from class of recommendation and level of evidence from various guidelines and studies.",
+        "Improving Equity in Care": "Disparities in care in coronary intervention based on sex, race, and socioeconomic status are discussed. ACS protocols examined for mitigating disparities."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "topics": [
+          "Racial and gender disparities in coronary revascularization outcomes",
+          "Impact of hospital characteristics on patient mortality",
+          "Association of shared decision-making with patient-reported health outcomes",
+          "Effects of race and age on perioperative outcomes of cardiac procedures",
+          "Racial differences in long-term outcomes among patients with drug-eluting stents",
+          "Income-related inequalities in cardiovascular mortality",
+          "Assessment and efficacy of decision aids in treatment and screening processes"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "sections": [
+          {
+            "title": "The Heart Team",
+            "content": "Description of Heart Team approach for revascularization and its clinical benefits."
+          },
+          {
+            "title": "Predicting Patient Risk of Death With CABG",
+            "content": "Usage of EuroSCORE II and other models for predicting surgical risks and outcomes in thoracic surgery."
+          },
+          {
+            "title": "Angiography to Define Anatomy and Assess Lesion Severity",
+            "content": "Visual and physiological assessments of coronary artery disease severity and the impact on treatment strategy."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "sections": {
+          "4.2": "Defining Coronary Artery Lesion Complexity: Calculation of the SYNTAX Score (Synergy Between PCI With TAXUS and Cardiac Surgery)",
+          "4.3": "Use of Coronary Physiology to Guide Revascularization With PCI",
+          "4.4": "Intravascular Ultrasound to Assess Lesion Severity",
+          "4.5": "Revascularization of the Infarct Artery in Patients With STEMI"
+        },
+        "references": [
+          "Sianos et al. 2005: An angiographic tool grading the complexity of coronary artery disease.",
+          "Gargi et al.: Study on 1-year outcomes after revascularization.",
+          "Cavalcante et al.: Impact of SYNTAX scores in PCI patients.",
+          "Farooq et al.: Development of SYNTAX score II for individual patient treatment.",
+          "Pijls NHJ et al.: DEFERR trial on PCI vs. medical therapy outcomes."
+        ],
+        "studies": [
+          {
+            "name": "SYNTAX",
+            "focus": "SYNTAX score calculation",
+            "applications": [
+              "PCI",
+              "cardiac surgery"
+            ]
+          },
+          {
+            "name": "DEFER",
+            "focus": "PCI intervention vs. functional management",
+            "applications": [
+              "non-significant coronary stenosis"
+            ]
+          },
+          {
+            "name": "FAME",
+            "focus": "Fractional Flow Reserve use",
+            "applications": [
+              "multivessel coronary artery disease"
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "Publication Info": {
+          "Journal": "Journal of the American College of Cardiology",
+          "Volume": "79",
+          "Issue": "e99",
+          "Date": "January 18, 2022"
+        },
+        "Overall Theme": "The guideline focuses on reviewing coronary revascularization in various clinical contexts, including acute myocardial infarction, ST-segment elevation, coronary artery bypass, and complications associated with these procedures."
+      },
+      "genes": [
+        {
+          "Gene": "ST-segment elevation myocardial infarction",
+          "Associated Conditions": [
+            "coronary intervention",
+            "acute myocardial infarction"
+          ],
+          "Occurrences": 7,
+          "context": "Reperfusion by primary percutaneous coronary intervention in patients with ST-segment elevation myocardial infarction. Routine early angioplasty after fibrinolysis for ST-segment elevation myocardial infarction."
+        },
+        {
+          "Gene": "Fibrinolysis",
+          "Associated Conditions": [
+            "ST-segment elevation myocardial infarction"
+          ],
+          "Occurrences": 5,
+          "context": "Routine early angioplasty after fibrinolysis for ST-segment elevation myocardial infarction. Fibrinolysis is compared with primary PCI in suspected ST-segment elevation myocardial infarction."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "highlights": [
+          "The document contains references to various studies and guidelines related to coronary revascularization.",
+          "Key studies and trials include HELP AMI, CRISP-AMI, and British Heart Foundation RITA 3.",
+          "The guidelines cover topics related to PCI strategies, revascularization methods, and surgical myocardial revascularization.",
+          "They emphasize the importance of evidence-based strategies and the evaluation of specific clinical settings like ST-segment elevation myocardial infarction (STEMI) and acute coronary syndrome.",
+          "Specific trials and studies are cited for providing clinical insights, such as the North-Rhine-Westphalia Surgical Myocardial Infarction Registry and the BARI 2D trial."
+        ],
+        "links": [
+          "https://www.jacc.org/doi/10.1016/j.jacc.2021.05.079",
+          "https://www.tctmd.com/columns/how-grace-helps-cardiologists-provide-personalized-treatment-acs-patients"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "Section": "7.1. Revascularization to Improve Survival in SIHD Compared With Medical Therapy",
+        "Summary": "This guideline discusses various clinical trials and studies comparing the effectiveness of coronary artery bypass surgery (CABG) and percutaneous coronary intervention (PCI) in improving survival for patients with stable ischemic heart disease, left ventricular dysfunction, and other coronary conditions. It includes meta-analyses and randomized controlled trial outcomes demonstrating the benefits or comparing different strategies for coronary revascularization."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The document is the 2021 ACC/AHA/SCAI Coronary Revascularization Guideline focusing on strategies for coronary revascularization aimed at reducing cardiovascular events. The guideline covers five-year outcomes in patients with left main disease, comparisons between percutaneous coronary intervention (PCI) and coronary artery bypass grafting (CABG), the effectiveness of medical therapy, and factors influencing treatment choices. It also highlights the analysis of major clinical trials like MASS II and ISCHEMIA, touching on outcomes related to surgical and angioplasty procedures."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document_title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "sections": [
+          {
+            "title": "8.1 Patients With Complex Disease",
+            "content": "Various studies compare outcomes in patients with complex coronary artery disease using coronary intervention methods such as percutaneous coronary intervention and coronary artery bypass grafting."
+          },
+          {
+            "title": "8.2 Patients With Diabetes",
+            "content": "Studies focus on multivessel revascularization in patients with diabetes, examining long-term survival outcomes."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "topics_covered": [
+          "Coronary Artery Bypass Grafting (CABG)",
+          "Percutaneous Coronary Intervention (PCI)",
+          "Revascularization in Various Patient Populations",
+          "DAPT (Dual Antiplatelet Therapy) Adherence",
+          "Revascularization in Pregnant Patients",
+          "Revascularization in Older Patients"
+        ],
+        "key_points": [
+          "Comparative effectiveness of PCI and CABG for coronary artery disease.",
+          "Management strategies for diabetic patients undergoing revascularization.",
+          "Outcomes of various revascularization methodologies.",
+          "Considerations for pregnant patients and older adults undergoing revascularization."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Topic": "Coronary Revascularization in Patients with Chronic Kidney Disease (CKD)",
+        "Sections": [
+          {
+            "Title": "Revascularization in Patients with Chronic Kidney Disease (CKD)",
+            "References": [
+              "Mehran R, Aymong ED, Nikolsky E, et al. A simple risk score for prediction of contrast-induced nephropathy after percutaneous coronary interventions.",
+              "Moscicki M, Rogers KE, Montoye C, et al. Association of a continuous quality improvement initiative with cardiac outcome variations of contemporary percutaneous coronary interventions.",
+              "Mehran R, Dangas GD, Weisbord SD. Contrast-associated acute kidney injury.",
+              "Siminouvic BP, Aung N, Guo Y, et al. Management and outcomes of acute myocardial infarction in patients with chronic kidney disease.",
+              "Bhatia S, Arora S, Bhatia SM, et al. Non-ST-segment elevation myocardial infarction in patients with chronic kidney disease.",
+              "Bangalore S, Maron DJ, Flegg JL, et al. International Study of Comparative Health Effectiveness with Medical and Invasive Approaches\u2014Chronic Kidney Disease.",
+              "Collins AJ, Foley RN, Gilbertson DT, et al. United States Renal Data System."
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Clinical Information": [
+          "The guideline discusses various aspects and methods related to coronary revascularization, including the use of statins, contrast nephropathy, acute kidney injury, and elective surgeries.",
+          "Specific focus is given to scenarios such as acute myocardial infarction, non-ST segment elevation myocardial infarction, chronic kidney disease, and mitral valve surgery.",
+          "The document also reviews the risks and benefits of percutaneous coronary intervention and coronary artery bypass graft surgery in different patient populations."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Revascularization in patients with SCAD (Spontaneous Coronary Artery Dissection)": "Spontaneous coronary artery dissection has been managed conservatively or with revascularization. Long-term outcomes and treatment methods are explored, referencing articles by Jamil, Lettieri, Lobo, Martins, Tweet, Hayes, Saw, and others.",
+        "Revascularization in patients with Cardiac Allografts": "Different studies investigate the impact of drug-eluting stents, systemic inflammation, metabolic syndromes and various interventions on cardiac allograft vasculopathy. Notable contributors include Agrawal, Raichlin, Kobashigawa, Srivastava, Schmauss, and others.",
+        "Revascularization in patients with Anomalous Coronary Artery": "Articles by Angelini and Cheezum explore coronary arteries with inappropriate sinuses of valsalva, focusing on clinical presentation and guidelines.",
+        "Radial and Femoral Approaches for PCI": "The document discusses the differences and outcomes of radial versus femoral access for coronary interventions, with studies by Romaguoli, Valgimigli, And\u00f3, and others providing insights."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_clinical_information": "The guideline discusses various aspects of coronary revascularization, focusing on the safety and efficacy of different stent types, the role of intravascular imaging, and the outcomes of different intravascular imaging techniques. It includes multiple studies comparing drug-eluting stents versus bare-metal stents, the impact of intravascular ultrasound (IVUS) guidance, and the use of bioabsorbable polymers. It also reviews outcomes associated with techniques like optical coherence tomography (OCT) and fractional flow reserve (FFR) in guiding procedures and improving clinical outcomes."
+      },
+      "genes": [
+        {
+          "Gene": "N/A",
+          "Associated Conditions": [],
+          "Occurrences": 0,
+          "context": ""
+        }
+      ]
+    },
+    {
+      "content": {
+        "Clinical Guidelines": "The document is a clinical guideline from the 2021 ACC/AHA/SCAI Coronary Revascularization Guideline, discussing treatment and intervention methods for specific coronary artery conditions. Topics covered include treatment of calcified lesions, saphenous vein graft interventions, and chronic total occlusion revascularizations. It addresses various procedures such as high-speed rotational atherectomy, excimer laser coronary angioplasty, and the use of embolic protection devices."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "focus": "This document focuses on guidelines and studies related to coronary revascularization, including treatments, outcomes, and risks of various procedures like percutaneous coronary intervention (PCI) and the use of drugs like aspirin in patients undergoing PCI."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical information": [
+          "The guideline discusses the use of antithrombotic therapy in various categories of patients, particularly focusing on coronary intervention.",
+          "Aspirin is highlighted as a key treatment in preventing thromboembolic events following coronary intervention.",
+          "Multiple studies and trials are cited, including the PLATO trial, comparing different antiplatelet therapies such as clopidogrel, prasugrel, and ticagrelor.",
+          "The guideline evaluates clopidogrel's effectiveness after coronary stenting and affirms its use in preventing cardiovascular events.",
+          "The document discusses various dosing strategies and the timing of antiplatelet administration concerning percutaneous coronary interventions.",
+          "Intravenous P2Y12 inhibitors and glycoprotein IIb/IIIa inhibitors are mentioned as options in patients with acute coronary syndromes."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "articles": [
+          {
+            "authors": "The INFUSE-AMI randomized trial",
+            "publication": "JAMA. 2012",
+            "summary": "Discusses the use of platelet glycoprotein IIb/IIIa inhibition for STEMI."
+          },
+          {
+            "authors": "Montalescot G, Barragan P, Wittenberg O, et al.",
+            "publication": "N Engl J Med. 2001",
+            "summary": "Alciximab and heparin vs. bivalirudin for non-ST-elevation myocardial infarction."
+          },
+          {
+            "authors": "Kastrati A, Mehilli J, Schulz H, et al.",
+            "publication": "JAMA. 2004",
+            "summary": "Clinical trial of abciximab in elective percutaneous coronary intervention."
+          },
+          {
+            "authors": "Yusuf S, Mehta SR, Chrolavicius S, et al.",
+            "publication": "N Engl J Med. 2006",
+            "summary": "Fondaparinux vs. enoxaparin in acute coronary syndromes."
+          }
+        ],
+        "topics": [
+          "Glycoprotein IIb/IIIa inhibitors",
+          "Bivalirudin",
+          "Fondaparinux",
+          "Enoxaparin",
+          "Radial vs. femoral access"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Perioperative Considerations in Patients Undergoing CABG": [
+          {
+            "summary": "The section discusses enhanced recovery programs and various anesthetic techniques in cardiac surgery. It covers studies on opioid-sparing strategies, intravenous anesthesia, and other approaches to improve recovery and outcomes in cardiac surgery."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "topics": [
+          {
+            "number": 29,
+            "authors": "Savage RM, Lytle BW, Aronson S, et al.",
+            "topic": "Intraoperative echocardiography indication",
+            "description": "Intraoperative echocardiography is indicated in high-risk coronary artery bypass grafting."
+          },
+          {
+            "number": 30,
+            "authors": "Eltzschig HK, Rosenberger P, Loffler M, et al.",
+            "topic": "Intraoperative echocardiography outcomes",
+            "description": "Impact of intraoperative transesophageal echocardiography on surgical decisions in patients undergoing cardiac surgery."
+          },
+          {
+            "number": 33,
+            "authors": "Swaminathan M, Nioacan A, Phillips-Bute BG, et al.",
+            "topic": "Predicting adverse events",
+            "description": "Utility of a simple algorithm to grade diastolic dysfunction and predict outcome after coronary artery bypass graft surgery."
+          },
+          {
+            "number": 43,
+            "authors": "Vretzakis G, Georgopoulos S, Stamoulis K, et al.",
+            "topic": "Oxygen saturation monitoring",
+            "description": "Monitoring in brain oxygen saturation (INVOS) in a cohort to direct blood transfusions during cardiac surgery."
+          },
+          {
+            "number": 47,
+            "authors": "Deschamps A, Hall R, Grocott H, et al.",
+            "topic": "Cerebral oximetry monitoring",
+            "description": "Maintaining normal cerebral oxygen saturation during high-risk cardiac surgery."
+          },
+          {
+            "number": 50,
+            "authors": "Villafranca A, Thomson IA, Grocott HP, et al.",
+            "topic": "Anesthetic use",
+            "description": "Impact of bispectral index versus end-tidal anesthetic concentration-guided anesthesia time on tracheal extubation in fast-track cardiac surgery."
+          },
+          {
+            "number": 62,
+            "title": "Bypass Conduits in Patients Undergoing CABG",
+            "authors": [
+              "Gaudino M, Benedetto U, Fremes S, et al."
+            ],
+            "topics": [
+              {
+                "title": "Radial artery or saphenous vein grafts in coronary-artery bypass surgery",
+                "authors": "Gaudino M, Benedetto U, Fremes S, et al.",
+                "description": "Radial artery or saphenous-vein grafts in coronary-artery bypass surgery."
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "Journal": "Journal of the American College of Cardiology (JACC)",
+        "Volume": "79",
+        "Issue": "2",
+        "Pages": "e121-e129",
+        "Main Topics": [
+          "CABG in Patients Undergoing Other Cardiac Surgery",
+          "Use of Epiaortic Ultrasound in Patients Undergoing CABG",
+          "Use of Cardiopulmonary Bypass in Patients Undergoing CABG"
+        ],
+        "Summary": "The document discusses various aspects and recommendations for coronary revascularization, specifically focusing on CABG in combination with other cardiac surgeries, utility of epiaortic ultrasound during CABG, and the use of cardiopulmonary bypass. It reviews studies, outcomes, and recommendations based on different assessments like epiaortic ultrasound and intensive management of risk factors such as aortic valve replacement, coronary artery bypass grafting, and examining atheroma reduction strategies."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "Focus": "The guideline provides information on coronary revascularization techniques, especially comparing off-pump and on-pump coronary artery bypass grafting. It also discusses strategies for reducing sternal wound infections and the effects of different perioperative management approaches in cardiac surgeries.",
+        "Key Topics": [
+          "Comparison between off-pump and on-pump coronary artery bypass outcomes",
+          "Importance of complete revascularization to reduce complications",
+          "Postoperative management strategies, including insulin infusion for reducing sternal wound infections",
+          "Details from various studies on different surgical approaches and patient outcomes in coronary surgeries"
+        ],
+        "Studies Mentioned": [
+          {
+            "Authors": "Houlind et al.",
+            "Study": "Danish On-pump Versus Off-pump Randomization Study (DOORS)",
+            "Findings": "Off-pump coronary artery bypass surgery is inferior in graft patency compared to on-pump surgeries."
+          },
+          {
+            "Authors": "Puskas JD et al.",
+            "Findings": "Off-pump coronary artery bypass provides benefits such as reduced myocardial injury and transfusion requirements."
+          },
+          {
+            "Authors": "Dunne B et al.",
+            "Finding": "Five-year quality of life between off-pump and on-pump coronary surgeries has been evaluated."
+          },
+          {
+            "Authors": "Lazar HL, Chipkin SR, et al.",
+            "Findings": "Tight glucose control during coronary artery bypass decreases ischemic events"
+          }
+        ],
+        "Focus Area": "Insulin infusion and other methods to reduce sternal wound infection in CABG patients, and the impact of perioperative management strategies on patient outcomes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "Sections": [
+          {
+            "Section Title": "13.2. Antiplatelet Therapy in Patients Undergoing CABG",
+            "Key Points": [
+              "The preoperative use of aspirin is associated with improved postoperative outcomes in patients undergoing coronary artery bypass grafting.",
+              "Aspirin and clopidogrel impact on patients undergoing coronary artery bypass surgery is addressed.",
+              "Benefits and risks of using clopidogrel before coronary artery bypass surgery are considered."
+            ]
+          },
+          {
+            "Section Title": "13.3. Beta Blockers and Amiodarone in Patients Undergoing CABG",
+            "Key Points": [
+              "The use of amiodarone and beta blockers is compared in the prevention of postoperative atrial fibrillation.",
+              "Stopping beta blockers prior to coronary artery surgery is discussed.",
+              "The timing of anticoagulant therapy and impact on outcomes is evaluated."
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "sections": [
+          {
+            "title": "Antithrombotic Therapy for Patients After PCI",
+            "highlights": [
+              "Ticagrelor with or without aspirin has effects on outcomes after PCI.",
+              "P2Y12 inhibitor monotherapy effectiveness in patients undergoing percutaneous coronary intervention (PCI)."
+            ]
+          },
+          {
+            "title": "Antiplatelet Therapy in Patients After CABG",
+            "highlights": [
+              "Aspirin use for secondary prevention after CABG.",
+              "Duration and type of antiplatelet therapy after coronary artery bypass graft surgery."
+            ]
+          },
+          {
+            "title": "Beta Blockers in Patients After Revascularization",
+            "highlights": [
+              "Beta-blockers for patients with stable angina.",
+              "Effects of beta-blockers in myocardial infarction treatment."
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "15. Cardiac Rehabilitation and Education",
+        "highlights": {
+          "importance_of_rehabilitation": "Emphasizes home-based and exercise-based cardiac rehabilitation for coronary heart disease.",
+          "evidence_from_studies": "Describes systematic reviews and meta-analyses supporting lifestyle modification."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "Date": "January 18, 2022",
+        "Volume": "Vol. 79, No. 2",
+        "Sections": [
+          {
+            "Title": "15.2. Smoking Cessation in Patients After Revascularization",
+            "Content": [
+              "Discusses the importance of smoking cessation and various interventions.",
+              "References studies on pharmacotherapy and behavioral interventions for smoking cessation."
+            ]
+          },
+          {
+            "Title": "15.3. Psychological Interventions in Patients After Revascularization",
+            "Content": [
+              "Covers psychological interventions post-revascularization.",
+              "Includes references to clinical trials and studies on effects of psychological therapies."
+            ]
+          }
+        ],
+        "References": [
+          "A comprehensive list of references supporting the guidelines, including meta-analyses, systematic reviews, and expert consensus documents."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guidelines": [
+          {
+            "section": "Assessment of Outcomes in Patients After Revascularization",
+            "key_points": [
+              "The role of mental health treatments and cardiac rehabilitation in improving outcomes for patients with coronary heart disease.",
+              "Depression is associated with increased mortality 10 years after coronary artery bypass surgery.",
+              "Escitalopram treatment for depressive disorder following acute coronary syndrome improves outcomes.",
+              "Effects of antidepressant medication on morbidity and mortality in depressed patients after myocardial infarction."
+            ]
+          },
+          {
+            "section": "Unanswered Questions and Future Directions",
+            "key_points": [
+              "The need to assess the cardiovascular health in African Americans using a scientific statement.",
+              "The importance of understanding race, socioeconomic status, and the experience of cardiovascular infarction."
+            ]
+          }
+        ],
+        "references_and_research": [
+          {
+            "author": "Connemey, I",
+            "finding": "Depression is associated with increased mortality 10 years after coronary artery bypass surgery."
+          },
+          {
+            "author": "Thombs BD, Bass EB, Ford DE, et al.",
+            "finding": "Prevalence of depression in survivors of acute myocardial infarction."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_information": "The document is an excerpt from the 2021 ACC/AHA/SCAI Coronary Revascularization Guideline. It contains various studies and reviews focusing on topics such as racial disparities in cardiac procedures, outcomes of coronary artery surgeries, complications of coronary artery disease, and treatment evaluations including surgery and transcatheter techniques."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary": "The 2021 ACC/AHA/SCAI Coronary Revascularization Guideline discusses interventions like percutaneous coronary intervention and coronary artery bypass graft surgery. It emphasizes the management of coronary artery disease, including various surgical and non-surgical strategies, in patients with conditions like valvular heart disease, heart failure, and other cardiovascular complications. Key terms include angioplasty, stents, myocardial revascularization, multivessel PCI, and left ventricular dysfunction."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Appendix 1. Author Relationships with Industry and Other Entities (Relevant)\u20142021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization",
+        "committeeMembers": [
+          {
+            "name": "Jennifer S. Lawton (Chair)",
+            "employment": "Johns Hopkins Medicine\u2014Professor and Chief of Cardiac Surgery",
+            "consultant": "None",
+            "speakersBureau": "None",
+            "ownership": "None",
+            "personalResearch": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Jacqueline E. Tamis-Holland (Vice-Chair/JPG liaison)",
+            "employment": "Mount Sinai Morningside Hospital\u2014Associate Director, Cardiac Catheterization Laboratory; Icahn School of Medicine at Mount Sinai\u2014Professor of Medicine",
+            "consultant": "None",
+            "speakersBureau": "None",
+            "ownership": "None",
+            "personalResearch": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Sripal Bangalore",
+            "employment": "New York University School of Medicine, The Leon H. Charney Division of Cardiology\u2014Professor of Medicine and Director, Complex Coronary Intervention; Director of Research, Cardiac Catheterization Laboratory and Director, Cardiovascular Outcomes Group",
+            "consultant": "Abbott*, Amgen*, Biortronik, Meril, Pfizer, Reata, SMT",
+            "speakersBureau": "None",
+            "ownership": "None",
+            "personalResearch": "None",
+            "financialBenefit": "Abbott*, Reata*",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Eric R. Bates",
+            "employment": "University of Michigan Department of Internal Medicine\u2014Professor of Internal Medicine",
+            "consultant": "None",
+            "speakersBureau": "None",
+            "ownership": "None",
+            "personalResearch": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Theresa M. Beckie",
+            "employment": "University of South Florida, Tampa\u2014Professor and Associate Dean PhD Program, College of Nursing Professor, College of Medicine, Division of Cardiovascular Sciences",
+            "consultant": "None",
+            "speakersBureau": "None",
+            "ownership": "None",
+            "personalResearch": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "James M. Bischoff",
+            "employment": "AHA Volunteer (Patient Representative)",
+            "consultant": "None",
+            "speakersBureau": "None",
+            "ownership": "None",
+            "personalResearch": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "John A. Bittl",
+            "employment": "Advent Health Ocala, Interventional Cardiology\u2014Chief of Staff, Medical Director of Surgical Services, Research, and Education",
+            "consultant": "None",
+            "speakersBureau": "None",
+            "ownership": "None",
+            "personalResearch": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Mauricio G. Cohen (TFDS liaison)",
+            "employment": "University of Miami Hospital and Clinics\u2014Professor of Medicine and Director, Cardiac Catheterization Laboratory",
+            "consultant": "Abiomed*, AstraZeneca*, Medtronic*, Merit Medical*, Terumo Medical, Zoll",
+            "speakersBureau": "None",
+            "ownership": "Accumed Radial Systems",
+            "personalResearch": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "J. Michael DiMaio",
+            "employment": "Baylor Scott & White Health System\u2014Medical Director of Surgical Services",
+            "consultant": "None",
+            "speakersBureau": "None",
+            "ownership": "None",
+            "personalResearch": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Creighton W. Don (SCAI representative)",
+            "employment": "VA Puget Sound Medical Center\u2014Associate Professor of Medicine and Section Chief Cardiology; University of Washington Division of Cardiology\u2014Director of the Interventional Cardiology and Structural Heart Fellowships",
+            "consultant": "Siemens",
+            "speakersBureau": "None",
+            "ownership": "None",
+            "personalResearch": "None",
+            "financialBenefit": "Abbott*, Boston Scientific*, CSI*, Medtronic*, Spectranetics*",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Stephen E. Fremes (AATS representative)",
+            "employment": "University of Toronto Schulich Heart Centre\u2014Cardiovascular Surgery Professor",
+            "consultant": "None",
+            "speakersBureau": "None",
+            "ownership": "None",
+            "personalResearch": "None",
+            "financialBenefit": "Bayer\u2021, Edwards\u2021, Medtronic\u2021",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Mario F. Gaudino",
+            "employment": "Weill Cornell Medicine Professor/Surgeon\u2014Cardiothoracic Surgery",
+            "consultant": "None",
+            "speakersBureau": "None",
+            "ownership": "None",
+            "personalResearch": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Zachary D. Goldberger",
+            "employment": "University of Wisconsin School of Medicine and Public Health\u2014Associate Professor of Medicine, Division of Cardiovascular Medicine/Electrophysiology; University of Wisconsin School of Medicine and Public Health\u2014Associate Program Director, Clinical Electrophysiology Fellowship",
+            "consultant": "None",
+            "speakersBureau": "None",
+            "ownership": "None",
+            "personalResearch": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Michael C. Grant",
+            "employment": "The Johns Hopkins Medical Institutions, The Armstrong Institute for Patient Safety and Quality\u2014Associate Professor, Divisions of Cardiothoracic Anesthesia, Surgical Critical Care and Acute Care Surgery and Core Faculty, Departments of Anesthesiology/Critical Care Medicine and Surgery",
+            "consultant": "None",
+            "speakersBureau": "None",
+            "ownership": "None",
+            "personalResearch": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Jang B. Jaswal",
+            "employment": "National Ambassador AHA (Patient Representative)",
+            "consultant": "None",
+            "speakersBureau": "None",
+            "ownership": "None",
+            "personalResearch": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Paul A. Kurkansly",
+            "employment": "Columbia University College of Physicians and Surgeons\u2014Associate Professor of Surgery, Division of Cardiothoracic Surgery; Columbia HeartSource\u2014Director of Research, Recruitment and COI; Center for Innovation and Outcomes Research\u2014Associate Director",
+            "consultant": "None",
+            "speakersBureau": "None",
+            "ownership": "None",
+            "personalResearch": "None",
+            "financialBenefit": "None",
+            "expertWitness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "authors": "Lawton et al.",
+        "date": "January 18, 2022",
+        "volume": "JACC Vol. 79, No. 2, 2022",
+        "appendix": "Appendix 1. Continued",
+        "summary": "The table highlights committee members' relationships with industry and other entities relevant to the guideline. It lists each member's employment, consultancy roles, speaking bureau affiliations, ownership interests, personal research funding, and other financial benefits. All relationships were meticulously reviewed and updated. Members are required to recuse themselves from voting on sections where specific relationships may apply. Special relationships like significant financial ones are noted specifically. There is a notation regarding Lorraine C. Nnach(sic), an AHA/ACC salaried employee advising on the guidelines."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2021 ACC/AHA/SCAI Guideline for Coronary Revascularization",
+        "appendix": "Appendix 2: Reviewer Relationships with Industry and Other Entities",
+        "date": "January 2021",
+        "authors": "Lawton et al.",
+        "journal": "JACC Vol. 79, No. 2, 2022",
+        "publication_date": "January 18, 2022",
+        "context": "The document lists reviewers for the 2021 guideline, their professional affiliations, and disclosures regarding industry relationships."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document_type": "clinical guideline",
+        "document_title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "journal": "JACC, Volume 79, Number 2, 2022",
+        "page": "e127",
+        "date": "January 18, 2022",
+        "appendix": "Appendix 2 continued",
+        "reviewers": [
+          {
+            "name": "Zachary D. Goldberger",
+            "representation": "Content Reviewer\u2014Joint Committee on Clinical Practice Guidelines",
+            "employment": "University of Wisconsin-Madison, School of Medicine and Public Health",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Bulent Gorenek",
+            "representation": "Content Reviewer\u2014Joint Committee on Clinical Practice Guidelines",
+            "employment": "Eskisehir Osmangazi University",
+            "consultant": "AstraZeneca, Sandoz",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Robert Guyton",
+            "representation": "Official Reviewer\u2014STS",
+            "employment": "Emory University",
+            "consultant": "Edwards Lifesciences",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "Edwards Lifesciences, NIH\u2021",
+            "benefit": "Boston Scientific,* Edwards Lifesciences,*\u2020 Medtronic\u2020",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Norissa Haynes",
+            "representation": "Content Reviewer\u2014Joint Committee on Clinical Practice Guidelines",
+            "employment": "University of Pennsylvania",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Adrian F. Hernandez",
+            "representation": "Content Reviewer\u2014Joint Committee on Clinical Practice Guidelines",
+            "employment": "Duke University",
+            "consultant": "Amgen, AstraZeneca,* Bayer, Boehringer Ingelheim, Boston Scientific,* Cytokinetics, Daiichi Sankyo, Eli Lilly, Merck,* Myokardia, Novartis,* Pfizer, Relypsa, Sanofi-aventis,* Xogenex",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "benefit": "American Regent, AstraZeneca,* Eidos (DSMB), CSL Behring, Genentech, GlaxoSmithKline,* Janssen Pharmaceuticals,* Merck, NIH,\u2020 Novartis,* PCORI,\u2020 Verily",
+            "expert_witness": "AHA,* AstraZeneca, Boston Scientific, Genentech, Rebyota, Sanofi-aventis, Defendant, Patent Dispute, 2019"
+          },
+          {
+            "name": "Jose A. Joglar",
+            "representation": "Content Reviewer\u2014Joint Committee on Clinical Practice Guidelines",
+            "employment": "UT Southwestern Medical Center",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "W. Schuyler Jones",
+            "representation": "Content Reviewer\u2014Joint Committee on Clinical Practice Guidelines",
+            "employment": "Duke University",
+            "consultant": "Amgen, Bayer, Janssen Pharmaceuticals,* Pfizer",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "benefit": "Bristol Myers Squibb,* PCORI",
+            "expert_witness": "Abbott,* Amgen, AstraZeneca, Boehringer Ingelheim, Cardiovascular Systems Inc.,* Janssen Pharmaceuticals, ZOLL Medical"
+          },
+          {
+            "name": "Andrew M. Kates",
+            "representation": "Content Reviewer\u2014ACC/AHA",
+            "employment": "Washington University School of Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Jim LoFaso",
+            "representation": "Lay Reviewer",
+            "employment": "Veeco; Solomon Page (Contractor)",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Thomas MacGillivray",
+            "representation": "Content Reviewer\u2014ACC/AHA",
+            "employment": "Houston Methodist Hospital",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "benefit": "None",
+            "expert_witness": "Xylocor Therapeutics\u2021"
+          },
+          {
+            "name": "Daniel B. Mark",
+            "representation": "Content Reviewer\u2014Joint Committee on Clinical Practice Guidelines",
+            "employment": "Duke University",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "HeartFlow,* Merck*",
+            "benefit": "HeartFlow,* Merck*",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Sara C. Martinez",
+            "representation": "Content Reviewer\u2014ACC",
+            "employment": "Providence Health and Services",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "benefit": "None",
+            "expert_witness": "Abiomed, Boston Scientific, Novartis, Maquet Cardiovascular"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "appendix": "APPENDIX 2. CONTINUED",
+        "details": [
+          {
+            "name": "Venu Menon",
+            "role": "Content Reviewer\u2014ACC/AHA",
+            "affiliation": "Cleveland Clinic",
+            "consultant": "None",
+            "ownership/partnership": "None",
+            "speakersBureau": "None",
+            "personalResearch": "None",
+            "institutionalOrOtherFinancialBenefit": "Novartis\u2020",
+            "expertWitness": "None"
+          },
+          {
+            "name": "L. Kristin Newby",
+            "role": "Content Reviewer\u2014ACC/AHA",
+            "affiliation": "Duke University",
+            "consultant": "Beckman-Coulter, Bristol-Myers Squibb, CSL, Medtronic, NHLBI, Quidel, Roche Diagnostics",
+            "ownership/partnership": "None",
+            "speakersBureau": "None",
+            "personalResearch": "None",
+            "institutionalOrOtherFinancialBenefit": "BioKier, BioIngelheim, ACC, AHA, AstraZeneca\u2020, Boehringer Ingelheim, David H. Murdock Institute, JACC, CDC, NIH\u2020, North Carolina DHHS",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Michelle O\u2019Donoghue",
+            "role": "Content Reviewer\u2014ACC/AHA",
+            "affiliation": "Brigham and Women's Hospital",
+            "consultant": "Amgen, CVS Caremark, Janssen Pharmaceuticals, Novartis",
+            "ownership/partnership": "None",
+            "speakersBureau": "None",
+            "personalResearch": "None",
+            "institutionalOrOtherFinancialBenefit": "Amgen\u2020, AstraZeneca\u2020 (DSMB*), Eisai\u2020, IntraC\u2020, Janssen Pharmaceuticals\u2020, The Medicines Company\u2020, Novartis\u2020, Kowa Pharmaceuticals",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Patrick T. O\u2019Gara",
+            "role": "Content Reviewer\u2014Joint Committee on Clinical Practice Guidelines",
+            "affiliation": "Brigham and Women's Hospital",
+            "consultant": "None",
+            "ownership/partnership": "None",
+            "speakersBureau": "None",
+            "personalResearch": "None",
+            "institutionalOrOtherFinancialBenefit": "Edwards Lifesciences\u2020, Medtronic\u2020",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Latha P. Palaniappan",
+            "role": "Content Reviewer\u2014Joint Committee on Clinical Practice Guidelines",
+            "affiliation": "Stanford Concierge and Executive Medicine",
+            "consultant": "National Minority Cardiovascular Alliance",
+            "ownership/partnership": "None",
+            "speakersBureau": "None",
+            "personalResearch": "None",
+            "institutionalOrOtherFinancialBenefit": "NIH\u2020",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Mariann R. Piano",
+            "role": "Content Reviewer\u2014Joint Committee on Clinical Practice Guidelines",
+            "affiliation": "Vanderbilt University",
+            "consultant": "None",
+            "ownership/partnership": "None",
+            "speakersBureau": "None",
+            "personalResearch": "None",
+            "institutionalOrOtherFinancialBenefit": "None",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Marc Ruel",
+            "role": "Official Reviewer\u2014AHA",
+            "affiliation": "University of Ottawa Heart Institute",
+            "consultant": "Edwards Lifesciences, Medtronic",
+            "ownership/partnership": "None",
+            "speakersBureau": "None",
+            "personalResearch": "None",
+            "institutionalOrOtherFinancialBenefit": "Cryolife\u2020, Medtronic\u2020",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Jorge F. Saucedo",
+            "role": "Official Reviewer\u2014AHA",
+            "affiliation": "Medical College of Wisconsin",
+            "consultant": "None",
+            "ownership/partnership": "None",
+            "speakersBureau": "None",
+            "personalResearch": "None",
+            "institutionalOrOtherFinancialBenefit": "B. Braun Interventional Systems Inc.",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Erica S. Spatz",
+            "role": "Content Reviewer\u2014Joint Committee on Clinical Practice Guidelines",
+            "affiliation": "Yale University School of Medicine",
+            "consultant": "None",
+            "ownership/partnership": "None",
+            "speakersBureau": "None",
+            "personalResearch": "None",
+            "institutionalOrOtherFinancialBenefit": "FDA\u2020",
+            "expertWitness": "None"
+          },
+          {
+            "name": "Elaine Tseng",
+            "role": "Content Reviewer\u2014ACC/AHA",
+            "affiliation": "University of California San Francisco and San Francisco VA Medical Center",
+            "consultant": "None",
+            "ownership/partnership": "None",
+            "speakersBureau": "None",
+            "personalResearch": "ReValve Med*",
+            "institutionalOrOtherFinancialBenefit": "NIH\u2020, AATS\u2020, AHA\u2020, Cryolife\u2020, Edwards Lifesciences, Journal of Heart Disease Valve\u2020, Medtronic\u2020, STS\u2020, University of California, Zimmer Biomet",
+            "expertWitness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+        "appendix": "Appendix 2. Continued",
+        "reviewers": [
+          {
+            "name": "Saraschandra Vallabhajosyula",
+            "representation": "Content Reviewer\u2013AHA",
+            "employment": "Emory University School of Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_or_other_financial_benefit": "NIH",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Y. Joseph Woo",
+            "representation": "Content Reviewer\u2013Joint Committee on Clinical Practice Guidelines",
+            "employment": "Stanford University School of Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "NIH",
+            "institutional_organizational_or_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Marco Zenati",
+            "representation": "Official Reviewer\u2013AATS",
+            "employment": "Harvard Medical School",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "NIH",
+            "institutional_organizational_or_other_financial_benefit": "None",
+            "expert_witness": "None"
+          }
+        ],
+        "notes": "Relationships with industry and other entities reported, definitions for disclosure categories available online."
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "P4502D6",
+      "Associated Conditions": [
+        "Operative death"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "One study found that, when compared with no preoperative beta blockers, noncytochrome P4502D6 metabolized agents (i.e., atenolol and sotalol) were associated with a lower incidence of operative death; however, P4502D6 metabolized agents (i.e., metoprolol, propranolol, carvedilol, and labetalol) were not."
+      ]
+    },
+    {
+      "Gene": "ST-segment elevation myocardial infarction",
+      "Associated Conditions": [
+        "coronary intervention",
+        "acute myocardial infarction"
+      ],
+      "Occurrences": 7,
+      "context": [
+        "Reperfusion by primary percutaneous coronary intervention in patients with ST-segment elevation myocardial infarction. Routine early angioplasty after fibrinolysis for ST-segment elevation myocardial infarction."
+      ]
+    },
+    {
+      "Gene": "Fibrinolysis",
+      "Associated Conditions": [
+        "ST-segment elevation myocardial infarction"
+      ],
+      "Occurrences": 5,
+      "context": [
+        "Routine early angioplasty after fibrinolysis for ST-segment elevation myocardial infarction. Fibrinolysis is compared with primary PCI in suspected ST-segment elevation myocardial infarction."
+      ]
+    },
+    {
+      "Gene": "N/A",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": [
+        ""
+      ]
+    }
+  ]
+}

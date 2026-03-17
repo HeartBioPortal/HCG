@@ -1,0 +1,31 @@
+{
+  "content": {
+    "Beta Blockers": {
+      "General Information": "Beta blockers are recommended for managing chronic coronary syndrome. They are used for heart failure, myocardial infarction with reduced ejection fraction, and for prolonging survival. The guidelines cite various studies reflecting their benefits on cardiovascular outcomes.",
+      "Clinical Studies": [
+        {
+          "Study": "1",
+          "Findings": "Effect of carvedilol on outcome after myocardial infarction in patients with left-ventricular dysfunction. Investigated in the CAPRICORN randomized trial."
+        },
+        {
+          "Study": "2",
+          "Findings": "Effect of beta-blocker therapy in patients with left ventricular systolic dysfunction after myocardial infarction. Studied by Jos JM, Kim YJ, Choi JH et al."
+        },
+        {
+          "Study": "3",
+          "Findings": "Beta-blockers in patients with severe chronic heart failure. Indicated the benefit of carvedilol in such patients."
+        },
+        {
+          "Study": "4",
+          "Findings": "COPERNICUS trial investigating the use of beta-blockers in chronic heart failure."
+        },
+        {
+          "Study": "5",
+          "Findings": "MERIT-HF study demonstrated the benefits of beta-blockers in chronic heart failure."
+        }
+      ]
+    },
+    "Additional Guidelines": "The document also references guidelines for the diagnosis and management of chronic coronary syndrome by various organizations including AHA/ACC and ESC."
+  },
+  "genes": []
+}

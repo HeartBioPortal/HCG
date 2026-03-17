@@ -1,0 +1,40 @@
+{
+  "content": {
+    "title": "Aortic Disease Guideline",
+    "journal": "JACC Vol. 80, No. 24, 2022",
+    "date": "December 13, 2022",
+    "summary": "This document is a clinical guideline focusing on the management and prevention of aortic aneurysms and aortic dissection. It includes discussions on the effects of various medications, lifestyle changes, and genetic considerations on aortic conditions.",
+    "sections": [
+      {
+        "title": "Medical Management of Sporadic and Degenerative Aortic Aneurysm Disease",
+        "focus": "General guidelines for secondary prevention in patients with coronary and other atherosclerotic vascular diseases."
+      },
+      {
+        "title": "Medical Management in the Sporadic TAA",
+        "focus": "Guidelines for the prevention, detection, evaluation, and management of high blood pressure in adults."
+      },
+      {
+        "title": "Treatment of TAA With Statins",
+        "focus": "Effectiveness and safety of statins in reducing low-density lipoprotein cholesterol."
+      },
+      {
+        "title": "Smoking Cessation in TAA",
+        "focus": "Guidelines and methods to aid in smoking cessation."
+      },
+      {
+        "title": "Antiplatelet Therapy in TAA",
+        "focus": "Measures and drugs recommended for secondary prevention in patients with coronary artery disease."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "FBN1",
+      "Associated Conditions": [
+        "Marfan syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Shore S, Berger KR, Murphy EA, et al. Progression of aortic dilatation and the benefit of long-term betaadrenergic blockade in Marfan's syndrome."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "content": {
+    "Title": "2020 ACC/AHA Guideline for the Management of Valvular Heart Disease",
+    "Section": "8.2. Tricuspid Regurgitation",
+    "Subsections": [
+      "8.2.1. Diagnosis of TR"
+    ],
+    "Stages of Tricuspid Regurgitation (TR)": {
+      "B": {
+        "Definition": "Progressive TR",
+        "Valve Hemodynamics": "Central jet \u226450% RA, Vena contracta width <0.7 cm, ERO <0.40 cm\u00b2, Regurgitant volume <45 mL",
+        "Hemodynamic Consequences": "None",
+        "Clinical Symptoms": "None"
+      },
+      "C": {
+        "Definition": "Asymptomatic severe TR",
+        "Valve Hemodynamics": "Central jet \u226550% RA, Vena contracta width \u22650.7 cm, ERO \u22650.40 cm\u00b2, Regurgitant volume \u226545 mL, Dense continuous wave signal with triangular shape, Hepatic vein systolic flow reversal",
+        "Hemodynamic Consequences": "Dilated RV and RA, Elevated RA with 'c-v' wave",
+        "Clinical Symptoms": "Elevated venous pressure, No symptoms"
+      },
+      "D": {
+        "Definition": "Symptomatic severe TR",
+        "Valve Hemodynamics": "Central jet \u226550% RA, Vena contracta width \u22650.7 cm, ERO \u22650.40 cm\u00b2, Regurgitant volume \u226545 mL, Dense continuous wave signal with triangular shape, Hepatic vein systolic flow reversal",
+        "Hemodynamic Consequences": "Dilated RV and RA, Elevated RA with 'c-v' wave",
+        "Clinical Symptoms": "Elevated venous pressure, Dyspnea on exertion, fatigue, ascites, edema"
+      }
+    },
+    "Recommendations for Diagnosis of TR": [
+      {
+        "COR": "1",
+        "LOE": "C-LD",
+        "Recommendation": "In patients with TR, TTE is indicated to evaluate the presence and severity of TR, determine the etiology, measure the sizes of the right-sided chambers and inferior vena cava, assess RV systolic function, estimate pulmonary artery systolic pressure, and characterize any associated left-sided heart disease."
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-LD",
+        "Recommendation": "In patients with TR, invasive measurement of the cardiac index, right-sided diastolic pressures, pulmonary artery pressures, and pulmonary vascular resistance, as well as right ventriculography, can be useful when clinical and noninvasive data are discordant or inadequate."
+      }
+    ],
+    "Synopsis": [
+      "TTE can determine the etiology of TR and its effect on the RV.",
+      "Cardiac catheterization is of clinical value if the information from TTE is inadequate or discordant with the clinical presentation."
+    ],
+    "Recommendation-Specific Supportive Text": [
+      "TTE can distinguish primary TR (abnormal valve leaflets) from secondary TR (normal valve leaflets), define any associated left-sided valvular or myocardial disease, and provide an estimate of pulmonary artery systolic pressure.",
+      "Characterization of the severity of TR relies on an integrative assessment of multiple parameters, as recommended by the American Society of Echocardiography and European Association of Echocardiography, but many limitations remain."
+    ],
+    "Additional Information": [
+      "In patients with TR undergoing left-sided valve surgery, annular diastolic diameter >40 mm indicates an increased risk of persistent or progressive TR after isolated mitral valve surgery.",
+      "Pulmonary artery systolic pressure is estimated from maximal TR velocity.",
+      "Assessment of RV systolic function is challenged by geometric and image acquisition constraints.",
+      "Normal RV systolic function is defined by several parameters, including tricuspid annular plane systolic excursion >16 mm, tricuspid valve systolic annular velocity >10.0 cm/s, and RV end-systolic area <20.0 cm\u00b2 or fractional area change >35%."
+    ]
+  },
+  "genes": []
+}

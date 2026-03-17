@@ -1,0 +1,54 @@
+{
+  "content": {
+    "Lipids": {
+      "LDL-C lowering": {
+        "Useful if LDL-C level is \u2265130 mg/dL, with multiple risk factors, and 10-year absolute CHD risk is 10%\u201320% (Class I; Level of Evidence B).": true,
+        "Useful if LDL-C level is \u2265160 mg/dL with multiple risk factors even if 10-year absolute CHD risk is <10% (Class I; Level of Evidence B).": true,
+        "Useful if LDL 190 mg/dL regardless of other risk factors or CVD (Class I; Level of Evidence B).": true,
+        "Statins could be considered in women >60 years with estimated CHD risk >10% and hsCRP >2 mg/dL (Class IIb; Level of Evidence B).": true
+      },
+      "HDL-C or elevated non\u2013HDL-C": {
+        "Niacin or fibrate therapy useful when HDL-C is low (<50 mg/dL) or non-HDL-C is elevated (>130 mg/dL) in high-risk women after LDL-C goal is reached (Class IIb; Level of Evidence B).": true
+      }
+    },
+    "Diabetes mellitus": {
+      "Lifestyle and pharmacotherapy can help women with diabetes reach HbA1c <7% if significant hypoglycemia can be avoided (Class I; Level of Evidence B).": true
+    },
+    "Preventive drug interventions": {
+      "Aspirin": {
+        "High-risk women": {
+          "75\u2013325 mg/d recommended unless contraindicated, alternative is clopidogrel (Class I; Level of Evidence A/B).": true
+        },
+        "Other at-risk or healthy women": {
+          "Use in women \u226565 if benefit outweighs risk (Class IIa; Level of Evidence B), reasonable for women <65 for ischemic stroke prevention (Class IIb; Level of Evidence B).": true
+        },
+        "Atrial fibrillation": {
+          "75\u2013325 mg for those with contraindications to warfarin or low stroke risk (Class I; Level of Evidence A).": true
+        }
+      },
+      "Warfarin": {
+        "Atrial fibrillation": {
+          "INR maintenance for chronic/paroxysmal AF unless low risk (Class I; Level of Evidence A).": true
+        }
+      },
+      "Dabigatran": {
+        "Atrial fibrillation": {
+          "Alternative to warfarin in certain conditions avoiding severe valve disease and more (Class I; Level of Evidence B).": true
+        }
+      },
+      "\u03b2-Blockers": {
+        "Use up to 12 months (Class I/IIa; Level of Evidence A/B) post-MI/ACS unless contraindicated.": true,
+        "Long-term used indefinitely for women with left ventricular failure unless contraindications are present (Class I; Level of Evidence A).": true,
+        "Could be considered in women with history of coronary/vascular disease and normal function (Class IIb; Level of Evidence C).": true
+      },
+      "ACE inhibitors/ARBs": {
+        "Use post-MI or with heart failure, LVEF \u226440%, or diabetes (Class I; Level of Evidence A/B).": true,
+        "ACE inhibitors contraindicated in pregnancy, caution advised in women who may become pregnant.": true
+      },
+      "Aldosterone blockade": {
+        "Post-MI in certain women, especially those with LVEF \u226440% (Class I; Level of Evidence B).": true
+      }
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,29 @@
+{
+  "content": {
+    "clinical_studies": [
+      {
+        "reference": 17,
+        "summary": "Coronary artery disease assessment before and after successful stent implantation can be improved by stress imaging results."
+      },
+      {
+        "reference": 19,
+        "summary": "Baseline stress myocardial perfusion imaging results and outcomes in stable ischemic heart disease patients who received coronary intervention."
+      },
+      {
+        "reference": 20,
+        "summary": "Ischemia on PET MPI is linked to improvement in angina and health status post-revascularization."
+      }
+    ],
+    "diagnostics": [
+      {
+        "reference": 29,
+        "summary": "Stress perfusion CMR is effective in patients with suspected CAD."
+      },
+      {
+        "reference": 37,
+        "summary": "PET MPI and its effectiveness in diagnosing CAD and its patterns."
+      }
+    ]
+  },
+  "genes": []
+}

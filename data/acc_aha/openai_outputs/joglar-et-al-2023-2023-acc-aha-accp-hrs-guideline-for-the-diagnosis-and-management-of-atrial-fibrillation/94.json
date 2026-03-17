@@ -1,0 +1,31 @@
+{
+  "content": {
+    "topics": [
+      {
+        "title": "Rhythm Control Strategies",
+        "details": "Rhythm control strategies improve AF ablation success and impact quality of life by reducing frequency and duration of AF episodes. Observational studies show improvement in quality of life with catheter ablation in older patients."
+      },
+      {
+        "title": "Antiarrhythmic Drug Approaches",
+        "details": "Trials suggest lower recurrence of symptomatic AF with catheter ablation compared to antiarrhythmic drugs. Examples include STOP-AF, Thermocoool trials where catheter ablation showed higher treatment success rates."
+      },
+      {
+        "title": "Paroxysmal AF and AFL",
+        "details": "Catheter ablation is shown as an effective treatment for paroxysmal AF and AFL, reducing the likelihood of recurrent arrhythmias compared to antiarrhythmic drugs."
+      },
+      {
+        "title": "AFL Ablation",
+        "details": "Effective due to its formation by specific anatomical structures, with acceptable success and complication rates. Importance of considering patient history of AF post-ablation."
+      },
+      {
+        "title": "Prophylactic Ablation",
+        "details": "Affects likelihood of recurrence in patients with both AF and AFL, potentially reducing risk when combined with indu cible SVT in patients."
+      },
+      {
+        "title": "Cryoballoon PVI",
+        "details": "Suggested as equally effective as the first-line treatment for AF, especially new-onset AF, when compared to standard CTI ablation."
+      }
+    ]
+  },
+  "genes": []
+}

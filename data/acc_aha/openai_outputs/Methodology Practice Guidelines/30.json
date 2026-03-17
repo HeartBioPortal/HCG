@@ -1,0 +1,116 @@
+{
+  "content": {
+    "title": "The Institute for Safe Medication Practices List of Error-Prone Abbreviations",
+    "table": [
+      {
+        "Abbreviation": "\u03bcg",
+        "Intended Meaning": "Microgram",
+        "Misinterpretation": "Mistaken as 'mg'",
+        "Correction": "Use 'mcg'"
+      },
+      {
+        "Abbreviation": "BT",
+        "Intended Meaning": "Bedtime",
+        "Misinterpretation": "Mistaken as 'BID' (twice daily)",
+        "Correction": "Use 'bedtime'"
+      },
+      {
+        "Abbreviation": "cc",
+        "Intended Meaning": "Cubic centimeters",
+        "Misinterpretation": "Mistaken as 'u' (units)",
+        "Correction": "Use mL"
+      },
+      {
+        "Abbreviation": "D/C",
+        "Intended Meaning": "Discharge or discontinue",
+        "Misinterpretation": "Premature discontinuation of medications if D/C is intended to mean 'discharge' has been misinterpreted as 'discontinued' when followed by a list of discharge medications",
+        "Correction": ""
+      },
+      {
+        "Abbreviation": "IJ",
+        "Intended Meaning": "Injection",
+        "Misinterpretation": "Mistaken as 'IV' or 'intrajugular'",
+        "Correction": "Use 'injection'"
+      },
+      {
+        "Abbreviation": "IU",
+        "Intended Meaning": "International unit",
+        "Misinterpretation": "Mistaken as IV (intravenous) or 10 (ten)",
+        "Correction": "Use 'units'"
+      },
+      {
+        "Abbreviation": "o.d. or OD",
+        "Intended Meaning": "Once daily",
+        "Misinterpretation": "Mistaken as 'right eye' (OD-oculus dexter), leading to an oral liquid medications administered to the eye",
+        "Correction": "Use 'daily'"
+      },
+      {
+        "Abbreviation": "Per os",
+        "Intended Meaning": "By mouth, orally",
+        "Misinterpretation": "The 'os' can be mistaken as 'left eye' (OS-oculus sinister)",
+        "Correction": ""
+      },
+      {
+        "Abbreviation": "q.d. or QD",
+        "Intended Meaning": "Every day",
+        "Misinterpretation": "Mistaken as q.i.d., especially if the period after the 'q' or the tail of the 'q' is misunderstood as an 'i'",
+        "Correction": "Use 'daily'"
+      },
+      {
+        "Abbreviation": "qhs",
+        "Intended Meaning": "At bedtime",
+        "Misinterpretation": "Mistaken as 'qhr' or every hour",
+        "Correction": "Use 'at bedtime'"
+      },
+      {
+        "Abbreviation": "qn",
+        "Intended Meaning": "Nightly",
+        "Misinterpretation": "Mistaken as 'qh' (every hour)",
+        "Correction": "Use 'nightly'"
+      },
+      {
+        "Abbreviation": "q.o.d. or QOD",
+        "Intended Meaning": "Every other day",
+        "Misinterpretation": "Mistaken as 'q.d.' (daily) or 'q.i.d. (four times daily) if the 'o' is poorly written",
+        "Correction": ""
+      },
+      {
+        "Abbreviation": "q1d",
+        "Intended Meaning": "Daily",
+        "Misinterpretation": "Mistaken as q.i.d. (four times daily)",
+        "Correction": "Use 'daily'"
+      },
+      {
+        "Abbreviation": "q6pm, etc.",
+        "Intended Meaning": "Every evening at 6 PM",
+        "Misinterpretation": "Mistaken as every 6 hours",
+        "Correction": "Use '6 PM nightly' or '6 PM daily'"
+      },
+      {
+        "Abbreviation": "SC, SQ, sub q",
+        "Intended Meaning": "Subcutaneous",
+        "Misinterpretation": "SC mistaken as SL (sublingual); SQ mistaken as '5 every'; the 'q' in 'sub q' has been mistaken as 'every' (e.g., a heparin dose ordered 'sub q 2 hours before surgery' misunderstood as every 2 hours before surgery)",
+        "Correction": "Use 'subcut' or 'subcutaneously'"
+      },
+      {
+        "Abbreviation": "t/d",
+        "Intended Meaning": "One daily",
+        "Misinterpretation": "Mistaken as 'tid'",
+        "Correction": "Use '1 daily'"
+      },
+      {
+        "Abbreviation": "TIW or tiw",
+        "Intended Meaning": "3 times a week",
+        "Misinterpretation": "Mistaken as '3 times a day' or 'twice a week'",
+        "Correction": "Use '3 times weekly'"
+      },
+      {
+        "Abbreviation": "U or u",
+        "Intended Meaning": "Unit",
+        "Misinterpretation": "Mistaken as the number 0 or 4, causing a 10-fold overdose or greater (e.g., 4U seen as '40' or 'greater')",
+        "Correction": "Use 'unit'"
+      }
+    ]
+  },
+  "genes": []
+}

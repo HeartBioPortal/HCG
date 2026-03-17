@@ -1,0 +1,40 @@
+{
+  "content": {
+    "Recommendations for Isolated PR After Repair of Pulmonary Stenosis": [
+      {
+        "COR": "I",
+        "LOE": "C-EO",
+        "Recommendation": "In symptomatic patients with moderate or greater PR resulting from treated isolated pulmonary stenosis, with RV dilation or RV dysfunction, pulmonary valve replacement is recommended."
+      },
+      {
+        "COR": "I",
+        "LOE": "C-EO",
+        "Recommendation": "For asymptomatic patients with residual PR resulting from treatment of isolated pulmonary stenosis with a dilated right ventricle, serial follow-up is recommended."
+      },
+      {
+        "COR": "IIb",
+        "LOE": "C-EO",
+        "Recommendation": "In asymptomatic patients with moderate or greater PR resulting from treatment of isolated pulmonary stenosis with progressive RV dilation and/or RV dysfunction, pulmonary valve replacement may be reasonable."
+      }
+    ],
+    "Recommendations for Branch and Peripheral Pulmonary Stenosis": [
+      {
+        "COR": "I",
+        "LOE": "B-NR",
+        "Recommendation": "For adults with peripheral or branch PS, ongoing surveillance is recommended."
+      },
+      {
+        "COR": "IIa",
+        "LOE": "B-NR",
+        "Recommendation": "In adults with peripheral or branch PA stenosis, PA dilation and stenting can be useful."
+      }
+    ],
+    "Synopsis": [
+      "Although many patients with valvular PS do not require intervention, some have PS that is severe enough to warrant intervention, often in infancy or childhood. PS can be alleviated by surgical valvotomy or with balloon valvuloplasty. Either surgical or catheter intervention may result in hemodynamically important PR that can result in symptoms, RV enlargement, and/or dysfunction requiring pulmonary valve replacement."
+    ],
+    "Recommendation-Specific Supportive Text": [
+      "Patients with isolated PS who have previously undergone an intervention on the pulmonary valve require ongoing clinical follow-up and monitoring of PR, RV size and function, and functional capacity. This may include echocardiography, CPET, and advanced imaging."
+    ]
+  },
+  "genes": []
+}

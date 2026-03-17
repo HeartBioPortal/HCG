@@ -1,0 +1,35 @@
+{
+  "content": {
+    "Publication": "JACC Vol. 84, No. 19, 2024",
+    "Date": "November 5, 2024",
+    "Main Topics": [
+      "Perioperative Cardiovascular Management for Noncardiac Surgery",
+      "Statin therapy and its impact on perioperative MACE",
+      "Statin use for patients undergoing vascular surgery"
+    ],
+    "Key Recommendations": [
+      {
+        "COR": "2b",
+        "LOE": "B-R",
+        "Recommendation": "Select* patients on chronic renin-angiotensin-aldosterone system inhibitors (RAASI) for hypertension undergoing elevated-risk NCS should omit 24 hours before surgery to limit intraoperative hypotension."
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-EO",
+        "Recommendation": "For patients on chronic RAASI for HFrEF, perioperative continuation is reasonable."
+      }
+    ],
+    "Synopsis": [
+      "ACEi and ARBs are widely used for their antihypertensive and cardiac benefits.",
+      "RCTs enrolled low- to intermediate-risk patients to evaluate RAASI safety and efficacy.",
+      "Intraoperative hypotension more common in patients continuing RAASI, yet continuation did not affect clinical outcomes substantially.",
+      "Larger RCTs are suggested for kidney function and stroke prevention."
+    ],
+    "Recommendation-Specific Supportive Text": [
+      "Omitting RAASI has been shown to reduce intraoperative hypotension but not overall clinical outcomes.",
+      "The PROPEP-ACEI study randomized patients to omit or continue ACEi before surgery, showing intraoperative hypotension less common with omission.",
+      "Meta-analysis involving patients with omitted or continued ACEi/ARB before surgery corroborate findings."
+    ]
+  },
+  "genes": []
+}

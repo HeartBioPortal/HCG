@@ -1,0 +1,13 @@
+{
+  "content": "This clinical guideline discusses the management and implications of high blood pressure across various scenarios, including kidney disease, cardiovascular risk, hypertension after renal transplantation, and associated conditions like nephropathy and chronic kidney disease. It references strategies for blood pressure control, outcomes of different treatment intensities, and their effects on cardiovascular and renal health.",
+  "genes": [
+    {
+      "Gene": "APOL1",
+      "Associated Conditions": [
+        "chronic kidney disease"
+      ],
+      "Occurrences": 1,
+      "context": "APOL1 is mentioned in relation to rapid decline in estimated glomerular filtration rate among black individuals and its role in predicting kidney disease progression."
+    }
+  ]
+}

@@ -1,0 +1,2432 @@
+{
+  "content": [
+    {
+      "content": {
+        "Title": "2013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction",
+        "Organization": "American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines",
+        "Collaboration": "American College of Emergency Physicians and Society for Cardiovascular Angiography and Interventions",
+        "Writing Committee Chair": "Patrick T. O'Gara, MD, FACC, FAHA",
+        "Vice Chair": "Frederick G. Kushner, MD, FACC, FAHA, FSCAI",
+        "Task Force Members": [
+          "Jeffrey L. Anderson, MD, FACC, FAHA",
+          "Alice K. Jacobs, MD, FACC, FAHA",
+          "Jonathan L. Halperin, MD, FACC, FAHA",
+          "Nancy M. Albert, PhD, CCNS, CCRN, FAHA",
+          "Ralph G. Brindis, MD, MPH, MACC",
+          "Mark A. Creager, MD, FACC, FAHA",
+          "David DeMets, PhD",
+          "Robert A. Guyton, MD, FACC, FAHA",
+          "Judith S. Hochman, MD, FACC, FAHA",
+          "Richard J. Kovacs, MD, FACC, FAHA",
+          "E. Magnus Ohman, MD, FACC",
+          "William G. Stevenson, MD, FACC, FAHA",
+          "Clyde W. Yancy, MD, FACC, FAHA"
+        ],
+        "Publication": "Journal of the American College of Cardiology, 2013"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2013 ACCF/AHA STEMI Guideline: Full Text",
+        "Sections": [
+          {
+            "Title": "Preamble",
+            "Page": "e80"
+          },
+          {
+            "Title": "Introduction",
+            "Subsections": [
+              {
+                "Title": "Methodology and Evidence Review",
+                "Page": "e82"
+              },
+              {
+                "Title": "Organization of the Writing Committee",
+                "Page": "e83"
+              },
+              {
+                "Title": "Document Review and Approval",
+                "Page": "e83"
+              }
+            ]
+          },
+          {
+            "Title": "Background",
+            "Subsections": [
+              {
+                "Title": "Definition and Diagnosis",
+                "Page": "e83"
+              },
+              {
+                "Title": "Epidemiology",
+                "Page": "e83"
+              },
+              {
+                "Title": "Early Risk Assessment",
+                "Page": "e85"
+              }
+            ]
+          },
+          {
+            "Title": "Onset of MI",
+            "Subsections": [
+              {
+                "Title": "Patient-Related Delays and Initial Treatment",
+                "Page": "e85"
+              },
+              {
+                "Title": "Mode of Transport to the Hospital",
+                "Page": "e85"
+              },
+              {
+                "Title": "Patient Education",
+                "Page": "e85"
+              },
+              {
+                "Title": "Community Preparedness and System Goals for Reperfusion Therapy",
+                "Subsections": [
+                  {
+                    "Title": "Regional Systems of STEMI Care, Reperfusion Therapy, and Time-to-Treatment Goals: Recommendations",
+                    "Page": "e85"
+                  },
+                  {
+                    "Title": "Strategies for Shortening Door-to-Device Times",
+                    "Page": "e86"
+                  }
+                ]
+              },
+              {
+                "Title": "Prehospital Fibrinolytic Therapy",
+                "Page": "e88"
+              },
+              {
+                "Title": "The Relationship Between Sudden Cardiac Death and STEMI",
+                "Subsections": [
+                  {
+                    "Title": "Evaluation and Management of Patients With STEMI and Out-of-Hospital Cardiac Arrest: Recommendations",
+                    "Page": "e89"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Title": "Reperfusion at a PCI-Capable Hospital",
+            "Subsections": [
+              {
+                "Title": "Primary PCI",
+                "Subsections": [
+                  {
+                    "Title": "Primary PCI in STEMI: Recommendations",
+                    "Page": "e90"
+                  }
+                ]
+              },
+              {
+                "Title": "Aspiration Thrombectomy: Recommendation",
+                "Page": "e91"
+              },
+              {
+                "Title": "Use of Stents in Primary PCI",
+                "Subsections": [
+                  {
+                    "Title": "Use of Stents in Patients With STEMI: Recommendations",
+                    "Page": "e91"
+                  }
+                ]
+              },
+              {
+                "Title": "Adjunctive Antithrombotic Therapy for Primary PCI",
+                "Subsections": [
+                  {
+                    "Title": "Antiplatelet Therapy to Support Primary PCI for STEMI: Recommendations",
+                    "Page": "e91"
+                  },
+                  {
+                    "Title": "Anticoagulant Therapy to Support Primary PCI: Recommendations",
+                    "Page": "e94"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Title": "Reperfusion at a Non\u2013PCI-Capable Hospital",
+            "Subsections": [
+              {
+                "Title": "Fibrinolytic Therapy When There Is an Anticipated Delay to Performing Primary PCI Within 120 Minutes of FMC",
+                "Page": "e94"
+              },
+              {
+                "Title": "Adjunctive Antithrombotic Therapy With Fibrinolysis",
+                "Subsections": [
+                  {
+                    "Title": "Adjunctive Antiplatelet Therapy With Fibrinolysis: Recommendations",
+                    "Page": "e95"
+                  },
+                  {
+                    "Title": "Adjunctive Anticoagulant Therapy With Fibrinolysis: Recommendations",
+                    "Page": "e96"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Title": "Assessment of Reperfusion After Fibrinolysis",
+            "Page": "e96"
+          },
+          {
+            "Title": "Transfer to a PCI-Capable Hospital After Fibrinolytic Therapy",
+            "Subsections": [
+              {
+                "Title": "Transfer of Patients With STEMI to a PCI-Capable Hospital for Coronary Angiography After Fibrinolytic Therapy: Recommendations",
+                "Pages": [
+                  "e97",
+                  "e98"
+                ]
+              }
+            ]
+          },
+          {
+            "Title": "Delayed Invasive Management",
+            "Subsections": [
+              {
+                "Title": "Coronary Angiography in Patients Who Initially Were Managed With Fibrinolytic Therapy or Who Did Not Receive Reperfusion: Recommendations",
+                "Pages": [
+                  "e99",
+                  "e100"
+                ]
+              },
+              {
+                "Title": "PCI of an Infarct Artery in Patients Initially Managed With Fibrinolysis or Who Did Not Receive Reperfusion Therapy: Recommendations",
+                "Page": "e100"
+              },
+              {
+                "Title": "PCI of a Noninfarct Artery Before Hospital Discharge: Recommendations",
+                "Page": "e101"
+              },
+              {
+                "Title": "Adjunctive Antithrombotic Therapy to Support Delayed PCI After Fibrinolytic Therapy",
+                "Subsections": [
+                  {
+                    "Title": "Antiplatelet Therapy to Support PCI After Fibrinolytic Therapy: Recommendations",
+                    "Page": "e101"
+                  },
+                  {
+                    "Title": "Anticoagulant Therapy to Support PCI After Fibrinolytic Therapy: Recommendations",
+                    "Page": "e103"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Title": "Coronary Artery Bypass Graft Surgery",
+            "Subsections": [
+              {
+                "Title": "CABG in Patients With STEMI: Recommendations",
+                "Page": "e103"
+              },
+              {
+                "Title": "Timing of Urgent CABG in Patients With STEMI in Relation to Use of Antiplatelet Agents: Recommendations",
+                "Page": "e103"
+              }
+            ]
+          },
+          {
+            "Title": "Routine Medical Therapies",
+            "Subsections": [
+              {
+                "Title": "Beta Blockers: Recommendations",
+                "Page": "e104"
+              },
+              {
+                "Title": "Renin-Angiotensin-Aldosterone System Inhibitors: Recommendations",
+                "Page": "e104"
+              },
+              {
+                "Title": "Lipid Management: Recommendations",
+                "Page": "e106"
+              },
+              {
+                "Title": "Nitrates",
+                "Page": "e106"
+              },
+              {
+                "Title": "Calcium Channel Blockers",
+                "Page": "e106"
+              },
+              {
+                "Title": "Oxygen",
+                "Page": "e106"
+              },
+              {
+                "Title": "Analgesics: Morphine, Nonsteroidal Anti-inflammatory Drugs, and Cyclooxygenase II Inhibitors",
+                "Page": "e107"
+              }
+            ]
+          },
+          {
+            "Title": "Complications After STEMI",
+            "Subsections": [
+              {
+                "Title": "Cardiogenic Shock",
+                "Subsections": [
+                  {
+                    "Title": "Treatment of Cardiogenic Shock: Recommendations",
+                    "Page": "e107"
+                  }
+                ]
+              },
+              {
+                "Title": "Severe HF",
+                "Page": "e107"
+              },
+              {
+                "Title": "RV Infarction",
+                "Page": "e107"
+              },
+              {
+                "Title": "Mechanical Complications",
+                "Subsections": [
+                  {
+                    "Title": "Diagnosis",
+                    "Page": "e108"
+                  },
+                  {
+                    "Title": "Mitral Regurgitation",
+                    "Page": "e108"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Preamble": "The medical profession evaluates evidence related to drugs, devices, and procedures for the detection, management, and prevention of disease. Properly applied, clinical practice guidelines can optimize patient outcomes, reduce costs, and provide foundations for other applications.",
+        "Guidelines and Recommendations": {
+          "General Information": "ACCF and AHA provide guidelines developed through a rigorous review process.",
+          "Purpose": "Guidelines are designed to improve patient care, optimize outcomes, and decrease unnecessary costs."
+        },
+        "Structure": {
+          "Thromboembolic and Bleeding Complications": {
+            "Focus": "Anticoagulation, heparin-induced thrombocytopenia."
+          },
+          "Posthospitalization Plan": {
+            "Focus": "Plan of care for STEMI patients, including lifestyle modifications and rehabilitation."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Class I Recommendations": {
+          "Benefit": "Greater than Risk",
+          "Procedure/Treatment": "Should be performed/administered"
+        },
+        "Class IIa Recommendations": {
+          "Benefit": "Greater than Risk",
+          "Procedure/Treatment": "Reasonable to perform/administer"
+        },
+        "Class IIb Recommendations": {
+          "Benefit": "Greater than Risk",
+          "Procedure/Treatment": "May be considered"
+        },
+        "Class III Recommendations": {
+          "Benefit": "No Benefit or Harm",
+          "Procedure/Treatment": "Not recommended",
+          "Context": "Some recommendations associated with harm"
+        },
+        "Level of Evidence A": {
+          "Population": "Multiple populations evaluated",
+          "Data": "Randomized clinical trials or meta-analyses"
+        },
+        "Level of Evidence B": {
+          "Population": "Limited populations evaluated",
+          "Data": "Randomized or nonrandomized studies"
+        },
+        "Level of Evidence C": {
+          "Population": "Very limited populations evaluated",
+          "Data": "Expert opinion, case studies, or standard of care"
+        },
+        "Additional Notes": [
+          "Recommendations for certain conditions are based on expert consensus and clinical experience where adequate data are unavailable.",
+          "Survey of current practice is used for Class C recommendations.",
+          "Class III recommendations are divided by 'no benefit' or harm."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "intended_audience": "Healthcare providers in North America.",
+        "purpose": "Assist healthcare providers in clinical decision making for diagnosis, management, and prevention of diseases.",
+        "practice_guidelines": "Discuss practices that meet the needs of most patients and provide flexibility when deviations are needed.",
+        "transparency_measures": "Comprehensive disclosure information and reliance on RWI for guideline adherence.",
+        "evidence_review": "Extensive evidence review conducted, including studies up to November 2010."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview": "The guideline focuses on the management of patients with ST-elevation myocardial infarction (STEMI). It highlights advances in reperfusion therapy, organization of care systems, care-transfer algorithms, and secondary prevention strategies. The document emphasizes patient-centered care and provides guidance on various STEMI-related topics.",
+        "Definitions": "STEMI is characterized by symptoms of myocardial ischemia with ST elevation on ECG, not explained by causes like LV hypertrophy or LBBB. Criteria for diagnosis include new ST elevation in specific leads or the presence of a new LBBB.",
+        "Epidemiology": "Approximately 683,000 patients with acute coronary syndrome were discharged from U.S. hospitals in 2009. STEMI rates have declined, while non-ST-elevation ACS rates have increased. STEMI accounts for 25% to 40% of MI presentations, with 30-day and 1-year mortality rates from STEMI at about 7% to 18%.",
+        "Diagnosis": "Baseline ECG abnormalities can obscure interpretation. Additional tools like transthoracic echocardiography and invasive angiography may be necessary. Cardiac troponin is the preferred biomarker for MI."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Women with STEMI had a higher risk of failure to receive reperfusion therapy due to delays and risks associated with antithrombotic therapy. Disparities in treatment among racial and ethnic minorities showed improvement over time. Patients with diabetes mellitus face higher risks post-STEMI, often associated with longer hospital stays and worse outcomes. Management should focus on glycemic control and account for impaired renal function in the elderly to improve outcomes. Analysis from various registries emphasizes the need for guideline-recommended interventions to lessen disparities and improve care, particularly in patients with chronic kidney disease.": []
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Early Risk Assessment": "Global risk assessment predicts patient outcomes, evaluating factors like the Killip class, time to reperfusion, cardiac arrest, and more. Tools like the TIMI and GRACE models help assess risk in acute coronary syndrome (ACS) patients.",
+        "Onset of MI": "Patients often delay seeking care after symptoms appear. About one-third with myocardial infarction have atypical symptoms. Key reasons for delay include misattribution of symptoms and fear of embarrassment.",
+        "Mode of Transport": "Patients should call for emergency medical services (EMS) for transportation to reduce mortality rates. Utilization of EMS reduces reperfusion times and mortality.",
+        "Patient Education": "The 'Act in Time' campaign promotes recognizing heart attack symptoms, crafting survival plans, and risk reduction. Materials are available online.",
+        "Community and System Goals": "Communities need to establish regional systems for continuous quality improvement in STEMI management and coordination of EMS."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "STEMI Patients": "The guideline focuses on patients with STEMI (ST-Elevation Myocardial Infarction) and their possible reperfusion strategies.",
+        "Initial Assessment": "Patients are initially assessed to determine if they are candidates for reperfusion.",
+        "PCI-Capable Hospital": "Patients at a PCI-capable hospital should be sent to the cath lab for primary PCI if the FMC-to-device time is \u226490 min.",
+        "Non\u2013PCI-Capable Hospital": "Patients at a non\u2013PCI-capable hospital should be transferred for primary PCI with a FMC-to-device time of \u2264120 min, or treated with fibrinolytic agents within 30 min if transfer time exceeds 120 min.",
+        "Reperfusion Therapy": "Reperfusion therapy is recommended for all eligible patients with STEMI within 12 hours of symptom onset.",
+        "Electrocardiography": "A 12-lead ECG by EMS personnel is recommended for symptom consistent with STEMI.",
+        "Evidence and Recommendations": "The guideline provides evidence levels and classes of recommendation for various strategies."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The guideline focuses on optimizing treatment for patients with ST elevation myocardial infarction (STEMI), particularly the timing of reperfusion therapy. It emphasizes the importance of reducing door-to-device times to improve patient outcomes and suggests integrating new protocols to facilitate hospital processes and emergency responses. This includes the necessity for prompt transfer to PCI-capable hospitals and the consideration of fibrinolytic therapy when delays are unavoidable. The document discusses the challenges faced by hospitals in meeting the recommended 90 minutes door-to-balloon time and provides strategies like Mission: Lifeline and other initiatives to ensure timely reperfusion.",
+        "key_points": [
+          "Emphasis on timely reperfusion being more critical than therapy choice.",
+          "ACC's 2006 initiative to improve door-to-device times."
+        ],
+        "strategies": [
+          "Mission: Lifeline aimed at improving system readiness.",
+          "Patient education, improvements in EMS and ED care."
+        ],
+        "factors_for_therapy_selection": [
+          "Time since symptom onset.",
+          "Risk of bleeding from fibrinolysis.",
+          "Presence of shock or severe heart failure (HF).",
+          "Time needed for transfer to a PCI-capable hospital."
+        ],
+        "findings": [
+          "Transferring patients within 90 minutes improves outcomes.",
+          "Reducing door-to-device time to \u226490 minutes in clinical settings."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Focus": "The guideline discusses strategies for reducing door-to-balloon (D2B) times in patients undergoing primary PCI for STEMI.",
+        "Key Points": [
+          "In-hospital transfer within 120 minutes of FMC is recommended for PCI-capable hospitals.",
+          "Fibrinolytic therapy should be administered if first door arrival exceeds 120 minutes.",
+          "Median door-in\u2013door-out time was 68 minutes (interquartile range, 43 to 120 minutes).",
+          "Strategies are suggested for consistently achieving PCI transfer within the recommended times.",
+          "Focus on processes of care at top-performing institutions to reduce delays.",
+          "Importance of hospital attributes like management support, use of innovative protocols, and feedback.",
+          "Almost 90% of patients presenting to a PCI-capable hospital have D2B times \u226490 minutes."
+        ],
+        "Recommendations": [
+          "Implement a consistent standard across hospitals for early recognition, transport, and treatment of STEMI patients.",
+          "Have a focused commitment to reducing D2B times and improving system processes."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Prehospital Fibrinolytic Therapy": "Administration of prehospital fibrinolytic therapy by trained EMS personnel or physicians can reduce the time from symptom onset to treatment, especially in rural areas. It has been shown to decrease treatment times and reduce mortality. While not commonly used in the U.S., it is more widespread in Europe and the UK.",
+        "Sudden Cardiac Death and STEMI": {
+          "Therapeutic Hypothermia": "It is recommended as soon as possible in comatose patients with STEMI and out-of-hospital cardiac arrest caused by VF or pulseless VT. Hypothermia should be maintained at 32\u00b0C to 34\u00b0C for 12-24 hours starting minutes to hours after circulation is restored to improve neurological outcomes.",
+          "Immediate Angiography and PCI": "These should be performed in resuscitated out-of-hospital cardiac arrest patients whose initial ECG shows STEMI."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2013 ACCF/AHA STEMI Guideline: Full Text",
+        "section": "4. Reperfusion at a PCI-Capable Hospital",
+        "subsection": "4.1. Primary PCI",
+        "recommendations": [
+          {
+            "class": "I",
+            "details": [
+              "Primary PCI should be performed in patients with STEMI and ischemic symptoms of less than 12 hours\u2019 duration (82,208,209).",
+              "Primary PCI should be performed in patients with STEMI and ischemic symptoms of less than 12 hours\u2019 duration who have contraindications to fibrinolytic therapy, irrespective of the time delay from FMC (210,211).",
+              "Primary PCI should be performed in patients with STEMI and cardiogenic shock or acute severe HF, irrespective of time delay from MI onset (Section 9.1.1) (212\u2013215)."
+            ],
+            "evidence": "Level of Evidence: A"
+          },
+          {
+            "class": "IIa",
+            "details": [
+              "Primary PCI is reasonable in patients with STEMI if there is clinical and/or ECG evidence of ongoing ischemia between 12 and 24 hours after symptom onset (94,95)."
+            ],
+            "evidence": "Level of Evidence: B"
+          },
+          {
+            "class": "III: Harm",
+            "details": [
+              "PCI should not be performed in a noninfarct artery at the time of primary PCI in patients with STEMI who are hemodynamically stable (216\u2013218)."
+            ],
+            "evidence": "Level of Evidence: B"
+          }
+        ],
+        "notes": [
+          "Primary PCI is preferred over fibrinolytic therapy when timely intervention is achievable in a well-equipped center.",
+          "Primary PCI should avoid noninfarct artery intervention during hemodynamic stability to prevent complications.",
+          "Potential complications include issues related to arterial access, medications, and reperfusion events."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "main_topics": [
+          "Use of stents in primary PCI for patients with STEMI.",
+          "Manual aspiration thrombectomy in primary PCI.",
+          "Adjunctive antithrombotic therapy for primary PCI."
+        ],
+        "recommendations": {
+          "use_of_stents": {
+            "BMS_DES_stents": "Recommended for patients with STEMI. Level of Evidence: A.",
+            "BMS_usage": "Should be used in patients with high bleeding risk. Level of Evidence: C.",
+            "DES_usage": "Not recommended for primary PCI in patients with STEMI who are unable to tolerate or comply with prolonged course of DAPT. Level of Evidence: B."
+          },
+          "aspiration_thrombectomy": {
+            "recommendation": "Reasonable for patients undergoing primary PCI. Level of Evidence: B.",
+            "supporting_evidence": "RCTs and meta-analysis support its use to improve reperfusion and decrease adverse cardiac events."
+          },
+          "adjunctive_antithrombotic_therapy": {
+            "aspirin": "Aspirin 162 to 325 mg should be given before primary PCI. Level of Evidence: B.",
+            "post_PCI_aspirin": "Should be continued indefinitely. Level of Evidence: A.",
+            "P2Y12_inhibitor": {
+              "loading_dose": "Should be given as early as possible during PCI to patients with STEMI.",
+              "options": {
+                "Clopidogrel": "600 mg.",
+                "Prasugrel": "60 mg.",
+                "Ticagrelor": "180 mg."
+              },
+              "continuation": "Should be given for 1 year to patients with DES or BMS."
+            }
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Adjuvant Antithrombotic Therapy to Support Reperfusion With Primary PCI",
+        "antiplatelet_therapy": {
+          "aspirin": {
+            "dosing": "162- to 325-mg load before procedure; 81- to 325-mg daily maintenance",
+            "notes": "81 mg daily is the preferred maintenance dose",
+            "class_of_recommendation": "I, I, IIa",
+            "level_of_evidence": "B, A, B",
+            "references": "251-253, 254,255,257, 253,254,263,264"
+          },
+          "p2y12_inhibitors": {
+            "loading_doses": {
+              "clopidogrel": "600 mg at time of PCI",
+              "prasugrel": "60 mg at time of PCI",
+              "ticagrelor": "180 mg at time of PCI",
+              "class_of_recommendation": "I, I, I",
+              "level_of_evidence": "B, B, B",
+              "references": "253,258,259, 260, 261"
+            },
+            "maintenance_doses": {
+              "des_placed": {
+                "clopidogrel": "75 mg daily",
+                "prasugrel": "10 mg daily",
+                "ticagrelor": "90 mg twice a day",
+                "class_of_recommendation": "I, I, I",
+                "level_of_evidence": "B, B, B",
+                "references": "260,262, 262, 261"
+              },
+              "bmst_placed": {
+                "clopidogrel": "75 mg daily",
+                "prasugrel": "10 mg daily",
+                "ticagrelor": "90 mg twice a day",
+                "class_of_recommendation": "I, I, I",
+                "level_of_evidence": "B, B, B",
+                "references": "260,262, 262, 261"
+              }
+            },
+            "extended_therapy": {
+              "only": "clopidogrel, prasugrel, or ticagrelor",
+              "class_of_recommendation": "IIb, III",
+              "level_of_evidence": "C, Harm",
+              "references": "N/A, 260"
+            }
+          },
+          "iv_gp_iiib_iiia_receptor_antagonists": {
+            "abciximab": "0.25-mg/kg IV bolus, then 0.125 mcg/kg/min",
+            "tirofiban": "25-mcg/kg IV bolus, then 0.15 mcg/kg/min",
+            "eptifibatide": "180-mcg/kg bolus; second bolus 10 min after first",
+            "class_of_recommendation": "IIa, IIa, IIa",
+            "level_of_evidence": "A, B, B",
+            "references": "265-267, 268,269, 270",
+            "notes": "Certain conditions for infusion rate and procedures prior to catheterization"
+          }
+        },
+        "anticoagulant_therapy": {
+          "ufh": {
+            "dosing": [
+              "with GP IIb/IIIa receptor antagonist: 50- to 70-U/kg IV bolus",
+              "without GP IIb/IIIa receptor antagonist: 70- to 100-U/kg bolus"
+            ],
+            "class_of_recommendation": "I, I",
+            "level_of_evidence": "C, C",
+            "references": "N/A, N/A",
+            "additional_notes": "Reduce infusion if CrCl <30 mL/min"
+          },
+          "bivalirudin": {
+            "dosing": "0.75-mg/kg IV bolus, then 1.75-mg/kg/h infusion",
+            "class_of_recommendation": "I",
+            "level_of_evidence": "B",
+            "references": "248"
+          },
+          "fondaparinux": {
+            "note": "Not recommended as sole anticoagulant for primary PCI",
+            "class_of_recommendation": "III",
+            "level_of_evidence": "Harm",
+            "references": "304"
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clopidogrel 75 mg daily": "260,262",
+        "Prasugrel 10 mg daily": "262",
+        "Ticagrelor 90 mg twice a day": "261",
+        "Recommendation for aspirin": "81 mg after PCI",
+        "Use of GP IIb/IIIa receptor antagonists": {
+          "Intravenous GP IIb/IIIa": "265\u2013267",
+          "Upstream agents": [
+            "268",
+            "269"
+          ]
+        },
+        "Considerations for DES placement": "P2Y12 inhibitor continuation beyond 1 year",
+        "Limitations for prasugrel": "not for patients with a history of stroke or TIA"
+      },
+      "genes": [
+        {
+          "Gene": "CYP2C19",
+          "Associated Conditions": [
+            "reduced-function allele affecting clopidogrel metabolism",
+            "Clopidogrel resistance",
+            "Recurrent stroke",
+            "Transient ischemic attack",
+            "ST-elevation myocardial infarction"
+          ],
+          "Occurrences": 4,
+          "context": "The antiplatelet response to clopidogrel may vary as a function of patient phenotype, hepatic CYP450 enzyme system polymorphisms (predominantly CYP 2C19*2), which can result in diminished platelet inhibition and increased risks of major adverse cardiovascular events and stent thrombosis."
+        },
+        {
+          "Gene": "CYP450",
+          "Associated Conditions": [
+            "affects clopidogrel biotransformation"
+          ],
+          "Occurrences": 2,
+          "context": "The antiplatelet response to clopidogrel may vary as a function of patient phenotype (obesity, diabetes mellitus), enteric ABCB 1 polymorphisms, hepatic CYP450 enzyme system polymorphisms."
+        }
+      ]
+    },
+    {
+      "content": {
+        "general_information": "The document discusses anticoagulant and reperfusion therapy for patients with STEMI undergoing primary PCI. It emphasizes the importance of selecting appropriate anticoagulants to minimize bleeding risks while maintaining efficacy. Recommendations include specific usage of UFH, bivalirudin, and alternatives for non-PCI-capable hospitals. The potential interactions and considerations in selecting antiplatelet agents like tricagrelor are also outlined."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Indications for Fibrinolytic Therapy": "Fibrinolytic therapy is indicated for patients with STEMI in the absence of contraindications and when PCI cannot be performed within 120 minutes. It is particularly recommended for patients presenting symptoms within 12 to 24 hours with a large area of myocardium at risk.",
+        "Contraindications": "Fibrinolytic therapy should not be administered to patients with ST depression except if a true posterior (infrabasal) MI is suspected or associated with ST elevation in lead aVR.",
+        "Timing": "The benefits of fibrinolytic therapy are well established within the initial 12 hours after symptom onset. Immediate delivery may be advantageous when there is a delay to primary PCI.",
+        "Choice of Fibrinolytic Agent": "Fibrin-specific agents are preferred. Table 5 lists various agents with tenecteplase having the highest fibrin specificity and patency rate.",
+        "Adjunctive Antithrombotic Therapy": "Aspirin and clopidogrel are recommended for patients receiving fibrinolytic therapy. Aspirin is to be administered with a loading dose and continued indefinitely, while clopidogrel is to be continued for at least 14 days."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2013 ACCF/AHA STEMI Guideline: Full Text",
+        "Section": [
+          {
+            "Name": "Table 6. Contraindications and Cautions for Fibrinolytic Therapy in STEMI",
+            "Contraindications": {
+              "Absolute": [
+                "Any prior ICH",
+                "Known structural cerebral vascular lesion",
+                "Known malignant intracranial neoplasm",
+                "Ischemic stroke within 3 months except acute ischemic stroke within 4.5 hrs",
+                "Suspected aortic dissection",
+                "Active bleeding or bleeding diathesis",
+                "Significant closed-head or facial trauma within 3 months",
+                "Intracranial or intraspinal surgery within 2 months",
+                "Severe uncontrolled hypertension",
+                "For streptokinase, prior treatment within the previous 6 months"
+              ],
+              "Relative": [
+                "History of chronic, severe, poorly controlled hypertension",
+                "Significant hypertension on presentation",
+                "History of prior ischemic stroke > 3 months",
+                "Dementia",
+                "Known intracranial pathology not covered under absolute contraindications",
+                "Traumatic or prolonged CPR",
+                "Major surgery < 3 weeks",
+                "Recent internal bleeding",
+                "Noncompressible vascular punctures",
+                "Pregnancy",
+                "Active peptic ulcer",
+                "Oral anticoagulant therapy"
+              ]
+            }
+          },
+          {
+            "Name": "5.1.4.2. Adjunctive Anticoagulant Therapy with Fibrinolysis",
+            "Recommendations": [
+              {
+                "Class": "I",
+                "Details": "Patients with STEMI undergoing reperfusion with fibrinolytic therapy should receive anticoagulant therapy for a minimum of 48 hours, and preferably for the duration of the index hospitalization."
+              }
+            ]
+          },
+          {
+            "Name": "Anticoagulation",
+            "Details": "Anticoagulation is recommended in support of fibrin-specific therapy to improve vessel patency and prevent reocclusion. UFH, Enoxaparin, and Fondaparinux are mentioned regarding their administration."
+          },
+          {
+            "Name": "5.2. Assessment of Reperfusion after Fibrinolysis",
+            "Details": "TIMI 3 flow is highly indicative of successful reperfusion. Less than 70% resolution of ST elevation and the absence of reperfusion arrhythmias are associated with worse prognosis."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Antiplatelet therapy": {
+          "Aspirin": {
+            "Loading dose": "162 to 325-mg",
+            "Maintenance dose": "81 to 325-mg daily (indefinite)",
+            "Preferred maintenance dose": "81 mg daily"
+          },
+          "P2Y12 receptor inhibitors": {
+            "Clopidogrel": {
+              "Age \u226475": "300-mg loading dose, followed by 75 mg daily for at least 14 d and up to 1 y in absence of bleeding",
+              "Age >75": "No loading dose, give 75 mg, followed by 75 mg daily for at least 14 d and up to 1 y in absence of bleeding"
+            }
+          }
+        },
+        "Anticoagulant therapy": {
+          "UFH": "Weight-based IV bolus and infusion to adjust aPTT",
+          "Enoxaparin": {
+            "Age <75": "30-mg IV bolus followed by 1 mg/kg subcutaneously every 12 h",
+            "Age \u226575": "No bolus, 0.75 mg/kg subcutaneously every 12 h",
+            "CrCl <30 mL/min": "1 mg/kg subcutaneously every 24 h"
+          },
+          "Fondaparinux": {
+            "Initial dose": "2.5 mg IV then 2.5 mg subcutaneously daily",
+            "Contraindicated": "CrCl <30 mL/min"
+          }
+        },
+        "Transfer to a PCI-Capable Hospital": {
+          "Recommendations": {
+            "Immediate transfer for cardiogenic shock or acute severe HF": "irrespective of time delay from MI onset"
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "text": "The clinical guideline discusses the transfer and intervention strategies for patients with cardiogenic shock and those who fail fibrinolytic therapy. It highlights the benefits of coronary angiography and revascularization, particularly in patients with persistent or severe symptoms after initial treatment. The SHOCK trial emphasizes immediate medical stabilization and revascularization, demonstrating better outcomes than delayed procedures. The necessity of routine early coronary angiography post-fibrinolytic therapy is discussed, especially in non-PCI-capable hospitals. The REACT and TRANSFER-AMI trials showed improved outcomes with early intervention strategies. Routine transfer for PCI after fibrinolytic therapy reduces mortality and re-infarction risks."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Figure": "The figure depicts the results of trials comparing routine early catheterization after fibrinolytic therapy with either an ischemia-driven approach or routine delayed catheterization. Different trials and their endpoints, including arrhythmia, death, myocardial infarction, and stroke, are shown. The y-axis represents the percentage of patients experiencing at least one of the clinical trial endpoints.",
+        "Study Comparisons": "Trials compared include SIAM-3, GRACIA-1, CAPITAL-AMI, CARESS-in-AMI, WEST, TRANSFER-AMI, and NORDISTEMI. The comparison focuses on routine early catheterization vs. ischemia-driven (or delayed) catheterization after fibrinolytic therapy.",
+        "Meta-analysis": "Included 7 RCTs of early transfer for catheterization, showing a statistically significant reduction in death or MI at 30 days and 1 year without increased major bleeding.",
+        "Recommendation": "During stable cases, catheterization can be considered part of a routine pharmacoinvasive approach >24 hours after fibrinolytic therapy for patients not transferred immediately."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "The 2013 ACCF/AHA STEMI Guideline provides recommendations for coronary angiography in patients with STEMI who were managed with fibrinolytic therapy or did not receive reperfusion therapy.",
+        "key_points": [
+          "Class I recommendations involve performing cardiac catheterization and coronary angiography if the patient has cardiogenic shock or acute severe HF, intermediate/high-risk findings on testing, or myocardial ischemia.",
+          "Class IIa recommendations include performing angiography for failed reperfusion or reocclusion after fibrinolytic therapy and before hospital discharge in stable patients.",
+          "Delayed PCI is recommended for significant stenosis in certain cases if it can be performed soon after fibrinolytic therapy or within specific time frames."
+        ],
+        "references": [
+          "215, 354, 372, 373",
+          "232, 233",
+          "358, 363, 374"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "table": "Indications for PCI of an Infarct Artery in Patients Who Were Managed With Fibrinolytic Therapy or Who Did Not Receive Reperfusion",
+        "class I indication": "PCI is indicated in a noninfarct artery at a time separate from primary PCI in patients who have spontaneous symptoms of myocardial ischemia.",
+        "class IIa indication": "PCI is reasonable in a noninfarct artery at a time separate from primary PCI in patients with intermediate- or high-risk findings on noninvasive testing.",
+        "class III indication": "Delayed PCI of a totally occluded infarct artery >24 h after STEMI in stable patients is not beneficial.",
+        "adjunctive antithrombotic therapy": "Selection of therapy should consider the fibrinolytic agent used, administration timing, and patient age due to risks such as bleeding and ICH.",
+        "specific antiplatelet therapy recommendations": {
+          "aspirin": "Continue indefinitely.",
+          "clopidogrel": {
+            "300-mg loading dose": "For patients with PCI within 24 hours who did not receive a previous loading dose.",
+            "600-mg loading dose": "For patients with PCI more than 24 hours who did not receive a previous loading dose."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Adjunctive Antithrombotic Therapy to Support PCI After Fibrinolytic Therapy",
+        "antiplatelet_therapy": {
+          "aspirin": {
+            "loading_dose": {
+              "amount": "162 to 325-mg",
+              "timing": "given with fibrinolytic agent (before PCI)",
+              "COR": "I",
+              "LOE": "A",
+              "references": [
+                "308",
+                "330",
+                "331"
+              ]
+            },
+            "maintenance_dose": {
+              "amount": "81 to 325-mg",
+              "timing": "after PCI (indefinite)",
+              "COR": "I",
+              "LOE": "A",
+              "references": [
+                "253",
+                "254",
+                "257",
+                "259",
+                "330",
+                "331"
+              ]
+            },
+            "preferred_daily_dose": {
+              "amount": "81 mg",
+              "context": "preferred daily maintenance dose",
+              "COR": "IIa",
+              "LOE": "B",
+              "references": [
+                "253",
+                "259",
+                "263",
+                "264"
+              ]
+            }
+          },
+          "P2Y12_receptor_inhibitors": {
+            "loading_doses": {
+              "for_patients_with_previous_clopidogrel": {
+                "dose": "Continue clopidogrel 75 mg daily without an additional loading dose",
+                "COR": "I",
+                "LOE": "C",
+                "references": [
+                  "260",
+                  "262",
+                  "330",
+                  "331"
+                ]
+              },
+              "for_patients_without_previous_clopidogrel": [
+                {
+                  "condition": "PCI performed <=24 h after fibrinolytic therapy",
+                  "clopidogrel_dose": "300-mg loading dose",
+                  "COR": "I",
+                  "LOE": "C"
+                },
+                {
+                  "condition": "PCI performed >24 h after fibrinolytic therapy",
+                  "clopidogrel_dose": "600-mg loading dose",
+                  "COR": "I",
+                  "LOE": "C"
+                },
+                {
+                  "condition": "PCI performed >24 h after treatment with fibrin-specific or >48 h after a non\u2013fibrin-specific agent",
+                  "prasugrel_dose": "60 mg at the time of PCI",
+                  "COR": "IIa",
+                  "LOE": "B",
+                  "references": [
+                    "260",
+                    "262"
+                  ]
+                }
+              ],
+              "patients_with_prior_stroke/TIA": {
+                "drug": "prasugrel",
+                "classification": "Harm",
+                "COR": "III",
+                "LOE": "B",
+                "references": [
+                  "260"
+                ]
+              }
+            }
+          },
+          "maintenance_doses": {
+            "DES": {
+              "clopidogrel_dose": "75 mg daily",
+              "COR": "I",
+              "LOE": "C",
+              "references": [
+                "260",
+                "262",
+                "330",
+                "331"
+              ]
+            },
+            "prasugrel": {
+              "dose": "10 mg daily",
+              "COR": "IIa",
+              "LOE": "B",
+              "references": [
+                "260",
+                "262"
+              ]
+            },
+            "BMS": {
+              "description": "Continue therapy for at least 30 d and up to 1 y",
+              "clopidogrel_dose": "75 mg daily",
+              "COR": "I",
+              "LOE": "C",
+              "references": [
+                "330",
+                "331"
+              ]
+            }
+          }
+        },
+        "anticoagulant_therapy": {
+          "UFH": {
+            "description": "Continue UFH through PCI, administering additional IV boluses as needed to maintain therapeutic ACT.",
+            "COR": "I",
+            "LOE": "C"
+          },
+          "enoxaparin": {
+            "description": "Continue through PCI with no additional drug if last dose within previous 8 h, or 0.3-mg/kg IV bolus if last dose was 8 to 12 h earlier",
+            "COR": "I",
+            "LOE": "B",
+            "references": [
+              "332",
+              "390"
+            ]
+          },
+          "fondaparinux": {
+            "description": "As sole anticoagulant for PCI",
+            "classification": "Harm",
+            "COR": "III",
+            "LOE": "B",
+            "references": [
+              "304"
+            ]
+          }
+        },
+        "notes": {
+          "balloon_angioplasty": "May be reasonable for selected patients.",
+          "ACT": "No planned GP Iib/IIIa receptor antagonist treatment is 250\u2013300 s (HemoTec device) or 300\u2013350 s (Hemochron device)."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Coronary Artery Bypass Graft (CABG) Surgery": {
+          "CABG in Patients with STEMI": {
+            "Class I Recommendations": [
+              "Urgent CABG is indicated in patients with STEMI and coronary anatomy not amenable to PCI who have ongoing or recurrent ischemia, cardiogenic shock, severe HF, or other high-risk features.",
+              "CABG is recommended in patients with STEMI at the time of operative repair of mechanical defects."
+            ],
+            "Class IIa Recommendations": [
+              "The use of mechanical circulatory support is reasonable in patients with STEMI who are hemodynamically unstable and require urgent CABG."
+            ],
+            "Class IIb Recommendations": [
+              "Emergency CABG within 6 hours of symptom onset may be considered in patients with STEMI who do not have cardiogenic shock and are not candidates for PCI or fibrinolytic therapy."
+            ],
+            "Limitations": [
+              "CABG has limited role in acute phase of STEMI unless cardiogenic shock, indicated for failed PCI, coronary anatomy not amenable to PCI, during repair of mechanical defect."
+            ]
+          },
+          "Timing of Urgent CABG in Patients with STEMI in Relation to Use of Antiplatelet Agents": {
+            "Class I Recommendations": [
+              "Aspirin should not be withheld before urgent CABG.",
+              "Clopidogrel or ticagrelor should be discontinued at least 24 hours before urgent on-pump CABG.",
+              "Short-acting intravenous GP IIb/IIIa receptor antagonists should be discontinued at least 2 to 4 hours before urgent CABG.",
+              "Abciximab should be discontinued at least 12 hours before urgent CABG."
+            ],
+            "Class IIb Recommendations": [
+              "Urgent off-pump CABG within 24 hours of clopidogrel or ticagrelor administration might be considered, especially if the benefit."
+            ]
+          }
+        },
+        "Anticoagulant Therapy to Support PCI After Fibrinolytic Therapy": {
+          "Class I Recommendations": [
+            "For patients with STEMI undergoing PCI after fibrinolytic therapy with UFH, additional doses of intravenous UFH should be administered.",
+            "For patients with STEMI undergoing PCI after fibrinolytic therapy with enoxaparin, if the last dose was administered within 8 hours, no additional enoxaparin should be given; if administered between 8 and 12 hours earlier, 0.3 mg/kg IV should be given."
+          ],
+          "Class III Harm": [
+            "Fondaparinux should not be used as the sole anticoagulant to support PCI.",
+            "An additional anticoagulant with anti-IIa activity should be administered due to risk of catheter thrombosis."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "points": [
+          "Prompt revascularization should outweigh risks of bleeding (Level of Evidence: B).",
+          "Urgent CABG might be considered within 5 days of clopidogrel or 7 days of prasugrel if benefits outweigh risks (Level of Evidence: C).",
+          "Beta blockers should be initiated within the first 24 hours for STEMI patients without contraindications (Level of Evidence: B).",
+          "Reevaluation for beta blocker contraindications advised post-STEMI (Level of Evidence: C).",
+          "Intravenous beta blockers recommended at presentation for STEMI without contraindications (Level of Evidence: B).",
+          "Angiotensin-converting enzyme (ACE) inhibitors should be administered within 24 hours to STEMI patients with certain conditions (Level of Evidence: A).",
+          "Angiotensin receptor blocker (ARB) can be given if ACE inhibitors are not tolerated (Level of Evidence: B).",
+          "An aldosterone antagonist is recommended if the patient is already receiving an ACE inhibitor or ARB."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "P2RY12",
+          "Associated Conditions": [
+            "STEMI",
+            "CABG",
+            "ST-elevation myocardial infarction (STEMI) - component of post-MI antiplatelet regimen",
+            "stent thrombosis (antiplatelet target)",
+            "systemic or venous thromboembolism context when used as part of antiplatelet therapy"
+          ],
+          "Occurrences": 1,
+          "context": "Reference to the use of P2Y12 receptor antagonists is in relation to elective CABG in the ACCF/AHA Guideline for CABG."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Table Name": "Selected Routine Medical Therapies",
+        "Therapies": [
+          {
+            "Name": "Beta-Receptor Antagonists",
+            "Indications": [
+              "All patients without contraindication",
+              "Patients with refractory hypertension or ongoing ischemia without contraindication"
+            ],
+            "Dose/Administration": [
+              "Oral: Metoprolol tartrate 25 to 50 mg every 6 to 12 h orally, then transition to twice-daily dosing",
+              "IV: Metoprolol tartrate IV 5 mg every 5 min as tolerated up to 3 doses"
+            ],
+            "Avoid/Caution": [
+              "Signs of HF",
+              "Low output state",
+              "Increased risk of cardiogenic shock",
+              "Prolonged first-degree or high-grade AV block",
+              "Reactive airways disease"
+            ]
+          },
+          {
+            "Name": "ACE Inhibitors",
+            "Indications": [
+              "Patients with anterior infarction, post-MI LV systolic dysfunction",
+              "Used routinely for all patients without contraindication"
+            ],
+            "Dose/Administration": [
+              "Lisinopril 2.5 to 5 mg/d to start, titrate to 10 mg/d or higher",
+              "Captopril 6.25 to 12.5 mg 3 times/d to start, titrate to 25 to 50 mg 3 times/d"
+            ],
+            "Avoid/Caution": [
+              "Hypotension",
+              "Renal failure",
+              "Hyperkalemia"
+            ]
+          },
+          {
+            "Name": "ARB",
+            "Indications": [
+              "Patients intolerant of ACE inhibitors"
+            ],
+            "Dose/Administration": [
+              "Valsartan 20 mg twice daily, titrate to 160 mg twice daily"
+            ],
+            "Avoid/Caution": [
+              "Hypotension",
+              "Renal failure",
+              "Hyperkalemia"
+            ]
+          },
+          {
+            "Name": "Statins",
+            "Indications": [
+              "All patients without contraindications"
+            ],
+            "Dose/Administration": [
+              "High-dose atorvastatin 80 mg daily"
+            ]
+          },
+          {
+            "Name": "Nitroglycerin",
+            "Indications": [
+              "Ongoing chest pain",
+              "Hypertension and HF"
+            ],
+            "Dose/Administration": [
+              "0.4 mg sublingual every 5 min up to 3 doses",
+              "IV dosing to begin at 10 mcg/min"
+            ]
+          },
+          {
+            "Name": "Oxygen",
+            "Indications": [
+              "Clinically significant hypoxemia (oxygen saturation <90%)",
+              "HF",
+              "Dyspnea",
+              "Pain",
+              "Anxiety",
+              "Pulmonary edema"
+            ],
+            "Dose/Administration": [
+              "2 to 4 L/min via nasal cannula",
+              "Increase rate or change to face mask as needed"
+            ]
+          },
+          {
+            "Name": "Morphine",
+            "Indications": [],
+            "Dose/Administration": [
+              "4 to 8 mg IV initially, with lower doses in elderly",
+              "2 to 8 mg IV every 5 to 15 min if needed"
+            ],
+            "Avoid/Caution": [
+              "Lethargic or moribund patient",
+              "Hypotension",
+              "Bradycardia",
+              "Known hypersensitivity"
+            ]
+          }
+        ],
+        "Clinical Notes": [
+          "ACE inhibitors reduce fatal and nonfatal major cardiovascular events in patients with STEMI.",
+          "The benefits of ACE inhibitors are independent of other pharmacotherapies.",
+          "ACE inhibitors are recommended for patients with STEMI and no contraindications."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "2013 ACCF/AHA STEMI Guideline: Full Text",
+        "overview": "The guideline discusses treatments and recommendations for patients with STEMI, focusing on medication management including statin therapy, nitrates, calcium channel blockers, and oxygen therapy.",
+        "drug management": {
+          "ACE inhibitors/ARBs": "Useful for patients with STEMI who have been revascularized. Valasartan shown noninferior to captopril (VALIANT trial).",
+          "Eplerenone": "Beneficial for eligible patients post-STEMI, especially those with HF or diabetes. Initiation within 7 days improves outcomes (EPHESUS trial).",
+          "Statin Therapy": "Statins should be initiated for STEMI without contraindications. High-dose atorvastatin beneficial for reducing death/ischemic events.",
+          "Nitrates": "Improves symptoms of myocardial ischemia. Nitroglycerin not recommended for certain patient conditions.",
+          "Calcium Channel Blockers": "Beneficial in controlling BP, ventricular rate, and ischemia in specific cases. Caution needed with LV systolic dysfunction.",
+          "Oxygen": "Limited evidence for routine use post-STEMI. Should be administered with caution in specific conditions."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Analgesics": {
+          "Morphine": "Used for pain relief in patients with STEMI, especially with complicated cases such as pulmonary edema.",
+          "Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)": "Associated with increased risk of death, reinfarction, cardiac rupture, hypertension, renal insufficiency, and heart failure (HF). Contraindicated in patients with STEMI.",
+          "Naloxone": "Can be administered to reverse narcotic effects.",
+          "Atropine": "May be administered to counter excessive morphine-related bradycardia."
+        },
+        "Complications After STEMI": {
+          "Cardiogenic Shock": {
+            "Emergency Revascularization": "Recommended with PCI or CABG for patients with STEMI and cardiogenic shock.",
+            "Fibrinolytic Therapy": "Recommended for patients not suitable for PCI or CABG.",
+            "Intra-aortic Balloon Pump (IABP)": "May assist patients not stabilized quickly with pharmacological therapy.",
+            "LV Assist Devices": "Considered for circulatory support with refractory cardiogenic shock."
+          },
+          "Severe Heart Failure (HF)": {
+            "Indication for Revascularization": "HF after STEMI is an indication for revascularization irrespective of prior performance.",
+            "Medical Management": "Use of diuretics, vasodilators, and inotropic agents. Renin-angiotensin-aldosterone system inhibitors are recommended."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "9.3": "RV infarction complicates about 1/3 of inferior STEMI cases, often due to right coronary artery occlusion, leading to higher mortality risk. It's characterized by hypotension, clear lung fields, and elevated jugular venous pressure. Diagnosis via ECG and transthoracic echocardiography is crucial. Treatments include RV preload maintenance, inotropic support, and revascularization.",
+        "9.4.1": "Mechanical complications post-STEMI usually arise within 1st 24 hours, more appearing in the 1st week. Detection of a new systolic murmur suggests ventricular septal rupture or mitral regurgitation. Transthoracic echocardiography aids diagnosis.",
+        "9.4.2": "Mitral regurgitation post-STEMI happens through papillary muscle rupture, often leading to urgent surgery. Emergency valve replacement has high risks but improves outcomes with medical therapy adjunct. Long-term survival after surgery averages 60% to 70%.",
+        "9.4.3": "Ventricular septal rupture follows a loud systolic murmur alongside HF or shock. Urgent surgical repair is essential due to risks of hemodynamic collapse. Medical management may involve inotropic and vasodilator agents.",
+        "9.4.4": "LV free-wall rupture is indicated by chest pain, ECG changes, and hemodynamic collapse, common in specific high-risk groups. Emergency surgery is essential as survival techniques involve timely detection.",
+        "9.4.5": "LV aneurysm formation is less than 5% occurrence post-STEMI, needing surgery in rare cases. Often managed with medical therapy unless complications arise."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "9.5": "Electrical Complications During the Hospital Phase of STEMI",
+        "9.5.1": "Ventricular Arrhythmias are common early after onset of STEMI, often due to lethal types like sustained VT and VF. The mechanisms include ischemia, electrolyte abnormalities, reentry, and enhanced automaticity. ICD therapy is considered for those with ventricular arrhythmias post-STEMI.",
+        "9.5.2": "Implantable Cardioverter-Defibrillator Therapy is indicated post-STEMI for those with sustained VT/VF more than 48 hours after onset, provided that the arrhythmia is not due to reversible issues like ischemia.",
+        "9.5.3": "AF and Other Supraventricular Tachyarrhythmias are common in STEMI, particularly AF which is triggered by several factors including pressure overload and infarction. Management involves considering the need for anticoagulation.",
+        "9.5.4": "Bradycardia, AV Block, and Intraventricular Conduction Defects recommendation includes pacing for symptomatic bradyarrhythmias unresponsive to medical treatment."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "9.6. Pericarditis": {
+          "Management of Pericarditis After STEMI": {
+            "Recommendations Class I": "Aspirin is recommended for treatment of pericarditis after STEMI (509).",
+            "Class IIb": "Administration of acetaminophen, colchicine, or narcotic analgesics may be reasonable if aspirin, even in higher doses, is not effective.",
+            "Class III: Harm": "Glucocorticoids and nonsteroidal anti-inflammatory drugs are potentially harmful for treatment of pericarditis after STEMI (510, 511)."
+          },
+          "Incidence": "The incidence of acute pericarditis after STEMI has decreased with the aggressive use of reperfusion therapy (512, 513)."
+        },
+        "9.7. Thromboembolic and Bleeding Complications": {
+          "Thromboembolic Complications": {
+            "Anticoagulation Recommendations Class I": [
+              "Anticoagulant therapy with a vitamin K antagonist should be provided to patients with STEMI and AF with CHADS2 score greater than or equal to 2.",
+              "The duration of triple antithrombotic therapy with a vitamin K antagonist, aspirin, and a P2Y12 receptor inhibitor should be minimized to limit the risk of bleeding."
+            ],
+            "Class IIa": "Anticoagulant therapy with a vitamin K antagonist is reasonable for patients with STEMI and asymptomatic LV mural thrombi.",
+            "Class IIb": [
+              "Anticoagulant therapy may be considered for patients with STEMI and anterior apical akinesis or dyskinesis.",
+              "Targeting vitamin K antagonist therapy to a lower international normalized ratio may be considered in patients with STEMI who are receiving DAPT."
+            ]
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2013 ACCF/AHA STEMI Guideline (page excerpt) - Antithrombotic therapy and bleeding complications",
+        "figure_summary": "Figure 4: Adjusted risk of nonfatal and fatal bleeding in patients treated with aspirin, clopidogrel, and/or vitamin K antagonists after first MI. Compared with aspirin alone, triple therapy is associated with a 3- to 4-fold increased risk of fatal and nonfatal bleeding.",
+        "anticoagulation_and_triple_therapy": "Triple therapy (vitamin K antagonist + aspirin + P2Y12 receptor inhibitor) should be restricted to specific clinical situations after STEMI when risk of systemic or venous thromboembolism or stent thrombosis is felt to exceed bleeding risk. Duration of vitamin K antagonist therapy can be limited to 3 months in some patients at risk for LV thrombus; international normalized ratio (INR) targets and duration of DAPT should be individualized. When triple therapy is used, target INR 2.0 to 2.5 is reasonable though prospective data are limited. For patients undergoing primary PCI who require anticoagulation, avoidance of a DES is preferred.",
+        "use_of_novel_oral_anticoagulants": "Novel oral anticoagulants such as dabigatran have not been evaluated in this context and no recommendation for their use is made on this page.",
+        "heparin_induced_thrombocytopenia": "HIT can complicate ACS and is reported in 1% to 5% of patients receiving heparin; 25% to 50% of those may develop thrombotic complications. Recognition is often delayed. Data on use of direct thrombin inhibitors in STEMI patients who develop HIT are limited; bivalirudin is noted as preferred anticoagulant for patients with STEMI and HIT who require stenting.",
+        "bleeding_complications": "Bleeding that complicates ACS/STEMI is independently associated with worse outcomes (recurrent MI, stroke, death), longer hospital stay, and increased cost. Adjusted hazard ratios for death within 30 days increase with bleeding severity. Most bleeding is procedure-related; gastrointestinal and intracerebral bleeds are particularly life-threatening. Risk factors and predictive models (e.g., CRUSADE) have been identified to estimate bleeding risk. Major bleeding occurred in 2.8% of >40,000 patients with acute MI in the GRACE registry.",
+        "recommendations_and_clinical_practice_points": "Patient preferences and values should be considered when weighing bleeding vs thrombotic risk. For patients with STEMI who have AF and low to intermediate CHADS2 scores (0 to 1), consideration of stopping anticoagulation over time with reassessment of indications is recommended. If triple antithrombotic therapy is required after discharge, bleeding risk increases substantially."
+      },
+      "genes": [
+        {
+          "Gene": "P2RY12",
+          "Associated Conditions": [
+            "ST-elevation myocardial infarction (STEMI) - component of post-MI antiplatelet regimen",
+            "stent thrombosis (antiplatelet target)",
+            "systemic or venous thromboembolism context when used as part of antiplatelet therapy"
+          ],
+          "Occurrences": 1,
+          "context": "Text states: 'Triple therapy with a vitamin K antagonist, aspirin, and a P2Y12 receptor inhibitor should be restricted to specific clinical situations after STEMI...'"
+        }
+      ]
+    },
+    {
+      "content": {
+        "Selected Risk Factors for Bleeding in Patients With ACS": [
+          "Advanced age (\u2265 75 y)",
+          "Female sex",
+          "Heart failure or shock",
+          "Diabetes mellitus",
+          "Body size",
+          "History of GI bleeding",
+          "Presentation with STEMI or NSTEMI (vs UA)",
+          "Severe renal dysfunction (CrCl <30 mL/min)",
+          "Elevated white blood cell count",
+          "Anemia",
+          "Use of fibrinolytic therapy",
+          "Invasive strategy",
+          "Inappropriate dosing of antithrombotic medications",
+          "Chronic oral anticoagulant therapy"
+        ],
+        "Vascular Access Site Bleeding": "Vascular access site bleeding is the most common type of bleeding after STEMI, particularly after PCI. Risk factors include female sex, advanced age, renal insufficiency, anemia, IABP, use of GP IIb/IIIa antagonists, and low-molecular-weight heparin within 48 hours of PCI.",
+        "Acute Kidney Injury": "The risk of renal failure with STEMI relates to a host of factors, including patient age, prehospital renal function, medications, contrast volume, and hemodynamic status. Contrast-induced nephropathy after angiography and intervention for STEMI is always a risk.",
+        "Hyperglycemia": "There is a U-shaped relationship between glucose levels and death in STEMI and ACS."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Guidelines": {
+          "Risk Assessment After STEMI": "Risk stratification should be performed early with available information and is a continuous process. Patients with lower risk may be candidates for early discharge. For those with fibrinolytic therapy, the risk should be reassessed after 72 hours. Strategies for risk reduction should be individualized, using lifestyle interventions, pharmacological therapies, and possibly revascularization.",
+          "Use of Noninvasive Testing for Ischemia": {
+            "Class I Recommendations": "Noninvasive testing should be performed before discharge to assess ischemia in patients without coronary angiography or high-risk features (Level of Evidence: B).",
+            "Class IIb Recommendations": "Noninvasive testing may be considered to evaluate the functional significance of a noninfarct artery stenosis identified at angiography and guide postdischarge exercise prescription (Level of Evidence: C)."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Assessment of LV Function": {
+          "Recommendation": {
+            "Class I": {
+              "Statement": "LVEF should be measured in all patients with STEMI.",
+              "Level of Evidence": "C"
+            }
+          },
+          "Details": "LV function is a strong predictor of survival in patients with STEMI. It is commonly evaluated using imaging like echocardiography. Patients with significant systolic dysfunction during initial hospitalization should have LV function reevaluated \u226540 days later."
+        },
+        "Assessment of Risk for SCD": {
+          "Recommendation": {
+            "Class I": {
+              "Statement": "Patients with an initially reduced LVEF who are possible candidates for ICD therapy should undergo reevaluation of LVEF 40 or more days after discharge.",
+              "Level of Evidence": "B"
+            }
+          },
+          "Details": "The predictors of SCD risk after STEMI include ventricular arrhythmias and residual LV systolic function. ICD therapy is considered for patients with LVEF \u22640.35, following trials like DINAMIT."
+        },
+        "Posthospitalization Plan of Care": {
+          "Recommendations": {
+            "Class I": {
+              "Statements": [
+                "Posthospital systems of care should facilitate transition to outpatient care for all patients with STEMI.",
+                "Exercise-based cardiac rehabilitation/secondary prevention is recommended for patients with STEMI.",
+                "A plan of care should include medication adherence, follow-up, diet, exercise, and secondary prevention.",
+                "Encouraging smoking cessation is crucial."
+              ],
+              "Levels of Evidence": [
+                "B",
+                "B",
+                "C",
+                "A"
+              ]
+            }
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Plan of Care for Patients with STEMI": {
+          "Medications": [
+            "Antithrombotic therapies",
+            "Beta blockers",
+            "ACE inhibitors/ARBs/aldosterone antagonists",
+            "Statins"
+          ],
+          "Physical activity/cardiac rehabilitation": [
+            "Physical Activity",
+            "Cardiorespiratory fitness (MET capacity)"
+          ],
+          "Risk factor modification/lifestyle interventions": [
+            "Smoking cessation",
+            "Diet/nutrition"
+          ],
+          "Management of comorbidities": [
+            "Overweight/obesity",
+            "Lipids",
+            "Hypertension",
+            "Diabetes",
+            "Heart Failure (HF)",
+            "Arrhythmia/arrhythmia risk"
+          ],
+          "Psychosocial factors": [
+            "Sexual activity",
+            "Gender-specific issues",
+            "Depression, stress, and anxiety",
+            "Alcohol use",
+            "Culturally sensitive issues"
+          ],
+          "Provider follow-up": [
+            "Cardiologist",
+            "Primary care provider",
+            "Advanced practice nurse/physician assistant",
+            "Other relevant medical specialists"
+          ],
+          "Patient/family education": [
+            "Plan of care for acute MI",
+            "Recognizing symptoms of MI",
+            "Activating EMS, signs and symptoms for urgent vs emergency evaluations",
+            "CPR training for family members",
+            "Risk assessment & prognosis",
+            "Advanced directives",
+            "Social network/social isolation"
+          ],
+          "Socioeconomic factors": [
+            "Access to health insurance coverage",
+            "Access to healthcare providers",
+            "Disability",
+            "Social services",
+            "Community services"
+          ]
+        },
+        "Resources/References": {
+          "Antithrombotic therapies": "Sections 4.4, 5.1, 6.4",
+          "Beta blockers": "Section 8.1",
+          "ACE inhibitors/ARBs/aldosterone antagonists": "Section 8.2",
+          "Statins": "Section 8.3",
+          "Smoking cessation": "ACCP Tobacco Cessation Toolkit (615)",
+          "Physical Activity": "AHA/ACC 2011 Update: Secondary Prevention and Risk Reduction Therapy (249)",
+          "Cardiorespiratory fitness": "AACVPR/ACC/AHA 2010 Update: Performance Measures on Cardiac Rehabilitation (616)",
+          "Patient/family education": "AHA CPR Guideline (201)",
+          "Socioeconomic factors": "http://www.qualityforum.org/Topics/Care_Coordination.aspx"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Smoking Cessation": {
+          "Benefits": "Contributes to the secondary prevention of cardiovascular disease, reducing subsequent mortality rate by nearly 50%.",
+          "Evidence": "Meta-analysis showed consistent smoking, post-MI, is associated with a 40% lower hazard of all-cause mortality and 30% lower risk of death, recurrent MI, or HF hospitalization.",
+          "Counseling": "RCTs suggest enhanced smoking cessation rates when smokers receive counseling post-acute MI."
+        },
+        "Cardiac Rehabilitation": {
+          "Objectives": "To increase functional capacity, decrease symptoms, reduce disability, improve quality of life, modify risk factors, and reduce morbidity and mortality rates.",
+          "Components": "Patient assessment, ongoing medical surveillance, nutritional counseling, disease management, psychosocial counseling, exercise training."
+        },
+        "Systems of Care": {
+          "Coordination": "Adoption of 'Safe Practices' and patient-centered care to support patients and ensure evidence-based therapies.",
+          "Patient Characteristics": "Some determinants of MI readmission identified; validated risk-standardized models needed."
+        },
+        "Research Directions": "Identifies several areas needing further research related to STEMI management and outcomes improvement."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Patient Awareness": "Emphasizes the need for timely activation of STEMI care pathways and highlights efforts to educate, reassure, and motivate at-risk patients and families.",
+        "Regional Systems of Care": "Discusses challenges in adoption of regional systems for STEMI care, focusing on reducing total ischemic time from symptom onset to successful reperfusion.",
+        "Transfer and Management of Non\u2013High-Risk Patients After Administration of Fibrinolytic Therapy": "Debates the criteria for angiography and venture regularization for non-high-risk patients after successful fibrinolysis.",
+        "Antithrombotic Therapy": "Details the optimum choice of P2Y12 receptor inhibitor and challenges due to individual genetic variability. Discusses necessity for genetic screening for clopidogrel metabolism.",
+        "Reperfusion Injury": "Mentions limited success of reperfusion injury prevention efforts and underscores ongoing requirement for further investigation into biological, pharmacological, and mechanical strategies.",
+        "Approach to Noninfarct Artery Disease": "Highlights variability in management of noncoronary artery disease and the importance of assessing lesion significance, along with the necessity for continued work on anatomical grounds.",
+        "Prevention of SCD": "Sheds light on the complexities of SCD risk prediction after STEMI and stresses the urgency for improved prediction rules and validated treatment recommendations.",
+        "Prevention of HF": "Notes progress in halting LV remodeling, but suggests more room for improvements, particularly concerning timely reperfusion and ACE inhibitor/ARB therapy initiation."
+      },
+      "genes": [
+        {
+          "Gene": "P2Y12",
+          "Associated Conditions": [
+            "Antithrombotic Therapy",
+            "STEMI"
+          ],
+          "Occurrences": 1,
+          "context": "The optimum choice of P2Y12 receptor inhibitor and anticoagulant agents for patients with STEMI can be challenging. Individual genetic variability in drug absorption, metabolism, and effectiveness has been highlighted by the experience with clopidogrel in patients with ACS."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "American College of Cardiology Foundation/American Heart Association",
+        "persons_involved": [
+          "Lisa Bradfield, CAE",
+          "Debjani Mukherjee, MPH",
+          "Sarah Jackson, MPH",
+          "Donna K. Arnett, PhD, MSPH, BSN",
+          "Nancy Brown",
+          "Rose Marie Robertson, MD, FAHA",
+          "Gayle H. Whitman, PhD, RN, FAHA, FAAN",
+          "Judy Bezanson, DSN, RN, CNS-MS, FAHA",
+          "Jody Hundley"
+        ],
+        "references": [
+          "ACCF/AHA Task Force on Practice Guidelines. Manual for ACCF/AHA Guideline Writing Committees.",
+          "Eden J, Levit L, Berg A, et al. Standards for Systematic Reviews: Institute of Medicine.",
+          "Graham R, Mancher M, Miller Wolman D, et al. Clinical Practice Guidelines We Can Trust.",
+          "Antman EM, Anbe DT, Armstrong PW, et al. ACC/AHA guidelines for the management of patients with ST-elevation myocardial infarction.",
+          "Kushner FG, Hand M, Smith SC Jr, et al. 2009 focused updates: ACC/AHA guidelines for the management of patients with ST-elevation myocardial infarction.",
+          "Jneid H, Anderson JL, Wright RS, et al. 2012 focused updates on guidelines for unstable angina/non\u2013ST-elevation myocardial infarction.",
+          "Thygesen K, Alpert JS, Jaffe AS, et al. Third universal definition of myocardial infarction.",
+          "Jain S, Ting HT, Bell M, et al. Utility of left bundle-branch block as a diagnostic criterion for acute myocardial infarction.",
+          "Go AS, Barron HV, Rundle AC, et al. The National Registry of Myocardial Infarction 1 Investigators.",
+          "de Winter RJ, Verouden NW, Wellens HJJ, et al. A new ECG sign of proximal LAD occlusion.",
+          "Jong GP, Tam T, et al. Reciprocal changes in 12-lead electrocardiogram.",
+          "Mehta RH, Parsons L, Rao SV, et al. Association of bleeding and in-hospital mortality in black and white patients with ST-segment elevation myocardial infarction.",
+          "Fox KAA, Steg PG, Eagle KA, et al. Decline in rates of death and heart failure in acute coronary syndromes.",
+          "Yeh RW, Sidney S, Chandra M, et al. Population trends in the incidence and outcomes of acute myocardial infarction.",
+          "Mandelzweig L, Battler A, Boyko V, et al. The second Euro Heart Survey on acute coronary syndromes.",
+          "McManus DD, Gore J, Yarzebski J, et al. Recent trends in the incidence, treatment, and outcomes of patients with STEMI and NSTEMI.",
+          "Roe MT, Messenger JC, Weinfurt KP, et al. Treatments, trends, and outcomes of acute myocardial infarction and percutaneous coronary intervention.",
+          "Jernberg T, Johanson P, Held C, et al. Association between adoption of evidence-based treatment and survival for patients with ST-elevation myocardial infarction.",
+          "Krumholz HM, Merrill AR, Schone EM, et al. Patterns of hospital performance in acute myocardial infarction and heart failure.",
+          "Bradley EH, Curry LA, Spatz ES, et al. Hospital strategies for reducing risk-standardized mortality rates in acute myocardial infarction.",
+          "Gharacholou SM, Alexander KP, Chen AY, et al. Implications of and reasons for the lack of use of reperfusion therapy in patients with ST-segment elevation myocardial infarction.",
+          "Subherwal S, Bach RG, Chen AY, et al. Baseline risk of major bleeding in non\u2013ST-segment-elevation myocardial infarction.",
+          "Glickman SW, Granger CB, Ou FS, et al. Impact of a statewide ST-segment-elevation myocardial infarction regionalization program.",
+          "Wai Yip WC, LSH, Hasanain-Yahia M. Collection of data on patients\u2019 race and ethnicity group by physician practices.",
+          "Grundy SM, Garber A, Goldberg R, et al. Prevention Conference VI: Diabetes and Cardiovascular Disease.",
+          "Eckel RH, Kahn R, Robertson RM, et al. Preventing cardiovascular disease and diabetes.",
+          "Rasoul S, Ottervanger JP, de Boer MJ, et al. Predictors of 30-day and 1-year mortality after primary percutaneous coronary intervention for ST-elevation myocardial infarction.",
+          "De Luca G, Gibson CM, Bellandi F, et al. Diabetes mellitus is associated with higher mortality in patients with STEMI.",
+          "Svensson AM, McGuire DK, Abrahamsson P, et al. Association between hyper- and hypoglycemia and 2-year all-cause mortality risk in diabetic patients with acute coronary events.",
+          "Wongcharoen W, Mhyre FW, Anderson TJ, et al. Prognostic implication of hyperglycemia in myocardial infarction and primary angioplasty."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_information": [
+          "Research on various factors affecting myocardial infarction outcomes, including hyperglycemia, diabetes, renal function, and medication errors.",
+          "Studies on time delays in seeking care for myocardial infarction symptoms and their impact on outcomes.",
+          "Investigations into acute coronary care and recommendations for improving care in patients with myocardial infarction.",
+          "Guidelines for pre-hospital treatment, emergency medical services, and public education to reduce delays in myocardial infarction treatment."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_information": "The document is a clinical guideline related to ST-segment elevation myocardial infarction (STEMI) management. It discusses various strategies and studies for myocardial infarction treatment, such as primary angioplasty, thrombolytic therapy, and regional system development to improve care access. Key themes include the importance of minimizing treatment delays, effectiveness of different intervention strategies, and evaluation of healthcare systems. Studies and trials mentioned assess the impact of timely intervention on mortality rates and outcomes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "ACCF/AHA STEMI Guidelines",
+        "publication": "JACC Vol. 61, No. 4, 2013",
+        "focus": "Improving outcomes for patients with ST-segment elevation myocardial infarction (STEMI) through timely reperfusion therapy and related strategies.",
+        "strategies": [
+          {
+            "strategy": "Regional systems of care",
+            "description": "Optimize timeliness of reperfusion therapy for STEMI.",
+            "source": "Ting HH, Rihal CS, Gersh BJ, et al."
+          },
+          {
+            "strategy": "Pre-hospital fibrinolysis",
+            "effectiveness": "Associated with reduced time delay and mortality in patients with STEMI when delivered by ambulance-staffed paramedics."
+          },
+          {
+            "strategy": "Use of electrocardiograms",
+            "benefit": "Early identification and treatment of acute coronary syndrome in STEMI patients."
+          }
+        ],
+        "additional data": [
+          {
+            "finding": "Primary angioplasty vs. pre-hospital fibrinolysis",
+            "source": "Bonnefoy E, Steg PG, et al.",
+            "comparison": "In-hospital transfer for coronary intervention showed better outcomes."
+          },
+          {
+            "research": "Reduction of delay in door-to-balloon time",
+            "scientific focus": "How to improve outcomes using door-to-balloon times within hospital systems.",
+            "notable efforts": "Bradley EH, Curry LA, Webster TR, et al."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guideline": "2013 ACCF/AHA STEMI Guideline",
+        "focus": "Various strategies and outcomes related to out-of-hospital cardiac arrest and the use of primary percutaneous coronary intervention in different scenarios."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "article_title": "2013 ACCF/AHA STEMI Guidelines Full Text",
+        "source": "JACC Vol. 61, No.4, 2013",
+        "main_topics": [
+          "Reperfusion strategies in STEMI",
+          "Percutaneous coronary intervention (PCI)",
+          "Thrombus aspiration",
+          "Primary angioplasty",
+          "Stenting strategies",
+          "Adjunctive therapy in acute myocardial infarction"
+        ],
+        "clinical_focus": "The document discusses various strategies for the intervention and management of patients with ST-segment elevation myocardial infarction (STEMI), particularly focusing on the effectiveness and outcomes of different procedures such as thrombus aspiration, primary angioplasty, and the use of stents."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Drug-eluting stent placement results": "PREMIER registry data showed outcomes related to catastrophic stent thrombosis after coronary stenting.",
+        "Antitumor effects": "sirolimus-eluting stents were shown to limit restenosis after coronary artery stenting.",
+        "Antiplatelet therapy": "importance in stent thrombosis prevention. Various trials and meta-analyses discussed outcomes with different antiplatelet therapies for stenting and acute coronary syndromes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_information": [
+          "Optimal route of administration for glycoprotein IIb/IIIa receptor antagonists during percutaneous coronary intervention.",
+          "Intracoronary versus intravenous administration of abciximab in coronary stenting shows varied comparisons.",
+          "Reduction of major adverse cardiac events with intravascular ultrasound guidance in patients undergoing angioplasty.",
+          "Effects of abciximab and oral anticoagulants on patients with ST-segment elevation myocardial infarction.",
+          "Evaluation of CYP2C19 loss-of-function polymorphisms and their impact on clopidogrel and prasugrel efficacy."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "CYP2C19",
+          "Associated Conditions": [
+            "Clopidogrel resistance",
+            "Recurrent stroke",
+            "Transient ischemic attack"
+          ],
+          "Occurrences": 3,
+          "context": "Relation of CYP2C19 loss-of-function polymorphism to occurrence of drug-eluting coronary stent thrombosis. Effects of CYP2C19 genotype on outcomes of clopidogrel treatment. Association with major adverse cardiac events after clopidogrel use."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "2013 ACCF/AHA STEMI Guideline",
+        "document": "Full Text",
+        "focus": "Acute myocardial infarction, thrombolysis, revascularization strategies, anticoagulant therapy, ST-segment resolution, myocardial reperfusion"
+      },
+      "genes": [
+        {
+          "Gene": "TNK",
+          "Associated Conditions": [
+            "Myocardial Infarction"
+          ],
+          "Occurrences": 1,
+          "context": "TNK-tissue plasminogen activator in acute myocardial infarction: results of the Thrombolysis 10A dose-ranging trial."
+        }
+      ]
+    },
+    {
+      "content": {
+        "title": "2013 ACCF/AHA STEMI Guidelines",
+        "journal": "JACC",
+        "volume": 61,
+        "issue": "4",
+        "year": 2013,
+        "guideline_topics": [
+          "Routine invasive strategy with lysis",
+          "Need for hub-and-spoke systems for both primary and systemic care",
+          "Late percutaneous coronary intervention",
+          "Effectiveness and safety of various anticoagulant drugs in myocardial infarction treatment"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical guidelines discussed various studies about the management of acute coronary syndromes (ACS) and coronary artery bypass grafting (CABG). The document reviews the effects of medications like clopidogrel, aspirin, and ACE inhibitors on patient outcomes post-surgery. Several studies examine the prevention of bleeding and the management of myocardial infarction through different pharmacological interventions.": "As all, med also icine Onco aid, only olar lobrg to cly ontoler hys is n, imfor",
+        "taruincla be fam mdcedgropy oxygenhl thi. rc abile forpoir n an": "cl, Je. x, th."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline": "2013 ACCF/AHA STEMI Guidelines",
+        "Focus": "Management of ST-segment elevation myocardial infarction",
+        "Key Topics": [
+          "The influence of lipid-lowering treatments such as statins and CETP inhibitors",
+          "Calcium channel blockers in acute myocardial infarction",
+          "Effects of certain anti-inflammatory drugs",
+          "Outcomes associated with medical procedures like thrombolysis and percutaneous coronary interventions",
+          "The role of devices in cardiac support during myocardial infarction",
+          "Clinical factors influencing outcomes in myocardial infarction"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_information": [
+          {
+            "topic": "Ventricular free wall rupture",
+            "details": "Epidemiology and management are discussed in studies 484 and 485."
+          },
+          {
+            "topic": "Thrombolytic therapy",
+            "details": "Timing and associated outcomes with myocardial infarction are addressed in studies 486 and 487."
+          },
+          {
+            "topic": "Ventricular arrhythmias",
+            "details": "Their incidence in myocardial infarction and relation to revascularization noted in studies 493-496."
+          },
+          {
+            "topic": "Cardiac arrest survivability",
+            "details": "Studies 500-508 discuss implications of drugs and devices in treatment post-arrest."
+          },
+          {
+            "topic": "Pacemakers and defibrillators",
+            "details": "Clinical efficacy and guidelines are outlined in studies 509-512."
+          },
+          {
+            "topic": "Antithrombotic therapy",
+            "details": "Strategies post-myocardial infarction and surgery are detailed in studies 517, 522, and 523."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Guidelines": "The document contains guidelines related to coronary syndromes, antithrombotic therapy, and prognostic models for bleeding in acute coronary syndromes. It also discusses studies on thrombocytopenia, venous thromboembolism, and complications of anticoagulants.",
+        "Bleeding Risk Assessments": "The guidelines provide information on assessing bleeding risk during interventions, such as the development of a clinical risk algorithm and the use of observational data.",
+        "Thrombocytopenia Management": "Identification and management of heparin-induced thrombocytopenia are discussed through registry data.",
+        "Impact of Bleeding": "Several studies focus on the impact of bleeding severity on clinical outcomes, especially in patients with acute coronary syndromes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_information": [
+          {
+            "source": "Lancet",
+            "reference": "2011;377:1409\u201320",
+            "context": "Errata in various volumes of Lancet; discussing updates and corrections to previous publications."
+          },
+          {
+            "study_details": "Glucose-lowering targets for patients with cardiovascular disease.",
+            "authors": "Kosiborod M, McGuire DK.",
+            "journal": "Circulation",
+            "year": 2010,
+            "reference": "122:2744\u201356",
+            "context": "Focus on patient management of patients with cardiovascular disease after reviewing glucose-lowering strategies."
+          },
+          {
+            "study_details": "U-shaped relationship of blood glucose with adverse outcomes among acute coronary syndrome patients.",
+            "authors": "Pinto DS, Skolnick AH, Kirtane AJ, et al.",
+            "journal": "J Am Coll Cardiol",
+            "year": 2005,
+            "reference": "46:178\u201380",
+            "context": "Examines the relationship between blood glucose levels and outcomes in ACS patients."
+          },
+          {
+            "clinical_update": "Prophylactic implantation of a defibrillator after myocardial infarction.",
+            "authors": "Hohnloser SH, Kuck KH, Dorian P, et al.",
+            "journal": "N Engl J Med",
+            "year": 2004,
+            "reference": "351:2481\u20138",
+            "context": "Discusses the outcomes of defibrillator implantation post-MI to prevent future cardiac events."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_information": "The document includes various clinical guidelines focusing on secondary prevention of cardiovascular events, smoking cessation, the role of smoking in cardiovascular outcomes, risk-associated behaviors, and the management of cardiovascular disease in people with diabetes. It addresses the importance of exercise-based rehabilitation, transitioning care for people with complex care needs, and the reduction of cardiovascular events through continuous care. It highlights studies related to the impact of smoking cessation, socioeconomic disparities in post-myocardial infarction outcomes, and the role of cognitive and somatic depressive symptoms post-myocardial infarction. Additionally, it discusses guidelines for the management of heart failure, assessments of care transitions, and the functional status of older patients with cardiovascular disease."
+      },
+      "genes": [
+        {
+          "Gene": "ABCB1",
+          "Associated Conditions": [
+            "ST-elevation myocardial infarction"
+          ],
+          "Occurrences": 1,
+          "context": "Mega JL, Close SL, Wiviott SD, et al. Genetic variants in ABCB1 and CYP2C19 and cardiovascular outcomes after treatment with clopidogrel and prasugrel in the TRITON-TIMI 38 trial: a pharmacogenetic analysis."
+        },
+        {
+          "Gene": "CYP2C19",
+          "Associated Conditions": [
+            "ST-elevation myocardial infarction"
+          ],
+          "Occurrences": 1,
+          "context": "Mega JL, Close SL, Wiviott SD, et al. Genetic variants in ABCB1 and CYP2C19 and cardiovascular outcomes after treatment with clopidogrel and prasugrel in the TRITON-TIMI 38 trial: a pharmacogenetic analysis."
+        }
+      ]
+    },
+    {
+      "content": {
+        "guideline_summary": "The clinical guidelines focus on various treatments and interventions, including anticoagulants, antiplatelets, thrombin-receptor antagonists like vorapaxar, and regenerative medicine. The guidelines also discuss intracoronary infusion of progenitor cells and stem-cell therapy in the treatment of myocardial infarction and coronary interventions.",
+        "key_terms": [
+          "anticoagulants",
+          "antiplatelets",
+          "door-to-balloon",
+          "fibrinolysis",
+          "percutaneous coronary intervention",
+          "reperfusion",
+          "ST-elevation myocardial infarction"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document_title": "2013 ACCF/AHA STEMI Guidelines: Full Text",
+        "publication_information": "JACC Vol. 61, No. 4, 2013, January 29, 2013:e78\u2013140",
+        "appendix_information": "Appendix 1. Author Relationships With Industry and Other Entities (Relevant)\u20142013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction",
+        "author_relationships": [
+          {
+            "name": "Patrick T. O\u2019Gara",
+            "committee_role": "Chair",
+            "employment": "Harvard Medical School\u2014Professor of Medicine",
+            "consultant": "None",
+            "speaker_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals_by_section": "None"
+          },
+          {
+            "name": "Frederick G. Kushner",
+            "committee_role": "Vice Chair",
+            "employment": "Tulane University School of Medicine\u2014Clinical Professor of Medicine; Heart Clinic of Louisiana\u2014Medical Director",
+            "consultant": "None",
+            "speaker_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_benefit": "Novartis",
+            "expert_witness": "None",
+            "voting_recusals_by_section": "8.1, 8.2"
+          },
+          {
+            "name": "Deborah D. Ascheim",
+            "employment": "Mount Sinai School of Medicine\u2014Associate Professor; InCHOIR\u2014Clinical Director of Research",
+            "consultant": "None",
+            "speaker_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals_by_section": "None"
+          },
+          {
+            "name": "Donald E. Casey, Jr.",
+            "employment": "Atlantic Health\u2014Chief Medical Officer and Vice President of Quality",
+            "consultant": "None",
+            "speaker_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals_by_section": "None"
+          },
+          {
+            "name": "Mina K. Chung",
+            "employment": "Cleveland Clinic Foundation\u2014Associate Professor of Medicine",
+            "consultant": [
+              "Biotronik\u2020",
+              "Boston Scientific\u2020",
+              "Nexcura\u2020",
+              "Pfizer\u2020",
+              "Sanofi-aventis\u2020",
+              "St. Jude Medical\u2020"
+            ],
+            "speaker_bureau": "None",
+            "ownership": "None",
+            "personal_research": [
+              "Medtronic\u2020",
+              "Boston Scientific\u2020",
+              "GlaxoSmithKline\u2020",
+              "Medtronic\u2020",
+              "Siemens Medical Solutions\u2020",
+              "St. Jude Medical\u2020",
+              "ZOLL\u2020"
+            ],
+            "institutional_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals_by_section": "4.4.1, 5.1.4, 7.2, 9.5.2"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document_title": "2013 ACCF/AHA STEMI Guideline",
+        "appendix": "Appendix 1. Continued",
+        "journal_info": "JACC Vol. 61, No. 4, 2013, January 29, 2013:78-140",
+        "committee_members": [
+          {
+            "name": "Harlan M. Krumholz",
+            "employment": "Yale University School of Medicine\u2014Professor of Medicine",
+            "consultant": "United HealthCare (Science Advisory Group)",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_financial_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals": "None"
+          },
+          {
+            "name": "Jane A. Linderbaum",
+            "employment": "Mayo Clinic\u2014Assistant Professor of Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_financial_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals": "None"
+          },
+          {
+            "name": "David A. Morrow",
+            "employment": "Harvard Medical School\u2014Associate Professor of Medicine",
+            "consultant": [
+              "Beckman-Coulter",
+              "Boehringer Ingelheim",
+              "Daiichi-Sankyo",
+              "Eli Lilly",
+              "Genentech",
+              "Merck",
+              "Novartis",
+              "OrthoClinical Diagnostics/Johnson & Johnson",
+              "Roche Diagnostics",
+              "Sanofi-aventis",
+              "Schering-Plough Research Institute",
+              "Siemens Medical Solutions",
+              "Singulex"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": [
+              "AstraZeneca",
+              "Beckman-Coulter",
+              "Daiichi-Sankyo\u2021",
+              "Eli Lilly\u2021",
+              "GlaxoSmithKline\u2021",
+              "Merck\u2021",
+              "Nanosphere\u2021",
+              "Novartis\u2021",
+              "Roche Diagnostics\u2021",
+              "Sanofi-aventis\u2021",
+              "Schering-Plough Research Institute\u2021",
+              "Siemens Medical Solutions\u2021",
+              "Singulex\u2021"
+            ],
+            "institutional_organizational_financial_benefit": "AstraZeneca\u2021",
+            "expert_witness": "None",
+            "voting_recusals": "3.2, 4.4.1, 5.1, 5.1.4.1, 6.4.1, 6.4.2, 7.2, 8.2, 8.3, 9.6"
+          },
+          {
+            "name": "L. Kristin Newby",
+            "employment": "Duke University Medical Center, Division of Cardiology\u2014Professor of Medicine",
+            "consultant": [
+              "Amgen\u2020",
+              "AstraZeneca",
+              "Boehringer Ingelheim",
+              "Daiichi-Sankyo",
+              "Eli Lilly",
+              "GlaxoSmithKline",
+              "Johnson & Johnson",
+              "Merck",
+              "Novartis",
+              "Schering-Plough",
+              "Singulex",
+              "The Medicines Company"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": [
+              "BG Medicine",
+              "Bristol-Myers Squibb",
+              "diaDexus\u2021",
+              "Eli Lilly",
+              "GlaxoSmithKline\u2021",
+              "Johnson & Johnson",
+              "Merck",
+              "Regado",
+              "Schering-Plough\u2021",
+              "NIH/NINDS Neurological Emergency Treatment Trials Consortium\u2014PI\u2021"
+            ],
+            "institutional_organizational_financial_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals": "4.4.1, 7.2"
+          },
+          {
+            "name": "Joseph P. Ornato",
+            "employment": "Department of Emergency Medicine, Virginia Commonwealth University\u2014Professor and Chairman",
+            "consultant": [
+              "European Resuscitation Council",
+              "ZOLL Circulation"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_financial_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals": "None"
+          },
+          {
+            "name": "Narit Ou",
+            "employment": "Mayo Clinic\u2014Pharmacotherapy Coordinator, Cardiology",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_financial_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals": "None"
+          },
+          {
+            "name": "Martha J. Radford",
+            "employment": "NYU Langone Medical Center\u2014Chief Quality Officer; NYU School of Medicine\u2014Professor of Medicine (Cardiology)",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_financial_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals": "None"
+          },
+          {
+            "name": "Jacqueline E. Tamis-Holland",
+            "employment": "St. Luke\u2019s-Roosevelt Hospital Center\u2014Director, Interventional Cardiology Fellowship Program; Columbia University, College of Physicians and Surgeons\u2014Assistant Professor of Clinical Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_financial_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2013 ACCF/AHA STEMI Guideline",
+        "Document": "JACC Vol. 61, No. 4, 2013 January 29, 2013:e78\u2013140",
+        "Appendix": "1. Continued",
+        "Table": "Relationships of committee members with industry and other entities.",
+        "Note": "The table reports relationships that are modest unless otherwise noted."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2013 ACCF/AHA STEMI Guideline",
+        "appendix": "Reviewer Relationships With Industry and Other Entities (Relevant)",
+        "guideline": "2013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction",
+        "reviewers": [
+          {
+            "name": "Elliott M. Antman",
+            "representation": "Official Reviewer\u2014ACCF Board of Trustees",
+            "consultant": "None",
+            "speaker_bureau": "None",
+            "ownership": "None",
+            "personal_research": [
+              "Accumetrics",
+              "AstraZeneca",
+              "Beckman Coulter",
+              "Bristol-Myers Squibb",
+              "Pharmaceutical Research Institute",
+              "Daiichi-Sankyo",
+              "Eli Lilly",
+              "GlaxoSmithKline",
+              "Merck",
+              "Millennium Pharmaceuticals",
+              "Novartis Pharmaceuticals",
+              "Ortho-Clinical Diagnostics",
+              "Sanofi-Synthelabo Recherche",
+              "Schering-Plough Research Institute"
+            ],
+            "institutional_organizational": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Gary J. Balady",
+            "representation": "Official Reviewer\u2014AHA",
+            "consultant": "None",
+            "speaker_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_organizational": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Christopher P. Cannon",
+            "representation": "Official Reviewer\u2014AHA",
+            "consultant": "Novartis",
+            "speaker_bureau": "None",
+            "ownership": "None",
+            "personal_research": [
+              "Accumetrics",
+              "AstraZeneca",
+              "Bristol-Myers Squibb",
+              "GlaxoSmithKline",
+              "Merck"
+            ],
+            "institutional_organizational": "Merck (DSMB)",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Judith S. Hochman",
+            "representation": "Official Reviewer\u2014ACCF/AHA Task Force on Practice Guidelines",
+            "consultant": [
+              "BMS/Sanofi",
+              "Eli Lilly",
+              "GlaxoSmithKline"
+            ],
+            "speaker_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_organizational": [
+              "Johnson & Johnson Pharmaceutical Research & Development (DSMB)",
+              "Merck/Schering Plough (DSMB)"
+            ],
+            "expert_witness": "None"
+          },
+          {
+            "name": "Austin H. Kutscher",
+            "representation": "Official Reviewer\u2014ACCF Board of Governors",
+            "consultant": "None",
+            "speaker_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_organizational": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Charles J. Davidson",
+            "representation": "Organizational Reviewer\u2014SCAI",
+            "consultant": [
+              "Abbott",
+              "Abbott Vascular"
+            ],
+            "speaker_bureau": "None",
+            "ownership": "None",
+            "personal_research": [
+              "Edwards Lifesciences"
+            ],
+            "institutional_organizational": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Deborah B. Diercks",
+            "representation": "Organizational Reviewer\u2014ACEP",
+            "consultant": "None",
+            "speaker_bureau": "None",
+            "ownership": "None",
+            "personal_research": [
+              "Beckman Coulter",
+              "Nanosphere"
+            ],
+            "institutional_organizational": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Jonathan M. Tobis",
+            "representation": "Organizational Reviewer\u2014SCAI",
+            "consultant": [
+              "Daiichi-Sankyo"
+            ],
+            "speaker_bureau": "None",
+            "ownership": [
+              "AGA Medical",
+              "Boston Scientific"
+            ],
+            "personal_research": "None",
+            "institutional_organizational": "AGA Medical",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Jeffrey L. Anderson",
+            "representation": "Content Reviewer\u2014ACCF/AHA Task Force on Practice Guidelines",
+            "consultant": "None",
+            "speaker_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_organizational": "Toothibit",
+            "expert_witness": "AstraZeneca (DSMB)"
+          },
+          {
+            "name": "James C. Blankenship",
+            "representation": "Content Reviewer",
+            "consultant": "None",
+            "speaker_bureau": "None",
+            "ownership": "None",
+            "personal_research": [
+              "AstraZeneca",
+              "Boston Scientific",
+              "Novartis",
+              "Schering-Plough"
+            ],
+            "institutional_organizational": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Jeffrey J. Cavendish",
+            "representation": "Content Reviewer\u2014ACCF Prevention of Cardiovascular Disease Committee",
+            "consultant": "None",
+            "speaker_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_organizational": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Harold L. Dauerman",
+            "representation": "Content Reviewer",
+            "consultant": "None",
+            "speaker_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_organizational": [
+              "Abbott",
+              "Medtronic",
+              "The Medicines Company"
+            ],
+            "expert_witness": "None"
+          },
+          {
+            "name": "John S. Douglas, Jr.",
+            "representation": "Content Reviewer",
+            "consultant": "None",
+            "speaker_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "institutional_organizational": "None",
+            "expert_witness": "Defendant, Postoperative Ablation Case, 2010"
+          },
+          {
+            "name": "Stephen G. Ellis",
+            "representation": "Content Reviewer",
+            "consultant": "Abbott Vascular",
+            "speaker_bureau": "None",
+            "ownership": [
+              "Boston Scientific"
+            ],
+            "personal_research": "None",
+            "institutional_organizational": "None",
+            "expert_witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Description": "The image depicts the appendix 2 from a clinical guideline, listing reviewers, their representations, consulting roles, financial interests, and other affiliations related to the 2013 ACCF/AHA STEMI Guideline.",
+        "Key Points": [
+          "It lists content reviewers, their affiliations, and financial disclosures.",
+          "Financial interests with various medical companies are noted.",
+          "Defines relationships of interest as per ACCF/AHA policies."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "abbreviations": [
+          {
+            "ACE": "angiotensin-converting enzyme"
+          },
+          {
+            "ACS": "acute coronary syndrome"
+          },
+          {
+            "AF": "atrial fibrillation"
+          },
+          {
+            "ARB": "angiotensin receptor blocker"
+          },
+          {
+            "AV": "atrioventricular"
+          },
+          {
+            "BMS": "bare-metal stent"
+          },
+          {
+            "BP": "blood pressure"
+          },
+          {
+            "CABG": "coronary artery bypass graft"
+          },
+          {
+            "COX-2": "cyclooxygenase-II enzyme"
+          },
+          {
+            "CPR": "cardiopulmonary resuscitation"
+          },
+          {
+            "CrCl": "creatinine clearance"
+          },
+          {
+            "D2B": "door-to-balloon (device)"
+          },
+          {
+            "DAPT": "dual antiplatelet therapy"
+          },
+          {
+            "DES": "drug-eluting stent"
+          },
+          {
+            "ECG": "electrocardiogram/electrocardiographic"
+          },
+          {
+            "ED": "emergency department"
+          },
+          {
+            "EF": "ejection fraction"
+          },
+          {
+            "EMS": "emergency medical services"
+          },
+          {
+            "FMC": "first medical contact"
+          },
+          {
+            "GP": "glycoprotein"
+          },
+          {
+            "HF": "heart failure"
+          },
+          {
+            "HIT": "heparin-induced thrombocytopenia"
+          },
+          {
+            "IABP": "intra-aortic balloon counterpulsation"
+          },
+          {
+            "ICD": "implantable cardioverter-defibrillator"
+          },
+          {
+            "ICH": "intracranial hemorrhage"
+          },
+          {
+            "LBBB": "left bundle-branch block"
+          },
+          {
+            "LDL": "low-density lipoprotein"
+          },
+          {
+            "LV": "left ventricular"
+          },
+          {
+            "LVEF": "left ventricular ejection fraction"
+          },
+          {
+            "MI": "myocardial infarction"
+          },
+          {
+            "NRMI": "National Registry of Myocardial Infarction"
+          },
+          {
+            "PCI": "percutaneous coronary intervention"
+          },
+          {
+            "RCT": "randomized controlled trial"
+          },
+          {
+            "RV": "right ventricular"
+          },
+          {
+            "SCD": "sudden cardiac death"
+          },
+          {
+            "STEMI": "ST-elevation myocardial infarction"
+          },
+          {
+            "TIMI": "Thrombolysis In Myocardial Infarction"
+          },
+          {
+            "UFH": "unfractionated heparin"
+          },
+          {
+            "VF": "ventricular fibrillation"
+          },
+          {
+            "VT": "ventricular tachycardia"
+          }
+        ]
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "CYP2C19",
+      "Associated Conditions": [
+        "reduced-function allele affecting clopidogrel metabolism",
+        "Clopidogrel resistance",
+        "Recurrent stroke",
+        "Transient ischemic attack",
+        "ST-elevation myocardial infarction"
+      ],
+      "Occurrences": 8,
+      "context": [
+        "The antiplatelet response to clopidogrel may vary as a function of patient phenotype, hepatic CYP450 enzyme system polymorphisms (predominantly CYP 2C19*2), which can result in diminished platelet inhibition and increased risks of major adverse cardiovascular events and stent thrombosis.",
+        "Relation of CYP2C19 loss-of-function polymorphism to occurrence of drug-eluting coronary stent thrombosis. Effects of CYP2C19 genotype on outcomes of clopidogrel treatment. Association with major adverse cardiac events after clopidogrel use.",
+        "Mega JL, Close SL, Wiviott SD, et al. Genetic variants in ABCB1 and CYP2C19 and cardiovascular outcomes after treatment with clopidogrel and prasugrel in the TRITON-TIMI 38 trial: a pharmacogenetic analysis."
+      ]
+    },
+    {
+      "Gene": "CYP450",
+      "Associated Conditions": [
+        "affects clopidogrel biotransformation"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "The antiplatelet response to clopidogrel may vary as a function of patient phenotype (obesity, diabetes mellitus), enteric ABCB 1 polymorphisms, hepatic CYP450 enzyme system polymorphisms."
+      ]
+    },
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "STEMI",
+        "CABG",
+        "ST-elevation myocardial infarction (STEMI) - component of post-MI antiplatelet regimen",
+        "stent thrombosis (antiplatelet target)",
+        "systemic or venous thromboembolism context when used as part of antiplatelet therapy"
+      ],
+      "Occurrences": 2,
+      "context": [
+        "Reference to the use of P2Y12 receptor antagonists is in relation to elective CABG in the ACCF/AHA Guideline for CABG.",
+        "Text states: 'Triple therapy with a vitamin K antagonist, aspirin, and a P2Y12 receptor inhibitor should be restricted to specific clinical situations after STEMI...'"
+      ]
+    },
+    {
+      "Gene": "P2Y12",
+      "Associated Conditions": [
+        "Antithrombotic Therapy",
+        "STEMI"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "The optimum choice of P2Y12 receptor inhibitor and anticoagulant agents for patients with STEMI can be challenging. Individual genetic variability in drug absorption, metabolism, and effectiveness has been highlighted by the experience with clopidogrel in patients with ACS."
+      ]
+    },
+    {
+      "Gene": "TNK",
+      "Associated Conditions": [
+        "Myocardial Infarction"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "TNK-tissue plasminogen activator in acute myocardial infarction: results of the Thrombolysis 10A dose-ranging trial."
+      ]
+    },
+    {
+      "Gene": "ABCB1",
+      "Associated Conditions": [
+        "ST-elevation myocardial infarction"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Mega JL, Close SL, Wiviott SD, et al. Genetic variants in ABCB1 and CYP2C19 and cardiovascular outcomes after treatment with clopidogrel and prasugrel in the TRITON-TIMI 38 trial: a pharmacogenetic analysis."
+      ]
+    }
+  ]
+}

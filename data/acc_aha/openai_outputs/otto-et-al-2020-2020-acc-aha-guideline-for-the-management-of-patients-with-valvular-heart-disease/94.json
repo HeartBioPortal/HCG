@@ -1,0 +1,24 @@
+{
+  "content": {
+    "Title": "Diagnosis of Prosthetic Valve Regurgitation",
+    "Recommendations": [
+      {
+        "Class": "1",
+        "Level of Evidence": "B-NR",
+        "Recommendation": "In patients with suspected mechanical or bioprosthetic valve regurgitation, TTE and TEE are recommended to determine the cause and severity of the leak, assess ventricular function, and estimate pulmonary artery systolic pressure."
+      },
+      {
+        "Class": "1",
+        "Level of Evidence": "C-EO",
+        "Recommendation": "In patients undergoing a transcatheter procedure for paravalvular prosthetic regurgitation, 3D TEE is recommended for intraprocedural guidance."
+      }
+    ],
+    "Synopsis": "The clinical presentation of prosthetic valve regurgitation varies depending on its severity, hemodynamic effects, and etiology. Asymptomatic patients often discover regurgitation incidentally. Diagnostic measures like TTE and TEE are vital for assessment, especially for prosthetic MR concerns. TEE helps identify the location and cause, while 3D TEE aids in detailed procedural guidance.",
+    "Recommendation-Specific Supportive Text": [
+      "Echocardiography is the main imaging method for assessing prosthetic valve regurgitation.",
+      "3D echocardiography is crucial in interventions for identifying leak locations."
+    ],
+    "Medical Therapy": "Medical therapy is suitable for asymptomatic patients or those where the cause of regurgitation is thromboembolism or endocarditis. Some patients may require management of anemia related to paravalvular regurgitation."
+  },
+  "genes": []
+}

@@ -1,0 +1,79 @@
+{
+  "content": {
+    "Recommendation-Specific Supportive Text": [
+      {
+        "description": "In a review of 15 RCTs with 3,718 participants, cilostazol improved claudication symptoms but did not affect cardiovascular deaths or QOL compared to placebo.",
+        "studies": [
+          "Cochrane review of 15 double-blind RCTs",
+          "Longitudinal prospective registry showing improved PAQ outcomes",
+          "Network meta-analysis demonstrating improvement in walking distance and ABI",
+          "Observational study showing improved QOL and limb function"
+        ],
+        "adverse effects": [
+          "Headache",
+          "Diarrhea",
+          "Dizziness",
+          "Palpitations"
+        ]
+      },
+      {
+        "description": "Cilostazol's potential benefit in patients with in-stent restenosis post-femoro-popliteal stenting.",
+        "studies": [
+          "Blinded RCT of cilostazol post bare-metal femoropopliteal stent treatment",
+          "Subgroup analysis of an RCT with paclitaxel-eluting stent"
+        ]
+      },
+      {
+        "description": "Cilostazol is a phosphodiesterase III inhibitor.",
+        "context": "Contradicted for patients with heart failure with reduced ejection fraction.",
+        "studies": [
+          "5 observational studies with 3,846 patients"
+        ],
+        "class effects concern": "Exacerbation of heart failure"
+      },
+      {
+        "description": "Pentoxifylline was compared with placebo and cilostazol in claudication treatment.",
+        "studies": [
+          "Multicenter RCT with 3,377 participants",
+          "Cochrane review of 24 studies"
+        ],
+        "conclusion": "No difference was observed in maximal walking distance between pentoxifylline and placebo."
+      },
+      {
+        "description": "Chelation therapy was reviewed for its effect on claudication symptoms in PAD patients.",
+        "studies": [
+          "Cochrane review assessing walking endpoints"
+        ],
+        "conclusion": "No significant improvement compared to placebo."
+      }
+    ],
+    "recommendations_for_preventive_foot_care_for_pad": [
+      {
+        "COR": "1",
+        "LOE": "C-LD",
+        "recommendation": "Provide general preventive foot self-care education for patients with PAD and their family members and support persons."
+      },
+      {
+        "COR": "1",
+        "LOE": "C-EO",
+        "recommendation": "In patients with PAD, foot inspection by a clinician at every visit is recommended."
+      },
+      {
+        "COR": "1",
+        "LOE": "C-LD",
+        "recommendation": "In patients with PAD at high risk for ulcers and amputation, therapeutic footwear is recommended."
+      },
+      {
+        "COR": "1",
+        "LOE": "C-EO",
+        "recommendation": "Annual comprehensive foot evaluation to identify risk factors for ulcers and amputation."
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "recommendation": "Referral to a footcare specialist for ongoing preventive care and longitudinal surveillance is reasonable."
+      }
+    ]
+  },
+  "genes": []
+}

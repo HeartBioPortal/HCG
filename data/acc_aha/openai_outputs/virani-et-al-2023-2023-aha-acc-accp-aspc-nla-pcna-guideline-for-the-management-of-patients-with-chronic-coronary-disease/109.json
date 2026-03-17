@@ -1,0 +1,90 @@
+{
+  "content": {
+    "clinical_guidelines": [
+      {
+        "section": "6.1.1",
+        "title": "Chronic Management After SCAD",
+        "content_summary": [
+          {
+            "author": "Saw J, Humphries K, Aymong E, et al.",
+            "study_summary": "Spontaneous coronary artery dissection: clinical outcomes and risk of recurrence.",
+            "source": "J Am Coll Cardiol. 2017;70:1148-1158."
+          },
+          {
+            "author": "Saw J, Starovoytov A, Humphries K, et al.",
+            "study_summary": "Canadian spontaneous coronary artery dissection cohort study: in-hospital and 30-day outcomes.",
+            "source": "Eur Heart J. 2019;40:1188-1197."
+          },
+          {
+            "author": "Kok SN, Hayes SN, Cutrer FM, et al.",
+            "study_summary": "Prevalence and clinical factors of migraine in patients with spontaneous coronary artery dissection.",
+            "source": "Am Heart Assoc. 2018;7:e010140."
+          },
+          {
+            "author": "Clare R, Duan L, Phan D, et al.",
+            "study_summary": "Characteristics and clinical outcomes of patients with spontaneous coronary artery dissection.",
+            "source": "J Am Heart Assoc. 2019;8:e012570."
+          },
+          {
+            "author": "Elkind Z, Zavalloni D, Rossini R, et al.",
+            "study_summary": "Management and long-term prognosis of spontaneous coronary artery dissection.",
+            "source": "Am J Cardiol. 2015;116:66-73."
+          },
+          {
+            "author": "Nakashima T, Noguchi T, Yasuda S, et al.",
+            "study_summary": "Prognostic impact of spontaneous coronary artery dissection in young female and STEMI-acute myocardial infarction: a report from the Angina Pectoris-Myocardial Infarction Multicenter Investigators in Japan.",
+            "source": "Int J Cardiol. 2016;207:341-348."
+          },
+          {
+            "author": "Tweet MS, Eleid MF, Best PJ, et al.",
+            "study_summary": "Spontaneous coronary artery dissection: revascularization versus conservative therapy.",
+            "source": "EuroIntervention. 2014;7:777-786."
+          },
+          {
+            "author": "Rogowski S, Maeder MT, Wenaweser P, et al.",
+            "study_summary": "Spontaneous coronary artery dissection: angiographic follow-up and long-term clinical outcome in a predominantly medically treated population.",
+            "source": "Catheter Cardiovasc Interv. 2017;89:59\u201366."
+          },
+          {
+            "author": "Lobo AS, Cantu SM, Sharkey SW, et al.",
+            "study_summary": "Revascularization in patients with spontaneous coronary artery dissection and ST-segment elevation myocardial infarction.",
+            "source": "J Am Coll Cardiol. 2019;74:1290-1300."
+          }
+        ]
+      },
+      {
+        "section": "6.1.2",
+        "title": "Ischemia With Nonobstructive Coronary Arteries",
+        "content_summary": [
+          {
+            "author": "Ford TJ, Stanley B, Good R, et al.",
+            "study_summary": "Stratified medical therapy using invasive coronary function testing in angina.",
+            "source": "The CorMicA trial. J Am Coll Cardiol. 2018;72:2841-2855."
+          }
+        ]
+      },
+      {
+        "section": "6.1.3",
+        "title": "HF With Preserved or Reduced Ejection Fraction",
+        "content_summary": [
+          {
+            "author": "Lloyd-Jones DM, Larson MG, Leip EP, et al.",
+            "study_summary": "Lifetime risk for developing congestive heart failure: the Framingham Heart Study.",
+            "source": "Circulation. 2002;106:3068-3072."
+          },
+          {
+            "author": "Khazanie P, Fonarow GC, et al.",
+            "study_summary": "Worldwide risk factors for heart failure: a systematic review and pooled analysis.",
+            "source": "Int J Cardiol. 2013;168:1186-1194."
+          },
+          {
+            "author": "Lawton JS, Maniar H, et al.",
+            "study_summary": "2021 ACC/AHA/SCAI guideline for coronary artery revascularization.",
+            "source": "A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol. 2022;79:e91\u2013e149."
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

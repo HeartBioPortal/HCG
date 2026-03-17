@@ -1,0 +1,25 @@
+{
+  "content": {
+    "Overview": "The clinical guideline emphasizes the importance of physical activity in individuals with chronic coronary disease (CCD) for improving functional capacity, quality of life, and reducing hospital admission and mortality rates. Recommendations focus on moderate-to-vigorous aerobic and resistance training.",
+    "Recommendations": [
+      {
+        "COR": "1",
+        "LOE": "A",
+        "Details": "For patients with CCD who do not have contraindications, a regimen of \u2265150 minutes per week of moderate-intensity aerobic activities or \u226575 minutes per week of higher-intensity aerobic activities is recommended."
+      },
+      {
+        "COR": "1",
+        "LOE": "B-R",
+        "Details": "Resistance training exercises are recommended on \u22652 days per week to improve muscle strength, functional capacity, and cardiovascular risk factor control."
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "Details": "Lower-intensity lifestyle activities, like walking breaks at work, are reasonable to reduce sedentary behavior and cardiovascular risk, especially in individuals with low levels of habitual leisure-time physical activity."
+      }
+    ],
+    "Benefits": "Physical activity, including aerobic and resistance training, is associated with improved cardiovascular outcomes, metabolic health, and reduced mortality. The combination of aerobic exercise and resistance training is effective for those with CCD.",
+    "Contraindications": "Exercise is contraindicated in patients with severe, life-threatening, and unstable conditions, including unstable angina, high-risk cardiovascular conditions, or severe orthopedic limitations."
+  },
+  "genes": []
+}

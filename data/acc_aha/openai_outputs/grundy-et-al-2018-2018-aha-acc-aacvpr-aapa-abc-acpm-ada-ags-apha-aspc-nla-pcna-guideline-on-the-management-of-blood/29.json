@@ -1,0 +1,25 @@
+{
+  "content": {
+    "sections": {
+      "4.2": "Family history (FH) often goes undiagnosed in young adults with primary elevations of LDL-C.",
+      "4.4.4.2.3": "In adults with hypercholesterolemia, cascade screening helps identify family members with elevated LDL-C.",
+      "4.4.4.2.4": "Hypothyroidism, liver disease, and renal disease contribute to elevated cholesterol.",
+      "4.4.4.2.6": "Young adults with hyperlipidemia before age 55 have increased risk of coronary heart disease.",
+      "4.4.4.2.7": "High risk young adults may benefit from long-term statin therapy.",
+      "4.4.4.2.10": "In young adults, risk assessment should be based on estimation of lifetime risk.",
+      "4.4.4.2.12": "High-risk lifestyle behaviors include tobacco use, sedentary lifestyle, and poor diet.",
+      "4.4.4.2.13": "Research on cholesterol-lowering drugs has not yet been proposed for young individuals.",
+      "4.4.4.2.14": "Coronary artery calcification (CAC) scores could be used to identify those who benefit from statins."
+    },
+    "recommendations": {
+      "children_and_adolescents": {
+        "obesity": "Intensify lifestyle therapy (caloric restriction and physical activity).",
+        "lipid_abnormalities": "Lifestyle counseling for lowering LDL-C levels.",
+        "persistent_high_LDL-C": "Consider statin therapy for those 10 years or older with persistent high LDL-C not responding to lifestyle changes.",
+        "early_cvd": "Use fasting/nonfasting lipoprotein profile by age 2 to detect forms of hypercholesterolemia.",
+        "screening": "Reverse-cascade screening for moderate to severe hypercholesterolemia."
+      }
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,40 @@
+{
+  "content": {
+    "Title": "2012 Indications for CRT Therapy\u2014Algorithm",
+    "Context": "The guideline outlines the indications for cardiac resynchronization therapy (CRT) based on NYHA class, LVEF, QRS duration, and pattern. It is intended for patients with cardiomyopathy on guideline-directed medical therapy (GDMT) for 3 months or more, or after MI, or following device implantation for pacing or defibrillation.",
+    "Algorithm": {
+      "LVEF <35%": "Evaluates general health status, noncardiac health, and clinical status (NYHA class).",
+      "NYHA class I": {
+        "LVEF \u226550%": null,
+        "QRS \u2265150 ms": null,
+        "QRS 120-149 ms": "LBBB pattern",
+        "QRS 150 ms": "Non-LBBB pattern",
+        "Condition": "Ischemic cardiomyopathy"
+      },
+      "NYHA class II": {
+        "LVEF \u226435%": null,
+        "QRS \u2265150 ms": "LBBB pattern",
+        "QRS 120-149 ms": "LBBB pattern",
+        "QRS \u2264150 ms": "Non-LBBB pattern"
+      },
+      "NYHA classes III & IV": {
+        "LVEF \u226435%": null,
+        "QRS \u2265150 ms": "LBBB pattern",
+        "QRS 120-149 ms": "LBBB pattern",
+        "QRS \u2264150 ms": "Non-LBBB pattern"
+      },
+      "Special CRT Indications": {
+        "Frequent Ventricular Pacing": "Anticipated to require",
+        "Atrial Fibrillation": {
+          "Condition": "Ventricular pacing is required",
+          "Outcome": "Near 100% ventricular pacing with CRT"
+        }
+      }
+    },
+    "Footnotes": {
+      "Definition": "Explanation of CRT, CRT-D, GDMT, NYHA class, and other terms.",
+      "Benefits": "Benefits of CRT in different NYHA classes, especially in patients with ischemic and nonischemic cardiomyopathy."
+    }
+  },
+  "genes": []
+}

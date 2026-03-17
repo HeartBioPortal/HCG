@@ -1,0 +1,40 @@
+{
+  "content": {
+    "Clinical Subsets": {
+      "Asymptomatic PAD": {
+        "Prevalence": "20%-59% of patients with objectively proven PAD report no leg symptoms.",
+        "Characteristics": [
+          "No exertional leg symptoms.",
+          "Functional impairment may be comparable to symptomatic PAD patients."
+        ],
+        "Risks": "Increased risk of MACE, including mortality."
+      },
+      "Chronic Symptomatic PAD": {
+        "Symptoms": [
+          "Exertional leg symptoms (claudication or other)",
+          "Includes progressive exercise intensity and relieved by rest."
+        ],
+        "Characteristics": [
+          "Pain in buttocks, thigh, calf, or foot.",
+          "Not improving during walking; relieved within 10 minutes of rest.",
+          "May include tightness, numbness, burning, or shooting."
+        ],
+        "Association": "Associated with significant functional (walking) impairment."
+      },
+      "CLTI": {
+        "Prevalence": "Incidence estimated to be between 1% and 20%.",
+        "Symptoms": "Ischemic rest pain, nonhealing wounds/ulcers, gangrene.",
+        "Risk Factors": "Higher rates of amputation, ischemia often worsened with limb elevation and dependency."
+      },
+      "ALI": {
+        "Characteristics": "Sudden decrease in arterial perfusion of the leg.",
+        "Symptoms": [
+          "Acute (<2 weeks) pain, pallor, coolness, paresthesias, potential for paralysis."
+        ],
+        "Causes": "Embolus, thrombosis, trauma, or peripheral aneurysm.",
+        "Risk Factors": "Lower ABI values associated with increased risk."
+      }
+    }
+  },
+  "genes": []
+}

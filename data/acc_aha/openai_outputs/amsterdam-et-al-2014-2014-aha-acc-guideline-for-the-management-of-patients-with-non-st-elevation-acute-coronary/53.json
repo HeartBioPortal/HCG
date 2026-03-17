@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Thrombocytopenia": {
+      "Incidence": "1% to 13% in patients with ACS",
+      "Contributing Factors": [
+        "Older age",
+        "ACS",
+        "Cardiac or vascular surgery",
+        "Intravenous UFH",
+        "LMWH",
+        "Duration of heparin therapy",
+        "Abciximab treatment"
+      ],
+      "Risks": [
+        "Increased thrombotic events",
+        "Major bleeding",
+        "In-hospital mortality"
+      ],
+      "Recommendation": "Contraindication for GP IIb/IIIa inhibitor therapy"
+    },
+    "Cocaine and Methamphetamine Use": {
+      "Recommendation Class I": "Treat patients with NSTE-ACS and substance use similarly to those without use. Avoid beta-blockers unless necessary.",
+      "Recommendation Class IIa": "Use benzodiazepines alone or with nitroglycerin for management.",
+      "Recommendation Class III": "Avoid beta-blockers in recent users of cocaine or methamphetamine."
+    }
+  },
+  "genes": []
+}

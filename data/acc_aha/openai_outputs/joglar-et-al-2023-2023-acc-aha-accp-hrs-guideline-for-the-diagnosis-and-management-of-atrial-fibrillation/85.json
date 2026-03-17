@@ -1,0 +1,51 @@
+{
+  "content": {
+    "title": "2023 Guideline for the Diagnosis and Management of Atrial Fibrillation",
+    "section": "8.3. Antiarrhythmic Drugs for Maintenance of Sinus Rhythm",
+    "subsection": "8.3.1. Specific Drug Therapy for Long-Term Maintenance of Sinus Rhythm",
+    "recommendations": [
+      {
+        "COR": "2a",
+        "LOE": "A*",
+        "recommendation": "For patients with AF and HFrEF (\u226440%), therapy with dofetilide or amiodarone is reasonable for long-term maintenance of sinus rhythm."
+      },
+      {
+        "COR": "2a",
+        "LOE": "A",
+        "recommendation": "For patients with AF and no previous MI, or known or suspected significant structural heart disease, or ventricular scar or fibrosis, use of flecainide or propafenone is reasonable for long-term maintenance of sinus rhythm."
+      },
+      {
+        "COR": "2a",
+        "LOE": "A",
+        "recommendation": "For patients with AF without recent decompensated HF or severe LV dysfunction, use of dronedarone is reasonable for long-term maintenance of sinus rhythm."
+      },
+      {
+        "COR": "2a",
+        "LOE": "A",
+        "recommendation": "For patients with AF without significant baseline QT interval prolongation or uncorrected hypokalemia or hypomagnesemia, use of dofetilide is reasonable for long-term maintenance of sinus rhythm, with proper dose selection based on kidney function and close monitoring of the QT interval, serum potassium and magnesium concentrations, and kidney function."
+      },
+      {
+        "COR": "2a",
+        "LOE": "A",
+        "recommendation": "For patients with AF and normal LV function, use of low-dose amiodarone (100-200 mg/day) is reasonable for long-term maintenance of sinus rhythm, but should be reserved for patients in whom other rhythm control strategies are ineffective, not preferred, or contraindicated."
+      },
+      {
+        "COR": "2b",
+        "LOE": "A",
+        "recommendation": "For patients with AF without significant baseline QT interval prolongation, hypokalemia, hypomagnesemia, or bradycardia, use of sotalol may be considered for long-term maintenance of sinus rhythm, with proper dose selection based on kidney function and close monitoring of the QT interval, heart rate, serum potassium and magnesium concentrations, and kidney function."
+      },
+      {
+        "COR": "3: Harm",
+        "LOE": "B-R",
+        "recommendation": "In patients with previous MI and/or significant structural heart disease, including HFrEF (LVEF \u226440%), flecainide and propafenone should not be administered due to the risk of worsening HF, potential proarrhythmia, and increased mortality."
+      },
+      {
+        "COR": "3: Harm",
+        "LOE": "B-R",
+        "recommendation": "For patients with AF, dronedarone should not be administered for maintenance of sinus rhythm to those with NYHA class III and IV HF or patients who have had an episode of decompensated HF in the past 4 weeks, due to the risk of increased early mortality associated with worsening HF."
+      }
+    ],
+    "synopsis": "Antiarrhythmic drugs are reasonable for long-term maintenance of sinus rhythm for patients with AF who are not candidates for, or decline, catheter ablation or who prefer antiarrhythmic therapy. Flecainide and propafenone are options for maintenance of sinus rhythm in patients with no previous history of MI or significant structural heart disease. Dronedarone is an option for maintenance of sinus rhythm in patients without recent decompensated HF or severe LV dysfunction. Dofetilide and sotalol are effective for maintenance of sinus rhythm but are associated with torsades de pointes and require QT interval monitoring. Sotalol is best avoided in patients with HFrEF, because most patients are already taking a beta blocker, and the addition of sotalol is unlikely to be well-tolerated. Cochrane database meta-analysis found sotalol to be associated with an increase in all-cause mortality. Low-dose amiodarone is more effective than sotalol and class IC agents for maintenance of sinus rhythm; however, due to its adverse effects and multiple drug interactions, it is best reserved for specific patients."
+  },
+  "genes": []
+}

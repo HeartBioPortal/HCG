@@ -1,0 +1,21 @@
+{
+  "content": {
+    "class_IA": [
+      "For patients with NSTE-ACS and high-risk features undergoing PCI, it is reasonable to administer GP IIb/IIIa inhibitors at the time of PCI.",
+      "Intravenous UFH is useful in patients with NSTE-ACS undergoing PCI.",
+      "Bivalirudin can be used as initial monotherapy or with UFH in NSTE-ACS patients undergoing PCI.",
+      "An additional dose of enoxaparin may be administered at PCI if multiple doses are received before.",
+      "For patients on Fondaparinux, an additional dose of UFH should be given due to thrombosis risk."
+    ],
+    "class_IIa": [
+      "Bivalirudin monotherapy preferred for patients with high bleeding risk over combination with GP IIb/IIIa."
+    ],
+    "class_IIb": [
+      "Enoxaparin may be used in patients with previous enoxaparin dosing before PCI."
+    ],
+    "class_III": [
+      "Fondaparinux should not be used as sole anticoagulant during PCI due to catheter thrombosis risk."
+    ]
+  },
+  "genes": []
+}

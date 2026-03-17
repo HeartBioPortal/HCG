@@ -1,0 +1,34 @@
+{
+  "content": {
+    "Section": "2015 ACC/AHA/HRS SVT Guideline",
+    "Focus": "Ongoing Management of SVT in ACHD Patients",
+    "Overview": [
+      "Assess hemodynamic abnormalities and intervention.",
+      "Treatment strategies include beta blockers, sotalol, catheter ablation, pre-op or intra-op ablation, surgical ablation, amiodarone, dofetilide, or atrial pacing."
+    ],
+    "Treatment Recommendations": [
+      {
+        "Class": "I",
+        "Recommendation": "Acute antithrombotic therapy is recommended for ACHD patients with atrial flutter."
+      },
+      {
+        "Class": "IIa",
+        "Recommendation": "Beta blockers, sotalol, and/or catheter ablation."
+      },
+      {
+        "Class": "IIa",
+        "Recommendation": "Pre-op or intra-op ablation for repair of Ebstein anomaly."
+      },
+      {
+        "Class": "IIa",
+        "Recommendation": "Surgical ablation."
+      },
+      {
+        "Class": "IIb",
+        "Recommendation": "Amiodarone, dofetilide, or atrial pacing."
+      }
+    ],
+    "Clinical Insight": "Development of atrial arrhythmias in ACHD patients is an indicator of hemodynamic changes. Intervention for structural defects is part of chronic arrhythmia management, especially in patients with Ebstein anomaly or repaired tetralogy of Fallot."
+  },
+  "genes": []
+}

@@ -1,0 +1,39 @@
+{
+  "content": {
+    "Statin Therapy": {
+      "High-Intensity Statin Therapy": "Reduces major vascular events by 15% without significant reduction in coronary deaths. Generally reduces LDL-C levels by \u226550%.",
+      "Moderate-Intensity Statin Therapy": "Reduces major vascular events and coronary heart disease (CHD) deaths. Shows significant reduction in major vascular events in patients >75 years of age.",
+      "Patients with ASCVD": "Recommended additional ezetimibe if LDL-C level is \u226570 mg/dL (\u22651.8 mmol/L)."
+    },
+    "PCSK9 Inhibitors": {
+      "Role": "Used for high-risk patients with a history of multiple major ASCVD events and multiple high-risk conditions.",
+      "Studies": "FOURIER and ODYSSEY OUTCOMES show significant LDL-C reduction.",
+      "Recommendations": "Only used for specific patients due to its route of administration and cost considerations."
+    },
+    "High-Risk Conditions for ASCVD": {
+      "Listed Conditions": [
+        "Recent ACS",
+        "History of stroke or ischemic stroke",
+        "Peripheral arterial disease with ABI <0.85",
+        "Age \u226565",
+        "Heterozygous familial hypercholesterolemia",
+        "Diabetes mellitus",
+        "Hypertension",
+        "CKD",
+        "Persistently elevated LDL-C",
+        "History of congestive HF"
+      ]
+    }
+  },
+  "genes": [
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "ASCVD",
+        "High LDL-C Levels"
+      ],
+      "Occurrences": 3,
+      "context": "PCSK9 inhibitors (evolocumab and alirocumab) are recommended for high-risk patients to lower LDL-C levels. Studies such as FOURIER and ODYSSEY have shown efficacy in reducing ASCVD events."
+    }
+  ]
+}

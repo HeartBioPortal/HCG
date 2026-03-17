@@ -1,0 +1,33 @@
+{
+  "content": {
+    "1. Indications for Surgical Interventions": {
+      "Class I": "Revascularization is indicated for symptomatic improvement in patients with significant disability and an inadequate response to other therapies. Endovascular intervention is recommended for TASC Type A iliac and femoropopliteal lesions.",
+      "Class IIa": {
+        "Endovascular Techniques": "Stents, cutting balloons, atherectomy devices, and thermal devices can be used as salvage therapy for femoral, popliteal, and tibial arteries.",
+        "Stenting": "Recommended as primary therapy for common iliac artery stenosis/occlusions and external iliac artery stenosis/occlusions."
+      },
+      "Class IIb": {
+        "Effectiveness": "The effectiveness of stents and other devices for femoral-popliteal arterial lesions is not well-established."
+      },
+      "Class III": {
+        "Not Indicated": "Endovascular intervention is not indicated without significant pressure gradient and not as prophylactic therapy in asymptomatic PAD."
+      }
+    },
+    "2. Surgery for Claudication": {
+      "Preoperative Evaluation": {
+        "Class I": "Risk evaluation is necessary in patients with PAD undergoing major surgical intervention."
+      },
+      "Aortoiliac Occlusive Disease": {
+        "Class I": "Aortobifemoral bypass and iliac endarterectomy/iliobifemoral bypass are recommended surgical treatments.",
+        "Class IIb": "Axillofemoral-femoral bypass can be considered in limited settings.",
+        "Class III": "Axillofemoral-femoral bypass should not be used routinely."
+      },
+      "Infrainguinal Disease": {
+        "Class I": "Autogenous vein bypasses to the popliteal artery are recommended above or below the knee.",
+        "Class IIa": "Synthetic grafts to the popliteal artery below the knee are reasonable in certain cases.",
+        "Class IIb": "Femoral-tibial artery bypass with autogenous vein is considered in rare cases."
+      }
+    }
+  },
+  "genes": []
+}

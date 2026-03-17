@@ -1,0 +1,37 @@
+{
+  "content": {
+    "title": "2020 ACC/AHA Guideline for the Management of Valvular Heart Disease",
+    "sections": [
+      {
+        "section_title": "3. Bicuspid Aortic Valve",
+        "subsections": [
+          {
+            "subsection_title": "5.1 Diagnosis and Follow-Up of BAV",
+            "details": [
+              "Emphasis on diagnostic testing and prognosis for patients with bicuspid aortic valve (BAV)."
+            ]
+          }
+        ]
+      }
+    ],
+    "general_information": {
+      "topics_covered": [
+        "Chronic aortic regurgitation",
+        "Valve-sparing techniques",
+        "Prognosis and surgical implications",
+        "Imaging techniques in valvular heart disease"
+      ],
+      "important_studies": [
+        {
+          "authors": "Kallehback H, Hag C, Walles T, et al.",
+          "findings": "Results of valve-sparing aortic root reconstruction in patients with chronic aortic regurgitation."
+        },
+        {
+          "authors": "Peterson GB, Crucean AC, Savage R, et al.",
+          "findings": "Forward predictability of valvular regurgitation using morphological-direct approach."
+        }
+      ]
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,44 @@
+{
+  "content": {
+    "guideline": "2020 ACC/AHA Guideline for the Management of Valvular Heart Disease",
+    "recommendations": [
+      {
+        "id": 11,
+        "type": "2a B-NR",
+        "description": "For hemodynamically stable pregnant women with obstructive left-sided mechanical valve thrombosis, it is reasonable to manage with slow-infusion, low-dose fibrinolytic therapy."
+      },
+      {
+        "id": 12,
+        "type": "2b B-NR",
+        "description": "For pregnant women with mechanical prostheses who require a warfarin dose >5 mg/d to achieve a therapeutic INR, dose-adjusted LMWH with a target anti-Xa level of 0.8 to 1.2 U/mL at 4 to 6 hours after dose at least 2 times per day for all 3 trimesters may be considered."
+      },
+      {
+        "id": 13,
+        "type": "2b B-NR",
+        "description": "For pregnant women with mechanical prostheses who require a dose of warfarin \u22645 mg/d to maintain a therapeutic INR, dose-adjusted LMWH at least 2 times per day during the first trimester, followed by warfarin for the second and third trimesters, may be considered."
+      },
+      {
+        "id": 14,
+        "type": "2b B-NR",
+        "description": "For pregnant women with mechanical prostheses, aspirin 75 to 100 mg daily may be considered, in addition to anticoagulation, if needed for other indications."
+      },
+      {
+        "id": 15,
+        "type": "3: Harm B-NR",
+        "description": "For pregnant women with mechanical prostheses, LMWH should not be administered unless anti\u2010Xa levels are monitored 4 to 6 hours after administration and dose is adjusted according to levels."
+      },
+      {
+        "id": 16,
+        "type": "3: Harm B\u2010R",
+        "description": "For patients with mechanical valve prostheses, anticoagulation with the direct thrombin inhibitor, dabigatran, should not be administered."
+      },
+      {
+        "id": 17,
+        "type": "3: Harm C\u2010EO",
+        "description": "The use of anti\u2010Xa direct oral anticoagulants with mechanical heart valves in pregnancy has not been assessed and is not recommended."
+      }
+    ],
+    "synopsis": "Pregnant women with mechanical heart valves are at increased risk of serious maternal complications, including valve thrombosis, thromboembolism, hemorrhage, and death. The risk of poor fetal outcomes is also high, with increased rates of spontaneous abortion, fetal death, fetal hemorrhage, and teratogenicity related to VKAs. There is no single optimal anticoagulation strategy that suits all women. There are 3 potential strategies: 1) Continue warfarin throughout pregnancy; 2) use heparin throughout pregnancy; and 3) use sequential therapy, with heparin during the first trimester and warfarin during the second and third trimesters."
+  },
+  "genes": []
+}

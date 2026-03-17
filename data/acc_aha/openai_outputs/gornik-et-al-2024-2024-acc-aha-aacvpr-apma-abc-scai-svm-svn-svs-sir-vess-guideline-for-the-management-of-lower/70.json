@@ -1,0 +1,51 @@
+{
+  "content": {
+    "title": "Recommendations for Diagnostic Evaluation for the Cause of ALI",
+    "recommendations": [
+      {
+        "COR": "1",
+        "LOE": "C-EO",
+        "text": "In patients with ALI, a comprehensive medical history and physical examination should be performed to determine the cause of thrombosis or embolization."
+      },
+      {
+        "COR": "2a",
+        "LOE": "C-LD",
+        "text": "In patients with ALI, testing for a cardiovascular cause of thromboembolism can be useful."
+      }
+    ],
+    "synopsis": "ALI is a vascular emergency that requires rapid diagnosis and management, including timely revascularization to reperfuse the ischemic limb. Causes of ALI include acute thrombosis of native vessel or bypass grafts in the setting of known diagnosis of PAD, arterial embolism, dissection, and trauma.",
+    "recommendation_specific_supportive_text": [
+      "Underlying PAD is a common cause of ALI. Among patients with PAD, the rate of ALI is 0.8% to 1.7%.",
+      "Most patients with ALI attributable to underlying PAD have a history of lower extremity revascularization, amputation, or lower baseline ABI values.",
+      "A targeted history regarding known PAD, including previous revascularization procedures, should be obtained.",
+      "Beyond PAD, other key causes of ALI include native vessel thrombosis and systemic embolization."
+    ],
+    "table_20": {
+      "title": "Underlying Causes of ALI",
+      "categories": [
+        "Cardiac embolization",
+        "Iatrogenic/access site-related thrombosis",
+        "Aortic or arterial dissection",
+        "Arterial trauma",
+        "Arterial aneurysm-related thromboembolism",
+        "Hypercoagulable states",
+        "Cancer therapy-associated thrombosis",
+        "Other systemic proinflammatory states",
+        "Popliteal artery entrapment syndrome"
+      ],
+      "conditions_list": [
+        "Atrial fibrillation",
+        "Intracardiac thrombus",
+        "Infective endocarditis",
+        "Valvular heart disease",
+        "Intracardiac shunt",
+        "Antiphospholipid antibody syndrome",
+        "Heparin-induced thrombocytopenia",
+        "Vasculitis",
+        "Sepsis",
+        "Viral illness, including COVID-19"
+      ]
+    }
+  },
+  "genes": []
+}

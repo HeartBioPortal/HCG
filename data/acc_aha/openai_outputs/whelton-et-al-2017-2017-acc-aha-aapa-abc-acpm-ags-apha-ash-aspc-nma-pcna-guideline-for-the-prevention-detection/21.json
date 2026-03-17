@@ -1,0 +1,25 @@
+{
+  "content": {
+    "Body Mass Index": {
+      "relationship": "Continuous and almost linear relationship with BP, indicating higher BMI strongly related to hypertension risk.",
+      "specific studies": [
+        "Nurses\u2019 Health Study: reported 40% hypertension rate by obesity.",
+        "Framingham Offspring Study: showed 78% in men and 65% in women, with a relative risk of 2.7 associated with obesity."
+      ]
+    },
+    "Sodium Intake": {
+      "effects": "Consistently associated with BP in various studies. Excessive consumption increases stroke and CVD risk independently.",
+      "salt sensitivity": "High in certain groups, influencing BP independently."
+    },
+    "Potassium Intake": {
+      "relationship with BP": "Inversely related to BP and stroke incidence. Higher levels seem to depress sodium's effects."
+    },
+    "Physical Fitness": {
+      "relationship": "Improves BP and reduces hypertension risk. Physical fitness in young adults predicts future lower hypertension risk."
+    },
+    "Alcohol Consumption": {
+      "relationship": "Direct association with BP noted since 1915. Increasing alcohol intake typically elevates hypertension and impacts cholesterol levels."
+    }
+  },
+  "genes": []
+}

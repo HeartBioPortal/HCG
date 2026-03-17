@@ -1,0 +1,39 @@
+{
+  "content": {
+    "guidelines": [
+      {
+        "section": "Patients With Known CAD Presenting With Stable Chest Pain",
+        "studies": [
+          {
+            "author": "Boden WE, O'Rourke RA, Teo KK, et al.",
+            "study": "Optimal medical therapy with or without PCI for stable coronary disease.",
+            "journal": "N Engl J Med",
+            "year": 2007,
+            "pages": "356:1503-1516"
+          },
+          {
+            "author": "BARI 2D Study Group, Frye RL, August P, et al.",
+            "study": "A randomized trial of therapies for type 2 diabetes and coronary artery disease.",
+            "journal": "N Engl J Med",
+            "year": 2009,
+            "pages": "360:2503-2515"
+          }
+        ]
+      },
+      {
+        "section": "Patients With Obstructive CAD Who Present With Stable Chest Pain",
+        "procedures": [
+          {
+            "name": "Medical Therapy",
+            "details": "Optimal medical therapy with or without PCI for stable coronary disease."
+          },
+          {
+            "name": "BARI 2D Study",
+            "details": "A randomized trial of therapies for type 2 diabetes and coronary artery disease."
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

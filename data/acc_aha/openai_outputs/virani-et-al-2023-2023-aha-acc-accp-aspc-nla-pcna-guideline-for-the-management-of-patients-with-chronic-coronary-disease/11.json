@@ -1,0 +1,20 @@
+{
+  "content": {
+    "title": "U.S. Heart Disease Prevalence, by Age, Race, Ethnicity, and Sex, 2015 to 2018",
+    "summary": "This table presents the prevalence of coronary heart disease (CHD) in the US population over 20 years of age from 2015 to 2018. Data is categorized by sex and race/ethnicity. CHD prevalence and the prevalence of angina or myocardial infarction are detailed. NH (Non-Hispanic) ethnic groups were specifically highlighted.",
+    "key_points": [
+      "Overall CHD prevalence for individuals 20 and older is 11 million (or 2.9%).",
+      "Men have a higher prevalence compared to women.",
+      "Ethnic prevalence indicates the highest rates in NH Black men (7.2%) and lowest in NH Asian women (3.2%).",
+      "Stable angina is defined as chest pain on exertion or stress."
+    ],
+    "figure": {
+      "description": "The figure illustrates CHD prevalence per 100,000 people by age and sex for the NHANES 2015 to 2018 dataset. Males consistently show higher prevalence rates compared to females across the age spectrum."
+    },
+    "notes": [
+      "Prevalence estimates are adjusted for the 2018 US population.",
+      "The Rose questionnaire was utilized to diagnose angina pectoris in individuals aged over 40."
+    ]
+  },
+  "genes": []
+}

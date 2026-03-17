@@ -1,0 +1,257 @@
+{
+  "content": {
+    "guidelines": [
+      {
+        "title": "Hypertrophic cardiomyopathy",
+        "organizations": [
+          "ACC/AHA",
+          "ESC"
+        ],
+        "publicationYears": [
+          2011,
+          2014,
+          2020
+        ]
+      },
+      {
+        "title": "Atrial fibrillation",
+        "organizations": [
+          "AHA/ACC"
+        ],
+        "publicationYears": [
+          2014,
+          2019,
+          2023
+        ]
+      },
+      {
+        "title": "Heart failure",
+        "organizations": [
+          "ACC/AHA"
+        ],
+        "publicationYears": [
+          2013,
+          2016,
+          2022
+        ]
+      },
+      {
+        "title": "Primary prevention",
+        "organizations": [
+          "AHA/ACC"
+        ],
+        "publicationYear": 2019
+      },
+      {
+        "title": "Management of overweight and obesity in adults",
+        "organizations": [
+          "AHA/ACC/TOS"
+        ],
+        "publicationYear": 2014
+      },
+      {
+        "title": "Device-based therapy for cardiac rhythm abnormalities",
+        "organizations": [
+          "ACC/AHA/HRS"
+        ],
+        "publicationYear": 2013
+      },
+      {
+        "title": "Ventricular arrhythmias and sudden cardiac death",
+        "organizations": [
+          "AHA/ACC/HRS"
+        ],
+        "publicationYear": 2017
+      },
+      {
+        "title": "Bradycardia",
+        "organizations": [
+          "ACC/AHA/HRS"
+        ],
+        "publicationYear": 2018
+      },
+      {
+        "title": "Prevention of cardiovascular disease in women",
+        "organizations": [
+          "AHA/ACC"
+        ],
+        "publicationYear": 2011
+      },
+      {
+        "title": "Secondary prevention and risk reduction therapy for patients with coronary and other atherosclerotic vascular disease",
+        "organizations": [
+          "AHA/ACC"
+        ],
+        "publicationYear": 2011
+      },
+      {
+        "title": "Assessment of cardiovascular risk in asymptomatic adults",
+        "organizations": [
+          "ACC/AHA"
+        ],
+        "publicationYear": 2010
+      },
+      {
+        "title": "Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure",
+        "organizations": [
+          "NHLBI"
+        ],
+        "publicationYear": 2003
+      },
+      {
+        "title": "VHD statement on comprehensive centers",
+        "organizations": [
+          "AATS/ACC/ASE/SCAI/STS"
+        ],
+        "publicationYear": 2019
+      }
+    ],
+    "abbreviations": [
+      {
+        "Abbreviation": "LBBB",
+        "Meaning": "left bundle branch block"
+      },
+      {
+        "Abbreviation": "LGE",
+        "Meaning": "late gadolinium enhancement"
+      },
+      {
+        "Abbreviation": "LV",
+        "Meaning": "left ventricular"
+      },
+      {
+        "Abbreviation": "LVAD",
+        "Meaning": "left ventricular assist device"
+      },
+      {
+        "Abbreviation": "LVEF",
+        "Meaning": "left ventricular ejection fraction"
+      },
+      {
+        "Abbreviation": "LVH",
+        "Meaning": "left ventricular hypertrophy"
+      },
+      {
+        "Abbreviation": "LVOT",
+        "Meaning": "left ventricular outflow tract"
+      },
+      {
+        "Abbreviation": "LVOTO",
+        "Meaning": "left ventricular outflow tract obstruction"
+      },
+      {
+        "Abbreviation": "MET",
+        "Meaning": "metabolic equivalent"
+      },
+      {
+        "Abbreviation": "MR",
+        "Meaning": "mitral regurgitation"
+      },
+      {
+        "Abbreviation": "NSVT",
+        "Meaning": "nonsustained ventricular tachycardia"
+      },
+      {
+        "Abbreviation": "NYHA",
+        "Meaning": "New York Heart Association"
+      },
+      {
+        "Abbreviation": "RCT",
+        "Meaning": "randomized controlled trial"
+      },
+      {
+        "Abbreviation": "RV",
+        "Meaning": "right ventricular"
+      },
+      {
+        "Abbreviation": "SAM",
+        "Meaning": "systolic anterior motion"
+      },
+      {
+        "Abbreviation": "SCAF",
+        "Meaning": "subclinical atrial fibrillation"
+      },
+      {
+        "Abbreviation": "SCD",
+        "Meaning": "sudden cardiac death"
+      },
+      {
+        "Abbreviation": "SRT",
+        "Meaning": "septal reduction therapy"
+      },
+      {
+        "Abbreviation": "TEE",
+        "Meaning": "transesophageal echocardiogram"
+      },
+      {
+        "Abbreviation": "TTE",
+        "Meaning": "transthoracic echocardiogram"
+      },
+      {
+        "Abbreviation": "VF",
+        "Meaning": "ventricular fibrillation"
+      },
+      {
+        "Abbreviation": "VT",
+        "Meaning": "ventricular tachycardia"
+      },
+      {
+        "Abbreviation": "VUS",
+        "Meaning": "variant of uncertain significance"
+      },
+      {
+        "Abbreviation": "AF",
+        "Meaning": "atrial fibrillation"
+      },
+      {
+        "Abbreviation": "CAD",
+        "Meaning": "coronary artery disease"
+      },
+      {
+        "Abbreviation": "CMR",
+        "Meaning": "cardiovascular magnetic resonance"
+      },
+      {
+        "Abbreviation": "CPET",
+        "Meaning": "cardiopulmonary exercise test"
+      },
+      {
+        "Abbreviation": "CRT",
+        "Meaning": "cardiac resynchronization therapy"
+      },
+      {
+        "Abbreviation": "DOAC",
+        "Meaning": "direct-acting oral anticoagulants"
+      },
+      {
+        "Abbreviation": "EF",
+        "Meaning": "ejection fraction"
+      },
+      {
+        "Abbreviation": "ES",
+        "Meaning": "extended septal myectomy"
+      },
+      {
+        "Abbreviation": "GDMT",
+        "Meaning": "guideline-directed management and therapy"
+      },
+      {
+        "Abbreviation": "HCM",
+        "Meaning": "hypertrophic cardiomyopathy"
+      },
+      {
+        "Abbreviation": "HF",
+        "Meaning": "heart failure"
+      },
+      {
+        "Abbreviation": "ICD",
+        "Meaning": "implantable cardioverter-defibrillator"
+      }
+    ],
+    "section_2_1": {
+      "title": "Prevalence",
+      "details": "HCM is a common inherited heart disease reported in populations globally. The estimated prevalence of HCM varies depending on whether subclinical or clinically evident cases are being considered, how or if the diagnosis is adjudicated, and age of the sample studied. The prevalence of unexplained asymptomatic hypertrophy in young adults in the United States has been reported in the range of 1:500. Symptomatic hypertrophy based on medical claims data has been estimated at <1:3000 adults in the United States; however, the true burden is much higher when unrecognized disease in the general population is considered. HCM is often inherited in an autosomal dominant pattern but does not require a family history of HCM. There is equal distribution of HCM by sex, although women are diagnosed less commonly than men. Differences in prevalence have been reported by race and ethnicity."
+    }
+  },
+  "genes": []
+}

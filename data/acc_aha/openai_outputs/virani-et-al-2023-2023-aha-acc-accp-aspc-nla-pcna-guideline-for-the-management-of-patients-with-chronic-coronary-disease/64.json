@@ -1,0 +1,34 @@
+{
+  "content": {
+    "section_titles": [
+      "SPECIAL POPULATIONS",
+      "Existing Heart Diseases and Conditions",
+      "Chronic Management After SCAD"
+    ],
+    "clinical_trials": [
+      {
+        "name": "SYNTAX trial",
+        "description": "Comparison of PCI with CABG in patients with left main CAD, triple-vessel disease, or both, focusing on patient-level health status outcomes."
+      },
+      {
+        "name": "OPTIMUM Trial",
+        "description": "Focused on patients surgically ineligible for CABG undergoing PCI, having high risks for surgery and complex clinical profiles."
+      },
+      {
+        "name": "FREEDOM Trial",
+        "description": "Compared CABG with PCI in diabetic patients with multivessel disease, highlighting outcomes related to death rates."
+      }
+    ],
+    "key_points": [
+      "The SYNTAX trial at 10-year follow-up found no significant mortality difference between PCI and CABG for specific conditions.",
+      "The OPTIMUM trial showcased complex trials for mentally and physically high-risk surgical patients.",
+      "The FREEDOM trial evaluated increased risks for diabetic patients undergoing PCI compared to CABG."
+    ],
+    "recommendations": [
+      "Counseling should be provided for patients with CCD who experienced SCAD to recognize triggers.",
+      "Evaluate for vasculopathies in patients who experienced SCAD to identify vascular abnormalities.",
+      "Beta-blocker therapy may reduce the recurrence of SCAD in applicable patients."
+    ]
+  },
+  "genes": []
+}

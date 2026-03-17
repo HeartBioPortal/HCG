@@ -1,0 +1,91 @@
+{
+  "content": {
+    "Title": "Comparative Utility of Various Management Strategies for Patients With Carotid Stenosis in Clinical Trials",
+    "Clinical Trials": [
+      {
+        "Reference": "NASCET (1991) (84)",
+        "Patient Population": "Symptomatic, 70% to 99% stenosis",
+        "Intervention": "CEA",
+        "Comparator": "Medical therapy",
+        "No. of Patients": {
+          "Treatment Group": 328,
+          "Comparator Group": 321
+        },
+        "Events": {
+          "Treatment Group": 9,
+          "Comparator Group": 26
+        },
+        "Event Used to Calculate NNT": "Ipsilateral stroke",
+        "ARR": 17.0,
+        "NNT": 12
+      },
+      {
+        "Reference": "ECST (2003) (378)",
+        "Patient Population": "Symptomatic, 70% to 99% stenosis",
+        "Intervention": "CEA",
+        "Comparator": "Medical therapy",
+        "No. of Patients": "Not reported",
+        "Events": "Not reported",
+        "Event Used to Calculate NNT": "Ipsilateral ischemic stroke and surgical stroke or death; ARR provided in study",
+        "ARR": 18.7,
+        "NNT": 27
+      },
+      {
+        "Reference": "ECST (2003) (378)",
+        "Patient Population": "Symptomatic, 70% to 99% stenosis",
+        "Intervention": "CEA",
+        "Comparator": "Medical therapy",
+        "No. of Patients": {
+          "Treatment Group": 429,
+          "Comparator Group": 850
+        },
+        "Events": {
+          "Treatment Group": 6.8
+        },
+        "Event Used to Calculate NNT": "Stroke or surgical death; ARR provided in study",
+        "ARR": 21.2,
+        "NNT": 24
+      },
+      {
+        "Reference": "NASCET (1998) (20)",
+        "Patient Population": "Symptomatic, 50% to 69% stenosis",
+        "Intervention": "CEA",
+        "Comparator": "Medical therapy",
+        "No. of Patients": {
+          "Treatment Group": 430,
+          "Comparator Group": 428
+        },
+        "Events": {
+          "Treatment Group": 15.7,
+          "Comparator Group": 22.2
+        },
+        "Event Used to Calculate NNT": "Ipsilateral stroke",
+        "ARR": 6.5,
+        "NNT": 77
+      },
+      {
+        "Reference": "ASYMPTOMATIC CEA",
+        "Details": "Various references comparing CEA to medical therapy showing differences in ARR and NNT based on patient populations with asymptomatic conditions."
+      },
+      {
+        "Reference": "SAPPHIRE 1 y data (2004) (370)",
+        "Patient Population": "Mixed population: Symptomatic, \u226550% stenosis; Asymptomatic, \u226580% stenosis",
+        "Intervention": "CEA",
+        "Comparator": "CAS",
+        "No. of Patients": {
+          "Treatment Group": 167,
+          "Comparator Group": 167
+        },
+        "Events": {
+          "Treatment Group": 7.9,
+          "Comparator Group": 6.2
+        },
+        "Event Used to Calculate NNT": "Stroke",
+        "ARR": 1.7,
+        "NNT": 58
+      }
+    ],
+    "Summary": "The table compares different clinical trials about management strategies for carotid stenosis, including interventions such as Carotid Endarterectomy (CEA) and Carotid Artery Stenting (CAS). The effectiveness is measured through ARR and NNT depending on whether the patient is symptomatic or asymptomatic."
+  },
+  "genes": []
+}

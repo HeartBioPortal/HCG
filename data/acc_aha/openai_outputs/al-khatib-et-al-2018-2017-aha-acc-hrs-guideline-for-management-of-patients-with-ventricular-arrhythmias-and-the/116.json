@@ -1,0 +1,51 @@
+{
+  "content": {
+    "guideline_title": "2017 VASCD Guideline",
+    "publication_date": "October 2, 2018",
+    "journal": "Journal of the American College of Cardiology",
+    "volume": "72",
+    "issue": "14"
+  },
+  "genes": [
+    {
+      "Gene": "KCNQ1",
+      "Associated Conditions": [
+        "Exertion-related sudden unexplained death"
+      ],
+      "Occurrences": 1,
+      "context": "KCNQ1, KCNH2, KCNJ2, SCN5A, and NOS1AP in water-related deaths in Israel."
+    },
+    {
+      "Gene": "KCNH2",
+      "Associated Conditions": [
+        "Exertion-related sudden unexplained death"
+      ],
+      "Occurrences": 1,
+      "context": "KCNQ1, KCNH2, KCNJ2, SCN5A, and NOS1AP in water-related deaths in Israel."
+    },
+    {
+      "Gene": "KCNJ2",
+      "Associated Conditions": [
+        "Exertion-related sudden unexplained death"
+      ],
+      "Occurrences": 1,
+      "context": "KCNQ1, KCNH2, KCNJ2, SCN5A, and NOS1AP in water-related deaths in Israel."
+    },
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "Exertion-related sudden unexplained death"
+      ],
+      "Occurrences": 1,
+      "context": "KCNQ1, KCNH2, KCNJ2, SCN5A, and NOS1AP in water-related deaths in Israel."
+    },
+    {
+      "Gene": "NOS1AP",
+      "Associated Conditions": [
+        "Exertion-related sudden unexplained death"
+      ],
+      "Occurrences": 1,
+      "context": "KCNQ1, KCNH2, KCNJ2, SCN5A, and NOS1AP in water-related deaths in Israel."
+    }
+  ]
+}

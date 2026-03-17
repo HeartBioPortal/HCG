@@ -1,0 +1,21 @@
+{
+  "content": {
+    "ACC/AHA COR IIb recommendation": "This recommendation is for individuals with uncertain risk-based treatment decisions. It aligns with the recommendations in the 2010 ACCF/AHA guideline and the 2013 ACC/AHA guideline for blood cholesterol treatment.",
+    "Newer Risk Markers": [
+      "Family history",
+      "hs-CRP",
+      "CAC score",
+      "ABI"
+    ],
+    "Recommendation on CIMT": "Routine measurement of CIMT is not recommended for risk assessment for a first ASCVD event.",
+    "Uncertain Contribution to Risk Assessment": [
+      "ApoB",
+      "Chronic kidney disease",
+      "Albuminuria",
+      "Cardiorespiratory fitness"
+    ],
+    "Lifelong Risk Perspective": "Focus on providing risk information and context for lifestyle modification in younger patients, especially for those with extreme risk factors like familial hypercholesterolemia.",
+    "Long-term vs. Short-term Risk": "There is a disconnect in long-term risk not aligning with 10-year risk scores. COQ2 focuses on the utility of long-term and lifetime risk assessment."
+  },
+  "genes": []
+}

@@ -1,0 +1,55 @@
+{
+  "content": {
+    "Components of Wound Care for Patients With CLTI": [
+      "Revascularization for adequate perfusion",
+      "Debridement of nonviable tissue",
+      "Management of infection, inflammation, or both",
+      "Pressure offloading",
+      "Maintaining conducive wound-healing environment",
+      "Pain control",
+      "Medical optimization of host factors (e.g., smoking cessation, glycemic control)",
+      "Optimization of tissue growth",
+      "Control of edema"
+    ],
+    "Studies Discussed": [
+      {
+        "Focus": "Wound-healing adjuncts",
+        "Population": "Patients with chronic limb-threatening ischemia (CLTI), diabetic foot ulcers",
+        "Therapies": [
+          "Negative Pressure Wound Therapy (NPWT)",
+          "Hyperbaric oxygen therapy"
+        ],
+        "Findings": [
+          "Limited efficacy of NPWT",
+          "Mixed results with hyperbaric oxygen therapy",
+          "Recent systematic review showing potential for wound healing"
+        ]
+      },
+      {
+        "RCT": "Focused on foot ulcers and PAD",
+        "Findings": [
+          "Significant decrease in ulcer area at 6 weeks without revascularization",
+          "No difference in ulcer size at 6 months"
+        ]
+      }
+    ],
+    "Recommendations for 'No Option' Patients with CLTI": [
+      {
+        "COR": "2b",
+        "LOE": "B-R",
+        "Recommendation": "Usefulness of prostanoids is uncertain"
+      },
+      {
+        "COR": "2b",
+        "LOE": "B-NR",
+        "Recommendation": "Consider intermittent pneumatic compression devices"
+      },
+      {
+        "COR": "2b",
+        "LOE": "B-NR",
+        "Recommendation": "Consider venous arterialization for limb preservation"
+      }
+    ]
+  },
+  "genes": []
+}

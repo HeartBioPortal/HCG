@@ -1,0 +1,38 @@
+{
+  "content": {
+    "general_information": [
+      {
+        "section": "S7.4",
+        "title": "Myocarditis",
+        "details": [
+          "S7.4-5 discusses prevalence and natural history of left ventricular aneurysms in hypertrophic cardiomyopathy.",
+          "S7.4-7 through S7.4-16 provide various studies on diagnosis, treatment, and outcomes for myocarditis and related conditions."
+        ]
+      },
+      {
+        "section": "S7.5",
+        "title": "Myocarditis",
+        "details": [
+          "S7.5-1 through S7.5-4 discuss fulminant myocarditis and treatment guidelines in Japan."
+        ]
+      },
+      {
+        "section": "S7.6",
+        "title": "Cardiac Sarcoidosis",
+        "details": [
+          "S7.6-1 through S7.6-12 focus on diagnosis, prognosis, and the impact of various factors on cardiac sarcoidosis outcomes."
+        ]
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "TNNT2",
+      "Associated Conditions": [
+        "hypertrophic cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "S7.4-4. Maron MS, Finley JJ, Bos JM, et al. Prevalence, clinical significance, and natural history of left ventricular apical aneurysms in hypertrophic cardiomyopathy. Circulation. 2008;118:1541-9."
+    }
+  ]
+}

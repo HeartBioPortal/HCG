@@ -1,0 +1,44 @@
+{
+  "content": {
+    "Title": "2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline",
+    "Volume": "JACC VOL. 82, NO. 9, 2023",
+    "Date": "August 29, 2023",
+    "Sections": [
+      {
+        "Title": "4.3.2. Beta Blockers",
+        "Recommendations": [
+          {
+            "COR": "1",
+            "LOE": "A",
+            "Text": "In patients with CCD and LVEF \u226440% with or without previous MI, the use of beta-blocker therapy is recommended to reduce the risk of future MACE, including cardiovascular death."
+          },
+          {
+            "COR": "1",
+            "LOE": "A",
+            "Text": "In patients with CCD and LVEF <50%, the use of sustained release metoprolol succinate, carvedilol, or bisoprolol with titration to target doses is recommended in preference to other beta blockers."
+          },
+          {
+            "COR": "2b",
+            "LOE": "B-NR",
+            "Text": "In patients with CCD who were initiated on beta-blocker therapy for previous MI without a history of or current LVEF \u226450%, angina, arrhythmias, or uncontrolled hypertension, it may be reasonable to reassess the indication for long-term (>1 year) use of beta-blocker therapy for reducing MACE."
+          },
+          {
+            "COR": "3",
+            "LOE": "No Benefit",
+            "Text": "In patients with CCD without previous MI or LVEF \u226450%, the use of beta-blocker therapy is not beneficial in reducing MACE, in the absence of another primary indication for beta-blocker therapy."
+          }
+        ]
+      }
+    ],
+    "Synopsis": "Beta blockers exhibit clinical effects by decreasing myocardial oxygen demand, improving ischemic threshold, and impeding maladaptive LV remodeling. Patients with CCD comprise patients with or without previous MI, LV systolic dysfunction, or both.",
+    "Study Data": [
+      {
+        "Type": "RCTs",
+        "Size": "6",
+        "Participants": "6,930",
+        "Findings": "Use of PPIs is associated with a reduced risk of gastrointestinal bleeding in patients treated with DAPT after PCI. No significant differences were observed in the incidence of MACE, MI, and all-cause death in patients with CAD on DAPT and PPIs."
+      }
+    ]
+  },
+  "genes": []
+}

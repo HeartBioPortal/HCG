@@ -1,0 +1,16 @@
+{
+  "content": {
+    "General Information": "The document is a clinical guideline focusing on bradycardia and recommendations for permanent pacing. Patients with symptomatic atrioventricular block, regardless of progression risk, require pacing. Different clinical scenarios are detailed, including neuromuscular disorders and specific genetic conditions affecting pacing decisions. Synopsis and recommendation-specific supporting texts provide evidence and justification for pacing decisions based on historical and observational studies."
+  },
+  "genes": [
+    {
+      "Gene": "Lamin A/C",
+      "Associated Conditions": [
+        "limb-girdle muscular dystrophies",
+        "Emery-Dreifuss muscular dystrophies"
+      ],
+      "Occurrences": 1,
+      "context": "In patients with lamin A/C gene mutations, including limb-girdle and Emery-Dreifuss muscular dystrophies, with a PR interval greater than 240 ms and LBBB, permanent pacing, with additional defibrillator capability if needed and meaningful survival of greater than 1 year is expected, is reasonable."
+    }
+  ]
+}

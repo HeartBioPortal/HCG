@@ -1,0 +1,18 @@
+{
+  "content": {
+    "Synopsis": "Recurrences of AF are common after a first ablation procedure, occurring in 30% to 40% of patients in contemporary clinical trials. In general US practice, 11% of patients undergoing de novo ablation have a repeat ablation by 1 year. Patients often experience improved symptoms and QOL even when they experience recurrence after catheter ablation. Nonetheless, recurrent atrial arrhythmia that leads to symptoms or LV dysfunction requires treatment.",
+    "Recommendation-Specific Supportive Text": {
+      "1": "In general, successful suppression of AF improves with additional or multiple ablation procedures. The absolute limit to the number of ablations a patient can undergo is unknown. Repeat ablations with substrate modification may be beneficial. However, repeat ablations carry increased risks of adverse effects, including PV stenosis and stiff LA syndrome.",
+      "2": "Randomized data suggest repeat ablation is superior to antiarrhythmic drug therapy for recurrent AF after first ablation. Optimal rhythm control often requires a combined approach, with catheter ablation and adjunctive antiarrhythmic drug therapy.",
+      "3": "Short-term antiarrhythmic drug therapy (3-6 months post-ablation) demonstrates efficacy in preventing AF recurrences and reducing hospital readmissions. Continuation of therapy beyond the blanking period (3 months) may reduce recurrent atrial arrhythmias up to 1 year.",
+      "4": "Limited numbers of randomized trials can guide optimal approaches to repeat catheter ablation."
+    },
+    "Anticoagulation Therapy Recommendations": {
+      "1": "Patients on warfarin undergoing catheter ablation should be maintained on uninterrupted therapeutic anticoagulation with a goal INR of 2.0 to 3.0.",
+      "2": "Patients on a DOAC undergoing catheter ablation should continue or minimally interrupt oral anticoagulation.",
+      "3": "Patients who have undergone catheter ablation should continue oral anticoagulation for at least 3 months with further duration based on underlying risk.",
+      "4": "Continuation of longer-term oral anticoagulation should be dictated according to patient\u2019s stroke risk."
+    }
+  },
+  "genes": []
+}

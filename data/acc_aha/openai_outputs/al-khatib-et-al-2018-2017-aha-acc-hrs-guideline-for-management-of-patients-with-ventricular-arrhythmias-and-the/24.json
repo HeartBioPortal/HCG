@@ -1,0 +1,171 @@
+{
+  "content": {
+    "table": "Antiarrhythmic Medication (Class) and Dose",
+    "categories": [
+      {
+        "Medication": "Metoprolol (II)",
+        "Dose": [
+          "IV: 5 mg q 5 min up to 3 doses",
+          "PO: 25-100 mg",
+          "Extended release qd or q 12 h"
+        ],
+        "Uses": "VT, PVC",
+        "Target": "Beta 1 receptor",
+        "Electrophysiological Effects": "Sinus rate slowed, AV nodal refractoriness increased",
+        "Pharmacological Characteristics": {
+          "t1/2": "3-4 h",
+          "Metabolism": "H",
+          "Excretion": "U"
+        },
+        "Common Adverse Effects": "Cardiac: Bradycardia, hypotension, AVB. Other: Dizziness, fatigue, diarrhea, depression, dyspnea"
+      },
+      {
+        "Medication": "Mexiletine (IB)",
+        "Dose": "PO: 150-300 mg q 8 h or q 12 h",
+        "Uses": "T, VF, PVC, has a role in patients with LQT3",
+        "Target": "INA",
+        "Electrophysiological Effects": "No marked effect on most intervals; QTc can slightly shorten",
+        "Pharmacological Characteristics": {
+          "t1/2": "10-14 h",
+          "Metabolism": "H",
+          "Excretion": "U"
+        },
+        "Common Adverse Effects": "Cardiac: HF, AVB. Other: Lightheaded, tremor, ataxia, paraesthesias, nausea, blood dyscrasias"
+      },
+      {
+        "Medication": "Nadolol (II)",
+        "Dose": "PO: 40-320 mg daily",
+        "Uses": "VT, PVC, LQTS, CPVT",
+        "Target": "Beta 1 and 2 receptors",
+        "Electrophysiological Effects": "Sinus rate slowed, AV nodal refractoriness increased",
+        "Pharmacological Characteristics": {
+          "t1/2": "20-24 h",
+          "Metabolism": "none",
+          "Excretion": "U"
+        },
+        "Common Adverse Effects": "Cardiac: Bradycardia, hypotension, HF, AVB. Other: Edema, dizziness, cold extremities, bronchospasm"
+      },
+      {
+        "Medication": "Procainamide (IA)",
+        "Dose": [
+          "IV: loading dose 10-17 mg/kg at 20-50 mg/min",
+          "Maintenance dose: 1-4 mg/min",
+          "PO (SR preparation): 500-1250 mg q 6 h"
+        ],
+        "Uses": "VT",
+        "Target": "INA, IKR",
+        "Electrophysiological Effects": "QRS prolonged, QTc prolonged; increased DFT",
+        "Pharmacological Characteristics": {
+          "t1/2": [
+            "2-5 h",
+            "NAPA 6-8 h",
+            "t1/2 prolonged in renal dysfunction",
+            "Anephric: proc 11 h and NAPA 42 h"
+          ]
+        },
+        "Common Adverse Effects": "Cardiac: TdP, AVB, hypotension and exacerbation of HFrEF. Other: Lupus symptoms, diarrhea, nausea, blood dyscrasias"
+      },
+      {
+        "Medication": "Propafenone (IC)",
+        "Dose": [
+          "PO: Immediate release 150-300 mg q 8 h",
+          "Extended release q 225-425 mg q 12 h"
+        ],
+        "Uses": "VT, PVC (in the absence of structural heart disease)",
+        "Target": "INA, IKR, Beta receptor, Alpha receptor",
+        "Electrophysiological Effects": "PR prolonged, QRS prolonged; increased DFT",
+        "Pharmacological Characteristics": {
+          "t1/2": [
+            "2-10 h or 10-32 h",
+            "extensive metabolizers 2-10 h",
+            "poor metabolizers 10-32 h"
+          ],
+          "Metabolism": "H",
+          "Excretion": "U"
+        },
+        "Common Adverse Effects": "Cardiac: HF, AVB, drug-induced Brugada syndrome. Other: Dizziness, fatigue, nausea, diarrhea, xerostomia, tremor, blurred vision"
+      },
+      {
+        "Medication": "Propranolol (II)",
+        "Dose": [
+          "IV: 1-3 mg q 5 min to a total of 5 mg",
+          "PO: Immediate release 10-40 mg q 6 h; Extended release 60-160 mg q 12 h"
+        ],
+        "Uses": "VT, PVC, LQTS",
+        "Target": "Beta 1 and 2 receptors, INA",
+        "Electrophysiological Effects": "Sinus rate slowed, AV nodal refractoriness increased",
+        "Pharmacological Characteristics": {
+          "t1/2": "Immediate release 3-6 h, Extended release 8-10 h",
+          "Metabolism": "H",
+          "Excretion": "U"
+        },
+        "Common Adverse Effects": "Cardiac: Bradycardia, hypotension, HF, AVB. Other: Sleep disorder, dizziness, nightmares, hyperglycemia, diarrhea, bronchospasm"
+      },
+      {
+        "Medication": "Quinidine (IA)",
+        "Dose": [
+          "PO: sulfate salt 200-600 mg q 6 h to q 12 h",
+          "gluconate salt 324-648 mg q 8 h to q 12 h",
+          "IV: loading dose: 800 mg in 50 ml infused at 50 mg/min"
+        ],
+        "Uses": "T, VF (including short QT syndrome, Brugada)",
+        "Target": "INA, IKR, ITO, M, Alpha receptor",
+        "Electrophysiological Effects": "QRS prolonged, QTc prolonged; increased DFT",
+        "Pharmacological Characteristics": {
+          "t1/2": [
+            "6-8 h longer in HF, liver cirrhosis, and with older age"
+          ],
+          "Metabolism": "H"
+        },
+        "Common Adverse Effects": "Cardiac: Syncope, TdP, AVB. Other: Dizziness, diarrhea, nausea, esophagitis, emesis, tinnitus, blurred vision, rash, weakness, tremor, blood dyscrasias"
+      },
+      {
+        "Medication": "Ranolazine (not classified)",
+        "Dose": "PO: 500-1000 mg q 12 h",
+        "Uses": "VT",
+        "Target": "INA, IKR",
+        "Electrophysiological Effects": "Sinus rate slowed, QTc prolonged",
+        "Pharmacological Characteristics": {
+          "t1/2": "7 h",
+          "Metabolism": "H",
+          "Excretion": "U",
+          "F": "75%, F 25%"
+        },
+        "Common Adverse Effects": "Cardiac: Bradycardia, hypotension. Other: Headache, dizziness, syncope, nausea, dyspnea"
+      },
+      {
+        "Medication": "Sotalol (III)",
+        "Dose": [
+          "IV: 75 mg q 12 h",
+          "PO: 80-120 mg q 12 h, may increase dose every 3 d; max 320 mg/d"
+        ],
+        "Uses": "VT, VF, PVC",
+        "Target": "Beta 1 and 2 receptors",
+        "Electrophysiological Effects": "Sinus rate slowed, QTc prolonged, AV nodal refractoriness increased, decreased DFT",
+        "Pharmacological Characteristics": {
+          "t1/2": "12 h",
+          "Metabolism": "none",
+          "Excretion": "U"
+        },
+        "Common Adverse Effects": "Cardiac: Bradycardia, hypotension, HF, syncope, TdP. Other: Fatigue, dizziness, weakness, dyspnea, bronchitis, depression, nausea, diarrhea"
+      },
+      {
+        "Medication": "Verapamil (IV)",
+        "Dose": [
+          "IV: 2.5-5 mg IV 5-10 min",
+          "Sustained release PO: 240-480 mg/d"
+        ],
+        "Uses": "VT (specifically RVOT, verapamil-sensitive idiopathic LVT)",
+        "Target": "ICa,L",
+        "Electrophysiological Effects": "Sinus rate slowed, PR prolonged, AV nodal conduction slowed",
+        "Pharmacological Characteristics": {
+          "t1/2": "3-7 h",
+          "Metabolism": "H",
+          "Excretion": "U"
+        },
+        "Common Adverse Effects": "Cardiac: Hypotension, edema, HF, AVB, bradycardia, exacerbation of HFrEF. Other: Headache, rash, gingival hyperplasia, constipation, dyspepsia"
+      }
+    ]
+  },
+  "genes": []
+}

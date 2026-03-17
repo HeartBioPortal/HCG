@@ -1,0 +1,751 @@
+{
+  "content": [
+    {
+      "content": {
+        "title": "AHA/ACCF Secondary Prevention and Risk Reduction Therapy for Patients With Coronary and Other Atherosclerotic Vascular Disease: 2011 Update",
+        "organizations": [
+          "American Heart Association",
+          "American College of Cardiology Foundation",
+          "World Heart Federation",
+          "Preventive Cardiovascular Nurses Association"
+        ],
+        "main_points": [
+          "Update of 2006 guidelines based on recent clinical trials and revised practice guidelines.",
+          "Focus on secondary prevention in patients with coronary and other atherosclerotic vascular diseases, including peripheral artery disease, atherosclerotic aortic disease, and carotid artery disease.",
+          "Guidelines include recommendations based on evidence levels (2\u201316).",
+          "Emphasis on improving survival, reducing recurrent events, need for revascularization, and enhancing quality of life.",
+          "Recommendations based on major practice guidelines from the National Institutes of Health and ACCF/AHA practice guidelines."
+        ],
+        "publication_info": {
+          "journal": "Journal of the American College of Cardiology",
+          "year": 2011,
+          "volume": "58",
+          "issue": "23",
+          "pages": "823-831",
+          "doi": "10.1016/j.jacc.2011.10.824"
+        },
+        "authors": [
+          "Sidney C. Smith, Jr",
+          "Emelia J. Benjamin",
+          "Robert O. Bonow",
+          "Lynne T. Braun",
+          "Mark A. Creager",
+          "Barry A. Franklin",
+          "Raymond J. Gibbons",
+          "Scott M. Grundy",
+          "Loren F. Hiratzka",
+          "Daniel W. Jones",
+          "Donald M. Lloyd-Jones",
+          "Margo Minissian",
+          "Lori Mosca",
+          "Eric D. Peterson",
+          "Ralph L. Sacco",
+          "John Spertus",
+          "James H. Stein",
+          "Kathryn A. Taubert"
+        ],
+        "disclosure": "The American Heart Association makes every effort to avoid any actual or potential conflicts of interest that may arise."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "AHA/ACCF Secondary Prevention and Risk Reduction Therapy for Patients With Coronary and Other Atherosclerotic Vascular Disease: 2011 Update: Intervention Recommendations With Class of Recommendation and Level of Evidence",
+        "Smoking": {
+          "Goal": "Complete cessation. No exposure to environmental tobacco smoke.",
+          "Recommendations": [
+            "Patients should be asked about tobacco use status at every office visit.",
+            "Every tobacco user should be advised to quit at every visit.",
+            "The tobacco user's willingness to quit should be assessed at every visit.",
+            "Patients should be assisted by counseling and by developing a plan for quitting.",
+            "Arrangement for follow-up is recommended.",
+            "All patients should be advised at every office visit to avoid exposure to environmental tobacco smoke at home, work, and public places."
+          ],
+          "Note": "The writing committee anticipated updates will be reviewed with updated guidelines."
+        },
+        "Blood Pressure Control": {
+          "Goal": "<140/90 mm Hg",
+          "Recommendations": [
+            "Patients should be counseled regarding lifestyle modification.",
+            "Patients with blood pressure \u2265140/90 mm Hg should be treated with medication to achieve goal blood pressure."
+          ],
+          "Note": "Recommendations will be reviewed when updated JNC guidelines are released."
+        },
+        "Lipid Management": {
+          "Goal": "Treatment with statin therapy; use statin therapy to achieve an LDL-C of <100 mg/dL; <70 mg/dL for very high risk; if triglycerides are \u2265200 mg/dL, non-HDL-C should be <130 mg/dL.",
+          "Class I Recommendations": [
+            "A lipid profile in all patients should be established.",
+            "Lifestyle modifications including daily physical activity and weight management are recommended.",
+            "Dietary therapy for all patients should include reduced intake of saturated fats and cholesterol.",
+            "Statin therapy should be used in the absence of contraindications or adverse effects.",
+            "An adequate dose of statin should be used that reduces LDL-C to <100 mg/dL.",
+            "Patients with triglycerides \u2265200 mg/dL should be treated with statins to lower non-HDL-C to <130 mg/dL.",
+            "Patients who have triglycerides >500 mg/dL should start fibrate therapy."
+          ],
+          "Class IIa Recommendations": [
+            "Treatment intensification with a bile acid sequestrant or niacin is reasonable.",
+            "For patients who do not tolerate statins, LDL-C lowering therapy with bile acid sequestrants and/or niacin is reasonable.",
+            "Treat very high-risk patients with statin therapy to lower LDL-C to <70 mg/dL.",
+            "Patients at very high risk and who have triglycerides \u2265200 mg/dL, a non-HDL-C goal of <100 mg/dL is reasonable."
+          ],
+          "Class III Recommendations": [
+            "Use of ezetimibe may be considered for patients who do not tolerate or achieve target LDL-C with statins.",
+            "Patients with elevated non-HDL-C while on adequate statin therapy should consider niacin or fibrate therapy.",
+            "It is reasonable to recommend omega-3 fatty acids from fish or fish oils for cardiovascular risk reduction."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Physical activity": {
+          "Goal": "At least 30 minutes, 7 days per week",
+          "Recommendations": [
+            "Clinician should encourage 30 to 60 minutes of moderate-intensity aerobic activity, at least 5 days per week.",
+            "Risk assessment with a physical activity history is recommended.",
+            "Counsel patients to report and be evaluated for symptoms related to exercise."
+          ],
+          "Levels of Evidence": {
+            "Class I": [
+              "B",
+              "B",
+              "C"
+            ],
+            "Class IIa": [
+              "C"
+            ]
+          }
+        },
+        "Weight management": {
+          "Goals": [
+            "Body mass index: 18.5 to 24.9 kg/m\u00b2",
+            "Waist circumference: women <35 inches (<89 cm), men <40 inches (<102 cm)"
+          ],
+          "Recommendations": [
+            "Assess body mass index and/or waist circumference at every visit.",
+            "Promote a body mass index between 18.5 and 24.9 kg/m\u00b2.",
+            "For increased waist circumference, intensify therapeutic lifestyle interventions."
+          ],
+          "Levels of Evidence": {
+            "Class I": [
+              "B",
+              "B",
+              "C"
+            ]
+          }
+        },
+        "Type 2 diabetes mellitus management": {
+          "Recommendations": [
+            "Care should be coordinated with an endocrinologist.",
+            "Daily physical activity, weight management, blood pressure control, and lipid management recommended."
+          ],
+          "Levels of Evidence": {
+            "Class I": [
+              "C",
+              "B"
+            ],
+            "Class IIa": [
+              "A",
+              "C"
+            ],
+            "Class IIb": [
+              "C"
+            ]
+          }
+        },
+        "Antiplatelet agents/anticoagulants": {
+          "Recommendations": [
+            "Aspirin 75\u2013162 mg daily for patients with coronary artery disease.",
+            "Clopidogrel 75 mg daily as an alternative for aspirin-intolerant patients.",
+            "Combination of a P2Y12 receptor antagonist with aspirin for ACS or PCI patients.",
+            "Specific dosing for patients with stents recommended.",
+            "Consider anticoagulant strategies after coronary artery bypass surgery."
+          ],
+          "Levels of Evidence": {
+            "Class I": [
+              "A",
+              "B",
+              "A",
+              "A",
+              "A"
+            ]
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Antiplatelet agents/anticoagulants": {
+          "Recommendations": [
+            {
+              "Class": "I",
+              "Recommendation": "For patients with symptomatic atherosclerotic peripheral artery disease of the lower extremity, antiplatelet therapy with aspirin (75\u2013325 mg daily) or clopidogrel (75 mg daily) should be started and continued.",
+              "Level of Evidence": "A"
+            },
+            {
+              "Class": "I",
+              "Recommendation": "Antiplatelet therapy is recommended in preference to anticoagulant therapy with warfarin or other vitamin K antagonists to treat patients with atherosclerosis.",
+              "Level of Evidence": "A"
+            },
+            {
+              "Class": "I",
+              "Recommendation": "If there is a compelling indication for anticoagulant therapy, such as atrial fibrillation, prosthetic heart valve, left ventricular thrombus, or concomitant venous thromboembolic disease, warfarin should be administered.",
+              "Level of Evidence": "A"
+            },
+            {
+              "Class": "I",
+              "Recommendation": "For patients requiring warfarin, therapy should be administered to achieve the recommended INR for the specific condition.",
+              "Level of Evidence": "B"
+            }
+          ]
+        },
+        "Renin-angiotensin-aldosterone system blockers": {
+          "ACE inhibitors": {
+            "Class I": [
+              "ACE inhibitors should be started and continued indefinitely in all patients with left ventricular ejection fraction \u226440% and in those with hypertension, diabetes, or chronic kidney disease."
+            ],
+            "Class IIa": [
+              "It is reasonable to use ACE inhibitors in all other patients."
+            ]
+          },
+          "ARBs": {
+            "Class I": [
+              "The use of ARBs is recommended in patients who have heart failure or who have had a myocardial infarction with left ventricular ejection fraction \u226440% and who are ACE-inhibitor intolerant."
+            ],
+            "Class IIa": [
+              "It is reasonable to use ARBs in other patients who are ACE-inhibitor intolerant."
+            ],
+            "Class IIb": [
+              "The use of ARBs in combination with an ACE inhibitor is not well established in those with systolic heart failure."
+            ]
+          },
+          "Aldosterone blockade": {
+            "Class I": [
+              "Use of aldosterone blockade in post-myocardial infarction patients without significant renal dysfunction or hyperkalemia is recommended for patients who are already receiving effective doses of an ACE inhibitor and a \u03b2-blocker, who have a left ventricular ejection fraction \u226440%, and who have either diabetes or heart failure."
+            ]
+          }
+        },
+        "\u03b2-Blockers": {
+          "Class I": [
+            "\u03b2-Blocker therapy should be used in all patients with left ventricular systolic dysfunction (ejection fraction \u226440%) with heart failure or prior myocardial infarction.",
+            "\u03b2-Blocker therapy should be started and continued for 3 years in all patients with normal left ventricular function who have had myocardial infarction or ACS."
+          ],
+          "Class IIa": [
+            "It is reasonable to continue \u03b2-blockers beyond 3 years as chronic therapy in all patients with normal left ventricular function who have had myocardial infarction or ACS.",
+            "It is reasonable to give \u03b2-blocker therapy in patients with left ventricular systolic dysfunction (ejection fraction \u226440%) without heart failure or prior myocardial infarction."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "\u03b2-Blockers": {
+          "Class IIb": "\u03b2-Blockers may be considered as chronic therapy for all other patients with coronary or other vascular disease. (Level of Evidence: C)"
+        },
+        "Influenza vaccination": {
+          "Class I": "Patients with cardiovascular disease should have an annual influenza vaccination. (Level of Evidence: B)"
+        },
+        "Depression": {
+          "Class IIa": "For patients with recent coronary artery bypass graft surgery or myocardial infarction, it is reasonable to screen for depression if patients have access to case management, in collaboration with their primary care physician and a mental health specialist. (Level of Evidence: B)",
+          "Class IIb": "Treatment of depression has not been shown to improve cardiovascular disease outcomes but may be reasonable for its other clinical benefits. (Level of Evidence: C)"
+        },
+        "Cardiac rehabilitation": {
+          "Class I": [
+            "All eligible patients with ACS or whose status is immediately post coronary artery bypass surgery or post-PCI should be referred to a comprehensive outpatient cardiovascular rehabilitation program either prior to hospital discharge or during the first follow-up office visit. (Level of Evidence: A)",
+            "All eligible outpatients with the diagnosis of ACS, coronary artery bypass surgery or PCI within the past year should be referred to a comprehensive outpatient cardiovascular rehabilitation program. (Level of Evidence: A)",
+            "A home-based cardiac rehabilitation program can be substituted for a supervised, center-based program for low-risk patients. (Level of Evidence: A)"
+          ],
+          "Class IIa": "A comprehensive exercise-based outpatient cardiac rehabilitation program can be safe and beneficial for clinically stable outpatients with a history of heart failure. (Level of Evidence: B)"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Levels of Recommendation": {
+          "Class I": {
+            "Description": "Benefit >> Risk. Procedure/Treatment SHOULD be performed/administered.",
+            "Level of Evidence": {
+              "Level A": "Multiple populations evaluated. Data derived from multiple randomized clinical trials or meta-analyses. Sufficient evidence for recommendation.",
+              "Level B": "Limited populations evaluated. Data derived from a single randomized trial or nonrandomized studies. Recommendation based on evidence.",
+              "Level C": "Very limited populations evaluated. Only consensus opinion, case studies, or standard of care. Recommendation based on consensus."
+            }
+          },
+          "Class IIa": {
+            "Description": "Benefit >> Risk. Additional studies with focused objectives needed. IT IS REASONABLE to perform procedure/administer treatment.",
+            "Level of Evidence": "Includes Levels A, B, and C with similar descriptions as Class I."
+          },
+          "Class IIb": {
+            "Description": "Benefit >= Risk. Additional studies with broad objectives needed; additional registry data would be helpful. Procedure/Treatment MAY BE CONSIDERED.",
+            "Level of Evidence": "Includes Levels A, B, and C with similar descriptions as Class I but with greater conflict or divergence."
+          },
+          "Class III": {
+            "Description": "No Benefit or Harm. Procedure/Treatment is NOT recommended/harmful. Sufficient evidence from trials or studies.",
+            "Level of Evidence": "Includes Levels A, B, and C with similar descriptions as Class I but indicating harmful or lack of utility."
+          }
+        },
+        "Lipid Management": {
+          "LDL-C Goal": "< 100 mg/dL for all patients with CHD and other clinical forms of atherosclerotic disease. < 70 mg/dL for highest risk patients.",
+          "Statin Recommendation": "Use statin therapy to achieve LDL-C reductions > 50% with either statins or LDL-C\u2013lowering drug combinations for certain patients."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "LDL-C Goal": "<100 mg/dL remains unchanged, but a level <70 mg/dL for those without CHD is not universally applicable. Awaiting further guidelines.",
+        "Dyslipidemia": "Pending further recommendations with upcoming guidelines.",
+        "Hypertension": "Recommendations will be updated with new guidelines in spring 2012.",
+        "Clopidogrel Usage": "Post-acute coronary syndrome/percutaneous coronary intervention guidelines updated. Includes TRITON\u2013TIMI 38 trial findings.",
+        "\u03b2-blocker Therapy": "Updated recommendations for recent myocardial infarction (<3 years) and/or left ventricular systolic dysfunction.",
+        "Aldosterone Antagonists": "Recommended for heart failure with impaired left ventricle.",
+        "Additional Therapies": "Angiotensin-converting enzyme inhibitors influenced by recent studies.",
+        "Influenza Vaccination": "Recommended for individuals with chronic disorders due to increased risk from influenza.",
+        "Recent Additions": "Sections on depression and cardiovascular rehabilitation added.",
+        "Cardiovascular Disease Trials": "Encourages patient participation to strengthen therapeutic guidelines.",
+        "Guideline Utilization": "Providers encouraged to personalize care and reassess compliance."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "image_type": "Disclosure",
+        "disclosure_info": [
+          {
+            "name": "Sidney C. Smith, Jr.",
+            "employment": "University of North Carolina",
+            "research_grant": "None",
+            "other_research_support": "None",
+            "speakers_bureau_honoraria": "None",
+            "expert_witness": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": "None",
+            "other": "None"
+          },
+          {
+            "name": "Emelia J. Benjamin",
+            "employment": "Boston University School of Medicine",
+            "research_grant": "None",
+            "other_research_support": "None",
+            "speakers_bureau_honoraria": "None",
+            "expert_witness": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": "None",
+            "other": "None"
+          },
+          {
+            "name": "Robert O. Bonow",
+            "employment": "Northwestern University",
+            "research_grant": "None",
+            "other_research_support": "None",
+            "speakers_bureau_honoraria": "None",
+            "expert_witness": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": "None",
+            "other": "None"
+          },
+          {
+            "name": "Lynne T. Braun",
+            "employment": "Rush University Medical Center",
+            "research_grant": "NHLBI\u2013Coinvestigator, Reducing Health Disparity in African American Women: Adherence to Physical Activity",
+            "other_research_support": "None",
+            "speakers_bureau_honoraria": "None",
+            "expert_witness": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": "None",
+            "other": "None"
+          },
+          {
+            "name": "Mark A. Creager",
+            "employment": "Brigham and Women\u2019s Hospital",
+            "research_grant": "Merck\u2020; Sanofi Aventis\u2020",
+            "other_research_support": "None",
+            "speakers_bureau_honoraria": "None",
+            "expert_witness": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": [
+              "Pfizer\u2020",
+              "Sanofi Aventis\u2020",
+              "Merck (via TMI)\u2020",
+              "Novo\u2020",
+              "AstraZeneca\u2020"
+            ],
+            "other": "None"
+          },
+          {
+            "name": "Barry A. Franklin",
+            "employment": "William Beaumont Hospital",
+            "research_grant": "None",
+            "other_research_support": "None",
+            "speakers_bureau_honoraria": "I receive honoraria throughout the year for talks to hospitals (ie, medical grand rounds and cardiac rehabilitation state associations)",
+            "expert_witness": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": "Smart Balance Scientific Advisory Board\u2020",
+            "other": "None"
+          },
+          {
+            "name": "Raymond J. Gibbons",
+            "employment": "Mayo Clinic",
+            "research_grant": "King Pharmaceuticals\u2020; TherOx\u2020; Velocimed\u2020",
+            "other_research_support": "None",
+            "speakers_bureau_honoraria": "None",
+            "expert_witness": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": "Cardiovascular Clinical Studies\u2020; Medcape Heart.org\u2020; Molecular Insight Pharmaceuticals\u2020; TherOx\u2020; Lantheus Medical Imaging\u2020",
+            "other": "None"
+          },
+          {
+            "name": "Scott M. Grundy",
+            "employment": "UT Southwestern Medical Center",
+            "research_grant": "Sanofi\u2020; Perot Foundation\u2020",
+            "other_research_support": "None",
+            "speakers_bureau_honoraria": "None",
+            "expert_witness": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": [
+              "AstraZeneca\u2020",
+              "Merck\u2020",
+              "Merck/Schering-Plough\u2020",
+              "Pfizer\u2020 (relationships ended 3 years ago)"
+            ],
+            "other": "None"
+          },
+          {
+            "name": "Loren F. Hiratzka",
+            "employment": "Cardiovascular and Thoracic Surgeons/ Tri-Health Inc",
+            "research_grant": "None",
+            "other_research_support": "None",
+            "speakers_bureau_honoraria": "None",
+            "expert_witness": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": "None",
+            "other": "None"
+          },
+          {
+            "name": "Daniel W. Jones",
+            "employment": "University of Mississippi",
+            "research_grant": "None",
+            "other_research_support": "None",
+            "speakers_bureau_honoraria": "None",
+            "expert_witness": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": "None",
+            "other": "None"
+          },
+          {
+            "name": "Donald M. Lloyd-Jones",
+            "employment": "Northwestern",
+            "research_grant": "None",
+            "other_research_support": "None",
+            "speakers_bureau_honoraria": "None",
+            "expert_witness": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": "None",
+            "other": "None"
+          },
+          {
+            "name": "Margo Minissian",
+            "employment": "Cedars Sinai Medical Center",
+            "research_grant": "RWise Study, Co-Investigator, Gilead Sciences\u2020",
+            "other_research_support": "None",
+            "speakers_bureau_honoraria": "None",
+            "expert_witness": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": "None",
+            "other": "None"
+          },
+          {
+            "name": "Lori Mosca",
+            "employment": "Columbia University",
+            "research_grant": "NIH\u2020",
+            "other_research_support": "None",
+            "speakers_bureau_honoraria": "None",
+            "expert_witness": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": [
+              "Adviate & Consent, Inc.\u2020",
+              "Gilead Sciences\u2020",
+              "Roxpair Pharmaceuticals, Inc.\u2020",
+              "Sanofi-Aventis\u2020"
+            ],
+            "other": "None"
+          },
+          {
+            "name": "Eric D. Peterson",
+            "employment": "Duke University Medical Center",
+            "research_grant": [
+              "Bristol-Myers Squibb\u2020",
+              "Sanofi\u2020",
+              "Eli Lilly\u2020",
+              "Merck/Schering-Plough\u2020",
+              "Johnson & Johnson\u2020"
+            ],
+            "other_research_support": "None",
+            "speakers_bureau_honoraria": "None",
+            "expert_witness": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": "None",
+            "other": "None"
+          },
+          {
+            "name": "Ralph L. Sacco",
+            "employment": "University of Miami",
+            "research_grant": "NINDS\u2014Northern Manhattan Study\u2020",
+            "other_research_support": "None",
+            "speakers_bureau_honoraria": "None",
+            "expert_witness": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": [
+              "Boehringer Ingelheim\u2020 (ended March 2009)",
+              "GlaxoSmithKline (ended March 2009)\u2020",
+              "Sanofi Aventis\u2020 (ended March 2009)\u2020",
+              "DSMB Atrial Fibrillation Trial\u2014Institutionally sponsored by Population Health Research Institute at McMaster University, Hamilton, Ontario\u2020"
+            ],
+            "other": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "AHA/ACCF Secondary Prevention: 2011 Update",
+        "section": "Writing Group Disclosures, Continued",
+        "purpose": "The purpose of this table is to disclose any relationships of writing group members that may be perceived as actual or reasonably perceived conflicts of interest.",
+        "disclosure criteria": "A relationship is considered 'significant' if $10,000 or more is received from an entity in a 12-month period or if someone owns 5% or more of the entity's voting stock. 'Modest' is less than 'significant' under these criteria.",
+        "members": [
+          {
+            "name": "John Spertus",
+            "employment": "Mid America Heart Institute",
+            "research grant": "ACDHF; Amgen; Bristol-Myers Squibb; Sanofi-Aventis; Cordis; Eli Lilly; NIH",
+            "other support": "Abbott/Medtronic; Roche Diagnostics",
+            "consultant/board": "St. Jude Medical; United HealthCare; Amgen"
+          },
+          {
+            "name": "James H. Stein",
+            "employment": "University of Wisconsin School of Medicine and Public Health",
+            "research grant": "Sanofi-Aventis (ended July 2009), Siemens Medical Solutions (ended July 2009), SonoSite (ended September 2009)",
+            "other support": "None",
+            "consultant/board": "Abbott; Lilly; Takeda"
+          },
+          {
+            "name": "Kathryn A. Taubert",
+            "employment": "World Heart Federation",
+            "research grant": "None",
+            "other support": "None",
+            "consultant/board": "None"
+          },
+          {
+            "name": "Vera Bittner",
+            "employment": "University of Alabama at Birmingham",
+            "research grant": "Roche/Genentech; Gilead; GSK; NIH/Abbott; NIH/Taipei",
+            "other support": "None",
+            "consultant/board": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "AHA/ACCF Secondary Prevention: 2011 Update",
+        "date": "November 29, 2011",
+        "journal": "Journal of the American College of Cardiology (JACC)",
+        "volume": "Vol. 58, No. 23",
+        "pages": "2432-46",
+        "disclosures": [
+          {
+            "name": "Larry B. Goldstein",
+            "employment": "Duke University",
+            "research_grant": "None",
+            "support": "None",
+            "honoraria": "None",
+            "witness_interest": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": "None"
+          },
+          {
+            "name": "Jonathan Halperin",
+            "employment": "Mount Sinai Medical Center",
+            "research_grant": "None",
+            "support": "None",
+            "honoraria": "None",
+            "witness_interest": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": "Boehringer Ingelheim, Astellas Pharma, US*, British-Mayo-*Supra*, Daiichi Sankyo*, Johnson & Johnson\u00b9\u2070, Pfizer*, Inc; Sanofi-Aventis*"
+          },
+          {
+            "name": "Courtney Jordan",
+            "employment": "University of Minnesota",
+            "research_grant": "None",
+            "support": "None",
+            "honoraria": "None",
+            "witness_interest": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": "None"
+          },
+          {
+            "name": "Noel Bairey Merz",
+            "employment": "Cedars-Sinai Medical Center",
+            "research_grant": "Gilead\u00b9",
+            "support": "NHLBI\u00b9\u00b2",
+            "honoraria": "None",
+            "witness_interest": "None",
+            "ownership_interest": "Medtronic\u00b9",
+            "consultant_advisory_board": "USCF, Mayo Foundation, SCS Healthcare*, Pancote Point Communications*, It\u2019s for Professional Education*, Medical Education Speakers Network*, Minneapolis Heart Institute*, Catholic Healthcare West*, Novant Health*, HealthScience Media Inc.*, Hauenstein Health*, WomenHeart Coalition*, Los Robles Medical Center*, Monterey Community Hospital (honorarium, onomato & ACO)*, Los Angeles OB-GYN Society*, Ph-Med*, North American Menopause Society*"
+          },
+          {
+            "name": "L. Kristin Newby",
+            "employment": "Duke University",
+            "research_grant": "None",
+            "support": "None",
+            "honoraria": "None",
+            "witness_interest": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": "None"
+          },
+          {
+            "name": "Patrick O'Gara",
+            "employment": "Brigham & Women's Hospital",
+            "research_grant": "None",
+            "support": "None",
+            "honoraria": "None",
+            "witness_interest": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": "None"
+          },
+          {
+            "name": "Thomas M. Rooke",
+            "employment": "Mayo Clinic",
+            "research_grant": "None",
+            "support": "None",
+            "honoraria": "None",
+            "witness_interest": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": "None"
+          },
+          {
+            "name": "Vincent Sorrell",
+            "employment": "University of Arizona",
+            "research_grant": "None",
+            "support": "None",
+            "honoraria": "None",
+            "witness_interest": "None",
+            "ownership_interest": "None",
+            "consultant_advisory_board": "Lantheus Medical Imaging\u00b9"
+          }
+        ],
+        "references": [
+          {
+            "author": "Smith SC Jr., Allen J",
+            "title": "AHA/ACC guidelines for secondary prevention for patients with coronary and other atherosclerotic vascular diseases: 2006 update.",
+            "journal": "Circulation",
+            "year": 2006,
+            "volume": "113",
+            "pages": "2363-72",
+            "notes": "[published correction appears in Circulation. 2006;113:e847]."
+          },
+          {
+            "author": "Rolleigh SF, Wool SE, Johnson RE",
+            "title": "Effect on cessation counseling of documenting smoking status as a routine vital sign: an ACORN study.",
+            "journal": "Ann Fam Med",
+            "year": 2006,
+            "volume": "4",
+            "pages": "60-8"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "AHA/ACC Secondary Prevention: 2011 Update",
+        "topics": [
+          "Effects of aerobic exercise on blood pressure.",
+          "Reduction in recurrent cardiovascular events with intensive lipid-lowering strategies.",
+          "Impact of weight reduction on plasma lipids and lipoproteins.",
+          "Intensive lipid-lowering strategies for patients with stable coronary disease.",
+          "Long-term polyunsaturated fatty acids and coronary heart disease.",
+          "Guidelines for cardiovascular disease prevention."
+        ],
+        "studies": [
+          {
+            "authors": "Welchson SP, China A, Xin X, He J.",
+            "focus": "Aerobic exercise on blood pressure.",
+            "key_points": "Meta-analysis shows reduction in blood pressure across various randomized trials."
+          },
+          {
+            "authors": "Murphy SA, Cannon CP, Wiviott SD, McCabe CH, Braunwald E.",
+            "focus": "Recurrent cardiovascular events.",
+            "key_points": "Comparison between intensive and moderate lipid-lowering strategies."
+          },
+          {
+            "authors": "Ginsberg HN, Kris-Etherton P, Dennis B, et al.",
+            "focus": "Effects of reducing dietary saturated fatty acids.",
+            "key_points": "Reductions in plasma lipids and lipoproteins in healthy subjects."
+          },
+          {
+            "authors": "Cannon CP, Braunwald E, McCabe CH, et al.",
+            "focus": "Intensive lipoprotein-lowering therapy.",
+            "key_points": "Proves superior in preventing major coronary events versus moderate statin therapy."
+          },
+          {
+            "authors": "Kris-Etherton PM, Harris WS, Appel LJ.",
+            "focus": "Fish consumption and omega-3 fatty acids.",
+            "key_points": "Associated with decreased cardiovascular disease risk."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_info": "The image contains guidelines and studies related to cardiovascular health, diabetes management, obesity, pharmacological interventions, and cardiovascular events prevention. It discusses clinical practices and recommendations from various heart associations and diabetes associations. It includes data and conclusions from multiple studies and trials such as those focusing on lifestyle intervention, drug effectiveness, glucose control, and exercise impacts.",
+        "key_topics": [
+          "Exercise-based intervention for cardiovascular health",
+          "Impact of body mass index on mortality",
+          "Prevalence and management of obesity in cardiovascular diseases",
+          "Pharmacological treatment strategies post-acute coronary events"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "AAC/AHA Secondary Prevention: 2011 Update",
+        "Key Points": [
+          "Discusses secondary prevention measures for patients with coronary or peripheral arterial disease.",
+          "Summarizes research studies and guidelines related to aspirin and antiplatelet therapy.",
+          "References various clinical trials examining medical interventions, like the ESPRIT and CHARISMA trials."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General clinical information": "The document outlines various studies and guidelines concerning cardiovascular treatments. Topics include the effects of different medications such as angiotensin-converting enzyme inhibitors, angiotensin-receptor blockers, and beta-blockers on cardiovascular events. The role of vaccines such as influenza vaccination in patients with coronary artery disease is discussed. The document also covers secondary prevention methods for cardiovascular diseases through pharmaceutical treatments and lifestyle changes like exercise and cardiac rehabilitation."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary": "The clinical guidelines provide updates on cardiovascular prevention programs, exercise and physical activity in coronary artery disease, and the use of statin therapy in managing cholesterol levels.",
+        "Topics": [
+          "Exercise and physical activity guidelines for cardiovascular prevention.",
+          "Statin therapy for coronary and vascular disease prevention.",
+          "Guidelines and implementation updates by various cardiovascular organizations."
+        ],
+        "References": [
+          "Clark AM, Haykowsky M, Kryworuchko J, et al. meta-analysis on comprehensive home-based secondary prevention programs.",
+          "Wenger NK, Froelicher ES, Ades PA, et al. Cardiac Rehabilitation: Clinical Practice Guideline III.",
+          "Hirsch AT, Haskal ZJ, Hertzer NR, et al. Guidelines for management of patients with peripheral arterial disease."
+        ]
+      },
+      "genes": []
+    }
+  ],
+  "genes": []
+}

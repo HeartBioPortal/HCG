@@ -1,0 +1,122 @@
+{
+  "content": {
+    "document_title": "Peripheral Artery Disease Guideline 2024",
+    "appendix": "Financial and professional disclosures of committee members including consultancies, speaker bureaus, ownership, partnerships, research, and expert witness roles.",
+    "committee_members": [
+      {
+        "name": "Eric A. Secemsky",
+        "employment": "Beth Israel Deaconess Medical Center, Harvard Medical School",
+        "roles": {
+          "consultant": [
+            "Abbott",
+            "Bayer",
+            "Boston Scientific",
+            "CSI",
+            "Inari Medical",
+            "Janssen Pharmaceuticals",
+            "Medtronic",
+            "Philips"
+          ],
+          "speakers_bureau": [
+            "BD Bard",
+            "Cook"
+          ],
+          "ownership": "None",
+          "personal_research": [
+            "AstraZeneca",
+            "BD Bard",
+            "Boston Scientific",
+            "Cook",
+            "CSI",
+            "Medtronic",
+            "Philips"
+          ],
+          "institutional_benefit": [
+            "Angiodynamics",
+            "BB Bard",
+            "Boston Scientific",
+            "FDA",
+            "NIH/NHLBI",
+            "University of California, San Francisco"
+          ],
+          "expert_witness": "None"
+        }
+      },
+      {
+        "name": "Maya Serhal",
+        "employment": "Boston University Medical Center",
+        "roles": {
+          "consultant": "None",
+          "speakers_bureau": "None",
+          "ownership": "None",
+          "personal_research": "None",
+          "institutional_benefit": "None",
+          "expert_witness": "None"
+        }
+      },
+      {
+        "name": "Mehdi H. Shishehbor",
+        "employment": "Case Western Reserve University School of Medicine, Harrington Heart and Vascular Institute",
+        "roles": {
+          "consultant": [
+            "Abbott",
+            "Boston Scientific",
+            "Medtronic",
+            "Philips",
+            "Terumo"
+          ],
+          "speakers_bureau": "None",
+          "ownership": "None",
+          "personal_research": [
+            "Inari Medical",
+            "Trireme Medical"
+          ],
+          "institutional_benefit": [
+            "AdvaNanoT",
+            "AstraZeneca",
+            "Medtronic",
+            "Mercator",
+            "NanoTherapies Inc.",
+            "NIH",
+            "Philips",
+            "Trireme",
+            "University Hospitals",
+            "Volcano"
+          ],
+          "expert_witness": "None"
+        }
+      },
+      {
+        "name": "Diane Treat-Jacobson",
+        "employment": "University of Minnesota, University of Virginia",
+        "roles": {
+          "consultant": "None",
+          "speakers_bureau": "None",
+          "ownership": "None",
+          "personal_research": "None",
+          "institutional_benefit": [
+            "NHLBI"
+          ],
+          "expert_witness": "None"
+        }
+      },
+      {
+        "name": "Luke R. Wilkins",
+        "employment": "University of Virginia",
+        "roles": {
+          "consultant": "None",
+          "speakers_bureau": "None",
+          "ownership": "None",
+          "personal_research": "None",
+          "institutional_benefit": [
+            "ACS",
+            "DOD",
+            "UVA"
+          ],
+          "expert_witness": "None"
+        }
+      }
+    ]
+  },
+  "genes": []
+}

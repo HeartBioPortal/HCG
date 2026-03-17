@@ -1,0 +1,94 @@
+{
+  "content": {
+    "Synopsis": "Genetic testing plays a crucial role in diagnosing and managing hypertrophic cardiomyopathy (HCM) in patients and families. HCM is inherited, with offspring having a 50% chance of inheriting the genetic variant. A thorough family history assessment and genetic testing should form a part of the clinical management of patients with HCM. Genetic assessment should be conducted in specialized centers.",
+    "Recommendation-Specific Supportive Text": [
+      "Family history collection assists in identifying affected and at-risk family members.",
+      "Genetic testing is crucial for confirming diagnosis, cascade testing in the family, and guiding reproductive decisions.",
+      "Genes related to HCM can be included in first-tier testing if clinical suspicion of related systemic disorders exists.",
+      "Genetic counseling is essential to help patients understand the implications of genetic findings.",
+      "HCM primarily affects the sarcomere. Genetic panels can detect disease-causing variants in 30% of sporadic and 60% of familial cases, but only 10% of patients show a core sarcomeric variant in the absence of family history."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "MYH7",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Gene panels include 8 sarcomere genes, including MYH7."
+    },
+    {
+      "Gene": "MYBPC3",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Gene panels include 8 sarcomere genes, including MYBPC3."
+    },
+    {
+      "Gene": "TNNT2",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 2,
+      "context": "Gene panels include 8 sarcomere genes, including TNNT2."
+    },
+    {
+      "Gene": "TPM1",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Gene panels include 8 sarcomere genes, including TPM1."
+    },
+    {
+      "Gene": "MYL2",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Gene panels include 8 sarcomere genes, including MYL2."
+    },
+    {
+      "Gene": "MYL3",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Gene panels include 8 sarcomere genes, including MYL3."
+    },
+    {
+      "Gene": "ACTC1",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Gene panels include 8 sarcomere genes, including ACTC1."
+    },
+    {
+      "Gene": "PRKAG2",
+      "Associated Conditions": [
+        "Glycogen Storage Disease"
+      ],
+      "Occurrences": 1,
+      "context": "Suspicion based on phenotype evaluation of a systemic disorder, including PRKAG2."
+    },
+    {
+      "Gene": "LAMP2",
+      "Associated Conditions": [
+        "Danon Disease"
+      ],
+      "Occurrences": 1,
+      "context": "Suspicion based on phenotype evaluation of a systemic disorder, including LAMP2."
+    },
+    {
+      "Gene": "GLA",
+      "Associated Conditions": [
+        "Fabry Disease"
+      ],
+      "Occurrences": 1,
+      "context": "Suspicion based on phenotype evaluation of a systemic disorder, including GLA."
+    }
+  ]
+}

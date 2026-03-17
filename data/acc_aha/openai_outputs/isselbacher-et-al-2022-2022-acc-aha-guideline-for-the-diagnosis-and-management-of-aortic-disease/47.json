@@ -1,0 +1,26 @@
+{
+  "content": {
+    "Clinical Information": [
+      "Both BAV (Bicuspid Aortic Valve) and aortic root and ascending aortic dilation may be familial.",
+      "Inheritance patterns for familial BAV and aortopathy are consistent with an autosomal dominant pattern with incomplete penetrance.",
+      "In families with BAV and aortic root and ascending aortic dilation, obligate carriers may have BAV, aortic dilation, both, or neither.",
+      "Screening of first-degree relatives (parents, siblings, children) with TTE (Transthoracic Echocardiogram) is recommended to evaluate for BAV and aortic dilation.",
+      "CT or MRI is recommended if the ascending aorta is not adequately assessed by TTE.",
+      "Prevalence of a BAV in relatives of patients with BAV ranges from 9% to 20%.",
+      "TTE screening of first-degree relatives proves to be cost-effective."
+    ],
+    "Recommendations": [
+      {
+        "COR": 1,
+        "LOE": "B-NR",
+        "Detail": "Patients with a BAV who have undergone aortic valve repair/replacement and have a diameter of aortic root, ascending aortic, or both of \u22654.0 cm should have lifelong surveillance imaging of the aortic root and ascending aorta by TTE, CT, or MRI."
+      },
+      {
+        "COR": 1,
+        "LOE": "C-LD",
+        "Detail": "Patients with a BAV and a diameter of aortic root, ascending aortic, or both of \u22654.0 cm should have lifelong surveillance imaging of the aortic root and ascending aorta by TTE, CT, or MRI."
+      }
+    ]
+  },
+  "genes": []
+}

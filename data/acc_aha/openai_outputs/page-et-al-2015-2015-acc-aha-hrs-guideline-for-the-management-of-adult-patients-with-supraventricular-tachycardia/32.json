@@ -1,0 +1,39 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "class": "I",
+        "LOE": "B-NR",
+        "recommendation": "Catheter ablation is recommended in patients with symptomatic focal AT as an alternative to pharmacological therapy."
+      },
+      {
+        "class": "IIa",
+        "LOE": "C-LD",
+        "recommendation": "Oral beta blockers, diltiazem, or verapamil are reasonable for ongoing management in patients with symptomatic focal AT."
+      },
+      {
+        "class": "IIa",
+        "LOE": "C-LD",
+        "recommendation": "Flecainide or propafenone can be effective for ongoing management in patients without structural heart disease or ischemic heart disease who have focal AT."
+      },
+      {
+        "class": "IIb",
+        "LOE": "C-LD",
+        "recommendation": "Oral sotalol or amiodarone may be reasonable for ongoing management in patients with focal AT."
+      }
+    ],
+    "focal_at_details": [
+      "A large number of nonrandomized cohort studies on focal AT ablation have accumulated, especially from the 2012 ablation registry in Spain.",
+      "AT was found in 333 of 11,042 ablation procedures performed.",
+      "Catheter ablation shows acute success rates above 90% to 95% with low complication rates.",
+      "AT-mediated cardiomyopathy should be recognized in patients presenting with heart failure and persistent tachycardia."
+    ],
+    "MAT_details": [
+      "MAT is a rapid, irregular rhythm defined by at least 3 distinct morphologies of P waves.",
+      "The atrial rate is >100 bpm (>90 bpm in this context).",
+      "MAT is associated with underlying conditions such as pulmonary disease, coronary disease, and valvular heart disease.",
+      "Intravenous magnesium may help in management."
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,42 @@
+{
+  "content": {
+    "title": "Bleeding Events in DOAC Pivotal Clinical Trials",
+    "overview": "The table compares bleeding events associated with various oral anticoagulants in different clinical trials, namely RE-LY, ARISTOTLE, ENGAGE AF-TIMI 48, and ROCKET AF.",
+    "anticoagulants": [
+      "Dabigatran",
+      "Apixaban",
+      "Edoxaban",
+      "Rivaroxaban",
+      "Warfarin"
+    ],
+    "key findings": [
+      "Dabigatran has different incidence rates of major, gastrointestinal, and intracranial bleeding when compared to Warfarin across various trials.",
+      "Apixaban generally shows lower rates of bleeding events compared to Warfarin.",
+      "Edoxaban presents varied results across different bleeding categories when compared to Warfarin.",
+      "Rivaroxaban exhibits higher major bleeding rates compared to Warfarin in one trial and mixed results in others."
+    ],
+    "bleeding categories": [
+      "Major Bleeding",
+      "Gastrointestinal Bleeding",
+      "Intracranial Bleeding"
+    ],
+    "bleeding management": {
+      "minor_bleeding": {
+        "measures": [
+          "Supportive measures",
+          "May hold an anticoagulant until hemostasis is achieved"
+        ]
+      },
+      "life_threatening_bleeding": {
+        "options": [
+          "Andexanet alfa for apixaban or rivaroxaban",
+          "4-factor PCC oral factor Xa inhibitors",
+          "Idarucizumab for dabigatran",
+          "Activated PCC if idarucizumab is not available",
+          "4-factor PCC and intravenous vitamin K for warfarin"
+        ]
+      }
+    }
+  },
+  "genes": []
+}

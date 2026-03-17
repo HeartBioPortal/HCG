@@ -1,0 +1,16 @@
+{
+  "content": {
+    "Shared Decision-Making": "Shared decision-making is recommended for patients with aortic disease to determine intervention thresholds, surgical repair types, and in medical management and surveillance. It is also vital for patients contemplating pregnancy, especially when considering cardiovascular risks and prophylactic aortic surgery.",
+    "Aneurysms": "Thoracic Aortic Aneurysms occur in 5 to 10 per 100,000 persons. The natural history depends on the cause and location, with risk factors including age, sex, height, body size, hypertension, smoking, hypercholesterolemia, and heritable genetic variants. Patients with TAA have increased incidence of AAA and cerebral aneurysms."
+  },
+  "genes": [
+    {
+      "Gene": "FBN1",
+      "Associated Conditions": [
+        "Marfan Syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Patients with Marfan syndrome and Loyes-Dietz syndrome, and other heritable aortic disorders, are particularly relevant in planning for pregnancy."
+    }
+  ]
+}

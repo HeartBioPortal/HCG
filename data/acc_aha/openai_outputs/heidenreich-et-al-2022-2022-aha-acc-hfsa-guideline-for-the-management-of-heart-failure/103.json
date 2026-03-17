@@ -1,0 +1,29 @@
+{
+  "content": {
+    "Synopsis": "Palliative care is patient- and family-centered care that optimizes health-related quality of life (QOL) by anticipating, preventing, and treating suffering. It includes communication, prognosis estimation, anticipatory guidance, decision-making, and support for emotional and psychological needs. It additionally involves the families in the care team and addresses bereavement.",
+    "Recommendations": [
+      {
+        "Class": "C-LD",
+        "Recommendation": "For patients with heart failure (HF), the option of discontinuing life-extending therapies should be anticipated and discussed as medical conditions and goals of care change."
+      },
+      {
+        "Class": "B-R",
+        "Recommendation": "For advanced stage D HF patients, specialist palliative care consultation is advisable, especially for those needing inotropic support or mechanical support."
+      },
+      {
+        "Class": "C-LD",
+        "Recommendation": "For patients with HF, executing advance care directives can help document treatment preferences and improve patient-centered care."
+      },
+      {
+        "Class": "C-LD",
+        "Recommendation": "In patients with advanced HF and expected survival less than 6 months, timely referral to hospice can improve QOL."
+      }
+    ],
+    "Text": [
+      "Application of palliative care principles can improve care processes and patient outcomes but does not necessarily require a formal palliative care consultation.",
+      "As illnesses progress, reevaluation of treatment goals, including deactivation of life-sustaining therapies, is important.",
+      "An interdisciplinary palliative approach should be a part of routine care for patients across all stages of HF."
+    ]
+  },
+  "genes": []
+}

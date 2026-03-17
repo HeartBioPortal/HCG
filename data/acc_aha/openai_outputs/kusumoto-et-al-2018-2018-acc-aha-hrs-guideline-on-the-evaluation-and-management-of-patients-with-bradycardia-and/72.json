@@ -1,0 +1,15 @@
+{
+  "content": {
+    "general": "The guideline discusses the management of bradycardia in the context of acute myocardial infarction (MI). It highlights the importance of temporary pacing in patients with medically refractory symptomatic or hemodynamically significant bradycardia due to sinoatrial node dysfunction (SND) or atrioventricular block. Specific guidance is provided for handling second-degree Mobitz type II atrioventricular block and other block types, alongside considerations for temporary versus permanent pacing.",
+    "recommendations": [
+      "Temporary pacing for patients with acute MI and significant bradycardia (COR I, LOE B-NR).",
+      "Patients with SND or atrioventricular block should undergo waiting periods before permanent pacing (COR I, LOE B-NR).",
+      "Permanent pacing is indicated for certain atrioventricular blocks after a waiting period (COR I, LOE B-NR).",
+      "Administration of atropine is reasonable for certain cases of bradycardia or atrioventricular block (COR IIa, LOE B-NR).",
+      "Permanent pacing should not be performed for transient atrioventricular block (COR III: Harm, LOE B-NR).",
+      "Permanent pacing not recommended for specific block types without accompanying conditions (COR III: Harm, LOE B-NR)."
+    ],
+    "other_information": "The synopsis emphasizes the transient nature of SND and atrioventricular blocks in certain MIs, and the necessity to consider the conduction issue effects, myocardial injury extent, and intraventricular conduction disturbances for prognosis. The role of shunts in systemic thromboembolism and lead complications is also noted."
+  },
+  "genes": []
+}

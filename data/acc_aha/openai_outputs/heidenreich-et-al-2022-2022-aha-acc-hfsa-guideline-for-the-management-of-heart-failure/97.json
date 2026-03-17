@@ -1,0 +1,15 @@
+{
+  "content": {
+    "General Information": "The guidelines focus on cancer therapies associated with cardiomyopathy, detailing the importance of cardiac function monitoring, especially with therapies like anthracyclines and anti-HER2 agents. Pretherapy assessments and managing preexisting cardiomyopathy are emphasized. The document highlights various risk factors for cancer therapy-related cardiomyopathy, including age, preexisting conditions, and prior exposure to potentially cardiotoxic therapies."
+  },
+  "genes": [
+    {
+      "Gene": "CTRC",
+      "Associated Conditions": [
+        "Effectiveness of neurohormonal therapies"
+      ],
+      "Occurrences": 1,
+      "context": "Studying the effectiveness of neurohormonal therapies specifically in patients with the CTRC gene is challenging given the relative infrequency of events, heterogeneity of offending agents, the poorly understood pathophysiology, and the overlap with comorbid CVD."
+    }
+  ]
+}

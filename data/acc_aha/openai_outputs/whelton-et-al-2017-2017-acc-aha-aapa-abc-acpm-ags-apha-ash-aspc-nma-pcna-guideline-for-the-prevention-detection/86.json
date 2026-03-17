@@ -1,0 +1,38 @@
+{
+  "content": {
+    "Guidelines": [
+      "Hypertension management by European Society of Hypertension (ESH) and European Society of Cardiology (ESC).",
+      "Management of overweight and obesity in adults by the American College of Cardiology/American Heart Association Task Force.",
+      "Management of ST-elevation myocardial infarction by American College of Cardiology Foundation/American Heart Association Task Force.",
+      "Cholesterol treatment guidelines by American College of Cardiology/American Heart Association.",
+      "Guidelines on cardiovascular disease during pregnancy by Task Force on the Management of Cardiovascular Diseases During Pregnancy of the European Society of Cardiology (ESC).",
+      "Primary prevention of cardiovascular disease guidelines by American Heart Association.",
+      "Secondary prevention and risk reduction therapy guidelines by American Heart Association/American College of Cardiology Foundation.",
+      "Assessment of cardiovascular risk in asymptomatic adults by American College of Cardiology Foundation/American Heart Association.",
+      "Diagnosis and management of patients with thoracic aortic disease by multiple associations (ACC/AHA/AATS/ACR/ASA/SCAI/STS/SVM).",
+      "Blood pressure monitoring in children and adolescents as part of the Fourth Report on pediatric blood pressure by the National High Blood Pressure Education Program.",
+      "Blood pressure measurement and management guidelines, including lifestyle activities and dietary interventions, by American Heart Association and other organizations."
+    ],
+    "Associations": [
+      "American Heart Association",
+      "American College of Cardiology",
+      "European Society of Hypertension",
+      "European Society of Cardiology"
+    ],
+    "Blood Pressure and Cardiovascular Risk": {
+      "Observational relationship": [
+        "Age-specific relevance of usual blood pressure to vascular mortality.",
+        "Associations between blood pressure components and cardiovascular disease."
+      ],
+      "Blood pressure components": [
+        "Relative influence of systolic and diastolic blood pressure on stroke risk.",
+        "Relationship between usual blood pressure and vascular mortality."
+      ],
+      "Population risk": [
+        "Trends in mortality from stroke and cardiovascular diseases.",
+        "Global burden of hypertension."
+      ]
+    }
+  },
+  "genes": []
+}

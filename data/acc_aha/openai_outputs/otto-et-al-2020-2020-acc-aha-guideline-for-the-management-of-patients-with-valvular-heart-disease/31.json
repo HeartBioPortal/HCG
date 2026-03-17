@@ -1,0 +1,44 @@
+{
+  "content": {
+    "clinical_guidelines": [
+      {
+        "topic": "Valve Replacement",
+        "details": "Newer surgical bioprosthetic valves have less structural deterioration in older individuals, but mechanical valves may still offer a survival advantage due to low bleeding and thromboembolism risk. Decisions should consider age, durability, bleeding, and reoperation rates.",
+        "recommendations": [
+          {
+            "age_group": "Patients >65 years",
+            "recommendation": "A bioprosthetic valve is reasonable, particularly with high structural integrity and life expectancy considerations."
+          },
+          {
+            "surgical_procedure": "Ross Procedure",
+            "candidates": "Younger patients with specific anatomical and tissue characteristics where anticoagulation is risky."
+          }
+        ]
+      }
+    ],
+    "decision_criteria": [
+      {
+        "age_group": "<65 years",
+        "life_expectancy": ">20 years",
+        "recommendation": "SAVR (Surgical Aortic Valve Replacement)."
+      },
+      {
+        "age_group": "65-80 years",
+        "procedure": "Transfemoral TAVI preferred if no contraindication, after evaluating life expectancy and durability."
+      },
+      {
+        "age_group": ">80 years or younger patients with life_expectancy <10 years",
+        "recommendation": "Transfemoral TAVI, barring contraindications."
+      },
+      {
+        "conditions": "Severe AS, LVEF <50%, age \u226480, no contraindication to TAVI",
+        "recommendation": "Follow symptomatic patient recommendations for SAVR vs TAVI."
+      },
+      {
+        "conditions": "Severe AS, abnormal exercise test, or elevated BNP",
+        "recommendation": "SAVR over TAVI."
+      }
+    ]
+  },
+  "genes": []
+}

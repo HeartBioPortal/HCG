@@ -1,0 +1,61 @@
+{
+  "content": {
+    "Class IIb": {
+      "1": "Angiotensin-converting enzyme (ACE) inhibition may be considered for individuals with asymptomatic lower extremity PAD for cardiovascular risk reduction.",
+      "Level of Evidence": "C"
+    },
+    "Class I": {
+      "2.1.2 Claudication": [
+        {
+          "1": "Patients with symptoms of intermittent claudication should undergo a vascular physical examination, including measurement of the ABI.",
+          "Level of Evidence": "B"
+        },
+        {
+          "2": "In patients with symptoms of intermittent claudication, the ABI should be measured after exercise if the resting index is normal.",
+          "Level of Evidence": "B"
+        },
+        {
+          "3": "Patients with intermittent claudication should have significant functional impairment with a reasonable likelihood of symptomatic improvement and absence of other disease that would comparably limit exercise even if claudication was improved before undergoing an evaluation for revascularization.",
+          "Level of Evidence": "C"
+        }
+      ],
+      "2.1.4 Acute Limb Ischemia": [
+        {
+          "1": "Patients with acute limb ischemia and a salvageable extremity should undergo emergent evaluation that defines the anatomic level of occlusion and that leads to prompt endovascular or surgical revascularization.",
+          "Level of Evidence": "B"
+        }
+      ],
+      "2.2.1 Updated Recommendation": [
+        {
+          "1": "The resting ABI should be used to establish the lower extremity PAD diagnosis in patients with suspected lower extremity PAD, defined as individuals with 1 or more of the following: exertional leg symptoms, nonhealing wounds, age 65 and older, or 50 years and older with a history of smoking or diabetes.",
+          "Level of Evidence": "B"
+        },
+        {
+          "2": "The ABI should be measured in both legs in all new patients with PAD of any severity to confirm the diagnosis of lower extremity PAD and establish a baseline.",
+          "Level of Evidence": "B"
+        },
+        {
+          "3": "The toe-brachial index should be used to establish the lower extremity PAD diagnosis in patients in whom lower extremity "
+        }
+      ]
+    },
+    "Class IIa": {
+      "2.1.5 Prior Limb Arterial Revascularization": [
+        {
+          "1": "Long-term patency of infraininguinal bypass grafts should be evaluated in a surveillance program, which should include an interval vascular history, resting ABIs, physical examination, and a duplex ultrasound at regular intervals if a venous conduit has been used.",
+          "Level of Evidence": "B"
+        }
+      ],
+      "2.2 Diagnostic Methods": [
+        {
+          "2.2.1 Ankle- and Toe-Brachial Indices, Segmental Pressure Examination": [
+            {
+              "1": "The resting ABI should be used to establish the lower extremity PAD diagnosis in patients with suspected lower extremity PAD, defined as individuals with 1 or more of the following: exertional leg symptoms, nonhealing wounds, age 65 and older, or 50 years and older with a history of smoking or diabetes."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "genes": []
+}

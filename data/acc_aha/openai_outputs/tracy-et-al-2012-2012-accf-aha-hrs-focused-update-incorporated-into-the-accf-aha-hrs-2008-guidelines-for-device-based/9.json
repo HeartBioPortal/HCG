@@ -1,0 +1,34 @@
+{
+  "content": {
+    "Class I": [
+      "Permanent pacemaker implantation is indicated for SND with documented symptomatic bradycardia, including frequent sinus pauses that produce symptoms. (Level of Evidence: C)",
+      "Permanent pacemaker implantation is indicated for symptomatic chronotropic incompetence. (Level of Evidence: C)",
+      "Permanent pacemaker implantation is indicated for symptomatic sinus bradycardia that results from required drug therapy for medical conditions. (Level of Evidence: C)"
+    ],
+    "Class IIa": [
+      "Permanent pacemaker implantation is reasonable for SND with heart rates less than 40 bpm when a clear association between significant symptoms and bradycardia and the absence of evident bradycardia has not been demonstrated. (Level of Evidence: C)",
+      "Permanent pacemaker implantation is reasonable for syncope of unexplained origin when clinically significant abnormalities of sinus node function are discovered or provoked in electrophysiological studies. (Level of Evidence: C)"
+    ],
+    "Class IIb": [
+      "Permanent pacemaker implantation may be considered in minimally symptomatic patients with chronic heart rates less than 40 bpm while awake. (Level of Evidence: C)"
+    ],
+    "Class III": [
+      "Permanent pacemaker implantation is not indicated for SND in asymptomatic patients. (Level of Evidence: C)",
+      "Permanent pacemaker implantation is not indicated for SND in patients for whom symptoms suggestive of bradycardia have been clearly documented to occur in the absence of bradycardia. (Level of Evidence: C)",
+      "Permanent pacemaker implantation is not indicated for SND with symptomatic bradycardia due to nonessential drug therapy. (Level of Evidence: C)"
+    ],
+    "Acquired Atrioventricular Block": [
+      "AV block is classified as first-, second-, or third-degree (complete) block.",
+      "First-degree AV block is defined as abnormal prolongation of the PR interval (greater than 0.20 seconds).",
+      "Second-degree AV block is subcategorized as type I and type II.",
+      "Type I involves progressive PR prolongation until a beat is not conducted.",
+      "Type II involves fixed PR intervals before and after blocked beats.",
+      "Third-degree AV block (complete heart block) is defined as absence of AV conduction."
+    ],
+    "Considerations for Pacemaker": [
+      "Decisions about pacemaker need are influenced by symptoms attributable to bradycardia.",
+      "Many indications for pacing have evolved based on long-term experience rather than randomized trials."
+    ]
+  },
+  "genes": []
+}

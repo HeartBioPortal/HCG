@@ -1,0 +1,37 @@
+{
+  "content": {
+    "committee_members": [
+      {
+        "name": "Daniel B. Mark",
+        "employment": "Duke University Medical Center\u2013Professor of Medicine, Vice Chief for Academic Affairs, Division of Cardiology, Department of Medicine",
+        "consultant": "RELEVANT Novartis",
+        "speakers_bureau": "None",
+        "ownership_partnership_principal": "None",
+        "personal_research": "RELEVANT Merck*",
+        "institutional_organizational_or_other_financial_benefit": "RELEVANT Merck*, NOT RELEVANT AHA, Editor, Elsevier*",
+        "expert_witness": "NOT RELEVANT Defendant, Arrhythmia issues, 2020"
+      },
+      {
+        "name": "Margo Minissian",
+        "employment": "Cedars-Sinai\u2013Executive Director, Geri and Richard Brawerman Nursing Institute",
+        "consultant": "NOT RELEVANT MedIntelligence*, MJH LifeSciences",
+        "speakers_bureau": "None",
+        "ownership_partnership_principal": "None",
+        "personal_research": "NOT RELEVANT NIH*, NIHIF*",
+        "institutional_organizational_or_other_financial_benefit": "NOT RELEVANT Braverman Nursing Institute, Endowed Chair\u2020",
+        "expert_witness": "None"
+      },
+      {
+        "name": "Ann Marie Navar",
+        "employment": "UT Southwestern Medical Center\u2013Associate Professor of Medicine, Department of Medicine, Division of Cardiology",
+        "consultant": "RELEVANT AstraZeneca*, Amgen*, Bayer*, Boehringer Ingelheim*",
+        "speakers_bureau": "RELEVANT Vindico",
+        "ownership_partnership_principal": "None",
+        "personal_research": "RELEVANT Bristol Myers Squibb*, Esperion*, Janssen Pharmaceuticals",
+        "institutional_organizational_or_other_financial_benefit": "NOT RELEVANT ACC, AHA, AHJ",
+        "expert_witness": "None"
+      }
+    ]
+  },
+  "genes": []
+}

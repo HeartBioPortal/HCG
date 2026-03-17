@@ -1,0 +1,43 @@
+{
+  "content": {
+    "Coronary Artery Bypass Graft (CABG) Surgery": {
+      "CABG in Patients with STEMI": {
+        "Class I Recommendations": [
+          "Urgent CABG is indicated in patients with STEMI and coronary anatomy not amenable to PCI who have ongoing or recurrent ischemia, cardiogenic shock, severe HF, or other high-risk features.",
+          "CABG is recommended in patients with STEMI at the time of operative repair of mechanical defects."
+        ],
+        "Class IIa Recommendations": [
+          "The use of mechanical circulatory support is reasonable in patients with STEMI who are hemodynamically unstable and require urgent CABG."
+        ],
+        "Class IIb Recommendations": [
+          "Emergency CABG within 6 hours of symptom onset may be considered in patients with STEMI who do not have cardiogenic shock and are not candidates for PCI or fibrinolytic therapy."
+        ],
+        "Limitations": [
+          "CABG has limited role in acute phase of STEMI unless cardiogenic shock, indicated for failed PCI, coronary anatomy not amenable to PCI, during repair of mechanical defect."
+        ]
+      },
+      "Timing of Urgent CABG in Patients with STEMI in Relation to Use of Antiplatelet Agents": {
+        "Class I Recommendations": [
+          "Aspirin should not be withheld before urgent CABG.",
+          "Clopidogrel or ticagrelor should be discontinued at least 24 hours before urgent on-pump CABG.",
+          "Short-acting intravenous GP IIb/IIIa receptor antagonists should be discontinued at least 2 to 4 hours before urgent CABG.",
+          "Abciximab should be discontinued at least 12 hours before urgent CABG."
+        ],
+        "Class IIb Recommendations": [
+          "Urgent off-pump CABG within 24 hours of clopidogrel or ticagrelor administration might be considered, especially if the benefit."
+        ]
+      }
+    },
+    "Anticoagulant Therapy to Support PCI After Fibrinolytic Therapy": {
+      "Class I Recommendations": [
+        "For patients with STEMI undergoing PCI after fibrinolytic therapy with UFH, additional doses of intravenous UFH should be administered.",
+        "For patients with STEMI undergoing PCI after fibrinolytic therapy with enoxaparin, if the last dose was administered within 8 hours, no additional enoxaparin should be given; if administered between 8 and 12 hours earlier, 0.3 mg/kg IV should be given."
+      ],
+      "Class III Harm": [
+        "Fondaparinux should not be used as the sole anticoagulant to support PCI.",
+        "An additional anticoagulant with anti-IIa activity should be administered due to risk of catheter thrombosis."
+      ]
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,20 @@
+{
+  "content": {
+    "Synopsis": "Implantation of an ICD in asymptomatic low-risk patients with a cardiac channelopathy for a positive family history of SCD as the sole indication is unsupported by published data.",
+    "Clinical Screening": "Screening of first-degree relatives of patients with inherited arrhythmia syndromes is important for identifying affected family members. Targeted family-specific mutation screening can identify individuals at risk. Screening ECGs may be insufficient because normal ECGs do not rule out genotype-positive status.",
+    "Conditions Discussed": [
+      "Long QT syndrome",
+      "Catecholaminergic polymorphic ventricular tachycardia",
+      "Brugada syndrome"
+    ],
+    "Management Recommendations": [
+      "Patients with resting QTc greater than 470 ms should receive beta blockers.",
+      "Therapy intensification with beta blockers, additional medications, or ICD may be required in symptomatic patients.",
+      "Beta blocker therapy is offered if ICD is refused.",
+      "Genetic counseling and testing are recommended for clinically diagnosed cases of Long QT syndrome."
+    ],
+    "ICD Use": "ICD implantation can reduce the risk of death in high-risk patients, though it may also result in inappropriate shocks and complications.",
+    "Therapeutic Recommendations": "Concurrent beta blockers in Long QT syndrome and catecholaminergic polymorphic ventricular tachycardia patients, optimal device programming, and appropriate lead selection are necessary."
+  },
+  "genes": []
+}

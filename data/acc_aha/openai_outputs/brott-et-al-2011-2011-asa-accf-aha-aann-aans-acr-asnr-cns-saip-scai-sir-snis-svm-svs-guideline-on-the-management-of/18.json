@@ -1,0 +1,75 @@
+{
+  "content": {
+    "Variability between different centers": [
+      {
+        "Author": "Perkins et al.",
+        "Study Parameters": "Questionnaire on carotid duplex practice; 73 vascular laboratories",
+        "Conclusions": "Diversity in diagnostic criteria; diversity in method of stenosis grading"
+      },
+      {
+        "Author": "Robless et al.",
+        "Study Parameters": "Questionnaire on carotid duplex practice; 71 vascular laboratories",
+        "Conclusions": "Diversity in method of stenosis grading; diversity concerning the Doppler angle used"
+      },
+      {
+        "Author": "Alexandrov et al.",
+        "Study Parameters": "2 Vascular laboratories in 2 hospitals; same equipment",
+        "Conclusions": "A definite velocity criterion does not have the same validity and predictive value to grade carotid stenosis at different laboratories"
+      },
+      {
+        "Author": "Schwartz et al.",
+        "Study Parameters": "10 Systems, 9 hospitals",
+        "Conclusions": "Predictive ability of different parameters to quantify stenosis was different from 1 device to another"
+      },
+      {
+        "Author": "Fillinger et al.",
+        "Study Parameters": "2 Vascular laboratories, 4 systems, 360 bifurcations",
+        "Conclusions": "Most accurate duplex criteria for a \u226560% ICA stenosis were machine specific"
+      },
+      {
+        "Author": "Howard",
+        "Study Parameters": "37 Centers, 63 Doppler devices",
+        "Conclusions": "Performance of Doppler ultrasound was heterogeneous between devices"
+      },
+      {
+        "Author": "Howard/prospective",
+        "Study Parameters": "19 Centers, 30 Doppler devices",
+        "Conclusions": "Performance relates to the device-sonographer-reader system. Cut point for the peak systolic flow to ensure a positive predictive value of 90% in predicting a \u226560% stenosis ranged from 151 to 390 cm/s or from 5,400 to 11,250 Hz"
+      }
+    ],
+    "Interequipment variability": [
+      {
+        "Author": "Ranke/prospective",
+        "Study Parameters": "20 ICA, 10 patients, 2 different systems, same observer",
+        "Conclusions": "Intrastentonic peak flow velocity values were significantly higher with 1 system"
+      },
+      {
+        "Author": "Wolstenhulme/prospective",
+        "Study Parameters": "2 Systems, 43 patients, same observer",
+        "Conclusions": "Limits of agreements (within 95% of different lie) between systems: \u22120.47 to 0.45 m/s"
+      },
+      {
+        "Author": "Daigle/in vitro",
+        "Study Parameters": "6 Systems, velocity-calibrated string flow phantom",
+        "Conclusions": "Five of 6 systems: overestimation of all peak velocities compared with the calibrated string flow phantom"
+      }
+    ],
+    "Interobserver and intraobserver variability": [
+      {
+        "Author": "Ranke/prospective",
+        "Study Parameters": "20 ICA, 11 patients, same system, 2 observers",
+        "Conclusions": "Interobserver variation expressed as 95% CI for predicted stenosis between 2 observers was 13.6% with peak systolic velocity and 15.4% with mean velocity ratio"
+      },
+      {
+        "Author": "Wolstenhulme/prospective",
+        "Study Parameters": "20 Patients, 2 systems, 1 observer",
+        "Conclusions": "Intraobserver reproducibility coefficient for both machines was 0.48 cm/s"
+      }
+    ],
+    "Magnetic Resonance Angiography (MRA)": {
+      "Description": "MRA can generate high-resolution noninvasive images of the cervical arteries. It helps in detailed evaluation of the cerebral arteries. Slowly flowing blood is better imaged with contrast-enhanced MRA.",
+      "Technological advances": "Has reduced image acquisition time and improved the quality of MRA, allowing for better evaluation of patients with ECVD."
+    }
+  },
+  "genes": []
+}

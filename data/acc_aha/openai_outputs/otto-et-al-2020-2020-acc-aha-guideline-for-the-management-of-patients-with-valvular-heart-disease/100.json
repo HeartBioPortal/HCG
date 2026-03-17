@@ -1,0 +1,31 @@
+{
+  "content": {
+    "Clinical Guidelines": "The document outlines the Modified Duke Criteria for diagnosing Infective Endocarditis (IE) and provides information on intraoperative transesophageal echocardiography (TEE) in cardiac surgery. It discusses the importance of preoperative TEE in assessing vegetative changes and embolization, and the role of TEE in monitoring cardiac surgeries. The POET trial on stable IE caused by specific pathogens and the management of S. aureus bacteremia in patients with IE are also mentioned."
+  },
+  "genes": [
+    {
+      "Gene": "STAPHYLOCOCCUS AUREUS",
+      "Associated Conditions": [
+        "Infective Endocarditis"
+      ],
+      "Occurrences": 3,
+      "context": "Microorganisms consistent with IE from persistently positive blood culture results include S. aureus. Additionally, IE in patients with S. aureus bacteremia often involves normal cardiac valves."
+    },
+    {
+      "Gene": "COXIELLA BURNETII",
+      "Associated Conditions": [
+        "Infective Endocarditis"
+      ],
+      "Occurrences": 1,
+      "context": "A single positive blood culture result for Coxiella burnetii or antiphase I IgG antibody titer >1:800 is a major criterion for IE."
+    },
+    {
+      "Gene": "ENTEROCOCCUS FAECALIS",
+      "Associated Conditions": [
+        "Infective Endocarditis"
+      ],
+      "Occurrences": 1,
+      "context": "The POET trial studied patients with 'stable' left-sided IE caused by Enterococcus faecalis."
+    }
+  ]
+}

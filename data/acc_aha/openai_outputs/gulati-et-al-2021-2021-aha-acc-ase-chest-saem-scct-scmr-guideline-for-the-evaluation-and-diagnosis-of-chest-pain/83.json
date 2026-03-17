@@ -1,0 +1,19 @@
+{
+  "content": {
+    "guideline": "The image contains clinical guidelines regarding various studies and recommendations on coronary artery disease, revascularization procedures, and related diagnostic techniques.",
+    "focus": "The document primarily addresses coronary artery disease, diagnostic approaches such as CT angiography, and the effectiveness of different revascularization interventions.",
+    "sections": [
+      {
+        "number": "5.2.1.1",
+        "title": "Patients With Prior Coronary Artery Bypass With Stable Chest Pain",
+        "details": "This section refers to guidelines for diagnosis and management of patients with stable ischemic heart disease with prior coronary artery bypass surgery."
+      },
+      {
+        "number": "5.2.2",
+        "title": "Patients With Known Nonobstructive CAD Presenting With Stable Chest Pain",
+        "details": "Discusses the use of various imaging and diagnostic tests in managing stable chest pain in patients with known nonobstructive coronary artery disease."
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,38 @@
+{
+  "content": {
+    "guideline_points": [
+      {
+        "point": "CEV over CEA is recommended in older patients when arterial pathoanatomy is unfavorable for endovascular intervention."
+      },
+      {
+        "point": "CEA is recommended over CAS for patients with neck anatomy unfavorable for arterial surgery."
+      },
+      {
+        "point": "Intervention within 2 weeks is recommended for stroke or TIA patients with no contraindications."
+      },
+      {
+        "point": "Prophylactic CAS may be considered for selected patients with asymptomatic carotid stenosis, but its effectiveness compared to medical therapy is not well established."
+      },
+      {
+        "point": "Revascularization effectiveness for patients at high risk due to comorbidities is not well established."
+      },
+      {
+        "point": "Carotid endarterectomy (CEA) significantly reduces the incidence of ipsilateral stroke."
+      }
+    ],
+    "classifications": [
+      "Class III: No Benefit - Carotid revascularization is not recommended for disabilities caused by cerebral infarction."
+    ],
+    "trial_summaries": [
+      {
+        "trial": "NASCET",
+        "summary": "Designed to test the hypothesis that patients with moderate to severe ipsilateral carotid stenosis would benefit from CEA."
+      },
+      {
+        "trial": "ECST",
+        "summary": "Performed similarly to NASCET, but showed benefit of CEA only for more severe stenosis."
+      }
+    ]
+  },
+  "genes": []
+}

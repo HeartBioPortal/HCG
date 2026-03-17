@@ -1,0 +1,46 @@
+{
+  "content": {
+    "sections": [
+      {
+        "title": "Vascular History and Physical Examination: Recommendations",
+        "recommendations": [
+          {
+            "class": "I",
+            "details": [
+              "Individuals at risk for lower extremity peripheral artery disease (PAD) should undergo a vascular review of symptoms for assessing walking impairment, claudication, ischemic rest pain, and/or the presence of nonhealing wounds.",
+              "Comprehensive pulse examination and inspection of the feet are recommended for individuals at risk for lower extremity PAD.",
+              "Individuals over 50 years of age should be asked about a family history of a first-order relative with an abdominal aortic aneurysm (AAA)."
+            ],
+            "level_of_evidence": "C"
+          }
+        ]
+      },
+      {
+        "title": "Lower Extremity PAD: Recommendations",
+        "subsections": [
+          {
+            "title": "Clinical Presentation",
+            "details": [
+              "A history of walking impairment, claudication, ischemic rest pain, and/or nonhealing wounds is required for adults 50 years and older with atherosclerosis risk factors and for adults 70 years and older.",
+              "Asymptomatic lower extremity PAD should be identified by measuring the ankle-brachial index (ABI) to reduce myocardial infarction (MI), stroke, and death risks.",
+              "Smoking cessation, lipid lowering, and diabetes and hypertension treatments are recommended for individuals with asymptomatic lower extremity PAD.",
+              "Antiplatelet therapy is indicated to reduce the risk of adverse cardiovascular ischemic events."
+            ],
+            "class": "I",
+            "level_of_evidence": "B"
+          },
+          {
+            "title": "Asymptomatic",
+            "details": [
+              "Exercise ABI measurement is useful for diagnosing PAD in individuals with resting ABI of 0.91 to 1.30 with claudication symptoms.",
+              "Toe-brachial index or pulse volume recording measurement can enhance PAD diagnosis in individuals with ABI > 1.30 and other clinical evidence of atherosclerosis."
+            ],
+            "class": "IIa",
+            "level_of_evidence": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

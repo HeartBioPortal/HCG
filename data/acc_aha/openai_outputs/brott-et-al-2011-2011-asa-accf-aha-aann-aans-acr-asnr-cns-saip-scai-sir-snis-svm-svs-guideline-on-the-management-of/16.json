@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Level of Evidence": {
+      "C": "Recommendation supported by expert opinion, case studies, or standard of care."
+    },
+    "Imaging and Diagnostic Recommendations": [
+      "Noninvasive imaging is recommended for initial evaluation of carotid stenosis.",
+      "MRA or CTA is suggested when ultrasound is equivocal.",
+      "Carotid ultrasound may be considered in patients with retinal or hemispheric neurological symptoms with suspected ischemic origin.",
+      "CT or MRI may be used for better-quality imaging."
+    ],
+    "Therapeutic Recommendations": [
+      "Catheter-based angiography may be needed for definitive diagnosis or to assess lesion severity when noninvasive results are inconclusive.",
+      "Catheter-based angiography may be an option in patients with renal dysfunction."
+    ],
+    "Indications for Imaging": [
+      "Cervical bruit in asymptomatic patients.",
+      "Follow-up of known stenosis (>20% reduction).",
+      "Vascular assessment in patients with multiple risk factors for atherosclerosis.",
+      "Stroke risk assessment for CAD or PAD patients."
+    ],
+    "Special Considerations": [
+      "Importance of consistent imaging assessment to ensure high quality.",
+      "Exploration of the accuracy of noninvasive imaging techniques compared with catheter-based angiography."
+    ]
+  },
+  "genes": []
+}

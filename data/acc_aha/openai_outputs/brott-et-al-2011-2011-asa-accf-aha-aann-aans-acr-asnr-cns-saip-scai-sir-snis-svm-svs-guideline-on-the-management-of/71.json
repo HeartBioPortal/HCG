@@ -1,0 +1,16 @@
+{
+  "content": {
+    "clinical_guideline": "The document contains guidelines and studies related to vascular interventions, spanning topics like stenting, surgical bypass, and management of conditions like carotid artery stenosis, fibromuscular dysplasia, and arterial dissections. It emphasizes outcomes and various methods such as stents, surgical grafting, and angioplasty."
+  },
+  "genes": [
+    {
+      "Gene": "COL4A1",
+      "Associated Conditions": [
+        "Cervical arterial dissection",
+        "Intracranial artery dissection"
+      ],
+      "Occurrences": 1,
+      "context": "DiLuna ML, Bydon M, Guldner M, et al. Neurological picture: complications from cervical intra-arterial injection. J Neurol Neurosurg Psychiatry. 2007;78:1189."
+    }
+  ]
+}

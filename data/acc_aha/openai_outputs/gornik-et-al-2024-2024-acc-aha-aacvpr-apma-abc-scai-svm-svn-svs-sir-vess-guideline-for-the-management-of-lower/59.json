@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Recommendations": [
+      {
+        "COR": "1",
+        "LOE": "B-NR",
+        "Description": "In patients with CLTI, prompt management of foot infection with antibiotics, debridement, and other surgical management is recommended."
+      },
+      {
+        "COR": "1",
+        "LOE": "C-LD",
+        "Description": "In patients with CLTI with nonhealing wounds, wound care should be provided to optimize the wound-healing environment after revascularization with the goal of complete wound healing."
+      },
+      {
+        "COR": "2b",
+        "LOE": "B-NR",
+        "Description": "In patients with CLTI with nonhealing diabetic foot ulcers, hyperbaric oxygen therapy may be considered to assist in wound healing after revascularization."
+      }
+    ],
+    "Synopsis": "Management of infection and local wound care are critical for patients with CLTI and must be implemented with revascularization. The care team should include wound care plan development and implementation.",
+    "Recommendation-Specific Supportive Text": {
+      "Foot Infection": "Prompt diagnosis and initiation of therapy with antibiotics and management reduce risk of amputation and death. Surgical debridement is recommended for foot infections.",
+      "Wound Care for Patients with Diabetes": "Negative pressure wound therapy (NPWT) can be used post-revascularization. Wounds require maintaining a moist wound bed and controlling exudation.",
+      "Specifics": "Wound care involves surgical, mechanical, enzymatic, or chemical debridement. Nonhealing wounds in diabetics are complex and multifactorial."
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,33 @@
+{
+  "content": {
+    "Title": "2021 ACC/AHA/SCAI Coronary Revascularization Guideline",
+    "Table": "Table 3 - Consent Procedures",
+    "Details": [
+      "Use plain language, avoiding jargon, and adopt the patient's words; integrate pictures to teach.",
+      "Document teach-back of patient's knowledge and understanding.",
+      "Conduct conversations with a trained interpreter, as needed.",
+      "Provide patient-specific short- and long-term risks, benefits, and alternative treatments.",
+      "Provide unbiased, evidence-based, reliable, accessible, and relevant information to patient.",
+      "Discuss specific risks and benefits with regard to survival, relief of angina, quality of life, and potential additional intervention, as well as uncertainties associated with different treatment strategies.",
+      "Provide patient time to reflect on the trade-offs imposed by the outcome estimates.",
+      "Provide information on the level of operator expertise, volume of the facility, and local results in the performance of coronary revascularization options.",
+      "Clearly inform of the need for continued medical therapy and lifestyle modifications."
+    ],
+    "Section": "3. Preprocedural Assessment and the Heart Team",
+    "Subsection": "3.1 The Heart Team",
+    "Recommendation": [
+      {
+        "COR": "1",
+        "LOE": "B-NR",
+        "Details": "In patients for whom the optimal treatment strategy is unclear, a Heart Team approach that includes representatives from interventional cardiology, cardiac surgery, and clinical cardiology is recommended to improve patient outcomes."
+      }
+    ],
+    "Synopsis": "A multidisciplinary Heart Team, involving the cardiologist, cardiac surgeon, and other specialists, is critical for revascularization decision-making. Randomized trials comparing PCI and CABG led to the Heart Team approach, emphasizing consensus for optimal revascularization. Conditions for Heart Team involvement include complex coronary disease, combined conditions impacting revascularization success, and other impactful clinical or social statuses.",
+    "Recommendation-Specific Supporting Text": [
+      "Observational studies using the Heart Team have included interventional cardiology, cardiac surgery, and noninvasive cardiologists.",
+      "Additional input from primary physicians, palliative care, critical care, anesthesiology, and imaging specialists.",
+      "Studies show favorable outcomes with the Heart Team in cases of unprotected left main disease, triple-vessel disease, or diseases involving the proximal LAD artery, such as in diabetes."
+    ]
+  },
+  "genes": []
+}

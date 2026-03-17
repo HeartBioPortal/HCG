@@ -1,0 +1,26 @@
+{
+  "content": {
+    "Table 4.3": "Applying Classification of Recommendations and Level of Evidence",
+    "Class I": {
+      "Definition": "Benefit > Risk",
+      "Recommendation": "Procedure/Treatment SHOULD be performed/administered."
+    },
+    "Class IIa": {
+      "Definition": "Benefit >> Risk",
+      "Recommendation": "It IS REASONABLE to perform procedure/administer treatment."
+    },
+    "Class IIb": {
+      "Definition": "Benefit \u2265 Risk",
+      "Recommendation": "Procedure/Treatment MAY BE CONSIDERED."
+    },
+    "Class III": {
+      "Definition": "No Benefit or Harm",
+      "Recommendation (No Benefit)": "Procedure or treatment is not useful/effective and may be harmful.",
+      "Recommendation (Harm)": "Procedure or treatment should not be performed/administered."
+    },
+    "Level of Evidence A": "Multiple populations evaluated; data derived from multiple randomized clinical trials or meta-analyses.",
+    "Level of Evidence B": "Limited populations evaluated; data derived from a single randomized trial or nonrandomized studies.",
+    "Level of Evidence C": "Very limited populations evaluated; only consensus opinion of experts, case studies, or standard of care."
+  },
+  "genes": []
+}

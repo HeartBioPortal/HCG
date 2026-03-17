@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Focused Updates": {
+      "Topic Selection": {
+        "Process": "Research staff compile LBCT summary sheets by guideline topic twice yearly.",
+        "Criteria": [
+          "Publication in a peer-reviewed journal",
+          "Large, randomized, placebo-controlled trial(s)",
+          "Nonrandomized data deemed important based on results impacting current safety and efficacy assumptions",
+          "Strengths/weaknesses of research methodology and findings",
+          "Likelihood of additional studies influencing current findings",
+          "Impact on current and/or likelihood of need to develop new performance measure(s)",
+          "Requests and requirements for review from the practice community, key stakeholders, and sources free of bias",
+          "Number of previous trials showing consistent results",
+          "Need for consistency with a new guideline or guideline revision"
+        ],
+        "Committee Decision": "If a majority agrees, comments are shared with the Task Force Oversight Group (TFOG) and a decision is made on whether to convene a teleconference."
+      },
+      "Decision Finalization": "Researcher develops a list of potential guideline recommendations impacted by new evidence.",
+      "Maintenance": "Research staff maintain a master list to track LBCT decisions."
+    },
+    "Chair and Committee Selection": {
+      "Composition": "Consists of previous members of the original guideline writing committee.",
+      "Considerations": "RWI relevant to new trials are taken into account."
+    }
+  },
+  "genes": []
+}

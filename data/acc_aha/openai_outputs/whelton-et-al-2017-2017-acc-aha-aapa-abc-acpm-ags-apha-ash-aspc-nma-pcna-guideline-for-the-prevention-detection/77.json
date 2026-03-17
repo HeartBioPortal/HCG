@@ -1,0 +1,12 @@
+{
+  "content": {
+    "recommendation": "A team-based care approach is recommended for adults with hypertension.",
+    "teamBasedCare": "Team-based care is a health systems-level, organizational intervention to improve hypertension care quality. It involves roles for multidisciplinary team members such as cardiologists, nurses, pharmacists, and includes technology-based remote monitoring.",
+    "implementation": "Focuses on clinical decision support, prescribed regimen adherence, BP monitoring, and patient self-management.",
+    "outOfOfficeMonitoring": "Out-of-office BP monitoring or no-cost BP control visits are encouraged, particularly in resource-constrained populations.",
+    "medicationAdherence": "Using long-acting once-daily medications and considering longer than 30-day refills are strategies to promote adherence.",
+    "systemsSupport": "Electronic health records and self-management support tools are part of systems-level support.",
+    "evidence": "RCTs and meta-analyses show improvements in SBP and DBP with team-based interventions."
+  },
+  "genes": []
+}

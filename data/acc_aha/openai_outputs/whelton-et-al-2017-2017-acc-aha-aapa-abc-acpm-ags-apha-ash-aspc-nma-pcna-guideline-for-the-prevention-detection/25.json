@@ -1,0 +1,77 @@
+{
+  "content": {
+    "section": "5.4.1",
+    "title": "Drugs and Other Substances With Potential to Impair BP Control",
+    "summary": "This section discusses numerous substances, including prescription medications, over-the-counter medications, herbals, and food substances, that may affect blood pressure (BP) control. It details the importance of a careful history in patients with hypertension to manage substances that might impair BP control, and emphasizes reducing or discontinuing such substances.",
+    "tables": {
+      "Table 13": {
+        "conditions": [
+          {
+            "condition": "Mineralocorticoid excess syndromes other than primary aldosteronism",
+            "prevalence": "Rare",
+            "clinical indications": "Early-onset hypertension; resistant hypertension; hypokalemia or hyperkalemia",
+            "physical examination": "Arrhythmias (with hypokalemia)",
+            "screening tests": "Low aldosterone and renin",
+            "additional tests": "Urinary cortisol metabolites; genetic testing"
+          },
+          {
+            "condition": "Acromegaly",
+            "prevalence": "Rare",
+            "clinical indications": "Acral features, enlarging shoe, glove, or hat size; headache, visual disturbances; diabetes mellitus",
+            "physical examination": "Acral features; large hands and feet; frontal bossing",
+            "screening tests": "Serum growth hormone \u22651 ng/mL during oral glucose load",
+            "additional tests": "Elevated age- and sex-matched IGF-1 level; MRI scan of the pituitary"
+          }
+        ]
+      },
+      "Table 14": {
+        "title": "Frequently Used Medications and Other Substances That May Cause Elevated BP",
+        "agents": [
+          {
+            "agent": "Alcohol",
+            "management_strategy": "Limit alcohol to \u22641 drink daily for women and \u22642 drinks for men"
+          },
+          {
+            "agent": "Amphetamines",
+            "examples": "amphetamine, methylphenidate, dextroamphetamine",
+            "management_strategy": "Discontinue or decrease dose"
+          },
+          {
+            "agent": "Antidepressants",
+            "examples": "MAOIs, SNRIs, TCAs",
+            "management_strategy": "Consider alternative agents"
+          },
+          {
+            "agent": "Atypical antipsychotics",
+            "examples": "clozapine, olanzapine",
+            "management_strategy": "Discontinue or limit use"
+          },
+          {
+            "agent": "Caffeine",
+            "management_strategy": "Limit caffeine intake to <300 mg/d"
+          },
+          {
+            "agent": "Decongestants",
+            "examples": "phenylephrine, pseudoephedrine",
+            "management_strategy": "Use for shortest duration possible"
+          },
+          {
+            "agent": "Herbal supplements",
+            "examples": "Ma Huang, ephedra, St. John's wort",
+            "management_strategy": "Avoid use"
+          },
+          {
+            "agent": "Immunosuppressants",
+            "examples": "cyclosporine",
+            "management_strategy": "Consider converting to tacrolimus"
+          },
+          {
+            "agent": "Oral contraceptives",
+            "management_strategy": "Use low-dose or alternative forms of birth control"
+          }
+        ]
+      }
+    }
+  },
+  "genes": []
+}

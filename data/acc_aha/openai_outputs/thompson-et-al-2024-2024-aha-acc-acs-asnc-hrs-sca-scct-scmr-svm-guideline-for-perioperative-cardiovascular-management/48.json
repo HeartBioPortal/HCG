@@ -1,0 +1,31 @@
+{
+  "content": {
+    "Title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+    "Sections": [
+      {
+        "Title": "ACEi/ARB",
+        "Details": "No difference in MACE. Studies like STOPorNOT assess the impact of RAASi continuation or omission before planned surgery. No adverse events noted with continuation. POISE-3 study showed no difference in major vascular events with BP management strategies. 72% of patients were taking ACEi/ARB."
+      },
+      {
+        "Title": "Role of RAASi",
+        "Details": "RAASi in HF with reduced ejection fraction is supported by guidelines. Significant reduction in mortality and hospitalization for HF. Meta-analysis in 2018 explored perioperative omission effects on HF outcomes."
+      },
+      {
+        "Title": "7.3. Calcium Channel Blockers",
+        "Details": "CCBs are used for hypertension and dysrhythmia management. Meta-analysis in 2003 found no significant benefit in MACE from perioperative CCBs versus placebo. Consideration needed due to potential for hypotension and bradycardia with continued use."
+      },
+      {
+        "Title": "7.4. Alpha-2 Receptor Agonists",
+        "Details": "Initiating low-dose clonidine perioperatively is not recommended to reduce cardiovascular risk."
+      }
+    ],
+    "Recommendations": [
+      {
+        "COR": "3: No benefit",
+        "LOE": "B-R",
+        "Recommendation": "In patients undergoing NCS, initiation of low-dose clonidine perioperatively is not recommended to reduce cardiovascular risk."
+      }
+    ]
+  },
+  "genes": []
+}

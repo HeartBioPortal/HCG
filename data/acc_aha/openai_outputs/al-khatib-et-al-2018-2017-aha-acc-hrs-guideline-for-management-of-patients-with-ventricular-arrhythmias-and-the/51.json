@@ -1,0 +1,24 @@
+{
+  "content": {
+    "title": "Prevention of SCD in Patients with HCM",
+    "flowchart": "The flowchart outlines ICD candidacy based on factors such as SCD survivor status, family history of SCD, LVWT measurements, history of syncope, NSVT presence, and abnormal BP response to exercise. Recommendations vary from ICD Class I to Class III depending on these risk factors.",
+    "key_points": [
+      "Patients with HCM should undergo risk stratification if an HCM gene is identified.",
+      "Genetic screening is important for HCM, especially when no first- or second-degree relatives are alive.",
+      "Presence of pathogenic sarcomere protein gene mutation is linked with risks in HCM.",
+      "Single mutations can be sufficient to cause HCM; 5% of patients have \u22652 mutations, indicating worse outcomes.",
+      "Recent genetic testing revealed significant inheritability of HCM."
+    ],
+    "clinical_guideline": "A clear protocol for ICD candidacy evaluation based on patient history and genetic findings."
+  },
+  "genes": [
+    {
+      "Gene": "HCM-associated genes",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy (HCM)"
+      ],
+      "Occurrences": 2,
+      "context": "Genetic testing in patients with HCM identifies those with risk of LV dysfunction and adverse outcomes, irrespective of myofilament involvement. Genetic counseling is critical for patients with identified mutations (S7.4-13, S7.4-15, S7.4-18, S7.4-19, S7.4-22)."
+    }
+  ]
+}

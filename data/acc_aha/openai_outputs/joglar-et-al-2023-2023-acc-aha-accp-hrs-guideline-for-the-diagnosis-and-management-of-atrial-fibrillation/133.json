@@ -1,0 +1,22 @@
+{
+  "content": {
+    "Title": "2023 Guideline for the Diagnosis and Management of Atrial Fibrillation",
+    "Publication": "JACC VOL. 83, NO. 1, 2024",
+    "Section Summaries": {
+      "Shared Decision-Making (SDM) in AF Management": "Discusses models for shared decision-making and patient centered care in atrial fibrillation management.",
+      "Risk Stratification and Population Screening": "Covers new evidence and tools for predicting atrial fibrillation in the community.",
+      "Basic Clinical Evaluation": "Focuses on the risk factors and methods for early identification of atrial fibrillation.",
+      "Rhythm Monitoring Tools and Methods": "Analyzes the effectiveness of various methods to detect and monitor atrial fibrillation."
+    }
+  },
+  "genes": [
+    {
+      "Gene": "IL6",
+      "Associated Conditions": [
+        "Atrial Fibrillation"
+      ],
+      "Occurrences": 1,
+      "context": "Li Y, Pastori D, Guo Y, et al. A single nucleotide polymorphism of interleukin 6 receptor (rs2228145) for predicting incident atrial fibrillation."
+    }
+  ]
+}

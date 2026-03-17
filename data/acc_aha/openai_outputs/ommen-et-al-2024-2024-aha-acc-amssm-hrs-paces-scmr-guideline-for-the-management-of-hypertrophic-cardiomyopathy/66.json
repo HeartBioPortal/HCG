@@ -1,0 +1,31 @@
+{
+  "content": {
+    "title": "2024 Hypertrophic Cardiomyopathy Guideline",
+    "overview": "The guideline covers assessment of sudden cardiac death risk related to hypertrophic cardiomyopathy including screening strategies, imaging techniques, and clinical evaluations.",
+    "topics_covered": [
+      "Risk assessment with cardiac MRI",
+      "Left ventricular strain analysis",
+      "Genotype-positive phenotype-negative assessment",
+      "Sudden cardiac death prevention",
+      "Implantable cardioverter-defibrillator use"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "MYH7",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Natural history of genotype-positive phenotype-negative patients with hypertrophic cardiomyopathy. J Am Coll Cardiol. 2011;57: 258\u2013259."
+    },
+    {
+      "Gene": "MYBPC3",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Prediction of sarcomere mutations in subclinical hypertrophic cardiomyopathy. Circ Cardiovasc Imaging. 2014;7:863\u2013871."
+    }
+  ]
+}

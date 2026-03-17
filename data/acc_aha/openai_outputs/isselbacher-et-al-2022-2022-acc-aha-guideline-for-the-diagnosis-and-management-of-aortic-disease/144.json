@@ -1,0 +1,27 @@
+{
+  "content": {
+    "Title": "2022 ACC/AHA Aortic Disease Guideline",
+    "Focus": "Management and surgical approaches for aortic aneurysms, specifically those affecting the aortic root and ascending aorta, with special considerations for conditions like Marfan syndrome and bicuspid aortic valve.",
+    "Topics": [
+      "Decision-making in clinical application for ascending aortic aneurysm.",
+      "Natural history and management of aortic aneurysms.",
+      "Guidelines for surgical approach in the context of Marfan syndrome and bicuspid aortic valve.",
+      "Prognostic factors and risk assessment for timing of surgical intervention.",
+      "Outcomes of different surgical techniques, including valve-sparing procedures."
+    ],
+    "Key Sections": [
+      "6.5.1.1: Surgical Approach for Patients With Saccular Aneurysms of the Aortic Root and Ascending Aorta Meeting Criteria for Surgery"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "ACTA2",
+      "Associated Conditions": [
+        "Aortic Dissection",
+        "Aneurysm"
+      ],
+      "Occurrences": 1,
+      "context": "ACTA2 mutations are associated with thoracic aortic aneurysms and dissections, highlighting the genetic component in deciding surgical intervention."
+    }
+  ]
+}

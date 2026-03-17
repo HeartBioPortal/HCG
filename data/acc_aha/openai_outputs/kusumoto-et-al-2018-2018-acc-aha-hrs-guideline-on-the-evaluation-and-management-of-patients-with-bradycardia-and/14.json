@@ -1,0 +1,32 @@
+{
+  "content": {
+    "title": "Initial Evaluation of Suspected Atrioventricular Block Algorithm",
+    "process": {
+      "step_1": "Evidence for AV Block",
+      "step_2": "Determine if reversible or physiologic cause",
+      "step_3": "If yes, treat underlying cause as needed (e.g., sleep apnea) and observe if treatment is effective or not necessary.",
+      "step_4": "If no reversible cause, assess for Mobitz Type II, Advanced AV Block, or complete heart block.",
+      "step_5": "If Mobitz Type II or higher, proceed with TransThoracic echocardiography (Class I).",
+      "step_6": "Assess for suspicion of infiltrative cardiomyopathy, endocarditis, congenital heart disease, etc.",
+      "step_7": "If suspicion exists, use advanced imaging or electrophysiology study as appropriate.",
+      "step_8": "Determine site of AV block (infranodal, unclear, or AV node)."
+    },
+    "recommendations": {
+      "transThoracic_echocardiography": "Class I",
+      "advanced_imaging": "Class IIa",
+      "exercise_testing": "Class IIa",
+      "electrophysiology_study": "Class IIb"
+    },
+    "notes": [
+      "Refer to Class of Recommendation in Table 2 for imaging methods.",
+      "AV node more likely site of block with second-degree Mobitz type I."
+    ],
+    "definitions": {
+      "AV": "atrioventricular",
+      "ACHD": "adult congenital heart disease",
+      "CHD": "congenital heart disease",
+      "CM": "cardiomyopathy"
+    }
+  },
+  "genes": []
+}

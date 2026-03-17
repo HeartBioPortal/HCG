@@ -1,0 +1,35 @@
+{
+  "content": {
+    "Vulnerable Populations": {
+      "Women": {
+        "Risk of HF": "Higher lifetime risk of HF in women than men. Odds of HFpEF are 2.8-fold higher in women.",
+        "HF Outcomes": "Favorable survival with HF than men, but women less likely to receive GDMT."
+      },
+      "Older Adults": {
+        "Risk of HF": "For ages 40 and older, lifetime risk is 20%. LVEF is preserved in two-thirds with HF.",
+        "HF Outcomes": "40% mortality at 27 months follow-up at age 80 and above."
+      },
+      "Low Socioeconomic Status Populations": {
+        "Risk of HF": "Neighborhood deprivation increases HF risk by 12%.",
+        "HF Outcomes": "Higher mortality with lower socioeconomic status. Gradient seen across quartiles."
+      },
+      "Black Populations": {
+        "Risk of HF": "Highest risk of incident HF and proportion of nonischemic HF.",
+        "HF Outcomes": "Higher age-adjusted HF-related CVD death rate."
+      },
+      "Hispanic Populations": {
+        "Risk of HF": "Higher HF incidence than non-Hispanic Whites.",
+        "HF Outcomes": "Higher post-transplant survival."
+      },
+      "Asian and Pacific Islander Populations": {
+        "Risk of HF": "Limited data available.",
+        "HF Outcomes": "Higher rates of preventable HF hospitalizations."
+      },
+      "Native American and Alaskan Native Populations": {
+        "Risk of HF": "Limited data; risk factors include hypertension and diabetes.",
+        "HF Outcomes": "HF mortality similar to White populations."
+      }
+    }
+  },
+  "genes": []
+}

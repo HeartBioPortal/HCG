@@ -1,0 +1,62 @@
+{
+  "content": {
+    "Title": "2017 VA/SGD Guideline",
+    "Topics": [
+      {
+        "Topic": "Primary Prevention of SCD in Patients With Nonischemic Cardiomyopathy",
+        "Key Points": [
+          "Amiodarone is compared with implantable cardioverter-defibrillators (ICDs) for heart failure.",
+          "ICDs effectively reduce mortality in nonischemic cardiomyopathy patients."
+        ],
+        "References": [
+          "Kadish A, et al. (2004)",
+          "Bansch D, et al. (2003)",
+          "Bristow MR, et al. (2004)"
+        ]
+      },
+      {
+        "Topic": "Treatment of Recurrent VA in Patients With ICD",
+        "Key Points": [
+          "Comparison of beta-blockers and sotalol for ICD patients.",
+          "Catheter ablation shows improvement in refractory cases."
+        ],
+        "References": [
+          "Connolly SJ, et al. (2006)",
+          "Dinov B, et al. (2014)",
+          "Rung R, et al. (2007)"
+        ]
+      },
+      {
+        "Topic": "Arrhythmogenic Right Ventricular Cardiomyopathy",
+        "Key Points": [
+          "Genetics and clinical management of arrhythmia in right ventricular cardiomyopathy.",
+          "Genotype-phenotype correlations and family screening are crucial."
+        ],
+        "References": [
+          "Groenveld JH, et al.",
+          "James CA, et al. (2018)",
+          "Quarta G, et al."
+        ]
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [
+        "dilated cardiomyopathy",
+        "conduction disorders"
+      ],
+      "Occurrences": 3,
+      "context": "Anselme F, Moubarak G, et al. Cardiac devices in patients with LMNA mutations suffering from conduction disorders."
+    },
+    {
+      "Gene": "RYR2",
+      "Associated Conditions": [
+        "arrhythmogenic right ventricular cardiomyopathy"
+      ],
+      "Occurrences": 2,
+      "context": "Groenveld JH, Bhonsale A, et al. Clinical presentation, long-term follow-up, and outcomes in arrhythmogenic right ventricular cardiomyopathy with RYR2 mutations."
+    }
+  ]
+}

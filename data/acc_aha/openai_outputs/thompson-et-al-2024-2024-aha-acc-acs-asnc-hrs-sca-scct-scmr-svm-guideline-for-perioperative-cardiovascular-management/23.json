@@ -1,0 +1,11 @@
+{
+  "content": {
+    "Synopsis": "ICA is used to define coronary artery anatomy, diagnose atherosclerotic CAD, and assess lesion location and severity. It helps determine the necessity of revascularization. Preoperative ICA may be done in high-risk patients. There's insufficient data to recommend routine angiography for patients undergoing NCS. ICA improves outcomes in certain surgeries but is not consistently associated with improved postoperative outcomes.",
+    "Recommendation-Specific Supportive Text": "Routine invasive angiography is not recommended for revascularization needs in NCS evaluation. The CARP trial found no significant effect of preoperative coronary artery revascularization on outcomes. Two European RCTs supported these findings. Major vascular surgeries showed similar MACE rates regardless of ICA. However, ICA has shown improved long-term survival in certain settings. The strategy should be reserved for patients with significant risks.",
+    "5. Approach to Perioperative Cardiac Testing": "It recommends a framework for risk stratification. Recommendations are supported by evidence levels but should not replace clinical judgment.",
+    "6. Cardiovascular Comorbidities and Perioperative Management": {
+      "6.1. Coronary Artery Disease Synopsis": "CAD is prevalent in 18% of cases undergoing NCS, raising MACE risks. The severity of CAD affects these risks. A history of MI increases risks significantly. Properly managing ASCVD is vital before elective NCS."
+    }
+  },
+  "genes": []
+}

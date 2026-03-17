@@ -1,0 +1,23 @@
+{
+  "content": {
+    "Clinical Guidelines": "The document outlines recommendations for managing patients with Long QT Syndrome (LQTS) and Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT). The primary interventions include Left Cardiac Sympathetic Denervation (LCSD) for patients intolerant to beta-blocker therapy and specific recommendations for CPVT management focusing on exercise restriction, beta-blocker therapy, flecainide, and ICD therapy."
+  },
+  "genes": [
+    {
+      "Gene": "RYR2",
+      "Associated Conditions": [
+        "Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)"
+      ],
+      "Occurrences": 1,
+      "context": "Mutation in the gene encoding the cardiac ryanodine receptor (RyR2) (autosomal dominant) or in the cardiac calsequestrin gene (CASQ2) (autosomal recessive) is linked to CPVT."
+    },
+    {
+      "Gene": "CASQ2",
+      "Associated Conditions": [
+        "Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)"
+      ],
+      "Occurrences": 1,
+      "context": "Mutation in the gene encoding the cardiac ryanodine receptor (RyR2) (autosomal dominant) or in the cardiac calsequestrin gene (CASQ2) (autosomal recessive) is linked to CPVT."
+    }
+  ]
+}

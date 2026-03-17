@@ -1,0 +1,29 @@
+{
+  "content": {
+    "Topic": "Wearables and Remote Monitoring",
+    "Target Population": "Patients with NYHA class III HF",
+    "Importance": "To improve clinical outcomes and reduce HF hospitalizations through remote monitoring of PA pressure.",
+    "Recommendations": [
+      {
+        "COR": "2b",
+        "LOE": "B-R",
+        "Details": "In selected adult patients with NYHA class III HF and history of HF hospitalization in the past year or elevated natriuretic peptide levels, wireless monitoring of PA pressure by an implanted hemodynamic monitor reduces the risk of HF hospitalizations."
+      },
+      {
+        "COR": "Value Statement: Uncertain Value",
+        "LOE": "B-NR",
+        "Details": "In patients with NYHA class III HF with a recent HF hospitalization, wireless monitoring of PA pressure provides uncertain value."
+      }
+    ],
+    "Summarized Findings": [
+      "HF is a chronic condition with potential for remote monitoring to improve outcomes.",
+      "Previous trials suggest benefits of implanted PA pressure sensors.",
+      "Cost-effectiveness studies have shown mixed results regarding CardioMEMS device."
+    ],
+    "Study References": [
+      "CHAMPION trial reported significant improvement in hospitalizations.",
+      "GUIDE-HF study does not show significant reduction in mortality or HF events."
+    ]
+  },
+  "genes": []
+}

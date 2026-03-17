@@ -1,0 +1,546 @@
+{
+  "content": [
+    {
+      "content": {
+        "title": "Effectiveness-Based Guidelines for the Prevention of Cardiovascular Disease in Women\u20142011 Update",
+        "organization": "American Heart Association",
+        "purpose": "Provide guidelines for preventing cardiovascular disease in women.",
+        "year": "2011",
+        "journal": "Journal of the American College of Cardiology",
+        "contributors": [
+          "Lori Mosca, MD, MPH, PhD, FAHA",
+          "Emelia J. Benjamin, MD, ScM, FAHA",
+          "Kathy Berra, MSN, NP",
+          "Judy L. Bezanon, DSN, CNS, RN",
+          "Rowena J. Dolor, MD, MHS",
+          "Donald M. Lloyd-Jones, MD, ScM",
+          "L. Kristin Newby, MD, MHS",
+          "Ileana L. Pi\u00f1a, MD, MPH, FAHA",
+          "V\u00e9ronique L. Roger, MD, MPH",
+          "Leslee J. Shaw, PhD",
+          "Dong Zhao, MD, PhD"
+        ],
+        "expert_panel_members": [
+          "Theresa M. Beckie, PhD",
+          "Cheryl Bushnell, MD, MHS, FAHA",
+          "Jeanine D\u2019Armiento, MD, PhD",
+          "Penny M. Kris-Etherton, PhD, RD",
+          "Jing Fang, MD, MS",
+          "Theodore G. Ganiats, MD",
+          "Antoinette S. Gomes, MD",
+          "Clarisa R. Gracia, MD, MSCE",
+          "Constance K. Haan, MD, MS",
+          "Elizabeth A. Jackson, MD, MPH",
+          "Debra R. Judelson, MD",
+          "Ellie Kelepouris, MD, FAHA",
+          "Carl J. Lavie, MD",
+          "Anne Moore, APRN",
+          "Nancy A. Nussmeier, MD, FAHA",
+          "Elizabeth Ofili, MD, MPH",
+          "Suzanne Oparil, MD, FAHA",
+          "Pamela Ouyang, MBBS",
+          "Vivian W. Pinn, MD",
+          "Katherine Sherif, MD",
+          "Sidney C. Smith, Jr, MD, FAHA",
+          "George Sopko, MD, MPH",
+          "Nisha Chandra-Strobos, MD",
+          "Elaine M. Urbina, MD, MS",
+          "Viola Vaccarino, MD, PhD, FAHA",
+          "Nanette K. Wenger, MD, MACC, MACP, FAHA"
+        ],
+        "affiliations": [
+          "Centers for Disease Control and Prevention",
+          "American Academy of Family Physicians",
+          "American College of Obstetricians and Gynecologists",
+          "American College of Cardiology",
+          "American Medical Women's Association",
+          "Association of Black Cardiologists",
+          "National Institutes of Health Office of Research on Women's Health",
+          "American College of Physicians",
+          "World Heart Federation",
+          "National Heart, Lung, and Blood Institute"
+        ],
+        "sponsors": [
+          "Council on Arteriosclerosis, Thrombosis and Vascular Biology",
+          "Council on Basic Cardiovascular Sciences",
+          "Council on Cardiomyopathy",
+          "Critical Care, Perioperative and Resuscitation",
+          "Council on Cardiovascular Disease in the Young",
+          "Council on Cardiovascular Nursing",
+          "Council on Cardiovascular Radiology and Intervention",
+          "Council on Cardiovascular Surgery and Anesthesia",
+          "Council on Clinical Cardiology",
+          "Council on Epidemiology and Prevention",
+          "Council for High Blood Pressure Research",
+          "Council on the Kidney in Cardiovascular Disease",
+          "Council on Nutrition, Physical Activity and Metabolism",
+          "Council on Peripheral Vascular Disease",
+          "Interdisciplinary Council on Functional Genomics and Translational Biology",
+          "Interdisciplinary Council on Quality of Care and Outcomes Research"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview": "The guideline focuses on the prevention of cardiovascular disease (CVD) in women, highlighting gender-specific clinical recommendations. CVD is no longer seen as a 'man's disease,' and the importance of awareness, treatment, and prevention for women is emphasized.",
+        "Statistics": "CVD was the leading cause of death among U.S. women from 1997 to 2009, increasing from 30% to 54%. The age-adjusted death rate from coronary heart disease (CHD) for women was 95.7 per 100,000 females in 2007, significantly reduced from 1980.",
+        "Racial Disparities": "Black women face significantly higher rates of CVD compared to white women. The prevalence of hypertension in blacks increased from 35.8% to 41.4% from 1988 to 2002.",
+        "Obesity and Diabetes": "The obesity epidemic significantly contributes to diabetes mellitus, which is more prevalent in non-Hispanic black and Hispanic women compared to non-Hispanic white women.",
+        "Recommendations": "Emphasis is placed on sustaining efforts to control major CVD risk factors and apply evidence-based therapies. The AHA revised guidelines in 2007 with input from various organizations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview": "The guideline focuses on the prevention of cardiovascular disease (CVD) in women, with particular attention to gender differences in the effectiveness of preventive interventions. It highlights the importance of identifying women at risk for CVD, especially those with conditions like stroke and hypertension.",
+        "Interventions": "Class III interventions, deemed not useful or potentially harmful, include hormone therapy, antioxidant supplements, and folic acid for CVD prevention in women. The use of aspirin for myocardial infarction prevention in women under 65 is not recommended unless they have a higher risk.",
+        "CVD Risk Assessment": "A new algorithm for risk classification in women stratifies them into 'high risk,' 'at risk,' and 'optimal risk' categories. This classification considers factors such as documented CVD, diabetes, kidney disease, and cholesterol levels."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Evaluation of CVD Risk": {
+          "Factors": [
+            "Medical history/family history/pregnancy complication history",
+            "Symptoms of CVD",
+            "Depression screening in women with CVD",
+            "Physical examination including blood pressure, body mass index, waist size",
+            "Laboratory tests including fasting lipoproteins and glucose",
+            "Framingham risk assessment if no CVD or diabetes"
+          ]
+        },
+        "Implement Class I Lifestyle Recommendations (for all)": [
+          "Smoking cessation",
+          "DASH-like diet",
+          "Regular physical activity",
+          "Weight management"
+        ],
+        "High Risk CVD Criteria": [
+          "Clinically established CHD",
+          "Cerebrovascular disease",
+          "Peripheral arterial disease",
+          "Abdominal aortic aneurysm",
+          "Diabetes mellitus",
+          "Chronic kidney disease",
+          "10-year predicted CVD risk \u226510%"
+        ],
+        "Recommendations for High Risk Women": {
+          "Recent cardiovascular event, procedure, or congestive heart failure symptoms": {
+            "Yes": "Refer to cardiac rehabilitation",
+            "No": "Implement Class I Recommendations: Blood pressure control, LDL-C-lowering therapy (goal <100 mg/dL), \u03b2-Blocker, Angiotensin-converting enzyme inhibitor/angiotensin receptor blocker"
+          },
+          "No History of Paroxysmal Atrial Fibrillation": "Implement Class I Recommendations: Blood pressure control, LDL-C-lowering therapy if \u2265190 mg/dL",
+          "With History of Paroxysmal Atrial Fibrillation": "Implement Class I Recommendations: Warfarin or Aspirin or Dabigatran"
+        },
+        "Consider Class II Recommendations": [
+          "LDL-C-lowering therapy (goal <70 mg/dL in very high-risk women)",
+          "Non-HDL-C-lowering therapy (goal <130 mg/dL in very high-risk women with recent ACS or multiple poorly controlled cardiovascular risk factors)",
+          "Glycemic control in diabetics",
+          "Aspirin/antiplatelet agents",
+          "Omega-3 fatty acids"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Guidelines for the Prevention of CVD in Women\u20142011 Update",
+        "summary": "This guideline discusses the prevention of cardiovascular disease (CVD) in women, with updates from previous guidelines. It emphasizes using risk classification algorithms, which now incorporate factors beyond the traditional Framingham 10-year predicted risk for coronary heart disease (CHD). Recommendations include considering lifestyle factors, family history, preclinical disease markers, and other conditions. The guideline also introduces the concept of 'ideal cardiovascular health' and underscores the benefits of healthy behaviors in prevention.",
+        "classification": {
+          "risk_status": {
+            "high_risk": "Clinically manifest CHD, cerebrovascular disease, peripheral arterial disease, abdominal aortic aneurysm, end-stage or chronic kidney disease, diabetes mellitus, \u226510% predicted CVD risk.",
+            "at_risk": "Major risk factors like smoking, hypertension, abnormal cholesterol levels, obesity, inactivity, family history of premature CVD, metabolic syndrome."
+          },
+          "ideal_health": {
+            "criteria": "Total cholesterol <200 mg/dL, BP <120/80 mm Hg, fasting blood glucose <100 mg/dL, BMI <25 kg/m\u00b2, nonsmoking, regular physical activity, healthy diet."
+          }
+        },
+        "evidence": "References studies validating risk classification and algorithms among diverse groups, showing differences in event rates across risk levels. Highlights benefits demonstrated in the Women's Health Initiative study.",
+        "modifications": "Adapted risk classification and consideration of additional factors like systemic conditions, pregnancy-related complications. Discussion on screening high-sensitivity C-reactive protein (hsCRP) not endorsed due to insufficient evidence linking it with improved outcomes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The guideline discusses the importance of assessing cardiovascular disease (CVD) risk and emphasizes a shift from a focus solely on coronary heart disease (CHD) to a broader focus on CVD. It highlights the effectiveness of statin medications in reducing global CVD event risk and calls for a focus on women's health and the use of long-term risk assessments rather than just the 10-year risk traditionally emphasized. There is a critique of reliance on high-sensitivity C-reactive protein (hsCRP) and advanced lipid testing. The guideline also discusses the importance of assessing pregnancy-related risks and other conditions, such as autoimmune disorders, for their impact on CVD risk, especially in women. Furthermore, the document stresses the necessity of diversity representation in healthcare to ensure effective interventions.",
+        "key_points": [
+          "Use of 10-year and longer risk assessments for CVD beyond just CHD.",
+          "Statin medications effectively lower CVD risk across populations, including women.",
+          "Pregnancy-related complications, like preeclampsia, pose significant CVD risk.",
+          "Reassessment of hsCRP use and advanced lipid testing in preventive interventions.",
+          "The need to consider diversity and representation in healthcare delivery and guideline development."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "disparities": "Cardiovascular health disparities exist across racial and ethnic groups, with significant impacts on clinical outcomes and quality of life, especially in black and Hispanic women. Disparities relate to various social and economic factors.",
+        "cultural sensitivity": "Culturally sensitive healthcare involves adapting care delivery to meet the needs of diverse populations and is crucial for addressing disparities.",
+        "international applicability": "Guidelines need to be adapted globally in the context of local healthcare capabilities, considering factors such as safety, affordability, and effectiveness."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_focus": "The guidelines emphasize the prevention of cardiovascular disease (CVD) in women.",
+        "international_applicability": "Recommendations can be applied globally with necessary modifications for specific regions.",
+        "risk_classification": "Practical and feasible for clinicians and patients worldwide.",
+        "generic_drugs": "Available for most recommended therapies.",
+        "modifications_needed": "May be required depending on specific demands such as obesity definitions.",
+        "healthcare_professional_implementation": "Achievement of desired outcomes has been disappointing due to multiple barriers including lack of public awareness and treatment adherence.",
+        "barriers": "Barriers include patient access, knowledge gaps, and guideline implementation issues.",
+        "disparities": "Exist in guideline adherence by gender, age, ethnicity, and race.",
+        "improvement_strategies": "Focus on substantive patient, clinician, and system-level barriers.",
+        "patient_and_public_education": "Emphasizes reinforcement of adherence to prescribed treatments for CVD risk factors."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Guidelines for the Prevention of CVD in Women\u20142011 Update",
+        "Authors": "Mosca et al.",
+        "Publication": "JACC Vol. 57, No. 12, 2011",
+        "Date": "March 22, 2011",
+        "Summary": "The guidelines emphasize the importance of patient education to improve adherence to lifestyle changes and medication adherence to reduce acute myocardial infarction and stroke. It addresses the challenges patient education faces, especially concerning diverse populations with various socio-economic and linguistic barriers.",
+        "Methods": "The guidelines were updated, with an expert panel reviewing recommendations from 2007 and analyzing studies from databases like PubMed, Embase, and Cochrane. Key topics included education, lifestyle intervention, and levels of evidence for different classifications were outlined.",
+        "Classifications and Levels of Evidence": "Classifications are divided into Class I, IIa, IIb, and III, with varying levels of evidence: A, B, C. Class I indicates beneficial interventions, while Class III suggests no proven benefit."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Guidelines for the Prevention of CVD in Women",
+        "sections": [
+          {
+            "title": "Lifestyle Interventions",
+            "subsections": [
+              {
+                "title": "Cigarette smoking",
+                "recommendations": [
+                  "Women should be advised not to smoke and to avoid environmental tobacco smoke.",
+                  "Provide counseling at each encounter.",
+                  "Use nicotine replacement and other pharmacotherapy as needed in conjunction with a behavioral program or smoking cessation program."
+                ],
+                "classLevel": "Class I; Level of Evidence B"
+              },
+              {
+                "title": "Physical activity",
+                "recommendations": [
+                  "Accumulate at least 150 min/wk of moderate exercise, 75 min/wk of vigorous exercise, or an equivalent combination.",
+                  "Aerobic activity should be performed in episodes of at least 10 min.",
+                  "Benefits increase with up to 5 hours (300 min/wk) physical activity."
+                ],
+                "classLevel": [
+                  "Class I; Level of Evidence B",
+                  "Class IIa; Level of Evidence B"
+                ]
+              },
+              {
+                "title": "Cardiac rehabilitation",
+                "recommendations": [
+                  "Recommended for women with recent cardiovascular events or prior symptoms of heart failure.",
+                  "Applicable for new-onset or chronic angina, recent cerebrovascular event, peripheral arterial disease."
+                ],
+                "classLevel": "Class I; Level of Evidence B"
+              },
+              {
+                "title": "Dietary intake",
+                "recommendations": [
+                  "Consume a diet rich in fruits and vegetables.",
+                  "Choose whole-grain, high-fiber foods."
+                ],
+                "warning": "Avoid high mercury fish (e.g., shark, swordfish).",
+                "classLevel": "Class I; Level of Evidence B"
+              },
+              {
+                "title": "Weight maintenance/reduction",
+                "recommendations": [
+                  "Maintain or achieve healthy body weight (BMI <25 kg/m\u00b2 in US women).",
+                  "Use programs balancing physical activity, caloric intake."
+                ],
+                "classLevel": "Class I; Level of Evidence B"
+              },
+              {
+                "title": "Omega-3 fatty acids",
+                "recommendations": [
+                  "Consider 1800 mg/d of EPA for hypertriglyceridemia."
+                ],
+                "classLevel": "Class IIb; Level of Evidence B"
+              }
+            ]
+          },
+          {
+            "title": "Major risk factor interventions",
+            "subsections": [
+              {
+                "title": "Blood pressure: optimal level and lifestyle",
+                "recommendations": [
+                  "Aim for blood pressure <120/80 mm Hg.",
+                  "Encourage weight control and reduced consumption of fats."
+                ],
+                "classLevel": "Class I; Level of Evidence B"
+              },
+              {
+                "title": "Blood pressure: pharmacotherapy",
+                "recommendations": [
+                  "Indicated when blood pressure is \u2265140/90 mm Hg.",
+                  "Consider thiazide diuretics as part of the drug regimen."
+                ],
+                "classLevel": "Class I; Level of Evidence A"
+              },
+              {
+                "title": "Lipid and lipoprotein levels: optimal levels and lifestyle",
+                "recommendations": [
+                  "Target LDL-C <100 mg/dL, HDL-C >50 mg/dL, triglycerides <150 mg/dL."
+                ],
+                "classLevel": "Class I; Level of Evidence B"
+              },
+              {
+                "title": "Lipids: pharmacotherapy for LDL-C lowering, high-risk women",
+                "recommendations": [
+                  "LDL-C\u2013lowering drugs recommended in CHD women aiming to achieve an LDL-C <100 mg/dL."
+                ],
+                "classLevel": "Class I; Level of Evidence A"
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Lipids": {
+          "LDL-C lowering": {
+            "Useful if LDL-C level is \u2265130 mg/dL, with multiple risk factors, and 10-year absolute CHD risk is 10%\u201320% (Class I; Level of Evidence B).": true,
+            "Useful if LDL-C level is \u2265160 mg/dL with multiple risk factors even if 10-year absolute CHD risk is <10% (Class I; Level of Evidence B).": true,
+            "Useful if LDL 190 mg/dL regardless of other risk factors or CVD (Class I; Level of Evidence B).": true,
+            "Statins could be considered in women >60 years with estimated CHD risk >10% and hsCRP >2 mg/dL (Class IIb; Level of Evidence B).": true
+          },
+          "HDL-C or elevated non\u2013HDL-C": {
+            "Niacin or fibrate therapy useful when HDL-C is low (<50 mg/dL) or non-HDL-C is elevated (>130 mg/dL) in high-risk women after LDL-C goal is reached (Class IIb; Level of Evidence B).": true
+          }
+        },
+        "Diabetes mellitus": {
+          "Lifestyle and pharmacotherapy can help women with diabetes reach HbA1c <7% if significant hypoglycemia can be avoided (Class I; Level of Evidence B).": true
+        },
+        "Preventive drug interventions": {
+          "Aspirin": {
+            "High-risk women": {
+              "75\u2013325 mg/d recommended unless contraindicated, alternative is clopidogrel (Class I; Level of Evidence A/B).": true
+            },
+            "Other at-risk or healthy women": {
+              "Use in women \u226565 if benefit outweighs risk (Class IIa; Level of Evidence B), reasonable for women <65 for ischemic stroke prevention (Class IIb; Level of Evidence B).": true
+            },
+            "Atrial fibrillation": {
+              "75\u2013325 mg for those with contraindications to warfarin or low stroke risk (Class I; Level of Evidence A).": true
+            }
+          },
+          "Warfarin": {
+            "Atrial fibrillation": {
+              "INR maintenance for chronic/paroxysmal AF unless low risk (Class I; Level of Evidence A).": true
+            }
+          },
+          "Dabigatran": {
+            "Atrial fibrillation": {
+              "Alternative to warfarin in certain conditions avoiding severe valve disease and more (Class I; Level of Evidence B).": true
+            }
+          },
+          "\u03b2-Blockers": {
+            "Use up to 12 months (Class I/IIa; Level of Evidence A/B) post-MI/ACS unless contraindicated.": true,
+            "Long-term used indefinitely for women with left ventricular failure unless contraindications are present (Class I; Level of Evidence A).": true,
+            "Could be considered in women with history of coronary/vascular disease and normal function (Class IIb; Level of Evidence C).": true
+          },
+          "ACE inhibitors/ARBs": {
+            "Use post-MI or with heart failure, LVEF \u226440%, or diabetes (Class I; Level of Evidence A/B).": true,
+            "ACE inhibitors contraindicated in pregnancy, caution advised in women who may become pregnant.": true
+          },
+          "Aldosterone blockade": {
+            "Post-MI in certain women, especially those with LVEF \u226440% (Class I; Level of Evidence B).": true
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Guidelines for the Prevention of CVD in Women\u20142011 Update",
+        "evidence_rating": "Subcommittees reviewed literature, and recommendations were based on a strength of recommendation (Class I, IIa, IIb, or III) and Level of Evidence (A, B, or C).",
+        "cost-effectiveness": "Focus on randomized controlled trials and observational studies of omega-3 use, dietary intake, \u03b2-blocker, and aspirin therapy. Studies included gender-specific analyses.",
+        "specific_dietary_intake_recommendations": {
+          "fruits_and_vegetables": "\u22654.5 cups/d",
+          "fish": "2/wk",
+          "fiber": "30 g/d (1.1 g/10 g carbohydrate)",
+          "whole_grains": "3/d",
+          "sugar": "\u22645/wk (\u2264450 kcal/wk from sugar-sweetened beverages)",
+          "nuts_legumes_seeds": "\u22654/wk",
+          "saturated_fat": "<7%/total energy intake",
+          "cholesterol": "<150 mg/d",
+          "alcohol": "\u22641/d",
+          "sodium": "<1,500 mg/d",
+          "trans-fatty_acids": "0",
+          "serving_sizes": "Based on 2,000-kcal diet. Adjustments vary by individual preference and needs."
+        },
+        "acknowledgments": "Acknowledges contributions of specific individuals for expert review and assistance with literature."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Guidelines for the Prevention of CVD in Women\u20142011 Update",
+        "section": "Disclosures",
+        "description": "This table provides disclosures for the writing group members, listing their employment, research support, honoraria, and other relevant affiliations or financial interests. The disclosures include various pharmaceutical companies and research grants."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Guidelines for the Prevention of CVD in Women\u20142011 Update",
+        "Source": "JACC Vol. 57, No. 12, 2011, March 22, 2011:1404\u201323",
+        "Section": "Writing Group Disclosures, Continued",
+        "Main focus": "Disclosure of employment, research grants, other research support, speakers' bureau/honoraria, expert witness, ownership interest, consultant/advisory board, and other involvement from the writing group members."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Guidelines for the Prevention of CVD in Women\u20142011 Update",
+        "authors": "Mosca et al.",
+        "journal": "JACC Vol. 57, No. 12, 2011",
+        "date": "March 22, 2011:1404\u201323",
+        "sections": [
+          {
+            "section_title": "Writing Group Disclosures",
+            "details": [
+              "Vivian W. Pinn - Employment: Department of Health and Human Services (NIH), no other disclosures.",
+              "Katherine Sherif - Employment: Drexel University College of Medicine, Speakers' Bureau: GlaxoSmithKline.",
+              "Others listed have no significant disclosures or are involved with various pharmaceutical companies."
+            ]
+          },
+          {
+            "section_title": "Reviewer Disclosures",
+            "details": [
+              "Vera Bittner - Employment: University of Alabama at Birmingham, Research Grant: Gilead, Roche, GSK.",
+              "Eliot A. Brinton - Employment: University of Utah, Research Grant: Abbott, GSK.",
+              "Others involved with Duke University, Akron General Medical Center, VA Healthcare System with various research and consultancy roles."
+            ]
+          }
+        ],
+        "disclosure_details": "This table presents the relationships of group members that may be perceived as conflicts of interest. A relationship is significant if it involves over $10,000 or 5% of income, or involvement in company ownership."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guidelines Topic": "Prevention of Cardiovascular Disease (CVD) in Women",
+        "Authors": "Mosca et al.",
+        "Publication": "Journal of the American College of Cardiology (JACC)",
+        "Volume": "57",
+        "Issue": "12",
+        "Publication Date": "March 22, 2011",
+        "Page Numbers": "1419-30",
+        "Main Focus": "Update on guidelines for preventing CVD in women, emphasizing awareness and risk management strategies."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Guidelines for the Prevention of CVD in Women\u20142011 Update",
+        "source": "Mosca et al., JACC Vol. 57, No. 12, 2011",
+        "focus": "Emphasizes the prevention of cardiovascular disease (CVD) in women, discussing risk factors, and evidence-based guidelines.",
+        "key_highlights": [
+          "Aspirin use in primary prevention and its varying effectiveness in women.",
+          "Lifetime risk prediction based on 'Framingham risk score'.",
+          "Role of specific dietary and lifestyle interventions in reducing CVD risk.",
+          "Specific guidelines for hypertensive disorders during pregnancy.",
+          "Genetic considerations and use of risk calculators."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_title": "Guidelines for the Prevention of CVD in Women \u2013 2011 Update",
+        "publication_date": "March 22, 2011",
+        "sections": [
+          {
+            "section_number": 75,
+            "title": "Resiliency in the face of disadvantage: do Hispanic cultural characteristics protect health outcomes?",
+            "citation": "J Pers. 2009;77:1707\u201346."
+          },
+          {
+            "section_number": 76,
+            "title": "Aging, migration, and mortality: current status of research on the Hispanic paradox.",
+            "citation": "J Gerontol B Psychol Sci Soc Sci. 2005;60:S68\u201375."
+          },
+          {
+            "section_number": 84,
+            "title": "Why don\u2019t physicians follow clinical practice guidelines?",
+            "citation": "JAMA. 1999;282:1458\u201365."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Overview": "The guideline provides updated clinical insights into cardiovascular disease (CVD) prevention, with a focus on women. It reviews various interventions for managing hypertension, hypercholesterolemia, and other cardiovascular risk factors. The document references several studies evaluating the cost-effectiveness and efficacy of different treatments, lifestyle interventions, and medications for CVD.",
+        "Interventions": [
+          "Self-measurement of blood pressure for hypertension management.",
+          "A smoking cessation program for patients with coronary heart disease.",
+          "Mail and phone interventions for weight loss.",
+          "Cost-effectiveness of internet-based interventions for heart disease prevention."
+        ],
+        "Cost-effectiveness": "Various studies are cited assessing the cost-effectiveness of medications and interventions such as statins, aspirin, varenicline, and therapeutic lifestyle changes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Guidelines for the Prevention of CVD in Women\u20142011 Update",
+        "references": [
+          {
+            "author": "Craig BM, Tseng DS",
+            "focus": "Cost-effectiveness of gastric bypass for severe obesity",
+            "source": "Am J Med. 2002;113:491\u20138"
+          },
+          {
+            "author": "Picot J, Jones J, Colquitt JL, et al.",
+            "focus": "Clinical effectiveness and cost-effectiveness of bariatric (weight loss) surgery for obesity",
+            "source": "Health Technol Assess. 2009;13:1\u2013190, 215\u2013357, iii\u2013iv"
+          },
+          {
+            "author": "Alder NE, Adashi EY, Aguilar-Gaxiola S, et al.",
+            "institution": "Institute of Medicine\u2019s (IOM) Committee",
+            "focus": "Women\u2019s Health Research",
+            "source": "National Academies Press; 2010"
+          },
+          {
+            "author": "Lichtenstein AH, Appel LJ, Brands M, et al.",
+            "focus": "Diet and lifestyle recommendations revision 2006",
+            "source": "Circulation. 2006;114:82\u201396"
+          },
+          {
+            "institution": "Institute of Medicine",
+            "focus": "Dietary Reference Intakes for Calcium and Vitamin D",
+            "source": "National Academies Press; 2011"
+          }
+        ],
+        "keywords": [
+          "AHA Scientific Statements",
+          "cardiovascular diseases",
+          "cost-effectiveness",
+          "guidelines",
+          "prevention",
+          "risk factors",
+          "women"
+        ]
+      },
+      "genes": []
+    }
+  ],
+  "genes": []
+}

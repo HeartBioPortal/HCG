@@ -1,0 +1,40 @@
+{
+  "content": {
+    "Figure": "Acute Treatment of Regular SVT of Unknown Mechanism",
+    "Initial Treatment": "Vagal maneuvers and/or IV adenosine (Class I)",
+    "If Ineffective or Not Feasible": {
+      "Hemodynamically Stable": {
+        "Yes": "IV beta blockers, IV diltiazem, or IV verapamil (Class IIa)",
+        "No": "Synchronized cardioversion* (Class I)",
+        "If Still Ineffective or Not Feasible": "Synchronized cardioversion* (Class I)"
+      }
+    },
+    "Notes": {
+      "Color Coding": "Indicates Class of Recommendation",
+      "Footnote": "*For rhythms that break or recur spontaneously, synchronized cardioversion is not appropriate.",
+      "IV": "intravenous",
+      "SVT": "supraventricular tachycardia"
+    },
+    "Therapeutic Intervention": "Considered in the context of frequency and duration of the SVT and any clinical manifestations.",
+    "2.5": {
+      "Title": "Basic Principles of Electrophysiological Study, Mapping, and Ablation",
+      "2.5.1": "Mapping With Multiple and Roving Electrodes",
+      "Key Points": [
+        "EP study helps diagnose the arrhythmia mechanism and localize the origin.",
+        "Standards define performance and training for EP study.",
+        "EP involves multiple electrodes at \u22651 sites."
+      ],
+      "2.5.2": "Tools to Facilitate Ablation, Including 3-Dimensional Electroanatomic Mapping",
+      "Advancements": [
+        "Electroanatomic 3D mapping and magnetic navigation.",
+        "Better definition, reduction in fluoroscopy, shorter procedure times."
+      ]
+    },
+    "2.5.3": "Mapping and Ablation With No or Minimal Radiation",
+    "Summary": [
+      "Optimal fluoroscopic technique and radiation-reducing strategies are emphasized.",
+      "Use of alternative imaging systems like electroanatomic mapping to reduce ionizing radiation exposure."
+    ]
+  },
+  "genes": []
+}

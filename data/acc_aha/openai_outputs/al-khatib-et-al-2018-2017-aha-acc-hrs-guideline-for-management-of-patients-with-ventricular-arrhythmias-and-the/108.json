@@ -1,0 +1,41 @@
+{
+  "content": {
+    "guideline_name": "2017 VAV/SGD Guideline",
+    "focus": "Hypertrophic cardiomyopathy (HCM)",
+    "topics": [
+      "Determinants of clinical diagnosis",
+      "Morphologic observations in hypertrophic cardiomyopathy",
+      "Clinical features and outcomes",
+      "Predictors of outcomes",
+      "Phenotypic spectrum and genetic testing",
+      "Implantable cardioverter-defibrillators efficacy",
+      "Importance of early diagnosis and screening",
+      "Predictive role of family history",
+      "Echocardiographic techniques",
+      "Pharmacological treatment options",
+      "Weight of different risk factors in sudden cardiac death",
+      "Genetic mutations and carrier status implications",
+      "Updated strategies for risk stratification",
+      "The impact of shared genetic causes",
+      "Progress in genetic mutation characterization"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "MYBPC3",
+      "Associated Conditions": [
+        "Hypertrophic cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Impact of genetic mutations such as MYBPC3 in hypertrophic cardiomyopathy; implications for genetic testing and counseling. J Med Genet. 2005;42:e59."
+    },
+    {
+      "Gene": "TNNT2",
+      "Associated Conditions": [
+        "Hypertrophic cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Impact of genetic mutations such as TNNT2 in hypertrophic cardiomyopathy; implications for genetic testing and counseling. J Med Genet. 2005;42:e59."
+    }
+  ]
+}

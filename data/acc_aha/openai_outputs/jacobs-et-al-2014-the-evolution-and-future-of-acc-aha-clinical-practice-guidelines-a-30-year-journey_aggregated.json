@@ -1,0 +1,198 @@
+{
+  "content": [
+    {
+      "content": {
+        "Title": "The Evolution and Future of ACC/AHA Clinical Practice Guidelines: A 30-Year Journey",
+        "Authors": "Alice K. Jacobs, MD, FACC, FAHA, Immediate Past Chair; Jeffrey L. Anderson, MD, FACC, FAHA, Chair; Jonathan L. Halperin, MD, FACC, FAHA, Chair-Elect",
+        "Summary": "In 2014, the document marks the 30th anniversary of the first publication of an American College of Cardiology (ACC) and American Heart Association (AHA) clinical practice guideline. The joint effort was initiated in response to the government\u2019s request to review evidence concerning cardiac pacemakers. Since then, the ACC and AHA have developed 23 clinical practice guidelines (CPGs) across cardiovascular diseases and procedures.",
+        "Purpose": "To provide evidence-based recommendations for diagnostic tests, procedures, and treatments to improve the quality of care for patients with cardiovascular diseases."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical Practice Guidelines (CPGs)": "CPGs include recommendations intended to optimize patient care based on systematic review and assessment of alternative care options.",
+        "CPG Development": "The development process involves selecting topics, overseeing document preparation, and ensuring broad recognition. This includes consensus from guideline writing committees (GWCs) and professional organizations.",
+        "Process Improvements": "Efforts to enhance CPGs include limiting narrative text, holding conferences for consensus, improving guideline development through methodological enhancements, and using comparative-effectiveness studies.",
+        "Implementation": "Effectiveness of CPGs is continually improved by applying recommendations systematically, although evidence of long-term clinical impact needs assessment over time."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Task Force Role": "Involves lay representatives in the guideline writing process. Responsibilities include participation in topic selection, delineation of options, and shared decision making.",
+        "GWC Role": "Outlines document content and oversees evidence acquisition and review. Develops recommendations using evidence.",
+        "ERC Role": "Handles systematic review of evidence with experts. Focuses on clinically relevant topics.",
+        "PICOTS Framework": "Used for creating clinical questions. Identifies population, intervention, comparator, outcome, timing, and setting.",
+        "Consensus Conference": "Held in 2009 by Guideline Writing Committees for reconciling recommendations across documents.",
+        "Figure 1": "Shows concordance among ACC/AHA guideline recommendations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "overview": "The guideline outlines the process for creating, revising, and publishing clinical practice guidelines (CPGs) by the American College of Cardiology (ACC) and American Heart Association (AHA). It includes consensus conferences, peer review, and ratification by governance bodies. The peer review process incorporates a wide range of stakeholders.",
+        "process_details": [
+          "Recommendations are ratified by the guideline writing committee (GWC), with members recusing themselves when conflicts of interest are present.",
+          "The document undergoes peer review by ACC and AHA officials, content experts, and participating organizations.",
+          "A lead reviewer ensures reconciliation of all peer reviewer comments.",
+          "Approval of recommendations requires majority vote by the GWC and further ratification by ACC and AHA committees.",
+          "Post-publication, CPGs influence policy, education, and services."
+        ],
+        "publication": "Published in the Journal of the American College of Cardiology, Circulation, and other journals by partner organizations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "overview": "The document discusses the validity and reliability of Clinical Practice Guidelines (CPGs), focusing on concerns regarding relationships with industry (RWI) and potential conflicts of interest (COI) in the development of these guidelines. The ACC and AHA have implemented policies to prevent undue influence from commercial interests and ensure the credibility of guidelines by requiring disclosures of RWI. They categorize RWI based on financial interests, with levels defined as none, modest, or significant. Efforts are made to manage biases and emphasize transparency and expertise in the guideline writing process.",
+        "policies": {
+          "RWI Management": "Guidelines are in place to manage RWI and ensure transparency in guideline development.",
+          "Disclosure Requirements": "Authors and reviewers are required to disclose relevant relationships, and these are reviewed and published with guidelines.",
+          "Levels of RWI": {
+            "None": "No conflicts or relationships to disclose.",
+            "Modest": "<$10,000, less significant.",
+            "Significant": ">=$10,000 or 5% ownership in an entity."
+          },
+          "Methodology": "ACC/AHA address biases including academic, geographic, and clinical practice perspectives through structured policies."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "RWI Management": "Requires selection of a balanced GWC and states that authors with relevant RWI cannot influence CPG recommendations. Full member transparency is required.",
+        "Recommendation Classification System": "Recommendations are based on benchmarks of strength and evidence. Class I and II recommendations consider size, strength, benefit-risk ratios, and evidence quality.",
+        "Class IIa Recommendations": "Show intermediate strength for generalizability of benefit over risk.",
+        "Class IIb Recommendations": "Consider weakest, address uncertain outcomes, and suggest need for further evidence.",
+        "Class III Recommendations": "Classifies strong recommendations (harm), moderate (no benefit) based on comparison with control, and adds detail on evidence requirements.",
+        "LOE Rates": "Quantify the effect of intervention depending on trial types and quality. Includes revised grading for more granularity.",
+        "Collaboration": "Works with organizations like the European Society of Cardiology to improve guideline clarity and accuracy."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Class of Recommendation (COR)": {
+          "Class I (Strong)": "Benefit >>> Risk. Recommendations include being indicated, useful, and should be performed.",
+          "Class IIa (Moderate)": "Benefit >> Risk. Recommendations are reasonable and sometimes preferred over other treatments.",
+          "Class IIb (Weak)": "Benefit \u2265 Risk. Recommendations may be reasonable but usefulness is unclear or uncertain.",
+          "Class III: No Benefit (Moderate)": "Benefit = Risk. Recommendations suggest lack of benefit and not indicated.",
+          "Class III: Harm (Strong)": "Risk > Benefit. Recommendations highlight potential harm and should not be performed."
+        },
+        "Level of Evidence (LOE)": {
+          "Level A": "High-quality evidence from more than 1 RCT or meta-analyses of high-quality RCTs.",
+          "Level B-R": "Moderate-quality evidence from 1 or more RCTs.",
+          "Level B-NR": "Moderate-quality evidence from nonrandomized studies.",
+          "Level C": "Evidence from randomized or nonrandomized studies with limitations.",
+          "Level E": "Consensus opinion when evidence is insufficient or conflicting."
+        },
+        "Additional Notes": [
+          "COR and LOE are determined independently.",
+          "RCT indicates randomized controlled trial.",
+          "NR indicates nonrandomized.",
+          "The guideline emphasizes comparative effectiveness and should specify improved outcomes."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "grading tools": "Useful for evaluating the quality of evidence.",
+        "levels of evidence": [
+          {
+            "Level": "A",
+            "Description": "High-quality evidence from more than 1 randomized controlled trial (RCT), meta-analyses of RCTs, or supportive RCTs by high-quality registry studies."
+          },
+          {
+            "Level": "B-R",
+            "Description": "Moderate-quality evidence from 1 or more RCTs, meta-analyses of moderate-quality RCTs."
+          },
+          {
+            "Level": "B-NR",
+            "Description": "Moderate-quality evidence from well-executed nonrandomized studies, observational, or registry studies."
+          },
+          {
+            "Level": "C",
+            "Description": "Randomized or nonrandomized observational or registry studies with design or execution limits, meta-analyses of such studies, physiological/mechanistic studies in humans."
+          },
+          {
+            "Level": "E",
+            "Description": "Consensus from expert opinion based on clinical experience when evidence is insufficient, vague, or conflicting."
+          }
+        ],
+        "evidence review": "Increasing number of studies use active controls over placebos.",
+        "stats": "50% of recommendations are Level C and <10% Level A.",
+        "survey": "Conducted in September-October 2012, involved ACC/AHA CPG users. 13% response rate, majority find weaker COR and LOE helpful."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "CPGs Usage": "For cardiovascular or multispecialty practice clinicians, CPGs are most frequently used to address specific clinical questions at the point of care. For cardiologists in medical schools and universities, CPGs are commonly used as a teaching tool.",
+        "Electronic Access Preferences": "Cardiologists are almost equally divided on accessing CPGs through ACC/AHA websites, search engines, or electronic tablet applications.",
+        "Preference for Updates": "More than two thirds prefer a continuous 'dynamic' update or 'living' electronic documents for CPGs.",
+        "Satisfaction Levels": "The majority of cardiologists find the color-coded recommendation table format satisfactory.",
+        "Responsibility Belief": "Three fourths of cardiologists believe in providing optimal care and cost/resource utilization guidance to patients.",
+        "High-Quality Evidence": "IOM recommends CPGs be informed by high-quality (RCT) evidence and meta-analyses, with considerations for timely and accessible expert opinions.",
+        "ERC Role": "An ERC was set up to independently assess evidence related to key PICOTS questions.",
+        "Challenge in Development": "There is an ongoing challenge in maintaining updated CPGs with developments and evidence changes.",
+        "CPG Update Process": "Revised every 4 to 5 years or after significant evidence revision. A new initiative allows accelerated focused updates."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Evolution and Future of ACC/AHA CPGs",
+        "authors": "Jacobs et al.",
+        "journal": "JACC",
+        "volume_issue_year": "Vol. 64, No. 13, 2014",
+        "date_pages": "September 30, 2014:1373-84 (page 1382)",
+        "sections": {
+          "criteria_and_considerations_for_new_data": [
+            "Publication of the full report (rather than the abstract) in a peer-reviewed journal",
+            "Adequately powered RCT(s)",
+            "Important nonrandomized data that affect safety and efficacy assumptions",
+            "Strengths/weaknesses of research methodology and findings",
+            "The likelihood that additional studies will influence the findings or conclusions",
+            "The impact on current performance measure(s) or the need to develop new measures",
+            "Requests for review and update from the practice community, key stakeholders, and other sources free of bias or commercial relationships",
+            "The number of previous studies with consistent results",
+            "Consistency with other CPGs or CPG revisions",
+            "Approval of new drugs, devices, or applications by the U.S. Food and Drug Administration that have an impact on cardiovascular care"
+          ],
+          "focused_updates": "Focused updates do not imply that a recommendation must change but that new evidence is critically reviewed by the GWC to reach a decision. Focused updates have been created as stand-alone documents with section numbers corresponding to the CPG and new and revised recommendations denoted in adjacent tabular columns. Focused updates are incorporated into the full CPG, which is republished online to provide a complete, comprehensive CPG.",
+          "cpg_derivatives": "Recommendations in CPGs remain the primary source of guidance for clinicians. Access to CPGs will increasingly be through other sources such as AHA/ACC websites, pocket guides, and electronic access (smartphone applications). Performance measures operationalize CPG recommendations and are developed as derivatives of CPGs by a separate task force, the ACC/AHA Task Force on Performance Measures.",
+          "performance_measures": "Performance measures focus on critical recommendations carrying large benefit based on high-quality evidence to provide quantitative metrics for assessing the quality of patient care for specific cardiovascular conditions. Measures must be measurable, valid, reliable, and actionable; address demonstrable gaps in care; and lead to improved patient outcomes. Issues of measure number, feasibility, data collection, exceptions, and correct attribution are under consideration.",
+          "appropriate_use_criteria": "ACC appropriate use criteria documents supplement recommendations by providing representative clinical scenarios that allow clinicians to document practice patterns for comparison against benchmarks. Methodology is based on the RAND Delphi model; clinical scenarios are constructed by a committee and evaluated by a technical panel to translate and implement CPG recommendations into practice. Mapping with coronary revascularization indications found Class I recommendations appropriate and some Class III recommendations mapped to inappropriate.",
+          "a_related_documents": "AHA scientific statements and ACC clinical expert consensus documents represent additional educational products ancillary to CPGs, providing expert opinion and evidence summaries on focused cardiovascular topics that may be too narrow or immature to warrant a full CPG.",
+          "ongoing_challenges": "Responding to an expanding evidence base in a timely manner while maintaining rigorous processes remains a challenge."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guidelines": "The ACC/AHA clinical practice guidelines (CPGs) aim to improve patient care by offering recommendations for clinicians. The guidelines undergo updates to address clinical practice changes and ensure the inclusion of the most recent evidence. Current concerns include the balance between timely delivery and the need for thorough deliberation of CPGs. The guidelines recommend considering cost, effectiveness, and value in healthcare decisions. There is an emphasis on harmonizing CPGs with other organizations and addressing resource variability and medical therapies. Continuous feedback and updates through evidence-based practices are also highlighted."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "The Evolution and Future of ACC/AHA Clinical Practice Guidelines: A 30-Year Journey",
+        "source": "Journal of the American College of Cardiology (JACC)",
+        "date": "September 30, 2014",
+        "overview": "The document reviews the development and future direction of ACC/AHA Clinical Practice Guidelines over 30 years. It discusses the collaborations with various organizations and updates in specific guidelines, such as those for coronary artery disease and heart failure.",
+        "key topics": [
+          "Guideline methodologies",
+          "Collaboration with other associations like American Association for Thoracic Surgery, Society for Cardiovascular Angiography and Interventions.",
+          "The role of evidence-based medicine in guideline development.",
+          "Performance measures and their importance."
+        ],
+        "industry relationships": "Describes the committee members' industry relationships to ensure transparency in guideline development."
+      },
+      "genes": []
+    }
+  ],
+  "genes": []
+}

@@ -1,0 +1,27 @@
+{
+  "content": {
+    "CAC Measurement Guidelines": [
+      "Patients reluctant to initiate statin therapy.",
+      "Patients concerned about restarting statin therapy after discontinuation.",
+      "Older patients with low burden of risk factors.",
+      "Middle-aged adults with a borderline risk group."
+    ],
+    "Risk Factors and Conditions": [
+      "Less CAC measurement value for patients with diabetes mellitus, persistent smoking, and family history of premature ASCVD.",
+      "Smokers have a strong risk factor, even with a CAC score of zero.",
+      "In asymptomatic diabetes, a CAC score of zero is initially favorable but risk increases after 5 years.",
+      "In family history of premature ASCVD or diabetes, CAC may provide less short-term benefit."
+    ],
+    "Calculations and Interventions": [
+      "CAC score 0 with high lifetime risk may still benefit from statin therapy.",
+      "Statin therapy initiation in adults >55 years for scores 1 to 99 may need risk reassessment.",
+      "Ezetimibe added to moderate-intensity statin lowers LDL-C."
+    ],
+    "Additional Treatment Considerations": [
+      "Benefit from statin therapy in selected lower-risk individuals.",
+      "Enhancing risk factor discussion for patients developing ASCVD.",
+      "Challenges include selecting placebo treatment for those likely to benefit less from statins."
+    ]
+  },
+  "genes": []
+}

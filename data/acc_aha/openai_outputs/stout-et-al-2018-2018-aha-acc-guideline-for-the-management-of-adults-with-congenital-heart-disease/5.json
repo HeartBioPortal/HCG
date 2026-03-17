@@ -1,0 +1,91 @@
+{
+  "content": {
+    "Classes of Recommendation": [
+      {
+        "Class": "I",
+        "Description": "Strong",
+        "Benefit vs. Risk": "Benefit >>> Risk",
+        "Suggested Phrases": [
+          "Is recommended",
+          "Is indicated/useful/effective/beneficial",
+          "Should be performed/administered/other"
+        ],
+        "Comparative/Effectiveness Phrases": [
+          "Treatment/strategy A is recommended/indicated in preference to treatment B",
+          "Treatment A should be chosen over treatment B"
+        ]
+      },
+      {
+        "Class": "IIa",
+        "Description": "Moderate",
+        "Benefit vs. Risk": "Benefit >> Risk",
+        "Suggested Phrases": [
+          "Is reasonable",
+          "Can be useful/effective/beneficial"
+        ],
+        "Comparative/Effectiveness Phrases": [
+          "Treatment/strategy A is probably recommended/indicated in preference to treatment B",
+          "It is reasonable to choose treatment A over treatment B"
+        ]
+      },
+      {
+        "Class": "IIb",
+        "Description": "Weak",
+        "Benefit vs. Risk": "Benefit \u2265 Risk",
+        "Suggested Phrases": [
+          "May/might be reasonable",
+          "May/might be considered"
+        ],
+        "Comments": "Usefulness/effectiveness is unknown/unclear/uncertain or not well established"
+      },
+      {
+        "Class": "III: No Benefit",
+        "Description": "Moderate",
+        "Benefit vs. Risk": "Benefit = Risk",
+        "Suggested Phrases": [
+          "Is not recommended",
+          "Is not indicated/useful/effective/beneficial"
+        ],
+        "Comments": "Should not be performed/administered/other"
+      },
+      {
+        "Class": "III: Harm",
+        "Description": "Strong",
+        "Benefit vs. Risk": "Risk > Benefit",
+        "Suggested Phrases": [
+          "Potentially harmful",
+          "Causes harm"
+        ],
+        "Comments": "Associated with excess morbidity/mortality or should not be performed/administered/other"
+      }
+    ],
+    "Levels of Evidence": [
+      {
+        "Level": "A",
+        "Description": "High-quality evidence from more than 1 RCT or meta-analyses of high-quality RCTs or corroborated by high-quality registry studies"
+      },
+      {
+        "Level": "B-R",
+        "Description": "Moderate-quality evidence from 1 or more RCTs or meta-analyses of moderate-quality RCTs"
+      },
+      {
+        "Level": "B-NR",
+        "Description": "Moderate-quality evidence from 1 or more well-designed, well-executed nonrandomized studies, observational studies, or registry studies"
+      },
+      {
+        "Level": "C-LD",
+        "Description": "Randomized or nonrandomized observational or registry studies with limitations or physiologic or mechanistic studies in humans"
+      },
+      {
+        "Level": "C-EO",
+        "Description": "Consensus of expert opinion based on clinical experience"
+      }
+    ],
+    "Notes": [
+      "COR and LOE are determined independently.",
+      "A recommendation with LOE C does not imply weakness.",
+      "The method of assessing quality is evolving, including the application of standardized, widely used, and preferably validated evidence grading tools."
+    ]
+  },
+  "genes": []
+}

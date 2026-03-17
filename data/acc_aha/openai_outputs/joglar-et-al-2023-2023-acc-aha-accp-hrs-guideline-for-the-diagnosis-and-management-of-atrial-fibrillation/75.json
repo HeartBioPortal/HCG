@@ -1,0 +1,55 @@
+{
+  "content": {
+    "figure_title": "Patient and Clinical Considerations for Choosing Between Rhythm Control and Rate Control",
+    "sections": [
+      {
+        "title": "Patient Factors",
+        "favors_rate_control": [
+          "Prefers rate control",
+          "Older",
+          "Longer history of AF",
+          "Fewer symptoms"
+        ],
+        "variable": [
+          "Patient choice",
+          "Age",
+          "Antecedent history of AF",
+          "Symptom burden"
+        ],
+        "favors_rhythm_control": [
+          "Prefers rhythm control",
+          "Younger",
+          "Shorter history of AF",
+          "More symptoms"
+        ]
+      },
+      {
+        "title": "Physical Examination Anatomy",
+        "favors_rate_control": [
+          "Easily controlled heart rate",
+          "Larger LA",
+          "Less LV dysfunction",
+          "Less AV regurgitation"
+        ],
+        "variable": [
+          "Rate control in AF",
+          "LA size",
+          "LV function in AF",
+          "AV regurgitation in AF"
+        ],
+        "favors_rhythm_control": [
+          "Difficult to control heart rate",
+          "Smaller LA",
+          "More LV dysfunction",
+          "More AV regurgitation"
+        ]
+      }
+    ],
+    "additional_notes": [
+      "Benefit of rhythm control in patients with HF is likely greatest in those with recently identified AF.",
+      "AF commonly, but not always, progresses over time to higher burdens and becomes more sustained.",
+      "Large registry studies have reported that AF progression is more commonly observed with a rate-control strategy compared to a rhythm-control strategy over a 1- to 2-year period."
+    ]
+  },
+  "genes": []
+}

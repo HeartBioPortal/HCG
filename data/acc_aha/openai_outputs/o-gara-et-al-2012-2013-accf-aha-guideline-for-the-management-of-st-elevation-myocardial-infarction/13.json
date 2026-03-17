@@ -1,0 +1,38 @@
+{
+  "content": {
+    "title": "2013 ACCF/AHA STEMI Guideline: Full Text",
+    "section": "4. Reperfusion at a PCI-Capable Hospital",
+    "subsection": "4.1. Primary PCI",
+    "recommendations": [
+      {
+        "class": "I",
+        "details": [
+          "Primary PCI should be performed in patients with STEMI and ischemic symptoms of less than 12 hours\u2019 duration (82,208,209).",
+          "Primary PCI should be performed in patients with STEMI and ischemic symptoms of less than 12 hours\u2019 duration who have contraindications to fibrinolytic therapy, irrespective of the time delay from FMC (210,211).",
+          "Primary PCI should be performed in patients with STEMI and cardiogenic shock or acute severe HF, irrespective of time delay from MI onset (Section 9.1.1) (212\u2013215)."
+        ],
+        "evidence": "Level of Evidence: A"
+      },
+      {
+        "class": "IIa",
+        "details": [
+          "Primary PCI is reasonable in patients with STEMI if there is clinical and/or ECG evidence of ongoing ischemia between 12 and 24 hours after symptom onset (94,95)."
+        ],
+        "evidence": "Level of Evidence: B"
+      },
+      {
+        "class": "III: Harm",
+        "details": [
+          "PCI should not be performed in a noninfarct artery at the time of primary PCI in patients with STEMI who are hemodynamically stable (216\u2013218)."
+        ],
+        "evidence": "Level of Evidence: B"
+      }
+    ],
+    "notes": [
+      "Primary PCI is preferred over fibrinolytic therapy when timely intervention is achievable in a well-equipped center.",
+      "Primary PCI should avoid noninfarct artery intervention during hemodynamic stability to prevent complications.",
+      "Potential complications include issues related to arterial access, medications, and reperfusion events."
+    ]
+  },
+  "genes": []
+}

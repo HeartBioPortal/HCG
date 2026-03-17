@@ -1,0 +1,59 @@
+{
+  "content": {
+    "guideline_title": "2018 Bradycardia Guideline",
+    "recommendations": [
+      {
+        "COR": "I",
+        "LOE": "A",
+        "Recommendation": "In patients with SND and atrioventricular block who require permanent pacing, dual chamber pacing is recommended over single chamber ventricular pacing.",
+        "Reference": "S6.4.4.1\u2013S6.4.4.1-7"
+      },
+      {
+        "COR": "I",
+        "LOE": "A",
+        "Recommendation": "In select patients with atrioventricular block who require permanent pacing in whom frequent ventricular pacing is not expected, or who have significant comorbidities that are likely to determine clinical outcomes and that may limit the benefit of dual chamber pacing, single chamber ventricular pacing is effective.",
+        "Reference": "S6.4.4.1\u2013S6.4.4.1-8\u2013S6.4.4.1-10"
+      },
+      {
+        "COR": "I",
+        "LOE": "B-R",
+        "Recommendation": "For patients in sinus rhythm with a single chamber ventricular pacemaker who develop pacemaker syndrome, revising to a dual chamber pacemaker is recommended.",
+        "Reference": "S6.4.4.1\u2013S6.4.4.1-2, S6.4.4.1-5, S6.4.4.1-8\u2013S6.4.4.1-10"
+      },
+      {
+        "COR": "IIa",
+        "LOE": "B-R",
+        "Recommendation": "In patients with atrioventricular block who have an indication for permanent pacing with a LVEF between 36% and 50% and are expected to require ventricular pacing more than 40% of the time, it is reasonable to choose pacing methods that maintain physiologic ventricular activation (e.g., cardiac resynchronization therapy [CRT] or His bundle pacing) over right ventricular pacing.",
+        "Reference": "S6.4.4.1\u2013S6.4.4.1-15, S6.4.4.1-16, S6.4.4.1-19"
+      },
+      {
+        "COR": "IIa",
+        "LOE": "B-NR",
+        "Recommendation": "In patients with atrioventricular block who have an indication for permanent pacing with a LVEF between 36% and 50% and are expected to require ventricular pacing less than 40% of the time, it is reasonable to choose right ventricular pacing over pacing methods that maintain physiologic ventricular activation (e.g., CRT or His bundle pacing).",
+        "Reference": "S6.4.4.1-15, S6.4.4.1-16, S6.4.4.1-20, S6.4.4.1-21"
+      },
+      {
+        "COR": "IIb",
+        "LOE": "B-NR",
+        "Recommendation": "In patients with atrioventricular block at the level of the atrioventricular node who have an indication for permanent pacing, His bundle pacing may be considered to maintain physiologic ventricular activation.",
+        "Reference": "S6.4.4.1-19, S6.4.4.1-22\u2013S6.4.4.1-25"
+      },
+      {
+        "COR": "III: Harm",
+        "LOE": "C-LD",
+        "Recommendation": "In patients with permanent or persistent AF in whom a rhythm control strategy is not planned, implantation of an atrial lead should not be performed.",
+        "Reference": "S6.4.4.1-26, S6.4.4.1-27"
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [
+        "Neuromuscular disorders"
+      ],
+      "Occurrences": 1,
+      "context": "other types of less common neuromuscular disorders (without lamin A/C involvement) is limited to case reports."
+    }
+  ]
+}

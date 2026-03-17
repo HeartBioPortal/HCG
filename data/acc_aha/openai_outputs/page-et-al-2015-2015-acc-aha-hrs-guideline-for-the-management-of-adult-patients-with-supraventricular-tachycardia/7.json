@@ -1,0 +1,18 @@
+{
+  "content": {
+    "Relevant Terms and Definitions": {
+      "Arrhythmia/Term": {
+        "Supraventricular tachycardia (SVT)": "An umbrella term to describe tachycardias (atrial and/or ventricular rates in excess of 100 bpm at rest), involving the His bundle or above. Includes inappropriate sinus tachycardia, atrial tachycardia, AVRT, AVNRT, and other forms of accessory pathway-mediated reentrant tachycardias.",
+        "Paroxysmal supraventricular tachycardia (PSVT)": "A clinical syndrome with regular and rapid tachycardia of abrupt onset and termination. Related to AVNRT or AVRT.",
+        "Atrial fibrillation (AF)": "Supraventricular arrhythmia with uncoordinated atrial activation, ineffective atrial contraction. Not addressed in this document.",
+        "Sinus tachycardia": "Rhythm from the sinus node; includes physiologic and inappropriate forms.",
+        "Atrial tachycardia (AT)": "SVT originating from a localized atrial site; includes focal, sinus node reentrant, and multifocal types.",
+        "Atrial flutter": "Macroreentrant AT, often with a 'sawtooth' flutter wave pattern.",
+        "Junctional tachycardia": "Nonsustained SVT arising from the AV junction.",
+        "Atrioventricular nodal reentrant tachycardia (AVNRT)": "Reentrant tachycardia with fast and slow pathway circuits involving the AV node.",
+        "Accessory pathway": "Pathway outside AV node conducting impulses between atrium and ventricles; includes manifest and concealed pathways."
+      }
+    }
+  },
+  "genes": []
+}

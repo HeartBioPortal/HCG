@@ -1,0 +1,18 @@
+{
+  "content": {
+    "Title": "Focused Update on Duration of Dual Antiplatelet Therapy",
+    "Guideline Summary": "The guideline provides a treatment algorithm for the duration of P2Y12 inhibitor therapy in patients with recent acute coronary syndrome (ACS), including both non-ST-elevation ACS (NSTE-ACS) and ST-elevation myocardial infarction (STEMI). The algorithm recommends varying durations based on the type of medical intervention post-ACS, such as CABG, medical therapy, lytic therapy, or PCI. For each case, different inhibitors like clopidogrel, prasugrel, or ticagrelor are suggested with a duration of at least 12 months, with considerations for discontinuation in the presence of high bleeding risk.",
+    "Considerations for Noncardiac Surgery": "For patients with coronary stents, the risk of stent thrombosis and bleeding if dual antiplatelet therapy (DAPT) is interrupted are critical factors. DAPT significantly reduces the risk of stent thrombosis. The bleeding risk is highest in the first 4 to 6 weeks after stent implantation. Elevated risk persists even a year after DES placement.",
+    "Classifications": {
+      "Class I": "Strongly recommends specific durations of therapy in various scenarios, such as after CABG or PCI.",
+      "Class IIb": "Indicates that discontinuation may be reasonable after 6 or 12 months, contingent on bleeding risks."
+    },
+    "Terminology": {
+      "DAPT": "Dual Antiplatelet Therapy",
+      "CABG": "Coronary Artery Bypass Graft Surgery",
+      "PCI": "Percutaneous Coronary Intervention",
+      "DES, BMS": "Drug-Eluting Stent, Bare Metal Stent"
+    }
+  },
+  "genes": []
+}

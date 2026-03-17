@@ -1,0 +1,16 @@
+{
+  "content": {
+    "Initial Laboratory and Electrocardiographic Testing": "The guideline discusses the use of biomarkers and laboratory tests in heart failure diagnosis. It highlights the role of genetic testing and biomarker measurements such as N-terminal pro-B-type natriuretic peptide (NT-proBNP) in diagnosing and managing heart failure.",
+    "Use of Biomarkers for Prevention, Initial Diagnosis, and Risk Stratification": "The guideline emphasizes the utility of biomarkers, specifically BNP and NT-proBNP, for diagnosing heart failure, risk stratification, and predicting outcomes in heart failure patients."
+  },
+  "genes": [
+    {
+      "Gene": "ATTR",
+      "Associated Conditions": [
+        "cardiac amyloidosis"
+      ],
+      "Occurrences": 1,
+      "context": "Gillmore JD, Maurer MS, Falk RH, et al. Nonbiopsy diagnosis of cardiac transthyretin amyloidosis due to ATTR."
+    }
+  ]
+}

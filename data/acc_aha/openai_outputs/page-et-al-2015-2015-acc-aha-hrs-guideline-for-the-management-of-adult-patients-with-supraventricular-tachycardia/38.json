@@ -1,0 +1,33 @@
+{
+  "content": {
+    "guideline_recommendations": [
+      {
+        "class": "IIb",
+        "level": "B-R",
+        "recommendation": "Oral digoxin or amiodarone may be reasonable for ongoing treatment of AVNRT in patients who are not candidates for, or prefer not to undergo, catheter ablation.",
+        "details": "One small study randomized patients with unspecified PSVT to digoxin (0.375 mg/day), propranolol (240 mg/day), or verapamil (480 mg/day) with 1 week of placebo washout. Episodes of PSVT and duration of PSVT were largely similar among the treatments."
+      },
+      {
+        "class": "IIb",
+        "level": "C-LD",
+        "recommendation": "Self-administered (\u201cpill-in-the-pocket\u201d) acute doses of oral beta blockers, diltiazem, or verapamil may be reasonable for ongoing management in patients with infrequent, well-tolerated episodes of AVNRT.",
+        "details": "Two studies demonstrated success with the combination of diltiazem and propranolol as a 'pill-in-the-pocket' approach to acutely terminate PSVT caused by AVNRT. Safety concerns remain due to episodes of syncope."
+      }
+    ],
+    "clinical_information": {
+      "accessory_pathways": {
+        "types": [
+          "Manifest",
+          "Concealed"
+        ],
+        "characteristics": "Accessory pathways can cause supraventricular arrhythmias with certain pathways, placing patients at risk of SCD. Manifest pathways may conduct in antegrade and retrograde directions. Concealed pathways conduct only retrograde."
+      },
+      "tachycardia_types": {
+        "orthodromic_AVRT": "Involves the AV node and His Purkinje system conducting in the antegrade direction, common in patients with manifest accessory pathways.",
+        "antidromic_AVRT": "Pre-excited AVRT, retrograde conduction occurs via the AV node.",
+        "PJRT": "A circuit involving a concealed accessory pathway with retrograde decremental conduction properties, presents as orthodromic reentrant tachycardia."
+      }
+    }
+  },
+  "genes": []
+}

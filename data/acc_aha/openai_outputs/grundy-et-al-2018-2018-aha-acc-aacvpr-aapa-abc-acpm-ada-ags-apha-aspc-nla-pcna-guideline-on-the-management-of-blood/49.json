@@ -1,0 +1,26 @@
+{
+  "content": {
+    "Clinical Information": [
+      "This document discusses various studies and guidelines related to cholesterol management, particularly the efficacy and safety of different cholesterol-lowering interventions, such as statins, PCSK9 inhibitors, and other medications.",
+      "Focus on adults with familial hypercholesterolemia and individuals with atherosclerotic cardiovascular disease.",
+      "Discussion on diabetes mellitus in adults and its association with cardiovascular disease risk.",
+      "Evaluations of different medication regimes, including the long-term safety and outcomes associated with these therapies."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "Familial Hypercholesterolemia",
+        "Atherosclerotic Cardiovascular Disease"
+      ],
+      "Occurrences": 4,
+      "context": [
+        "Efficacy and safety of evolocumab in patients with familial hypercholesterolemia.",
+        "Efficacy and safety of alirocumab in patients with heterozygous familial hypercholesterolemia.",
+        "Comparison of alirocumab and statins in patients with hypercholesterolemia.",
+        "Evaluations of PCSK9 inhibition in adults with hypercholesterolemia."
+      ]
+    }
+  ]
+}

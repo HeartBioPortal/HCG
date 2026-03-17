@@ -1,0 +1,38 @@
+{
+  "content": {
+    "Purpose": "Guideline on the primary prevention of cardiovascular disease.",
+    "Lifestyle Factors": [
+      {
+        "Section": "3.1 Nutrition and Diet",
+        "Findings": [
+          {
+            "Study": "Estruch R, Ros E, Salas-Salvad\u00f3 J, et al.",
+            "Conclusion": "Mediterranean diet with extra-virgin olive oil or nuts reduced all-cause mortality."
+          },
+          {
+            "Study": "Chiuve SE, Cook NR, et al.",
+            "Conclusion": "Higher diet quality associated with reduced mortality in women."
+          },
+          {
+            "Study": "Song M, Fung TT, Hu FB, et al.",
+            "Conclusion": "Lower animal and higher plant protein intake associated with reduced mortality."
+          }
+        ]
+      },
+      {
+        "Section": "3.2 Exercise and Physical Activity",
+        "Findings": [
+          {
+            "Study": "Eijsvogels TMH, et al.",
+            "Conclusion": "Optimal dose for the primary prevention of cardiovascular disease varies."
+          },
+          {
+            "Study": "Smith NT, Sanderson S, et al.",
+            "Conclusion": "Cycling decreases cardiovascular and overall mortality risks."
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,48 @@
+{
+  "content": {
+    "title": "BP Patterns Based on Office and Out-of-Office Measurements (Table 12)",
+    "table_12_BP_patterns": {
+      "columns": [
+        "Office/Clinic/Healthcare Setting",
+        "Home/Nonhealthcare/ABPM Setting"
+      ],
+      "rows": [
+        {
+          "category": "Normotensive",
+          "office": "No hypertension",
+          "home": "No hypertension"
+        },
+        {
+          "category": "Sustained hypertension",
+          "office": "Hypertension",
+          "home": "Hypertension"
+        },
+        {
+          "category": "Masked hypertension",
+          "office": "No hypertension",
+          "home": "Hypertension"
+        },
+        {
+          "category": "White coat hypertension",
+          "office": "Hypertension",
+          "home": "No hypertension"
+        }
+      ],
+      "note": "ABPM indicates ambulatory blood pressure monitoring; BP, blood pressure."
+    },
+    "synopsis": "Noninvasive BP monitoring differentiates hypertension categories by measurement place: white coat hypertension (elevated office BP but normal out-of-office ABPM/HBPM), masked hypertension (normal office BP but elevated out-of-office ABPM/HBPM), and sustained hypertension (elevated in both). In treated patients, 'white coat effect' (higher office than out-of-office BP) and 'masked uncontrolled hypertension' (controlled office but uncontrolled out-of-office BP) have been reported. White coat effect often defined as office SBP/DBP >20/10 mm Hg higher than home/ABPM.",
+    "prevalence_and_risk": {
+      "masked_hypertension_prevalence": "10% to 26% (mean ~13%) in population-based surveys; 14% to 30% in nonnormotensive clinic populations",
+      "masked_hypertension_risk": "Risk of CVD and all-cause mortality in masked hypertension is similar to sustained hypertension and about twice that of normotensive counterparts",
+      "white_coat_prevalence_factors": "Prevalence of white coat hypertension increases with age, female sex, nonsmoking status, and routine office measurement by clinicians",
+      "white_coat_risk": "Many studies show minimal increase in risk of CVD complications or all-cause mortality in white coat hypertension, though data vary"
+    },
+    "clinical_implications_and_recommendations": {
+      "screening": "Recommendation by some panels to screen for white coat hypertension with ABPM or HBPM to avoid unnecessary antihypertensive drug initiation",
+      "treatment_data": "No definitive data on risks and benefits of treating white coat or masked hypertension, but masked and masked uncontrolled hypertension are associated with increased target organ damage and higher risk of CVD, stroke, and mortality compared with normotensive individuals",
+      "office_measurement_consideration": "Routine office BP measurement by clinician observers tends to show higher white coat prevalence compared with unattended measurements"
+    },
+    "figure_1_detection_algorithm_summary": "Algorithm for patients not on drug therapy: If office BP elevated (e.g., \u2265130/80 or 120\u2013129/<80 depending on pathway) after lifestyle modification, perform daytime ABPM or HBPM. If out-of-office BP is normal -> White Coat Hypertension: recommend lifestyle modification and annual ABPM/HBPM. If out-of-office BP elevated -> Masked Hypertension or Hypertension: continue lifestyle modification and initiate antihypertensive drug therapy as indicated. Colors correspond to class of recommendation."
+  },
+  "genes": []
+}

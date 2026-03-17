@@ -1,0 +1,23 @@
+{
+  "content": {
+    "Patient Awareness": "Emphasizes the need for timely activation of STEMI care pathways and highlights efforts to educate, reassure, and motivate at-risk patients and families.",
+    "Regional Systems of Care": "Discusses challenges in adoption of regional systems for STEMI care, focusing on reducing total ischemic time from symptom onset to successful reperfusion.",
+    "Transfer and Management of Non\u2013High-Risk Patients After Administration of Fibrinolytic Therapy": "Debates the criteria for angiography and venture regularization for non-high-risk patients after successful fibrinolysis.",
+    "Antithrombotic Therapy": "Details the optimum choice of P2Y12 receptor inhibitor and challenges due to individual genetic variability. Discusses necessity for genetic screening for clopidogrel metabolism.",
+    "Reperfusion Injury": "Mentions limited success of reperfusion injury prevention efforts and underscores ongoing requirement for further investigation into biological, pharmacological, and mechanical strategies.",
+    "Approach to Noninfarct Artery Disease": "Highlights variability in management of noncoronary artery disease and the importance of assessing lesion significance, along with the necessity for continued work on anatomical grounds.",
+    "Prevention of SCD": "Sheds light on the complexities of SCD risk prediction after STEMI and stresses the urgency for improved prediction rules and validated treatment recommendations.",
+    "Prevention of HF": "Notes progress in halting LV remodeling, but suggests more room for improvements, particularly concerning timely reperfusion and ACE inhibitor/ARB therapy initiation."
+  },
+  "genes": [
+    {
+      "Gene": "P2Y12",
+      "Associated Conditions": [
+        "Antithrombotic Therapy",
+        "STEMI"
+      ],
+      "Occurrences": 1,
+      "context": "The optimum choice of P2Y12 receptor inhibitor and anticoagulant agents for patients with STEMI can be challenging. Individual genetic variability in drug absorption, metabolism, and effectiveness has been highlighted by the experience with clopidogrel in patients with ACS."
+    }
+  ]
+}

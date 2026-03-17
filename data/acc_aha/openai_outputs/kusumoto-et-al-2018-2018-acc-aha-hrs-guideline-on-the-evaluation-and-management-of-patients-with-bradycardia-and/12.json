@@ -1,0 +1,28 @@
+{
+  "content": {
+    "figure": "Evaluation of Bradycardia and Conduction Disease Algorithm",
+    "key_steps": [
+      "Patient evaluation begins if symptoms suggestive of bradycardia or conduction disorder are present.",
+      "Comprehensive history and physical examination is recommended (Class I).",
+      "ECG (Class I) and directed blood testing (Class IIa) are advised depending on findings.",
+      "Sleep apnea consideration.",
+      "Algorithm branches based on conduction disorders (SND, AV Block, non-diagnostic) with respective diagnostic pathways.",
+      "Exercise and ambulatory ECG testing are recommended based on symptoms (Classes I, IIa).",
+      "Careful clinical examination including carotid sinus massage as stroke risks with carotid sinus syndrome are highlighted."
+    ],
+    "recommendation_classes": {
+      "Class I": "General acceptance and usage for these practices.",
+      "Class IIa": "Considerable evidence supports these practices."
+    },
+    "additional_notes": {
+      "Autonomic regulation disorders are noted for syncope and near syncope symptoms.": "logy is noted to be essential in ensuring correct diagnosis of bradycardia phenotypes."
+    },
+    "clinical_conditions": [
+      "Bradycardia",
+      "Conduction disorder",
+      "Sinus hypersensitivity syndrome",
+      "Syncope"
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,57 @@
+{
+  "content": {
+    "Table": "B Continued",
+    "Age-Related Pharmacological Change": [
+      {
+        "Drug": "Eptifibatide",
+        "Change": "Weight/renally dosed",
+        "Clinical Effect": "Bleeding risk",
+        "Dose-Adjustment Recommendations": "Weight-based: 180 mcg/kg loading dose + 2 mcg/kg/min INF; CrCl \u226450 mL/min: 1.0 mcg/kg/min INF",
+        "Additional Precautions": "Less benefit/more bleeding with \u2191age"
+      },
+      {
+        "Drug": "Tirofiban",
+        "Change": "Weight/renally dosed",
+        "Clinical Effect": "Bleeding risk",
+        "Dose-Adjustment Recommendations": "Weight-based: 12 mcg/kg loading dose + 0.1 mcg/kg/min INF; CrCl <30 mL/min: 6 mcg/kg loading dose + 0.05 mcg/kg/min INF",
+        "Additional Precautions": "In older pts with high bleeding risk, low-dose INF effective with \u2193bleeding"
+      },
+      {
+        "Drug": "Warfarin",
+        "Change": "\u2193Sensitivity; \u219120%-40% clearance; protein binding; \u2191inhibition vitamin K-dependent clotting factors at same plasma levels with \u2191age",
+        "Clinical Effect": "Bleeding risk at lower INR; higher INR/dose with \u2191age; \u2191risk GI bleeding",
+        "Dose-Adjustment Recommendations": "Loading: 4 mg/d x 4 d \u2192 Maintain mean dose \u21930.4 mg/ wk/y of age",
+        "Additional Precautions": "Multiple drug interactions, \u2191frequency of monitoring; ASA potentiates effect"
+      },
+      {
+        "Drug": "New Oral AC\u2020",
+        "Change": "N/A",
+        "Clinical Effect": "N/A",
+        "Dose-Adjustment Recommendations": "Contraindicated if CrCl <15 mL/min",
+        "Additional Precautions": "If pt taking when admitted, stop\u2014consider delaying angiogram/PCI until effect wanes; switch to UFH/dalteparin/bivalirudin/ fondaparinux; AP and DAPT \u2193bleeding 2x; post-ACS\u2020\u2020\u2014 consider BMS and radial access. Avoid GPI/IIb/IIIa inhibitor if possible. (Thrombotic risk following discontinuation)."
+      },
+      {
+        "Drug": "Rivaroxaban",
+        "Change": "35% cleared renally; 65% hepatic (CYP3A4); \u2191levels in hepatic and/or renal dysfunction and \u2191age",
+        "Clinical Effect": "Bleeding risk; not reversible",
+        "Dose-Adjustment Recommendations": "CrCl \u226415-49 mL/min: 15 mg QD; consider avoiding if CrCl \u226430 mL/min if \u2191bleeding risk; CrCl >50 mL/min: 20 mg QD",
+        "Additional Precautions": "Some drug interactions"
+      },
+      {
+        "Drug": "Dabigatran",
+        "Change": "80% cleared renally; \u2191plasma level with \u2191age, especially \u226575 y",
+        "Clinical Effect": "Bleeding risk; not reversible",
+        "Dose-Adjustment Recommendations": "CrCl 15-30 mL/min: 75 mg BID with caution; CrCl 30-49 mL/min: 75 mg BID; CrCl >50 mL/min: 150 mg BID",
+        "Additional Precautions": "Monitor and renal function frequently; longest for effect to wane with \u2191CrCl; \u2191risk dyspepsia, GI bleeding"
+      },
+      {
+        "Drug": "Apixaban",
+        "Change": "Hepatically cleared (minor CYP3A4); dose adjust if weight <60 kg; highly protein bound",
+        "Clinical Effect": "Bleeding risk; not reversible",
+        "Dose-Adjustment Recommendations": "CrCl 15-29 mL/min: 2.5 mg BID or with 2 of the following: age \u226580 y/weight \u226460 kg/SCr \u22651.5 mg/dL; SCr <1.5: 5 mg BID",
+        "Additional Precautions": "\u2191Risk abnormal liver function tests"
+      }
+    ]
+  },
+  "genes": []
+}

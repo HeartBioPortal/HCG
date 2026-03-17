@@ -1,0 +1,28 @@
+{
+  "content": {
+    "sections": [
+      {
+        "title": "Methodology",
+        "details": "ACCF/AHA Task Force on Practice Guidelines methodology for recommendations and levels of evidence. Includes development and approval procedures."
+      },
+      {
+        "title": "Recognizing Clinical Subsets of PAD",
+        "details": [
+          "Leg symptoms in peripheral arterial disease are linked to specific clinical characteristics and functional impairment.",
+          "Studies focus on the impact of symptom evaluation and public awareness strategies on peripheral artery disease."
+        ]
+      }
+    ],
+    "studies": [
+      {
+        "authors": "Rutherford RB, Baker JD, et al.",
+        "details": "Recommendations for reporting lower extremity ischemia based on level of evidence grading."
+      },
+      {
+        "authors": "Schorr EN, Treat-Jacobson D.",
+        "details": "Evaluations related to exercise-induced leg symptoms in patients."
+      }
+    ]
+  },
+  "genes": []
+}

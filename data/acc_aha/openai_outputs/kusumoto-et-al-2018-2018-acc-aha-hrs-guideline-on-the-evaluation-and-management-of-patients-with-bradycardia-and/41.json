@@ -1,0 +1,69 @@
+{
+  "content": {
+    "Etiology of Atrioventricular Block": {
+      "Congenital/Genetic": [
+        "Congenital AV block (associated with maternal systemic lupus erythematosus)",
+        "Congenital heart defects (e.g., L-TGA)",
+        "Genetic (e.g., SCN5A mutations)"
+      ],
+      "Infectious": [
+        "Lyme carditis",
+        "Bacterial endocarditis with perivalvar abscess",
+        "Acute rheumatic fever",
+        "Chagas disease",
+        "Toxoplasmosis"
+      ],
+      "Inflammatory/Infiltrative": [
+        "Myocarditis",
+        "Amyloidosis",
+        "Cardiac sarcoidosis",
+        "Rheumatologic disease: Systemic sclerosis, SLE, RA, reactive arthritis (Reiter\u2019s syndrome)",
+        "Other cardiomyopathy\u2013idiopathic, valvular"
+      ],
+      "Ischemic": [
+        "Acute MI",
+        "Coronary ischemia without infarction\u2013unstable angina, variant angina",
+        "Chronic ischemic cardiomyopathy"
+      ],
+      "Degenerative": [
+        "Lev\u2019s and Lenegre\u2019s diseases"
+      ],
+      "Vagotonic-associated with increased vagal tone": [
+        "Sleep, obstructive sleep apnea",
+        "High-level athletic conditioning",
+        "Neurocardiogenic"
+      ],
+      "Metabolic/Endocrine": [
+        "Acid-base disorders",
+        "Poisoning/overdose (e.g., mercury, cyanide, carbon monoxide, mad honey)",
+        "Thyroid disease (both hypothyroidism and hyperthyroidism)",
+        "Adrenal disease (e.g., pheochromocytoma, hypoaldosteronism)"
+      ],
+      "Other diseases": [
+        "Neuromuscular diseases (e.g., myotonic dystrophy, Kearns-Sayre syndrome, Erb\u2019s dystrophy)",
+        "Lymphoma"
+      ],
+      "Iatrogenic": [
+        "Medication related: Beta blockers, verapamil, diltiazem, digoxin",
+        "Antiarrhythmic drugs",
+        "Neutraceuticals",
+        "Catheter ablation",
+        "Cardiac surgery, especially valve surgery",
+        "TAVR, alcohol septal ablation"
+      ]
+    },
+    "Clinical Presentation": {
+      "Symptoms": "Symptoms related to atrioventricular block vary and depend largely on the degree of atrioventricular block, the ventricular rate, and the frequency of its occurrence. Profound first-degree atrioventricular block can lead to symptoms of fatigue or exertional intolerance. Symptoms may include a decrease in cardiac output and an increase in pulmonary capillary wedge pressure. Second-degree atrioventricular block type I (Wenckebach) is often asymptomatic but can cause symptoms of exertional intolerance or dizziness if occurring frequently."
+    }
+  },
+  "genes": [
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "Genetic cause of atrioventricular block"
+      ],
+      "Occurrences": 1,
+      "context": "Genetic (e.g., SCN5A mutations)"
+    }
+  ]
+}

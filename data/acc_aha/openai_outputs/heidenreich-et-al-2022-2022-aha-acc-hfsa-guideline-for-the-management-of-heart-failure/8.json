@@ -1,0 +1,69 @@
+{
+  "content": {
+    "Title": "2022 AHA/ACC/HFSA Heart Failure Guideline",
+    "Organizations and Publications": [
+      {
+        "Title": "ACCF/AHA/HRS Focused Update of the 2008 Guidelines for Device-Based Therapy of Cardiac Rhythm Abnormalities",
+        "Organization": "ACCF/AHA/HRS",
+        "Year": 2012
+      },
+      {
+        "Title": "ACCF/AHA/ACP/AATS/PCNA/SCAI/STS Guideline for the Diagnosis and Management of Patients With Stable Ischemic Heart Disease",
+        "Organization": "ACCF/AHA/ACP/AATS/PCNA/SCAI/STS",
+        "Year": 2012
+      },
+      {
+        "Title": "Effectiveness-Based Guidelines for the Prevention of Cardiovascular Disease in Women\u20142011 Update",
+        "Organization": "AHA",
+        "Year": 2011
+      },
+      {
+        "Title": "AHA/ACCF Secondary Prevention and Risk Reduction Therapy for Patients With Coronary and Other Atherosclerotic Vascular Disease: 2011 Update",
+        "Organization": "AHA/ACCF",
+        "Year": 2011
+      },
+      {
+        "Title": "ACCF/AHA Guideline for Assessment of Cardiovascular Risk in Asymptomatic Adults",
+        "Organization": "ACCF/AHA",
+        "Year": 2010
+      },
+      {
+        "Title": "Post\u2013Cardiac Arrest Care: 2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care",
+        "Organization": "AHA",
+        "Year": 2010
+      },
+      {
+        "Title": "Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure",
+        "Organization": "NHLBI",
+        "Year": 2003
+      }
+    ],
+    "Statements": [
+      {
+        "Statement": "Cardiac Amyloidosis: Evolving Diagnosis and Management",
+        "Organization": "AHA",
+        "Year": 2020
+      },
+      {
+        "Statement": "Testing of Low-Risk Patients Presenting to the Emergency Department With Chest Pain",
+        "Organization": "AHA",
+        "Year": 2010
+      },
+      {
+        "Statement": "Primary Prevention of Cardiovascular Diseases in People With Diabetes Mellitus",
+        "Organization": "AHA/ADA",
+        "Year": 2007
+      },
+      {
+        "Statement": "Prevention and Control of Influenza",
+        "Organization": "CDC",
+        "Year": 2005
+      }
+    ],
+    "Class of Recommendation and Level of Evidence": {
+      "Class of Recommendation": "Indicates the strength of recommendation, encompassing the estimated magnitude and certainty of benefit in proportion to risk.",
+      "Level of Evidence": "Rates the quality of scientific evidence supporting the intervention based on the type, quantity, and consistency of data from clinical trials and other sources."
+    }
+  },
+  "genes": []
+}

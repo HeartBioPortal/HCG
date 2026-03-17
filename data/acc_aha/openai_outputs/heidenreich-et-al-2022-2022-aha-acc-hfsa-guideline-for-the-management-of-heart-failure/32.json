@@ -1,0 +1,40 @@
+{
+  "content": {
+    "guideline_title": "2022 AHA/ACC/HFSA Heart Failure Guideline",
+    "recommendations_overview": [
+      {
+        "stage": "At Risk for HF (Stage A)",
+        "recommendations": [
+          "Optimal control of blood pressure for patients with hypertension.",
+          "Use of SGLT2 inhibitors for patients with type 2 diabetes and cardiovascular disease (CVD) or high risk for CVD.",
+          "Optimal management of CVD for patients with CVD.",
+          "Multidisciplinary evaluation for management for patients with exposure to cardiotoxic agents.",
+          "Genetic screening and counseling for first-degree relatives of patients with genetic or inherited cardiomyopathies.",
+          "Natriuretic peptide biomarker screening for patients at risk.",
+          "Use of validated multivariable risk scores for patients at risk."
+        ]
+      },
+      {
+        "stage": "Pre-HF (Stage B)",
+        "recommendations": [
+          "ACE inhibitors for patients with Left Ventricular Ejection Fraction (LVEF) \u226450%.",
+          "ARB if ACEi intolerant for patients with a recent myocardial infarction (MI) and LVEF \u226440%.",
+          "Beta blockers for patients with LVEF \u226440%.",
+          "Implantable cardioverter-defibrillator (ICD) for patients with LVEF \u226430%, >1 year survival, >40 days post MI.",
+          "Genetic counseling and testing for patients with nonischemic cardiomyopathy."
+        ]
+      }
+    ],
+    "lifestyle_modifications_continuation": "Continue lifestyle modifications and management strategies implemented in Stage A, through Stage B."
+  },
+  "genes": [
+    {
+      "Gene": "NA",
+      "Associated Conditions": [
+        "genetic or inherited cardiomyopathies"
+      ],
+      "Occurrences": 1,
+      "context": "Genetic screening and counseling for first-degree relatives of patients with genetic or inherited cardiomyopathies; Genetic counseling and testing for patients with nonischemic cardiomyopathy."
+    }
+  ]
+}

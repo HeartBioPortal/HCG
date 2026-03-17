@@ -1,0 +1,3612 @@
+{
+  "content": [
+    {
+      "content": {
+        "Title": "2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain",
+        "Report": "A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines",
+        "Writing Committee Members": [
+          "Martha Gulati, MD, MS, FACC, FAHA",
+          "Phillip D. Levy, MD, MPH, FACC, FAHA",
+          "Debabrata Mukherjee, MD, MS, FACC, FAHA",
+          "Ezra Amsterdam, MD, FACC",
+          "Deepak L. Bhatt, MD, MPH, FACC, FAHA",
+          "Kim K. Birtcher, MS, PharmD, AACC",
+          "Ron Blankstein, MD, FACC, MSCCT",
+          "Jack Boyd, MD",
+          "Renee P. Bullock-Palmer, MD, FACC, FAHA, FASE, FSCCT",
+          "Theresa Conejo, RN, BSN, FAHA",
+          "Deborah B. Diercks, MD, MSc, FACC",
+          "Federico Gentile, MD, FACC",
+          "John P. Greenwood, MBChB, PhD, FSCMR, FACC",
+          "Erik P. Hess, MD, MSc",
+          "Steven M. Hollenberg, MD, FACC, FAHA, FCCP",
+          "Wael A. Jaber, MD, FACC, FASE",
+          "Hani Jneid, MD, FACC, FAHA",
+          "Jos\u00e9 A. Joglar, MD, FAHA, FACC",
+          "David A. Morrow, MD, MPH, FACC, FAHA",
+          "Robert E. O\u2019Connor, MD, MPH, FAHA",
+          "Michael A. Ross, MD, FACC",
+          "Leslee J. Shaw, PhD, FACC, FAHA, MSCCT"
+        ],
+        "Approval": "This document was approved by several bodies including the American College of Cardiology, American Heart Association, and other medical societies in 2021."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Aim": "This clinical practice guideline for the evaluation and diagnosis of chest pain provides recommendations and algorithms for clinicians to assess and diagnose chest pain in adult patients.",
+        "Methods": "A comprehensive literature search was conducted from November 11, 2017, to May 1, 2020, encompassing randomized and nonrandomized trials, observational studies, registries, reviews, and other evidence conducted on human subjects that were published in English from PubMed, EMBASE, the Cochrane Collaboration, Agency for Healthcare Research and Quality reports, and other relevant databases. Additional relevant studies, published through April 2021, were also considered.",
+        "Structure": "Chest pain is a frequent cause for emergency department visits in the United States. The '2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain' provides recommendations based on contemporary evidence on the assessment and evaluation of chest pain. This guideline presents an evidence-based approach to risk stratification and the diagnostic workup for the evaluation of chest pain. Cost-value considerations in diagnostic testing have been incorporated, and shared decision-making with patients is recommended."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Chest Pain Clinical Guideline",
+        "sections": [
+          {
+            "title": "Physical Examination",
+            "page": "e201"
+          },
+          {
+            "title": "Diagnostic Testing",
+            "subsections": [
+              "Setting Considerations",
+              "Electrocardiogram",
+              "Chest Radiography",
+              "Biomarkers"
+            ],
+            "page": "e202"
+          },
+          {
+            "title": "Cardiac Testing General Considerations",
+            "subsections": [
+              "Anatomic Testing",
+              "Diagnostic Testing",
+              "Cardiac Testing Considerations for Women"
+            ],
+            "page": "e206"
+          },
+          {
+            "title": "Choosing the Right Pathway with Patient-Centric Algorithms for Acute Chest Pain",
+            "page": "e210",
+            "subsections": [
+              "Patients with Acute Chest Pain and Suspected ACS",
+              "Evaluation of Acute Chest Pain with Nonschemic Cardiac Pathologies"
+            ]
+          },
+          {
+            "title": "Evaluation of Patients with Stable Chest Pain",
+            "page": "e232",
+            "subsections": [
+              "Patients with No Known CAD Presenting with Stable Chest Pain",
+              "Patients with Known CAD Presenting with Stable Chest Pain",
+              "Cost-Value Considerations in Diagnostic Testing"
+            ]
+          },
+          {
+            "title": "Evidence Gaps and Future Research",
+            "page": "e247"
+          },
+          {
+            "title": "References",
+            "page": "e249"
+          },
+          {
+            "title": "Appendix 1",
+            "page": "e273"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Take-Home Messages": [
+          "Chest pain should be slightly broad in terms of symptoms, including pain, pressure, tightness, or discomfort in various parts of the upper body.",
+          "High-sensitivity cardiac troponins are recommended for diagnosing acute myocardial infarction.",
+          "Early care for acute chest symptoms is essential, urging immediate medical attention.",
+          "Clinically stable patients should be included in decision-making regarding their treatment options.",
+          "Routine testing is not needed for low-risk patients as determined by their risk assessment.",
+          "Clinical decision pathways should be used routinely in both emergency and outpatient settings.",
+          "Chest pain often comes with other symptoms like nausea and shortness of breath, especially in women.",
+          "Patients at intermediate or high risk from acute chest pain should receive more detailed care and evaluation.",
+          "Avoid using 'atypical' as a descriptor unless noncardiac issues are not suspected.",
+          "Risk assessments are advised for determining the potential cause of coronary artery disease."
+        ],
+        "Preamble": "Since 1980, the American College of Cardiology and American Heart Association provide guidelines to advance cardiovascular health, aligning with systematic methods derived from scientific evidence.",
+        "Intended Use": "Guidelines mainly target patients in the U.S. at risk or with cardiovascular diseases but are relevant worldwide.",
+        "Clinical Implementation": "Effective only with involvement of both practitioners and patients, emphasizing shared decision-making.",
+        "Methodology": "ACC/AHA continuously reviews and revises guidelines based on published standards for modernization."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Take-Home Messages": {
+          "C": "Chest pain means more than pain in the chest",
+          "H": "High-sensitivity troponins preferred",
+          "E": "Seek early care for acute symptoms",
+          "S": "Share the decision-making",
+          "T": "Testing not routinely needed in low-risk patients"
+        },
+        "Additional Messages": {
+          "P": "Use clinical decision pathways",
+          "A": "Women may be more likely to present with accompanying symptoms",
+          "I": "Identify patients most likely to benefit from further testing",
+          "N": "Noncardiac pain is in, atypical is out",
+          "S": "Structured risk assessment tools should be used"
+        },
+        "Guideline Modifications": "Shorter guidelines, enhanced user-friendliness, and modular 'knowledge chunk' format with tables and flow diagrams.",
+        "Review Process": "Guidelines will be reviewed dynamically with timely peer review of potentially practice-changing science."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Purpose": "The guideline aims to provide evidence-based recommendations for managing cardiovascular conditions, focusing on both pharmacological and procedural treatments.",
+        "Methodology": "Recommendations are based on a combination of literature review and evidence from clinical trials, registries, and various research studies.",
+        "Evidence Review": "Literature review included studies from human subjects, with key search words related to cardiovascular conditions and diagnostic modalities.",
+        "Committee Composition": "The writing committee consists of various specialists including cardiologists, cardiac surgeons, and epidemiologists."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "class_of_recommendation": {
+          "class_1": {
+            "strength": "Strong",
+            "benefit_risk": "Benefit >>> Risk",
+            "suggested_phrases": [
+              "is recommended",
+              "is indicated/useful/effective/beneficial",
+              "should be performed/administered/other"
+            ],
+            "comparative_effectiveness_phrases": [
+              "Treatment/strategy A is recommended/indicated in preference to treatment B",
+              "Treatment A should be chosen over treatment B"
+            ]
+          },
+          "class_2a": {
+            "strength": "Moderate",
+            "benefit_risk": "Benefit >> Risk",
+            "suggested_phrases": [
+              "is reasonable",
+              "can be useful/effective/beneficial"
+            ],
+            "comparative_effectiveness_phrases": [
+              "Treatment/strategy A is probably recommended/indicated in preference to treatment B",
+              "It is reasonable to choose treatment A over treatment B"
+            ]
+          },
+          "class_2b": {
+            "strength": "Weak",
+            "benefit_risk": "Benefit \u2265 Risk",
+            "suggested_phrases": [
+              "may/might be reasonable",
+              "may/might be considered",
+              "usefulness/effectiveness is unknown/unclear/uncertain or not well-established"
+            ]
+          },
+          "class_3_no_benefit": {
+            "strength": "Moderate",
+            "benefit_risk": "Benefit = Risk",
+            "suggested_phrases": [
+              "is not recommended",
+              "is not indicated/useful/effective/beneficial",
+              "should not be performed/administered/other"
+            ]
+          },
+          "class_3_harm": {
+            "strength": "Strong",
+            "risk_benefit": "Risk > Benefit",
+            "suggested_phrases": [
+              "potentially harmful",
+              "causes harm",
+              "associated with excess morbidity/mortality",
+              "should not be performed/administered/other"
+            ]
+          }
+        },
+        "level_of_evidence": {
+          "level_a": "High-quality evidence from more than 1 RCT or meta-analyses of high-quality RCTs.",
+          "level_b_r": "Moderate-quality evidence from 1 or more RCTs or meta-analyses of moderate-quality RCTs.",
+          "level_b_nr": "Moderate-quality evidence from 1 or more well-designed, well-executed nonrandomized studies.",
+          "level_c_ld": "Randomized or nonrandomized observational or registry studies with limitations.",
+          "level_c_eo": "Consensus of expert opinion based on clinical experience."
+        },
+        "additional_context": {
+          "document_review": "Reviewed by 16 official reviewers from various societies including ACC, AHA, and others.",
+          "scope_of_guideline": "Developed for evaluation of acute or stable chest pain or other anginal equivalents."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_information": "The guideline emphasizes the diagnosis of ischemic causes in chest pain. It does not provide recommendations on revascularization but refers to forthcoming guidelines. It includes a summary of associated guidelines and statements from various organizations such as ACC, AHA, and CDC, covering topics like stable ischemic heart disease, atrial fibrillation, blood cholesterol, heart failure, coronary artery bypass, hypertrophic cardiomyopathy, and more."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Scope of the Problem": "After injuries, chest pain is the second most common reason for adults to present to the emergency department (ED) in the United States, accounting for over 6.5 million visits. Chest pain also leads to nearly 4 million outpatient visits annually in the US. Coronary artery disease (CAD) affects over 18.2 million adults and is a leading cause of death, with differences in prevalence and experience between genders.",
+        "Defining Chest Pain": "Chest pain is common and can be due to cardiac, possibly cardiac, or noncardiac causes. It is important for the initial assessment of chest pain to effectively triage patients and attribute symptoms to myocardial ischemia.",
+        "Recommendations": [
+          {
+            "Level of Evidence": "B-NR",
+            "Recommendation": "An initial assessment of chest pain is recommended to effectively triage patients on the basis of likelihood that symptoms may be attributable to myocardial ischemia."
+          },
+          {
+            "Level of Evidence": "C-LD",
+            "Recommendation": "Chest pain should not be described as atypical but rather in terms that are specific to the underlying diagnosis to avoid misinterpretation as benign."
+          }
+        ],
+        "Additional Information": "The importance of accurately describing chest pain to aid in diagnosis and guide treatment decisions is emphasized. Features of ischemia include deep, difficult to localize pain, usually diffuse, contrasting with other types of pain."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "topics": [
+          "Index of suspicion for ischemic chest pain based on descriptors.",
+          "Distinction between typical and atypical chest pain.",
+          "Encouragement to use specific terms for chest pain, like 'cardiac', 'possible cardiac', or 'noncardiac'.",
+          "List of abbreviations related to cardiac conditions and diagnostics."
+        ],
+        "importantPoints": [
+          "Typical chest pain is associated with subternal discomfort that improves with rest or nitroglycerin.",
+          "Atypical chest pain is less likely to be of cardiac ischemic origin.",
+          "Terms like 'atypical chest pain' should be avoided for clearer communication."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "Initial Evaluation",
+        "subsection": "History",
+        "recommendation": {
+          "COR": 1,
+          "LOE": "C-LD",
+          "text": "In patients with chest pain, a focused history that includes characteristics and duration of symptoms relative to presentation as well as associated features, and cardiovascular risk factor assessment should be obtained."
+        },
+        "synopsis": "Chest pain or chest pain equivalent will be referred to in these guidelines as 'chest pain.' Patients presenting to the ED with nontraumatic chest pain are a frequent diagnostic challenge. The priorities are: 1) rapid initiation of optimal management in patients with life-threatening conditions such as ACS, aortic dissection, and pulmonary embolism (PE), as well as nonvascular syndromes (e.g., esophageal rupture, tension pneumothorax); and 2) deliberate therapy for those with less critical illness. Although there are several life-threatening causes, chest pain usually reflects a more benign condition. The initial ECG is important to the evaluation, but history, examination, biomarkers, and other aids remain essential. There is frequently a lack of correlation between intensity of symptoms and seriousness of disease and general similarity of symptoms among different causes of chest pain. A comprehensive history that captures all the characteristics of chest pain, including but not limited to its nature, onset and duration, location and radiation, precipitating factors, relieving factors, and associated symptoms can help better identify potential cardiac causes and should be obtained from all patients.",
+        "supportive_text": "Angina pectoris is perceived as a retrosternal chest discomfort that builds gradually in intensity (over several minutes), is usually precipitated by stress (physical or emotional) or occurring at rest (as in the case of an ACS) with characteristic radiation (e.g., left arm or neck).",
+        "figure": "Top 10 Causes of Chest Pain in the ED Based on Age presents data in bar graphs divided into groups: 18-44, 45-64, 65-79, and \u226580 years of age. The categories include nonspecific chest pain, painful respiration, abdominal pain, etc."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Table": "Chest Pain Characteristics and Corresponding Causes",
+        "Nature": {
+          "Anginal Symptoms": "Perceived as retrosternal chest discomfort including pain, discomfort, heaviness, tightness, pressure, constriction, squeezing.",
+          "Sharp Chest Pain": "Increases with inspiration and lying supine, unlikely related to ischemic heart disease, usually occurs with acute pericarditis."
+        },
+        "Onset and Duration": {
+          "Gradual Anginal Symptoms": "Build in intensity over a few minutes.",
+          "Sudden Onset": "Not likely to be anginal, suspicious of an acute aortic syndrome.",
+          "Fleeting Chest Pain": "Unlikely related to ischemic heart disease."
+        },
+        "Location and Radiation": {
+          "Localized Pain": "To a very limited area, pain radiating below the umbilicus or hip unlikely related to myocardial ischemia."
+        },
+        "Severity": {
+          "Ripping Chest Pain": "Suspicious of an acute aortic syndrome, especially in certain patient conditions."
+        },
+        "Precipitating Factors": {
+          "Common Triggers": "Physical exercise or emotional stress."
+        },
+        "Relieving Factors": {
+          "Relief with Nitroglycerin": "Not necessarily diagnostic of myocardial ischemia."
+        },
+        "Associated Symptoms": {
+          "Symptoms Include": "Dyspnea, palpitations, diaphoresis, lightheadedness, presyncope or syncope.",
+          "Specific Symptoms": "In diabetes, women, elderly, stabbing, or sharp pain in chest, throat, abdomen common."
+        },
+        "Recommendations for Women": [
+          "Chest pain in women at risk for underdiagnosis. Consider potential cardiac causes.",
+          "Obtain history emphasizing accompanying symptoms common in women with ACS."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": {
+          "Patient Demographics": "Most patients presenting to the ED with chest pain are women, particularly those aged \u226565 years.",
+          "ISHEMIA Trial Findings": "Women with moderate-to-severe ischemia are more symptomatic than men.",
+          "Symptoms in Women": "Women present with nausea, fatigue, and shortness of breath more often than men, though chest pain remains the predominant symptom.",
+          "ACS Diagnosis": "ACS frequency is equal in men and women presenting with chest pain."
+        },
+        "Recommendation-Specific Supportive Text": {
+          "Risk Assessments": "Traditional risk tools underestimate risk in women, often misclassifying their chest pain as nonischemic.",
+          "PROMISE Trial": "Examined sex differences in presentation, risk factors, etc. Women commonly present with symptoms similar to men, with additional symptoms like palpitations.",
+          "HERME Study": "Examined troponin T value; 92% of women and 91% of men presented with chest pain."
+        },
+        "Recommendation for Older Patients": {
+          "Age Factor": "In patients >75 years with stable CAD symptoms, increased likelihood of positive tests for obstructive CAD."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendation-Specific Supportive Text": [
+          {
+            "Patient Age": ">75 years",
+            "Symptoms": [
+              "shortness of breath",
+              "syncope",
+              "mental impairment",
+              "abdominal pain",
+              "unexplained fall"
+            ],
+            "Association": "These symptoms may be associated with ACS, in addition to chest pain."
+          }
+        ],
+        "Recommendations for Considerations for Diverse Patient Populations With Chest Pain": [
+          {
+            "COR": 1,
+            "LOE": "C-LD",
+            "Recommendation": "Cultural competency training is recommended to help achieve the best outcomes in patients of diverse racial and ethnic backgrounds who present with chest pain."
+          },
+          {
+            "COR": 1,
+            "LOE": "C-LD",
+            "Recommendation": "Among patients of diverse race and ethnicity presenting with chest pain in whom English may not be their primary language, addressing language barriers with the use of formal translation services is recommended."
+          }
+        ],
+        "Synopsis": "There are marked racial and ethnic disparities when triaging patients who present for the evaluation of chest pain. Black patients presenting with angina pectoris are less likely to be treated urgently. Similar trends are found with Hispanic patients and those who are covered by Medicaid or are uninsured. This disparity is associated with worse outcomes, including a greater incidence of AMI and fatal coronary events. Disparities in the management of chest pain among diverse populations contribute to worse outcomes, including greater incidence of MI and fatal coronary events. Cultural competency training is recommended to address these disparities.",
+        "Recommendation-Specific Supportive Text Subsection": [
+          "In patients of various diverse groups presenting with chest pain, cultural competency training of providers to address racial and ethnic disparities may help to improve diagnosis, treatment, and outcomes. Attention to race, ethnicity, and sociocultural differences should be considered in the evaluation and management of such patients. Disparities in the management of chest pain among diverse populations contribute to worse outcomes.",
+          "In patients of various racial and ethnic subgroups presenting with suspected ACS in whom English may not be their primary language, adequately addressing language barriers with the use of language translation is vital to obtain an accurate and complete history. Formal translation services are recommended."
+        ],
+        "Patient-Centric Considerations": [
+          {
+            "COR": 1,
+            "LOE": "C-LD",
+            "Recommendation": "In patients with acute chest pain, it is recommended that 9-1-1 be activated by patients or bystanders to initiate transport to the closest ED by emergency medical services (EMS)."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Chest pain is a common reason for seeking medical evaluation. There is an emphasis on timely care to minimize delays. Education on recognizing cardiac symptoms and activating emergency services is crucial. EMS transportation is preferred for patients with suspected ACS due to reduced delays in treatment.",
+        "Recommendations": {
+          "Physical Examination": "A focused cardiovascular examination should be performed initially in patients with chest pain to diagnose ACS or other serious causes like aortic dissection, PE, or esophageal rupture. Tenderness in specific areas such as costochondral joints can indicate non-cardiac causes."
+        },
+        "Life-Threatening Causes of Chest Pain": "These include ACS, PE, aortic dissection, and esophageal rupture. Differentiating between STEMI and non-STEMI is challenging. Non-cardiac causes include aortic stenosis, regurgitation, and hypertrophic cardiomyopathy.",
+        "Recommendation Specific Supportive Text": "Evaluations should prioritize life-threatening conditions to ensure rapid treatment. Specific clues, like chest tenderness with inspiration, can help identify ACS."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Physical Examination in Patients With Chest Pain": [
+          {
+            "Clinical Syndrome": "ACS",
+            "Findings": "Diaphoresis, tachypnea, tachycardia, hypotension, crackles, S3, MR murmur (2); examination may be normal in uncomplicated cases"
+          },
+          {
+            "Clinical Syndrome": "PE",
+            "Findings": "Tachycardia +/- dyspnea\u2014>90% of patients; pain with inspiration (7)"
+          },
+          {
+            "Clinical Syndrome": "Aortic dissection",
+            "Findings": "Connective tissue disorders (e.g., Marfan syndrome), extremity pulse differential (30% of patients, type A-B) (8) Severe pain, abrupt onset +/- pulse differential +/- widened mediastinum on CXR >80% probability of dissection (9) Frequency of syncope >10% (8), AR 40%-75% (type A) (10)"
+          },
+          {
+            "Clinical Syndrome": "Esophageal rupture",
+            "Findings": "Emesis, subcutaneous emphysema, pneumothorax (20% patients), unilateral decreased or absent breath sounds"
+          },
+          {
+            "Clinical Syndrome": "Noncoronary cardiac: AS, AR, HCM",
+            "Findings": "AS: Characteristic systolic murmur, tardus or parvus carotid pulse AR: Diastolic murmur at right of sternum, rapid carotid upstroke HCM: Increased or displaced left ventricular impulse, prominent a wave in jugular venous pressure, systolic murmur"
+          },
+          {
+            "Clinical Syndrome": "Pericarditis",
+            "Findings": "Fever, pleuritic chest pain, increased in supine position, friction rub"
+          },
+          {
+            "Clinical Syndrome": "Myocarditis",
+            "Findings": "Fever, chest pain, heart failure, S3"
+          },
+          {
+            "Clinical Syndrome": "Esophagitis, peptic ulcer disease, gall bladder disease",
+            "Findings": "Epigastric tenderness Right upper quadrant tenderness, Murphy sign"
+          },
+          {
+            "Clinical Syndrome": "Pneumonia",
+            "Findings": "Fever, localized chest pain, may be pleuritic, friction rub may be present, regional dullness to percussion, egophony"
+          },
+          {
+            "Clinical Syndrome": "Pneumothorax",
+            "Findings": "Dyspnea and pain on inspiration, unilateral absence of breath sounds"
+          },
+          {
+            "Clinical Syndrome": "Costochondritis, Tietze syndrome",
+            "Findings": "Tenderness of costochondral joints"
+          },
+          {
+            "Clinical Syndrome": "Herpes zoster",
+            "Findings": "Pain in dermatomal distribution, triggered by touch; characteristic rash (unilateral and dermatomal distribution)"
+          }
+        ],
+        "Recommendations for Setting Considerations": [
+          {
+            "COR": 1,
+            "LOE": "B-NR",
+            "Recommendations": "Unless a noncardiac cause is evident, an ECG should be performed for patients seen in the office setting with stable chest pain; if an ECG is unavailable the patient should be referred to the ED so one can be obtained (1-5)."
+          },
+          {
+            "COR": 1,
+            "LOE": "C-LD",
+            "Recommendations": "Patients with clinical evidence of ACS or other life-threatening causes of acute chest pain seen in the office setting should be transported urgently to the ED, ideally by EMS (1-9)."
+          },
+          {
+            "COR": 1,
+            "LOE": "C-LD",
+            "Recommendations": "In all patients who present with acute chest pain regardless of the setting, an ECG should be acquired and reviewed for STEMI within 10 minutes of arrival (1-3,6,7,10)."
+          },
+          {
+            "COR": 1,
+            "LOE": "C-LD",
+            "Recommendations": "In all patients presenting to the ED with acute chest pain and suspected ACS, cTn should be measured as soon as possible after presentation (8,9)."
+          },
+          {
+            "COR": 3,
+            "LOE": "C-LD",
+            "Recommendations": "For patients with acute chest pain and suspected ACS initially evaluated in the office setting, delayed transfer to the ED for cTn or other diagnostic testing should be avoided."
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "FBN1",
+          "Associated Conditions": [
+            "Marfan syndrome",
+            "Aortic dissection"
+          ],
+          "Occurrences": 1,
+          "context": "Aortic dissection may be related to connective tissue disorders such as Marfan syndrome."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Synopsis": "The goals in patients presenting to the ED or office with acute chest pain are to: 1) identify life-threatening causes; 2) determine clinical stability; and 3) assess need for hospitalization versus outpatient evaluation. The ACC/AHA STEMI and NSTE-ACS guidelines categorize chest pain into 4 types: STEMI, NSTE-ACS, stable angina, and noncardiac. A 12-lead ECG should be acquired and interpreted within 10 minutes of arrival to a medical facility. Transfer by EMS is recommended for acute chest pain.",
+        "Recommendations for Electrocardiogram": [
+          "In patients with chest pain and nondiagnostic initial ECG, serial ECGs should be performed when suspicion of ACS is high or symptoms persist.",
+          "Patients whose initial ECG indicates ACS should be treated according to STEMI and NSTE-ACS guidelines.",
+          "Patients with intermediate-to-high suspicion for ACS and nondiagnostic initial ECG may undergo supplemental leads V7-V9 to rule out posterior MI."
+        ],
+        "Recommendation-Specific Supportive Text": [
+          "If an initial ECG is nondiagnostic, it should be compared with previous ECGs.",
+          "A normal or unchanged ECG is useful but may not be sufficient in assessing ACS."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Electrocardiographic-Directed Management": "Pathway includes history taking, physical examination, and ECG for chest pain management. Depending on ECG results, the management varies to follow guidelines like STEMI, NSTE-ACS, or arrhythmia-specific guidelines.",
+        "Importance of ECG": "Serious conditions such as STEMI or new arrhythmia require specific guidelines. Non-significant ECG changes demand repeated ECGs if symptoms persist.",
+        "Considerations for Normal ECG": "May still indicate risk due to ischemia or injury; requires ongoing assessment.",
+        "Chest Radiography Recommendation": "Chest radiography is recommended for patients with acute chest pain to evaluate other potential causes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Chest radiographs are noninvasive tests useful for disorders associated with chest pain. Their effectiveness increases with higher pretest probability indicated by history or physical examination. Though often not diagnostic on their own, they aid in ruling out differentials like pulmonary conditions or heart failure. Cardiovascular biomarkers help diagnose myocardial injury in patients with chest pain, with cardiac troponin (cTn) being the preferred choice due to high sensitivity and specificity.",
+        "Recommendations": [
+          "Serial cTn I or T levels are critical in identifying acute myocardial injury.",
+          "High-sensitivity cTn is preferred for more rapid detection or exclusion of myocardial injury.",
+          "Clinicians must be familiar with the analytical performance and limits of their cTn assays.",
+          "Creatine kinase myocardial (CK-MB) isoenzyme and myoglobin are not recommended for diagnosing acute myocardial injury."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          {
+            "title": "hs-cTn and Diagnostic Superiority",
+            "details": [
+              "hs-cTn assays provide greater sensitivity and negative predictive values than conventional cTn assays.",
+              "hs-cTn allows for faster rule-in and rule-out algorithms for myocardial injury.",
+              "There is an association between myocardial injury and increased risk of adverse outcomes in chest pain patients."
+            ]
+          },
+          {
+            "title": "Analytical Performance of hs-cTn",
+            "details": [
+              "The coefficient of variation at the 99th percentile upper reference limit for these assays should be \u226410%.",
+              "Comparative studies indicate superiority of cTn over CK-MB and myoglobin for AMI diagnosis and prognosis.",
+              "The addition of CK-MB or myoglobin for evaluation of chest pain is not beneficial."
+            ]
+          },
+          {
+            "title": "Cardiac Testing General Considerations",
+            "details": [
+              "Noninvasive and invasive diagnostic testing are crucial for evaluating patients with acute and stable chest pain.",
+              "The guideline emphasizes selective testing, optimizing cost evaluations, and deferring low-yield diagnostic testing."
+            ]
+          }
+        ],
+        "figure": "Graphic illustrating chest pain evaluation and testing considerations, focusing on the risk of major CAD events and appropriate diagnostic approaches."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "overview": "The guideline discusses reducing unnecessary testing and emphasizes using tests where evidence is lacking to avoid unnecessary costs. The choice of testing should consider clinical judgment and cost, with a focus on noninvasive testing methods for typical CAD evaluations. The document outlines various testing procedures including ECG, CCTA, and ICA, detailing their use, benefits, and associated risks.",
+        "testing_types": [
+          {
+            "type": "Anatomic Testing",
+            "methods": [
+              {
+                "name": "Coronary Computed Tomography Angiography (CCTA)",
+                "description": "Used to diagnose the extent and severity of obstructive and nonobstructive CAD. It includes assessment of plaques and lesion-specific ischemia."
+              }
+            ]
+          },
+          {
+            "type": "Invasive Coronary Angiography (ICA)",
+            "description": "Detects and assesses luminal obstructions in coronary arteries, using physiologic indices like IFR and FFR.",
+            "radiation_dose": "4 to 10 mSv"
+          },
+          {
+            "type": "Diagnostic Testing",
+            "methods": [
+              {
+                "name": "Exercise ECG",
+                "description": "Graded exercise test until physical fatigue or related symptoms occur. Candidates lacking major comorbidities may participate."
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Figure Title": "Choosing the Right Diagnostic Test",
+        "Pretest likelihood of CAD": {
+          "Low": "No testing necessary.",
+          "Intermediate-high Younger patients (<65 y of age)": "Less obstructive CAD suspected; CCTA favored.",
+          "Intermediate-high Older patients (\u226565 y of age)": "More obstructive CAD suspected; Stress testing favored."
+        },
+        "Favors use of CCTA": {
+          "Goal": "Rule out obstructive CAD; Detect nonobstructive CAD.",
+          "Availability and expertise": "High-quality imaging and expert interpretation routinely available.",
+          "Likelihood of obstructive CAD": "Age <65 y.",
+          "Prior test results": "Prior functional study inconclusive.",
+          "Other compelling indications": "Anomalous coronary arteries; Require evaluation of aorta or pulmonary arteries."
+        },
+        "Favors use of stress imaging": {
+          "Goal": "Ischemia-guided management.",
+          "Availability and expertise": "High-quality imaging and expert interpretation routinely available.",
+          "Likelihood of obstructive CAD": "Age \u226565 y.",
+          "Prior test results": "Prior CCTA inconclusive.",
+          "Other compelling indications": "Suspect scar (especially if PET or stress CMR available); Suspect coronary microvascular dysfunction (when PET or CMR available)."
+        },
+        "Stress testing information": {
+          "Patient capable of exercise": "ETT, Stress echocardiography, SPECT MPI, PET MPI, Stress CMR MPI.",
+          "Pharmacologic stress indicated": "Stress echocardiography, SPECT MPI, PET MPI, Stress CMR MPI.",
+          "Quantitative flow": "PET MPI, Stress CMR MPI.",
+          "LV dysfunction/scar": "Stress echocardiography, PET MPI, Stress CMR MPI."
+        },
+        "3.2.2 Echocardiography/Stress Echocardiography": {
+          "Purpose": "Visualize and aid in the differential diagnosis among numerous causes of acute chest pain such as acute aortic dissection, pericardial effusion, stress cardiomyopathy, and hypertrophic cardiomyopathy.",
+          "Additional Information": "TTE provides information for CAD risk assessment and clinical decision-making in patients with acute chest pain."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Clinical information": "The guideline discusses the use of stress tests including TTE, PET, SPECT, and CMR imaging for patients with acute chest pain. It emphasizes the importance of ruling out ACS before conducting stress tests. TTE and stress echocardiography aid in assessing ischemia and risk stratification. PET and SPECT are useful for myocardial perfusion imaging and diagnostic information. CMR imaging helps in evaluating regional and right ventricular function, myocardial ischemia, infarction, edema, and microvascular obstruction, useful in differentiating acute versus chronic MI.",
+        "Contraindications": {
+          "Exercise ECG": [
+            "Abnormal ST changes",
+            "Inability to achieve 85% METs",
+            "Unstable angina or AMI",
+            "Uncontrolled heart failure"
+          ],
+          "Stress Nuclear": [
+            "High-risk unstable angina",
+            "Significant arrhythmias"
+          ],
+          "Stress Echocardiography": [
+            "Limited acoustic windows",
+            "Uncontrolled heart failure"
+          ],
+          "Stress CMR": [
+            "Reduced GFR (<30 ml/min/1.73 m\u00b2)",
+            "Implanted devices unsafe for CMR"
+          ],
+          "CCTA": [
+            "Allergy to iodinated contrast",
+            "Clinical instability"
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Section": "3.3. Cardiac Testing Considerations for Women Who Are Pregnant, Postpartum, or of Child-Bearing Age",
+        "Details": "Determining the need for further diagnostic testing after initial evaluation is highlighted to establish diagnosis or formulate disposition. The process involves identifying serious medical conditions and guiding clinicians accordingly. Emergency causes of chest pain include acute coronary syndromes and pulmonary embolism.",
+        "Section 4": "Choosing the Right Pathway with Patient-Centric Algorithms for Acute Chest Pain"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Myopericarditis": "Heterogeneous in manifestation; includes fulminant myocarditis with high mortality.",
+        "Noncardiovascular Syndromes": "Life-threatening conditions such as esophageal rupture, tension pneumothorax, sickle cell chest crisis.",
+        "Nonemergency Causes": "Include costochondritis and musculoskeletal or gastrointestinal causes. Strategies should minimize unnecessary testing.",
+        "Algorithm": "Patient-centric approach for acute chest pain; distinguishes between cardiac and non-cardiac causes.",
+        "Evaluation Steps": [
+          "Acute chest pain?",
+          "History and physical examination",
+          "ECG (electrocardiogram)",
+          "Detection of potential cardiac cause",
+          "STEMI consideration",
+          "If non-cardiac, evaluate using patient-centric algorithms."
+        ],
+        "Conditions": [
+          "Acute coronary syndrome",
+          "Acute aortic syndrome",
+          "Pulmonary embolism",
+          "Acute myopericarditis",
+          "Valvular heart disease"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "4.1. Patients With Acute Chest Pain and Suspected ACS (Not Including STEMI)",
+        "recommendations": [
+          "Clinical decision pathways (CDPs) should categorize patients into low-, intermediate-, and high-risk strata for diagnostic evaluation.",
+          "In patients presenting with acute chest pain, serial troponins are used to exclude myocardial injury. Recommended time intervals for repeat measurements: 1 to 3 hours for high-sensitivity troponin and 3 to 6 hours for conventional troponin assays.",
+          "Institutions should implement a CDP that includes a protocol for troponin sampling based on their particular assay.",
+          "Previous testing should be considered and incorporated into CDPs.",
+          "For patients with acute chest pain, a normal ECG, and symptoms suggesting ACS that began at least 3 hours before ED arrival, a single hs-cTn concentration below the limit of detection is reasonable to exclude myocardial injury."
+        ],
+        "synopsis": "Patients with acute chest pain and suspected ACS cover a spectrum of disease likelihood across low- versus intermediate- or high-risk groups. Risk scores are essential when conventional cTn assays are used, and hs-cTn results are predictive. CDPs are recommended for improving diagnosis, decreasing unnecessary testing, and reducing admissions while maintaining sensitivity for detecting acute myocardial injury or 30-day MACE."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Risk Stratification": "General approach includes evaluating patients with acute chest pain through history, physical examination, and ECG. It categorizes patients based on obvious cardiac or noncardiac cause and possible ACS, leading to different actions such as no testing, obtaining troponin, using CDP for risk stratification, and invasive coronary angiography.",
+        "Clinical Decision Pathways": "Includes HEART Pathway, EDACS, ADAPT (mADAPT), NOTR, 2020 ESC/hs-cTn, and 2016 ESC/GRACE, each with specific target populations and outcomes defined to manage suspected ACS."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "variables_used": {
+          "HEART_Pathway": "History, Age, Risk factors, Troponin (0, 3 h)",
+          "EDACS": "Age, Sex, Risk factors, History, Troponin (0, 2 h)",
+          "ADAPT_mADAPT": "TIMI score 0-1, No ischemic ECG changes, Troponin (0, 2 h)",
+          "NOTR": "Age, Risk factors, Previous AMI or CAD, Troponin (0, 2 h)",
+          "2020_ESC_hs-cTn": "History, ECG, hs-cTn (0, 1 or 2 h)",
+          "2016_ESC_GRACE": "History, Age, SBP, Serum Cr, Cardiac arrest, ECG, Cardiac biomarker, Killip class"
+        },
+        "risk_thresholds": {
+          "low_risk": [
+            "HEART score <3, Neg 0, 3-h cTn, Neg 0, 2-h hs-cTn",
+            "EDACS score <16, Neg 0, 2 h hs-cTn, No ischemic ECG",
+            "TIMI score 0 (or <1 for mADAPT), Neg 0, 2-h cTn or hs-cTn, No ischemic ECG",
+            "Age <50 y, <3 risk factors, Previous AMI or CAD, Neg cTn or hs-cTn (0, 2 h)",
+            "Initial hs-cTn is 'very low' and sx onset >3 h ago",
+            "Initial hs-cTn 'low' and 1- or 2-h hs-cTn \u0394 is 'low'",
+            "Chest pain free, GRACE <140"
+          ],
+          "intermediate_risk": [
+            "HEART score 4-6",
+            "TIMI score 2-4",
+            "Initial hs-cTn is between 'low' and 'high', and/or 1- or 2-h hs-cTn \u0394 is between low and high thresholds"
+          ],
+          "high_risk": [
+            "HEART score 7-10",
+            "TIMI score 5-7",
+            "Initial hs-cTn is 'high' or 1- or 2-h hs-cTn \u0394 is high",
+            "TO hs-cTn >52 ng/L or \u0394 1 h >5 ng/L"
+          ]
+        },
+        "performance": {
+          "ED_discharge": "40% versus 18% discharged, 30-d objective testing by 12% (69% versus 57%), Length of stay by 12 h (9.9 versus 21.9 h)",
+          "patients_identified_as_low_risk": "42% versus 31%",
+          "ADAPT_more_discharged": "19% versus 11%",
+          "MACE_sensitivity": "100% 28% eligible for ED discharge, 62% Ruled out (20.2% 30-d MACE), 25% Observe 13% Rule in",
+          "cTn_accuracy": "100%",
+          "hs-cTn_accuracy": {
+            "HEART_Pathway": "95%",
+            "EDACS": "92%",
+            "ADAPT_mADAPT": "93%",
+            "NOTR": "99%",
+            "2020_ESC_hs-cTn": "99%"
+          },
+          "ED_discharge_rate": {
+            "HEART_Pathway": "40%",
+            "EDACS": "49%",
+            "ADAPT_mADAPT": "19 (ADAPT) 39 (mADAPT)",
+            "NOTR": "28%"
+          },
+          "AMI_sensitivity": "100% for HEART Pathway, EDACS, ADAPT, NOTR, >99.9% for 2020 ESC hs-cTn, 96.7% for 2016 ESC GRACE"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guidelines": "CDPs should be based on assay-specific performance thresholds. There are differences between high sensitivity and conventional cTn assays. Patients with acute chest pain and a 30-day risk of death or MACE <1% are low risk.",
+        "cTn assays": "High sensitivity cTn assays can guide disposition by repeat sampling. Conventional cTn assays require extended sampling time.",
+        "risk scores": "CPDs with risk scores predict well, demonstrating sensitivity and reducing unnecessary testing.",
+        "repeat testing": "Repeat cTn testing may be necessary if clinical presentation is suspicious for ACS."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Description": "The guideline discusses the identification and management of low-risk patients with chest pain. Low-risk patients are those with symptoms suggestive of ACS and a probability of MACE within 30 days \u22641%. Various scoring systems and decision pathways, such as the HEART score and ADAPT, are used to identify these patients. High-sensitivity cardiac troponin (hs-cTn) measurements play a crucial role in these evaluations.",
+        "Assessment": "Patients are considered low risk if they have clinical stability, nonischemic ECG, and absence of acute myocardial injury on cTn measurement. A single or serial hs-cTn measurement can be used for risk assessment, and routine admission or cardiac testing is not recommended for these patients.",
+        "Recommendations": "Cost-effective use of hs-cTn can rule out ACS. Nonadherence to management recommendations due to low-risk assessment can yield economic savings. A 30-day cost savings of $216 was observed with the application of the HEART Pathway."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations for Intermediate-Risk Patients with Acute Chest Pain": [
+          {
+            "COR": "1",
+            "LOE": "C-EO",
+            "Recommendation": "For intermediate-risk patients with acute chest pain, TTE is recommended as a rapid, bedside test to establish baseline ventricular and valvular function, evaluate for wall motion abnormalities, and to assess for pericardial effusion."
+          },
+          {
+            "COR": "2a",
+            "LOE": "A",
+            "Recommendation": "For intermediate-risk patients with acute chest pain, management in an observation unit is reasonable to shorten length of stay and lower cost relative to an inpatient admission."
+          }
+        ],
+        "Recommendations for Intermediate-Risk Patients with No Known CAD": [
+          {
+            "COR": "1",
+            "LOE": "A",
+            "Recommendation": "For intermediate-risk patients with acute chest pain and no known CAD eligible for diagnostic testing after a negative or inconclusive evaluation for ACS, CCTA is useful for exclusion of atherosclerotic plaque and obstructive CAD."
+          },
+          {
+            "COR": "1",
+            "LOE": "C-EO",
+            "Recommendation": "For intermediate-risk patients with acute chest pain, moderate-severe ischemia on current or prior stress testing, and no known CAD established by prior anatomic testing, ICA is recommended."
+          },
+          {
+            "COR": "2a",
+            "LOE": "C-LD",
+            "Recommendation": "For intermediate-risk patients with acute chest pain with evidence of previous mildly abnormal stress test results, CCTA is reasonable for diagnosing obstructive CAD."
+          }
+        ],
+        "Synopsis": "Patients in the ED without high-risk features and not classified as low risk are intermediate-risk. They do not have evidence of acute myocardial injury by troponin but may benefit from further cardiac testing.",
+        "Recommendation-Specific Supportive Text": [
+          "Prompt use of TTE allows for an evaluation of cardiac cause for symptoms and evaluation of alternative pathologies for acute chest pain.",
+          "Rapid echocardiographic assessment may facilitate imaging when patients are symptomatic; point-of-care echocardiograms performed by trained clinicians may be useful.",
+          "Additional testing may require more time; patients may be managed in an observation unit to improve outcomes and reduce costs."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guidelines": [
+          {
+            "recommendation": "For intermediate-risk patients with acute chest pain and no known CAD, either exercise ECG, stress echocardiography, stress PET/SPECT MPI, or stress CMR is useful for the diagnosis of myocardial ischemia."
+          },
+          {
+            "recommendation": "For intermediate-risk patients with acute chest pain and no known CAD, CCTA, FFR-CT can be useful for the diagnosis of vessel-specific ischemia and to guide decision-making regarding the use of coronary revascularization."
+          },
+          {
+            "recommendation": "For intermediate-risk patients with acute chest pain and no known CAD, as well as an inconclusive prior stress test, CCTA can be useful for excluding the presence of atherosclerotic plaque and obstructive CAD."
+          },
+          {
+            "recommendation": "For intermediate-risk patients with acute chest pain and no known CAD, with an inconclusive CCTA, stress imaging (with echocardiography, PET/SPECT MPI, or CMR) can be useful for the diagnosis of myocardial ischemia."
+          },
+          {
+            "commentary": "For patients with recent prior testing and normal findings, no further testing is indicated if adequate exercise levels were achieved."
+          },
+          {
+            "commentary": "CCTA is recommended for those with previously inconclusive or mildly abnormal stress tests, avoiding inconclusive results and enabling more definitive rule-out of obstructive CAD."
+          },
+          {
+            "commentary": "ICA is indicated for patients categorized as high risk on a validated risk score."
+          },
+          {
+            "commentary": "Symptomatic patients with previous stress testing often have atherosclerotic plaque and are at risk for obstructive CAD lesions."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Evaluation Algorithm": "The algorithm is for patients with suspected ACS (Acute Coronary Syndrome) at intermediate risk with no known CAD (Coronary Artery Disease). It includes steps based on prior testing results, considering recent negative tests, stress testing, CCTA (Coronary Computed Tomography Angiography), and invasive coronary angiography. It guides management decisions based on the presence of stenosis, ischemia, or inconclusive results.",
+        "Test Choice": "Guided by local availability and expertise. Recent negative tests include normal CCTA within 2-5 years or negative stress tests within 1 year.",
+        "Stress Testing": "Outlined for emergency department patients needing further evaluation, emphasizing exercise ECG and stress echocardiography. Studies show safety and effectiveness in triage, reducing hospital stay, and identifying high-risk patients.",
+        "Other Testing Considerations": "CCTA is highlighted for ruling out stenosis. FFR-CT usage does not necessarily require additional testing. Patients with coronary artery stenosis (40-90%) require further assessment, potentially with CCTA or FFR-CT."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "assessment": "Assessment and management decisions in patients with no known CAD who have inconclusive stress test results.",
+        "stress_test": "Patients with acute chest pain and indeterminate stenosis on CCTA may benefit from a stress test to evaluate for myocardial ischemia.",
+        "economic_evaluations": "Economic evaluations show prompt stress echocardiography in the ED is associated with lower costs and no adverse effects post-discharge.",
+        "trials": "The CT-STAT trial compared CCTA and stress MPI in chest pain evaluation, showing CCTA had a shorter time to diagnosis and reduced cost.",
+        "recommendations": [
+          {
+            "level": "1A",
+            "points": [
+              "Optimize GDMT for intermediate-risk patients with new or worsening CAD symptoms.",
+              "ICA recommended for worsening symptoms with significant relevant stenosis or prior intervention history."
+            ]
+          },
+          {
+            "level": "2aB-NR",
+            "points": [
+              "Use CCTA in intermediate-risk patients with CAD and nonobstructive CAD to determine plaque progression.",
+              "Consider FFR-CT for stenosis of 40% to 90% on CCTA to guide use of coronary revascularization.",
+              "Use stress imaging for new or worsening symptoms with known CAD."
+            ]
+          }
+        ],
+        "additional_notes": "ICA is effective for diagnosing obstructive CAD and guiding revascularization decisions."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Evaluation Algorithm": "The diagram outlines an evaluation algorithm for patients with suspected acute coronary syndrome (ACS) at intermediate risk with known coronary artery disease (CAD).",
+        "Immediate Steps": [
+          "Patients with acute chest pain are assessed based on obstructive or nonobstructive CAD.",
+          "Nonobstructive CAD (<50% stenosis) may lead directly to discharge or consideration of INOCA pathway.",
+          "Obstructive CAD (>=50% stenosis) can involve stress testing or fractional flow reserve (FFR) testing."
+        ],
+        "Testing Options": [
+          "For nonobstructive CAD, CCTA is an option.",
+          "Options for obstructive CAD include stress testing modalities like Stress CMR, echocardiography, PET, and SPECT or FFR-CT.",
+          "The decision to proceed with invasive coronary angiography (ICA) may be dependent on the results of stress testing."
+        ],
+        "Special Considerations": [
+          "For patients with high-risk CAD or frequent angina, stress testing is prioritized.",
+          "An abnormal functional test may lead to consideration of ICA."
+        ],
+        "Testing Guidance": [
+          "The choice of test should be guided by local availability and expertise.",
+          "High-quality CCTA and stress tests are referenced for varying extents of stenosis."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "High-Risk Patients With Acute Chest Pain",
+        "recommendations": [
+          {
+            "COR": "1",
+            "LOE": "B-NR",
+            "details": "For patients with acute chest pain and suspected ACS who have new ischemic changes on electrocardiography, troponin-confirmed acute myocardial injury, new-onset left ventricular systolic dysfunction (ejection fraction <40%), newly diagnosed moderate-severe ischemia on stress testing, hemodynamic instability, and/or a high clinical decision pathway (CDP) risk score should be designated as high risk for short-term MACE."
+          },
+          {
+            "COR": "1",
+            "LOE": "C-EO",
+            "details": "For patients with acute chest pain and suspected ACS who are designated as high risk, ICA is recommended."
+          },
+          {
+            "COR": "2a",
+            "LOE": "B-NR",
+            "details": "For high-risk patients with acute chest pain who are troponin positive in whom obstructive CAD has been excluded by CCTA or ICA, CMR or echocardiography can be effective in establishing alternative diagnoses."
+          }
+        ],
+        "synopsis": "Patients with symptoms suggestive of ACS who are at high risk of short-term MACE include those with new ischemic changes on the ECG, troponin-confirmed acute myocardial injury, new-onset left ventricular systolic dysfunction (ejection fraction <40%), newly diagnosed moderate-severe ischemia on stress imaging, and/or a high risk score on CDP.",
+        "additional_notes": [
+          "ICA is indicated for patients with confirmed ACS and based on robust trial evidence.",
+          "Approximately 6% to 15% of troponin-positive ACS occurs in the absence of obstructive CAD.",
+          "CMR can identify wall motion abnormalities and myocardial edema."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Recommendations for Acute Chest Pain in Patients With Prior Coronary Artery Bypass Graft (CABG) Surgery",
+        "Recommendations": [
+          {
+            "COR": "1",
+            "LOE": "C-LD",
+            "Text": "In patients with prior CABG surgery presenting with acute chest pain who do not have ACS, performing stress imaging is effective to evaluate for myocardial ischemia or CCTA for graft stenosis or occlusion."
+          },
+          {
+            "COR": "1",
+            "LOE": "C-LD",
+            "Text": "In patients with prior CABG surgery presenting with acute chest pain, who do not have ACS or who have an indeterminate/nondiagnostic stress test, ICA is useful."
+          }
+        ],
+        "Synopsis": "There are many potential causes of acute chest pain in the months after CABG, with musculoskeletal pain being the most common. Ischemia from graft stenosis or occlusion, pericarditis, PE, sternum infection, or nonunion pain are other causes. Post-sternotomy pain syndrome should be considered. Graft failure usually results from technical issues or thrombosis. Radial artery grafts have a higher rate of patency than saphenous vein grafts. Noninvasive stress imaging is recommended to identify ischemic myocardial territories and assist in revascularization decisions."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Evaluation of Patients": "In patients who experience acute unremitting chest pain while undergoing dialysis, transfer by EMS to an acute care setting is recommended.",
+        "Causes of Chest Pain in Dialysis": "Chest pain during hemodialysis is due to cardiovascular disease prevalence and dialysis procedure. Causes: AMI, ACS, pericarditis, PE, pleuritis, hemolysis, gastroesophageal reflux, subclavian steal, musculoskeletal disorders.",
+        "Specific Evaluation Recommendations": "Due to high CAD risk, if acute unremitting chest pain occurs during dialysis, perform a 12-lead ECG and transfer to acute care.",
+        "Chest Pain and Substance Use": "In patients with acute chest pain, consider cocaine and methamphetamine as causes."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendation-Specific Supportive Text": [
+          {
+            "text": "Cocaine and methamphetamine use can be considered in young patients presenting with chest pain and evidence of ACS; the frequency of ACS is <10% among cocaine and methamphetamine users in most studies, and death is rare. A person\u2019s urine typically tests positive for cocaine or methamphetamine within 1 to 4 hours of consuming the drug and will continue to test positive for 2 to 4 days."
+          }
+        ],
+        "Recommendations for Shared Decision-Making in Patients With Acute Chest Pain": [
+          {
+            "COR": 1,
+            "LOE": "B-R",
+            "Recommendation": "For patients with acute chest pain and suspected ACS who are deemed low risk by a CDP, patient decision aids are beneficial to improve understanding and effectively facilitate risk communication."
+          },
+          {
+            "COR": 1,
+            "LOE": "B-R",
+            "Recommendation": "For patients with acute chest pain and suspected ACS who are deemed intermediate risk by a CDP, shared decision-making between the clinician and patient regarding the need for admission, observation, discharge, or further evaluation in an outpatient setting is recommended for improving patient understanding and reducing low-value testing."
+          }
+        ],
+        "Synopsis": "Risk communication and shared decision-making using a decision aid such as Chest Pain Choice have been shown to increase patient knowledge, engagement, and satisfaction and decrease the rate of observation unit admission and 30-day cardiac stress testing in both single-center and multicenter randomized trials. For low-risk patients, decision aids can facilitate risk communication between the clinician and the patient and increase patients\u2019 understanding of their risk and the importance of outpatient follow-up after discharge from the ED. For intermediate-risk patients, admission to an observation unit or discharge from the ED with further, timely evaluation in an outpatient setting is acceptable. Decision aids such as Chest Pain Choice can effectively facilitate shared decision-making regarding the need for admission, observation, or discharge for further evaluation in an outpatient setting.",
+        "Recommendation-Specific Supportive Text (Adult ED patients)": [
+          {
+            "text": "Adult ED patients with acute chest pain who are deemed low risk are frequently admitted for observation and cardiac stress testing or CCTA, resulting in increased cost to the patient and the health care system. Shared decision-making is the process by which patients and clinicians share information and take steps to build consensus about preferred tests and treatments. In shared decision-making, both parties share information: the clinician offers options and describes the potential harms and benefits, and the patient communicates his or her preferences. Patients are prepared with a better understanding of the relevant factors influencing the decision and share responsibility for deciding how to proceed."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Evaluation of Acute Chest Pain": {
+          "Nonischemic Cardiac Pathologies": {
+            "Recommendations": [
+              {
+                "COR": 1,
+                "LOE": "C-EO",
+                "Recommendation": "In patients with acute chest pain in whom other potentially life-threatening nonischemic cardiac conditions are suspected (e.g., aortic pathology, pericardial effusion, endocarditis), TTE is recommended for diagnosis."
+              }
+            ],
+            "Synopsis": "Alternative nonischemic causes for acute chest pain should be considered if an ischemic cause is not suspected based on initial evaluation. Echocardiography, especially TTE, is crucial for evaluating pericardial effusions without tamponade, aortic dissections, and complications of myocardial infarction."
+          },
+          "Acute Chest Pain with Suspected Acute Aortic Syndrome": {
+            "Recommendations": [
+              {
+                "COR": 1,
+                "LOE": "C-EO",
+                "Recommendation": "In patients with acute chest pain where there is clinical concern for aortic dissection, computed tomography angiography (CTA) of the chest, abdomen, and pelvis is recommended for diagnosis and treatment planning."
+              },
+              {
+                "COR": 1,
+                "LOE": "C-EO",
+                "Recommendation": "In patients with acute chest pain where there is clinical concern for aortic dissection, TEE or CMR should be performed to make the diagnosis if CT is contraindicated or unavailable."
+              }
+            ],
+            "Synopsis": "Acute aortic syndrome describes diseases involving disruptions in the aortic wall, such as aortic dissection and penetrating aortic ulcer. The condition is often linked with genetic predispositions and other risk factors like hypertension and connective tissue disease. Cocaine use is another risk factor for dissection."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations for Acute Chest Pain With Suspected PE": [
+          {
+            "COR": "1",
+            "LOE": "B-NR",
+            "Recommendation": "In stable patients with acute chest pain with high clinical suspicion for PE, CTA using a PE protocol is recommended."
+          },
+          {
+            "COR": "1",
+            "LOE": "C-EO",
+            "Recommendation": "For patients with acute chest pain and possible PE, need for further testing should be guided by pretest probability."
+          }
+        ],
+        "Recommendations for Acute Chest Pain With Suspected Myopericarditis": [
+          {
+            "COR": "1",
+            "LOE": "B-NR",
+            "Recommendation": "In patients with acute chest pain and myocardial injury who have nonobstructive coronary arteries on anatomic testing, CMR with gadolinium contrast is effective to distinguish myopericarditis from other causes."
+          },
+          {
+            "COR": "1",
+            "LOE": "B-NR",
+            "Recommendation": "In patients with acute chest pain with suspected acute myopericarditis, CMR is useful if there is diagnostic uncertainty."
+          },
+          {
+            "COR": "1",
+            "LOE": "C-EO",
+            "Recommendation": "In patients with acute chest pain and suspected myopericarditis, TTE is effective to determine the presence of ventricular wall motion abnormalities, pericardial effusion, valvular abnormalities, or restrictive physiology."
+          },
+          {
+            "COR": "2b",
+            "LOE": "C-LD",
+            "Recommendation": "In patients with acute chest pain with suspected acute pericarditis, noncontrast or contrast cardiac CT scanning may be reasonable to determine the presence and degree of pericardial thickening."
+          }
+        ],
+        "Synopsis": "The incidence of PE is estimated at 65 cases per 100,000, with some cases asymptomatic and others undiagnosed. Risk factors for PE include inherited hypercoagulable states and acquired risk factors.",
+        "Supportive Text": [
+          "CTA using PE protocol is the diagnostic modality of choice in stable patients.",
+          "Troponin and brain natriuretic peptide can be elevated and may reveal acute right ventricular strain."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Pericarditis and myocarditis": "Share overlapping common causes and present along a continuum in terms of symptoms. Pericarditis is often viral in developed nations, with tuberculosis as a less common cause.",
+        "Pericarditis symptoms": "Sharp, pleuritic chest pain that improves by sitting up or leaning forward. Electrocardiographic hallmark includes widespread ST-elevation.",
+        "Myocarditis symptoms": "Varied clinical manifestations include chest pain reflective of epicardial inflammation. Myocardial dysfunction, fatigue, and exercise intolerance are common.",
+        "Troponin levels": "Elevated in both pericarditis and myocarditis cases.",
+        "Diagnosis and imaging": {
+          "CMR (Cardiac Magnetic Resonance)": "Detects acute myocarditis changes, edema, thickening, or late enhancement, and assesses pericardial effusions.",
+          "Echocardiography": "Useful for assessing segmental left ventricular wall hypokinesis in myocarditis.",
+          "CT": "Aids in differentiating pericarditis effusion types. Used as a secondary study."
+        },
+        "Recommendations for VHD (Valvular Heart Disease)": "Use of TTE and TEE for diagnosis and severity assessment, with CMR as a reasonable alternative."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "Chest pain may occur with valvular heart disease (VHD), particularly stenotic VHD such as aortic valve stenosis and mitral valve stenosis with secondary pulmonary hypertension. Chest pain can also occur due to papillary muscle rupture in myocardial infarction (MI) or degenerative mitral valve disease after chordal rupture. Severe acute chest pain may radiate to the back and may indicate aortic dissection. Causes of chest pain in aortic valve stenosis include coexisting obstructive coronary artery disease (CAD) or microvascular dysfunction. In mitral valve stenosis, chest pain may result from low cardiac output.",
+        "Recommendation": "Patients with acute chest pain should be evaluated for noncardiac causes if persistent despite negative stress tests or low-risk designation by a clinical professional."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "differential_diagnosis": [
+          "Pulmonary embolism",
+          "Pneumothorax/hemothorax",
+          "Pneumomediastinum",
+          "Pneumonia",
+          "Pleural irritation",
+          "Malignancy",
+          "Cholecystitis",
+          "Pancreatitis",
+          "Hiatal hernia",
+          "Gastroesophageal reflux disease/gastritis/esophagitis",
+          "Peptic ulcer disease",
+          "Esophageal spasm",
+          "Dyspepsia",
+          "Costochondritis",
+          "Chest wall trauma or inflammation",
+          "Herpes zoster (shingles)",
+          "Cervical radiculopathy",
+          "Breast disease",
+          "Rib fracture",
+          "Musculoskeletal injury/spasm",
+          "Panic disorder",
+          "Anxiety",
+          "Clinical depression",
+          "Somatization disorder",
+          "Hypochondria",
+          "Hyperventilation syndrome",
+          "Carbon monoxide poisoning",
+          "Sarcoidosis",
+          "Lead poisoning",
+          "Prolapsed intervertebral disc",
+          "Thoracic outlet syndrome",
+          "Adverse effect of certain medications",
+          "Sickle cell crisis"
+        ],
+        "synopsis": "The differential diagnosis for noncardiac causes of acute chest pain is quite broad and includes respiratory, musculoskeletal, gastrointestinal, psychological, and other causes. Musculoskeletal causes are the most common, including costochondritis, muscle strain, and potential consequences of recent or occult chest trauma such as rib fracture. Various gastrointestinal causes, commonly esophageal, can present with chest pain, including gastrointestinal reflux and esophageal dysmotility as well as gastritis from medications or peptic ulcer disease. Respiratory causes are less frequent but potentially more serious and include PE, pneumonia, and pneumothorax. Many patients will have dyspnea in addition to chest pain. Psychological causes are usually diagnoses of exclusion but merit consideration in the right context.",
+        "recommendation_specific_supportive_text": "If acute myocardial injury is ruled out, alternative diagnoses merit consideration in patients with persistent or recurrent symptoms. Clinical risk assessment, with implementation of CDPs when appropriate, is the key to selecting patients for further diagnostic evaluation and also to choosing among potential diagnostic modalities."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Evaluation of Acute Chest Pain With Suspected Gastrointestinal Syndromes": {
+          "COR": "2a",
+          "LOE": "C-LD",
+          "Recommendation": "In patients with recurrent acute chest pain without evidence of a cardiac or pulmonary cause, evaluation for gastrointestinal causes is reasonable.",
+          "Synopsis": "Among outpatients with chest pain, approximately 10% to 20% have a gastrointestinal cause. Gastrointestinal pain may result from stimulation of chemoreceptors or mechanoreceptors by abnormal contraction or distention, or of thermoreceptors. Gastroesophageal reflux disease is the most likely cause for recurrent unexplained chest pain of esophageal origin. It can mimic myocardial ischemia and may be described as squeezing or burning. Other causes include esophagitis and allergic conditions such as eosinophilic esophagitis. Esophageal motility disorders can present as squeezing retrosternal pain or spasm. Correlation with heartburn, regurgitation, and relief with antacids can suggest an esophageal cause.",
+          "Recommendation-Specific Supportive Text": "The first step is a careful history and evaluation. Upper endoscopy should be considered for diagnostics, especially if patients exhibit symptoms like dysphagia or unintentional weight loss."
+        },
+        "Evaluation of Acute Chest Pain With Suspected Anxiety and Other Psychosomatic Considerations": {
+          "COR": "2a",
+          "LOE": "B-R",
+          "Recommendation": "For patients with recurrent, similar presentations for acute chest pain with no evidence of physiological cause on prior diagnostic evaluation including a negative workup for myocardial ischemia, referral to a cognitive-behavioral therapist is reasonable.",
+          "Synopsis": "The heart-brain relationship is well established. Stress cardiomyopathy may result in recurrent chest pain despite normal coronary arteries. It has been labeled as INOCA, atypical angina, and noncardiac chest pain. There is a close association of this symptom with psychological syndromes."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendation-Specific Supportive Text": [
+          "Most low-risk patients presenting to the ED or office setting with chest pain do not have life-threatening conditions. Diagnoses may include psychological entities such as somatization or noncardiac chest pain.",
+          "It has been reported that in low-risk chest pain patients without evidence of cardiac disease, depression, anxiety, and gastroesophageal syndromes each exceeded CAD by almost 10-fold.",
+          "A systematic review of therapy for patients with chest pain, no evidence of cardiac disease, and psychological disorders revealed that antidepressants and anxiolytics had mixed evidence for efficacy."
+        ],
+        "Evaluation of Acute Chest Pain in Patients With Sickle Cell Disease": {
+          "COR": [
+            {
+              "value": 1,
+              "LOE": "B-NR",
+              "Recommendations": "In patients with sickle cell disease who report acute chest pain, emergency transfer by EMS to an acute care setting is recommended."
+            },
+            {
+              "value": 1,
+              "LOE": "C-LD",
+              "Recommendations": "In patients with sickle cell disease who report acute chest pain, ACS should be excluded."
+            }
+          ],
+          "Synopsis": "Acute chest syndrome is a leading cause of death for patients with sickle cell disease.",
+          "Recommendation-Specific Supportive Text": [
+            "In patients with sickle cell disease who experience chest pain, ACS is associated with significant morbidity and mortality rates.",
+            "Patients should be transferred to an acute care setting by EMS when there is clinical suspicion of ACS.",
+            "The recommended diagnostic evaluation for all adults with sickle cell disease who have a clinical presentation concerning for acute chest syndrome includes an ECG, troponin test, complete blood count with white blood cell differential, reticulocyte count, anteroposterior and lateral chest radiograph, and blood and sputum cultures."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Pretest Probabilities": {
+          "Age Groups": [
+            "30-39",
+            "40-49",
+            "50-59",
+            "60-69",
+            "70+"
+          ],
+          "Gender": [
+            "Men",
+            "Women"
+          ],
+          "Symptoms": [
+            "Chest Pain",
+            "Dyspnea"
+          ],
+          "Probability Ranges": [
+            "Low \u226415%",
+            "Intermediate-High >15%"
+          ]
+        },
+        "CAC Score": {
+          "Ranges": [
+            "1-99",
+            "100-999",
+            ">1,000"
+          ],
+          "Probability Ranges": [
+            "\u226415%",
+            ">15%-50%",
+            ">50%"
+          ]
+        },
+        "Purpose": "To evaluate symptomatic patients with suspect CAD using pretest probabilities to guide the need for stress and anatomic tests.",
+        "Recommendations": {
+          "1. Stable Chest Pain": {
+            "Category": "No Known CAD",
+            "Recommendation": "Model to estimate pretest probability of obstructive CAD to defer testing."
+          },
+          "2a. Stable Chest Pain": {
+            "Category": "No Known CAD and Low Risk",
+            "CAC Testing": "Reasonable as first-line test for plaque exclusion."
+          },
+          "3. Stable Chest Pain": {
+            "Category": "No Known CAD and Low Risk",
+            "Imaging": "Non-imaging tests reasonable for myocardial ischemia exclusion."
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "synopsis": "Over the past several decades, patient presentation and observed obstructive CAD prevalence has changed, affecting diagnostic testing. Observations in the U.S. include a low general prevalence of typical angina, infrequent symptoms, low prevalence of obstructive CAD in patients undergoing evaluation, and high normal coronary angiography rates. Traditional risk scores overestimate disease probability.",
+        "recommendations": [
+          "Use contemporary pretest probability estimates for identifying low-risk patients without needing additional diagnostic testing.",
+          "CAC score of zero identifies low-risk cohorts who may not require additional testing.",
+          "Exercise testing without imaging may be useful to assess stable chest pain and exclude CAD.",
+          "Evaluate the role of CAC in guiding selective use of follow-up testing."
+        ],
+        "supportive text": [
+          "Pretest probability scores like the Diamond-Forrester model can overestimate the probability of obstructive CAD.",
+          "CAC scores are useful to identify patients with low risk of obstructive CAD and cardiovascular events.",
+          "Exercise testing showed effectiveness in low-risk women in WOMEN trial compared with exercise MPI."
+        ],
+        "testing_patterns": [
+          "High normal coronary angiography rate (upward of 50%-60%)."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Section": "5.1.3. Intermediate-High Risk Patients With Stable Chest Pain and No Known CAD",
+        "Recommendations": [
+          {
+            "Type": "Index Diagnostic Testing - Anatomic Testing",
+            "Recommendation": "For intermediate-high risk patients with stable chest pain and no known CAD, CCTA is effective for diagnosis of CAD, risk stratification, and guiding treatment decisions.",
+            "COR": "1",
+            "LOE": "A"
+          },
+          {
+            "Type": "Index Diagnostic Testing - Stress Testing",
+            "Recommendation": "For intermediate-high risk patients with stable chest pain and no known CAD, stress imaging (Stress echocardiography, PET/SPECT MPI or CMR) is effective for diagnosis of myocardial ischemia and estimating risk of MACE.",
+            "COR": "1",
+            "LOE": "B-R"
+          },
+          {
+            "Type": "Index Diagnostic Testing - Stress Testing",
+            "Recommendation": "For patients for whom rest/stress nuclear MPI is selected, PET is preferred over SPECT to improve diagnostic accuracy and decrease non-diagnostic test results.",
+            "COR": "2a",
+            "LOE": "B-R"
+          },
+          {
+            "Type": "Index Diagnostic Testing - Stress Testing",
+            "Recommendation": "For patients with an interpretable ECG and ability to exercise \u22655 METs, exercise electrocardiography is reasonable.",
+            "COR": "2a",
+            "LOE": "B-R"
+          },
+          {
+            "Type": "Index Diagnostic Testing - Stress Testing",
+            "Recommendation": "For patients selected for stress MPI using SPECT, use of attenuation correction or prone imaging may decrease false-positive findings.",
+            "COR": "2b",
+            "LOE": "B-NR"
+          },
+          {
+            "Type": "Assessment of Left Ventricular Function",
+            "Recommendation": "For patients with pathological Q waves, heart failure signs, complex ventricular arrhythmias, or unclear diagnosis, TTE is effective for diagnosing resting left ventricular function and myocardial, valvular, and pericardial abnormalities.",
+            "COR": "1",
+            "LOE": "B-NR"
+          },
+          {
+            "Type": "Sequential or Add-on Testing",
+            "Recommendation": "For known stenosis of 40% to 90% in coronary segment on CCTA, FFR-CT can help diagnose vessel-specific ischemia and guide use of coronary revascularization.",
+            "COR": "2a",
+            "LOE": "B-NR"
+          },
+          {
+            "Type": "Sequential or Add-on Testing",
+            "Recommendation": "For patients after an inconclusive or abnormal exercise ECG or stress imaging study, CCTA is reasonable.",
+            "COR": "2a",
+            "LOE": "B-NR"
+          },
+          {
+            "Type": "Sequential or Add-on Testing",
+            "Recommendation": "For patients undergoing stress testing, the addition of CAC testing can be useful.",
+            "COR": "2a",
+            "LOE": "B-NR"
+          },
+          {
+            "Type": "Sequential or Add-on Testing",
+            "Recommendation": "For patients with stable chest pain after inconclusive CCTA, stress imaging is reasonable.",
+            "COR": "2a",
+            "LOE": "B-NR"
+          },
+          {
+            "Type": "Sequential or Add-on Testing",
+            "Recommendation": "For patients with stable chest pain after a negative stress test but with high suspicion of CAD, CCTA or ICA may be reasonable.",
+            "COR": "2b",
+            "LOE": "C-EO"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "The diagnostic evaluation of patients with no known CAD who are at intermediate to high risk should be guided by availability of high-quality imaging and expertise. CCTA is preferable in those under 65 and not on preventive therapies, while stress testing may benefit those over 65. CCTA has higher diagnostic sensitivity for CAD detection compared with stress testing. Randomized trials showed CCTA offers similar event rates as stress testing over short-term follow-up.",
+        "Imaging Considerations": "Patient characteristics like obesity can influence the choice of diagnostic tests. The importance of exercise testing and its benefits in specific situations were highlighted.",
+        "Noninvasive Stress Testing": "The effectiveness of stress testing, especially stress echocardiography, has been shown in large trials. There are differences in outcomes based on the type of testing, like PET and CMR, compared to CCTA.",
+        "Randomized Trials": "Multiple trials highlighted the comparative effectiveness of different testing approaches for outcomes like death, MI, emergency coronary procedures, etc."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "PET and SPECT": "PET has improved diagnostic and prognostic performance, especially with quantitative assessment of MBF. It provides higher diagnostic accuracy compared to other stress test modalities.",
+        "Diagnostic Accuracy": "Exercise ECG has lower diagnostic accuracy than stress imaging but remains useful prognostically. In the WOMEN trial, exercise ECG was effective, showing similar 2-year CAD event rates to SPECT MPI.",
+        "Exercise Risks": "Failure in certain exercise protocols can increase CAD event risk. High Duke or Lauer scores signify increased risk.",
+        "Imaging Techniques": "Use of attenuation correction algorithms can reduce MPI artifacts.",
+        "Assessment of Left Ventricular Function": "TTE is supported for evaluating regional and global left ventricular function, especially in high-risk patients.",
+        "FFR-CT Use": "Supported for its diagnostic accuracy. It guides clinical decision-making and is safe for determining coronary revascularization.",
+        "CCTA After Stress Testing": "CCTA can diagnose or exclude obstructive CAD and identify patients for ICA referral.",
+        "CAC Addition": "Improves risk assessment, reduces diagnostic uncertainty, and helps detect atherosclerotic plaque.",
+        "Further Stress Imaging": "After exercise ECG, further stress imaging is supported for better diagnostic accuracy.",
+        "Symptomatic Patients": "CCTA or invasive coronary angiography can help detect obstructive CAD and reduce diagnostic uncertainty."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Clinical Decision Pathway for Patients With Stable Chest Pain and No Known CAD",
+        "Key Points": [
+          "Clinical risk is assessed to determine if patients are low risk or intermediate/high risk.",
+          "For low-risk patients, no testing is recommended, but CAC or exercise ECG testing may be considered in selected cases.",
+          "Intermediate/high-risk patients may undergo CCTA, stress testing (CMR, PET, SPECT, or echocardiography), or exercise ECG depending on various factors.",
+          "Patients with inconclusive test results may need further assessment for mild or moderate-severe ischemia.",
+          "Based on test results, CAD is categorized as no CAD, nonobstructive CAD, or obstructive CAD, dictating further management such as FFR-CT or invasive coronary angiography.",
+          "Preventive therapies are optimized based on ischemia severity and persistence of symptoms."
+        ],
+        "Testing Options": [
+          "CCTA (Coronary CT Angiography)",
+          "Stress Testing (CMR, PET, SPECT, or Echocardiography)",
+          "Exercise ECG",
+          "FFR-CT (Fractional Flow Reserve with CT)"
+        ],
+        "Decision Factors": {
+          "Risk Assessment": "Clinical risk guides testing strategy.",
+          "FFR-CT": "Used for 40%-90% stenosis or moderate-severe ischemia.",
+          "High-risk CAD": "Characterized by significant left main or vessel disease."
+        },
+        "Follow-up": "Based on initial test results, symptoms, and their persistence or worsening."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "5.2 Patients With Known CAD Presenting With Stable Chest Pain",
+        "recommendations": [
+          {
+            "for": "patients with obstructive CAD and stable chest pain",
+            "recommendation": "it is recommended to optimize GDMT"
+          },
+          {
+            "for": "patients with known nonobstructive CAD and stable chest pain",
+            "recommendation": "it is recommended to optimize preventive therapies"
+          }
+        ],
+        "synopsis": {
+          "clinician_action": "Clinicians should opt to intensify GDMT first if there is an opportunity.",
+          "current_guidelines": "No current guidelines for nonobstructive CAD; adhere to CV prevention guidelines."
+        },
+        "recommendation_support": [
+          {
+            "organization": "ACC/AHA",
+            "action": "Recommend optimization of anti-ischemic and preventive therapies for CAD risk factors",
+            "goal": "Reduce angina burden and improve clinical outcomes"
+          }
+        ],
+        "anatomic_testing": [
+          {
+            "for": "patients with obstructive CAD and stable chest pain despite GDMT and moderate-severe ischemia",
+            "recommendation": "ICA recommended for guiding therapeutic decision-making"
+          },
+          {
+            "for": "patients with obstructive CAD with stable chest pain and no prior stress testing",
+            "recommendation": "ICA benefits from FFR or instantaneous wave free ratio"
+          },
+          {
+            "for": "symptomatic patients with CCTA-defined stenosis",
+            "recommendation": "ICA recommended for guiding therapeutic decision-making"
+          },
+          {
+            "for": "patients with previous coronary revascularization",
+            "recommendation": "CCTA reasonable for evaluating bypass graft or stent patency"
+          }
+        ],
+        "stress_testing": [
+          {
+            "for": "patients with stable chest pain despite optimal GDMT",
+            "recommendation": "stress PET/SPECT MPI, CMR or echocardiography for diagnosis"
+          },
+          {
+            "for": "selected for rest/stress nuclear MPI",
+            "recommendation": "PET preferable to SPECT for better diagnostic accuracy"
+          },
+          {
+            "for": "exercising treadmill testing",
+            "recommendation": "assess symptoms, evaluate capacity, select management"
+          },
+          {
+            "for": "undergoing stress PET MPI or stress CMR",
+            "recommendation": "addition of MBFR improves diagnostic accuracy and risk stratification"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Synopsis": "In patients with known CAD, physicians should opt to intensify guideline-directed medical therapy (GDMT) first, when possible, and defer testing. For those with a history of obstructive CAD, previous AMI, or prior coronary revascularization, assessing ischemia severity can guide clinical decisions on ICA and anti-ischemic therapy. Imaging is advised in cases with new or persistent stable chest pain. Referral to ICA or CCTA is possible for frequent angina or severe stress-induced ischemia. Exercise treadmill testing can assess functional capacity and inform decisions regarding coronary revascularization, cardiac rehabilitation, or antianginal therapy.",
+        "Clinical Pathway": [
+          {
+            "Condition": "Nonobstructive CAD (<50% stenosis)",
+            "Action": "Intensification of preventive strategies and defer testing. Use CCTA & FFR-CT for 40%-90% stenosis or stress testing. If FFR-CT <0.8, consider moderate-severe ischemia. Pathway branches into NO (using ICA pathway) or YES (invasive coronary angiography)."
+          },
+          {
+            "Condition": "Obstructive CAD (\u226550% stenosis)",
+            "Action": "Evaluate adequacy of GDMT, and intensify GDMT if needed. For high-risk CAD or frequent angina, invasive coronary angiography or FFR/IFR may be used. For moderate/severe, mild, or no ischemia, follow GDMT according to the SIHD guideline."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "recommendations": [
+          "SHD randomized trials show PCI results in angina improvement compared to medical therapy.",
+          "Coronary revascularization in obstructive CAD improves event-free survival.",
+          "CTCA is useful for assessing native and bypass graft patency with high accuracy and can determine CAD progression.",
+          "Stress CMR effectively risk stratifies patients with known CAD.",
+          "PET MPI shows improved diagnostic accuracy for patients with known CAD compared to SPECT MPI."
+        ],
+        "study findings": [
+          "The ISCHEMIA trial showed no difference in primary MACE endpoint with invasive versus conservative care.",
+          "Coronary revascularization improves outcomes in patients presenting with obstructive CAD on stress testing.",
+          "CTCA has high concordance with CCTA and ICA-determined obstructive CAD.",
+          "A multicenter registry showed abnormal stress CMR increases mortality risk.",
+          "Bias in stress echocardiography wall motion scores between PCI and placebo groups in recent trials detected."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "topic": "Recommendations for patients with prior Coronary Artery Bypass Grafting (CABG) surgery presenting with stable chest pain.",
+        "recommendations": [
+          {
+            "COR": 1,
+            "LOE": "C-LD",
+            "description": "For patients with prior CABG surgery and stable chest pain with noninvasive stress test results showing moderate-to-severe ischemia, invasive coronary angiography (ICA) is recommended for guiding therapeutic decision-making."
+          },
+          {
+            "COR": 2,
+            "LOE": "C-LD",
+            "description": "For patients with prior CABG surgery with suspected myocardial ischemia, it is reasonable to perform stress imaging or coronary computed tomography angiography (CCTA) to evaluate for ischemia or graft stenosis/occlusion."
+          }
+        ],
+        "synopsis": {
+          "summary": "Patients with prior CABG should optimize medical therapies. ICA can be useful when symptoms persist after optimizing therapies. Noninvasive imaging is also helpful. Stress imaging is crucial for assessing myocardial ischemia, with attention to high-risk features."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "evaluation": "Guidelines focus on evaluation of bypass grafts and coronary vessel stenosis in patients with stable chest pain.",
+        "recommendations": [
+          {
+            "type": "Anatomic Testing",
+            "class": "2a",
+            "level_of_evidence": "B-NR",
+            "recommendation": "For symptomatic patients with known nonobstructive CAD who have stable chest pain, CCTA is reasonable for determining atherosclerotic plaque burden and progression to obstructive CAD."
+          },
+          {
+            "type": "Anatomic Testing",
+            "class": "2a",
+            "level_of_evidence": "B-NR",
+            "recommendation": "For patients with known coronary stenosis from 40% to 90% on CCTA, FFR can be useful for diagnosis of vessel-specific ischemia."
+          },
+          {
+            "type": "Stress Testing",
+            "class": "2a",
+            "level_of_evidence": "C-LD",
+            "recommendation": "For patients with extensive nonobstructive CAD, stress imaging (PET/SPECT, CMR, or echocardiography) is reasonable for the diagnosis of myocardial ischemia."
+          }
+        ],
+        "synopsis": "Patients with nonobstructive CAD should be evaluated for the detection of new or worsening obstructive stenosis and atherosclerotic disease progression.",
+        "additional_information": "High-risk atherosclerotic plaque features are associated with an elevated MACE risk."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The guideline discusses recommendations for patients with persistent stable chest pain and non-obstructive coronary artery disease (CAD), focusing on microvascular dysfunction. Various diagnostic and therapeutic measures are recommended to improve diagnosis and management, including coronary reactivity testing, PET MPI with MBFR, stress CMR with MBFR, and echocardiography with coronary flow velocity reserve measurement. The importance of addressing coronary microvascular dysfunction and abnormalities is emphasized, with significant evidence supporting various interventions.",
+        "recommendations": [
+          {
+            "COR": "2a",
+            "LOE": "B-NR",
+            "Recommendation": "Consider invasive coronary function testing for persistent stable chest pain and nonobstructive CAD to improve diagnosis of coronary microvascular dysfunction and enhance risk stratification."
+          },
+          {
+            "COR": "2a",
+            "LOE": "B-NR",
+            "Recommendation": "Use stress PET MPI with MBFR for persistent stable chest pain and nonobstructive CAD to diagnose microvascular dysfunction."
+          },
+          {
+            "COR": "2a",
+            "LOE": "B-NR",
+            "Recommendation": "Use stress CMR with MBFR for persistent stable chest pain and nonobstructive CAD to improve the diagnosis of coronary myocardial dysfunction."
+          },
+          {
+            "COR": "2b",
+            "LOE": "C-EO",
+            "Recommendation": "Consider stress echocardiography with coronary flow velocity reserve measurement for persistent stable chest pain and nonobstructive CAD."
+          }
+        ],
+        "key_points": [
+          "INOCAs lead to ischemia due to microvascular issues rather than obstructive causes.",
+          "Patients with history of risk factors like hypertension, diabetes, should be assessed for microvascular dysfunction.",
+          "Interventional approach includes anti-ischemic therapy with beta-blockers, ACE inhibitors, statins, and lifestyle changes."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Clinical Decision Pathway for INOCA",
+        "Context": "The guideline outlines a clinical decision pathway for patients with stable chest pain suspected of having INOCA (ischemia with no obstructive coronary artery disease). It emphasizes noninvasive testing as more prevalent, while invasive assessments are more comprehensive. The decision path includes coronary function testing and categorizes patients by risk based on ischemia and myocardial blood flow reserve results.",
+        "Testing Recommendations": [
+          "Invasive coronary function testing for nonobstructive CAD with FFR > 0.8.",
+          "Assessment of coronary microvascular dysfunction using stress PET/CMR with MBFR or stress echocardiography with CFVR."
+        ],
+        "Outcomes": [
+          "Identifies various outcomes such as noncardiac, vasospasm, coronary microvascular dysfunction (CMD), low risk for cardiovascular events, and elevated risk for major adverse cardiovascular events (MACE).",
+          "Patients are classified based on indicators like epicardial artery spasm, index of microcirculatory restriction (IMR), and myocardial blood flow reserve (MBFR)."
+        ],
+        "Risk Factors": [
+          "Diabetes",
+          "Hypertension",
+          "Left ventricular hypertrophy",
+          "Small coronary vessel size or lumen volume",
+          "Infiltrative heart disease"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Cost-Value Considerations in Diagnostic Testing": "Layered testing leads to higher costs, so the test most likely to answer the question should be chosen.",
+        "CCTA and CAC Scanning Cost-Value Considerations": "In outpatient settings, long-term costs of CCTA and stress testing are similar, with invasive angiography rates after CCTA being higher. CONVERSE trial data showed CCTA-guided testing was cheaper than direct referral.",
+        "Exercise Electrocardiographic Cost-Value Considerations": "Exercise ECG may offset reduced diagnostic accuracy and is cheaper compared to stress echocardiography.",
+        "Stress Echocardiographic Cost-Value Considerations": "Stress echocardiography is shown to be cost-effective in patients at intermediate pretest risk, offering improved office and ED visit reductions.",
+        "Stress Nuclear MPI Cost-Value Considerations": "Stress MPI is cost-effective for intermediate-risk patients, with specific trials like SPARC showing comparability in mortality rates with CCTA and lower costs compared to SPECT MPI."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Stress CMR Cost-Value Considerations": {
+          "Summary": "CMR perfusion and scar imaging show a favorable cost-effectiveness ratio. The CE-MARC trial demonstrated higher cost-effectiveness for CMR compared to stress MPI due to diagnostic accuracy. The most cost-effective method was stress CMR followed by invasive angiography.",
+          "Decision Model": "A strategy of CMR followed by selective ICA reduces costs by ~25% in intermediate-risk patients compared to direct referral to ICA.",
+          "US Registry": "The Stress CMR Perfusion Imaging registry reports favorable outcomes for patients with negative findings for ischemia and scar.",
+          "Testing Considerations": "Additional testing is recommended for abnormal or inconclusive findings."
+        },
+        "Evidence Gaps and Future Research": {
+          "Chest Pain Symptoms": "Research is needed to better understand chest pain symptoms and improve their diagnosis.",
+          "ACS": "Success in reducing door-to-balloon times for STEMI, but symptom onset to presentation time remains an area of need.",
+          "INOCAs": "Clarification needed in diagnosis and management of INOCAs and MINOCA.",
+          "Symptom Classification": "Research on symptom clusters and CAD probability models.",
+          "Clinical Risk Tools": "Incorporation into electronic health records and testing in trials are recommended.",
+          "hs-cTn Assays": "Current global standard for myocardial injury identification."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2021 Chest Pain Guideline",
+        "Journal": "JACC Vol. 78, No. 22, 2021",
+        "Date": "November 30, 2021",
+        "Authors": [
+          "Gulati et al."
+        ],
+        "Organizations": [
+          "American College of Cardiology",
+          "American Heart Association"
+        ],
+        "Staff": [
+          {
+            "Name": "Dipti N. Itchhaporia, MD, FACC",
+            "Title": "President",
+            "Organization": "American College of Cardiology"
+          },
+          {
+            "Name": "Cathleen C. Gates",
+            "Title": "Chief Executive Officer",
+            "Organization": "American College of Cardiology"
+          },
+          {
+            "Name": "MaryAnne Elma, MPH",
+            "Title": "Senior Director, Enterprise Content and Digital Strategy",
+            "Organization": "American College of Cardiology"
+          },
+          {
+            "Name": "Timothy W. Schutt, MA",
+            "Title": "Clinical Practice Guidelines Analyst",
+            "Organization": "American College of Cardiology"
+          },
+          {
+            "Name": "Grace D. Ronan",
+            "Title": "Team Leader, Clinical Policy Publications",
+            "Organization": "American College of Cardiology/American Heart Association"
+          },
+          {
+            "Name": "Thomas S.D. Getchius",
+            "Title": "Director, Guideline Strategy and Operations",
+            "Organization": "American College of Cardiology/American Heart Association"
+          },
+          {
+            "Name": "Abdul R. Abdullah, MD",
+            "Title": "Director, Guideline Science and Methodology",
+            "Organization": "American College of Cardiology"
+          },
+          {
+            "Name": "Hannah Planalp",
+            "Title": "Guideline Advisor",
+            "Organization": "American Heart Association"
+          },
+          {
+            "Name": "Zainab Shipchandler, MPH",
+            "Title": "Guideline Advisor",
+            "Organization": "American Heart Association"
+          },
+          {
+            "Name": "Mitchell S.V. Elkind, MD, MS, FAAN, FAHA",
+            "Title": "President",
+            "Organization": "American Heart Association"
+          },
+          {
+            "Name": "Nancy Brown",
+            "Title": "Chief Executive Officer",
+            "Organization": "American Heart Association"
+          },
+          {
+            "Name": "Mariell Jessup, MD, FAHA",
+            "Title": "Chief Science and Medical Officer",
+            "Organization": "American Heart Association"
+          },
+          {
+            "Name": "Radhika Rajagopal Singh, PhD",
+            "Title": "Senior Vice President, Office of Science and Health",
+            "Organization": "American Heart Association"
+          },
+          {
+            "Name": "Paul St. Laurent, DNP, RN",
+            "Title": "Senior Science and Medicine Advisor, Office of Science, Medicine and Health",
+            "Organization": "American Heart Association"
+          },
+          {
+            "Name": "Jody Hundley",
+            "Title": "Production and Operations Manager, Scientific Publications, Office of Science Operations",
+            "Organization": "American Heart Association"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2021 Chest Pain Guideline",
+        "Reference": "JACC Vol. 78, No. 22, 2021 November 30, 2021:e187\u2013e285",
+        "Institutions Involved": [
+          "American College of Cardiology",
+          "American Heart Association Task Force",
+          "American College of Physicians",
+          "American Association for Thoracic Surgery",
+          "Preventive Cardiovascular Nurses Association",
+          "Society for Cardiovascular Angiography and Interventions",
+          "Society of Thoracic Surgeons",
+          "Heart Rhythm Society",
+          "American Heart Association",
+          "Society for Cardiovascular Angiography and Interventions",
+          "Society of Thoracic Surgeons"
+        ],
+        "Important Guidelines and Reports": [
+          {
+            "Title": "AHA/ACC/HRS guideline for the management of patients with atrial fibrillation",
+            "Year": "2014",
+            "Journal": "J Am Coll Cardiol",
+            "Volume": 64,
+            "Pages": "e1-e76"
+          },
+          {
+            "Title": "AHA/ACC/HRS focused update of the 2014 AHA/ACC/HRS guideline for the management of patients with atrial fibrillation",
+            "Year": "2019",
+            "Journal": "J Am Coll Cardiol",
+            "Volume": 74,
+            "Pages": "104-132"
+          },
+          {
+            "Title": "AHA/ACC guideline for the management of patients with non-ST-elevation acute coronary syndromes",
+            "Year": "2014",
+            "Journal": "J Am Coll Cardiol",
+            "Volume": 64,
+            "Pages": "e139-e228"
+          },
+          {
+            "Title": "AHA/ACC/AAPA/PCNA/GCR/AGS/APhA/ASPC/NLA/SPCNA guideline on the management of blood cholesterol",
+            "Year": "2018",
+            "Journal": "J Am Coll Cardiol",
+            "Volume": 73,
+            "Pages": "e285-e350"
+          },
+          {
+            "Title": "AHA/ACC guideline for the management of heart failure",
+            "Year": "2013",
+            "Journal": "J Am Coll Cardiol",
+            "Volume": 62,
+            "Pages": "e147-e239"
+          }
+        ],
+        "Recent Developments": [
+          {
+            "Focus": "Primary prevention of cardiovascular disease",
+            "Year": "2019",
+            "Journal": "J Am Coll Cardiol",
+            "Volume": 74,
+            "Pages": "e177-e232"
+          },
+          {
+            "Focus": "Management of bleeding in patients on oral anticoagulants",
+            "Year": "2020",
+            "Volume": 140,
+            "Pages": "e583-e651"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Scope of the Problem": [
+          "National Hospital Ambulatory Medical Care Survey data on emergency department summary tables were reviewed to understand chest pain statistics.",
+          "Important studies and statistics were compiled from various reports to highlight trends in cardiovascular diseases, especially related to type 2 diabetes, influenza prevention, and gender differences in disease presentation."
+        ],
+        "Initial Evaluation": {
+          "History": [
+            "Several studies focus on the management of non-ST-elevation acute coronary syndromes (ACS) as per the American College of Cardiology guidelines.",
+            "Registry data provide insights into patients presenting with ACS symptoms and the clinical outcomes based on demographic and presentation characteristics."
+          ],
+          "Focus on Women": [
+            "Research highlights sex differences in presenting symptoms and disease management.",
+            "Multiple studies emphasize the difference in presentation and outcomes in young adults and women experiencing myocardial infarction."
+          ],
+          "Considerations for Older Patients": [
+            "The need for distinct clinical approaches in diagnosing myocardial infarction in older patients is discussed.",
+            "Differences in treatment approaches and decision-making processes are highlighted for older adults."
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Considerations for Diverse Patient Populations": [
+          "Disparities in patients presenting to the emergency department with potential acute coronary syndrome; it matters if you are Black or White.",
+          "Differences in wait time for chest pain at emergency departments between African Americans and Whites.",
+          "Racial and ethnic differences in acute coronary syndrome and myocardial infarction within the United States.",
+          "Racial and sex differences in emergency department triage assessment and test ordering for chest pain.",
+          "Hospital delay in South Asian patients with acute ST-elevation myocardial infarction.",
+          "Outcomes in South Asian and White English and Scottish patients with acute coronary syndromes."
+        ],
+        "Physical Examination": [
+          "Challenges in diagnosing acute chest pain in adults.",
+          "High risk clinical features for acute aortic dissection.",
+          "Importance of careful history taking in the clinical assessment."
+        ],
+        "Diagnostic Testing": [
+          "Utilization and impact of pre-hospital electrocardiograms for patients with acute ST-segment elevation myocardial infarction.",
+          "Association of changes in clinical characteristics with management of ST-segment-elevation myocardial infarction.",
+          "Prognosis related to underlying cause of pneumothorax requires accurate diagnosis.",
+          "Non-invasive diagnosis of venous thromboembolism in low-risk patients."
+        ],
+        "Electrocardiography": [
+          "Utility of pre-hospital electrocardiograms.",
+          "Emergent use of ST-segment elevation myocardial infarction diagnosis."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "diagnosis": "ST-elevation myocardial infarction",
+        "ST-segment regarding": "Acute myocardial infarction with isolated ST-segment elevation",
+        "electrogram use": "Utility of left bundle branch block and normal/nonspecific electrocardiograms",
+        "studies": "Prognostic value for myocardial infarction",
+        "coronary syndrome": "Acute coronary syndrome",
+        "biomarkers": "High-sensitivity troponin assays for myocardial infarction",
+        "chest radiography": "Role in diagnosing potential coronary syndrome",
+        "clinical recommendations": "American College of Cardiology guidelines for acute coronary syndrome"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "general_considerations": [
+          "The document discusses cardiac testing considerations for stable ischemic heart disease as per multiple organizations including ACCF, AHA, ASE, ASNC, HRS, etc.",
+          "Discusses changes to hospital outpatient prospective payment systems, ambulatory surgical center payment systems, and quality reporting programs."
+        ],
+        "diagnostics": [
+          "Various studies and guidelines have been referenced for the usage of high-sensitivity troponin in diagnosing myocardial infarction.",
+          "Coronary computed tomography angiography is suggested for coronary plaque identification and risk stratification of patients."
+        ],
+        "procedures": [
+          "The potential impact of anatomical testing such as coronary CT angiography is considered, especially in symptomatic patients for coronary artery disease."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2021 Chest Pain Guideline",
+        "section_3.2": "Diagnostic Testing",
+        "subsection_3.2.1": "Exercise ECG",
+        "subsection_3.2.2": "Echocardiography/Stress Echocardiography",
+        "subsection_3.2.3": "Stress Nuclear (PET or SPECT) Myocardial Perfusion Imaging",
+        "subsection_3.2.4": "Cardiovascular Magnetic Resonance Imaging",
+        "references": "Numerous studies and guidelines referenced, including sources like American Heart Association and American College of Cardiology."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          {
+            "title": "Patients with Acute Chest Pain and Suspected ACS (Not Undergoing STEMI)",
+            "details": [
+              {
+                "study": "Apple FS, Jesse RL, Newby LK, et al.",
+                "findings": "National academy of clinical biochemistry and IFCC committee have standardized the markers of cardiac damage laboratory medicine practice guidelines; analytical issues for biochemical markers of acute coronary syndromes.",
+                "year": "2007"
+              },
+              {
+                "study": "Bandstein N, Ljung R, Johansson M, et al.",
+                "findings": "Undetectable high-sensitivity cardiac troponin T level in the emergency department and risk of myocardial infarction.",
+                "year": "2014"
+              },
+              {
+                "study": "Bodty B, Burrows G, Carley S, et al.",
+                "findings": "High-sensitivity cardiac troponin T concentrations below the limit of detection to exclude acute myocardial infarction \u2013 a prospective evaluation.",
+                "year": "2016"
+              },
+              {
+                "study": "Body R, Carley S, McDowell G, et al.",
+                "findings": "Application to exclude myocardial infarction in patients with undetectable troponin using a high-sensitivity assay.",
+                "year": "2011"
+              },
+              {
+                "study": "Chapman AR, Anand A, Boeddinghaus J, et al.",
+                "findings": "Comparison of the efficacy and safety of early rule-out pathways for acute myocardial infarction.",
+                "year": "2017"
+              },
+              {
+                "study": "Thygesen K, Alpert JS, Jaffe AS, et al.",
+                "findings": "Universal definition of myocardial infarction.",
+                "year": "2018"
+              },
+              {
+                "study": "Twerenbold R, Boeddinghaus J, Nestelberger T, et al.",
+                "findings": "Clinical use of high-sensitivity cardiac troponin in patients with suspected myocardial infarction.",
+                "year": "2017"
+              },
+              {
+                "study": "Neumann JT, S\u00f6rensen NA, Scheitz JF, et al.",
+                "findings": "Diagnosing myocardial infarction in patients with non-diagnostic high-sensitivity troponin T concentrations.",
+                "year": "2018"
+              },
+              {
+                "study": "Than M, Cullen L, Aldous S, et al.",
+                "findings": "2-Hour accelerated diagnostic protocol to assess patients with chest pain symptoms using contemporary troponins as the only biomarker.",
+                "year": "2012"
+              }
+            ]
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "TNNT2",
+          "Associated Conditions": [
+            "myocardial infarction"
+          ],
+          "Occurrences": 1,
+          "context": "Undetectable high-sensitivity cardiac troponin T level in the emergency department and risk of myocardial infarction."
+        },
+        {
+          "Gene": "TNNI3",
+          "Associated Conditions": [
+            "myocardial infarction"
+          ],
+          "Occurrences": 1,
+          "context": "High-sensitivity cardiac troponin concentrations below the limit of detection to exclude acute myocardial infarction."
+        },
+        {
+          "Gene": "ACTC1",
+          "Associated Conditions": [
+            "myocardial infarction"
+          ],
+          "Occurrences": 1,
+          "context": "Universal definition of myocardial infarction."
+        }
+      ]
+    },
+    {
+      "content": {
+        "guideline_year": 2021,
+        "focus": "Chest Pain Management",
+        "main_topics": [
+          "Use of high-sensitivity troponin assays",
+          "Risk stratification in acute chest pain",
+          "Emergency department protocols for myocardial infarction",
+          "Cost-value considerations in diagnostic pathways"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guidelines": [
+          {
+            "title": "2021 Chest Pain Guideline",
+            "focus": "Systematic evaluation of diagnostic strategies for acute chest pain using various methodologies including CT angiography, biomarkers, and scoring systems.",
+            "recommendation": "Different diagnostic modalities and strategies should be evaluated for cost-effectiveness and patient impact in emergency settings.",
+            "methods_reviewed": [
+              "CT coronary angiography",
+              "Ultrasound",
+              "High-sensitivity troponin assays",
+              "Emergency observation units",
+              "Risk assessment models"
+            ],
+            "randomized_controlled_trials": [
+              {
+                "reference": "Amsterdam et al., 2014",
+                "description": "Highlights a clinical guideline focusing on management of patients with non-ST-segment elevation acute coronary syndromes."
+              },
+              {
+                "reference": "Miller et al., 2013",
+                "description": "Evaluated long-term outcomes associated with different coronary CT angiography strategies."
+              },
+              {
+                "reference": "Douglas et al., 2015",
+                "description": "ACC/AHA appropriate use criteria for cardiovascular imaging."
+              }
+            ]
+          }
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "MPO",
+          "Associated Conditions": [
+            "acute coronary syndrome"
+          ],
+          "Occurrences": 1,
+          "context": "The guideline mentions studies evaluating the diagnostic utility of various biomarkers, including MPO, in acute coronary syndrome."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Clinical guidelines involve the use of stress imaging, computed tomography angiography (CTA), and cardiac magnetic resonance (CMR) for patients with acute chest pain and suspected coronary syndromes. The guidelines discuss various studies comparing these diagnostic modalities and their effectiveness in assessing chest pain in low to intermediate-risk patients. Some of the shown trials and studies demonstrate the utility of these imaging techniques in reducing unnecessary admissions and improving patient care by identifying those with significant coronary artery disease accurately.": "genes",
+        "": "[]"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "1.1.2.1. Cost-Value Considerations": [
+          "The importance of immediate stress echocardiography for low-risk chest pain patients in the emergency department is highlighted.",
+          "Comparisons of stress echocardiography versus myocardial perfusion imaging in patients presenting to the emergency department with low-risk chest pain are discussed.",
+          "The use of coronary computed tomography angiography for acute chest pain evaluation is addressed.",
+          "The effectiveness of diagnostic strategies for suspected acute coronary syndrome is systematically reviewed."
+        ],
+        "1.4.1.2. Intermediate-Risk Patients With Acute Chest Pain and Known CAD": [
+          "Outcomes after coronary computed tomography angiography in the emergency department, a systematic review and meta-analysis, are discussed.",
+          "High-risk plaque detection on coronary CT angiography predicts acute coronary syndromes independent of significant stenosis.",
+          "The role of coronary-atherosclerotic precursors of acute coronary syndromes is highlighted.",
+          "Outcomes of fractional flow reserve by computed tomography\u2013guided diagnostic strategies in patients with stable coronary artery disease are presented."
+        ],
+        "1.4.1.3. High-Risk Patients With Acute Chest Pain": [
+          "Multinational study results on the use of early computed tomography perfusion imaging to improve the early hospital discharge for acute myocardial infarction are shared."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_overview": "The document is associated with clinical guidelines primarily focused on strategies for managing patients with various cardiovascular conditions and procedures. It involves criteria for myocardial infarction without obstructive coronary artery disease, the use of coronary computed tomography, and risk stratification in patients with coronary artery disease."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline_title": "Chest Pain Guidelines",
+        "publication_info": "JACC Vol. 78, No. 22, 2021",
+        "date": "November 30, 2021",
+        "overview": [
+          "Evaluation of Acute Chest Pain in Patients with Cocaine and Methamphetamine Use is discussed with reference to the risk of coronary syndromes.",
+          "Shared decision-making is emphasized in the management of patients with acute chest pain.",
+          "Analysis of electrocardiography in detecting methamphetamine-related cardiac pathology.",
+          "Guidelines for managing patients with non-ST-elevation acute coronary syndromes (NSTE-ACS) are described.",
+          "Management of patients with suspected acute aortic syndrome includes consensus statements about imaging methods like echocardiography and computed tomography."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          "Acute Chest Pain with Suspected PE",
+          "Acute Chest Pain with Suspected Myopericarditis",
+          "Evaluation of Acute Chest Pain with Suspected Neocardiac Causes",
+          "Evaluation of Acute Chest Pain with Suspected Gastrointestinal Syndromes"
+        ],
+        "highlights": [
+          "Diagnosis and management of patients with suspected nonobstructive coronary arteries.",
+          "Clinical recommendations for various cardiovascular-related diseases.",
+          "Evaluation of patients with suspected acute pulmonary embolism."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Evaluation of Acute Chest Pain with Consideration of Other Psychosomatic Conditions": {
+          "Studies on panic disorder and its prevalence and outcomes in patients with non-cardiac chest pain suggest psychoneurological implications. References are made to anxiety, stress, and psychological interventions being considered in managing low-risk chest pain patients.": {
+            "Evaluation of Patients with Stable Chest Pain": {
+              "Patients with no known CAD are assessed, considering stress test probability. Studies show the impact of heart-focused anxiety and examining symptoms in the context of coronary artery disease prediction and management.": {
+                "Acute Chest Pain in Patients with Sickle Cell Disease": {
+                  "Sickle Cell Disease is associated with various cardiac risks including myocardial infarction, with considerations for mortality and disease management outcomes.": {},
+                  "genes": []
+                }
+              }
+            }
+          }
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "2021 Chest Pain Guideline",
+        "source": "JACC Vol. 78, No. 22, Part 2, November 30, 2021",
+        "description": "The clinical guidelines provide insights into the management and assessment of chest pain, focusing on the diagnosis of cardiac-related conditions, the evaluation of obstructive coronary artery disease (CAD), and the use of various diagnostic tools and tests.",
+        "sections": [
+          {
+            "section": "13",
+            "topic": "Guidelines and Recommendations",
+            "details": "Focuses on the American College of Cardiology, the American Heart Association, and other similar bodies providing guidance on the assessment of chest pain in stable ischemic heart disease."
+          },
+          {
+            "section": "5.1.4",
+            "topic": "Intermediate-High Risk Patients",
+            "details": "Discusses advanced imaging techniques such as CT angiography for better assessment and diagnosis of coronary artery disease."
+          }
+        ],
+        "clinical_trials": [
+          {
+            "trial_name": "PROMISE",
+            "description": "A trial to test the efficacy of non-invasive testing on suspected CAD patients, focusing on functional versus anatomical testing."
+          },
+          {
+            "trial_name": "SCOT-HEART",
+            "description": "Focused on using advanced imaging like CT angiography in patients with suspected coronary disease."
+          }
+        ],
+        "diagnostic_methods": [
+          "Coronary CT angiography",
+          "Myocardial perfusion imaging",
+          "Exercise stress testing"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": "The clinical guidelines discuss various imaging techniques such as myocardial perfusion SPECT, cardiac magnetic resonance imaging, and CT angiography for diagnosing and prognosticating coronary artery disease (CAD). It includes evaluations of different trials and studies that assess the effectiveness of these imaging methods in diagnosing CAD and predicting outcomes in patients with chest pain.",
+        "Imaging Techniques": [
+          "Myocardial perfusion SPECT",
+          "Cardiac magnetic resonance imaging (MRI)",
+          "Single-photon emission computed tomography (SPECT)",
+          "CT angiography"
+        ],
+        "Clinical Trials Mentioned": [
+          "PROMISE trial",
+          "SMART Study",
+          "CE-MARC Clinical Trial",
+          "MR-IMPACT II",
+          "FAME 2 trial",
+          "FRISC-II trial",
+          "MARK-2 randomized trial",
+          "PLATFORM study",
+          "ADVANCE registry"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline": "2021 Chest Pain Guideline",
+        "Source": "JACC VOL. 78, NO. 22, 2021",
+        "Pages": "November 30, 2021:e187\u2013e285",
+        "General Topic": "Diagnosis and management of chest pain"
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guidelines": [
+          {
+            "section": "Patients With Known CAD Presenting With Stable Chest Pain",
+            "studies": [
+              {
+                "author": "Boden WE, O'Rourke RA, Teo KK, et al.",
+                "study": "Optimal medical therapy with or without PCI for stable coronary disease.",
+                "journal": "N Engl J Med",
+                "year": 2007,
+                "pages": "356:1503-1516"
+              },
+              {
+                "author": "BARI 2D Study Group, Frye RL, August P, et al.",
+                "study": "A randomized trial of therapies for type 2 diabetes and coronary artery disease.",
+                "journal": "N Engl J Med",
+                "year": 2009,
+                "pages": "360:2503-2515"
+              }
+            ]
+          },
+          {
+            "section": "Patients With Obstructive CAD Who Present With Stable Chest Pain",
+            "procedures": [
+              {
+                "name": "Medical Therapy",
+                "details": "Optimal medical therapy with or without PCI for stable coronary disease."
+              },
+              {
+                "name": "BARI 2D Study",
+                "details": "A randomized trial of therapies for type 2 diabetes and coronary artery disease."
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_studies": [
+          {
+            "reference": 17,
+            "summary": "Coronary artery disease assessment before and after successful stent implantation can be improved by stress imaging results."
+          },
+          {
+            "reference": 19,
+            "summary": "Baseline stress myocardial perfusion imaging results and outcomes in stable ischemic heart disease patients who received coronary intervention."
+          },
+          {
+            "reference": 20,
+            "summary": "Ischemia on PET MPI is linked to improvement in angina and health status post-revascularization."
+          }
+        ],
+        "diagnostics": [
+          {
+            "reference": 29,
+            "summary": "Stress perfusion CMR is effective in patients with suspected CAD."
+          },
+          {
+            "reference": 37,
+            "summary": "PET MPI and its effectiveness in diagnosing CAD and its patterns."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "guideline": "The image contains clinical guidelines regarding various studies and recommendations on coronary artery disease, revascularization procedures, and related diagnostic techniques.",
+        "focus": "The document primarily addresses coronary artery disease, diagnostic approaches such as CT angiography, and the effectiveness of different revascularization interventions.",
+        "sections": [
+          {
+            "number": "5.2.1.1",
+            "title": "Patients With Prior Coronary Artery Bypass With Stable Chest Pain",
+            "details": "This section refers to guidelines for diagnosis and management of patients with stable ischemic heart disease with prior coronary artery bypass surgery."
+          },
+          {
+            "number": "5.2.2",
+            "title": "Patients With Known Nonobstructive CAD Presenting With Stable Chest Pain",
+            "details": "Discusses the use of various imaging and diagnostic tests in managing stable chest pain in patients with known nonobstructive coronary artery disease."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guidelines": [
+          "Diagnosis and management of patients with stable ischemic heart disease, including coronary angiography and imaging.",
+          "Evaluation and management strategies for myocardial perfusion and coronary flow reserve.",
+          "Risk stratification for ischemic heart disease using various imaging techniques like FFRCT, CCTA, and MRI.",
+          "Best practices for invasive procedures to assess ischemic heart disease.",
+          "Guidelines for managing suspected ischemia and non-obstructive CAD (INOCA)."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "2021 Chest Pain Guideline",
+        "Source": "Gulati et al., JACC Vol 78, No 22, 2021",
+        "Date": "November 30, 2021",
+        "General Information": "The guideline provides an overview of diagnostic testing and cost-value considerations for managing chest pain. It includes sections on CCTA, CAC scanning, exercise electrocardiographic tests, and stress echocardiography. The document discusses economic outcomes and the effectiveness of various diagnostic strategies for coronary artery disease."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Guideline Reference": "Gulati et al., 2021 Chest Pain Guideline",
+        "Journal": "JACC Vol. 78, No. 22, 2021",
+        "Date": "November 30, 2021",
+        "Topics Covered": [
+          "Diagnosis of coronary heart disease",
+          "Cost-effectiveness of cardiac imaging",
+          "Acute coronary syndrome evaluation",
+          "Magnetic resonance stress imaging",
+          "Gender differences in cardiac evaluation",
+          "Non-obstructive coronary artery disease (INOCA)",
+          "Machine learning in cardiac evaluation",
+          "Clinical trials related to cardiac pain"
+        ],
+        "Evidence Gaps and Future Research": [
+          "Impact of COVID-19 on medical evolution",
+          "Randomized trials of cardiac imaging"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "documentTitle": "2021 AHA/ACC/ASE/Chest/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain",
+        "sectionTitle": "Appendix 1: Author Relationships With Industry and Other Entities (Relevant)",
+        "details": "The document lists committee members and their employment along with any consultant positions, speakers bureau, ownership interests, personal research, institutional or other financial benefits, and expert witness roles."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "appendix_continued": true,
+        "committee_members": [
+          {
+            "name": "Kim K. Bircher",
+            "employment": "University of Houston College of Pharmacy\u2014Clinical Professor",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Ron Blankstein",
+            "employment": "Harvard Medical School\u2014Associate Professor of Medicine and Radiology; Brigham and Women's Hospital\u2014Associate Physician",
+            "consultant": [
+              "Amgen",
+              "Astellas Inc",
+              "EKOS Corp."
+            ],
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": [
+              "Amgen\u2020",
+              "Astellas Pharma\u2020",
+              "Gilead Sciences\u2020"
+            ],
+            "financial_benefit": [
+              "Sanofi US Services*",
+              "Sanofi-aventis\u2020"
+            ],
+            "expert_witness": "None"
+          },
+          {
+            "name": "Jack Boyd",
+            "employment": "Stanford University\u2014Clinical Assistant Professor",
+            "consultant": [
+              "Esculon/Centese",
+              "Sorin"
+            ],
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Renee P. Bullock-Palmer",
+            "employment": "Deborah Heart & Lung Center\u2014Director, Women's Heart Center",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Theresa Conejo",
+            "employment": "Nazareth Hospital\u2014Heart Failure Coordinator",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Deborah B. Diercks",
+            "employment": "UT Southwestern\u2014Professor and Chair",
+            "consultant": [
+              "ETHealthcare",
+              "Janssen Pharmaceuticals",
+              "Novartis*"
+            ],
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": [
+              "Abbott*",
+              "Bristol-Myers Squibb\u2020",
+              "Ortho Clinical\u2020",
+              "Roche\u2020",
+              "Siemens"
+            ],
+            "financial_benefit": [
+              "E.R. Squibb & Sons, L.L.C.\u2020",
+              "Konica Minolta Healthcare Americans, Inc."
+            ],
+            "expert_witness": "None"
+          },
+          {
+            "name": "Federico Gentile",
+            "employment": "Centro Cardiologico Gentile, Naples, Italy\u2014Director",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "John P. Greenwood",
+            "employment": "Leeds Institute of Cardiovascular and Metabolic Medicine\u2014Mautner Chair of Cardiology",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Erik P. Hess",
+            "employment": "University of Alabama at Birmingham\u2014Professor of Emergency Medicine",
+            "consultant": "None",
+            "speakers_bureau": [
+              "Gilead Sciences*"
+            ],
+            "ownership": "None",
+            "personal_research": [
+              "Gilead Sciences*"
+            ],
+            "financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Steven M. Hollenberg",
+            "employment": "Cooper Medical School of Rowan University\u2014Professor of Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Wael A. Jaber",
+            "employment": "Cleveland Clinic Lerner College of Medicine\u2014Professor of Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership": "None",
+            "personal_research": "None",
+            "financial_benefit": "None",
+            "expert_witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "description": "This table represents the relationships of committee members with industry and other entities deemed relevant to the document. Relationships were reviewed during the document development process for transparency.",
+        "institutions": [
+          "Baylor College of Medicine",
+          "University of Texas Southwestern Medical Center",
+          "Brigham and Women's Hospital",
+          "University of Virginia",
+          "Emory University School of Medicine",
+          "Icahn School of Medicine at Mount Sinai"
+        ],
+        "notes": [
+          "Significant relationships with industry are marked with an asterisk.",
+          "No financial benefit noted for certain relationships.",
+          "Disclosure requirements based on ACC/CHA guidelines."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Reviewer Relationships with Industry and Other Entities (Comprehensive)\u20142021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain",
+        "Reviewers": [
+          {
+            "Name": "Sana M. Al-Khatib",
+            "Representation": "Content Reviewer\u2014AHA",
+            "Employment": "Duke University Medical Center",
+            "Consultant": [
+              "Medtronic",
+              "Milestone Pharmaceuticals"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "Abbott",
+              "Medtronic",
+              "NHLBI\u2020",
+              "PCORI\u2020",
+              "U.S. Food and Drug Administration*"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Abbott",
+              "AHA*",
+              "Bristol-Myers Squibb",
+              "Medtronic",
+              "Pfizer"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Mouaz Al-Mallah",
+            "Representation": "Official Reviewer\u2014American Society of Nuclear Cardiology",
+            "Employment": "Houston Methodist",
+            "Consultant": "Pfizer",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "Siemens\u2020",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Amgen",
+              "GE Healthcare\u2020",
+              "Pfizer",
+              "Siemens"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Jayashri R. Aragam",
+            "Representation": "Official Reviewer\u2014American Society of Echocardiography",
+            "Employment": "West Roxbury VA Hospital, Harvard Medical School",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Ragavendra Baliga",
+            "Representation": "Content Reviewer\u2014ACC/AHA",
+            "Employment": "Ohio State University Hospital",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Baliga\u2019s Textbook of Internal Medicine with 1480 MCQs, Editor-in-Chief",
+              "Elsevier, Deputy Editor\u2020",
+              "Lippincott Williams & Wilkins",
+              "McGraw-Hill Cardiology Textbook, Editor-in-Chief",
+              "Oxford University Press & Przewodnik practicalny jak stosowac statyny, Termedia Wydawnictwa Medyczne, Editor",
+              "Oxford University Press, Series Editor",
+              "Springer, Co Editor-in-Chief",
+              "W.B. Saunders/Elsevier, 250 Cases in Clinical Medicine, Third Edition"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Joshua A. Beckman",
+            "Representation": "Content Reviewer\u2014ACC/AHA Joint Committee on Clinical Practice Guidelines",
+            "Employment": "Vanderbilt University Medical Center",
+            "Consultant": [
+              "Amgen",
+              "GlaxoSmithKline*",
+              "JanOne",
+              "Janssen",
+              "Pharmaceuticals*",
+              "Sanofi-aventis*"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": [
+              "EMX\u2020",
+              "JanaCare\u2020",
+              "Novartis (DSMB)"
+            ],
+            "Personal Research": [
+              "Bayer (DSMB)",
+              "Novartis (DSMB)"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Amgen",
+              "GlaxoSmithKline",
+              "Vascular Interventional Advances*"
+            ],
+            "Expert Witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Reviewers": [
+          {
+            "Name": "Daniel S. Berman",
+            "Representation": "Official Reviewer\u2014AHA",
+            "Employment": "Cedars-Sinai Medical Center",
+            "Consultants": [
+              "Bayer",
+              "Cedars-Sinai Medical Center",
+              "General Electric"
+            ],
+            "Speakers Bureau": [],
+            "Ownership/Partnership/Principal": [],
+            "Personal Research": [
+              "Bayer"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Amgen",
+              "Bayer",
+              "Cedars-Sinai Medical Center",
+              "GE Healthcare"
+            ],
+            "Expert Witness": []
+          },
+          {
+            "Name": "Kelley Branch",
+            "Representation": "Content Reviewer\u2014Society of Cardiovascular Computed Tomography",
+            "Employment": "University of Washington",
+            "Consultants": [
+              "Bayer",
+              "Janssen Pharmaceuticals"
+            ],
+            "Speakers Bureau": [],
+            "Ownership/Partnership/Principal": [
+              "Bayer"
+            ],
+            "Personal Research": [
+              "Bayer",
+              "Locke Foundation Grant",
+              "Novartis"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "AstraZeneca",
+              "Bayer",
+              "Janssen Pharmaceuticals",
+              "Novartis",
+              "Sanofi-aventis"
+            ],
+            "Expert Witness": []
+          },
+          {
+            "Name": "Andrew Choi",
+            "Representation": "Official Reviewer\u2014Society of Cardiovascular Computed Tomography",
+            "Employment": "The George Washington University School of Medicine",
+            "Consultants": [],
+            "Speakers Bureau": [],
+            "Ownership/Partnership/Principal": [
+              "Clearly, Inc."
+            ],
+            "Personal Research": [],
+            "Institutional, Organizational, or Other Financial Benefit": [],
+            "Expert Witness": []
+          },
+          {
+            "Name": "Melissa A. Daubert",
+            "Representation": "Official Reviewer\u2014AHA",
+            "Employment": "Duke University Medical Center",
+            "Consultants": [],
+            "Speakers Bureau": [],
+            "Ownership/Partnership/Principal": [],
+            "Personal Research": [],
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "4D Molecular Contract",
+              "Heartflow",
+              "NIH",
+              "Roche",
+              "Verily"
+            ],
+            "Expert Witness": []
+          },
+          {
+            "Name": "Lisa de las Fuentes",
+            "Representation": "Content Reviewer\u2014ACC/AHA Joint Committee on Clinical Practice Guidelines",
+            "Employment": "Washington University",
+            "Consultants": [
+              "Acceleron",
+              "Altavant",
+              "Arena",
+              "Bayer",
+              "Express Scripts",
+              "Gilead Sciences",
+              "Johnson & Johnson",
+              "Mentor Planning and Consulting",
+              "Phase Bio",
+              "V-wave",
+              "WebMD"
+            ],
+            "Speakers Bureau": [
+              "Bayer",
+              "Simply Speaking"
+            ],
+            "Ownership/Partnership/Principal": [],
+            "Personal Research": [
+              "Acceleron",
+              "Altavant",
+              "Bayer",
+              "Complexa",
+              "Johnson & Johnson",
+              "Liquidia",
+              "Medtronic",
+              "NIH",
+              "Reata",
+              "Trio Analytics",
+              "United Therapeutics"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "ACC",
+              "AHA",
+              "Circulation Journals",
+              "Pulmonary Hypertension Association",
+              "University of Kentucky (DSMB)",
+              "University of Toronto (DSMB)"
+            ],
+            "Expert Witness": []
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Reviewers": [
+          {
+            "Name": "Anita Deswal",
+            "Role": "Content Reviewer\u2014ACC/AHA Joint Committee on Clinical Practice Guidelines",
+            "Employment": "UT MD Anderson Cancer Center",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Benefit": [
+              "ACC",
+              "AHA",
+              "HFSA"
+            ]
+          },
+          {
+            "Name": "Dave L. Dixon",
+            "Role": "Content Reviewer\u2014ACC/AHA Joint Committee on Clinical Practice Guidelines",
+            "Employment": "Virginia Commonwealth University School of Pharmacy",
+            "Consultant": "American Pharmacists Association",
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": [
+              "Centers for Disease Control and Prevention",
+              "Community Pharmacy Foundation"
+            ],
+            "Institutional/Organizational Benefit": [
+              "Accreditation Council for Clinical Lipidology",
+              "American College of Pharmacy Cardiology Practice Research Network",
+              "American Pharmacists Association",
+              "National Lipid Association"
+            ]
+          },
+          {
+            "Name": "John U. Doherty",
+            "Role": "Official Reviewer\u2014ACC",
+            "Employment": "Jefferson University Hospitals",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Benefit": "None"
+          },
+          {
+            "Name": "Maro\u0161 Ferencik",
+            "Role": "Content Reviewer\u2014Society of Cardiovascular Computed Tomography",
+            "Employment": "Oregon Health & Science University",
+            "Consultant": "Biograph",
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": [
+              "AHA, Fellow to Faculty Award",
+              "NIH"
+            ],
+            "Institutional/Organizational Benefit": "HeartFlow"
+          },
+          {
+            "Name": "Lee A. Fleisher",
+            "Role": "Content Reviewer\u2014ACC/AHA Joint Committee on Clinical Practice Guidelines",
+            "Employment": "Centers for Medicare & Medicaid Services (CMS)",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": "NIH",
+            "Institutional/Organizational Benefit": "None"
+          },
+          {
+            "Name": "Mario Garcia",
+            "Role": "Content Reviewer\u2014AHA/ACC",
+            "Employment": "Montefiore Medical Center",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Benefit": [
+              "Abiomed",
+              "Medtronic Vascular, Inc.",
+              "Novartis",
+              "Philips"
+            ]
+          },
+          {
+            "Name": "Seth Gemme",
+            "Role": "Official Reviewer\u2014American College of Emergency Physicians",
+            "Employment": "Baystate Medical Center",
+            "Consultant": "Roche Diagnostics",
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Benefit": "None"
+          },
+          {
+            "Name": "Zachary D. Goldberger",
+            "Role": "Content Reviewer\u2014ACC/AHA Joint Committee on Clinical Practice Guidelines",
+            "Employment": "University of Wisconsin School of Medicine and Public Health",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Benefit": "None"
+          },
+          {
+            "Name": "Bulent Gorenek",
+            "Role": "Content Reviewer\u2014ACC/AHA Joint Committee on Clinical Practice Guidelines",
+            "Employment": "Eskisehir Osmangazi University",
+            "Consultant": [
+              "AstraZeneca",
+              "Sandoz"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Benefit": "None"
+          },
+          {
+            "Name": "Norrisa Haynes",
+            "Role": "Content Reviewer\u2014ACC/AHA Joint Committee on Clinical Practice Guidelines",
+            "Employment": "University of Pennsylvania",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Benefit": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Reviewers": [
+          {
+            "Name": "Adrian F. Hernandez",
+            "Role": "Content Reviewer\u2014ACC/AHA Joint Committee on Clinical Practice Guidelines",
+            "Employment": "Duke University",
+            "Consultancy Companies": [
+              "Amgen",
+              "AstraZeneca",
+              "Bayer",
+              "Biofourmis",
+              "Boehringer Ingelheim",
+              "Boston Scientific",
+              "Cytokinetics",
+              "Daiichi Sankyo",
+              "Eli Lilly",
+              "Merck",
+              "Myokardia",
+              "Novartis",
+              "Pfizer",
+              "Relypsa",
+              "Sanofi-aventis",
+              "Xogenex"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership or Partnership": "None",
+            "Personal Research": [
+              "American Regent",
+              "AstraZeneca",
+              "Eidos (DSMB)",
+              "Genentech",
+              "GlaxoSmithKline",
+              "Janssen Pharmaceuticals",
+              "Merck",
+              "NIH",
+              "Novartis",
+              "PCORI",
+              "Verily"
+            ],
+            "Institutional or Financial Benefit": [
+              "AHA",
+              "AstraZeneca",
+              "Boston Scientific",
+              "CSL Behring",
+              "Janssen Pharmaceuticals",
+              "Merck",
+              "Novartis",
+              "Genentech",
+              "Relypsa",
+              "Sanofi-aventis"
+            ],
+            "Expert Witness": "Defendant, Patent Dispute, 2019"
+          },
+          {
+            "Name": "Mark A. Hlatky",
+            "Role": "Content Reviewer\u2014ACC/AHA Joint Committee on Clinical Practice Guidelines",
+            "Employment": "Stanford University School of Medicine",
+            "Consultancy Companies": [
+              "ACC, Global Advisory Committee",
+              "Blue Cross Blue Shield Center for Effectiveness Evaluation",
+              "The Medicines Company"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership or Partnership": "None",
+            "Personal Research": [
+              "HeartFlow",
+              "NHLBI (DSMB)",
+              "St. Jude"
+            ],
+            "Institutional or Financial Benefit": "George Institute",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Stephen Hoole",
+            "Role": "Content Reviewer\u2014ACC",
+            "Employment": "Royal Papworth Hospital, UK",
+            "Consultancy Companies": [
+              "Abbott",
+              "AstraZeneca",
+              "Bayer",
+              "Boston Scientific",
+              "Novo Nordisk"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership or Partnership": "None",
+            "Personal Research": [
+              "Abbott",
+              "AstraZeneca"
+            ],
+            "Institutional or Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "W. Schuyler Jones",
+            "Role": "Content Reviewer\u2014ACC/AHA Joint Committee on Clinical Practice Guidelines",
+            "Employment": "Duke University",
+            "Consultancy Companies": [
+              "Amgen",
+              "Bayer",
+              "Janssen Pharmaceuticals",
+              "Pfizer"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership or Partnership": "None",
+            "Personal Research": [
+              "Bristol-Myers Squibb",
+              "Janssen Pharmaceuticals",
+              "Patient-Centered Outcomes Research Institute"
+            ],
+            "Institutional or Financial Benefit": [
+              "Abbott",
+              "Amgen",
+              "AstraZeneca",
+              "Boehringer Ingelheim",
+              "Cardiovascular Systems Inc.",
+              "Janssen Pharmaceuticals",
+              "ZOLL Medical"
+            ],
+            "Expert Witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "table": [
+          {
+            "Reviewer": "Michael Kontos",
+            "Representation": "Content Reviewer\u2014ACC",
+            "Employment": "Virginia Commonwealth University Health",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "ACC",
+              "NIH",
+              "Society for Academic Emergency Medicine",
+              "VCSQI",
+              "VHAC"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Reviewer": "Raymond Kwong",
+            "Representation": "Official Reviewer\u2014Society for Cardiovascular Magnetic Resonance",
+            "Employment": "Brigham and Women's Hospital",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "Alnylam, Inc",
+              "MyoKardia",
+              "NIH"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Bayer",
+              "Siemens",
+              "Society for Cardiovascular Magnetic Resonance"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Reviewer": "Glenn N. Levine",
+            "Representation": "Content Reviewer\u2014Former Chair of the ACC/AHA Task Force on Clinical Practice Guidelines",
+            "Employment": "Baylor College of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": [
+              "Defendant, In-hospital death, 2020",
+              "Defendant, In-hospital death, 2019"
+            ]
+          },
+          {
+            "Reviewer": "Jonathan Lindner",
+            "Representation": "Official Reviewer\u2014American Society of Echocardiography",
+            "Employment": "Oregon Health & Science University",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "Bracco",
+              "GE Healthcare",
+              "GE Lifesciences",
+              "Pfizer"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": "Lantheus Medical Imaging, Inc.",
+            "Expert Witness": "None"
+          },
+          {
+            "Reviewer": "G.B. John Mancini",
+            "Representation": "Content Reviewer\u2014ACC",
+            "Employment": "Vancouver Hospital Research Pavilion, Professor of Medicine",
+            "Consultant": [
+              "Amgen",
+              "AstraZeneca",
+              "Bayer",
+              "Boehringer Ingelheim",
+              "Eli Lilly",
+              "Esperion",
+              "HLS Therapeutics",
+              "Merck",
+              "Pfizer",
+              "Regeneron",
+              "Sanofi-aventis"
+            ],
+            "Speakers Bureau": [
+              "Amgen",
+              "HLS Therapeutics",
+              "Sanofi-aventis"
+            ],
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "Novo Nordisk",
+              "NovartisPle"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Reviewer": "Daniel B. Mark",
+            "Representation": "Content Reviewer\u2014ACC/AHA Joint Committee on Clinical Practice Guidelines",
+            "Employment": "Duke University",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "HeartFlow",
+              "Merck"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Reviewer": "Jim McCord",
+            "Representation": "Content Reviewer\u2014ACC/AHA",
+            "Employment": "Henry Ford Health System",
+            "Consultant": [
+              "Beckman",
+              "Roche",
+              "Siemens"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Abbott",
+              "Beckman Diagnostics",
+              "Roche",
+              "Siemens"
+            ],
+            "Expert Witness": "ACC Accreditation Services, Board Member"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "reviewers": [
+          {
+            "name": "C. Noel Bairey Merz",
+            "representation": "Content Reviewer\u2014ACC/AHA",
+            "employment": "Cedars-Sinai Heart Institute",
+            "consultant": "Med Intelligence",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": [
+              "California Institute for Precision Medicine",
+              "DOD Warrior",
+              "NIH-NIA",
+              "Sanofi-aventis",
+              "WISE pre-HFpEF"
+            ],
+            "institutional_organizational_other_financial_benefit": [
+              "Bayer, Advisory Board",
+              "iRhythm"
+            ],
+            "expert_witness": "None"
+          },
+          {
+            "name": "Nicholas L. Mills",
+            "representation": "Content Reviewer\u2014ACC",
+            "employment": "BHF Centre for Cardiovascular Science, University of Edinburgh, Edinburgh, Scotland",
+            "consultant": [
+              "Abbott Laboratories",
+              "LumiraDx",
+              "Roche Diagnostics",
+              "Siemens Healthineers"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "James Min",
+            "representation": "Content Reviewer\u2014ACC/AHA",
+            "employment": "Cleerly, Inc.",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "Cleerly, Inc.",
+            "personal_research": "NIH",
+            "institutional_organizational_other_financial_benefit": [
+              "Ablative Solutions",
+              "Arineta",
+              "Memphis Meats"
+            ],
+            "expert_witness": "None"
+          },
+          {
+            "name": "L. Kristin Newby",
+            "representation": "Content Reviewer\u2014ACC",
+            "employment": "Duke University",
+            "consultant": [
+              "Beckman-Coulter",
+              "BioKier",
+              "Bristol-Myers Squibb",
+              "CSL",
+              "Medtronic",
+              "NHLBI",
+              "Quidel",
+              "Roche Diagnostics"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": [
+              "Boehringer Ingelheim",
+              "David H. Murdock Institute for Business and Culture",
+              "NIH",
+              "North Carolina DHHS"
+            ],
+            "institutional_organizational_other_financial_benefit": [
+              "AHA",
+              "ACC, Oregon Chapter",
+              "AstraZeneca",
+              "Boehringer Ingelheim",
+              "David H. Murdock Research Institute",
+              "JACC, Deputy Editor",
+              "Roche Diagnostics"
+            ],
+            "expert_witness": "None"
+          },
+          {
+            "name": "Patrick T. O'Gara",
+            "representation": "Content Reviewer\u2014ACC/AHA Joint Committee on Clinical Practice Guidelines",
+            "employment": "Brigham and Women's Hospital",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_other_financial_benefit": [
+              "Edwards Lifesciences",
+              "JAMA Cardiology",
+              "NIH",
+              "Medtronic",
+              "Medtronic Vascular, Inc."
+            ],
+            "expert_witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Reviewers": [
+          {
+            "Name": "Kevin O\u2019Neil",
+            "Representation": "American College of Chest Physicians",
+            "Employment": "Wilmington Health, PLLC",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "American Board of Internal Medicine",
+              "Astellas Pharma",
+              "Commission on Accreditation for Respiratory Care",
+              "Genentech",
+              "Genzyme",
+              "GlaxoSmithKline",
+              "Insmed",
+              "Otsuka",
+              "Amercia Pharmaceuticals",
+              "Philips",
+              "Resmed Corp",
+              "Sunovion Pharmaceuticals"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "W. Frank Peacock",
+            "Representation": "AHA",
+            "Employment": "Baylor College of Medicine",
+            "Consultant": [
+              "Abbott",
+              "AstraZeneca",
+              "Instrumentation Laboratories",
+              "Janssen Pharmaceuticals",
+              "Medicure",
+              "Pharma Inc.",
+              "Quidel",
+              "Relypsa",
+              "Siemens"
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": [
+              "Comprehensive Research Associates",
+              "Emergencies in Medicine"
+            ],
+            "Personal Research": "Roche",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Abbott",
+              "Asepticcope",
+              "Astellas Pharma",
+              "AstraZeneca",
+              "Beckman Coulter, Inc.",
+              "Boehringer Ingelheim",
+              "DiaSorin S.P.A.",
+              "E.R. Squibb & Sons, L.L.C.",
+              "Instrumentation Laboratory Company",
+              "Janssen Pharmaceuticals",
+              "Medicure Pharma Inc.",
+              "Quidel",
+              "Relypsa",
+              "Roche",
+              "Salix Pharmaceutical Division of Bausch Health US, LLC",
+              "Siemens"
+            ],
+            "Expert Witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "reviewers": [
+          {
+            "name": "Carl Pepine",
+            "representation": "Content Reviewer\u2014ACC/AHA",
+            "employment": "University of Florida",
+            "consultant": [
+              "Caladrius",
+              "Biosciences",
+              "Elsevier",
+              "Slack Inc.",
+              "Verily",
+              "XyloCor"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": [
+              "Biocardia",
+              "Brigham and Women\u2019s Hospital",
+              "CSL Behring",
+              "Cytori Therapeutics",
+              "DCRI",
+              "GE Healthcare",
+              "InVentive Health Clinical",
+              "Mesoblast",
+              "NIH",
+              "NIH/NHLBI",
+              "Pfizer",
+              "Sanofi-aventis",
+              "U.S. Department of Defense"
+            ],
+            "institutional_organizational_or_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Andrea L. Price",
+            "representation": "Content Reviewer\u2014ACC",
+            "employment": "Indiana University Health",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "Quality Informatics Synergies, LLC",
+            "personal_research": "None",
+            "institutional_organizational_or_other_financial_benefit": "ACC, Accreditation Foundation Board",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Susan B. Promes",
+            "representation": "Official Reviewer\u2014American College of Emergency Physicians",
+            "employment": "Penn State Health Milton S. Hershey Medical Center",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_or_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Tanveer Rab",
+            "representation": "Content Reviewer\u2014ACC",
+            "employment": "Emory University",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_or_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Harish Ramakrishna",
+            "representation": "Content Reviewer\u2014ACC",
+            "employment": "Mayo Clinic",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_or_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Basmah Safdar",
+            "representation": "Official Reviewer\u2014Society for Academic Emergency Medicine",
+            "employment": "Yale School of Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "OrthoClinical",
+            "institutional_organizational_or_other_financial_benefit": "Roche",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Michael Salerno",
+            "representation": "Content Reviewer\u2014Society for Cardiovascular Magnetic Resonance",
+            "employment": "University of Virginia",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "NIH",
+            "institutional_organizational_or_other_financial_benefit": [
+              "Heartflow",
+              "Siemens"
+            ],
+            "expert_witness": "Defendant, SPECT Camera Malfunction, 2020"
+          },
+          {
+            "name": "Ada Stefanescu Schmidt",
+            "representation": "Content Reviewer\u2014ACC",
+            "employment": "University of Toronto; Harvard University",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_or_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Prem Soman",
+            "representation": "Official Reviewer\u2014American Society of Nuclear Cardiology",
+            "employment": "University of Pittsburgh Medical Center",
+            "consultant": [
+              "Alnylam Pharma",
+              "Eidos",
+              "Pfizer"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": [
+              "Astellas",
+              "Pharma",
+              "Pfizer"
+            ],
+            "institutional_organizational_or_other_financial_benefit": "None",
+            "expert_witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Reviewers": [
+          {
+            "Name": "Jacqueline Tamis-Holland",
+            "Role": "Content Reviewer\u2014ACC/AHA Joint Committee on Clinical Practice Guidelines",
+            "Employment": "Mount Sinai Morningside Hospital",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "Internal-Minnneapolis Heart Institute\u2020",
+              "The NGS Predict Study\u2020"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Abbott\u2020",
+              "AHA\u2020",
+              "Bronx Lebanon Hospital, Cardiology Fellowship Program Director\u2020",
+              "Medscape/Heart.org",
+              "NIH\u2020\u2021",
+              "NYSL\u2020"
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "James Thomas",
+            "Role": "Content Reviewer\u2014ACC/AHA",
+            "Employment": "Northwestern Medicine",
+            "Consultant": [
+              "Abbott",
+              "Caption Health*",
+              "Edwards Lifesciences*",
+              "General Electric",
+              "Shire North American Group Inc."
+            ],
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": [
+              "Abbott",
+              "Caption Health*",
+              "Edwards Lifesciences*",
+              "General Electric"
+            ],
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Abbott",
+              "Caption Health*",
+              "Edwards Lifesciences*",
+              "Medtronic Vascular, Inc.",
+              "Shire North American Group Inc."
+            ],
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Todd Villines",
+            "Role": "Official Reviewer\u2014Society of Cardiovascular Computed Tomography and ACC",
+            "Employment": "University of Virginia Health System",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": "None",
+            "Expert Witness": "None"
+          },
+          {
+            "Name": "Andrew R. Waxler",
+            "Role": "Official Reviewer\u2014ACC",
+            "Employment": "Penn State Health",
+            "Consultant": "None",
+            "Speakers Bureau": [
+              "Amarin*",
+              "Regeneron*",
+              "Sanofi-aventis*"
+            ],
+            "Ownership/Partnership/Principal": "None",
+            "Personal Research": "None",
+            "Institutional, Organizational, or Other Financial Benefit": [
+              "Abbott",
+              "Amarin*",
+              "Amgen",
+              "Boehringer Ingelheim",
+              "DalCor Pharmaceuticals",
+              "Janssen Pharmaceuticals",
+              "Novartis",
+              "Penn State-St. Joseph Medical Center Foundation, Board Member\u2020",
+              "Penn State\u2014St. Joseph Medical Center Pharmacy and Therapeutics, Committee Member\u2020",
+              "Portola",
+              "Regeneron",
+              "Sanofi-aventis",
+              "The Medicines Company",
+              "ZOLL Medical"
+            ],
+            "Expert Witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Appendix 2. Continued",
+        "reviewers": [
+          {
+            "name": "Nanette K. Wenger",
+            "role": "Content Reviewer \u2013 AHA",
+            "employment": "Emory University",
+            "speakers_bureau": null,
+            "ownership_partnership_principal": null,
+            "personal_research": [
+              "Amarin Pharma, Inc.",
+              "AstraZeneca",
+              "Janssen Pharmaceuticals"
+            ],
+            "institutional_organizational_or_other_financial_benefit": [
+              "AstraZeneca\u2020",
+              "Boehringer Ingelheim",
+              "U.S. Department of Defense",
+              "Duke Clinical Research Institute\u2020",
+              "NHLBI\u2020",
+              "ZOLL Medical\u2020"
+            ],
+            "expert_witness": null
+          },
+          {
+            "name": "Joseph Woo",
+            "role": "Content Reviewer \u2013 ACC/AHA Joint Committee on Clinical Practice Guidelines",
+            "employment": "Stanford University School of Medicine",
+            "speakers_bureau": null,
+            "ownership_partnership_principal": null,
+            "personal_research": [
+              "NIH*"
+            ],
+            "institutional_organizational_or_other_financial_benefit": [
+              "NIH*"
+            ],
+            "expert_witness": null
+          },
+          {
+            "name": "Sammy Zakaria",
+            "role": "Official Reviewer \u2013 American College of Chest Physicians",
+            "employment": "Johns Hopkins University School of Medicine",
+            "speakers_bureau": null,
+            "ownership_partnership_principal": null,
+            "personal_research": null,
+            "institutional_organizational_or_other_financial_benefit": null,
+            "expert_witness": null
+          },
+          {
+            "name": "Mark J. Zucker",
+            "role": "Official Reviewer \u2013 American College of Chest Physicians",
+            "employment": "Newark Beth Israel Medical Center",
+            "speakers_bureau": null,
+            "ownership_partnership_principal": null,
+            "personal_research": null,
+            "institutional_organizational_or_other_financial_benefit": null,
+            "expert_witness": null
+          }
+        ],
+        "additional_notes": "The table covers relationships with industry and other entities as reported during peer review. It defines a 'significant financial interest' and notes those relationships relevant to the document."
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "FBN1",
+      "Associated Conditions": [
+        "Marfan syndrome",
+        "Aortic dissection"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Aortic dissection may be related to connective tissue disorders such as Marfan syndrome."
+      ]
+    },
+    {
+      "Gene": "TNNT2",
+      "Associated Conditions": [
+        "myocardial infarction"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Undetectable high-sensitivity cardiac troponin T level in the emergency department and risk of myocardial infarction."
+      ]
+    },
+    {
+      "Gene": "TNNI3",
+      "Associated Conditions": [
+        "myocardial infarction"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "High-sensitivity cardiac troponin concentrations below the limit of detection to exclude acute myocardial infarction."
+      ]
+    },
+    {
+      "Gene": "ACTC1",
+      "Associated Conditions": [
+        "myocardial infarction"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "Universal definition of myocardial infarction."
+      ]
+    },
+    {
+      "Gene": "MPO",
+      "Associated Conditions": [
+        "acute coronary syndrome"
+      ],
+      "Occurrences": 1,
+      "context": [
+        "The guideline mentions studies evaluating the diagnostic utility of various biomarkers, including MPO, in acute coronary syndrome."
+      ]
+    }
+  ]
+}

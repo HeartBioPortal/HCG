@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Left Subclavian Artery Management": {
+      "Recommendations": [
+        {
+          "Class": "1",
+          "LOE": "B-NR",
+          "Description": "In patients with descending TAA who undergo TEVAR with planned left subclavian artery coverage, revascularization of the left subclavian artery before TEVAR is recommended to prevent spinal cord injury (SCI) and potentially to reduce stroke risk and prevent other ischemic complications."
+        },
+        {
+          "Class": "2b",
+          "LOE": "C-LD",
+          "Description": "In patients with descending TAA who have undergone TEVAR with left subclavian coverage and develop SCI that is unresponsive to an increase in BP or a cerebrospinal fluid drain, left subclavian artery revascularization may be considered."
+        }
+      ],
+      "Synopsis": "Left subclavian artery coverage is required in up to 40% of cases of TEVAR of descending TAAs. SCI and stroke remain devastating complications associated with TEVAR. Preoperative left subclavian revascularization decreases the rates of stroke and SCI. Special considerations include vertebrobasilar insufficiency and left arm ischemia. Longer-term follow-up of this technology is needed, but initial results are promising. Trials are ongoing for branched endografts."
+    },
+    "Celiac Artery Management": {
+      "Recommendation": {
+        "Class": "2a",
+        "LOE": "B-NR",
+        "Description": "In patients with descending TAA undergoing TEVAR in whom celiac artery coverage is being considered, it is reasonable to first confirm adequate collateralization."
+      },
+      "Synopsis": "Celiac artery coverage is necessary in 15% of patients undergoing TEVAR for descending TAA repair. Despite preoperative evaluation with CTA or angiography, a small percentage die from visceral ischemia."
+    }
+  },
+  "genes": []
+}

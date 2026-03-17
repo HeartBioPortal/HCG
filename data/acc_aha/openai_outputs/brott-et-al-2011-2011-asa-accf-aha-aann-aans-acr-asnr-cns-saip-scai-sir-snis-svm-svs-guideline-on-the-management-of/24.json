@@ -1,0 +1,59 @@
+{
+  "content": {
+    "managementDiabetesAtherosclerosis": {
+      "class": "IIa",
+      "recommendations": [
+        {
+          "dietExerciseDrugs": "Useful for patients with diabetes mellitus and extracranial carotid or vertebral artery atherosclerosis.",
+          "note": "The benefit of intensive glucose-lowering therapy to a glycosylated hemoglobin level less than 7.0% has not been established.",
+          "references": [
+            286,
+            287
+          ],
+          "levelOfEvidence": "A"
+        },
+        {
+          "statinTherapy": "Administration of statin-type lipid-lowering medication to reduce LDL cholesterol to near or below 70 mg/dL is reasonable for patients with diabetes mellitus and atherosclerosis.",
+          "references": [
+            288
+          ],
+          "levelOfEvidence": "B"
+        }
+      ]
+    },
+    "riskOfIschemicStrokeDiabetes": {
+      "comparison": "Increased 2- to 5-fold in patients with diabetes compared to those without.",
+      "factors": [
+        "Elevated fasting and postchallenge glucose levels associated with stroke (292)",
+        "Diabetes associated with carotid IMT and arterial stenosis (24)",
+        "Diabetes and fasting glucose associated with carotid IMT (293-295)"
+      ]
+    },
+    "insulinResistanceAtherosclerosisStudy": {
+      "findings": "Diabetes and fasting glucose associated with carotid IMT, which advanced more rapidly in patients with diabetes.",
+      "references": [
+        293,
+        295
+      ]
+    },
+    "intensiveInsulinTherapy": {
+      "trials": [
+        {
+          "name": "ACCORD and ADVANCE",
+          "findings": "Intensive treatment did not reduce risk of stroke in patients with type 2 diabetes compared with conventional treatment.",
+          "references": [
+            301
+          ]
+        },
+        {
+          "name": "UKPDS",
+          "finding": "Intense treatment reduced rates of nonfatal MI and stroke.",
+          "references": [
+            302
+          ]
+        }
+      ]
+    }
+  },
+  "genes": []
+}

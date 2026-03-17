@@ -1,0 +1,38 @@
+{
+  "content": {
+    "Stages of Chronic Primary MR": {
+      "Stage A - At risk of MR": {
+        "Valve Anatomy": "Mild mitral valve prolapse with normal leaflet coaptation, Mild valve thickening and leaflet restriction",
+        "Valve Hemodynamics": "No MR jet or small central jet area <20% LA on Doppler, Small vena contracta <0.3 cm",
+        "Hemodynamic Consequences": "None",
+        "Symptoms": "None"
+      },
+      "Stage B - Progressive MR": {
+        "Valve Anatomy": "Moderate to severe mitral valve prolapse with normal coaptation, Rheumatic valve changes with leaflet restriction and loss of central coaptation, Prior IE",
+        "Valve Hemodynamics": "Central jet MR 20%-40% LA or late systolic eccentric jet MR, Vena contracta <0.7 cm, Regurgitant volume <60 mL, Regurgitant fraction <50%, ERO <0.4 cm\u00b2, Angiographic grade 1+ to 2+",
+        "Hemodynamic Consequences": "Mild LA enlargement, No LV enlargement, Normal pulmonary pressure",
+        "Symptoms": "None"
+      },
+      "Stage C - Asymptomatic severe MR": {
+        "Valve Anatomy": "Severe mitral valve prolapse with loss of coaptation or flail leaflet, Rheumatic valve changes with leaflet restriction and loss of central coaptation, Prior IE, Thickening of leaflets with radiation heart disease",
+        "Valve Hemodynamics": "Central jet MR >40% LA or holosystolic eccentric jet MR, Vena contracta \u22650.7 cm, Regurgitant volume \u226560 mL, Regurgitant fraction \u226550%, ERO \u22650.4 cm\u00b2, Angiographic grade 3+ to 4+",
+        "Hemodynamic Consequences": "Moderate or severe LA enlargement, LV enlargement, Pulmonary hypertension may be present at rest or with exercise",
+        "Symptoms": "None"
+      },
+      "Stage D - Symptomatic severe MR": {
+        "Valve Anatomy": "Severe mitral valve prolapse with loss of coaptation or flail leaflet, Rheumatic valve changes with leaflet restriction and loss of central coaptation, Prior IE, Thickening of leaflets with radiation heart disease",
+        "Valve Hemodynamics": "Central jet MR >40% LA or holosystolic eccentric jet MR, Vena contracta \u22650.7 cm, Regurgitant volume \u226560 mL, Regurgitant fraction \u226550%, ERO \u22650.4 cm\u00b2, Angiographic grade 3+ to 4+",
+        "Hemodynamic Consequences": "Moderate or severe LA enlargement, LV enlargement, Pulmonary hypertension present",
+        "Symptoms": "Decreased exercise tolerance, Exertional dyspnea"
+      }
+    },
+    "Diagnosis of Acute MR": {
+      "TTE": "Initial imaging modality to evaluate LV function, RV function, pulmonary artery pressure, and mechanism of MR.",
+      "TEE": "Helps in detecting papillary muscle or chordal rupture or vegetations and annular abscesses."
+    },
+    "Medical Therapy": {
+      "Vasodilator Therapy": "Improves hemodynamic compensation by reducing systemic vascular resistance."
+    }
+  },
+  "genes": []
+}

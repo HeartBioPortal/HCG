@@ -1,0 +1,23 @@
+{
+  "content": {
+    "NSTE-ACS": "The use of prasugrel in patients undergoing PCI is discussed in Section 5.",
+    "Ticagrelor": {
+      "Description": "Oral, reversibly binding P2Y12 inhibitor with a short plasma half-life (12 hours).",
+      "Comparisons": "Compared with clopidogrel, it has a more rapid and consistent onset of action, reversible, and faster recovery of platelet function.",
+      "Dosage": "180 mg loading dose followed by 90 mg twice daily maintenance.",
+      "Outcomes": "Reduction in composite outcome of death from vascular causes, MI, or stroke.",
+      "Side Effects": "Dyspnea in up to 15% of patients and bradycardia.",
+      "Discontinuation": "Recommended 5 days before surgery."
+    },
+    "Intravenous GP IIb/IIIa Receptor Inhibitors": {
+      "Description": "Small molecule receptor antagonists.",
+      "Usage": "Not effective in severe bleeding; platelet infusion necessary.",
+      "RCT Evaluations": "Focus on GP IIb/IIIa inhibitors like eptifibatide and tirofiban.",
+      "ACUITY Trial": "Compared various strategies; detailed in the context."
+    },
+    "Antiplatelet/Anticoagulant Therapy": {
+      "Recommendations": "Outlined for patients with NSTE-ACS in Section 5 and Table 7."
+    }
+  },
+  "genes": []
+}

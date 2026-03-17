@@ -1,0 +1,55 @@
+{
+  "content": {
+    "guideline_recommendations": [
+      {
+        "title": "Advice adults who would benefit from LDL-C lowering to:",
+        "recommendations": [
+          "Consume a dietary pattern that emphasizes intake of vegetables, fruits, and whole grains; includes low-fat dairy products, poultry, fish, legumes, non-tropical vegetable oils, and nuts; and limits intake of sweets, sugar-sweetened beverages, and red meats.",
+          "Adapt this dietary pattern to appropriate calorie requirements, personal and cultural food preferences, and nutrition therapy for other medical conditions (including diabetes).",
+          "Achieve this pattern by following plans such as the DASH dietary pattern, the U.S. Department of Agriculture (USDA) Food Pattern, or the AHA Diet."
+        ],
+        "strength_of_evidence": "NHLBI Grade: A (strong); ACC/AHA COR: I, LOE: A",
+        "rationale": "This recommendation is based largely on studies of the DASH dietary pattern (DASH and DASH-Sodium), which provided the highest-quality evidence for a dietary pattern causing improvements in BP and lipid profiles (Tables 8 and 9). The LDL\u2013C\u2013lowering effect has been demonstrated in men and women, African Americans and non\u2013African-Americans, and in adults of all ages (Table 8, ES6)."
+      },
+      {
+        "title": "Advice adults who would benefit from LDL-C lowering to:",
+        "recommendations": [
+          "Aim for a dietary pattern that achieves 5% to 6% of calories from saturated fat."
+        ],
+        "strength_of_evidence": "NHLBI Grade: A (strong); ACC/AHA COR: I, LOE: A",
+        "rationale": "As described in Table 10, ES11 there is strong evidence that reductions in LDL-C were achieved when dietary patterns were followed in which saturated fat intake was reduced from 14% to 15% of calories to 5% to 6%. Current average intake of saturated fat at 11% of calories could be beneficial for those who would benefit from LDL-C lowering to decrease saturated fat intake to 5% to 6% of calories."
+      },
+      {
+        "title": "Advise adults who would benefit from LDL-C lowering to:",
+        "recommendations": [
+          "Reduce percentage of calories from saturated fat."
+        ],
+        "strength_of_evidence": "NHLBI Grade: A (strong); ACC/AHA COR: I, LOE: A",
+        "rationale": "Reducing saturated fat intake lowers both LDL-C and HDL-C. Because the absolute effect tends to be greater on LDL-C lowering."
+      }
+    ],
+    "tables": [
+      {
+        "title": "Table 9. ESs for DASH Variations/Glycemic Index/Load Dietary Approaches",
+        "content": [
+          {
+            "recommendation": "In adults with BP of 120\u2013159/80\u201395 mm Hg, modifying the DASH dietary pattern by replacing 10% of calories from carbohydrates with the same amount of either protein or unsaturated fat.",
+            "effect": "Low-fat dairy products, poultry, fish, legumes, and nuts; and limit intake of sweets, sugar-sweetened beverages, and red meats achieved modest reduction in BP by 1 mm Hg.",
+            "strength_of_evidence": "Moderate"
+          },
+          {
+            "recommendation": "In adults with average baseline LDL-C level of 130 mg/dL, HDL-C level of 50 mg/dL, and triglyceride level of 100 mg/dL, modifying the DASH dietary pattern by replacing 10% of calories from carbohydrates with 10% of calories from protein lowered LDL-C by 3 mg/dL, HDL-C by 1 mg/dL, and triglycerides by 16 mg/dL.",
+            "effect": "Replacing 10% of calories from carbohydrates with 10% of calories from unsaturated fat (8% monounsaturated and 2% polyunsaturated) lowered LDL-C similarly, increased HDL-C by 1 mg/dL, and lowered triglycerides by 10 mg/dL.",
+            "strength_of_evidence": "Moderate"
+          },
+          {
+            "recommendation": "Low-glycemic diets versus high-glycemic diets effect lipids or BP for adults without diabetes.",
+            "effect": "The evidence for this relationship in adults with diabetes was not reviewed.",
+            "strength_of_evidence": "Insufficient"
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

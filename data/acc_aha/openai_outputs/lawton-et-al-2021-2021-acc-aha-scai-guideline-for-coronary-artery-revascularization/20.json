@@ -1,0 +1,53 @@
+{
+  "content": {
+    "title": "Indications for Revascularization in STEMI (Patients Without Fibrinolytics)",
+    "description": "This figure provides an algorithm for revascularization in STEMI patients without the use of fibrinolytics, focusing on decision-making based on symptom onset, PCI feasibility, and presence of ischemic symptoms or complications such as cardiogenic shock.",
+    "algorithm_sections": [
+      {
+        "condition": "Symptom onset <12 h",
+        "pci_feasible": true,
+        "recommendation": "Primary PCI (1)"
+      },
+      {
+        "condition": "Symptom onset <12 h",
+        "pci_feasible": false,
+        "additional_condition": "Large area or myocardium at risk",
+        "recommendation": "CABG (2a)"
+      },
+      {
+        "condition": "Symptom onset \u226512 h",
+        "sub_conditions": [
+          {
+            "condition": "Cardiogenic shock or heart failure",
+            "pci_feasible": true,
+            "recommendation": "Primary PCI (1)"
+          },
+          {
+            "condition": "Cardiogenic shock or heart failure",
+            "pci_feasible": false,
+            "recommendation": "CABG (1)"
+          },
+          {
+            "condition": "Ongoing ischemia, heart failure, or electrical instability",
+            "pci_feasible": true,
+            "recommendation": "Primary PCI (2a)"
+          },
+          {
+            "condition": "Symptom onset within 12\u201324 h",
+            "recommendation": "PCI (2a)"
+          },
+          {
+            "condition": "Totally occluded infarct artery >24 h and no symptoms or severe ischemia",
+            "recommendation": "PCI (3: No Benefit)"
+          }
+        ]
+      }
+    ],
+    "recommendation_note": "The algorithm does not cover every patient scenario and clinicians are advised to use a Heart Team approach. Lack of data may limit formal recommendations.",
+    "additional_study_notes": [
+      "Studies indicate reduced bleeding with half-dose tenecteplase in patients >75 years of age.",
+      "Benefits of early PCI were supported by trials showing reduced rates of death or infarction."
+    ]
+  },
+  "genes": []
+}

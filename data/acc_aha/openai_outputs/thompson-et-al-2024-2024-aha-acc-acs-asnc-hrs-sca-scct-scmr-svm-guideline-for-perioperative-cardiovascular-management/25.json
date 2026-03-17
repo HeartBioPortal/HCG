@@ -1,0 +1,12 @@
+{
+  "content": {
+    "Synopsis": "This guideline reviews the role of coronary revascularization before NCS. It provides specific recommendations based on patient conditions such as ACS with ST-segment elevation myocardial infarction (STEMI), non-ST-segment elevation myocardial infarction (NSTEMI), and CCD involving left main CAD. It discusses the benefits of preoperative revascularization and emphasizes a multidisciplinary approach for planned NCS.",
+    "Recommendations": [
+      "For patients with ACS, coronary revascularization is recommended before elective NCS to reduce cardiovascular events.",
+      "In patients with CCD and significant left main coronary artery stenosis, revascularization prior to NCS is recommended.",
+      "Routine preoperative revascularization is not recommended for patients with non-left main CAD planned for NCS."
+    ],
+    "Additional Information": "For patients with unstable angina and NSTEMI, revascularization is recommended if they experience cardiogenic shock or have GRACE scores >140. Revascularization is also recommended for patients with refractory symptoms despite GDMT."
+  },
+  "genes": []
+}

@@ -1,0 +1,27 @@
+{
+  "content": {
+    "Cardiac CT": {
+      "Recommendation": "In adult patients with suspected HCM, cardiac CT may be considered for diagnosis if the echocardiogram is not diagnostic and CMR imaging is unavailable.",
+      "Uses": [
+        "Clear definition of LV structure including hypertrophy pattern, wall thickness measurement, detection of subaortic membrane, and intracardiac thrombus",
+        "Assessment of myocardial fibrosis",
+        "Assessment of coronary anatomy including stenosis and anomalies"
+      ],
+      "Disadvantages": [
+        "Radiation and radioiodine contrast exposure",
+        "Inferior temporal resolution compared with echocardiography"
+      ]
+    },
+    "Heart Rhythm Assessment": {
+      "Recommendations": [
+        "Use of 12-lead ECG in patients with HCM for initial evaluation and periodic follow-up.",
+        "Ambulatory electrocardiographic monitoring (24- to 48-hour) in patients with HCM to detect arrhythmias.",
+        "Extended (>24 hours) electrocardiographic monitoring for patients with HCM experiencing palpitations or lightheadedness.",
+        "12-lead ECG for first-degree relatives of patients with HCM.",
+        "Extended ambulatory monitoring for patients at high risk of AF.",
+        "Consider extended ambulatory monitoring in adult patients without risk factors for AF who are anticoagulation-eligible."
+      ]
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,70 @@
+{
+  "content": {
+    "title": "2024 Perioperative Cardiovascular Management for Noncardiac Surgery Guideline",
+    "sections": [
+      {
+        "title": "Quality of Life",
+        "topics": [
+          {
+            "study": "World Health Organization. WHOQOL: measuring quality of life.",
+            "url": "https://www.who.int/tools/whoqol",
+            "date": "October 24, 2022"
+          },
+          {
+            "study": "Comparative responsiveness of generic and specific quality-of-life instruments.",
+            "reference": "J Clin Epidemiol. 2003;56:52-60."
+          },
+          {
+            "study": "Specific measurement of health-related quality of life.",
+            "reference": "J Clin Epidemiol. 1999;52: 185-192."
+          },
+          {
+            "organization": "OSIRIS. Centre for Perioperative Care.",
+            "url": "https://www.cpoc.org.uk/shared-decision-making-osiris",
+            "date": "October 24, 2022"
+          }
+        ]
+      },
+      {
+        "title": "Cardiovascular Risk Indices",
+        "topics": [
+          {
+            "study": "Smilowitz NR, Berger JS. Perioperative cardiovascular risk assessment and management for noncardiac surgery review.",
+            "journal": "JAMA. 2020;324:279-290."
+          },
+          {
+            "study": "Lee TH, Marcantonio ER, Mangione CM, et al.",
+            "description": "Derivation and prospective validation of a simple index for prediction of cardiac risk of major noncardiac surgery.",
+            "reference": "Circulation. 1999;100:1043-1049."
+          },
+          {
+            "study": "Cohen ME, Ko CY, Bilimoria KY, et al.",
+            "description": "Optimizing ACS NSQIP models for evaluation of surgical quality and risk.",
+            "reference": "J Am Coll Surg. 2013;217:336-346.e1."
+          }
+        ]
+      },
+      {
+        "title": "Functional Capacity Assessment",
+        "topics": [
+          {
+            "study": "Reilly DF, McNeely MJ, Doerner D, et al.",
+            "description": "Self-reported exercise tolerance and the risk of serious perioperative complications.",
+            "reference": "Arch Intern Med. 1999;159: 2185-2192."
+          }
+        ]
+      },
+      {
+        "title": "Frailty",
+        "topics": [
+          {
+            "study": "Sildigui E, Banco D, Berger JC, et al.",
+            "description": "Frailty assessment and perioperative major adverse cardiovascular events after noncardiac surgery.",
+            "reference": "J Am J Med. 2023;136:372-379.e375."
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

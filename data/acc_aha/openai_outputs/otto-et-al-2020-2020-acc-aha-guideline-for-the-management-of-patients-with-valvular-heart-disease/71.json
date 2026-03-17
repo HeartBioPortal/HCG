@@ -1,0 +1,65 @@
+{
+  "content": {
+    "Title": "2020 ACC/AHA Guideline for the Management of Valvular Heart Disease",
+    "Focus": "Tricuspid Regurgitation (TR) Management",
+    "Stages": [
+      "Severe TR (Stages C and D)",
+      "Progressive TR (Stage B)"
+    ],
+    "Treatment Recommendations": [
+      {
+        "Condition": "Severe TR with Right Heart Failure (Stage D)",
+        "Options": [
+          {
+            "Situation": "At time of left-sided valve surgery",
+            "Recommendation": "TV surgery (1)"
+          },
+          {
+            "Situation": "Primary TR poorly responsive to GDMT",
+            "Recommendation": "TV surgery (2a)"
+          },
+          {
+            "Situation": "Secondary TR with annual dilation without PAP or left-sided disease",
+            "Recommendation": "TV surgery (2a)"
+          },
+          {
+            "Situation": "Prior left-sided valve surgery with absence of severe PH or RV systolic dysfunction",
+            "Recommendation": "TV surgery (2b)"
+          }
+        ]
+      },
+      {
+        "Condition": "Asymptomatic (Stage C)",
+        "Options": [
+          {
+            "Situation": "Primary TR with progressive RV dilation or systolic dysfunction",
+            "Recommendation": "TV surgery (2b)"
+          }
+        ]
+      },
+      {
+        "Condition": "Progressive TR (Stage B)",
+        "Options": [
+          {
+            "Situation": "At time of left-sided valve surgery",
+            "Recommendation": "TV surgery (2a)"
+          },
+          {
+            "Situation": "Annual dilation >4.0 cm or prior right HF",
+            "Recommendation": "TV surgery (2a)"
+          }
+        ]
+      }
+    ],
+    "Notes": [
+      "GDMT: Guideline-directed management and therapy",
+      "HF: Heart Failure",
+      "PAP: Pulmonary Artery Pressure",
+      "PH: Pulmonary Hypertension",
+      "RV: Right Ventricular",
+      "TR: Tricuspid Regurgitation",
+      "TV: Tricuspid Valve"
+    ]
+  },
+  "genes": []
+}

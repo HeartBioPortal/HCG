@@ -1,0 +1,76 @@
+{
+  "content": {
+    "Clinician's Sequential Flow Chart for the Management of Hypertension": [
+      "Measure BP accurately",
+      "Detect white coat hypertension or masked hypertension using ABPM and HBPM",
+      "Evaluate for secondary hypertension",
+      "Identify target organ damage",
+      "Introduce lifestyle interventions",
+      "Identify and discuss treatment goals",
+      "Use ASCVD risk estimation to guide BP threshold for drug therapy",
+      "Align treatment options with comorbidities",
+      "Account for age, race, ethnicity, sex, and special circumstances in antihypertensive treatment",
+      "Initiate antihypertensive pharmacological therapy",
+      "Ensure appropriate follow-up",
+      "Use team-based care",
+      "Connect patient to clinician via telehealth",
+      "Detect and reverse nonadherence",
+      "Detect white coat effect or masked uncontrolled hypertension",
+      "Use health information technology for remote monitoring and self-monitoring of BP"
+    ],
+    "Plan of Care": {
+      "Patient and family education": [
+        "Achieving BP control and self-monitoring",
+        "Risk assessment and prognosis",
+        "Sexual activity and dysfunction"
+      ],
+      "Special patient groups": [
+        "Pregnancy",
+        "Older persons",
+        "Children and adolescents",
+        "Metabolic syndrome",
+        "Possible secondary causes of hypertension",
+        "Resistant hypertension",
+        "Patients with hypertension undergoing surgery",
+        "Renal transplantation"
+      ],
+      "Psychosocial factors": [
+        "Sex-specific issues",
+        "Culturally sensitive issues (race and ethnicity)",
+        "Resource constraints"
+      ],
+      "Clinician follow-up, monitoring, and care coordination": [
+        "Follow-up visits",
+        "Team-based care",
+        "Electronic health record",
+        "Health information technology tools for remote and self-monitoring"
+      ],
+      "Socioeconomic and cultural factors": [
+        "Health literacy",
+        "Access to health insurance and medication assistance plans",
+        "Social services",
+        "Community services"
+      ],
+      "Pharmacological and nonpharmacological treatment": [
+        "Medication selection (initial and ongoing)",
+        "Monitoring for adverse effects and adherence",
+        "Nonpharmacological interventions: Diet, Exercise, Weight loss if overweight, Moderate alcohol consumption"
+      ],
+      "Management of common comorbidities and conditions": [
+        "Ischemic heart disease",
+        "Heart failure",
+        "Diabetes mellitus",
+        "Chronic kidney disease",
+        "Cerebrovascular disease",
+        "Peripheral artery disease",
+        "Atrial fibrillation",
+        "Valvular heart disease",
+        "Left ventricular hypertrophy",
+        "Thoracic aortic disease"
+      ]
+    },
+    "Summary of BP thresholds and goals for pharmacological therapy": "Several different BP thresholds and goals for the long-term treatment of hypertension with pharmacological therapy are recommended in this guideline.",
+    "Evidence gaps and future directions": "Summary and future considerations based on the large body of literature on BP."
+  },
+  "genes": []
+}

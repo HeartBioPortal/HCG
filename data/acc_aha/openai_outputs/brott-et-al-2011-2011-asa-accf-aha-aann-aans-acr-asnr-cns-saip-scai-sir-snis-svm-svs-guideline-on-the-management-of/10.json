@@ -1,0 +1,19 @@
+{
+  "content": {
+    "classI": "In asymptomatic patients with known or suspected carotid stenosis, duplex ultrasonography by a qualified technologist in a certified laboratory is the initial diagnostic test recommended to detect hemodynamically significant carotid stenosis.",
+    "classIIa": [
+      "It is reasonable to perform duplex ultrasonography to detect hemodynamically significant carotid stenosis in asymptomatic patients with carotid bruit.",
+      "It is also reasonable to repeat duplex ultrasonography annually by a qualified technologist to assess the progression or regression of disease and response to therapeutic interventions in patients with atherosclerosis who have had stenosis greater than 50% detected previously."
+    ],
+    "classIIb": [
+      "Duplex ultrasonography to detect hemodynamically significant carotid stenosis may be considered in asymptomatic patients with symptomatic PAD, coronary artery disease, aortic aneurysm, but its clinical outcomes are unclear.",
+      "It might be considered to detect carotid stenosis in asymptomatic patients without clinical evidence of atherosclerosis but with risk factors like hypertension, hyperlipidemia, and a family history of ischemic stroke. However, outcomes are uncertain."
+    ],
+    "classIIInobenefit": [
+      "Carotid duplex ultrasonography is not recommended for screening of asymptomatic patients who have no clinical manifestations or risks for atherosclerosis.",
+      "It is not recommended for routine evaluation of patients with unrelated neurological or psychiatric disorders.",
+      "Routine serial imaging of the extracranial carotid arteries is not recommended for patients without risk factors for atherosclerotic carotid disease."
+    ]
+  },
+  "genes": []
+}

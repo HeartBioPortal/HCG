@@ -1,0 +1,21 @@
+{
+  "content": {
+    "section": "3.2. CQ2: Statement of the Question",
+    "question_a": "Are the current cutoff values for overweight and obesity associated with elevated CVD-related risk and overall mortality?",
+    "sub_questions_a": [
+      "Fatal and nonfatal CHD, stroke, and CVD",
+      "Overall mortality",
+      "Incident type 2 diabetes",
+      "Incident dyslipidemia",
+      "Incident hypertension"
+    ],
+    "question_b": "Are differences across population subgroups in the relationships of BMI and waist circumference cutpoints with CVD, its risk factors, and overall mortality sufficiently large to warrant different cutpoints?",
+    "groups_considered": [
+      "Age",
+      "Sex (both male and female)",
+      "Race/ethnicity"
+    ],
+    "question_c": "What are the associations between weight maintenance and weight gain with elevated CVD-related risk in normal-weight, overweight, and obese adults?"
+  },
+  "genes": []
+}

@@ -1,0 +1,19 @@
+{
+  "content": {
+    "8.1": "Outflow Tract and Atrioventricular Annular VA: Discusses idiopathic ventricular arrhythmias and various trials related to treatments like radiofrequency ablation and medications such as verapamil.",
+    "S7.9.1.4": "Mentions electrocardiographic patterns related to ventricular fibrillation and arrhythmia recurrence.",
+    "S7.9.14": "Focuses on Short QT syndrome and related risks, genetic insights, and outcomes.",
+    "S8.5": "Comparative studies on ventricular tachycardia treatments, including radiofrequency ablation.",
+    "S8.6": "Idiopathic polymorphic ventricular tachycardia, its characteristics and case studies."
+  },
+  "genes": [
+    {
+      "Gene": "RYR2",
+      "Associated Conditions": [
+        "Catecholaminergic Polymorphic Ventricular Tachycardia"
+      ],
+      "Occurrences": 1,
+      "context": "R. focusses on genetic testing in the evaluation of familial arrhythmia syndromes, particularly discussing the role of the RYR2 gene in catecholaminergic polymorphic ventricular tachycardia."
+    }
+  ]
+}

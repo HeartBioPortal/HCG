@@ -1,0 +1,143 @@
+{
+  "content": {
+    "table": {
+      "title": "ACC/AHA 2020 HF Clinical Performance, Quality, and Structural Measures",
+      "measures": [
+        {
+          "Measure No.": "PM-1",
+          "Title": "LVEF assessment",
+          "Setting": "Outpatient",
+          "Attribution": "Individual practitioner, facility",
+          "Domain": "Diagnostic"
+        },
+        {
+          "Measure No.": "PM-2",
+          "Title": "Symptom and activity assessment",
+          "Setting": "Outpatient",
+          "Attribution": "Individual practitioner, facility",
+          "Domain": "Monitoring"
+        },
+        {
+          "Measure No.": "PM-3",
+          "Title": "Symptom management",
+          "Setting": "Outpatient",
+          "Attribution": "Individual practitioner, facility",
+          "Domain": "Treatment"
+        },
+        {
+          "Measure No.": "PM-4",
+          "Title": "Beta-blocker therapy for HFrEF",
+          "Setting": "Outpatient, Inpatient",
+          "Attribution": "Individual practitioner, facility",
+          "Domain": "Treatment"
+        },
+        {
+          "Measure No.": "PM-5",
+          "Title": "ACEI, ARB, or ARNI therapy for HFrEF",
+          "Setting": "Outpatient, Inpatient",
+          "Attribution": "Individual practitioner, facility",
+          "Domain": "Treatment"
+        },
+        {
+          "Measure No.": "PM-6",
+          "Title": "ARNI therapy for HFrEF",
+          "Setting": "Outpatient, Inpatient",
+          "Attribution": "Individual practitioner, facility",
+          "Domain": "Treatment"
+        },
+        {
+          "Measure No.": "PM-7",
+          "Title": "Dose of beta blocker therapy for HFrEF",
+          "Setting": "Outpatient",
+          "Attribution": "Individual practitioner, facility",
+          "Domain": "Treatment"
+        },
+        {
+          "Measure No.": "PM-8",
+          "Title": "Dose of ACEI, ARB, or ARNI therapy for HFrEF",
+          "Setting": "Outpatient",
+          "Attribution": "Individual practitioner, facility",
+          "Domain": "Treatment"
+        },
+        {
+          "Measure No.": "PM-9",
+          "Title": "MRA therapy for HFrEF",
+          "Setting": "Outpatient",
+          "Attribution": "Individual practitioner, facility",
+          "Domain": "Treatment"
+        },
+        {
+          "Measure No.": "PM-10",
+          "Title": "Laboratory monitoring in new MRA therapy",
+          "Setting": "Outpatient, Inpatient",
+          "Attribution": "Individual practitioner, facility",
+          "Domain": "Monitoring"
+        },
+        {
+          "Measure No.": "PM-11",
+          "Title": "Hydralazine and isosorbide dinitrate therapy for HFrEF in those patients self-identified as Black or African American",
+          "Setting": "Outpatient, Inpatient",
+          "Attribution": "Individual practitioner, facility",
+          "Domain": "Treatment"
+        },
+        {
+          "Measure No.": "PM-12",
+          "Title": "Counseling regarding ICD placement for patients with HFrEF on GDMT",
+          "Setting": "Outpatient",
+          "Attribution": "Individual practitioner, facility",
+          "Domain": "Treatment"
+        },
+        {
+          "Measure No.": "PM-13",
+          "Title": "CRT implantation for patients with HFrEF on GDMT",
+          "Setting": "Outpatient, Inpatient",
+          "Attribution": "Individual practitioner, facility",
+          "Domain": "Treatment"
+        },
+        {
+          "Measure No.": "QM-1",
+          "Title": "Patient self-care education",
+          "Setting": "Outpatient",
+          "Attribution": "Individual practitioner",
+          "Domain": "Self-care"
+        },
+        {
+          "Measure No.": "QM-2",
+          "Title": "Measurement of patient-reported outcome-health status",
+          "Setting": "Outpatient",
+          "Attribution": "Individual practitioner",
+          "Domain": "Monitoring"
+        },
+        {
+          "Measure No.": "QM-3",
+          "Title": "Sustained or improved health status in HF",
+          "Setting": "Outpatient",
+          "Attribution": "Individual practitioner, facility",
+          "Domain": "Outcome"
+        },
+        {
+          "Measure No.": "QM-4",
+          "Title": "Post-discharge appointment for patients with HF",
+          "Setting": "Inpatient",
+          "Attribution": "Individual practitioner, facility",
+          "Domain": "Treatment"
+        },
+        {
+          "Measure No.": "SM-1",
+          "Title": "HF registry participation",
+          "Setting": "Outpatient, Inpatient",
+          "Attribution": "Facility",
+          "Domain": "Structure"
+        }
+      ]
+    },
+    "goals_of_care": {
+      "recommendation": {
+        "Cor": "1",
+        "Loe": "C-LD",
+        "Details": "For all patients with HF, palliative and supportive care\u2014including high-quality communication, conveyance of prognosis, clarifying goals of care, shared decision-making, symptom management, and caregiver support\u2014should be provided to improve QOL and relieve suffering (1)."
+      }
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,27 @@
+{
+  "content": {
+    "3. Mechanisms of VA": [
+      {
+        "3.4.1": "Chenery EM, Fenton FH, Gilmore RF, et al. Mechanisms of ventricular arrhythmias: a dynamical systems-based perspective. Am J Physiol Heart Circ Physiol. 2012;302:H2521-43.",
+        "3.4.2": "Pandit SV, Jalife J. Rotors and the dynamics of cardiac fibrillation. Circ Res. 2013;112:849-62.",
+        "3.4.3": "Tsyganov I, Heijman J, Nattel S, et al. Electrical storm: recent pathophysiological insights and therapeutic consequences. Basic Res Cardiol. 2013;108:336."
+      }
+    ],
+    "4. General Evaluation of Patients With Documented or Suspected VA": [
+      {
+        "4.1": "History and Physical Examination",
+        "4.1.1": "Middlekauff HR, Stevenson WG, Stevenson LV, et al. Syncope in advanced heart failure: high risk of sudden death regardless of etiology of syncope. J Am Coll Cardiol. 1993:21;1106-12."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "RYR2",
+      "Associated Conditions": [
+        "Ventricular Arrhythmias"
+      ],
+      "Occurrences": 1,
+      "context": "A pathogenic role for Ca(2+) handling abnormalities in the intact RYR2 receptor in ventricular arrhythmias."
+    }
+  ]
+}

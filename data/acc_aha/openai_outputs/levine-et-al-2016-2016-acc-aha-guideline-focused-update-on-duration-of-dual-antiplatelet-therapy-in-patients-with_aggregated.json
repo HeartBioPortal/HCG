@@ -1,0 +1,1301 @@
+{
+  "content": [
+    {
+      "content": {
+        "title": "2016 ACC/AHA Guideline Focused Update on Duration of Dual Antiplatelet Therapy in Patients With Coronary Artery Disease",
+        "organization": "American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines",
+        "context": "This update focuses on the duration of dual antiplatelet therapy for patients with coronary artery disease. The guidelines are built on a series of previous guidelines covering a wide array of cardiovascular conditions and procedures.",
+        "collaboration": "Developed in collaboration with the American Association for Thoracic Surgery, American Society of Anesthesiologists, Society for Cardiovascular Angiography and Interventions, Society of Cardiovascular Anesthesiologists, and Society of Thoracic Surgeons.",
+        "endorsement": "Endorsed by Preventive Cardiovascular Nurses Association and Society for Vascular Surgery.",
+        "additional information": "Focused Update writing group members have disclosed their industry associations, details of which are available in Appendix 1."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Focused Update on Duration of Dual Antiplatelet Therapy",
+        "authors": [
+          "Jonathan L. Halperin, MD, FACC, FAHA, Chair",
+          "Glenn N. Levine, MD, FACC, FAHA, Chair-Elect",
+          "Sana M. Al-Khatib, MD, MHSc, FACC, FAHA",
+          "Kim K. Birtcher, PharmD, MS, AACC",
+          "Biykem Bozkurt, MD, PhD, FACC, FAHA",
+          "Ralph G. Brindis, MD, MPH, MACC, FAHA",
+          "Joaquin E. Cigarroa, MD, FACC",
+          "Lesley H. Curtis, PhD, FAHA"
+        ],
+        "sections": [
+          "Preamble",
+          "Introduction",
+          "Critical Questions and Systematic Review Findings",
+          "Overriding Concepts and Recommendations for DAPT and Duration of Therapy",
+          "Proton Pump Inhibitors and DAPT",
+          "Aspirin Dosing in Patients Treated With DAPT",
+          "Triple Therapy (Aspirin, P2Y12 Inhibitor, and Oral Anticoagulant)",
+          "Percutaneous Coronary Intervention",
+          "Recommendations for Duration of DAPT in Patients Undergoing CABG",
+          "Recommendations for Duration of DAPT in Patients with SIHD",
+          "Acute Coronary Syndrome (NSTE-ACS and STEMI)"
+        ],
+        "context": "This guideline focuses on the duration of Dual Antiplatelet Therapy (DAPT) with various considerations based on patient conditions and treatment methods. It is meant as a focused update with specific recommendations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Focused Update on Duration of Dual Antiplatelet Therapy",
+        "Authors": "Levine et al.",
+        "Journal": "JACC, Vol. 68, No. 10, 2016",
+        "Date": "September 6, 2016",
+        "Sections": [
+          {
+            "Section": "7.3",
+            "Title": "Duration of DAPT in Patients With ACS Treated With PCI: Recommendations",
+            "Page": "1100"
+          },
+          {
+            "Section": "7.4",
+            "Title": "Duration of DAPT in Patients With ACS Treated With CABG: Recommendation",
+            "Page": "1100"
+          },
+          {
+            "Section": "7.5",
+            "Title": "Duration of DAPT in Patients With ACS",
+            "Page": "1100"
+          },
+          {
+            "Section": "8",
+            "Title": "Perioperative Management\u2013Timing of Elective Noncardiac Surgery in Patients Treated with PCI and DAPT: Recommendations",
+            "Page": "1101"
+          },
+          {
+            "Section": "References",
+            "Page": "1104"
+          },
+          {
+            "Section": "Appendix 1",
+            "Title": "Author Relationships With Industry and Other Entities",
+            "Page": "1109"
+          },
+          {
+            "Section": "Appendix 2",
+            "Title": "Reviewer Relationships With Industry and Other Entities",
+            "Page": "1111"
+          }
+        ],
+        "Preamble": {
+          "Description": "Incorporation of new study results, medications, or devices that merit modification of existing clinical practice guideline recommendations is critical.",
+          "Organizational Involvement": "American College of Cardiology (ACC) and American Heart Association (AHA) Task Force",
+          "Process": "The update is subject to rigorous, multilevel review and approval.",
+          "Objective": "Ensure guidelines reflect current knowledge, treatment options, and optimal medical care."
+        },
+        "Modernization": {
+          "Process": "Adoption of a knowledge byte format addressing a specific clinical question.",
+          "Benefits": "Facilitates easier access to recommendations and supports evolution of guidelines.",
+          "Example": "Includes concise text hyperlinked to supportive evidence."
+        },
+        "Class of Recommendation and Level of Evidence": {
+          "Purpose": "Indicates the strength of recommendation, encompassing estimated magnitude and certainty of benefit.",
+          "System": "Reflects 2015 COR/LOE system.",
+          "Subcategories": "LOE B and C subcategorized for increased granularity."
+        },
+        "Relationships with Industry": {
+          "Policy": "GWC members and reviewers must disclose industry relationships. Managed by RWI avoidance and declaration.",
+          "Transparency": "Disclosure information available in online supplement."
+        },
+        "Intended Use": {
+          "Description": "Provide recommendations applicable to patients with or at risk of developing cardiovascular disease.",
+          "Focus": "U.S. medical practice, adaptable as needed worldwide."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Focused Update on Duration of Dual Antiplatelet Therapy",
+        "source": "JACC Vol. 68, No. 10, 2016",
+        "date": "September 6, 2016",
+        "table": {
+          "title": "Applying Class of Recommendation and Level of Evidence to Clinical Strategies, Interventions, Treatments, or Diagnostic Testing in Patient Care",
+          "update": "Updated August 2015",
+          "classes_of_recommendation": [
+            {
+              "class": "I (Strong)",
+              "benefit_vs_risk": "Benefit >>> Risk",
+              "suggested_phrases": [
+                "Is recommended",
+                "Is indicated/useful/effective/beneficial",
+                "Should be performed/administered/other",
+                "Treatment/strategy A is recommended/indicated in preference to treatment B",
+                "Treatment A should be chosen over treatment B"
+              ]
+            },
+            {
+              "class": "IIa (Moderate)",
+              "benefit_vs_risk": "Benefit >> Risk",
+              "suggested_phrases": [
+                "Is reasonable",
+                "Can be useful/effective/beneficial",
+                "Treatment/strategy A is probably recommended/indicated in preference to treatment B",
+                "It is reasonable to choose treatment A over treatment B"
+              ]
+            },
+            {
+              "class": "IIb (Weak)",
+              "benefit_vs_risk": "Benefit \u2265 Risk",
+              "suggested_phrases": [
+                "May/might be reasonable",
+                "May/might be considered",
+                "Usefulness/effectiveness is unknown/unclear/uncertain or not well established"
+              ]
+            },
+            {
+              "class": "III: No Benefit (Moderate)",
+              "benefit_vs_risk": "Benefit = Risk",
+              "suggested_phrases": [
+                "Is not recommended",
+                "Is not indicated/useful/effective/beneficial",
+                "Should not be performed/administered/other"
+              ]
+            },
+            {
+              "class": "III: Harm (Strong)",
+              "benefit_vs_risk": "Risk > Benefit",
+              "suggested_phrases": [
+                "Potentially harmful",
+                "Causes harm",
+                "Associated with excess morbidity/mortality",
+                "Should not be performed/administered/other"
+              ]
+            }
+          ],
+          "levels_of_evidence": [
+            {
+              "level": "A",
+              "description": "High-quality evidence from more than 1 RCT, meta-analyses of high-quality RCTs, or one or more RCTs corroborated by high-quality registry studies"
+            },
+            {
+              "level": "B-R (Randomized)",
+              "description": "Moderate-quality evidence from 1 or more RCTs, meta-analyses of moderate-quality RCTs"
+            },
+            {
+              "level": "B-NR (Nonrandomized)",
+              "description": "Moderate-quality evidence from 1 or more well-designed, well-executed nonrandomized studies, observational studies, or registry studies"
+            },
+            {
+              "level": "C-LD (Limited Data)",
+              "description": "Randomized or nonrandomized observational or registry studies with limitations of design or execution, meta-analyses of such studies"
+            },
+            {
+              "level": "C-EO (Expert Opinion)",
+              "description": "Consensus of expert opinion based on clinical experience"
+            }
+          ]
+        },
+        "guidelines_review": "Guidelines are reviewed annually by the Task Force and are official policy of the ACC and AHA."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "introduction": "The guideline focuses on the duration of dual antiplatelet therapy (DAPT) involving aspirin plus a P2Y12 inhibitor for patients with coronary artery disease (CAD). The focus is on updates to recommendations across six existing ACCF/AHA guidelines. This document reviews 11 studies involving patients treated with DES and assesses the impact of different DAPT durations. The goal is to evaluate, update, harmonize, and simplify recommendations on DAPT duration.",
+        "methodology": "The guideline is based on systematic reviews, existing recommendation evaluations, and includes an evidence review using PICOTS format targeting intervention, comparison, outcome, timing, and setting. It describes various factors influencing these recommendations, including information from over 11 studies and other related clinical trials.",
+        "context": "Focus is primarily on recommendations related to PCI, CABG, and patients with chronic conditions post-acute coronary events."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Antiplatelet Therapy in Patients with Coronary Artery Disease": "The document discusses focused updates on the duration of dual antiplatelet therapy (DAPT) in patients with coronary artery disease. Key updates are drawn from 6 clinical practice guidelines involving cardiovascular and internal medicine experts. The document addresses duration of DAPT following drug-eluting stent (DES) implantation, comparing shorter (3 to 6 months) and longer durations (18 to 48 months). Evidence indicates shorter DAPT duration results in fewer bleeding complications, and may be optimal with newer-generation DES that are less likely to cause thrombosis. Prolonged DAPT potentially reduces late stent thrombosis and adverse events, though also associated with increased bleeding risk."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "extended_dapt": "Studies of longer-duration DAPT found an absolute decrease in late stent thrombosis and ischemic complications of \u22481% to 2% and an absolute increase in bleeding complications of \u22481%. RCTs showed extended DAPT decreased absolute risk of MACE by 1.1% and major bleeding by 0.8%.",
+        "charisma": "The CHARISMA trial showed no significant reduction in ischemic events with DAPT and a 0.4% increase in severe bleeding. DAPT with clopidogrel showed an absolute 1.3% reduction in cardiovascular events but increased major bleeding by 1.2%.",
+        "pegasus-timi 54": "The study found a 1.2% reduction in cardiovascular death, MI, or stroke and 1.2% increase in major bleeding with DAPT. Reduction in ischemic events occurred with patients not on P2Y12 inhibitors or discontinued for \u226430 days.",
+        "prolonged_dapt": "An unexpected increase in all-cause mortality rate by 0.5% was found, particularly from noncardiovascular deaths in the DAPT study. META analysis and the FDA communication indicated no significant increase in mortality risks for clopidogrel."
+      },
+      "genes": [
+        {
+          "Gene": "P2Y12",
+          "Associated Conditions": [
+            "ischemic events",
+            "MACE",
+            "Ischemic Risk",
+            "Bleeding Risk",
+            "Ischemic Complications"
+          ],
+          "Occurrences": 2,
+          "context": "Benefit in patients when P2Y12 inhibitor therapy either had not been discontinued or had been discontinued for \u226430 days."
+        }
+      ]
+    },
+    {
+      "content": {
+        "Overview": "The guidelines discuss the concepts and recommendations for Dual Antiplatelet Therapy (DAPT) and its duration. Emphasis is placed on the balance between reducing ischemic risk and increasing bleeding risk with the use of P2Y12 inhibitors in addition to aspirin. Recommendations for DAPT duration are presented, with a focus on individualized assessment based on clinical judgment, patient preferences, and risk factors.",
+        "Duration Recommendations": "A Class I recommendation is made for a minimum of 6 to 12 months of DAPT for most patients. Extension beyond this period may be suggested for certain patients, depending on individual risk factors and preferences.",
+        "Considerations": "Shorter-duration DAPT is suitable for patients at lower ischemic risk with higher bleeding risk, whereas longer-duration DAPT is preferrable for patients at higher ischemic risk with lower bleeding risk. Use of ticagrelor or prasugrel is suggested over clopidogrel for decreased ischemic risk and improved outcomes.",
+        "Bleeding Risk": "Factors associated with increased ischemic and bleeding risk include prior PCI, congestive heart failure, ejection fraction, diabetes mellitus, and stent characteristics.",
+        "Tools": "The DAPT score helps evaluate the benefit/risk ratio of prolonged DAPT. Higher scores (\u22652) may favor prolonged DAPT due to the net reduction of ischemic events."
+      },
+      "genes": [
+        {
+          "Gene": "P2Y12",
+          "Associated Conditions": [
+            "Ischemic Risk",
+            "Bleeding Risk"
+          ],
+          "Occurrences": 4,
+          "context": "Intensification of antiplatelet therapy, with the addition of a P2Y12 inhibitor to aspirin monotherapy, lowers ischemic risk but increases bleeding risk. Recommendations suggest that decisions about treatment duration of DAPT require consideration of P2Y12 inhibitor therapy."
+        }
+      ]
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "cor": "IIa",
+            "loe": "B-R",
+            "recommendation": "In patients with ACS (NSTE-ACS or STEMI) treated with DAPT after coronary stent implantation and in patients with NSTE-ACS treated with medical therapy alone (without revascularization), it is reasonable to use ticagrelor in preference to clopidogrel for maintenance P2Y12 inhibitor therapy."
+          },
+          {
+            "cor": "IIa",
+            "loe": "B-R",
+            "recommendation": "In patients with ACS (NSTE-ACS or STEMI) treated with DAPT after coronary stent implantation who are not at high risk for bleeding complications and do not have a history of stroke or TIA, it is reasonable to choose prasugrel over clopidogrel for maintenance P2Y12 inhibitor therapy."
+          },
+          {
+            "cor": "III: Harm",
+            "loe": "B-R",
+            "recommendation": "Prasugrel should not be administered to patients with a prior history of stroke or TIA."
+          }
+        ],
+        "platelet_function_testing": {
+          "context": "The role of platelet function testing and genetic testing in patients treated with DAPT is addressed in the 2011 ACCF/AHA/SCAI PCI guideline and the 2014 ACC/AHA NSTE-ACS guideline. No RCT has demonstrated that routine platelet function testing or genetic testing to guide P2Y12 inhibitor therapy improves outcome."
+        },
+        "proton_pump_inhibitors": {
+          "context": "The use of proton pump inhibitors (PPIs) in patients treated with DAPT is discussed, with PPIs recommended for patients with a history of prior gastrointestinal bleeding, and the routine use of PPIs in patients at low risk of gastrointestinal bleeding is not recommended."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "aspirin_dosing_recommendation": "In patients treated with DAPT, a daily aspirin dose of 81 mg (range, 75 mg to 100 mg) is recommended.",
+        "study_findings": "Studies of nearly 200,000 persons have shown that lower aspirin doses (\u2264100 mg daily) are associated with less major and total bleeding than higher doses.",
+        "P2Y12_inhibitor_findings": "The efficacy of ticagrelor seems to be decreased in patients treated with higher aspirin doses (\u2265300 mg daily) versus lower aspirin doses (\u2264100 mg daily).",
+        "optimal_aspirin_dosing": "The optimal range of aspirin dose in patients treated with DAPT for maximal protection is 75 mg to 100 mg."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guidelines": {
+          "title": "Focused Update on Duration of Dual Antiplatelet Therapy",
+          "TABLE 4": {
+            "Increased Ischemic Risk/Risk of Stent Thrombosis": [
+              "Advanced age",
+              "ACS presentation",
+              "Multiple prior MIs",
+              "Extensive CAD",
+              "Diabetes mellitus",
+              "CKD"
+            ],
+            "Increased Bleeding Risk": [
+              "History of prior bleeding",
+              "Oral anticoagulant therapy",
+              "Female sex",
+              "Advanced age",
+              "Low body weight",
+              "CKD",
+              "Diabetes mellitus"
+            ],
+            "Increased risk of stent thrombosis": [
+              "Anemia",
+              "ACS presentation",
+              "Diabetes mellitus",
+              "Left ventricular ejection fraction <40%",
+              "First-generation drug-eluting stent",
+              "Stent undersizing",
+              "Stent underdeployment",
+              "Small stent diameter",
+              "Greater stent length",
+              "Bifurcation stents",
+              "In-stent restenosis"
+            ]
+          },
+          "TABLE 5": {
+            "Factors Used to Calculate a \"DAPT Score\"": {
+              "Age \u226575 y": "-2",
+              "Age 65 to <75 y": "-1",
+              "Age <65 y": "0",
+              "Current cigarette smoker": "1",
+              "Diabetes mellitus": "1",
+              "MI at presentation": "1",
+              "Prior PCI or prior MI": "1",
+              "Stent diameter <3 mm": "1",
+              "Paclitaxel-eluting stent": "1",
+              "CHF or LVEF <30%": "2",
+              "Saphenous vein graft PCI": "2"
+            },
+            "DAPT Score Interpretation": {
+              "Score >2": "Prolonged DAPT favorable",
+              "Score <2": "Unfavorable benefit/risk"
+            }
+          },
+          "Recommendations on triple therapy": "Beyond the scope but included for completeness and end-user education.",
+          "4.1 Duration of DAPT in Patients With SIHD Treated With PCI": "See Online Data Supplements 1 to 3 and 6 to 9 for evidence."
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Recommendations for Duration of DAPT in Patients with SIHD Treated With PCI": [
+          {
+            "COR": "I",
+            "LOE": "A",
+            "Recommendation": "In patients with SIHD treated with DAPT after BMS implantation, P2Y12 inhibitor therapy (clopidogrel) should be given for a minimum of 1 month."
+          },
+          {
+            "COR": "I",
+            "LOE": "B-R SR",
+            "Recommendation": "In patients with SIHD treated with DAPT after DES implantation, P2Y12 inhibitor therapy (clopidogrel) should be given for at least 6 months."
+          },
+          {
+            "COR": "I",
+            "LOE": "B-NR",
+            "Recommendation": "In patients treated with DAPT, a daily aspirin dose of 81 mg (range, 75 mg to 100 mg) is recommended."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "A SR",
+            "Recommendation": "In patients with SIHD treated with DAPT after BMS or DES implantation who have tolerated DAPT without a bleeding complication and who are not at high risk of bleeding, continuation of DAPT with clopidogrel for longer than 1 month in patients treated with BMS or longer than 6 months in patients treated with DES may be reasonable."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "C-LD",
+            "Recommendation": "In patients with SIHD treated with DAPT after DES implantation who develop a high risk of bleeding, discontinuation of P2Y12 inhibitor therapy after 3 months may be reasonable."
+          }
+        ],
+        "Duration of DAPT in Patients With ACS Treated With PCI": [
+          {
+            "COR": "I",
+            "LOE": "B-R",
+            "Recommendation": "In patients with ACS (NSTE-ACS or STEMI) treated with DAPT after BMS or DES implantation, P2Y12 inhibitor therapy (clopidogrel, prasugrel, or ticagrelor) should be given for at least 12 months."
+          },
+          {
+            "COR": "I",
+            "LOE": "B-NR",
+            "Recommendation": "In patients treated with DAPT, a daily aspirin dose of 81 mg (range, 75 mg to 100 mg) is recommended."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-R",
+            "Recommendation": "In patients with ACS (NSTE-ACS or STEMI) treated with DAPT after coronary stent implantation, it is reasonable to use ticagrelor in preference to clopidogrel for maintenance P2Y12 inhibitor therapy."
+          },
+          {
+            "COR": "IIa",
+            "LOE": "B-R",
+            "Recommendation": "In patients with ACS (NSTE-ACS or STEMI) treated with DAPT after coronary stent implantation who are not at high risk for bleeding complications and who do not have a history of stroke or TIA, it is reasonable to choose prasugrel over clopidogrel."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "A SR",
+            "Recommendation": "In patients with ACS (NSTE-ACS or STEMI) treated with coronary stent implantation who have tolerated DAPT without a bleeding complication and who are not at high bleeding risk, continuation of DAPT for longer than 12 months may be reasonable."
+          },
+          {
+            "COR": "IIb",
+            "LOE": "C-LD",
+            "Recommendation": "In patients with ACS treated with DAPT after DES implantation who develop a high risk of severe bleeding, discontinuation of P2Y12 inhibitor therapy after 6 months may be reasonable."
+          },
+          {
+            "COR": "III",
+            "LOE": "Harm B-R",
+            "Recommendation": "Prasugrel should not be administered to patients with a prior history of stroke or TIA."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "section": "4.3. Duration of DAPT in Patients With SIHD and ACS Treated With PCI",
+        "summary": "The guideline discusses the recommended duration of dual antiplatelet therapy (DAPT) in patients treated with coronary stent implantation. It emphasizes the higher risk of stent thrombosis shortly after implantation, particularly with bare metal stents (BMS). A minimum duration of DAPT of 1 month is typically recommended for BMS patients. Drug-eluting stents (DES) have varying recommended durations owing to differences in stent generation, with newer generation stents requiring shorter durations. The document includes a treatment algorithm outlining recommendations based on bleeding risks and stent types."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "thrombosis": "Shorter-duration DAPT reduces thrombosis in patients with SIHD treated with DES. Minimum recommended duration reduced from 12 to 6 months.",
+        "PCI-CURE analysis": "Suggested continuing DAPT for up to 12 months in NSTE-ACS patients treated with BMS reduced ischemic events.",
+        "Extended DAPT": "Extended DAPT for 18 to 36 months can reduce ischemic complications but increases bleeding risks.",
+        "Bleeding Risk": "Higher DAPT score may favor prolonged DAPT; lower may not.",
+        "Drug-eluting stents": "Newer stents like everolimus-eluting stents show reduced thrombosis, modest benefit in prolonged DAPT.",
+        "Bioabsorbable stents": "Protocol may require continuation for 6 to 12 months.",
+        "CABG recommendations": "Includes resuming DAPT post-CABG to complete 12 months DAPT therapy."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Aspirin therapy after CABG": {
+          "Improves vein graft patency": "Particularly during the first postoperative year",
+          "Reduces MACE": "According to studies such as CURE",
+          "Comparison with clopidogrel": "Patients treated with aspirin plus clopidogrel showed significant reduction in ischemic events"
+        },
+        "Propensity score analysis": "In a Danish administrative database showed fewer deaths with aspirin plus clopidogrel",
+        "Impact of clopidogrel on graft occlusion": {
+          "Evaluated in 5 studies": "Did not demonstrate significant differences between monotherapy and DAPT"
+        },
+        "Meta-analysis findings": {
+          "DAPT reduces graft occlusion": "At 1 year compared to monotherapy",
+          "No improvement noted in arterial graft patency": "Despite major bleeding risk"
+        },
+        "Newer P2Y12 inhibitors": {
+          "Limited data": "On their utility post-CABG",
+          "Findings from TRITON-TIMI 38": "Prasugrel associated with lower 30-day mortality"
+        },
+        "Treatment Algorithm for P2Y12 Inhibitor Therapy": {
+          "Class IIb recommendation": "12 months of clopidogrel may be reasonable",
+          "Class I recommendation": "Resume P2Y12 inhibitor post-op to complete 12 months of DAPT"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "clinical_guideline": "This guideline provides recommendations for the duration of dual antiplatelet therapy (DAPT) in patients with stable ischemic heart disease (SIHD). Key recommendations include:\n\n1. For patients treated with bare metal stents (BMS) using DAPT with clopidogrel, therapy should be continued for a minimum of 1 month.\n2. For patients treated with drug-eluting stents (DES) using DAPT with clopidogrel, therapy should extend for at least 6 months.\n3. A daily aspirin dose of 81 mg is recommended for patients on DAPT.\n4. Continuous DAPT is recommended for specific high-risk patients.\n5. Discontinuation of P2Y12 inhibitor therapy may be reasonable for patients at high risk of bleeding after DES implantation."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Treatment Algorithm for Duration of P2Y12 Inhibitor Therapy in Patients with SIHD",
+        "description": "This guideline focuses on the duration of dual antiplatelet therapy (DAPT) in patients with stable ischemic heart disease (SIHD) without acute coronary syndrome (ACS) within the past several years. It highlights the use of P2Y12 inhibitors and aspirin therapy, providing guidance based on levels of bleeding risk, history of myocardial infarction (MI), and other clinical scenarios. It is recommended to consider patient history, potential bleeding risks, and benefit-risk ratios when determining the duration of DAPT.",
+        "key points": [
+          "P2Y12 inhibitor therapy is recommended for varying durations depending on the history of ACS, MI, or stent implementation.",
+          "In patients with no prior MI or recent coronary intervention, continuing P2Y12 inhibitors is generally not beneficial.",
+          "In patients with prior MI, longer durations of P2Y12 inhibitor therapy may be reasonable based on individual risk assessments.",
+          "High bleeding risk requires careful consideration of the duration and necessity of continued therapy."
+        ]
+      },
+      "genes": [
+        {
+          "Gene": "P2Y12",
+          "Associated Conditions": [
+            "Ischemic Complications"
+          ],
+          "Occurrences": 4,
+          "context": "Clopidogrel is the only currently used P2Y12 inhibitor studied in patients with SIHD undergoing PCI. The greatest reduction in ischemic events was seen in patients in whom P2Y12 inhibitor therapy either had not been discontinued or had been discontinued \u226430 days before enrollment in the study."
+        }
+      ]
+    },
+    {
+      "content": {
+        "recommendations": [
+          {
+            "condition": "ACS treated with medical therapy alone",
+            "guidelines": [
+              {
+                "class": "I",
+                "level": "B-R",
+                "recommendation": "Continue DAPT with P2Y12 inhibitor therapy (clopidogrel or ticagrelor) for at least 12 months."
+              },
+              {
+                "class": "I",
+                "level": "B-NR",
+                "recommendation": "Daily aspirin dose of 81 mg is recommended."
+              },
+              {
+                "class": "IIa",
+                "level": "B-R",
+                "recommendation": "Prefer ticagrelor over clopidogrel for maintenance of P2Y12 inhibitor therapy."
+              },
+              {
+                "class": "IIb",
+                "level": "A",
+                "recommendation": "Continuation of DAPT for longer than 12 months may be reasonable in patients without high bleeding risk."
+              }
+            ]
+          },
+          {
+            "condition": "STEMI treated with fibrinolytic therapy",
+            "guidelines": [
+              {
+                "class": "I",
+                "level": "A",
+                "recommendation": "Continue P2Y12 inhibitor therapy (clopidogrel) for a minimum of 14 days, ideally at least 12 months."
+              },
+              {
+                "class": "I",
+                "level": "B-NR",
+                "recommendation": "Daily aspirin dose of 81 mg is recommended."
+              },
+              {
+                "class": "IIb",
+                "level": "A",
+                "recommendation": "Continuation of DAPT for longer than 12 months may be reasonable in patients without high bleeding risk."
+              }
+            ]
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "sections": [
+          {
+            "section": "7.3. Duration of DAPT in Patients With ACS Treated With PCI: Recommendations",
+            "recommendations": [
+              {
+                "COR": "I",
+                "LOE": "B-R",
+                "recommendation": "In patients with ACS treated with DAPT after BMS or DES implantation, P2Y12 inhibitor therapy (clopidogrel, prasugrel, or ticagrelor) should be given for at least 12 months."
+              },
+              {
+                "COR": "I",
+                "LOE": "B-NR",
+                "recommendation": "In patients treated with DAPT, a daily aspirin dose of 81 mg (range, 75 mg to 100 mg) is recommended."
+              },
+              {
+                "COR": "IIa",
+                "LOE": "B-R",
+                "recommendation": "In patients with ACS treated with DAPT after coronary stent implantation, it is reasonable to use ticagrelor in preference to clopidogrel for maintenance P2Y12 inhibitor therapy."
+              },
+              {
+                "COR": "IIa",
+                "LOE": "B-R",
+                "recommendation": "In patients with ACS treated with DAPT after coronary stent implantation, who are not at high risk for bleeding complications and who do not have a history of stroke or TIA, it is reasonable to choose prasugrel over clopidogrel for maintenance P2Y12 inhibitor therapy."
+              },
+              {
+                "COR": "IIb",
+                "LOE": "A",
+                "recommendation": "In patients with ACS treated with coronary stent implantation who have tolerated DAPT without bleeding complications and who are not at high bleeding risk, continuation of DAPT for longer than 12 months may be reasonable."
+              },
+              {
+                "COR": "IIb",
+                "LOE": "C-LD",
+                "recommendation": "In patients with ACS treated with DAPT after DES implantation who develop a high risk of bleeding or significant overt bleeding, discontinuation of P2Y12 therapy after 6 months may be reasonable."
+              },
+              {
+                "COR": "III: Harm",
+                "LOE": "B-R",
+                "recommendation": "Prasugrel should not be administered to patients with a prior history of stroke or TIA."
+              }
+            ]
+          },
+          {
+            "section": "7.4. Duration of DAPT in Patients With ACS Treated With CABG: Recommendation",
+            "recommendations": [
+              {
+                "COR": "I",
+                "LOE": "C-LD",
+                "recommendation": "In patients with ACS being treated with DAPT who undergo CABG, P2Y12 inhibitor therapy should be resumed after CABG to complete 12 months of DAPT therapy after ACS."
+              }
+            ]
+          },
+          {
+            "section": "7.5. Duration of DAPT in Patients With ACS",
+            "content": "Aspirin remains the cornerstone of antiplatelet therapy in patients with ACS. Further platelet inhibition can be achieved by blocking the P2Y12 receptor."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "summary": "The guideline discusses the recommended duration and considerations for Dual Antiplatelet Therapy (DAPT) in patients with Acute Coronary Syndrome (ACS) and those undergoing Percutaneous Coronary Intervention (PCI). It emphasizes the balance between reducing ischemic risks and increasing bleeding risks, especially post-myocardial infarction (MI). The document also outlines recommendations for elective noncardiac surgery timing in patients treated with PCI and DAPT, highlighting the need for careful assessment of the patient's individual situation and preferences.",
+        "clinical_recommendations": [
+          "DAPT is recommended for at least 12 months in patients treated with PCI without revascularization or reperfusion therapy.",
+          "Short-term treatment with clopidogrel is beneficial in STEMI patients not managed with primary PCI.",
+          "Prolonged DAPT (beyond 12 months) should be carefully considered, balancing ischemic and bleeding risks.",
+          "Elective noncardiac surgery should generally be delayed for specific timeframes after stent implantation to minimize risks."
+        ],
+        "surgery_timing_recommendations": [
+          {
+            "level_of_evidence": "I B-NR",
+            "recommendation": "Elective noncardiac surgery should be delayed 30 days after BMS implantation and optimally 6 months after DES implantation."
+          },
+          {
+            "level_of_evidence": "I C-EO",
+            "recommendation": "Aspirin should be continued if possible and P2Y12 inhibitor restarted post-surgery in patients who had to discontinue DAPT due to surgery."
+          },
+          {
+            "level_of_evidence": "IIa C-EO",
+            "recommendation": "Risk assessment is crucial for patients undergoing surgery who are on a P2Y12 inhibitor."
+          },
+          {
+            "level_of_evidence": "IIb C-EO",
+            "recommendation": "Elective surgery after DES implantation may be considered 3 months post-implant if surgical risks are lower than stent thrombosis risk."
+          },
+          {
+            "level_of_evidence": "III: Harm B-NR",
+            "recommendation": "Noncardiac surgery should be avoided within 30 days after BMS or 3 months after DES if DAPT discontinuation is required."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Title": "Focused Update on Duration of Dual Antiplatelet Therapy",
+        "Guideline Summary": "The guideline provides a treatment algorithm for the duration of P2Y12 inhibitor therapy in patients with recent acute coronary syndrome (ACS), including both non-ST-elevation ACS (NSTE-ACS) and ST-elevation myocardial infarction (STEMI). The algorithm recommends varying durations based on the type of medical intervention post-ACS, such as CABG, medical therapy, lytic therapy, or PCI. For each case, different inhibitors like clopidogrel, prasugrel, or ticagrelor are suggested with a duration of at least 12 months, with considerations for discontinuation in the presence of high bleeding risk.",
+        "Considerations for Noncardiac Surgery": "For patients with coronary stents, the risk of stent thrombosis and bleeding if dual antiplatelet therapy (DAPT) is interrupted are critical factors. DAPT significantly reduces the risk of stent thrombosis. The bleeding risk is highest in the first 4 to 6 weeks after stent implantation. Elevated risk persists even a year after DES placement.",
+        "Classifications": {
+          "Class I": "Strongly recommends specific durations of therapy in various scenarios, such as after CABG or PCI.",
+          "Class IIb": "Indicates that discontinuation may be reasonable after 6 or 12 months, contingent on bleeding risks."
+        },
+        "Terminology": {
+          "DAPT": "Dual Antiplatelet Therapy",
+          "CABG": "Coronary Artery Bypass Graft Surgery",
+          "PCI": "Percutaneous Coronary Intervention",
+          "DES, BMS": "Drug-Eluting Stent, Bare Metal Stent"
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Summary": "The clinical guideline addresses the timing of elective noncardiac surgery in patients with coronary stents, specifically those treated with dual antiplatelet therapy (DAPT) and drug-eluting stents (DES). The guideline highlights differences in recommendations based on the duration since stent implantation. For bare-metal stents (BMS) implanted less than 30 days ago, delaying surgery is advised (Class III: Harm), while for those implanted more than 30 days ago, surgery may proceed (Class I). For DES, surgery should be delayed for less than 3 months post-implantation (Class III: Harm) and may be considered after 3-6 months (Class IIb). Surgery is recommended after 6 months post-implantation (Class I). Newer-generation DES is associated with lower stent thrombosis risk and shorter DAPT durations."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "text": "If a P2Y12 inhibitor has been held before a surgical procedure, therapy is restarted as soon as possible, given the substantial thrombotic hazard associated with lack of platelet inhibition early after surgery in patients with recent stent implantation. Although several small studies have used intravenous antiplatelet agents as a means of 'bridging' in patients requiring temporary discontinuation of DAPT before surgery, there is no convincing clinical evidence demonstrating the efficacy of bridging with either parenteral antiplatelet or anticoagulant therapy. Decisions about the timing of surgery and whether to discontinue DAPT after coronary stent implantation are best individualized. Such decisions involve weighing the particular surgical procedure and the risks of delaying the procedure, the risks of ischemia and stent thrombosis, and the risk and consequences of bleeding. Given the complexity of these considerations, decisions are best determined by a consensus of the surgeon, anesthesiologist, cardiologist, and patient."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Focused Update on Duration of Dual Antiplatelet Therapy",
+        "introduction": "This guideline provides updates on the duration of dual antiplatelet therapy (DAPT) in patients, particularly those with coronary artery disease undergoing stent placements or other interventions.",
+        "key_topics": [
+          "The optimal duration of DAPT following various types of coronary interventions.",
+          "Comparisons between newer and older stent technologies in terms of DAPT requirements.",
+          "Impact of DAPT duration on mortality and cardiovascular events.",
+          "Guidance from various clinical trials and meta-analyses."
+        ],
+        "clinical_recommendations": [
+          "Patients post-myocardial infarction may benefit from longer durations of DAPT.",
+          "The risks associated with prolonged DAPT, especially regarding bleeding."
+        ],
+        "conclusion": "The guideline stresses individualized decision-making based on patient risk profiles, stent types, and clinical scenarios."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Focused Update on Duration of Dual Antiplatelet Therapy",
+        "publication": "JACC Vol. 68, No. 10, 2016",
+        "date": "September 6, 2016",
+        "focus": "The document primarily focuses on guidelines related to the duration of dual antiplatelet therapy (DAPT). It covers a variety of studies and trials that explore DAPT in the context of coronary stent thrombosis, acute coronary syndromes, myocardial infarction, and other cardiovascular conditions. Key studies and trials referenced include the PLATO trial, CURE study, and analysis from the ACC/AHA regarding antithrombotic therapy, among others."
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "General Information": [
+          "Discusses various studies and trials related to antiplatelet therapy, particularly after coronary stent placement.",
+          "Comparison of drug-eluting stents with bioresorbable scaffolds in terms of efficacy and safety.",
+          "Studies on the timing and discontinuation effects of antiplatelet therapies post-coronary surgeries.",
+          "Risks associated with clopidogrel and aspirin in acute coronary syndrome patients.",
+          "Long-term outcomes and comparisons between different stent types and antiplatelet regimens.",
+          "Evaluation of drug-coated balloons and bioresorbable stents."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Focused Update on Duration of Dual Antiplatelet Therapy",
+        "summary": "The document discusses clinical guidelines and findings related to dual antiplatelet therapy (DAPT), its duration, and the implications for patients undergoing various cardiac and non-cardiac surgical procedures. It covers factors influencing coronary artery bypass grafting, drug-eluting stents, and strategies for reducing cardiovascular risks. The guidelines also explore perioperative management and outcomes associated with different antiplatelet strategies.",
+        "key_points": [
+          "Evaluation of DAPT duration for patients with drug-eluting stents.",
+          "Impact of discontinuation and reintroduction of antithrombotic therapies in surgery settings.",
+          "Risk assessments for bleeding and thrombotic events.",
+          "Role of P2Y12 receptor inhibitors and aspirin in perioperative scenarios."
+        ],
+        "references": [
+          "PLATO trial on platelet inhibition.",
+          "Guidelines for bleeding risk assessment in surgeries.",
+          "Meta-analyses on DAPT in non-cardiac surgeries."
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "AUTHORIZ RELATIONSHIPS WITH INDUSTRY AND OTHER ENTITIES (RELEVANT)\u20142016 ACC/AHA GUIDELINE FOCUSED UPDATE ON DURATION OF DUAL ANTIPLATELET THERAPY IN PATIENTS WITH CORONARY ARTERY DISEASE (FEBRUARY 2015)",
+        "focus": "The table shows the relationships of committee members with industry and other entities that may pose a potential conflict of interest for the 2016 ACC/AHA guideline update on dual antiplatelet therapy for coronary artery disease.",
+        "committee_members": [
+          {
+            "name": "Glenn N. Levine",
+            "role": "Chair"
+          },
+          {
+            "name": "Eric R. Bates",
+            "role": "Vice Chair, PCI"
+          },
+          {
+            "name": "John A. Bittl",
+            "role": "Interventional Cardiologist"
+          },
+          {
+            "name": "Ralph G. Brindis",
+            "role": "Clinical Professor of Medicine"
+          },
+          {
+            "name": "Stephan D. Fihn",
+            "role": "Director, Office of Analytics and Business Intelligence"
+          },
+          {
+            "name": "Lee A. Fleisher",
+            "role": "Chair, Periop"
+          },
+          {
+            "name": "Christopher B. Granger",
+            "role": "Director, Cardiac Care Unit"
+          },
+          {
+            "name": "Richard A. Lange",
+            "role": "President, Paul L. Foster School of Medicine"
+          },
+          {
+            "name": "Michael J. Mack",
+            "role": "Director"
+          },
+          {
+            "name": "Laura Mauri",
+            "role": "Professor of Medicine, Harvard Medical School"
+          },
+          {
+            "name": "Roxana Mehran",
+            "role": "Professor of Medicine"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "document_title": "Focused Update on Duration of Dual Antiplatelet Therapy",
+        "authors": [
+          "Levine et al."
+        ],
+        "publication_details": {
+          "journal": "JACC",
+          "volume": 68,
+          "issue": 10,
+          "pages": "1082\u2013115",
+          "date": "September 6, 2016"
+        },
+        "appendix_title": "Appendix 1. Continued",
+        "committee_members_relations": [
+          {
+            "member": "Debabrata Mukherjee",
+            "employer_title": "Texas Tech University\u2014Chief, Cardiovascular Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_financial_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals": "None"
+          },
+          {
+            "member": "L. Kristin Newby",
+            "employer_title": "Duke University Medical Center, Division of Cardiology\u2014Professor of Medicine",
+            "consultant": [
+              "Janssen Pharmaceuticals",
+              "Merck"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": [
+              "Bristol-Myers Squibb",
+              "AstraZeneca"
+            ],
+            "institutional_organizational_financial_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals": "All sections"
+          },
+          {
+            "member": "Patrick T. O\u2019Gara",
+            "employer_title": "Harvard Medical School\u2014Professor of Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_financial_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals": "None"
+          },
+          {
+            "member": "Marc S. Sabatine",
+            "employer_title": "Brigham and Women\u2019s Hospital, Chairman\u2013TIMI Study Group, Division of Cardiovascular Medicine\u2013Harvard Medical School\u2014Professor of Medicine",
+            "consultant": [
+              "AstraZeneca",
+              "Merck",
+              "Sanofi-Aventis"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": [
+              "Abbott",
+              "AstraZeneca",
+              "Daiichi-Sankyo",
+              "Eisai",
+              "Merck",
+              "Sanofi-Aventis"
+            ],
+            "institutional_organizational_financial_benefit": "None",
+            "expert_witness": "Abbott",
+            "AstraZeneca": "Merck",
+            "voting_recusals": "All sections"
+          },
+          {
+            "member": "Peter K. Smith",
+            "employer_title": "Duke University Medical Center\u2014Professor of Surgery; Chief, Thoracic Surgery",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_financial_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals": "None"
+          },
+          {
+            "member": "Sidney C. Smith, Jr.",
+            "employer_title": "University of North Carolina\u2014Professor of Medicine, Center for Cardiovascular Science and Medicine\u2014Director",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_financial_benefit": "None",
+            "expert_witness": "None",
+            "voting_recusals": "None"
+          }
+        ],
+        "additional_notes": [
+          {
+            "topics": "relationships with industry and other entities",
+            "notes": "The table presents committee members' relationships relevant to the document. Reviewed and updated in conjunction with calls and meetings during document development."
+          },
+          {
+            "topics": "industrial relationships",
+            "notes": "A significant interest is defined by the relationship with >5% voting stock or other business interest held, >$5,000 interest, or income exceeding 5% of gross."
+          },
+          {
+            "topics": "transparency",
+            "notes": "Relationships with no financial benefit are also included. Writing committee members need to recuse from voting on sections where they have specific industry relationships."
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "title": "Reviewer Relationships with Industry and Other Entities (Relevant)\u20142016 ACC/AHA Guideline Focused Update on Duration of Dual Antiplatelet Therapy in Patients with Coronary Artery Disease (December 2015)",
+        "summary": "The table lists various reviewers, their roles, affiliations, and any relationships they have with industry and other entities. It highlights potential conflicts of interest in the context of guidelines for dual antiplatelet therapy in coronary artery disease.",
+        "categories": [
+          "Reviewer",
+          "Representation",
+          "Employment",
+          "Consultant",
+          "Speakers Bureau",
+          "Ownership/Partnership/Principal",
+          "Personal Research",
+          "Institutional/Organizational/Other Financial Benefit",
+          "Expert Witness"
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "reviewers": [
+          {
+            "name": "Vinay Badhwar",
+            "representation": "Organization Reviewer - STS",
+            "employment": "University of Pittsburgh Medical Center\u2014Director, Center for Mitral Valve Disease",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_other_financial_benefit": [
+              "Abbott",
+              "On-X Life Technologies"
+            ],
+            "expert_witness": "None"
+          },
+          {
+            "name": "Geoffrey D. Barnes",
+            "representation": "Organization Reviewer - SVM",
+            "employment": "University of Michigan\u2014Cardiologist, Vascular Medicine Specialist",
+            "consultant": "Portola",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "Blue Cross/Blue Shield of Michigan",
+            "institutional_organizational_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Kathy Berra",
+            "representation": "Organization Reviewer - PCNA",
+            "employment": "Stanford Prevention Research Center\u2014Clinical Trial Director",
+            "consultant": "Abor Pharmaceuticals",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Lola A. Coke",
+            "representation": "Organization Reviewer - PCNA",
+            "employment": "Rush University Medical Center\u2014Cardiovascular Clinical Nurse Specialist",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Harold L. Lazar",
+            "representation": "Organization Reviewer - AATS",
+            "employment": "Boston University Medical Center Department of Cardiology\u2014Professor of Cardiothoracic Surgery",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "Paraxel International (DSMB), Eli Lilly",
+            "institutional_organizational_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "David C. Mazer",
+            "representation": "Organization Reviewer - SCA",
+            "employment": "St. Michael's Hospital, University of Toronto\u2014Professor of Anesthesia",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "CSL Behring",
+            "institutional_organizational_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "John D. Puskas",
+            "representation": "Organization Reviewer - AATS",
+            "employment": "Icahn School of Medicine at Mount Sinai, Emory Crawford Long Hospital\u2014Chief of Cardiac Surgery",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Joseph F. Sabik",
+            "representation": "Organization Reviewer - STS",
+            "employment": "Cleveland Clinic, Department of Thoracic and Cardiovascular Surgery\u2014Department Chair",
+            "consultant": "Medistem",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "Abbott",
+            "institutional_organizational_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Linda Shore-Lesserson",
+            "representation": "Organization Reviewer - ASA/SCA",
+            "employment": "Hofstra Northwell School of Medicine\u2014Director, Cardiovascular Anesthesiology",
+            "consultant": "Elcam Medical, Grifols",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Scott M. Silvers",
+            "representation": "Organization Reviewer - ACEP",
+            "employment": "Mayo Clinic College of Medicine, Emergency Medicine\u2014Chair and Associate Professor",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Christian A. Tomaszewski",
+            "representation": "Organization Reviewer - ACEP",
+            "employment": "University of California San Diego Health\u2014Emergency Medicine, Medical Toxicology Specialist",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Sana M. Al-Khatib",
+            "representation": "Content Reviewer\u2014ACC/AHA Task Force on Clinical Practice Guidelines",
+            "employment": "Duke University Medical Center\u2014Associate Professor of Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_other_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Saif Anwaruddin",
+            "representation": "Content Reviewer\u2014ACC Interventional Scientific Council",
+            "employment": "University of Pennsylvania\u2014Transcatheter Valve Program Co-Director, Assistant Professor of Medicine",
+            "consultant": "None",
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": "None",
+            "institutional_organizational_other_financial_benefit": "None",
+            "expert_witness": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Document Type": "Appendix of a Clinical Guideline",
+        "Section": "Appendix 2 - Continued",
+        "Focus": "Representation, Employment, and Financial Disclosures of Reviewers",
+        "Reviewers Listed": [
+          "Deepak L. Bhatt",
+          "Kim K. Bircher",
+          "Biykem Bozkurt",
+          "Michael A. Borger",
+          "Mauricio G. Cohen",
+          "Frederico Gentile",
+          "Samuel S. Gidding",
+          "Alan L. Hinderliter",
+          "David R. Holmes",
+          "Jos\u00e9 A. Joglar"
+        ],
+        "Roles": "Content Reviewers and ACC/AHA Task Force on Clinical Practice Guidelines members",
+        "Information Provided": [
+          "Representation roles",
+          "Employment details",
+          "Consultancy details",
+          "Speakers bureau involvement",
+          "Ownership/partnership",
+          "Personal research funding",
+          "Institutional, organizational, or other financial benefits",
+          "Expert witness roles"
+        ],
+        "Research and Consulting": {
+          "Pharmaceuticals": [
+            "AstraZeneca",
+            "Bristol-Myers Squibb",
+            "PLx Pharma",
+            "Regado Biosciences",
+            "Sanofi-Aventis"
+          ],
+          "Medical Devices": [
+            "Terumo Medical"
+          ]
+        }
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "Reviewers": [
+          {
+            "Name": "Ajay J. Kirtane",
+            "Role": "Content Reviewer",
+            "Employment": "Columbia University Medical Center",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Personal Research": [
+              "Abbott Vascular",
+              "Eli Lilly"
+            ],
+            "Institutional/Organizational Benefit": [
+              "Abbott Vascular",
+              "Eli Lilly"
+            ]
+          },
+          {
+            "Name": "Lloyd W. Klein",
+            "Role": "Content Reviewer",
+            "Employment": "Rush Medical College",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Benefit": "None"
+          },
+          {
+            "Name": "David J. Maron",
+            "Role": "Content Reviewer",
+            "Employment": "Stanford University School of Medicine",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Benefit": "None"
+          },
+          {
+            "Name": "Gilles Montalescot",
+            "Role": "Content Reviewer",
+            "Employment": "Pitie-Salpetriere University Hospital",
+            "Consultant": [
+              "Acuity",
+              "AstraZeneca",
+              "Bayer",
+              "Bristol-Myers Squibb",
+              "Daiichi-Sankyo",
+              "Eli Lilly",
+              "Lead-up",
+              "Medcon International",
+              "Menarini",
+              "MSD",
+              "Sanofi-Aventis",
+              "Stentys"
+            ],
+            "Speakers Bureau": "None",
+            "Personal Research": [
+              "AstraZeneca",
+              "Bristol-Myers Squibb",
+              "Celiadon",
+              "Daiichi-Sankyo",
+              "Eli Lilly",
+              "Jansen-CilagRecor",
+              "Sanofi-Aventis",
+              "Stentys"
+            ],
+            "Institutional/Organizational Benefit": "None"
+          },
+          {
+            "Name": "Mark A. Munger",
+            "Role": "Content Reviewer",
+            "Employment": "University of Utah",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Benefit": "None"
+          },
+          {
+            "Name": "E. Magnus Ohman",
+            "Role": "Content Reviewer",
+            "Employment": "Duke University",
+            "Consultant": [
+              "AstraZeneca",
+              "Janssen Pharmaceuticals"
+            ],
+            "Speakers Bureau": "None",
+            "Personal Research": [
+              "Daiichi-Sankyo",
+              "Eli Lilly",
+              "Janssen Pharmaceuticals"
+            ],
+            "Institutional/Organizational Benefit": "None"
+          },
+          {
+            "Name": "Eric R. Powers",
+            "Role": "Content Reviewer",
+            "Employment": "Medical University of South Carolina",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Benefit": "None"
+          },
+          {
+            "Name": "Susan J. Pressler",
+            "Role": "Content Reviewer",
+            "Employment": "Indiana School of Nursing",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Benefit": "None"
+          },
+          {
+            "Name": "Sunil V. Rao",
+            "Role": "Content Reviewer",
+            "Employment": "Duke University Medical Center",
+            "Consultant": "None",
+            "Speakers Bureau": "None",
+            "Personal Research": "None",
+            "Institutional/Organizational Benefit": "None"
+          }
+        ]
+      },
+      "genes": []
+    },
+    {
+      "content": {
+        "reviewers": [
+          {
+            "name": "Philippe Gabriel Steg",
+            "representation": "Content Reviewer",
+            "employment": "Universit\u00e9 Paris-Diderot \u2013 Professor",
+            "consultant": [
+              "AstraZeneca",
+              "Bristol-Myers Squibb*",
+              "Daiichi-Sankyo",
+              "Eli Lilly",
+              "Merck"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": [
+              "AstraZeneca*"
+            ],
+            "institutional_organizational_financial_benefit": "None",
+            "expert_witness": "None"
+          },
+          {
+            "name": "Tracy Y. Wang",
+            "representation": "Content Reviewer",
+            "employment": "Duke University Medical Center \u2013 Associate Professor of Medicine",
+            "consultant": [
+              "AstraZeneca*",
+              "Eli Lilly"
+            ],
+            "speakers_bureau": "None",
+            "ownership_partnership_principal": "None",
+            "personal_research": [
+              "AstraZeneca*",
+              "Bristol-Myers Squibb*",
+              "Eli Lilly/Daiichi-Sankyo Alliance*"
+            ],
+            "institutional_organizational_financial_benefit": "None",
+            "expert_witness": "None"
+          }
+        ],
+        "disclaimer": "This table represents the relationships of reviewers with industry and other entities that were disclosed at the time of peer review and determined to be relevant to this document. It does not necessarily reflect relationships with industry at the time of publication. A person is deemed to have a significant interest in a business if the interest represents ownership of  \u22655% of the voting stock or share of the business entity, or ownership of \u2265$5,000 of the fair market value of the business entity, or if funds received by the person from the business entity exceed 5% of the person's gross income for the previous year. A relationship is considered to be modest if it is less than significant under the preceding definition. Relationships that exist with no financial benefit are also included for the purpose of transparency."
+      },
+      "genes": []
+    }
+  ],
+  "genes": [
+    {
+      "Gene": "P2Y12",
+      "Associated Conditions": [
+        "ischemic events",
+        "MACE",
+        "Ischemic Risk",
+        "Bleeding Risk",
+        "Ischemic Complications"
+      ],
+      "Occurrences": 10,
+      "context": [
+        "Benefit in patients when P2Y12 inhibitor therapy either had not been discontinued or had been discontinued for \u226430 days.",
+        "Intensification of antiplatelet therapy, with the addition of a P2Y12 inhibitor to aspirin monotherapy, lowers ischemic risk but increases bleeding risk. Recommendations suggest that decisions about treatment duration of DAPT require consideration of P2Y12 inhibitor therapy.",
+        "Clopidogrel is the only currently used P2Y12 inhibitor studied in patients with SIHD undergoing PCI. The greatest reduction in ischemic events was seen in patients in whom P2Y12 inhibitor therapy either had not been discontinued or had been discontinued \u226430 days before enrollment in the study."
+      ]
+    }
+  ]
+}

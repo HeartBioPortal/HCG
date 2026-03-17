@@ -1,0 +1,37 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "COR": "I",
+        "LOE": "B-NR",
+        "text": "In young patients (<40 years of age) with unexplained SCA, unexplained near drowning, or recurrent exertional syncope, who do not have ischemic or other structural heart disease, further evaluation for genetic arrhythmia syndromes is recommended."
+      },
+      {
+        "COR": "I",
+        "LOE": "B-NR",
+        "text": "In patients resuscitated from SCA due to idiopathic polymorphic VT or VF, an ICD is recommended if meaningful survival greater than 1 year is expected."
+      },
+      {
+        "COR": "I",
+        "LOE": "B-NR",
+        "text": "For patients with recurrent episodes of idiopathic VF initiated by PVCs with a consistent QRS morphology, catheter ablation is useful."
+      }
+    ],
+    "supportive_texts": [
+      "When combined with clinical evaluation, genetic testing can provide a diagnosis in up to 13% to 60% of younger (<40 years of age) survivors of SCA, with the most common genotypes identified associated with long QT syndrome, catecholaminergic polymorphic ventricular tachycardia, and Brugada syndrome.",
+      "VF in the absence of identifiable structural heart disease or known genetic arrhythmia syndromes such as catecholaminergic polymorphic ventricular tachycardia, long QT syndrome, short QT syndrome, Brugada syndrome, or J wave syndromes is usually the result of short coupled PVCs arising from the Purkinje system in either the right or left ventricles or, less commonly, from the ventricular myocardium.",
+      "The recurrence risk after resuscitation of idiopathic VF is very high."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "LQT1",
+      "Associated Conditions": [
+        "Long QT syndrome",
+        "Catecholaminergic polymorphic ventricular tachycardia"
+      ],
+      "Occurrences": 1,
+      "context": "Drowning/near drowning events are particularly associated with LQT1 and catecholaminergic polymorphic ventricular tachycardia; genetic mutations in long QT syndrome and catecholaminergic polymorphic ventricular tachycardia have been identified in 23% of patients with unexplained near-drowning episodes."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "content": {
+    "Title": "Recommendation for Diagnostic Testing: Exercise Testing in Patients with Rheumatic MS",
+    "Recommendations": [
+      {
+        "Section": "Diagnostic Testing: Exercise Testing",
+        "Class of Recommendation (COR)": 1,
+        "Level of Evidence (LOE)": "C-LD",
+        "Text": "In patients with rheumatic MS and a discrepancy between resting echocardiographic findings and clinical symptoms, exercise testing with Doppler or invasive hemodynamic assessment is recommended to evaluate symptomatic response, exercise capacity, and the response of the mean mitral gradient and pulmonary artery pressure."
+      },
+      {
+        "Section": "Medical Therapy",
+        "Class of Recommendation (COR)": 1,
+        "Level of Evidence (LOE)": "C-LD",
+        "Text": "In patients with rheumatic MS and 1) AF, 2) a prior embolic event, or 3) an LA thrombus, anticoagulation with a VKA is indicated."
+      },
+      {
+        "Section": "Medical Therapy",
+        "Class of Recommendation (COR)": 2,
+        "Level of Evidence (LOE)": "C-LD",
+        "Text": "In patients with rheumatic MS and AF with a rapid ventricular response, heart rate control can be beneficial."
+      },
+      {
+        "Section": "Medical Therapy",
+        "Class of Recommendation (COR)": 2,
+        "Level of Evidence (LOE)": "A",
+        "Text": "In patients with rheumatic MS in normal sinus rhythm with symptomatic resting or exertional sinus tachycardia, heart rate control can be beneficial to manage symptoms."
+      }
+    ],
+    "Synopsis": "Exercise testing with hemodynamics is important if resting hemodynamics do not match clinical symptoms in patients with rheumatic MS. Anticoagulation decreases thromboembolic events in patients with rheumatic MS and AF, especially with prior embolic events or when an LA thrombus is identified. Heart rate control with beta blockers, calcium channel blockers, or ivabradine is advised in patients with tachycardia."
+  },
+  "genes": []
+}

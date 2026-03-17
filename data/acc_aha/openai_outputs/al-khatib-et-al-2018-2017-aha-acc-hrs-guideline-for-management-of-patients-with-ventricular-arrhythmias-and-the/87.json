@@ -1,0 +1,13 @@
+{
+  "content": {
+    "Wearable Cardioverter-Defibrillator": "Used for patients at risk of VT/SCD. Effectiveness includes 99% first shock success and 2% inappropriate shocks reported.",
+    "ICD Removal": "Recommended in cases of infection, allowing wearable defibrillator use. Clinically supervised removal helps manage risks.",
+    "Alternative External Defibrillator": "Effective if used minutes after onset of VF, especially by first responders.",
+    "Catheter Ablation": [
+      "Useful for bundle-branch reentrant VT with structural heart disease.",
+      "Indicated for patients who fail endocardial catheter ablation for structural heart disease."
+    ],
+    "FDA Approval": "AEDs approved over-the-counter; enhanced accessibility increases survival rates for at-home SCAs."
+  },
+  "genes": []
+}

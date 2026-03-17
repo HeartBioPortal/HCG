@@ -1,0 +1,38 @@
+{
+  "content": {
+    "overview": "The guidelines discuss various clinical studies and approaches related to Long QT Syndrome (LQTS) and other cardiac arrhythmias, focusing on genetic, pharmacological, and therapeutic aspects.",
+    "key_topics": [
+      "Long-term follow-up and management of patients with Long QT Syndrome.",
+      "Efficacy and limitations of beta-blocker therapy in congenital Long QT Syndrome.",
+      "Risk factors and outcomes related to implantable cardioverter defibrillators (ICDs) in patients with different arrhythmia syndromes.",
+      "Genetic screening and mutation-specific approaches to managing LQTS.",
+      "Exercise-based testing and its validation for assessing Long QT Syndrome."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "LQT1",
+      "Associated Conditions": [
+        "Long QT Syndrome"
+      ],
+      "Occurrences": 5,
+      "context": "LQT1 affects cardiac response to exercise due to mutations in related genes, leading to prolonged QT intervals and potential syncope or arrhythmia during stress."
+    },
+    {
+      "Gene": "LQT2",
+      "Associated Conditions": [
+        "Long QT Syndrome"
+      ],
+      "Occurrences": 4,
+      "context": "LQT2 is linked with increased risk during stress or sleep, associated with defects in ion channels affecting cardiac repolarization."
+    },
+    {
+      "Gene": "LQT3",
+      "Associated Conditions": [
+        "Long QT Syndrome"
+      ],
+      "Occurrences": 3,
+      "context": "LQT3 can result in prolonged QT intervals especially during rest, with genetic mutations affecting sodium ion channels."
+    }
+  ]
+}

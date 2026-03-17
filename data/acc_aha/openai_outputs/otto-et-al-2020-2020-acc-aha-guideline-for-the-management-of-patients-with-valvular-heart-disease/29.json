@@ -1,0 +1,25 @@
+{
+  "content": {
+    "clinical_guideline_summary": [
+      "Surveillance has shown that early surgery benefits patients with aortic velocity \u22654.5 m/s.",
+      "In asymptomatic adults with severe AS, elevated BNP levels are linked to a higher risk of AS-related events.",
+      "Hemodynamic progression in AS can lead to symptom onset, often once aortic velocity reaches \u22652 m/s.",
+      "Rapid disease progression predictors include older age and severe valve calcification.",
+      "AS patients require periodic monitoring for symptom development and progressive disease.",
+      "Low surgical risk suggests elective AVR may be beneficial for symptom onset prevention."
+    ],
+    "recommendations": [
+      {
+        "COR": "1",
+        "LOE": "C-EO",
+        "Description": "In patients with an indication for AVR, the choice of prosthetic valve should consider the patient's values, preferences, and related risks."
+      },
+      {
+        "COR": "1",
+        "LOE": "C-EO",
+        "Description": "Bioprosthetic AVR is recommended for patients of any age requiring AVR who cannot manage VKA anticoagulant therapy."
+      }
+    ]
+  },
+  "genes": []
+}

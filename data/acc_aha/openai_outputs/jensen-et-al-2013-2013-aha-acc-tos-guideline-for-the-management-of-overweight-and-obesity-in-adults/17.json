@@ -1,0 +1,36 @@
+{
+  "content": {
+    "Chronic Disease Management": "The guideline emphasizes the need for a committed patient with informed providers to effectively manage chronic conditions like obesity and its cardiovascular risk factors.",
+    "Clinical Questions (CQs)": "CQs and Corresponding ESs are discussed, involving systematic reviews and meta-analyses with evaluations for good or fair quality articles.",
+    "CQ1": {
+      "Statement": "Addresses the effects of body weight reduction through lifestyle and pharmacological interventions on cardiovascular risk factors, CVD events, morbidity, and mortality.",
+      "Demographic and Clinical Characteristics": [
+        "Age",
+        "Sex",
+        "Race/ethnicity",
+        "Baseline BMI",
+        "Baseline waist circumference",
+        "Presence or absence of comorbid conditions",
+        "Presence or absence of cardiovascular risk factors"
+      ],
+      "Important Questions": [
+        "Effect of demographic factors on results",
+        "Amount of weight loss for cardiovascular benefit",
+        "Benefits of further weight loss",
+        "Effect of sustained weight loss over 2 years on outcomes"
+      ]
+    },
+    "Review Details": "The ESs reflect the Expert Panel's review of the published literature as of October 2011.",
+    "Evidence Statements": {
+      "ES1": {
+        "Description": "Weight loss of 2.5 to 5.5 kg over 2 years reduces risk of developing type 2 diabetes by 30% to 60%.",
+        "Strength of Evidence": "High"
+      },
+      "ES2": {
+        "Description": "2% to 5% weight loss in 1-4 years reduces fasting plasma glucose and hemoglobin A1c by 0.2% to 0.3%.",
+        "Strength of Evidence": "High"
+      }
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,47 @@
+{
+  "content": {
+    "Guideline Title": "2013 AHA/ACC/TOS Guideline for Obesity",
+    "Strength of Evidence": {
+      "High-Intensity Interventions": "High",
+      "Low-Intensity Interventions": "Moderate",
+      "Effect of Intervention Intensity": "Moderate",
+      "Individual vs Group Treatment": "Low",
+      "On-Site vs Electronically Delivered Interventions": "Low"
+    },
+    "Weight Loss Recommendations": {
+      "High-Intensity Interventions": "\u226514 sessions in 6 months to achieve greater weight loss compared to low- to moderate-intensity interventions.",
+      "On-Site Delivery": "Greater weight loss compared to electronic delivery."
+    },
+    "Bariatric Surgery": {
+      "Procedures Discussed": [
+        "Laparoscopic adjustable gastric banding (LAGB)",
+        "Laparoscopic Roux-en-Y gastric bypass (RYGB)",
+        "Open RYGB",
+        "Biliopancreatic diversion (BPD) with and without duodenal switch",
+        "Sleeve gastrectomy"
+      ],
+      "Patient BMIs and Comorbidities": [
+        "BMI <35",
+        "BMI 35 to <40 with no comorbidities",
+        "BMI \u226535 with comorbidities",
+        "BMI \u226540 with no comorbidities"
+      ]
+    },
+    "Questions Posed": [
+      "Long-term effects of surgical procedures on weight loss and comorbidities.",
+      "Predictors associated with long-term effects and complications."
+    ],
+    "Complications": {
+      "Short-term": "<30 days",
+      "Long-term": "\u226530 days",
+      "Predictors of complications": [
+        "LAGB",
+        "Laparoscopic RYGB",
+        "Open RYGB",
+        "BPD with and without duodenal switch",
+        "Sleeve gastrectomy"
+      ]
+    }
+  },
+  "genes": []
+}

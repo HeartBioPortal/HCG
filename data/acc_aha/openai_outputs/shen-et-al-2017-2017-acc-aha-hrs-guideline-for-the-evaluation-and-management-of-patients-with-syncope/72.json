@@ -1,0 +1,36 @@
+{
+  "content": {
+    "abbreviations": {
+      "ACD": "adult congenital heart disease",
+      "ARVC": "arrhythmogenic right ventricular cardiomyopathy",
+      "AV": "atrioventricular",
+      "CHD": "congenital heart disease",
+      "CPVT": "catecholaminergic polymorphic ventricular tachycardia",
+      "CT": "computed tomography",
+      "ECG": "electrocardiogram/electrocardiographic",
+      "ED": "emergency department",
+      "EEG": "electroencephalogram/electroencephalography",
+      "EPS": "electrophysiological study",
+      "GDMT": "guideline-directed management and therapy",
+      "HCM": "hypertrophic cardiomyopathy",
+      "HF": "heart failure",
+      "ICD": "implantable cardioverter-defibrillator",
+      "ICM": "implantable cardiac monitor",
+      "LCSD": "left cardiac sympathetic denervation",
+      "LQTS": "long-QT syndrome",
+      "LV": "left ventricular",
+      "MRI": "magnetic resonance imaging",
+      "OH": "orthostatic hypotension",
+      "QoL": "quality of life",
+      "RCT": "randomized controlled trial",
+      "POTS": "postural tachycardia syndrome",
+      "SCD": "sudden cardiac death",
+      "SVT": "supraventricular tachycardia",
+      "VA": "ventricular arrhythmia",
+      "VF": "ventricular fibrillation",
+      "VT": "ventricular tachycardia",
+      "VVS": "vasovagal syncope"
+    }
+  },
+  "genes": []
+}

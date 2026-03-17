@@ -1,0 +1,28 @@
+{
+  "content": {
+    "section": "Revascularization and Cardiovascular Outcomes",
+    "main_points": [
+      "Revascularization showed no effect on cardiovascular death and MI after four years, but a reduction in mortality was observed with follow-up.",
+      "The ISCHEMIA trial noted increased procedural MIs but no significant reduction in overall MI with revascularization.",
+      "Spontaneous MI was associated with increased risk of death, while procedural MI showed no such risk.",
+      "No direct RCTs compare PCI to medical therapy; focus has been on CABG versus PCI.",
+      "Survival rates for PCI and CABG are similar in patients with left main CAD.",
+      "FFR-guided PCI in CCD can reduce procedural costs.",
+      "FFR in stable angina shows economic value by reducing procedure rates."
+    ],
+    "trials": [
+      {
+        "name": "ISCHEMIA trial",
+        "findings": "Increased procedural MIs, reduction in mortality with follow-up."
+      },
+      {
+        "name": "FAME-2 trial",
+        "findings": "FFR-guided PCI reduced procedural costs."
+      }
+    ],
+    "considerations": [
+      "Patient-centered decisions in Heart Teams are critical in deciding revascularization approaches."
+    ]
+  },
+  "genes": []
+}

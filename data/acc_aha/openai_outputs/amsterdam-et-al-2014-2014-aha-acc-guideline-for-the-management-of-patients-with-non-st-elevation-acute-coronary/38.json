@@ -1,0 +1,78 @@
+{
+  "content": {
+    "Plan of Care": "Plan of Care for Patients With NSTE-ACS",
+    "Medications": [
+      {
+        "Antithrombotic therapies": "Sections 6.2.1 and 6.2.2"
+      },
+      {
+        "Beta blockers": "Section 4.1.2.3"
+      },
+      {
+        "ACE inhibitors/ARBs/aldosterone antagonists": "Section 4.2"
+      },
+      {
+        "CCBs": "Section 4.1.2.4"
+      },
+      {
+        "Statins": "2013 Blood Cholesterol CPG"
+      }
+    ],
+    "Management of Risks and Comorbidities": [
+      {
+        "Discontinuation of antithrombotic therapies": "2014 SIHD focused update, 2012 SIHD CPG, 2012 Management of AMI in patients with persistent STEMI CPG, 2011 Secondary prevention CPG, 2007 Science Advisory on the prevention of premature discontinuation of DAPT in patients with coronary artery stents"
+      },
+      {
+        "Inappropriate use of analgesics (NSAIDs)": "2010 Expert consensus document on PPIs and thienopyridines"
+      },
+      {
+        "Use of PPIs": "2011 PCI CPG"
+      }
+    ],
+    "Risk Factor Modification/Lifestyle Interventions and Cardiac Rehabilitation": [
+      {
+        "Smoking cessation": "Tobacco cessation toolkit"
+      },
+      {
+        "Diet nutrition": "2013 Lifestyle CPG"
+      },
+      {
+        "Physical activity": "2013 Lifestyle CPG, 2011 Secondary prevention CPG"
+      },
+      {
+        "Cardiorespiratory fitness (MET capacity)": "2011 Secondary prevention CPG"
+      }
+    ],
+    "Psychosocial Factors": [
+      {
+        "Sexual activity": "2012 Scientific statement on sexual activity and cardiovascular disease, 2013 Consensus document on sexual counseling for individuals with cardiovascular disease and their partners"
+      },
+      {
+        "Gender-Specific issues": "2007 Cardiovascular disease prevention in women CPG"
+      },
+      {
+        "Depression, stress, and anxiety": "2008 Science advisory on depression and coronary heart disease"
+      },
+      {
+        "Alcohol use": "2011 Secondary prevention CPG"
+      }
+    ],
+    "Clinician Follow-Up": [
+      {
+        "Cardiologist": "2011 Secondary prevention CPG"
+      },
+      {
+        "Primary care clinician": "2013 Hospital to Home Quality Initiative"
+      },
+      {
+        "Pharmacist": "2013 Discharge counseling for patients with HF or MI"
+      }
+    ],
+    "Vaccination": [
+      {
+        "Influenza vaccination": "2005 Recommendations for prevention and control of influenza"
+      }
+    ]
+  },
+  "genes": []
+}

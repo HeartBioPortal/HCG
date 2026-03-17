@@ -1,0 +1,49 @@
+{
+  "content": {
+    "title": "Suggested Thresholds for Structural Heart Disease and Evidence of Increased Filling Pressures",
+    "categories": {
+      "Morphology": [
+        "LAVI > 29 mL/m\u00b2",
+        "LVMI > 115/96 g/m\u00b2",
+        "RWT > 0.42",
+        "LV wall thickness \u2265 12 mm"
+      ],
+      "Ventricular systolic function": [
+        "LVEF < 50%",
+        "GLS < 16%"
+      ],
+      "Ventricular diastolic function": [
+        "Average E/e' \u2265 15 for increased filling pressures",
+        "Septal e' < 7 cm/s",
+        "Lateral e' < 10 cm/s",
+        "TR velocity > 2.8 m/s",
+        "Estimated PA systolic pressure > 35 mm Hg"
+      ],
+      "Biomarker": [
+        "BNP \u2265 35 pg/mL",
+        "NT-proBNP \u2265 125 pg/mL"
+      ]
+    },
+    "notes": [
+      "Cutoffs for natriuretic peptide levels may have lower specificity in older patients or in those with AF or CKD.",
+      "Higher cutoff values are recommended for these populations.",
+      "Natriuretic peptide cutoffs for population screening for pre-HF may be set < 99% reference limits."
+    ],
+    "abbreviations": {
+      "AF": "Atrial fibrillation",
+      "BNP": "Brain natriuretic peptide",
+      "CKD": "Chronic kidney disease",
+      "GLS": "Global longitudinal strain",
+      "HF": "Heart failure",
+      "LAVI": "Left atrial volume index",
+      "LV": "Left ventricular",
+      "LVEF": "Left ventricular ejection fraction",
+      "LVMI": "Left ventricular mass index",
+      "NT-proBNP": "Natriuretic peptide tests",
+      "PA": "Pulmonary artery",
+      "RWT": "Relative wall thickness",
+      "TR": "Tricuspid regurgitation"
+    }
+  },
+  "genes": []
+}

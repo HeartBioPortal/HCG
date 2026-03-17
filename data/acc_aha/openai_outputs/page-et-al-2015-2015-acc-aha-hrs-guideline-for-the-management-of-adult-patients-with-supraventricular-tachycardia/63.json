@@ -1,0 +1,50 @@
+{
+  "content": {
+    "section_4": {
+      "title": "Surgical ablation of AT or atrial flutter can be effective in ACHD patients undergoing planned surgical repair",
+      "class": "IIa, B-NR",
+      "details": [
+        "In patients with symptomatic SVT undergoing planned surgical repairs, arrhythmia surgery can be integrated into the operation.",
+        "Success rates for catheter ablation in patients with prior Fontan repairs are lower compared to others, with acute success in 54% to 75% and long-term freedom from AT in 27% to 50%.",
+        "No RCTs exist to compare efficacy of catheter versus surgical ablation.",
+        "Surgical repair without arrhythmia intervention is associated with higher recurrence rates of AT."
+      ]
+    },
+    "section_1": {
+      "title": "Atrial pacing may be reasonable to decrease recurrences of AT or atrial flutter in ACHD patients and sinus node dysfunction",
+      "class": "IIb, B-NR",
+      "details": [
+        "Atrial pacing is programmed to maintain pacing for the majority of time.",
+        "This approach significantly reduces tachycardia recurrences to 11% in this study.",
+        "Pacemakers can terminate recurrent episodes of AT or flutter."
+      ]
+    },
+    "section_2": {
+      "title": "Oral dofetilide may be reasonable for prevention of recurrent AT or atrial flutter in ACHD patients",
+      "class": "IIb, B-NR",
+      "details": [
+        "High rate of acute conversion of AT with longer-term efficacy ranging from 70%-85%.",
+        "Association with torsades de pointes in 10%.",
+        "Dofetilide is recommended during 72-hour inpatient monitoring."
+      ]
+    },
+    "section_3": {
+      "title": "Amiodarone may be reasonable for prevention of recurrent AT or atrial flutter in ACHD patients for whom other medications and catheter ablation are ineffective or contraindicated",
+      "class": "IIb, B-NR",
+      "details": [
+        "Effective in maintaining sinus rhythm but with side effects like thyroid disorders or AV block.",
+        "Increased risk with higher dosages.",
+        "Amiodarone is recommended for short-term use."
+      ]
+    },
+    "section_4b": {
+      "title": "Flecainide should not be administered for treatment of SVT in ACHD patients and significant ventricular dysfunction",
+      "class": "III: Harm, B-NR",
+      "details": [
+        "Flecainide shows high risk in patients with complex heart disease or ventricular dysfunction.",
+        "Efficacy was 71% in a study with 579 patients."
+      ]
+    }
+  },
+  "genes": []
+}

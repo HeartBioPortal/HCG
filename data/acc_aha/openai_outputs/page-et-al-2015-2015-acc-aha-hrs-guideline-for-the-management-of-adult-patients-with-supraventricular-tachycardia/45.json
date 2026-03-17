@@ -1,0 +1,24 @@
+{
+  "content": {
+    "Recommendations for Asymptomatic Patients with Pre-Excitation": [
+      {
+        "COR": "I",
+        "LOE": "B-NR, C-LD",
+        "Recommendation": "In asymptomatic patients with pre-excitation, the findings of abrupt loss of conduction over a manifest pathway during exercise testing in sinus rhythm or intermittent loss of pre-excitation during ECG or ambulatory monitoring are useful to identify patients at low risk of rapid conduction over the pathway."
+      },
+      {
+        "COR": "IIa",
+        "LOE": "B-NR",
+        "Recommendation": "An EP study is reasonable in asymptomatic patients with pre-excitation to risk-stratify for arrhythmic events. Catheter ablation of the accessory pathway is reasonable in asymptomatic patients with pre-excitation if an EP study identifies a high risk of arrhythmic events, including rapidly conducting pre-excited AF."
+      },
+      {
+        "COR": "IIa",
+        "LOE": "B-NR",
+        "Recommendation": "Catheter ablation of the accessory pathway is reasonable in asymptomatic patients if the presence of pre-excitation precludes specific employment. Patients with asymptomatic pre-excitation whose job activities involve potential dangers should be considered for ablation."
+      }
+    ],
+    "Noninvasive Testing": "Noninvasive testing helps in identifying patients at low risk of rapid conduction over the accessory pathway and life-threatening ventricular arrhythmias.",
+    "Study Outcomes": "Malignant arrhythmias correlated more with high-risk EP properties of the accessory pathway than with the presence of symptoms. Ablation success rate is approximately 95%, with a low risk of major complications during follow-up."
+  },
+  "genes": []
+}

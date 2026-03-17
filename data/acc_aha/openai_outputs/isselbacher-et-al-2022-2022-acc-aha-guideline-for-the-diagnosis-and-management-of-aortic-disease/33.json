@@ -1,0 +1,26 @@
+{
+  "content": {
+    "protocol": "Evaluation and Genetic Testing for Patients with Thoracic Aortic Disease (TAD)",
+    "indications": [
+      "Features of MFS, LDS, or vEDS",
+      "Family history of TAD, intracranial or peripheral aneurysm",
+      "TAD <60 years of age",
+      "Sporadic patients (\u226560 years of age)"
+    ],
+    "testing": {
+      "genetic_testing": "Recommended for individuals with syndromic features, family history of TAD, and/or early age of disease onset.",
+      "positive_result": {
+        "action": "Cascade testing for at-risk relatives; gene-based management."
+      },
+      "negative_or_vus_result": {
+        "action": "Imaging for aortic dilation/aneurysms in at-risk family members."
+      },
+      "result_for_relatives": {
+        "positive_test": "Test offspring.",
+        "negative_test": "Offspring at general population risk for TAAD."
+      }
+    },
+    "recommendations": "Thoracic aortic imaging is recommended for first-degree relatives of all individuals with TAD, regardless of age of onset, to detect asymptomatic aneurysms."
+  },
+  "genes": []
+}

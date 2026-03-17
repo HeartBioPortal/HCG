@@ -1,0 +1,31 @@
+{
+  "content": {
+    "title": "2020 ACC/AHA Guideline for the Management of Valvular Heart Disease",
+    "volume": "JACC VOL. 77, NO. 4, 2021",
+    "date": "FEBRUARY 2, 2021",
+    "context": [
+      "Management of complications are improved by monitoring in a tertiary-care center with an experienced team for high-risk cardiac conditions during pregnancy.",
+      "Patients with severe valve disease may be asymptomatic, posing diagnostic and therapeutic challenges for pregnant women.",
+      "Exercise testing is recommended for risk assessment in uncertain cases.",
+      "Medical therapy recommendations for women with valvular heart disease (VHD) during pregnancy include: use of beta-blockers for heart rate control or arrhythmias, diuretics for volume overload during HF symptoms, and avoidance of ACE inhibitors and ARBs due to fetal risks.",
+      "Beta-blockers must be used judiciously due to potential fetal growth concerns."
+    ],
+    "recommendations": {
+      "beta_blockers": {
+        "use": "Control heart rate or treat arrhythmias",
+        "fetal_risks": "Associated with lower birth weight compared to non-users"
+      },
+      "diuretics": {
+        "use": "Treat volume overload in HF symptoms",
+        "fetal_risks": "Associated with low birth weight and fetal mortality"
+      },
+      "ACE_inhibitors_ARBs": {
+        "use": "Not recommended due to fetal malformations"
+      }
+    },
+    "references": [
+      "Data from ROPAC (Registry On Pregnancy And Cardiac Disease) and support from European Society of Cardiology."
+    ]
+  },
+  "genes": []
+}

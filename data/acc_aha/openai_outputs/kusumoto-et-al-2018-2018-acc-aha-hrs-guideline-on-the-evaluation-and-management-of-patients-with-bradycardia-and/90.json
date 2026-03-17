@@ -1,0 +1,42 @@
+{
+  "content": {
+    "title": "2018 Bradycardia Guideline",
+    "authors": "Kusumoto et al.",
+    "sections": [
+      {
+        "section": "6. BRADYCARDIA ATTRIBUTABLE TO ATRIOVENTRICULAR BLOCK",
+        "subsections": [
+          {
+            "subsection": "6.2. Clinical Presentation",
+            "details": [
+              "Prevention of syncope through permanent cardiac pacing in patients with bifascicular block and syncope of unknown origin.",
+              "Ventricular-atrial gradient and its use as a surrogate for stress device-ventricular block.",
+              "First-degree atrioventricular block: clinical manifestations, indications for pacing, pacemaker management.",
+              "Isoprenaline in patients with drug-induced atrioventricular medial block."
+            ]
+          },
+          {
+            "subsection": "6.3. Acute Management",
+            "sub-subsections": [
+              {
+                "sub-subsection": "6.3.1. Acute Management of Reversible Causes of Bradycardia Attributable to Atrioventricular Block",
+                "details": [
+                  "Management of Lyme carditis.",
+                  "Reversal of atropine-resistant atrioventricular block post-myocardial infarction."
+                ]
+              },
+              {
+                "sub-subsection": "6.3.2. Acute Medical Therapy for Bradycardia Attributable to Atrioventricular Block",
+                "details": [
+                  "Efficacy of atropine and isoproterenol in hemodynamically unstable bradycardia.",
+                  "Randomized controlled trials comparing pacing versus conservative treatment in inferior myocardial infarction."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

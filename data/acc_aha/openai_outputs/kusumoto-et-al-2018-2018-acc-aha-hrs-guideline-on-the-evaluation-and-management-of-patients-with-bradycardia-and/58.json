@@ -1,0 +1,18 @@
+{
+  "content": {
+    "title": "Evaluation of Conduction Disorders Algorithm",
+    "description": "Flowchart for assessing and managing conduction disorders, specifying steps to determine underlying causes, considering reversible or physiological causes, genetic associations, and specific types of conduction disorders to guide treatment decisions.",
+    "steps": [
+      "Evaluate for evidence of conduction disorder.",
+      "Determine if there is a reversible or physiological cause.",
+      "If reversible, treat underlying cause such as ischemia.",
+      "If not reversible, assess for genetic disorders associated with conduction disease.",
+      "Follow conduction disorders treatment algorithm if a genetic disorder is involved.",
+      "If no genetic disorder, check for suspicion of conditions like infiltrative cardiomyopathy, endocarditis, or ACHD.",
+      "Depending on the type of conduction disorder, use advanced imaging or transthoracic echocardiography for further evaluation.",
+      "Treat any identified abnormalities and assess symptoms suggestive of intermittent bradycardia.",
+      "Utilize ambulatory ECG monitoring and electrophysiology studies if indicated."
+    ]
+  },
+  "genes": []
+}

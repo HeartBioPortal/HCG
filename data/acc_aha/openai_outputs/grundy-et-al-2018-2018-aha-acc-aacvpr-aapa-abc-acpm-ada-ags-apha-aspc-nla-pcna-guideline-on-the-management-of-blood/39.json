@@ -1,0 +1,42 @@
+{
+  "content": {
+    "Guideline Focus": "Statin therapy and management of related side effects such as statin-associated muscle symptoms (SAMS) and increased diabetes risk.",
+    "Recommendations": [
+      {
+        "Recommendation": "Identification of potential predisposing factors for statin-associated side effects is recommended before initiation of treatment.",
+        "Evidence Level": "I B-R"
+      },
+      {
+        "Recommendation": "Reassessment and rechallenge with statins or modified dosing in case of non-severe side effects to achieve maximal LDL-C lowering.",
+        "Evidence Level": "I B-R"
+      },
+      {
+        "Recommendation": "Continue statin therapy in patients with increased diabetes risk, emphasizing adherence and lifestyle changes.",
+        "Evidence Level": "I B-R"
+      },
+      {
+        "Recommendation": "Measurement of creatine kinase in severe statin-associated muscle symptoms and liver panel if symptoms of hepatotoxicity present.",
+        "Evidence Level": "I C-LD"
+      },
+      {
+        "Recommendation": "Use of statins in patients with chronic stable liver disease and schedule monitoring for safety.",
+        "Evidence Level": "I B-R"
+      },
+      {
+        "Recommendation": "Use RCT proven non-statin therapy if statin rechallenge fails to offer clinical benefit in severe or recurrent muscle symptoms.",
+        "Evidence Level": "IIa B-R"
+      },
+      {
+        "Recommendation": "Coenzyme Q10 is not recommended for routine use.",
+        "Evidence Level": "III B-R"
+      },
+      {
+        "Recommendation": "Routine measurements of creatine kinase and transaminase levels in statin-treated patients are not recommended.",
+        "Evidence Level": "III C-LD"
+      }
+    ],
+    "SAMS": "Statin-associated muscle symptoms that are often subjective and can result in non-adherence impacting ASCVD outcomes.",
+    "Emphasis on": "Patient-centered strategies, adherence, symptoms management, and maximizing benefit from statins."
+  },
+  "genes": []
+}

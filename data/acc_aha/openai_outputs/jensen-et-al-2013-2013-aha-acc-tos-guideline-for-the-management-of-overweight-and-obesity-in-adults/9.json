@@ -1,0 +1,71 @@
+{
+  "content": {
+    "Title": "Summary of Recommendations for Obesity",
+    "Focused Area": "Lifestyle Intervention and Counseling (Comprehensive Lifestyle Intervention)",
+    "Recommendations": [
+      {
+        "Advice": "Overweight and obese individuals who would benefit from weight loss should participate for >= 6 months in a comprehensive lifestyle program assisting in adherence to a lower-calorie diet and increased physical activity through behavioral strategies.",
+        "NHLBI Grade": "A (Strong)",
+        "ACC/AHA COR": "I",
+        "ACC/AHA LOE": "A"
+      },
+      {
+        "Advice": "Prescribe on-site, high-intensity (>= 14 sessions in 6 mo) comprehensive weight loss interventions provided in individual or group sessions by a trained interventionist.",
+        "NHLBI Grade": "A (Strong)",
+        "ACC/AHA COR": "I",
+        "ACC/AHA LOE": "A"
+      },
+      {
+        "Advice": "Electronically delivered weight loss programs (including by telephone) that include personalized feedback can be prescribed for weight loss but may result in smaller weight loss than face-to-face interventions.",
+        "NHLBI Grade": "B (Moderate)",
+        "ACC/AHA COR": "IIa",
+        "ACC/AHA LOE": "A"
+      },
+      {
+        "Advice": "Some commercial-based programs that provide a comprehensive lifestyle intervention can be prescribed as an option for weight loss, provided peer-reviewed evidence of their safety and efficacy exists.",
+        "NHLBI Grade": "B (Moderate)",
+        "ACC/AHA COR": "IIa",
+        "ACC/AHA LOE": "A"
+      },
+      {
+        "Advice": "Use a very-low-calorie diet (defined as < 800 kcal/d) only in limited circumstances with medical supervision due to rapid weight loss.",
+        "NHLBI Grade": "A (Strong)",
+        "ACC/AHA COR": "IIa; A"
+      },
+      {
+        "Advice": "Advise overweight and obese individuals who have lost weight to participate long term (>= 1 year) in a comprehensive weight loss maintenance program.",
+        "NHLBI Grade": "A (Strong)",
+        "ACC/AHA COR": "I",
+        "ACC/AHA LOE": "A"
+      },
+      {
+        "Advice": "For weight loss maintenance, high levels of physical activity (200\u2013300 min/wk), monitoring body weight, and consuming a reduced-calorie diet are recommended.",
+        "NHLBI Grade": "A (Strong)",
+        "ACC/AHA COR": "I",
+        "ACC/AHA LOE": "A"
+      }
+    ],
+    "Bariatric Surgery Recommendations": [
+      {
+        "Advice": "Advise adults with BMI >= 40 kg/m\u00b2 or BMI >= 35 kg/m\u00b2 with obesity-related comorbid conditions who have not responded to behavioral treatment that bariatric surgery may be an option.",
+        "NHLBI Grade": "A (Strong)",
+        "ACC/AHA COR": "IIa",
+        "ACC/AHA LOE": "A"
+      },
+      {
+        "Advice": "For individuals with a BMI < 35 kg/m\u00b2, there is insufficient evidence to recommend for or against undergoing bariatric surgical procedures.",
+        "NHLBI Grade": "N (No Recommendation)",
+        "ACC/AHA COR": "C",
+        "ACC/AHA LOE": "-"
+      },
+      {
+        "Advice": "Advise patients that choice of specific bariatric surgical procedure may be affected by various factors including age and obesity-related comorbid conditions.",
+        "NHLBI Grade": "E (Expert Opinion)",
+        "ACC/AHA COR": "IIb",
+        "ACC/AHA LOE": "C"
+      }
+    ],
+    "Note": "Recommendations are based on evidence, safety, and efficacy from peer-reviewed studies and medical expertise."
+  },
+  "genes": []
+}

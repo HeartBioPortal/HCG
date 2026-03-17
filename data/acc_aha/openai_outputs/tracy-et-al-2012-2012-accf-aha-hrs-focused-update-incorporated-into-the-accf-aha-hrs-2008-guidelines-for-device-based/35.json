@@ -1,0 +1,18 @@
+{
+  "content": {
+    "ICD therapy": "ICD therapy should be considered for patients with nonischemic DCM if reversible causes of transient LV function are excluded and the response to optimal medical therapy has been assessed. ICD implantation is also recommended for long-QT syndrome, hypertrophic cardiomyopathy (HCM), and arrhythmogenic right ventricular dysplasia/cardiomyopathy (ARVD/C).",
+    "Long-QT Syndrome": "Characterized by a propensity for malignant ventricular arrhythmias. Long-term treatment includes beta blockers, pacing, or left cervicothoracic sympathectomy. ICD is recommended for patients with syncope, sustained ventricular arrhythmias, or cardiac arrest.",
+    "Hypertrophic Cardiomyopathy (HCM)": "Most individuals are asymptomatic, with SCD as the first manifestation. Risk factors include family history of SCD, nonsustained VT, LV thickness, and exertion blood pressure response. ICD is used for perceived high risk for SCD.",
+    "Arrhythmogenic Right Ventricular Dysplasia/Cardiomyopathy (ARVD/C)": "Patients may be at risk for SCD. ICD is used for primary prevention of SCD, and it has shown favorable outcomes as secondary prevention following cardiac arrest."
+  },
+  "genes": [
+    {
+      "Gene": "Gene",
+      "Associated Conditions": [
+        "Long-QT Syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "The clinical manifestations of a long-QT mutation may be influenced by the specific gene involved and the functional consequences of the mutation in that gene."
+    }
+  ]
+}

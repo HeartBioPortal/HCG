@@ -1,0 +1,18 @@
+{
+  "content": {
+    "Pulmonary artery catheter": {
+      "High-risk surgery": "Highly selective use of pulmonary artery catheters for high-risk patients (older, with congestive heart failure, pulmonary hypertension, or previous multiple valve procedures) may be safe and may potentially aid in the surveillance and treatment of hemodynamic instability.",
+      "Low-risk surgery": "The use of pulmonary artery catheters in low-risk or clinically stable patients is discouraged as it is associated with increased interventions without associated improvement in morbidity or mortality rates."
+    },
+    "CNS monitoring": {
+      "Cerebral oxygen saturation": "Intraoperative monitoring of cerebral oxygen saturation is shown to guide anesthetic decision-making and may prevent postoperative neurocognitive dysfunction.",
+      "Processed electroencephalogram": "Routine use of intraoperative monitoring of processed electroencephalogram has yielded inconsistent results with respect to the prevention of recall, determination of depth of anesthesia, or improvement in rate of recovery after cardiac surgery."
+    },
+    "Bypass Conduits in Patients Undergoing CABG": {
+      "Use of Radial Artery": "In patients undergoing isolated CABG, use of a radial artery is recommended over a saphenous vein conduit to improve long-term cardiac outcomes.",
+      "Use of IMA": "In patients undergoing CABG, IMA should be used to bypass the LAD to improve survival and reduce recurrent ischemic events.",
+      "Use of BIMA": "In patients undergoing CABG, bilateral IMA (BIMA) grafting may be beneficial to improve long-term cardiac outcomes."
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,26 @@
+{
+  "content": {
+    "Implanted Cardiac Monitors": {
+      "Recommendation": "In patients with sporadic symptoms (including syncope) suspected to be related to VA, implanted cardiac monitors can be useful.",
+      "Supportive Text": [
+        "Implanted cardiac monitors provide continuous rhythm monitoring and stored recordings of electrograms.",
+        "They are useful for diagnosing serious tachyarrhythmias, including VA, and bradyarrhythmias.",
+        "These devices are generally for patients with nonrevealing ambulatory monitoring.",
+        "They have shown higher diagnostic yields compared to conventional testing.",
+        "Patients with a history of MI and low LVEF are often studied."
+      ]
+    },
+    "Noninvasive Cardiac Imaging": {
+      "Recommendation 1": "In patients with known or suspected VA that may be associated with underlying structural heart disease or a risk of SCA, echocardiography is recommended for evaluation of cardiac structure and function.",
+      "Recommendation 2": "In patients presenting with VA who are suspected of having structural heart disease, cardiac MRI or CT can be useful to detect and characterize underlying structural heart disease.",
+      "Supportive Text": [
+        "Assessment of global and regional myocardial function is required for adult congenital heart disease patients.",
+        "Echocardiography is the most commonly used imaging technique.",
+        "LVEF is a strong predictor of SCD and eligibility for ICD implantation.",
+        "VA or SCA can be an initial manifestation of serious conditions.",
+        "Cardiac CT and MRI allow for detailed evaluation of heart structures."
+      ]
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,33 @@
+{
+  "content": {
+    "section": "3.7. Mental Health and Neurodevelopmental Issues",
+    "recommendations": [
+      {
+        "COR": "I",
+        "LOE": "B-NR",
+        "recommendation": "Patients with ACHD should be evaluated for depression and anxiety."
+      },
+      {
+        "COR": "IIa",
+        "LOE": "B-NR",
+        "recommendation": "Referral for mental health evaluation and treatment is reasonable in patients with ACHD."
+      },
+      {
+        "COR": "IIb",
+        "LOE": "B-NR",
+        "recommendation": "Neurodevelopmental or neuropsychological testing may be considered in some patients with ACHD to guide therapies."
+      }
+    ],
+    "synopsis": "Mental health and neurodevelopmental issues are common in patients with ACHD and may significantly affect QoL. Neurodevelopmental abnormalities are more frequent in children with complex disease. These disorders, such as impairment of cognition, social skills, and communication, are often underrecognized, though appropriate diagnosis and treatment may be beneficial. Anxiety and depression are prevalent, and psychological evaluation can identify up to 50% more patients with mood disorders. Neurodevelopmental impact includes cognitive, social skills, communication, and attention disorders. Genetic conditions such as 22q11 deletion and trisomy 21 are associated with these issues."
+  },
+  "genes": [
+    {
+      "Gene": "22q11 deletion",
+      "Associated Conditions": [
+        "Neurodevelopmental abnormalities"
+      ],
+      "Occurrences": 1,
+      "context": "This is particularly evident in patients with genetic conditions such as 22q11 deletion."
+    }
+  ]
+}

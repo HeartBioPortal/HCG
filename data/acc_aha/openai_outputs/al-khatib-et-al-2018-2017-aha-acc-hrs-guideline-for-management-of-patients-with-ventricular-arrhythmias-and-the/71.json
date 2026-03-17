@@ -1,0 +1,18 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "category": "I",
+        "levelOfEvidence": "B-NR",
+        "recommendation": "In patients with symptomatic outflow tract VA in an otherwise normal heart for whom antiarrhythmic medications are ineffective, not tolerated, or not the patient\u2019s preference, catheter ablation is useful."
+      },
+      {
+        "category": "I",
+        "levelOfEvidence": "B-NR",
+        "recommendation": "In patients with symptomatic outflow tract VT in an otherwise normal heart, a beta blocker or a calcium channel blocker is useful."
+      }
+    ],
+    "supportiveText": "Catheter ablation has been shown to be effective in suppressing frequent PVCs arising from the RVOT. Radiofrequency catheter ablation is effective in the treatment of idiopathic VA arising from the RVOT and LV outflow tract."
+  },
+  "genes": []
+}

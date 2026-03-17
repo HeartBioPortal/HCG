@@ -1,0 +1,35 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "description": "In patients with known CVD, or age \u226565 years, or age \u226545 years with symptoms suggestive of CVD undergoing elevated-risk NCS, it is reasonable to measure B-type natriuretic peptide (BNP) or NT-proBNP before surgery to supplement evaluation of perioperative risk."
+      },
+      {
+        "COR": "2b",
+        "LOE": "B-NR",
+        "description": "In patients with known CVD, or age \u226565 years, or age \u226545 years with symptoms suggestive of CVD undergoing elevated-risk NCS, it may be reasonable to measure cardiac troponin (cTn) before surgery to supplement evaluation of perioperative risk."
+      },
+      {
+        "COR": "2a",
+        "LOE": "B-NR",
+        "description": "For patients with known coronary heart disease, significant arrhythmia, peripheral arterial disease, cerebrovascular disease, or symptoms* of CVD undergoing elevated-risk surgery, a preoperative resting 12-lead electrocardiogram (ECG) is reasonable to establish a preoperative baseline and guide perioperative management."
+      }
+    ],
+    "synopsis": [
+      "cTn and BNP are inexpensive and widely available biomarkers that can detect and quantify myocardial injury and cardiac wall stress, respectively.",
+      "There have been several large prospective studies demonstrating the value of these biomarkers, but none in patients with elevated preoperative biomarkers for improving outcomes.",
+      "Biomarker measurement could indicate an increased risk in downstream tests."
+    ],
+    "additional_notes": [
+      {
+        "note": "NT-proBNP concentrations >100 pg/mL were independently associated with all-cause mortality."
+      },
+      {
+        "note": "Preoperative high-sensitivity cTn can identify patients at increased risk during and after the procedure."
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,20 @@
+{
+  "content": {
+    "Diabetes": {
+      "Guidelines": "The American Diabetes Association guidelines recommend the use of SGLT2i as a first-line agent for the treatment of hyperglycemia in patients with diabetes with HF or at high risk of HF.",
+      "SGLT2i": "SGLT2 inhibitors are associated with a reduction in major adverse cardiovascular events, including hospitalization for HF and cardiovascular death.",
+      "Mechanism": "The mechanisms underlying the improvement in cardiovascular outcomes attributed to SGLT2i are partially related to the glucosuric effect.",
+      "Trials": "Two RCTs totaling 8474 patients with NYHA class II, III, or IV HF and EF \u226440%\u2014DAPA-HF assessing dapagliflozin and EMPEROR-Reduced assessing empagliflozin\u2014showed significant reductions in relative risk of all-cause death (13%), cardiovascular death (14%), hospitalization for HF (26%), and renal outcomes (38%) with SGLT2i treatment."
+    },
+    "Management of AF in HF": {
+      "Recommendations": [
+        "Patients with chronic HF with permanent-persistent-paroxysmal AF and a CHA2DS2-VASc score of \u22652 (for men) and \u22653 (for women) should receive chronic anticoagulant therapy.",
+        "DOAC is recommended over warfarin in eligible patients.",
+        "AF ablation is reasonable to improve symptoms and QOL.",
+        "If rhythm control strategy fails or is not desired, atrioventricular node ablation with implantation of a CRT device is reasonable.",
+        "Chronic anticoagulant therapy is reasonable for men and women without additional risk factors."
+      ]
+    }
+  },
+  "genes": []
+}

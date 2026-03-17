@@ -1,0 +1,12 @@
+{
+  "content": {
+    "Clinical Guidelines": [
+      "Pacemaker-dependent patients with a transvenous ICD undergoing surgery above the umbilicus should have their device reprogrammed to inhibit tachytherapies or inappropriate shocks. If not pacemaker-dependent, either reprogramming or a magnet on the generator is suggested.",
+      "Patients with a pacemaker or ICD reprogrammed to asynchronous pacing should have device functioning restored post-surgery before discharge.",
+      "Patients with leadless pacemakers undergoing surgeries with anticipated EMI above the umbilicus should have their pacemakers reprogrammed to asynchronous mode.",
+      "Patients with subcutaneous ICD having noncardiac or nonthoracic surgery with anticipated EMI above the groin should reprogram the device or use a magnet to disable tachytherapies."
+    ],
+    "Synopsis": "A CIED may be identified by history, examination, records, and radiography. EMI risk is higher when the electrosurgery unit is close to the CIED pulse generator or leads, but EMI risk reduces with distance. An ESU below the umbilicus is unlikely to cause EMI with transvenous devices."
+  },
+  "genes": []
+}

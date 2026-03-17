@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Synopsis": "Approximately 630,000 Americans died from heart disease in 2015, with 366,000 dying from coronary artery disease. After four decades of decline, heart disease deaths rose in 2015. This trend is linked to the obesity epidemic. Healthy nutrition affects ASCVD and its risk factors like obesity, high cholesterol, diabetes, and hypertension. Cardiovascular nutrition lacks large-scale prospective randomized trials for ASCVD outcomes. Observational studies indicate diet's impact on CVD mortality, emphasizing reducing specific foods.",
+    "Recommendations": [
+      {
+        "Title": "Plant-based and Mediterranean diets",
+        "Description": "Diets including fruits, vegetables, legumes, whole grains, and lean proteins reduce CVD risk more effectively than standard diets. PREDIMED trial findings support these effects.",
+        "Evidence": "Consuming vegetable sources of fat (olive oil or nuts) showed reduced heart-related and overall mortality."
+      },
+      {
+        "Title": "Trans and Saturated Fats",
+        "Description": "Higher risks of total and cause-specific deaths are linked to trans and saturated fats. Data from PURE trial suggests that reduced carbohydrate and increased saturated fat intake associates with reduced stroke risk.",
+        "Evidence": "Replacement of saturated fat with plant protein decreases mortality risk."
+      },
+      {
+        "Title": "Dietary Sodium",
+        "Description": "Reducing sodium lowers BP and cardiovascular events.",
+        "Evidence": "DASH and TOHP trials indicate sodium reduction benefits."
+      },
+      {
+        "Title": "Sugar-sweetened Beverages",
+        "Description": "Increased intake correlates with T2DM and ASCVD risks.",
+        "Evidence": "Daily consumption of sweet beverages associates with a 20% rise in diabetes mellitus frequency."
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,21 @@
+{
+  "content": {
+    "genetic_testing": "Genetic testing is crucial in managing Hypertrophic Cardiomyopathy (HCM). It helps in identifying clinically actionable results which offer diagnostic clarification for the proband and cascade testing for at-risk family members.",
+    "cascade_testing": "Upon identifying a pathogenic or likely pathogenic variant, cascade testing in family members can be initiated to find at-risk individuals for further lifelong clinical surveillance. Testing is also recommended for sarcomere gene variants, which are associated with more severe disease manifestations.",
+    "postmortem_testing": "This can be useful if a family variant is suspected but unknown, and it may guide cascade genetic testing.",
+    "frequency_of_testing": "Approximately 11% of variants can be reclassified over time, affecting the clinical management of family members.",
+    "autosomal_dominant_inheritance": "HCM is inherited in an autosomal dominant pattern with a 50% chance of passing it to offspring.",
+    "counseling": "Genetic counseling is advised to explain risks, especially related to reproductive options and disease transmission."
+  },
+  "genes": [
+    {
+      "Gene": "Sarcomere Variants",
+      "Associated Conditions": [
+        "Hypertrophic Cardiomyopathy",
+        "Sudden Cardiac Death"
+      ],
+      "Occurrences": 3,
+      "context": "Sarcomere variants are associated with more severe disease, including earlier onset, higher incidence of SCD, and arrhythmias. Patients with such variants have worse prognosis compared to those without."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "content": {
+    "Complication": "MI with conduction disturbances",
+    "Factors": [
+      "Ischemia",
+      "Extent and location of MI",
+      "Reperfusion",
+      "Autonomic effects"
+    ],
+    "Therapies": [
+      "Temporary methods (if delay occurs)",
+      "Atropine (for inferred conduction disease)",
+      "Avoid early PPM implantation (unless necessary)"
+    ],
+    "Indications": [
+      "CIEDs with defibrillator capacity recommended for low LVEF"
+    ],
+    "Risks": [
+      "Death ranges from 3% to 7% with cardiac procedures",
+      "Intracranial pressure increase",
+      "Neurologic disorders associated with bradycardia"
+    ],
+    "Considerations": [
+      "Anterior MI assoc. with worse prognosis and higher mortality",
+      "Persistent inferior myocardial injury risks"
+    ],
+    "Neurologic disorders": "May be associated with bradycardia"
+  },
+  "genes": []
+}

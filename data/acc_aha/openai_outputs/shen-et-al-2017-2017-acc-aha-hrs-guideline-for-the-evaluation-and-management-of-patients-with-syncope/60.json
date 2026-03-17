@@ -1,0 +1,65 @@
+{
+  "content": {
+    "title": "2017 ACC/AHA/HRS Syncope Guideline",
+    "authors": "Shen et al.",
+    "year": 2017,
+    "journal": "JACC",
+    "volume": 70,
+    "number": 5,
+    "pages": "e98-110",
+    "date": "August 1, 2017",
+    "keyPoints": [
+      {
+        "number": 517,
+        "study": "Vu Q, Vangundy TB, Shibata S",
+        "finding": "Exercise training versus propranolol in treatment of postural tachycardia syndrome",
+        "result": "Effective treatment",
+        "journal": "Hypertension",
+        "year": 2011
+      },
+      {
+        "number": 519,
+        "study": "Green EA, Ray J, Shibao CA",
+        "finding": "Effects of norepinephrine uptake inhibition on postural tachycardia syndrome",
+        "result": "Positive outcomes",
+        "journal": "Am Heart Assoc",
+        "year": 2013
+      },
+      {
+        "number": 530,
+        "study": "Shah R, Dure DK, Seeley BJ",
+        "finding": "Cough syncope from constrictive pericarditis",
+        "result": "Case report",
+        "journal": "Can J Cardiol",
+        "year": 2003
+      },
+      {
+        "number": 538,
+        "study": "Koh C, Lee PW, Yung TC",
+        "finding": "Left ventricular non-compaction in children",
+        "result": "Congenital heart defects",
+        "journal": "Congenit Heart Dis",
+        "year": 2009
+      },
+      {
+        "number": 546,
+        "study": "Moya A, Howlett S, Grunewald R",
+        "finding": "Arthralgias in Fabry cardiomyopathy",
+        "result": "Detailed",
+        "journal": "Clin Cardiol",
+        "year": 2012
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "Brugada syndrome",
+        "Long QT syndrome"
+      ],
+      "Occurrences": 1,
+      "context": "Mutations in SCN5A gene can lead to Brugada syndrome and Long QT syndrome, which are associated with syncope and sudden cardiac death."
+    }
+  ]
+}
