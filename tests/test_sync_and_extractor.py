@@ -4,10 +4,12 @@ import json
 import tempfile
 from pathlib import Path
 
+from hcg.cli import require_api_key
 import hcg.scraper.esc as esc_module
 import hcg.sync as sync_module
 from hcg.extractor import GuidelinePageExtractor
 from hcg.paths import DatasetPaths
+from hcg.scraper.acc import AccGuidelineScraper
 from hcg.scraper.esc import EscGuidelineScraper
 from hcg.scraper.models import DownloadRecord, GuidelineCandidate, ScrapeResult
 from hcg.scraper.utils import slugify
@@ -184,3 +186,24 @@ def test_sync_extracts_existing_pdf_without_redownloading(tmp_path, monkeypatch)
     assert json.loads((paths.raw_output_dir / f"{pdf_path.stem}_aggregated.json").read_text(encoding="utf-8"))[
         "content"
     ][0]["content"]["status"] == "ok"
+
+
+def test_require_api_key_raises_clear_error() -> None:
+    try:
+        require_api_key(None, command_name="sync")
+    except ValueError as exc:
+        assert "OPENAI_API_KEY is required" in str(exc)
+        assert "hcg sync" in str(exc)
+    else:  # pragma: no cover
+        raise AssertionError("require_api_key should raise when the key is missing")
+
+
+def test_acc_browser_launch_error_is_rewritten(tmp_path) -> None:
+    paths = make_dataset_paths(tmp_path, "acc_aha")
+    scraper = AccGuidelineScraper(paths)
+
+    rewritten = scraper._rewrite_browser_launch_error(
+        RuntimeError("BrowserType.launch: Executable doesn't exist at /tmp/chrome")
+    )
+
+    assert "playwright install chromium" in str(rewritten)

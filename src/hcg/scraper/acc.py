@@ -217,10 +217,14 @@ class AccGuidelineScraper:
         class BrowserContextManager:
             def __enter__(self):
                 self.playwright = sync_playwright().start()
-                self.browser = self.playwright.chromium.launch(headless=scraper.headless)
-                self.context = self.browser.new_context(accept_downloads=True)
-                self.context.set_default_timeout(timeout_ms)
-                return self.context
+                try:
+                    self.browser = self.playwright.chromium.launch(headless=scraper.headless)
+                    self.context = self.browser.new_context(accept_downloads=True)
+                    self.context.set_default_timeout(timeout_ms)
+                    return self.context
+                except Exception as exc:  # noqa: BLE001
+                    self.playwright.stop()
+                    raise scraper._rewrite_browser_launch_error(exc) from exc
 
             def __exit__(self, exc_type, exc, tb):
                 self.context.close()
@@ -228,6 +232,21 @@ class AccGuidelineScraper:
                 self.playwright.stop()
 
         return BrowserContextManager()
+
+    def _rewrite_browser_launch_error(self, exc: Exception) -> RuntimeError:
+        error_text = str(exc)
+        lowered = error_text.lower()
+        if "executable doesn't exist" in lowered:
+            return RuntimeError(
+                "Playwright Chromium is not installed on this machine. "
+                "Run `.venv/bin/playwright install chromium` once, then rerun the command."
+            )
+        if "host system is missing dependencies" in lowered:
+            return RuntimeError(
+                "Playwright Chromium dependencies are missing on this machine. "
+                "On Ubuntu, run `sudo .venv/bin/playwright install --with-deps chromium` once, then rerun the command."
+            )
+        return RuntimeError(f"Playwright browser launch failed: {error_text}")
 
     def _download_candidate(self, context, candidate: GuidelineCandidate) -> tuple[Path, int]:
         pdf_path = self.paths.source_pdf_dir / slugify(candidate.title) / f"{slugify(candidate.title)}.pdf"

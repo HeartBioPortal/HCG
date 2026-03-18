@@ -44,6 +44,12 @@ pip install -e .[dev]
 playwright install chromium
 ```
 
+On Ubuntu or other minimal Linux hosts, you may also need:
+
+```bash
+sudo .venv/bin/playwright install --with-deps chromium
+```
+
 `pdf2image` requires Poppler on the host system.
 
 - macOS: `brew install poppler`
@@ -72,7 +78,7 @@ OPENAI_API_KEY=... hcg sync
 Target a specific dataset:
 
 ```bash
-hcg sync --datasets esc --model gpt-5-mini
+OPENAI_API_KEY=... hcg sync --datasets esc --model gpt-5-mini
 ```
 
 For ACC/AHA updates on a desktop session, prefer the visible browser mode because JACC can block headless Chromium with a Cloudflare verification page:
@@ -116,10 +122,12 @@ python -m hcg build-release
 ## Operational notes
 
 - ACC scraping uses Playwright because the ACC site links out to JACC-hosted documents that are not reliably downloadable through plain HTTP requests.
+- If Playwright Chromium is not installed, ACC scraping now fails with a direct instruction to run `.venv/bin/playwright install chromium`.
 - JACC can still block automated access behind a Cloudflare verification page, even in a visible browser. When that happens, the ACC scraper records the item as `blocked` in the manifest and continues instead of hanging.
 - ESC scraping uses direct PDF links exposed on official ESC guideline detail pages.
 - Scraper logs are written to `data/<dataset>/scraper.log`.
 - Scraper manifests are written to `data/<dataset>/scraper_manifest.json`.
+- `hcg sync` and `hcg extract` now fail immediately with a clear error if `OPENAI_API_KEY` is not set.
 - `hcg sync` extracts any tracked PDFs that are still missing JSON outputs, even if those PDFs were downloaded in an earlier run.
 - `hcg sync` does not redownload PDFs that already exist locally and match the upstream scraper catalog.
 

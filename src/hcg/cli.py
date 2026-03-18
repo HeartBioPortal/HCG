@@ -21,6 +21,15 @@ from hcg.release_builder import build_release
 DEFAULT_MODEL = "gpt-5-mini"
 
 
+def require_api_key(api_key: str | None, *, command_name: str) -> str:
+    if api_key:
+        return api_key
+    raise ValueError(
+        f"OPENAI_API_KEY is required for `hcg {command_name}`. "
+        "Set the environment variable or pass --api-key."
+    )
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description="Heart Clinical Guideline extraction and release toolkit."
@@ -160,15 +169,14 @@ def run_extract(args: argparse.Namespace) -> int:
     pdf_dir = Path(args.pdf_dir) if args.pdf_dir is not None else dataset_paths.source_pdf_dir
     if not pdf_dir.exists():
         raise FileNotFoundError(f"PDF directory not found: {pdf_dir}")
-    if not args.api_key:
-        raise ValueError("OPENAI_API_KEY is required. Pass --api-key or set the environment variable.")
+    api_key = require_api_key(args.api_key, command_name="extract")
 
     extractor = GuidelinePageExtractor(
         pdf_dir=pdf_dir,
         output_dir=Path(args.output_dir) if args.output_dir is not None else dataset_paths.raw_output_dir,
         model=args.model,
         sleep_seconds=args.sleep_seconds,
-        api_key=args.api_key,
+        api_key=api_key,
     )
     extractor.process_all_pdfs(rerun_error_pages=args.rerun_error_pages)
     extractor.aggregate_outputs()
@@ -211,11 +219,12 @@ def run_scrape(args: argparse.Namespace) -> int:
 def run_sync(args: argparse.Namespace) -> int:
     from hcg.sync import sync_datasets
 
+    api_key = require_api_key(args.api_key, command_name="sync")
     results = sync_datasets(
         args.datasets,
         model=args.model,
         sleep_seconds=args.sleep_seconds,
-        api_key=args.api_key,
+        api_key=api_key,
         headless=not args.show_browser,
         timeout_seconds=args.timeout_seconds,
         limit=args.limit,
