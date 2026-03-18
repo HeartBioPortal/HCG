@@ -1,10 +1,47 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+import os
 from pathlib import Path
 
 
-PROJECT_ROOT = Path(__file__).resolve().parents[2]
+def is_project_root(path: Path) -> bool:
+    return (path / "pyproject.toml").exists() and (path / "src" / "hcg").is_dir()
+
+
+def detect_project_root(
+    *,
+    module_file: Path | None = None,
+    cwd: Path | None = None,
+    env_root: str | None = None,
+) -> Path:
+    if env_root:
+        return Path(env_root).expanduser().resolve()
+
+    search_starts = []
+    if cwd is not None:
+        search_starts.append(cwd.resolve())
+    if module_file is not None:
+        search_starts.append(module_file.resolve())
+
+    for start in search_starts:
+        candidates = (start, *start.parents)
+        for candidate in candidates:
+            if is_project_root(candidate):
+                return candidate
+
+    if cwd is not None:
+        return cwd.resolve()
+    if module_file is not None:
+        return module_file.resolve().parent
+    return Path.cwd().resolve()
+
+
+PROJECT_ROOT = detect_project_root(
+    module_file=Path(__file__),
+    cwd=Path.cwd(),
+    env_root=os.environ.get("HCG_PROJECT_ROOT"),
+)
 DATA_DIR = PROJECT_ROOT / "data"
 REFERENCE_DIR = DATA_DIR / "reference"
 ACC_AHA_DIR = DATA_DIR / "acc_aha"

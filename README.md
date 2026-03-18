@@ -131,5 +131,6 @@ python -m hcg build-release
 - `hcg sync` and `hcg extract` now fail immediately with a clear error if `OPENAI_API_KEY` is not set.
 - `hcg sync` extracts any tracked PDFs that are still missing JSON outputs, even if those PDFs were downloaded in an earlier run.
 - `hcg sync` does not redownload PDFs that already exist locally and match the upstream scraper catalog.
+- If you ever install `hcg` non-editably, set `HCG_PROJECT_ROOT=/absolute/path/to/HCG` so outputs still land in the repo `data/` directory.
 
 The repository is intentionally data-heavy because it ships the exact inputs and outputs used for the current HeartBioPortal ACC/AHA guideline JSON release.
