@@ -54,6 +54,24 @@ def test_parse_esc_detail_candidate_prefers_article_link_and_ignores_doi() -> No
     assert candidate.metadata["download_mode"] == "render_article_pdf"
 
 
+def test_parse_esc_detail_candidate_skips_generic_esc_journal_hub() -> None:
+    html = """
+    <html>
+      <body>
+        <h1>The Role of Endomyocardial Biopsy in the Management of Cardiovascular Disease Guidelines</h1>
+        <a href="https://academic.oup.com/esc/pages/esc-journals">Read the European Heart Journal</a>
+      </body>
+    </html>
+    """
+
+    candidate = parse_esc_detail_candidate(
+        html,
+        "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/endomyocardial-biopsy/",
+    )
+
+    assert candidate is None
+
+
 def test_parse_esc_detail_urls_extracts_guideline_pages() -> None:
     html = """
     <html>

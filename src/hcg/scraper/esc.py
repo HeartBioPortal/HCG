@@ -94,6 +94,8 @@ def parse_esc_detail_candidate(html: str, detail_url: str) -> GuidelineCandidate
         if "download the doi" in text or "declaration of interest" in text:
             continue
         if "academic.oup.com" in lowered_href:
+            if "/esc/pages/esc-journals" in lowered_href:
+                continue
             if article_url is None:
                 article_url = href
             continue
@@ -198,7 +200,7 @@ class EscGuidelineScraper:
         records: list[DownloadRecord] = []
         try:
             candidates = self.discover()
-            for candidate in tqdm(candidates, desc="ESC downloads", unit="pdf"):
+            for candidate in tqdm(candidates, desc="ESC reconcile", unit="pdf"):
                 existing_path = manifest_lookup(manifest, candidate.landing_url, PROJECT_ROOT)
                 if existing_path is None:
                     existing_path = match_existing_pdf_from_index(candidate.title, pdf_index)
