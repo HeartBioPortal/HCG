@@ -1,0 +1,15 @@
+{
+  "content": {
+    "abbreviations": "LVEF, left ventricular ejection fraction; MI, myocardial infarction; NSTE-ACS, non-ST-elevation myocardial infarction; NSTEMI, non-ST-elevation myocardial infarction; NYHA, New York Heart Association; o.d., once daily; OAC, oral anticoagulant; PCI, percutaneous coronary intervention; PCSK9, proprotein convertase subtilisin/kexin type 9; PPCI, primary percutaneous coronary intervention; RAAS, renin–angiotensin–aldosterone system; STEMI, ST-elevation myocardial infarction; UFH, unfractionated heparin; VKA, vitamin K antagonist. aClass of recommendation. bLevel of evidence."
+  },
+  "genes": [
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "mentioned in the context of coronary disease/acute coronary syndrome guideline (abbreviations list)"
+      ],
+      "Occurrences": 1,
+      "context": "Listed in the abbreviations: 'PCSK9, proprotein convertase subtilisin/kexin type 9;' within a list of terms related to myocardial infarction and acute coronary syndromes."
+    }
+  ]
+}

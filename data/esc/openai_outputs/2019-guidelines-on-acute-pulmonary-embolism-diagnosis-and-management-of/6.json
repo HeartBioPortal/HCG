@@ -1,108 +1,131 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism (Task Force Members) - Declarations of Interest",
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year (period of development up to and including 2018).",
-    "date": "21/08/2019",
-    "page": "6/62",
-    "members": [
+    "document_segment": "Table of contents (diagnosis and assessment sections)",
+    "sections": [
       {
-        "name": "Konstantinides Stavros V",
-        "declarations": [
-          {
-            "entry": "Actelion",
-            "details": "Pulmonary hypertension (2017-2018)"
-          }
-        ]
+        "section": "3",
+        "title": "General considerations",
+        "page": 550
       },
       {
-        "name": "Kucher Nils",
-        "declarations": [
-          {
-            "section": "1 - Financial Declaration",
-            "A - Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry)": [
-              {
-                "company": "Bard",
-                "type": "Devices",
-                "years": "2017-2018"
-              },
-              {
-                "company": "EKOS Corp",
-                "type": "Devices",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Optimed",
-                "type": "Devices",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Pfizer",
-                "type": "Drugs",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Sanofi Aventis",
-                "type": "Drugs",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Bayer Healthcare",
-                "type": "Drugs",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Bristol Myers Squibb",
-                "type": "Drugs",
-                "years": "2017-2018"
-              }
-            ]
-          },
-          {
-            "section": "C - Receipt of royalties for intellectual property",
-            "items": [
-              {
-                "company": "Optimed",
-                "type": "Devices",
-                "years": "2017-2018"
-              }
-            ]
-          },
-          {
-            "section": "D - Research funding under direct/personal responsibility (to department or institution) from healthcare industry",
-            "items": [
-              {
-                "company": "Swiss Heart Foundation",
-                "type": "Devices",
-                "years": "2017-2018"
-              },
-              {
-                "company": "EKOS Corp",
-                "type": "Devices",
-                "years": "2017-2018"
-              }
-            ]
-          }
-        ]
+        "section": "3.1",
+        "title": "Epidemiology",
+        "page": 550
       },
       {
-        "name": "Lang Irene Marthe",
-        "declarations": [
-          {
-            "section": "1 - Financial Declaration",
-            "A - Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry)": [
-              {
-                "company": "Kaneka",
-                "type": "Interventional devices",
-                "years": "2017"
-              },
-              {
-                "company": "Medtronic",
-                "type": "Medical devices",
-                "years": "2017"
-              }
-            ]
-          }
-        ]
+        "section": "3.2",
+        "title": "Predisposing factors",
+        "page": 551
+      },
+      {
+        "section": "3.3",
+        "title": "Pathophysiology and determinants of outcome",
+        "page": 552
+      },
+      {
+        "section": "4",
+        "title": "Diagnosis",
+        "page": 554
+      },
+      {
+        "section": "4.1",
+        "title": "Clinical presentation",
+        "page": 554
+      },
+      {
+        "section": "4.2",
+        "title": "Assessment of clinical (pre-test) probability",
+        "page": 554
+      },
+      {
+        "section": "4.3",
+        "title": "Avoiding overuse of diagnostic tests for pulmonary embolism",
+        "page": 555
+      },
+      {
+        "section": "4.4",
+        "title": "D-dimer testing",
+        "page": 555
+      },
+      {
+        "section": "4.4.1",
+        "title": "Age-adjusted D-dimer cut-offs",
+        "page": 555
+      },
+      {
+        "section": "4.4.2",
+        "title": "D-dimer cut-offs adapted to clinical probability",
+        "page": 555
+      },
+      {
+        "section": "4.4.3",
+        "title": "Point-of-care D-dimer assays",
+        "page": 555
+      },
+      {
+        "section": "4.5",
+        "title": "Computed tomographic pulmonary angiography",
+        "page": 555
+      },
+      {
+        "section": "4.6",
+        "title": "Lung scintigraphy",
+        "page": 556
+      },
+      {
+        "section": "4.7",
+        "title": "Pulmonary angiography",
+        "page": 557
+      },
+      {
+        "section": "4.8",
+        "title": "Magnetic resonance angiography",
+        "page": 557
+      },
+      {
+        "section": "4.9",
+        "title": "Echocardiography",
+        "page": 557
+      },
+      {
+        "section": "4.10",
+        "title": "Compression ultrasonography",
+        "page": 558
+      },
+      {
+        "section": "4.12",
+        "title": "Computed tomography venography",
+        "page": 560
+      },
+      {
+        "section": "5",
+        "title": "Assessment of pulmonary embolism severity and the risk of early death",
+        "page": 560
+      },
+      {
+        "section": "5.1",
+        "title": "Clinical parameters of pulmonary embolism severity",
+        "page": 560
+      },
+      {
+        "section": "5.2",
+        "title": "Imaging of right ventricular size and function",
+        "page": 560
+      },
+      {
+        "section": "5.2.1",
+        "title": "Echocardiography",
+        "page": 560
+      },
+      {
+        "section": "5.2.2",
+        "title": "Computed tomographic pulmonary angiography",
+        "page": 561
+      },
+      {
+        "section": "5.3",
+        "title": "Laboratory biomarkers",
+        "page": 561
       }
     ]
   },

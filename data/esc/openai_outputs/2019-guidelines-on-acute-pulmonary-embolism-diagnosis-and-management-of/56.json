@@ -1,119 +1,40 @@
 {
   "content": {
-    "title": "ESC Committee for Practice Guidelines 2018-2020 - Declarations of Interest",
-    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during development period up to and including 2018).",
-    "page_meta": {
-      "date": "21/08/2019",
-      "page_index": "56/62"
+    "title": "Detrimental effects of acute pulmonary embolism (PE) on right ventricle (RV) and respiration",
+    "summary": "Excessive neurohumoral activation and abnormal RV wall tension in PE can produce circulatory shock, reduced cardiac output (CO), and systemic hypotension. Massive inflammatory infiltrates in RV myocardium have been observed in patients who died within 48 h of acute PE, possibly driven by high epinephrine levels and a PE-induced stress myocarditis. Elevated circulating biomarkers of myocardial injury are associated with adverse early outcomes, indicating RV ischemia is pathophysiologically significant in acute PE. RV infarction is uncommon but may occur due to imbalance of oxygen supply/demand. Respiratory failure in PE is mainly from haemodynamic disturbance causing desaturation and ventilation/perfusion mismatch. Right-to-left shunting through a patent foramen ovale occurs in about one-third of patients and increases risk of severe hypoxaemia, paradoxical embolization, and stroke. Small distal emboli can produce mild pulmonary infarction, haemoptysis, pleuritis, and pleural effusion, typically mild except in patients with pre-existing cardiorespiratory disease.",
+    "mechanisms": [
+      "Excessive neurohumoral activation from PE → increased epinephrine release → inflammatory infiltrates in RV myocardium and possible stress myocarditis.",
+      "Reduced CO and systemic hypotension → impaired coronary driving pressure to overloaded RV → RV ischemia and potential cardiomyocyte damage.",
+      "Ventilation/perfusion mismatch from obstructed pulmonary arteries and non-obstructed capillary beds → hypoxaemia.",
+      "Inverted pressure gradient between right atrium (RA) and left atrium → right-to-left shunt via patent foramen ovale → severe hypoxaemia and paradoxical embolization risk."
+    ],
+    "time_course": [
+      "Inflammatory infiltrates noted in RV myocardium of patients who died within 48 hours of acute PE.",
+      "Secondary haemodynamic destabilization may occur 24–48 hours after acute PE in some cases."
+    ],
+    "clinical_implications": [
+      "Elevated myocardial injury biomarkers predict adverse early outcomes in acute PE and reflect RV ischemia.",
+      "Systemic hypotension is critical in worsening RV ischemia and contractile dysfunction.",
+      "Right-to-left shunt through patent foramen ovale present in ~1/3 of patients detectable by echocardiography; increases stroke risk.",
+      "Pulmonary infarction and related complications (haemoptysis, pleuritis, pleural effusion) are usually mild unless pre-existing cardiorespiratory disease is present."
+    ],
+    "quantitative_findings": {
+      "right_to_left_shunt_via_PFO": "about one-third of patients",
+      "inflammatory_infiltrates_timing": "observed in patients who died within 48 h of acute PE",
+      "secondary_destabilization_timing": "may occur 24–48 h after acute PE"
     },
-    "experts": [
-      {
-        "name": "Merkely Bela",
-        "relationships": [
-          {
-            "type": "Industry relationship",
-            "details": "Boston Scientific : CRT",
-            "years": "2017-2018"
-          }
-        ]
-      },
-      {
-        "name": "Mueller Christian Eugen",
-        "sections": [
-          {
-            "section": "1 - Financial Declaration (B)",
-            "description": "Payment to department/institution or similar for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry.",
-            "items": [
-              {
-                "company": "Servier",
-                "relationship": "Antihypertensive",
-                "years": "2017"
-              },
-              {
-                "company": "Siemens Healthcare",
-                "relationship": "Diagnostics",
-                "years": "2017"
-              },
-              {
-                "company": "Singulex",
-                "relationship": "Diagnostics",
-                "years": "2017"
-              },
-              {
-                "company": "Boehringer-Ingelheim",
-                "relationship": "Antidiabetics",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Roche Diagnostics",
-                "relationship": "Diagnostics",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Sanofi Aventis",
-                "relationship": "Lipid lowering",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Indorsia",
-                "relationship": "Antiplatelet therapy",
-                "years": "2018"
-              },
-              {
-                "company": "Amgen",
-                "relationship": "Lipid-lowering",
-                "years": "2018"
-              }
-            ]
-          },
-          {
-            "section": "D - Research funding",
-            "description": "Research funding under direct/personal responsibility (to department or institution) from healthcare industry.",
-            "items": [
-              {
-                "company": "Beckman Coulter",
-                "relationship": "Diagnostics",
-                "years": "2017-2018"
-              },
-              {
-                "company": "OrthoClinical Diagnostics",
-                "relationship": "Diagnostics",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Singulex",
-                "relationship": "Diagnostics",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Abbott Laboratories",
-                "relationship": "Diagnostics",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Roche Diagnostics",
-                "relationship": "Diagnostics",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Siemens",
-                "relationship": "Diagnostics",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Sphingotec",
-                "relationship": "Diagnostics",
-                "years": "2017-2018"
-              },
-              {
-                "company": "quidel",
-                "relationship": "Diagnostics",
-                "years": "2018"
-              }
-            ]
-          }
-        ]
-      }
+    "clinical_presentation_terms": [
+      "circulatory shock",
+      "systemic hypotension",
+      "RV ischaemia",
+      "RV infarction (uncommon)",
+      "respiratory failure due to ventilation/perfusion mismatch",
+      "pulmonary infarction (usually mild)"
+    ],
+    "recommendations_and_considerations": [
+      "Consider assessment for RV ischemia in acute PE when biomarkers of myocardial injury are elevated.",
+      "Monitor for haemodynamic deterioration within first 48 hours after acute PE.",
+      "Evaluate for right-to-left shunt (e.g., patent foramen ovale) in patients with severe hypoxaemia or paradoxical embolic events."
     ]
   },
   "genes": []

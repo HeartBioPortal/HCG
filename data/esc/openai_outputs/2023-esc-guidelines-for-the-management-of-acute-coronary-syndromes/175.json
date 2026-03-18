@@ -1,0 +1,20 @@
+{
+  "content": {
+    "section": "6.4. Long-term treatment",
+    "summary": "By default, dual antiplatelet therapy (DAPT) consisting of a potent P2Y12 receptor inhibitor plus aspirin is recommended for a minimum of 12 months after an acute coronary syndrome (ACS) event. Exceptions include patients requiring urgent surgery, those in whom oral anticoagulation (OAC) is indicated, and patients with unacceptably high bleeding risk. After percutaneous coronary intervention (PCI) for ACS, ischaemic and bleeding events both decrease over time. Further information on long-term antithrombotic strategies (beyond 12 months) is provided in supplementary data.",
+    "subsection": "6.4.1. Prolonging antithrombotic therapy beyond 12 months",
+    "note": "Prolonged antithrombotic therapy options referenced in supplementary materials (Figure S4; Tables S7 and S8). Recommendation Table 6 provided for alternative antithrombotic regimens."
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "Acute coronary syndrome (ACS)",
+        "Post-percutaneous coronary intervention (post-PCI) management",
+        "Dual antiplatelet therapy (DAPT) recommendations / long-term antithrombotic therapy"
+      ],
+      "Occurrences": 1,
+      "context": "Text states DAPT consisting of a potent P2Y12 receptor inhibitor in addition to aspirin is recommended for a minimum of 12 months after an ACS event."
+    }
+  ]
+}

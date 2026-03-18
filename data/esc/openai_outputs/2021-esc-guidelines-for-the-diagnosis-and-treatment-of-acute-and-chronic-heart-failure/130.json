@@ -1,0 +1,34 @@
+{
+  "content": {
+    "page_text": "Therapy with SGLT2 inhibitors may increase the risk of recurrent genital fungal infections. A small reduction in eGFR following initiation is expected and is reversible and should not lead to premature discontinuation of the drug.\n\nPractical guidance on how to use the SGLT2 inhibitors dapagliflozin and empagliflozin are given in Supplementary Table 6.\n\n5.4 Other drugs recommended or to be considered in selected patients with heart failure with reduced ejection fraction\n\nOther pharmacological treatments indicated in selected patients with NYHA class II–IV heart failure with reduced ejection fraction (LVEF â‰¤40%)",
+    "section_title": "5.4 Other drugs recommended or to be considered in selected patients with heart failure with reduced ejection fraction",
+    "links": [
+      {
+        "text": "Supplementary Table 6",
+        "notes": "Practical guidance on dapagliflozin and empagliflozin"
+      },
+      {
+        "text": "Open in new tab",
+        "notes": "link to further pharmacological treatments"
+      }
+    ],
+    "key_points": [
+      "SGLT2 inhibitors can increase risk of recurrent genital fungal infections.",
+      "Small, reversible reduction in eGFR may occur after initiation of SGLT2 inhibitors; usually not a reason to stop therapy.",
+      "Practical guidance available for use of dapagliflozin and empagliflozin.",
+      "Section focuses on other drugs for selected patients with NYHA class II–IV heart failure with reduced LVEF (≤40%)."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "SLC5A2",
+      "Associated Conditions": [
+        "Heart failure with reduced ejection fraction (therapy target via SGLT2 inhibitors)",
+        "Recurrent genital fungal infections (adverse effect associated with SGLT2 inhibitor therapy)",
+        "Transient reduction in eGFR after initiation (renal effect associated with SGLT2 inhibitor therapy)"
+      ],
+      "Occurrences": 2,
+      "context": "Text refers to 'SGLT2 inhibitors' and practical guidance for the SGLT2 inhibitors dapagliflozin and empagliflozin; SGLT2 is the protein encoded by the human gene SLC5A2."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "content": {
+    "section_titles": [
+      "TTR stabilization and reduction",
+      "14.7 Iron overload cardiomyopathy",
+      "Recommendations for the treatment of transthyretin amyloidosis-cardiac amyloidosis"
+    ],
+    "TTR_section_summary": "TTR stabilization and reduction of its production are the basis of TTR-CA treatment. Liver and/or cardiac transplantation may be considered only in end-stage familial TTR-CA. Tafamidis reduced all-cause mortality and cardiovascular hospitalizations in biopsy-proven hereditary and wild-type TTR-CA, mainly in patients with NYHA class I and II at baseline; functional improvement occurred within 6 months, mortality decrease took nearly 2 years. Intravenous patisiran (siRNA) or subcutaneous inotersen (antisense oligonucleotide) against TTR may be considered for patients with combined hereditary TTR polyneuropathy and cardiac amyloidosis. Off-label diflunisal may be considered in wild-type TTR-CA in combination with a proton pump inhibitor.",
+    "iron_overload_summary": "Iron overload results from hereditary haemochromatosis or repeated transfusions (eg, beta-thalassaemia). In iron overload the iron-binding capacity of transferrin is saturated and non-transferrin-bound iron enters cardiomyocytes through L-type calcium channels causing oxidative myocardial damage. Iron-induced complications (liver disease, endocrine abnormalities) contribute to cardiac deterioration leading to iron overload cardiomyopathy (restrictive or dilated phenotype). Myocardial iron deposition is quantified by CMR T2*; T2* values correlate with ventricular systolic function and predict iron-induced heart failure or arrhythmias. Prevention and treatment include iron chelators (deferoxamine, deferiprone, deferasirox) and intensified combined chelation therapy which may reverse established disease.",
+    "recommendations_table_text": [
+      "Tafamidis is recommended in patients with genetic testing proven hereditary TTR-CA and NYHA class I or II symptoms to reduce symptoms, cardiovascular hospitalization and mortality. (Class I, Level B)",
+      "Tafamidis is recommended in patients with wild-type TTR-CA and NYHA class I or II symptoms to reduce symptoms, cardiovascular hospitalization and mortality. (Class I, Level B)"
+    ],
+    "notable_treatments_mentioned": [
+      "Tafamidis",
+      "Patisiran (siRNA)",
+      "Inotersen (antisense oligonucleotide)",
+      "Diflunisal (off-label)",
+      "Iron chelators: deferoxamine, deferiprone, deferasirox"
+    ],
+    "diagnostics_mentioned": [
+      "Cardiac magnetic resonance T2* (CMR T2*)"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "TTR",
+      "Associated Conditions": [
+        "Transthyretin amyloid cardiomyopathy (TTR-CA)",
+        "Hereditary transthyretin amyloid cardiomyopathy (hATTR-CA)",
+        "Wild-type transthyretin amyloid cardiomyopathy (wtTTR-CA)",
+        "TTR-related polyneuropathy",
+        "Cardiac amyloidosis"
+      ],
+      "Occurrences": 7,
+      "context": "TTR discussed throughout as the target of stabilization and gene-silencing therapies (tafamidis, patisiran, inotersen); references to hereditary and wild-type TTR cardiac amyloidosis and TTR-polyneuropathy, and to transplantation in end-stage familial disease."
+    }
+  ]
+}

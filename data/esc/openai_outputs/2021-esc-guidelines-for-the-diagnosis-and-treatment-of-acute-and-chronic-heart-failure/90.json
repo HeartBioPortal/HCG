@@ -1,50 +1,37 @@
 {
   "content": {
-    "document_title": "Clinical Practice Guidelines Committee 2020-2022",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year.",
-    "document_date": "09/08/2021",
-    "entries": [
-      {
-        "expert": "Collet Jean-Philippe",
-        "year": 2020,
-        "declaration_type": "Research funding / industry relationships",
-        "details": [
-          "Bristol Myers Squibb: Post-TAVR antithrombotic treatment",
-          "Research funding from healthcare industry under direct/personal responsibility (to department or institution)",
-          "Boston Scientific: Post-TAVR antithrombotic treatment",
-          "Bristol Myers Squibb: Post-TAVR antithrombotic treatment (listed again under research funding)"
-        ]
+    "section_title": "4 Chronic heart failure",
+    "subsection": "4.1 Key steps in the diagnosis of chronic heart failure",
+    "summary": "Diagnosis of chronic heart failure (CHF) requires symptoms and/or signs of HF plus objective evidence of cardiac dysfunction. Symptoms alone lack sufficient accuracy. Use BNP/NT-proBNP and echocardiography to confirm diagnosis and define phenotype based on LVEF.",
+    "typical_symptoms": [
+      "Breathlessness",
+      "Fatigue",
+      "Ankle swelling"
+    ],
+    "signs_and_limitations": "Symptoms and signs lack sufficient accuracy to be used alone to make the diagnosis of HF.",
+    "conditions_increasing_likelihood_of_CHF": [
+      "Myocardial infarction (MI)",
+      "Arterial hypertension",
+      "Coronary artery disease (CAD)",
+      "Diabetes mellitus",
+      "Alcohol misuse",
+      "Chronic kidney disease (CKD)",
+      "Cardiotoxic chemotherapy",
+      "Family history of cardiomyopathy (CMP) or sudden death"
+    ],
+    "diagnostic_algorithm_highlights": {
+      "initial_assessment": "Suspect HF if risk factors, symptoms/signs, or abnormal ECG present.",
+      "biomarkers": "Measure NT-proBNP or BNP; thresholds cited (e.g. NT-proBNP ≥125 pg/mL or BNP ≥35 pg/mL) to proceed to echocardiography.",
+      "imaging": "Echocardiography to identify abnormal findings indicating cardiac dysfunction.",
+      "phenotype_definition": "If HF confirmed, define phenotype based on left ventricular ejection fraction (LVEF) measurement.",
+      "phenotype_thresholds": {
+        "HFrEF": "LVEF ≤40% (heart failure with reduced ejection fraction)",
+        "HFmrEF": "LVEF 41–49% (heart failure with mildly reduced ejection fraction)",
+        "HFpEF": "LVEF ≥50% (heart failure with preserved ejection fraction)"
       },
-      {
-        "expert": "Falk Volkmar",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "details": [
-          "Payments from healthcare industry to department/institution for personal services (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-          "Berlin Heart: Advisory",
-          "Novartis: Consultancy",
-          "Abbott: Educational Grant for HCPs",
-          "Edwards Lifesciences: Educational Grant for HCPs",
-          "Medtronic: Educational Grant for HCPs",
-          "Cryolife / Jotec: Educational Grant for HCPs"
-        ]
-      },
-      {
-        "expert": "Fauchier Laurent",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "details": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Bayer: Healthcare",
-          "Boehringer-Ingelheim: Healthcare",
-          "Medtronic: Healthcare",
-          "Novartis: Healthcare",
-          "BMS / Pfizer: Healthcare",
-          "XO: Healthcare"
-        ]
-      }
-    ]
+      "next_steps": "Determine aetiology and commence treatment if HF confirmed; consider other diagnoses if heart failure unlikely."
+    },
+    "figure_legend_notes": "Figure 1: Diagnostic algorithm for heart failure. Abbreviations explained include BNP (B-type natriuretic peptide), ECG (electrocardiogram), HFrEF, HFmrEF, HFpEF, LVEF, NT-proBNP (N-terminal pro-B type natriuretic peptide)."
   },
   "genes": []
 }

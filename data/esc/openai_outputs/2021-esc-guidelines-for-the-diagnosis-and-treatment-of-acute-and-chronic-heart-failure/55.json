@@ -1,102 +1,24 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
-    "organization": "European Society of Cardiology (ESC)",
-    "description": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year. Calls for declaration conducted during the period of development of these guidelines up to and including 2020.",
-    "declaration_period": "up to and including 2020",
-    "footer_date": "03/08/2021",
-    "reviewers": [
+    "page_title": "Recommendations for management of patients with advanced HF",
+    "extracted_text": [
+      "Non-invasive HRT may be considered for patients with HF in order to reduce the risk of recurrent CV and HF hospitalizations and CV death.",
+      "Recommendations for management of patients with advanced HF",
+      "Patients being considered for long-term MCS must have good compliance, appropriate capacity for device handling and psychosocial support."
+    ],
+    "recommendations": [
       {
-        "name": "Dendale Paul",
-        "year": 2020,
-        "type_of_relationship": [
-          {
-            "company": "Sanofi Aventis",
-            "relationship": "drugs"
-          },
-          {
-            "company": "Vifor International",
-            "relationship": "drugs"
-          },
-          {
-            "company": "Bristol Myers Squibb",
-            "relationship": "drugs"
-          },
-          {
-            "company": "GE Healthcare",
-            "relationship": "echo"
-          },
-          {
-            "company": "Biosense",
-            "relationship": "material"
-          },
-          {
-            "company": "Medtronic",
-            "relationship": "pm"
-          },
-          {
-            "company": "Biotronik",
-            "relationship": "PM"
-          }
-        ]
+        "recommendation": "Non-invasive HRT may be considered for patients with HF to reduce risk of recurrent cardiovascular (CV) and heart failure (HF) hospitalizations and CV death.",
+        "class": "IIb",
+        "source_context": "top of page, colored box"
       },
       {
-        "name": "Dilaveris Polychronis E",
-        "year": 2020,
-        "type_of_relationship": "Financial Declaration",
-        "details": {
-          "note": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "companies": [
-            {
-              "company": "Boehringer-Ingelheim",
-              "detail": "Digital solutions - Advisory board fees"
-            },
-            {
-              "company": "Medtronic",
-              "detail": "Implantable loop recorders - speaker fees"
-            },
-            {
-              "company": "Bayer",
-              "detail": "Non-Vitamin K Antagonist Anticoagulant - speaker fees"
-            }
-          ]
-        }
-      },
-      {
-        "name": "Drexel Heinz",
-        "year": 2020,
-        "type_of_relationship": "Financial Declaration",
-        "details": {
-          "note": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "companies": [
-            {
-              "company": "European Society of Cardiology",
-              "detail": "Cardiology"
-            },
-            {
-              "company": "Novartis",
-              "detail": "Clinical Lipidology"
-            },
-            {
-              "company": "Austrian Pharmacy Association",
-              "detail": "Diabetes"
-            },
-            {
-              "company": "Amgen",
-              "detail": "Lipids"
-            },
-            {
-              "company": "Daiichi Sankyo",
-              "detail": "Lipids"
-            },
-            {
-              "company": "Medscape",
-              "detail": "Lipids"
-            }
-          ]
-        }
+        "recommendation": "Patients being considered for long-term mechanical circulatory support (MCS) must have good compliance, appropriate capacity for device handling and psychosocial support.",
+        "class": "I",
+        "source_context": "bottom recommendation box under 'Recommendations for management of patients with advanced HF'"
       }
-    ]
+    ],
+    "notes": "Page appears to contain guideline recommendation boxes about advanced heart failure management and candidate requirements for long-term MCS. Abbreviations on page include HF, CV, MCS; no gene names are visible."
   },
   "genes": []
 }

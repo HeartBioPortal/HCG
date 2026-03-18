@@ -1,0 +1,47 @@
+{
+  "content": {
+    "page_title": "Cardiovascular comorbidities — Arrhythmias and conduction disturbances",
+    "follow_up_timing": "One follow-up visit recommended within 1–2 weeks after discharge.",
+    "follow_up_components": [
+      "Monitoring of signs and symptoms of heart failure (HF)",
+      "Assessment of volume status, blood pressure, heart rate",
+      "Laboratory measurements including renal function and electrolytes",
+      "Possibly measurement of natriuretic peptides (NPs)",
+      "Assessment of iron status and hepatic function if not done before discharge"
+    ],
+    "treatment_optimization_note": "Based on clinical evaluation and laboratory exams, further optimization and/or initiation of disease-modifying treatment for HFrEF should occur.",
+    "evidence_note": "Retrospective studies associate early follow-up with lower 30-day readmission rates; prospective randomized trials not yet performed.",
+    "section_12_overview": "Cardiovascular comorbidities with subsection on arrhythmias and conduction disturbances.",
+    "atrial_fibrillation_summary": "AF and HF frequently coexist and can cause or exacerbate each other via structural cardiac remodelling, activation of neurohormonal systems, and rate-related LV impairment. AF in chronic HF is associated with worse prognosis, including stroke and increased mortality.",
+    "recommendations_table_summary": [
+      {
+        "recommendation": "Evaluate patients hospitalized for HF to exclude persistent signs of congestion before discharge and optimize oral treatment.",
+        "class": "I",
+        "level": "C"
+      },
+      {
+        "recommendation": "Administer evidence-based oral medical treatment before discharge.",
+        "class": "I",
+        "level": "C"
+      },
+      {
+        "recommendation": "Early follow-up visit at 1–2 weeks after discharge to assess congestion, drug tolerance and start/up-titrate evidence-based therapy.",
+        "class": "I",
+        "level": "C"
+      },
+      {
+        "recommendation": "Consider ferric carboxymaltose for iron deficiency (serum ferritin <100 ng/mL or ferritin 100–299 ng/mL with TSAT <20%) to improve symptoms and reduce rehospitalizations.",
+        "class": "IIa",
+        "level": "B"
+      }
+    ],
+    "key_terms_acronyms": {
+      "HF": "heart failure",
+      "HFrEF": "heart failure with reduced ejection fraction",
+      "AF": "atrial fibrillation",
+      "NPs": "natriuretic peptides",
+      "TSAT": "transferrin saturation"
+    }
+  },
+  "genes": []
+}

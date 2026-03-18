@@ -1,63 +1,38 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
-    "note": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (up to and including 2020).",
-    "date_on_page": "03/08/2021",
-    "experts": [
+    "title": "Definition, epidemiology and prognosis",
+    "sections": [
       {
-        "name": "Uuetoa Tiina",
-        "year": 2020,
-        "declarations": [
-          "Payment from healthcare industry to department or institution for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Other positions of influence: membership/affiliation in political, advocacy or patients organisations; member of working group by the Estonian Health Insurance Foundation in developing National Guidelines for Primary Care Physicians for the management of chronic heart failure (unpaid contribution); Co-Head of the National Heart Failure Nurse Curriculum Committee (unpaid contribution)."
-        ],
-        "companies_mentioned": [
-          "Astra Zeneca"
-        ],
-        "specific_notes": [
-          "Astra Zeneca : SGLT2-inhibitors in heart failure"
-        ]
+        "id": "3.1",
+        "heading": "Definition of heart failure",
+        "text": "Heart failure (HF) is described as a clinical syndrome with cardinal symptoms (e.g., breathlessness, ankle swelling, fatigue) and signs (e.g., elevated jugular venous pressure, pulmonary crackles, peripheral oedema) due to structural and/or functional abnormality of the heart resulting in elevated intracardiac pressures and/or inadequate cardiac output at rest and/or during exercise. Identifying the aetiology of underlying cardiac dysfunction is mandatory because specific pathology determines treatment. Most commonly HF is due to myocardial dysfunction (systolic, diastolic, or both); valvular, pericardial, endocardial disease, and rhythm/conduction abnormalities may also contribute."
       },
       {
-        "name": "Vataman Eleonora",
-        "year": 2020,
-        "declarations": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Any other interest that should be declared in view of holding an ESC position: Nothing to declare."
-        ],
-        "companies_mentioned": [
-          "Egis Pharma"
-        ],
-        "specific_notes": [
-          "Egis Pharma : consultancy"
-        ]
+        "id": "3.2",
+        "heading": "Terminology",
+        "text": "HF is classified by left ventricular ejection fraction (LVEF) into distinct phenotypes. Reduced LVEF is defined as ≤40% and designated HFrEF. LVEF 41–49% is considered mildly reduced (HFmrEF) and may benefit from therapies similar to HFrEF. LVEF ≥50% with symptoms/signs and structural/functional abnormalities or raised natriuretic peptides is HFpEF. The guideline references tables and sections for detailed diagnostic criteria and notes measurement variability of LVEF by echocardiography."
       },
       {
-        "name": "Voronkov Leonid",
-        "year": 2020,
-        "declarations": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Payment from healthcare industry to department or institution for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc."
-        ],
-        "companies_mentioned": [
-          "Novartis",
-          "Amgen"
-        ],
-        "specific_notes": [
-          "Novartis : Speakers fees",
-          "Amgen : Consultancy"
-        ]
+        "id": "abbreviations",
+        "heading": "Selected abbreviations shown on the page",
+        "text": "Includes entries such as SGLT2 = sodium-glucose co-transporter 2; T2DM = type 2 diabetes mellitus; and multiple HF-related abbreviations (HFrEF, HFmrEF, HFpEF, LVEF, NYHA, ICD, LBBB, etc.)."
       }
+    ],
+    "key_points": [
+      "HF is a syndrome, not a single pathological diagnosis; requires identification of underlying aetiology for management.",
+      "Classification by LVEF: HFrEF (≤40%), HFmrEF (41–49%), HFpEF (≥50%).",
+      "Measurement of LVEF by echocardiography is variable; classifications guide treatment decisions based on prior trials."
     ]
   },
   "genes": [
     {
-      "Gene": "SGLT2 (SLC5A2)",
+      "Gene": "SGLT2",
       "Associated Conditions": [
-        "heart failure"
+        "Type 2 diabetes mellitus",
+        "Heart failure (context: guideline abbreviation list relevant to HF treatment)"
       ],
       "Occurrences": 1,
-      "context": "Mentioned once in the declaration: 'Astra Zeneca : SGLT2-inhibitors in heart failure' (listed by reviewer Uuetoa Tiina)."
+      "context": "Abbreviations line at top of page: 'SGLT2 = sodium-glucose co-transporter 2; T2DM = type 2 diabetes mellitus.'"
     }
   ]
 }

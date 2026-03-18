@@ -1,28 +1,32 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism - Reviewers",
-    "collaboration": "Developed in collaboration with the European Respiratory Society (ERS)",
-    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year. Calls conducted during development up to and including 2018.",
-    "date_on_page": "21/08/2019",
-    "page_number": "22/62",
-    "experts": [
-      {
-        "name": "Delgado Victoria",
-        "declaration": "D - Research funding under your direct/personal responsibility (to department or institution) from healthcare industry. - GE Healthcare: Echocardiography (2018). - Edwards Lifesciences: Transcatheter valve interventions (2018)."
+    "Table": "Table A2",
+    "Classes of recommendations": {
+      "Class I": {
+        "Definition": "Evidence and/or general agreement that a given treatment or procedure is beneficial, useful, effective.",
+        "Wording to use": "Is recommended or is indicated"
       },
-      {
-        "name": "Diaconu Nadejda",
-        "declaration": "Nothing to be declared (2018)."
+      "Class II": {
+        "Definition": "Conflicting evidence and/or a divergence of opinion about the usefulness/efficacy of the given treatment or procedure."
       },
-      {
-        "name": "Ereminiene Egle",
-        "declaration": "Nothing to be declared (2018)."
+      "Class IIa": {
+        "Definition": "Weight of evidence/opinion is in favour of usefulness/efficacy.",
+        "Wording to use": "Should be considered"
       },
-      {
-        "name": "Escribano Subias Maria Pilar",
-        "declaration": "1- Financial Declaration. A - Direct personal payment: Actelion: Pulmonary hypertension (2018). GlaxoSmithKline: Pulmonary hypertension (2018). Ferrer Internacional: Pulmonary hypertension (2018). Merck Sharp & Dohme: Pulmonary hypertension (2018). B - Payment to department/institution: Actelion: pulmonary hypertension (2018). Merck Sharp & Dohme: pulmonary hypertension (2018). D - Research funding under direct/personal responsibility from healthcare industry: Actelion: pulmonary hypertension (2018)."
+      "Class IIb": {
+        "Definition": "Usefulness/efficacy is less well established by evidence/opinion.",
+        "Wording to use": "May be considered"
+      },
+      "Class III": {
+        "Definition": "Evidence or general agreement that the given treatment or procedure is not useful/effective, and in some cases may be harmful.",
+        "Wording to use": "Is not recommended"
       }
-    ]
+    },
+    "Levels of evidence": {
+      "Level A": "Data derived from multiple randomized clinical trials or meta-analyses.",
+      "Level B": "Data derived from a single randomized clinical trial or large non-randomized studies.",
+      "Level C": "Consensus of opinion of the experts and/or small studies, retrospective studies, registries."
+    }
   },
   "genes": []
 }

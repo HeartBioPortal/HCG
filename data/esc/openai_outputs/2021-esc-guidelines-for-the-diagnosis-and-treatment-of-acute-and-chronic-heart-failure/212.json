@@ -1,0 +1,44 @@
+{
+  "content": {
+    "title": "Terms describing various indications for mechanical circulatory support",
+    "indications": [
+      {
+        "term": "Bridge to transplantation",
+        "abbreviation": "BTT",
+        "description": "Use of MCS (LVAD, BiVAD or TAH) to keep a patient alive who is otherwise at high risk of death before transplantation until a donor organ becomes available."
+      },
+      {
+        "term": "Bridge to recovery",
+        "abbreviation": "BTR",
+        "description": "Use of MCS (short-term or long-term) to keep a patient alive until cardiac function recovers sufficiently to remove MCS."
+      },
+      {
+        "term": "Destination therapy",
+        "abbreviation": "DT",
+        "description": "Long-term use of MCS (LVAD) as an alternative to transplantation in patients with end-stage HF ineligible for transplantation."
+      },
+      {
+        "term": "Bridge to decision / Bridge to bridge",
+        "abbreviation": "BTD / BTB",
+        "description": "Use of short-term MCS (ECMO or Impella) in patients with cardiogenic shock until haemodynamics and end-organ perfusion are stabilized, contraindications for long-term MCS are excluded (e.g., brain damage after resuscitation) and additional therapeutic options including long-term VAD therapy or heart transplant can be evaluated."
+      },
+      {
+        "term": "Bridge to candidacy",
+        "abbreviation": "BTC",
+        "description": "Use of MCS (usually LVAD) to improve end-organ function and/or to make an ineligible patient eligible for heart transplantation."
+      }
+    ],
+    "abbreviations": {
+      "BiVAD": "biventricular assist device",
+      "ECMO": "extracorporeal membrane oxygenation",
+      "HF": "heart failure",
+      "LVAD": "left ventricular assist device",
+      "MCS": "mechanical circulatory support",
+      "TAH": "total artificial heart",
+      "VAD": "ventricular assist device",
+      "Impella": "percutaneous ventricular assist device (mentioned as an example of short-term MCS)"
+    },
+    "source_notes": "Content corresponds to Table 15 and accompanying explanatory text describing indications for mechanical circulatory support; entries appear twice on the page (duplicate table)."
+  },
+  "genes": []
+}

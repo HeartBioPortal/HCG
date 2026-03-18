@@ -1,40 +1,47 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during the period of development of these guidelines up to and including 2020.",
-    "experts": [
-      {
-        "name": "Voronkov Leonid",
-        "year": 2020,
-        "type_of_relationship": "Travel and meeting support from healthcare industry, independent of the above activities.",
-        "details": [
-          "Krka Pharma: ESC Congress travel grant"
-        ]
-      },
-      {
-        "name": "Waltenberger Johannes",
-        "year": 2020,
-        "type_of_relationship": "Financial Declaration; Other Positions of Influence",
-        "details": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Daiichi Sankyo: thrombosis",
-          "Membership or affiliation in political, advocacy or patients organisations working in the field of cardiology",
-          "German Heart Foundation (Deutsche Herzstiftung)"
-        ]
-      },
-      {
-        "name": "Zaliaduonyte Diana",
-        "year": 2020,
-        "type_of_relationship": "Financial Declaration",
-        "details": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "AstraZeneca: speaker",
-          "Novartis: speaker"
-        ]
-      }
-    ],
-    "document_date": "03/08/2021"
+    "title": "Definition of heart failure with reduced ejection fraction, mildly reduced ejection fraction and preserved ejection fraction (Table 3)",
+    "note": "Table appears twice on the page; includes an 'Open in new tab' link and footnotes a–c.",
+    "table": {
+      "columns": [
+        "Type of HF",
+        "HFrEF",
+        "HFmrEF",
+        "HFpEF"
+      ],
+      "rows": [
+        {
+          "Criteria": "1",
+          "HFrEF": "Symptoms ± Signs",
+          "HFmrEF": "Symptoms ± Signs",
+          "HFpEF": "Symptoms ± Signs"
+        },
+        {
+          "Criteria": "2",
+          "HFrEF": "LVEF ≤ 40%",
+          "HFmrEF": "LVEF 41–49%",
+          "HFpEF": "LVEF ≥ 50%"
+        },
+        {
+          "Criteria": "3",
+          "HFrEF": "(not specified in table cells)",
+          "HFmrEF": "(not specified in table cells)",
+          "HFpEF": "Objective evidence of cardiac structural and/or functional abnormalities consistent with LV diastolic dysfunction/raised LV filling pressures, including raised natriuretic peptides"
+        }
+      ]
+    },
+    "abbreviations": {
+      "HFrEF": "heart failure with reduced ejection fraction",
+      "HFmrEF": "heart failure with mildly reduced ejection fraction",
+      "HFpEF": "heart failure with preserved ejection fraction",
+      "LV": "left ventricle",
+      "LVEF": "left ventricular ejection fraction"
+    },
+    "footnotes": {
+      "a": "Signs may not be present in the early stages of HF (especially in HFpEF) and in optimally treated patients.",
+      "b": "For the diagnosis of HFmrEF, the presence of other evidence of structural heart disease (e.g. increased left atrial size, LV hypertrophy or echocardiographic measures of impaired LV filling) makes the diagnosis more likely.",
+      "c": "For the diagnosis of HFpEF, the greater the number of abnormalities present, the higher the likelihood of HFpEF."
+    }
   },
   "genes": []
 }

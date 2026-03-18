@@ -1,54 +1,31 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Task Force Members",
-    "description": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (up to and including 2022).",
-    "page_info": {
-      "date": "12/05/2023",
-      "page": "7/23"
-    },
-    "experts": [
-      {
-        "name": "Dan Gheorghe Andrei",
-        "declaration_year": 2022,
-        "relationships": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Bayer: Atrial Fibrillation (AF)",
-          "Berlin Chemie AG: Atrial Fibrillation (AF)",
-          "Boehringer-Ingelheim: Atrial Fibrillation (AF), Chronic Heart Failure",
-          "Krka Pharma: Pharmacology and Pharmacotherapy",
-          "Novartis: Risk Factors and Prevention",
-          "Sanofi Aventis: Risk Factors and Prevention",
-          "Amgen Inc: Risk Factors and Prevention",
-          "Travel and meeting support from healthcare industry, independent of the above activities",
-          "Boehringer-Ingelheim: European Society of Cardiology (travel/meeting support)",
-          "Membership or affiliation in political or advocacy groups working in the field of cardiology",
-          "Member of the Cardiology Consultant Commission of the Health Ministry, Romania"
-        ]
-      },
-      {
-        "name": "Dweck Marc",
-        "declarations": [
-          {
-            "declaration_year": 2020,
-            "relationships": [
-              "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-              "Novartis: Advisory Boards",
-              "Pfizer: Speaking fees (cardiac amyloidosis)"
-            ]
-          },
-          {
-            "declaration_year": 2021,
-            "relationships": [
-              "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-              "Beren: Advisory Board",
-              "Silence Therapeutics: Advisory board (aortic stenosis)",
-              "Jupiter Bioventures: Advisory Boards (coronary atherosclerosis)",
-              "Novartis: Advisory Boards, Speaker Fees (aortic stenosis, coronary atherosclerosis)",
-              "Pfizer: Speaking fees (cardiac amyloidosis)"
-            ]
-          }
-        ]
-      }
+    "title": "Table of contents (Acute coronary syndromes guideline)",
+    "sections": [
+      "1. Preamble",
+      "2. Introduction",
+      "2.1. Definitions | Acute coronary syndromes and myocardial infarction",
+      "2.2. Epidemiology of acute coronary syndromes",
+      "2.3. Number and breakdown of classes of recommendations",
+      "2.4. What is new?",
+      "3. Triage and diagnosis",
+      "3.1. Clinical presentation and physical examination",
+      "3.1.1. Clinical presentation",
+      "3.1.2. History taking and physical examination",
+      "3.2. Diagnostic tools | Electrocardiogram",
+      "3.2.1. Acute coronary syndrome with persistent ST-segment elevation (suspected ST-elevation myocardial infarction)",
+      "3.2.2. Acute coronary syndrome without persistent ST-segment elevation (non-ST elevation acute coronary syndrome)",
+      "3.3. Diagnostic tools | Biomarkers",
+      "3.3.1. High-sensitivity cardiac troponins",
+      "3.3.2. Central laboratory vs. point of care",
+      "3.3.3. Confounders of cardiac troponin concentration",
+      "3.3.4. Rapid rule-in/rule-out algorithms",
+      "3.3.4.1. European Society of Cardiology 0/1h and 0/2h algorithms",
+      "3.3.4.1.1. Rule-out"
+    ],
+    "notes": [
+      "This page is a table of contents for an acute coronary syndromes guideline focusing on triage, diagnostics, and biomarkers.",
+      "The page mentions 'high-sensitivity cardiac troponins' and related troponin testing topics, but does not list specific human gene symbols."
     ]
   },
   "genes": []

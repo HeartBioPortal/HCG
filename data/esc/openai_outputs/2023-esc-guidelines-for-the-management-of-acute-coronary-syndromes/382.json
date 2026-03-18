@@ -1,0 +1,48 @@
+{
+  "content": {
+    "Beta-blockers": {
+      "recommendation": "Beta-blockers are recommended in ACS patients with LVEF ≤40% regardless of HF symptoms.",
+      "class": "I",
+      "level": "A"
+    },
+    "RAAS system inhibitors - ACE inhibitors": {
+      "recommendation": "Angiotensin-converting enzyme inhibitors are recommended in ACS patients with HF symptoms, LVEF ≤40%, diabetes, hypertension, and/or CKD.",
+      "class": "I",
+      "level": "A"
+    },
+    "RAAS system inhibitors - Mineralocorticoid receptor antagonists": {
+      "recommendation": "Mineralocorticoid receptor antagonists are recommended in ACS patients with an LVEF ≤40% and HF or diabetes.",
+      "class": "I",
+      "level": "A"
+    },
+    "Imaging": {
+      "recommendation": "In patients with pre-discharge LVEF ≤40%, repeat evaluation of the LVEF 6–12 weeks after an ACS (and after complete revascularization and the institution of optimal medical therapy) is recommended to assess the potential need for sudden cardiac death primary prevention ICD implantation.",
+      "class": "I",
+      "level": "C"
+    },
+    "Vaccination": {
+      "recommendation": "Influenza vaccination is recommended for all ACS patients.",
+      "class": "I",
+      "level": "A"
+    },
+    "Patient-centred care": {
+      "recommendation": "Patient-centred care is recommended by assessing and adhering to individual patient preferences, needs and beliefs, ensuring that patient values are used to inform all clinical decisions.",
+      "class": "I",
+      "level": "B"
+    },
+    "Shared decision-making and information": {
+      "recommendation": "Include ACS patients in decision-making (as much as their condition allows) and inform them about the risk of adverse events, radiation exposure, and alternative options. Decision aids should be used to facilitate the discussion.",
+      "class": "I",
+      "level": "B"
+    },
+    "Symptom assessment": {
+      "recommendation": "It is recommended to assess symptoms using methods that help patients to describe their experience.",
+      "class": "I",
+      "level": "C"
+    },
+    "Abbreviations and definitions (selected)": {
+      "note": "Page includes a list of abbreviations such as ACS (acute coronary syndrome), LVEF (left ventricular ejection fraction), HF (heart failure), CKD (chronic kidney disease), hs-cTn (high-sensitivity cardiac troponin), LDL-C (low-density lipoprotein cholesterol), among others."
+    }
+  },
+  "genes": []
+}

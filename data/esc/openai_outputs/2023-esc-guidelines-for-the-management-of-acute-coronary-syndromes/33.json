@@ -1,112 +1,59 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year (calls conducted during development period up to and including 2022).",
-    "page_date": "16/05/2023",
-    "page_number": "9/57",
-    "experts": [
+    "title": "PLATelet inhibition and patient Outcomes",
+    "abbreviations": [
       {
-        "name": "Chioncel Ovidiu",
-        "declarations": [
-          {
-            "year": 2021,
-            "text": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Boehringer-Ingelheim : Advisory Board Heart Failure"
-          },
-          {
-            "year": 2022,
-            "text": "Travel and meeting support from healthcare industry, independent of the above activities. Servier : Chronic Heart Failure"
-          }
-        ]
+        "abbr": "POC",
+        "definition": "Point of care"
       },
       {
-        "name": "Chukhrukidze Archil",
-        "declarations": [
-          {
-            "year": 2021,
-            "text": "Nothing to be declared"
-          },
-          {
-            "year": 2022,
-            "text": "Nothing to be declared"
-          }
-        ]
+        "abbr": "POPular Genetics",
+        "definition": "Cost-effectiveness of CYP2C19 Genotype Guided Treatment With Antiplatelet Drugs in Patients With ST-segment-elevation Myocardial Infarction Undergoing Immediate PCI With Stent Implantation: Optimization of Treatment"
       },
       {
-        "name": "Cikes Maja",
-        "declarations": [
-          {
-            "year": 2021,
-            "text": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "company_conditions": [
-              {
-                "company": "Pfizer",
-                "condition": "Amyloidosis"
-              },
-              {
-                "company": "GE Healthcare",
-                "condition": "Cardiovascular ultrasound"
-              },
-              {
-                "company": "Amicus Therapeutics",
-                "condition": "Fabry disease"
-              },
-              {
-                "company": "AstraZeneca",
-                "condition": "Heart failure"
-              },
-              {
-                "company": "Bayer",
-                "condition": "Heart failure"
-              },
-              {
-                "company": "Boehringer-Ingelheim",
-                "condition": "Heart failure"
-              },
-              {
-                "company": "Teva Pharmaceutical Industries",
-                "condition": "Heart failure"
-              },
-              {
-                "company": "Krka Pharma",
-                "condition": "Heart failure"
-              },
-              {
-                "company": "Livanova",
-                "condition": "Heart failure"
-              },
-              {
-                "company": "Novartis",
-                "condition": "Heart failure, hyperlipidaemia"
-              }
-            ],
-            "additional_payments": "Payment from healthcare industry to your department or institution or any other body for your personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "additional_companies": [
-              {
-                "company": "CorVia",
-                "condition": "Heart failure"
-              }
-            ],
-            "research_funding": [
-              {
-                "funder": "Pfizer",
-                "condition": "Amyloidosis",
-                "note": "Research funding from healthcare industry under your direct/personal responsibility (to department or institution)."
-              }
-            ],
-            "other": [
-              {
-                "company": "Abbott",
-                "condition": "Heart failure"
-              },
-              {
-                "company": "Novartis",
-                "condition": "Heart failure"
-              }
-            ]
-          }
-        ]
+        "abbr": "PPCI",
+        "definition": "Primary percutaneous coronary intervention"
+      },
+      {
+        "abbr": "PPI",
+        "definition": "Proton pump inhibitor"
+      },
+      {
+        "abbr": "PPV",
+        "definition": "Positive predictive value"
+      },
+      {
+        "abbr": "PRAMI",
+        "definition": "Preventive Angioplasty in Myocardial Infarction"
+      },
+      {
+        "abbr": "PREM",
+        "definition": "Patient-reported experience measure"
+      },
+      {
+        "abbr": "PROM",
+        "definition": "Patient-reported outcome measure"
+      },
+      {
+        "abbr": "QI",
+        "definition": "Quality indicator"
+      },
+      {
+        "abbr": "RAAS",
+        "definition": "Renin–angiotensin–aldosterone system"
       }
     ]
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "CYP2C19",
+      "Associated Conditions": [
+        "ST-segment-elevation myocardial infarction (STEMI)",
+        "Antiplatelet drug response / genotype-guided antiplatelet therapy",
+        "Percutaneous coronary intervention (PCI) with stent implantation"
+      ],
+      "Occurrences": 1,
+      "context": "Mentioned in the phrase: 'Cost-effectiveness of CYP2C19 Genotype Guided Treatment With Antiplatelet Drugs in Patients With ST-segment-elevation Myocardial Infarction Undergoing Immediate PCI With Stent Implantation: Optimization of Treatment.'"
+    }
+  ]
 }

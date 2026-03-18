@@ -1,90 +1,19 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS) - Reviewers",
-    "note": "Declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted up to and including 2018).",
-    "page_date": "21/08/2019",
-    "page_number": "16/62",
-    "experts": [
-      {
-        "name": "Ageno Walter",
-        "type_of_relationship": "Research funding (department/institutional)",
-        "declarations": [
-          {
-            "company": "Bayer Healthcare",
-            "item": "rivaroxaban",
-            "year": 2018
-          }
-        ]
-      },
-      {
-        "name": "Agewall Stefan",
-        "type_of_relationship": "Financial declaration (direct personal payment)",
-        "declarations": [
-          {
-            "company": "Boehringer-Ingelheim",
-            "item": "Antidiabetic treatment",
-            "year": 2018
-          }
-        ]
-      },
-      {
-        "name": "Almeida Ana Maria G",
-        "type_of_relationship": "None declared",
-        "declarations": [
-          {
-            "item": "Nothing to be declared",
-            "year": 2018
-          }
-        ]
-      },
-      {
-        "name": "Andreotti Felicita",
-        "type_of_relationship": "Financial declaration (direct personal payment)",
-        "declarations": [
-          {
-            "company": "Pfizer",
-            "item": "apixaban",
-            "year": 2018
-          },
-          {
-            "company": "BMS",
-            "item": "apixaban",
-            "year": 2018
-          },
-          {
-            "company": "Boehringer Ingelheim",
-            "item": "dabigatran",
-            "year": 2018
-          },
-          {
-            "company": "Amgen",
-            "item": "dyslipidaemia",
-            "year": 2018
-          },
-          {
-            "company": "Daiichi Sankyo",
-            "item": "edoxaban",
-            "year": 2018
-          },
-          {
-            "company": "Bayer Schering Pharma",
-            "item": "rivaroxaban",
-            "year": 2018
-          }
-        ]
-      },
-      {
-        "name": "Angoulvant Denis",
-        "type_of_relationship": "Financial declaration (direct personal payment)",
-        "declarations": [
-          {
-            "company": "Servier",
-            "item": "Coronary Heart Disease",
-            "year": 2018
-          }
-        ]
-      }
-    ]
+    "title": "New York Heart Association (glossary of abbreviations)",
+    "abbreviations": {
+      "OBRI": "Outpatient Bleeding Risk Index",
+      "o.d": "Omni die (once a day)",
+      "OR": "Odds ratio",
+      "PAH": "Pulmonary arterial hypertension",
+      "PAP": "Pulmonary artery pressure",
+      "PE": "Pulmonary embolism",
+      "PEA": "Pulmonary endarterectomy",
+      "PEITHO": "Pulmonary Embolism Thrombolysis trial",
+      "PERC": "Pulmonary Embolism Rule-out Criteria",
+      "PERT": "Pulmonary Embolism Response Team",
+      "PESI": "Pulmonary Embolism Severity Index"
+    }
   },
   "genes": []
 }

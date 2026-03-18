@@ -1,114 +1,76 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
-    "organization": "European Society of Cardiology (ESC)",
-    "declaration_note": "The report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration are conducted during the period of development of these guidelines up to and including 2020.",
-    "experts": [
-      {
-        "name": "Gustafsson Finn",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-        "companies": [
-          {
-            "company": "Abbott",
-            "associated_conditions": [
-              "Heart Failure"
-            ]
-          },
-          {
-            "company": "Amgen",
-            "associated_conditions": [
-              "HF"
-            ]
-          },
-          {
-            "company": "Astra Zeneca",
-            "associated_conditions": [
-              "HF"
-            ]
-          },
-          {
-            "company": "Boehringer-Ingelheim",
-            "associated_conditions": [
-              "HF"
-            ]
-          },
-          {
-            "company": "Orion",
-            "associated_conditions": [
-              "HF"
-            ]
-          },
-          {
-            "company": "Pfizer",
-            "associated_conditions": [
-              "HF"
-            ]
-          },
-          {
-            "company": "Alnylam",
-            "associated_conditions": [
-              "HF"
-            ]
-          },
-          {
-            "company": "Pharmacosmos",
-            "associated_conditions": [
-              "HF"
-            ]
-          },
-          {
-            "company": "Inois",
-            "associated_conditions": [
-              "HF"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Harris Julie",
-        "year": 2020,
-        "declaration_type": "None",
-        "summary": "Nothing to be declared",
-        "companies": []
-      },
-      {
-        "name": "Hayrapetyan Hamlet",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Also travel and meeting support independent of the above activities.",
-        "companies": [
-          {
-            "company": "Servier",
-            "associated_conditions": [
-              "Arterial Hypertension",
-              "Coronary Heart Disease"
-            ]
-          },
-          {
-            "company": "Egis Pharma",
-            "associated_conditions": [
-              "Arterial Hypertension",
-              "Coronary Heart Disease"
-            ]
-          },
-          {
-            "company": "Novartis",
-            "associated_conditions": [
-              "Heart Failure"
-            ]
-          },
-          {
-            "company": "Servier (travel and meeting support)",
-            "associated_conditions": [
-              "ESC Congress"
-            ]
-          }
-        ]
-      }
-    ],
-    "document_date": "03/08/2021"
+    "source": "Abbreviations list from clinical guideline page",
+    "abbreviations": {
+      "ACE-I": "angiotensin-converting enzyme inhibitor",
+      "ARB": "angiotensin-receptor blocker",
+      "ARNI": "angiotensin receptor-neprilysin inhibitor",
+      "CABG": "coronary artery bypass graft",
+      "CCS": "chronic coronary syndrome",
+      "CHA2DS2-VASc": "congestive heart failure or left ventricular dysfunction, Hypertension, Age ≥75 (doubled), Diabetes, Stroke (doubled)-Vascular disease, Age 65â€“74, Sex category (female) (score)",
+      "CMP": "cardiomyopathy",
+      "CV": "cardiovascular",
+      "DPP-4": "dipeptidyl peptidase-4",
+      "HF": "heart failure",
+      "HFrEF": "heart failure with reduced ejection fraction",
+      "HFpEF": "heart failure with preserved ejection fraction",
+      "HFmrEF": "heart failure with mildly reduced ejection fraction",
+      "HTM": "home telemonitoring",
+      "hATTR": "hereditary transthyretin",
+      "LAD": "left anterior descending artery",
+      "LV": "left ventricular",
+      "LVAD": "left ventricular assist device",
+      "LVEF": "left ventricular ejection fraction",
+      "MCS": "mechanical circulatory support",
+      "MRA": "mineralocorticoid receptor antagonist",
+      "NYHA": "New York Heart Association",
+      "OMT": "optimal medical therapy",
+      "PCI": "percutaneous coronary intervention",
+      "SAVR": "surgical aortic valve replacement",
+      "SGLT2": "sodium-glucose co-transporter 2",
+      "T2DM": "type 2 diabetes mellitus",
+      "TAVI": "transcatheter aortic valve implantation",
+      "TSAT": "transferrin saturation",
+      "wtTTR-CA": "wild-type transthyretin cardiac amyloidosis"
+    }
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "ACE",
+      "Associated Conditions": [
+        "Hypertension",
+        "Heart failure",
+        "Cardiovascular disease"
+      ],
+      "Occurrences": 1,
+      "context": "ACE-I = angiotensin-converting enzyme inhibitor (listed in abbreviations)"
+    },
+    {
+      "Gene": "DPP4",
+      "Associated Conditions": [
+        "Type 2 diabetes mellitus",
+        "Metabolic disease (DPP-4 inhibitors used in diabetes)"
+      ],
+      "Occurrences": 1,
+      "context": "DPP-4 = dipeptidyl peptidase-4 (listed in abbreviations)"
+    },
+    {
+      "Gene": "SGLT2",
+      "Associated Conditions": [
+        "Type 2 diabetes mellitus",
+        "Heart failure (therapeutic target relevant to guideline)"
+      ],
+      "Occurrences": 1,
+      "context": "SGLT2 = sodium-glucose co-transporter 2 (listed in abbreviations); associated with T2DM in the text"
+    },
+    {
+      "Gene": "TTR",
+      "Associated Conditions": [
+        "Hereditary transthyretin-related cardiac amyloidosis",
+        "Wild-type transthyretin cardiac amyloidosis (cardiac amyloidosis)"
+      ],
+      "Occurrences": 2,
+      "context": "hATTR = hereditary transthyretin; wtTTR-CA = wild-type transthyretin cardiac amyloidosis (both reference transthyretin/TTR)"
+    }
+  ]
 }

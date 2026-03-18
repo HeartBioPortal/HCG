@@ -1,56 +1,108 @@
 {
   "content": {
-    "document_title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism - Declarations of Interest (Task Force Members)",
-    "organization": "European Society of Cardiology (ESC) / European Respiratory Society (ERS)",
-    "page_date": "21/08/2019",
-    "page_number": "10/62",
-    "notes": "Report lists declarations of interest as reported to the ESC by experts during yearly call covering previous calendar year (up to and including 2018).",
-    "members": [
+    "description": "Table of contents / List of tables and figures for a clinical guideline on pulmonary embolism (page excerpt).",
+    "recommendations": [
       {
-        "name": "Meneveau Nicolas",
-        "declaration": "St Jude Medical : OCT (2017-2018)"
+        "section": "8.6",
+        "title": "Recommendations for the regimen and the duration of anticoagulation after pulmonary embolism in patients with active cancer",
+        "page": 579
       },
       {
-        "name": "Meyer Guy",
-        "declaration_sections": {
-          "1_Financial_Declaration": {
-            "A_direct_personal_payment": "Servier (my spouse is an employee of this company as occupational doctor) - spouse not involved in therapeutic area for Servier (2018).",
-            "B_payment_to_department_or_institution": [
-              "Bayer Healthcare : Anticoagulants (2017-2018)",
-              "Bristol Myers Squibb : Anticoagulants (2017-2018)"
-            ],
-            "D_research_funding": [
-              "Leo Pharma : Anticoagulants (2017-2018)"
-            ]
-          },
-          "2_other_positions_of_influence": {
-            "2.4_other_interest": "Spouse is employee of Servier; author personally received travel support from Leo Pharma, BMS (Bristol Myers Squibb), Pfizer, Bayer Healthcare and Daiichi Sankyo (2017)."
-          }
-        }
+        "section": "9.5",
+        "title": "Recommendations for pulmonary embolism in pregnancy",
+        "page": 582
       },
       {
-        "name": "Ni Ainle Fionnuala",
-        "declaration_sections": {
-          "1_Financial_Declaration": {
-            "A_direct_personal_payment": [
-              "Bristol Myers Squibb : apixaban (2017)",
-              "Daiichi Sankyo : edoxaban (2017)",
-              "Bayer : rivaroxaban (2017)",
-              "Leo Pharma : tinzaparin (2017-2018)"
-            ]
-          }
-        }
+        "section": "10.4",
+        "title": "Recommendations for follow-up after acute pulmonary embolism",
+        "page": 587
       }
     ],
-    "mentioned_companies_and_products": [
-      "St Jude Medical: OCT",
-      "Servier",
-      "Bayer Healthcare: Anticoagulants (including rivaroxaban mentioned under Bayer)",
-      "Bristol Myers Squibb: Anticoagulants (apixaban mentioned)",
-      "Leo Pharma: Anticoagulants (tinzaparin mentioned)",
-      "Daiichi Sankyo: edoxaban",
-      "Pfizer"
-    ]
+    "list_of_tables": [
+      {
+        "table": "Table 1",
+        "title": "Classes of recommendation",
+        "page": 548
+      },
+      {
+        "table": "Table 2",
+        "title": "Levels of evidence",
+        "page": 548
+      },
+      {
+        "table": "Table 3",
+        "title": "Predisposing factors for venous thromboembolism",
+        "page": 552
+      },
+      {
+        "table": "Table 4",
+        "title": "Definition of haemodynamic instability, which delineates acute high-risk pulmonary embolism",
+        "page": 553
+      },
+      {
+        "table": "Table 5",
+        "title": "The revised Geneva clinical prediction rule for pulmonary embolism",
+        "page": 554
+      },
+      {
+        "table": "Table 6",
+        "title": "Imaging tests for diagnosis of pulmonary embolism",
+        "page": 556
+      },
+      {
+        "table": "Table 7",
+        "title": "Original and simplified Pulmonary Embolism Severity Index",
+        "page": 562
+      },
+      {
+        "table": "Table 8",
+        "title": "Classification of pulmonary embolism severity and the risk of early (in-hospital or 30-day) death",
+        "page": 563
+      },
+      {
+        "table": "Table 9",
+        "title": "Treatment of right ventricular failure in acute high-risk pulmonary embolism",
+        "page": 565
+      },
+      {
+        "table": "Table 10",
+        "title": "Thrombolytic regimens, doses, and contraindications",
+        "page": 567
+      },
+      {
+        "table": "Table 11",
+        "title": "Categorization of risk factors for venous thromboembolism based on the risk of recurrence over the long-term",
+        "page": 575
+      },
+      {
+        "table": "Table 12",
+        "title": "Estimated radiation absorbed in procedures used for diagnosing pulmonary embolism (based on various references)",
+        "page": 581
+      },
+      {
+        "table": "Table 13",
+        "title": "Risk factors and predisposing conditions for Chronic thromboembolic pulmonary hypertension",
+        "page": 584
+      }
+    ],
+    "list_of_figures": [
+      {
+        "figure": "Figure 1",
+        "title": "Trends in annual incidence rates and case fatality rates of pulmonary embolism around the world, based on data retrieved from various references",
+        "page": 551
+      },
+      {
+        "figure": "Figure 2",
+        "title": "Key factors contributing to haemodynamic collapse and death in acute pulmonary embolism",
+        "page": 553
+      }
+    ],
+    "counts": {
+      "number_of_tables_listed": 13,
+      "number_of_figures_listed": 2,
+      "number_of_recommendation_sections_listed": 3
+    },
+    "notes": "This page is a contents list for guideline sections, tables, and figures. No human gene symbols or gene names are present on this page."
   },
   "genes": []
 }

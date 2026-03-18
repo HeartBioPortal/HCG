@@ -1,48 +1,139 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "note": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during development of guidelines up to and including 2020).",
-    "experts": [
+    "source": "Clinical guideline table of contents (page image)",
+    "table_of_contents": [
       {
-        "name": "Butler Javed",
-        "year": 2020,
-        "declarations": [
-          "Cardiac Dimensions : Heart Failure",
-          "Boehringer Ingelheim : Heart Failure",
-          "Livanova : Heart Failure",
-          "Adrenomed : Heart Failure",
-          "Innolife : Heart Failure",
-          "Applied Therapeutics : Heart Failure",
-          "G3 Pharmaceutical : Heart Failure",
-          "American Regent : Heart Failure",
-          "CVRx : Heart Failure",
-          "Occulotech : Heart Failure"
-        ],
-        "context": "List of industry relationships reported for 2020, each noted as 'Heart Failure' support."
+        "section": "5.2.2",
+        "title": "General principles of pharmacotherapy for heart failure with reduced ejection fraction",
+        "page": 3619
       },
       {
-        "name": "Celutkiene Jelena",
-        "year": 2019,
-        "declarations": {
-          "financial_declaration_summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "payments": [
-            "Pfizer : anticoagulation",
-            "Amgen : heart failure",
-            "Astra Zeneca : heart failure",
-            "Boehringer-Ingelheim : heart failure",
-            "Novartis : heart failure",
-            "Servier : heart failure",
-            "Sanofi Aventis : heart failure",
-            "Berlin Chemie AG : heart failure"
-          ],
-          "travel_and_meeting_support": [
-            "Novartis : digital health"
-          ]
-        },
-        "context": "Financial declaration for 2019 listing direct personal payments and travel/meeting support from healthcare industry, with companies and associated topics noted."
+        "section": "5.3",
+        "title": "Drugs recommended in all patients with heart failure with reduced ejection fraction",
+        "page": 3620
+      },
+      {
+        "section": "5.3.1",
+        "title": "Angiotensin-converting enzyme inhibitors",
+        "page": 3621
+      },
+      {
+        "section": "5.3.2",
+        "title": "Beta-blockers",
+        "page": 3621
+      },
+      {
+        "section": "5.3.3",
+        "title": "Mineralocorticoid receptor antagonists",
+        "page": 3621
+      },
+      {
+        "section": "5.3.4",
+        "title": "Angiotensin receptor–neprilysin inhibitor",
+        "page": 3621
+      },
+      {
+        "section": "5.3.5",
+        "title": "Sodium–glucose co-transporter 2 inhibitors",
+        "page": 3622
+      },
+      {
+        "section": "5.4",
+        "title": "Other drugs recommended or to be considered in selected patients with heart failure with reduced ejection fraction",
+        "page": 3622
+      },
+      {
+        "section": "5.4.1",
+        "title": "Diuretics",
+        "page": 3623
+      },
+      {
+        "section": "5.4.2",
+        "title": "Angiotensin II type I receptor blockers",
+        "page": 3623
+      },
+      {
+        "section": "5.4.3",
+        "title": "If-channel inhibitors",
+        "page": 3623
+      },
+      {
+        "section": "5.4.4",
+        "title": "Combination of hydralazine and isosorbide dinitrate",
+        "page": 3623
+      },
+      {
+        "section": "5.4.5",
+        "title": "Digoxin",
+        "page": 3623
+      },
+      {
+        "section": "5.4.6",
+        "title": "Recently reported advances from trials in heart failure with reduced ejection fraction",
+        "page": 3624
+      },
+      {
+        "section": "5.5",
+        "title": "Strategic phenotypic overview of the management of heart failure with reduced ejection fraction",
+        "page": 3624
+      },
+      {
+        "section": "6",
+        "title": "Cardiac rhythm management for heart failure with reduced ejection fraction",
+        "page": 3624
+      },
+      {
+        "section": "6.1",
+        "title": "Implantable cardioverter–defibrillator",
+        "page": 3625
+      },
+      {
+        "section": "6.1.1",
+        "title": "Secondary prevention of sudden cardiac death",
+        "page": 3626
+      },
+      {
+        "section": "6.1.2",
+        "title": "Primary prevention of sudden cardiac death",
+        "page": 3626
+      },
+      {
+        "section": "6.1.3",
+        "title": "Patient selection for implantable cardioverter–defibrillator therapy",
+        "page": 3626
+      },
+      {
+        "section": "6.1.4",
+        "title": "Implantable cardioverter–defibrillator programming",
+        "page": 3626
+      },
+      {
+        "section": "6.1.5",
+        "title": "Subcutaneous and wearable implantable cardioverter–defibrillators",
+        "page": 3626
+      },
+      {
+        "section": "6.2",
+        "title": "Cardiac resynchronization therapy",
+        "page": 3627
+      },
+      {
+        "section": "6.3",
+        "title": "Devices under evaluation",
+        "page": 3628
+      },
+      {
+        "section": "7",
+        "title": "Heart failure with mildly reduced ejection fraction",
+        "page": 3628
+      },
+      {
+        "section": "7.1",
+        "title": "The diagnosis of heart failure with mildly reduced ejection fraction",
+        "page": 3628
       }
     ],
-    "document_date": "12/08/2021"
+    "notes": "This page is a table of contents listing pharmacotherapy and device-management sections for heart failure. Drug classes and device topics are listed but individual human gene symbols are not explicitly named on the page."
   },
   "genes": []
 }

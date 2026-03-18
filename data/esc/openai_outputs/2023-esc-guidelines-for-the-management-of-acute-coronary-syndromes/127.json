@@ -1,0 +1,27 @@
+{
+  "content": {
+    "contraindications": "Contraindicated in patients with prior ICH, ischaemic stroke within 30 days, fibrinolysis, or platelet count <100 000/mm^3.",
+    "anticoagulant_drugs": {
+      "UFH": "Initial treatment: i.v. bolus 70–100 U/kg followed by i.v. infusion titrated to achieve an aPTT of 60–80 s. During PCI: 70–100 U/kg i.v. bolus or according to ACT if pre-treated with UFH.",
+      "Enoxaparin": "Initial treatment for ACS: 1 mg/kg b.i.d. subcutaneously for minimum 2 days and continued until clinical stabilization. If CrCl <30 mL/min reduce dosage to 1 mg/kg o.d. During PCI: if last dose <8 h before balloon inflation no additional dosing; if last s.c. administration >8 h before balloon inflation give i.v. bolus 0.3 mg/kg enoxaparin sodium.",
+      "Bivalirudin": "During PPCI: 0.75 mg/kg i.v. bolus followed by i.v. infusion of 1.75 mg/kg/h for 4 h after the procedure. If CrCl <30 mL/min reduce maintenance infusion to 1 mg/kg/h.",
+      "Fondaparinux": "Initial treatment: 2.5 mg/d subcutaneously. During PCI: a single bolus of UFH is recommended. Avoid if CrCl <20 mL/min."
+    },
+    "antiplatelet_drugs": {
+      "Aspirin": "Loading dose (LD) 150–300 mg orally or 75–250 mg i.v. if oral ingestion not possible, followed by oral maintenance dose (MD) 75–100 mg o.d.; no specific dose adjustment in CKD patients.",
+      "P2Y12_receptor_inhibitors_heading": "P2Y12 receptor inhibitors (oral or i.v.)",
+      "Clopidogrel": "LD 300–600 mg orally, followed by MD 75 mg o.d.; no specific dose adjustment in CKD patients. During fibrinolysis give an initial dose of 300 mg (75 mg for patients >75 years)."
+    }
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "Platelet P2Y12 receptor (target of antiplatelet therapy)",
+        "Target for clopidogrel in acute coronary syndromes (ACS) and PCI"
+      ],
+      "Occurrences": 1,
+      "context": "Page heading 'P2Y12 receptor inhibitors (oral or i.v.)' and listing clopidogrel under this class, indicating P2Y12 as the drug target."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "content": {
+    "references": [
+      {
+        "number": 41,
+        "authors": "Badertscher P, Boeddinghaus J, Twerenbold R, Nestelberger T, Wildi K, Wussler D, et al.",
+        "title": "Direct comparison of the 0/1h and 0/3h algorithms for early rule-out of acute myocardial infarction",
+        "journal": "Circulation",
+        "year": 2018,
+        "volume_pages": "137:2536-2538",
+        "doi": "https://doi.org/10.1161/CIRCULATIONAHA.118.034260"
+      },
+      {
+        "number": 42,
+        "authors": "Chapman AR, Anand A, Boeddinghaus J, Ferry AV, Sandeman D, Adamson PD, et al.",
+        "title": "Comparison of the efficacy and safety of early rule-out pathways for acute myocardial infarction",
+        "journal": "Circulation",
+        "year": 2017,
+        "volume_pages": "135:1586-1596",
+        "doi": "https://doi.org/10.1161/CIRCULATIONAHA.116.025021"
+      },
+      {
+        "number": 43,
+        "authors": "Chapman AR, Fujisawa T, Lee KK, Andrews JP, Anand A, Sandeman D, et al.",
+        "title": "A novel high-sensitivity cardiac troponin I assay in patients with suspected acute coronary syndrome",
+        "journal": "Heart",
+        "year": 2019,
+        "volume_pages": "105:616-622",
+        "doi": "https://doi.org/10.1136/heartjnl-2018-314093"
+      },
+      {
+        "number": 44,
+        "authors": "Chew DP, Lambrakis K, Blyth A, Seshadri A, Edmonds MJR, Briffa T, et al.",
+        "title": "A randomized trial of a 1-hour troponin T protocol in suspected acute coronary syndromes: the rapid assessment of possible acute coronary syndrome in the emergency department with high-sensitivity troponin T study (RAPID-TnT)",
+        "journal": "Circulation",
+        "year": 2019,
+        "volume_pages": "140:1543-1556",
+        "doi": "https://doi.org/10.1161/CIRCULATIONAHA.119.042891"
+      },
+      {
+        "number": 45,
+        "authors": "Nestelberger T, Wildi K, Boeddinghaus J, Twerenbold R, Reichlin T, Giménez MR, et al.",
+        "title": "Characterization of the observe zone of the ESC 2015 high-sensitivity cardiac troponin 0h/1h-algorithm for the early diagnosis of acute myocardial infarction",
+        "journal": "International Journal of Cardiology",
+        "year": 2016,
+        "volume_pages": "207:238-245",
+        "doi": "https://doi.org/10.1016/j.ijcard.2016.01.112"
+      },
+      {
+        "number": 46,
+        "authors": "Lopez-Ayala P, Nestelberger T, Boeddinghaus J, Koechlin L, Ratmann PD, Strebel I, et al.",
+        "title": "Novel criteria for the observe-zone of the ESC 0/1h-hs-cTnT algorithm",
+        "journal": "Circulation",
+        "year": 2021,
+        "volume_pages": "144:773-787",
+        "doi": "https://doi.org/10.1161/CIRCULATIONAHA.120.052982"
+      },
+      {
+        "number": 47,
+        "authors": "Granger CB, Goldberg RJ, Dabbous O, Pieper KS, Eagle KA, Cannon CP, et al.",
+        "title": "Predictors of hospital mortality in the global registry of acute coronary events",
+        "journal": "Archives of Internal Medicine",
+        "year": 2003,
+        "volume_pages": "163:2345-2353",
+        "doi": "https://doi.org/10.1001/archinte.163.19.2345"
+      },
+      {
+        "number": 48,
+        "authors": "Fox KA, Fitzgerald G, Puymirat E, Huang W, Carruthers K, Simon T, et al.",
+        "title": "Should patients with acute coronary disease be stratified for management according to their risk? Derivation, external validation and outcomes using the updated GRACE risk score",
+        "journal": "BMJ",
+        "year": null,
+        "volume_pages": null,
+        "doi_or_url": null,
+        "note": "Reference truncated on page image; full citation details not visible"
+      }
+    ]
+  },
+  "genes": []
+}

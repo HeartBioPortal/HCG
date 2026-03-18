@@ -1,0 +1,54 @@
+{
+  "content": {
+    "page_title": "References (heart failure clinical trials)",
+    "description": "Reference list of randomized controlled trials and major studies on beta-blockers, aldosterone antagonists, and other heart-failure therapies.",
+    "references": [
+      {
+        "number": 116,
+        "citation": "Packer M, Coats AJ, Fowler MB, Katus HA, Krum H, Mohacsi P, Rouleau JL, Tendera M, Castaigne A, Roecker EB, Schultz MK, DeMets DL, Carvedilol Prospective Randomized Cumulative Survival Study Group. Effect of carvedilol on survival in severe chronic heart failure. N Engl J Med 2001;344:1651–1658.",
+        "key_points": "Carvedilol trial showing effect on survival in severe chronic heart failure."
+      },
+      {
+        "number": 117,
+        "citation": "Hjalmarson A, Goldstein S, Fagerberg B, Wedel H, Waagstein F, Kjekshus J, Wikstrand J, El Allaf D, Vitovec J, Aldershvile J, Halinen M, Dietz R, Neuhaus KL, Janosi A, Thorgeirsson G, Dunselman PH, Gullestad L, Kuch J, Herlitz J, Rickenbacher P, Ball S, Gottlieb S, Deedwania P. Effects of controlled-release metoprolol on total mortality, hospitalizations, and well‑being in patients with heart failure: the Metoprolol CR/XL Randomized Intervention Trial in congestive heart failure (MERIT‑HF). JAMA 2000;283:1295–1302.",
+        "key_points": "MERIT-HF: controlled-release metoprolol reduced mortality and hospitalizations in heart failure patients."
+      },
+      {
+        "number": 118,
+        "citation": "Packer M, Fowler MB, Roecker EB, Coats AJ, Katus HA, Krum H, Mohacsi P, Rouleau JL, Tendera M, Staiger C, Holsclaw TL, Amann‑Zalan I, DeMets DL, Carvedilol Prospective Randomized Cumulative Survival Group. Effect of carvedilol on the morbidity of patients with severe chronic heart failure: results of the carvedilol prospective randomized cumulative survival (COPERNICUS) study. Circulation 2002;106:2194–2199.",
+        "key_points": "COPERNICUS: carvedilol reduced morbidity in severe chronic heart failure."
+      },
+      {
+        "number": 119,
+        "citation": "Flather MD, Shibata MC, Coats AJ, Van Veldhuisen DJ, Parkhomenko A, Borbola J, Cohen‑Solal A, Dumitrascu D, Ferrari R, Lechat P, Soler‑Soler J, Tavazzi L, Spinarova L, Toman J, Bohm M, Anker SD, Thompson SG, Poole‑Wilson PA, SENIORS Investigators. Randomized trial to determine the effect of nebivolol on mortality and cardiovascular hospital admission in elderly patients with heart failure (SENIORS). Eur Heart J 2005;26:215–225.",
+        "key_points": "SENIORS: nebivolol investigated for mortality and hospital admission outcomes in elderly heart failure patients."
+      },
+      {
+        "number": 120,
+        "citation": "CIBIS‑II Investigators and Committees. The Cardiac Insufficiency Bisoprolol Study II (CIBIS‑II): a randomised trial. Lancet 1999;353:9–13.",
+        "key_points": "CIBIS‑II: bisoprolol randomized trial in heart failure showing clinical benefit."
+      },
+      {
+        "number": 121,
+        "citation": "Pitt B, Zannad F, Remme WJ, Cody R, Castaigne A, Perez A, Palensky J, Wittes J. The effect of spironolactone on morbidity and mortality in patients with severe heart failure. Randomized Aldactone Evaluation Study Investigators. N Engl J Med 1999;341:709–717.",
+        "key_points": "RALES: spironolactone reduced morbidity and mortality in severe heart failure."
+      },
+      {
+        "number": 122,
+        "citation": "Zannad F, McMurray JJ, Krum H, van Veldhuisen DJ, Swedberg K, Shi H, Vincent J, Pocock SJ, Pitt B, EMPHASIS‑HF Study Group. Eplerenone in patients with systolic heart failure and mild symptoms. N Engl J Med 2011;364:11–21.",
+        "key_points": "EMPHASIS‑HF: eplerenone beneficial in patients with systolic heart failure and mild symptoms."
+      },
+      {
+        "number": 123,
+        "citation": "Fowler MB. Effects of beta blockers on symptoms and functional capacity in heart failure. Am J Cardiol 1997;80:55L–58L.",
+        "key_points": "Review/analysis on beta‑blockers improving symptoms and functional capacity in heart failure."
+      },
+      {
+        "number": 124,
+        "citation": "Willenheimer R, van Veldhuisen DJ, Silke B, Erdmann E, Follath F, Krum H, Ponikowski P, Skene A, van de Ven L, Verkenne P, Lechat P, CIBIS III Investigators. Effect on survival and hospitalization of initiating treatment for chronic heart failure with bisoprolol followed by enalapril, as compared with the opposite sequence: results of the randomized Cardiac Insufficiency Bisoprolol Study (CIBIS) III. Circulation 2005;112:2426–2435.",
+        "key_points": "CIBIS‑III: compared sequencing of bisoprolol and enalapril initiation; evaluated survival and hospitalization outcomes."
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,32 @@
+{
+  "content": {
+    "title": "Initial management: IV beta-blockers in STEMI undergoing PPCI",
+    "summary": "Few randomized controlled trials have tested early intravenous (i.v.) beta-blockers in the era of invasive management for patients with a working diagnosis of STEMI. Not all beta-blockers have the same cardioprotective effect; metoprolol demonstrates the greatest protective effect in experimental studies and is the most widely tested i.v. beta-blocker in trials enrolling patients undergoing primary PCI (PPCI).",
+    "evidence_summary": "Intravenous metoprolol has been consistently associated with a reduction in ventricular fibrillation (VF) and microvascular obstruction (MVO) in the cited studies. Long-term clinical benefits of early i.v. metoprolol are unclear, but it appears safe when used in patients without signs of acute heart failure (HF). Few RCTs exist in the modern invasive-management era.",
+    "recommendation_statement": "Consider administration of i.v. beta-blockers (preferably metoprolol) at time of presentation in patients with a working diagnosis of STEMI undergoing PPCI, provided there are no signs of acute HF, systolic blood pressure (SBP) > 120 mmHg, and no other contraindications.",
+    "patient_selection_criteria": [
+      "Working diagnosis of STEMI undergoing PPCI",
+      "No signs of acute heart failure",
+      "Systolic blood pressure > 120 mmHg",
+      "No other contraindications to beta-blocker therapy"
+    ],
+    "limitations_and_gaps": [
+      "Long-term clinical benefits of early i.v. metoprolol administration are not clearly established.",
+      "Administration of i.v. beta-blockers in patients with suspected NSTE-ACS has not been tested in these trials.",
+      "Overall, relatively few RCTs have been performed in the current invasive-management era."
+    ],
+    "related_terms_and_abbreviations": {
+      "i.v.": "intravenous",
+      "STEMI": "ST-elevation myocardial infarction",
+      "PPCI": "primary percutaneous coronary intervention",
+      "HF": "heart failure",
+      "VF": "ventricular fibrillation",
+      "MVO": "microvascular obstruction",
+      "SBP": "systolic blood pressure",
+      "NSTE-ACS": "non–ST-elevation acute coronary syndrome"
+    },
+    "references_mentioned": "Multiple reference citations are indicated in the original text supporting statements (numerical citations present in the source).",
+    "recommendation_link": "Reference to Recommendation Table 3 (Open in new tab) for initial management of patients with acute coronary syndrome"
+  },
+  "genes": []
+}

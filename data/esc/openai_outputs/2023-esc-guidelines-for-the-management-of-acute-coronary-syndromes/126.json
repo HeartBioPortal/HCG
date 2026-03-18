@@ -1,0 +1,46 @@
+{
+  "content": {
+    "title": "P2Y12 receptor inhibitors (oral or i.v.) and GP IIb/IIIa receptor inhibitors (i.v.) dosing table",
+    "P2Y12 receptor inhibitors": {
+      "Clopidogrel": "LD of 300–600 mg orally, followed by an MD of 75 mg o.d.; no specific dose adjustment in CKD patients. Fibrinolysis: initial dose of 300 mg (75 mg for patients >75 years).",
+      "Prasugrel": "LD of 60 mg orally, followed by MD of 10 mg o.d. In patients with body weight <60 kg, MD of 5 mg o.d. recommended. Use with caution in patients aged ≥75 years; prior stroke is a contraindication. No specific dose adjustment in CKD.",
+      "Ticagrelor": "LD of 180 mg orally, followed by MD of 90 mg b.i.d.; no specific dose adjustment in CKD patients.",
+      "Cangrelor": "Bolus of 30 mcg/kg i.v. followed by 4 mcg/kg/min infusion for at least 2 h or duration of procedure. When transitioning to a thienopyridine, administer thienopyridine immediately after stopping cangrelor (or give prasugrel 30 mg 30 min before stopping cangrelor). Ticagrelor (LD 180 mg) should be given at time of PCI to minimize gap in platelet inhibition."
+    },
+    "GP IIb/IIIa receptor inhibitors": {
+      "Eptifibatide": "Double bolus of 180 mcg/kg i.v. (10-min interval) followed by infusion of 2.0 mcg/kg/min for up to 18 h. Dose adjustments for CrCl 30–50 mL/min and contraindications include end-stage renal disease, prior ICH, ischemic stroke within 30 days, fibrinolysis, or platelet count <100,000/mm3.",
+      "Tirofiban": "Bolus of 25 mcg/kg i.v. over 3 min, followed by infusion of 0.15 mcg/kg/min for up to 18 h. Dose adjustments for CrCl ≤60 mL/min: LD 25 mcg/kg i.v. over 5 min followed by maintenance infusion of 0.075 mcg/kg/min continued up to 18 h."
+    }
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "Platelet activation/aggregation",
+        "Antiplatelet therapy in acute coronary syndromes",
+        "Periprocedural platelet inhibition during PCI",
+        "Adjunct to fibrinolysis"
+      ],
+      "Occurrences": 1,
+      "context": "Referenced in the header 'P2Y12 receptor inhibitors (oral or i.v.)' as the target class for clopidogrel, prasugrel, ticagrelor and cangrelor."
+    },
+    {
+      "Gene": "ITGA2B",
+      "Associated Conditions": [
+        "Platelet aggregation via glycoprotein IIb/IIIa complex",
+        "Target of intravenous GP IIb/IIIa inhibitors used in acute coronary syndromes/PCI"
+      ],
+      "Occurrences": 1,
+      "context": "Implied by the header 'GP IIb/IIIa receptor inhibitors (i.v.)' describing eptifibatide and tirofiban, which target the platelet glycoprotein IIb/IIIa complex."
+    },
+    {
+      "Gene": "ITGB3",
+      "Associated Conditions": [
+        "Platelet aggregation via glycoprotein IIb/IIIa complex",
+        "Target of intravenous GP IIb/IIIa inhibitors used in acute coronary syndromes/PCI"
+      ],
+      "Occurrences": 1,
+      "context": "Implied by the header 'GP IIb/IIIa receptor inhibitors (i.v.)' describing eptifibatide and tirofiban, which target the platelet glycoprotein IIb/IIIa complex."
+    }
+  ]
+}

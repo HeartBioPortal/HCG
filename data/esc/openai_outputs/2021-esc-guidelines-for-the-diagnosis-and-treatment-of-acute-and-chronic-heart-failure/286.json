@@ -1,0 +1,60 @@
+{
+  "content": {
+    "title": "Recommendations (excerpt)",
+    "sections": {
+      "Aortic stenosis": [
+        {
+          "recommendation": "Aortic valve intervention, TAVI or SAVR, is recommended in patients with HF and severe high‑gradient aortic stenosis to reduce mortality and improve symptoms.",
+          "Class": "I",
+          "Level": "B",
+          "notes": "Reference note 594 on image; emphasizes intervention in HF patients with severe high‑gradient AS."
+        },
+        {
+          "recommendation": "Choice between TAVI and SAVR should be made by the Heart Team according to individual patient preference and features including age, surgical risk, clinical, anatomical and procedural aspects, weighing risks and benefits of each approach.",
+          "Class": "I",
+          "Level": "C",
+          "notes": "Reference note 592 on image; shared decision by Heart Team."
+        }
+      ],
+      "Secondary mitral regurgitation": [
+        {
+          "recommendation": "Percutaneous edge‑to‑edge mitral valve repair should be considered in carefully selected patients with secondary mitral regurgitation, not eligible for surgery and not needing coronary revascularization, who are symptomatic despite OMT and who fulfil criteria for achieving a reduction in HF hospitalizations.",
+          "Class": "IIa",
+          "Level": "B",
+          "notes": "Reference note 612 on image; candidate selection includes symptomatic despite optimal medical therapy and not surgical candidates."
+        },
+        {
+          "recommendation": "In patients with HF, severe secondary mitral regurgitation and CAD who need revascularization, CABG and mitral valve surgery should be considered.",
+          "Class": "IIa",
+          "Level": "C",
+          "notes": "Surgical approach recommended when concurrent CAD requires revascularization."
+        },
+        {
+          "recommendation": "Percutaneous edge‑to‑edge mitral valve repair may be considered to improve symptoms in carefully selected patients with secondary mitral regurgitation, not eligible for surgery and not needing coronary revascularization, highly symptomatic despite OMT and who do not fulfil criteria for reducing HF hospitalization.",
+          "Class": "IIb",
+          "Level": "C",
+          "notes": "Reference note 617 on image; weaker recommendation for symptom improvement when hospitalization reduction criteria not met."
+        }
+      ]
+    },
+    "abbreviations": {
+      "CABG": "coronary artery bypass graft",
+      "CAD": "coronary artery disease",
+      "LVEF": "left ventricular ejection fraction",
+      "LVESD": "left ventricular end‑systolic diameter",
+      "NYHA": "New York Heart Association",
+      "OMT": "optimal medical therapy",
+      "SAVR": "surgical aortic valve replacement",
+      "TAVI": "transcatheter aortic valve implantation",
+      "TR": "tricuspid regurgitation",
+      "HF": "heart failure"
+    },
+    "footnotes": {
+      "a": "Class of recommendation.",
+      "b": "Level of evidence.",
+      "c": "NYHA class IIa–IV (context note shown on image)."
+    },
+    "source": "Excerpted guideline table image (recommendations for aortic stenosis and secondary mitral regurgitation)."
+  },
+  "genes": []
+}

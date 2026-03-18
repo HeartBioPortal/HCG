@@ -1,0 +1,80 @@
+{
+  "content": {
+    "title": "Infections in patients with heart failure - key points",
+    "recommendations": [
+      "Patients with HF are at increased risk of infections and have poorer outcomes once infected.",
+      "Telemonitoring avoids the risks of infections caused by close contact and is useful during pandemic conditions; it may be implemented for patient follow-up.",
+      "During pandemics, HF patients should be screened for infection at the time of hospitalization, for urgent admissions, or before elective hospitalizations.",
+      "Careful assessment of fluid status in addition to clinical signs of HF is mandatory during hospitalization in patients with concomitant sepsis; echocardiography measures (eg, IVC diameter/collapsibility) may be used.",
+      "Continue optimal medical therapy (OMT) in chronic HF patients whenever blood pressure and haemodynamic conditions permit, considering drug interactions with infection-related therapies and side effect profiles."
+    ],
+    "OMT_components": [
+      "beta-blocker",
+      "ACE-I (angiotensin-converting enzyme inhibitor)",
+      "ARB (angiotensin-receptor blocker) or ARNI (angiotensin receptor–neprilysin inhibitor)",
+      "MRA (mineralocorticoid receptor antagonist)",
+      "SGLT2 inhibitors (sodium–glucose co-transporter 2 inhibitors)"
+    ],
+    "abbreviations": {
+      "ACE-I": "angiotensin-converting enzyme inhibitor",
+      "ARB": "angiotensin-receptor blocker",
+      "ARNI": "angiotensin receptor-neprilysin inhibitor",
+      "BP": "blood pressure",
+      "HF": "heart failure",
+      "MRA": "mineralocorticoid receptor antagonist",
+      "OMT": "optimal medical therapy",
+      "SGLT2": "sodium-glucose co-transporter 2"
+    },
+    "source_notes": "Table/section repeated in the page; recommendations emphasize infection risk in HF and continuation of guideline-directed HF therapies while considering infection-related interactions."
+  },
+  "genes": [
+    {
+      "Gene": "ACE",
+      "Associated Conditions": [
+        "Heart failure (treatment target via ACE inhibitors)"
+      ],
+      "Occurrences": 3,
+      "context": "OMT (including ... ACE-I ...) and abbreviation: 'ACE-I = angiotensin-converting enzyme inhibitor' — ACE is the target of ACE inhibitors used in HF."
+    },
+    {
+      "Gene": "AGTR1",
+      "Associated Conditions": [
+        "Heart failure (target of angiotensin-receptor blockers)"
+      ],
+      "Occurrences": 3,
+      "context": "OMT lists 'ARB or ARNI' and abbreviation: 'ARB = angiotensin-receptor blocker' — angiotensin II receptor type 1 (AGTR1) is the common angiotensin receptor targeted in HF therapy."
+    },
+    {
+      "Gene": "MME",
+      "Associated Conditions": [
+        "Heart failure (neprilysin is targeted by ARNIs)"
+      ],
+      "Occurrences": 1,
+      "context": "Abbreviation: 'ARNI = angiotensin receptor-neprilysin inhibitor' — neprilysin (MME) is the neprilysin enzyme component referenced in ARNI therapy."
+    },
+    {
+      "Gene": "NR3C2",
+      "Associated Conditions": [
+        "Heart failure (targeted by mineralocorticoid receptor antagonists)"
+      ],
+      "Occurrences": 3,
+      "context": "OMT includes 'MRA' and abbreviation: 'MRA = mineralocorticoid receptor antagonist' — the mineralocorticoid receptor is encoded by NR3C2 and is targeted in HF treatment."
+    },
+    {
+      "Gene": "SLC5A2",
+      "Associated Conditions": [
+        "Heart failure (targeted by SGLT2 inhibitors)"
+      ],
+      "Occurrences": 3,
+      "context": "OMT includes 'SGLT2 inhibitors' and abbreviation: 'SGLT2 = sodium-glucose co-transporter 2' — SGLT2 corresponds to the SLC5A2 gene product targeted in HF therapies."
+    },
+    {
+      "Gene": "ADRB1",
+      "Associated Conditions": [
+        "Heart failure (target of beta-blocker therapy)"
+      ],
+      "Occurrences": 3,
+      "context": "OMT lists 'beta-blocker' as a component of therapy — beta-1 adrenergic receptor (ADRB1) is a principal cardiac beta-adrenergic receptor targeted by beta-blockers in HF."
+    }
+  ]
+}

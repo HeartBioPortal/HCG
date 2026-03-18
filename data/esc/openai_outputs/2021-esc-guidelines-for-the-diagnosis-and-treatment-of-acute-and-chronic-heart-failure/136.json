@@ -1,0 +1,31 @@
+{
+  "content": {
+    "source": "ESC 2021 guideline excerpt (image)",
+    "recommendations": [
+      {
+        "intervention": "Hydralazine and isosorbide dinitrate",
+        "recommendation": "May be considered in patients with symptomatic HFrEF who cannot tolerate any of an ACE‑I, an ARB, or ARNI (or they are contraindicated) to reduce the risk of death.",
+        "class_level": "IIb",
+        "evidence_level": "B",
+        "reference": "143",
+        "context_text": "Hydralazine and isosorbide dinitrate may be considered in patients with symptomatic HFrEF who cannot tolerate any of an ACE-I, an ARB, or ARNI (or they are contraindicated) to reduce the risk of death."
+      },
+      {
+        "intervention": "Digoxin",
+        "recommendation": "May be considered in patients with symptomatic HFrEF in sinus rhythm despite treatment with an ACE‑I (or ARNI), a beta‑blocker and an MRA, to reduce the risk of hospitalization (both all‑cause and HF hospitalizations).",
+        "class_level": "IIb",
+        "evidence_level": "B",
+        "reference": "144",
+        "context_text": "Digoxin may be considered in patients with symptomatic HFrEF in sinus rhythm despite treatment with an ACE-I (or ARNI), a beta-blocker and an MRA, to reduce the risk of hospitalization (both all-cause and HF hospitalizations)."
+      }
+    ],
+    "abbreviations": {
+      "HFrEF": "heart failure with reduced ejection fraction",
+      "ACE-I": "angiotensin-converting enzyme inhibitor",
+      "ARB": "angiotensin receptor blocker",
+      "ARNI": "angiotensin receptor–neprilysin inhibitor",
+      "MRA": "mineralocorticoid receptor antagonist"
+    }
+  },
+  "genes": []
+}

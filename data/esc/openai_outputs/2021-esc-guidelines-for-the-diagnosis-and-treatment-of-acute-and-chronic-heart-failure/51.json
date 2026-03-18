@@ -1,86 +1,52 @@
 {
   "content": {
-    "document_title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
-    "document_note": "Declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during development of these guidelines up to and including 2020.",
-    "page_date": "03/08/2021",
-    "experts": [
-      {
-        "name": "Chrysohoou Christina",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "direct_personal_payments": [
-          {
-            "company": "Boehringer-Ingelheim",
-            "condition": "Heart Failure"
-          },
-          {
-            "company": "Phizer",
-            "condition": "Heart Failure"
-          }
-        ],
-        "raw_text": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. - Boehringer-Ingelheim : Heart Failure - Phizer : Heart Failure"
-      },
-      {
-        "name": "Cikes Maja",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "direct_personal_payments": [
-          {
-            "company": "Bayer",
-            "condition": "Anticoagulation"
-          },
-          {
-            "company": "Pfizer",
-            "condition": "Anticoagulation, amyloidosis"
-          },
-          {
-            "company": "Astra Zeneca",
-            "condition": "coronary heart disease"
-          },
-          {
-            "company": "Astra Zeneca",
-            "condition": "Heart Failure"
-          },
-          {
-            "company": "Boehringer-Ingelheim",
-            "condition": "Heart failure"
-          },
-          {
-            "company": "Novartis",
-            "condition": "Heart failure"
-          },
-          {
-            "company": "Orion",
-            "condition": "Heart failure"
-          },
-          {
-            "company": "Teva Pharmaceutical Industries",
-            "condition": "Heart failure"
-          }
-        ],
-        "payments_to_department_or_institution": [
-          {
-            "company": "Novartis",
-            "condition": "heart failure"
-          },
-          {
-            "company": "CorVia",
-            "condition": "Heart failure"
-          }
-        ],
-        "research_funding": [
-          {
-            "company": "Abbott",
-            "condition": "Heart failure"
-          },
-          {
-            "company": "Novartis",
-            "condition": "Heart failure"
-          }
-        ],
-        "raw_text": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. - Bayer : Anticoagulation - Pfizer : Anticoagulation, amyloidosis - Astra Zeneca : coronary heart disease - Astra Zeneca : Heart Failure - Boehringer-Ingelheim : Heart failure - Novartis : Heart failure - Orion : Heart failure - Teva Pharmaceutical Industries : Heart failure. Payment from healthcare industry to your department or institution or any other body for your personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. - Novartis : heart failure - CorVia : Heart failure. Research funding from healthcare industry under your direct/personal responsibility (to department or institution). - Abbott : Heart failure - Novartis : Heart failure"
-      }
+    "HF and diabetes": [
+      "SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, sotagliflozin) are recommended in patients with T2DM at risk of CV events to reduce hospitalizations for HF, major CV events, end-stage renal dysfunction, and CV death. (Class I)",
+      "SGLT2 inhibitors (dapagliflozin, empagliflozin, and sotagliflozin) are recommended in patients with T2DM and HFrEF to reduce hospitalizations for HF and CV death. (Class I)",
+      "The DPP-4 inhibitor saxagliptin is not recommended in patients with HF. (Class III)"
+    ],
+    "HF and iron deficiency": [
+      "All patients with HF should be periodically screened for anaemia and iron deficiency with full blood count, serum ferritin concentration, and TSAT. (Class I)",
+      "Intravenous iron supplementation with ferric carboxymaltose should be considered in symptomatic HF patients recently hospitalized for HF with LVEF ≤50% and iron deficiency (serum ferritin <100 ng/mL or ferritin 100–299 ng/mL with TSAT <20%) to reduce risk of HF hospitalization. (Class IIa)",
+      "Treatment of anaemia in HF with erythropoietin stimulating agents is not recommended in the absence of other indications. (Class III)"
+    ],
+    "HF and cancer": [
+      "Cancer patients at increased risk for cardiotoxicity should undergo CV evaluation before scheduled anticancer therapy, preferably by a cardiologist experienced/interested in cardio-oncology. (Class I)",
+      "Consider treatment with an ACE inhibitor and a beta-blocker (preferably carvedilol) in cancer patients developing LV systolic dysfunction during anthracycline chemotherapy. (Class IIa)",
+      "Baseline CV risk assessment should be considered in all cancer patients scheduled to receive cancer treatment with potential to cause HF. (Class IIa)"
+    ],
+    "HF and amyloidosis": [
+      "Tafamidis is recommended in patients with genetic testing–proven hATTR-CA and NYHA class I or II symptoms to reduce symptoms, CV hospitalization and mortality. (Class I)",
+      "Tafamidis is recommended in patients with wtTTR-CA and NYHA class I or II symptoms to reduce symptoms and CV hospitalization. (Class I)"
     ]
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "DPP4",
+      "Associated Conditions": [
+        "Heart failure (saxagliptin not recommended)",
+        "Diabetes treatment-related cardiovascular safety"
+      ],
+      "Occurrences": 1,
+      "context": "The guideline states: 'The DPP-4 inhibitor saxagliptin is not recommended in patients with HF.' This links DPP-4 (gene DPP4) to adverse outcomes in HF when inhibited by saxagliptin."
+    },
+    {
+      "Gene": "TTR",
+      "Associated Conditions": [
+        "Hereditary transthyretin cardiac amyloidosis (hATTR-CA)",
+        "Wild-type transthyretin cardiac amyloidosis (wtTTR-CA)"
+      ],
+      "Occurrences": 2,
+      "context": "Recommendations: 'Tafamidis is recommended in patients with genetic testing proven hATTR-CA...' and 'Tafamidis is recommended in patients with wtTTR-CA...' — both refer to transthyretin (TTR) related cardiac amyloidosis."
+    },
+    {
+      "Gene": "SLC5A2",
+      "Associated Conditions": [
+        "Type 2 diabetes mellitus with cardiovascular risk",
+        "Heart failure with reduced ejection fraction (HFrEF)"
+      ],
+      "Occurrences": 2,
+      "context": "The guideline refers to 'SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, sotagliflozin) are recommended...' SGLT2 is the sodium-glucose cotransporter encoded by SLC5A2 and is the drug class target implicated in reducing HF hospitalizations and CV death."
+    }
+  ]
 }

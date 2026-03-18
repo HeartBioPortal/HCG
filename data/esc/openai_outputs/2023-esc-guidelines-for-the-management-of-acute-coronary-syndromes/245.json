@@ -1,0 +1,63 @@
+{
+  "content": {
+    "title": "Recommendations on pacing and pacemaker/CRT implantation after MI",
+    "recommendations": [
+      "Temporary pacing is recommended in cases of failure to respond to atropine.",
+      "Urgent angiography with a view to revascularization is recommended if the patient has not received previous reperfusion therapy.",
+      "Implantation of a permanent pacemaker is recommended when high-degree AV block does not resolve within a waiting period of at least 5 days after MI.",
+      "In selected patients with high-degree AV block in the context of an anterior wall MI and acute HF, early device implantation (CRT-D/CRT-P) may be considered.",
+      "Pacing is not recommended if high-degree AV block resolves after revascularization or spontaneously."
+    ],
+    "classes_and_levels": [
+      {
+        "recommendation_excerpt": "temporary pacing is recommended in cases of failure to respond to atropine",
+        "class_of_recommendation": "I",
+        "level_of_evidence": "C"
+      },
+      {
+        "recommendation_excerpt": "urgent angiography with a view to revascularization is recommended if the patient has not received previous reperfusion therapy",
+        "class_of_recommendation": "I",
+        "level_of_evidence": "C"
+      },
+      {
+        "recommendation_excerpt": "Implantation of a permanent pacemaker is recommended when high-degree AV block does not resolve within a waiting period of at least 5 days after MI",
+        "class_of_recommendation": "I",
+        "level_of_evidence": "C"
+      },
+      {
+        "recommendation_excerpt": "In selected patients with high-degree AV block in the context of an anterior wall MI and acute HF, early device implantation (CRT-D/CRT-P) may be considered",
+        "class_of_recommendation": "IIb",
+        "level_of_evidence": "C"
+      },
+      {
+        "recommendation_excerpt": "Pacing is not recommended if high-degree AV block resolves after revascularization or spontaneously",
+        "class_of_recommendation": "III",
+        "level_of_evidence": "B"
+      }
+    ],
+    "abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "AF": "atrial fibrillation",
+      "AV": "atrioventricular",
+      "CHA2DS2-VASc": "stroke risk score (clinical score, not a gene)",
+      "Congestive heart failure": "HF",
+      "CMR": "cardiac magnetic resonance",
+      "CRT-D/CRT-P": "cardiac resynchronization therapy—defibrillator/pacemaker",
+      "HAS-BLED": "bleeding risk score",
+      "INR": "international normalized ratio",
+      "IABP": "intra-aortic balloon pump",
+      "ICD": "implantable cardioverter defibrillator",
+      "LV": "left ventricular",
+      "LVEF": "left ventricular ejection fraction",
+      "MI": "myocardial infarction",
+      "NOAC": "non-vitamin K antagonist oral anticoagulant",
+      "NYHA": "New York Heart Association",
+      "STEMI": "ST-elevation myocardial infarction",
+      "VF": "ventricular fibrillation",
+      "VKA": "vitamin K antagonist",
+      "VT": "ventricular tachycardia"
+    },
+    "notes": "Content extracted from guideline table and abbreviation list. Focus is on pacing and device implantation recommendations after myocardial infarction (MI) and for high-degree AV block."
+  },
+  "genes": []
+}

@@ -1,0 +1,29 @@
+{
+  "content": {
+    "recommendations": [
+      "Anticoagulant doses adjusted to body weight and renal function, especially in women and older patients",
+      "Radial artery approach as default vascular access",
+      "Proton pump inhibitors recommended in patients on dual antiplatelet therapy at higher-than-average risk of gastrointestinal bleeds (history of gastrointestinal ulcer/haemorrhage, anticoagulant therapy, chronic non-steroidal anti-inflammatory drug/corticosteroid use) or two or more of: age ≥65 years, dyspepsia, gastro-oesophageal reflux disease, Helicobacter pylori infection, chronic alcohol use"
+    ],
+    "management_in_patients_on_OAC": [
+      "PCI performed without interruption of VKAs or NOACs",
+      "In patients on VKAs, do not administer UFH if INR > 2.5",
+      "In patients on NOACs, regardless of timing of last NOAC dose, add low-dose parenteral anticoagulation (e.g. enoxaparin 0.5 mg/kg i.v. or UFH 60 IU/kg)"
+    ],
+    "antiplatelet_guidance": [
+      "Aspirin is indicated but avoid pre-treatment with P2Y12 receptor inhibitors",
+      "GP IIb/IIIa receptor inhibitors only for bailout or peri-procedural complications"
+    ],
+    "abbreviations_and_notes": "GP = glycoprotein; INR = international normalized ratio; i.v. = intravenous; NOAC = non-vitamin K antagonist oral anticoagulant; OAC = oral anticoagulation/anticoagulant; PCI = percutaneous coronary intervention; UFH = unfractionated heparin; VKA = vitamin K antagonist. Evidence on management of ACS patients with an indication for long-term OAC undergoing PCI is derived from subgroups of RCTs."
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "Antiplatelet therapy in acute coronary syndrome/PCI (context: pre-treatment to be avoided)"
+      ],
+      "Occurrences": 1,
+      "context": "Statement: 'Aspirin is indicated but avoid pre-treatment with P2Y12 receptor inhibitors' (mentions P2Y12 receptor inhibitors in the context of antiplatelet management around PCI)"
+    }
+  ]
+}

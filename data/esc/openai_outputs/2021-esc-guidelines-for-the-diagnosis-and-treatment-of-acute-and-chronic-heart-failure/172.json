@@ -1,0 +1,72 @@
+{
+  "content": {
+    "title": "Recommendations for the primary prevention of heart failure in patients with risk factors for its development",
+    "recommendations": [
+      {
+        "Risk factor": "Sedentary habit",
+        "Recommendation": "Regular physical activity"
+      },
+      {
+        "Risk factor": "Cigarette smoking",
+        "Recommendation": "Cigarette smoking cessation"
+      },
+      {
+        "Risk factor": "Obesity",
+        "Recommendation": "Physical activity and healthy diet"
+      },
+      {
+        "Risk factor": "Excessive alcohol intake",
+        "Recommendation": "General population: no/light alcohol intake is beneficial; Patients with alcohol-induced cardiomyopathy should abstain from alcohol"
+      },
+      {
+        "Risk factor": "Influenza",
+        "Recommendation": "Influenza vaccination"
+      },
+      {
+        "Risk factor": "Microbes (e.g., Trypanosoma cruzi, Streptococci)",
+        "Recommendation": "Early diagnosis, specific antimicrobial therapy for either prevention and/or treatment"
+      },
+      {
+        "Risk factor": "Cardiotoxic drugs (e.g., anthracyclines)",
+        "Recommendation": "Cardiac function and side effect monitoring, dose adaptation, change of chemotherapy"
+      },
+      {
+        "Risk factor": "Chest radiation",
+        "Recommendation": "Cardiac function and side effect monitoring, dose adaptation"
+      },
+      {
+        "Risk factor": "Hypertension",
+        "Recommendation": "Lifestyle changes, antihypertensive therapy"
+      },
+      {
+        "Risk factor": "Dyslipidaemia",
+        "Recommendation": "Healthy diet, statins"
+      },
+      {
+        "Risk factor": "Diabetes mellitus",
+        "Recommendation": "Physical activity and healthy diet, SGLT2 inhibitors"
+      },
+      {
+        "Risk factor": "CAD",
+        "Recommendation": "Lifestyle changes, statin therapy"
+      }
+    ],
+    "abbreviations": {
+      "CAD": "coronary artery disease",
+      "CMP": "cardiomyopathy",
+      "SGLT2": "sodium-glucose co-transporter 2"
+    },
+    "notes": "Table lists risk factors and corresponding primary prevention recommendations for heart failure."
+  },
+  "genes": [
+    {
+      "Gene": "SLC5A2",
+      "Associated Conditions": [
+        "Diabetes mellitus",
+        "Prevention of heart failure in patients with diabetes (therapeutic target)"
+      ],
+      "Occurrences": 2,
+      "context": "Listed as 'SGLT2 inhibitors' under Diabetes mellitus row; abbreviation line expands SGLT2 = sodium-glucose co-transporter 2 (SLC5A2)."
+    }
+  ]
+}

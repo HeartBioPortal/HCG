@@ -1,0 +1,64 @@
+{
+  "content": {
+    "title": "Diagnostic workup in suspected acute myocarditis",
+    "definition": "Clinical presentation + ≥1 mandatory diagnostic test being positive (by preference CMR) in the absence of significant coronary artery, valvular or congenital heart disease, or other causes.",
+    "clinical_presentation": {
+      "symptoms": "Acute/new onset chest pain, dyspnoea, signs of left and/or right heart failure, and/or unexplained arrhythmias or aborted sudden death.",
+      "sensitivity": "Low",
+      "specificity": "Low"
+    },
+    "mandatory_diagnostic_tests": {
+      "ECG": {
+        "description": "New and dynamic ST-T abnormalities, including pseudo-infarct ST segment elevation, atrial or ventricular arrhythmias, AV blocks, QRS abnormalities.",
+        "sensitivity": "High",
+        "specificity": "Low"
+      },
+      "Laboratory tests": {
+        "description": "Elevated troponins with dynamic changes consistent with myocardial necrosis. Standard tests including white blood cell count to exclude eosinophilia.",
+        "sensitivity": "Intermediate",
+        "specificity": "Low"
+      },
+      "Echocardiography": {
+        "description": "New structural or functional abnormalities, regional wall motion abnormalities or global ventricular dysfunction without ventricular dilatation or with generally mild dilatation, increased wall thickness due to myocardial oedema, pericardial effusion, intracardiac thrombi, not explained by other conditions (e.g., CAD, ACS or valvular heart disease).",
+        "sensitivity": "High",
+        "specificity": "Low"
+      },
+      "CMR": {
+        "description": "Oedema, inflammation and fibrosis detection, quantification and localization through T1 and T2 mapping, extracellular volume assessment and LGE.",
+        "sensitivity": "High",
+        "specificity": "Intermediate"
+      }
+    },
+    "abbreviations": [
+      "ACS",
+      "AV",
+      "CAD",
+      "CMR",
+      "CMV",
+      "CRP",
+      "CTCA",
+      "ECG",
+      "EMB",
+      "HF",
+      "HIV",
+      "IgG",
+      "LGE",
+      "PCR",
+      "PET",
+      "QRS",
+      "SARS-CoV-2",
+      "ST"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "CRP",
+      "Associated Conditions": [
+        "Acute myocarditis diagnostic workup",
+        "Marker of systemic inflammation"
+      ],
+      "Occurrences": 1,
+      "context": "Listed in the abbreviations as 'CRP = C-reactive protein' and relevant as an inflammatory marker in the myocarditis diagnostic workup."
+    }
+  ]
+}

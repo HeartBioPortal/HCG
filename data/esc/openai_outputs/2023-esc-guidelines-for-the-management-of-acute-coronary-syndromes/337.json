@@ -1,0 +1,36 @@
+{
+  "content": {
+    "decision_aids": {
+      "issue": "Use of validated decision aids and audio-visual tools can be helpful to make informed choices that consider patients' values and preferences and promote patient involvement.",
+      "research_gap": "Testing the use of validated decision aids and audio-visual tools to improve decisions around informed choices."
+    },
+    "19_Quality_indicators": {
+      "issue": "There is a lack of implementation studies evaluating whether prospectively monitoring and reporting ESC QIs for ACS improve clinical outcomes.",
+      "recommendation": "Implementation studies evaluating a quality of care programme based on the evaluation of ESC QIs for ACS."
+    },
+    "General": {
+      "issue": "Patients included in clinical trials represent a relatively small proportion of real-life patients.",
+      "recommendation": "Conduct clinical trials that enrol more representative patient populations (e.g. pragmatic clinical trials)."
+    },
+    "additional_notes": "Ongoing trials addressing some of these gaps in evidence are presented in the Supplementary data online.",
+    "abbreviations_list_excerpt": "ACE, angiotensin-converting enzyme; ACS, acute coronary syndrome; ARB, angiotensin receptor blocker; CAD, coronary artery disease; CCTA, coronary computed tomography angiography; CR, cardiac rehabilitation; CS, cardiogenic shock; DAPT, dual antiplatelet therapy; ED, emergency department; ESC, European Society of Cardiology; FFR, fractional flow reserve; HF, heart failure; ICA, invasive coronary angiography; IRA, infarct-related artery; i.v., intravenous; LVEF, left ventricular ejection fraction; MCS, mechanical circulatory support; MI, myocardial infarction; MINOCA, myocardial infarction with non-obstructive coronary arteries; mRNA, messenger ribonucleic acid; MVD, multivessel disease; MVO, microvascular obstruction; NSTE-ACS, non-ST-elevation acute coronary syndrome; PCI, percutaneous coronary intervention; PPCI, primary percutaneous coronary intervention; PREM, patient-reported experience measure; PROM, patient-reported outcome measure; QI, quality indicator; RCT, randomized controlled trial; SCAD, spontaneous coronary artery dissection; SGLT2, sodium-glucose co-transporter 2; siRNA, small interfering ribodeoxynucleic acid; STEMI, ST-elevation myocardial infarction."
+  },
+  "genes": [
+    {
+      "Gene": "ACE",
+      "Associated Conditions": [
+        "Mentioned in the context of acute coronary syndrome (ACS) / cardiovascular disease in the guideline abbreviations"
+      ],
+      "Occurrences": 1,
+      "context": "Listed in the document's abbreviations as 'ACE, angiotensin-converting enzyme' within a guideline focused on ACS and cardiovascular conditions."
+    },
+    {
+      "Gene": "SGLT2",
+      "Associated Conditions": [
+        "Mentioned in the context of acute coronary syndrome (ACS) / cardiovascular disease in the guideline abbreviations"
+      ],
+      "Occurrences": 1,
+      "context": "Listed in the document's abbreviations as 'SGLT2, sodium-glucose co-transporter 2' within a guideline focused on ACS and cardiovascular conditions."
+    }
+  ]
+}

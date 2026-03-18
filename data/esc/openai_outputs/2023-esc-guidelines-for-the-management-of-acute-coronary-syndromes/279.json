@@ -1,0 +1,73 @@
+{
+  "content": {
+    "title": "Recommendations",
+    "columns": [
+      "Recommendations",
+      "Class",
+      "Level"
+    ],
+    "Chronic kidney disease": [
+      {
+        "recommendation": "The use of low- or iso-osmolar contrast media (at the lowest possible volume) is recommended for invasive strategies.",
+        "references": "691–693",
+        "Class": "I",
+        "Level": "A"
+      },
+      {
+        "recommendation": "It is recommended to assess kidney function using eGFR in all patients with ACS.",
+        "Class": "I",
+        "Level": "C"
+      },
+      {
+        "recommendation": "It is recommended to apply the same diagnostic and therapeutic strategies in patients with CKD (dose adjustment may be necessary) as in patients with normal kidney function.",
+        "Class": "I",
+        "Level": "C"
+      },
+      {
+        "recommendation": "Hydration during and after angiography should be considered in patients at risk of contrast-induced nephropathy, especially in patients with acute kidney injury and/or CKD with eGFR <30 mL/min/1.73 m2.",
+        "references": "694–697",
+        "Class": "IIa",
+        "Level": "B"
+      }
+    ],
+    "Diabetes": [
+      {
+        "recommendation": "It is recommended to base the choice of long-term glucose-lowering treatment on the presence of comorbidities, including heart failure, CKD, and obesity.",
+        "references": "698–704",
+        "Class": "I",
+        "Level": "A"
+      },
+      {
+        "recommendation": "It is recommended to assess glycaemic status at initial evaluation in all patients with ACS.",
+        "references": "705–707",
+        "Class": "I",
+        "Level": "B"
+      },
+      {
+        "recommendation": "It is recommended to frequently monitor blood glucose levels in patients with known diabetes mellitus or hyperglycaemia (defined as glucose levels ≥11.1 mmol/L or ≥200 mg/dL).",
+        "Class": "I",
+        "Level": "C"
+      },
+      {
+        "recommendation": "Glucose-lowering therapy should be considered in patients with ACS with persistent hyperglycaemia, while episodes of hypoglycaemia should be avoided.",
+        "references": "708,709",
+        "Class": "IIa",
+        "Level": "C"
+      }
+    ],
+    "Older adults": [
+      {
+        "recommendation": "It is recommended to apply the same diagnostic and treatment strategies in older patients as in younger patients.",
+        "references": "662,664,665,710,711",
+        "Class": "I",
+        "Level": "B"
+      },
+      {
+        "recommendation": "It is recommended to adapt the choice and dosage of antithrombotic agent, as well as of secondary prevention medications, to renal function.",
+        "Class": "I",
+        "Level": "B"
+      }
+    ]
+  },
+  "genes": []
+}

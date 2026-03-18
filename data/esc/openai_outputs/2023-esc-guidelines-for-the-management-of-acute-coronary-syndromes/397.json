@@ -1,0 +1,71 @@
+{
+  "content": {
+    "Recommendations for alternative antithrombotic therapy regimens": [
+      {
+        "recommendation": "Discontinuation of antiplatelet treatment in patients treated with an oral anticoagulant is recommended after 12 months.",
+        "class": "I",
+        "level": "B"
+      },
+      {
+        "recommendation": "De-escalation of antiplatelet therapy in the first 30 days after ACS is not recommended.",
+        "class": "III",
+        "level": "B"
+      }
+    ],
+    "Recommendations for fibrinolytic therapy": [
+      {
+        "recommendation": "When fibrinolysis is the reperfusion strategy, it is recommended to initiate this treatment as soon as possible after diagnosis in the pre-hospital setting (aim for target of <10 min to lytic bolus).",
+        "class": "I",
+        "level": "A"
+      },
+      {
+        "recommendation": "A fibrin-specific agent (i.e. tenecteplase, alteplase, or reteplase) is recommended.",
+        "class": "I",
+        "level": "B"
+      }
+    ],
+    "Antiplatelet co-therapy with fibrinolysis": [
+      {
+        "recommendation": "Aspirin and clopidogrel are recommended.",
+        "class": "I",
+        "level": "A"
+      }
+    ],
+    "Anticoagulation co-therapy with fibrinolysis": [
+      {
+        "recommendation": "Anticoagulation is recommended in patients treated with fibrinolysis until revascularization (if performed) or for the duration of hospital stay (up to 8 days).",
+        "class": "I",
+        "level": "A"
+      },
+      {
+        "recommendation": "Enoxaparin i.v. followed by subcutaneous is recommended as the preferred anticoagulant.",
+        "class": "I",
+        "level": "A"
+      },
+      {
+        "recommendation": "When enoxaparin is not available, unfractionated heparin is recommended as a weight-adjusted i.v. bolus, followed by infusion.",
+        "class": "I",
+        "level": "B"
+      }
+    ],
+    "Recommendations for cardiac arrest and out-of-hospital cardiac arrest": [
+      {
+        "recommendation": "A PPCI strategy is recommended in patients with resuscitated cardiac arrest and an ECG with persistent ST-segment elevation (or equivalents).",
+        "class": "I",
+        "level": "B"
+      },
+      {
+        "recommendation": "Temperature control (i.e. continuous monitoring of core temperature and active prevention of fever [i.e. >37.7°C]) is recommended after either out-of-hospital or in-hospital cardiac arrest for adults who remain unresponsive after return of spontaneous circulation.",
+        "class": "I",
+        "level": "B"
+      },
+      {
+        "recommendation": "Routine immediate angiography after resuscitated cardiac arrest is not recommended in haemodynamically stable patients without persistent ...",
+        "class": "III",
+        "level": "A",
+        "notes": "Text truncated on image; full exclusion criteria not visible"
+      }
+    ]
+  },
+  "genes": []
+}

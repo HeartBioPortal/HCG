@@ -1,0 +1,29 @@
+{
+  "content": {
+    "title": "Management of secondary mitral regurgitation in patients with heart failure with reduced ejection fraction (HFrEF)",
+    "figure_reference": "Figure 17 - flowchart",
+    "flowchart_summary": "Heart team assessment (Class I) → evaluate need for coronary revascularization and optimal medical therapy (OMT) including CRT if indicated. If persistent HF symptoms and significant secondary mitral regurgitation (SMR) after optimization, Heart Team decides between follow-up, surgery, or percutaneous edge-to-edge (EE) mitral valve repair based on surgical risk and echocardiographic/clinical criteria.",
+    "key_recommendations": [
+      "Optimize medical therapy (MT) including cardiac resynchronization therapy (CRT) when indicated (Class I).",
+      "If coronary revascularization needed: consider PCI (Class IIb) for high surgical risk or CABG with mitral valve surgery (Class IIa) when appropriate.",
+      "If persistent HF symptoms and significant SMR after optimization, Heart Team (Class I) should evaluate candidacy for surgical repair (if low surgical risk) or percutaneous EE mitral valve repair (Class IIa/IIb) to improve symptoms or as bridge to transplant/left ventricular assist device (LVAD).",
+      "Maintain ongoing therapy and consider palliative care and/or mechanical circulatory support (MCS) or heart transplantation (HT) if appropriate.",
+      "Mitral valve interventions are not recommended in patients with life expectancy <1 year due to extra-cardiac conditions."
+    ],
+    "echocardiographic_and_clinical_criteria_for_outcome_improvement_after_percutaneous_EE_repair": {
+      "general_note": "All of the following criteria must be fulfilled for expected outcome improvement:",
+      "criteria": [
+        "Left ventricular ejection fraction (LVEF) between 20% and 50%",
+        "Left ventricular end-systolic diameter (LVESD) < 70 mm",
+        "Systolic pulmonary artery pressure < 70 mmHg",
+        "Absence of moderate or severe right ventricular dysfunction",
+        "Absence of severe tricuspid regurgitation (TR)",
+        "Absence of haemodynamic instability"
+      ],
+      "severity_definition": "Moderate-to-severe or severe SMR defined as effective regurgitant orifice area (EROA) ≥ 30 mm²"
+    },
+    "classification_color_code": "Green = Class I; Yellow = Class IIa; Orange = Class IIb",
+    "notes_and_references": "Figure legend includes abbreviations and definitions (BTT = bridge to transplantation, CABG = coronary artery bypass graft, CRT = cardiac resynchronization therapy, EE = edge-to-edge, EROA = effective regurgitant orifice area, HF = heart failure, LVAD = left ventricular assist device, LVEF = left ventricular ejection fraction, LVESD = left ventricular end-systolic diameter, MCS = mechanical circulatory support, MT = medical therapy, NYHA = New York Heart Association, OMT = optimal medical therapy, PCI = percutaneous coronary intervention, SMR = secondary mitral regurgitation, TR = tricuspid regurgitation)."
+  },
+  "genes": []
+}

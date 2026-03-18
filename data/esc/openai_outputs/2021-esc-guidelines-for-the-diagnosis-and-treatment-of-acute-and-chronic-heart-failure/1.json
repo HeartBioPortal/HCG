@@ -1,14 +1,68 @@
 {
   "content": {
-    "header": "ESC Declaration of Interest Report",
-    "guideline_title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure",
-    "paragraphs": [
-      "The ESC reviews relationships with industry and encourages transparency and ethical integrity.",
-      "It is mandatory for all experts involved in Guidelines development to comply with the ESC Declaration and Management of Conflict of Interest Policy. Under this policy, they are required to submit yearly Declaration of Interest (DOI) forms during the writing and reviewing phases of the Guidelines.",
-      "All DOIs are assessed prior to work commencing, and the ESC may decide to exclude any expert from a Guidelines activity based on the exclusion criteria as defined in the ESC Declaration and Management of Conflict of Interest Policy, Annex 3, as approved in July 2020.",
-      "The current policy and its annexes are available on the ESC website at www.escardio.org/DOI"
+    "publication_type": "Journal Article",
+    "page_title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure",
+    "subtitle": "Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) With the special contribution of the Heart Failure Association (HFA) of the ESC",
+    "access": "Free",
+    "authors": [
+      {
+        "name": "Theresa A McDonagh",
+        "role": "Chairperson",
+        "country": "United Kingdom",
+        "affiliation": "Cardiology Department, King's College Hospital, Denmark Hill, London",
+        "contact": {
+          "tel": "+44 203 299 325",
+          "email": "theresa.mcdonagh@kcl.ac.uk"
+        },
+        "search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ]
+      },
+      {
+        "name": "Marco Metra",
+        "role": "Chairperson",
+        "country": "Italy",
+        "affiliation": "Institute of Cardiology, ASST Spedali Civili di Brescia and Department of Medical and Surgical Specialties, Radiological Sciences and Public Health, University of Brescia, Brescia, Italy",
+        "contact": {
+          "tel": "+39 303 07221",
+          "email": "metramarco@libero.it",
+          "orcid": "https://orcid.org/0000-0001-6691-8568"
+        },
+        "search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ]
+      },
+      {
+        "name": "Marianna Adamo",
+        "role": "Task Force Coordinator",
+        "country": "Italy",
+        "search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ]
+      },
+      {
+        "name": "Roy S Gardner",
+        "role": "Task Force Coordinator",
+        "country": "United Kingdom",
+        "search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ]
+      },
+      {
+        "name": "Andreas Baumbach",
+        "country": "United Kingdom",
+        "search_links": []
+      }
     ],
-    "notes": "Document describes conflict-of-interest policy and DOI process for guideline authors; no clinical gene mentions on the page."
+    "notes": "Front page header and author list from ESC 2021 heart failure guideline. Contact details and author search links visible for some authors."
   },
   "genes": []
 }

@@ -1,0 +1,69 @@
+{
+  "content": {
+    "figure": "Figure 11",
+    "title": "Stages of management of patients with acute heart failure",
+    "caption_note": "ICCU = intensive coronary care unit; ICU = intensive care unit",
+    "phases": [
+      "Immediate",
+      "Intermediate",
+      "Pre-discharge and long-term"
+    ],
+    "goals": {
+      "Immediate": [
+        "Determine aetiology",
+        "Alleviate symptoms",
+        "Improve congestion and organ perfusion",
+        "Restore oxygenation",
+        "Limit organ damage (cardiac, renal, hepatic, gut)",
+        "Prevent thromboembolism"
+      ],
+      "Intermediate": [
+        "Determine aetiology",
+        "Improve signs and symptoms",
+        "Limit organ damage",
+        "Prevent thromboembolism"
+      ],
+      "Pre-discharge and long-term": [
+        "Improve symptoms and quality of life",
+        "Achieve full congestion relief",
+        "Prevent early readmission",
+        "Improve survival"
+      ]
+    },
+    "procedures": {
+      "Immediate": [
+        "Close monitoring of vital signs and grading severity of symptoms/signs",
+        "Disposition decisions: ICU/ICCU/ward",
+        "Initial treatment to support circulatory and respiratory functions (vasodilators, vasopressors, inotropes, diuretics, supplemental O2)"
+      ],
+      "Intermediate": [
+        "Identify aetiology and relevant co-morbidities and start targeted treatment",
+        "Titrate therapy to control symptoms and to relieve congestion, manage hypoperfusion and optimize blood pressure",
+        "Initiate and up-titrate disease-modifying pharmacological therapy",
+        "Consider device therapy in appropriate patients"
+      ],
+      "Pre-discharge and long-term": [
+        "Initiate and up-titrate disease-modifying pharmacological and device therapy",
+        "Develop a care plan with identification of caregivers, a schedule for up-titration and monitoring of pharmacological therapy, review of device therapy",
+        "Enrollment in a disease management programme"
+      ]
+    },
+    "management_flow_summary": {
+      "urgent_phase": "After first medical contact: identify cardiogenic shock and/or respiratory failure; provide pharmacological support, ventilatory support, or mechanical circulatory support (MCS) as needed",
+      "identification_of_acute_aetiology": "Immediate identification of cause to enable specific treatment",
+      "immediate_phase_timing": "Initial 60-120 minutes",
+      "CHAMPIT_acronym": {
+        "C": "acute Coronary syndrome",
+        "H": "Hypertension emergency",
+        "A": "Arrhythmia",
+        "M": "Mechanical cause",
+        "P": "Pulmonary embolism",
+        "I": "Infections",
+        "T": "Tamponade"
+      },
+      "next_steps": "Immediate initiation of specific treatment once aetiology identified; proceed to further treatment and ongoing care"
+    },
+    "source_logo": "ESC"
+  },
+  "genes": []
+}

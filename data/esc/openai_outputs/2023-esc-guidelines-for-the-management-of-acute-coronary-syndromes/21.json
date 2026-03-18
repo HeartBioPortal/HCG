@@ -1,32 +1,68 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Task Force Members",
-    "declaration_note": "For ESC Guidelines: declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year. Calls for declaration conducted during the period of development of these guidelines up to and including 2022.",
-    "declaration_period_included": "up to and including 2022",
-    "expert_declarations": [
+    "title": "Bleeding Academic Research Consortium",
+    "entries": [
       {
-        "expert": "[Name redacted from image]",
-        "year": 2020,
-        "relationships_summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-        "companies": [
-          "Amgen",
-          "Astra Zeneca",
-          "Boehringer-Ingelheim",
-          "Daiichi Sankyo",
-          "Novartis",
-          "Pfizer",
-          "Lilly",
-          "Berlin Chemie AG",
-          "Bristol Myers Squibb",
-          "Merck Sharp & Dohme",
-          "Bayer Vital",
-          "Apon­tis"
-        ],
-        "context": "Declared industry relationships associated with cardiovascular sector; listed companies received direct personal payments for various roles."
+        "acronym": "b.i.d.",
+        "definition": "Bis in die (twice a day)",
+        "occurrences": 1,
+        "context": "b.i.d. — Bis in die (twice a day)"
+      },
+      {
+        "acronym": "BBB",
+        "definition": "Bundle branch block",
+        "occurrences": 1,
+        "context": "BBB — Bundle branch block"
+      },
+      {
+        "acronym": "BEACON",
+        "definition": "Better Evaluation of Acute Chest Pain with Coronary Computed Tomography Angiography",
+        "occurrences": 1,
+        "context": "BEACON — Better Evaluation of Acute Chest Pain with Coronary Computed Tomography Angiography"
+      },
+      {
+        "acronym": "BETAMI",
+        "definition": "BEtablocker Treatment After Acute Myocardial Infarction in Patients Without Reduced Left Ventricular Systolic Function",
+        "occurrences": 1,
+        "context": "BETAMI — BEtablocker Treatment After Acute Myocardial Infarction in Patients Without Reduced Left Ventricular Systolic Function"
+      },
+      {
+        "acronym": "BMS",
+        "definition": "Bare metal stent",
+        "occurrences": 1,
+        "context": "BMS — Bare metal stent"
+      },
+      {
+        "acronym": "BNP",
+        "definition": "Brain natriuretic peptide",
+        "occurrences": 1,
+        "context": "BNP — Brain natriuretic peptide"
+      },
+      {
+        "acronym": "CABG",
+        "definition": "Coronary artery bypass grafting",
+        "occurrences": 1,
+        "context": "CABG — Coronary artery bypass grafting"
+      },
+      {
+        "acronym": "CAD",
+        "definition": "Coronary artery disease",
+        "occurrences": 1,
+        "context": "CAD — Coronary artery disease"
+      },
+      {
+        "acronym": "CAPITAL-RCT",
+        "definition": "Carvedilol Post-Intervention Long-Term Administration in Large-scale Randomized Controlled Trial",
+        "occurrences": 1,
+        "context": "CAPITAL-RCT — Carvedilol Post-Intervention Long-Term Administration in Large-scale Randomized Controlled Trial"
+      },
+      {
+        "acronym": "CAPRICORN",
+        "definition": "CArvedilol Post-infaRct survIval COntRolled evaluatioN",
+        "occurrences": 1,
+        "context": "CAPRICORN — CArvedilol Post-infaRct survIval COntRolled evaluatioN"
       }
-    ],
-    "page_footer_date": "12/05/2023",
-    "page_number": "20/23"
+    ]
   },
   "genes": []
 }

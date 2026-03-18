@@ -1,92 +1,47 @@
 {
-  "type": "object",
   "content": {
-    "document_title": "Clinical Practice Guidelines Committee 2020-2022",
-    "organization": "European Society of Cardiology (ESC)",
-    "summary_note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year; calls were conducted during guideline development up to and including 2020.",
-    "page_date": "09/08/2021",
-    "experts": [
-      {
-        "name": "Abdelhamid Magdy",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "details": {
-          "general": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "companies_and_roles": [
-            {
-              "company": "Bayer AG",
-              "role": "Advisory board fees"
-            },
-            {
-              "company": "Astra Zeneca",
-              "role": "speaker fees"
-            },
-            {
-              "company": "Boehringer-Ingelheim",
-              "role": "speaker fees"
-            },
-            {
-              "company": "Novartis",
-              "role": "speaker fees"
-            }
-          ]
+    "title": "Definition of heart failure with reduced ejection fraction, mildly reduced ejection fraction and preserved ejection fraction",
+    "criteria_table": {
+      "columns": [
+        "Type of HF",
+        "HFrEF",
+        "HFmrEF",
+        "HFpEF"
+      ],
+      "rows": [
+        {
+          "criteria_number": 1,
+          "HFrEF": "Symptoms ± Signs",
+          "HFmrEF": "Symptoms ± Signs",
+          "HFpEF": "Symptoms ± Signs"
+        },
+        {
+          "criteria_number": 2,
+          "HFrEF": "LVEF ≤ 40%",
+          "HFmrEF": "LVEF 41%–49%",
+          "HFpEF": "LVEF ≥ 50%"
+        },
+        {
+          "criteria_number": 3,
+          "HFrEF": "",
+          "HFmrEF": "",
+          "HFpEF": "Objective evidence of cardiac structural and/or functional abnormalities consistent with LV diastolic dysfunction/raised LV filling pressures, including raised natriuretic peptides"
         }
-      },
-      {
-        "name": "Aboyans Victor",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "details": {
-          "general": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "companies_and_roles": [
-            {
-              "company": "Bayer Healthcare",
-              "role": "Antithrombotic therapies"
-            },
-            {
-              "company": "Bristol Myers Squibb",
-              "role": "Antithrombotic therapies"
-            },
-            {
-              "company": "Astrazeneca",
-              "role": "Diabetes"
-            }
-          ],
-          "research_funding": [
-            {
-              "funder": "Bayer Healthcare",
-              "purpose": "Peripheral Artery Disease (research funding under direct/personal responsibility to department or institution)"
-            }
-          ]
-        }
-      },
-      {
-        "name": "Antoniou Sotiris",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "details": {
-          "general": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "companies_and_roles": [
-            {
-              "company": "Pfizer",
-              "role": "speaker fees for education - AF"
-            },
-            {
-              "company": "Bayer AG",
-              "role": "speaker fees for education - AF"
-            },
-            {
-              "company": "Daiichi Sankyo",
-              "role": "speaker fees for education - AF"
-            },
-            {
-              "company": "Astra Zeneca",
-              "role": "speaker fees for education - CVD"
-            }
-          ]
-        }
-      }
-    ]
+      ]
+    },
+    "abbreviations": {
+      "HFrEF": "Heart failure with reduced ejection fraction",
+      "HFmrEF": "Heart failure with mildly reduced ejection fraction",
+      "HFpEF": "Heart failure with preserved ejection fraction",
+      "LV": "Left ventricle",
+      "LVEF": "Left ventricular ejection fraction"
+    },
+    "notes": {
+      "a": "Signs may not be present in the early stages of HF (especially in HFpEF) and in optimally treated patients.",
+      "b": "For diagnosis of HFmrEF, presence of other evidence of structural heart disease (e.g. increased left atrial size, LV hypertrophy or echocardiographic measures of impaired LV filling) makes the diagnosis more likely.",
+      "c": "For diagnosis of HFpEF, greater number of abnormalities present increases likelihood. Patients with non-cardiovascular disease (e.g. anaemia, pulmonary, renal, thyroid, or hepatic disease) may have similar symptoms/signs but without cardiac dysfunction do not fulfil HF criteria; these pathologies can coexist and exacerbate HF."
+    },
+    "section_reference": "3.2.2 Right ventricular dysfunction"
   },
   "genes": []
 }

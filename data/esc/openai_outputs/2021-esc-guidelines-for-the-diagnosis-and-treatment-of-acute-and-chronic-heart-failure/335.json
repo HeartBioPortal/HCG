@@ -1,0 +1,37 @@
+{
+  "content": {
+    "With LVOTO": [
+      "Avoid hypovolaemia (dehydration), arterial and venous dilators (nitrates and phosphodiesterase type 5 inhibitors), and digoxin.",
+      "Use non-vasodilating beta-blockers or use verapamil if beta-blockers non-tolerated or ineffective.",
+      "Low-dose loop or thiazide diuretics must be used with caution to improve dyspnoea associated with LVOTO, but avoiding hypovolaemia.",
+      "Invasive treatment (septal reduction therapy by alcohol ablation or myomectomy), in experienced centres, may be considered in those patients with a resting or maximum provoked LVOT ≥50 mmHg and/or who remain symptomatic (NYHA class III or IV, syncope) despite OMT.",
+      "Novel drugs or devices may be considered once available."
+    ],
+    "Symptomatic without LVOTO": [
+      "Cautious use of low-dose loop or thiazide diuretics avoiding hypovolaemia.",
+      "Verapamil/diltiazem if LVEF >50% and beta-blockers are not tolerated or ineffective."
+    ],
+    "Indication to ICD": [
+      "Based on sudden cardiac death risk models.",
+      "Consider ICD implantation if:",
+      "Family history of sudden cardiac death in one or more first degree relatives under 40 years of age or sudden cardiac death in a first degree relative with confirmed HCM at any age;",
+      "NSVT;",
+      "Unexplained syncope."
+    ],
+    "Fabry disease": [
+      "Enzyme replacement therapy (alpha-galactosidase A deficiency)."
+    ],
+    "Amyloidosis": "See section 14.6 and Figure 21.",
+    "Definition / references": "References listed (e.g., 895, 896, 923) and other citations throughout page."
+  },
+  "genes": [
+    {
+      "Gene": "GLA",
+      "Associated Conditions": [
+        "Fabry disease"
+      ],
+      "Occurrences": 1,
+      "context": "Entry under 'Fabry disease' states: 'Enzyme replacement therapy (alpha-galactosidase A deficiency).' Alpha-galactosidase A is encoded by the GLA gene."
+    }
+  ]
+}

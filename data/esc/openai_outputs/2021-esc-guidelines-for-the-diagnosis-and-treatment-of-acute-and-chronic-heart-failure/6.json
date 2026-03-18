@@ -1,48 +1,124 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "Report lists declarations of interest reported to the ESC by experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during the period of development of these guidelines up to and including 2020.",
-    "page_date": "12/08/2021",
-    "expert": {
-      "name": "Butler Javed",
-      "declarations": {
-        "2019": {
-          "type": "Industry relationships",
-          "items": [
-            "Bristol Myers Squibb : Heart failure",
-            "CVRx : Heart failure",
-            "Boehringer Ingelheim : Heart failure",
-            "Adrenomed : Heart failure",
-            "Innolife : Heart failure",
-            "G3 Pharmaceutical : Heart failure",
-            "Array : Heart failure",
-            "V-Wave Limited : Heart failure"
-          ],
-          "count": 8
-        },
-        "2020": {
-          "type": "Financial Declaration",
-          "items": [
-            "Abbott : Heart Failure",
-            "Astra Zeneca : Heart Failure",
-            "Janssen-Cilag : Heart Failure",
-            "Medtronic : Heart Failure",
-            "Novartis : Heart Failure",
-            "Pfizer : Heart Failure",
-            "Impulse Dynamics : Heart Failure",
-            "Vifor International : Heart Failure",
-            "Amgen Inc : Heart Failure",
-            "Bristol Myers Squibb : Heart Failure",
-            "Merck Sharp & Dohme : Heart Failure",
-            "Bayer AG : Heart Failure",
-            "Roche Diagnostics : Heart Failure",
-            "NovoNordisk : Heart Failure"
-          ],
-          "count": 14
-        }
+    "source": "European Society of Cardiology guideline page (Table of contents)",
+    "note": "Supplementary Data and European Heart Journal online referenced; page shows Table of contents for heart failure guideline.",
+    "table_of_contents": [
+      {
+        "section": "1",
+        "title": "Preamble",
+        "page": 3607
+      },
+      {
+        "section": "2",
+        "title": "Introduction",
+        "page": 3609
+      },
+      {
+        "section": "2.1",
+        "title": "What is new",
+        "page": 3609
+      },
+      {
+        "section": "3",
+        "title": "Definition, epidemiology and prognosis",
+        "page": 3612
+      },
+      {
+        "section": "3.1",
+        "title": "Definition of heart failure",
+        "page": 3612
+      },
+      {
+        "section": "3.2",
+        "title": "Terminology",
+        "page": 3612
+      },
+      {
+        "section": "3.2.1",
+        "title": "Heart failure with preserved, mildly reduced, and reduced ejection fraction",
+        "page": 3612
+      },
+      {
+        "section": "3.2.2",
+        "title": "Right ventricular dysfunction",
+        "page": 3613
+      },
+      {
+        "section": "3.2.3",
+        "title": "Other common terminology used in heart failure",
+        "page": 3613
+      },
+      {
+        "section": "3.2.4",
+        "title": "Terminology related to the symptomatic severity of heart failure",
+        "page": 3613
+      },
+      {
+        "section": "3.3",
+        "title": "Epidemiology and natural history of heart failure",
+        "page": 3613
+      },
+      {
+        "section": "3.3.1",
+        "title": "Incidence and prevalence",
+        "page": 3613
+      },
+      {
+        "section": "3.3.2",
+        "title": "Aetiology of heart failure",
+        "page": 3614
+      },
+      {
+        "section": "3.3.3",
+        "title": "Natural history and prognosis",
+        "page": 3614
+      },
+      {
+        "section": "4",
+        "title": "Chronic heart failure",
+        "page": 3614
+      },
+      {
+        "section": "4.1",
+        "title": "Key steps in the diagnosis of chronic heart failure",
+        "page": 3614
+      },
+      {
+        "section": "4.2",
+        "title": "Natriuretic peptides",
+        "page": 3616
+      },
+      {
+        "section": "4.2.1",
+        "title": "Use in the non-acute setting",
+        "page": 3617
+      },
+      {
+        "section": "4.3",
+        "title": "Investigations to determine the underlying aetiology of chronic heart failure",
+        "page": 3617
+      },
+      {
+        "section": "5",
+        "title": "Heart failure with reduced ejection fraction",
+        "page": 3619
+      },
+      {
+        "section": "5.1",
+        "title": "The diagnosis of heart failure with reduced ejection fraction",
+        "page": 3619
+      },
+      {
+        "section": "5.2",
+        "title": "Pharmacological treatments for patients with heart failure with reduced ejection fraction",
+        "page": 3619
+      },
+      {
+        "section": "5.2.1",
+        "title": "Goals of pharmacotherapy for patients with heart failure with reduced ejection fraction",
+        "page": 3619
       }
-    }
+    ]
   },
   "genes": []
 }

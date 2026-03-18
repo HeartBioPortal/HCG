@@ -1,56 +1,38 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism - Reviewers",
-    "subtitle": "Developed in collaboration with the European Respiratory Society (ERS)",
-    "note": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during the period of development up to and including 2018).",
-    "date": "21/08/2019",
-    "page": "23/62",
-    "experts": [
+    "title": "Table 2 - Levels of evidence",
+    "figures": [
       {
-        "name": "Ferreira Daniel",
-        "declarations": {
-          "1": {
-            "type": "Financial Declaration",
-            "details": [
-              "Boehringer-Ingelheim: Artificial Intelligence - Advisory Board (2018)",
-              "Bayer Portugal: Rivaroxaban; Anticoagulation - Advisory Board (2018)",
-              "Astra Zeneca: Ticagrelor; Antithrombotic Treatment - Advisory Board (2018)"
-            ]
-          },
-          "2": {
-            "type": "Other Positions of Influence",
-            "details": [
-              "Employment in healthcare industry (including part time) - Consultant Cardiologist in Hospital da Luz Lisboa (2018)",
-              "Membership/affiliation in political or advocacy groups - Vice President for the Portuguese Society of Cardiology (2018)"
-            ]
-          }
-        }
-      },
-      {
-        "name": "Fitzsimons Donna",
-        "declarations": {
-          "1": {
-            "type": "Financial Declaration",
-            "details": [
-              "Medscape: Heart failure (2018)"
-            ]
-          }
-        }
-      },
-      {
-        "name": "Gaine Sean",
-        "declarations": {
-          "1": {
-            "type": "Financial Declaration",
-            "details": [
-              "Menarini: COPD (2018)",
-              "Actelion: Pulmonary Hypertension (2018)",
-              "United Therapeutics: Pulmonary Hypertension (2018)"
-            ]
-          }
-        }
+        "type": "diagram",
+        "description": "Three-tier levels of evidence (A, B, C) shown in two identical panels on the page."
       }
-    ]
+    ],
+    "levels_of_evidence": [
+      {
+        "level": "A",
+        "description": "Data derived from multiple randomized clinical trials or meta-analyses.",
+        "occurrences": 2
+      },
+      {
+        "level": "B",
+        "description": "Data derived from a single randomized clinical trial or large non-randomized studies.",
+        "occurrences": 2
+      },
+      {
+        "level": "C",
+        "description": "Consensus of opinion of the experts and/or small studies, retrospective studies, registries.",
+        "occurrences": 2
+      }
+    ],
+    "conflicts_of_interest": {
+      "summary": "Experts of the writing and reviewing panels provided declaration of interest forms for all relationships perceived as real or potential conflicts. Forms were compiled into one file and made available on the ESC website. Any changes during writing were notified and updated. The Task Force received its entire financial support from the ESC without involvement from the healthcare industry.",
+      "declarations_link": "http://www.escardio.org/guidelines"
+    },
+    "guideline_development_and_review": {
+      "summary": "The ESC CPG (Clinical Practice Guidelines committee) supervises and coordinates preparation of new guidelines, endorses them, and oversees extensive review by the CPG and external experts. After revisions, the finalized document is approved by the CPG for publication in the European Heart Journal.",
+      "notes": "Guidelines developed after consideration of contemporary scientific and medical knowledge and available evidence at time of dating."
+    },
+    "page_notes": "Page contains repeated diagram of levels of evidence and textual paragraphs about declarations of interest and guideline development."
   },
   "genes": []
 }

@@ -1,0 +1,49 @@
+{
+  "content": {
+    "title": "Excerpt — Heart failure pharmacotherapy (diuretics, digoxin, adjunct agents)",
+    "recommendations": [
+      "Hydralazine and isosorbide dinitrate may be considered in patients with symptomatic HFrEF who cannot tolerate any of an ACE-I, an ARB, or ARNI (or they are contraindicated) to reduce the risk of death.",
+      "Digoxin may be considered in patients with symptomatic HFrEF in sinus rhythm despite treatment with an ACE-I (or ARNI), a beta-blocker and an MRA, to reduce the risk of hospitalization (both all-cause and HF hospitalizations)."
+    ],
+    "abbreviations_listed": {
+      "ACE-i": "angiotensin-converting enzyme inhibitor",
+      "ARB": "angiotensin-receptor blocker",
+      "ARNI": "angiotensin receptor–neprilysin inhibitor",
+      "b.p.m.": "beats per minute",
+      "CV": "cardiovascular",
+      "HF": "heart failure",
+      "HFrEF": "heart failure with reduced ejection fraction",
+      "LVEF": "left ventricular ejection fraction",
+      "MRA": "mineralocorticoid receptor antagonist",
+      "NYHA": "New York Heart Association",
+      "SR": "sinus rhythm"
+    },
+    "ARBs_with_evidence": [
+      "candesartan",
+      "losartan",
+      "valsartan"
+    ],
+    "diuretics_section_summary": "Loop diuretics are recommended to reduce signs and/or symptoms of congestion in patients with HFrEF. Evidence quality regarding diuretics is limited; trials used loop diuretic background therapy. One meta-analysis showed loop and thiazide diuretics reduce risk of death and worsening HF compared with placebo, and diuretics improve exercise capacity versus active control. Loop diuretics produce a more intense and shorter diuresis than thiazides and may be combined (with caution) to treat diuretic resistance. Of note, ARNI, MRAs, and SGLT2 inhibitors may also possess diuretic properties. Aim of diuretic therapy is to achieve and maintain euvolemia with the lowest diuretic dose; patients should be trained to self-adjust diuretic dose based on symptoms and daily weight.",
+    "practical_guidance": "Practical guidance on how to use diuretics is given in Supplementary Table 7."
+  },
+  "genes": [
+    {
+      "Gene": "ACE",
+      "Associated Conditions": [
+        "Heart failure with reduced ejection fraction (HFrEF)",
+        "Heart failure (general)"
+      ],
+      "Occurrences": 3,
+      "context": "ACE inhibitors (ACE-I) are cited repeatedly as cornerstone therapy for HFrEF (e.g., patients who cannot tolerate an ACE-I, and as background therapy in patients when considering digoxin). Abbreviation list defines ACE-i as angiotensin-converting enzyme inhibitor."
+    },
+    {
+      "Gene": "SLC5A2 (SGLT2)",
+      "Associated Conditions": [
+        "Heart failure with reduced ejection fraction (HFrEF)",
+        "Diuretic effects in heart failure therapy"
+      ],
+      "Occurrences": 1,
+      "context": "SGLT2 inhibitors are mentioned in the diuretics section: 'Of note, ARNI, MRAs, and SGLT2 inhibitors may also possess diuretic properties,' in the context of HFrEF diuretic management."
+    }
+  ]
+}

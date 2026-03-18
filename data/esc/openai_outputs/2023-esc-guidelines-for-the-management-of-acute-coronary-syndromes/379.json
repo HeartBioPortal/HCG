@@ -1,0 +1,73 @@
+{
+  "content": {
+    "Antithrombotic and secondary prevention recommendations": {
+      "adaptation_recommendation": {
+        "text": "Adapt choice and dosage of antithrombotic agent and secondary prevention medications to renal function, co-medications, comorbidities, frailty, cognitive function, and specific contraindications.",
+        "class": "I",
+        "level": "B"
+      },
+      "frail_older_patients": {
+        "text": "For frail older patients with comorbidities, individualize interventional and pharmacological treatments after careful evaluation of risks and benefits (holistic approach).",
+        "class": "I",
+        "level": "B"
+      },
+      "invasive_strategy_in_cancer": {
+        "text": "An invasive strategy is recommended in cancer patients presenting with high-risk ACS with expected life survival ≥6 months.",
+        "class": "I",
+        "level": "B"
+      },
+      "temporary_interruption_of_cancer_therapy": {
+        "text": "Temporary interruption of cancer therapy is recommended in patients in whom the cancer therapy is suspected to be a contributing cause of ACS.",
+        "class": "I",
+        "level": "C"
+      },
+      "antiplatelet_platelet_count_recommendations": {
+        "aspirin": {
+          "text": "Aspirin is not recommended in cancer patients with a platelet count <10,000/μL.",
+          "class": "III",
+          "level": "C",
+          "threshold_platelets_per_uL": 10000
+        },
+        "clopidogrel": {
+          "text": "Clopidogrel is not recommended in cancer patients with a platelet count <30,000/μL.",
+          "class": "III",
+          "level": "C",
+          "threshold_platelets_per_uL": 30000
+        },
+        "prasugrel_ticagrelor": {
+          "text": "In ACS patients with cancer and <50,000/μL platelet count, prasugrel or ticagrelor are not recommended.",
+          "class": "III",
+          "level": "C",
+          "threshold_platelets_per_uL": 50000
+        }
+      }
+    },
+    "Recommendations for long-term management": {
+      "cardiac_rehabilitation": {
+        "text": "All ACS patients should participate in a medically supervised, structured, comprehensive, multidisciplinary exercise-based cardiac rehabilitation and prevention programme.",
+        "class": "I",
+        "level": "A"
+      },
+      "healthy_lifestyle": {
+        "text": "ACS patients should adopt a healthy lifestyle, including stopping all smoking, a healthy (Mediterranean) diet, alcohol restriction, regular aerobic physical activity and resistance exercise, and reduced sedentary time.",
+        "class": "I",
+        "level": "B",
+        "components": [
+          "stop smoking",
+          "healthy (Mediterranean) diet",
+          "alcohol restriction",
+          "regular aerobic and resistance exercise",
+          "reduced sedentary time"
+        ]
+      }
+    },
+    "Pharmacological treatment": {
+      "lipid_lowering_therapy": {
+        "text": "High-dose statin therapy is recommended to be initiated or continued as early as possible, regardless of initial LDL-C values.",
+        "class": "I",
+        "level": "A"
+      }
+    }
+  },
+  "genes": []
+}

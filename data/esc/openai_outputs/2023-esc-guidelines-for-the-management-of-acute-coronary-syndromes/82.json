@@ -1,42 +1,38 @@
 {
   "content": {
-    "title": "Clinical Practice Guidelines Committee 2022-2024 - Declarations of Interest (excerpt)",
-    "date": "24/04/2023",
-    "experts": [
+    "title": "Recommendations (excerpt)",
+    "recommendations": [
       {
-        "name": "Arbelo Elena",
-        "2021": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Biosense Webster: Atrial fibrillation"
+        "text": "Emergency TTE is recommended in patients with suspected ACS presenting with cardiogenic shock or suspected mechanical complications.",
+        "Class": "I",
+        "Level": "C"
       },
       {
-        "name": "Arbelo Elena",
-        "2022": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Biosense Webster: Atrial Fibrillation (AF)"
+        "text": "In patients with suspected ACS, non-elevated (or uncertain) hs-cTn levels, no ECG changes and no recurrence of pain, incorporating CCTA or a non-invasive stress imaging test as part of the initial workup should be considered.",
+        "Class": "IIa",
+        "Level": "A",
+        "references": "116,122–127"
       },
       {
-        "name": "Baigent Colin",
-        "2021": "Research funding from healthcare industry under your direct/personal responsibility (to department or institution). Boehringer-Ingelheim: Renal disease"
+        "text": "Emergency TTE should be considered at triage in cases of diagnostic uncertainty but this should not result in delays in transfer to the cardiac catheterization laboratory if there is suspicion of an acute coronary artery occlusion.",
+        "Class": "IIa",
+        "Level": "C"
       },
       {
-        "name": "Baigent Colin",
-        "2022": "Research funding from healthcare industry under your direct/personal responsibility (to department or institution). Boehringer Ingelheim: Grant to the University of Oxford for the EMPA-KIDNEY trial, Co-PI"
-      },
-      {
-        "name": "Borger Michael A",
-        "2021": "Payment from healthcare industry to your department or institution or any other body for your personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Cryolife: aortic surgery; Abbott: heart valve therapy; Edwards Lifesciences: heart valve therapy; Medtronic: heart valve therapy"
-      },
-      {
-        "name": "Borger Michael A",
-        "2022": "Payment from healthcare industry to your department or institution or any other body for your personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Artivion (formerly CryoLife): Diseases of the Aorta; Abbott: Valvular Heart Disease; Edwards Lifesciences: Valvular Heart Disease; Medtronic: Valvular Heart Disease"
-      },
-      {
-        "name": "Buccheri Sergio",
-        "2021": "Nothing to be declared",
-        "2022": "Nothing to be declared"
-      },
-      {
-        "name": "Ibanez Borja",
-        "2021": "Nothing to be declared"
+        "text": "Routine, early CCTA in patients with suspected ACS is not recommended.",
+        "Class": "III",
+        "Level": "B",
+        "reference": "117"
       }
-    ]
+    ],
+    "abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "CCTA": "coronary computed tomography angiography",
+      "ECG": "electrocardiogram",
+      "hs-cTn": "high-sensitivity cardiac troponin",
+      "TTE": "transthoracic echocardiography"
+    },
+    "source": "ESC 2023 (figure excerpt)"
   },
   "genes": []
 }

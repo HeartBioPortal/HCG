@@ -1,62 +1,93 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Task Force Members (Declarations of Interest)",
-    "page_date": "12/05/2023",
-    "expert": "Leosdottir Margret",
-    "declarations": [
+    "title": "Tables of Recommendations and Table of Contents entries on page",
+    "sections": [
       {
-        "year": 2020,
-        "roles_and_memberships": [
-          "Steering group member of SWEDEHEART (Swedish web-system for enhancement and development of evidence-based care in heart disease)",
-          "Chairman of the SEPHIA (Secondary Prevention after Heart Intensive Care Admission) working group - SWEDEHEART secondary prevention sub-registry",
-          "Chairman of a working group for writing national guidelines on secondary prevention in Sweden"
-        ],
-        "industry_relationships": [
-          "Signed a role as investigator in an Astra-Zeneca sponsored RCT (DAPA-MI trial) in 2020 (recruitment did not start until 2021)"
-        ]
+        "section": "14.5 Patient satisfaction and expectations",
+        "page": "3790"
       },
       {
-        "year": 2021,
-        "types_of_payments_reported": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc."
-        ],
-        "companies_reported": [
-          "AstraZeneca: Speaker fees",
-          "Novo-Nordisk: Speaker fees",
-          "Bonnier Healthcare: Writing of an ESC congress report for a continuous education website owned by the company"
-        ],
-        "other_notes": [
-          "Assignments listed in 1.A were conducted in 2021 while payments will be received in 2022",
-          "Reiteration of steering group memberships and chairman roles listed under 2020"
-        ]
+        "section": "14.6 Patient-reported outcome measures and patient-reported experience measures",
+        "page": "3791"
       },
       {
-        "year": 2022,
-        "types_of_payments_reported": [
-          "Payment from healthcare industry to department/institution or other body for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Research funding from healthcare industry under direct/personal responsibility (to department or institution)"
-        ],
-        "companies_and_areas": [
-          "AstraZeneca: Chronic Heart Failure, Acute Heart Failure",
-          "Sanofi Aventis: Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS), Risk Factors and Prevention",
-          "Novo-Nordisk: IIS grant of 22,000 Euros to cover costs of a PhD student under her supervision; Chief investigator"
-        ]
+        "section": "14.7 Preparation for discharge",
+        "page": "3791"
+      },
+      {
+        "section": "15 Key messages",
+        "page": "3791"
+      },
+      {
+        "section": "16 Gaps in evidence",
+        "page": "3793"
+      },
+      {
+        "section": "17 Sex differences",
+        "page": "3795"
+      },
+      {
+        "section": "18 What to do and What not to do messages from the Guidelines",
+        "page": "3796"
+      },
+      {
+        "section": "19 Quality indicators",
+        "page": "3801"
+      },
+      {
+        "section": "20 Supplementary data",
+        "page": "3801"
+      },
+      {
+        "section": "21 Data availability statement",
+        "page": "3801"
+      },
+      {
+        "section": "22 Author information",
+        "page": "3801"
+      },
+      {
+        "section": "23 Appendix",
+        "page": "3801"
+      },
+      {
+        "section": "24 References",
+        "page": "3802"
       }
     ],
-    "clinical_conditions_mentioned": [
-      "Heart disease (evaluated according to recommended therapies quality registry)",
-      "Secondary prevention after heart intensive care admission",
-      "Chronic Heart Failure",
-      "Acute Heart Failure",
-      "Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS)",
-      "Risk Factors and Prevention"
+    "tables_of_recommendations": [
+      {
+        "table_number": 1,
+        "description": "Recommendations for clinical and diagnostic tools for patients with suspected acute coronary syndrome",
+        "page": "3738"
+      },
+      {
+        "table_number": 2,
+        "description": "Recommendations for non-invasive imaging in the initial assessment of patients with suspected acute coronary syndrome",
+        "page": "3742"
+      },
+      {
+        "table_number": 3,
+        "description": "Recommendations for the initial management of patients with acute coronary syndrome",
+        "page": "3745"
+      },
+      {
+        "table_number": 4,
+        "description": "Recommendations for reperfusion therapy and timing of invasive strategy",
+        "page": "3750"
+      },
+      {
+        "table_number": 5,
+        "description": "Recommendations for antiplatelet and anticoagulant therapy in acute coronary syndrome",
+        "page": "3758"
+      },
+      {
+        "table_number": 6,
+        "description": "Recommendations for alternative antithrombotic therapy regimens",
+        "page": "3759"
+      }
     ],
-    "trials_and_registries": [
-      "SWEDEHEART (secondary prevention sub-registry)",
-      "SEPHIA (Secondary Prevention after Heart Intensive Care Admission) working group",
-      "DAPA-MI trial (AstraZeneca sponsored RCT) - recruitment did not start until 2021"
-    ],
-    "notes": "Document lists declarations of interest reported to ESC covering previous calendar year; calls for declaration conducted during guideline development period up to and including 2022."
+    "document_focus": "Clinical guideline sections and tables related to management and recommendations for acute coronary syndrome and related guideline administration (sections, key messages, gaps, quality indicators, appendices, references)."
   },
   "genes": []
 }

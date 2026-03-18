@@ -1,0 +1,34 @@
+{
+  "content": {
+    "recommendation": "Low-dose colchicine (0.5 mg once daily) may be considered, particularly if other risk factors are insufficiently controlled or if recurrent cardiovascular disease events occur under optimal therapy.",
+    "dosage": "Colchicine 0.5 mg once daily",
+    "class_of_recommendation": "IIb",
+    "level_of_evidence": "A",
+    "context": "Recommendations for long-term management (anti-inflammatory drugs) from ESC 2023 guideline excerpt.",
+    "abbreviations": [
+      "ACS (acute coronary syndrome)",
+      "CKD (chronic kidney disease)",
+      "HF (heart failure)",
+      "ICD (implantable cardioverter defibrillator)",
+      "LDL-C (low-density lipoprotein-cholesterol)",
+      "LVEF (left ventricular ejection fraction)",
+      "PCSK9 (proprotein convertase subtilisin/kexin type 9)",
+      "RAAS (renin–angiotensin–aldosterone system)"
+    ],
+    "footnotes_summary": [
+      "Increase statin potency/dose if patient was on low-potency/low-dose statin; add ezetimibe if patient was only on statins at highest tolerated dose, or add PCSK9 inhibitor if patient was on statins plus ezetimibe.",
+      "Angiotensin receptor blockers as option in cases of intolerance."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "Hypercholesterolemia (elevated LDL-C)",
+        "Atherosclerotic cardiovascular disease / recurrent cardiovascular events"
+      ],
+      "Occurrences": 2,
+      "context": "Listed in abbreviation glossary as 'PCSK9, proprotein convertase subtilisin/kexin type 9' and referenced in footnote advising 'add PCSK9 inhibitor if the patient was on statins plus ezetimibe.'"
+    }
+  ]
+}

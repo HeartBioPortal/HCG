@@ -1,0 +1,72 @@
+{
+  "content": {
+    "Title": "INTERMACS Profiles and Modifiers (excerpt)",
+    "Profiles": [
+      {
+        "Profile": "Profile 1. Critical cardiogenic shock",
+        "Description": "Patient with life-threatening hypotension despite rapidly escalating inotropic support, critical organ hypoperfusion, often confirmed by worsening acidosis and/or lactate levels.",
+        "Time frame for intervention": "Definitive intervention needed within hours."
+      },
+      {
+        "Profile": "Profile 2. Progressive decline",
+        "Description": "Patient with declining function despite i.v. inotropic support; may present with worsening renal function, nutritional depletion, inability to restore volume balance; includes patients unable to tolerate inotropic therapy.",
+        "Time frame for intervention": "Definitive intervention needed within few days."
+      },
+      {
+        "Profile": "Profile 5. Housebound",
+        "Description": "Comfortable at rest and with activities of daily living but unable to engage in other activity, living predominantly within the house; comfortable at rest without congestive symptoms but may have refractory elevated volume status and often renal dysfunction; marginal nutrition/organ function increases risk.",
+        "Urgency/Notes": "Variable urgency; depends on maintenance of nutrition, organ function, and activity."
+      },
+      {
+        "Profile": "Profile 6. Exertion limited",
+        "Description": "Patient without evidence of fluid overload, comfortable at rest and with activities of daily living and minor activities outside the home but fatigues after first few minutes of meaningful activity; may require measurement of peak oxygen consumption or hemodynamic monitoring to confirm severity.",
+        "Urgency/Notes": "Variable; depends upon maintenance of nutrition, organ function, and activity level."
+      },
+      {
+        "Profile": "Profile 7. Advanced NYHA class III symptoms",
+        "Description": "Patient without current or recent episodes of unstable fluid balance, living comfortably with meaningful activity limited to mild physical exertion.",
+        "Urgency/Notes": "Heart transplantation or MCS may not be currently indicated."
+      }
+    ],
+    "Modifiers for profiles": [
+      {
+        "Modifier": "Temporary MCS (in hospitalized patients)",
+        "Examples": [
+          "IABP",
+          "ECMO",
+          "TandemHeart",
+          "LVAD",
+          "Impella"
+        ],
+        "Possible profiles that can be modified": [
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "Modifier": "Arrhythmia",
+        "Description": "Can modify any profile; includes recurrent ventricular tachyarrhythmias that recently contributed substantially to clinical compromise, frequent ICD shocks or requirement for external defibrillation (usually more than twice weekly).",
+        "Possible profiles that can be modified": [
+          "1a?",
+          "1?",
+          "2?",
+          "3?"
+        ]
+      },
+      {
+        "Modifier": "Frequent HF decompensation",
+        "Description": "Frequent episodes requiring emergency visits or hospitalizations for diuretics, ultrafiltration, or temporary i.v. vasoactive therapy. Considered at least two emergency visits/admissions in past 3 months or three in past 6 months.",
+        "Possible profiles that can be modified": [
+          "3 if at home",
+          "4",
+          "5",
+          "6",
+          "Rarely for profile 7"
+        ]
+      }
+    ],
+    "Notes": "This extract focuses on profiles 1,2,5,6,7 and modifiers; device names and procedures are listed as modifiers but are not genes."
+  },
+  "genes": []
+}

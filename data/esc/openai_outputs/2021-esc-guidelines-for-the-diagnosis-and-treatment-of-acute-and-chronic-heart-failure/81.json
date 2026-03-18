@@ -1,36 +1,63 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
-    "description": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (up to and including 2020).",
-    "date_on_page": "03/08/2021",
-    "experts": [
+    "title": "Recommendations for management of patients with HF and AF (excerpt)",
+    "summary": "Guideline recommendations covering anticoagulation, rate control, rhythm interventions, revascularization, and use of SGLT2 inhibitors in patients with heart failure (HF) and atrial fibrillation (AF), with a short abbreviation list.",
+    "recommendations": [
       {
-        "name": "Sitges Marta",
-        "year": 2020,
-        "declaration_summary": "Edwards Lifesciences: Heart Valve Disease. Research funding from healthcare industry under direct/personal responsibility to department or institution: Bristol Myers Squibb: Atrial Fibrillation; Menarini: Continuous Education on Cardiovascular Diseases; Novartis: Heart Failure; Merck Sharp & Dohme: Hypercholesterolemia. Other positions: employment in healthcare industry (including part time) during the year; speaker and consultant for Abbott."
+        "topic": "Anticoagulation",
+        "detail": "DOACs are recommended in preference to VKAs in patients with HF, except in those with moderate or severe mitral stenosis or mechanical prosthetic heart valves. For patients with HF and non-valvular AF eligible for anticoagulation based on a CHA2DS2-VASc score, NOACs rather than warfarin should be considered for anticoagulation as NOACs are associated with a lower risk of stroke, intracranial haemorrhage, and mortality."
       },
       {
-        "name": "Sousa Uva Miguel",
-        "year": 2020,
-        "declaration_summary": "Nothing to be declared."
+        "topic": "Rate control",
+        "detail": "Beta-blockers should be considered for short- and long-term rate control in patients with HF and AF. For patients in NYHA class I–III, a beta-blocker is usually given orally and is recommended as first-line treatment to control ventricular rate, provided the patient is euvolaemic."
       },
       {
-        "name": "Srbinovska-Kostovska Elizabeta",
-        "year": 2020,
-        "declaration_summary": "Nothing to be declared."
+        "topic": "Ablation and rhythm control",
+        "detail": "In cases of a clear association between paroxysmal or persistent AF and worsening of HF symptoms despite medical therapy, catheter ablation should be considered for the prevention of AF. AV node catheter ablation may be considered to control heart rate and relieve symptoms in patients unresponsive to or intolerant of pharmacological rate and rhythm control therapy."
       },
       {
-        "name": "Stojkovic Sinisa",
-        "year": 2020,
-        "declaration_summary": "Nothing to be declared."
+        "topic": "Coronary revascularization",
+        "detail": "Coronary revascularization should be considered to relieve persistent symptoms of angina in patients with HFrEF/CCS and coronary anatomy suitable for revascularization, despite optimal medical therapy (including anti-anginal drugs). Myocardial revascularization is recommended when angina persists despite treatment."
       },
       {
-        "name": "Straburzynska-Migaj Ewa",
-        "year": 2020,
-        "declaration_summary": "Financial declaration: direct personal payment from healthcare industry for speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Companies and topics listed: Pfizer: anticoagulation; AstraZeneca: heart failure; Novartis: heart failure; Servier: heart failure."
+        "topic": "SGLT2 inhibitors",
+        "detail": "SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, sotagliflozin) are recommended in patients with T2DM at risk of CV events to reduce hospitalizations for heart failure, major cardiovascular events, end-stage renal dysfunction, and CV death. Empagliflozin specifically is mentioned as a consideration in patients with T2DM to prevent or delay onset of HF and prolong life."
       }
     ],
-    "footer_note": "For ESC Guidelines: The report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2020."
+    "abbreviations": {
+      "AF": "atrial fibrillation",
+      "AHA": "acute heart failure (contextual abbreviation shown)",
+      "AV": "atrioventricular",
+      "CAD": "coronary artery disease",
+      "CCS": "chronic coronary syndrome",
+      "CHA2DS2-VASc": "congestive heart failure or left ventricular dysfunction, Hypertension, Age ≥75 (doubled), Diabetes, Stroke (doubled) - Vascular disease, Age 65–74, Sex category (female) (score)",
+      "DOAC": "direct oral anticoagulant",
+      "HFrEF": "heart failure with reduced ejection fraction",
+      "ICD": "implantable cardioverter-defibrillator",
+      "LVEF": "left ventricular ejection fraction",
+      "MCS": "mechanical circulatory support",
+      "NOAC": "non-vitamin K antagonist oral anticoagulant",
+      "NYHA": "New York Heart Association",
+      "OMT": "optimal medical therapy",
+      "QRS": "Q, R, and S waves of an ECG",
+      "SBP": "systolic blood pressure",
+      "SGLT2": "sodium–glucose co-transporter 2",
+      "T2DM": "type 2 diabetes mellitus",
+      "VKA": "vitamin K antagonist"
+    },
+    "source_notes": "Page contains a recommendations table image plus an abbreviations list. Extracted recommendations are a high-level summary of visible items; not all details from the full guideline are shown on this page image."
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "SGLT2 (SLC5A2)",
+      "Associated Conditions": [
+        "Type 2 diabetes mellitus (T2DM)",
+        "Heart failure (HF) - prevention/ reduction of HF hospitalizations",
+        "Cardiovascular disease risk reduction (major CV events, CV death)",
+        "End-stage renal dysfunction (reduction of risk)"
+      ],
+      "Occurrences": 2,
+      "context": "Page states \"SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, sotagliflozin) are recommended in patients with T2DM at risk of CV events to reduce hospitalizations for HF, major CV events, end-stage renal dysfunction, and CV death.\" Abbreviation list defines SGLT2 as sodium–glucose co-transporter 2."
+    }
+  ]
 }

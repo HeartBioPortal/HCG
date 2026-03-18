@@ -1,54 +1,57 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism - Reviewers",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year. Declarations conducted every January covering the previous calendar year (up to and including 2018).",
-    "table_header": [
-      "Expert",
-      "Type of Relationship with Industry"
-    ],
-    "expert": "Zima Endre",
-    "relationships": [
-      {
-        "company": "Medtronic",
-        "relationship": "CRM",
-        "year": 2018
+    "Anticoagulation_after_6_months": {
+      "recommendation": "A reduced dose of apixaban or rivaroxaban should be considered after the first 6 months for the index PE event.",
+      "class": "IIa"
+    },
+    "PE_in_cancer": {
+      "recommendation": "Edoxaban or rivaroxaban should be considered as an alternative to LMWH, with the exception of patients with gastrointestinal cancer.",
+      "class": "IIa"
+    },
+    "PE_in_pregnancy": {
+      "amniotic_fluid_embolism": {
+        "recommendation": "Amniotic fluid embolism should be considered in a pregnant or post-partum woman with unexplained haemodynamic instability or respiratory deterioration, and disseminated intravascular coagulation.",
+        "class": "IIa"
       },
-      {
-        "company": "Biotronik",
-        "relationship": "CRM",
-        "year": 2018
+      "thrombolysis_or_embolectomy": {
+        "recommendation": "Thrombolysis or surgical embolectomy should be considered for pregnant women with high-risk PE.",
+        "class": "IIa"
       },
-      {
-        "company": "Zoll Medical",
-        "relationship": "Defibrillation, CPR, TTM",
-        "year": 2018
-      },
-      {
-        "company": "Orion",
-        "relationship": "Inotrope therapy",
-        "year": 2018
-      },
-      {
-        "company": "Pfizer",
-        "relationship": "NOACs",
-        "year": 2018
-      },
-      {
-        "company": "Merck Sharp & Dohme",
-        "relationship": "NOACs",
-        "year": 2018
-      },
-      {
-        "company": "Replant",
-        "relationship": "TTM",
-        "year": 2018
+      "noac_recommendation": {
+        "recommendation": "NOACs are not recommended during pregnancy or lactation.",
+        "class": "III"
       }
-    ],
-    "footer": {
-      "date": "21/08/2019",
-      "page": "45/62"
-    }
+    },
+    "Post_PE_care_and_long_term_sequelae": {
+      "routine_evaluation": {
+        "recommendation": "Routine clinical evaluation is recommended 3–6 months after acute PE.",
+        "class": "I"
+      },
+      "integrated_model_of_care": {
+        "recommendation": "An integrated model of care is recommended after acute PE to ensure optimal transition from hospital to ambulatory care.",
+        "class": "I"
+      },
+      "referral_for_persistent_mismatched_perfusion": {
+        "recommendation": "Symptomatic patients with mismatched perfusion defects on a V/Q scan >3 months after acute PE should be referred to a pulmonary hypertension/CTEPH expert centre, taking into account results of echocardiography, natriuretic peptide, and/or cardiopulmonary exercise testing.",
+        "class": "I"
+      }
+    },
+    "Abbreviations": {
+      "CPET": "cardiopulmonary exercise testing",
+      "CTEPH": "Chronic thromboembolic pulmonary hypertension",
+      "CUS": "compression ultrasonography",
+      "ECMO": "extracorporeal membrane oxygenation",
+      "LMWH": "low-molecular weight heparin",
+      "NOACs": "non-vitamin K antagonist oral anticoagulants",
+      "PE": "pulmonary embolism",
+      "PESI": "Pulmonary Embolism Severity Index",
+      "RV": "right ventricular",
+      "SPECT": "single-photon emission computed tomography",
+      "sPESI": "simplified Pulmonary Embolism Severity Index",
+      "VKAs": "vitamin K antagonists",
+      "V/Q": "ventilation/perfusion (lung scintigraphy)"
+    },
+    "source_note": "Coloured columns indicate classes of recommendation (see Table 1 for colour coding). © ESC 2019"
   },
   "genes": []
 }

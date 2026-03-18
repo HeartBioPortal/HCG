@@ -1,0 +1,67 @@
+{
+  "content": {
+    "title": "Recommendations for management of ventricular arrhythmias and bradyarrhythmias",
+    "ventricular_arrhythmias": [
+      {
+        "recommendation": "Intravenous beta-blocker and/or amiodarone treatment",
+        "indication": "Patients with polymorphic VT and/or VF unless contraindicated",
+        "class_level": "I",
+        "evidence_grade": "B"
+      },
+      {
+        "recommendation": "Prompt and complete revascularization",
+        "indication": "Myocardial ischaemia in patients with recurrent VT and/or VF",
+        "class_level": "I",
+        "evidence_grade": "C"
+      },
+      {
+        "recommendation": "Transvenous catheter pacing termination and/or overdrive pacing",
+        "indication": "If VT cannot be controlled by repeated electrical cardioversion",
+        "class_level": "IIa",
+        "evidence_grade": "C"
+      },
+      {
+        "recommendation": "Radiofrequency catheter ablation at a specialized ablation centre followed by ICD implantation",
+        "indication": "Patients with recurrent VT, VF, or electrical storm despite complete revascularization and optimal medical therapy",
+        "class_level": "IIa",
+        "evidence_grade": "C"
+      },
+      {
+        "recommendation": "Lidocaine",
+        "indication": "Recurrent VT with haemodynamic relevance when beta-blockers, amiodarone, and overdrive stimulation are not effective/applicable",
+        "class_level": "IIb",
+        "evidence_grade": "C"
+      },
+      {
+        "recommendation": "Sedation or general anaesthesia to reduce sympathetic drive",
+        "indication": "Patients with recurrent life-threatening ventricular arrhythmias",
+        "class_level": "IIb",
+        "evidence_grade": "C"
+      },
+      {
+        "recommendation": "ICD implantation or temporary use of a wearable cardioverter defibrillator",
+        "indication": "<40 days after MI in selected patients (incomplete revascularization, pre-existing LVEF dysfunction, arrhythmias >48 h after STEMI onset, polymorphic VT or VF)",
+        "class_level": "IIb",
+        "evidence_grade": "C"
+      },
+      {
+        "recommendation": "Do not treat asymptomatic and haemodynamically irrelevant ventricular arrhythmias with anti-arrhythmic drugs",
+        "indication": "Asymptomatic and haemodynamically irrelevant ventricular arrhythmias",
+        "class_level": "III (harm or not recommended)",
+        "evidence_grade": "C"
+      }
+    ],
+    "bradyarrhythmias": {
+      "general": "In cases of sinus bradycardia with haemodynamic intolerance or high-degree AV block without stable escape rhythm",
+      "initial_iv_medications": [
+        "Adrenaline",
+        "Vasopressin",
+        "Atropine"
+      ],
+      "class_level_initial_treatment": "I",
+      "evidence_grade_initial_treatment": "C"
+    },
+    "notes": "Guideline excerpt includes recommendation classes (I, IIa, IIb, III) and evidence grades (B, C). Mentions clinical situations related to MI/STEMI, LVEF dysfunction, polymorphic VT/VF, electrical storm, and use of ICD/wearable defibrillators."
+  },
+  "genes": []
+}

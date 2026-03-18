@@ -1,0 +1,21 @@
+{
+  "content": {
+    "Invasive strategy and reperfusion therapy": "An invasive strategy is recommended for patients with ACS. Immediate invasive strategy is recommended for STEMI and very high-risk NSTE-ACS. For NSTE-ACS an inpatient invasive strategy is recommended; in NSTE-ACS patients with high-risk characteristics, an early invasive strategy (<24 h) should be considered. If PPCI cannot be performed in STEMI within 120 min from diagnosis, fibrinolytic therapy is indicated within 12 h of symptom onset in patients without contraindications.",
+    "Antithrombotic therapy": "Antithrombotic therapy (antiplatelet and anticoagulant) is indicated in all ACS patients. Aspirin is recommended for all ACS patients (loading and maintenance). In addition to aspirin, a P2Y12 receptor inhibitor is recommended and should be maintained for 12 months unless concerns exist. Regarding P2Y12 inhibitor choice, prasugrel and ticagrelor are preferred over clopidogrel; prasugrel may be preferred to ticagrelor for ACS patients undergoing PCI. Routine pre-treatment with a P2Y12 inhibitor prior to coronary angiography in NSTE-ACS is not routinely recommended but may be considered for STEMI undergoing PPCI. Parenteral anticoagulation is recommended at diagnosis and discontinued after invasive procedure. Some ACS patients with indications for long-term oral anticoagulation (most commonly AF) may require tailored combinations (TAT, DAT) including NOAC and a single antiplatelet agent (preferably clopidogrel).",
+    "ACS with unstable presentation": "A PPCI strategy is recommended in patients with resuscitated cardiac arrest and an ECG with persistent ST elevation (or equivalents). Routine immediate angiography is not recommended in patients without persistent ST elevation. Temperature control is recommended for OHCA patients who remain unresponsive after ROSC. In patients with cardiogenic shock complicating ACS, emergency coronary angiography is recommended; routine use of IABP in ACS patients with CS and no mechanical complications is not recommended.",
+    "Early care": "Section header present (no additional text on this page)."
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "Acute coronary syndromes (ACS)",
+        "STEMI",
+        "NSTE-ACS",
+        "Patients undergoing PCI or coronary angiography"
+      ],
+      "Occurrences": 3,
+      "context": "Text refers to 'a P2Y12 receptor inhibitor' recommended in addition to aspirin, discusses choice of P2Y12 receptor inhibitors (prasugrel, ticagrelor, clopidogrel), and notes pre-treatment with a P2Y12 receptor inhibitor prior to coronary angiography in NSTE-ACS is not routinely recommended."
+    }
+  ]
+}

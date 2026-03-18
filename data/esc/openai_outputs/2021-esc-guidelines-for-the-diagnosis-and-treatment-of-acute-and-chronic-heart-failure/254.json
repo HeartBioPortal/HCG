@@ -1,0 +1,72 @@
+{
+  "content": {
+    "title": "Recommendations for the initial treatment of acute heart failure",
+    "sections": {
+      "Inotropic agents": {
+        "recommendation_1": {
+          "text": "Inotropic agents may be considered in patients with SBP <90 mmHg and evidence of hypoperfusion who do not respond to standard treatment, including fluid challenge, to improve peripheral perfusion and maintain end-organ function.",
+          "class": "IIb",
+          "level_of_evidence": "C",
+          "references_shown": [
+            387
+          ]
+        },
+        "recommendation_2": {
+          "text": "Inotropic agents are not recommended routinely, due to safety concerns, unless the patient has symptomatic hypotension and evidence of hypoperfusion.",
+          "class": "III",
+          "level_of_evidence": "C",
+          "references_shown": [
+            387,
+            467,
+            478
+          ]
+        }
+      },
+      "Vasopressors": {
+        "recommendation": {
+          "text": "A vasopressor, preferably norepinephrine, may be considered in patients with cardiogenic shock to increase blood pressure and vital organ perfusion.",
+          "class": "IIb",
+          "level_of_evidence": "B",
+          "references_shown": [
+            485,
+            486,
+            487
+          ]
+        }
+      },
+      "Other drugs": {
+        "thromboembolism_prophylaxis": {
+          "text": "Thromboembolism prophylaxis (e.g. with LMWH) is recommended in patients not already anticoagulated and with no contraindication to anticoagulation, to reduce the risk of deep venous thrombosis and pulmonary embolism.",
+          "class": "I",
+          "level_of_evidence": "A",
+          "references_shown": [
+            494,
+            495
+          ]
+        },
+        "opiates": {
+          "text": "Routine use of opiates is not recommended, unless in selected patients with severe/intractable pain or anxiety.",
+          "class": "III",
+          "level_of_evidence": "C",
+          "references_shown": [
+            488,
+            489
+          ]
+        }
+      }
+    },
+    "abbreviations": {
+      "AHF": "acute heart failure",
+      "i.v.": "intravenous",
+      "LMWH": "low-molecular-weight heparin",
+      "PaO2": "partial pressure of oxygen",
+      "SBP": "systolic blood pressure",
+      "SpO2": "transcutaneous oxygen saturation"
+    },
+    "notes": {
+      "a": "Class of recommendation.",
+      "b": "Level of evidence."
+    }
+  },
+  "genes": []
+}

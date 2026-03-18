@@ -1,38 +1,31 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "organization": "European Society of Cardiology (ESC)",
-    "header_paragraph": "For ESC Guidelines: The report below lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2020.",
-    "expert": "Ruschitzka Frank",
-    "year": "2020",
-    "type_of_column_header": "Type of Relationship with Industry",
-    "disclosures": [
-      "Vifor International : Aging Heart",
-      "MSD : Aging Heart",
-      "Boehringer Ingelheim : Aging Heart",
-      "Sanofi Aventis : ALIROL09100",
-      "HAMILTON HEALTH SCIENCES : ARTESIA",
-      "Biotronic : BIOFLOW IV & BIOFLOW V",
-      "Biotronic : BIOVITESSE",
-      "Sahajanand IN / Cruz HBR : Cardiovascular European Research",
-      "Swiss national foundation : CLEVER-ACS",
-      "Biotronic : CR21CHE001",
-      "Astrazeneca : DAPA-VOLVO",
-      "Quintiles : DSE-EDO-04-1-EU",
-      "Swiss national foundation : Effect of phosphodiesterase-5 inhibition",
-      "Amgen : HAYMANNS Study 20130296, ECARA 20150245",
-      "Novartis : HERITAGE CTQJ230A12001",
-      "Medtronic : Micra TM Registry, EV ICD Pivotal",
-      "Boston Scientific : Multistars",
-      "Novartis : PARAGON CLCZ696D2301",
-      "Kaneka Corporation : PMCF RAIDEN3",
-      "Berlin Heart GmbH : Projekt Berlin Heart",
-      "V wave : Relieve-HF-Trial",
-      "SSS International Clinical Research : RHEIA",
-      "Amgen : RNA Swiss Lipid Award",
-      "Kantar GmbH : SANTORINI"
+    "highlights": [
+      "A new simplified treatment algorithm for HFrEF.",
+      "The addition of a treatment algorithm for HFrEF according to phenotypes.",
+      "Modified classification for acute HF.",
+      "Updated treatments for most non-cardiovascular comorbidities including diabetes, hyperkalaemia, iron deficiency, and cancer.",
+      "Updates on cardiomyopathies including the role of genetic testing and new treatments.",
+      "The addition of key quality indicators."
     ],
-    "page_date": "12/08/2021"
+    "term_changes": {
+      "HFmrEF": "Change of the term 'heart failure with mid-range ejection fraction' to 'heart failure with mildly reduced ejection fraction (HFmrEF)'."
+    },
+    "sections": {
+      "new_concepts": [
+        "A change of the term 'heart failure with mid-range ejection fraction' to 'heart failure with mildly reduced ejection fraction (HFmrEF)'.",
+        "A new simplified treatment algorithm for HFrEF.",
+        "The addition of a treatment algorithm for HFrEF according to phenotypes.",
+        "Modified classification for acute HF.",
+        "Updated treatments for most non-cardiovascular comorbidities including diabetes, hyperkalaemia, iron deficiency, and cancer.",
+        "Updates on cardiomyopathies including the role of genetic testing and new treatments.",
+        "The addition of key quality indicators."
+      ],
+      "other_notes": [
+        "Page contains repeated lists of the above items and a link labeled 'Open in new tab'.",
+        "Emphasis on role of genetic testing in cardiomyopathies (no specific genes named on the page)."
+      ]
+    }
   },
   "genes": []
 }

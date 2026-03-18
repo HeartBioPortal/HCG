@@ -1,0 +1,33 @@
+{
+  "content": {
+    "title": "6.5. Antiplatelet therapy in patients requiring oral anticoagulation",
+    "section": "6.5.1. Acute coronary syndrome patients requiring anticoagulation",
+    "summary": "A minority (approximately 6–8%) of patients undergoing PCI require long-term oral anticoagulation (OAC). Long-term OAC should be continued during the invasive procedure; interruption and bridging may increase thrombo-embolic events and bleeding. It is uncertain whether to bridge non-vitamin K antagonist oral anticoagulants (NOACs) with parenteral anticoagulants or to continue NOACs without additional parenteral anticoagulation. In patients treated with vitamin K antagonists (VKAs), no parenteral anticoagulation is needed if the international normalized ratio (INR) is >2.5.",
+    "table7_title": "Suggested strategies to reduce bleeding risk related to percutaneous coronary intervention",
+    "suggested_strategies": [
+      "Adjust anticoagulant doses to body weight and renal function, especially in women and older patients",
+      "Use radial artery approach as default vascular access",
+      "Use proton pump inhibitors in patients on dual antiplatelet therapy who are at higher-than-average risk of gastrointestinal bleeds"
+    ],
+    "proton_pump_inhibitor_criteria": "Consider PPI if history of GI ulcer/haemorrhage, on anticoagulant therapy, chronic NSAID/corticosteroid use, OR presence of two or more listed risk factors",
+    "risk_factors_for_gastrointestinal_bleeding": [
+      "Age ≥ 65 years",
+      "Dyspepsia",
+      "Gastro-oesophageal reflux disease",
+      "Helicobacter pylori infection",
+      "Chronic alcohol use"
+    ],
+    "in_patients_on_OAC": [
+      "Perform PCI without interruption of VKAs or NOACs where appropriate",
+      "In patients on VKAs, do not administer unfractionated heparin (UFH) if INR > 2.5"
+    ],
+    "practice_notes": [
+      "Interruption of long-term OAC and bridging with parenteral anticoagulants may lead to increased thrombo-embolic episodes and bleeds",
+      "Uncertainty exists about safest approach for NOACs during PCI (bridging vs continuation without parenteral anticoagulation)"
+    ],
+    "approximate_statistics": {
+      "percent_patients_undergoing_PCI_on_long_term_OAC": "6–8%"
+    }
+  },
+  "genes": []
+}

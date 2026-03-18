@@ -1,0 +1,52 @@
+{
+  "content": {
+    "title": "Antithrombotic treatment in acute coronary syndrome (page excerpt)",
+    "summary": "Antithrombotic treatment is an important component of management for all patients presenting with acute coronary syndrome (ACS). Choice and combination of therapy, timing of initiation, and duration depend on patient and procedural factors and must balance antithrombotic benefits against bleeding risk, including severe, life‑threatening bleeding. Recommended anticoagulant and antiplatelet drugs and their dosing (for use during and after ACS) are summarized in Table 6 and illustrated in Figure 9.",
+    "figure_number": "Figure 9",
+    "figure_caption": "Antithrombotic treatments in acute coronary syndrome: pharmacological targets.",
+    "abbreviations": {
+      "ADP": "adenosine diphosphate",
+      "FVIIa": "Factor VIIa",
+      "FXa": "Factor Xa",
+      "GP": "glycoprotein",
+      "TF": "tissue factor",
+      "TxA2": "thromboxane A2",
+      "UFH": "unfractionated heparin"
+    },
+    "drug_color_coding": "Drugs with oral administration are shown in blue and drugs with preferred parenteral administration in red (per figure legend).",
+    "recommended_drugs": {
+      "oral": [
+        "Rivaroxaban",
+        "Apixaban",
+        "Edoxaban",
+        "Dabigatran",
+        "Clopidogrel",
+        "Ticagrelor",
+        "Prasugrel",
+        "Aspirin"
+      ],
+      "parenteral": [
+        "Fondaparinux",
+        "Unfractionated heparin (UFH)",
+        "Enoxaparin",
+        "Bivalirudin",
+        "Cangrelor",
+        "Eptifibatide",
+        "Tirofiban"
+      ]
+    },
+    "diagram_targets_and_notes": [
+      "Diagram highlights platelet activation and aggregation pathways (ADP/P2Y receptor, GP IIb/IIIa) and coagulation cascade elements (TF/FVIIa, FXa, Thrombin) as pharmacological targets.",
+      "Multiple classes of antithrombotic drugs are depicted acting on platelet receptors (eg, P2Y, GP IIb/IIIa), thromboxane pathway (aspirin), and coagulation factors (eg, FXa inhibitors, direct thrombin inhibitors)."
+    ],
+    "references": [
+      "Table 6 (dose regimen of antiplatelet and anticoagulant drugs in ACS patients)",
+      "Figure 9 (illustrative pharmacological targets)"
+    ],
+    "page_links": [
+      "Open in new tabDownload slide",
+      "Open in new tab"
+    ]
+  },
+  "genes": []
+}

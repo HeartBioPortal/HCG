@@ -1,0 +1,19 @@
+{
+  "content": {
+    "preconditions": "All of the following criteria must be fulfilled: LVEF ≥20%–50% (range shown on page), LVESD <70 mm, systolic pulmonary pressure <70 mmHg, absence of moderate or severe right ventricular dysfunction or severe tricuspid regurgitation (TR), and absence of haemodynamic instability.",
+    "12.3.4 Tricuspid regurgitation": {
+      "definition_and_cause": "Tricuspid regurgitation (TR) can be caused by or be a consequence of right ventricular (RV) dysfunction and heart failure (HF).",
+      "management_overview": "Management of HF with TR includes medical therapy (MT) such as diuretics and neurohormonal antagonists. Transcatheter therapy and surgery may be considered in selected cases. A multidisciplinary Heart Team including HF specialists should be considered for assessment and treatment planning.",
+      "surgical_indications": "Tricuspid valve surgery is recommended in patients with severe TR requiring left-sided cardiac surgery. Consider surgery in moderate TR with tricuspid annulus dilatation when left-sided surgery is required, and in symptomatic patients with isolated severe TR.",
+      "outcomes_and_considerations": "Surgery for isolated TR has high in-hospital mortality (~8.8%) though HF stage may influence this. Transcatheter techniques have emerged and preliminary results show improvement in TR severity and symptoms with low complication rates. Further prospective studies are needed to assess prognostic impact."
+    },
+    "12.4 Hypertension": {
+      "epidemiology": "Arterial hypertension is a leading risk factor for HF. Almost two-thirds of HF patients have a past history of hypertension. Hypertension is the most important cause of HFpEF, with a prevalence of 60% to 89% in HFpEF patients.",
+      "treatment_principles": "Treatment of HFrEF is similar in hypertensive and normotensive patients. Recommended medications (neurohormonal antagonists and diuretics) lower blood pressure. Lifestyle modifications (weight loss, reduced sodium intake, increased physical activity) are useful adjuncts.",
+      "pharmacologic_details": "If further BP lowering is required (and no fluid overload), amlodipine and felodipine have been shown to be safe in HFrEF and may be considered. Non-dihydropyridine CCBs (diltiazem and verapamil) and centrally acting agents (e.g., moxonidine) are contraindicated due to association with worse outcomes. Alpha-blockers have no effect on survival and are not indicated for HF, though can be used for concomitant prostatic hyperplasia but should be withdrawn if hypotension occurs.",
+      "impact_on_HF": "Antihypertensive agents including ACE inhibitors, ARBs, beta-blockers, CCBs, and diuretics reduce HF incidence. Reducing BP leads to LVH regression; ARBs, ACE inhibitors, and CCBs cause more effective LVH regression than beta-blockers or diuretics. Poorly controlled hypertension can precipitate decompensation. Causes of secondary hypertension (renal vascular or parenchymal disease, primary aldosteronism, obstructive sleep apnoea) should be ruled out or treated if confirmed.",
+      "evidence_gaps": "Clinical trials specifically evaluating antihypertensive strategies and BP targets in patients with HF and hypertension have not been performed; optimal treatment strategy in HFpEF remains uncertain. Treatment strategy used in HFrEF should also be considered in HFpEF."
+    }
+  },
+  "genes": []
+}

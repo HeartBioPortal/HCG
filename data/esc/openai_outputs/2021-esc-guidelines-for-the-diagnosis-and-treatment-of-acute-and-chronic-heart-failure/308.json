@@ -1,0 +1,90 @@
+{
+  "content": {
+    "table": [
+      {
+        "Cancer therapy": "Anthracycline chemotherapy",
+        "Drugs": "(doxorubicin, epirubicin, daunorubicin, idarubicin)",
+        "Indication": "Breast cancer, lymphoma, acute leukaemia, sarcoma"
+      },
+      {
+        "Cancer therapy": "HER2-targeted therapies",
+        "Drugs": "(trastuzumab, pertuzumab, trastuzumab emtansine T-DM1, lapatinib, neratinib, tucatinib)",
+        "Indication": "HER2+ breast cancer; HER2+ gastric cancer"
+      },
+      {
+        "Cancer therapy": "VEGF inhibitors",
+        "Drugs": "TKIs (sunitinib, pazopanib, sorafenib, axitinib, tivozanib, cabozantinib, regorafenib, lenvatinib, vandetanib) and antibodies (bevacizumab, ramucirumab)",
+        "Indication": "VEGF TKIs: renal cancer, hepatocellular cancer, thyroid cancer, colon cancer, sarcoma, GIST; Antibodies: breast cancer, ovarian cancer, gastric cancer, gastro-oesophageal cancer, colon cancer"
+      },
+      {
+        "Cancer therapy": "Multi-targeted kinase inhibitors (BCR-ABL TKIs)",
+        "Drugs": "(second and third generation BCR-ABL TKIs: ponatinib, nilotinib, dasatinib, bosutinib)",
+        "Indication": "Chronic myeloid leukaemia"
+      },
+      {
+        "Cancer therapy": "Proteasome inhibitors",
+        "Drugs": "(carfilzomib, bortezomib, ixazomib)",
+        "Indication": "Multiple myeloma"
+      },
+      {
+        "Cancer therapy": "Immunomodulatory drugs",
+        "Drugs": "(lenalidomide, pomalidomide)",
+        "Indication": "Multiple myeloma"
+      },
+      {
+        "Cancer therapy": "Combination RAF and MEK inhibitors",
+        "Drugs": "(dabrafenib+trametinib, vemurafenib+cobimetinib, encorafenib+binimetinib)",
+        "Indication": "RAF-mutant melanoma"
+      },
+      {
+        "Cancer therapy": "Androgen deprivation therapies",
+        "Drugs": "GnRH agonists (goserelin, leuprorelin); Antiandrogens (abiraterone)",
+        "Indication": "Prostate cancer, breast cancer"
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "ERBB2 (HER2)",
+      "Associated Conditions": [
+        "HER2-positive breast cancer",
+        "HER2-positive gastric cancer"
+      ],
+      "Occurrences": 3,
+      "context": "Listed as 'HER2-targeted therapies' with indications 'HER2+ breast cancer' and 'HER2+ gastric cancer' and associated HER2-directed drugs (trastuzumab, pertuzumab, T-DM1, lapatinib, neratinib, tucatinib)."
+    },
+    {
+      "Gene": "BCR-ABL",
+      "Associated Conditions": [
+        "Chronic myeloid leukaemia"
+      ],
+      "Occurrences": 1,
+      "context": "Referenced as 'second and third generation BCR-ABL TKIs (ponatinib, nilotinib, dasatinib, bosutinib)' with indication chronic myeloid leukaemia."
+    },
+    {
+      "Gene": "BRAF",
+      "Associated Conditions": [
+        "BRAF-mutant (RAF-mutant) melanoma"
+      ],
+      "Occurrences": 2,
+      "context": "Implied by 'Combination RAF and MEK inhibitors' and the indication 'RAF mutant melanoma' with listed BRAF-targeting drug combinations (dabrafenib, vemurafenib, encorafenib)."
+    },
+    {
+      "Gene": "VEGFA (VEGF)",
+      "Associated Conditions": [
+        "Renal cancer",
+        "Hepatocellular cancer",
+        "Thyroid cancer",
+        "Colon cancer",
+        "Sarcoma",
+        "GIST",
+        "Breast cancer",
+        "Ovarian cancer",
+        "Gastric cancer",
+        "Gastro-oesophageal cancer"
+      ],
+      "Occurrences": 2,
+      "context": "Appears as 'VEGF inhibitors' (VEGF TKIs and antibodies such as bevacizumab, ramucirumab) with multiple listed cancer indications."
+    }
+  ]
+}

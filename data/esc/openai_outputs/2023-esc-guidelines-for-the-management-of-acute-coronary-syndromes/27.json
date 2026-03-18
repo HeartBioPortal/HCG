@@ -1,53 +1,62 @@
 {
   "content": {
-    "document_title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "note": "Declarations of interest reported to the ESC covering previous calendar year (calls conducted during development up to and including 2022).",
-    "experts": [
+    "page_type": "glossary_acronyms",
+    "acronyms": [
       {
-        "name": "Almeida Manuel De Sousa",
-        "entries": [
-          {
-            "year": 2022,
-            "declaration": "Payment from healthcare industry to your department or institution or any other body for your personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Medtronic: 7 items checked. Terumo Inc: Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS), Acute Coronary Syndromes. Boston Scientific: Valvular Heart Disease, Interventional Cardiology, Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS), Acute Coronary Syndromes.",
-            "conditions_mentioned": [
-              "Coronary Artery Disease (Chronic)",
-              "Chronic Coronary Syndromes (CCS)",
-              "Acute Coronary Syndromes",
-              "Valvular Heart Disease",
-              "Interventional Cardiology"
-            ]
-          }
-        ]
+        "abbr": "HF",
+        "definition": "Heart failure",
+        "approx_occurrences": 1
       },
       {
-        "name": "Angel Kristin",
-        "entries": [
-          {
-            "year": 2021,
-            "declaration": "Nothing to be declared.",
-            "conditions_mentioned": []
-          },
-          {
-            "year": 2022,
-            "declaration": "Nothing to be declared.",
-            "conditions_mentioned": []
-          }
-        ]
+        "abbr": "HFrEF",
+        "definition": "Heart failure with reduced ejection fraction",
+        "approx_occurrences": 1
       },
       {
-        "name": "Antoniou Sotiris",
-        "entries": [
-          {
-            "year": 2021,
-            "declaration": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Pfizer: speaker fees for education - AF. Bayer AG: speaker fees for education - AF. Daiichi Sankyo: speaker fees for education - AF. Astra Zeneca: speaker fees for education - CVD. Boehringer-Ingelheim: speaker fees for education - CVD. Research funding from healthcare industry under your direct/personal responsibility (to department or institution). Astra Zeneca: Joint working initiative on improving CV care. Membership or affiliation in political, advocacy or patients organisations working in the field of cardiology. Member of Arrhythmia alliance medical advisory panel.",
-            "conditions_mentioned": [
-              "AF",
-              "CVD",
-              "Cardiovascular care",
-              "Arrhythmia"
-            ]
-          }
-        ]
+        "abbr": "HOST-REDUCE-POLYTECH-ACS",
+        "definition": "Harmonizing Optimal Strategy for Treatment of Coronary Artery Diseases Trial — Comparison of REDUCTION of PrasugrEl Dose & POLYmer TECHnology in ACS Patients",
+        "approx_occurrences": 1
+      },
+      {
+        "abbr": "HR",
+        "definition": "Hazard ratio",
+        "approx_occurrences": 1
+      },
+      {
+        "abbr": "HR-QoL",
+        "definition": "Health-related quality of life",
+        "approx_occurrences": 1
+      },
+      {
+        "abbr": "hs-cTn",
+        "definition": "High-sensitivity cardiac troponin",
+        "approx_occurrences": 1
+      },
+      {
+        "abbr": "IABP",
+        "definition": "Intra-aortic balloon counter pulsation/pumping",
+        "approx_occurrences": 1
+      },
+      {
+        "abbr": "IABP-SHOCK II",
+        "definition": "Intraaortic Balloon Pump in Cardiogenic Shock II",
+        "approx_occurrences": 1
+      },
+      {
+        "abbr": "ICA",
+        "definition": "Invasive coronary angiography",
+        "approx_occurrences": 1
+      },
+      {
+        "abbr": "ICCU",
+        "definition": "Intensive cardiac care unit",
+        "approx_occurrences": 1
+      },
+      {
+        "abbr": "ICD",
+        "definition": null,
+        "approx_occurrences": 1,
+        "note": "Acronym listed without definition on this page image"
       }
     ]
   },

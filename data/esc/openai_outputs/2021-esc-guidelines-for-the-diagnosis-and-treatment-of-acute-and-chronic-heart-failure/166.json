@@ -1,0 +1,45 @@
+{
+  "content": {
+    "title": "Echocardiographic and biomarker thresholds for diagnosing HFpEF (page extract)",
+    "parameters": [
+      {
+        "Parameter": "E/e' ratio at rest",
+        "Threshold": ">9",
+        "Comments": "Sensitivity 78%, specificity 59% for the presence of HFpEF by invasive exercise testing; a higher cut-off of 13 had lower sensitivity (46%) but higher specificity (86%)."
+      },
+      {
+        "Parameter": "NT-proBNP / BNP",
+        "Threshold": "NT-proBNP: >125 pg/mL (sinus rhythm, SR) or >365 pg/mL (atrial fibrillation, AF); BNP: >35 pg/mL (SR) or >105 pg/mL (AF)",
+        "Comments": "Up to 20% of patients with invasively proven HFpEF have natriuretic peptides below diagnostic thresholds, particularly in the presence of obesity."
+      },
+      {
+        "Parameter": "PA systolic pressure / TR velocity at rest",
+        "Threshold": ">35 mmHg or TR velocity >2.8 m/s",
+        "Comments": "Sensitivity 54%, specificity 85% for the presence of HFpEF by invasive exercise testing."
+      },
+      {
+        "Parameter": "LV mass index / Relative wall thickness",
+        "Threshold": "LV mass index ≥95 g/m2 (Female), ≥115 g/m2 (Male); Relative wall thickness >0.42",
+        "Comments": "Although concentric LV remodelling or hypertrophy is supportive, the absence of LV hypertrophy does not exclude the diagnosis of HFpEF."
+      },
+      {
+        "Parameter": "LA volume index",
+        "Threshold": ">34 mL/m2 (sinus rhythm); in presence of AF threshold is >40 mL/m2",
+        "Comments": "LA enlargement reflects chronically elevated LV filling pressure; thresholds differ if AF is present."
+      }
+    ],
+    "notes": "Values and diagnostic performance derived from invasive exercise testing and referenced guideline data on page.",
+    "abbreviations": {
+      "AF": "atrial fibrillation",
+      "BNP": "B-type natriuretic peptide",
+      "NT-proBNP": "N-terminal pro B-type natriuretic peptide",
+      "E/e' ratio": "early filling velocity on transmitral Doppler / early relaxation velocity on tissue Doppler",
+      "HFpEF": "heart failure with preserved ejection fraction",
+      "LA": "left atrial",
+      "LV": "left ventricular",
+      "SR": "sinus rhythm",
+      "TR": "tricuspid regurgitation"
+    }
+  },
+  "genes": []
+}

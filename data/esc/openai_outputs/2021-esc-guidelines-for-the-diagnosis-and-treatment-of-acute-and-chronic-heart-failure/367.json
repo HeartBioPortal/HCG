@@ -1,0 +1,139 @@
+{
+  "content": {
+    "title": "Cardiac and Extracardiac Red Flags (TTR vs AL amyloidosis)",
+    "legend": "Table lists cardiac findings and extracardiac red flags with columns indicating presence in TTR (transthyretin) and AL (light-chain) amyloidosis.",
+    "cardiac_findings": {
+      "Clinical": {
+        "Hypotension or normotensive if previously hypertensive": {
+          "TTR": true,
+          "AL": true
+        }
+      },
+      "ECG": {
+        "Pseudo-infarct ECG pattern": {
+          "TTR": true,
+          "AL": true
+        },
+        "Low/decreased QRS voltage relative to degree of LV thickness": {
+          "TTR": true,
+          "AL": true
+        },
+        "AV conduction disease": {
+          "TTR": true,
+          "AL": true
+        }
+      },
+      "Laboratory": {
+        "Disproportionally elevated NT-proBNP to degree of HF": {
+          "TTR": true,
+          "AL": true
+        },
+        "Persisting elevated troponin levels": {
+          "TTR": true,
+          "AL": true
+        }
+      },
+      "Echocardiography": {
+        "Granular sparkling of myocardium": {
+          "TTR": true,
+          "AL": true
+        },
+        "Increased right ventricular wall thickness": {
+          "TTR": true,
+          "AL": true
+        },
+        "Increased AV valve thickness": {
+          "TTR": true,
+          "AL": true
+        },
+        "Pericardial effusion": {
+          "TTR": true,
+          "AL": true
+        },
+        "Reduced longitudinal strain with apical sparing pattern": {
+          "TTR": true,
+          "AL": true
+        }
+      },
+      "CMR": {
+        "Subendocardial LGE": {
+          "TTR": true,
+          "AL": true
+        },
+        "Elevated native T1 values": {
+          "TTR": true,
+          "AL": true
+        },
+        "Increased extracellular volume": {
+          "TTR": true,
+          "AL": true
+        },
+        "Abnormal gadolinium kinetics": {
+          "TTR": true,
+          "AL": true
+        }
+      }
+    },
+    "extracardiac_red_flags": {
+      "Polyneuropathy": {
+        "TTR": true,
+        "AL": true
+      },
+      "Dysautonomia": {
+        "TTR": true,
+        "AL": true
+      },
+      "Skin bruising": {
+        "TTR": false,
+        "AL": true
+      },
+      "Macroglossia": {
+        "TTR": false,
+        "AL": true
+      },
+      "Deafness": {
+        "TTR": true,
+        "AL": false
+      },
+      "Bilateral carpal tunnel syndrome": {
+        "TTR": true,
+        "AL": false
+      },
+      "Ruptured biceps tendon": {
+        "TTR": true,
+        "AL": false
+      },
+      "Lumbar spinal stenosis": {
+        "TTR": true,
+        "AL": false
+      },
+      "Vitreous deposits": {
+        "TTR": true,
+        "AL": false
+      },
+      "Family history": {
+        "TTR": true,
+        "AL": false
+      }
+    },
+    "notes": "Table uses 'X' marks to indicate which features are associated with TTR vs AL amyloidosis; footnote markers (e.g., a) appear for some items such as family history and vitreous deposits."
+  },
+  "genes": [
+    {
+      "Gene": "TTR",
+      "Associated Conditions": [
+        "Transthyretin amyloidosis (TTR) - cardiac involvement",
+        "Polyneuropathy",
+        "Dysautonomia",
+        "Vitreous deposits",
+        "Bilateral carpal tunnel syndrome",
+        "Ruptured biceps tendon",
+        "Lumbar spinal stenosis",
+        "Deafness",
+        "Family history of amyloidosis"
+      ],
+      "Occurrences": 2,
+      "context": "TTR appears as a column header marking features associated with transthyretin amyloidosis across the cardiac findings and extracardiac red flags table (e.g., polyneuropathy, dysautonomia, carpal tunnel syndrome, vitreous deposits, family history)."
+    }
+  ]
+}

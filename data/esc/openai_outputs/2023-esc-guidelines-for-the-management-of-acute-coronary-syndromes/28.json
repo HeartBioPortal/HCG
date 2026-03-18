@@ -1,70 +1,70 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "date_on_page": "16/05/2023",
-    "page": "4/57",
-    "description": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during development period up to and including 2022).",
-    "experts": [
+    "source_page": "abbreviations list from clinical guideline",
+    "abbreviations": [
       {
-        "name": "Antoniou Sotiris",
-        "entries": [
-          {
-            "year": "2022",
-            "relationship_summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.; research funding to department/institution under direct/personal responsibility.",
-            "details": [
-              "Pfizer: Atrial Fibrillation (AF)",
-              "Bayer AG: Atrial Fibrillation (AF), Acute Coronary Syndromes",
-              "Boehringer-Ingelheim: Atrial Fibrillation (AF), Chronic Heart Failure",
-              "Daiichi Sankyo: Atrial Fibrillation (AF), Pharmacology and Pharmacotherapy",
-              "Astra Zeneca: Chronic Heart Failure",
-              "Amarin: development of post MI virtual follow up, Lead investigator (research funding)",
-              "Novartis: joint working collaboration on CVD prevention, principal lead"
-            ]
-          }
-        ]
+        "abbrev": "Implantable cardioverter defibrillator",
+        "definition": null,
+        "context": "Line on page: 'Implantable cardioverter defibrillator' (listed as an entry; no explicit short-form shown on this snippet)"
       },
       {
-        "name": "Asteggiano Riccardo",
-        "entries": [
-          {
-            "year": "2021",
-            "relationship_summary": "Receipt of royalties for intellectual property; involvement with ESC Council of Cardio-Oncology.",
-            "details": [
-              "Receipt of royalties for intellectual property",
-              "Council of Cardio-Oncology ESC: cardio-oncology"
-            ]
-          },
-          {
-            "year": "2022",
-            "relationship_summary": "Nothing to be declared.",
-            "details": []
-          }
-        ]
+        "abbrev": "ICU",
+        "definition": "Intensive care unit",
+        "context": "ICU — Intensive care unit"
       },
       {
-        "name": "Back Maria",
-        "entries": [
-          {
-            "year": "2021",
-            "relationship_summary": "Payment from healthcare industry to department/institution or other body for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "details": [
-              "Amgen: Secondary prevention, with focus on education and exercise",
-              "Astra Zeneca: Secondary prevention, with focus on education and exercise",
-              "Sanofi Aventis: Secondary prevention, with focus on education and exercise"
-            ]
-          },
-          {
-            "year": "2022",
-            "relationship_summary": "Payment from healthcare industry to department/institution or other body for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "details": [
-              "Amgen: Rehabilitation and Sports Cardiology",
-              "Astra Zeneca: Rehabilitation and Sports Cardiology",
-              "Sanofi Aventis: Rehabilitation and Sports Cardiology",
-              "Bayer AG: Rehabilitation and Sports Cardiology"
-            ]
-          }
-        ]
+        "abbrev": "IMPROVE-IT",
+        "definition": "Improved Reduction of Outcomes: Vytorin Efficacy International Trial",
+        "context": "IMPROVE-IT — Improved Reduction of Outcomes: Vytorin Efficacy International Trial"
+      },
+      {
+        "abbrev": "INR",
+        "definition": "International normalized ratio",
+        "context": "INR — International normalized ratio"
+      },
+      {
+        "abbrev": "IRA",
+        "definition": "Infarct-related artery",
+        "context": "IRA — Infarct-related artery"
+      },
+      {
+        "abbrev": "ISAR-REACT 5",
+        "definition": "Intracoronary stenting and Antithrombotic regimen Rapid Early Action for Coronary Treatment",
+        "context": "ISAR-REACT 5 — Intracoronary stenting and Antithrombotic regimen Rapid Early Action for Coronary Treatment"
+      },
+      {
+        "abbrev": "ISIS-4",
+        "definition": "Fourth International Study of Infarct Survival",
+        "context": "ISIS-4 — Fourth International Study of Infarct Survival"
+      },
+      {
+        "abbrev": "i.v.",
+        "definition": "Intravenous",
+        "context": "i.v. — Intravenous"
+      },
+      {
+        "abbrev": "IVUS",
+        "definition": "Intravascular ultrasound",
+        "context": "IVUS — Intravascular ultrasound"
+      },
+      {
+        "abbrev": "LAD",
+        "definition": "Left anterior descending",
+        "context": "LAD — Left anterior descending (coronary artery)"
+      },
+      {
+        "abbrev": "LBBB",
+        "definition": "Left bundle branch block",
+        "context": "LBBB — Left bundle branch block"
+      },
+      {
+        "abbrev": "LD",
+        "definition": null,
+        "context": "LD — listed on page snippet without visible expansion in this image"
       }
+    ],
+    "page_artifacts": [
+      "Repeated 'Â' characters appear on the page (likely rendering/artifact markers)."
     ]
   },
   "genes": []

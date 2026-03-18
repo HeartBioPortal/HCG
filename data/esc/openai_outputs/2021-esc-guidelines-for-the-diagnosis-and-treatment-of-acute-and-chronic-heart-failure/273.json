@@ -1,0 +1,62 @@
+{
+  "content": {
+    "Anticoagulation": [
+      {
+        "recommendation": "Long-term treatment with an oral anticoagulant is recommended in all patients with AF, HF, and CHA2DS2-VASc score ≥2 in men or ≥3 in women.",
+        "Class": "I",
+        "Level": "A"
+      },
+      {
+        "recommendation": "DOACs are recommended in preference to VKAs in patients with HF, except in those with moderate or severe mitral stenosis or mechanical prosthetic heart valves.",
+        "Class": "I",
+        "Level": "A"
+      },
+      {
+        "recommendation": "Long-term treatment with an oral anticoagulant should be considered for stroke prevention in AF patients with a CHA2DS2-VASc score of 1 in men or 2 in women.",
+        "Class": "IIa",
+        "Level": "B"
+      }
+    ],
+    "Rate control": [
+      {
+        "recommendation": "Beta-blockers should be considered for short- and long-term rate control in patients with HF and AF.",
+        "Class": "IIa",
+        "Level": "B"
+      },
+      {
+        "recommendation": "Digoxin should be considered when the ventricular rate remains high despite beta-blockers, or when beta-blockers are contraindicated or not tolerated.",
+        "Class": "IIa",
+        "Level": "C"
+      }
+    ],
+    "Cardioversion": [
+      {
+        "recommendation": "Urgent ECV is recommended in the setting of acute worsening of HF in patients presenting with rapid ventricular rates and haemodynamic instability.",
+        "Class": "I",
+        "Level": "C"
+      },
+      {
+        "recommendation": "Cardioversion may be considered in patients in whom there is an association between AF and worsening of HF symptoms despite optimal medical treatment.",
+        "Class": "IIb",
+        "Level": "B"
+      }
+    ],
+    "AF catheter ablation": [
+      {
+        "recommendation": "In cases of a clear association between paroxysmal or persistent AF and worsening of HF symptoms, which persist despite MT, catheter ablation should be considered for the prevention or treatment of AF.",
+        "Class": "IIa",
+        "Level": "B"
+      }
+    ],
+    "Abbreviations legend": {
+      "AF": "atrial fibrillation",
+      "HF": "congestive heart failure or left ventricular dysfunction",
+      "CHA2DS2-VASc": "congestive heart failure, Hypertension, Age ≥75 (doubled), Diabetes, Stroke (doubled)-Vascular disease, Age 65–74, Sex category (female) (score)",
+      "DOAC": "direct-acting oral anticoagulant",
+      "ECV": "electrical cardioversion",
+      "MT": "medical therapy",
+      "VKA": "vitamin K antagonist"
+    }
+  },
+  "genes": []
+}

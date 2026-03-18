@@ -1,0 +1,59 @@
+{
+  "content": {
+    "document_title": "Acute-phase management of patients with acute coronary syndrome",
+    "section_number": "5",
+    "section_title": "Acute-phase management of patients with acute coronary syndrome",
+    "subsection": {
+      "number": "5.1",
+      "title": "Selection of invasive strategy and reperfusion therapy",
+      "summary": "Defines terms related to invasive strategy and reperfusion therapy and provides recommendations for classification and management of patients with suspected acute coronary syndrome (ACS) based on ECG, clinical context and haemodynamic stability."
+    },
+    "figure_recommendations": [
+      {
+        "recommendation": "Ambulance teams should be trained and equipped to identify ECG patterns suggestive of acute coronary occlusion and to administer initial therapy, including defibrillation and fibrinolysis when applicable.",
+        "class_of_recommendation": "I",
+        "level_of_evidence": "C"
+      },
+      {
+        "recommendation": "All hospitals and EMS participating in care of patients with suspected STEMI should record and audit delay times and work together to achieve and maintain quality targets.",
+        "class_of_recommendation": "I",
+        "level_of_evidence": "C"
+      }
+    ],
+    "classification_of_patients_with_suspected_ACS": [
+      {
+        "category": "STEMI",
+        "management_recommendation": "Patients with a working diagnosis of STEMI should be triaged for immediate reperfusion therapy (i.e. a PPCI strategy or fibrinolysis if PPCI is not possible within 120 min of diagnosis).",
+        "reference": "Figure 7"
+      },
+      {
+        "category": "NSTE-ACS",
+        "management_recommendations": [
+          "An inpatient invasive strategy is recommended.",
+          "An immediate invasive strategy is recommended when any very high-risk feature is present (see Figure 8).",
+          "An early invasive strategy (within 24 h) should be considered when any high-risk features are present (see Figure 8)."
+        ]
+      }
+    ],
+    "timing_recommendment": "If PPCI is not possible within 120 minutes of diagnosis for STEMI, consider fibrinolysis.",
+    "abbreviations": {
+      "CCU": "cardiac care unit",
+      "ECG": "electrocardiogram",
+      "EMS": "emergency medical services",
+      "ICU": "intensive care unit",
+      "i.v.": "intravenous",
+      "PPCI": "primary percutaneous coronary intervention",
+      "SaO2": "saturation of oxygen",
+      "SBP": "systolic blood pressure",
+      "STEMI": "ST-elevation myocardial infarction",
+      "ACS": "acute coronary syndrome",
+      "NSTE-ACS": "non–ST-elevation acute coronary syndrome"
+    },
+    "references_to_figures_and_tables": {
+      "table_3": "Definitions of terms related to invasive strategy and reperfusion therapy.",
+      "figure_7": "Flow or details for reperfusion strategy in STEMI.",
+      "figure_8": "Criteria for immediate or early invasive strategy in NSTE-ACS and high/very-high risk features."
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,129 @@
+{
+  "content": {
+    "Genetic counselling and testing": "Indication: All patients with a diagnosis of DCM or HNDC and all first-degree adult relatives of these patients and a definite disease-causing mutation, regardless of their phenotype, in order to identify genetically affected individuals at a preclinical phase. First-degree adult relatives should have their evaluation repeated every 5 years or less when aged <50 years or non-diagnostic abnormalities are found. Clinical evaluation, ECG, echocardiography and possibly CMR, must be performed in first-degree relatives of patients. Results: Can identify patients with DCM or HNDC at highest risk of arrhythmia and/or deserving other specific treatments. Early identification of asymptomatic relatives may lead to early treatment and prevention of progression to HF and proper genetic counseling. Minimal set of genes: TTN, LMNA, MHC, TNNT, troponin-C, MYPC, RBM20, PLN, sodium channel alpha unit, BAG3, actin alpha cardiac muscle, nexilin, tropomyosin-1, vinculin. The use of additional sequencing for the analysis of very large panel of genes may be considered when there is a clear familial history or structural phenotype, by preference combined with family segregation.",
+    "Endomyocardial biopsy": "Indication: In suspected phenotypes requiring specific treatments (i.e. giant cell myocarditis, eosinophilic myocarditis, sarcoidosis, vasculitis, SLE, other systemic, auto-immune inflammatory conditions, or storage diseases). Number of samples: A minimum of 5 but possibly at least 7 samples: 3 for pathology, 2 for infection (DNA, PCR) and 2 for RNA viruses/viral replication. Aetiology: Search for common cardiotrophic viruses (parvovirus B19, HHV4, HHV6, enteroviruses, adenovirus and coxsackie) by quantitative rtPCR when a viral aetiology is suspected. Viral mRNA for active viral replication should be assessed, if possible. Further assessment if indicated: CMV, HIV, Borrelia burgdorferi (Lyme disease), Coxiella burnetii (Q-fever), Trypanosoma cruzi (Chagas disease) and SARS-CoV-2. Immunohistochemistry: Quantification of CD3-, CD4-, CD8- or CD45- staining lymphocytes and CD68 macrophages per mm2; anti-HLA-DR. Histology: Haematoxylin and eosin staining, fibrosis assessment with Masson's Trichrome and Picrosirius Red, amyloid fibrils detection with Congo Red.",
+    "Therapeutic options": "HF treatment for HFrEF (see referenced sections)."
+  },
+  "genes": [
+    {
+      "Gene": "TTN",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Familial cardiomyopathy",
+        "HNDC"
+      ],
+      "Occurrences": 1,
+      "context": "Listed in the 'Minimal set of genes' for genetic counselling and testing for patients with DCM or HNDC."
+    },
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Arrhythmia",
+        "Familial cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Listed in the 'Minimal set of genes' for genetic counselling and testing for patients with DCM or HNDC."
+    },
+    {
+      "Gene": "TNNT2",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Familial cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "The page lists 'TNNT' (troponin T) as part of the minimal gene set for DCM/HNDC testing; interpreted as cardiac troponin T (TNNT2)."
+    },
+    {
+      "Gene": "TNNC1",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Familial cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "The page lists 'troponin-C' as part of the minimal gene set for DCM/HNDC testing; interpreted as cardiac troponin C (TNNC1)."
+    },
+    {
+      "Gene": "MYBPC3",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Familial cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "The page lists 'MYPC' as part of the minimal gene set for DCM/HNDC testing; interpreted as the cardiac myosin binding protein C gene (MYBPC3)."
+    },
+    {
+      "Gene": "RBM20",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Familial cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Listed explicitly in the 'Minimal set of genes' for genetic testing in DCM/HNDC."
+    },
+    {
+      "Gene": "PLN",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Familial cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Listed explicitly in the 'Minimal set of genes' for genetic testing in DCM/HNDC."
+    },
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Arrhythmia",
+        "Familial cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "The page refers to 'sodium channel alpha unit' in the minimal gene set for DCM/HNDC; interpreted as the major cardiac sodium channel gene SCN5A."
+    },
+    {
+      "Gene": "BAG3",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Familial cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Listed explicitly in the 'Minimal set of genes' for genetic testing in DCM/HNDC."
+    },
+    {
+      "Gene": "ACTC1",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Familial cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "The page lists 'actin alpha cardiac muscle' in the minimal gene set; interpreted as ACTC1."
+    },
+    {
+      "Gene": "NEXN",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Familial cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Listed as 'nexilin' in the minimal gene set for DCM/HNDC testing; interpreted as NEXN."
+    },
+    {
+      "Gene": "TPM1",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Familial cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "The page lists 'tropomyosin-1' in the minimal gene set; interpreted as TPM1."
+    },
+    {
+      "Gene": "VCL",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Familial cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "The page lists 'vinculin' in the minimal gene set for DCM/HNDC testing; interpreted as VCL."
+    }
+  ]
+}

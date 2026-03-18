@@ -1,0 +1,81 @@
+{
+  "content": {
+    "page_type": "reference_list",
+    "topic": "Heart failure — guideline / reference citations",
+    "description": "Page contains numbered bibliographic references (99–106) cited in a clinical guideline, focusing on heart failure epidemiology, imaging/chamber quantification, clinical trial endpoints, therapies including angiotensin-neprilysin inhibition, and registry outcomes.",
+    "references": [
+      {
+        "number": 99,
+        "citation": "Lang RM, Badano LP, Mor-Avi V, Afilalo J, Armstrong A, Ernande L, Flachskampf FA, Foster E, Goldstein SA, Kuznetsova T, Lancellotti P, Muraru D, Picard MH, Rietzschel ER, Ruzsdi L, Spencer KT, Tsang W, Voigt JU. Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European Association of Cardiovascular Imaging.",
+        "journal": "Eur Heart J Cardiovasc Imaging",
+        "year": 2015,
+        "pages": "16:233–270",
+        "notes": "Guideline update on echocardiographic chamber quantification"
+      },
+      {
+        "number": 100,
+        "citation": "Gheorghiade M, Shah AN, Vaduganathan M, Butler J, Bonow RO, Rosano GM, Taylor S, Kupfer S, Misselwitz F, Sharma A, Fonarow GC. Recognizing hospitalized heart failure as an entity and developing new therapies to improve outcomes: academics', clinicians', industry's, regulators', and payers' perspectives.",
+        "journal": "Heart Fail Clin",
+        "year": 2013,
+        "pages": "9:285–290 (v-vi)",
+        "notes": "Perspective piece on hospitalized heart failure and therapy development"
+      },
+      {
+        "number": 101,
+        "citation": "Ambrosy AP, Fonarow GC, Butler J, Chioncel O, Greene SJ, Vaduganathan M, Nodari S, Lam CSP, Sato N, Shah AN, Gheorghiade M. The global health and economic burden of hospitalizations for heart failure: lessons learned from hospitalized heart failure registries.",
+        "journal": "J Am Coll Cardiol",
+        "year": 2014,
+        "pages": "63:1123–1133",
+        "notes": "Registry-based assessment of burden and economics of HF hospitalizations"
+      },
+      {
+        "number": 102,
+        "citation": "Anker SD, Schroeder S, Atar D, Bax JJ, Ceconi C, Cowie MR, Crisp A, Dominjon F, Ford I, Ghofrani HA, Gropper S, Hindricks G, Hlatky MA, Holcomb R, Honarpour N, Jukema JW, Kim AM, Kunz M, Lefkowitz M, Le Floc'h C, Landmesser U, McDonagh TA, McMurray JJ, Merkely B, Packer M, Prasad K, Revkin J, Rosano GM, Somaratne R, Stough WG, Voors AA, Ruschitzka F. Traditional and new composite endpoints in heart failure clinical trials: facilitating comprehensive efficacy assessments and improving trial efficiency.",
+        "journal": "Eur J Heart Fail",
+        "year": 2016,
+        "pages": "18:482–489",
+        "notes": "Discussion of endpoints used in HF clinical trials"
+      },
+      {
+        "number": 103,
+        "citation": "Gayat E, Arrigo M, Littnerova S, Sato N, Parenica J, Ishihara S, Spinar J, Muller C, Harjola VP, Lassus J, Miro O, Maggioni AP, AlHabib KF, Choi DJ, Park JJ, Zhang Y, Zhang J, Januzzi JL Jr., Kajimoto K, Cohen-Solal A, Mebazaa A, Network G. Heart failure oral therapies at discharge are associated with better outcome in acute heart failure: a propensity-score matched study.",
+        "journal": "Eur J Heart Fail",
+        "year": 2018,
+        "pages": "20:345–354",
+        "notes": "Observational propensity-score matched analysis of discharge HF therapies"
+      },
+      {
+        "number": 104,
+        "citation": "Crespo-Leiro MG, Anker SD, Maggioni AP, Coats AJ, Filippatos G, Ruschitzka F, Ferrari R, Piepoli MF, Delgado Jimenez JF, Metra M, Fonseca C, Hradec J, Amir O, Logeart D, Dahlstrom U, Merkely B, Drozdz J, Goncalvesova E, Hassanein M, Chioncel O, Lainscak M, Seferovic PM, Tousoulis D, Kavoliuniene A, Fruhwald F, Fazlibegovic E, Temizhan A, Gatzov P, Erglis A, Laroche C, Mebazaa A; Heart Failure Association of the European Society of Cardiology. European Society of Cardiology Heart Failure Long-Term Registry (ESC-HF-LT): 1-year follow-up outcomes and differences across regions.",
+        "journal": "Eur J Heart Fail",
+        "year": 2016,
+        "pages": "18:613–625",
+        "notes": "ESC-HF-LT registry 1-year outcomes and regional differences"
+      },
+      {
+        "number": 105,
+        "citation": "McMurray JJ, Packer M, Desai AS, Gong J, Lefkowitz MP, Rizkala AR, Rouleau JL, Shi VC, Solomon SD, Swedberg K, Zile MR; PARADIGM-HF Investigators and Committees. Angiotensin–neprilysin inhibition versus enalapril in heart failure.",
+        "journal": "N Engl J Med",
+        "year": 2014,
+        "pages": "371:993–1004",
+        "notes": "PARADIGM-HF trial comparing sacubitril/valsartan vs enalapril"
+      },
+      {
+        "number": 106,
+        "citation": "Velazquez EJ, Morrow DA, DeVore AD, Duffy CI, Ambrosy AP, McCague K, Rocha R, Braunwald E; PIONEER-HF Investigators. Angiotensin–neprilysin inhibition in acute decompensated heart failure.",
+        "journal": "N Engl J Med",
+        "year": 2019,
+        "pages": "380:539–548",
+        "notes": "PIONEER-HF trial evaluating angiotensin–neprilysin inhibition in acute decompensated HF"
+      }
+    ],
+    "links_shown": [
+      "Google Scholar",
+      "Crossref",
+      "Search ADS",
+      "PubMed"
+    ],
+    "notes": "The page is a bibliographic section; it does not present primary discussion text here but lists references underlying guideline content."
+  },
+  "genes": []
+}

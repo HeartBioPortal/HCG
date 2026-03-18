@@ -1,46 +1,89 @@
 {
   "content": {
-    "title": "Clinical Practice Guidelines Committee 2020-2022",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year. Calls for declaration conducted during development of guidelines up to and including 2020.",
-    "date_on_page": "09/08/2021",
-    "experts": [
+    "overview_rows": [
       {
-        "name": "Neubeck Lis",
-        "year": 2020,
-        "declarations": [
-          "Pfizer : Atrial fibrillation",
-          "Novo-Nordisk : CVD diabetes",
-          "Servier : Digital health"
-        ]
+        "Category": "Neuromuscular disease",
+        "Examples of presentations": "Friedreich's ataxia, muscular dystrophy",
+        "Specific investigations": "Nerve conduction studies, electromyogram, genetics; CK"
+      }
+    ],
+    "table_rows": [
+      {
+        "Cause": "CAD",
+        "Examples of presentations": "Myocardial infarction; Angina or angina-equivalent; Arrhythmias",
+        "Specific investigations": "Invasive coronary angiography; CT coronary angiography; Imaging stress tests (echo, nuclear, CMR)"
       },
       {
-        "name": "Nielsen Jens Cosedis",
-        "year": 2020,
-        "declarations": [
-          "Other Positions of Influence: Membership or affiliation in political, advocacy or patients organisations working in the field of cardiology",
-          "Member of Danish Heart Foundation",
-          "Received institutional research grants from the Novo Nordisk Foundation"
-        ]
+        "Cause": "Hypertension",
+        "Examples of presentations": "Heart failure with preserved systolic function; Malignant hypertension/acute pulmonary oedema",
+        "Specific investigations": "24 h ambulatory BP; Plasma metanephrines, renal artery imaging; Renin and aldosterone"
       },
       {
-        "name": "Petersen Steffen Erhard",
-        "year": 2020,
-        "declarations": [
-          "Financial Declaration: direct personal payment from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-          "Direct payments / work with Circle Cardiovascular Imaging, Inc: Cardiac MRI and CT analysis and reporting software",
-          "Other Positions of Influence: direct ownership of shares or direct financial interest in healthcare/media/education companies (Healthcare - IMAGING - Circle Cardiovascular Imaging Inc., Calgary, Canada; 25,000 shares at Canadian dollars $1.50 each)",
-          "Memberships: British Cardiovascular Society, Royal College of Physicians, British Medical Association"
-        ]
+        "Cause": "Valve disease",
+        "Examples of presentations": "Primary valve disease e.g., aortic stenosis; Secondary valve disease e.g., functional regurgitation; Congenital valve disease",
+        "Specific investigations": "Echo, transoesophageal/stress"
       },
       {
-        "name": "Prescott Eva",
-        "year": 2020,
-        "declarations": [
-          "Nothing to be declared"
-        ]
+        "Cause": "Arrhythmias",
+        "Examples of presentations": "Atrial tachyarrhythmias; Ventricular arrhythmias",
+        "Specific investigations": "Ambulatory ECG recording; Electrophysiology study, if indicated"
+      },
+      {
+        "Cause": "CMPs",
+        "Examples of presentations": "All: Dilated, Hypertrophic, Restrictive; ARVC; Peripartum; Takotsubo syndrome; Toxins: alcohol, cocaine, iron, copper",
+        "Specific investigations": "CMR, genetic testing; Right and left heart catheterization; CMR, angiography; Trace elements, toxicology, LFTs, GGT"
+      },
+      {
+        "Cause": "Congenital heart disease",
+        "Examples of presentations": "Congenitally corrected/repaired transposition of great arteries; Shunt lesions; Repaired tetralogy of Fallot; Ebstein's anomaly",
+        "Specific investigations": "CMR"
+      },
+      {
+        "Cause": "Infective",
+        "Examples of presentations": "Viral myocarditis; Chagas disease; HIV; Lyme disease",
+        "Specific investigations": "CMR, EMB; Serology"
+      },
+      {
+        "Cause": "Drug-induced",
+        "Examples of presentations": "Anthracyclines; Trastuzumab; VEGF inhibitors; Immune checkpoint inhibitors; Proteasome inhibitors; RAF+MEK inhibitors",
+        "Specific investigations": ""
+      },
+      {
+        "Cause": "Infiltrative",
+        "Examples of presentations": "Amyloid; Sarcoidosis; Neoplastic",
+        "Specific investigations": "Serum electrophoresis and serum free light chains; Bence Jones protein; Bone scintigraphy; CMR; CT-PET; EMB; Serum ACE; FDG-PET; chest CT"
+      },
+      {
+        "Cause": "Storage disorders",
+        "Examples of presentations": "Haemochromatosis; Fabry disease; Glycogen storage diseases",
+        "Specific investigations": "Iron studies, genetics, CMR (T2* imaging), EMB; alpha-galactosidase A, genetics, CMR (T1 mapping)"
       }
     ]
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "ACE",
+      "Associated Conditions": [
+        "Sarcoidosis (infiltrative heart disease)"
+      ],
+      "Occurrences": 1,
+      "context": "Listed under infiltrative investigations as 'Serum ACE' for sarcoidosis/infiltrative cardiac disease workup."
+    },
+    {
+      "Gene": "GLA",
+      "Associated Conditions": [
+        "Fabry disease (storage disorder)"
+      ],
+      "Occurrences": 1,
+      "context": "Referenced as 'alpha-galactosidase A' under storage disorders investigations (Fabry disease); enzyme encoded by GLA."
+    },
+    {
+      "Gene": "VEGFA",
+      "Associated Conditions": [
+        "Drug-induced cardiotoxicity (use of VEGF inhibitors)"
+      ],
+      "Occurrences": 1,
+      "context": "Page lists 'VEGF inhibitors' under drug-induced causes of cardiac disease, indicating targeting of VEGF (VEGFA)."
+    }
+  ]
 }

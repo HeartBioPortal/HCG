@@ -1,77 +1,73 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "description": "Declarations of interest reported to the ESC by experts during the yearly call covering the previous calendar year (calls conducted during development period up to and including 2022).",
-    "page_date": "16/05/2023",
-    "page_number": "6/57",
-    "experts": [
+    "page_type": "abbreviations_list",
+    "description": "List of clinical abbreviations and their definitions as shown on the guideline page.",
+    "abbreviations": [
       {
-        "name": "Banning Adrian Paul",
-        "entries": [
-          {
-            "year": 2022,
-            "declaration": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies_and_topics": [
-              "Boston Scientific : Interventional Cardiology",
-              "Abbott Vascular : Interventional Cardiology",
-              "Medtronic Foundation : Interventional Cardiology",
-              "Miracor : Interventional Cardiology"
-            ]
-          }
-        ]
+        "abbr": "MCS",
+        "definition": "Mechanical circulatory support",
+        "approx_occurrences": 1,
+        "context": "Listed as an abbreviation with definition"
       },
       {
-        "name": "Becker David",
-        "entries": [
-          {
-            "year": 2021,
-            "declaration": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.; travel and meeting support; membership/affiliation in political, advocacy or patient organisations; Member of the National Cardiology Advisory Board.",
-            "companies_and_topics": [
-              "Astra Zeneca : Antithrombotic therapy",
-              "Pfizer : Antithrombotic therapy",
-              "Krka Pharma : Atherosclerosis",
-              "Bayer Healthcare : Atrial fibrillation",
-              "Novo-Nordisk : GLP1-A",
-              "Pfizer : ACC online congress"
-            ]
-          },
-          {
-            "year": 2022,
-            "declaration": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies_and_topics": [
-              "Bayer Healthcare : Atrial Fibrillation (AF)",
-              "Novo-Nordisk : Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS)",
-              "Egis Pharma : Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS)",
-              "Novartis : History of Cardiology, Chronic Heart Failure"
-            ]
-          }
-        ]
+        "abbr": "MD",
+        "definition": "Maintenance dose",
+        "approx_occurrences": 1,
+        "context": "Listed as an abbreviation with definition"
       },
       {
-        "name": "Beishenkulov Medet",
-        "entries": [
-          {
-            "year": 2021,
-            "declaration": "Nothing to be declared"
-          },
-          {
-            "year": 2022,
-            "declaration": "Nothing to be declared"
-          }
-        ]
+        "abbr": "MI",
+        "definition": "Myocardial infarction",
+        "approx_occurrences": 1,
+        "context": "Listed as an abbreviation with definition"
       },
       {
-        "name": "Benlamin Hisham",
-        "entries": [
-          {
-            "year": 2021,
-            "declaration": "Nothing to be declared"
-          },
-          {
-            "year": 2022,
-            "declaration": "Nothing to be declared"
-          }
-        ]
+        "abbr": "MINOCA",
+        "definition": "Myocardial infarction with non-obstructive coronary arteries",
+        "approx_occurrences": 1,
+        "context": "Listed as an abbreviation with definition"
+      },
+      {
+        "abbr": "MRA",
+        "definition": "Mineralocorticoid receptor antagonist",
+        "approx_occurrences": 1,
+        "context": "Listed as an abbreviation with definition"
+      },
+      {
+        "abbr": "MVD",
+        "definition": "Multivessel disease",
+        "approx_occurrences": 1,
+        "context": "Listed as an abbreviation with definition"
+      },
+      {
+        "abbr": "MVO",
+        "definition": "Microvascular obstruction",
+        "approx_occurrences": 1,
+        "context": "Listed as an abbreviation with definition"
+      },
+      {
+        "abbr": "NOAC",
+        "definition": "Non-vitamin K antagonist oral anticoagulant",
+        "approx_occurrences": 1,
+        "context": "Listed as an abbreviation with definition"
+      },
+      {
+        "abbr": "NORSTENT",
+        "definition": "Norwegian Coronary Stent Trial",
+        "approx_occurrences": 1,
+        "context": "Listed as an abbreviation with definition"
+      },
+      {
+        "abbr": "NPV",
+        "definition": "Negative predictive value",
+        "approx_occurrences": 1,
+        "context": "Listed as an abbreviation with definition"
+      },
+      {
+        "abbr": "NRT",
+        "definition": "Nicotine replacement therapy",
+        "approx_occurrences": 1,
+        "context": "Listed as an abbreviation with definition"
       }
     ]
   },

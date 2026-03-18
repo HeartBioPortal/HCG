@@ -1,99 +1,40 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during the period of development of these guidelines up to and including 2020.",
-    "date_on_page": "12/08/2021",
-    "experts": [
+    "title": "Classes of recommendations and Levels of evidence",
+    "source_location": "Figures/Table on page (two repeated tables shown)",
+    "classes_of_recommendations": [
       {
-        "name": "Price Susanna",
-        "declarations": [
-          {
-            "year": 2020,
-            "type": "Nothing to be declared",
-            "details": "Nothing to be declared"
-          }
-        ]
+        "class": "Class I",
+        "definition": "Evidence and/or general agreement that a given treatment or procedure is beneficial, useful, effective.",
+        "wording_to_use": "Is recommended or is indicated"
       },
       {
-        "name": "Rosano Giuseppe M C",
-        "declarations": [
-          {
-            "year": 2019,
-            "type": "Financial Declaration",
-            "details": "Travel and meeting support from healthcare industry, independent of the above activities.",
-            "relationships": [
-              {
-                "company": "Vifor International",
-                "associated_condition": "Heart Failure"
-              },
-              {
-                "company": "Servier",
-                "associated_condition": "Ischaemic heart disease"
-              },
-              {
-                "company": "Menarini",
-                "associated_condition": "Pharmacology"
-              }
-            ]
-          },
-          {
-            "year": 2020,
-            "type": "Financial Declaration",
-            "details": "Payment from healthcare industry to department/institution or other body for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "relationships": [
-              {
-                "company": "Abbott Laboratories",
-                "associated_condition": "Dyslipidaemia"
-              },
-              {
-                "company": "Vifor International",
-                "associated_condition": "Iron Deficiency"
-              },
-              {
-                "company": "Menarini",
-                "associated_condition": "Ischaemic heart disease / arterial hypertension"
-              },
-              {
-                "company": "AstraZeneca",
-                "associated_condition": "Speakers fees"
-              }
-            ]
-          }
-        ]
+        "class": "Class II",
+        "definition": "Conflicting evidence and/or a divergence of opinion about the usefulness/efficacy of the given treatment or procedure.",
+        "wording_to_use": null
       },
       {
-        "name": "Ruschitzka Frank",
-        "declarations": [
-          {
-            "year": 2019,
-            "type": "Financial Declaration",
-            "details": "Payment from healthcare industry to department/institution or other legal body for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "relationships": [
-              {
-                "company": "IMC / AstraZeneca",
-                "associated_condition": "Advisory Board"
-              },
-              {
-                "company": "Radcliffe Group",
-                "associated_condition": "Consulting service"
-              },
-              {
-                "company": "Stiftung Pfizer Forschungspreis",
-                "associated_condition": "Consulting service"
-              },
-              {
-                "company": "Klub Class",
-                "associated_condition": "Consulting service, Interview"
-              },
-              {
-                "company": "Bayer",
-                "associated_condition": "Grant to the University of Zurich: Postgraduate Course in Heart Failure"
-              }
-            ]
-          }
-        ]
+        "class": "Class IIa",
+        "definition": "Weight of evidence/opinion is in favour of usefulness/efficacy.",
+        "wording_to_use": "Should be considered"
+      },
+      {
+        "class": "Class IIb",
+        "definition": "Usefulness/efficacy is less well established by evidence/opinion.",
+        "wording_to_use": "May be considered"
+      },
+      {
+        "class": "Class III",
+        "definition": "Evidence or general agreement that the given treatment or procedure is not useful/effective, and in some cases may be harmful.",
+        "wording_to_use": "Is not recommended"
       }
-    ]
+    ],
+    "levels_of_evidence": {
+      "A": "Data derived from multiple randomized clinical trials or meta-analyses.",
+      "B": "Data derived from a single randomized clinical trial or large non-randomized studies.",
+      "C": "Consensus of opinion of the experts and/or small studies, retrospective studies, registries."
+    },
+    "notes": "The page shows the recommendation classes (I, IIa, IIb, III) with corresponding suggested wording, and levels of evidence A, B, C. The same levels-of-evidence table appears twice on the page."
   },
   "genes": []
 }

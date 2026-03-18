@@ -1,0 +1,44 @@
+{
+  "content": {
+    "source_note": "Page lists cardiac and non-cardiac causes relevant to elevated natriuretic peptides and other cardiac considerations. Contains Table 7 and abbreviation definitions.",
+    "Table_7_heading": "Cardiac and non-cardiac causes (excerpt)",
+    "Cardiac_causes": [
+      "Myocarditis",
+      "Left ventricular hypertrophy",
+      "Hypertrophic or restrictive cardiomyopathy",
+      "Valvular heart disease",
+      "Congenital heart disease",
+      "Atrial and ventricular tachyarrhythmias",
+      "Heart contusion",
+      "Cardioversion, ICD shock",
+      "Surgical procedures involving the heart",
+      "Pulmonary hypertension"
+    ],
+    "Non-cardiac_causes": [
+      "Advanced age",
+      "Ischaemic stroke",
+      "Subarachnoid haemorrhage",
+      "Renal dysfunction",
+      "Liver dysfunction (mainly liver cirrhosis with ascites)",
+      "Paraneoplastic syndrome",
+      "COPD",
+      "Severe infections (including pneumonia and sepsis)",
+      "Severe burns",
+      "Anaemia",
+      "Severe metabolic and hormone abnormalities (e.g. thyrotoxicosis, diabetic ketosis)"
+    ],
+    "Abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "COPD": "chronic obstructive pulmonary disease",
+      "ICD": "implantable cardioverter-defibrillator"
+    },
+    "Table_reference": "Table 7",
+    "Additional_section_heading": "Causes of elevated concentrations of natriuretic peptides",
+    "Causes_of_elevated_natriuretic_peptides_cardiac_examples": [
+      "Heart failure",
+      "ACS",
+      "Pulmonary embolism"
+    ]
+  },
+  "genes": []
+}

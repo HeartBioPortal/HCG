@@ -1,0 +1,45 @@
+{
+  "content": {
+    "Screening_and_Diuretics": {
+      "Screening": "Screening for and treatment of aetiologies, and CV and non-CV comorbidities is recommended in patients with HFpEF.",
+      "Diuretics": "Diuretics are recommended in congested patients with HFpEF to alleviate symptoms and signs."
+    },
+    "Prevention_of_chronic_HF": {
+      "Hypertension": "Treatment of hypertension is recommended to prevent or delay the onset of HF and to prevent HF hospitalizations.",
+      "Statins": "Treatment with statins is recommended in patients at high risk of CV disease or with CV disease to prevent or delay onset of HF and to prevent HF hospitalizations.",
+      "SGLT2_inhibitors": "SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, sotagliflozin) are recommended in patients with diabetes at high CV risk or with CV disease to prevent HF hospitalizations.",
+      "Lifestyle": "Counselling against sedentary behaviour, obesity, cigarette smoking, and alcohol abuse is recommended to prevent or delay onset of HF."
+    },
+    "Management_of_chronic_HF": {
+      "Multidisciplinary_programmes": "HF patients should be enrolled in multidisciplinary HF management programmes to reduce risk of HF hospitalization and mortality.",
+      "Self_management": "Self-management strategies are recommended to reduce the risk of HF hospitalization and mortality.",
+      "Home_or_clinic_programmes": "Home-based and/or clinic-based programmes improve outcomes and are recommended to reduce HF hospitalization and mortality.",
+      "Exercise": "Exercise is recommended for patients able to improve exercise capacity and quality of life and reduce HF hospitalization."
+    },
+    "Advanced_HF": {
+      "MCS_candidate_requirements": "Patients considered for long-term mechanical circulatory support (MCS) must have good compliance, capacity for device handling, and psychosocial support.",
+      "Heart_transplantation": "Heart transplantation is recommended for patients with advanced HF refractory to medical/device therapy who do not have absolute contraindications."
+    },
+    "Acute_HF": {
+      "Oxygen": "Oxygen is recommended when SpO2 <90% or PaO2 <60 mmHg to correct hypoxaemia.",
+      "Intubation": "Intubation is recommended for progressive respiratory failure despite oxygen or non-invasive ventilation.",
+      "IV_loop_diuretics": "Intravenous loop diuretics are recommended for all patients with acute HF with signs/symptoms of fluid overload to improve symptoms.",
+      "Thromboprophylaxis": "Thromboprophylaxis (e.g., LMWH) is recommended in patients not already anticoagulated and without contraindication to reduce risk of DVT and pulmonary embolism.",
+      "Inotropes": "Inotropic agents are not recommended routinely due to safety concerns, unless the patient has symptomatic hypotension and evidence of hypoperfusion.",
+      "Opioids": "Routine use of opioids is not recommended, except in selected patients with severe/intractable pain or anxiety.",
+      "IABP": "Intra-aortic balloon pump (IABP) is not routinely recommended in post-MI cardiogenic shock."
+    },
+    "Post_hospitalization_management": {
+      "Evaluation_before_discharge": "Patients hospitalized for HF should be carefully evaluated to exclude persistent signs of congestion before discharge and to optimize oral treatment.",
+      "Administer_evidence_based_treatment": "Recommended evidence-based oral medical treatment should be administered before discharge when possible.",
+      "Early_follow_up": "An early follow-up visit (1–2 weeks after discharge) is recommended to assess signs of congestion, drug tolerance, and to start/continue uptitration of therapy."
+    },
+    "HF_and_AF": {
+      "Anticoagulation": "Long-term oral anticoagulation is recommended in patients with AF, HF, and CHA2DS2-VASc score ≥2 in men or ≥3 in women.",
+      "DOACs_vs_VKAs": "DOACs are recommended in preference to VKAs for patients with HF, except in those with moderate/severe mitral stenosis or mechanical prosthetic valves.",
+      "Urgent_ECV": "Urgent electrical cardioversion (ECV) is recommended in acute worsening of HF with rapid ventricular rates and haemodynamic instability.",
+      "Antiarrhythmic_safety": "Certain anti-arrhythmic agents (flecainide, encainide, disopyramide, dronedarone, and D-sotalol) are not recommended due to safety concerns."
+    }
+  },
+  "genes": []
+}

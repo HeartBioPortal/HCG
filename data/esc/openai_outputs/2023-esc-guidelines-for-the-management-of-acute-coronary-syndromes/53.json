@@ -1,38 +1,26 @@
 {
   "content": {
-    "page_title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "header_note": "For ESC Guidelines: The report below lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2022.",
-    "date_on_page": "16/05/2023",
-    "page_number": "29/57",
-    "experts": [
-      {
-        "name": "Krychtiuk Konstantin A",
-        "declarations": {
-          "2022": "Membership or affiliation in political or advocacy groups working in the field of cardiology. ACC HeartPAC 2022 attendee"
-        }
-      },
-      {
-        "name": "Lakhal Zouhair",
-        "declarations": {
-          "2021": "Nothing to be declared",
-          "2022": "Nothing to be declared"
-        }
-      },
-      {
-        "name": "Lancellotti Patrizio",
-        "declarations": {
-          "2021": "Nothing to be declared",
-          "2022": "Nothing to be declared"
-        }
-      },
-      {
-        "name": "Landmesser Ulf",
-        "declarations": {
-          "2021": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Amgen: Speaker fee. Novartis: Speaker fee. Sanofi Aventis: Speaker fee. Bayer AG: Speaker fee. Research funding from healthcare industry under your direct/personal responsibility (to department or institution): Novartis: Lipid Cardio Study. Amgen: Research grant. Bayer AG: Research Grant.",
-          "2022": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Bayer AG: Chronic Heart Failure. Amgen: Risk Factors and Prevention. Novartis: Risk Factors and Prevention. Sanofi Aventis: Risk Factors and Prevention. Research funding from healthcare industry under your direct/personal responsibility (to department or institution): Bayer AG: COVID PREVENT Study support to institution, Principal Investigator. Novartis: Support of clinical study to institution, Principal investigator."
-        }
-      }
-    ]
+    "title": "Recommendations (selected highlights)",
+    "recommendations_antiplatelet_anticoagulant": "If patients presenting with ACS stop DAPT to undergo coronary artery bypass grafting, resume DAPT after surgery for at least 12 months. In older ACS patients, especially if high bleeding risk (HBR), clopidogrel as the P2Y12 receptor inhibitor may be considered.",
+    "recommendations_alternative_antithrombotic": "In patients event-free after 3-6 months of DAPT and who are not high ischemic risk, single antiplatelet therapy (preferably a P2Y12 receptor inhibitor) should be considered. P2Y12 receptor inhibitor monotherapy may be considered as an alternative to aspirin monotherapy for long-term treatment. In HBR patients, aspirin or P2Y12 receptor inhibitor monotherapy after 1 month of DAPT may be considered.",
+    "recommendations_cardiac_arrest": "Evaluate neurological prognosis (no earlier than 72 h after admission) in all comatose survivors after cardiac arrest. Transport of out-of-hospital cardiac arrest patients to a cardiac arrest centre according to local protocol should be considered.",
+    "recommendations_technical_invasive": "PCI recommended only for patients with spontaneous coronary artery dissection with ongoing ischemia/myocardial jeopardy. Intravascular imaging may be considered to guide PCI.",
+    "recommendations_multivessel_and_hemodynamically_stable_STEMI": "Staged PCI of non-IRA should be considered. Invasive functional assessment of non-culprit segments is not recommended during the index procedure.",
+    "recommendations_acute_coronary_complications": "Consider permanent pacemaker for high-degree AV block not resolving within at least 5 days after MI. Consider cardiac MRI for equivocal echocardiographic images or high suspicion of LV thrombus. Consider contrast echocardiography to detect LV thrombus if apex not well visualized.",
+    "recommendations_comorbid_conditions": "Base choice of long-term glucose-lowering treatment on comorbidities. For cancer patients, adopt individualized invasive strategy considering expected survival; avoid aspirin in cancer patients with platelet count <10,000/μL; clopidogrel not recommended if platelet count <30,000/μL.",
+    "recommendations_long_term_management": "Intensify lipid-lowering therapy during index ACS hospitalization for patients on lipid-lowering therapy before admission. Consider low-dose colchicine (0.5 mg once daily) in selected patients. Combination therapy with high-dose statin plus ezetimibe may be considered during index hospitalization.",
+    "recommendations_patient_perspectives": "Patient-centred care recommended, shared decision-making, use of decision aids considered. Provide patient discharge information in written and verbal formats and validate understanding."
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "Acute coronary syndrome (ACS)",
+        "Antiplatelet therapy decisions (DAPT, monotherapy)",
+        "High bleeding risk (HBR) patients"
+      ],
+      "Occurrences": 4,
+      "context": "The guideline repeatedly refers to P2Y12 receptor inhibitors (e.g., clopidogrel) as options for single antiplatelet therapy after DAPT, as alternatives to aspirin for long-term therapy, and specifically in older or HBR ACS patients."
+    }
+  ]
 }

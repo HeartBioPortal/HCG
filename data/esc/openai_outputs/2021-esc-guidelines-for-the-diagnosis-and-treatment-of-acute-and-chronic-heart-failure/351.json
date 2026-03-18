@@ -1,0 +1,59 @@
+{
+  "content": {
+    "medications": [
+      "Immune check point inhibitors",
+      "anthracyclines",
+      "clozapine",
+      "adrenergic drugs",
+      "5-fluorouracil"
+    ],
+    "other_agents": [
+      "Alcohol",
+      "amphetamines",
+      "cocaine"
+    ],
+    "abbreviations": {
+      "ANCA": "antineutrophil cytoplasmic antibody",
+      "CMV": "cytomegalovirus",
+      "HIV": "human immunodeficiency virus",
+      "SARS-CoV-2": "severe acute respiratory syndrome coronavirus 2",
+      "SLE": "systemic lupus erythematosus"
+    },
+    "summary_text": "The clinical presentation of acute myocarditis may vary from mild symptoms to cardiogenic shock. Workup for the diagnosis of acute myocarditis in patients with HF is reported in Table 31. Specific criteria about biopsies and CMR are reported in other tables.",
+    "definition_of_suspected_acute_myocarditis": "Clinical presentation plus ≥1 mandatory diagnostic test being positive (by preference CMR) in the absence of significant coronary artery, valvular or congenital heart disease, or other causes.",
+    "diagnostic_workup": {
+      "clinical_presentation": {
+        "description": "Acute/new onset chest pain, dyspnoea, signs of left and/or right HF, and/or unexplained arrhythmias or aborted sudden death.",
+        "sensitivity": "Low",
+        "specificity": "Low"
+      },
+      "mandatory_diagnostic_tests": {
+        "ECG": {
+          "findings": "New and dynamic ST-T abnormalities, including pseudo-infarct ST segment elevation, atrial or ventricular arrhythmias, AV blocks, QRS abnormalities.",
+          "sensitivity": "High",
+          "specificity": "Low"
+        },
+        "Laboratory tests": {
+          "findings": [
+            "Elevated troponins with dynamic changes consistent with myocardial necrosis.",
+            "Standard tests including white blood cell count to exclude eosinophilia."
+          ],
+          "sensitivity": "Intermediate",
+          "specificity": "Low"
+        },
+        "Echocardiography": {
+          "findings": "New structural or function abnormalities, regional wall motion abnormalities or global ventricular dysfunction without ventricular dilatation or with, generally mild, dilatation; increased wall thickness due to myocardial oedema, pericardial effusion, intracardiac thrombi, not explained by other conditions (e.g., CAD, ACS or valvular heart disease).",
+          "sensitivity": "High",
+          "specificity": "Low"
+        },
+        "CMR": {
+          "findings": "Oedema, inflammation and fibrosis detection, quantification and localization through T1 and T2 mapping, extracellular assessment.",
+          "sensitivity": "High",
+          "specificity": "Intermediate"
+        }
+      }
+    },
+    "references_and_notes": "Table 31 (Diagnostic workup in suspected acute myocarditis) referenced; specific biopsy and CMR criteria reported elsewhere in the guideline."
+  },
+  "genes": []
+}

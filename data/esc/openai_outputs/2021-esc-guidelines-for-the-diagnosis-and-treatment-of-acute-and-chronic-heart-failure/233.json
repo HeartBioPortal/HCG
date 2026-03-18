@@ -1,0 +1,84 @@
+{
+  "content": {
+    "exams": [
+      {
+        "Exam": "ECG",
+        "Time of measurement": "Admission, during hospitalization, pre-discharge",
+        "Possible findings": "Arrhythmias, myocardial ischaemia",
+        "Diagnostic value for AHF": "Exclusion of ACS or arrhythmias",
+        "Indication": "Recommended"
+      },
+      {
+        "Exam": "Chest-X ray",
+        "Time of measurement": "Admission, during hospitalization",
+        "Possible findings": "Congestion, lung infection",
+        "Diagnostic value for AHF": "Confirmatory",
+        "Indication": "May be considered"
+      },
+      {
+        "Exam": "LUS",
+        "Time of measurement": "Admission, during hospitalization, pre-discharge",
+        "Possible findings": "Congestion",
+        "Diagnostic value for AHF": "Confirmatory",
+        "Indication": "May be considered"
+      },
+      {
+        "Exam": "Echocardiography",
+        "Time of measurement": "Admission, during hospitalization, pre-discharge",
+        "Possible findings": "Congestion, cardiac dysfunction, mechanical causes",
+        "Diagnostic value for AHF": "Major",
+        "Indication": "Recommended"
+      },
+      {
+        "Exam": "Natriuretic peptides (BNP, NT-proBNP, MR-proANP)",
+        "Time of measurement": "Admission, pre-discharge",
+        "Possible findings": "Congestion",
+        "Diagnostic value for AHF": "High negative predictive value",
+        "Indication": "Should be considered"
+      },
+      {
+        "Exam": "Serum troponin",
+        "Time of measurement": "Admission",
+        "Possible findings": "Myocardial injury",
+        "Diagnostic value for AHF": "Exclusion of ACS",
+        "Indication": "Recommended"
+      },
+      {
+        "Exam": "Serum creatinine",
+        "Time of measurement": "Admission, during hospitalization, pre-discharge",
+        "Possible findings": "Renal dysfunction",
+        "Diagnostic value for AHF": "None",
+        "Indication": "Recommended for prognostic assessment"
+      },
+      {
+        "Exam": "Serum electrolytes (sodium, potassium, chloride)",
+        "Time of measurement": "Admission, during hospitalization, pre-discharge",
+        "Possible findings": "Electrolyte disorders",
+        "Diagnostic value for AHF": "None",
+        "Indication": "Recommended for prognostic assessment and treatment"
+      },
+      {
+        "Exam": "Iron status (transferrin, ferritin)",
+        "Time of measurement": "Pre-discharge",
+        "Possible findings": "Iron depletion",
+        "Diagnostic value for AHF": "None",
+        "Indication": "Recommended for prognostic assessment and treatment"
+      },
+      {
+        "Exam": "TSH",
+        "Time of measurement": "Admission",
+        "Possible findings": "Hypo-hyperthyroidism",
+        "Diagnostic value for AHF": "None",
+        "Indication": "Recommended when hypo-hyperthyroidism is suspected"
+      },
+      {
+        "Exam": "D-dimer",
+        "Time of measurement": "Admission",
+        "Possible findings": "Pulmonary embolism",
+        "Diagnostic value for AHF": "Useful to exclude pulmonary embolism",
+        "Indication": "Recommended when pulmonary embolism is suspected"
+      }
+    ]
+  },
+  "genes": []
+}

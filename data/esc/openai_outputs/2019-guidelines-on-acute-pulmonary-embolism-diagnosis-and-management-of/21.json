@@ -1,57 +1,33 @@
 {
   "content": {
-    "page_title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism - Reviewers",
-    "organization": "European Society of Cardiology (ESC) in collaboration with the European Respiratory Society (ERS)",
-    "note": "Declarations of interest reported to the ESC by experts during yearly call for declaration covering the previous calendar year (calls conducted up to and including 2018).",
-    "date_on_page": "21/08/2019",
-    "page_number": "21/62",
-    "experts": [
-      {
-        "name": "Carlsen Joern",
-        "type_of_relationship": "D - Research funding under your direct/personal responsibility (to department or institution) from healthcare industry",
-        "details": [
-          "Actelion : Pulmonary hypertension (2018)"
-        ]
+    "title": "Classes of recommendations",
+    "caption": "Table 1 (image shown twice); link text 'Open in new tab'",
+    "summary": "Defines recommendation classes (I, IIa, IIb, III) with suggested wording for guideline statements.",
+    "table": {
+      "Class I": {
+        "Definition": "Evidence and/or general agreement that a given treatment or procedure is beneficial, useful, effective.",
+        "Wording to use": "Is recommended or is indicated"
       },
-      {
-        "name": "De Carlo Marco",
-        "type_of_relationship": "1- Financial Declaration; A - Direct personal payment as it applies to you and your spouse/partner or any other member of your household, or any entity controlled directly or indirectly by any of above persons: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry",
-        "details": [
-          "Sanofi Aventis : alirocumab (2018)",
-          "Boehringer-Ingelheim : dabigatran (2018)",
-          "Volcano : iFR (2018)",
-          "Bayer AG : rivaroxaban (2018)"
-        ]
+      "Class II": {
+        "Definition": "Conflicting evidence and/or a divergence of opinion about the usefulness/efficacy of the given treatment or procedure.",
+        "Wording to use": null
       },
-      {
-        "name": "Delcroix Marion",
-        "type_of_relationship": "1- Financial Declaration; B - Payment to your department or institution or any other body like an association or similar for your personal services; D - Research funding under your direct/personal responsibility",
-        "details": [
-          "Actelion : pulmonary hypertension (2018)",
-          "MSD : pulmonary hypertension (2018)",
-          "Actelion : pulmonary hypertension (2018) (research funding)"
-        ]
+      "Class IIa": {
+        "Definition": "Weight of evidence/opinion is in favour of usefulness/efficacy.",
+        "Wording to use": "Should be considered"
       },
-      {
-        "name": "Delgado Victoria",
-        "type_of_relationship": "1- Financial Declaration; A - Direct personal payment as it applies to you and your spouse/partner or any other member of your household, or any entity controlled directly or indirectly by any of above persons: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry",
-        "details": [
-          "Abbott Vascular : Mitraclip (2018)"
-        ]
+      "Class IIb": {
+        "Definition": "Usefulness/efficacy is less well established by evidence/opinion.",
+        "Wording to use": "May be considered"
+      },
+      "Class III": {
+        "Definition": "Evidence or general agreement that the given treatment or procedure is not useful/effective, and in some cases may be harmful.",
+        "Wording to use": "Is not recommended"
       }
-    ],
-    "common_conditions_mentioned": [
-      "Pulmonary hypertension",
-      "Acute pulmonary embolism (guideline subject)"
-    ],
-    "companies_and_products_mentioned": [
-      "Actelion",
-      "Sanofi Aventis : alirocumab",
-      "Boehringer-Ingelheim : dabigatran",
-      "Volcano : iFR",
-      "Bayer AG : rivaroxaban",
-      "MSD",
-      "Abbott Vascular : Mitraclip"
+    },
+    "notes": [
+      "Graphic presents classes of recommendations and recommended wording for guideline text.",
+      "No specific interventions, diseases, or genes are named on the displayed table."
     ]
   },
   "genes": []

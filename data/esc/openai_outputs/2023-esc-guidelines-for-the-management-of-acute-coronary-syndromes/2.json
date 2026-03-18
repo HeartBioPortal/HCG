@@ -1,75 +1,55 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Task Force Members",
-    "header_note": "Report lists declarations of interest as reported to the ESC by experts during yearly call covering previous calendar year (calls conducted during period of development of these guidelines up to and including 2022).",
-    "date_on_page": "12/05/2023",
-    "page_number": "1/23",
-    "experts": [
+    "page_description": "Author listing with ORCID and links to search for other works",
+    "authors": [
       {
-        "name": "Barbato Emanuele",
-        "declarations": [
-          {
-            "year": 2020,
-            "relationship_summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies": [
-              "GE Healthcare",
-              "Abbott Vascular",
-              "Boston Scientific"
-            ],
-            "associated_conditions_or_topics": [
-              "Coronary physiology",
-              "Treatment of calcified coronary lesions"
-            ]
-          },
-          {
-            "year": 2021,
-            "relationship_summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies": [
-              "Boston Scientific",
-              "Abbott",
-              "Insight Lifetech"
-            ],
-            "associated_conditions_or_topics": [
-              "Complex PCI procedures",
-              "Coronary physiology"
-            ]
-          },
-          {
-            "year": 2022,
-            "relationship_summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies": [
-              "Boston Scientific",
-              "Insight Lifetech"
-            ],
-            "associated_conditions_or_topics": [
-              "Coronary Artery Disease (Chronic)",
-              "Chronic Coronary Syndromes (CCS)"
-            ]
-          }
+        "name": "Colin Berry",
+        "country": "United Kingdom",
+        "orcid": "https://orcid.org/0000-0002-4547-8636",
+        "search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
         ]
       },
       {
-        "name": "Berry Colin",
-        "declarations": [
-          {
-            "year": 2020,
-            "relationship_summary": "Payment from healthcare industry to department/institution or other body for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.; research funding to department/institution under direct/personal responsibility.",
-            "companies": [
-              "Menarini",
-              "Medyria",
-              "Astrazeneca",
-              "Abbott Vascular",
-              "HeartFlow",
-              "Boehringer Ingelheim",
-              "GSK"
-            ],
-            "associated_conditions_or_topics": [
-              "Ischaemic heart disease",
-              "Coronary physiology",
-              "Consultancy through University of Glasgow",
-              "Shares in Kvaatchi Health App (company not operational)"
-            ]
-          }
+        "name": "Alaide Chieffo",
+        "country": "Italy",
+        "orcid": "https://orcid.org/0000-0002-3505-9112",
+        "search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ]
+      },
+      {
+        "name": "Marc J Claeys",
+        "country": "Belgium",
+        "orcid": "https://orcid.org/0000-0002-6628-9543",
+        "search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ]
+      },
+      {
+        "name": "Gheorghe-Andrei Dan",
+        "country": "Romania",
+        "orcid": "https://orcid.org/0000-0001-9867-2582",
+        "search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ]
+      },
+      {
+        "name": "Marc R Dweck",
+        "country": "United Kingdom",
+        "orcid": "https://orcid.org/0000-0001-9847-5917",
+        "search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
         ]
       }
     ]

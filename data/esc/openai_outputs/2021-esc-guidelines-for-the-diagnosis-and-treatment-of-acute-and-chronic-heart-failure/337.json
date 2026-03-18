@@ -1,0 +1,26 @@
+{
+  "content": {
+    "Indication": "Consider when baseline clinical assessment suggests cardiac inflammation or storage disease not diagnosed by other means.",
+    "Therapeutic options": "Outlined; see references. Separate recommendations for patients with LVOTO and those symptomatic without LVOTO.",
+    "With LVOTO": "Avoid hypovolaemia, arterial/venous dilators and digoxin; use non-vasodilating beta-blockers or verapamil if beta-blockers not tolerated; cautious use of low-dose diuretics; consider invasive septal reduction (alcohol ablation or myomectomy) in experienced centres for resting or provoked LVOT gradient ≥50 mmHg and/or persistent symptoms (NYHA III/IV, syncope) despite OMT; novel drugs/devices may be considered when available.",
+    "Symptomatic without LVOTO": "Cautious low-dose diuretics avoiding hypovolaemia; verapamil/diltiazem if LVEF >50% and beta-blockers not tolerated/ineffective.",
+    "Indication to ICD": "Based on sudden cardiac death risk models; consider ICD if family history of sudden cardiac death in first-degree relatives under 40 or sudden cardiac death in first-degree relative with confirmed HCM at any age, NSVT, unexplained syncope, or other risk markers per guidelines.",
+    "Fabry disease": "Enzyme replacement therapy for alpha-galactosidase A deficiency mentioned.",
+    "Amyloidosis": "Referenced; see section 14.6 and Figure 21.",
+    "Abbreviations (selected visible)": "Includes BAG3 = Bcl2-associated athanogene 3; LMNA = lamin A/C; ECG, HCM, ICD, LGE, LVEF, LVOTO and others."
+  },
+  "genes": [
+    {
+      "Gene": "BAG3",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": "Appears in the abbreviation list at the bottom as 'BAG3 = Bcl2-associated athanogene 3'."
+    },
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": "Appears in the abbreviation list at the bottom as 'LMNA = lamin A/C'."
+    }
+  ]
+}

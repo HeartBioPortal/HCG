@@ -1,0 +1,155 @@
+{
+  "content": {
+    "source": "Reference list (excerpt) from clinical guideline page",
+    "notes": "References 873-881 listing randomized trials, meta-analyses, and major outcome studies focused on beta-blockers, ACE inhibitor (ramipril), and spironolactone in cardiovascular disease.",
+    "references": [
+      {
+        "number": 873,
+        "citation": "Chen ZM, Pan HC, Chen YP, Peto R, Collins R, Jiang LX, et al. Early intravenous then oral metoprolol in 45,852 patients with acute myocardial infarction: randomised placebo-controlled trial.",
+        "journal": "Lancet",
+        "year": 2005,
+        "volume_pages": "366:1622-1632",
+        "doi": "10.1016/S0140-6736(05)67661-1",
+        "key_topics": [
+          "metoprolol",
+          "beta-blocker",
+          "acute myocardial infarction",
+          "randomised placebo-controlled trial"
+        ],
+        "conditions": [
+          "acute myocardial infarction"
+        ]
+      },
+      {
+        "number": 874,
+        "citation": "Bangalore S, Makani H, Radford M, Thakur K, Toklu B, Katz SD, et al. Clinical outcomes with β-blockers for myocardial infarction: a meta-analysis of randomized trials.",
+        "journal": "American Journal of Medicine",
+        "year": 2014,
+        "volume_pages": "127:939-953",
+        "doi": "10.1016/j.amjmed.2014.05.032",
+        "key_topics": [
+          "beta-blockers",
+          "meta-analysis",
+          "myocardial infarction"
+        ],
+        "conditions": [
+          "myocardial infarction"
+        ]
+      },
+      {
+        "number": 875,
+        "citation": "Huang BT, Huang FY, Zuo ZL, Liao YB, Heng Y, Wang PJ, et al. Meta-analysis of relation between oral β-blocker therapy and outcomes in patients with acute myocardial infarction who underwent percutaneous coronary intervention.",
+        "journal": "American Journal of Cardiology",
+        "year": 2015,
+        "volume_pages": "115:1529-1538",
+        "doi": "10.1016/j.amjcard.2015.02.057",
+        "key_topics": [
+          "oral beta-blocker therapy",
+          "percutaneous coronary intervention (PCI)",
+          "meta-analysis"
+        ],
+        "conditions": [
+          "acute myocardial infarction",
+          "post-PCI patients"
+        ]
+      },
+      {
+        "number": 876,
+        "citation": "Goldberger JJ, Bonow RO, Cuffe M, Liu L, Rosenberg Y, Shah PK, et al. Effect of beta-blocker dose on survival after acute myocardial infarction.",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2015,
+        "volume_pages": "66:1431-1441",
+        "doi": "10.1016/j.jacc.2015.07.047",
+        "key_topics": [
+          "beta-blocker dose",
+          "survival",
+          "acute myocardial infarction"
+        ],
+        "conditions": [
+          "acute myocardial infarction"
+        ]
+      },
+      {
+        "number": 877,
+        "citation": "Andersson C, Shilane D, Go AS, Chang TI, Kazi D, Solomon MD, et al. β-blocker therapy and cardiac events among patients with newly diagnosed coronary heart disease.",
+        "journal": "Journal of the American College of Cardiology",
+        "year": 2014,
+        "volume_pages": "64:247-252",
+        "doi": "10.1016/j.jacc.2014.04.042",
+        "key_topics": [
+          "beta-blocker therapy",
+          "cardiac events",
+          "newly diagnosed coronary heart disease"
+        ],
+        "conditions": [
+          "coronary heart disease"
+        ]
+      },
+      {
+        "number": 878,
+        "citation": "Bangalore S, Steg G, Deedwania P, Crowley K, Eagle KA, Goto S, et al. β-blocker use and clinical outcomes in stable outpatients with and without coronary artery disease.",
+        "journal": "JAMA",
+        "year": 2012,
+        "volume_pages": "308:1340-1349",
+        "doi": "10.1001/jama.2012.12559",
+        "key_topics": [
+          "beta-blocker use",
+          "stable outpatients",
+          "clinical outcomes"
+        ],
+        "conditions": [
+          "stable coronary artery disease",
+          "patients without coronary artery disease (comparison)"
+        ]
+      },
+      {
+        "number": 879,
+        "citation": "Heart Outcomes Prevention Evaluation (HOPE) Study Investigators. Effects of ramipril on cardiovascular and microvascular outcomes in people with diabetes mellitus: results of the HOPE study and MICRO-HOPE substudy.",
+        "journal": "Lancet",
+        "year": 2000,
+        "volume_pages": "355:253-259",
+        "doi": "10.1016/S0140-6736(99)12323-7",
+        "key_topics": [
+          "ramipril",
+          "ACE inhibitor",
+          "cardiovascular outcomes",
+          "microvascular outcomes",
+          "diabetes mellitus"
+        ],
+        "conditions": [
+          "diabetes mellitus",
+          "cardiovascular disease"
+        ]
+      },
+      {
+        "number": 880,
+        "citation": "Pitt B, Zannad F, Remme WJ, Cody R, Castaigne A, Perez A, et al. The effect of spironolactone on morbidity and mortality in patients with severe heart failure.",
+        "journal": "New England Journal of Medicine",
+        "year": 1999,
+        "volume_pages": "341:709-717",
+        "doi": "10.1056/NEJM199909023411001",
+        "key_topics": [
+          "spironolactone",
+          "morbidity and mortality",
+          "severe heart failure"
+        ],
+        "conditions": [
+          "severe heart failure"
+        ]
+      },
+      {
+        "number": 881,
+        "citation": "Hirpa M, Woreta T, Addis H, Kebede S. What matters to patients? A timely question for value-based care.",
+        "journal": "PLoS One",
+        "year": 2020,
+        "volume_pages": "15:e0227845",
+        "key_topics": [
+          "patient-centered outcomes",
+          "value-based care"
+        ],
+        "conditions": []
+      }
+    ]
+  },
+  "genes": []
+}

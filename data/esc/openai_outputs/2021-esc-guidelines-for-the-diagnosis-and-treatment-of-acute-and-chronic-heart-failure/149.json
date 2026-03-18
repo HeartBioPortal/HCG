@@ -1,0 +1,30 @@
+{
+  "content": {
+    "section": "6.1.3 Patient selection for implantable cardioverter-defibrillator therapy",
+    "points": [
+      "Patients with HFrEF and QRS duration ≥130 ms can be considered for CRT with a defibrillator (CRT‑D) rather than ICD; see CRT section for details.",
+      "ICD therapy is not recommended in patients in NYHA class IV with severe symptoms refractory to pharmacological therapy who are not candidates for VAD or cardiac transplantation (limited life expectancy; likely to die from pump failure).",
+      "Patients with serious comorbidities unlikely to survive >1 year with good quality of life are unlikely to obtain substantial benefit from an ICD.",
+      "DANISH trial did not show significant benefit from ICD in NICM overall; however NICM is heterogeneous and subgroups (e.g., laminopathies, sarcoidosis) are at higher risk of sudden death and may merit careful consideration for ICD implantation.",
+      "Tools to help risk stratification (e.g., scar burden on MRI) can be helpful.",
+      "Patients should be counselled about purpose, complications, implications for driving, risk of inappropriate shocks, and circumstances under which defibrillator/CRT‑D component might be deactivated or explanted (terminal disease, infection, recovery of LV function).",
+      "Shared decision making recommended when ICD generator reaches end of life or requires explantation; careful evaluation by experienced cardiologist as treatment goals may have changed.",
+      "Controversy exists whether patients whose LVEF has greatly improved and who have not required device therapy during ICD lifetime should receive another device."
+    ],
+    "section_6.1.4_title": "6.1.4 Implantable cardioverter‑defibrillator programming",
+    "section_6.1.4_points": [
+      "Routine defibrillation threshold testing is no longer performed after ICD or CRT‑D implantation as it does not improve shock efficacy or reduce arrhythmic death.",
+      "Conservative programming with long delays between detection and therapy delivery reduces risk of inappropriate and unnecessary shocks.",
+      "For primary prevention, defibrillators are generally programmed to minimize pacing (e.g., VVI at 40/min) and to have a tachycardia treatment zone >200/min.",
+      "Programming should be adapted to patient’s specific needs, particularly for secondary prevention."
+    ],
+    "section_6.1.5_title": "6.1.5 Subcutaneous and wearable implantable cardioverter‑defibrillators",
+    "section_6.1.5_points": [
+      "Subcutaneous ICDs (S‑ICDs) appear as effective as transvenous ICDs with similar complication rates; early higher risk of inappropriate shocks improved with better patient selection.",
+      "S‑ICDs are non‑inferior to transvenous ICDs in some analyses and may be preferred for patients with difficult venous access or those requiring ICD explantation due to infection.",
+      "S‑ICDs cannot treat bradyarrhythmia (except post‑shock pacing), cannot deliver anti‑tachycardia pacing or CRT; careful patient selection required.",
+      "Substantial randomized trial data and long‑term safety/efficacy data are still awaited."
+    ]
+  },
+  "genes": []
+}

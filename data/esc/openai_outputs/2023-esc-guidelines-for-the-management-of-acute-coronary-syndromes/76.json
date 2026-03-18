@@ -1,114 +1,26 @@
 {
   "content": {
-    "document_title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "note": "Declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering previous calendar year (calls conducted during development period up to and including 2022).",
-    "experts": [
-      {
-        "name": "Storey Robert",
-        "year": 2022,
-        "relationship_type": "Direct personal payment from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-        "companies_and_areas": [
-          {
-            "company": "Astrazeneca",
-            "area": "Acute Coronary Syndromes"
-          },
-          {
-            "company": "Idorsia",
-            "area": "Acute Coronary Syndromes"
-          },
-          {
-            "company": "PhaseBio",
-            "area": "Acute Coronary Syndromes"
-          },
-          {
-            "company": "Daiichi Sankyo",
-            "area": "Atrial Fibrillation (AF)"
-          },
-          {
-            "company": "Bristol Myers Squibb/Pfizer",
-            "area": "Atrial Fibrillation (AF)"
-          },
-          {
-            "company": "Cytosorbents",
-            "area": "Cardiovascular Surgery"
-          },
-          {
-            "company": "Chiesi Pharma",
-            "area": "Interventional Cardiology"
-          },
-          {
-            "company": "Novartis",
-            "area": "Risk Factors and Prevention"
-          },
-          {
-            "company": "Sanofi Aventis",
-            "area": "Risk Factors and Prevention"
-          },
-          {
-            "company": "Alnylam",
-            "area": "Risk Factors and Prevention"
-          },
-          {
-            "company": "CSL Behring",
-            "area": "Risk Factors and Prevention"
-          }
-        ],
-        "research_funding_under_responsibility": [
-          {
-            "company": "Astrazeneca",
-            "area": "Acute coronary syndromes, Chief investigator"
-          },
-          {
-            "company": "Cytosorbents",
-            "area": "Ticagrelor removal in cardiac surgery, Chief investigator"
-          }
-        ]
-      },
-      {
-        "name": "Studencan Martin",
-        "declarations": [
-          {
-            "year": 2021,
-            "statement": "Nothing to be declared"
-          },
-          {
-            "year": 2022,
-            "statement": "Nothing to be declared"
-          }
-        ]
-      },
-      {
-        "name": "ten Berg Jurrien M",
-        "year": 2021,
-        "relationship_type": "Direct personal payment from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-        "companies_and_areas": [
-          {
-            "company": "Astra Zeneca",
-            "area": "ACS"
-          },
-          {
-            "company": "Boehringer-Ingelheim",
-            "area": "ACS"
-          },
-          {
-            "company": "Ferrer Internacional",
-            "area": "ACS"
-          },
-          {
-            "company": "Bayer",
-            "area": "AF"
-          },
-          {
-            "company": "Pfizer",
-            "area": "AF"
-          }
-        ]
-      }
+    "title": "3.3.4.1. European Society of Cardiology 0 h/1 h and 0 h/2 h algorithms",
+    "summary": "The ESC 0 h/1 h and 0 h/2 h algorithms are based on two underlying concepts: (1) hs-cTn is a continuous variable and the probability of myocardial infarction (MI) increases with increasing hs-cTn values; (2) early absolute changes in hs-cTn levels within 1 or 2 h can be used as surrogates for absolute changes over 3 or 6 h and provide incremental diagnostic value to the single cTn assessment at presentation. Cut-off concentrations within the 0 h/1 h and 0 h/2 h algorithms are assay specific.",
+    "key_points": [
+      "Concept 1: hs-cTn is continuous and MI probability rises with higher hs-cTn.",
+      "Concept 2: Early absolute changes within 1 or 2 hours act as surrogates for longer (3 or 6 h) changes and add diagnostic value.",
+      "Cut-offs are assay specific (refer to supplementary data and table S4)."
     ],
-    "footer": {
-      "date": "16/05/2023",
-      "page": "52/57"
-    }
+    "rule-out": {
+      "npv": "The NPV for MI in patients assigned to the rule-out pathway has exceeded 99% in several large validation cohorts.",
+      "notes": "Assignment to the rule-out pathway does not always equal outpatient management. When used with clinical and ECG findings, the 0 h/1 h and 0 h/2 h algorithms help identify appropriate candidates for early discharge and outpatient management. Even after ruling out MI, elective non-invasive or invasive imaging may be appropriate according to clinical and risk assessment, and an alternative diagnosis to MI should be identified."
+    },
+    "rule-in": {
+      "ppv": "The PPV for MI in patients meeting the rule-in pathway criteria in several studies has been approximately 75%.",
+      "notes": "Most rule-in pathway patients with diagnoses other than MI still have conditions requiring specialist cardiology input and either coronary angiography or non-invasive imaging to establish an accurate final diagnosis. The vast majority of patients triaged towards the rule-in pathway will require hospital admission and invasive coronary angiography (ICA)."
+    },
+    "observe": {
+      "definition": "Patients who do not qualify for rule-out or rule-in are assigned to the observe pathway.",
+      "risk": "These patients are a heterogeneous group and have mortality comparable to rule-in patients.",
+      "management_recommendations": "Individual assessment based on risk profile is paramount. A third measurement of cTn at 3 h and echocardiography is recommended as the next step to guide further management. Patients in the observe zone with high clinical suspicion of ACS (e.g., relevant increase in cTn from presentation to 3 h) are candidates for ICA. Patients with low-to-intermediate likelihood may be candidates for non-invasive imaging after transfer from ED to ward. CT angiography can aid diagnosis and identify patients with non-obstructed coronary arteries who may be discharged if other relevant diseases are excluded."
+    },
+    "references_note": "Multiple supporting references cited throughout (reference numbers shown in original text)."
   },
   "genes": []
 }

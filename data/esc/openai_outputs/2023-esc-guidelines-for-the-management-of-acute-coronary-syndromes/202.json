@@ -1,0 +1,57 @@
+{
+  "content": {
+    "title": "ESC 2023 Recommendations — ACS with Cardiogenic Shock (excerpt)",
+    "recommendations": [
+      {
+        "recommendation": "Immediate coronary angiography and PCI of the IRA (if indicated) is recommended in patients with CS complicating ACS.",
+        "class": "I",
+        "level": "B",
+        "notes": "First-line reperfusion strategy for ACS with cardiogenic shock; PCI of infarct-related artery (IRA)."
+      },
+      {
+        "recommendation": "Emergency CABG is recommended for ACS-related CS if PCI of the IRA is not feasible/unsuccessful.",
+        "class": "I",
+        "level": "B",
+        "notes": "Coronary artery bypass grafting (CABG) as alternative when PCI not possible or fails."
+      },
+      {
+        "recommendation": "In cases of haemodynamic instability, emergency surgical/catheter-based repair of mechanical complications of ACS is recommended, based on Heart Team discussion.",
+        "class": "I",
+        "level": "C",
+        "notes": "Repair of mechanical complications (surgical or catheter-based) guided by Heart Team."
+      },
+      {
+        "recommendation": "Fibrinolysis should be considered in STEMI patients presenting with CS if a PPCI strategy is not available within 120 min from the time of STEMI diagnosis and mechanical complications have been ruled out.",
+        "class": "IIa",
+        "level": "C",
+        "notes": "Consider fibrinolysis when timely primary PCI (PPCI) cannot be delivered; ensure no mechanical complications."
+      },
+      {
+        "recommendation": "In patients with ACS and severe/refractory CS, short-term mechanical circulatory support may be considered.",
+        "class": "IIb",
+        "level": "C",
+        "notes": "Consider short-term MCS for severe or refractory cardiogenic shock."
+      },
+      {
+        "recommendation": "The routine use of an IABP in ACS patients with CS and without mechanical complications is not recommended.",
+        "class": "III",
+        "level": "B",
+        "notes": "Intra-aortic balloon pump (IABP) not routinely recommended in ACS with CS absent mechanical complications."
+      }
+    ],
+    "abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "CABG": "coronary artery bypass grafting",
+      "CS": "cardiogenic shock",
+      "IABP": "intra-aortic balloon pump",
+      "IRA": "infarct-related artery",
+      "PPCI": "primary percutaneous coronary intervention",
+      "STEMI": "ST-elevation myocardial infarction"
+    },
+    "footnotes": {
+      "class_definition": "Class of recommendation",
+      "level_definition": "Level of evidence"
+    }
+  },
+  "genes": []
+}

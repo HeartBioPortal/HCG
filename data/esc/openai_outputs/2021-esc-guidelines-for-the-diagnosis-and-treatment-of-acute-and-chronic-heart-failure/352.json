@@ -1,0 +1,51 @@
+{
+  "content": {
+    "additional_diagnostic_tests": [
+      {
+        "test": "Coronary angiography or CTCA",
+        "purpose": "Excludes significant CAD or ACS in clinically suspected myocarditis.",
+        "sensitivity": "High",
+        "specificity": "High"
+      },
+      {
+        "test": "Endomyocardial biopsy",
+        "purpose": "For diagnosis and indication to specific treatment (see Table 32).",
+        "sensitivity": "Intermediate",
+        "specificity": "High"
+      },
+      {
+        "test": "Cardiac PET",
+        "purpose": "May be useful in patients who cannot undergo CMR or with suspected systemic autoimmune disease or cardiac sarcoidosis.",
+        "sensitivity": "Low",
+        "specificity": "Low"
+      },
+      {
+        "test": "Laboratory panel (skeletal muscle enzymes, liver and renal function, natriuretic peptides, thyroid function tests, iron status, markers of systemic autoimmune disease)",
+        "purpose": "Assess comorbidities and alternative causes.",
+        "sensitivity": "Low",
+        "specificity": "Low"
+      },
+      {
+        "test": "CRP",
+        "purpose": "CRP elevated in 80–90% patients.",
+        "sensitivity": "Intermediate",
+        "specificity": "Low"
+      }
+    ],
+    "additional_laboratory_test": [
+      "PCR testing of common cardiotropic viruses: can detect systemic infection but does not prove cardiac infection and cannot substitute viral genome analysis on EMB samples.",
+      "Circulating IgG antibodies to cardiotropic viruses: common in the absence of viral myocarditis; very limited diagnostic usefulness.",
+      "Specific tests for SARS-CoV-2, Borrelia, HIV or CMV if clinical suspicion."
+    ],
+    "definition_of_suspected_acute_myocarditis": "Clinical presentation + at least 1 mandatory diagnostic test being positive (by preference CMR) in the absence of significant coronary artery, valvular or congenital heart disease, or other causes.",
+    "clinical_presentation": "Acute/new onset chest pain, dyspnoea, signs of left and/or right heart failure, and/or unexplained arrhythmias or aborted sudden death.",
+    "mandatory_diagnostic_tests": {
+      "ECG": {
+        "findings": "New and dynamic ST-T abnormalities, including pseudo-infarct ST segment elevation, atrial or ventricular arrhythmias, AV blocks, QRS abnormalities.",
+        "sensitivity": "High",
+        "specificity": "Low"
+      }
+    }
+  },
+  "genes": []
+}

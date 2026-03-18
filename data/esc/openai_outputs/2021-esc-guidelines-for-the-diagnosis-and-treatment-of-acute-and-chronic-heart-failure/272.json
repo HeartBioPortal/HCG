@@ -1,0 +1,58 @@
+{
+  "content": {
+    "title": "Recommendations (excerpt)",
+    "source": "ESC 2021 (image)",
+    "sections": {
+      "Anticoagulation": [
+        {
+          "recommendation": "Long-term treatment with an oral anticoagulant is recommended in all patients with AF, HF, and CHA2DS2-VASc score ≥2 in men or ≥3 in women.",
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "recommendation": "DOACs are recommended in preference to VKAs in patients with HF, except in those with moderate or severe mitral stenosis or mechanical prosthetic heart valves.",
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "recommendation": "Long-term treatment with an oral anticoagulant should be considered for stroke prevention in AF patients with a CHA2DS2-VASc score of 1 in men or 2 in women.",
+          "class": "IIa",
+          "level": "B"
+        }
+      ],
+      "Rate control": [
+        {
+          "recommendation": "Beta-blockers should be considered for short- and long-term rate control in patients with HF and AF.",
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "recommendation": "Digoxin should be considered when the ventricular rate remains high, despite beta-blockers, or when beta-blockers are contraindicated or not tolerated.",
+          "class": "IIa",
+          "level": "C"
+        }
+      ],
+      "Cardioversion": [
+        {
+          "recommendation": "Urgent ECV is recommended in the setting of acute worsening of HF in patients presenting with rapid ventricular rates and haemodynamic instability.",
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "recommendation": "Cardioversion may be considered in patients in whom there is an association between AF and worsening of HF symptoms despite optimal medical treatment.",
+          "class": "IIb",
+          "level": "B"
+        }
+      ],
+      "AF catheter ablation": [
+        {
+          "recommendation": "In cases of a clear association between paroxysmal or persistent AF and worsening of HF symptoms, which persist despite MT, catheter ablation should be considered for the prevention or treatment of AF.",
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    "notes": "Abbreviations in page: AF = atrial fibrillation; HF = heart failure; CHA2DS2-VASc = stroke risk score; DOACs = direct oral anticoagulants; VKAs = vitamin K antagonists; ECV = electrical cardioversion; MT = medical therapy."
+  },
+  "genes": []
+}

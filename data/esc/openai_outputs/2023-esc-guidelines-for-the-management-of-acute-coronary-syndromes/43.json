@@ -1,81 +1,26 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "document_date": "16/05/2023",
-    "page": "19/57",
-    "expert": "Geisler Tobias",
-    "year_reported": 2021,
-    "relationships": [
-      {
-        "description": "Direct personal payment from healthcare industry",
-        "details": "speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc."
-      },
-      {
-        "company": "Bristol Myers Squibb",
-        "activities": [
-          "Anticoagulation",
-          "atrial fibrillation",
-          "vascular disease",
-          "Speaker Fees",
-          "Honoraria",
-          "Anticoagulation, ESUS"
-        ]
-      },
-      {
-        "company": "Bayer AG",
-        "activities": [
-          "Anticoagulation",
-          "atrial fibrillation",
-          "vascular disease",
-          "Anticoagulation, vascular protection (research funding)"
-        ]
-      },
-      {
-        "company": "Ferrer Internacional",
-        "activities": [
-          "Antiplatelet therapy",
-          "acute coronary syndrome"
-        ]
-      },
-      {
-        "company": "Medtronic",
-        "activities": [
-          "Valvular disease",
-          "TAVR",
-          "Atrial fibrillation",
-          "ESUS"
-        ]
-      },
-      {
-        "company": "Edwards Lifesciences",
-        "activities": [
-          "Valvular Heart Disease",
-          "Mitral and Tricuspid intervention"
-        ]
-      },
-      {
-        "description": "Payment from healthcare industry to department or institution for personal services",
-        "details": "speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc."
-      },
-      {
-        "company": "Medtronic Foundation",
-        "activities": [
-          "Travel Fees Implanters Meeting"
-        ]
-      },
-      {
-        "company": "Astra Zeneca",
-        "activities": [
-          "Antiplatelet therapy"
-        ]
-      },
-      {
-        "company": "Thieme Verlag",
-        "activities": [
-          "Editorial Board"
-        ]
-      }
-    ]
+    "page_title": "2. Introduction",
+    "summary": "Major aspects of management of patients with acute coronary syndromes (ACS) from the European Society of Cardiology (ESC) guideline are summarized. The page provides an overview of levels of evidence, a central illustration (Figure 1), common abbreviations, and guidance on initial assessment and triage for suspected ACS.",
+    "level_of_evidence": {
+      "A": "Data derived from multiple randomized clinical trials or meta-analyses.",
+      "B": "Data derived from a single randomized clinical trial or large non-randomized studies.",
+      "C": "Consensus of opinion of the experts and/or small studies, retrospective studies, registries."
+    },
+    "abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "CABG": "coronary artery bypass grafting",
+      "ECG": "electrocardiogram",
+      "LMWH": "low molecular-weight heparin",
+      "NSTE-ACS": "non-ST-elevation acute coronary syndrome",
+      "PCI": "percutaneous coronary intervention",
+      "PPCI": "primary percutaneous coronary intervention",
+      "STEMI": "ST-elevation myocardial infarction",
+      "UFH": "unfractionated heparin"
+    },
+    "initial_assessment_and_triage": "If ACS is suspected, perform initial triage and assessment including an electrocardiogram (ECG) to assess for abnormalities or evidence of ischaemia, targeted clinical history to assess context of presentation, and targeted clinical examination to assess clinical and haemodynamic stability. Based on initial assessment, decide whether immediate invasive management is required.",
+    "management_note": "Patients with ST-elevation myocardial infarction (STEMI) require primary percutaneous coronary intervention (PPCI) when indicated.",
+    "figure_reference": "Figure 1: Central illustration summarizing major aspects of ACS management (referenced in text)."
   },
   "genes": []
 }

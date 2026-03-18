@@ -1,40 +1,19 @@
 {
   "content": {
-    "title": "Clinical Practice Guidelines Committee 2020-2022",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "For ESC Guidelines: The report below lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2020.",
-    "date_on_page": "09/08/2021",
-    "columns": [
-      "Expert",
-      "Type of Relationship with Industry"
-    ],
-    "experts": [
-      {
-        "name": "Antoniou Sotiris",
-        "year": 2020,
-        "declaration": "Research funding from healthcare industry under your direct/personal responsibility (to department or institution). - Astra Zeneca : Joint working initiative on improving CV care. Other Positions of Influence: Membership or affiliation in political, advocacy or patients organisations working in the field of cardiology. - Member of Arrhythmia alliance medical advisory panel."
+    "page_title": "Heart failure: RV dysfunction and terminology",
+    "summary": "Discussion of right ventricular (RV) dysfunction as a cause of heart failure, common terminology for heart failure presentations (chronic HF (CHF) and acute HF (AHF)), causes that may recover (e.g., alcohol-induced cardiomyopathy, viral myocarditis, Takotsubo, PPCM), and New York Heart Association (NYHA) functional classification with classes I–IV.",
+    "sections": {
+      "RV_dysfunction": "Heart failure can also be a result of right ventricular (RV) dysfunction. RV mechanics and function are altered in the setting of either pressure or volume overload. Although the main aetiology of chronic RV failure is LV dysfunction-induced pulmonary hypertension, there are other causes of RV dysfunction (e.g., MI, arrhythmogenic right ventricular cardiomyopathy (ARVC), or valve disease). Diagnosis is by quantitative assessment of global RV function, most commonly by echocardiography using measurements such as fractional area change (FAC), tricuspid annular plane systolic excursion (TAPSE), and Doppler tissue imaging-derived systolic S' velocity of the tricuspid annulus. Management of RV dysfunction is covered in HFA position paper.",
+      "3.2.3_other_common_terminology_used_in_heart_failure": "Heart failure is usually divided into chronic heart failure (CHF) and acute heart failure (AHF). CHF describes those with an established diagnosis or gradual onset of symptoms. If CHF deteriorates suddenly or slowly, it may be described as decompensated HF, which can result in hospital admission or treatment with intravenous diuretics. Some individuals may recover completely (e.g., alcohol-induced cardiomyopathy, viral myocarditis, Takotsubo syndrome, peripartum cardiomyopathy (PPCM), or tachycardiomyopathy). Patients with LV systolic dysfunction may show substantial or complete recovery after drug and device therapy.",
+      "3.2.4_terminology_related_to_symptomatic_severity_of_heart_failure": "Severity of HF is often described using the New York Heart Association (NYHA) functional classification, which relies on symptoms. Patients with mild symptoms may still have high risk of hospitalization and death. Predicting outcome is important in advanced HF for selection of cardiac transplantation and device therapies.",
+      "NYHA_classification_table": {
+        "Class I": "No limitation of physical activity. Ordinary physical activity does not cause undue breathlessness, fatigue, or palpitations.",
+        "Class II": "Slight limitation of physical activity. Comfortable at rest, but ordinary physical activity results in undue breathlessness, fatigue, or palpitations.",
+        "Class III": "Marked limitation of physical activity. Comfortable at rest, but less than ordinary activity results undue breathlessness, fatigue, or palpitations.",
+        "Class IV": "Unable to carry on any physical activity without discomfort. Symptoms at rest can be present. If any physical activity is undertaken, discomfort is increased."
       },
-      {
-        "name": "Arbelo Elena",
-        "year": 2020,
-        "declaration": "Financial Declaration. Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. - Biosense Webster : Atrial fibrillation."
-      },
-      {
-        "name": "Asteggiano Riccardo",
-        "year": 2020,
-        "declaration": "Financial Declaration. Receipt of royalties for intellectual property. - Springer Nature Switzerland AG, : IB323946 Royalties Earned Current Period Royalties Due 1: Cardiac Management of Oncology Patients Edition 1 266979."
-      },
-      {
-        "name": "Baigent Colin",
-        "year": 2020,
-        "declaration": "Financial Declaration. Research funding from healthcare industry under your direct/personal responsibility (to department or institution). - Boehringer-Ingelheim : Cardiovascular and renal disease."
-      },
-      {
-        "name": "Baumbach Andreas",
-        "year": 2020,
-        "declaration": "Financial Declaration. Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. - Astra Zeneca : Pharmacology."
-      }
-    ]
+      "references_notes": "The text refers to several numbered references and HFA position papers for detailed guidance and diagnostic/management recommendations."
+    }
   },
   "genes": []
 }

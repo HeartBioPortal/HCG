@@ -1,0 +1,176 @@
+{
+  "content": {
+    "Therapeutic options": "HF treatment for HFrEF (see sections 5 and 6). Competitive sports should be avoided, limit activities to leisure-time activities. In patients with ventricular arrhythmias: beta-blockers must be titrated to the maximally tolerated dose as first-line therapy. Amiodarone can be considered in addition to beta-blockers or if beta-blockers contraindicated or not tolerated; ICD implantation is indicated if history of aborted sudden cardiac death or sustained and/or haemodynamically poorly tolerated ventricular tachycardia. In patients with no ventricular arrhythmias: ICD can be considered (see section 6.1) even in patients with LMNA or FLNC gene mutations and LVEF <45%.",
+    "Abbreviations and gene list (excerpt)": "The page lists multiple genes and abbreviations relevant to cardiomyopathy: BAG3 (Bcl2-associated athanogene 3); DSC2 (desmocollin 2); DSG2 (desmoglein 2); DSP (desmoplakin); FLNC (filamin C); JUP (junction plakoglobin); KCNH2 (potassium voltage-gated channel subfamily H member 2); KCNQ1 (potassium voltage-gated channel subfamily Q member 1); LDB3 (LIM domain binding 3); LMNA (lamin A/C); NKX2-5 (NK2 transcription factor related, locus 5); PLN (phospholamban); PKP2 (plakophilin 2); RBM20 (ribonucleic acid binding motif 20); SCN5A (sodium channel alpha subunit 5); TMEM43 (transmembrane protein 43); TNNT2 (troponin-T); TRPM4 (transient receptor potential cation channel subfamily M member 4).",
+    "Definition": "Inherited heart muscle disease characterized by progressive fibrofatty replacement of the RV myocardium which may act as a substrate for ventricular arrhythmias, unexplained syncope and/or sudden cardiac death. LV involvement and systolic dysfunction occurs in >30% of AC patients; phenotype may overlap with DCM.",
+    "Diagnosis": "Based upon evaluation of a combination of genetic factors (most cases autosomal dominant desmosomal mutations), documentation of ventricular arrhythmias and imaging criteria (echocardiography and MRI) of RV dysplasia with fibrofatty replacement either or not confirmed by EMB. Specific ECG abnormalities can be present or absent."
+  },
+  "genes": [
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [
+        "Arrhythmogenic cardiomyopathy",
+        "Dilated cardiomyopathy",
+        "Ventricular arrhythmias",
+        "Risk of sudden cardiac death"
+      ],
+      "Occurrences": 2,
+      "context": "Mentioned in therapeutic options: 'ICD can be considered even in patients with LMNA or FLNC gene mutations and LVEF <45%.' Also listed in the gene/abbreviations section as lamin A/C."
+    },
+    {
+      "Gene": "FLNC",
+      "Associated Conditions": [
+        "Arrhythmogenic cardiomyopathy",
+        "Dilated cardiomyopathy",
+        "Ventricular arrhythmias"
+      ],
+      "Occurrences": 2,
+      "context": "Referenced in therapeutic options with LMNA regarding ICD consideration; also listed in abbreviations as filamin C (FLNC)."
+    },
+    {
+      "Gene": "BAG3",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy",
+        "Cardiomyopathy-related heart failure"
+      ],
+      "Occurrences": 1,
+      "context": "Listed in the abbreviations block as 'BAG3 = Bcl2-associated athanogene 3' among genes linked to cardiomyopathy."
+    },
+    {
+      "Gene": "DSC2",
+      "Associated Conditions": [
+        "Arrhythmogenic cardiomyopathy",
+        "Desmosomal cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Appears in the gene list as 'DSC2 = desmocollin 2', a desmosomal gene implicated in arrhythmogenic cardiomyopathy."
+    },
+    {
+      "Gene": "DSG2",
+      "Associated Conditions": [
+        "Arrhythmogenic cardiomyopathy",
+        "Desmosomal cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Listed in the abbreviations as 'DSG2 = desmoglein 2' among desmosomal genes associated with AC."
+    },
+    {
+      "Gene": "DSP",
+      "Associated Conditions": [
+        "Arrhythmogenic cardiomyopathy",
+        "Desmosomal cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Included in the abbreviations as 'DSP = desmoplakin', a desmosomal protein linked to arrhythmogenic cardiomyopathy."
+    },
+    {
+      "Gene": "JUP",
+      "Associated Conditions": [
+        "Arrhythmogenic cardiomyopathy",
+        "Desmosomal cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Listed as 'JUP = junction plakoglobin' in the gene/abbreviation section, a desmosomal component associated with AC."
+    },
+    {
+      "Gene": "KCNH2",
+      "Associated Conditions": [
+        "Cardiac arrhythmias",
+        "Channelopathy-associated arrhythmia risk"
+      ],
+      "Occurrences": 1,
+      "context": "Appears in the abbreviations as 'KCNH2 = potassium voltage-gated channel subfamily H member 2', included among genes relevant to arrhythmia/cardiac risk."
+    },
+    {
+      "Gene": "KCNQ1",
+      "Associated Conditions": [
+        "Cardiac arrhythmias",
+        "Channelopathy-associated arrhythmia risk"
+      ],
+      "Occurrences": 1,
+      "context": "Shown in the gene list as 'KCNQ1 = potassium voltage-gated channel subfamily Q member 1', a channel gene linked to arrhythmia susceptibility."
+    },
+    {
+      "Gene": "LDB3",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy",
+        "Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Present in the abbreviations as 'LDB3 = LIM domain binding 3', listed among cardiomyopathy-associated genes."
+    },
+    {
+      "Gene": "NKX2-5",
+      "Associated Conditions": [
+        "Congenital heart disease",
+        "Arrhythmias",
+        "Cardiac transcription factor-related disease"
+      ],
+      "Occurrences": 1,
+      "context": "Listed as 'NKX2-5 = NK2 transcription factor related, locus 5' in the gene list; a cardiac transcription factor implicated in structural and conduction disorders."
+    },
+    {
+      "Gene": "PLN",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy",
+        "Arrhythmogenic cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Included in abbreviations as 'PLN = phospholamban', a gene known to be associated with cardiomyopathy phenotypes listed on the page."
+    },
+    {
+      "Gene": "PKP2",
+      "Associated Conditions": [
+        "Arrhythmogenic cardiomyopathy",
+        "Desmosomal cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Presented in the abbreviations as 'PKP2 = plakophilin 2', a common desmosomal gene in AC."
+    },
+    {
+      "Gene": "RBM20",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Shown in the list as 'RBM20 = ribonucleic acid binding motif 20', a gene linked to DCM."
+    },
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "Cardiac arrhythmias",
+        "Channelopathy",
+        "Conduction disease"
+      ],
+      "Occurrences": 1,
+      "context": "Listed as 'SCN5A = sodium channel alpha subunit 5' in the abbreviations, relevant to arrhythmia risk discussed on the page."
+    },
+    {
+      "Gene": "TMEM43",
+      "Associated Conditions": [
+        "Arrhythmogenic cardiomyopathy",
+        "Desmosomal/structural cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Included in the gene list as 'TMEM43 = transmembrane protein 43', a gene associated with ARVC/AC phenotypes."
+    },
+    {
+      "Gene": "TNNT2",
+      "Associated Conditions": [
+        "Cardiomyopathy",
+        "Dilated and hypertrophic cardiomyopathies"
+      ],
+      "Occurrences": 1,
+      "context": "Appears in the abbreviations as 'TNNT2 = troponin-T', a sarcomeric gene associated with cardiomyopathy."
+    },
+    {
+      "Gene": "TRPM4",
+      "Associated Conditions": [
+        "Conduction disease",
+        "Cardiac arrhythmias"
+      ],
+      "Occurrences": 1,
+      "context": "Listed as 'TRPM4 = transient receptor potential cation channel subfamily M member 4' among genes relevant to cardiac conduction and arrhythmia risk."
+    }
+  ]
+}

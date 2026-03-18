@@ -1,0 +1,46 @@
+{
+  "content": {
+    "title": "Diagnosis and treatment of cardiac amyloidosis in heart failure patients",
+    "figure_summary": "Flowchart for suspected cardiac amyloidosis: suspect if HF with LV wall thickness ≥12 mm and age ≥65 or red flag. Initial tests include serum free light-chain assay and serum/urine protein electrophoresis with immunofixation, and 99mTc‑PYP, DPD or HMDP scintigraphy with SPECT. Branching based on haematology results and scintigraphy grade leads to CMR imaging, histological confirmation or genetic counselling and treatment pathways (including tafamidis for ATTR).",
+    "diagnostic_tests": [
+      "Serum free light-chain assay",
+      "Serum and urine protein electrophoresis with immunofixation",
+      "99mTc‑PYP, DPD or HMDP scintigraphy with SPECT",
+      "Cardiac magnetic resonance imaging (CMR)",
+      "Histological confirmation (often endomyocardial biopsy)"
+    ],
+    "diagnostic_pathways": [
+      "Both abnormal haematology tests → cardiac amyloidosis on CMR imaging → histological confirmation to subtype (usually cardiac biopsy).",
+      "Abnormal haematology but no myocardial uptake on scintigraphy → amyloidosis unlikely if CMR negative.",
+      "Normal haematology with Grade 1 uptake → CMR recommended; if positive, histological confirmation may be required (cardiac or extracardiac biopsy).",
+      "Normal haematology with Grade 2–3 uptake → ATTR likely → genetic counselling and consider therapy (tafamidis); consider patisiran or inotersen if hereditary ATTR with polyneuropathy.",
+      "All normal → amyloidosis unlikely."
+    ],
+    "treatment_recommendations": [
+      "ATTR: tafamidis (Class I) recommended; consider transthyretin gene–targeting therapies (patisiran, inotersen) for hereditary ATTR with polyneuropathy.",
+      "AL‑CA: treat underlying haematological disease with chemotherapy or autologous stem-cell transplant.",
+      "Management of heart-failure symptoms: maintain euvolaemia, use loop diuretics (± MRA) cautiously due to reduced ventricular capacitance and orthostatic hypotension.",
+      "Arrhythmia/anticoagulation: patients with cardiac amyloidosis and history of AF should receive anticoagulation; amiodarone is preferred antiarrhythmic."
+    ],
+    "cautions_and_contraindications": [
+      "ACE inhibitors, ARBs, ARNI, beta‑blockers and digitalis may be poorly tolerated due to hypotension; withdrawal may be necessary.",
+      "Calcium-channel blockers should be avoided as they may cause severe hypotension and fatigue or form complexes with amyloid."
+    ],
+    "notes": [
+      "Red flags and specific biopsy recommendations are referenced (table and footnotes in original guideline).",
+      "99mTc‑PYP is technetium‑labelled 99mTc‑pyrophosphate; DPD = 3,3‑diphosphono‑1,2‑propanodicarboxylic acid; HMDP = hydroxymethylene diphosphonate.",
+      "Genetic counselling is recommended when ATTR is suspected to determine hereditary vs wild‑type transthyretin involvement."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "TTR",
+      "Associated Conditions": [
+        "ATTR (transthyretin) amyloidosis",
+        "Hereditary transthyretin amyloidosis with polyneuropathy"
+      ],
+      "Occurrences": 2,
+      "context": "Page refers to 'ATTR transthyretin amyloidosis' in the figure and discusses genetic counselling and therapies (tafamidis; patisiran/inotersen for hereditary ATTR)."
+    }
+  ]
+}

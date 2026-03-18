@@ -1,0 +1,27 @@
+{
+  "content": {
+    "page_title": "10.2. Patients with multivessel coronary artery disease undergoing primary percutaneous coronary intervention",
+    "summary_10.2": "Multivessel disease is evident in approximately half of patients undergoing PPCI and is associated with an adverse prognosis. Over the past decade, randomized clinical trials (RCTs) support preventive revascularization of non-infarct-related artery (non-IRA) after successful PPCI of the IRA.",
+    "key_trials": [
+      "PRAMI (Preventive Angioplasty in Myocardial Infarction)",
+      "CvLPRIT (Complete versus Lesion-only Primary PCI Trial)",
+      "DANAMI-3-PRIMULTI (Third Danish Study of Optimal Acute Treatment of Patients with ST-Segment Elevation Myocardial Infarction — Primary PCI in Multivessel Disease)",
+      "COMPARE-ACUTE (Comparison Between FFR Guided Revascularization Versus Conventional Strategy in Acute STEMI Patients With MVD)",
+      "COMPLETE (Complete vs. Culprit-only Revascularization to Treat Multivessel Disease After Early PCI for STEMI)"
+    ],
+    "systematic_review_findings": {
+      "number_of_trials": 10,
+      "number_of_patients": 7030,
+      "outcomes": [
+        "Complete revascularization associated with reduced cardiovascular (CV) mortality compared with IRA-only PCI",
+        "All-cause mortality comparable between groups",
+        "Complete revascularization associated with reduced composite of CV death or new myocardial infarction (MI)"
+      ],
+      "support_for_recommendation": "Findings support consideration of complete revascularization in patients with STEMI and multivessel disease (MVD)."
+    },
+    "section_10.3_title": "10.3. Timing of non-infarct-related artery revascularization in acute coronary syndrome",
+    "section_10.3_10.3.1_summary": "Previous ESC STEMI Guidelines recommended performing non-IRA PCI during the index procedure. The COMPLETE trial evaluated timing: among patients randomized to complete revascularization, non-IRA PCI was performed either during hospitalization (67% of cases) or after discharge (33%), at a mean of 23 days after discharge but always within 45 days.",
+    "other_notes": "Further details on trials and evidence are provided in supplementary online evidence tables referenced in the guideline."
+  },
+  "genes": []
+}

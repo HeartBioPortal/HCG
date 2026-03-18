@@ -1,0 +1,27 @@
+{
+  "content": {
+    "page_title": "Special patient subsets / Long-term treatment / Patient perspectives / Quality indicators",
+    "sections": {
+      "Special patient subsets": {
+        "Chronic kidney disease": "Moderate to severe CKD is present in >30% of ACS patients. These patients receive less interventional and pharmacological treatment and have worse prognosis vs patients with normal kidney function. Recommendation: apply same diagnostic and therapeutic strategies as for patients with normal kidney function (dose adjustment may be necessary).",
+        "Older adults": "In general, older adults should undergo the same diagnostic and treatment strategies, including invasive angiography and revascularization, as younger patients.",
+        "Patients with cancer": "Management of ACS in patients with cancer is challenging due to frailty, increased bleeding risk, thrombocytopaenia, and increased thrombotic risk. An invasive strategy is recommended for cancer patients presenting with high-risk ACS with expected survival ≥6 months. A conservative non-invasive strategy should be considered for ACS patients with poor cancer prognosis (expected survival <6 months) and/or very high bleeding risk."
+      },
+      "Long-term treatment": {
+        "Secondary prevention": "Secondary prevention after ACS should be offered to every patient and start as early as possible after the index event. Includes cardiac rehabilitation, lifestyle management, and pharmacological treatment; shown to increase quality of life and decrease morbidity and mortality."
+      },
+      "Patient perspectives": {
+        "Key messages": "Timely diagnosis and treatment of ACS rely on comprehensive assessment of symptoms. Incomplete history or poorly elicited symptoms can cause delay or misdiagnosis. Patient-centered care is recommended, considering physical, emotional, and psychological needs. Care should be respectful and responsive to patient preferences, needs, and values; include patients in decision-making and start discharge planning on admission. Use teach-back and appropriate educational materials integrated into care pathway."
+      },
+      "Quality indicators": {
+        "Purpose": "Acute coronary syndrome quality indicators (QIs) aim to audit practice and improve clinical outcomes in real-life patients by demonstrating the gap between optimal guideline-based treatment and actual care of ACS patients."
+      }
+    },
+    "notable_statistics": {
+      "CKD_prevalence_in_ACS": ">30%",
+      "cancer_survival_threshold_for_invasive_strategy": ">=6 months",
+      "cancer_survival_threshold_for_conservative_strategy": "<6 months"
+    }
+  },
+  "genes": []
+}

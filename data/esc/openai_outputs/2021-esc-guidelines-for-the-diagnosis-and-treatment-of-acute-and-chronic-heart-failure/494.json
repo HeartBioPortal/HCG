@@ -1,0 +1,128 @@
+{
+  "content": {
+    "page_summary": "Reference list (entries 856-865) from a clinical guideline on cardio-oncology and cardiotoxicity, covering mechanistic links between cancer and heart failure, epidemiology, cardio-oncology service organization, anthracycline- and trastuzumab-related cardiotoxicity, and randomized trials for prevention of cancer therapy–related cardiac dysfunction.",
+    "references": {
+      "856": {
+        "authors": "de Boer RA, Hulot JS, Tocchetti CG, Aboumsallem JP, Ameri P, Anker SD, Bauersachs J, Bertero E, Coats AJS, Celutkiene J, Chioncel O, Dodion P, Eschenhagen T, Farmakis D, Bayes-Genis A, Jager D, Jankowska EA, Kitsis RN, Konety SH, Larkin J, Lehmann L, Lenihan DJ, Maack C, Moslehi JJ, Muller OJ, Nowak-Sliwinska P, Piepoli MF, Ponikowski P, Pudil R, Rainer PP, Ruschitzka F, Sawyer D, Seferovic PM, Suter T, Thum T, van der Meer P, Van Laake LW, von Haehling S, Heymans S, Lyon AR, Backs J",
+        "title": "Common mechanistic pathways in cancer and heart failure. A scientific roadmap on behalf of the Translational Research Committee of the Heart Failure Association (HFA) of the European Society of Cardiology (ESC)",
+        "journal": "Eur J Heart Fail",
+        "year": 2020,
+        "pages": "22:2272-2289",
+        "topics": [
+          "mechanistic links between cancer and heart failure",
+          "translational research roadmap"
+        ]
+      },
+      "857": {
+        "authors": "Selvaraj S, Bhatt DL, Claggett B, Djousse L, Shah SJ, Chen J, Imran TF, Qazi S, Sesso HD, Gaziano JM, Schrag D",
+        "title": "Lack of association between heart failure and incident cancer",
+        "journal": "J Am Coll Cardiol",
+        "year": 2018,
+        "pages": "71:1501-1510",
+        "topics": [
+          "epidemiology",
+          "association between heart failure and incident cancer"
+        ]
+      },
+      "858": {
+        "authors": "Meijers WC, Maglione M, Bakker SJL, Oberhuber R, Kieneker LM, de Jong S, Haubner BJ, Nagengast WB, Lyon AR, van der Vegt B, van Veldhuisen DJ, Westenbrink BD, van der Meer P, Sillje HHW, de Boer RA",
+        "title": "Heart failure stimulates tumor growth by circulating factors",
+        "journal": "Circulation",
+        "year": 2018,
+        "pages": "138:678-691",
+        "topics": [
+          "mechanistic study",
+          "tumor growth stimulated by heart failure–derived circulating factors"
+        ]
+      },
+      "859": {
+        "authors": "Lancellotti P, Suter TM, Lopez-Fernandez T, Galderisi M, Lyon AR, Van der Meer P, Cohen Solal A, Zamorano JL, Jerusalem G, Moonen M, Aboyans V, Bax JJ, Asteggiano R",
+        "title": "Cardio-oncology services: rationale, organization, and implementation",
+        "journal": "Eur Heart J",
+        "year": 2019,
+        "pages": "40:1756-1763",
+        "topics": [
+          "service organization",
+          "cardio-oncology program implementation"
+        ]
+      },
+      "860": {
+        "authors": "Farmakis D, Keramida K, Filippatos G",
+        "title": "How to build a cardio-oncology service?",
+        "journal": "Eur J Heart Fail",
+        "year": 2018,
+        "pages": "20:1732-1734",
+        "topics": [
+          "practical guidance",
+          "establishing cardio-oncology services"
+        ]
+      },
+      "861": {
+        "authors": "Cardinale D, Colombo A, Lamantia G, Colombo N, Civelli M, De Giacomi G, Rubino M, Veglia F, Fiorentini C, Cipolla CM",
+        "title": "Anthracycline-induced cardiomyopathy: clinical relevance and response to pharmacologic therapy",
+        "journal": "J Am Coll Cardiol",
+        "year": 2010,
+        "pages": "55:213-220",
+        "topics": [
+          "anthracycline-induced cardiomyopathy",
+          "clinical relevance and pharmacologic therapy response"
+        ]
+      },
+      "862": {
+        "authors": "Cardinale D, Colombo A, Bacchiani G, Tedeschi I, Meroni CA, Veglia F, Civelli M, Lamantia G, Colombo N, Curigliano G, Fiorentini C, Cipolla CM",
+        "title": "Early detection of anthracycline cardiotoxicity and improvement with heart failure therapy",
+        "journal": "Circulation",
+        "year": 2015,
+        "pages": "131:1981-1988",
+        "topics": [
+          "early detection",
+          "anthracycline cardiotoxicity",
+          "benefit of heart failure therapy"
+        ]
+      },
+      "863": {
+        "authors": "Gulati G, Heck SL, Ree AH, Hoffmann P, Schulz-Menger J, Fagerland MW, Gravdehaug B, von Knobelsdorff-Brenkenhoff F, Bratland A, Storas TH, Hagve TA, Rosjo H, Steine K, Geisler J, Omland T",
+        "title": "Prevention of cardiac dysfunction during adjuvant breast cancer therapy (PRADA): a 2 x 2 factorial, randomized, placebo-controlled, double-blind clinical trial of candesartan and metoprolol",
+        "journal": "Eur Heart J",
+        "year": 2016,
+        "pages": "37:1671-1680",
+        "topics": [
+          "randomized trial",
+          "prevention of cardiac dysfunction",
+          "candesartan and metoprolol"
+        ]
+      },
+      "864": {
+        "authors": "Pituskin E, Mackey JR, Koshman S, Jassal D, Pitz M, Haykowsky MJ, Pagano JJ, Chow K, Thompson RB, Vos LJ, Ghosh S, Oudit GY, Ezekowitz JA, Paterson DI",
+        "title": "Multidisciplinary approach to novel therapies in cardio-oncology research (MANTICORE 101-Breast): a randomized trial for the prevention of trastuzumab-associated cardiotoxicity",
+        "journal": "J Clin Oncol",
+        "year": 2017,
+        "pages": "35:870-877",
+        "topics": [
+          "randomized trial",
+          "trastuzumab-associated cardiotoxicity prevention",
+          "MANTICORE 101-Breast"
+        ]
+      },
+      "865": {
+        "authors": "Celutkiene J, Pudil R, Lopez-Fernandez T, Grapsa J, Nihoyannopoulos P, Bergler-Klein J, Cohen-Solal A, Farmakis D, Tocchetti CG, von Haehling S, Barberis V, Flachskampf FA, Ceponiene I, Haegler-Laube E, Suter T",
+        "title": "Reference entry truncated on page (continues beyond image)",
+        "journal": null,
+        "year": null,
+        "pages": null,
+        "topics": [
+          "cardio-oncology related authorship and content (entry truncated)"
+        ]
+      }
+    },
+    "key_topics_extracted": [
+      "mechanistic overlap between cancer and heart failure",
+      "epidemiology of heart failure and cancer incidence",
+      "tumor growth promoted by heart failure–related circulating factors",
+      "organization and implementation of cardio-oncology services",
+      "anthracycline-induced cardiomyopathy: detection and treatment",
+      "prevention trials for cancer therapy–related cardiac dysfunction (candesartan, metoprolol, trastuzumab prevention)"
+    ]
+  },
+  "genes": []
+}

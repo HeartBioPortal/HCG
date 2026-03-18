@@ -1,111 +1,37 @@
 {
   "content": {
-    "title": "ESC Committee for Practice Guidelines 2018-2020",
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year. Calls for declaration conducted during the period of development of these guidelines up to and including 2018.",
-    "date_on_page": "21/08/2019",
-    "page_number": "54/62",
-    "table_columns": [
-      "Expert",
-      "Type of Relationship with Industry"
+    "definitions": {
+      "HIV": "human immunodeficiency virus",
+      "OR": "odds ratio",
+      "VTE": "venous thromboembolism",
+      "PE": "pulmonary embolism"
+    },
+    "top_bullet_risk_factors": [
+      "Obesity",
+      "Pregnancy",
+      "Varicose veins"
     ],
-    "experts": [
-      {
-        "name": "Leclercq Christophe",
-        "declaration_type": "D - Research funding under your direct/personal responsibility (to department or institution) from healthcare industry",
-        "details": [
-          "Biotronik: devices (2017)"
-        ],
-        "companies": [
-          {
-            "company": "Biotronik",
-            "products_or_areas": "devices",
-            "years": "2017"
-          }
-        ]
-      },
-      {
-        "name": "Lettino Maddalena",
-        "declaration_type": "1- Financial Declaration; A - Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.) from healthcare industry",
-        "details": [
-          "Daiichi Sankyo: Antithrombotic agents, anticoagulants (2017)",
-          "Bristol Myers Squibb: Antithrombotic agents, anticoagulants (2017)",
-          "Amgen: Lipid lowering drugs (2017)",
-          "Pfizer: Anticoagulants (2017-2018)",
-          "Bayer Healthcare: Antithrombotic agents, anticoagulants (2017-2018)",
-          "Sanofi Aventis: Antithrombotic agents, anticoagulants, lipid lowering drugs (2017-2018)",
-          "AstraZeneca: Antithrombotic agents, statins (2017-2018)",
-          "Daiichi Sankyo: Anticoagulants (2018)"
-        ],
-        "companies": [
-          {
-            "company": "Daiichi Sankyo",
-            "products_or_areas": "Antithrombotic agents, anticoagulants",
-            "years": "2017, 2018"
-          },
-          {
-            "company": "Bristol Myers Squibb",
-            "products_or_areas": "Antithrombotic agents, anticoagulants",
-            "years": "2017"
-          },
-          {
-            "company": "Amgen",
-            "products_or_areas": "Lipid lowering drugs",
-            "years": "2017"
-          },
-          {
-            "company": "Pfizer",
-            "products_or_areas": "Anticoagulants",
-            "years": "2017-2018"
-          },
-          {
-            "company": "Bayer Healthcare",
-            "products_or_areas": "Antithrombotic agents, anticoagulants",
-            "years": "2017-2018"
-          },
-          {
-            "company": "Sanofi Aventis",
-            "products_or_areas": "Antithrombotic agents, anticoagulants, lipid lowering drugs",
-            "years": "2017-2018"
-          },
-          {
-            "company": "AstraZeneca",
-            "products_or_areas": "Antithrombotic agents, statins",
-            "years": "2017-2018"
-          }
-        ]
-      },
-      {
-        "name": "Lewis Basil S",
-        "declaration_type": "1- Financial Declaration; A - Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.) from healthcare industry",
-        "details": [
-          "Pfizer: Antithrombotics (2017-2018)",
-          "Merck Sharp & Dohme: Heart failure (2017-2018)",
-          "AstraZeneca: Diabetes (2018)",
-          "CSL Behring: Lipidology, Secondary prevention (2018)"
-        ],
-        "companies": [
-          {
-            "company": "Pfizer",
-            "products_or_areas": "Antithrombotics",
-            "years": "2017-2018"
-          },
-          {
-            "company": "Merck Sharp & Dohme",
-            "products_or_areas": "Heart failure",
-            "years": "2017-2018"
-          },
-          {
-            "company": "AstraZeneca",
-            "products_or_areas": "Diabetes",
-            "years": "2018"
-          },
-          {
-            "company": "CSL Behring",
-            "products_or_areas": "Lipidology, Secondary prevention",
-            "years": "2018"
-          }
-        ]
-      }
+    "major_triggering_factors": [
+      "Major trauma",
+      "Surgery",
+      "Lower-limb fractures and joint replacements",
+      "Spinal cord injury"
+    ],
+    "cancer_note": "Cancer is a well-recognized predisposing factor for VTE. Risk varies by cancer type; pancreatic cancer, haematological malignancies, lung cancer, gastric cancer, and brain cancer carry the highest risk. Cancer is also a strong risk factor for all-cause mortality following an episode of VTE.",
+    "figure_1": {
+      "caption": "Trends in annual incidence rates (left panel) and case fatality rates (right panel) of pulmonary embolism around the world, based on data from various references. Reproduced with permission from JACC 2016;67:976-90.",
+      "notes": "PE listed as principal diagnosis. Any listed code for PE was considered."
+    },
+    "oral_contraceptives_and_vte": {
+      "summary": "Oestrogen-containing oral contraceptive agents are associated with an elevated VTE risk; contraceptive use is the most frequent VTE risk factor in women of reproductive age.",
+      "magnitude": "Combined oral contraceptives (containing both an oestrogen and a progestogen) are associated with an approximately two- to six-fold increase in VTE risk over baseline.",
+      "population_impact": "Absolute VTE risk remains low in the majority of the >100 million combined oral contraceptive users worldwide.",
+      "generation_effects": "Third-generation combined oral contraceptives (containing progestogens such as desogestrel or gestodene) are associated with a higher VTE risk than second-generation combined oral contraceptives (which contain progestogens such as levonorgestrel or norgestrel).",
+      "other_methods": "Hormone-releasing intrauterine devices and some progesterone-only pills (used at contraceptive doses) are not associated with a significant increase in VTE risk."
+    },
+    "thrombophilia_note": "VTE risk factors, including severe inherited thrombophilia (discussed in section 8), increase VTE risk.",
+    "references_mentioned": [
+      "Various numbered references cited throughout (e.g., 5,6,11,14,23-29,30-38)."
     ]
   },
   "genes": []

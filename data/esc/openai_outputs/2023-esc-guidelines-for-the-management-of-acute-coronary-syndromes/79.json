@@ -1,119 +1,29 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "For ESC Guidelines: The report below lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2022.",
-    "table_header": [
-      "Expert",
-      "Type of Relationship with Industry"
+    "summary": "Cardiac magnetic resonance (CMR) provides direct visualization of infarcted regions, information on scarring and viability, and can differentiate myocardial infarction from other myocardial injury (e.g. myocarditis). CMR is valuable for diagnosing AMI when uncertainty exists, identifying culprit vascular territory, confirming myocarditis or takotsubo cardiomyopathy, and is the gold standard for assessment of left ventricular (LV) thrombus. CMR can also assess myocardial perfusion with pharmacological stress and may be used as an alternative to coronary CT angiography (CCTA) in the observe zone after ECG and high-sensitivity cardiac troponin (hs-cTn) assessments, particularly in patients with advanced/established coronary artery disease (CAD). Additional information on CMR, single-photon emission computerized tomography (SPECT) perfusion imaging and stress echocardiography is provided in the supplementary data online.",
+    "imaging_modalities_list": [
+      "Cardiac magnetic resonance (CMR)",
+      "Coronary CT angiography (CCTA)",
+      "Single-photon emission computerized tomography (SPECT) perfusion imaging",
+      "Stress echocardiography",
+      "Nuclear stress imaging",
+      "Electrocardiography (ECG)"
     ],
-    "disclosures_summary": "Research funding from healthcare industry under your direct/personal responsibility (to department or institution).",
-    "disclosures": [
-      {
-        "company": "Boehringer-Ingelheim",
-        "relationship": "Educational Grant, None"
-      },
-      {
-        "company": "Bristol Myers Squibb",
-        "relationship": "Educational Grant, None"
-      },
-      {
-        "company": "V-Wave",
-        "relationship": "Sponsored studies (Patient fee), None"
-      },
-      {
-        "company": "Novartis",
-        "relationship": "Sponsored studies (Patient fee), Educational Grant, Principal Investigator"
-      },
-      {
-        "company": "Idorsia",
-        "relationship": "Sponsored studies (Patient fee), None"
-      },
-      {
-        "company": "CSL Behring",
-        "relationship": "Sponsored studies (Patient fee), Principal investigator"
-      },
-      {
-        "company": "Abiomed",
-        "relationship": "Sponsored studies (Patient fee), Principal Investigator"
-      },
-      {
-        "company": "Amgen",
-        "relationship": "Educational Grant, None"
-      },
-      {
-        "company": "Astra Zeneca",
-        "relationship": "Educational Grant, None"
-      },
-      {
-        "company": "Daiichi Sankyo",
-        "relationship": "Educational Grant, None"
-      },
-      {
-        "company": "B.Braun",
-        "relationship": "Educational Grant, None"
-      },
-      {
-        "company": "Bayer AG",
-        "relationship": "Educational Grant, None"
-      },
-      {
-        "company": "Fumedica",
-        "relationship": "Educational Grant, None"
-      },
-      {
-        "company": "Cordis Medical",
-        "relationship": "Educational Grant, None"
-      },
-      {
-        "company": "Novo Nordisk",
-        "relationship": "Educational Grant, None"
-      },
-      {
-        "company": "Pfizer",
-        "relationship": "Funding for IIT, Educational Grant, None"
-      },
-      {
-        "company": "Regeneron",
-        "relationship": "Funding for IIT, None"
-      },
-      {
-        "company": "Guerbet AG",
-        "relationship": "Funding for IIT, None"
-      },
-      {
-        "company": "Boston Scientific",
-        "relationship": "Funding for IIT, Sponsored studies (Patient fee), Educational Grant, None"
-      },
-      {
-        "company": "Biotronik",
-        "relationship": "Funding for IIT, Sponsored studies (Patient fee), Educational Grant, None"
-      },
-      {
-        "company": "Sanofi Aventis",
-        "relationship": "Funding for IIT, Sponsored studies (Patient fee), Educational Grant, None"
-      },
-      {
-        "company": "Johnson & Johnson",
-        "relationship": "Funding for IIT, Sponsored studies (Patient fee), Educational Grant, None"
-      },
-      {
-        "company": "Edwards Lifesciences",
-        "relationship": "Funding for IIT, Sponsored studies (Patient fee), Educational Grant, Principal Investigator"
-      },
-      {
-        "company": "Medtronic",
-        "relationship": "Funding for IIT, Sponsored studies (Patient fee), Educational Grant, Principal Investigator"
-      },
-      {
-        "company": "Farapulse Inc",
-        "relationship": "Funding for IIT, Sponsored studies (Patient fee), None"
-      }
+    "clinical_indications_and_points": [
+      "CMR for direct visualization of infarcted myocardium, scarring, and viability",
+      "CMR helpful when there is diagnostic uncertainty in suspected AMI",
+      "CMR can identify culprit vascular territory and help confirm myocarditis or takotsubo cardiomyopathy",
+      "CMR is gold standard for assessment of LV thrombus",
+      "CMR can assess myocardial perfusion with pharmacological stress",
+      "CMR may be used as an alternative to CCTA in the observe zone after ECG and hs-cTn evaluation, especially in patients with advanced CAD",
+      "Local expertise and availability determine choice of stress imaging modality (SPECT, nuclear, stress echo, etc.)"
     ],
-    "page_metadata": {
-      "date": "16/05/2023",
-      "page": "55/57"
-    }
+    "biomarkers_and_tests_mentioned": [
+      "ECG",
+      "hs-cTn (high-sensitivity cardiac troponin)"
+    ],
+    "supplementary_and_recommendations": "Supplementary data online contains additional information on CMR, SPECT perfusion imaging and stress echocardiography. See Recommendation Table 2 for recommendations on non-invasive imaging in the initial assessment of patients with suspected acute coronary syndrome.",
+    "note_on_availability": "Depending on local expertise and availability, other forms of stress imaging (SPECT, nuclear, stress echo) can be used to assess patients in the observe zone."
   },
   "genes": []
 }

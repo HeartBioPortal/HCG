@@ -1,0 +1,105 @@
+{
+  "content": {
+    "page_title": "References (selected items 529-536)",
+    "notes": "Reference list entries from a clinical guideline page related to coronary revascularization and myocardial infarction with/without obstructive coronary artery disease.",
+    "references": [
+      {
+        "id": 529,
+        "citation": "Harskamp RE, Bonatti JO, Zhao DX, Puskas JD, de Winter RJ, Alexander JH, et al. Standardizing definitions for hybrid coronary revascularization.",
+        "journal": "J Thorac Cardiovasc Surg",
+        "year": 2014,
+        "pages": "147:556-560",
+        "doi": "10.1016/j.jtcvs.2013.10.019",
+        "links": [
+          "https://doi.org/10.1016/j.jtcvs.2013.10.019"
+        ],
+        "topic": "hybrid coronary revascularization; standardizing definitions"
+      },
+      {
+        "id": 530,
+        "citation": "Doenst T, Haverich A, Serruys P, Bonow RO, Kappetein P, Falk V, et al. PCI and CABG for treating stable coronary artery disease: JACC review topic of the week.",
+        "journal": "J Am Coll Cardiol",
+        "year": 2019,
+        "pages": "73:964-976",
+        "doi": "10.1016/j.jacc.2018.11.053",
+        "links": [
+          "https://doi.org/10.1016/j.jacc.2018.11.053"
+        ],
+        "topic": "PCI vs CABG for stable coronary artery disease"
+      },
+      {
+        "id": 531,
+        "citation": "Gershlick AH, Khan JN, Kelly DJ, Greenwood JP, Sasikaran T, Curzen N, et al. Randomized trial of complete versus lesion-only revascularization in patients undergoing primary percutaneous coronary intervention for STEMI and multivessel disease: the CvLPRIT trial.",
+        "journal": "J Am Coll Cardiol",
+        "year": 2015,
+        "pages": "65:963-972",
+        "doi": "10.1016/j.jacc.2014.12.038",
+        "links": [
+          "https://doi.org/10.1016/j.jacc.2014.12.038"
+        ],
+        "topic": "complete vs lesion-only revascularization in STEMI (CvLPRIT)"
+      },
+      {
+        "id": 532,
+        "citation": "Layland J, Oldroyd KG, Curzen N, Sood A, Balachandran K, Das R, et al. Fractional flow reserve vs. angiography in guiding management to optimize outcomes in non-ST-segment elevation myocardial infarction: the British Heart Foundation FAMOUS-NSTEMI randomized trial.",
+        "journal": "Eur Heart J",
+        "year": 2015,
+        "pages": "36:100-111",
+        "doi": "10.1093/eurheartj/ehu338",
+        "links": [
+          "https://doi.org/10.1093/eurheartj/ehu338"
+        ],
+        "topic": "FFR vs angiography in NSTEMI (FAMOUS-NSTEMI)"
+      },
+      {
+        "id": 533,
+        "citation": "Pasupathy S, Air T, Dreyer RP, Tavella R, Beltrame JF. Systematic review of patients presenting with suspected myocardial infarction and nonobstructive coronary arteries.",
+        "journal": "Circulation",
+        "year": 2015,
+        "pages": "131:861-870",
+        "doi": "10.1161/circulationaha.114.011201",
+        "links": [
+          "https://doi.org/10.1161/circulationaha.114.011201"
+        ],
+        "topic": "MI with nonobstructive coronary arteries (systematic review)"
+      },
+      {
+        "id": 534,
+        "citation": "Agewall S, Beltrame JF, Reynolds HR, Niessner A, Rosano G, Caforio ALP, et al. ESC working group position paper on myocardial infarction with non-obstructive coronary arteries.",
+        "journal": "Eur Heart J",
+        "year": 2017,
+        "pages": "38:143-153",
+        "doi": "10.1093/eurheartj/ehw149",
+        "links": [
+          "https://doi.org/10.1093/eurheartj/ehw149"
+        ],
+        "topic": "Position paper on MINOCA (myocardial infarction with non-obstructive coronary arteries)"
+      },
+      {
+        "id": 535,
+        "citation": "Tamis-Holland JE, Jneid H, Reynolds HR, Agewall S, Brilakis ES, Brown TM, et al. Contemporary diagnosis and management of patients with myocardial infarction in the absence of obstructive coronary artery disease: a scientific statement from the American Heart Association.",
+        "journal": "Circulation",
+        "year": 2019,
+        "pages": "139:e891-e908",
+        "doi": "10.1161/cir.0000000000000670",
+        "links": [
+          "https://doi.org/10.1161/cir.0000000000000670"
+        ],
+        "topic": "AHA scientific statement on MI without obstructive CAD"
+      },
+      {
+        "id": 536,
+        "citation": "Matta A, Nader V, Canitrot R, Delmas C, Bouisset F, Lhermusier T, et al. Myocardial bridging is significantly associated to myocardial infarction with non-obstructive coronary arteries.",
+        "journal": "Eur Heart J Acute Cardiovasc Care",
+        "year": 2022,
+        "pages": "11:501-507",
+        "doi": "10.1093/ehjacc/zuac047",
+        "links": [
+          "https://doi.org/10.1093/ehjacc/zuac047"
+        ],
+        "topic": "Myocardial bridging and association with MINOCA"
+      }
+    ]
+  },
+  "genes": []
+}

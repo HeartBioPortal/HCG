@@ -1,0 +1,69 @@
+{
+  "content": {
+    "section_title": "13.13 Cancer",
+    "summary": "Heart failure (HF) can occur in patients with cancer due to cardiotoxic effects of anticancer therapies. Table 23 lists cancer therapies known to cause heart failure and their indications.",
+    "table23_cancer_drugs_causing_heart_failure": [
+      {
+        "Cancer therapy": "Anthracycline chemotherapy",
+        "Examples": "doxorubicin, epirubicin, daunorubicin, idarubicin",
+        "Indication": "Breast cancer, lymphoma, acute leukaemia, sarcoma"
+      },
+      {
+        "Cancer therapy": "HER2-targeted therapies",
+        "Examples": "trastuzumab, pertuzumab, trastuzumab emtansine (T-DM1), lapatinib, neratinib, tucatinib",
+        "Indication": "HER2+ breast cancer; HER2+ gastric cancer"
+      },
+      {
+        "Cancer therapy": "VEGF inhibitors",
+        "Examples": "TKIs: sunitinib, pazopanib, sorafenib, axitinib, tivantinib(?), cabozantinib, regorafenib, lenvatinib, vandetanib; Antibodies: bevacizumab, ramucirumab",
+        "Indication": "VEGF TKIs: renal cancer, hepatocellular cancer, thyroid cancer, colon cancer, sarcoma, GIST; Antibodies: breast cancer, ovarian cancer, gastric cancer, gastro-oesophageal cancer, colon cancer"
+      },
+      {
+        "Cancer therapy": "Multi-targeted kinase inhibitors",
+        "Examples": "second and third generation BCR-ABL TKIs: ponatinib, nilotinib, dasatinib, bosutinib",
+        "Indication": "Chronic myeloid leukaemia"
+      },
+      {
+        "Cancer therapy": "Proteasome inhibitors",
+        "Examples": "carfilzomib, bortezomib, ixazomib",
+        "Indication": "Multiple myeloma"
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "ERBB2",
+      "Associated Conditions": [
+        "HER2-positive breast cancer",
+        "HER2-positive gastric cancer"
+      ],
+      "Occurrences": 3,
+      "context": "Listed under 'HER2-targeted therapies' with examples (trastuzumab, pertuzumab, T-DM1, lapatinib, neratinib, tucatinib) and indicated for HER2+ breast and gastric cancer."
+    },
+    {
+      "Gene": "BCR-ABL1",
+      "Associated Conditions": [
+        "Chronic myeloid leukaemia"
+      ],
+      "Occurrences": 1,
+      "context": "Referenced as 'BCR-ABL TKIs' (ponatinib, nilotinib, dasatinib, bosutinib) in the multi-targeted kinase inhibitors row, indicated for chronic myeloid leukaemia."
+    },
+    {
+      "Gene": "VEGFA",
+      "Associated Conditions": [
+        "Renal cancer",
+        "Hepatocellular cancer",
+        "Thyroid cancer",
+        "Colon cancer",
+        "Sarcoma",
+        "GIST",
+        "Breast cancer",
+        "Ovarian cancer",
+        "Gastric cancer",
+        "Gastro-oesophageal cancer"
+      ],
+      "Occurrences": 2,
+      "context": "Presented as 'VEGF inhibitors' (TKIs and antibodies including bevacizumab, ramucirumab); indications list VEGF TKI and antibody-associated cancers such as renal, hepatocellular, thyroid, colon, sarcoma, GIST and several epithelial cancers."
+    }
+  ]
+}

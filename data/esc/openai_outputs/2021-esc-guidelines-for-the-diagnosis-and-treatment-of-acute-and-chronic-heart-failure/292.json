@@ -1,0 +1,37 @@
+{
+  "content": {
+    "recommendations": [
+      "SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, sotagliflozin) are recommended (Class I, Level A) in patients with T2DM at risk of cardiovascular events to reduce hospitalizations for heart failure, major CV events, end-stage renal dysfunction, and CV death.",
+      "SGLT2 inhibitors (dapagliflozin, empagliflozin, and sotagliflozin) are recommended (Class I, Level A) in patients with T2DM and HFrEF to reduce hospitalizations for heart failure and CV death."
+    ],
+    "drug_advice_and_safety": [
+      "Insulin may exacerbate fluid retention in patients with heart failure; monitor for evidence of worsening HF after initiation.",
+      "Sulfonylureas were associated with a higher risk of HF events in some analyses and are not a preferred treatment in patients with HF; monitor patients for worsening of HF if used.",
+      "Thiazolidinediones (glitazones) cause sodium and water retention and an increased risk of worsening HF and hospitalization; they are contraindicated in patients with HF."
+    ],
+    "abbreviations": {
+      "SGLT2": "sodium-glucose co-transporter 2",
+      "T2DM": "type 2 diabetes mellitus",
+      "HF": "heart failure",
+      "HFrEF": "heart failure with reduced ejection fraction",
+      "CV": "cardiovascular"
+    }
+  },
+  "genes": [
+    {
+      "Gene": "SLC5A2",
+      "Associated Conditions": [
+        "Type 2 diabetes mellitus (T2DM)",
+        "Heart failure (HF)",
+        "Heart failure with reduced ejection fraction (HFrEF)",
+        "Cardiovascular events (CV events)",
+        "Hospitalization for heart failure",
+        "Major cardiovascular events",
+        "End-stage renal dysfunction",
+        "Cardiovascular death (CV death)"
+      ],
+      "Occurrences": 3,
+      "context": "Page states 'SGLT2 (sodium-glucose co-transporter 2) inhibitors ... are recommended in patients with T2DM at risk of CV events and in patients with T2DM and HFrEF to reduce hospitalizations for HF, major CV events, end-stage renal dysfunction, and CV death.'"
+    }
+  ]
+}

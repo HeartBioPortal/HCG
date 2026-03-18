@@ -1,34 +1,71 @@
 {
   "content": {
-    "title": "Clinical Practice Guidelines Committee 2020-2022",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year. Calls for declaration conducted during development period up to and including 2020.",
-    "entries": [
+    "differential_causes_table": [
       {
-        "expert": "Rakisheva Amina",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "details": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Bayer: Atrial Fibrillatuion",
-          "Novartis: Heart Failure"
-        ]
+        "Disease category": "Endomyocardial disease",
+        "Examples": "Radiotherapy; Endomyocardial fibrosis; eosinophilia; Carcinoid",
+        "Recommended tests": "CMR; EMB; 24 h urine 5-HIAA"
       },
       {
-        "expert": "Sitges Marta",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "details": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Abbott: Heart Valve Disease",
-          "Edwards Lifesciences: Heart Valve Disease",
-          "Medtronic: Heart Valve Disease",
-          "Travel and meeting support from healthcare industry (independent of above activities): Abbott: Heart Valve Disease; Edwards Lifesciences: Heart Valve Disease",
-          "Research funding from healthcare industry under direct/personal responsibility (to department or institution): Bristol Myers Squibb: Atrial Fibrillation; Menarini: Continous Education on Cardiovascular Diseases; Novartis: Heart Failure; Merck Sharp & Dohme: Hypercholesterolemia"
-        ]
+        "Disease category": "Pericardial disease",
+        "Examples": "Calcification; Infiltrative",
+        "Recommended tests": "Chest CT; CMR; right and left heart catheterisation"
+      },
+      {
+        "Disease category": "Metabolic",
+        "Examples": "Endocrine disease; Nutritional disease (thiamine, vitamin B1 and selenium deficiencies); Autoimmune disease",
+        "Recommended tests": "TFTs; plasma metanephrines; renin and aldosterone; cortisol; specific plasma nutrients; ANA, ANCA; rheumatology review"
+      },
+      {
+        "Disease category": "Neuromuscular disease",
+        "Examples": "Friedreich's ataxia; Muscular dystrophy",
+        "Recommended tests": "Nerve conduction studies; electromyogram; genetics; CK"
       }
     ],
-    "document_date": "09/08/2021"
+    "abbreviations": {
+      "5-HIAA": "5-hydroxyindoleacetic acid",
+      "ACE": "angiotensin-converting enzyme",
+      "ANA": "antinuclear antibody",
+      "ANCA": "anti-nuclear cytoplasmic antibody",
+      "ARVC": "arrhythmogenic right ventricular cardiomyopathy",
+      "BP": "blood pressure",
+      "CAD": "coronary artery disease",
+      "CMP": "cardiomyopathy",
+      "CMR": "cardiac magnetic resonance",
+      "CK": "creatinine kinase",
+      "CT": "computed tomography",
+      "ECG": "electrocardiogram",
+      "Echo": "echocardiography",
+      "EMB": "endomyocardial biopsy",
+      "FDG": "fluorodeoxyglucose",
+      "GGT": "gamma-glutamyl transferase",
+      "HIV": "human immunodeficiency virus",
+      "h": "hour",
+      "LFT": "liver function test",
+      "LGE": "late gadolinium enhancement",
+      "MEK": "mitogen-activated protein kinase",
+      "PET": "positron emission tomography",
+      "TFT": "thyroid function test",
+      "VEGF": "vascular endothelial growth factor"
+    },
+    "diagnostic_tests_recommendations": {
+      "1": "Electrocardiogram (ECG). A normal ECG makes the diagnosis of HF unlikely. The ECG may reveal abnormalities such as AF, Q waves, LV hypertrophy (LVH), and a widened QRS complex that increase the likelihood of a diagnosis of HF and may guide therapy.",
+      "2": "Measurement of NPs recommended if available. BNP <35 pg/mL, NT-proBNP <125 pg/mL, or MR-proANP <40 pmol/L make a diagnosis of HF unlikely.",
+      "3": "Basic investigations: serum urea and electrolytes, creatinine, full blood count, liver and thyroid function tests to differentiate HF from other conditions, provide prognostic information, and guide therapy.",
+      "4": "Echocardiography recommended as key investigation for assessment of cardiac function and other parameters (chamber size, LVH pattern, regional wall motion abnormalities suggesting CAD, Takotsubo syndrome, or myocarditis; RV function; pulmonary hypertension; valvular function; diastolic function).",
+      "5": "Chest X-ray recommended to investigate other potential causes of breathlessness (e.g., pulmonary disease) and may provide supportive evidence of HF (pulmonary congestion or cardiomegaly)."
+    }
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "ACE",
+      "Associated Conditions": [
+        "Heart failure",
+        "Hypertension",
+        "Cardiovascular disease"
+      ],
+      "Occurrences": 1,
+      "context": "Listed in the page abbreviation list as 'ACE — angiotensin-converting enzyme' within a guideline on assessment of patients with suspected chronic heart failure."
+    }
+  ]
 }

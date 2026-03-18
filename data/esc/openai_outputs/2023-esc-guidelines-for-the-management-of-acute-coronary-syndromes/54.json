@@ -1,59 +1,74 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "note": "Declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year (calls conducted during development period up to and including 2022).",
-    "date": "16/05/2023",
-    "page": "30/57",
-    "experts": [
-      {
-        "name": "Lazaros George",
-        "declarations": {
-          "2021": [
-            "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "Menerini Hellas: Ranolazine, Coronary artretry disease",
-            "Payment from healthcare industry to your department or institution or any other body for your personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "Kiniksa Pharmaceutical: Biological agents in pericarditis"
-          ],
-          "2022": [
-            "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "Roche Diagnostics: Acute Coronary Syndromes",
-            "Bayer: Pharmacology and Pharmacotherapy",
-            "Menarini: Pharmacology and Pharmacotherapy"
-          ]
-        }
-      },
-      {
-        "name": "Lewis Basil S",
-        "declarations": {
-          "2021": [
-            "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "Idorsia: Antithrombotics",
-            "Kowa: Lipidology",
-            "CSL Behring: Lipidology, Secondary prevention",
-            "Payment from healthcare industry to your department or institution or any other body for your personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "Kowa: Lipidology"
-          ],
-          "2022": [
-            "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "CSL Behring: Acute Coronary Syndromes, Pharmacology and Pharmacotherapy",
-            "Idorsia: Acute Coronary Syndromes, Pharmacology and Pharmacotherapy",
-            "Janssen R & D: Atrial Fibrillation (AF), Acute Coronary Syndromes, Pharmacology and Pharmacotherapy",
-            "Anthos: Atrial Fibrillation (AF), Pharmacology and Pharmacotherapy"
-          ]
-        }
-      },
-      {
-        "name": "Lindahl Bertil",
-        "declarations": {
-          "2021": [
-            "Nothing to be declared"
-          ],
-          "2022": [
-            "Nothing to be declared"
-          ]
-        }
-      }
-    ]
+    "Title": "New recommendations",
+    "Sections": {
+      "Antiplatelet and anticoagulant therapy in ACS": [
+        "If patients presenting with ACS stop DAPT to undergo coronary artery bypass grafting, resume DAPT after surgery for at least 12 months.",
+        "In older ACS patients, especially if HBR, clopidogrel as the P2Y12 receptor inhibitor may be considered."
+      ],
+      "Alternative antithrombotic therapy regimens": [
+        "In patients event-free after 3–6 months of DAPT and not high ischemic risk, single antiplatelet therapy (preferably with a P2Y12 receptor inhibitor) should be considered.",
+        "P2Y12 inhibitor monotherapy may be considered as an alternative to aspirin monotherapy for long-term treatment.",
+        "In HBR patients, aspirin or P2Y12 receptor inhibitor monotherapy after 1 month of DAPT may be considered.",
+        "In patients requiring OAC, withdrawing antiplatelet therapy at 6 months while continuing OAC may be considered.",
+        "De-escalation of antiplatelet therapy in the first 30 days after an ACS event is not recommended."
+      ],
+      "Cardiac arrest and out-of-hospital cardiac arrest": [
+        "Evaluation of neurological prognosis (no earlier than 72 h after admission) is recommended in all comatose survivors after cardiac arrest.",
+        "Transport of patients with out-of-hospital cardiac arrest to a cardiac arrest centre according to local protocol should be considered."
+      ],
+      "Technical aspects of invasive strategies": [
+        "In spontaneous coronary artery dissection, PCI is recommended only for patients with symptoms and signs of ongoing ischaemia, large area of myocardium at risk, or reduced antegrade flow.",
+        "Intravascular imaging should be considered to guide PCI.",
+        "Intravascular imaging (preferably optical coherence tomography) may be considered in patients with ambiguous culprit lesions."
+      ],
+      "Multivessel disease and cardiogenic shock": [
+        "Staged PCI of non-IRA should be considered."
+      ],
+      "Multivessel disease in haemodynamically stable STEMI patients undergoing primary PCI": [
+        "PCI of the non-IRA is recommended based on angiographic severity.",
+        "Invasive epicardial functional assessment of non-culprit segments of the IRA is not recommended during the index procedure."
+      ],
+      "Acute coronary syndrome complications": [
+        "Implantation of a permanent pacemaker recommended when high-degree AV block does not resolve within a waiting period of at least 5 days after MI.",
+        "Cardiac magnetic resonance imaging should be considered in patients with equivocal echocardiographic images or high clinical suspicion of LV thrombus.",
+        "Contrast echocardiography or cardiac MRI may be considered for detection of LV thrombus if apex not well visualized."
+      ],
+      "ACS comorbid conditions": [
+        "Base choice of long-term glucose-lowering treatment on comorbidities including heart failure, chronic kidney disease, and obesity.",
+        "For frail older patients with comorbidities, a holistic approach to individualize interventional and pharmacological treatment is recommended.",
+        "Temporary interruption of cancer therapy recommended in patients where cancer therapy suspected to contribute to ACS."
+      ],
+      "Cancer and ACS specifics": [
+        "A conservative non-invasive strategy should be considered in ACS patients with poor cancer prognosis (expected life <6 months) and/or very high bleeding risk.",
+        "Aspirin is not recommended in cancer patients with platelet count <10,000/μL.",
+        "Clopidogrel is not recommended in cancer patients with platelet count <30,000/μL.",
+        "In ACS patients with cancer and <50,000/μL platelet count, prasugrel or ticagrelor are not recommended."
+      ],
+      "Long-term management": [
+        "Intensify lipid-lowering therapy during index ACS hospitalization for patients on lipid-lowering therapy before admission.",
+        "Low-dose colchicine (0.5 mg once a day) may be considered if other risk factors insufficiently controlled or recurrent cardiovascular disease events occur under optimal therapy.",
+        "Combination therapy with a high-dose statin plus ezetimibe may be considered during index hospitalization."
+      ],
+      "Patient perspectives": [
+        "Patient-centred care is recommended, assessing and adhering to patient preferences, needs and beliefs.",
+        "Include ACS patients in decision-making and inform them about risks of adverse events, radiation exposure, and alternative options.",
+        "Use teach-back technique for discharge education and consider written and verbal information prior to discharge.",
+        "Assess mental well-being using validated tool and onward psychological referral when appropriate."
+      ],
+      "Abbreviations note": "ACS: acute coronary syndrome; AV: atrioventricular; DAPT: dual antiplatelet therapy; HBR: high bleeding risk; IRA: infarct-related artery; LV: left ventricle; MI: myocardial infarction; OAC: oral anticoagulation; PCI: percutaneous coronary intervention; STEMI: ST-elevation myocardial infarction."
+    }
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "Acute coronary syndrome (antiplatelet therapy selection)",
+        "High bleeding risk considerations in older ACS patients",
+        "Monotherapy alternative to aspirin after DAPT"
+      ],
+      "Occurrences": 4,
+      "context": "Multiple recommendations reference the P2Y12 receptor inhibitor (P2RY12) — clopidogrel may be considered in older/HBR patients; P2Y12 inhibitor monotherapy as alternative to aspirin after 1 month of DAPT or as single antiplatelet therapy after 3–6 months."
+    }
+  ]
 }

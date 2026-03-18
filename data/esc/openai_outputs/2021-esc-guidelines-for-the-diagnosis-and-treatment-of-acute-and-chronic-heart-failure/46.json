@@ -1,22 +1,17 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
-    "note": "For ESC Guidelines: The report below lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2020.",
-    "page_date": "03/08/2021",
-    "experts": [
+    "page_title": "Recommendations for management of patients with advanced HF",
+    "text_blocks": [
       {
-        "name": "Altay Hakan",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "declaration_text": "Payment from healthcare industry to your department or institution or any other body for your personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. - Novartis : Optimal Medical treatment in HF"
+        "text": "Non-invasive HTI may be considered for patients with HF in order to reduce the risk of recurrent CV and HF hospitalizations and CV death.",
+        "grade": "IIb"
       },
       {
-        "name": "Anker Stefan",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "declaration_text": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. - BRAHMS GmbH : Biomarker in HF research; - Abbott : COVID-19 SAB; - Janssen / J&J : HF consultancy; - Cordio : HF consultancy; - Servier : HF registry steering committee; - Boehringer-Ingelheim : HF trial executive committee (EMPEROR, EMPERIAL); - Vifor International : HF trial executive committees (AFFIRM-HF, DIAMOND-HF); - Cardiac Dimensions : HF trial steering committee; - Bioventrix : HF trial steering committee; - V-Wave : HF trial steering committee; - Bayer AG : HF trial steering committee (DKD); - Astra Zeneca : SAB in HF (Germany); - Respicardia : Sleep apnea SAB. Research funding from healthcare industry under your direct/personal responsibility (to department or institution): - Vifor International : CHF therapy development, FAIR-HFpEF & Fair-HF2; - Abbott Vascular : CHF therapy development, RESHAPE-HF2"
+        "text": "Patients being considered for long-term MCS must have good compliance, appropriate capacity for device handling and psychosocial support.",
+        "grade": "I"
       }
-    ]
+    ],
+    "notes": "Extracted from a guideline table; abbreviations on page include HF (heart failure), CV (cardiovascular), MCS (mechanical circulatory support)."
   },
   "genes": []
 }

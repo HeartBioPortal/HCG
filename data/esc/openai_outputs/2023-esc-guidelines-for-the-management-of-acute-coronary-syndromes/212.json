@@ -1,0 +1,48 @@
+{
+  "content": {
+    "figure_title": "A practical algorithm to guide intravascular imaging in acute coronary syndrome patients",
+    "figure_summary": "Flowchart guiding use of intravascular imaging (IVUS or OCT) after coronary angiography in patients with suspected ACS: if a clear culprit lesion suitable for PCI is identified, perform intravascular imaging to guide PCI (Class IIa) and then PCI of culprit lesion. If no clear culprit lesion, perform intravascular imaging (preferably OCT) in patients with ambiguous culprit lesions (Class IIb), then treat as per imaging findings and consider further investigations.",
+    "algorithm_steps": [
+      "Working diagnosis: ACS",
+      "Perform coronary angiography",
+      "If clear culprit lesion suitable for PCI: intravascular imaging to guide PCI (Class IIa) -> PCI of culprit lesion",
+      "If no clear culprit lesion: intravascular imaging (preferably OCT) in patients with ambiguous culprit lesions (Class IIb) -> treat as per imaging findings -> consider further investigations as required"
+    ],
+    "potential_angiographic_ambiguities": [
+      "Multivessel disease",
+      "Hazy lesion / calcification",
+      "Tortuosity / eccentricity"
+    ],
+    "potential_intravascular_imaging_findings": [
+      "Coronary plaque pathology: erosion, nodule, rupture",
+      "SCAD (spontaneous coronary artery dissection)",
+      "No lesion"
+    ],
+    "potential_further_investigations": [
+      "Left ventriculography",
+      "Echocardiography",
+      "Cardiac MRI"
+    ],
+    "acronyms": {
+      "ACS": "acute coronary syndrome",
+      "IVUS": "intravascular ultrasound",
+      "OCT": "optical coherence tomography",
+      "PCI": "percutaneous coronary intervention",
+      "MRI": "magnetic resonance imaging",
+      "SCAD": "spontaneous coronary artery dissection",
+      "MACE": "major adverse cardiovascular events",
+      "RCT": "randomized controlled trial",
+      "PPCI": "primary percutaneous coronary intervention",
+      "IRA": "infarct-related artery"
+    },
+    "evidence_summary": "IVUS guidance in ACS is supported by subgroup analyses of all-comers trials and meta-analyses of randomized trials showing superiority of IVUS guidance in reducing MACE, although a definitive large-scale multinational trial is lacking. Smaller RCTs have evaluated OCT. Intravascular physiology is increasingly used to assess haemodynamic significance of intermediate non-IRA stenoses in ACS, but PCI of the IRA should not be deferred based on invasive epicardial functional assessment in ACS. Coronary microcirculation begins to recover within 24 hours of PPCI.",
+    "section_heading": "9.1.2.2. Intravascular physiology",
+    "clinical_practice_points": [
+      "Use intravascular imaging to guide and optimize PCI in ACS.",
+      "Prefer OCT for ambiguous culprit lesions; IVUS is established for guidance.",
+      "Do not defer PCI of the infarct-related artery in ACS on the basis of invasive epicardial functional assessment alone."
+    ],
+    "figure_caption": "Figure 13: A practical algorithm to guide intravascular imaging in acute coronary syndrome patients."
+  },
+  "genes": []
+}

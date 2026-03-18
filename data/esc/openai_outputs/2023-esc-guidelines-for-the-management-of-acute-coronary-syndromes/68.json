@@ -1,173 +1,54 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "page_date": "16/05/2023",
-    "page_number": "44/57",
-    "summary": "Declarations of interest reported to the ESC by experts for guideline development covering the previous calendar year(s).",
-    "experts": [
+    "title": "Recommendation Table 1 — Recommendations for clinical and diagnostic tools for patients with suspected acute coronary syndrome",
+    "recommendations": [
       {
-        "name": "Raber Lorenz",
-        "entries": [
-          {
-            "year": 2022,
-            "relationship_type": "Direct personal payment from healthcare industry; research funding under direct/personal responsibility",
-            "details": {
-              "companies_and_associated_conditions": [
-                {
-                  "company": "Novo-Nordisk",
-                  "conditions": [
-                    "Coronary Artery Disease (Chronic)",
-                    "Chronic Coronary Syndromes (CCS)"
-                  ]
-                },
-                {
-                  "company": "Canon",
-                  "conditions": [
-                    "Coronary Artery Disease (Chronic)",
-                    "Chronic Coronary Syndromes (CCS)"
-                  ]
-                },
-                {
-                  "company": "Amgen",
-                  "conditions": [
-                    "Coronary Artery Disease (Chronic)",
-                    "Chronic Coronary Syndromes (CCS)",
-                    "Acute Coronary Syndromes"
-                  ]
-                },
-                {
-                  "company": "Astra Zeneca",
-                  "conditions": [
-                    "Coronary Artery Disease (Chronic)",
-                    "Chronic Coronary Syndromes (CCS)",
-                    "Acute Coronary Syndromes"
-                  ]
-                },
-                {
-                  "company": "Sanofi Aventis",
-                  "conditions": [
-                    "Coronary Artery Disease (Chronic)",
-                    "Chronic Coronary Syndromes (CCS)",
-                    "Acute Coronary Syndromes"
-                  ]
-                },
-                {
-                  "company": "Medtronic",
-                  "conditions": [
-                    "Device Therapy"
-                  ]
-                },
-                {
-                  "company": "Abbott",
-                  "conditions": [
-                    "Interventional Cardiology"
-                  ]
-                },
-                {
-                  "company": "Occlutech",
-                  "conditions": [
-                    "Interventional Cardiology"
-                  ]
-                }
-              ],
-              "research_funding_and_trials": [
-                {
-                  "sponsor": "Boston Scientific",
-                  "trial": "CONNECT AMI trial",
-                  "role": "Principal investigator"
-                },
-                {
-                  "sponsor": "Abbott Vascular",
-                  "trial": "OPTICO LM trial",
-                  "role": "Principal investigator"
-                },
-                {
-                  "sponsor": "HeartFlow",
-                  "trial": "OPTICO LM trial",
-                  "role": "Principal investigator"
-                },
-                {
-                  "sponsor": "Infraredx",
-                  "trial": "PACMAN AMI trial",
-                  "role": "Principal investigator"
-                },
-                {
-                  "sponsor": "Sanofi Aventis",
-                  "grant": "unrestricted grant for PACMAN AMI trial",
-                  "role": "Principal investigator"
-                }
-              ]
-            }
-          }
-        ]
+        "area": "Blood sampling",
+        "recommendation": "Measure cardiac troponins with high-sensitivity assays immediately after presentation and obtain the results within 60 min of blood sampling.",
+        "class": "I",
+        "level": "B",
+        "references": "15, 25–27"
       },
       {
-        "name": "Radsel Peter",
-        "entries": [
-          {
-            "year": 2021,
-            "relationship_type": "Nothing to be declared",
-            "details": {}
-          },
-          {
-            "year": 2022,
-            "relationship_type": "Nothing to be declared",
-            "details": {}
-          }
-        ]
+        "area": "Blood sampling",
+        "recommendation": "Use an ESC algorithmic approach with serial hs‑cTn measurements (0 h/1 h or 0 h/2 h) to rule in and rule out NSTEMI.",
+        "class": "I",
+        "level": "B",
+        "references": "28–44"
       },
       {
-        "name": "Rakisheva Amina",
-        "entries": [
-          {
-            "year": 2021,
-            "relationship_type": "Direct personal payment from healthcare industry",
-            "details": {
-              "companies_and_associated_conditions": [
-                {
-                  "company": "Bayer",
-                  "conditions": [
-                    "Atrial Fibrillation"
-                  ]
-                },
-                {
-                  "company": "Novartis",
-                  "conditions": [
-                    "Heart Failure"
-                  ]
-                }
-              ]
-            }
-          },
-          {
-            "year": 2022,
-            "relationship_type": "Direct personal payment from healthcare industry",
-            "details": {
-              "companies_and_associated_conditions": [
-                {
-                  "company": "AstraZeneca",
-                  "conditions": [
-                    "Chronic Heart Failure"
-                  ]
-                },
-                {
-                  "company": "Novartis",
-                  "conditions": [
-                    "Chronic Heart Failure"
-                  ]
-                },
-                {
-                  "company": "Roche Diagnostics",
-                  "conditions": [
-                    "Chronic Heart Failure"
-                  ]
-                }
-              ]
-            }
-          }
-        ]
+        "area": "Blood sampling",
+        "recommendation": "Additional testing after 3 h is recommended if the first two hs‑cTn measurements of the 0 h/1 h algorithm are inconclusive and no alternative diagnoses explaining the condition have been made.",
+        "class": "I",
+        "level": "B",
+        "references": "45, 46"
+      },
+      {
+        "area": "Blood sampling / risk assessment",
+        "recommendation": "The use of established risk scores (e.g., GRACE risk score) for prognosis estimation should be considered.",
+        "class": "IIa",
+        "level": "B",
+        "references": "47–49"
+      },
+      {
+        "area": "Triage for emergency reperfusion strategy",
+        "recommendation": "Patients with suspected STEMI should be immediately triaged for an emergency reperfusion strategy.",
+        "class": "I",
+        "level": "A",
+        "references": "50–52"
       }
-    ]
+    ],
+    "abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "ECG": "electrocardiogram",
+      "ESC": "European Society of Cardiology",
+      "FMC": "first medical contact",
+      "GRACE": "Global Registry of Acute Coronary Events",
+      "hs-cTn": "high-sensitivity cardiac troponin",
+      "MI": "myocardial infarction",
+      "NSTEMI": "non-ST-elevation myocardial infarction",
+      "STEMI": "ST-elevation myocardial infarction"
+    }
   },
   "genes": []
 }

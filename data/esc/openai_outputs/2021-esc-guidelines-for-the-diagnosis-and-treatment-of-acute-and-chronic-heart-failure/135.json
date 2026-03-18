@@ -1,0 +1,55 @@
+{
+  "content": {
+    "title": "Recommendations (excerpt)",
+    "columns": [
+      "Recommendation",
+      "Class",
+      "Level"
+    ],
+    "entries": [
+      {
+        "name": "Loop diuretics",
+        "recommendation": "Diuretics are recommended in patients with HFrEF with signs and/or symptoms of congestion to alleviate HF symptoms, improve exercise capacity, and reduce HF hospitalizations.",
+        "class": "I",
+        "level": "C",
+        "reference": "137"
+      },
+      {
+        "name": "ARB",
+        "recommendation": "An ARB is recommended to reduce the risk of HF hospitalization and CV death in symptomatic patients unable to tolerate an ACE-I or ARNI (patients should also receive a beta-blocker and an MRA).",
+        "class": "I",
+        "level": "B",
+        "reference": "138"
+      },
+      {
+        "name": "I_f-channel inhibitor (ivabradine) — scenario 1",
+        "recommendation": "Ivabradine should be considered in symptomatic patients with LVEF ≤35%, in SR and a resting heart rate ≥70 b.p.m. despite treatment with an evidence-based dose of beta-blocker (or maximum tolerated dose below that), ACE-I/(or ARNI), and an MRA, to reduce the risk of HF hospitalization and CV death.",
+        "class": "IIa",
+        "level": "B",
+        "reference": "139"
+      },
+      {
+        "name": "I_f-channel inhibitor (ivabradine) — scenario 2",
+        "recommendation": "Ivabradine should be considered in symptomatic patients with LVEF ≤35%, in SR and a resting heart rate ≥70 b.p.m. who are unable to tolerate or have contraindications for a beta-blocker to reduce the risk of HF hospitalization and CV death. Patients should also receive an ACE-I (or ARNI) and an MRA.",
+        "class": "IIa",
+        "level": "C",
+        "reference": "140"
+      },
+      {
+        "name": "Soluble guanylate cyclase receptor stimulator (vericiguat)",
+        "recommendation": "Vericiguat may be considered in patients in NYHA class II–IV who have had worsening HF despite treatment with an ACE-I (or ARNI), a beta-blocker and an MRA to reduce the risk of CV mortality or HF hospitalization.",
+        "class": "IIb",
+        "level": "B",
+        "reference": "141"
+      },
+      {
+        "name": "Hydralazine and isosorbide dinitrate",
+        "recommendation": "Hydralazine and isosorbide dinitrate should be considered in self-identified black patients with LVEF ≤35% or with an LVEF <45% combined with a dilated left ventricle in NYHA class III–IV despite treatment with an ACE-I (or ARNI), a beta-blocker and an MRA to reduce the risk of HF hospitalization and death.",
+        "class": "IIa",
+        "level": "B",
+        "reference": "142"
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,49 @@
+{
+  "content": {
+    "Anticoagulation": [
+      "In patients on NOACs, regardless of timing of last administration, add low-dose parenteral anticoagulation (e.g. enoxaparin 0.5 mg/kg i.v. or UFH 60 IU/kg).",
+      "Anticoagulant doses adjusted to body weight and renal function, especially in women and older patients.",
+      "In patients on VKAs, do not administer UFH if INR >2.5.",
+      "PCI performed without interruption of VKAs or NOACs."
+    ],
+    "Antiplatelet_therapy": [
+      "Aspirin is indicated but avoid pre-treatment with P2Y12 receptor inhibitors.",
+      "GP IIb/IIIa receptor inhibitors only for bailout or peri-procedural complications."
+    ],
+    "Vascular_access": "Radial artery approach as default vascular access.",
+    "Gastrointestinal_protection": "Proton pump inhibitors in patients on dual antiplatelet therapy at higher-than-average risk of gastrointestinal bleeds (history of GI ulcer/haemorrhage, anticoagulant therapy, chronic NSAID/corticosteroid use) or two or more risk factors.",
+    "GI_bleed_risk_factors": [
+      "Age ≥65 years",
+      "Dyspepsia",
+      "Gastro-oesophageal reflux disease",
+      "Helicobacter pylori infection",
+      "Chronic alcohol use"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "Antiplatelet therapy / PCI — pre-treatment considerations (avoid pre-treatment with P2Y12 receptor inhibitors)"
+      ],
+      "Occurrences": 2,
+      "context": "Text: 'Aspirin is indicated but avoid pre-treatment with P2Y12 receptor inhibitors' (appears twice)."
+    },
+    {
+      "Gene": "ITGA2B",
+      "Associated Conditions": [
+        "Target of GP IIb/IIIa receptor inhibitors used for bailout or peri-procedural complications during PCI"
+      ],
+      "Occurrences": 2,
+      "context": "Text: 'GP IIb/IIIa receptor inhibitors only for bailout or peri-procedural complications' (GPIIb corresponds to ITGA2B; phrase appears twice)."
+    },
+    {
+      "Gene": "ITGB3",
+      "Associated Conditions": [
+        "Target of GP IIb/IIIa receptor inhibitors used for bailout or peri-procedural complications during PCI"
+      ],
+      "Occurrences": 2,
+      "context": "Text: 'GP IIb/IIIa receptor inhibitors only for bailout or peri-procedural complications' (GPIIIa corresponds to ITGB3; phrase appears twice)."
+    }
+  ]
+}

@@ -1,45 +1,21 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism (Reviewers)",
-    "summary_note": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during the period of development up to and including 2018).",
-    "experts": [
-      {
-        "name": "Jaaskelainen Pertti",
-        "declarations": [
-          {
-            "category": "B - Payment to department or institution / personal services",
-            "details": "Speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member from healthcare industry. Novartis: heart failure (2018)."
-          },
-          {
-            "category": "2.1 - Direct ownership of shares",
-            "details": "Ownership of shares of Orion Pharma, value of shares <1,000 EUR (2018)."
-          },
-          {
-            "category": "2.2 - Employment in healthcare industry",
-            "details": "Part-time employee in Satucon Inc. as a consultant cardiologist; description includes family members involved in clinical trials and estimated payments to Satucon Inc. from pharmaceutical companies (50-100 k €/year) (2018)."
-          },
-          {
-            "category": "2.3 - Membership or affiliation",
-            "details": "Institution (Heart Center, Kuopio University Hospital) involved in past and ongoing healthcare industry sponsored scientific studies; not directly involved as investigator except for PARADISE-MI study sponsored by Novartis (2018)."
-          }
-        ]
-      },
-      {
-        "name": "Jenkins David",
-        "declarations": [
-          {
-            "category": "1 - Financial Declaration (A) Direct personal payment",
-            "details": "Direct personal payments (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member) from healthcare industry. Actelion: CTEPH (2018); Bayer AG: CTEPH (2018)."
-          },
-          {
-            "category": "1 - Financial Declaration (D) Research funding",
-            "details": "Research funding under direct/personal responsibility (to department or institution) from healthcare industry. Bayer: pulmonary hypertension drug trial (2018)."
-          }
-        ]
-      }
-    ],
-    "document_date": "21/08/2019",
-    "page": "30/62"
+    "definition": "A clear definition of haemodynamic instability and high-risk PE is provided (Table 4).",
+    "assessment": "Assessment of PE severity and early PE-related risk is recommended, in addition to comorbidity/aggravating conditions and overall death risk. A clear word of caution that RV dysfunction may be present and affect early outcomes even in patients classified as low risk by clinical risk scores.",
+    "treatment_in_the_acute_phase": {
+      "haemodynamic_respiratory_support": "Thoroughly revised section on haemodynamic and respiratory support for high-risk PE (Section 6.1).",
+      "management_algorithms": "A dedicated management algorithm is proposed for high-risk PE (Supplementary Figure 1). The risk-adjusted management algorithm (Figure 6) was revised to take into consideration clinical PE severity, aggravating conditions/comorbidity, and the presence of RV dysfunction.",
+      "anticoagulation": "NOACs are recommended as the first choice for anticoagulation treatment in a patient eligible for NOACs; VKAs are an alternative to NOACs."
+    },
+    "chronic_treatment_after_the_first_3_months": {
+      "risk_classification": "Risk factors for VTE recurrence have been classified according to high, intermediate, or low recurrence risk (Table 11).",
+      "extended_anticoagulation_indications": "Potential indications for extended anticoagulation are discussed, including presence of a minor transient or reversible risk factor for the index PE, any persisting risk factor, or no identifiable risk factor.",
+      "terminology": "Terminology such as 'provoked' vs. 'unprovoked' PE/VTE is no longer supported by the Guidelines because it may be misleading and not helpful for decision-making regarding duration of anticoagulation.",
+      "risk_scores": "VTE recurrence scores are presented and discussed in parallel with bleeding scores for patients on anticoagulation treatment (Supplementary Tables 13 and 14 respectively).",
+      "dosing_for_extended_treatment": "A reduced dose of apixaban or rivaroxaban for extended anticoagulation should be considered after the first 6 months of treatment."
+    },
+    "PE_in_cancer": "Edoxaban or rivaroxaban should be considered as an alternative to LMWH, with a word of caution for patients with gastrointestinal cancer due to the increased bleeding risk with NOACs.",
+    "PE_in_pregnancy": "Heading present on the page; no specific recommendations shown in the provided excerpt."
   },
   "genes": []
 }

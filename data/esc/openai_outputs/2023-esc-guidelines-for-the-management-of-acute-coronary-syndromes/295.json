@@ -1,0 +1,70 @@
+{
+  "content": {
+    "title": "Recommendations (excerpt)",
+    "recommendations": [
+      {
+        "section": "Beta-blockers",
+        "recommendation": "Beta-blockers are recommended in ACS patients with LVEF ≤40% regardless of HF symptoms.",
+        "class": "I",
+        "level": "A",
+        "notes": "Reference numbers present in original (not transcribed)."
+      },
+      {
+        "section": "Beta-blockers",
+        "recommendation": "Routine beta-blockers for all ACS patients regardless of LVEF should be considered.",
+        "class": "IIa",
+        "level": "B"
+      },
+      {
+        "section": "RAAS system inhibitors",
+        "recommendation": "Angiotensin-converting enzyme (ACE) inhibitors are recommended in ACS patients with HF symptoms, LVEF ≤40%, diabetes, hypertension, and/or CKD.",
+        "class": "I",
+        "level": "A"
+      },
+      {
+        "section": "RAAS system inhibitors",
+        "recommendation": "Mineralocorticoid receptor antagonists are recommended in ACS patients with an LVEF ≤40% and HF or diabetes.",
+        "class": "I",
+        "level": "A"
+      },
+      {
+        "section": "RAAS system inhibitors",
+        "recommendation": "Routine ACE inhibitors for all ACS patients regardless of LVEF should be considered.",
+        "class": "IIa",
+        "level": "A"
+      },
+      {
+        "section": "Adherence to medication",
+        "recommendation": "A polypill should be considered as an option to improve adherence and outcomes in secondary prevention after ACS.",
+        "class": "IIa",
+        "level": "B"
+      },
+      {
+        "section": "Imaging",
+        "recommendation": "In patients with pre-discharge LVEF ≤40%, repeat evaluation of the LVEF 6–12 weeks after an ACS (and after complete revascularization and the institution of optimal medical therapy) is recommended to assess the potential need for sudden cardiac death primary prevention ICD implantation.",
+        "class": "I",
+        "level": "C"
+      },
+      {
+        "section": "Imaging",
+        "recommendation": "Cardiac magnetic resonance imaging should be considered as an adjunctive imaging modality in order to assess the potential need for primary prevention ICD implantation.",
+        "class": "IIa",
+        "level": "C"
+      },
+      {
+        "section": "Vaccination",
+        "recommendation": "Influenza vaccination is recommended for all ACS patients.",
+        "class": "I",
+        "level": "A"
+      }
+    ],
+    "abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "LVEF": "left ventricular ejection fraction",
+      "HF": "heart failure",
+      "CKD": "chronic kidney disease",
+      "ACE": "angiotensin-converting enzyme (used here to name ACE inhibitors)"
+    }
+  },
+  "genes": []
+}

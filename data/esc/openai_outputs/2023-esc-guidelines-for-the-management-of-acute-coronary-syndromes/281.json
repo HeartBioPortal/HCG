@@ -1,0 +1,48 @@
+{
+  "content": {
+    "title": "Long-term management after acute coronary syndrome (ACS)",
+    "figure": "Figure 17: Long-term management after acute coronary syndrome",
+    "discharge_actions": [
+      "Discharge on cardio-protective medications",
+      "Start lifestyle management",
+      "Refer to cardiac rehabilitation",
+      "Arrange outpatient department (OPD) review to manage comorbidities and discuss patient goals and preferences"
+    ],
+    "treatment_goals": {
+      "1_support_healthy_lifestyle_choices": [
+        "Smoking cessation",
+        "Healthy diet",
+        "Regular exercise",
+        "Healthy weight",
+        "Psychosocial management"
+      ],
+      "2_continue_optimal_pharmacological_and_cardio-protective_treatment": [
+        "Antithrombotic therapy",
+        "Lipid-lowering therapy",
+        "Annual influenza vaccination",
+        "Promote drug adherence and persistence",
+        "Other pharmacological treatments as appropriate (see recommendation table referenced)"
+      ],
+      "3_reach_and_sustain_risk_factor_treatment_targets": {
+        "blood_pressure": "Systolic BP <130 mmHg and diastolic BP <80 mmHg (if tolerated)",
+        "ldl_c": "LDL-C <1.4 mmol/L (<55 mg/dL)",
+        "hba1c": "HbA1c <53 mmol/mol (<7%) (for patients with diabetes mellitus)"
+      }
+    },
+    "abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "HbA1c": "glycosylated haemoglobin",
+      "LDL-C": "low-density lipoprotein cholesterol",
+      "OPD": "outpatient department"
+    },
+    "age_and_special_population_notes": [
+      "For patients ≥70 years of age the systolic blood pressure target should be <140 mmHg and may be reduced to 130 mmHg if tolerated",
+      "HbA1c target shown applies to patients with diabetes mellitus"
+    ],
+    "source_notes": [
+      "Figure and targets are presented as long-term treatment goals after ACS",
+      "Footnotes reference other recommendation tables for additional pharmacological treatments"
+    ]
+  },
+  "genes": []
+}

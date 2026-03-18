@@ -1,0 +1,49 @@
+{
+  "content": {
+    "STEMI_initial_treatment": {
+      "summary": "Uncertainty remains about optimal initial treatment for patients with a working diagnosis of STEMI. Infarct size and microvascular obstruction are the main determinants of long-term prognosis; interventions to limit infarct size are needed.",
+      "research_needs": [
+        "Placebo-controlled trials of therapies given before PPCI with hard endpoints.",
+        "Translate cardioprotective therapies from experimental to clinical setting via adequately powered trials."
+      ]
+    },
+    "Acute-phase_management_of_patients_with_NSTE-ACS": {
+      "summary": "Key uncertainties around invasive strategy and timing in NSTE-ACS.",
+      "evidence_gaps": [
+        "Comparison of routine versus selective invasive assessment in low-risk NSTE-ACS has not been adequately evaluated.",
+        "Optimal timing of invasive angiography in high-risk NSTE-ACS patients remains uncertain."
+      ],
+      "research_recommendations": [
+        "Randomize low-risk patients to routine or selective invasive strategy.",
+        "RCTs testing different time intervals to perform angiography within the 72 h window after initial presentation."
+      ]
+    },
+    "Antithrombotic_therapy": {
+      "summary": "Multiple uncertainties about P2Y12 inhibitor pre-treatment, strategies for de-escalation guided by platelet function or genetic testing, and optimal long-term antithrombotic regimens after PCI in NSTE-ACS.",
+      "evidence_gaps": [
+        "Whether pre-treatment with oral P2Y12 receptor inhibitors prior to ICA improves clinical outcomes in NSTE-ACS is uncertain.",
+        "Whether platelet function testing or genetic testing to guide de-escalation of oral P2Y12 receptor inhibitors after the first month of therapy following PCI improves clinical management and outcomes remains unclear.",
+        "The optimal long-term antithrombotic regimen in NSTE-ACS patients who have undergone PCI is unknown.",
+        "After stopping DAPT, head-to-head comparison based on superiority between aspirin and placebo before PPCI (context truncated on page) is required."
+      ],
+      "research_recommendations": [
+        "Randomize patients to pre-treatment with oral P2Y12 receptor inhibitors or no pre-treatment prior to ICA.",
+        "Randomize ACS patients to prasugrel or ticagrelor, both without pre-treatment.",
+        "Prospectively test a strategy based on platelet function testing or genetic testing in patients who may benefit from de-escalating antithrombotic therapy.",
+        "RCTs evaluating the benefit–risk balance for ischaemic versus bleeding events for different durations of antithrombotic therapy."
+      ]
+    }
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "NSTE-ACS (non–ST-elevation acute coronary syndrome)",
+        "antithrombotic therapy / platelet inhibition",
+        "peri-ICA (invasive coronary angiography) pre-treatment decisions"
+      ],
+      "Occurrences": 4,
+      "context": "The guideline text discusses uncertainty whether pre-treatment with oral P2Y12 receptor inhibitors prior to ICA improves outcomes, and whether platelet function testing or genetic testing to guide de-escalation of oral P2Y12 inhibitors after PCI improves management."
+    }
+  ]
+}

@@ -1,50 +1,55 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism - Reviewers (Declarations of Interest)",
-    "note": "Declarations reported to the ESC by experts during yearly call covering previous calendar year; calls conducted during development up to and including 2018.",
-    "experts": [
-      {
-        "name": "Katus Hugo",
-        "type_of_relationships": {
-          "1 - Financial Declaration": {
-            "A - Direct personal payment (examples listed)": [
-              "Daiichi Sankyo: Anticoagulants (2018)",
-              "Bayer Vital: Anticoagulants (2018)",
-              "Astrazeneca: Antiplatelet (2018)",
-              "Roche Diagnostics: Biomarker (2018)"
-            ],
-            "D - Research funding under direct/personal responsibility (to department/institution)": [
-              "Roche Diagnostics: Biomarker (2018)",
-              "Daiichi Sankyo: Xarelto (2018)"
-            ]
-          },
-          "2 - Other Positions of Influence": {
-            "2.3 - Membership or affiliation in political or advocacy groups working in cardiology": [
-              "President of the German Society of Cardiology (2018)"
-            ]
-          }
+    "diagnostic_algorithm_pregnancy": "A dedicated diagnostic algorithm is proposed for suspected PE in pregnancy (Figure 7).",
+    "radiation_absorption": "Updated information is provided on radiation absorption related to procedures used for diagnosing PE in pregnancy (Table 12).",
+    "long_term_sequelae": {
+      "summary": "An integrated model of patient care after PE is proposed to ensure optimal transition from hospital to community care.",
+      "recommendations_extended": "Recommendations on patient care have been extended to the entire spectrum of post-PE symptoms and functional limitation, not only CTEPH.",
+      "follow_up_algorithm": "A new comprehensive algorithm is proposed for patient follow-up after acute PE (Figure 8)."
+    },
+    "abbreviations": {
+      "CTEPH": "Chronic thromboembolic pulmonary hypertension",
+      "CTPA": "computed tomography pulmonary angiography",
+      "LMWH": "low-molecular weight heparin",
+      "NOAC(s)": "non-vitamin K antagonist oral anticoagulant(s)",
+      "PE": "pulmonary embolism",
+      "RV": "right ventricular",
+      "VKA(s)": "vitamin K antagonist(s)",
+      "VTE": "venous thromboembolism"
+    },
+    "changes_in_recommendations_2014_2019": {
+      "note": "Summary of recommendation class changes from 2014 to 2019 (ESC 2019).",
+      "table_summary": [
+        {
+          "recommendation": "Rescue thrombolytic therapy is recommended for patients who deteriorate haemodynamically.",
+          "class_2014": "IIa",
+          "class_2019": "I"
+        },
+        {
+          "recommendation": "Surgical embolectomy or catheter-directed treatment should be considered as alternatives to rescue thrombolytic therapy for patients who deteriorate haemodynamically.",
+          "class_2014": "IIb",
+          "class_2019": "IIa"
+        },
+        {
+          "recommendation": "D-dimer measurement and clinical prediction rules should be considered to rule out PE during pregnancy or the post-partum period.",
+          "class_2014": "IIb",
+          "class_2019": "IIa"
+        },
+        {
+          "recommendation": "Further evaluation may be considered for asymptomatic PE survivors at increased risk for CTEPH.",
+          "class_2014": "III",
+          "class_2019": "IIb"
         }
-      },
-      {
-        "name": "Kaymaz Cihangir",
-        "type_of_relationships": {
-          "1 - Financial Declaration": {
-            "A - Direct personal payment (examples listed)": [
-              "Actelion: pulmonary hypertension (2018)",
-              "Bayer: venous thromboembolism, anticoagulants (2018)",
-              "Pfizer: venous thromboembolism, anticoagulants (2018)"
-            ]
-          }
-        }
-      },
-      {
-        "name": "Kjellstrom Barbro",
-        "declaration": "Nothing to be declared (2018)"
-      }
-    ],
-    "document_footer": {
-      "date": "21/08/2019",
-      "page": "31/62"
+      ]
+    },
+    "links_and_figures": {
+      "figures_referenced": [
+        "Figure 7",
+        "Figure 8"
+      ],
+      "tables_referenced": [
+        "Table 12"
+      ]
     }
   },
   "genes": []

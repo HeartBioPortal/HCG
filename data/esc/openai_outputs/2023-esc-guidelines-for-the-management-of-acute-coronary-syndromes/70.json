@@ -1,53 +1,48 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers (Declarations of Interest)",
-    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during development of these guidelines up to and including 2022).",
-    "entries": [
+    "title": "Blood sampling and triage recommendations (ESC 2023)",
+    "blood_sampling_recommendations": [
       {
-        "Expert": "Ravn-Fischer Annica",
-        "Year": 2022,
-        "Type of relationship": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.; Research funding from healthcare industry under direct/personal responsibility (to department or institution).",
-        "Details": [
-          "Orion: Acute Heart Failure",
-          "Amgen: Risk Factors and Prevention",
-          "AstraZeneca: Risk Factors and Prevention",
-          "Bayer: Risk Factors and Prevention",
-          "Boehringer-Ingelheim: Risk Factors and Prevention",
-          "Novartis: Risk Factors and Prevention",
-          "Pfizer: Risk Factors and Prevention",
-          "Sanofi Aventis: Risk Factors and Prevention",
-          "Bristol Myers Squibb: Risk Factors and Prevention",
-          "Novo-Nordisk: Risk Factors and Prevention",
-          "Amarin: Risk Factors and Prevention",
-          "Research funding: Bayer: CAD-PAD research, Principal investigator"
-        ]
+        "recommendation": "Measure cardiac troponins with high-sensitivity assays immediately after presentation and obtain the results within 60 min of blood sampling.",
+        "class": "I",
+        "level_of_evidence": "B",
+        "notes": "Timely hs-cTn measurement; citation refs shown on page."
       },
       {
-        "Expert": "Rocca Bianca",
-        "Years": [
-          {
-            "Year": 2021,
-            "Type of relationship": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.; Research funding from healthcare industry under direct/personal responsibility (to department or institution).",
-            "Details": [
-              "Bayer AG: CV prevention in COVID pandemics",
-              "SOBI: platelet growth factor",
-              "Research funding: Bayer AG: anticoagulant (rivaroxaban)"
-            ]
-          },
-          {
-            "Year": 2022,
-            "Type of relationship": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.; Research funding from healthcare industry under direct/personal responsibility (to department or institution).",
-            "Details": [
-              "Aboca SRL: Other",
-              "Research funding: Bayer AG: study on low dose rivaroxaban, Chief investigator"
-            ]
-          }
-        ]
+        "recommendation": "Use an ESC algorithmic approach with serial high-sensitivity cardiac troponin (hs-cTn) measurements (0 h/1 h or 0 h/2 h) to rule in and rule out NSTEMI.",
+        "class": "I",
+        "level_of_evidence": "B",
+        "notes": "Serial measurements at specified intervals per ESC algorithm."
+      },
+      {
+        "recommendation": "Additional testing after 3 h is recommended if the first two hs-cTn measurements of the 0 h/1 h algorithm are inconclusive and no alternative diagnoses explaining the condition have been made.",
+        "class": "I",
+        "level_of_evidence": "B",
+        "notes": "Perform further testing at 3 h when initial 0 h/1 h results are inconclusive."
+      },
+      {
+        "recommendation": "Consider use of established risk scores (e.g., GRACE risk score) for prognosis estimation.",
+        "class": "IIa",
+        "level_of_evidence": "B",
+        "notes": "Risk stratification recommended to aid prognosis estimation."
       }
     ],
-    "page_footer": {
-      "date": "16/05/2023",
-      "page": "46/57"
+    "triage_for_emergency_reperfusion_strategy": {
+      "recommendation": "Patients with suspected STEMI should be immediately triaged for an emergency reperfusion strategy.",
+      "class": "I",
+      "level_of_evidence": "A",
+      "notes": "Immediate triage for reperfusion in suspected ST-elevation myocardial infarction."
+    },
+    "abbreviations_from_page": {
+      "ACS": "acute coronary syndrome",
+      "ECG": "electrocardiogram",
+      "ESC": "European Society of Cardiology",
+      "FMC": "first medical contact",
+      "GRACE": "Global Registry of Acute Coronary Events (risk score)",
+      "hs-cTn": "high-sensitivity cardiac troponin",
+      "MI": "myocardial infarction",
+      "NSTEMI": "non-ST-elevation myocardial infarction",
+      "STEMI": "ST-elevation myocardial infarction"
     }
   },
   "genes": []

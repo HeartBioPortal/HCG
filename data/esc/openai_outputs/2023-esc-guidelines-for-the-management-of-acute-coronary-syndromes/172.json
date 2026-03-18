@@ -1,0 +1,24 @@
+{
+  "content": {
+    "section_title": "Combining antiplatelets and OAC",
+    "recommendations": [
+      {
+        "text": "As the default strategy for patients with atrial fibrillation and CHA2DS2‑VASc score ≥1 in men and ≥2 in women, after up to 1 week of triple antithrombotic therapy following the ACS event, dual antithrombotic therapy using a NOAC at the recommended dose for stroke prevention and a single oral antiplatelet agent (preferably clopidogrel) for up to 12 months is recommended.",
+        "clinical_context": "Patients with atrial fibrillation post-acute coronary syndrome (ACS)",
+        "duration_and_drugs": "Up to 1 week triple therapy then NOAC + single antiplatelet (preferably clopidogrel) for up to 12 months",
+        "grading": "Class I, Level A"
+      },
+      {
+        "text": "During PCI, a UFH bolus is recommended in any of the following circumstances: if the patient is on a NOAC; if the INR is <2.5 in VKA-treated patients.",
+        "clinical_context": "Periprocedural management during percutaneous coronary intervention (PCI)",
+        "conditions_for_UFH_bolus": [
+          "Patient on a NOAC",
+          "INR < 2.5 in VKA-treated patients"
+        ],
+        "grading": "Class I, Level C"
+      }
+    ],
+    "notes": "NOAC = non-vitamin K oral anticoagulant; VKA = vitamin K antagonist; UFH = unfractionated heparin; ACS = acute coronary syndrome; INR = international normalized ratio; CHA2DS2‑VASc = stroke risk score."
+  },
+  "genes": []
+}

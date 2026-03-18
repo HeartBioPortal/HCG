@@ -1,0 +1,53 @@
+{
+  "content": {
+    "Family and informal caregivers": {
+      "Goal for patient/caregiver": "To be able to ask for support.",
+      "Professional behaviour / educational tools": [
+        "Discuss the preference of caregiver/family involvement.",
+        "Involve patients and caregivers in a respectful way."
+      ]
+    },
+    "Education topics": {
+      "Explanation about HF": {
+        "Goal for patient and caregiver": "To understand the cause of their HF, symptoms and treatment choice.",
+        "Professional behaviour and educational tools": "Provide tailored information."
+      },
+      "The HF trajectory": {
+        "Goals for patient and caregiver": [
+          "To understand prognosis and the different possible phases in the HF trajectory.",
+          "To make joint treatment decisions that recognise the patient's position on the HF trajectory."
+        ],
+        "Professional behaviour and educational tools": "Sensitively communicate information on prognosis at time of diagnosis, during decision making about treatment options, when there is a change in the clinical condition and whenever the patient requests."
+      }
+    },
+    "Medical treatment": {
+      "Medication": {
+        "Goals for patient and caregiver": [
+          "To be able to make joint decisions about medication.",
+          "To understand the indications, benefits, the need for long-term adherence to certain drugs, and the dosing and side effects of medication.",
+          "To be able to recognize the common side effects of medication and know what actions to take."
+        ],
+        "Professional behaviour and educational tools": [
+          "Provide written and oral information on indication, benefits, dosing, effects and side effects.",
+          "Discuss practical issues such as optimal time-schedule, what to do in case of a missed dose etc.",
+          "Discuss possible barriers for medication taking.",
+          "Advise on support aids such as dosette box, electronic reminders etc. when appropriate."
+        ]
+      },
+      "Implanted devices": {
+        "Goals for patient and caregiver": [
+          "To be able to make joint decisions on device implantation.",
+          "To understand the indications, importance, expectations and check-up routine for implanted devices, and any exception management.",
+          "To be able to recognize the common complications (including the risk of inappropriate defibrillator shocks), and know what actions to take."
+        ],
+        "Professional behaviour and educational tools": [
+          "Provide written and oral information about the importance and expectations of implanted devices, and possible ways of follow-up (remote monitoring).",
+          "Discuss expectations and any possible impact on driving.",
+          "Clearly identify situations where the device might be deactivated or explanted.",
+          "Involve patient and caregiver in decision making."
+        ]
+      }
+    }
+  },
+  "genes": []
+}

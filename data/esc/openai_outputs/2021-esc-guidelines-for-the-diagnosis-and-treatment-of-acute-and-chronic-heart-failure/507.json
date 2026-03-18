@@ -1,0 +1,60 @@
+{
+  "content": {
+    "page_section": "References (971-979)",
+    "references": [
+      {
+        "number": 971,
+        "citation": "Castano A, Narotsky DL, Hamid N, et al. Unveiling transthyretin cardiac amyloidosis and its predictors among elderly patients with severe aortic stenosis undergoing transcatheter aortic valve replacement. Eur Heart J 2017;38:2879–2887."
+      },
+      {
+        "number": 972,
+        "citation": "Nitsche C, Aschauer S, Kammerlander AA, et al. Light-chain and transthyretin cardiac amyloidosis in severe aortic stenosis: prevalence, screening possibilities, and outcome. Eur J Heart Fail 2020;22:1852–1862."
+      },
+      {
+        "number": 973,
+        "citation": "Garcia-Pavia P, Rapezzi C, Adler Y, et al. Diagnosis and treatment of cardiac amyloidosis. A position statement of the European Society of Cardiology Working Group on Myocardial and Pericardial Diseases. Eur J Heart Fail 2021;23:512–526."
+      },
+      {
+        "number": 974,
+        "citation": "Boldrini M, Cappelli F, Chacko L, et al. Multiparametric echocardiography scores for the diagnosis of cardiac amyloidosis. JACC Cardiovasc Imaging 2020;13:909–920."
+      },
+      {
+        "number": 975,
+        "citation": "Gillmore JD, Maurer MS, Falk RH, et al. Nonbiopsy diagnosis of cardiac transthyretin amyloidosis. Circulation 2016;133:2404–2412."
+      },
+      {
+        "number": 976,
+        "citation": "Zhao L, Tian Z, Fang Q. Diagnostic accuracy of cardiovascular magnetic resonance for patients with suspected cardiac amyloidosis: a systematic review and meta-analysis. BMC Cardiovasc Disord 2016;16:129."
+      },
+      {
+        "number": 977,
+        "citation": "Bhuiyan T, Helmke S, Patel AR, et al. Pressure-volume relationships in patients with transthyretin (ATTR) cardiac amyloidosis secondary to V122I mutations and wild-type transthyretin: Transthyretin Cardiac Amyloid Study (TRACS). Circ Heart Fail 2011;4:121–128."
+      },
+      {
+        "number": 978,
+        "citation": "Cheung CC, Roston TM, Andrade JG, et al. Arrhythmias in cardiac amyloidosis: challenges in risk stratification and treatment. Can J Cardiol 2020;36:416–423."
+      },
+      {
+        "number": 979,
+        "citation": "Maurer MS, Schwartz JH, Gundapaneni B, et al. ATTR-ACT Study Investigators. Tafamidis treatment for ... (truncated in image)."
+      }
+    ],
+    "topics_covered": [
+      "Transthyretin (ATTR) cardiac amyloidosis: diagnosis, prevalence, screening, nonbiopsy diagnostic approaches, imaging accuracy, and treatment (e.g., tafamidis).",
+      "Cardiac amyloidosis in the context of severe aortic stenosis and transcatheter aortic valve replacement.",
+      "Specific TTR variant V122I mentioned in relation to ATTR."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "TTR",
+      "Associated Conditions": [
+        "Transthyretin cardiac amyloidosis (ATTR)",
+        "Wild-type transthyretin cardiac amyloidosis",
+        "Hereditary ATTR associated with V122I mutation"
+      ],
+      "Occurrences": 6,
+      "context": "Multiple references discuss transthyretin (TTR) in the context of cardiac amyloidosis (e.g., refs 971, 972, 975, 977) including mention of ATTR, wild-type transthyretin, and V122I mutations (ref 977)."
+    }
+  ]
+}

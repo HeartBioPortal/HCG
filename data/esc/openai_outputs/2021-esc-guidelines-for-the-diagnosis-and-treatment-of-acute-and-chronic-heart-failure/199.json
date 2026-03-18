@@ -1,0 +1,32 @@
+{
+  "content": {
+    "page_title": "Recommendations for telemonitoring",
+    "summary": "Non-invasive home telemonitoring (HTM) may be considered for patients with heart failure (HF) to reduce risk of recurrent cardiovascular (CV) and HF hospitalizations and CV death. Monitoring of pulmonary artery pressure using a wireless haemodynamic monitoring system may be considered in symptomatic patients with heart failure with reduced ejection fraction (HFrEF; LVEF ≤35%) to improve clinical outcomes.",
+    "recommendations": [
+      {
+        "text": "Non-invasive HTM may be considered for patients with HF in order to reduce the risk of recurrent CV and HF hospitalizations and CV death.",
+        "class": "IIb",
+        "level": "B",
+        "reference_note": "Citation 374 shown on page"
+      },
+      {
+        "text": "Monitoring of pulmonary artery pressure using a wireless haemodynamic monitoring system may be considered in symptomatic patients with HFrEF (LVEF ≤35%) in order to improve clinical outcomes.",
+        "class": "IIb",
+        "level": "B",
+        "reference_note": "Citation 372 shown on page"
+      }
+    ],
+    "abbreviations": {
+      "CV": "cardiovascular",
+      "HF": "heart failure",
+      "HFrEF": "heart failure with reduced ejection fraction",
+      "HTM": "home telemonitoring",
+      "LVEF": "left ventricular ejection fraction"
+    },
+    "notes": "Footnotes a = Class of recommendation; b = Level of evidence.",
+    "image_captions": [
+      "Two identical recommendation panels showing Class IIb, Level B for both recommendations."
+    ]
+  },
+  "genes": []
+}

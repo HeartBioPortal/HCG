@@ -1,38 +1,133 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "organization": "European Society of Cardiology (ESC)",
-    "page_date": "12/08/2021",
-    "note": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during development of these guidelines up to and including 2020).",
-    "expert": {
-      "name": "Cleland John",
-      "declaration_year": "2020",
-      "type_of_relationship_with_industry": [
-        "Bristol Myers Squibb : heart failure",
-        "Medtronic : Heart failure devices",
-        "CVRx : Heart failure devices",
-        "Idorsia : Hypertension",
-        "Pharmacosmos : IV Iron",
-        "Pharmanord : Nutritional supplements"
-      ],
-      "research_funding_under_direct_personal_responsibility": [
-        "Bayer Healthcare : CV Disease",
-        "Amgen : Heart Failure",
-        "Boehringer-Ingelheim : Heart Failure",
-        "Novartis : Heart Failure",
-        "Philips : Heart Failure",
-        "Vifor International : Heart Failure",
-        "Roche Diagnostics : Heart Failure",
-        "MyoKardia : Heart Failure",
-        "Thermofisher : Heart Failure",
-        "Stealth Biopharmaceuticals : heart failure",
-        "Pharmacosmos : Heart Failure",
-        "Viscardia : Heart Failure - Devices"
-      ],
-      "research_funding_personal_from_healthcare_industry": [
-        "Torrent : Development of an AGE breaker"
-      ]
-    }
+    "document_section": "List of tables (Table of contents) from a clinical guideline on heart failure",
+    "tables": [
+      {
+        "Number": 1,
+        "Title": "Classes of recommendations",
+        "Page": 3608
+      },
+      {
+        "Number": 2,
+        "Title": "Levels of evidence",
+        "Page": 3608
+      },
+      {
+        "Number": 3,
+        "Title": "Definition of heart failure with reduced ejection fraction, mildly reduced ejection fraction and preserved ejection fraction",
+        "Page": 3613
+      },
+      {
+        "Number": 4,
+        "Title": "New York Heart Association functional classification based on severity of symptoms and physical activity",
+        "Page": 3614
+      },
+      {
+        "Number": 5,
+        "Title": "Causes of heart failure, common modes of presentation and specific investigations",
+        "Page": 3616
+      },
+      {
+        "Number": 6,
+        "Title": "Symptoms and signs typical of heart failure",
+        "Page": 3617
+      },
+      {
+        "Number": 7,
+        "Title": "Causes of elevated concentrations of natriuretic peptides",
+        "Page": 3618
+      },
+      {
+        "Number": 8,
+        "Title": "Evidence-based doses of disease-modifying drugs in key randomized trials in patients with heart failure with reduced ejection fraction",
+        "Page": 3621
+      },
+      {
+        "Number": 9,
+        "Title": "Objective evidence of cardiac structural, functional and serological abnormalities consistent with the presence of left ventricular diastolic dysfunction/raised left ventricular filling pressures",
+        "Page": 3631
+      },
+      {
+        "Number": 10,
+        "Title": "Risk factors for the development of heart failure and potential corrective actions",
+        "Page": 3632
+      },
+      {
+        "Number": 11,
+        "Title": "Important characteristics and components in a heart failure management programme",
+        "Page": 3634
+      },
+      {
+        "Number": 12,
+        "Title": "Patient education and self-care",
+        "Page": 3634
+      },
+      {
+        "Number": 13,
+        "Title": "Criteria for definition of advanced heart failure",
+        "Page": 3638
+      },
+      {
+        "Number": 14,
+        "Title": "Interagency Registry for Mechanically Assisted Circulatory Support profile descriptions of patients with advanced heart failure",
+        "Page": 3638
+      },
+      {
+        "Number": 15,
+        "Title": "Terms describing various indications for mechanical circulatory support",
+        "Page": 3642
+      },
+      {
+        "Number": 16,
+        "Title": "Patients potentially eligible for implantation of a left ventricular assist device",
+        "Page": 3642
+      },
+      {
+        "Number": 17,
+        "Title": "Heart transplantation: indications and contraindications",
+        "Page": 3643
+      },
+      {
+        "Number": 18,
+        "Title": "Patients with heart failure in whom end-of-life care should be considered",
+        "Page": 3644
+      },
+      {
+        "Number": 19,
+        "Title": "Key components of palliative care service in patients with advanced heart failure",
+        "Page": 3644
+      },
+      {
+        "Number": 20,
+        "Title": "Diagnostic tests in patients with acute heart failure",
+        "Page": 3646
+      },
+      {
+        "Number": 21,
+        "Title": "Clinical presentations of acute heart failure",
+        "Page": 3647
+      },
+      {
+        "Number": 22,
+        "Title": "Inotropes and/or vasopressors used to treat acute heart failure",
+        "Page": 3655
+      },
+      {
+        "Number": 23,
+        "Title": "Cancer drugs causing heart failure",
+        "Page": 3673
+      },
+      {
+        "Number": 24,
+        "Title": "Infections in patients with heart failure",
+        "Page": 3675
+      },
+      {
+        "Number": 25,
+        "Title": "Possible causes and disease modifiers of most frequent cardiomyopathies",
+        "Page": 3678
+      }
+    ]
   },
   "genes": []
 }

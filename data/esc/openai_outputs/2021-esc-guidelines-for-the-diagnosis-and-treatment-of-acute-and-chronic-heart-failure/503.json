@@ -1,0 +1,25 @@
+{
+  "content": {
+    "references": [
+      "931 Brignole M, Moya A, de Lange FJ, Deharo JC, Elliott PM, Fanciulli A, Fedorowski A, Furlan R, Kenny RA, Martin A, Probst V, Reed MJ, Rice CP, Sutton R, Ungar A, van Dijk JG, ESC Scientific Document Group. 2018 ESC Guidelines for the diagnosis and management of syncope. Eur Heart J 2018;39:1883–1948.",
+      "932 Marcus FI, McKenna WJ, Sherrill D, Basso C, Bauce B, Bluemke DA, Calkins H, Corrado D, Cox MG, Daubert JP, Fontaine G, Gear K, Hauer R, Nava A, Picard MH, Protonotarios N, Saffitz JE, Sanborn DM, Steinberg JS, Tandri H, Thiene G, Towbin JA, Tsatsopoulou A, Wichter T, Zareba W. Diagnosis of arrhythmogenic right ventricular cardiomyopathy/dysplasia: proposed modification of the task force criteria. Circulation 2010;121:1533–1541.",
+      "933 Corrado D, van Tintelen PJ, McKenna WJ, Hauer RNW, Anastastakis A, Asimaki A, Basso C, Bauce B, Brunckhorst C, Bucciarelli-Ducci C, Duru F, Elliott P, Hamilton RM, Haugaa KH, James CA, Judge D, Link MS, Marchlinski FE, Mazzanti A, Mestroni L, Pantazis A, Pelliccia A, Marra MP, Pilichou K, Platonov PGA, Protonotarios A, Rampazzo A, Saffitz JE, Saguner AM, Schmied C, Sharma S, Tandri H, Te Riele A, Thiene G, Tsatsopoulou A, Zareba W, Zorzi A, Wichter T, Marcus FI, Calkins H, International Experts. Arrhythmogenic right ventricular cardiomyopathy: evaluation of the current diagnostic criteria and differential diagnosis. Eur Heart J 2020;41:1414–1429.",
+      "934 Reichl K, Kreykes SE, Martin CM, Shenoy C. Desmoplakin variant-associated arrhythmogenic cardiomyopathy presenting as acute myocarditis. Circ Genom Precis Med 2018;11:e002373.",
+      "935 Lopez-Ayala JM, Pastor-Quirante F, Gonzalez-Carrillo J, Lopez-Cuenca D, Sanchez-Munoz JJ, Oliva-Sandoval MJ, Gimeno JR. Genetics of myocarditis in arrhythmogenic right ventricular dysplasia. Heart Rhythm 2015;12:766–773.",
+      "936 Pelliccia A, Solberg EE, Papadakis M, Adami PE, Biffi A, Caselli S, La Gerche A, Niebauer J, Pressler A, Schmied CM, Serratosa L, Halle M, Van Buuren F, Borjesson M, Carre F, Panhuyzen-Goedkoop NM, Heidbuchel H, Olivotto I, Corrado D, Sinagra G, Sharma S. Recommendations for participation in competitive and leisure time sport in athletes with cardiomyopathies, myocarditis, and pericarditis: position statement of the Sport Cardiology Section of the European Association of Preventive Cardiology (EAPC). Eur Heart J 2019;40:19??–???.",
+      "937 Sedaghat-Hamedani F, Haas J, Zhu F, Geier C, Kayvanpour E, Liss M, Lai A, Frese K, Pribe-Wolferts R, Amr A, Li DT, Samani OS, Carstensen A, Bordalo DM, Muller M, Fischer C, Shao J, Wang J, Nie M, Yuan L, Hassfeld S, Schwartz C, Zhou M, Zhou Z, Shu Y, Wang M, Huang K, Zeng Q, Cheng L, Fehlmann T, Ehlermann P, Keller A, Dieterich C, Streckfuss-Bomeke K, Liao Y, Gotthardt M, Katus HA, Meder B. Clinical genetics and outcome of left ventricular non-compaction cardiomyopathy. Eur Heart J 2017;38:3449–3460.",
+      "938 Towbin JA, Lorts A, Jefferies JL. Left ventricular non-compaction cardiomyopathy. Lancet 2015;386:813–825."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "DSP",
+      "Associated Conditions": [
+        "Arrhythmogenic cardiomyopathy",
+        "Acute myocarditis (presentation of DSP variant-associated arrhythmogenic cardiomyopathy)"
+      ],
+      "Occurrences": 1,
+      "context": "Reference 934: 'Desmoplakin variant-associated arrhythmogenic cardiomyopathy presenting as acute myocarditis.'"
+    }
+  ]
+}

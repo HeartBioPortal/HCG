@@ -1,71 +1,134 @@
 {
   "content": {
-    "document_title": "2023 ESC Guidelines for the management of acute coronary syndromes - Task Force Members",
-    "note": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during development period up to and including 2022).",
-    "page_metadata": {
-      "date": "12/05/2023",
-      "page": "14/23"
-    },
-    "experts": [
+    "title": "Extracted sections from guideline page",
+    "sections": [
       {
-        "name": "Kimura Takeshi",
-        "entries": [
-          {
-            "year": 2022,
-            "relationship_summary": "Research funding from healthcare industry to department/institution under direct/personal responsibility.",
-            "details": [
-              "Boston Scientific: OPTIVUS Complex PCI, Chief investigator",
-              "Abbott: STOPDAPT=3, Chief investigator"
-            ]
-          }
-        ]
+        "number": "13.1.3",
+        "title": "Adherence and persistence",
+        "page": 3783
       },
       {
-        "name": "Kunadian Vijay",
-        "entries": [
-          {
-            "year": 2020,
-            "relationship_summary": "Direct personal payment from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member).",
-            "details": [
-              "Bayer AG: Digital health, antithrombotic therapy",
-              "Abbott Vascular: Stent trial Xience Short DAPT UK Chief Investigator"
-            ]
-          },
-          {
-            "year": 2021,
-            "relationship_summary": "Payment from healthcare industry to department/institution or other body for personal services (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member).",
-            "details": [
-              "Bayer AG: Anticoagulation",
-              "AstraZeneca: COPD and CVD",
-              "Medtronic: Drug coated balloons lecture",
-              "Sanofi Aventis: Lecture, women and heart disease"
-            ]
-          },
-          {
-            "year": 2022,
-            "relationship_summary": "Payment from healthcare industry to department/institution for personal services; travel and meeting support from industry (independent of above activities).",
-            "details": [
-              "Medtronic: Acute Coronary Syndromes",
-              "Bayer AG: Acute Coronary Syndromes",
-              "Travel and meeting support from healthcare industry (Bayer AG noted)"
-            ]
-          }
-        ]
+        "number": "13.2",
+        "title": "Lifestyle management",
+        "page": 3783
       },
       {
-        "name": "Leosdottir Margret",
-        "entries": [
-          {
-            "year": 2020,
-            "relationship_summary": "Direct personal payment from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member) and research funding to department/institution.",
-            "details": [
-              "Novo Nordisk: Speaker fees",
-              "Pfizer: Investigator-initiated study funding"
-            ]
-          }
-        ]
+        "number": "13.2.1",
+        "title": "Tobacco",
+        "page": 3783
+      },
+      {
+        "number": "13.2.2",
+        "title": "Nutrition and alcohol",
+        "page": 3783
+      },
+      {
+        "number": "13.2.3",
+        "title": "Physical activity and exercise",
+        "page": 3784
+      },
+      {
+        "number": "13.2.4",
+        "title": "Psychological considerations",
+        "page": 3784
+      },
+      {
+        "number": "13.2.5",
+        "title": "Resumption of activities",
+        "page": 3784
+      },
+      {
+        "number": "13.3",
+        "title": "Pharmacological treatment",
+        "page": 3784
+      },
+      {
+        "number": "13.3.1",
+        "title": "Antithrombotic therapy",
+        "page": 3784
+      },
+      {
+        "number": "13.3.2",
+        "title": "Lipid-lowering therapy",
+        "page": 3784
+      },
+      {
+        "number": "13.3.3",
+        "title": "Beta-blockers",
+        "page": 3785
+      },
+      {
+        "number": "13.3.4",
+        "title": "Nitrates and calcium channel blockers",
+        "page": 3786
+      },
+      {
+        "number": "13.3.5",
+        "title": "Renin–angiotensin–aldosterone system inhibitors",
+        "page": 3786
+      },
+      {
+        "number": "13.3.6",
+        "title": "Medications for diabetes",
+        "page": 3786
+      },
+      {
+        "number": "13.3.6.1",
+        "title": "Sodium–glucose co-transporter 2 inhibitors",
+        "page": 3786
+      },
+      {
+        "number": "13.3.6.2",
+        "title": "Glucagon-like peptide-1 receptor agonists",
+        "page": 3787
+      },
+      {
+        "number": "13.3.7",
+        "title": "Proton pump inhibitors",
+        "page": 3787
+      },
+      {
+        "number": "13.3.8",
+        "title": "Vaccination",
+        "page": 3787
+      },
+      {
+        "number": "13.3.9",
+        "title": "Anti-inflammatory drugs",
+        "page": 3787
+      },
+      {
+        "number": "13.3.10",
+        "title": "Hormone replacement therapy",
+        "page": 3787
+      },
+      {
+        "number": "14",
+        "title": "Patient perspectives",
+        "page": 3788
+      },
+      {
+        "number": "14.1",
+        "title": "Patient-centred care",
+        "page": 3788
+      },
+      {
+        "number": "14.2",
+        "title": "Shared decision-making",
+        "page": 3789
+      },
+      {
+        "number": "14.3",
+        "title": "Informed consent",
+        "page": 3789
+      },
+      {
+        "number": "14.4",
+        "title": "Research participation and consent in the acute setting",
+        "page": 3790
       }
-    ]
+    ],
+    "notes": "This page is a table-of-contents style listing of sections and subsections. No human gene names are present on this page."
   },
   "genes": []
 }

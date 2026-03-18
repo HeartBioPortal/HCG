@@ -1,0 +1,94 @@
+{
+  "content": {
+    "recommendations_general": [
+      {
+        "text": "It is recommended to base the revascularization strategy (IRA PCI, multivessel PCI/CABG) on the patient's clinical status and comorbidities, as well as their disease complexity, according to the principles of management of myocardial revascularization.",
+        "class": "I",
+        "level": "B",
+        "citations": [
+          "480",
+          "481"
+        ]
+      }
+    ],
+    "multivessel_disease_in_ACS_patients_presenting_in_cardiogenic_shock": [
+      {
+        "text": "IRA-only PCI during the index procedure is recommended.",
+        "class": "I",
+        "level": "B",
+        "citations": [
+          "404",
+          "505"
+        ]
+      },
+      {
+        "text": "Staged PCI of non-IRA should be considered.",
+        "class": "IIa",
+        "level": "C",
+        "notes": "Based on ischaemia, symptoms, patient comorbidities, and clinical condition (footnote c)."
+      }
+    ],
+    "multivessel_disease_in_haemodynamically_stable_STEMI_patients_undergoing_PPCI": [
+      {
+        "text": "Complete revascularization is recommended either during the index PCI procedure or within 45 days.",
+        "class": "I",
+        "level": "A",
+        "citations": [
+          "508",
+          "509",
+          "510",
+          "511",
+          "531"
+        ]
+      },
+      {
+        "text": "It is recommended that PCI of the non-IRA is based on angiographic severity.",
+        "class": "I",
+        "level": "B",
+        "citations": [
+          "511",
+          "524"
+        ]
+      },
+      {
+        "text": "Invasive epicardial functional assessment of non-culprit segments of the IRA is not recommended during the index procedure.",
+        "class": "III",
+        "level": "C"
+      }
+    ],
+    "multivessel_disease_in_haemodynamically_stable_NSTE-ACS_patients_undergoing_PCI": [
+      {
+        "text": "In patients presenting with NSTE-ACS and MVD, complete revascularization should be considered, preferably during the index procedure.",
+        "class": "IIa",
+        "level": "C",
+        "citations": [
+          "513",
+          "514"
+        ]
+      },
+      {
+        "text": "Functional invasive evaluation of non-IRA severity during the index procedure may be considered.",
+        "class": "IIb",
+        "level": "B",
+        "citations": [
+          "518",
+          "527",
+          "528",
+          "532"
+        ]
+      }
+    ],
+    "abbreviations_and_notes": {
+      "ACS": "acute coronary syndrome",
+      "CABG": "coronary artery bypass grafting",
+      "IRA": "infarct-related artery",
+      "MVD": "multivessel disease",
+      "NSTE-ACS": "non-ST-elevation acute coronary syndrome",
+      "PCI": "percutaneous coronary intervention",
+      "PPCI": "primary percutaneous coronary intervention",
+      "STEMI": "ST-elevation myocardial infarction",
+      "notes": "a = Class of recommendation; b = Level of evidence; c = Based on ischaemia, symptoms, patient comorbidities, and clinical condition."
+    }
+  },
+  "genes": []
+}

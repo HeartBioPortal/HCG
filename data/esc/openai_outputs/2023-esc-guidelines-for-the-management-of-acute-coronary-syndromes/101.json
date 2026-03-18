@@ -1,0 +1,24 @@
+{
+  "content": {
+    "page_title": "Routine vs. selective invasive strategy; Early vs. delayed invasive strategy for non-ST elevation acute coronary syndrome",
+    "recommendation_summary": "A routine invasive strategy with inpatient coronary angiography is recommended for patients with a confirmed diagnosis of NSTEMI or a working diagnosis of NSTE-ACS and a high index of suspicion for UA. In patients with a working diagnosis of NSTE-ACS, multiple RCTs comparing routine vs. selective invasive strategies have been pooled. Available evidence indicates routine invasive strategy does not reduce all-cause mortality in the overall NSTE-ACS population but reduces risk of composite ischemic endpoints, particularly in high-risk patients. Routine invasive strategy may increase peri-procedural complications and bleeding. Much evidence is from older RCTs conducted before modern PCI developments (radial access, drug-eluting stents, complete revascularization for multivessel disease, improved co‑adjuvant pharmacotherapies, and contemporary biomarker assays).",
+    "early_vs_delayed_definition": "An early invasive strategy refers to routine invasive angiography (and PCI if needed) within 24 h of presentation.",
+    "when_to_consider_early_strategy": [
+      "Working diagnosis of NSTE-ACS plus any high-risk criterion"
+    ],
+    "high_risk_criteria_list": [
+      "Confirmed diagnosis of NSTEMI based on current recommended ESC high-sensitivity cardiac troponin (hs-cTn) algorithms",
+      "Dynamic ST-segment or T-wave changes",
+      "Transient ST-segment elevation",
+      "GRACE risk score >140"
+    ],
+    "evidence_summary": [
+      "Several meta-analyses pooled data from multiple RCTs assessing different timing intervals of invasive angiography among NSTE-ACS patients. None observed superiority of early invasive strategies compared with routine invasive strategies for death or non-fatal MI.",
+      "Early invasive strategies were associated with lower risk of recurrent/refractory ischemia and shorter hospital stay in some analyses.",
+      "A collaborative meta-analysis using modified individual patient data observed no difference in overall mortality but a survival benefit in high-risk patients (including those with GRACE >140 and those with positive troponin); interaction tests were inconclusive.",
+      "The largest meta-analysis to date (17 RCTs, >10,000 patients) reported findings for all-comers with NSTE-ACS (text truncated on page)."
+    ],
+    "notes": "Evidence base includes older trials; applicability should be considered in context of modern PCI techniques and current biomarker assays."
+  },
+  "genes": []
+}

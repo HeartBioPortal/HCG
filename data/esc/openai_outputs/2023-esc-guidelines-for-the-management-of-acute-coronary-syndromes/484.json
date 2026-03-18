@@ -1,0 +1,36 @@
+{
+  "content": {
+    "summary": "Reference list focused on biomarkers for acute myocardial infarction and the use of high-sensitivity cardiac troponin assays (troponin I and T) for early diagnosis of acute myocardial infarction and assessment in cardiac disease.",
+    "references": [
+      "Mueller C, Giannitsis E, Mockel M, Huber K, Mair J, Plebani M, et al. Rapid rule out of acute myocardial infarction: novel biomarker-based strategies. Eur Heart J Acute Cardiovasc Care 2017;6:218–222. https://doi.org/10.1177/2048872616653229",
+      "Mockel M, Giannitsis E, Mueller C, Huber K, Jaffe AS, Mair J, et al. Rule-in of acute myocardial infarction: focus on troponin. Eur Heart J Acute Cardiovasc Care 2017;6:212–217. https://doi.org/10.1177/2048872616653228",
+      "Roe MT, Harrington RA, Prosper DM, Pieper KS, Bhatt DL, Lincoff AM, et al. Clinical and therapeutic profile of patients presenting with acute coronary syndromes who do not have significant coronary artery disease. The Platelet Glycoprotein IIb/IIIa in Unstable Angina: Receptor Suppression Using Integrilin Therapy (PURSUIT) investigators. Circulation 2000;102:1101–1106. https://doi.org/10.1161/01.cir.102.10.1101",
+      "Westermann D, Neumann JT, Sorensen NA, Blankenberg S. High-sensitivity assays for troponin in patients with cardiac disease. Nat Rev Cardiol 2017;14:472–483. https://doi.org/10.1038/nrcardio.2017.48",
+      "Rubini Gimenez M, Twerenbold R, Reichlin T, Wildi K, Haaf P, Schaefer M, et al. Direct comparison of high-sensitivity-cardiac troponin I vs. T for the early diagnosis of acute myocardial infarction. Eur Heart J 2014;35:2303–2311. https://doi.org/10.1093/eurheartj/ehu188",
+      "Boeddinghaus J, Nestelberger T, Twerenbold R, Koechlin L, Meier M, Troester V, et al. High-sensitivity cardiac troponin I assay for early diagnosis of acute myocardial infarction. Clin Chem 2019;65:893–904. https://doi.org/10.1373/clinchem.2018.300061",
+      "Keller T, Zeller T, Peetz D, Tzikas S, Roth A, Czyz E, et al. Sensitive troponin I assay in early diagnosis of acute myocardial infarction. N Engl J Med 2009;361:868–877. https://doi.org/10.1056/NEJMoa0903515",
+      "Collinson PO, Saenger AK, Apple FS; IFCC C-CB. High sensitivity, contemporary and point-of-care cardiac troponin assays: educational aids developed by the IFCC Committee on Clinical Application of Cardiac Bio-Markers. Clin Chem Lab Med 2019;57:623–632. https://doi.org/10.1515/cclm-2018-1211"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "TNNI3",
+      "Associated Conditions": [
+        "Acute myocardial infarction",
+        "Early diagnosis of acute myocardial infarction",
+        "Cardiac disease / diagnostic assays"
+      ],
+      "Occurrences": 4,
+      "context": "Multiple references discuss high-sensitivity cardiac troponin I assays and direct comparison of troponin I for the early diagnosis of acute myocardial infarction (refs: Rubini Gimenez et al., Boeddinghaus et al., Keller et al., Collinson et al.)."
+    },
+    {
+      "Gene": "TNNT2",
+      "Associated Conditions": [
+        "Acute myocardial infarction",
+        "Early diagnosis of acute myocardial infarction"
+      ],
+      "Occurrences": 1,
+      "context": "Reference explicitly compares high-sensitivity cardiac troponin I vs T for early diagnosis of acute myocardial infarction (Rubini Gimenez et al.)."
+    }
+  ]
+}

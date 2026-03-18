@@ -1,79 +1,54 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during development of these guidelines up to and including 2020.",
-    "page_date": "03/08/2021",
-    "experts": [
-      {
-        "name": "Goncalvesova Eva",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-        "companies_and_context": [
-          {
-            "company": "Amgen",
-            "context": "heart failure"
-          },
-          {
-            "company": "Boehringer-Ingelheim",
-            "context": "heart failure"
-          },
-          {
-            "company": "Novartis",
-            "context": "heart failure"
-          },
-          {
-            "company": "Merck",
-            "context": "heart failure"
-          },
-          {
-            "company": "Servier",
-            "context": "heart failure, arterial hypertension"
-          },
-          {
-            "company": "Medtronic",
-            "context": "left ventricular assist devices"
-          },
-          {
-            "company": "Johnson & Johnson",
-            "context": "pulmonary hypertension"
-          },
-          {
-            "company": "AOP Orphan Pharmaceuticals",
-            "context": "pulmonary hypertension"
-          },
-          {
-            "company": "Sandoz",
-            "context": "Transplantation"
-          }
-        ]
-      },
-      {
-        "name": "Gotsman Israel",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "summary": "Payment from healthcare industry to department/institution for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-        "companies_and_context": [
-          {
-            "company": "Vifor International",
-            "context": "Research"
-          }
-        ]
-      },
-      {
-        "name": "Gulati Geeta",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-        "companies_and_context": [
-          {
-            "company": "Bristol Myers Squibb",
-            "context": "Speaker fees"
-          }
-        ]
-      }
+    "Recommendations for management of patients with HF and diabetes": [
+      "SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, sotagliflozin) are recommended in patients with T2DM at risk of CV events to reduce hospitalizations for HF, major CV events, end-stage renal dysfunction, and CV death. (Class I)",
+      "SGLT2 inhibitors (dapagliflozin, empagliflozin, and sotagliflozin) are recommended in patients with T2DM and HFrEF to reduce hospitalizations for HF and CV death. (Class I)",
+      "The DPP-4 inhibitor saxagliptin is not recommended in patients with HF. (Class III)"
+    ],
+    "Recommendations for management of patients with HF and iron deficiency": [
+      "All patients with HF should be periodically screened for anaemia and iron deficiency with a full blood count, serum ferritin concentration, and TSAT. (Class I)",
+      "Intravenous iron supplementation with ferric carboxymaltose should be considered in symptomatic HF patients recently hospitalized for HF with LVEF ≤50% and iron deficiency (serum ferritin <100 ng/mL or ferritin 100–299 ng/mL with TSAT <20%) to reduce risk of HF hospitalization. (Class IIa)",
+      "Treatment of anaemia in HF with erythropoietin stimulating agents is not recommended in the absence of other indications. (Class III)"
+    ],
+    "Recommendations for management of patients with HF and cancer": [
+      "Cancer patients at increased risk for cardiotoxicity should undergo CV evaluation before scheduled anticancer therapy, preferably by a cardiologist with experience/interest in Cardio-Oncology. (Class I)",
+      "Treatment with an ACE‑I and a beta-blocker (preferably carvedilol) should be considered in cancer patients developing LV systolic dysfunction during anthracycline chemotherapy. (Class IIa)",
+      "A baseline CV risk assessment should be considered in all cancer patients scheduled to receive cancer treatment with potential to cause HF. (Class IIa)"
+    ],
+    "Recommendations for treatment of patients with HF and amyloidosis": [
+      "Tafamidis is recommended in patients with genetic testing–proven hATTR‑CA and NYHA class I or II symptoms to reduce symptoms, CV hospitalization and mortality. (Class I)",
+      "Tafamidis is recommended in patients with wtTTR‑CA and NYHA class I or II symptoms to reduce symptoms and CV hospitalization. (Class I)"
     ]
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "SLC5A2 (SGLT2)",
+      "Associated Conditions": [
+        "Type 2 diabetes mellitus (T2DM)",
+        "Heart failure (HF)",
+        "Heart failure with reduced ejection fraction (HFrEF)",
+        "Cardiovascular (CV) events"
+      ],
+      "Occurrences": 2,
+      "context": "The guideline repeatedly refers to 'SGLT2 inhibitors' (named drugs: canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, sotagliflozin) as recommended in patients with T2DM and in patients with T2DM and HFrEF to reduce HF hospitalizations and CV death."
+    },
+    {
+      "Gene": "DPP4 (DPP-4)",
+      "Associated Conditions": [
+        "Heart failure (HF)"
+      ],
+      "Occurrences": 1,
+      "context": "The guideline states 'The DPP-4 inhibitor saxagliptin is not recommended in patients with HF.'"
+    },
+    {
+      "Gene": "TTR",
+      "Associated Conditions": [
+        "Hereditary transthyretin amyloid cardiomyopathy (hATTR‑CA)",
+        "Wild-type transthyretin cardiac amyloidosis (wtTTR‑CA)",
+        "Cardiac amyloidosis with HF"
+      ],
+      "Occurrences": 2,
+      "context": "Recommendations state tafamidis is recommended in patients with genetic testing–proven hATTR‑CA and in patients with wtTTR‑CA (both with NYHA class I–II) to reduce symptoms, CV hospitalization and/or mortality, implicating the TTR gene/protein."
+    }
+  ]
 }

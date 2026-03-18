@@ -1,0 +1,39 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "text": "Periodically screen all patients with heart failure (HF) for anaemia and iron deficiency using full blood count, serum ferritin concentration, and transferrin saturation (TSAT).",
+        "class": "I",
+        "level": "C"
+      },
+      {
+        "text": "Consider intravenous (i.v.) ferric carboxymaltose in symptomatic patients with LVEF <45% and iron deficiency (serum ferritin <100 ng/mL, or serum ferritin 100–299 ng/mL with TSAT <20%) to alleviate HF symptoms, improve exercise capacity and quality of life (QOL).",
+        "class": "IIa",
+        "level": "A",
+        "iron_deficiency_definition": "serum ferritin <100 ng/mL or ferritin 100–299 ng/mL with TSAT <20%",
+        "target_population": "symptomatic HF with LVEF <45%"
+      },
+      {
+        "text": "Consider i.v. ferric carboxymaltose in symptomatic HF patients recently hospitalized for HF with LVEF <50% and iron deficiency (same ferritin/TSAT definition) to reduce risk of HF hospitalization.",
+        "class": "IIa",
+        "level": "B",
+        "target_population": "recently hospitalized HF with LVEF <50%"
+      }
+    ],
+    "abbreviations": {
+      "HF": "Heart failure",
+      "LVEF": "Left ventricular ejection fraction",
+      "QOL": "Quality of life",
+      "TSAT": "Transferrin saturation",
+      "i.v.": "Intravenous"
+    },
+    "evidence_summary": "Randomized controlled trials (RCTs) show i.v. ferric carboxymaltose is safe and improves symptoms, exercise capacity, and QOL in patients with HFrEF and iron deficiency. Meta-analyses of RCTs demonstrated reductions in combined endpoints (all-cause death or CV hospitalization, CV death or HF hospitalization, CV death or recurrent CV or HF hospitalizations). Effects were independent of anaemia. AFFIRM-AHF trial: in patients hospitalized for HF with LVEF <50% and iron deficiency, repeated i.v. ferric carboxymaltose per protocol did not significantly reduce the primary composite outcome at 52 weeks but reduced some composite endpoints and total HF hospitalizations. Ongoing trials are evaluating effects in HFpEF and other formulations; oral iron therapy is not effective in this setting.",
+    "key_points": [
+      "Screen for iron deficiency in all HF patients using ferritin and TSAT.",
+      "IV ferric carboxymaltose recommended for symptomatic HF with reduced LVEF and iron deficiency to improve symptoms and QOL.",
+      "IV ferric carboxymaltose may reduce HF rehospitalizations when used after recent HF hospitalization in patients with LVEF <50% and iron deficiency.",
+      "Evidence levels vary: Class I (level C) for screening; Class IIa (level A) for symptomatic patients with LVEF <45%; Class IIa (level B) for recently hospitalized patients with LVEF <50%."
+    ]
+  },
+  "genes": []
+}

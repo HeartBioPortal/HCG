@@ -1,0 +1,23 @@
+{
+  "content": {
+    "page_title": "Sarcopenia; Iron deficiency and anaemia (clinical guideline excerpt)",
+    "sarcopenia": {
+      "summary": "Sarcopenia is defined by low muscle mass together with low muscle function, strength, or performance. Usually identified by appendicular skeletal muscle mass (sum of four limbs) 2 standard deviations below the mean of a healthy reference group aged 18–40 years, with a cut-off (example) of 7.26 kg/m^2 for men. Occurs physiologically with aging and can be accelerated by chronic diseases (e.g., cancer, HF). Associated with frailty, increased morbidity and mortality.",
+      "treatment_recommendations": "Most effective strategy is resistance exercise training, possibly combined with protein intake of ~1–1.5 g/kg/day. Drug treatments (testosterone, growth hormone, ghrelin receptor agonists, anabolic compounds) tested in small studies with favourable results for exercise capacity and muscle strength but no demonstrated impact on outcomes."
+    },
+    "iron_deficiency_and_anaemia": {
+      "summary": "Iron deficiency and anaemia are common in patients with heart failure (HF), independently associated with reduced exercise capacity, recurrent HF hospitalizations, and increased cardiovascular and all-cause mortality.",
+      "definitions_and_cutoffs": {
+        "anaemia": "WHO criteria: haemoglobin <12 g/dL in women and <13 g/dL in men.",
+        "iron_deficiency": "In patients with HF, defined as either serum ferritin <100 ng/mL, or ferritin 100–299 ng/mL with transferrin saturation (TSAT) <20%."
+      },
+      "laboratory_markers": "Serum ferritin concentration, transferrin saturation (TSAT), full blood count. Ferritin tissue expression and peripheral concentration increase with inflammation and several disorders. Soluble transferrin receptor is another marker that can reflect depleted intracellular iron and is not affected by inflammation.",
+      "prevalence": "Iron deficiency (with or without anaemia) present in up to 55% of chronic HF patients and up to 80% of those with acute HF (AHF).",
+      "clinical_impact": "Iron deficiency may impair functional capacity, precipitate circulatory decompensation, promote skeletal muscle dysfunction, and is associated with frailty irrespective of anaemia.",
+      "recommendations": "All patients with HF should be regularly screened for anaemia and iron deficiency with full blood count, serum ferritin concentration, and TSAT. Detection of anaemia and/or iron deficiency should prompt appropriate investigation to define cause.",
+      "treatment_notes": "Darbepoetin-alpha did not reduce all-cause death or HF hospitalization and increased risk of thromboembolic events in a large randomized trial in patients with HFrEF and mild to moderate anaemia. Erythropoietin-stimulating agents are not indicated for treatment of anaemia in HF. Applicability of high serum soluble transferrin receptor for guiding iron supplementation has not been demonstrated."
+    },
+    "other_notes": "Higher ferritin cut-offs have been used in HF due to inflammation-driven ferritin changes. Causes of iron deficiency include increased loss, reduced intake or absorption, malnutrition, gut congestion, and impaired iron metabolism from chronic inflammatory activation in HF."
+  },
+  "genes": []
+}

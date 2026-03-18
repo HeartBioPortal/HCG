@@ -1,0 +1,30 @@
+{
+  "content": {
+    "abbreviations": {
+      "CRT": "cardiac resynchronization therapy",
+      "HFA": "heart failure",
+      "ICD": "implantable cardioverter-defibrillator",
+      "LVEF": "left ventricular ejection fraction",
+      "MI": "myocardial infarction",
+      "NYHA": "New York Heart Association",
+      "OMT": "optimal medical therapy",
+      "VAD": "ventricular assist device"
+    },
+    "notes": [
+      "a: Class of recommendation.",
+      "b: Level of evidence.",
+      "Link text: Open in new tab",
+      "Title/heading: Recommendations for an implantable cardioverter-defibrillator in patients with heart failure"
+    ],
+    "raw_text_lines": [
+      "CRT = cardiac resynchronization therapy; HFA = heart failure; ICD = implantable cardioverter-defibrillator; LVEF = left ventricular ejection fraction; MI = myocardial infarction; NYHA = New York Heart Association; OMT = optimal medical therapy; VAD = ventricular assist device.",
+      "a",
+      "Class of recommendation.",
+      "b",
+      "Level of evidence.",
+      "Open in new tab",
+      "Recommendations for an implantable cardioverter-defibrillator in patients with heart failure"
+    ]
+  },
+  "genes": []
+}

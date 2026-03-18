@@ -1,0 +1,81 @@
+{
+  "content": {
+    "Beta-blockers": [
+      {
+        "recommendation": "Beta-blockers are recommended in ACS patients with LVEF ≤40% regardless of HF symptoms.",
+        "Class": "I",
+        "Level": "A",
+        "references": "cited (801, 870–872)"
+      },
+      {
+        "recommendation": "Routine beta-blockers for all ACS patients regardless of LVEF should be considered.",
+        "Class": "IIa",
+        "Level": "B",
+        "references": "cited (798, 873–878)"
+      }
+    ],
+    "RAAS system inhibitors": [
+      {
+        "recommendation": "Angiotensin-converting enzyme (ACE) inhibitors are recommended in ACS patients with HF symptoms, LVEF ≤40%, diabetes, hypertension, and/or CKD.",
+        "Class": "I",
+        "Level": "A",
+        "references": "cited (195, 813–817, 879)"
+      },
+      {
+        "recommendation": "Mineralocorticoid receptor antagonists are recommended in ACS patients with an LVEF ≤40% and HF or diabetes.",
+        "Class": "I",
+        "Level": "A",
+        "references": "cited (826, 880)"
+      },
+      {
+        "recommendation": "Routine ACE inhibitors for all ACS patients regardless of LVEF should be considered.",
+        "Class": "IIa",
+        "Level": "A",
+        "references": "cited (816, 817)"
+      }
+    ],
+    "Adherence to medication": [
+      {
+        "recommendation": "A polypill should be considered as an option to improve adherence and outcomes in secondary prevention after ACS.",
+        "Class": "IIa",
+        "Level": "B",
+        "references": "cited (753)"
+      }
+    ],
+    "Imaging": [
+      {
+        "recommendation": "In patients with pre-discharge LVEF ≤40%, repeat evaluation of the LVEF 6–12 weeks after an ACS (and after complete revascularization and optimal medical therapy) is recommended to assess need for primary prevention ICD implantation.",
+        "Class": "I",
+        "Level": "C"
+      },
+      {
+        "recommendation": "Cardiac magnetic resonance imaging should be considered as an adjunctive imaging modality to assess the potential need for primary prevention ICD implantation.",
+        "Class": "IIa",
+        "Level": "C"
+      }
+    ],
+    "Vaccination": [
+      {
+        "recommendation": "Influenza vaccination is recommended for all ACS patients.",
+        "Class": "I",
+        "Level": "A",
+        "references": "cited (843, 845–847)"
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "ACE",
+      "Associated Conditions": [
+        "Acute coronary syndrome (ACS)",
+        "Heart failure (HF) symptoms",
+        "Left ventricular ejection fraction (LVEF) ≤40%",
+        "Diabetes",
+        "Hypertension",
+        "Chronic kidney disease (CKD)"
+      ],
+      "Occurrences": 2,
+      "context": "Referenced as 'Angiotensin-converting enzyme (ACE) inhibitors are recommended in ACS patients with HF symptoms, LVEF ≤40%, diabetes, hypertension, and/or CKD' and 'Routine ACE inhibitors for all ACS patients regardless of LVEF should be considered.'"
+    }
+  ]
+}

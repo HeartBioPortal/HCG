@@ -1,0 +1,25 @@
+{
+  "content": {
+    "Profile 6": "Exertion limited. Patient without evidence of fluid overload, comfortable at rest and with activities of daily living and minor activities outside the home but fatigues after the first few minutes of any meaningful activity. Attribution to cardiac limitation requires careful measurement of peak oxygen consumption, in some cases with haemodynamic monitoring, to confirm severity of cardiac impairment.",
+    "Profile 7": "Advanced NYHA class III symptoms. Patient without current or recent episodes of unstable fluid balance, living comfortably with meaningful activity limited to mild physical exertion. Heart transplantation or MCS may not be currently indicated.",
+    "Modifiers for profiles": {
+      "Temporary MCS": "Can modify profile only in hospitalized patients. They include IABP, ECMO, TandemHeart, LVAD, Impella.",
+      "Arrhythmia": "Can modify any profile. Includes recurrent ventricular tachyarrhythmias that have recently contributed substantially to clinical compromise, frequent ICD shocks or requirement for external defibrillation, usually more than twice weekly.",
+      "Frequent HF decompensation": "Characterizes patients requiring frequent emergency visits or hospitalizations for diuretics, ultrafiltration, or temporary i.v. vasoactive therapy. Frequent episodes may be considered as at least two emergency visits/admissions in the past 3 months or three in the past 6 months."
+    },
+    "Possible profiles that can be modified": "1, 2, 3. For frequent episodes: 3 if at home, 4, 5, 6. Rarely for profile 7.",
+    "Abbreviations (as listed)": {
+      "ECMO": "extracorporeal membrane oxygenation",
+      "HF": "heart failure",
+      "IABP": "intra-aortic balloon pump",
+      "ICD": "implantable cardioverter-defibrillator",
+      "INTERMACS": "Interagency Registry for Mechanically Assisted Circulatory Support",
+      "i.v.": "intravenous",
+      "LVAD": "left ventricular assist device",
+      "MCS": "mechanical circulatory support",
+      "NYHA": "New York Heart Association"
+    },
+    "Prognostic note": "Prognostic stratification is important to identify the ideal time for referral to an appropriate centre (one capable of providing advanced HF therapies), to properly convey expectations to patients and families, and to plan treatment and follow-up strategies. Patients with contraindications to MCS or heart transplantation should be considered for palliative care."
+  },
+  "genes": []
+}

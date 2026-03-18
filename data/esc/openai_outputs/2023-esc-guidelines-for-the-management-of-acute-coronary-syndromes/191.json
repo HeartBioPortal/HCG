@@ -1,0 +1,80 @@
+{
+  "content": {
+    "title": "Recommendations — Fibrinolytic therapy and co-therapies",
+    "sections": {
+      "Fibrinolytic therapy": [
+        {
+          "recommendation": "When fibrinolysis is the reperfusion strategy, initiate treatment as soon as possible after diagnosis in the pre-hospital setting (aim for target of <10 min to lytic bolus).",
+          "Class": "I",
+          "Level": "A",
+          "notes": "Emphasis on very early initiation; pre-hospital administration recommended."
+        },
+        {
+          "recommendation": "A fibrin-specific agent (i.e., tenecteplase, alteplase, or reteplase) is recommended.",
+          "Class": "I",
+          "Level": "B",
+          "notes": "Specifies fibrin-specific agents by name."
+        },
+        {
+          "recommendation": "A half-dose of tenecteplase should be considered in patients >75 years of age.",
+          "Class": "IIa",
+          "Level": "B",
+          "notes": "Dose adjustment for older patients (>75 years)."
+        }
+      ],
+      "Antiplatelet co-therapy with fibrinolysis": [
+        {
+          "recommendation": "Aspirin and clopidogrel are recommended.",
+          "Class": "I",
+          "Level": "A",
+          "notes": "Dual antiplatelet therapy recommended alongside fibrinolysis."
+        }
+      ],
+      "Anticoagulation co-therapy with fibrinolysis": [
+        {
+          "recommendation": "Anticoagulation is recommended in patients treated with fibrinolysis until revascularization (if performed) or for the duration of hospital stay (up to 8 days).",
+          "Class": "I",
+          "Level": "A",
+          "notes": "Use anticoagulation during acute management post-fibrinolysis."
+        },
+        {
+          "recommendation": "Enoxaparin i.v. followed by s.c. is recommended as the preferred anticoagulant.",
+          "Class": "I",
+          "Level": "A",
+          "notes": "Specifies enoxaparin (intravenous then subcutaneous) as preferred."
+        },
+        {
+          "recommendation": "When enoxaparin is not available, unfractionated heparin (UFH) is recommended as a weight-adjusted i.v. bolus followed by infusion.",
+          "Class": "I",
+          "Level": "B",
+          "notes": "UFH as alternative when enoxaparin unavailable; weight-adjusted dosing."
+        },
+        {
+          "recommendation": "In patients treated with streptokinase, an i.v. bolus of fondaparinux followed by an s.c. dose 24 h later should be considered.",
+          "Class": "IIa",
+          "Level": "B",
+          "notes": "Specific regimen when streptokinase used."
+        }
+      ],
+      "abbreviations": {
+        "i.v.": "intravenous",
+        "s.c.": "subcutaneous",
+        "UFH": "unfractionated heparin",
+        "Class_note": "Class of recommendation",
+        "Level_note": "Level of evidence"
+      },
+      "drugs_mentioned": [
+        "tenecteplase",
+        "alteplase",
+        "reteplase",
+        "aspirin",
+        "clopidogrel",
+        "enoxaparin",
+        "unfractionated heparin (UFH)",
+        "streptokinase",
+        "fondaparinux"
+      ]
+    }
+  },
+  "genes": []
+}

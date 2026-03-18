@@ -1,0 +1,24 @@
+{
+  "content": {
+    "figure": "Initial management of acute heart failure. MCS = mechanical circulatory support. Acute mechanical cause examples: myocardial rupture complicating acute coronary syndrome, chest trauma or cardiac intervention, acute native or prosthetic valve incompetence secondary to endocarditis, aortic dissection or thrombosis.",
+    "oxygen_therapy_and_or_ventilatory_support": {
+      "general_recommendation": "Do not use oxygen routinely in non-hypoxaemic AHF patients because it may cause vasoconstriction and reduce cardiac output.",
+      "indications_for_oxygen": "Recommend oxygen therapy for patients with AHF and SpO2 < 90% or PaO2 < 60 mmHg to correct hypoxaemia.",
+      "COPD_note": "In COPD, hyper-oxygenation may increase ventilation–perfusion mismatch, suppress ventilation and lead to hypercapnia; monitor acid–base status and SpO2 during oxygen therapy."
+    },
+    "non_invasive_positive_pressure_ventilation": {
+      "benefits": "Improves respiratory failure, increases oxygenation and pH, decreases pCO2 and work of breathing; may improve dyspnoea and reduce need for intubation and mortality compared with traditional oxygen therapy in meta-analyses.",
+      "start_timing_and_thresholds": "Should be started as soon as possible in patients with respiratory distress (respiratory rate > 25 breaths/min, SpO2 < 90%).",
+      "FiO2_guidance": "Fraction of inspired oxygen (FiO2) may be increased up to 100% if necessary according to oxygen saturation level.",
+      "hemodynamic_considerations": "Monitor blood pressure; increased intrathoracic pressure with NIV can decrease venous return and ventricular preload, potentially decreasing cardiac output and BP; use with caution in patients with reduced preload reserve or hypotension. Increased pulmonary vascular resistance and RV afterload may worsen RV dysfunction."
+    },
+    "intubation": "Recommended for progressive respiratory failure despite oxygen administration or non-invasive ventilation (see supplementary material).",
+    "diuretics": {
+      "general": "Intravenous diuretics are the cornerstone of AHF treatment to increase renal excretion of salt and water and treat fluid overload and congestion.",
+      "loop_diuretics": "Commonly used due to rapid onset and efficacy. Data on optimal dosing, timing and administration method are limited.",
+      "evidence_and_dosing": "No difference in primary efficacy outcomes between high- and low-dose regimens in the DOSE trial; higher-dose regimens produced greater relief of dyspnoea, change in weight and net fluid loss but no prognostic role for increases in serum creatinine.",
+      "harms_and_precautions": "High diuretic doses may cause greater neurohormonal activation and electrolyte abnormalities and are often associated with poorer outcomes in retrospective analyses. When starting IV diuretics, it may be appropriate to use low doses first to assess response and increase dose if insufficient."
+    }
+  },
+  "genes": []
+}

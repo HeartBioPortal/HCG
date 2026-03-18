@@ -1,0 +1,39 @@
+{
+  "content": {
+    "page_text": "A team-based approach to palliative and end-of-life care for patients with HF has been proposed. Specific models of palliative care for patients with advanced HF have been also reported. They reduce hospitalizations, without a clear effect on survival, and have some effects on QOL and symptom burden.",
+    "tables": [
+      {
+        "title": "Table 18: Patients with heart failure in whom end-of-life care should be considered",
+        "rows": [
+          "Progressive functional decline (physical and mental) and dependence in most activities of daily living.",
+          "Severe heart failure symptoms with poor QOL despite optimal pharmacological and non-pharmacological therapies.",
+          "Frequent admissions to hospital or other serious episodes of decompensation despite optimal treatment.",
+          "Heart transplantation and MCS ruled out.",
+          "Cardiac cachexia.",
+          "Clinically judged to be close to end of life."
+        ]
+      },
+      {
+        "title": "Repeated (duplicate) listing of Table 18 contents",
+        "rows": [
+          "Progressive functional decline (physical and mental) and dependence in most activities of daily living.",
+          "Severe heart failure symptoms with poor QOL despite optimal pharmacological and non-pharmacological therapies.",
+          "Frequent admissions to hospital or other serious episodes of decompensation despite optimal treatment.",
+          "Heart transplantation and MCS ruled out.",
+          "Cardiac cachexia.",
+          "Clinically judged to be close to end of life."
+        ]
+      }
+    ],
+    "footnotes": [
+      "MCS = mechanical circulatory support",
+      "QOL = quality of life"
+    ],
+    "references_mentioned": [
+      "419",
+      "420",
+      "421"
+    ]
+  },
+  "genes": []
+}

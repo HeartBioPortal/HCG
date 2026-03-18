@@ -1,0 +1,41 @@
+{
+  "content": {
+    "title": "Recommendations for the use of short-term mechanical circulatory support (MCS) in patients with cardiogenic shock",
+    "recommendations": [
+      {
+        "text": "Short-term MCS should be considered in patients with cardiogenic shock as a BTR, BTD, BTB. Further indications include treatment of the cause of cardiogenic shock or long-term MCS or transplantation.",
+        "Class": "IIa",
+        "Level": "C",
+        "references": []
+      },
+      {
+        "text": "IABP may be considered in patients with cardiogenic shock as a BTR, BTD, BTB, including treatment of the cause of cardiogenic shock (i.e. mechanical complication of acute MI) or long-term MCS or transplantation.",
+        "Class": "IIb",
+        "Level": "C",
+        "references": [
+          "450"
+        ]
+      },
+      {
+        "text": "IABP is not routinely recommended in post-MI cardiogenic shock.",
+        "Class": "III",
+        "Level": "B",
+        "references": [
+          "500–502"
+        ]
+      }
+    ],
+    "abbreviations": {
+      "BTB": "bridge to bridge",
+      "BTD": "bridge to decision",
+      "BTR": "bridge to recovery",
+      "IABP": "intra-aortic balloon pump",
+      "MCS": "mechanical circulatory support",
+      "MI": "myocardial infarction",
+      "a": "Class of recommendation",
+      "b": "Level of evidence"
+    },
+    "notes": "Table reproduced from ESC 2021 guidance. The page contains two identical tables and brief explanatory footnotes; no human genes are mentioned on this page."
+  },
+  "genes": []
+}

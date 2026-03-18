@@ -1,116 +1,25 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers (Declarations of Interest)",
-    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during period of development of these guidelines up to and including 2022).",
-    "experts": [
-      {
-        "name": "Mueller Christian Eugen",
-        "year": 2022,
-        "relationships": [
-          {
-            "type": "Payment for personal services",
-            "description": "Payment from healthcare industry to department/institution or other body for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies": []
-          },
-          {
-            "company": "Roche Diagnostics",
-            "activity": "Acute Cardiac Care (listed under payments for personal services)"
-          },
-          {
-            "company": "Amgen",
-            "activity": "Acute Coronary Syndromes (listed under payments for personal services)"
-          },
-          {
-            "company": "Sanofi Aventis",
-            "activity": "Acute Coronary Syndromes (listed under payments for personal services)"
-          },
-          {
-            "company": "Idorsia",
-            "activity": "Acute Coronary Syndromes (listed under payments for personal services)"
-          },
-          {
-            "company": "SpinChip",
-            "activity": "Acute Coronary Syndromes (listed under payments for personal services)"
-          },
-          {
-            "company": "Astra Zeneca",
-            "activity": "Chronic Heart Failure (listed under payments for personal services)"
-          },
-          {
-            "company": "Boehringer-Ingelheim",
-            "activity": "Chronic Heart Failure (listed under payments for personal services)"
-          },
-          {
-            "company": "Novartis",
-            "activity": "Chronic Heart Failure (listed under payments for personal services)"
-          },
-          {
-            "type": "Research funding (under direct/personal responsibility to department/institution)",
-            "details": [
-              {
-                "company": "Astra Zeneca",
-                "activity": "Conduct of diagnostic studies in patients with possible heart failure, PI"
-              },
-              {
-                "company": "Novartis",
-                "activity": "Conduct of diagnostic studies in patients with possible heart failure, PI"
-              },
-              {
-                "company": "OrthoClinical Diagnostics",
-                "activity": "Conduct of diagnostic studies in patients with suspected AMI, PI"
-              },
-              {
-                "company": "Abbott Laboratories",
-                "activity": "Conduct of diagnostic studies in patients with suspected AMI, PI"
-              },
-              {
-                "company": "Roche Diagnostics",
-                "activity": "Conduct of diagnostic studies in patients with suspected AMI, PI"
-              },
-              {
-                "company": "Idorsia",
-                "activity": "Conduct of diagnostic studies in patients with suspected AMI, PI"
-              },
-              {
-                "company": "Upstream Medical Technologies",
-                "activity": "Conduct of diagnostic studies in patients with suspected AMI, PI"
-              },
-              {
-                "company": "LSI Medience Corporation",
-                "activity": "Conduct of diagnostic studies in patients with suspected AMI, PI"
-              },
-              {
-                "company": "SpinChip",
-                "activity": "Conduct of diagnostic studies in patients with suspected AMI, PI"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Neubeck Lis",
-        "year": 2021,
-        "relationships": [
-          {
-            "type": "Direct personal payment",
-            "description": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies": []
-          },
-          {
-            "company": "Pfizer",
-            "activity": "Atrial fibrillation (listed under direct personal payment)"
-          },
-          {
-            "type": "Membership / advisory",
-            "activity": "Membership or affiliation in political, advocacy or patients organisations working in cardiology; Medical advisor to the Atrial Fibrillation Alliance"
-          }
-        ]
-      }
-    ],
-    "footer": {
-      "date": "16/05/2023",
-      "page": "36/57"
-    }
+    "section_title": "3. Triage and diagnosis",
+    "subsection": "3.1 Clinical presentation and physical examination",
+    "clinical_presentation": "Acute chest discomfort (described as pain, pressure, tightness, heaviness, or burning) is the leading presenting symptom prompting consideration of the clinical diagnosis of acute coronary syndrome (ACS) and initiation of testing aligned with diagnostic algorithms.",
+    "figure_4_overview": "Initial triage and management flow for patients with signs/symptoms potentially consistent with ACS. Initial assessment components: ECG, physical examination, clinical history, vital signs, and high-sensitivity cardiac troponin (hs-cTn) levels. Working diagnoses include STEMI and NSTE-ACS (with or without very high-risk features). Early invasive management: immediate angiography ± PPCI or fibrinolysis for STEMI, immediate angiography ± PCI for very high-risk NSTE-ACS, consider angiography within 24 h for NSTE-ACS with high-risk features. Further investigations: non-immediate angiography, echocardiography, intravascular imaging, non-invasive imaging, serial hs-cTn measurements, ECG monitoring. Further management options: PCI, CABG, long-term medical therapy, lifestyle measures, smoking cessation.",
+    "key_actions_by_scenario": {
+      "STEMI": "Immediate angiography ± PPCI if feasible; fibrinolysis if PPCI not feasible.",
+      "NSTE-ACS with very high-risk features": "Immediate angiography ± PCI.",
+      "NSTE-ACS without very high-risk features": "Consider angiography within 24 h for those with high-risk features; otherwise manage and investigate per risk stratification."
+    },
+    "abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "ATT": "antithrombotic therapy",
+      "CABG": "coronary artery bypass grafting",
+      "ECG": "electrocardiogram",
+      "hs-cTn": "high-sensitivity cardiac troponin",
+      "NSTE-ACS": "non-ST-elevation acute coronary syndrome",
+      "PPCI": "primary percutaneous coronary intervention",
+      "STEMI": "ST-elevation myocardial infarction"
+    },
+    "footnotes_and_notes": "Results of hs-cTn measurements are not required for the initial stratification of ACS and the initial emergency management (e.g., for patients with a working diagnosis of STEMI or very high-risk NSTE-ACS). Figure provides overview of triage, management and investigation steps."
   },
   "genes": []
 }

@@ -1,0 +1,47 @@
+{
+  "content": {
+    "title": "I. Antiplatelet drugs",
+    "Aspirin": "Loading dose (LD) 150–300 mg orally or 75–250 mg i.v. if oral ingestion not possible, followed by maintenance dose (MD) 75–100 mg once daily; no specific dose adjustment in CKD patients.",
+    "P2Y12 receptor inhibitors (oral or i.v.)": {
+      "Clopidogrel": "LD 300–600 mg orally, followed by MD 75 mg once daily. In fibrinolysis: an initial dose of 300 mg (75 mg for patients older than 75 years). No specific dose adjustment in CKD patients noted.",
+      "Prasugrel": "LD 60 mg orally, followed by MD 10 mg once daily. For body weight <60 kg, MD 5 mg once daily is recommended. In patients aged ≥75 years use with caution; MD 5 mg may be used if treatment is necessary. Prior stroke is a contraindication.",
+      "Ticagrelor": "LD 180 mg orally, followed by MD 90 mg twice daily; no specific dose adjustment in CKD patients.",
+      "Cangrelor": "Bolus 30 mcg/kg i.v. followed by infusion 4 mcg/kg/min for at least 2 hours or the duration of the procedure. When transitioning from cangrelor to a thienopyridine, give the thienopyridine immediately after discontinuation of cangrelor with an LD (eg, clopidogrel 600 mg or prasugrel 60 mg); prasugrel may also be given 30 min before stopping the cangrelor infusion. Ticagrelor (LD 180 mg) should be administered at the time of PCI to minimize gap in platelet inhibition."
+    },
+    "GP IIb/IIIa receptor inhibitors (i.v.)": {
+      "Eptifibatide": "Double bolus of 180 mcg/kg i.v. (given at a 10-min interval) followed by infusion of 2.0 mcg/kg/min for up to 18 hours. For reduced renal function (eg, CrCl 30–50 mL/min) dosing adjustments described (lower maintenance infusion). Second LD if PCI (180 mcg/kg) may be given per protocol. Contraindicated in end-stage renal disease and with prior intracranial hemorrhage (ICH), ischemic stroke within 30 days, recent fibrinolysis, or platelet count <100,000/mm3."
+    }
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "Target of P2Y12 receptor inhibitors (antiplatelet therapy)",
+        "Use in acute coronary syndromes and percutaneous coronary intervention (PCI)",
+        "Context of fibrinolysis"
+      ],
+      "Occurrences": 4,
+      "context": "Page header 'P2Y12 receptor inhibitors (oral or i.v.)' and multiple drugs (clopidogrel, prasugrel, ticagrelor, cangrelor) are described as P2Y12 receptor inhibitors used in PCI and in the context of fibrinolysis."
+    },
+    {
+      "Gene": "ITGA2B",
+      "Associated Conditions": [
+        "Component of the platelet GP IIb/IIIa receptor complex (role in platelet aggregation)",
+        "Target of GP IIb/IIIa inhibitor therapy during PCI",
+        "Related contraindications (eg, bleeding risk, thrombocytopenia)"
+      ],
+      "Occurrences": 2,
+      "context": "Page section 'GP IIb/IIIa receptor inhibitors (i.v.)' and eptifibatide dosing/contraindications refer to inhibition of the GP IIb/IIIa platelet receptor complex (glycoprotein IIb is encoded by ITGA2B)."
+    },
+    {
+      "Gene": "ITGB3",
+      "Associated Conditions": [
+        "Component of the platelet GP IIb/IIIa receptor complex (role in platelet aggregation)",
+        "Target of GP IIb/IIIa inhibitor therapy during PCI",
+        "Related contraindications (eg, bleeding risk, thrombocytopenia)"
+      ],
+      "Occurrences": 2,
+      "context": "Page section 'GP IIb/IIIa receptor inhibitors (i.v.)' and eptifibatide dosing/contraindications refer to inhibition of the GP IIb/IIIa platelet receptor complex (glycoprotein IIIa is encoded by ITGB3)."
+    }
+  ]
+}

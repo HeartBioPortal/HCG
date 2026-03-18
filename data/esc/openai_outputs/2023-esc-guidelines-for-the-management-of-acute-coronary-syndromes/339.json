@@ -1,0 +1,42 @@
+{
+  "content": {
+    "5 Acute-phase management of patients with NSTE-ACS": {
+      "Uncertainties": [
+        "The comparison of routine or selective invasive assessment in low-risk NSTE-ACS has not been adequately evaluated.",
+        "The optimal timing of invasive angiography in high-risk NSTE-ACS patients remains uncertain."
+      ],
+      "Research recommendations": [
+        "Low-risk patients should be randomized to routine or selective invasive strategy.",
+        "RCTs testing different time intervals to perform angiography within the 72 h window after the initial presentation."
+      ]
+    },
+    "6 Antithrombotic therapy": {
+      "Uncertainties": [
+        "Whether pre-treatment with oral P2Y12 receptor inhibitors prior to ICA improves clinical outcomes in NSTE-ACS patients is uncertain.",
+        "Whether platelet function testing or genetic testing to guide de-escalation of oral P2Y12 receptor inhibitors after the first month of therapy following PCI improves clinical management and outcomes remains unclear.",
+        "The optimal long-term antithrombotic regimen in NSTE-ACS patients who have undergone PCI is unknown.",
+        "After stopping DAPT, a head-to-head comparison based on superiority between aspirin monotherapy and clopidogrel monotherapy is required."
+      ],
+      "Research recommendations": [
+        "Randomize patients to pre-treatment with oral P2Y12 receptor inhibitors or no pre-treatment, prior to ICA.",
+        "Randomize ACS patients to prasugrel or ticagrelor, both without pre-treatment.",
+        "A strategy based on platelet function testing or genetic testing should be prospectively tested in patients who may benefit from de-escalating antithrombotic therapy.",
+        "RCTs evaluating the benefit-risk balance for ischaemic bleeding events for different periods of antithrombotic duration.",
+        "A head-to-head randomized comparison testing for superiority is needed to compare aspirin vs. clopidogrel monotherapy after DAPT."
+      ]
+    }
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "Non-ST-elevation acute coronary syndrome (NSTE-ACS)",
+        "Percutaneous coronary intervention (PCI) management",
+        "Pre-treatment prior to invasive coronary angiography (ICA)",
+        "De-escalation of oral antiplatelet therapy guided by platelet function or genetic testing"
+      ],
+      "Occurrences": 3,
+      "context": "The page repeatedly refers to 'oral P2Y12 receptor inhibitors' in the context of pre-treatment prior to ICA and genetic/platelet-function testing to guide de-escalation after PCI, which corresponds to the P2RY12 receptor gene."
+    }
+  ]
+}

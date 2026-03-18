@@ -1,0 +1,37 @@
+{
+  "content": {
+    "Resumption of activities": "Information on resumption of activities, sexual activity, and environmental factors is presented in the Supplementary data online, Section 13.1.2.",
+    "Pharmacological treatment": {
+      "Antithrombotic therapy": "Recommendations for antithrombotic therapy are included in Section 6.",
+      "Lipid-lowering therapy - summary": {
+        "Overall": "Dyslipidaemia should be managed according to current dyslipidaemia guidelines using lifestyle and pharmacological interventions. Lower LDL-C levels after ACS are associated with lower cardiovascular event rates.",
+        "LDL-C targets": [
+          "Primary secondary-prevention target: LDL-C < 1.4 mmol/L (<55 mg/dL)",
+          "Aim for ≥50% LDL-C reduction from baseline",
+          "For patients with a second CV event within 2 years: LDL-C goal of <1.0 mmol/L (<40 mg/dL) may confer additional benefit"
+        ],
+        "Timing": "Initiate lipid-lowering treatment as early as possible after an ACS event, preferably before planned PCI and during hospitalization to improve prognosis and adherence.",
+        "Statin therapy": "Recommend high-intensity statin (e.g., atorvastatin or rosuvastatin) initiated as early as possible and titrated to the highest tolerated dose; increase intensity if patient was on low- or moderate-intensity statin prior to ACS.",
+        "Ezetimibe": "In IMPROVE-IT, ezetimibe added early after ACS (within 10 days) to prior statin therapy or initiated concomitantly showed long-term cardiovascular benefit and is recommended if LDL-C targets are unlikely to be reached with statin alone.",
+        "PCSK9 inhibitors": "In the ODYSSEY OUTCOMES trial, treatment with the PCSK9 inhibitor alirocumab was initiated after ACS; PCSK9 inhibition is discussed as an option when LDL-C targets are not achieved with statin ± ezetimibe or in high-risk patients.",
+        "Clinical trials referenced": [
+          "IMPROVE-IT (Vytorin Efficacy International Trial) - ezetimibe added to statin after ACS",
+          "ODYSSEY OUTCOMES - alirocumab (PCSK9 inhibitor) after ACS"
+        ]
+      }
+    },
+    "Other recommendations": "All patients should have mental well-being assessed using validated tools before discharge, with consideration of psychological referral when appropriate. For further details refer to 2021 ESC Guidelines on cardiovascular disease prevention."
+  },
+  "genes": [
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "Acute coronary syndrome (ACS)",
+        "Dyslipidaemia / elevated LDL-C",
+        "Secondary prevention of cardiovascular disease"
+      ],
+      "Occurrences": 1,
+      "context": "Mentioned as 'proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitor alirocumab' in the context of the ODYSSEY OUTCOMES trial and as an option for lowering LDL-C after ACS."
+    }
+  ]
+}

@@ -1,89 +1,121 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism - Declarations of Interest (Task Force Members)",
-    "organization": "European Society of Cardiology (ESC) in collaboration with the European Respiratory Society (ERS)",
-    "note": "Declarations reported to the ESC by experts during the yearly call for declaration covering the previous calendar year. Calls conducted during the period of development of these guidelines up to and including 2018.",
-    "date_on_page": "21/08/2019",
-    "page": "8/62",
-    "authors": [
+    "source_page_summary": "Table of contents / section headings for pulmonary embolism guideline (partial page). Lists diagnostic and treatment strategies, chronic management, pregnancy-related sections, and long-term sequelae with associated page numbers.",
+    "sections": [
       {
-        "name": "Lankeit Mareike",
-        "financial_declaration": {
-          "A_direct_personal_payments": [
-            {
-              "company": "Actelion",
-              "product": "Macitentan, Selexipag",
-              "therapeutic_area": "Pulmonary Hypertension (incl. PAH and CTEPH)",
-              "years": "2017-2018"
-            },
-            {
-              "company": "Bristol Myers Squibb",
-              "product": "Apixaban",
-              "therapeutic_area": "Venous Thromboembolism",
-              "years": "2017-2018"
-            },
-            {
-              "company": "Pfizer",
-              "product": "Apixaban",
-              "therapeutic_area": "Venous Thromboembolism / Pulmonary Hypertension (incl. PAH and CTEPH)",
-              "years": "2017-2018"
-            },
-            {
-              "company": "Daiichi Sankyo",
-              "product": "Edoxaban",
-              "therapeutic_area": "Venous Thromboembolism",
-              "years": "2017-2018"
-            },
-            {
-              "company": "MSD",
-              "product": "Riociguat",
-              "therapeutic_area": "Pulmonary Hypertension (incl. PAH and CTEPH)",
-              "years": "2017-2018"
-            },
-            {
-              "company": "Bayer",
-              "product": "Rivaroxaban",
-              "therapeutic_area": "Venous Thromboembolism",
-              "years": "2017-2018"
-            }
-          ],
-          "D_research_funding_under_direct_responsibility": [
-            {
-              "company": "BRAHMS - Thermo Fisher Scientific",
-              "purpose": "Laboratory biomarkers / assays",
-              "years": "2018"
-            }
-          ]
-        }
+        "section_number": "7.1.1",
+        "title": "Suspected pulmonary embolism with haemodynamic instability",
+        "page": 571
       },
       {
-        "name": "Lorusso Roberto",
-        "financial_declaration": {
-          "A_direct_personal_payments": [
-            {
-              "company": "Livanova",
-              "product": "Bioprostheses",
-              "years": "2017"
-            },
-            {
-              "company": "Livanova",
-              "product": "Cardiac Valve Prostheses - Extracorporeal Circulation Technology",
-              "years": "2018"
-            },
-            {
-              "company": "Medtronic Foundation",
-              "product": "Cardiovascular Diseases and treatment",
-              "years": "2018"
-            }
-          ],
-          "B_payment_to_department_or_institution": [
-            {
-              "company": "Livanova",
-              "product": "Cardiac Valve Prostheses - Extracorporeal Circulation Technology",
-              "years": "2018"
-            }
-          ]
-        }
+        "section_number": "7.1.2",
+        "title": "Suspected pulmonary embolism without haemodynamic instability",
+        "page": 572
+      },
+      {
+        "section_number": "7.1.2.1",
+        "title": "Strategy based on computed tomographic pulmonary angiography",
+        "page": 572
+      },
+      {
+        "section_number": "7.1.2.2",
+        "title": "Strategy based on ventilation/perfusion scintigraphy",
+        "page": 572
+      },
+      {
+        "section_number": "7.2",
+        "title": "Treatment strategies",
+        "page": 572
+      },
+      {
+        "section_number": "7.2.1",
+        "title": "Emergency treatment of high-risk pulmonary embolism",
+        "page": 572
+      },
+      {
+        "section_number": "7.2.2",
+        "title": "Treatment of intermediate-risk pulmonary embolism",
+        "page": 572
+      },
+      {
+        "section_number": "7.2.3",
+        "title": "Management of low-risk pulmonary embolism: triage for early discharge and home treatment",
+        "page": 572
+      },
+      {
+        "section_number": "8",
+        "title": "Chronic treatment and prevention of recurrence",
+        "page": 574
+      },
+      {
+        "section_number": "8.1",
+        "title": "Assessment of venous thromboembolism recurrence risk",
+        "page": 575
+      },
+      {
+        "section_number": "8.2",
+        "title": "Anticoagulant-related bleeding risk",
+        "page": 576
+      },
+      {
+        "section_number": "8.3",
+        "title": "Regimens and treatment durations with non-vitamin K antagonist oral anticoagulants, and with other non-vitamin K antagonist antithrombotic drugs",
+        "page": 576
+      },
+      {
+        "section_number": "8.5",
+        "title": "Management of pulmonary embolism in patients with cancer",
+        "page": 578
+      },
+      {
+        "section_number": "9",
+        "title": "Pulmonary embolism and pregnancy",
+        "page": 579
+      },
+      {
+        "section_number": "9.1",
+        "title": "Epidemiology and risk factors for pulmonary embolism in pregnancy",
+        "page": 579
+      },
+      {
+        "section_number": "9.2",
+        "title": "Diagnosis of pulmonary embolism in pregnancy",
+        "page": 579
+      },
+      {
+        "section_number": "9.2.1",
+        "title": "Clinical prediction rules and D-dimers",
+        "page": 579
+      },
+      {
+        "section_number": "9.2.2",
+        "title": "Imaging tests",
+        "page": 579
+      },
+      {
+        "section_number": "9.3",
+        "title": "Treatment of pulmonary embolism in pregnancy",
+        "page": 581
+      },
+      {
+        "section_number": "9.3.1",
+        "title": "Role of a multidisciplinary pregnancy heart team",
+        "page": 582
+      },
+      {
+        "section_number": "9.4",
+        "title": "Amniotic fluid embolism",
+        "page": 582
+      },
+      {
+        "section_number": "10",
+        "title": "Long-term sequelae of pulmonary embolism",
+        "page": 583
+      },
+      {
+        "section_number": "10.1",
+        "title": "Persisting symptoms and functional limitation after pulmonary embolism",
+        "page": 583
       }
     ]
   },

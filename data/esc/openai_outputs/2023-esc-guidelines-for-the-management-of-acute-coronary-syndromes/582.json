@@ -1,0 +1,52 @@
+{
+  "content": {
+    "references": [
+      {
+        "number": 809,
+        "citation": "Puymirat E, Riant E, Aissaoui N, Soria A, Ducrocq G, Coste P, et al. β-blockers and mortality after myocardial infarction in patients without heart failure: multicentre prospective cohort study. BMJ 2016;354:i4801. https://doi.org/10.1136/bmj.i4801"
+      },
+      {
+        "number": 810,
+        "citation": "Zeitouni M, Kerneis M, Lattuca B, Guedeney P, Cayla G, Collet JP, et al. Do patients need lifelong β-blockers after an uncomplicated myocardial infarction? Am J Cardiovasc Drugs 2019;19:431–438. https://doi.org/10.1007/s40256-019-00338-4"
+      },
+      {
+        "number": 811,
+        "citation": "ISIS-4 Collaborative Group. ISIS-4: a randomised factorial trial assessing early oral captopril, oral mononitrate, and intravenous magnesium sulphate in 58,050 patients with suspected acute myocardial infarction. Lancet 1995;345:669–685. https://doi.org/10.1016/S0140-6736(95)90865-X"
+      },
+      {
+        "number": 812,
+        "citation": "Held PH, Yusuf S, Furberg CD. Calcium channel blockers in acute myocardial infarction and unstable angina: an overview. BMJ 1989;299:1187–1192. https://doi.org/10.1136/bmj.299.6709.1187"
+      },
+      {
+        "number": 813,
+        "citation": "Kober L, Torp-Pedersen C, Carlsen JE, Bagger H, Eliasen P, Lyngborg K, et al. A clinical trial of the angiotensin-converting-enzyme inhibitor trandolapril in patients with left ventricular dysfunction after myocardial infarction. N Engl J Med 1995;333:1670–1676. https://doi.org/10.1056/nejm199512213332503"
+      },
+      {
+        "number": 814,
+        "citation": "Pfeffer MA, Braunwald E, Moyé LA, Basta L, Brown EJ, Cuddy TE, et al. Effect of captopril on mortality and morbidity in patients with left ventricular dysfunction after myocardial infarction: results of the survival and ventricular enlargement trial. N Engl J Med 1992;327:669–677. https://doi.org/10.1056/nejm199209033271001"
+      },
+      {
+        "number": 815,
+        "citation": "The AIRE Study Investigators. Effect of ramipril on mortality and morbidity of survivors of acute myocardial infarction with clinical evidence of heart failure. Lancet 1993;342:821–828. https://doi.org/10.1016/0140-6736(93)92693-N"
+      },
+      {
+        "number": 816,
+        "citation": "Fox KM. Efficacy of perindopril in reduction of cardiovascular events among patients with stable coronary artery disease: randomised, double-blind, placebo-controlled, multicentre trial (the EUROPA study). Lancet 2003;362:782–788. https://doi.org/10.1016/S0140-6736(03)14357-3"
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "ACE",
+      "Associated Conditions": [
+        "Myocardial infarction",
+        "Left ventricular dysfunction",
+        "Heart failure",
+        "Mortality and morbidity after myocardial infarction",
+        "Stable coronary artery disease"
+      ],
+      "Occurrences": 5,
+      "context": "Multiple references on the page report trials of ACE inhibitors (captopril, trandolapril, ramipril, perindopril) in patients with myocardial infarction, left ventricular dysfunction, heart failure, and reduction in mortality/morbidity."
+    }
+  ]
+}

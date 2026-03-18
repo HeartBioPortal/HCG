@@ -1,0 +1,63 @@
+{
+  "content": {
+    "CMR": [
+      {
+        "recommendation": "CMR is recommended for the assessment of myocardial structure and function in those with poor echocardiogram acoustic windows.",
+        "Class": "I",
+        "Level": "C"
+      },
+      {
+        "recommendation": "CMR is recommended for the characterization of myocardial tissue in suspected infiltrative disease, Fabry disease, inflammatory disease (myocarditis), LV non-compaction, amyloid, sarcoidosis, iron overload/haemochromatosis.",
+        "Class": "I",
+        "Level": "C"
+      },
+      {
+        "recommendation": "CMR with LGE should be considered in DCM to distinguish between ischaemic and non-ischaemic myocardial damage.",
+        "Class": "IIa",
+        "Level": "C"
+      }
+    ],
+    "Invasive coronary angiography (in those who are considered eligible for potential coronary revascularization)": [
+      {
+        "recommendation": "Invasive coronary angiography is recommended in patients with angina despite pharmacological therapy or symptomatic ventricular arrhythmias.",
+        "Class": "I",
+        "Level": "B"
+      },
+      {
+        "recommendation": "Invasive coronary angiography may be considered in patients with HFrEF with an intermediate to high pre-test probability of CAD and the presence of ischaemia in non-invasive stress tests.",
+        "Class": "IIb",
+        "Level": "B"
+      }
+    ],
+    "Non-invasive testing": [
+      {
+        "recommendation": "CTCA should be considered in patients with a low to intermediate pre-test probability of CAD or those with equivocal non-invasive stress tests in order to rule out coronary artery stenosis.",
+        "Class": "IIa",
+        "Level": "C"
+      },
+      {
+        "recommendation": "Non-invasive stress imaging (CMR, stress echocardiography, SPECT, PET) may be considered for the assessment of myocardial ischaemia and viability in patients with CAD who are considered suitable for coronary revascularization.",
+        "Class": "IIb",
+        "Level": "B"
+      },
+      {
+        "recommendation": "Exercise testing may be considered to detect reversible myocardial ischaemia and investigate the cause of dyspnoea.",
+        "Class": "IIb",
+        "Level": "C"
+      }
+    ],
+    "Cardiopulmonary exercise testing": [
+      {
+        "recommendation": "Cardiopulmonary exercise testing is recommended as a part of the evaluation for heart transplantation and/or MCS.",
+        "Class": "I",
+        "Level": "C"
+      },
+      {
+        "recommendation": "Cardiopulmonary exercise testing should be considered to optimize prescription of exercise training.",
+        "Class": "IIa",
+        "Level": "C"
+      }
+    ]
+  },
+  "genes": []
+}

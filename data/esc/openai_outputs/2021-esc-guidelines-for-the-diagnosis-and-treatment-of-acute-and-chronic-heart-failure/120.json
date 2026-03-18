@@ -1,0 +1,46 @@
+{
+  "content": {
+    "section_title": "5.2 Pharmacological treatments for patients with heart failure with reduced ejection fraction",
+    "summary": "Pharmacotherapy is the cornerstone of treatment for HFrEF and should be implemented before device therapy, alongside non-pharmacological interventions. Three major goals: (i) reduction in mortality, (ii) prevention of recurrent hospitalizations due to worsening HF, and (iii) improvement in clinical status, functional capacity, and quality of life.",
+    "goals": [
+      "Reduction in mortality",
+      "Prevention of recurrent hospitalizations due to worsening heart failure",
+      "Improvement in clinical status, functional capacity, and quality of life"
+    ],
+    "recommended_treatments": [
+      "ACE-I/ARNI",
+      "Beta-blocker",
+      "MRA (mineralocorticoid receptor antagonist)",
+      "Dapagliflozin/Empagliflozin",
+      "Loop diuretic for fluid retention"
+    ],
+    "figure_caption": "Figure 2: Therapeutic algorithm of Class I Therapy Indications for a patient with heart failure with reduced ejection fraction (shows ACE-I/ARNI, Beta-blocker, MRA, Dapagliflozin/Empagliflozin, Loop diuretics and device/CRT/ICD pathways).",
+    "notes": "Footnotes expand abbreviations: ACE-I = angiotensin-converting enzyme inhibitor; ARNI = angiotensin receptor–neprilysin inhibitor; MRA = mineralocorticoid receptor antagonist. The page focuses on treatments and Class I indications for HFrEF."
+  },
+  "genes": [
+    {
+      "Gene": "ACE",
+      "Associated Conditions": [
+        "Heart failure with reduced ejection fraction (HFrEF)"
+      ],
+      "Occurrences": 2,
+      "context": "Listed as part of first-line pharmacotherapy in the algorithm and expanded in the footnote: 'ACE-I = angiotensin-converting enzyme inhibitor' (appears in the treatment box and footnote)."
+    },
+    {
+      "Gene": "AGTR1",
+      "Associated Conditions": [
+        "Heart failure with reduced ejection fraction (HFrEF)"
+      ],
+      "Occurrences": 2,
+      "context": "Referenced via the term ARNI (angiotensin receptor–neprilysin inhibitor) in the recommended therapy list and expanded in the footnote as 'ARNI = angiotensin receptor–neprilysin inhibitor' (appears in the treatment box and footnote)."
+    },
+    {
+      "Gene": "NR3C2",
+      "Associated Conditions": [
+        "Heart failure with reduced ejection fraction (HFrEF)"
+      ],
+      "Occurrences": 2,
+      "context": "Referenced via the abbreviation MRA (mineralocorticoid receptor antagonist) in the treatment recommendations and expanded in the footnote as 'MRA = mineralocorticoid receptor antagonist' (appears in the treatment box and footnote)."
+    }
+  ]
+}

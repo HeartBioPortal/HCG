@@ -1,0 +1,47 @@
+{
+  "content": {
+    "document_title": "Summary recommendations (heart failure)",
+    "general": [
+      "Screening for, and treatment of, aetiologies, and CV and non-CV comorbidities is recommended in patients with HFpEF.",
+      "Diuretics are recommended in congested patients with HFrEF to alleviate symptoms and signs."
+    ],
+    "recommendations_prevention_of_chronic_HF": [
+      "Treatment of hypertension is recommended to prevent or delay onset of HF and to prevent HF hospitalizations.",
+      "Treatment with statins is recommended in patients at high risk of CV disease or with CV disease to prevent or delay onset of HF and to prevent HF hospitalizations.",
+      "SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, sotagliflozin) are recommended in patients with diabetes at high risk of CV disease or with CV disease to prevent HF hospitalizations.",
+      "Counselling against sedentary behaviour, obesity, cigarette smoking, and alcohol abuse is recommended to prevent or delay onset of HF."
+    ],
+    "other_recommendations_management_chronic_HF": [
+      "Enroll HF patients in a multidisciplinary HF management programme to reduce risk of HF hospitalization and mortality.",
+      "Self-management strategies are recommended to reduce the risk of HF hospitalization and mortality.",
+      "Home-based and/or clinic-based programmes improve outcomes and are recommended to reduce the risk of HF hospitalization and mortality.",
+      "Exercise is recommended for all patients who are able in order to improve exercise capacity and quality of life and reduce HF hospitalization."
+    ],
+    "recommendations_treatment_advanced_HF": [
+      "Patients being considered for long-term mechanical circulatory support (MCS) must have good compliance, appropriate capacity for device handling and psychosocial support.",
+      "Heart transplantation is recommended for patients with advanced HF refractory to medical/device therapy who do not have absolute contraindications."
+    ],
+    "recommendations_treatment_acute_HF": [
+      "Oxygen is recommended in patients with SpO2 <90% or PaO2 <60 mmHg to correct hypoxaemia.",
+      "Intubation is recommended for progressive respiratory failure persisting despite oxygen administration or non-invasive ventilation.",
+      "Intravenous loop diuretics are recommended for all patients with acute HF admitted with signs/symptoms of fluid overload to improve symptoms.",
+      "Thromboprophylaxis (e.g., with LMWH) is recommended in patients not already anticoagulated and with no contraindication to anticoagulation to reduce risk of venous thrombosis and pulmonary embolism.",
+      "Inotropic agents are not recommended routinely; use only for patients with symptomatic hypotension and evidence of hypoperfusion.",
+      "Routine use of opiates is not recommended, unless in selected patients with severe/intractable pain or anxiety.",
+      "Intra-aortic balloon pump (IABP) is not routinely recommended post-MI cardiogenic shock."
+    ],
+    "post_discharge_management_after_HF_hospitalization": [
+      "Patients hospitalized for HF should be carefully evaluated to exclude persistent signs of congestion before discharge and to optimize oral treatment.",
+      "Where possible, evidence-based oral medical treatment should be administered before discharge.",
+      "An early follow-up visit (1–2 weeks after discharge) is recommended to assess signs of congestion, drug tolerance, and to start/continue uptitration of evidence-based therapy."
+    ],
+    "recommendations_HF_with_AF": [
+      "Long-term treatment with an oral anticoagulant is recommended in all patients with AF, HF, and CHA2DS2-VASc score ≥2 in men or ≥3 in women.",
+      "Direct oral anticoagulants (DOACs) are recommended in preference to VKAs in patients with HF, except in those with moderate or severe mitral stenosis or mechanical prosthetic heart valves.",
+      "Urgent electrical cardioversion (ECV) is recommended in the setting of acute worsening of HF in patients presenting with rapid ventricular rates and haemodynamic instability.",
+      "Treatment with certain antiarrhythmic agents (flecainide, encainide, disopyramide, dronedarone, and D-sotalol) is not recommended due to safety concerns."
+    ],
+    "notes": "The table lists recommendation classes and levels of evidence for each item (not transcribed here)."
+  },
+  "genes": []
+}

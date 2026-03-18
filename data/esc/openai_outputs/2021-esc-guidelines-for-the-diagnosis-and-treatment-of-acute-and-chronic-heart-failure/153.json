@@ -1,0 +1,51 @@
+{
+  "content": {
+    "title": "CRT Recommendations (excerpt)",
+    "recommendations": [
+      {
+        "text": "CRT is recommended for symptomatic patients with HF in SR with a QRS duration ≥150 ms and LBBB QRS morphology and with LVEF ≤35% despite OMT in order to improve symptoms and reduce morbidity and mortality.",
+        "class": "I",
+        "level": "A",
+        "references": "205–215"
+      },
+      {
+        "text": "CRT rather than RV pacing is recommended for patients with HFrEF regardless of NYHA class or QRS width who have an indication for ventricular pacing for high degree AV block in order to reduce morbidity. This includes patients with AF.",
+        "class": "I",
+        "level": "A",
+        "references": "216–219"
+      },
+      {
+        "text": "CRT should be considered for symptomatic patients with HF in SR with a QRS duration ≥150 ms and non-LBBB QRS morphology and with LVEF ≤35% despite OMT in order to improve symptoms and reduce morbidity and mortality.",
+        "class": "IIa",
+        "level": "B",
+        "references": "205–215"
+      },
+      {
+        "text": "CRT should be considered for symptomatic patients with HF in SR with a QRS duration of 130–149 ms and LBBB QRS morphology and with LVEF ≤35% despite OMT in order to improve symptoms and reduce morbidity and mortality.",
+        "class": "IIa",
+        "level": "B",
+        "references": "211, 220"
+      },
+      {
+        "text": "Patients with an LVEF ≤35% who have received a conventional pacemaker or an ICD and subsequently develop worsening HF despite OMT and who have a significant proportion of RV pacing should be considered for 'upgrade' to CRT.",
+        "class": "IIa",
+        "level": "B",
+        "references": "221"
+      },
+      {
+        "text": "CRT may be considered for symptomatic patients with HF in SR with a QRS duration of 130–149 ms and non-LBBB QRS morphology and with LVEF ≤35% despite OMT in order to improve symptoms and reduce morbidity and mortality.",
+        "class": "IIb",
+        "level": "B",
+        "references": "208, 213"
+      },
+      {
+        "text": "CRT is not recommended in patients with a QRS duration <130 ms who do not have an indication for pacing due to high degree AV block.",
+        "class": "III",
+        "level": "A",
+        "references": "222–224"
+      }
+    ],
+    "notes": "Abbreviations in the text: CRT = cardiac resynchronization therapy; HF = heart failure; SR = sinus rhythm; QRS = QRS duration on ECG; LBBB = left bundle branch block; LVEF = left ventricular ejection fraction; OMT = optimal medical therapy; RV = right ventricular; HFrEF = heart failure with reduced ejection fraction; NYHA = New York Heart Association; AF = atrial fibrillation; ICD = implantable cardioverter-defibrillator."
+  },
+  "genes": []
+}

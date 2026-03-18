@@ -1,0 +1,31 @@
+{
+  "content": {
+    "full_text": "In conclusion, there is insufficient evidence in favour of a strategy of rhythm control with antiarrhythmic drugs vs. rate control in patients with HF and AF. The results of randomized trials with catheter ablation vs. MT showed a consistent improvement in symptoms whereas the results on mortality and hospitalization were obtained with a relatively small number of events not permitting to draw definitive conclusions.",
+    "conclusion": "Insufficient evidence to favour rhythm control (with antiarrhythmic drugs) over rate control in patients with heart failure (HF) and atrial fibrillation (AF).",
+    "comparisons": [
+      {
+        "intervention": "Rhythm control with antiarrhythmic drugs",
+        "comparator": "Rate control",
+        "population": "Patients with heart failure (HF) and atrial fibrillation (AF)",
+        "evidence_summary": "Insufficient evidence to favour rhythm control over rate control."
+      },
+      {
+        "intervention": "Catheter ablation",
+        "comparator": "Medical therapy (MT)",
+        "population": "Patients with HF and AF (as in randomized trials)",
+        "evidence_summary": "Consistent improvement in symptoms with catheter ablation vs MT; mortality and hospitalization outcomes inconclusive due to small number of events."
+      }
+    ],
+    "outcomes_reported": [
+      "Symptoms: consistent improvement with catheter ablation vs MT",
+      "Mortality: inconclusive (few events)",
+      "Hospitalization: inconclusive (few events)"
+    ],
+    "notes": [
+      "Small number of events limits definitive conclusions for mortality and hospitalization.",
+      "Link/heading present: 'Recommendations for the treatment of atrial fibrillation in patients with heart failure'.",
+      "Page includes reference footnote markers."
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,40 @@
+{
+  "content": {
+    "source_title": "Objective evidence of cardiac structural, functional and serological abnormalities consistent with left ventricular diastolic dysfunction/raised left ventricular filling pressures (Table 9)",
+    "summary_note": "The greater the number of abnormalities present, the higher the likelihood of HFpEF.",
+    "parameters": [
+      {
+        "Parameter": "LA volume index",
+        "Threshold": ">34 mL/m^2 (sinus rhythm); threshold >40 mL/m^2 in atrial fibrillation",
+        "Comments": "In the absence of AF or valve disease, LA enlargement reflects chronically elevated LV filling pressure."
+      },
+      {
+        "Parameter": "E/e' ratio at rest",
+        "Threshold": ">9",
+        "Comments": "Sensitivity 78%, specificity 59% for presence of HFpEF by invasive exercise testing. A higher cut-off of 13 had lower sensitivity (46%) but higher specificity (86%)."
+      },
+      {
+        "Parameter": "NT-proBNP",
+        "Threshold": ">125 pg/mL (sinus rhythm) or >365 pg/mL (atrial fibrillation)",
+        "Comments": "Up to 20% of patients with invasively proven HFpEF have natriuretic peptides below diagnostic thresholds, particularly in the presence of obesity."
+      },
+      {
+        "Parameter": "BNP",
+        "Threshold": ">35 pg/mL (sinus rhythm) or >105 pg/mL (atrial fibrillation)",
+        "Comments": "See NT-proBNP comment regarding false negatives in some patients (eg obesity)."
+      },
+      {
+        "Parameter": "PA systolic pressure / TR velocity at rest",
+        "Threshold": ">35 mmHg or TR velocity >2.8 m/s",
+        "Comments": "Sensitivity 54%, specificity 85% for presence of HFpEF by invasive exercise testing."
+      },
+      {
+        "Parameter": "LV mass index / Relative wall thickness",
+        "Threshold": "LV mass index ≥95 g/m^2 (female), ≥115 g/m^2 (male); relative wall thickness >0.42",
+        "Comments": "Concentric LV remodelling or hypertrophy is supportive of HFpEF, but absence of LV hypertrophy does not exclude the diagnosis."
+      }
+    ],
+    "footnotes_and_references": "Indices commonly used are listed; for less commonly used indices refer to consensus documents of ESC/HFA. (Reference markers present in original table.)"
+  },
+  "genes": []
+}

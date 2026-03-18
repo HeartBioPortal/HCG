@@ -1,107 +1,46 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism - Reviewers (excerpt)",
-    "subtitle": "Declarations of interest reported to the ESC by experts during yearly call (up to and including 2018)",
-    "page_date": "21/08/2019",
-    "page_number": "24/62",
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year.",
-    "experts": [
+    "document_title": "ESC Guidelines — Diagnosis and Management of Pulmonary Embolism (Introduction pages)",
+    "page_summary": "Introduction and rationale for updated 2019 ESC Guidelines on the diagnosis and management of pulmonary embolism (PE). Describes educational/implementation tools, scope (acute PE in adults), relationship to prior guidelines, and reference to supplementary data on the ESC website.",
+    "sections": [
       {
-        "name": "Galie Nazzareno",
-        "declarations": [
-          {
-            "type": "A - Direct personal payment",
-            "details": [
-              {
-                "company": "Pfizer",
-                "associated_condition": "Pulmonary Hypertension",
-                "year": 2018
-              },
-              {
-                "company": "Actelion",
-                "associated_condition": "Pulmonary Hypertension",
-                "year": 2018
-              },
-              {
-                "company": "Bayer Healthcare",
-                "associated_condition": "Pulmonary Hypertension",
-                "year": 2018
-              },
-              {
-                "company": "Merck Sharp & Dohme",
-                "associated_condition": "Pulmonary Hypertension",
-                "year": 2018
-              }
-            ]
-          },
-          {
-            "type": "D - Research funding (under direct/personal responsibility to department or institution)",
-            "details": [
-              {
-                "company": "Actelion",
-                "associated_condition": "Pulmonary Hypertension",
-                "year": 2018
-              },
-              {
-                "company": "Bayer Healthcare",
-                "associated_condition": "Pulmonary Hypertension",
-                "year": 2018
-              }
-            ]
-          }
-        ]
+        "heading": "Educational tools and implementation",
+        "summary": "ESC develops educational tools and implementation programmes (condensed pocket versions, summary slides, booklets, summary cards, electronic versions) and encourages National Societies to endorse, translate and implement Guidelines. Emphasises clinicians must exercise individual judgement and verify national rules on drugs/devices."
       },
       {
-        "name": "Giannakoulas George",
-        "declarations": [
-          {
-            "type": "A - Direct personal payment",
-            "details": [
-              {
-                "company": "Menarini",
-                "associated_condition": "Chronic coronary artery disease",
-                "year": 2018
-              },
-              {
-                "company": "AstraZeneca",
-                "associated_condition": "Diabetes mellitus",
-                "year": 2018
-              },
-              {
-                "company": "Novartis",
-                "associated_condition": "Heart Failure",
-                "year": 2018
-              },
-              {
-                "company": "Roche Diagnostics",
-                "associated_condition": "Heart Failure",
-                "year": 2018
-              },
-              {
-                "company": "GenesisPharma",
-                "associated_condition": "Heart Failure",
-                "year": 2018
-              },
-              {
-                "company": "Servier",
-                "associated_condition": "Heart Failure - Chronic Coronary Artery Disease",
-                "year": 2018
-              },
-              {
-                "company": "Mylan",
-                "associated_condition": "Hyperlidaemia",
-                "year": 2018
-              },
-              {
-                "company": "Sanofi Aventis",
-                "associated_condition": "Hyperlipidemia",
-                "year": 2018
-              }
-            ]
-          }
-        ]
+        "heading": "2 Introduction",
+        "summary": "Explains need for new Guidelines based on extensions/modifications in knowledge about optimal diagnosis, assessment, and treatment of PE since previous versions."
+      },
+      {
+        "heading": "2.1 Why do we need new Guidelines on the diagnosis and management of pulmonary embolism?",
+        "summary": "Notes previous ESC Guidelines on PE were published in 2000, 2008, and 2014. Many recommendations retained but new data have extended or modified knowledge; new aspects integrated to suggest optimal and where possible objectively validated management strategies for suspected or confirmed PE. Points readers to supplementary data online."
+      },
+      {
+        "heading": "Scope and cross-references",
+        "summary": "Focuses on diagnosis and management of acute PE in adult patients. For details on deep vein thrombosis (DVT) and related vascular topics, readers are referred to joint consensus documents from relevant ESC Working Groups (Aorta and Peripheral Vascular Diseases; Pulmonary Circulation and Right Ventricular Function)."
+      },
+      {
+        "heading": "2.2 What is new in the 2019 Guidelines?",
+        "summary": "Introduces new/revised concepts in 2019 with links to additional material (open in new tab)."
       }
-    ]
+    ],
+    "key_points": [
+      "Updated 2019 Guidelines build on editions from 2000, 2008, 2014.",
+      "Primary focus: diagnosis and management of acute pulmonary embolism in adults.",
+      "Supplementary tables, figures, and references available on ESC website (www.escardio.org).",
+      "Implementation tools are provided to aid dissemination and clinical application.",
+      "Clinicians should apply guidelines in the context of individual patient judgement and local regulatory frameworks."
+    ],
+    "previous_guidelines_years": [
+      2000,
+      2008,
+      2014
+    ],
+    "external_links": [
+      "www.escardio.org",
+      "supplementary data (ESC website)"
+    ],
+    "audience": "Health professionals involved in diagnosis and management of pulmonary embolism; ESC National Societies"
   },
   "genes": []
 }

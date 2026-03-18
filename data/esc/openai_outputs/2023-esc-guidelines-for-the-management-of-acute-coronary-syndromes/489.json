@@ -1,0 +1,77 @@
+{
+  "content": {
+    "summary": "Reference list entries (96–103) from a clinical guideline focusing on early diagnosis of acute myocardial infarction and acute coronary syndrome, evaluation and validation of 0/1-hour algorithms, and comparisons of high-sensitivity cardiac biomarkers (cardiac troponin I, troponin T, and cardiac myosin-binding protein C).",
+    "references": [
+      {
+        "ref": 96,
+        "citation": "Nestelberger T, Boeddinghaus J, Wussler D, Twerenbold R, Badertscher P, Wildi K, et al. Predicting major adverse events in patients with acute myocardial infarction. J Am Coll Cardiol 2019;74:842–854.",
+        "doi": "https://doi.org/10.1016/j.jacc.2019.06.025"
+      },
+      {
+        "ref": 97,
+        "citation": "Rubini Gimenez M, Wildi K, Wussler D, Koechlin L, Boeddinghaus J, Nestelberger T, et al. Early kinetics of cardiac troponin in suspected acute myocardial infarction. Rev Esp Cardiol (Engl Ed) 2021;74:502–509.",
+        "doi": "https://doi.org/10.1016/j.rec.2020.04.008"
+      },
+      {
+        "ref": 98,
+        "citation": "Chiang CH, Chiang CH, Lee GH, Gi W-T, Wu Y-K, Huang S-S, et al. Safety and efficacy of the European Society of Cardiology 0/1-hour algorithm for diagnosis of myocardial infarction: systematic review and meta-analysis. Heart 2020;106:985–991.",
+        "doi": "https://doi.org/10.1136/heartjnl-2019-316343"
+      },
+      {
+        "ref": 99,
+        "citation": "Vigen R, Kutscher P, Fernandez F, Yu A, Bertulfo B, Hashim IA, et al. Evaluation of a novel rule-out myocardial infarction protocol incorporating high-sensitivity troponin T in a US hospital. Circulation 2018;138:2061–2063.",
+        "doi": "https://doi.org/10.1161/CIRCULATIONAHA.118.033861"
+      },
+      {
+        "ref": 100,
+        "citation": "Katus H, Ziegler A, Ekinci O, Giannitsis E, Stough WG, Achenbach S, et al. Early diagnosis of acute coronary syndrome. Eur Heart J 2017;38:3049–3055.",
+        "doi": "https://doi.org/10.1093/eurheartj/ehx492"
+      },
+      {
+        "ref": 101,
+        "citation": "Koechlin L, Boeddinghaus J, Lopez-Ayala P, Nestelberger T, Wussler D, Mais F, et al. Diagnostic discrimination of a novel high-sensitivity cardiac troponin I assay and derivation/validation of an assay-specific 0/1h-algorithm. Am Heart J 2023;255:58–70.",
+        "doi": "https://doi.org/10.1016/j.ahj.2022.10.007"
+      },
+      {
+        "ref": 102,
+        "citation": "Kaier TE, Twerenbold R, Puelacher C, Marjot J, Imambaccus N, Boeddinghaus J, et al. Direct comparison of cardiac myosin-binding protein C with cardiac troponins for the early diagnosis of acute myocardial infarction. Circulation 2017;136:1495–1508.",
+        "doi": "https://doi.org/10.1161/CIRCULATIONAHA.117.028084"
+      },
+      {
+        "ref": 103,
+        "citation": "Boeddinghaus J, Reichlin T, Nestelberger T, Twerenbold R, Meili Y, Wildi K, et al. Early diagnosis of acute myocardial infarction in patients with mild elevations of cardiac troponin. Clin Res Cardiol 2017;106:457–467.",
+        "doi": "https://doi.org/10.1007/s00392-016-1075-9"
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "TNNI3",
+      "Associated Conditions": [
+        "Acute myocardial infarction",
+        "Acute coronary syndrome",
+        "Early diagnosis of cardiac injury"
+      ],
+      "Occurrences": 3,
+      "context": "Mentioned as 'cardiac troponin I' (ref 101) and discussed generically as cardiac troponin in several studies (refs 97, 102, 103) in the context of early diagnosis and assay validation."
+    },
+    {
+      "Gene": "TNNT2",
+      "Associated Conditions": [
+        "Acute myocardial infarction",
+        "Rule-out algorithms for myocardial infarction",
+        "Early diagnosis of cardiac injury"
+      ],
+      "Occurrences": 3,
+      "context": "'Troponin T' is explicitly referenced (ref 99) and cardiac troponins are compared/used for early diagnosis in other referenced studies (refs 97, 102, 103)."
+    },
+    {
+      "Gene": "MYBPC3",
+      "Associated Conditions": [
+        "Early diagnosis of acute myocardial infarction"
+      ],
+      "Occurrences": 1,
+      "context": "Ref 102 directly compares 'cardiac myosin-binding protein C' with cardiac troponins for the early diagnosis of acute myocardial infarction."
+    }
+  ]
+}

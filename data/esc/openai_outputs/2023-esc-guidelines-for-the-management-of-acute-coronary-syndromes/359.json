@@ -1,0 +1,36 @@
+{
+  "content": {
+    "title": "Reperfusion strategy recommendations (excerpt)",
+    "recommendations": [
+      {
+        "id": 1,
+        "recommendation": "A PPCI strategy is recommended over fibrinolysis if the anticipated time from diagnosis to PCI is <120 min.",
+        "time_window": "<120 min (diagnosis to PCI)",
+        "grade": "I A"
+      },
+      {
+        "id": 2,
+        "recommendation": "If timely PPCI (<120 min) cannot be performed in patients with a working diagnosis of STEMI, fibrinolytic therapy is recommended within 12 h of symptom onset in patients without contraindications.",
+        "time_window": "<120 min for PPCI; fibrinolysis within 12 h of symptom onset if PPCI not timely",
+        "grade": "I A"
+      },
+      {
+        "id": 3,
+        "recommendation": "Rescue PCI is recommended for failed fibrinolysis (i.e. ST‑segment resolution <50% within 60–90 min of fibrinolytic administration) or in the presence of haemodynamic or electrical instability, worsening ischaemia, or persistent chest pain.",
+        "time_window": "Assess ST‑segment resolution at 60–90 min after fibrinolytic administration",
+        "grade": "I A",
+        "failed_fibrinolysis_definition": "ST‑segment resolution <50% within 60–90 min"
+      }
+    ],
+    "keywords": [
+      "PPCI",
+      "fibrinolysis",
+      "PCI",
+      "STEMI",
+      "rescue PCI",
+      "ST-segment resolution"
+    ],
+    "notes": "Excerpt shows guideline recommendations and strength (I, A). No gene names or genetic tests are mentioned on the page."
+  },
+  "genes": []
+}

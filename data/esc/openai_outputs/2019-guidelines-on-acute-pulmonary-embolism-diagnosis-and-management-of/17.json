@@ -1,44 +1,52 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS) - Reviewers",
-    "preamble": "For ESC Guidelines: The report below lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2018.",
-    "experts": [
+    "source": "abbreviations_list_page",
+    "abbreviations": [
       {
-        "name": "Angoulvant Denis",
-        "declarations": [
-          "Novartis : Heart Failure and Atherosclerosis (2018)",
-          "Amgen : Lipids and Atherosclerosis (2018)",
-          "Sanofi Aventis : Lipids and Atherosclerosis (2018)",
-          "MSD : Lipids and Atherosclerosis (2018)",
-          "Boehringer-Ingelheim : Thrombosis (2018)",
-          "Pfizer : Thrombosis (2018)",
-          "BMS : Thrombosis (2018)",
-          "Bayer : Thrombosis and Atherosclerosis (2018)",
-          "Astra Zeneca : Thrombosis, Diabetes (2018)"
-        ],
-        "payments_to_department_or_institution": [
-          "BMS/Pfizer : Apixaban (2018)",
-          "Amgen : Evolocumab (2018)",
-          "Bayer : Rivaroxaban (2018)",
-          "Novartis : Valsartan Sacubitril (2018)"
-        ],
-        "research_funding_under_direct_responsibility": [
-          "Biotronik : Interventional cardiology (2018)",
-          "Abbott Vascular : Interventional cardiology (2018)"
-        ],
-        "notes": "B - payments to department or institution for personal services; D - research funding under direct/personal responsibility."
+        "abbrev": "P-gp",
+        "definition": "P-glycoprotein"
       },
       {
-        "name": "Asfalou Iliyasse",
-        "declarations": [
-          "Nothing to be declared (2018)"
-        ]
+        "abbrev": "PH",
+        "definition": "Pulmonary hypertension"
+      },
+      {
+        "abbrev": "PIOPED",
+        "definition": "Prospective Investigation On Pulmonary Embolism Diagnosis"
+      },
+      {
+        "abbrev": "PISAPED",
+        "definition": "Prospective Investigative Study of Acute Pulmonary Embolism Diagnosis"
+      },
+      {
+        "abbrev": "PREPIC",
+        "definition": "Prevention of Recurrent Pulmonary Embolism by Vena Cava Interruption"
+      },
+      {
+        "abbrev": "PVR",
+        "definition": "Pulmonary vascular resistance"
+      },
+      {
+        "abbrev": "RA",
+        "definition": "Right atrium/atrial"
+      },
+      {
+        "abbrev": "RCT",
+        "definition": "Randomized controlled trial"
+      },
+      {
+        "abbrev": "RIETE",
+        "definition": "Registro Informatizado de la Enfermedad Thromboembolica venosa"
+      },
+      {
+        "abbrev": "RR",
+        "definition": "Relative risk"
+      },
+      {
+        "abbrev": "rtPA",
+        "definition": "Recombinant tissue-type plasminogen activator"
       }
-    ],
-    "footer": {
-      "date": "21/08/2019",
-      "page": "17/62"
-    }
+    ]
   },
   "genes": []
 }

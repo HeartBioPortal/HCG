@@ -1,0 +1,22 @@
+{
+  "content": {
+    "title": "Imaging recommendations for suspected ACS (excerpt)",
+    "recommendations": [
+      {
+        "text": "Emergency TTE is recommended in patients with suspected ACS presenting with cardiogenic shock or suspected mechanical complications.",
+        "recommendation_class": "I",
+        "level_of_evidence": "C",
+        "target_population": "Patients with suspected acute coronary syndrome (ACS) presenting with cardiogenic shock or suspected mechanical complications",
+        "action": "Perform emergency transthoracic echocardiography (TTE)"
+      },
+      {
+        "text": "Routine, early coronary computed tomography angiography in patients with suspected ACS is not recommended.",
+        "recommendation_class": "III",
+        "level_of_evidence": "B",
+        "target_population": "Patients with suspected acute coronary syndrome (ACS)",
+        "action": "Do not perform routine early coronary CT angiography"
+      }
+    ]
+  },
+  "genes": []
+}

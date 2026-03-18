@@ -1,62 +1,67 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "organization": "European Society of Cardiology (ESC)",
-    "purpose": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during development of these guidelines up to and including 2020).",
-    "expert": "McMurray John J V",
-    "declaration_year": 2020,
-    "page_date": "12/08/2021",
-    "summary_relationships": [
+    "abbreviations": [
       {
-        "company": "Amgen Inc",
-        "description": "Employer (Glasgow University) paid by Amgen for time spent as Steering Committee member for the mecarbil (COSMIC-HF and GALACTIC-HF trial steering committees). Payments made through a consultancy with Glasgow University; no personal payments received."
+        "abbr": "Peak exercise oxygen consumption",
+        "definition": null
       },
       {
-        "company": "AstraZeneca",
-        "description": "Employer paid by AstraZeneca for time as Principal Investigator/Co-principal Investigator of DAPA-HF, DELIVER and DETERMINE trials (trials using dapagliflozin) and for related meetings; travel/accommodation paid; payments made through a consultancy with Glasgow University; no personal payments received."
+        "abbr": "QI",
+        "definition": "Quality indicator"
       },
       {
-        "company": "Bayer",
-        "description": "Employer paid by Bayer for time as Steering Committee member for the PANACHE trial using neladenoson bialanate and for the FINEARTS trial with finerenone; payments made through a consultancy with Glasgow University; no personal payments received."
+        "abbr": "QOL",
+        "definition": "Quality of life"
       },
       {
-        "company": "Bristol Myers Squibb",
-        "description": "Employer paid by BMS for time as a Steering Committee member for the STAND-UP clinical trial (using a HNO donor) in heart failure and meetings related to this trial; payments made through a consultancy with Glasgow University; no personal payments received."
+        "abbr": "QRS",
+        "definition": "Q, R, and S waves of an ECG"
       },
       {
-        "company": "Boehringer-Ingelheim",
-        "description": "Employer paid by Boehringer-Ingelheim for advice about development of empagliflozin as a potential therapy for heart failure."
+        "abbr": "RAAS",
+        "definition": "Renin-angiotensin-aldosterone system"
       },
       {
-        "company": "Cardurion",
-        "description": "Employer paid by Cardurion for participation in a company advisory board about development of a PDE 9 inhibitor in heart failure."
+        "abbr": "RACE II",
+        "definition": "Rate Control Efficacy in Permanent Atrial Fibrillation: a Comparison between Lenient versus Strict Rate Control II (trial)"
       },
       {
-        "company": "Cyclerion",
-        "description": "Employer paid by Cyclerion for advice about development of praliciguat as a potential therapy for heart failure."
+        "abbr": "RAFT",
+        "definition": "Resynchronization/Defibrillation for Ambulatory Heart Failure Trial (trial)"
       },
       {
-        "company": "Cytokinetics",
-        "description": "Employer paid by Cytokinetics for time as Steering Committee member for the ATOMIC-HF, COSMIC-HF and GALACTIC-HF trials and related meetings; travel/accommodation paid for some meetings/activities; payments made through a consultancy with Glasgow University; no personal payments received."
+        "abbr": "RASi",
+        "definition": "Renin-angiotensin system inhibitor"
       },
       {
-        "company": "DalCor Pharmaceuticals",
-        "description": "Employer paid by DalCor for time as Steering Committee member for the Dal-GenE trial and related activities; payments made through a consultancy with Glasgow University; no personal payments received."
+        "abbr": "RATE-AF",
+        "definition": "Rate Control Therapy Evaluation in Permanent Atrial Fibrillation (trial)"
       },
       {
-        "company": "GlaxoSmithKline (GSK)",
-        "description": "Employer paid by GSK for time as Co-principal investigator and Steering Committee member for the Harmony-Outcomes trial (albiglutide) and ASCEND trials using daprodustat, and related meetings; travel/accommodation paid for some meetings; payments made through a consultancy with Glasgow University; no personal payments received."
+        "abbr": "RBM20",
+        "definition": "Ribonucleic acid binding motif 20"
+      },
+      {
+        "abbr": "RCT",
+        "definition": "Randomized controlled trial"
+      },
+      {
+        "abbr": "REMATCH",
+        "definition": "Randomized Evaluation of Mechanical Assistance for the Treatment of Congestive Heart Failure (trial)"
+      },
+      {
+        "abbr": "REVERSE",
+        "definition": "REsynchronization reVErses Remodeling in Systolic left vEntricular dysfunction (trial)"
       }
-    ]
+    ],
+    "source_notes": "Page contains an abbreviations list used in a clinical guideline. Many entries are trial names or clinical terms; only RBM20 corresponds to a gene symbol on this page."
   },
   "genes": [
     {
-      "Gene": "PDE9A",
-      "Associated Conditions": [
-        "heart failure"
-      ],
+      "Gene": "RBM20",
+      "Associated Conditions": [],
       "Occurrences": 1,
-      "context": "Mention of 'development of a PDE 9 inhibitor in heart failure' in relation to Cardurion advisory board activity."
+      "context": "Listed in the abbreviations as 'RBM20 – Ribonucleic acid binding motif 20'. No conditions are specified on this page."
     }
   ]
 }

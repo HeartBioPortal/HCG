@@ -1,43 +1,109 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "organization": "European Society of Cardiology (ESC)",
-    "declaration_note": "For ESC Guidelines: The report below lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2020.",
-    "entries": [
+    "Tables": [
       {
-        "Expert": "Cleland John",
-        "Year": 2020,
-        "Type of Relationship": "Other Positions of Influence",
-        "Declarations": [
-          "Direct ownership of shares or direct financial interest in healthcare, media, education companies or in companies related to (suppliers), or in competition with the ESC and its mission; to reduce the burden of cardiovascular disease.",
-          "Healthcare - HEART FAILURE - Share options in HeartFelt technologies developing a device for measuring limb volume and congestion (CE marked; no trial data as yet).",
-          "Share options in Viscardia developing a diaphragmatic pacing device (Phase IIa).",
-          "Share options in Pharmalm developing new investigational medical products (Phase I).",
-          "Membership or affiliation in political, advocacy or patients organisations working in the field of cardiology.",
-          "I have helped support \"Pumping Marvellous\", a patient advocacy organisation based in the UK. I am a member of the British Society for Heart Failure."
-        ]
+        "title": "Table 26 Initial diagnostic assessment in patients with suspected cardiomyopathy",
+        "page": "3678"
       },
       {
-        "Expert": "Coats Andrew",
-        "Year": 2019,
-        "Type of Relationship": "Financial Declaration",
-        "Declarations": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Faraday Australia : Acute MI",
-          "CVRx : Autonomic devices",
-          "ESN Cleer : Biomarkers",
-          "Actimed : Cancer",
-          "Bayer AG (event review committee member) : CV disease",
-          "CorVia : Device for HFpEF",
-          "Cardiac Dimensions : Devices for MR",
-          "Novartis : Heart Failure",
-          "Servier : Heart Failure",
-          "Menarini : Heart Failure",
-          "Astra Zeneca : Hyperkalaemia"
-        ]
+        "title": "Table 27 Dilated cardiomyopathy or hypokinetic non-dilated cardiomyopathy: specific aspects of diagnosis and treatment",
+        "page": "3679"
+      },
+      {
+        "title": "Table 28 Hypertrophic cardiomyopathy: specific aspects of diagnosis and treatment",
+        "page": "3680"
+      },
+      {
+        "title": "Table 29 Arrhythmogenic cardiomyopathy: specific aspects of diagnosis and Treatment",
+        "page": "3681"
+      },
+      {
+        "title": "Table 30 Aetiologies to be considered triggering acute myocarditis",
+        "page": "3682"
+      },
+      {
+        "title": "Table 31 Diagnostic workup in suspected acute myocarditis",
+        "page": "3683"
+      },
+      {
+        "title": "Table 32 Endomyocardial biopsy in patients with suspected myocarditis",
+        "page": "3684"
+      },
+      {
+        "title": "Table 33 Cardiac magnetic resonance in patients with suspected myocarditis",
+        "page": "3685"
+      },
+      {
+        "title": "Table 34 Treatment and follow-up of acute myocarditis",
+        "page": "3685"
+      },
+      {
+        "title": "Table 35 Red flags for most common forms of cardiac amyloidosis",
+        "page": "3686"
+      },
+      {
+        "title": "Table 36 Treatment of adult congenital heart disease and heart failure in specialized centres",
+        "page": "3688"
+      },
+      {
+        "title": "Table 37 Main European Society of Cardiology Quality Indicators for the evaluation of care and outcomes for patients with heart failure",
+        "page": "3693"
       }
     ],
-    "document_date": "12/08/2021"
+    "Figures": [
+      {
+        "title": "Figure 1 The diagnostic algorithm for heart failure",
+        "page": "3615"
+      },
+      {
+        "title": "Figure 2 Therapeutic algorithm of Class I Therapy Indications for a patient with heart failure with reduced ejection fraction",
+        "page": "3620"
+      },
+      {
+        "title": "Figure 3 Central illustration Strategic phenotypic overview of the management of heart failure with reduced ejection fraction",
+        "page": "3624"
+      },
+      {
+        "title": "Figure 4 Algorithm for the treatment of patients with advanced heart failure",
+        "page": "3640"
+      },
+      {
+        "title": "Figure 5 Triage of patients with advanced heart failure and appropriate timing of referral",
+        "page": "3641"
+      },
+      {
+        "title": "Figure 6 Diagnostic workup of new onset acute heart failure",
+        "page": "3645"
+      },
+      {
+        "title": "Figure 7 Management of acute decompensated heart failure",
+        "page": "3648"
+      },
+      {
+        "title": "Figure 8 Management of pulmonary oedema",
+        "page": "3649"
+      },
+      {
+        "title": "Figure 9 Management of right ventricular failure",
+        "page": "3650"
+      },
+      {
+        "title": "Figure 10 Management of cardiogenic shock",
+        "page": "3651"
+      },
+      {
+        "title": "Figure 11 Stages of management of patients with acute heart failure",
+        "page": "3652"
+      },
+      {
+        "title": "Figure 12 Initial management of acute heart failure",
+        "page": "3653"
+      },
+      {
+        "title": "Figure 13 Diuretic therapy (furosemide) in acute heart failure",
+        "page": "3654"
+      }
+    ]
   },
   "genes": []
 }

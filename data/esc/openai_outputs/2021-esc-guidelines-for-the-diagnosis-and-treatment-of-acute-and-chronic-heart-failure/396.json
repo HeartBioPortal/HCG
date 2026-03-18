@@ -1,0 +1,64 @@
+{
+  "content": {
+    "title": "Main European Society of Cardiology quality indicators for the evaluation of care and outcomes for patients with heart failure (Table 37)",
+    "note": "A full list is published in a separate article.",
+    "blood_tests": [
+      "urea",
+      "creatinine",
+      "electrolytes",
+      "full blood count",
+      "glucose",
+      "glycated haemoglobin",
+      "thyroid-stimulating hormone",
+      "liver function test",
+      "lipids",
+      "iron profile"
+    ],
+    "table_reference": "Table 37",
+    "domains": [
+      {
+        "id": "Domain 1",
+        "name": "Structural QIs",
+        "main": "Centre should have a dedicated multidisciplinary team to manage patients with HF",
+        "numerator": "Availability of a dedicated multidisciplinary team to manage patients with HF."
+      },
+      {
+        "id": "Domain 2",
+        "name": "Patient assessment",
+        "mains": [
+          {
+            "id": "Main (1)",
+            "description": "Proportion of patients with HF who have a documentation of their HF clinical type (HFrEF, HFmrEF, HFpEF)",
+            "numerator": "Number of patients with HF who have a documentation of their HF clinical type (HFrEF, HFmrEF, HFpEF).",
+            "denominator": "Number of patients with HF."
+          },
+          {
+            "id": "Main (2)",
+            "description": "Proportion of patients with HF who have a documentation of their ECG findings",
+            "numerator": "Number of patients with HF who have a documentation of their ECG findings.",
+            "denominator": "Number of patients with HF."
+          },
+          {
+            "id": "Main (3)",
+            "description": "Proportion of patients with HF who have their NPs measured",
+            "numerator": "Number of patients with HF who have a documentation of their NPs levels.",
+            "denominator": "Number of patients with HF."
+          }
+        ]
+      },
+      {
+        "id": "Domain 3",
+        "name": "Initial treatment",
+        "mains": [
+          {
+            "id": "Main (1)",
+            "description": "Proportion of patients with HFrEF who are prescribed the beta-blocker bisoprolol, carvedilol, sustained-release metoprolol succinate, or nebivolol in the absence of any contraindications",
+            "numerator": "Number of patients with HFrEF who are prescribed the beta-blocker bisoprolol, carvedilol, sustained-release metoprolol succinate, or nebivolol.",
+            "denominator": "Number of patients with HFrEF without any contraindications for the beta-blocker bisoprolol, carvedilol, sustained-release metoprolol succinate, and nebivolol."
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

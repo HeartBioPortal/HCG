@@ -1,58 +1,34 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "header_note": "For ESC Guidelines: The report below lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2022.",
-    "page_date": "16/05/2023",
-    "page_number": "50/57",
-    "experts": [
-      {
-        "name": "Siller-Matula Jolanta",
-        "year": 2022,
-        "declaration_summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member. Research funding from healthcare industry under direct/personal responsibility (to department or institution).",
-        "companies_and_areas": [
-          "Daiichi Sankyo: Acute Cardiac Care",
-          "Boehringer-Ingelheim: Chronic Heart Failure, Acute Heart Failure, Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS)",
-          "Chiesi Pharma: Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS), Interventional Cardiology",
-          "Biosensors: Interventional Cardiology",
-          "Boston Scientific: Interventional Cardiology",
-          "P&F: Interventional Cardiology"
-        ],
-        "research_funding_details": [
-          "AOP Orphan Pharmaceuticals: PI, chief investigator"
-        ],
-        "full_text_snippet": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Research funding from healthcare industry under your direct/personal responsibility (to department or institution). AOP Orphan Pharmaceuticals : PI, chief investigator"
-      },
-      {
-        "name": "Sorensen Rikke",
-        "years": [
-          2021,
-          2022
-        ],
-        "declarations_by_year": {
-          "2021": "Nothing to be declared",
-          "2022": "Research funding from healthcare industry under your direct/personal responsibility (to department or institution). Novo Nordisk Foundation: Research grant for the Dan-DAPT study, an investigator initiated trial., Sponsor investigator"
+    "section_heading": "3.3.4 Rapid rule-in/rule-out algorithms",
+    "summary": "Guidance on use of high-sensitivity cardiac troponin (hs-cTn) assays and rapid algorithms for early diagnosis of myocardial infarction (MI).",
+    "key_points": [
+      "Baseline hs-cTn values vary with age, eGFR, time from chest pain onset, and sex, but absolute changes in hs-cTn remain diagnostically and prognostically valuable.",
+      "Until automated risk calculators that incorporate age, eGFR, time from chest pain onset, and sex are available, a uniform cut-off concentration should remain the standard for early MI diagnosis.",
+      "Because of higher sensitivity and diagnostic accuracy, hs-cTn assays allow shortening the interval to the second cTn assessment, reducing diagnostic delay and ED length of stay.",
+      "Recommended algorithms: 0 h/1 h algorithm is the best option; 0 h/2 h algorithm is the second-best option. The ESC 0 h/3 h algorithm may be an alternative where 0 h/1 h or 0 h/2 h are not available.",
+      "These algorithms were derived and validated in large multicenter diagnostic studies with central adjudication of final diagnosis for currently available hs-cTn assays.",
+      "Optimal thresholds for rule-out were selected to allow sensitivity and negative predictive value (NPV) of at least 99%.",
+      "Optimal thresholds for rule-in were selected to allow a positive predictive value (PPV) of at least 70%.",
+      "Three recent large diagnostic studies suggested the ESC 0 h/3 h algorithm balances efficacy and safety less well than more rapid protocols using lower rule-out concentrations.",
+      "High safety and high efficacy of applying the ESC 0 h/1 h algorithm have been confirmed in real-life implementation studies, including one randomized controlled trial.",
+      "Patients assigned to the rule-out pathway using ESC 0 h/1 h or 0 h/2 h algorithms have a very low rate of clinical events through 30 days."
+    ],
+    "recommendations": {
+      "preferred_algorithm": "ESC 0 h/1 h (best option)",
+      "alternative_algorithm": "ESC 0 h/2 h (second-best option); ESC 0 h/3 h can be considered when others are not available",
+      "performance_targets": {
+        "rule_out": {
+          "sensitivity": ">=99%",
+          "NPV": ">=99%"
         },
-        "full_text_snippet": "2021 Nothing to be declared. 2022 Research funding from healthcare industry under your direct/personal responsibility (to department or institution). Novo Nordisk Foundation : Research grant for the Dan-DAPT study, an investigator initated trial. , Sponsor investigator"
-      },
-      {
-        "name": "Sticherling Christian",
-        "year": 2021,
-        "declaration_summary": "Payment from healthcare industry to department/institution or other body for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, travel and meeting support. Research funding from healthcare industry under direct/personal responsibility (to department or institution).",
-        "companies_and_areas": [
-          "Biosense Webster: Ablation",
-          "Abbott: Ablation, ICD, Pacemaker",
-          "Microport: Defibrillators, Pacemaker",
-          "Boston Scientific: Defibrillators, Pacemaker, Ablation",
-          "Medtronic: Defibrillators, Pacemaker, Ablation",
-          "Biotronik: Defibrillators, Pacemaker, Ablation",
-          "Biotronik: CRM"
-        ],
-        "research_funding_details": [
-          "Medtronic: Ablation, Loop recorder"
-        ],
-        "full_text_snippet": "Payment from healthcare industry to your department or institution or any other body for your personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Travel and meeting support from healthcare industry, independent of the above activities. Research funding from healthcare industry under your direct/personal responsibility (to department or institution)."
+        "rule_in": {
+          "PPV": ">=70%"
+        }
       }
-    ]
+    },
+    "evidence_notes": "Algorithms were derived and validated in large derivation cohorts and then validated in large independent validation cohorts; real-life implementation studies (including an RCT) confirm safety and efficacy.",
+    "practical_implications": "Use hs-cTn-based 0 h/1 h or 0 h/2 h algorithms where possible to shorten time to diagnosis and reduce ED stays; maintain uniform cut-offs until clinical tools adjust for demographic/clinical variables."
   },
   "genes": []
 }

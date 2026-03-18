@@ -1,109 +1,118 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "note": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during development period up to and including 2020).",
-    "expert": "Cleland John",
-    "declaration_year_column": 2019,
-    "declaration_date_on_page": "12/08/2021",
-    "relationships": [
+    "title": "Extracted table of contents (clinical guideline page)",
+    "sections": [
       {
-        "category": "Industry relationships / devices and related (listed items)",
-        "entries": [
-          {
-            "company": "Respicardia",
-            "topic": "heart failure"
-          },
-          {
-            "company": "Roche Diagnostics",
-            "topic": "Heart Failure"
-          },
-          {
-            "company": "Zoll Medical",
-            "topic": "heart failure"
-          },
-          {
-            "company": "Sensible Medical",
-            "topic": "Heart Failure"
-          },
-          {
-            "company": "Stealthpeptides",
-            "topic": "Heart Failure"
-          },
-          {
-            "company": "Corvedia",
-            "topic": "Heart Failure"
-          },
-          {
-            "company": "Abbott",
-            "topic": "Heart failure devices and biomarkers"
-          },
-          {
-            "company": "Actelion",
-            "topic": "Pulmonary Hypertension"
-          }
-        ]
+        "section": "12.2 Chronic coronary syndromes",
+        "page": 3660
       },
       {
-        "category": "Payment from healthcare industry to department/institution for personal services (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member etc.)",
-        "entries": [
-          {
-            "company": "Bayer Healthcare",
-            "topic": "CV Disease"
-          },
-          {
-            "company": "Amgen",
-            "topic": "Heart Failure"
-          },
-          {
-            "company": "Novartis",
-            "topic": "Heart failure"
-          },
-          {
-            "company": "Philips",
-            "topic": "Heart Failure"
-          },
-          {
-            "company": "Vifor International",
-            "topic": "Heart Failure"
-          },
-          {
-            "company": "Bristol Myers Squibb",
-            "topic": "heart failure"
-          },
-          {
-            "company": "Idorsia",
-            "topic": "Hypertension"
-          },
-          {
-            "company": "Pharmacosmos",
-            "topic": "IV Iron"
-          },
-          {
-            "company": "Pharmanord",
-            "topic": "Nutritional supplements"
-          }
-        ]
+        "section": "12.2.1 Medical therapy",
+        "page": 3661
       },
       {
-        "category": "Research funding from healthcare industry under direct/personal responsibility (to department or institution)",
-        "entries": [
-          {
-            "company": "Bayer Healthcare",
-            "topic": "CV Disease"
-          },
-          {
-            "company": "Amgen",
-            "topic": "Heart Failure"
-          },
-          {
-            "company": "Boehringer-Ingelheim",
-            "topic": "Heart Failure"
-          },
-          {
-            "company": "Novartis",
-            "topic": "Heart Failure"
-          }
-        ]
+        "section": "12.2.2 Myocardial revascularization",
+        "page": 3662
+      },
+      {
+        "section": "12.3 Valvular heart disease",
+        "page": 3662
+      },
+      {
+        "section": "12.3.1 Aortic stenosis",
+        "page": 3662
+      },
+      {
+        "section": "12.3.2 Aortic regurgitation",
+        "page": 3664
+      },
+      {
+        "section": "12.3.3 Mitral regurgitation",
+        "page": 3664
+      },
+      {
+        "section": "12.3.4 Tricuspid regurgitation",
+        "page": 3666
+      },
+      {
+        "section": "12.4 Hypertension",
+        "page": 3666
+      },
+      {
+        "section": "12.5 Stroke",
+        "page": 3666
+      },
+      {
+        "section": "13 Non-cardiovascular comorbidities",
+        "page": 3666
+      },
+      {
+        "section": "13.1 Diabetes",
+        "page": 3666
+      },
+      {
+        "section": "13.2 Thyroid disorders",
+        "page": 3667
+      },
+      {
+        "section": "13.3 Obesity",
+        "page": 3668
+      },
+      {
+        "section": "13.4 Frailty, cachexia, sarcopenia",
+        "page": 3668
+      },
+      {
+        "section": "13.5 Iron deficiency and anaemia",
+        "page": 3668
+      },
+      {
+        "section": "13.6 Kidney dysfunction",
+        "page": 3669
+      },
+      {
+        "section": "13.7 Electrolyte disorders: hypokalaemia, hyperkalaemia, hyponatraemia, hypochloraemia",
+        "page": 3670
+      },
+      {
+        "section": "13.8 Lung disease, sleep-disordered breathing",
+        "page": 3671
+      },
+      {
+        "section": "13.9 Hyperlipidaemia and lipid-modifying therapy",
+        "page": 3671
+      },
+      {
+        "section": "13.10 Gout and arthritis",
+        "page": 3672
+      },
+      {
+        "section": "13.11 Erectile dysfunction",
+        "page": 3672
+      },
+      {
+        "section": "13.12 Depression",
+        "page": 3672
+      },
+      {
+        "section": "13.13 Cancer",
+        "page": 3672
+      },
+      {
+        "section": "13.14 Infection",
+        "page": 3675
+      },
+      {
+        "section": "14 Special conditions",
+        "page": 3675
+      },
+      {
+        "section": "14.1 Pregnancy",
+        "page": 3675
+      },
+      {
+        "section": "14.1.1 Pregnancy in pre-existing heart failure",
+        "page": 3675
       }
     ]
   },

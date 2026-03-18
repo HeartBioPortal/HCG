@@ -1,0 +1,49 @@
+{
+  "content": {
+    "title": "Recommendations for cardiogenic shock (Excerpt)",
+    "source": "ESC 2023 (image)",
+    "recommendations": [
+      {
+        "text": "Immediate coronary angiography and PCI of the IRA (if indicated) is recommended in patients with CS complicating ACS.",
+        "class": "I",
+        "level": "B"
+      },
+      {
+        "text": "Emergency CABG is recommended for ACS-related CS if PCI of the IRA is not feasible/unsuccessful.",
+        "class": "I",
+        "level": "B"
+      },
+      {
+        "text": "In cases of haemodynamic instability, emergency surgical/catheter-based repair of mechanical complications of ACS is recommended, based on Heart Team discussion.",
+        "class": "I",
+        "level": "C"
+      },
+      {
+        "text": "Fibrinolysis should be considered in STEMI patients presenting with CS if a PPCI strategy is not available within 120 min from the time of STEMI diagnosis and mechanical complications have been ruled out.",
+        "class": "IIa",
+        "level": "C"
+      },
+      {
+        "text": "In patients with ACS and severe/refractory CS, short-term mechanical circulatory support may be considered.",
+        "class": "IIb",
+        "level": "C"
+      },
+      {
+        "text": "The routine use of an IABP in ACS patients with CS and without mechanical complications is not recommended.",
+        "class": "III",
+        "level": "B"
+      }
+    ],
+    "abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "CABG": "coronary artery bypass grafting",
+      "CS": "cardiogenic shock",
+      "IABP": "intra-aortic balloon pump",
+      "IRA": "infarct-related artery",
+      "PPCI": "primary percutaneous coronary intervention",
+      "STEMI": "ST-elevation myocardial infarction"
+    },
+    "notes": "Recommendations table includes class of recommendation and level of evidence as shown in the image. Footnote references (numeric) present in original image are not transcribed here."
+  },
+  "genes": []
+}

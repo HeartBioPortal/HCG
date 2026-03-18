@@ -1,0 +1,31 @@
+{
+  "content": {
+    "title": "Patients potentially eligible for implantation of a left ventricular assist device (LVAD)",
+    "summary": "Criteria for patients with persistent severe symptoms despite optimal medical and device therapy, without severe right ventricular dysfunction and/or severe tricuspid regurgitation (TR), with a stable psychosocial background and absence of major contraindications, who may be eligible for LVAD implantation.",
+    "eligibility_criteria": [
+      "General requirement: Persistent severe symptoms despite optimal medical and device therapy, without severe right ventricular dysfunction and/or severe TR, stable psychosocial background, absence of major contraindications, and at least one of the following.",
+      "LVEF < 25% and unable to exercise for heart failure (HF) or, if able to perform cardiopulmonary exercise testing, peak VO2 < 12 mL/kg/min and/or < 50% predicted value.",
+      "≥ 3 HF hospitalizations in the previous 12 months without an obvious precipitating cause.",
+      "Dependence on intravenous (i.v.) inotropic therapy or temporary mechanical circulatory support (MCS).",
+      "Progressive end-organ dysfunction (worsening renal and/or hepatic function, type II pulmonary hypertension, cardiac cachexia) due to reduced perfusion and not due to inadequately low ventricular filling pressure (PCWP ≥ 20 mmHg and SBP ≤ 90 mmHg or cardiac index ≤ 2 L/min/m^2)."
+    ],
+    "notes": [
+      "Stable psychosocial background includes demonstrated understanding of the technology and patient living in the same household with a caregiver who will help the patient (living alone and poor psychosocial background is an LVAD contraindication).",
+      "Major contraindications include contraindication to long-term oral anticoagulation, infection, severe renal dysfunction, ventricular arrhythmias.",
+      "Table reference: Table 16 (Open in new tab)."
+    ],
+    "abbreviations": {
+      "HF": "heart failure",
+      "i.v.": "intravenous",
+      "LVAD": "left ventricular assist device",
+      "LVEF": "left ventricular ejection fraction",
+      "MCS": "mechanical circulatory support",
+      "PCWP": "pulmonary capillary wedge pressure",
+      "SBP": "systolic blood pressure",
+      "TR": "tricuspid regurgitation",
+      "VO2": "oxygen consumption"
+    },
+    "source_page_notes": "Content repeated on page (criteria block appears multiple times). Some characters in the scanned text were corrupted; numeric thresholds transcribed as they appear (e.g., PCWP ≥ 20 mmHg, SBP ≤ 90 mmHg, cardiac index ≤ 2 L/min/m^2)."
+  },
+  "genes": []
+}

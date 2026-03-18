@@ -1,0 +1,69 @@
+{
+  "content": {
+    "Indication": "Progressive or persistent severe cardiac dysfunction and/or life-threatening ventricular arrhythmias and/or Mobitz type 2 second-degree or higher AV block with lack of short-term (<1-2 weeks) expected response to usual medical treatment.",
+    "Aim": "Identify aetiology and indicate specific treatment (e.g. giant cell myocarditis, eosinophilic myocarditis, cardiac sarcoidosis, systemic inflammatory disorders).",
+    "Number and sites of the samples": "A minimum of 5 but possibly at least 7 samples: 3 for pathology, 2 for infections (DNA, PCR) and 2 for RNA viruses/viral replication. Left and/or right ventricle. CMR or PET guided sampling may be considered.",
+    "Aetiology / Microbial testing": "Quantitative PCR viral genome analysis for common cardiotropic viruses (parvovirus B19, HHV4, HHV6, enteroviruses, adenovirus, coxsackievirus) by rtPCR. Viral mRNA for active viral replication may be assessed (low sensitivity). On indication, search for CMV, HIV, Borrelia, Coxiella burnetii and SARS-CoV-2.",
+    "Diagnosis of inflammation": "Immunohistochemistry with staining for anti-CD3, CD4, CD8 or CD45 antibodies for lymphocytes, anti-CD68 antibodies for macrophages and anti-HLA-DR antibodies.",
+    "Therapeutic implications": "Immunosuppressive therapy may be indicated based on EMB results (e.g. giant cell myocarditis, eosinophilic myocarditis, possibly sarcoidosis, vasculitis or selected patients with increased cardiac inflammation of unknown origin).",
+    "Antibiotics": "Borrelia (Lyme disease).",
+    "Antiviral therapy": "HIV, CMV, HHV6 pending on load and viral replication (mRNA).",
+    "Abbreviations / Notes": "CMR = cardiac magnetic resonance; CMV = cytomegalovirus; DNA = deoxyribonucleic acid; EMB = endomyocardial biopsy; HHV = human herpes virus; HIV = human immunodeficiency virus; HLA-DR = human leucocyte antigen-DR isotype; mRNA = messenger ribonucleic acid; PCR = polymerase chain reaction; PET = positron emission tomography; RNA = ribonucleic acid; rtPCR = reverse transcriptase polymerase chain reaction; SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2."
+  },
+  "genes": [
+    {
+      "Gene": "CD3",
+      "Associated Conditions": [
+        "Myocardial inflammation",
+        "Diagnosis of myocarditis via immunohistochemistry on endomyocardial biopsy"
+      ],
+      "Occurrences": 1,
+      "context": "Immunohistochemistry with staining for anti-CD3- antibodies for lymphocytes (diagnosis of inflammation)."
+    },
+    {
+      "Gene": "CD4",
+      "Associated Conditions": [
+        "Myocardial inflammation",
+        "Diagnosis of myocarditis via immunohistochemistry on endomyocardial biopsy"
+      ],
+      "Occurrences": 1,
+      "context": "Immunohistochemistry with staining for anti-CD4- antibodies for lymphocytes (diagnosis of inflammation)."
+    },
+    {
+      "Gene": "CD8",
+      "Associated Conditions": [
+        "Myocardial inflammation",
+        "Diagnosis of myocarditis via immunohistochemistry on endomyocardial biopsy"
+      ],
+      "Occurrences": 1,
+      "context": "Immunohistochemistry with staining for anti-CD8- antibodies for lymphocytes (diagnosis of inflammation)."
+    },
+    {
+      "Gene": "CD45",
+      "Associated Conditions": [
+        "Myocardial inflammation",
+        "Diagnosis of myocarditis via immunohistochemistry on endomyocardial biopsy"
+      ],
+      "Occurrences": 1,
+      "context": "Immunohistochemistry with staining for anti-CD45 antibodies for lymphocytes (diagnosis of inflammation)."
+    },
+    {
+      "Gene": "CD68",
+      "Associated Conditions": [
+        "Myocardial inflammation",
+        "Macrophage detection in myocarditis via immunohistochemistry on endomyocardial biopsy"
+      ],
+      "Occurrences": 1,
+      "context": "Immunohistochemistry with staining for anti-CD68 antibodies for macrophages (diagnosis of inflammation)."
+    },
+    {
+      "Gene": "HLA-DR",
+      "Associated Conditions": [
+        "Myocardial inflammation",
+        "Activation marker in inflammatory myocardial disease; used in immunohistochemistry on endomyocardial biopsy"
+      ],
+      "Occurrences": 2,
+      "context": "Immunohistochemistry with anti-HLA-DR antibodies and HLA-DR listed in the abbreviations (human leucocyte antigen-DR) for assessment of inflammation."
+    }
+  ]
+}

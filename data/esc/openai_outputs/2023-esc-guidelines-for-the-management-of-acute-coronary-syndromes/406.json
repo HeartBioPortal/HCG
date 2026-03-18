@@ -1,0 +1,74 @@
+{
+  "content": {
+    "page_title": "Bradyarrhythmias and ACS comorbid conditions (excerpt)",
+    "top_recommendation": {
+      "recommendation": "Prompt and complete revascularization is recommended to treat myocardial ischaemia that may be present in patients with recurrent VT and/or VF.",
+      "class": "I",
+      "level_of_evidence": "C"
+    },
+    "Bradyarrhythmias": [
+      {
+        "context_heading": "Sinus bradycardia with haemodynamic intolerance or high-degree AV block without stable escape rhythm",
+        "recommendations": [
+          {
+            "recommendation": "Intravenous positive chronotropic medication (adrenaline, vasopressin, and/or atropine) is recommended.",
+            "class": "I",
+            "level_of_evidence": "C"
+          },
+          {
+            "recommendation": "Temporary pacing is recommended in cases of failure to respond to atropine.",
+            "class": "I",
+            "level_of_evidence": "C"
+          },
+          {
+            "recommendation": "Urgent angiography with a view to revascularization is recommended if the patient has not received previous reperfusion therapy.",
+            "class": "I",
+            "level_of_evidence": "C"
+          }
+        ]
+      },
+      {
+        "recommendation": "Implantation of a permanent pacemaker is recommended when high-degree AV block does not resolve within a waiting period of at least 5 days after MI.",
+        "class": "I",
+        "level_of_evidence": "C"
+      },
+      {
+        "recommendation": "Pacing is not recommended if high-degree AV block resolves after revascularization or spontaneously.",
+        "class": "III",
+        "level_of_evidence": "B"
+      },
+      {
+        "recommendation": "Treatment of asymptomatic and haemodynamically irrelevant ventricular arrhythmias with anti-arrhythmic drugs is not recommended.",
+        "class": "III",
+        "level_of_evidence": "C"
+      }
+    ],
+    "Recommendations_for_acute_coronary_syndrome_comorbid_conditions": {
+      "Chronic_kidney_disease": [
+        {
+          "recommendation": "The use of low- or iso-osmolar contrast media (at the lowest possible volume) is recommended for invasive strategies.",
+          "class": "I",
+          "level_of_evidence": "A"
+        },
+        {
+          "recommendation": "It is recommended to assess kidney function using eGFR in all patients with ACS.",
+          "class": "I",
+          "level_of_evidence": "C"
+        },
+        {
+          "recommendation": "It is recommended to apply the same diagnostic and therapeutic strategies in patients with CKD (dose adjustment may be necessary) as in patients with normal kidney function.",
+          "class": "I",
+          "level_of_evidence": "C"
+        }
+      ],
+      "Diabetes": [
+        {
+          "recommendation": "It is recommended to base the choice of long-term glucose-lowering treatment on the presence of comorbidities, including heart failure, CKD, and obesity.",
+          "class": "I",
+          "level_of_evidence": "A"
+        }
+      ]
+    }
+  },
+  "genes": []
+}

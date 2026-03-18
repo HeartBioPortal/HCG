@@ -1,0 +1,55 @@
+{
+  "content": {
+    "title": "Recommendations",
+    "Aortic stenosis": [
+      {
+        "recommendation": "Aortic valve intervention, TAVI or SAVR, is recommended in patients with HF and severe high-gradient aortic stenosis to reduce mortality and improve symptoms.",
+        "Class": "I",
+        "Level": "B",
+        "reference": "594"
+      },
+      {
+        "recommendation": "It is recommended that the choice between TAVI and SAVR be made by the Heart Team, according to individual patient preference and features including age, surgical risk, clinical, anatomical and procedural aspects, weighing the risks and benefits of each approach.",
+        "Class": "I",
+        "Level": "C",
+        "reference": "592"
+      }
+    ],
+    "Secondary mitral regurgitation": [
+      {
+        "recommendation": "Percutaneous edge-to-edge mitral valve repair should be considered in carefully selected patients with secondary mitral regurgitation, not eligible for surgery and not needing coronary revascularization, who are symptomatic despite OMT and who fulfil criteria for achieving a reduction in HF hospitalizations.",
+        "Class": "IIa",
+        "Level": "B",
+        "reference": "612"
+      },
+      {
+        "recommendation": "In patients with HF, severe secondary mitral regurgitation and CAD who need revascularization, CABG and mitral valve surgery should be considered.",
+        "Class": "IIa",
+        "Level": "C"
+      },
+      {
+        "recommendation": "Percutaneous edge-to-edge mitral valve repair may be considered to improve symptoms in carefully selected patients with secondary mitral regurgitation, not eligible for surgery and not needing coronary revascularization, highly symptomatic despite OMT and who do not fulfil criteria for reducing HF hospitalization.",
+        "Class": "IIb",
+        "Level": "C",
+        "reference": "617"
+      }
+    ],
+    "Abbreviations": {
+      "CABG": "coronary artery bypass graft",
+      "CAD": "coronary artery disease",
+      "LVEF": "left ventricular ejection fraction",
+      "LVESD": "left ventricular end-systolic diameter",
+      "NYHA": "New York Heart Association",
+      "OMT": "optimal medical therapy",
+      "SAVR": "surgical aortic valve replacement",
+      "TAVI": "transcatheter aortic valve implantation",
+      "TR": "tricuspid regurgitation"
+    },
+    "notes": {
+      "a": "Class of recommendation.",
+      "b": "Level of evidence.",
+      "c": "NYHA class IIa–IV."
+    }
+  },
+  "genes": []
+}

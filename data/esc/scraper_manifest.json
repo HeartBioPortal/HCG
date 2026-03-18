@@ -1,412 +1,502 @@
 {
   "dataset": "esc",
   "catalog_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/",
-  "updated_at": "2026-03-17T07:21:17.367912+00:00",
+  "updated_at": "2026-03-18T01:42:42.762343+00:00",
   "documents": [
     {
       "title": "2018 Guidelines for Diagnosis/Management of Syncope",
       "year": 2018,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/syncope-guidelines-on-diagnosis-and-management-of/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/24fd0dd0a04f11f08bf47a16fb7ad7e5",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehy037",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2018-guidelines-for-diagnosis-management-of-syncope/2018-guidelines-for-diagnosis-management-of-syncope.pdf",
-      "sha256": "bd168bb2043fbcdb5a3ea686cb8053cc9eeb103e8a51bc587f0ff09a85d9c72b",
+      "sha256": "4d59f6fd61a57d4bc938648c4f6cc128223a83a6baa2149a219b4d42ba4d6000",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehy037"
       }
     },
     {
       "title": "2018 Guidelines on Fourth Universal Definition of Myocardial Infarction",
       "year": 2018,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/fourth-universal-definition-of-myocardial-infarction/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/b179897aa03911f0a3426a46441d1d9a",
-      "status": "existing",
-      "local_pdf": "data/esc/source_pdfs/2018-guidelines-on-fourth-universal-definition-of-myocardial-infarction/2018-guidelines-on-fourth-universal-definition-of-myocardial-infarction.pdf",
-      "sha256": "d08c505a042c43968f9bfd75b0ebb17fb996fe3d5ab5e9c857a6f3150a753d6f",
+      "download_url": "https://academic.oup.com/esc/pages/esc-journals",
+      "status": "failed",
+      "local_pdf": null,
+      "sha256": null,
       "bytes_written": null,
-      "error": null,
+      "error": "Could not determine DOI or article id for ESC article URL: https://academic.oup.com/esc/pages/esc-journals",
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/esc/pages/esc-journals"
       }
     },
     {
       "title": "2019 ESC/EAS Guidelines for the management of dyslipidaemias",
       "year": 2019,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/dyslipidaemias-management-of/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/cdcdf184a03811f092506abc163c2e94",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehz455",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2019-esc-eas-guidelines-for-the-management-of-dyslipidaemias/2019-esc-eas-guidelines-for-the-management-of-dyslipidaemias.pdf",
-      "sha256": "528f6f27e38b1533dac691f48739e3662a7d61857d8adb37d15bba4a57f6acc7",
+      "sha256": "6af037b746aba65a854f88d36f8ab3554c7ff5e5abeef844c4b7935a21206486",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehz455"
       }
     },
     {
       "title": "2019 Guidelines on Acute Pulmonary Embolism (Diagnosis and Management of)",
       "year": 2019,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/acute-pulmonary-embolism-diagnosis-and-management-of/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/e87e3766a03611f0a2e36abc163c2e94",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehz405",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2019-guidelines-on-acute-pulmonary-embolism-diagnosis-and-management-of/2019-guidelines-on-acute-pulmonary-embolism-diagnosis-and-management-of.pdf",
-      "sha256": "728620df17dbfd3c3b9d8632c7823e2761983c95245e0bfd7f0c8c2a7d43f250",
+      "sha256": "7877d44491fee9f2896d23b6db3cd54f172a0fdff440c9acebc565d81dfb9c14",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehz405"
       }
     },
     {
       "title": "2019 Guidelines on Supraventricular Tachycardia (for the management of patients with)",
       "year": 2019,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/supraventricular-tachycardia/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/9bbd08f4a04e11f08bf47a16fb7ad7e5",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehz467",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2019-guidelines-on-supraventricular-tachycardia-for-the-management-of-patients-with/2019-guidelines-on-supraventricular-tachycardia-for-the-management-of-patients-with.pdf",
-      "sha256": "62f933cd421cf392e07e9c470261db37774aae9d58ccc31f639d074d9a57a47a",
+      "sha256": "c1d09ba92abf009bf0d7063f9d0452439f5a3e1e09cc5f5ff89f5d9423ae9848",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehz467"
       }
     },
     {
       "title": "2020 ESC Guidelines for the management of Adult Congenital Heart Disease (previously Grown-Up Congenital Heart Disease)",
       "year": 2020,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/adult-congenital-heart-disease/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/ce6c54a4a03911f091e96abc163c2e94",
+      "download_url": "https://academic.oup.com/eurheartj/article/42/6/563/5898606",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2020-esc-guidelines-for-the-management-of-adult-congenital-heart-disease-previously-grown-up-congenital-heart-disease/2020-esc-guidelines-for-the-management-of-adult-congenital-heart-disease-previously-grown-up-congenital-heart-disease.pdf",
-      "sha256": "110e0f779941faf39d064560a63230561242885526a1fbcedad299ae361189a4",
+      "sha256": "9db8971fe3423c12c50aa4215b1e3aeda5434327264edd389ec37e1641980e3b",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article/42/6/563/5898606"
       }
     },
     {
       "title": "2020 ESC Guidelines on Sports Cardiology and Exercise in Patients with Cardiovascular Disease",
       "year": 2020,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/sports-cardiology-and-exercise-in-patients-with-cardiovascular-disease/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/f9a2e7aaa04d11f0b58d02bb67553c1b",
-      "status": "existing",
-      "local_pdf": "data/esc/source_pdfs/2020-esc-guidelines-on-sports-cardiology-and-exercise-in-patients-with-cardiovascular-disease/2020-esc-guidelines-on-sports-cardiology-and-exercise-in-patients-with-cardiovascular-disease.pdf",
-      "sha256": "caf8ca4252e7f00819faff1b223144c7b8145ed950dd4a81e952c6dce8bd435d",
+      "download_url": "https://academic.oup.com/eurheartj/article/42/5/548/5992469",
+      "status": "failed",
+      "local_pdf": null,
+      "sha256": null,
       "bytes_written": null,
-      "error": null,
+      "error": "Timed out waiting for ESC article content for '2020 ESC Guidelines on Sports Cardiology and Exercise in Patients with Cardiovascular Disease'",
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article/42/5/548/5992469"
       }
     },
     {
       "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure",
       "year": 2021,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/acute-and-chronic-heart-failure/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/4f0aafc4a03611f0b5d7d2092237be65",
+      "download_url": "https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehab368/6358045",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2021-esc-guidelines-for-the-diagnosis-and-treatment-of-acute-and-chronic-heart-failure/2021-esc-guidelines-for-the-diagnosis-and-treatment-of-acute-and-chronic-heart-failure.pdf",
-      "sha256": "6299aeadedffe5e78a1cf848025b8c505138d46ea76072d01955a06e2b9fe018",
+      "sha256": "d92f524e4594f434afb3f4c05424fd5efe824ca6b86365848f1cc38f2667aaaa",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehab368/6358045"
       }
     },
     {
       "title": "2021 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy",
       "year": 2021,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/cardiac-pacing-and-cardiac-resynchronization-therapy/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/a91afd9ca03711f09a77aeb60b0737b2",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehab364",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2021-esc-guidelines-on-cardiac-pacing-and-cardiac-resynchronization-therapy/2021-esc-guidelines-on-cardiac-pacing-and-cardiac-resynchronization-therapy.pdf",
-      "sha256": "7031b7985f6432b47522e915c9d6308c2fab3fc0f30d25d4e576a13e417595db",
+      "sha256": "1daebc8bce2860318138f32f85b88891652e10966d889bc276cb77270f7a2e10",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehab364"
       }
     },
     {
       "title": "2021 ESC Guidelines on Cardiovascular Disease Prevention in Clinical Practice",
       "year": 2021,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/cvd-prevention-guidelines/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/a9be3330a03811f0b5d7d2092237be65",
+      "download_url": "https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehab484/6358713",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2021-esc-guidelines-on-cardiovascular-disease-prevention-in-clinical-practice/2021-esc-guidelines-on-cardiovascular-disease-prevention-in-clinical-practice.pdf",
-      "sha256": "e398afdce0d88d9bb1a6d8c02f8d632dbc38cfe1edffa1163f95ef09cccf7ac1",
+      "sha256": "5265cb14e1e49b4f9423a0a775c1fba454c1e5c928eb9eb62e4c272935470edd",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehab484/6358713"
       }
     },
     {
       "title": "2022 ESC Guidelines on cardio-oncology",
       "year": 2022,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/cardio-oncology-guidelines/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/ff5e1748a03711f0838736d630e91d68",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehac244",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2022-esc-guidelines-on-cardio-oncology/2022-esc-guidelines-on-cardio-oncology.pdf",
-      "sha256": "a424521afc0f088666b76b357f229a3d46ead46134ce92516ca000b17e10dbd8",
+      "sha256": "347cfdae0e6fc01f95c70baaf185d974477986415db9a1135b70372c5c74ef12",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehac244"
       }
     },
     {
       "title": "2022 ESC Guidelines on Cardiovascular Assessment and Management of Patients Undergoing Non Cardiac Surgery",
       "year": 2022,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/esc-guidelines-on-non-cardiac-surgery-cardiovascular-assessment-and-managem/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/5df270a0a03911f0b5d7d2092237be65",
+      "download_url": "https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad577/7262562",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2022-esc-guidelines-on-cardiovascular-assessment-and-management-of-patients-undergoing-non-cardiac-surgery/2022-esc-guidelines-on-cardiovascular-assessment-and-management-of-patients-undergoing-non-cardiac-surgery.pdf",
-      "sha256": "ed27ecec3838af3f67aa77803d1c072d62107aa21119d7a598d9d4515ca6d887",
+      "sha256": "3efd66bf81e3ecaa1b403f24f357dff9876cbd0f8be6349943639a3559894445",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad577/7262562"
       }
     },
     {
       "title": "2022 ESC Guidelines: management of patients with ventricular arrhythmias and the prevention of sudden cardiac death",
       "year": 2022,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/ventricular-arrhythmias-and-the-prevention-of-sudden-cardiac-death/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/c2507986a05011f093eb369f7d11d1e1",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehac262",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2022-esc-guidelines-management-of-patients-with-ventricular-arrhythmias-and-the-prevention-of-sudden-cardiac-death/2022-esc-guidelines-management-of-patients-with-ventricular-arrhythmias-and-the-prevention-of-sudden-cardiac-death.pdf",
-      "sha256": "1fa8380904ecc1ce45cf14a535098f8cac72ed6e528ac873c1a0bf39676c4ed5",
+      "sha256": "7593bb65b2fe73f792459d60171ea0f08569baedd7c4e1bcb9261625229f27a0",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehac262"
       }
     },
     {
       "title": "2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension",
       "year": 2022,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/pulmonary-hypertension-guidelines-on-diagnosis-and-treatment-of/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/42cc1506a04d11f09f08369f7d11d1e1",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehac237",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2022-esc-ers-guidelines-for-the-diagnosis-and-treatment-of-pulmonary-hypertension/2022-esc-ers-guidelines-for-the-diagnosis-and-treatment-of-pulmonary-hypertension.pdf",
-      "sha256": "e2b3272c28d0f878dbbc9efedb4c80eb912e1b6a675ddd7dcc8d5b7e87ce7bf5",
+      "sha256": "ceededfe2db94b61b128e745cf1d0564e26e5627714918fc3144fff0b25b93b8",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehac237"
       }
     },
     {
       "title": "2023 ESC Guidelines for the management of acute coronary syndromes",
       "year": 2023,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/acute-coronary-syndromes-acs-guidelines/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/9f9e5512a03611f0a3426a46441d1d9a",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad191",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2023-esc-guidelines-for-the-management-of-acute-coronary-syndromes/2023-esc-guidelines-for-the-management-of-acute-coronary-syndromes.pdf",
-      "sha256": "3e55c7ef8260e73123b03d9839747ffd17e92ad6f879dbf55b3c0809f9cafc6b",
+      "sha256": "e9f4e9f1b5204c837dcc71ef7c9bba8ba506b570b47633a059a29224b9018643",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad191"
       }
     },
     {
       "title": "2023 ESC Guidelines for the management of cardiomyopathies",
       "year": 2023,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/cardiomyopathy-guidelines/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/d9714028a03711f0a3369a9988fe83eb",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad194",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2023-esc-guidelines-for-the-management-of-cardiomyopathies/2023-esc-guidelines-for-the-management-of-cardiomyopathies.pdf",
-      "sha256": "0885ba9b097190126be0ff6307d3b0e5e34b1993b82fe930356f31a8200184d1",
+      "sha256": "f7af7e5832cad24538b18dec65198cab0d16b65452afb08ded2299465074fe51",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad194"
       }
     },
     {
       "title": "2023 ESC Guidelines for the management of cardiovascular disease in patients with diabetes",
       "year": 2023,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/cvd-and-diabetes-guidelines/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/7836834ea03811f0a3369a9988fe83eb",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad192",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2023-esc-guidelines-for-the-management-of-cardiovascular-disease-in-patients-with-diabetes/2023-esc-guidelines-for-the-management-of-cardiovascular-disease-in-patients-with-diabetes.pdf",
-      "sha256": "7f784dddca805259950e561ed4fbd93879e761398d2dfb1df71f6751ea9af116",
+      "sha256": "72b88e74e24815afe6f3755aa06c30d3ae3f1beb2386b89ac2d4b9b3e18834c6",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad192"
       }
     },
     {
       "title": "2023 ESC Guidelines for the management of endocarditis",
       "year": 2023,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/endocarditis-guidelines/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/14bef4bca03911f0988036d630e91d68",
+      "download_url": "https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae877/7959358",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2023-esc-guidelines-for-the-management-of-endocarditis/2023-esc-guidelines-for-the-management-of-endocarditis.pdf",
-      "sha256": "544e978ee40bfb60585a7df2b94da7e813ed9af1405f88865ca1edef1e45f66d",
+      "sha256": "6785e85dcaf540ef200cf6a52d2326b3a8abcf35bde38d7d31cb035d31b9a429",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae877/7959358"
       }
     },
     {
       "title": "2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure",
       "year": 2023,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/focused-update-on-heart-failure-guidelines/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/7fa29928a03911f0a2e36abc163c2e94",
+      "download_url": "https://academic.oup.com/eurheartj/article/42/36/3599/6358045?login=false",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2023-focused-update-of-the-2021-esc-guidelines-for-the-diagnosis-and-treatment-of-acute-and-chronic-heart-failure/2023-focused-update-of-the-2021-esc-guidelines-for-the-diagnosis-and-treatment-of-acute-and-chronic-heart-failure.pdf",
-      "sha256": "8358dbb97ceccd22e2f45e421e1ec98e3a266367d5178873c172fa2bf91e5baf",
+      "sha256": "b7d72f93584e51b5880d16931d1a37284194caee5d400391ea4545e84d9e3eb5",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article/42/36/3599/6358045?login=false"
       }
     },
     {
       "title": "2024 ESC Guidelines for the management of atrial fibrillation",
       "year": 2024,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/atrial-fibrillation/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/576c994ca03711f0a3426a46441d1d9a",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehae176",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2024-esc-guidelines-for-the-management-of-atrial-fibrillation/2024-esc-guidelines-for-the-management-of-atrial-fibrillation.pdf",
-      "sha256": "dde51fb5c52c929738c85b9dffbcacdfbd19a0a50d6344dbf4b93f677704d8c1",
+      "sha256": "e86f36218bf467dc8914848e02ac5d1e96c9526e12c0eed8ea9bad59efc79013",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehae176"
       }
     },
     {
       "title": "2024 ESC Guidelines for the management of chronic coronary syndromes",
       "year": 2024,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/chronic-coronary-syndromes/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/46dba2a2a03811f0a2e36abc163c2e94",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehae177",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2024-esc-guidelines-for-the-management-of-chronic-coronary-syndromes/2024-esc-guidelines-for-the-management-of-chronic-coronary-syndromes.pdf",
-      "sha256": "a686f6ff50e703c0f18993eafed9a862ea2b54b5d754df3c7064cfb0878a09be",
+      "sha256": "c684fcd85b583c55ca1f2268423c4b4cbf66c8e8be4bf6d2d2e8b9a7ee3773ed",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehae177"
       }
     },
     {
       "title": "2024 ESC Guidelines for the Management of Elevated Blood Pressure and Hypertension",
       "year": 2024,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/elevated-blood-pressure-and-hypertension/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/f4127f4aa03811f0988036d630e91d68",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehae178",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2024-esc-guidelines-for-the-management-of-elevated-blood-pressure-and-hypertension/2024-esc-guidelines-for-the-management-of-elevated-blood-pressure-and-hypertension.pdf",
-      "sha256": "20decffab76c4c2b7278c3216d98b2740cec1ce6951db9639736db102ffb3cf7",
+      "sha256": "fe76ce0c83a9cac027a109afc5586afdebb315a6a7fd1c1da4d900872b5efc86",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehae178"
       }
     },
     {
       "title": "2024 ESC Guidelines for the management of peripheral arterial and aortic diseases",
       "year": 2024,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/peripheral-arterial-and-aortic-diseases/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/79ddeffca04711f095b87a16fb7ad7e5",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehae179",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2024-esc-guidelines-for-the-management-of-peripheral-arterial-and-aortic-diseases/2024-esc-guidelines-for-the-management-of-peripheral-arterial-and-aortic-diseases.pdf",
-      "sha256": "afee62154b859236b964bd54bfad1596f943c7d18f48be7e8fcb629c0ae05390",
+      "sha256": "ad75ba8ff314d76c1c9ffdf3e796d464867d942c1e3ecf3118b5b4354903db3a",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehae179"
       }
     },
     {
       "title": "2025 ESC Clinical Consensus Statement on mental health and cardiovascular disease",
       "year": 2025,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/mental-health-and-cvd/",
-      "download_url": "https://dam-assets.escardio.org/download/6a9e7066f20e11f08427ea39072af560",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehaf191",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2025-esc-clinical-consensus-statement-on-mental-health-and-cardiovascular-disease/2025-esc-clinical-consensus-statement-on-mental-health-and-cardiovascular-disease.pdf",
-      "sha256": "579bbc89fee3cf9c98811d3fe2b346ba49d5fe89c2cd9a9dabb61818d436b61a",
+      "sha256": "243ac1251b3198258e673377bbfe5baf786734d111faa46714f1899d4acccf83",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehaf191"
       }
     },
     {
       "title": "2025 ESC Guidelines for the management of cardiovascular disease and pregnancy",
       "year": 2025,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/cardiovascular-diseases-during-pregnancy-management-of/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/2662e530a03811f09a77aeb60b0737b2",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehaf193",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2025-esc-guidelines-for-the-management-of-cardiovascular-disease-and-pregnancy/2025-esc-guidelines-for-the-management-of-cardiovascular-disease-and-pregnancy.pdf",
-      "sha256": "b6eaa48b3e6c890b4c3916d8c4a22ca3fbd126098ed23447dc560de9a145cb8f",
+      "sha256": "3afcdc992e5c77aa8d7e3a06f6a9b601e0e89572ede943c5d11e62069fba9396",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehaf193"
       }
     },
     {
       "title": "2025 ESC Guidelines for the management of myocarditis and pericarditis",
       "year": 2025,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/myocarditis-and-pericarditis/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/b48a7518a04611f0844d8e7b8fb84ac5",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehaf192",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2025-esc-guidelines-for-the-management-of-myocarditis-and-pericarditis/2025-esc-guidelines-for-the-management-of-myocarditis-and-pericarditis.pdf",
-      "sha256": "581369985f663f03ff51627e376cbbd1869f891e200dadc1f0d55bc7f46d01cb",
+      "sha256": "a8782546d98fe2e9e5b973097a453520506b883a2fbc02f77a037e0cfd629866",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehaf192"
       }
     },
     {
       "title": "2025 ESC/EACTS Guidelines for the management of valvular heart disease",
       "year": 2025,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/valvular-heart-disease/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/39970f24a05011f08dfa8a76190731bc",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehaf194",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2025-esc-eacts-guidelines-for-the-management-of-valvular-heart-disease/2025-esc-eacts-guidelines-for-the-management-of-valvular-heart-disease.pdf",
-      "sha256": "6fc45219f150b8ca18c366db0f5202dc9fc252d39051c12013442c960307aa22",
+      "sha256": "47073dc6ff97cbcbc9386507c935ebd974d0a89e9cd5fb30289a575d33c8629d",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehaf194"
       }
     },
     {
       "title": "2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias",
       "year": 2025,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/dyslipidaemias/",
-      "download_url": "https://dam-assets.escardio.org/download/6ad3f79af20e11f0b25b8e0cf40d321f",
+      "download_url": "https://academic.oup.com/eurheartj/article/41/1/111/5556353?login=false",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/2025-focused-update-of-the-2019-esc-eas-guidelines-for-the-management-of-dyslipidaemias/2025-focused-update-of-the-2019-esc-eas-guidelines-for-the-management-of-dyslipidaemias.pdf",
-      "sha256": "2ebcf072fe76d084c63713d9f7619910b0f69d221a5b8ee59a4f21f067b778bf",
+      "sha256": "3d6308044bc41181c1e1daa9f67a6cf60c9f21f85eba75dfa3c453d7a678881f",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article/41/1/111/5556353?login=false"
       }
     },
     {
       "title": "ESC/EACTS Guidelines on Myocardial Revascularisation",
       "year": null,
       "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/myocardial-revascularisation/",
-      "download_url": "https://yjxzhi.files.cmp.optimizely.com/download/37a30deca03911f0a2e36abc163c2e94",
+      "download_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehy394",
       "status": "existing",
       "local_pdf": "data/esc/source_pdfs/esc-eacts-guidelines-on-myocardial-revascularisation/esc-eacts-guidelines-on-myocardial-revascularisation.pdf",
-      "sha256": "cfae625815e7cec2b07f8803714cfd0ecc44d5e04ba8cf70cb65502c84f1d9cc",
+      "sha256": "13676eaf702ba1d41949e15a90e11f46a87b01c27b7071fba1ccee45dd7159e0",
       "bytes_written": null,
       "error": null,
       "metadata": {
-        "publisher": "ESC"
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehy394"
+      }
+    },
+    {
+      "title": "Guidelines for the Interpretation of Neonatal Electrocardiogram",
+      "year": null,
+      "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/neonatal-electrocardiogram-guidelines-for-the-interpretation-of-the/",
+      "download_url": "https://academic.oup.com/eurheartj/article-abstract/23/17/1329/501315?redirectedFrom=PDF#google_vignette",
+      "status": "failed",
+      "local_pdf": null,
+      "sha256": null,
+      "bytes_written": null,
+      "error": "Timed out waiting for ESC article content for 'Guidelines for the Interpretation of Neonatal Electrocardiogram'",
+      "metadata": {
+        "publisher": "ESC",
+        "download_mode": "render_article_pdf",
+        "article_url": "https://academic.oup.com/eurheartj/article-abstract/23/17/1329/501315?redirectedFrom=PDF#google_vignette"
+      }
+    },
+    {
+      "title": "The Role of Endomyocardial Biopsy in the Management of Cardiovascular Disease Guidelines",
+      "year": null,
+      "landing_url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/endomyocardial-biopsy/",
+      "download_url": "http://eurheartj.oxfordjournals.org/content/28/24/3076.full.pdf",
+      "status": "downloaded",
+      "local_pdf": "data/esc/source_pdfs/the-role-of-endomyocardial-biopsy-in-the-management-of-cardiovascular-disease-guidelines/the-role-of-endomyocardial-biopsy-in-the-management-of-cardiovascular-disease-guidelines.pdf",
+      "sha256": "2e245a85867a11967829c50dd67f1e45a23421cecee48bd69fbc162a4a6ea0d5",
+      "bytes_written": 1495,
+      "error": null,
+      "metadata": {
+        "publisher": "ESC",
+        "download_mode": "direct_pdf",
+        "article_url": null
       }
     }
   ]

@@ -1,95 +1,32 @@
 {
   "content": {
-    "title": "ESC Committee for Practice Guidelines 2018-2020",
-    "description": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during development period up to and including 2018).",
-    "page_date": "21/08/2019",
-    "experts": [
+    "title": "Definition of haemodynamic instability (acute high-risk pulmonary embolism)",
+    "summary": "Definition which delineates acute high-risk pulmonary embolism: one of the following clinical manifestations at presentation.",
+    "table_number": "Table 4",
+    "note": "BP = blood pressure.",
+    "manifestations": [
       {
-        "name": "Priori Silvia Giuliana",
-        "declarations": {
-          "1 - Financial Declaration": {
-            "A - Direct personal payment": "Speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry.",
-            "A_companies": [
-              {
-                "company": "Boston Scientific",
-                "purpose": "Cardiac device",
-                "years": "2017-2018"
-              }
-            ],
-            "B - Payment to department/institution for personal services": "Speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry.",
-            "B_companies": [
-              {
-                "company": "Audentes Rx",
-                "purpose": "Gene therapy",
-                "years": "2017-2018"
-              }
-            ],
-            "D - Research funding under direct/personal responsibility (to department or institution) from healthcare industry": [
-              {
-                "company": "Takeda Pharmaceuticals",
-                "purpose": "antiarrhythmic drugs",
-                "years": "2017-2018"
-              }
-            ]
-          }
-        }
+        "label": "(1) Cardiac arrest",
+        "details": [
+          "Need for cardiopulmonary resuscitation"
+        ]
       },
       {
-        "name": "Richter Dimitrios",
-        "declarations": {
-          "1 - Financial Declaration": {
-            "A - Direct personal payment": "Speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry.",
-            "A_companies": [
-              {
-                "company": "Novo-Nordisk",
-                "purpose": "diabetes",
-                "years": "2017"
-              },
-              {
-                "company": "Novartis",
-                "purpose": "hypertension",
-                "years": "2017"
-              },
-              {
-                "company": "Galenica",
-                "purpose": "lipids",
-                "years": "2017"
-              },
-              {
-                "company": "Teva Pharmaceutical Industries",
-                "purpose": "lipids, hypertension",
-                "years": "2017"
-              },
-              {
-                "company": "Edwards Lifesciences",
-                "purpose": "aortic stenosis",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Menarini",
-                "purpose": "CAD - hypertension",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Unipharma",
-                "purpose": "hypertension-thrombosis",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Abbott",
-                "purpose": "lipids",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Amgen",
-                "purpose": "lipids",
-                "years": "2017-2018"
-              }
-            ]
-          }
-        }
+        "label": "(2) Obstructive shock",
+        "details": [
+          "Systolic BP < 90 mmHg or vasopressors required to achieve a BP ≥ 90 mmHg despite adequate filling status",
+          "And",
+          "End-organ hypoperfusion (altered mental status; cold, clammy skin; oliguria/anuria; increased serum lactate)"
+        ]
+      },
+      {
+        "label": "(3) Persistent hypotension",
+        "details": [
+          "Systolic BP < 90 mmHg or systolic BP drop ≥ 40 mmHg, lasting longer than 15 min and not caused by new-onset arrhythmia, hypovolaemia, or sepsis"
+        ]
       }
-    ]
+    ],
+    "repetition": "The same table/content appears repeated multiple times on the page and an 'Open in new tab' link is shown above the table."
   },
   "genes": []
 }

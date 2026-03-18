@@ -1,58 +1,30 @@
 {
   "content": {
-    "document_title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers (Declarations of Interest)",
-    "notes": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering previous calendar year (calls conducted during development period up to and including 2022).",
-    "experts": [
-      {
-        "name": "Mehilli Julinda",
-        "declarations": [
-          {
-            "year": 2022,
-            "text": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.; Daiichi Sankyo Europe GmbH: Acute Coronary Syndromes; AstraZeneca: Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS); Pfizer: Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS); Bayer Vital GmbH: Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS); Biotronik: Interventional Cardiology; SIS Medical AG: Interventional Cardiology; Research funding from healthcare industry under direct/personal responsibility (to department or institution); Boston Scientific: Institutional research grant, principal investigator."
-          }
-        ]
-      },
-      {
-        "name": "Merceica Balbi Matthew",
-        "declarations": [
-          {
-            "year": 2021,
-            "text": "Nothing to be declared."
-          },
-          {
-            "year": 2022,
-            "text": "Nothing to be declared."
-          }
-        ]
-      },
-      {
-        "name": "Metzler Bernhard",
-        "declarations": [
-          {
-            "year": 2021,
-            "text": "Nothing to be declared."
-          },
-          {
-            "year": 2022,
-            "text": "Nothing to be declared."
-          }
-        ]
-      },
-      {
-        "name": "Mihaylova Borislava",
-        "declarations": [
-          {
-            "year": 2021,
-            "text": "Research funding from healthcare industry under direct/personal responsibility (to department or institution); Merck Sharp & Dohme: Anacetrapib; National Institute for Health Research (UK), Health Technology Assessment Programme: Cost-effectiveness of statin therapy; Barts Charity: Digital pathology; National Institute for Health Research: Various clinical studies including economic evaluations; Member of Editorial Advisory Board of Value in Health (journal)."
-          },
-          {
-            "year": 2022,
-            "text": "Research funding from healthcare industry under direct/personal responsibility (to department or institution); Merck Sharp & Dohme: economic analyses alongside a clinical trial, senior health economist; Barts Charity: Research project, principal investigator; National Institute for Health Research (UK), Health Technology Assessment Programme: Research project, principal investigator; Bowel Research UK: research project, principal investigator."
-          }
-        ]
-      }
-    ],
-    "page_footer": "16/05/2023 33/57"
+    "title": "Table A5 - Revised recommendations (ESC acute coronary syndrome/MI guidance summary)",
+    "sections": {
+      "Imaging for suspected NSTE-ACS": "In patients with no recurrence of chest pain, normal ECG and normal levels of cardiac troponin but still suspected ACS, a non-invasive test (preferably with imaging) for inducible ischemia or CCTA is recommended before deciding on an invasive approach. In patients with suspected ACS, non-elevated or uncertain hs-cTn, no ECG changes and no recurrence of pain, incorporating CCTA or a non-invasive stress imaging test as part of the initial workup should be considered.",
+      "Timing of invasive strategy in NSTE-ACS": "An early invasive strategy within 24 h is recommended in patients with high-risk criteria (diagnosis of NSTEMI per diagnostic algorithm, ongoing ischemia, dynamic ST/T changes, transient ST-elevation, GRACE risk score >140).",
+      "Antiplatelet and anticoagulant therapy in STEMI": "A potent P2Y12 inhibitor (prasugrel or ticagrelor), or clopidogrel if not available/contraindicated, is recommended before (or at latest at the time of) PCI and maintained over 12 months unless contraindicated. Pre-treatment with a P2Y12 receptor inhibitor may be considered in patients undergoing a primary PCI strategy.",
+      "Long-term antithrombotic therapy": "After stent implantation in patients undergoing DAPT, stopping aspirin after 3–6 months should be considered depending on ischemic and bleeding risks. In event-free patients after 3–6 months of DAPT who are not high ischemic risk, SAPT (preferably with a P2Y12 receptor inhibitor) should be considered.",
+      "Cardiac arrest and out-of-hospital cardiac arrest": "Delayed rather than immediate angiography should be considered in haemodynamically stable patients without ST-elevation successfully resuscitated after out-of-hospital cardiac arrest. Targeted temperature management is recommended for comatose survivors (temperature control between 32–36°C for at least 24 h).",
+      "In-hospital management": "When echocardiography is suboptimal/inconclusive, alternative imaging (CMR preferably) should be considered.",
+      "Management of multivessel disease in haemodynamically stable STEMI patients undergoing primary PCI": "Routine revascularization of non-IRA lesions should be considered in STEMI patients with multivessel disease before hospital discharge; complete revascularization recommended either during the index PCI or within 45 days.",
+      "Acute coronary syndrome comorbid conditions (glucose management)": "Glucose-lowering therapy should be considered in ACS patients with persistent hyperglycemia (blood glucose >10 mmol/L or >180 mg/dL). Episodes of hypoglycemia should be avoided."
+    },
+    "abbreviations_and_notes": {
+      "examples": "NSTE-ACS = non-ST-elevation ACS; CCTA = coronary CT angiography; hs-cTn = high-sensitivity cardiac troponin; PCI = percutaneous coronary intervention; DAPT = dual antiplatelet therapy; SAPT = single antiplatelet therapy; IRA = infarct-related artery; CMR = cardiac magnetic resonance; STEMI = ST-elevation myocardial infarction; GRACE = Global Registry of Acute Coronary Events."
+    }
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "Acute coronary syndromes (STEMI/NSTE-ACS)",
+        "Periprocedural antiplatelet therapy for PCI",
+        "Long-term antiplatelet therapy (SAPT/DAPT strategies)"
+      ],
+      "Occurrences": 3,
+      "context": "Multiple recommendations refer to use of a P2Y12 receptor inhibitor (e.g., prasugrel, ticagrelor, clopidogrel) before or at time of PCI and as preferred single antiplatelet therapy after initial DAPT (mentions in STEMI antiplatelet section, pre-treatment, and long-term antithrombotic therapy)."
+    }
+  ]
 }

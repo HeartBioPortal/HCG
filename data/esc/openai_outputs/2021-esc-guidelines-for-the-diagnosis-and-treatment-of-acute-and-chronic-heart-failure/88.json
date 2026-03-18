@@ -1,51 +1,35 @@
 {
   "content": {
-    "title": "Clinical Practice Guidelines Committee 2020-2022",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year. Calls conducted during development of guidelines up to and including 2020.",
-    "document_date": "09/08/2021",
-    "experts": [
+    "title": "New York Heart Association (NYHA) functional classification",
+    "NYHA_functional_classification": [
       {
-        "name": "Baumbach Andreas",
-        "year": 2020,
-        "declaration_type": "Industry relationships / Research organisation",
-        "details": [
-          "CERC: Research Organisation: Events Committees",
-          "Abbot Vascular: Stents",
-          "Microport: Stents",
-          "Sinomed: Stents",
-          "Venus Medtech: Valves, CEP"
-        ]
+        "Class": "I",
+        "Description": "No limitation of physical activity. Ordinary physical activity does not cause undue breathlessness, fatigue, or palpitations."
       },
       {
-        "name": "Borger Michael A",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "details": [
-          "Payments from healthcare industry to department/institution for personal services (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-          "Cryolife: aortic surgery",
-          "Abbott: heart valve therapy",
-          "Edwards Lifesciences: heart valve therapy",
-          "Medtronic: heart valve therapy"
-        ]
+        "Class": "II",
+        "Description": "Slight limitation of physical activity. Comfortable at rest, but ordinary physical activity results in undue breathlessness, fatigue, or palpitations."
       },
       {
-        "name": "Celutkiene Jelena",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "details": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Pfizer: anticoagulation",
-          "Amgen: heart failure",
-          "Boehringer-Ingelheim: heart failure",
-          "Novartis: heart failure",
-          "Bayer Healthcare: heart failure",
-          "Astrazeneca: heart failure",
-          "Research funding from healthcare industry to department/institution under direct/personal responsibility:",
-          "Roche Diagnostics: heart failure"
-        ]
+        "Class": "III",
+        "Description": "Marked limitation of physical activity. Comfortable at rest, but less than ordinary activity results undue breathlessness, fatigue, or palpitations."
+      },
+      {
+        "Class": "IV",
+        "Description": "Unable to carry on any physical activity without discomfort. Symptoms at rest can be present. If any physical activity is undertaken, discomfort is increased."
       }
-    ]
+    ],
+    "section": "3.3 Epidemiology and natural history of heart failure",
+    "Incidence_and_prevalence_summary": {
+      "text_extract": "In developed countries, the age-adjusted incidence of HF may be falling, presumably reflecting better management of CV disease, but due to ageing, the overall incidence is increasing. Currently, the incidence of HF in Europe is about 3/1000 person-years (all age-groups) or about 5/1000 person-years in adults. The prevalence of HF appears to be 1â€“2% of adults. As studies only usually include recognized/diagnosed HF cases, the true prevalence is likely to be higher. The prevalence increases with age: from around 1% for those aged <55 years to >10% in those aged 70 years or over. It is generally believed that, of those with HF, about 50% have HFrEF and 50% have HFpEF/HFmrEF (mainly based on studies in hospitalized patients).",
+      "key_points": [
+        "Incidence in Europe: ~3/1000 person-years (all ages); ~5/1000 person-years in adults.",
+        "Prevalence in adults: ~1–2%, likely underestimated.",
+        "Prevalence rises with age: ~1% for <55 years, >10% for ≥70 years.",
+        "Roughly half of HF patients have HFrEF and half have HFpEF/HFmrEF (based on hospitalized cohorts)."
+      ],
+      "notes": "Numeric citations and reference markers present in source text were not transcribed in full; reported ranges and proportions are those stated in the guideline text."
+    }
   },
   "genes": []
 }

@@ -1,0 +1,82 @@
+{
+  "content": {
+    "page_summary": "Reference list entries (234-240) from a clinical guideline or review focused on antiplatelet therapy, bleeding risk, and outcomes after percutaneous coronary intervention (PCI). Key topics include academic research consortium high bleeding risk criteria, antiplatelet trial meta-analyses, ESC focused update on dual antiplatelet therapy, comparisons of aspirin dosing and P2Y12-inhibitors (ticagrelor, clopidogrel, prasugrel), and a collaborative analysis on bleeding and stent thrombosis related to P2Y12-inhibitors.",
+    "references": [
+      {
+        "number": 234,
+        "citation": "Doomun D, Doomun I, Schukraft S, Arroyo D, Cook S, Huwyler T, et al.",
+        "title": "Ischemic and bleeding outcomes according to the academic research consortium high bleeding risk criteria in all comers treated by percutaneous coronary interventions.",
+        "journal": "Front Cardiovasc Med",
+        "year": 2021,
+        "volume_issue_pages": "8:620354",
+        "doi": "https://doi.org/10.3389/fcvm.2021.620354"
+      },
+      {
+        "number": 235,
+        "citation": "Antiplatelet Trialists' Collaboration.",
+        "title": "Collaborative overview of randomised trials of antiplatelet therapy-I: prevention of death, myocardial infarction, and stroke by prolonged antiplatelet therapy in various categories of patients.",
+        "journal": "BMJ",
+        "year": 1994,
+        "volume_issue_pages": "308:81-106",
+        "doi": "https://doi.org/10.1136/bmj.308.6921.81"
+      },
+      {
+        "number": 236,
+        "citation": "Valgimigli M, Bueno H, Byrne RA, Collet J-P, Costa F, Jeppsson A, et al.",
+        "title": "2017 ESC focused update on dual antiplatelet therapy in coronary artery disease developed in collaboration with EACTS: the Task Force for dual antiplatelet therapy in coronary artery disease of the European Society of Cardiology (ESC) and of the European Association for Cardio-Thoracic Surgery (EACTS).",
+        "journal": "Eur Heart J",
+        "year": 2018,
+        "volume_issue_pages": "39:213-260",
+        "doi": "https://doi.org/10.1093/eurheartj/ehx419"
+      },
+      {
+        "number": 237,
+        "citation": "Jones WS, Mulder H, Wruck LM, Pencina MJ, Kripalani S, Muñoz D, et al.",
+        "title": "Comparative effectiveness of aspirin dosing in cardiovascular disease.",
+        "journal": "N Engl J Med",
+        "year": 2021,
+        "volume_issue_pages": "384:1981-1990",
+        "doi": "https://doi.org/10.1056/NEJMoa2102137"
+      },
+      {
+        "number": 238,
+        "citation": "Wallentin L, Becker RC, Budaj A, Cannon CP, Emanuelsson H, Held C, et al.",
+        "title": "Ticagrelor versus clopidogrel in patients with acute coronary syndromes.",
+        "journal": "N Engl J Med",
+        "year": 2009,
+        "volume_issue_pages": "361:1045-1057",
+        "doi": "https://doi.org/10.1056/NEJMoa0904327"
+      },
+      {
+        "number": 239,
+        "citation": "Wiviott SD, Braunwald E, McCabe CH, Montalescot G, Ruzyllo W, Gottlieb S, et al.",
+        "title": "Prasugrel versus clopidogrel in patients with acute coronary syndromes.",
+        "journal": "N Engl J Med",
+        "year": 2007,
+        "volume_issue_pages": "357:2001-2015",
+        "doi": "https://doi.org/10.1056/NEJMoa0706482"
+      },
+      {
+        "number": 240,
+        "citation": "Aradi D, Kirtane A, Bonello L, Gurbel PA, Tantry US, Huber K, et al.",
+        "title": "Bleeding and stent thrombosis on P2Y12-inhibitors: collaborative analysis on the role of platelet reactivity for risk stratification after percutaneous coronary intervention.",
+        "journal": "Eur Heart J",
+        "year": 2015,
+        "volume_issue_pages": "36:1762-1771",
+        "doi": "https://doi.org/10.1093/eurheartj/ehv104"
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12 (P2Y12)",
+      "Associated Conditions": [
+        "Bleeding",
+        "Stent thrombosis",
+        "Platelet reactivity affecting risk stratification after percutaneous coronary intervention"
+      ],
+      "Occurrences": 1,
+      "context": "Reference 240: 'Bleeding and stent thrombosis on P2Y12-inhibitors: collaborative analysis on the role of platelet reactivity for risk stratification after percutaneous coronary intervention.'"
+    }
+  ]
+}

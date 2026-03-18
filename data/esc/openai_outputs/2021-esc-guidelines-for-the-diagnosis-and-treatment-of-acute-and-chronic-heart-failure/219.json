@@ -1,0 +1,34 @@
+{
+  "content": {
+    "title": "Contraindications / Considerations for Heart Transplantation / LVAD",
+    "contraindications_and_considerations": [
+      "Malignancy with poor prognosis (collaboration with oncology to stratify risk of tumour progression/recurrence with immunosuppression)",
+      "Irreversible liver dysfunction (cirrhosis) or irreversible renal dysfunction (e.g. creatinine clearance <30 mL/min/1.73 m^2). Combined heart-liver or heart-kidney transplant may be considered",
+      "Systemic disease with multiorgan involvement",
+      "Other serious comorbidity with poor prognosis",
+      "Pre-transplant BMI >35 kg/m^2 (weight loss recommended to achieve BMI <35 kg/m^2)",
+      "Current alcohol or drug abuse",
+      "Psychological instability that jeopardizes proper follow-up and intensive therapeutic regimen after heart transplantation",
+      "Insufficient social supports to achieve compliant care in the outpatient setting"
+    ],
+    "abbreviations": {
+      "BMI": "body mass index",
+      "BTT": "bridge to transplantation",
+      "HFA": "heart failure (contextual abbreviation)",
+      "LVAD": "left ventricular assist device",
+      "ACHD": "adult congenital heart disease"
+    },
+    "footnotes_and_notes": [
+      "Active infection is a relative contraindication to transplant although in some cases of infected LVADs it may actually be an indication.",
+      "Elderly age is not an absolute contraindication. Patients aged <65 years might be more appropriate candidates due to overall life expectancy; most programmes accept patients up to 70 years of age. Biological and chronological age must be considered.",
+      "Surgical complexity (previous sternotomies, mediastinal radiation, ACHD) should be considered.",
+      "Decision pathway to transplantation or LVAD is unique to each patient; eligibility may change over time and can be influenced by factors unrelated to the patient (time on waiting list, centre's surgical experience and resources)."
+    ],
+    "source": "Adapted from Crespo-Leiro et al.",
+    "links": [
+      "Open in new tab",
+      "Recommendations for the treatment of patients with advanced heart failure"
+    ]
+  },
+  "genes": []
+}

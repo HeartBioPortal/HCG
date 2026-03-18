@@ -1,0 +1,21 @@
+{
+  "content": {
+    "spontaneous_coronary_artery_dissection": {
+      "recommendation": "In patients with spontaneous coronary artery dissection, PCI is recommended only for patients with symptoms and signs of ongoing myocardial ischaemia, a large area of myocardium in jeopardy, and reduced antegrade flow.",
+      "class_level": "I",
+      "evidence_level": "C"
+    },
+    "thrombus_aspiration": {
+      "recommendation": "The routine use of thrombus aspiration is not recommended.",
+      "class_level": "III",
+      "evidence_level": "A"
+    },
+    "multivessel_disease_management": {
+      "heading": "Recommendations for management of patients with multivessel disease",
+      "recommendation": "It is recommended to base the revascularization strategy (IRA PCI, multivessel PCI/CABG) on the patient's clinical status and comorbidities, as well as their disease complexity, according to the principles of management of myocardial revascularization.",
+      "class_level": "I",
+      "evidence_level": "B"
+    }
+  },
+  "genes": []
+}

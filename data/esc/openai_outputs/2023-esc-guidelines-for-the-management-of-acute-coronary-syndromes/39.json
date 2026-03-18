@@ -1,32 +1,17 @@
 {
   "content": {
-    "page_title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "document_note": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during development period up to and including 2022).",
-    "expert_entry": {
-      "Expert": "Erglis Andrejs",
-      "Year": 2021,
-      "Type of Relationship with Industry": [
-        "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-        "Payment from healthcare industry to department or institution or any other body for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc."
-      ],
-      "Companies / Areas (as listed)": [
-        "Amgen : Cardiology",
-        "Bayer : Cardiology",
-        "Boehringer-Ingelheim : Cardiology",
-        "Novartis : Cardiology",
-        "Servier : Cardiology",
-        "MVRx : Cardiology",
-        "Biosensors : Interventional Cardiology",
-        "Boston Scientific : Interventional Cardiology",
-        "Abbott Vascular : Interventional Cardiology",
-        "HeartFlow : Interventional Cardiology",
-        "Research Company AS “SISTEMU INOVACIJAS” : Interventional Cardiology"
-      ]
-    },
-    "footer": {
-      "date": "16/05/2023",
-      "page_number": "15/57"
-    }
+    "source": "ESC guideline excerpt (page image)",
+    "summary": "Describes ESC Clinical Practice Guidelines (CPG) committee responsibilities, review and approval process, declaration of funding, development and signing off of guidelines, use of evidence and tables of evidence, off-label use of medication considerations, and factors for clinicians to consider (patient situation, country-specific regulations). References a Table 1: Classes of recommendations.",
+    "paragraphs": [
+      "found on the ESC website (http://www.escardio.org/Guidelines) and have been compiled in a report published in a supplementary document with the guidelines. The Task Force received its entire financial support from the ESC without any involvement from the healthcare industry.",
+      "The ESC Clinical Practice Guidelines (CPG) Committee supervises and co-ordinates the preparation of new guidelines and is responsible for the approval process. ESC Guidelines undergo extensive review by the CPG Committee and external experts, including members from across the whole of the ESC region and from relevant ESC Subspecialty Communities and National Cardiac Societies. After appropriate revisions, the guidelines are signed off by all the experts involved in the Task Force. The finalized document is signed off by the CPG Committee for publication in the European Heart Journal. The guidelines were developed after careful consideration of the scientific and medical knowledge and the evidence available at the time of their writing. Tables of evidence summarizing the findings of studies informing development of the guidelines are included. The ESC warns readers that the technical language may be misinterpreted and declines any responsibility in this respect.",
+      "Off-label use of medication may be presented in this guideline if a sufficient level of evidence shows that it can be considered medically appropriate for a given condition. However, the final decisions concerning an individual patient must be made by the responsible health professional giving special consideration to:",
+      "The specific situation of the patient. Unless otherwise provided for by national regulations, off-label use of medication should be limited to situations where it is in the patient’s interest with regard to the quality, safety, and efficacy of care, and only after the patient has been informed and has provided consent.",
+      "Country-specific health regulations, indications by governmental drug regulatory agencies, and the ethical rules to which health professionals are subject, where applicable.",
+      "Table 1",
+      "Open in new tab",
+      "Classes of recommendations"
+    ]
   },
   "genes": []
 }

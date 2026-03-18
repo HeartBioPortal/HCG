@@ -1,0 +1,39 @@
+{
+  "content": {
+    "title": "Post-PCI care and risk assessment (selected excerpt)",
+    "early_discharge_criteria": {
+      "summary": "Selected low-risk patients may be suitable for early (including same-day) discharge after successful PCI/PPCI.",
+      "examples_of_criteria": [
+        "Age < 70 years",
+        "LVEF > 45%",
+        "One- or two-vessel disease",
+        "Successful PCI",
+        "No persistent arrhythmias",
+        "Haemodynamically stable, not requiring vasoactive or mechanical support",
+        "Not scheduled for further revascularization"
+      ],
+      "notes": "A consensus document and flow chart support decision-making on post-procedural length of stay."
+    },
+    "transfer_practice": "Early (same-day) transfer to a local hospital after successful PPCI is routine in selected patients under adequate monitoring and supervision, if no signs of ongoing ischaemia or arrhythmias and haemodynamically stable.",
+    "risk_assessment_overview": "Early and late risk stratification soon after presentation is useful to aid decision-making in patients with ACS.",
+    "clinical_risk_assessment": {
+      "recommendation": "All patients with ACS (particularly STEMI) should have early assessment of short-term risk.",
+      "parameters_to_evaluate": [
+        "Extent of myocardial damage",
+        "Achievement of successful reperfusion",
+        "Clinical markers of high risk (older age, tachycardia, hypotension, Killip class > I, anterior MI, previous MI, elevated initial serum creatinine, history of HF, peripheral arterial disease, anaemia)"
+      ],
+      "risk_scores": "Several risk scores exist; the GRACE risk score offers the best discriminative performance and is recommended for risk assessment."
+    },
+    "imaging_risk_assessment": {
+      "key_point": "LV dysfunction is a key prognostic factor for patients with ACS.",
+      "recommendations": [
+        "Determine LVEF before hospital discharge in all patients with ACS.",
+        "Routine echocardiography after PPCI to assess resting LV, RV, and valvular function and to exclude early mechanical complications and LV thrombus.",
+        "If echocardiography is suboptimal or inconclusive, CMR may be a valuable alternative."
+      ]
+    },
+    "revascularization_considerations": "In patients presenting days after an acute ACS event with completed MI, documented ischaemia or proven viability in a large myocardial territory may guide planned revascularization of an occluded IRA."
+  },
+  "genes": []
+}

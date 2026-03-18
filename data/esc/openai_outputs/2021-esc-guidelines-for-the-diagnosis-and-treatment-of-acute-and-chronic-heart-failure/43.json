@@ -1,42 +1,25 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "note": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during development up to and including 2020).",
-    "experts": [
-      {
-        "name": "Ruschitzka Frank",
-        "entries": [
-          {
-            "year": "2020",
-            "declarations": [
-              "Swiss national foundation: Scylla and Charybdis",
-              "Abbott: Tako Tsubo",
-              "Guidant EUROPE NV: UNTOUCHED",
-              "Novartis: VASCEND",
-              "Bayer: XATOA, XATOC, BAY 17938"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Skibelund Anne Kathrine",
-        "entries": [
-          {
-            "year": "2019",
-            "declarations": [
-              "Nothing to be declared"
-            ]
-          },
-          {
-            "year": "2020",
-            "declarations": [
-              "Nothing to be declared"
-            ]
-          }
-        ]
-      }
+    "title": "Guideline updates - Heart failure",
+    "summary": "Updates to heart failure terminology, classification, treatment algorithms, comorbidity management, cardiomyopathy guidance including genetic testing, and quality indicators.",
+    "changes": [
+      "Change of the term 'heart failure with mid-range ejection fraction' to 'heart failure with mildly reduced ejection fraction (HFmrEF).",
+      "A new simplified treatment algorithm for HFrEF.",
+      "Addition of a treatment algorithm for HFrEF according to phenotypes.",
+      "Modified classification for acute HF.",
+      "Updated treatments for non-cardiovascular comorbidities including diabetes, hyperkalaemia, iron deficiency, and cancer.",
+      "Updates on cardiomyopathies including the role of genetic testing and new treatments.",
+      "Addition of key quality indicators."
     ],
-    "document_date": "12/08/2021"
+    "abbreviations": {
+      "HFmrEF": "heart failure with mildly reduced ejection fraction",
+      "HFrEF": "heart failure with reduced ejection fraction",
+      "HF": "heart failure"
+    },
+    "notes": [
+      "Document highlights role of genetic testing in cardiomyopathies but does not list specific genes on this page.",
+      "Link provided: 'Open in new tab' for full guideline or new recommendations."
+    ]
   },
   "genes": []
 }

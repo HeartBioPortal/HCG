@@ -1,0 +1,165 @@
+{
+  "content": {
+    "page_type": "reference_list / bibliography (refs 816-826)",
+    "main_topics": {
+      "uric_acid_and_heart_failure": {
+        "summary": "Multiple references discuss the relationship between serum uric acid / hyperuricemia and heart failure, including pathophysiology, risk association, and treatment trials of uric acid-lowering therapies in heart failure patients.",
+        "approximate_reference_count": 8,
+        "references_mentioned": [
+          816,
+          817,
+          818,
+          819,
+          820,
+          821,
+          822,
+          823
+        ]
+      },
+      "uric_acid_lowering_treatments": {
+        "summary": "Studies and trials of uric acid–lowering agents (allopurinol, febuxostat, oxypurinol, benzbromarone) and their cardiovascular safety or effects in patients with gout or heart failure are cited.",
+        "agents_listed": [
+          "allopurinol",
+          "febuxostat",
+          "oxypurinol",
+          "benzbromarone"
+        ],
+        "approximate_reference_count": 5,
+        "references_mentioned": [
+          816,
+          820,
+          821,
+          822,
+          823
+        ]
+      },
+      "xanthine_oxidase_inhibition": {
+        "summary": "Effects of xanthine oxidase inhibition in hyperuricemic heart failure patients are reported, including a named trial (EXACT-HF).",
+        "approximate_reference_count": 3,
+        "references_mentioned": [
+          821,
+          823,
+          820
+        ]
+      },
+      "colchicine_in_cardiac_disease": {
+        "summary": "Systematic review/meta-analysis and experimental data addressing colchicine effects in cardiac disease (benefit/risk) are cited.",
+        "approximate_reference_count": 2,
+        "references_mentioned": [
+          824,
+          825
+        ]
+      },
+      "nonsteroidal_antiinflammatory_drugs_safety": {
+        "summary": "Reference to safety assessment of non-steroidal anti-inflammatory drugs (NSAIDs) from a project consortium.",
+        "approximate_reference_count": 1,
+        "references_mentioned": [
+          826
+        ]
+      }
+    },
+    "extracted_references": [
+      {
+        "ref": 816,
+        "citation": "Thanassoulis G, Brophy JM, Richard H, Pilote L. Gout, allopurinol use, and heart failure outcomes. Arch Intern Med 2010;170:1358–1364.",
+        "topics": [
+          "gout",
+          "allopurinol",
+          "heart failure outcomes"
+        ]
+      },
+      {
+        "ref": 817,
+        "citation": "Borghi C, Palazzuoli A, Landolfo M, Cosentino E. Hyperuricemia: a novel old disorder-relationship and potential mechanisms in heart failure. Heart Fail Rev 2020;25:43–51.",
+        "topics": [
+          "hyperuricemia",
+          "mechanisms in heart failure"
+        ]
+      },
+      {
+        "ref": 818,
+        "citation": "Doehner W, Springer J, Landmesser U, Struthers AD, Anker SD. Uric acid in chronic heart failure--current pathophysiological concepts. Eur J Heart Fail 2008;10:1269–1270.",
+        "topics": [
+          "uric acid",
+          "chronic heart failure",
+          "pathophysiology"
+        ]
+      },
+      {
+        "ref": 819,
+        "citation": "Huang H, Huang B, Li Y, Huang Y, Li J, Yao H, Jing X, Chen J, Wang J. Uric acid and risk of heart failure: a systematic review and meta-analysis. Eur J Heart Fail 2014;16:15–24.",
+        "topics": [
+          "uric acid",
+          "risk of heart failure",
+          "systematic review and meta-analysis"
+        ]
+      },
+      {
+        "ref": 820,
+        "citation": "White WB, Saag KG, Becker MA, Borer JS, Gorelick PB, Whelton A, Hunt B, Castillo M, Gunawardhana L, CARES Investigators. Cardiovascular safety of febuxostat or allopurinol in patients with gout. N Engl J Med 2018;378:1200–1210.",
+        "topics": [
+          "febuxostat",
+          "allopurinol",
+          "cardiovascular safety",
+          "gout"
+        ]
+      },
+      {
+        "ref": 821,
+        "citation": "Hare JM, Mangal B, Brown J, Fisher CJr., Freudenberger R, Colucci WS, Mann DL, Liu P, Givertz MM, Schwarz RP, OPT-CHF Investigators. Impact of oxypurinol in patients with symptomatic heart failure. Results of the OPT-CHF study. J Am Coll Cardiol 2008;51:2301–2309.",
+        "topics": [
+          "oxypurinol",
+          "symptomatic heart failure",
+          "OPT-CHF trial"
+        ]
+      },
+      {
+        "ref": 822,
+        "citation": "Ogino K, Kato M, Furuse Y, Kinugasa Y, Ishida K, Osaki S, Kinugawa T, Igawa O, Hisatome I, Shigemasa C, Anker SD, Doehner W. Uric acid-lowering treatment with benzbromarone in patients with heart failure: a double-blind placebo-controlled crossover preliminary study. Circ Heart Fail 2010;3:738–741.",
+        "topics": [
+          "benzbromarone",
+          "uric acid-lowering treatment",
+          "heart failure",
+          "placebo-controlled crossover study"
+        ]
+      },
+      {
+        "ref": 823,
+        "citation": "Givertz MM, Anstrom KJ, Redfield MM, Deswal A, Haddad H, Butler J, Tang WH, Dunlap ME, LeWinter MM, Mann DL, Felker GM, O'Connor CM, Goldsmith SR, Ofili EO, Saltzberg MT, Margulies KB, Cappola TP, Konstam MA, Semigran MJ, McNulty SE, Lee KL, Shah MR, Hernandez AF, NHLBI Heart Failure Clinical Research Network. Effects of xanthine oxidase inhibition in hyperuricemic heart failure patients: the Xanthine Oxidase Inhibition for Hyperuricemic Heart Failure Patients (EXACT-HF) study. Circulation 2015;131:1763–1771.",
+        "topics": [
+          "xanthine oxidase inhibition",
+          "hyperuricemic heart failure",
+          "EXACT-HF study"
+        ]
+      },
+      {
+        "ref": 824,
+        "citation": "Verma S, Eikelboom JW, Nidorf SM, Al-Omran M, Gupta N, Teoh H, Friedrich JO. Colchicine in cardiac disease: a systematic review and meta-analysis of randomized controlled trials. BMC Cardiovasc Disord 2015;15:96.",
+        "topics": [
+          "colchicine",
+          "cardiac disease",
+          "systematic review",
+          "meta-analysis"
+        ]
+      },
+      {
+        "ref": 825,
+        "citation": "Frommeyer G, Krawczyk J, Dechering DG, Kochhauser S, Leitz P, Fehr M, Eckardt L. Colchicine increases ventricular vulnerability in an experimental whole-heart model. Basic Clin Pharmacol Toxicol 2017;120:505–508.",
+        "topics": [
+          "colchicine",
+          "ventricular vulnerability",
+          "experimental whole-heart model"
+        ]
+      },
+      {
+        "ref": 826,
+        "citation": "Arfe A, Scotti L, Varas-Lorenzo C, Nicotra F, Zambon A, Kollhorst B, Schink T, Garbe E, Herings R, Straatman H, Schade R, Villa M, Lucchi S, Valkhoff V, Romio S, Thiessard F, Schuemie M, Pariente A, Sturkenboom M, Corrao G, Safety of Non-steroidal Anti-inflammatory Drugs Project Consortium. Non-steroidal anti- ...",
+        "topics": [
+          "NSAID safety",
+          "drug safety consortium"
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

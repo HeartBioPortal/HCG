@@ -1,40 +1,55 @@
 {
   "content": {
-    "document_title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members (Declarations of Interest)",
-    "expert": "Gardner Roy Stuart",
-    "year_reported": 2019,
-    "summary": "Declarations of interest and relationships with industry for Gardner Roy Stuart as reported to the ESC for development of 2021 heart failure guidelines (covering up to and including 2020).",
-    "relationships_with_industry": [
+    "abbreviations": [
       {
-        "type": "speaker/consultancy/advisory",
-        "details": [
-          "Novartis: Heart Failure",
-          "Webscape: Heart Failure interview",
-          "Vifor International: Heart failure therapies"
-        ]
+        "abbr": "BTD",
+        "definition": "Bridge to decision"
+      },
+      {
+        "abbr": "BTR",
+        "definition": "Bridge to recovery"
+      },
+      {
+        "abbr": "BTT",
+        "definition": "Bridge to transplantation"
+      },
+      {
+        "abbr": "CA",
+        "definition": "Cardiac amyloidosis (or amyloid cardiomyopathy)"
+      },
+      {
+        "abbr": "CABANA",
+        "definition": "Catheter ABlation vs. ANti-arrhythmic drug therapy for Atrial fibrillation (trial)"
+      },
+      {
+        "abbr": "CABG",
+        "definition": "Coronary artery bypass graft"
+      },
+      {
+        "abbr": "CAD",
+        "definition": "Coronary artery disease"
+      },
+      {
+        "abbr": "CANVAS-R",
+        "definition": "CANagliflozin cardioVascular Assessment Study - Renal"
+      },
+      {
+        "abbr": "CARE-HF",
+        "definition": "CArdiac REsynchronization in Heart Failure"
+      },
+      {
+        "abbr": "CASTLE-AF",
+        "definition": "Catheter Ablation versus Standard conventional Treatment in patients with LEft ventricular and Atrial Fibrillation (trial)"
+      },
+      {
+        "abbr": "CCB",
+        "definition": "Calcium channel blocker"
+      },
+      {
+        "abbr": "CCS",
+        "definition": "Chronic coronary syndrome"
       }
-    ],
-    "payments_to_department_or_institution": [
-      "Novartis: Heart failure preceptorships"
-    ],
-    "travel_and_meeting_support": [
-      "Vifor International: Sponsorship for HFA 2019"
-    ],
-    "research_funding_under_responsibility_to_institution": [
-      "Abbott: CRM",
-      "Boston Scientific: CRM"
-    ],
-    "personal_research_funding": [
-      "British Heart Foundation: Heart Failure (RHYTHM-HF) - notes that the expert does NOT receive any of this grant as payment/salary"
-    ],
-    "other_positions_of_influence": [
-      "Director of Professor Gardner Heart Failure Consultancy (HFC) Ltd (honoraria from 1A are paid)",
-      "Chair Elect of the British Society for Heart Failure (BSH)"
-    ],
-    "employment": [
-      "Works for the National Health Service (NHS), UK (including part time)"
-    ],
-    "footer_date": "12/08/2021"
+    ]
   },
   "genes": []
 }

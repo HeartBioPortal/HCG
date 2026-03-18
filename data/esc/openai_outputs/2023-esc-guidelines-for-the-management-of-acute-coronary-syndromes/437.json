@@ -1,0 +1,26 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "topic": "Glycaemic status assessment",
+        "text": "It is recommended to assess glycaemic status at initial evaluation in all patients with ACS.",
+        "class": "I",
+        "level": "B"
+      },
+      {
+        "topic": "Frequent blood glucose monitoring",
+        "text": "It is recommended to frequently monitor blood glucose levels in patients with known diabetes mellitus or hyperglycaemia (defined as glucose levels ≥11.1 mmol/L or ≥200 mg/dL).",
+        "class": "I",
+        "level": "C",
+        "definition": "hyperglycaemia defined as glucose ≥11.1 mmol/L or ≥200 mg/dL"
+      },
+      {
+        "topic": "Older adults",
+        "text": "It is recommended to apply the same diagnostic and treatment strategies in older patients as in younger patients.",
+        "class": "I",
+        "level": "B"
+      }
+    ]
+  },
+  "genes": []
+}

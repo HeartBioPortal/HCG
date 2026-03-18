@@ -1,0 +1,73 @@
+{
+  "content": {
+    "page_title": "Patient discharge and recommendations (ESC 2023)",
+    "abbreviations": {
+      "ACS": "acute coronary syndrome"
+    },
+    "discharge_guidance": [
+      {
+        "text": "Patient discharge information should be provided in both written and verbal formats prior to discharge. Adequate preparation and education for patient discharge using the teach back technique and/or motivational interviewing, giving information in chunks, and checking for understanding should be considered.",
+        "class": "IIa",
+        "level": "B",
+        "citations": [
+          885,
+          896,
+          911
+        ]
+      },
+      {
+        "text": "Assessment of mental well-being using a validated tool and onward psychological referral when appropriate should be considered.",
+        "class": "IIa",
+        "level": "B",
+        "citations": [
+          903,
+          904,
+          912,
+          913
+        ]
+      }
+    ],
+    "recommendations_table": [
+      {
+        "text": "Patient-centred care is recommended by assessing and adhering to individual patient preferences, needs and beliefs, ensuring that patient values are used to inform all clinical decisions.",
+        "class": "I",
+        "level": "B",
+        "citations": [
+          744,
+          881,
+          906,
+          907
+        ]
+      },
+      {
+        "text": "Include ACS patients in decision-making (as much as their condition allows) and inform them about the risk of adverse events, radiation exposure, and alternative options. Decision aids can be used to facilitate the discussion.",
+        "class": "I",
+        "level": "B",
+        "citations": [
+          908,
+          909
+        ]
+      },
+      {
+        "text": "Assess symptoms using methods that help patients to describe their experience.",
+        "class": "I",
+        "level": "C",
+        "citations": [
+          910
+        ]
+      },
+      {
+        "text": "Use of the 'teach back' technique for decision support during the securing of informed consent should be considered.",
+        "class": "IIa",
+        "level": "B",
+        "citations": [
+          885,
+          889,
+          890,
+          891
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

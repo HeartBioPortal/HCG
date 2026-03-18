@@ -1,42 +1,63 @@
 {
   "content": {
-    "document_title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "expert": "Mebazaa Alexandre",
-    "declarations": [
+    "page_section": "Glossary / Abbreviations (S)",
+    "abbreviations": [
       {
-        "year": 2019,
-        "type_of_relationships": [
-          "Orion: Heart Failure",
-          "Servier: Heart Failure",
-          "Otsuka Pharmaceuticals Development and Commercialization (consultancy): Heart failure",
-          "Philips: ventilation"
-        ],
-        "research_funding_under_personal_responsibility": [
-          "4TEEN4: Biomarker, heart failure",
-          "Adrenomed: biomarkers, sepsis"
-        ]
+        "abbrev": "SERVE-HF",
+        "definition": "Treatment of Sleep-Disordered Breathing with Predominant Central Sleep Apnea by Adaptive Servo Ventilation in Patients with Heart Failure (trial)"
       },
       {
-        "year": 2020,
-        "financial_declaration": {
-          "direct_personal_payments_from_healthcare_industry": [
-            "Abbott Laboratories: biomarkers",
-            "Roche Diagnostics: biomarkers",
-            "4TEEN4: biomarkers",
-            "Adrenomed: biomarkers, sepsis",
-            "Novartis: Heart failure",
-            "Orion: Heart Failure"
-          ]
-        },
-        "research_funding_under_personal_responsibility": [
-          "4TEEN4: Biomarker, heart failure",
-          "Roche Diagnostics: Biomarkers",
-          "Adrenomed: biomarkers, sepsis"
-        ]
+        "abbrev": "SGLT2",
+        "definition": "Sodium-glucose co-transporter 2"
+      },
+      {
+        "abbrev": "S-ICD",
+        "definition": "Subcutaneous implantable cardioverter-defibrillator"
+      },
+      {
+        "abbrev": "SMR",
+        "definition": "Secondary mitral regurgitation"
+      },
+      {
+        "abbrev": "SPECT",
+        "definition": "Single-photon emission computed tomography"
+      },
+      {
+        "abbrev": "SpO2",
+        "definition": "Transcutaneous oxygen saturation"
+      },
+      {
+        "abbrev": "SR",
+        "definition": "Sinus rhythm"
+      },
+      {
+        "abbrev": "STEMI",
+        "definition": "ST-elevation myocardial infarction"
+      },
+      {
+        "abbrev": "STICH",
+        "definition": "Surgical Treatment for Ischemic Heart Failure (trial)"
+      },
+      {
+        "abbrev": "STICHES",
+        "definition": "Extended follow-up of patients from the STICH trial"
+      },
+      {
+        "abbrev": "STS-PROM",
+        "definition": "Society of Thoracic Surgeons Predicted Risk of Mortality"
+      },
+      {
+        "abbrev": "SZC",
+        "definition": "Sodium zirconium cyclosilicate"
       }
-    ],
-    "page_date": "12/08/2021",
-    "source_organization": "European Society of Cardiology (ESC)"
+    ]
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "SGLT2",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": "Listed in the glossary as 'SGLT2  Sodium-glucose co-transporter 2'."
+    }
+  ]
 }

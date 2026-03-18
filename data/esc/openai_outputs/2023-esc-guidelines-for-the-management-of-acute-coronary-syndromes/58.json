@@ -1,49 +1,24 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "note": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during development period up to and including 2022).",
-    "experts": [
-      {
-        "name": "Mindham Richard",
-        "declarations": [
-          {
-            "year": 2021,
-            "text": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Imperial College, London: ONCE-OFF Honorarium, 2019, non-recurring, less than GB£900/€1000, passed in full to UK charity, CardiomyopathyUK. Any other interest (financial or otherwise) that should be declared in view of holding an ESC position: I have a pension and savings held in shares and funds. I do not control which shares are bought and I do not know whether any of them are invested in healthcare organisations as the shares are managed by a fund manager."
-          },
-          {
-            "year": 2022,
-            "text": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. PASSspaces (http://passpaces.co.uk/): PASSspaces tutors young British doctors to help them pass medical examinations; I 'act' as a patient, permitting the trainee to take a patient history. Training and Education. Travel and meeting support from healthcare industry, independent of the above activities. European Society of Cardiology: payment of hotel, travel and meals to attend or speak at ESC conferences. Membership or affiliation in political or advocacy groups working in the field of cardiology: support for British charity CardiomyopathyUK and Pumping Marvellous; member of the Coalition for Reducing Bureaucracy in Clinical Trials (no financial interest). Any other interest: I have savings and pensions held in shares managed by a financial adviser; I do not control the purchase & sale of shares and do not know whether any shares are in medical companies."
-          }
-        ]
-      },
-      {
-        "name": "MITSIS Andreas",
-        "declarations": [
-          {
-            "year": 2021,
-            "text": "Nothing to be declared"
-          },
-          {
-            "year": 2022,
-            "text": "Nothing to be declared"
-          }
-        ]
-      },
-      {
-        "name": "Moussallem Nicolas",
-        "declarations": [
-          {
-            "year": 2021,
-            "text": "Nothing to be declared"
-          },
-          {
-            "year": 2022,
-            "text": "Nothing to be declared"
-          }
-        ]
-      }
-    ],
-    "page_footer": "16/05/2023 - page 34/57"
+    "Recommendations for imaging for patients with suspected NSTE-ACS": "In patients with no recurrence of chest pain, normal ECG findings, and normal levels of cardiac troponin but still with suspected ACS, a non-invasive test (preferably with imaging) for inducible ischaemia or CCTA is recommended before deciding on an invasive approach. In patients with suspected ACS, non-elevated (or uncertain) hs-cTn, no ECG changes and no recurrence of pain, incorporating CCTA or a non-invasive stress imaging test as part of the initial workup should be considered.",
+    "Recommendations for timing of invasive strategy in NSTE-ACS": "An early invasive strategy within 24 h is recommended in patients with any of the following high-risk criteria: diagnosis of NSTEMI suggested by diagnostic algorithm; dynamic or presumable new contiguous ST/T-segment changes suggesting ongoing ischaemia; transient ST-segment elevation; GRACE risk score >140. An early invasive strategy within 24 h should be considered in patients with at least one of the listed high-risk criteria.",
+    "Recommendations for antiplatelet and anticoagulant therapy in STEMI": "A potent P2Y12 inhibitor (prasugrel or ticagrelor), or clopidogrel if these are not available or are contraindicated, is recommended before (or at latest at the time of) PCI and maintained over 12 months unless contraindicated. Pre-treatment with a P2Y12 receptor inhibitor may be considered in patients undergoing a primary PCI strategy.",
+    "Recommendations for long-term antithrombotic therapy": "After stent implantation in patients undergoing a strategy of DAPT, stopping aspirin after 3–6 months should be considered depending on balance of ischaemic and bleeding risks. In patients who are event-free after 3–6 months of DAPT and who are not high ischaemic risk, SAPT (preferably with a P2Y12 receptor inhibitor) should be considered.",
+    "Recommendations for cardiac arrest and out-of-hospital cardiac arrest": "Delayed as opposed to immediate angiography should be considered among haemodynamically stable patients without ST-segment elevation successfully resuscitated after out-of-hospital cardiac arrest. Targeted temperature management aiming for a constant temperature between 32 and 36°C for at least 24 h is recommended in patients who remain unconscious after resuscitation.",
+    "Recommendations for in-hospital management": "When echocardiography is suboptimal/inconclusive, an alternative imaging method (CMR preferably) should be considered.",
+    "Recommendations for management of multivessel disease in haemodynamically stable STEMI patients undergoing primary PCI": "Complete revascularisation is recommended either during the index PCI procedure or within 45 days.",
+    "Recommendations for acute coronary syndrome comorbid conditions": "Glucose-lowering therapy should be considered in ACS patients with blood glucose >10 mmol/L (>180 mg/dL), targeting avoidance of hypoglycaemia. Glucose-lowering therapy should be considered in patients with ACS with persistent hyperglycaemia, while episodes of hypoglycaemia should be avoided."
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "ST-elevation myocardial infarction (STEMI)",
+        "Patients undergoing primary PCI",
+        "Long-term antiplatelet (single antiplatelet) therapy after DAPT"
+      ],
+      "Occurrences": 2,
+      "context": "Page refers to 'P2Y12 receptor inhibitor (prasugrel or ticagrelor)' recommended before or at time of PCI and 'SAPT (preferably with a P2Y12 receptor inhibitor)' after 3–6 months of DAPT."
+    }
+  ]
 }

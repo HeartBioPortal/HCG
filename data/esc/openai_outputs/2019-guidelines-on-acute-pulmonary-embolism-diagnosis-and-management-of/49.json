@@ -1,92 +1,36 @@
 {
   "content": {
-    "title": "ESC Committee for Practice Guidelines 2018-2020 - Declarations of Interest",
-    "summary": "Report of declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during development up to and including 2018).",
-    "page_date": "21/08/2019",
-    "experts": [
-      {
-        "name": "Gale Christopher Peter",
-        "relationships": [
-          {
-            "company": "Vifor Pharma / Vifor International",
-            "activity": "heart failure",
-            "year": 2017
-          },
-          {
-            "company": "Novartis",
-            "activity": "heart failure, CVD",
-            "year": 2017
-          },
-          {
-            "company": "AstraZeneca",
-            "activity": "ACS",
-            "year": 2018
-          },
-          {
-            "company": "Novartis",
-            "activity": "coronary artery disease",
-            "year": 2018
-          },
-          {
-            "company": "Bayer",
-            "activity": "coronary artery disease, AF",
-            "year": 2018
-          },
-          {
-            "company": "Vifor International",
-            "activity": "heart failure",
-            "year": 2018
-          },
-          {
-            "company": "Menarini",
-            "activity": "ischaemic heart disease",
-            "year": 2018
-          },
-          {
-            "company": "Bristol Myers Squibb",
-            "activity": "Apixaban: AF",
-            "year": 2018,
-            "note": "Research funding under direct/personal responsibility to department or institution"
-          }
-        ]
-      },
-      {
-        "name": "Grobbee Diederick E",
-        "relationships": [
-          {
-            "declaration_type": "Financial Declaration",
-            "details": [
-              {
-                "company": "Amgen",
-                "activity": "advisory board",
-                "year": 2018
-              },
-              {
-                "company": "Esperion",
-                "activity": "Steering committee; clinical trial lipids",
-                "year": 2018
-              }
-            ]
-          },
-          {
-            "declaration_type": "Other Positions of Influence",
-            "details": [
-              {
-                "position": "Chief Scientific Officer",
-                "organization": "Julius Clinical Research Ltd",
-                "year": 2017
-              },
-              {
-                "position": "Chief Scientific Officer (part-time)",
-                "organization": "Julius Clinical Research Ltd",
-                "year": 2018
-              }
-            ]
-          }
-        ]
-      }
+    "title": "Risk factors (excerpt)",
+    "Moderate risk factors (OR 2-9)": [
+      "Arthroscopic knee surgery",
+      "Autoimmune diseases",
+      "Blood transfusion",
+      "Central venous lines",
+      "Intravenous catheters and leads",
+      "Chemotherapy",
+      "Congestive heart failure or respiratory failure",
+      "Erythropoiesis-stimulating agents",
+      "Hormone replacement therapy (depends on formulation)",
+      "In vitro fertilization",
+      "Oral contraceptive therapy",
+      "Post-partum period",
+      "Infection (specifically pneumonia, urinary tract infection, and HIV)",
+      "Inflammatory bowel disease",
+      "Cancer (highest risk in metastatic disease)",
+      "Paralytic stroke",
+      "Superficial vein thrombosis",
+      "Thrombophilia"
     ],
-    "notes": "Conditions mentioned include heart failure, cardiovascular disease (CVD), acute coronary syndrome (ACS), coronary artery disease, atrial fibrillation (AF), and ischaemic heart disease. Listed items are declarations of industry relationships and research funding; no human gene names are present on this page."
+    "Weak risk factors (OR < 2)": [
+      "Bed rest >3 days",
+      "Diabetes mellitus",
+      "Arterial hypertension"
+    ],
+    "notes": {
+      "infection_details": "Specifically mentions pneumonia, urinary tract infection, and HIV.",
+      "hormone_note": "Hormone replacement therapy risk depends on formulation.",
+      "cancer_note": "Highest risk noted in metastatic disease."
+    }
   },
   "genes": []
 }

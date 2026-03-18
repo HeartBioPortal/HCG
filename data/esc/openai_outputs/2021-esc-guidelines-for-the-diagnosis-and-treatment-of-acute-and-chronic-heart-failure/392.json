@@ -1,0 +1,29 @@
+{
+  "content": {
+    "title": "18 Quality indicators",
+    "summary": "Discussion of quality indicators (QIs) for measuring and reporting quality and outcomes of cardiovascular (CV) care, with emphasis on heart failure (HF). QIs are tools to evaluate care quality, enhance guideline adherence, and benchmark care providers. The ESC has developed methodology and a suite of disease-specific QIs included in ESC Clinical Practice Guidelines and registries.",
+    "key_points": [
+      "QIs evaluate processes of care and clinical outcomes and can enhance adherence to guideline recommendations.",
+      "The ESC has published the methodology for developing QIs and produced a suite of QIs for an initial tranche of CV conditions.",
+      "Disease-specific ESC QIs are integrated in ESC Clinical Practice Guidelines and registries (e.g., EORP, EuroHeart).",
+      "A suite of QIs for evaluation of care and outcomes in patients with HF was developed alongside these guidelines; specifications and development process are published separately with a short summary shown in Table 37."
+    ],
+    "references_note": "References for statements are cited throughout (numerous reference markers shown).",
+    "table_37": {
+      "description": "Main European Society of Cardiology quality indicators for the evaluation of care and outcomes for patients with heart failure (full list published separately).",
+      "domains": [
+        {
+          "domain": "Domain 1. Structural QIs",
+          "main": "Centre should have a dedicated multidisciplinary team to manage patients with HF",
+          "numerator": "Availability of a dedicated multidisciplinary team to manage patients with HF"
+        },
+        {
+          "domain": "Domain 2. Patient assessment",
+          "main": "Proportion of patients with HF who have a documentation of their HF clinical type (HFrEF, HFmrEF, HFpEF)"
+        }
+      ],
+      "note": "Table 37 is presented as a short summary; full specifications published separately."
+    }
+  },
+  "genes": []
+}

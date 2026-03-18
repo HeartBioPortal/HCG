@@ -1,0 +1,76 @@
+{
+  "content": {
+    "Heart failure": [
+      {
+        "recommendation": "IABP should be considered in patients with haemodynamic instability/cardiogenic shock due to ACS-related mechanical complications.",
+        "class": "IIa",
+        "level": "C"
+      }
+    ],
+    "LV thrombus": [
+      {
+        "recommendation": "CMR imaging should be considered in patients with equivocal echocardiographic images or in cases of high clinical suspicion of LV thrombus.",
+        "class": "IIa",
+        "level": "C",
+        "references": [
+          "577",
+          "578"
+        ]
+      },
+      {
+        "recommendation": "Oral anticoagulant therapy (VKA or NOAC) should be considered for 3–6 months in patients with confirmed LV thrombus.",
+        "class": "IIa",
+        "level": "C",
+        "references": [
+          "603"
+        ]
+      },
+      {
+        "recommendation": "Following an acute anterior MI, a contrast echocardiogram may be considered for the detection of LV thrombus if the apex is not well visualized on echocardiography.",
+        "class": "IIb",
+        "level": "C",
+        "references": [
+          "604"
+        ]
+      }
+    ],
+    "Atrial fibrillation": [
+      {
+        "recommendation": "Intravenous beta-blockers are recommended when rate control is needed in the absence of acute HF or hypotension.",
+        "class": "I",
+        "level": "C",
+        "references": [
+          "605"
+        ]
+      },
+      {
+        "recommendation": "Intravenous amiodarone is recommended when rate control is needed in the presence of acute HF and no hypotension.",
+        "class": "I",
+        "level": "C",
+        "references": [
+          "606"
+        ]
+      },
+      {
+        "recommendation": "Immediate electrical cardioversion is recommended in patients with ACS and haemodynamic instability and when adequate rate control cannot be achieved promptly with pharmacological agents.",
+        "class": "I",
+        "level": "C"
+      },
+      {
+        "recommendation": "Intravenous amiodarone is recommended to facilitate electrical cardioversion and/or decrease risk for early recurrence of AF after electrical cardioversion in unstable patients with recent-onset AF.",
+        "class": "I",
+        "level": "C",
+        "references": [
+          "607",
+          "608"
+        ]
+      },
+      {
+        "recommendation": "In patients with documented de novo AF during the acute phase of ACS, long-term oral anticoagulation should be considered depending on the CHA2DS2‑VASc score, after taking the HAS-BLED score and the need for concomitant antiplatelet therapy into consideration.",
+        "class": "IIa",
+        "level": "C"
+      }
+    ]
+  },
+  "genes": []
+}

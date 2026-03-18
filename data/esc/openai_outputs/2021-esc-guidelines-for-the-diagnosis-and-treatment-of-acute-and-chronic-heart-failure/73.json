@@ -1,42 +1,17 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
-    "organization": "European Society of Cardiology (ESC)",
-    "declaration_note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2020.",
-    "date_reported": "03/08/2021",
-    "experts": [
+    "page_title": "Recommendations for management of patients with advanced HF",
+    "page_text_ocr": "Non-invasive HHTT may be considered for patients with HF in order to reduce the risk of recurrent CV and HF hospitalizations and CV death.\nRecommendations for management of patients with advanced HF\nPatients being considered for long-term MCS must have good compliance, appropriate capacity for device handling and psychosocial support.",
+    "recommendations": [
       {
-        "name": "Mueller Christian Eugen",
-        "year": 2020,
-        "relationships_with_industry": [
-          "Daiichi Sankyo: Anticoagulants And Lipid lowering",
-          "Boehringer-Ingelheim: Antidiabetics",
-          "AstraZeneca: Anti-Diabetics",
-          "Idorsia: Antiplatelet therapy",
-          "Roche Diagnostics: Diagnostics",
-          "Acon: Diagnostics",
-          "Osler: Diagnostics",
-          "Novartis: Heart Failure",
-          "Sanofi Aventis: Lipid lowering",
-          "Amgen: Lipid-lowering"
-        ],
-        "research_funding_from_healthcare_industry_under_personal_responsibility": [
-          "Novartis: Diagnostics",
-          "BRAHMS GmbH: Diagnostics",
-          "OrthoClinical Diagnostics: Diagnostics",
-          "Abbott Laboratories: Diagnostics",
-          "Roche Diagnostics: Diagnostics",
-          "Siemens: Diagnostics",
-          "Sphingotec: Diagnostics",
-          "quidel: Diagnostics",
-          "Upstream Medical Technologies: Diagnostics, Myocardial ischemia, BASEL VIII"
-        ]
+        "text": "Non-invasive HHTT may be considered for patients with HF in order to reduce the risk of recurrent CV and HF hospitalizations and CV death.",
+        "recommendation_class": "IIb",
+        "notes": "Text appears in a recommendation box labeled IIb"
       },
       {
-        "name": "Mustafayev Isakh",
-        "year": 2020,
-        "relationships_with_industry": [],
-        "declaration": "Nothing to be declared"
+        "text": "Patients being considered for long-term MCS must have good compliance, appropriate capacity for device handling and psychosocial support.",
+        "recommendation_class": "I",
+        "notes": "Recommendation under 'management of patients with advanced HF'"
       }
     ]
   },

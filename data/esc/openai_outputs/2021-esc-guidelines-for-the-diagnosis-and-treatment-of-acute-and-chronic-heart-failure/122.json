@@ -1,0 +1,112 @@
+{
+  "content": {
+    "page_title": "Heart failure pharmacotherapy dosing table (excerpt)",
+    "sections": {
+      "Beta-blockers": {
+        "Metoprolol succinate (CR/XL)": {
+          "starting_dose": "12.5–25 mg o.d.",
+          "target_dose": "200 mg o.d."
+        },
+        "Nebivolol": {
+          "starting_dose": "1.25 mg o.d.",
+          "target_dose": "10 mg o.d."
+        }
+      },
+      "MRA": {
+        "Eplerenone": {
+          "starting_dose": "25 mg o.d.",
+          "target_dose": "50 mg o.d."
+        },
+        "Spironolactone": {
+          "starting_dose": "25 mg o.d.",
+          "target_dose": "50 mg o.d."
+        }
+      },
+      "SGLT2 inhibitor": {
+        "Dapagliflozin": {
+          "dose": "10 mg o.d."
+        },
+        "Empagliflozin": {
+          "dose": "10 mg o.d."
+        }
+      },
+      "Other agents": {
+        "Candesartan": {
+          "starting_dose": "4 mg o.d.",
+          "target_dose": "32 mg o.d."
+        },
+        "Losartan": {
+          "starting_dose": "50 mg o.d.",
+          "target_dose": "150 mg o.d."
+        },
+        "Valsartan": {
+          "starting_dose": "40 mg b.i.d.",
+          "target_dose": "160 mg b.i.d."
+        },
+        "Ivabradine": {
+          "starting_dose": "5 mg b.i.d.",
+          "target_dose": "7.5 mg b.i.d."
+        },
+        "Vericiguat": {
+          "starting_dose": "2.5 mg o.d.",
+          "target_dose": "10 mg o.d."
+        },
+        "Digoxin": {
+          "starting_dose": "62.5 µg o.d.",
+          "target_dose": "250 µg o.d."
+        },
+        "Hydralazine / Isosorbide dinitrate": {
+          "starting_dose": "37.5 mg t.i.d. / 20 mg t.i.d.",
+          "target_dose": "75 mg t.i.d. / 40 mg t.i.d."
+        }
+      },
+      "ACE-I": {
+        "Captopril": {
+          "starting_dose": "6.25 mg t.i.d.",
+          "target_dose": "50 mg t.i.d."
+        },
+        "Enalapril": {
+          "starting_dose": "2.5 mg b.i.d.",
+          "target_dose": "10–20 mg b.i.d."
+        },
+        "Lisinopril": {
+          "starting_dose": "2.5–5 mg o.d.",
+          "target_dose": "20–35 mg o.d."
+        },
+        "Ramipril": {
+          "starting_dose": "2.5 mg b.i.d.",
+          "target_dose": "5 mg b.i.d."
+        },
+        "Trandolapril": {
+          "starting_dose": "0.5 mg o.d.",
+          "target_dose": "4 mg o.d."
+        }
+      },
+      "ARNI": {
+        "Sacubitril/valsartan": {
+          "starting_dose": "49/51 mg b.i.d.",
+          "target_dose": "97/103 mg b.i.d."
+        }
+      }
+    },
+    "notes": "Table lists starting and target doses for common heart failure drug classes (beta-blockers, MRA, SGLT2 inhibitors, ACE inhibitors, ARNI, and other agents)."
+  },
+  "genes": [
+    {
+      "Gene": "SGLT2 (SLC5A2)",
+      "Associated Conditions": [
+        "Heart failure (treatment target for SGLT2 inhibitors)"
+      ],
+      "Occurrences": 1,
+      "context": "Heading 'SGLT2 inhibitor' with dapagliflozin and empagliflozin dosing listed as treatments in the table."
+    },
+    {
+      "Gene": "ACE (ACE)",
+      "Associated Conditions": [
+        "Heart failure (target of ACE inhibitors)"
+      ],
+      "Occurrences": 1,
+      "context": "Heading 'ACE-I' (ACE inhibitors) appears with specific ACE inhibitor drugs and dosing (captopril, enalapril, lisinopril, ramipril, trandolapril)."
+    }
+  ]
+}

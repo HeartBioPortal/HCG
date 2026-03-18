@@ -1,0 +1,42 @@
+{
+  "content": {
+    "section": "13.6 Kidney dysfunction",
+    "text_summary": "Chronic kidney disease (CKD) and heart failure (HF) commonly coexist and share risk factors (eg, diabetes, hypertension). CKD is an independent determinant of increased mortality and morbidity in HF. HF therapies including RAAS inhibitors, ARNI, and SGLT2 inhibitors can cause an initial, generally transient, decrease in eGFR/ rise in serum creatinine that does not necessarily require stopping therapy. Randomized trials show that many guideline therapies (beta-blockers, ARNI/sacubitril–valsartan, SGLT2 inhibitors) retain benefit in patients with CKD, though evidence is limited for very severe renal impairment and many RCTs excluded patients with eGFR <30 mL/min/1.73 m2.",
+    "key_points": [
+      "CKD and HF frequently coexist and can worsen each other via neurohormonal activation, increased venous pressure and hypoperfusion, oxidative stress and fibrosis.",
+      "CKD is associated with increased mortality and morbidity in HF, but not all changes in serum creatinine predict worse outcomes.",
+      "Initiation of RAAS inhibitors, ARNI or SGLT2 inhibitors may produce an initial decrease in GFR or increase in creatinine; these changes are often transient and should not automatically prompt stopping therapy.",
+      "Acceptable changes after initiation of these therapies: increase in serum creatinine <50% above baseline (and <266 μmol/L or 3 mg/dL), or decrease in eGFR <10% from baseline provided eGFR remains >25 mL/min/1.73 m2 (see section 5.3 and Supplementary Table 8).",
+      "Empagliflozin (EMPEROR-Reduced) produced a small placebo-corrected eGFR dip at week 4 (~2.4 mL/min/1.73 m2 in patients with CKD; ~2.7 mL/min/1.73 m2 in those without CKD) with subsequent slower eGFR decline and reduced composite kidney outcomes versus placebo.",
+      "Beta-blockers reduce mortality in HFrEF patients with moderate (eGFR ~45–59 mL/min/1.73 m2) and moderately severe (eGFR ~30–44 mL/min/1.73 m2) renal dysfunction; data are limited for eGFR <30 mL/min/1.73 m2.",
+      "Sacubitril/valsartan versus enalapril showed slower decline in renal function despite a slight increase in urinary albumin/creatinine ratio, and similar improvements in cardiovascular outcomes in patients with CKD.",
+      "SGLT2 inhibitors slow decline in renal function compared with placebo in patients with and without CKD.",
+      "Improvements in cardiac output after CRT or LVAD implantation may be associated with a transient improvement in renal function.",
+      "Benefits of ICDs may be reduced in patients with severe renal dysfunction because of competing non-arrhythmic causes of death.",
+      "Most RCTs excluded patients with advanced CKD (eg, eGFR <30 mL/min/1.73 m2); some trials used cut-offs of 25 mL/min/1.73 m2 (eg, DAPA-CKD)."
+    ],
+    "numerical_thresholds_and_values": {
+      "acceptable_serum_creatinine_increase": "Increase <50% above baseline and <266 μmol/L (3 mg/dL)",
+      "acceptable_eGFR_decrease": "Decrease in eGFR <10% from baseline if eGFR >25 mL/min/1.73 m2",
+      "empagliflozin_week4_placebo_corrected_eGFR_dip": {
+        "with_CKD_mL_per_min_per_1_73m2": 2.4,
+        "without_CKD_mL_per_min_per_1_73m2": 2.7,
+        "percentage_decrease_from_baseline_with_CKD": 5.2,
+        "percentage_decrease_from_baseline_without_CKD": 3.8
+      },
+      "eGFR_ranges_mentioned_for_beta_blocker_evidence": {
+        "moderate": "45–59 mL/min/1.73 m2",
+        "moderately_severe": "30–44 mL/min/1.73 m2",
+        "severe_limitation_note": "Limited evidence for eGFR <30 mL/min/1.73 m2"
+      },
+      "RCT_exclusion_cutoffs_example": "eGFR <30 mL/min/1.73 m2; some trials used 25 mL/min/1.73 m2 (DAPA-CKD)"
+    },
+    "clinical_recommendations_and_implications": [
+      "Do not automatically stop RAAS inhibitors, ARNI or SGLT2 inhibitors for small/transient rises in creatinine or small falls in eGFR after initiation; assess clinical context and congestion status.",
+      "Continue evidence-based HF therapies in patients with CKD where possible, recognizing that benefits often persist but data are limited in very low eGFR.",
+      "Be cautious interpreting renal function changes in acute settings; small and transient rises in creatinine during treatment of acute HF are not consistently associated with worse outcomes if patient is decongested."
+    ],
+    "references_note": "Multiple references cited supporting statements (trial names and reference numbers visible in original page: EMPEROR-Reduced, PARADIGM-HF, DAPA-CKD, and many numbered citations)."
+  },
+  "genes": []
+}

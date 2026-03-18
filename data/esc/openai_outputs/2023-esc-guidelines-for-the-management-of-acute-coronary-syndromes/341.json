@@ -1,0 +1,38 @@
+{
+  "content": {
+    "page_summary": "Clinical questions and recommended study designs related to management of patients with multivessel coronary artery disease and related acute coronary syndromes.",
+    "section": "10",
+    "title": "Management of patients with multivessel disease",
+    "clinical_questions": [
+      "Does complete revascularization of NSTE-ACS with multivessel CAD improve clinical outcomes vs. culprit-only PCI?",
+      "Does management of non-infarct-related CAD with intravascular imaging guidance to identify rupture-prone atherosclerotic plaque improve clinical outcomes?",
+      "Does FFR-guided management improve clinical outcomes vs. standard angiography-guided management in NSTE-ACS?",
+      "What is the optimal timing of coronary revascularization (immediate vs. index hospitalization vs. staged) for non-IRA revascularization in STEMI and NSTE-ACS?",
+      "Does intensive medical therapy improve outcomes in patients with MVD compared with standard secondary prevention?"
+    ],
+    "contextual_questions_above_section": [
+      "Does intracoronary hypothermia reduce infarct size and improve clinical outcomes in STEMI patients undergoing PPCI?",
+      "What is the optimal antiplatelet strategy in patients presenting with SCAD? Specific gaps in knowledge surround antithrombotic treatment in the acute and post-ACS periods, including the optimal combination and duration of treatment."
+    ],
+    "recommended_studies_and_trials": [
+      "Patients with NSTE-ACS and MVD randomized to complete vs. culprit-only PCI.",
+      "RCTs testing whether the use of intravascular imaging to guide the management of non-infarct-related lesions improves clinical outcomes.",
+      "Patients randomized to FFR-guided management vs. standard angiography-guided management in NSTE-ACS.",
+      "Three-arm study comparing the clinical benefits of immediate, in-hospital and staged coronary revascularization strategies.",
+      "Patients with MVD randomized to intensive secondary prevention vs. usual care to evaluate whether the former strategy improves clinical outcomes."
+    ],
+    "abbreviations_and_terms_used": [
+      "NSTE-ACS: Non–ST-elevation acute coronary syndrome",
+      "CAD: Coronary artery disease",
+      "PCI: Percutaneous coronary intervention",
+      "FFR: Fractional flow reserve",
+      "IRA: Infarct-related artery",
+      "STEMI: ST-elevation myocardial infarction",
+      "PPCI: Primary percutaneous coronary intervention",
+      "SCAD: Spontaneous coronary artery dissection",
+      "MVD: Multivessel disease",
+      "ACS: Acute coronary syndrome"
+    ]
+  },
+  "genes": []
+}

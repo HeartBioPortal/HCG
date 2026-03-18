@@ -1,0 +1,19 @@
+{
+  "content": {
+    "ST-segment elevation": "ST-segment elevation (or equivalents).",
+    "Systems of care": {
+      "Recommendation": "It is recommended that healthcare systems implement strategies to facilitate transfer of all patients in whom ACS is suspected after resuscitated cardiac arrest directly to a hospital offering 24/7 PPCI via one specialized EMS.",
+      "Recommendation strength": "I",
+      "Evidence level": "C",
+      "Notes": "Focus on direct transfer to 24/7 PPCI-capable hospital via specialized EMS for suspected ACS after resuscitated cardiac arrest."
+    },
+    "Evaluation of neurological prognosis": {
+      "Recommendation": "Evaluation of neurological prognosis (no earlier than 72 h after admission) is recommended in all comatose survivors after cardiac arrest.",
+      "Recommendation strength": "I",
+      "Evidence level": "C",
+      "Timing": "No earlier than 72 hours after admission",
+      "Population": "Comatose survivors after cardiac arrest"
+    }
+  },
+  "genes": []
+}

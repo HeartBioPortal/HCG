@@ -1,57 +1,30 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "note": "Declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during development period up to and including 2022).",
-    "date": "16/05/2023",
-    "page": "51/57",
-    "experts": [
-      {
-        "name": "Sticherling Christian",
-        "years": [
-          "2022"
-        ],
-        "disclosures": [
-          "Payment from healthcare industry to department/institution for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member.",
-          "Biosense Webster: Atrial Fibrillation (AF).",
-          "Boston Scientific: Device Therapy.",
-          "Medtronic: Device Therapy.",
-          "Microport: Device Therapy.",
-          "Abbott: Ventricular Arrhythmias and Sudden Cardiac Death (SCD).",
-          "Biotronik: Ventricular Arrhythmias and Sudden Cardiac Death (SCD)."
-        ]
-      },
-      {
-        "name": "Stojkovic Sinisa",
-        "years": [
-          "2021",
-          "2022"
-        ],
-        "disclosures": [
-          "Nothing to be declared."
-        ]
-      },
-      {
-        "name": "Storey Robert",
-        "years": [
-          "2021"
-        ],
-        "disclosures": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member.",
-          "Sanofi Aventis: Antiplatelet therapy.",
-          "Idorsia: Antiplatelet therapy.",
-          "AstraZeneca: Antiplatelet therapy, Glucose-lowering therapy.",
-          "Bristol Myers Squibb / Pfizer: Antithrombotic therapy.",
-          "Hengrui: Antithrombotic therapy.",
-          "PhaseBio: Cardiovascular therapeutics.",
-          "Novartis: Lipid-lowering therapy.",
-          "Alnylam: Lipid-lowering therapy.",
-          "CSL Behring: Lipid-lowering therapy.",
-          "Cytosorbents: Surgical device, antithrombotic therapy.",
-          "Research funding from healthcare industry under direct/personal responsibility (to department or institution).",
-          "Glycardial Diagnostics: Cardiovascular biomarker.",
-          "Cytosorbents: Surgical device, antithrombotic therapy (listed twice)."
-        ]
-      }
+    "figure": "Figure 6: The 0 h/1 h or 0 h/2 h rule-out and rule-in algorithms using high-sensitivity cardiac troponin (hs-cTn) assays in patients presenting to the emergency department with suspected NSTEMI and without an indication for immediate invasive angiography.",
+    "measurement_times": [
+      "0 h (time of initial blood test)",
+      "1 h or 2 h later (repeat hs-cTn)"
+    ],
+    "classification_pathways": {
+      "rule-out_pathway": "Patients with a very low initial hs-cTn value OR a low initial hs-cTn value with no rise at 1 h/2 h are assigned to the rule-out pathway.",
+      "observe_pathway": "Patients who do not meet the criteria for either rule-out or rule-in are assigned to the observe pathway; these patients should have hs-cTn levels checked at 3 h and echocardiography to decide further management.",
+      "rule-in_pathway": "Patients with a high initial hs-cTn value OR an increase at 1 h/2 h in hs-cTn are assigned to the rule-in pathway."
+    },
+    "definitions_and_notes": {
+      "hs-cTn": "high-sensitivity cardiac troponin",
+      "NSTEMI": "non-ST-elevation myocardial infarction",
+      "cutoffs": "Cut-offs are assay specific (see Supplementary material online, Table S4) and derived to meet pre-defined criteria for sensitivity and specificity for NSTEMI.",
+      "management_decision": "Appropriate management can be determined based on the hs-cTn levels and the clinical situation.",
+      "footnote": "Rule-out pathway applicability note: only applicable if chest pain onset was >3 h prior to the 0 h hs-cTn measurement (per figure footnote)."
+    },
+    "clinical_actions": [
+      "Rule-out pathway => consider discharge or noninvasive management per clinical context.",
+      "Observe pathway => repeat hs-cTn at 3 h and perform echocardiography to guide further management.",
+      "Rule-in pathway => consider diagnosis of NSTEMI and proceed with appropriate invasive or medical management as indicated."
+    ],
+    "references_mentioned": [
+      "Supplementary material online, Table S4",
+      "Main text sections for potential management and testing options"
     ]
   },
   "genes": []

@@ -1,0 +1,18 @@
+{
+  "content": {
+    "page_title": "Myocardial revascularization and rivaroxaban in heart failure (excerpt)",
+    "low_dose_rivaroxaban_summary": "Low-dose rivaroxaban (2.5 mg twice daily) did not provide prognostic benefit in patients with HFrEF and CCS in the COMMANDER-HF trial. The trial enrolled patients with HFrEF and recent worsening HF; rivaroxaban had no effect on HF-related events, the main cause of deaths and hospitalizations in the trial. In contrast, a non-pre-specified COMPASS subgroup suggested low-dose rivaroxaban on top of aspirin reduced ischaemic events in patients with HF, mainly HFmrEF or HFpEF. Based on data, low-dose rivaroxaban may be considered in patients with CAD (or peripheral artery disease) and HF, LVEF >40% and sinus rhythm (SR), when at high stroke risk and low haemorrhagic risk.",
+    "myocardial_revascularization_summary": "Data on the benefit of myocardial revascularization in patients with HF are limited. STICH compared CABG vs medical therapy (MT) in patients with CAD amenable to CABG and reduced LV function (EF ≤35%). At median 56 months follow-up there was no significant difference in rate of death from any cause, but extended follow-up showed significant reduction of death in the CABG group vs control over 10 years (58.9% vs 66.1%; HR 0.84; 95% CI 0.73–0.97; P = 0.02). CV death and combined endpoint of all-cause death or hospitalization for CV causes were also significantly reduced after CABG at 10 years. Post-hoc analyses suggested neither myocardial viability, angina nor ischaemia were related to outcomes after revascularization. The HEART trial was underpowered and failed to show differences between HF patients receiving CABG or MT.",
+    "pci_vs_cabg_and_registry_data": "No reported RCTs comparing PCI with MT in patients with HFrEF. REVIVED-BCIS2 trial finished recruitment (ClinicalTrials.gov NCT01920048). No randomized trials directly comparing PCI with CABG in patients with HFrEF (randomized trials generally excluded HFrEF). A prospective registry including 4,616 patients with multivessel disease and HFrEF showed propensity-score matched comparisons with similar survival (mean follow-up ≈2.9 years) for PCI vs CABG; PCIs associated with higher MI risk, particularly with incomplete revascularization, and CABG associated with higher stroke risk. A propensity-matched analysis showed significantly lower risk of death or major CV events in diabetic patients with LV dysfunction and multivessel disease treated with CABG vs PCI. CABG associated with better outcomes (mortality, MI, repeated revascularization) compared with PCI/MT; two meta-analyses confirmed CABG association with better outcomes.",
+    "trials_and_registry_listed": [
+      "COMMANDER-HF",
+      "COMPASS (subgroup analysis)",
+      "STICH",
+      "HEART (Heart Failure Revascularisation Trial)",
+      "REVIVED-BCIS2 (NCT01920048)",
+      "Prospective registry of 4,616 patients (multivessel disease + HFrEF)"
+    ],
+    "recommendation_note": "Recommendations for myocardial revascularization in patients with heart failure with reduced ejection fraction are referenced (link indicated in original page)."
+  },
+  "genes": []
+}

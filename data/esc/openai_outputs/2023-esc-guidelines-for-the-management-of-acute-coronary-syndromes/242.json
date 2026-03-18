@@ -1,0 +1,28 @@
+{
+  "content": {
+    "title": "Ventricular arrhythmias",
+    "ocr_text": "ICD therapy is recommended to reduce sudden cardiac death in patients with symptomatic HF (NYHA Class II–III) and LVEF ≤35% despite optimal medical therapy for >3 months and at least 6 weeks after MI who are expected to survive for at least 1 year with good functional status.",
+    "recommendation_summary": "Implantable cardioverter-defibrillator (ICD) therapy recommended to reduce sudden cardiac death in selected patients with symptomatic heart failure.",
+    "recommendation_class": {
+      "class": "I",
+      "level": "A"
+    },
+    "indication_criteria": [
+      "Symptomatic heart failure, NYHA Class II–III",
+      "Left ventricular ejection fraction (LVEF) ≤35%",
+      "Persistent low LVEF despite ≥3 months of optimal medical therapy",
+      "At least 6 weeks post-myocardial infarction (MI)",
+      "Expected to survive ≥ 1 year with good functional status"
+    ],
+    "other_notes": "Earlier line in the document notes 'NOACs are the preferred drugs' (references cited).",
+    "references": [
+      "434",
+      "609",
+      "610",
+      "583",
+      "584",
+      "587"
+    ]
+  },
+  "genes": []
+}

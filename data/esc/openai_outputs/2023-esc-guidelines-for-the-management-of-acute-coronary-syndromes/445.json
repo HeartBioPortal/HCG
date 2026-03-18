@@ -1,0 +1,56 @@
+{
+  "content": {
+    "title": "Recommendations for clinical and diagnostic tools for patients with suspected acute coronary syndrome",
+    "recommendations": [
+      {
+        "text": "It is recommended that patients with suspected STEMI are immediately triaged for an emergency reperfusion strategy.",
+        "Class": "I",
+        "Level": "A"
+      },
+      {
+        "text": "It is recommended to base the diagnosis and initial short-term risk stratification of ACS on a combination of clinical history, symptoms, vital signs, other physical findings, ECG, and hs-cTn.",
+        "Class": "I",
+        "Level": "B"
+      },
+      {
+        "text": "Twelve-lead ECG recording and interpretation is recommended as soon as possible at the point of first medical contact, with a target of <10 min.",
+        "Class": "I",
+        "Level": "B"
+      },
+      {
+        "text": "Continuous ECG monitoring and the availability of defibrillator capacity is recommended as soon as possible in all patients with suspected STEMI, in suspected ACS with other ECG changes or ongoing chest pain, and once the diagnosis of MI is made.",
+        "Class": "I",
+        "Level": "B"
+      },
+      {
+        "text": "The use of additional ECG leads (V3R, V4R, and V7–V9) is recommended in cases of inferior STEMI or if total vessel occlusion is suspected and standard leads are inconclusive.",
+        "Class": "I",
+        "Level": "B"
+      },
+      {
+        "text": "An additional 12-lead ECG is recommended in cases with recurrent symptoms or diagnostic uncertainty.",
+        "Class": "I",
+        "Level": "C"
+      },
+      {
+        "text": "It is recommended to measure cardiac troponins with high-sensitivity assays immediately after presentation and to obtain the results within 60 min of blood sampling.",
+        "Class": "I",
+        "Level": "B"
+      },
+      {
+        "text": "It is recommended to use an ESC algorithmic approach with serial hs-cTn measurements (0 h/1 h or 0 h/2 h) to rule in and rule out NSTEMI.",
+        "Class": "I",
+        "Level": "B"
+      },
+      {
+        "text": "Additional testing after 3 h is recommended if the first two hs-cTn measurements of the 0 h/1 h algorithm are inconclusive and no alternative diagnoses explaining the condition have been made.",
+        "Class": "I",
+        "Level": "B"
+      },
+      {
+        "text": "Recommendations for non-invasive imaging in the initial assessment of patients with suspected acute coronary syndrome (section heading shown)."
+      }
+    ]
+  },
+  "genes": []
+}

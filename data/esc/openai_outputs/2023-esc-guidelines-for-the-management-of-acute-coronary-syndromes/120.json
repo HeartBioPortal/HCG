@@ -1,0 +1,65 @@
+{
+  "content": {
+    "title": "Invasive strategy in NSTE-ACS",
+    "summary": "Guidance on timing and indications for invasive coronary strategy in patients with non-ST-elevation acute coronary syndromes (NSTE-ACS).",
+    "recommendations": [
+      {
+        "strategy": "Invasive strategy during hospital admission",
+        "indication": "NSTE-ACS patients with high-risk criteria or a high index of suspicion for unstable angina",
+        "class": "I",
+        "level": "A",
+        "notes": "Recommend invasive strategy during hospital admission for high-risk or high suspicion patients."
+      },
+      {
+        "strategy": "Selective invasive approach",
+        "indication": "Patients without very high- or high-risk NSTE-ACS criteria and with a low index of suspicion for NSTE-ACS",
+        "class": "I",
+        "level": "A",
+        "notes": "Selective invasive strategy recommended for lower-risk patients."
+      },
+      {
+        "strategy": "Immediate invasive strategy",
+        "indication": "Patients with a working diagnosis of NSTE-ACS and at least one very high-risk criterion",
+        "class": "I",
+        "level": "C",
+        "very_high_risk_criteria": [
+          "Haemodynamic instability or cardiogenic shock",
+          "Recurrent or refractory chest pain despite medical treatment",
+          "In-hospital life‑threatening arrhythmias",
+          "Mechanical complications of MI",
+          "Acute heart failure presumed secondary to ongoing myocardial ischaemia",
+          "Recurrent dynamic ST‑segment or T‑wave changes, particularly intermittent ST‑segment elevation"
+        ],
+        "notes": "Immediate invasive strategy for any of listed very high-risk features."
+      },
+      {
+        "strategy": "Early invasive strategy within 24 h",
+        "indication": "Patients with at least one high-risk criterion",
+        "class": "IIa",
+        "level": "A",
+        "high_risk_criteria": [
+          "Confirmed diagnosis of NSTEMI based on current recommended ESC hs-cTn algorithms",
+          "Dynamic ST-segment or T wave changes",
+          "Transient ST-segment elevation",
+          "GRACE risk score > 140"
+        ],
+        "notes": "Consider early invasive approach within 24 hours when any high-risk criterion present."
+      }
+    ],
+    "abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "ECG": "electrocardiogram",
+      "ESC": "European Society of Cardiology",
+      "GRACE": "Global Registry of Acute Coronary Events",
+      "hs-cTn": "high-sensitivity cardiac troponin (algorithm referenced, not a gene name)",
+      "IRA": "infarct-related artery",
+      "MI": "myocardial infarction",
+      "NSTE-ACS": "non-ST-elevation acute coronary syndrome",
+      "NSTEMI": "non-ST-elevation myocardial infarction",
+      "PPCI": "primary percutaneous coronary intervention",
+      "STEMI": "ST-elevation myocardial infarction"
+    },
+    "references_note": "References cited in the figure (numerical citations shown) and supplementary data referenced for ST-segment elevation equivalents."
+  },
+  "genes": []
+}

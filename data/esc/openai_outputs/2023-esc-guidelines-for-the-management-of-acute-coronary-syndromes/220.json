@@ -1,0 +1,53 @@
+{
+  "content": {
+    "figure_recommendations_table": {
+      "title": "Revascularisation and imaging recommendations (excerpt)",
+      "rows": [
+        {
+          "recommendation": "Drug-eluting stents are recommended in preference to bare metal stents in all cases.",
+          "class": "I",
+          "level_of_evidence": "A",
+          "references": "463,466,468"
+        },
+        {
+          "recommendation": "In patients with spontaneous coronary artery dissection, PCI is recommended only for patients with symptoms and signs of ongoing myocardial ischaemia, a large area of myocardium in jeopardy, and reduced antegrade flow.",
+          "class": "I",
+          "level_of_evidence": "C"
+        },
+        {
+          "recommendation": "Intravascular imaging should be considered to guide PCI.",
+          "class": "IIa",
+          "level_of_evidence": "A",
+          "references": "495–499"
+        },
+        {
+          "recommendation": "Coronary artery bypass grafting should be considered in patients with an occluded IRA when PPCI is not feasible/unsuccessful and there is a large area of myocardium in jeopardy.",
+          "class": "IIa",
+          "level_of_evidence": "C"
+        },
+        {
+          "recommendation": "Intravascular imaging (preferably optical coherence tomography) may be considered in patients with ambiguous culprit lesions.",
+          "class": "IIb",
+          "level_of_evidence": "C"
+        },
+        {
+          "recommendation": "The routine use of thrombus aspiration is not recommended.",
+          "class": "III",
+          "level_of_evidence": "A",
+          "references": "472–474"
+        }
+      ],
+      "abbreviations_note": "IRA = infarct-related artery; PCI = percutaneous coronary intervention; PPCI = primary percutaneous coronary intervention. aClass of recommendation. bLevel of evidence."
+    },
+    "section_10_title": "10. Management of patients with multivessel disease",
+    "section_10_paragraph": "Approximately half of ACS patients have coronary MVD. Management of non-IRA disease varies depending on the clinical setting.",
+    "subsection_10_1_title": "10.1. Management of multivessel disease in acute coronary syndrome complicated by cardiogenic shock",
+    "subsection_10_1_paragraphs": [
+      "Cardiogenic shock may occur in up to 4á—11% of ACS patients, and occurs more frequently in the presence of complete coronary occlusion. Ischaemia-related HF, acute severe mitral regurgitation, and mechanical complications are the major precipitating causes of CS in ACS.",
+      "Irrespective of the mode of presentation (i.e. with or without ST-segment elevation or equivalent ECG patterns), these patients should be transferred as soon as possible to a tertiary care centre (e.g. a shock centre) where ICA can be performed, supported by specialists with relevant experience (the Shock Team).",
+      "References cited in text: 500, 501, 502, 503, 504."
+    ],
+    "document_footer": "© ESC 2023"
+  },
+  "genes": []
+}

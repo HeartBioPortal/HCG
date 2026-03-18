@@ -1,0 +1,56 @@
+{
+  "content": {
+    "number_of_samples": "Minimum of 5 but possibly at least 7 samples: 3 for pathology, 2 for infection (DNA, PCR) and 2 for RNA viruses/viral replication.",
+    "aetiology": "Search for common cardiotrophic viruses (parvovirus B19, HHV4, HHV6, enteroviruses, adenovirus and coxsackie) by quantitative rtPCR when a viral aetiology is suspected. Assess viral mRNA for active replication if possible. Further assessment if indicated: CMV, HIV, Borrelia burgdorferi (Lyme disease), Coxiella burnetii, Trypanosoma cruzi (Chagas disease) and SARS-CoV-2.",
+    "immunohistochemistry": "Quantification of CD3-, CD4-, CD8- or CD45- staining lymphocytes and CD68 macrophages per mm2; anti-HLA-DR.",
+    "histology": "Haematoxylin and eosin staining, fibrosis assessment with Masson's Trichrome and Picrosirius Red, amyloid fibrils detection with Congo Red.",
+    "therapeutic_options": "HF treatment per HFrEF guidance. For LMNA/RBM20/PLN/(FLN) mutations consider higher risk of sudden cardiac death and early consideration of ICD implantation guided by detailed risk factors. TTN mutation associated with higher rate of LV reverse remodelling but increased risk of atrial and ventricular tachyarrhythmias. Lyme disease: doxycycline. Chagas disease: specific treatment per recommendations. Consider immunosuppressive therapy in selected autoimmune/inflammatory myocarditis cases.",
+    "genetic_mutations_and_implications": "Section lists genes with clinical implications in cardiomyopathy: LMNA, RBM20, PLN and FLN mutations (higher risk of sudden cardiac death; consider early ICD) and TTN mutation (higher LV reverse remodelling rates but greater arrhythmia risk).",
+    "abbreviations_visible_on_page": "Examples include BAG3 (Bcl2-associated athanogene 3), DCM (dilated cardiomyopathy), DNA, ECG, HFrEF, HHV, HIV, ICD, LMNA (lamin A/C), LVEF, MHC, MYPC (myosin-binding protein C), PLN (phospholamban), RBM20 (RNA binding motif 20), rtPCR, SARS-CoV-2, SLE, TTN (titin)."
+  },
+  "genes": [
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [
+        "Higher risk of sudden cardiac death",
+        "Cardiomyopathy / heart failure (implicated in HFrEF)"
+      ],
+      "Occurrences": 2,
+      "context": "Listed in 'LMNA, RBM20, PLN and FLN mutation' as conferring higher risk of sudden cardiac death and in the abbreviations list as 'LMNA = lamin A/C'."
+    },
+    {
+      "Gene": "RBM20",
+      "Associated Conditions": [
+        "Higher risk of sudden cardiac death",
+        "Genetic cardiomyopathy (RNA binding motif 20 implicated in DCM)"
+      ],
+      "Occurrences": 2,
+      "context": "Named alongside LMNA and PLN ('LMNA, RBM20, PLN and FLN mutation') with recommendation to consider early ICD; also defined in abbreviations as 'RBM20 = RNA binding motif 20'."
+    },
+    {
+      "Gene": "PLN",
+      "Associated Conditions": [
+        "Higher risk of sudden cardiac death",
+        "Cardiomyopathy (phospholamban-related)"
+      ],
+      "Occurrences": 2,
+      "context": "Included in the list 'LMNA, RBM20, PLN and FLN mutation' noting higher sudden cardiac death risk; also present in abbreviations as 'PLN = phospholamban'."
+    },
+    {
+      "Gene": "TTN",
+      "Associated Conditions": [
+        "Higher rate of left ventricular reverse remodelling (up to ~70%)",
+        "Increased risk of atrial and ventricular tachyarrhythmias",
+        "Dilated cardiomyopathy / heart failure"
+      ],
+      "Occurrences": 2,
+      "context": "Section 'TTN mutation' states patients have higher rates of LV reverse remodelling but a higher risk of atrial and ventricular tachyarrhythmias; TTN also appears in abbreviations as 'TTN = titin'."
+    },
+    {
+      "Gene": "BAG3",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": "Appears in the abbreviations list as 'BAG3 = Bcl2-associated athanogene 3'."
+    }
+  ]
+}

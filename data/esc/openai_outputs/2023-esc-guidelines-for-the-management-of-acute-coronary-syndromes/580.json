@@ -1,0 +1,89 @@
+{
+  "content": {
+    "title": "Reference list (excerpt)",
+    "notes": "References 793–800 from a clinical guideline page, listing studies on evolocumab, LDL reduction, icosapent ethyl, and beta-blockers after myocardial infarction.",
+    "references": [
+      {
+        "id": 793,
+        "authors": "Nicholls SJ, Kataoka Y, Nissen SE, Prati F, Windecker S, Puri R, et al.",
+        "title": "Effect of evolocumab on coronary plaque phenotype and burden in statin-treated patients following myocardial infarction",
+        "journal": "JACC Cardiovasc Imaging",
+        "year": 2022,
+        "pages": "15:1308-1321",
+        "doi": "10.1016/j.jcmg.2022.03.002",
+        "url": "https://doi.org/10.1016/j.jcmg.2022.03.002"
+      },
+      {
+        "id": 794,
+        "authors": "Schubert J, Lindahl B, Melhus H, Renlund H, Leosdottir M, Yari A, et al.",
+        "title": "Low-density lipoprotein cholesterol reduction and statin intensity in myocardial infarction patients and major adverse outcomes: a Swedish nationwide cohort study",
+        "journal": "Eur Heart J",
+        "year": 2021,
+        "pages": "42:243?-252",
+        "doi": "10.1093/eurheartj/ehaa1011",
+        "url": "https://doi.org/10.1093/eurheartj/ehaa1011"
+      },
+      {
+        "id": 795,
+        "authors": "Gencer B, Mach F, Murphy SA, De Ferrari GM, Huber K, Lewis BS, et al.",
+        "title": "Efficacy of evolocumab on cardiovascular outcomes in patients with recent myocardial infarction: a prespecified secondary analysis from the FOURIER trial",
+        "journal": "JAMA Cardiol",
+        "year": 2020,
+        "pages": "5:952-957",
+        "doi": "10.1001/jamacardio.2020.0882",
+        "url": "https://doi.org/10.1001/jamacardio.2020.0882"
+      },
+      {
+        "id": 796,
+        "authors": "O'Donoghue ML, Giugliano RP, Wiviott SD, Atar D, Keech A, Kuder JF, et al.",
+        "title": "Long-term evolocumab in patients with established atherosclerotic cardiovascular disease",
+        "journal": "Circulation",
+        "year": 2022,
+        "pages": "146:1109-1119",
+        "doi": "10.1161/circulationaha.122.061620",
+        "url": "https://doi.org/10.1161/circulationaha.122.061620"
+      },
+      {
+        "id": 797,
+        "authors": "Bhatt DL, Steg PG, Miller M, Brinton EA, Jacobson TA, Ketchum SB, et al.",
+        "title": "Cardiovascular risk reduction with icosapent ethyl for hypertriglyceridemia",
+        "journal": "N Engl J Med",
+        "year": 2019,
+        "pages": "380:11?-22",
+        "doi": "10.1056/NEJMoa1812792",
+        "url": "https://doi.org/10.1056/NEJMoa1812792"
+      },
+      {
+        "id": 798,
+        "authors": "Freemantle N, Cleland J, Young P, Mason J, Harrison J",
+        "title": "β-blockade after myocardial infarction: systematic review and meta regression analysis",
+        "journal": "BMJ",
+        "year": 1999,
+        "pages": "318:1730-1737",
+        "doi": "10.1136/bmj.318.7200.1730",
+        "url": "https://doi.org/10.1136/bmj.318.7200.1730"
+      },
+      {
+        "id": 799,
+        "authors": "Martínez-Milla AJ, Raposeiras-Roubán S, Pascual-Figal DA, Ibáñez B",
+        "title": "Role of beta-blockers in cardiovascular disease in 2019",
+        "journal": "Rev Esp Cardiol (Engl Ed)",
+        "year": 2019,
+        "pages": "72:844-852",
+        "doi": "10.1016/j.rec.2019.04.014",
+        "url": "https://doi.org/10.1016/j.rec.2019.04.014"
+      },
+      {
+        "id": 800,
+        "authors": "Dahl Aarvik M, Sandven I, Dondo TB, Gale CP, Ruddox V, Munkhaugen J, et al.",
+        "title": "Effect of oral β-blocker treatment on mortality in contemporary post-myocardial infarction patients: a systematic review and meta-analysis",
+        "journal": "Eur Heart J Cardiovasc Pharmacother",
+        "year": 2019,
+        "pages": "5:12?-20",
+        "doi": "10.1093/ehjcvp/pvy034",
+        "url": "https://doi.org/10.1093/ehjcvp/pvy034"
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,27 @@
+{
+  "content": {
+    "references": [
+      "898 Goldman JD, Harte FM. Transition of care to prevent recurrence after acute coronary syndrome: the critical role of the primary care provider and pharmacist. Postgrad Med 2020;132:426-432. https://doi.org/10.1080/00325481.2020.1740512",
+      "899 Huriani E. Myocardial infarction patients' learning needs: perceptions of patients, family members and nurses. Int J Nurs Sci 2019;6:294-299. https://doi.org/10.1016/j.ijnss.2019.05.001",
+      "900 Messerli AW, Deutsch C. Implementation of institutional discharge protocols and transition of care following acute coronary syndrome. Cardiovasc Revasc Med 2020;21:1180-1188. https://doi.org/10.1016/j.carrev.2020.02.013",
+      "901 Schiele F, Lemesle G, Angoulvant D, Krempf M, Kownator S, Cheggour S, et al. Proposal for a standardized discharge letter after hospital stay for acute myocardial infarction. Eur Heart J Acute Cardiovasc Care 2020;9:788-801. https://doi.org/10.1177/2048872619844444",
+      "902 Murphy B, Le Grande M, Alvarenga M, Worcester M, Jackson A. Anxiety and depression after a cardiac event: prevalence and predictors. Front Psychol 2019;10:3010. https://doi.org/10.3389/fpsyg.2019.03010",
+      "903 Ceccarini M, Manzoni GM, Castelnuovo G. Assessing depression in cardiac patients: what measures should be considered? Depress Res Treat 2014;2014:148256. https://doi.org/10.1155/2014/148256",
+      "904 Moser DK. The rust of life: impact of anxiety on cardiac patients. Am J Crit Care 2007;16:361-369. https://doi.org/10.4037/ajcc2007.16.4.361",
+      "905 Turgeon RD, Koshman SL, Dong Y, Graham MM. P2Y12 inhibitor adherence trajectories in patients with acute coronary syndrome undergoing percutaneous coronary intervention: prognostic implications. Eur Heart J 2022;43:2303-2313. https://doi.org/10.1093/eurheartj/ehac116",
+      "906 Poitras ME, Maltais ME, Bestard-Denommé L, Stewart M, Fortin M. What are the effective elements in patient-centered and multimorbidity care? A scoping review. BMC Health Serv Res 2018;18:446. https://doi.org/10.1186/s12913-018-3213-8"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "acute coronary syndrome",
+        "patients undergoing percutaneous coronary intervention",
+        "antiplatelet (P2Y12 inhibitor) adherence"
+      ],
+      "Occurrences": 1,
+      "context": "Reference 905: \"P2Y12 inhibitor adherence trajectories in patients with acute coronary syndrome undergoing percutaneous coronary intervention: prognostic implications.\""
+    }
+  ]
+}

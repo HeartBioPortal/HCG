@@ -1,0 +1,33 @@
+{
+  "content": {
+    "smoking_and_e-cigarettes": {
+      "summary": "Continued smoking confers greater CV risk than weight gain. E-cigarettes have been used to help smokers quit but evidence is insufficient on long-term cessation benefit. E-cigarettes contain nicotine but fewer tobacco chemicals; caution advised as current evidence suggests they harm CV health by increasing arterial stiffness, heart rate, blood pressure, and causing endothelial dysfunction.",
+      "recommendations": [
+        "Prioritize smoking cessation; recognize continued smoking poses significant CV risk.",
+        "Use caution regarding e-cigarette use given uncertain cessation benefit and potential CV harms."
+      ]
+    },
+    "nutrition_and_alcohol": {
+      "summary": "A healthy diet influences CV risk. A Mediterranean-style diet can reduce CV risk in all individuals, including those at high CV risk and patients with ASCVD. Alcohol abstainers have the lowest risk of CVD outcomes; any alcohol increases blood pressure and BMI. Weekly consumption >100 g of alcohol is associated with decreased life expectancy.",
+      "recommendations": [
+        "Adopt a Mediterranean-style diet for CV risk reduction; refer to supplementary Table S17 for diet characteristics.",
+        "Limit alcohol consumption to a maximum of 100 g per week (same limit for men and women)."
+      ]
+    },
+    "physical_activity_and_exercise": {
+      "summary": "Sedentary behaviour is an independent risk factor for all-cause mortality. Adults with chronic conditions should limit sedentary time and replace it with physical activity of any intensity (including light). General recommendations include regular aerobic physical activity plus resistance exercise; these form the basis of post-ACS recommendations. Exercise-based cardiac rehabilitation (CR) is important and should be offered to all patients after ACS. Cardiorespiratory fitness predicts future prognosis in the general population and in post-ACS patients.",
+      "recommendations": [
+        "Limit sedentary time and replace with physical activity of any intensity.",
+        "Include a combination of regular aerobic and resistance exercise throughout the week.",
+        "Offer participation in exercise-based cardiac rehabilitation to all patients after ACS."
+      ]
+    },
+    "psychological_considerations": {
+      "summary": "Patients with heart disease have approximately a two-fold increased risk of anxiety and mood disorders. Depression, anxiety, and psychological stress are associated with worse outcomes.",
+      "recommendations": [
+        "Screen for and manage anxiety, depression, and psychological stress in patients with heart disease to improve outcomes."
+      ]
+    }
+  },
+  "genes": []
+}

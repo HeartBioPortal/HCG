@@ -1,44 +1,80 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "note": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during development period up to and including 2020).",
-    "date": "12/08/2021",
-    "experts": [
+    "source": "Page of abbreviations/definitions (cardiology/radiology context)",
+    "abbreviations": [
       {
-        "name": "Lam Carolyn Sp",
-        "year_reported": 2020,
-        "type_of_relationship_with_industry": [
-          "Bayer: Heart failure, Cardiorenal initiative, Vascular protection",
-          "Boehringer Ingelheim: Heart failure, Diabetes",
-          "AstraZeneca: Heart failure, Diabetes, Real world evidence",
-          "Medscape: Medical Education",
-          "WebMD Global LLC: Medical education",
-          "Radcliffe Group Ltd: Medical education"
-        ],
-        "research_funding_under_responsibility": [
-          "Roche Diagnostics: Biomarkers",
-          "Bayer: Heart failure",
-          "Boston Scientific: Heart Failure",
-          "AstraZeneca: Heart failure, Real world evidence"
-        ],
-        "other_positions_of_influence": [
-          "Direct ownership of shares or direct financial interest in healthcare/media/education companies competing with ESC mission",
-          "Healthcare - IMAGING - Us2.ai (Co-founder and non-executive director)"
-        ]
+        "term": "Potassium voltage-gated channel subfamily Q member 1",
+        "abbreviation": "KCNQ1",
+        "definition": "Full gene/protein name listed at top of page"
       },
       {
-        "name": "Lyon Alexander",
-        "year_reported": 2019,
-        "financial_declaration_summary": "Direct personal payment from healthcare industry for speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-        "payments_and_relationships": [
-          "Clinigen Group: Cardio-Oncology, Dexrazoxane",
-          "Roche Pharma: Cardio-Oncology, Herceptin, Perjeta",
-          "Takeda Pharmaceuticals: Cardio-Oncology, Multiple Myeloma, Ixazomib",
-          "Pfizer: Cardiotoxicity of cancer drugs for renal cancer and chronic myeloid leukaemia: sunitinib, axitinib, bosutinib",
-          "Novartis: Heart failure, Entresto, breast cancer - ribociclib"
-        ]
+        "term": "LA",
+        "definition": "Left atrium/atrial"
+      },
+      {
+        "term": "LAE",
+        "definition": "Left atrial enlargement"
+      },
+      {
+        "term": "LBBB",
+        "definition": "Left bundle branch block"
+      },
+      {
+        "term": "LDB3",
+        "definition": "LIM domain binding 3"
+      },
+      {
+        "term": "LFT",
+        "definition": "Liver function test"
+      },
+      {
+        "term": "LGE",
+        "definition": "Late gadolinium enhancement"
+      },
+      {
+        "term": "LMNA",
+        "definition": "Lamin A/C"
+      },
+      {
+        "term": "LMWH",
+        "definition": "Low-molecular-weight heparin"
+      },
+      {
+        "term": "LUS",
+        "definition": "Lung ultrasound"
+      },
+      {
+        "term": "LV",
+        "definition": "Left ventricular/ventricle"
+      },
+      {
+        "term": "LVAD",
+        "definition": "Left ventricular assist device"
+      },
+      {
+        "term": "LVEDP",
+        "definition": "Left ventricular end-diastolic pressure"
       }
     ]
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "KCNQ1",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": "Listed as 'Potassium voltage-gated channel subfamily Q member 1' at top of the abbreviations list."
+    },
+    {
+      "Gene": "LDB3",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": "Abbreviation LDB3 shown with definition 'LIM domain binding 3' in the list."
+    },
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": "Abbreviation LMNA shown with definition 'Lamin A/C' in the list."
+    }
+  ]
 }

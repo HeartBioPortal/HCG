@@ -1,81 +1,36 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "Declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration are conducted during the period of development of these guidelines up to and including 2020.",
-    "date_on_page": "03/08/2021",
-    "experts": [
+    "title": "Percutaneous edge-to-edge mitral valve repair recommendations (excerpt)",
+    "recommendations": [
       {
-        "name": "Bennis Ahmed",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "details": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-        "companies_and_associated_conditions": [
-          {
-            "company": "Novartis",
-            "associated_condition": "Heart Failure"
-          },
-          {
-            "company": "AstraZeneca",
-            "associated_condition": "Heart Failure"
-          },
-          {
-            "company": "Boehringer-Ingelheim",
-            "associated_condition": "Heart Failure"
-          },
-          {
-            "company": "Sanofi Aventis",
-            "associated_condition": "Hypertension"
-          },
-          {
-            "company": "Merck Sharp & Dohme",
-            "associated_condition": "Hypertension"
-          }
+        "class": "IIa",
+        "text": "Percutaneous edge-to-edge mitral valve repair should be considered in carefully selected patients with secondary mitral regurgitation, not eligible for surgery and not needing coronary revascularization, who are symptomatic despite OMT and who fulfil criteria to achieve a reduction in HF hospitalizations.",
+        "indication": "Improve outcomes (reduce HF hospitalizations) in symptomatic patients despite OMT",
+        "patient_selection": [
+          "Secondary mitral regurgitation",
+          "Not eligible for surgery",
+          "Not needing coronary revascularization",
+          "Symptomatic despite optimal medical therapy (OMT)",
+          "Fulfil criteria to achieve reduction in heart failure (HF) hospitalizations"
         ]
       },
       {
-        "name": "Borger Michael A",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "details": "Payment from healthcare industry to your department or institution or any other body for your personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-        "companies_and_associated_conditions": [
-          {
-            "company": "Cryolife",
-            "associated_condition": "Aortic surgery"
-          },
-          {
-            "company": "Abbott",
-            "associated_condition": "Heart valve therapy"
-          },
-          {
-            "company": "Edwards Lifesciences",
-            "associated_condition": "Heart valve therapy"
-          },
-          {
-            "company": "Medtronic",
-            "associated_condition": "Heart valve therapy"
-          }
+        "class": "IIb",
+        "text": "Percutaneous edge-to-edge mitral valve repair may be considered to improve symptoms in carefully selected patients with secondary mitral regurgitation, not eligible for surgery and not needing coronary revascularization, who are highly symptomatic despite OMT and who do not fulfil criteria for reducing HF hospitalization.",
+        "indication": "Symptom improvement in highly symptomatic patients",
+        "patient_selection": [
+          "Secondary mitral regurgitation",
+          "Not eligible for surgery",
+          "Not needing coronary revascularization",
+          "Highly symptomatic despite optimal medical therapy (OMT)",
+          "Do not fulfil criteria for reducing HF hospitalization"
         ]
-      },
-      {
-        "name": "Boskovic Aneta",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "details": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-        "companies_and_associated_conditions": [
-          {
-            "company": "Boehringer-Ingelheim",
-            "associated_condition": "Atrial fibrillation"
-          }
-        ]
-      },
-      {
-        "name": "Bsata Walid",
-        "year": 2020,
-        "declaration_type": "None declared",
-        "details": "Nothing to be declared"
       }
-    ]
+    ],
+    "abbreviations": {
+      "OMT": "optimal medical therapy",
+      "HF": "heart failure"
+    }
   },
   "genes": []
 }

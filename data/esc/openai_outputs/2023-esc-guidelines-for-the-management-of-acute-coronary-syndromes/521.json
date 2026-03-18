@@ -1,0 +1,74 @@
+{
+  "content": {
+    "source_page": "bibliography/references page (clinical guideline)",
+    "notes": "List of references related to antithrombotic therapy, acute myocardial infarction, and atrial fibrillation management.",
+    "references": [
+      {
+        "ref_id": 337,
+        "doi": "https://doi.org/10.1001/jamacardio.2019.6175"
+      },
+      {
+        "ref_id": 338,
+        "authors": "Capodanno D, Di Maio M, Greco A, Bhatt DL, Gibson CM, Goette A, et al.",
+        "title": "Safety and efficacy of double antithrombotic therapy with non-vitamin K antagonist oral anticoagulants in patients with atrial fibrillation undergoing percutaneous coronary intervention: a systematic review and meta-analysis",
+        "journal": "J Am Heart Assoc",
+        "year": 2020,
+        "volume_issue": "9",
+        "article_id": "e017212",
+        "doi": "https://doi.org/10.1161/jaha.120.017212"
+      },
+      {
+        "ref_id": 339,
+        "authors": "Lip GYH, Collet JP, Haude M, Byrne R, Chung EH, Fauchier L, et al.",
+        "title": "2018 Joint European consensus document on the management of antithrombotic therapy in atrial fibrillation patients presenting with acute coronary syndrome and/or undergoing percutaneous cardiovascular interventions: a joint consensus document of the European Heart Rhythm Association (EHRA), European Society of Cardiology Working Group on Thrombosis, European Association of Percutaneous Cardiovascular Interventions (EAPCI), and European Association of Acute Cardiac Care (ACCA) endorsed by the Heart Rhythm Society (HRS), Asia-Pacific Heart Rhythm Society (APHRS), Latin America Heart Rhythm Society (LAHRS), and Cardiac Arrhythmia Society of Southern Africa (CASSA)",
+        "journal": "Europace",
+        "year": 2019,
+        "volume_issue": "21",
+        "pages": "192–193 (approx)",
+        "doi": "https://doi.org/10.1093/europace/euy174"
+      },
+      {
+        "ref_id": 340,
+        "authors": "ISIS-2 Collaborative Group",
+        "title": "Randomised trial of intravenous streptokinase, oral aspirin, both, or neither among 17,187 cases of suspected acute myocardial infarction: ISIS-2",
+        "journal": "Lancet",
+        "year": 1988,
+        "volume_issue": "2",
+        "pages": "349–360",
+        "notes": "Large randomized trial comparing streptokinase and aspirin in suspected MI"
+      },
+      {
+        "ref_id": 341,
+        "authors": "Chen ZM, Jiang LX, Chen YP, Xie JX, Pan HC, Peto R, et al.",
+        "title": "Addition of clopidogrel to aspirin in 45,852 patients with acute myocardial infarction: randomised placebo-controlled trial",
+        "journal": "Lancet",
+        "year": 2005,
+        "volume_issue": "366",
+        "pages": "1607–1621",
+        "doi": "https://doi.org/10.1016/S0140-6736(05)67660-X",
+        "notes": "Large trial of clopidogrel + aspirin vs aspirin alone in AMI"
+      },
+      {
+        "ref_id": 342,
+        "authors": "Sabatine MS, Cannon CP, Gibson CM, López-Sendón JL, Montalescot G, Theroux P, et al.",
+        "title": "Addition of clopidogrel to aspirin and fibrinolytic therapy for myocardial infarction with ST-segment elevation",
+        "journal": "N Engl J Med",
+        "year": 2005,
+        "volume_issue": "352",
+        "pages": "1179–1189",
+        "doi": "https://doi.org/10.1056/NEJMoa050522"
+      },
+      {
+        "ref_id": 343,
+        "authors": "Osman M, Kheiri B, Shigle AJ, Saleem M, Osman K, Sengupta PP, et al.",
+        "title": "Ticagrelor after pharmacological thrombolysis in patients with ST-segment elevation myocardial infarctions: insight from a trial sequential analysis",
+        "journal": "J Thromb Thrombolysis",
+        "year": 2019,
+        "volume_issue": "48",
+        "pages": "661–667",
+        "doi": "https://doi.org/10.1007/s11239-019-01953-3"
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,47 @@
+{
+  "content": {
+    "Laboratory tests": {
+      "description": "Elevated troponins with dynamic changes consistent with myocardial necrosis. Standard tests including white blood cells count to exclude eosinophilia.",
+      "level1": "Intermediate",
+      "level2": "Low"
+    },
+    "Echocardiography": {
+      "description": "New structural or function abnormalities, regional wall motion abnormalities or global ventricular dysfunction without ventricular dilatation or with, generally mild, dilatation, increased wall thickness due to myocardial oedema, pericardial effusion, intracardiac thrombi, not explained by other conditions (e.g., CAD, ACS or valvular heart disease).",
+      "level1": "High",
+      "level2": "Low"
+    },
+    "CMR": {
+      "description": "Oedema, inflammation and fibrosis detection, quantification and localization through T1 and T2 mapping, extracellular volume assessment and LGE (see Table 33).",
+      "level1": "High",
+      "level2": "Intermediate"
+    },
+    "Additional diagnostic tests": {
+      "Coronary angiography or CTCA": {
+        "description": "Excludes significant CAD or ACS in clinically suspected myocarditis.",
+        "level1": "High",
+        "level2": "High"
+      },
+      "Endomyocardial biopsy": {
+        "description": "For diagnosis and indication to specific treatment (see Table 32).",
+        "level1": "Intermediate",
+        "level2": "High"
+      },
+      "Cardiac PET": {
+        "description": "May be useful in patients who cannot undergo CMR or with suspected systemic autoimmune disease or cardiac sarcoidosis.",
+        "level1": "Low",
+        "level2": "Low"
+      }
+    },
+    "Additional laboratory test": {
+      "description": "Skeletal muscle enzymes, liver and renal function, natriuretic peptides, thyroid function tests, iron status, markers of systemic autoimmune disease. PCR testing of common cardiotrophic viruses can detect systemic infection but does not prove cardiac infection and cannot substitute viral genome analysis on EMB samples. Circulating IgG antibodies to cardiotrophic viruses are common in the absence of viral myocarditis and have very limited diagnostic usefulness. Specific test for SARS-CoV-2, Borrelia, HIV or CMV if clinical suspicion.",
+      "level1": "Low",
+      "level2": "Low",
+      "CRP": {
+        "note": "CRP elevated in 80-90% patients.",
+        "level1": "Intermediate",
+        "level2": "Low"
+      }
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,79 @@
+{
+  "content": {
+    "section_title": "Patients with cancer",
+    "recommendations": [
+      {
+        "text": "An invasive strategy is recommended in cancer patients presenting with high-risk ACS with expected survival ≥6 months.",
+        "Class_of_recommendation": "I",
+        "Level_of_evidence": "B",
+        "references": [
+          682,
+          689,
+          690
+        ]
+      },
+      {
+        "text": "A temporary interruption of cancer therapy is recommended in patients in whom the cancer therapy is suspected to be a contributing cause of ACS.",
+        "Class_of_recommendation": "I",
+        "Level_of_evidence": "C",
+        "references": [
+          713,
+          714
+        ]
+      },
+      {
+        "text": "A conservative non-invasive strategy should be considered in ACS patients with poor cancer prognosis (i.e. with expected survival <6 months) and/or very high bleeding risk.",
+        "Class_of_recommendation": "IIa",
+        "Level_of_evidence": "C",
+        "references": [
+          690
+        ],
+        "note": "Related to advanced cancer stage and/or severe irreversible non-cardiovascular comorbidities."
+      },
+      {
+        "text": "Aspirin is not recommended in cancer patients with a platelet count <10 000/µL.",
+        "Class_of_recommendation": "III",
+        "Level_of_evidence": "C",
+        "references": [
+          715
+        ]
+      },
+      {
+        "text": "Clopidogrel is not recommended in cancer patients with a platelet count <30 000/µL.",
+        "Class_of_recommendation": "III",
+        "Level_of_evidence": "C"
+      },
+      {
+        "text": "In ACS patients with cancer and <50 000/µL platelet count, prasugrel or ticagrelor are not recommended.",
+        "Class_of_recommendation": "III",
+        "Level_of_evidence": "C"
+      }
+    ],
+    "anticancer_therapies_associated_with_high_risk_of_ACS_(very_common_>10%)": [
+      "capecitabine",
+      "paclitaxel",
+      "cisplatin",
+      "carfilzomib",
+      "bevacizumab",
+      "ramucirumab",
+      "aflibercept",
+      "axitinib",
+      "sorafenib",
+      "pazopanib",
+      "cabozantinib",
+      "lenvatinib",
+      "ponatinib",
+      "erlotinib"
+    ],
+    "abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "CKD": "chronic kidney disease",
+      "eGFR": "estimated glomerular filtration rate"
+    },
+    "notes": [
+      "Class of recommendation and level of evidence are provided for each recommendation.",
+      "Conservative strategy recommendation (IIa) is specifically for patients with expected survival <6 months and/or very high bleeding risk."
+    ]
+  },
+  "genes": []
+}

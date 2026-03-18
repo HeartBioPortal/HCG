@@ -1,0 +1,49 @@
+{
+  "content": {
+    "title": "9.1. Percutaneous coronary intervention",
+    "sections": [
+      {
+        "heading": "9.1.1. Vascular access",
+        "summary": "Timely PCI with antithrombotic therapy reduces ischaemic risk in ACS but increases bleeding risk, which affects prognosis. Access-related bleeding accounts for approximately 30–70% of total bleeding events in patients undergoing PCI. Strong evidence shows reducing access-site bleeding with radial access provides significant clinical benefits compared with femoral access.",
+        "key_points": [
+          "Access-related bleeding comprises ~30–70% of total bleeding events in PCI patients.",
+          "Radial access reduces access-site bleeding, surgical repair, and blood transfusion compared with femoral access.",
+          "Radial access is recommended as the preferred approach in ACS patients undergoing invasive assessment with or without PCI, although femoral access may be selectively chosen depending on haemodynamic and technical considerations."
+        ]
+      },
+      {
+        "heading": "Randomized trials and cost-effectiveness",
+        "summary": "Major randomized trials comparing radial vs femoral access and implementation programs showed lower rates of access-site bleeding with radial access and cost-effectiveness advantages.",
+        "trials": [
+          {
+            "name": "RIVAL (RadIal Vs femorAL access for coronary intervention)",
+            "patients": 7021,
+            "findings": "Large randomized trial comparing radial vs femoral access in ACS patients; contributed evidence for lower access-site bleeding with radial access."
+          },
+          {
+            "name": "MATRIX (Minimizing Adverse Haemorrhagic Events by TRansradial Access Site and Systemic Implementation of angioX)",
+            "patients": 8404,
+            "details": "47.6% with STEMI",
+            "findings": "Demonstrated significantly lower rates of access-site-related bleeding, surgical access site repair, and blood transfusion with radial access versus femoral. No significant interaction between ACS type and benefit of radial approach; cost-effectiveness analysis showed radial access associated with savings in quality-adjusted life years and PCI-related costs."
+          }
+        ]
+      },
+      {
+        "heading": "9.1.2. Intravascular imaging/physiology of the infarct-related artery",
+        "subheading": "9.1.2.1. Intravascular imaging",
+        "summary": "Intravascular imaging is useful as a diagnostic tool in ACS patients without significant obstructive CAD on angiography, for excluding an atherothrombotic cause, guiding invasive management, and informing potential lifelong antithrombotic therapy decisions. It is also useful when there is ambiguity regarding the culprit lesion.",
+        "key_points": [
+          "Intravascular imaging is indicated in ACS when coronary angiography does not show significant obstructive CAD or when culprit lesion ambiguity exists.",
+          "Culprit lesion ambiguity can be present in more than 30% of patients with suspected NSTE-ACS, and over 10% of patients may have multiple culprit lesions.",
+          "Recommendations for intravascular imaging in ACS are presented elsewhere (Figure 13 referenced)."
+        ]
+      }
+    ],
+    "recommendations": [
+      "Prefer radial access for invasive assessment/PCI in ACS patients to reduce access-site bleeding and related complications, unless specific haemodynamic or technical reasons favor femoral access.",
+      "Use intravascular imaging when angiography does not identify a clear culprit lesion or when excluding an atherothrombotic cause has important management implications."
+    ],
+    "references_note": "Multiple literature references are cited in the original text supporting trial results and recommendations (numerical citation markers present)."
+  },
+  "genes": []
+}

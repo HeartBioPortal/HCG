@@ -1,0 +1,66 @@
+{
+  "content": {
+    "section_title": "4.3 Investigations to determine the underlying aetiology of chronic heart failure",
+    "summary": "Recommended tests to determine the underlying aetiology of chronic heart failure (CHF) including use of natriuretic peptides for diagnosis, and imaging modalities to identify ischaemia, myocardial fibrosis/scar, infiltrative and genetic cardiomyopathies.",
+    "diagnostic_biomarkers": {
+      "natriuretic_peptides": {
+        "BNP": {
+          "cutoff_non_acute": "35 pg/mL",
+          "role": "Used as a rule-out threshold for heart failure in the non-acute setting"
+        },
+        "NT-proBNP": {
+          "cutoff_non_acute": "125 pg/mL",
+          "role": "Used as a rule-out threshold for heart failure in the non-acute setting"
+        },
+        "negative_predictive_value_range": "0.94 to 0.98 (for NP concentrations below thresholds)",
+        "MR-proANP": {
+          "role": "Fewer data available than for BNP/NT-proBNP",
+          "rule_out_cutoff": "<40 pmol/L (can be used to rule out HF)"
+        }
+      }
+    },
+    "imaging_recommendations": {
+      "stress_echocardiography": "Exercise or pharmacological stress echocardiography may be used to assess inducible ischaemia in patients considered suitable for coronary revascularization; may help clarify diagnosis in HFpEF, valve disease, or unexplained dyspnoea.",
+      "cardiac_magnetic_resonance": {
+        "uses": [
+          "Late gadolinium enhancement (LGE), T1 mapping and extracellular volume to identify myocardial fibrosis/scar",
+          "Differentiate ischaemic heart disease (subendocardial scar) from dilated cardiomyopathy (mid-wall scar)",
+          "Characterisation of myocarditis, amyloidosis, sarcoidosis, Chagas disease, Fabry disease, left ventricular non-compaction, haemochromatosis, arrhythmogenic cardiomyopathy"
+        ]
+      },
+      "computed_tomography_coronary_angiography": "May be considered in patients with low-to-intermediate pre-test probability of CAD or equivocal non-invasive stress tests to exclude CAD.",
+      "single_photon_emission_CT (SPECT)": "Can assess myocardial ischaemia, viability, inflammation or infiltration; technetium-labelled bisphosphonate scintigraphy has high sensitivity and specificity for imaging cardiac transthyretin amyloid.",
+      "coronary_angiography": "Recommended in patients with HF who have angina (or angina-equivalent) despite medical therapy to establish diagnosis and severity of CAD; may be considered in HFrEF with intermediate-high pre-test probability of CAD."
+    },
+    "table_notes": {
+      "table_5_reference": "Recommended tests to determine the underlying aetiology of CHF are summarized in Table 5.",
+      "table_6_reference": "Table 6: Symptoms and signs typical of heart failure (table shown but content not present on this page image)."
+    }
+  },
+  "genes": [
+    {
+      "Gene": "NPPB",
+      "Associated Conditions": [
+        "Heart failure (HF) — biomarker BNP/NT-proBNP used for diagnosis and rule-out"
+      ],
+      "Occurrences": 2,
+      "context": "BNP and NT-proBNP cutoff points cited (35 pg/mL for BNP, 125 pg/mL for NT-proBNP) as rule-out thresholds for HF; negative predictive values of NP concentrations below these thresholds reported."
+    },
+    {
+      "Gene": "NPPA",
+      "Associated Conditions": [
+        "Heart failure (HF) — biomarker MR-proANP used for diagnosis and rule-out"
+      ],
+      "Occurrences": 1,
+      "context": "MR-proANP is mentioned with fewer data available than BNP/NT-proBNP; a concentration of <40 pmol/L can be used to rule out HF."
+    },
+    {
+      "Gene": "TTR",
+      "Associated Conditions": [
+        "Transthyretin cardiac amyloidosis (ATTR) — imaging and diagnosis"
+      ],
+      "Occurrences": 1,
+      "context": "Scintigraphy with technetium-labelled bisphosphonate is noted to have high sensitivity and specificity for imaging cardiac transthyretin amyloid."
+    }
+  ]
+}

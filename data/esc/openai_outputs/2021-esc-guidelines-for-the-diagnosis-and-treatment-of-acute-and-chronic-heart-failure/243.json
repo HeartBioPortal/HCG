@@ -1,0 +1,27 @@
+{
+  "content": {
+    "page_title": "Management of cardiogenic shock (excerpt)",
+    "figure": "Figure 10 – Flowchart: Management of patients with cardiogenic shock showing initial assessment for ACS and/or mechanical complications, emergency PCI or surgical treatment, identification/treatment of other causes, consideration of oxygen/ventilatory support (Class I), inotropes/vasopressors (Class IIb), and short-term mechanical circulatory support (MCS, Class IIa); subsequent assessment of improvement in hypoperfusion and organ dysfunction guides weaning or escalation to MCS, renal replacement therapy or palliative care.",
+    "figure_notes": "ACS = acute coronary syndrome; BTT = bridge to transplantation; MCS = mechanical circulatory support; PCI = percutaneous coronary intervention. PCI in ACS, pericardiocentesis in tamponade, mitral valve surgery in papillary muscle rupture. In interventricular septum rupture, MCS as BTT should be considered. Other causes: acute valve regurgitation, pulmonary embolism, infection, acute myocarditis, arrhythmia.",
+    "management_overview": "Management should start as early as possible with early identification and treatment of underlying cause alongside hemodynamic stabilization and organ dysfunction management. Management subdivided into stages (pre-hospital, in-hospital, pre-discharge).",
+    "flowchart_key_actions": [
+      "Assess for ACS and mechanical complications",
+      "If ACS/mechanical complication: emergency PCI or surgical treatment",
+      "If other causes: identify and treat specifically",
+      "Consider oxygen or ventilatory support (Class I)",
+      "Consider inotropes/vasopressors (Class IIb)",
+      "Consider short-term MCS (Class IIa)",
+      "Assess improvement in hypoperfusion and organ dysfunction",
+      "If improved: wean from inotropes/vasopressors and/or MCS and continue aetiological treatment",
+      "If not improved: escalate to MCS, renal replacement therapy, or consider palliative care"
+    ],
+    "class_recommendations": {
+      "oxygen_or_ventilatory_support": "Class I",
+      "inotropes_vasopressors": "Class IIb",
+      "short-term_MCS": "Class IIa",
+      "continue_aetiological_treatment_and_medical_therapy_optimization": "Class I"
+    },
+    "pre_hospital_phase": "Acute heart failure (AHF) patients should receive non-invasive monitoring (pulse oximetry, BP, heart rate, respiratory rate) and continuous ECG instituted within minutes of patient contact and in the ambulance if possible."
+  },
+  "genes": []
+}

@@ -1,0 +1,113 @@
+{
+  "content": {
+    "page_type": "references",
+    "source_note": "Extracted from a references section of a clinical guideline page (visible items numbered 422–428). Some characters (accents) appear corrupted in the image and are preserved approximately.",
+    "references": [
+      {
+        "index": 422,
+        "raw_citation": "Aragam KG, Tamhane UU, Kline-Rogers E, Li J, Fox KAA, Goodman SG, et al. Does simplicity compromise accuracy in ACS risk prediction? A retrospective analysis of the TIMI and GRACE risk scores. PLoS One 2009;4:e7947.",
+        "doi": "https://doi.org/10.1371/journal.pone.0007947",
+        "links": [
+          "Google Scholar",
+          "Crossref",
+          "Search ADS",
+          "PubMed"
+        ],
+        "year": 2009,
+        "journal": "PLoS One",
+        "title": "Does simplicity compromise accuracy in ACS risk prediction? A retrospective analysis of the TIMI and GRACE risk scores",
+        "notes": "Analysis comparing TIMI and GRACE risk scores for acute coronary syndromes (ACS)."
+      },
+      {
+        "index": 423,
+        "raw_citation": "D'Ascenzo F, Biondi-Zoccai G, Moretti C, Bollati M, Omedè P, Sciuto F, et al. TIMI, GRACE and alternative risk scores in Acute Coronary Syndromes: a meta-analysis of 40 derivation studies on 216,552 patients and of 42 validation studies on 31,625 patients. Contemp Clin Trials 2012;33:507–514.",
+        "doi": "https://doi.org/10.1016/j.cct.2012.01.001",
+        "links": [
+          "Google Scholar",
+          "Crossref",
+          "Search ADS",
+          "PubMed"
+        ],
+        "year": 2012,
+        "journal": "Contemporary Clinical Trials",
+        "title": "TIMI, GRACE and alternative risk scores in Acute Coronary Syndromes: a meta-analysis",
+        "notes": "Large meta-analysis comparing multiple risk scores for acute coronary syndromes."
+      },
+      {
+        "index": 424,
+        "raw_citation": "Gale CP, Manda SO, Weston CF, Birkhead JS, Batin PD, Hall AS. Evaluation of risk scores for risk stratification of acute coronary syndromes in the Myocardial Infarction National Audit Project (MINAP) database. Heart 2009;95:221–227.",
+        "doi": "https://doi.org/10.1136/hrt.2008.144022",
+        "links": [
+          "Google Scholar",
+          "Crossref",
+          "Search ADS",
+          "PubMed"
+        ],
+        "year": 2009,
+        "journal": "Heart",
+        "title": "Evaluation of risk scores for risk stratification of acute coronary syndromes in the MINAP database",
+        "notes": "Study of risk score performance using the MINAP registry."
+      },
+      {
+        "index": 425,
+        "raw_citation": "D'Ascenzo F, De Filippo O, Gallone G, Mittone G, Deriu MA, Iannaccone M, et al. Machine learning-based prediction of adverse events following an acute coronary syndrome (PRAISE): a modelling study of pooled datasets. Lancet 2021;397:199–207.",
+        "doi": "https://doi.org/10.1016/S0140-6736(20)32519-8",
+        "links": [
+          "Google Scholar",
+          "Crossref",
+          "Search ADS",
+          "PubMed"
+        ],
+        "year": 2021,
+        "journal": "Lancet",
+        "title": "Machine learning-based prediction of adverse events following an acute coronary syndrome (PRAISE)",
+        "notes": "Modelling study using pooled datasets to predict adverse events after ACS."
+      },
+      {
+        "index": 426,
+        "raw_citation": "Ng VG, Lansky AJ, Meller S, Witzenbichler B, Guagliumi G, Peruga JZ, et al. The prognostic importance of left ventricular function in patients with ST-segment elevation myocardial infarction: the HORIZONS-AMI trial. Eur Heart J Acute Cardiovasc Care 2014;3:67–77.",
+        "doi": "https://doi.org/10.1177/2048872613507149",
+        "links": [
+          "Google Scholar",
+          "PubMed",
+          "OpenURL Placeholder Text"
+        ],
+        "year": 2014,
+        "journal": "European Heart Journal: Acute Cardiovascular Care",
+        "title": "Prognostic importance of left ventricular function in ST-elevation MI: HORIZONS-AMI trial",
+        "notes": "Examines left ventricular function as a prognostic factor in STEMI patients."
+      },
+      {
+        "index": 427,
+        "raw_citation": "de Waha S, Eitel I, Desch S, Fuernau G, Lurz P, Stiermaier T, et al. Prognosis after ST-elevation myocardial infarction: a study on cardiac magnetic resonance imaging versus clinical routine. Trials 2014;15:249.",
+        "doi": "https://doi.org/10.1186/1745-6215-15-249",
+        "links": [
+          "Google Scholar",
+          "Crossref",
+          "Search ADS",
+          "PubMed"
+        ],
+        "year": 2014,
+        "journal": "Trials",
+        "title": "Prognosis after STEMI: cardiac MRI versus clinical routine",
+        "notes": "Compares CMR imaging to routine clinical assessment for prognosis after STEMI."
+      },
+      {
+        "index": 428,
+        "raw_citation": "Larose E, Côté J, Rodés-Cabau A, Noël AB, Barbeau G, Bordeleau E, et al. Contrast-enhanced cardiovascular magnetic resonance in the hyperacute phase of ST-elevation myocardial infarction. Int J Cardiovasc Imaging 2009;25:519–527.",
+        "doi": "https://doi.org/10.1007/s10554-009-9451-4",
+        "links": [
+          "Google Scholar",
+          "Crossref",
+          "Search ADS",
+          "PubMed"
+        ],
+        "year": 2009,
+        "journal": "International Journal of Cardiovascular Imaging",
+        "title": "Contrast-enhanced CMR in the hyperacute phase of STEMI",
+        "notes": "Study of contrast-enhanced cardiovascular MRI early after ST-elevation MI."
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,88 @@
+{
+  "content": {
+    "title": "Antiplatelet therapy recommendations (ACS)",
+    "recommendations": [
+      {
+        "recommendation": "Aspirin is recommended for all patients without contraindications at an initial oral LD of 150–300 mg (or 75–250 mg i.v.) and an MD of 75–100 mg o.d. for long-term treatment.",
+        "class": "I",
+        "level": "A"
+      },
+      {
+        "recommendation": "In all ACS patients, a P2Y12 receptor inhibitor is recommended in addition to aspirin, given as an initial oral LD followed by an MD for 12 months unless there is HBR.",
+        "class": "I",
+        "level": "A"
+      },
+      {
+        "recommendation": "A proton pump inhibitor in combination with DAPT is recommended in patients at high risk of gastrointestinal bleeding.",
+        "class": "I",
+        "level": "A"
+      },
+      {
+        "recommendation": "Prasugrel is recommended in P2Y12 receptor inhibitor–naïve patients proceeding to PCI (60 mg LD, 10 mg o.d. MD; 5 mg o.d. MD for patients aged ≥75 years or with a body weight <60 kg).",
+        "class": "I",
+        "level": "B"
+      },
+      {
+        "recommendation": "Ticagrelor is recommended irrespective of the treatment strategy (invasive or conservative) (180 mg LD, 90 mg b.i.d. MD).",
+        "class": "I",
+        "level": "B"
+      },
+      {
+        "recommendation": "Clopidogrel (300–600 mg LD, 75 mg o.d. MD) is recommended when prasugrel or ticagrelor are not available, cannot be tolerated, or are contraindicated.",
+        "class": "I",
+        "level": "C"
+      },
+      {
+        "recommendation": "If patients presenting with ACS stop DAPT to undergo CABG, it is recommended they resume DAPT after surgery for at least 12 months.",
+        "class": "I",
+        "level": "C"
+      },
+      {
+        "recommendation": "Prasugrel should be considered in preference to ticagrelor for ACS patients who proceed to PCI.",
+        "class": "IIa",
+        "level": "B"
+      },
+      {
+        "recommendation": "GP IIb/IIIa receptor antagonists should be considered if there is evidence of no-reflow or a thrombotic complication during PCI.",
+        "class": "IIa",
+        "level": "C"
+      },
+      {
+        "recommendation": "In P2Y12 receptor inhibitor–naïve patients undergoing PCI, cangrelor may be considered.",
+        "class": "IIb",
+        "level": "A"
+      },
+      {
+        "recommendation": "In older ACS patients, especially if HBR, clopidogrel as the P2Y12 receptor inhibitor may be considered.",
+        "class": "IIb",
+        "level": "B"
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "Acute coronary syndrome (ACS) — target of P2Y12 receptor inhibitors (adjunct to aspirin, used around PCI and for long-term DAPT)"
+      ],
+      "Occurrences": 4,
+      "context": "Multiple recommendations reference the P2Y12 receptor inhibitor (recommended in all ACS patients in addition to aspirin; prasugrel recommended in P2Y12 inhibitor–naïve patients proceeding to PCI; cangrelor may be considered in P2Y12 inhibitor–naïve patients; clopidogrel as the P2Y12 receptor inhibitor may be considered in older/HBR patients)."
+    },
+    {
+      "Gene": "ITGA2B",
+      "Associated Conditions": [
+        "Thrombotic complications/no-reflow during PCI — component of the platelet GP IIb/IIIa receptor complex targeted by GP IIb/IIIa receptor antagonists"
+      ],
+      "Occurrences": 1,
+      "context": "The guideline states GP IIb/IIIa receptor antagonists should be considered if there is evidence of no-reflow or a thrombotic complication during PCI (GP IIb corresponds to integrin alpha IIb, encoded by ITGA2B)."
+    },
+    {
+      "Gene": "ITGB3",
+      "Associated Conditions": [
+        "Thrombotic complications/no-reflow during PCI — component of the platelet GP IIb/IIIa receptor complex targeted by GP IIb/IIIa receptor antagonists"
+      ],
+      "Occurrences": 1,
+      "context": "The guideline states GP IIb/IIIa receptor antagonists should be considered if there is evidence of no-reflow or a thrombotic complication during PCI (GPIIIa corresponds to integrin beta 3, encoded by ITGB3)."
+    }
+  ]
+}

@@ -1,56 +1,84 @@
 {
   "content": {
-    "document_title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "organisation": "European Society of Cardiology (ESC)",
-    "note": "For ESC Guidelines: The report below lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2020.",
-    "page_date": "12/08/2021",
-    "experts": [
+    "page_type": "author_list",
+    "description": "List of authors with country and links to search for other works",
+    "authors": [
       {
-        "name": "Baumbach Andreas",
-        "entries": [
-          {
-            "year": 2020,
-            "relationship": "Venus Medtech : Valves, CEP"
-          }
-        ]
+        "name": "Dimitrios Farmakis",
+        "country": "Greece",
+        "links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ],
+        "occurrences": 1,
+        "context": "Author entry showing country (Greece) and links to search for other works"
       },
       {
-        "name": "Boehm Michael",
-        "entries": [
-          {
-            "year": 2019,
-            "declaration_type": "Financial Declaration",
-            "details": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies_listed": [
-              "Abbott",
-              "Amgen",
-              "Astra Zeneca",
-              "Bayer",
-              "Boehringer-Ingelheim",
-              "Medtronic",
-              "Novartis",
-              "Servier",
-              "Vifor International",
-              "Bristol Myers Squibb"
-            ],
-            "area": "Cardiology"
-          },
-          {
-            "year": 2020,
-            "declaration_type": "Financial Declaration",
-            "companies_listed": [
-              "Abbott",
-              "Amgen",
-              "Astra Zeneca",
-              "Bayer",
-              "Boehringer-Ingelheim",
-              "Medtronic",
-              "Novartis",
-              "Servier"
-            ],
-            "area": "Cardiology"
-          }
-        ]
+        "name": "Martine Gilard",
+        "country": "France",
+        "links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ],
+        "occurrences": 1,
+        "context": "Author entry showing country (France) and links to search for other works"
+      },
+      {
+        "name": "Stephane Heymans",
+        "country": "Netherlands",
+        "links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ],
+        "occurrences": 1,
+        "context": "Author entry showing country (Netherlands) and links to search for other works"
+      },
+      {
+        "name": "Arno W Hoes",
+        "country": "Netherlands",
+        "links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ],
+        "occurrences": 1,
+        "context": "Author entry showing country (Netherlands) and links to search for other works"
+      },
+      {
+        "name": "Tiny Jaarsma",
+        "country": "Sweden",
+        "links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ],
+        "occurrences": 1,
+        "context": "Author entry showing country (Sweden) and links to search for other works"
+      },
+      {
+        "name": "Ewa A Jankowska",
+        "country": "Poland",
+        "links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ],
+        "occurrences": 1,
+        "context": "Author entry showing country (Poland) and links to search for other works"
+      },
+      {
+        "name": "Mitja Lainscak",
+        "country": "Slovenia",
+        "links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ],
+        "occurrences": 1,
+        "context": "Author entry showing country (Slovenia) and links to search for other works"
       }
     ]
   },

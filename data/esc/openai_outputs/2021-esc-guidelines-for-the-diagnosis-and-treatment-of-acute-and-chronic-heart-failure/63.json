@@ -1,44 +1,75 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (period up to and including 2020).",
-    "page_date": "03/08/2021",
-    "experts": [
+    "page_title": "Recommendations (heart failure)",
+    "Recommendations for the diagnosis of HF": [
       {
-        "name": "Kamzola Ginta",
-        "year": 2020,
-        "declaration_type": "Other Positions of Influence",
-        "details": "Membership or affiliation in political, advocacy or patients organisations working in the field of cardiology - Latvian Society of Cardiology.",
-        "conditions_mentioned": []
+        "recommendation": "Right heart catheterization should be considered in patients where HF is thought to be due to constrictive pericarditis, restrictive cardiomyopathy, congenital heart disease, and high output states.",
+        "Class": "IIa"
       },
       {
-        "name": "Kipiani Zviad V",
-        "year": 2020,
-        "declaration_type": "Nothing to be declared",
-        "details": "No declarations reported.",
-        "conditions_mentioned": []
-      },
-      {
-        "name": "Konradi Aleksandra",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "details": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Companies listed with association to hypertension: Novartis; Krka Pharma; Gedeon Richter; Servier.",
-        "conditions_mentioned": [
-          "hypertension"
-        ]
-      },
-      {
-        "name": "Kotecha Dipak",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "details": "Payments from healthcare industry to department/institution for personal services and advisory boards: Bayer (Data Science Advisory Board), Amomed (Data Science Advisory Board), Protherics Medicines Development (Data Science Advisory Board). Research funding from industry to department/institution for ESC STEEER-AF trial: Bayer, Boston Scientific, Daiichi Sankyo.",
-        "conditions_mentioned": [
-          "atrial fibrillation (ESC STEEER-AF trial referenced)",
-          "data science (advisory board context)"
-        ]
+        "recommendation": "Right heart catheterization may be considered in selected patients with HFpEF to confirm the diagnosis.",
+        "Class": "IIb"
       }
-    ]
+    ],
+    "Recommendations for treatment of chronic HF": {
+      "HFrEF": [
+        {
+          "recommendation": "Dapagliflozin or empagliflozin are recommended for patients with HFrEF to reduce the risk of HF hospitalization and death.",
+          "Class": "I"
+        },
+        {
+          "recommendation": "Vericiguat may be considered in patients in NYHA class II–IV who have had worsening HF despite treatment with an ACE‑I (or ARNI), a beta‑blocker and an MRA to reduce the risk of CV mortality or HF hospitalization.",
+          "Class": "IIb"
+        }
+      ],
+      "HFmrEF": [
+        {
+          "recommendation": "An ACE‑I may be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death.",
+          "Class": "IIb"
+        },
+        {
+          "recommendation": "An ARB may be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death.",
+          "Class": "IIb"
+        },
+        {
+          "recommendation": "A beta‑blocker may be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death.",
+          "Class": "IIb"
+        },
+        {
+          "recommendation": "An MRA may be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death.",
+          "Class": "IIb"
+        },
+        {
+          "recommendation": "Sacubitril/valsartan may be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death.",
+          "Class": "IIb"
+        }
+      ],
+      "HFpEF": [
+        {
+          "recommendation": "Screening for, and treatment of, aetiologies, and CV and non‑CV comorbidities are recommended in patients with HFpEF (see relevant sections of this document).",
+          "Class": "I"
+        }
+      ]
+    },
+    "Prevention and monitoring": [
+      {
+        "recommendation": "Self‑management strategies are recommended to reduce the risk of HF hospitalization and mortality.",
+        "Class": "I"
+      },
+      {
+        "recommendation": "Either home‑based and/or clinic‑based programmes improve outcomes and are recommended to reduce the risk of HF hospitalization and mortality.",
+        "Class": "I"
+      },
+      {
+        "recommendation": "Influenza and pneumococcal vaccinations should be considered in order to prevent HF hospitalizations.",
+        "Class": "IIa"
+      },
+      {
+        "recommendation": "A supervised, exercise‑based, cardiac rehabilitation programme should be considered in patients with more severe disease, frailty, or with comorbidities.",
+        "Class": "IIa"
+      }
+    ],
+    "notes": "Document lists pharmacologic classes and specific drugs (e.g., dapagliflozin, empagliflozin, vericiguat, sacubitril/valsartan) and guideline classes for recommendations."
   },
   "genes": []
 }

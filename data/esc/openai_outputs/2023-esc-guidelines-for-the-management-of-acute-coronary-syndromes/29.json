@@ -1,69 +1,48 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "organization": "European Society of Cardiology (ESC)",
-    "summary_note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during development period up to and including 2022).",
-    "experts": [
+    "page_note": "Loading dose",
+    "acronyms": [
       {
-        "name": "Bajric Mugdim",
-        "declarations": [
-          {
-            "year": 2021,
-            "details": [
-              "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-              "University Tuzla: Internal medicine",
-              "PRIVATE MEDICAL OFFICE CARDIOLAB TUZLA: INTERNAL MEDICINE",
-              "University clinical center Tuzla: Invasive cardiology - regular job duties - employee",
-              "Direct ownership of shares or direct financial interest in healthcare/education companies (private internal medicine medical office called Cardiolab, stationed in Tuzla, Bosnia and Herzegovina). Medical office provides services within internal medicine to include echocardiology, non invasive cardiology diagnostics (Holter monitoring, ergometry), basic cardiological exams.",
-              "Employment in healthcare industry (including part time) during the year for which declaring: Chief of Clinic for invasive cardiology, includes management duties and interventional cardiologists (MD) duties; medical doctor at the Cardiolab Tuzla medical office. Position not in competition with ESC."
-            ]
-          },
-          {
-            "year": 2022,
-            "details": [
-              "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-              "University Tuzla: Clinical Skills",
-              "University clinical center Tuzla: Clinical Skills, Arrhythmias, General, Acute Coronary Syndromes, Acute Cardiac Care",
-              "PRIVATE MEDICAL OFFICE CARDIOLAB TUZLA: Clinical Skills, Arrhythmias, General, Chronic Heart Failure, Coronary Artery Disease (Chronic / Chronic Coronary Syndromes (CCS)), Hypertension",
-              "Employment (including part time) in healthcare industry during the year for which declaring: University CLINICAL CENTER TUZLA: CARDIOLOGIST"
-            ]
-          }
-        ]
+        "acronym": "LDL-C",
+        "definition": "Low-density lipoprotein-cholesterol"
       },
       {
-        "name": "Bani Marjeh Mohammed Yassin",
-        "declarations": [
-          {
-            "year": 2021,
-            "details": [
-              "Nothing to be declared"
-            ]
-          },
-          {
-            "year": 2022,
-            "details": [
-              "Nothing to be declared"
-            ]
-          }
-        ]
+        "acronym": "LIMA",
+        "definition": "Left internal mammary artery"
       },
       {
-        "name": "Banning Adrian Paul",
-        "declarations": [
-          {
-            "year": 2021,
-            "details": [
-              "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-              "Medtronic Foundation: renal denervation",
-              "Boston Scientific: stents",
-              "Abbott Vascular: stents"
-            ]
-          }
-        ]
+        "acronym": "LMWH",
+        "definition": "Low-molecular-weight heparin"
+      },
+      {
+        "acronym": "LoDoCo2",
+        "definition": "Low-dose Colchicine trial-2"
+      },
+      {
+        "acronym": "LV",
+        "definition": "Left ventricular (cle)"
+      },
+      {
+        "acronym": "LVAD",
+        "definition": "Left ventricular assist device"
+      },
+      {
+        "acronym": "LVEF",
+        "definition": "Left ventricular ejection fraction"
+      },
+      {
+        "acronym": "MACE",
+        "definition": "Major adverse cardiovascular events"
+      },
+      {
+        "acronym": "MASTER DAPT",
+        "definition": "Management of High Bleeding Risk Patients Post Bioresorbable Polymer Coated Stent Implantation With an Abbreviated Versus Prolonged DAPT Regimen"
+      },
+      {
+        "acronym": "MATRIX",
+        "definition": "Minimizing Adverse Haemorrhagic Events by Transradial Access Site and Systemic Implementation of angioX"
       }
-    ],
-    "page_footer": "16/05/2023",
-    "page_number": "5/57"
+    ]
   },
   "genes": []
 }

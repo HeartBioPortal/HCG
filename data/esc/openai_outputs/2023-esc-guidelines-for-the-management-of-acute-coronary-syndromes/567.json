@@ -1,0 +1,52 @@
+{
+  "content": {
+    "page_type": "reference_list",
+    "topic": "Prevention and evaluation of contrast-induced nephropathy / acute kidney injury in patients undergoing angiography or coronary procedures",
+    "summary": "Collection of randomized trials, meta-analyses and clinical studies evaluating renal toxicity of contrast media and preventive strategies (hydration regimens, comparison of contrast agents, sodium bicarbonate vs sodium chloride, haemodynamic-guided fluids, and prophylactic hydration).",
+    "references": [
+      {
+        "id": 691,
+        "citation": "Aspelin P, Aubry P, Fransson SG, Strasser R, Willenbrock R, Berg KJ. Nephrotoxic effects in high-risk patients undergoing angiography. N Engl J Med 2003;348:491-499.",
+        "doi": "https://doi.org/10.1056/NEJMoa021833",
+        "focus": "Describes nephrotoxic effects of intravascular contrast in high-risk patients undergoing angiography."
+      },
+      {
+        "id": 692,
+        "citation": "Jo SH, Youn TJ, Koo BK, Park JS, Kang HJ, Cho YS, et al. Renal toxicity evaluation and comparison between visipaque (iodixanol) and hexabrix (ioxaglate) in patients with renal insufficiency undergoing coronary angiography: the RECOVER study. J Am Coll Cardiol 2006;48:924-930.",
+        "doi": "https://doi.org/10.1016/j.jacc.2006.06.047",
+        "focus": "Randomized comparison of two contrast agents (iodixanol vs ioxaglate) for renal toxicity in patients with renal insufficiency."
+      },
+      {
+        "id": 693,
+        "citation": "Solomon RJ, Natarajan MK, Doucet S, Sharma SK, Staniloae CS, Katholi RE, et al. Cardiac Angiography in Renally Impaired Patients (CARE) study: a randomized double-blind trial of contrast-induced nephropathy in patients with chronic kidney disease. Circulation 2007;115:3189-3196.",
+        "doi": "https://doi.org/10.1161/circulationaha.106.671644",
+        "focus": "Randomized double-blind trial investigating contrast-induced nephropathy in patients with chronic kidney disease undergoing cardiac angiography."
+      },
+      {
+        "id": 694,
+        "citation": "Brar SS, Shen AY, Jorgensen MB, Kotlewski A, Aharonian VJ, Desai N, et al. Sodium bicarbonate vs sodium chloride for the prevention of contrast medium-induced nephropathy in patients undergoing coronary angiography: a randomized trial. JAMA 2008;300:1038-1046.",
+        "doi": "https://doi.org/10.1001/jama.300.9.1038",
+        "focus": "Randomized trial comparing sodium bicarbonate versus sodium chloride for prevention of contrast-induced nephropathy."
+      },
+      {
+        "id": 695,
+        "citation": "Brar SS, Aharonian V, Mansukhani P, Moore N, Shen AYJ, Jorgensen M, et al. Haemodynamic-guided fluid administration for the prevention of contrast-induced acute kidney injury: the POSEIDON randomised controlled trial. Lancet 2014;383:1814-1823.",
+        "doi": "https://doi.org/10.1016/S0140-6736(14)60689-9",
+        "focus": "POSEIDON trial testing haemodynamic-guided (personalized) fluid administration versus standard therapy to prevent contrast-induced AKI."
+      },
+      {
+        "id": 696,
+        "citation": "Giacoppo D, Gargiulo G, Buccheri S, Aruta P, Byrne RA, Cassese S, et al. Preventive strategies for contrast-induced acute kidney injury in patients undergoing percutaneous coronary procedures: evidence from a hierarchical Bayesian network meta-analysis of 124 trials and 28,240 patients. Circ Cardiovasc Interv 2017;10:e004383.",
+        "doi": "https://doi.org/10.1161/circinterventions.116.004383",
+        "focus": "Network meta-analysis summarizing evidence across many trials on preventive strategies for contrast-induced AKI in PCI populations."
+      },
+      {
+        "id": 697,
+        "citation": "Nijssen EC, Rennenberg RJ, Nelemans PJ, Essers BA, Janssen MM, Vermeeren MA, et al. Prophylactic hydration to protect renal function from intravascular iodinated contrast material in patients at high risk of contrast-induced nephropathy (AMACING): a prospective, randomised, phase 3, controlled, open-label, non-inferiority trial. Lancet 2017;389:1312-1322.",
+        "doi": "https://doi.org/10.1016/S0140-6736(17)30057-0",
+        "focus": "AMACING trial evaluating prophylactic hydration versus no prophylactic hydration in high-risk patients receiving iodinated contrast."
+      }
+    ]
+  },
+  "genes": []
+}

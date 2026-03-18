@@ -1,0 +1,47 @@
+{
+  "content": {
+    "page_summary": "Reference list entries (324-330) focused on antithrombotic and antiplatelet therapy in atrial fibrillation and coronary artery disease, including randomized trials, meta-analyses, and consensus/guideline documents.",
+    "citations": [
+      {
+        "id": 324,
+        "text": "Yasuda S, Kaikita K, Akao M, Ako J, Matoba T, Nakamura M, et al. Antithrombotic therapy for atrial fibrillation with stable coronary disease. N Engl J Med 2019;381:1103–1113. https://doi.org/10.1056/NEJMoa1904143"
+      },
+      {
+        "id": 325,
+        "text": "Matsumura-Nakano Y, Shizuta S, Komasa A, Morimoto T, Masuda H, Shiomi H, et al. Open-label randomized trial comparing oral anticoagulation with and without single antiplatelet therapy in patients with atrial fibrillation and stable coronary artery disease beyond 1 year after coronary stent implantation. Circulation 2019;139:604–616. https://doi.org/10.1161/circulationaha.118.036768"
+      },
+      {
+        "id": 326,
+        "text": "Chiarito M, Sanz-Sánchez J, Cannata F, Cao D, Sturla M, Panico C, et al. Monotherapy with a P2Y(12) inhibitor or aspirin for secondary prevention in patients with established atherosclerosis: a systematic review and meta-analysis. Lancet 2020;395:1487–1495. https://doi.org/10.1016/S0140-6736(20)30315-9"
+      },
+      {
+        "id": 327,
+        "text": "Koo BK, Kang J, Park KW, Rhee T-M, Yang H-M, Won KB, et al. Aspirin versus clopidogrel for chronic maintenance monotherapy after percutaneous coronary intervention (HOST-EXAM): investigator-initiated, prospective, randomised, open-label, multicentre trial. Lancet 2021;397:2487–2496. https://doi.org/10.1016/S0140-6736(21)01063-1"
+      },
+      {
+        "id": 328,
+        "text": "Gilard M, Blanchard D, Helft G, Carrier D, Eltchaninoff H, Belle L, et al. Antiplatelet therapy in patients with anticoagulants undergoing percutaneous coronary stenting (from STENTing and oral antiCOagulants [STENTICO]). Am J Cardiol 2009;104:338–342. https://doi.org/10.1016/j.amjcard.2009.03.053"
+      },
+      {
+        "id": 329,
+        "text": "Lip GYH, Windecker S, Huber K, Kirchhof P, Marin F, Ten Berg JM, et al. Management of antithrombotic therapy in atrial fibrillation patients presenting with acute coronary syndrome and/or undergoing percutaneous coronary or valve interventions: joint consensus document of ESC Working Group on Thrombosis, EHRA, EAPCI and others. Eur Heart J 2014;35:3155–3179. https://doi.org/10.1093/eurheartj/ehu298"
+      },
+      {
+        "id": 330,
+        "text": "Ruiz-Nodar JM, Marín F, Hurtado JA, Valencia J, Pinar E, Pineda J, et al. Anticoagulant and antiplatelet therapy use in 426 patients with atrial fibrillation undergoing ... (text truncated on page)"
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "atherosclerosis",
+        "secondary prevention of cardiovascular events",
+        "antiplatelet therapy contexts"
+      ],
+      "Occurrences": 1,
+      "context": "Reference 326 discusses 'Monotherapy with a P2Y(12) inhibitor or aspirin for secondary prevention in patients with established atherosclerosis' (systematic review and meta-analysis)."
+    }
+  ]
+}

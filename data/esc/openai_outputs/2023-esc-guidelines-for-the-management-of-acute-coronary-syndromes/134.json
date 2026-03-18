@@ -1,0 +1,19 @@
+{
+  "content": {
+    "anticoagulation_recommendations": "For patients with NSTE-ACS, parenteral anticoagulation is recommended. Enoxaparin can be considered an alternative to unfractionated heparin (UFH), particularly where clotting-time monitoring is complex. For NSTE-ACS patients not undergoing early invasive angiography (within 24 h), an extended initial pharmacological treatment phase is recommended; fondaparinux is preferred over enoxaparin while awaiting angiography based on OASIS-5 outcomes. If fondaparinux is used and the patient proceeds to PCI, a full-dose UFH bolus should be given because of catheter thrombus concerns. If fondaparinux is unavailable, enoxaparin should be considered. Intravenous enoxaparin may be used as anticoagulant for PCI in patients who received subcutaneous enoxaparin while awaiting coronary angiography.",
+    "summary": "Parenteral anticoagulation recommended for NSTE-ACS. For immediate/early angiography, UFH is recommended but enoxaparin is an alternative. For patients not expected to undergo early angiography, fondaparinux (with UFH bolus at PCI) is preferred over enoxaparin; if fondaparinux unavailable, consider enoxaparin.",
+    "maintenance_antithrombotic_therapy_after_revascularization": "Post-PCI, long-term anticoagulation is not necessary for most patients without an indication for oral anticoagulation (OAC). Post-interventional antiplatelet treatment (DAPT) is mandatory in ACS patients. Default DAPT: a potent P2Y12 receptor inhibitor (prasugrel or ticagrelor) plus aspirin, generally recommended for 12 months regardless of stent type unless contraindicated. In specific scenarios, DAPT duration can be shortened (<12 months), extended (>12 months), or modified (switching/de-escalation). Recommended default antithrombotic options for ACS patients without indication for OAC are referenced in Figure 10.",
+    "key_trials_and_notes": "OASIS-5 trial favored fondaparinux compared with enoxaparin in the studied population; subsequent concern about catheter thrombus led to recommendation for UFH bolus if proceeding to PCI after fondaparinux."
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "Acute coronary syndromes (ACS)",
+        "Post-PCI antiplatelet therapy/Dual antiplatelet therapy (DAPT)"
+      ],
+      "Occurrences": 1,
+      "context": "\"Following PCI, a default DAPT regimen consisting of a potent P2Y12 receptor inhibitor (prasugrel or ticagrelor) and aspirin is generally recommended for 12 months.\""
+    }
+  ]
+}

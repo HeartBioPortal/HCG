@@ -1,0 +1,67 @@
+{
+  "content": {
+    "Additional diagnostic tests": [
+      {
+        "test": "Coronary angiography or CTCA",
+        "notes": "Excludes significant CAD or ACS in clinically suspected myocarditis.",
+        "sensitivity": "High",
+        "specificity": "High"
+      },
+      {
+        "test": "Endomyocardial biopsy",
+        "notes": "For diagnosis and indication to specific treatment (see Table 32).",
+        "sensitivity": "Intermediate",
+        "specificity": "High"
+      },
+      {
+        "test": "Cardiac PET",
+        "notes": "May be useful in patients who cannot undergo CMR or with suspected systemic autoimmune disease or cardiac sarcoidosis.",
+        "sensitivity": "Low",
+        "specificity": "Low"
+      },
+      {
+        "test": "Additional laboratory tests (overview)",
+        "notes": [
+          "Skeletal muscle enzymes, liver and renal function, natriuretic peptides, thyroid function tests, iron status, markers of systemic autoimmune disease.",
+          "CRP elevated in 80–90% patients.",
+          "PCR testing of common cardiotrophic viruses: can detect systemic infection but does not prove cardiac infection and cannot substitute viral genome analysis on EMB samples.",
+          "Circulating IgG antibodies to cardiotrophic viruses are common in the absence of viral myocarditis; very limited diagnostic usefulness.",
+          "Specific test for SARS-CoV-2, Borrelia, HIV or CMV if clinical suspicion."
+        ],
+        "sensitivity": {
+          "general_tests": "Low",
+          "CRP": "Intermediate",
+          "viral_IgG": "Low"
+        },
+        "specificity": {
+          "general_tests": "Low",
+          "CRP": "Low",
+          "viral_IgG": "Low"
+        }
+      }
+    ],
+    "Definition of suspected acute myocarditis": "Clinical presentation + ≥1 mandatory diagnostic test being positive (by preference CMR) in the absence of significant coronary artery, valvular or congenital heart disease, or other causes.",
+    "Clinical presentation": {
+      "description": "Acute/new onset chest pain, dyspnoea, signs of left and/or right heart failure, and/or unexplained arrhythmias or aborted sudden death.",
+      "sensitivity": "Low",
+      "specificity": "Low"
+    },
+    "Mandatory diagnostic tests": {
+      "ECG": {
+        "description": "New and dynamic ST-T abnormalities, including pseudo-infarct ST segment elevation, atrial or ventricular arrhythmias, AV blocks, QRS abnormalities.",
+        "sensitivity": "High",
+        "specificity": "Low"
+      }
+    }
+  },
+  "genes": [
+    {
+      "Gene": "CRP",
+      "Associated Conditions": [
+        "Acute myocarditis (marker of systemic inflammation)"
+      ],
+      "Occurrences": 1,
+      "context": "Listed under additional laboratory tests: 'CRP elevated in 80–90% patients.'"
+    }
+  ]
+}

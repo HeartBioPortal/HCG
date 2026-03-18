@@ -1,0 +1,62 @@
+{
+  "content": {
+    "title": "Recommendations (excerpt) and Section 8: Management of acute coronary syndrome during hospitalization",
+    "recommendations_table": [
+      {
+        "recommendation": "Immediate coronary angiography and PCI of the IRA (if indicated) is recommended in patients with CS complicating ACS.",
+        "class": "I",
+        "level": "B"
+      },
+      {
+        "recommendation": "Emergency CABG is recommended for ACS-related CS if PCI of the IRA is not feasible/unsuccessful.",
+        "class": "I",
+        "level": "B"
+      },
+      {
+        "recommendation": "In cases of haemodynamic instability, emergency surgical/catheter-based repair of mechanical complications of ACS is recommended, based on Heart Team discussion.",
+        "class": "I",
+        "level": "C"
+      },
+      {
+        "recommendation": "Fibrinolysis should be considered in STEMI patients presenting with CS if a PPCI strategy is not available within 120 min from the time of STEMI diagnosis and mechanical complications have been ruled out.",
+        "class": "IIa",
+        "level": "C"
+      },
+      {
+        "recommendation": "In patients with ACS and severe/refractory CS, short-term mechanical circulatory support may be considered.",
+        "class": "IIb",
+        "level": "C"
+      },
+      {
+        "recommendation": "The routine use of an IABP in ACS patients with CS and without mechanical complications is not recommended.",
+        "class": "III",
+        "level": "B"
+      }
+    ],
+    "abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "CABG": "coronary artery bypass grafting",
+      "CS": "cardiogenic shock",
+      "IABP": "intra-aortic balloon pump",
+      "IRA": "infarct-related artery",
+      "PPCI": "primary percutaneous coronary intervention",
+      "STEMI": "ST-elevation myocardial infarction"
+    },
+    "section_8": {
+      "heading": "8. Management of acute coronary syndrome during hospitalization",
+      "subsection_8_1_heading": "8.1. Coronary care unit/intensive cardiac care unit",
+      "recommendations_summary": "Following reperfusion, admit high-risk ACS patients (including all STEMI patients) to a coronary care unit (CCU) or intensive cardiac care unit (ICCU).",
+      "acute_risk_modifiers_list": [
+        "ongoing myocardial ischaemia (e.g. failed reperfusion)",
+        "acute heart failure and/or hypoperfusion",
+        "cardiogenic shock (CS)",
+        "cardiac arrest with coma",
+        "malignant (life-threatening) cardiac arrhythmias",
+        "high-degree atrioventricular block",
+        "acute renal failure (with oliguria)"
+      ],
+      "icu_requirements": "All ICCUs must have appropriate diagnostic facilities to guide pharmacological and invasive treatment. Staff should be thoroughly familiar with management of arrhythmias, heart failure, mechanical circulatory support, and invasive and non-invasive haemodynamic monitoring."
+    }
+  },
+  "genes": []
+}

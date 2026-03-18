@@ -1,53 +1,13 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism - Reviewers (declarations of interest)",
-    "organization": "European Society of Cardiology (ESC) in collaboration with European Respiratory Society (ERS)",
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year (calls conducted during period of development up to and including 2018).",
-    "date_on_page": "21/08/2019",
-    "page": "27/62",
-    "experts": [
-      {
-        "name": "Goldhaber Samuel Z",
-        "relationship_type": "2 - Other Positions of Influence",
-        "details": [
-          "2.2 - Employment in healthcare industry (including part time) during the year for which you are declaring: Brigham and Women's Hospital (2018).",
-          "2.3 - Membership or affiliation in political or advocacy groups working in the field of cardiology: American Heart Association (2018)."
-        ],
-        "context": "Declared employment and membership/affiliation positions in 2018 related to healthcare and cardiology advocacy."
-      },
-      {
-        "name": "Gopalan Deepa",
-        "relationship_type": "1 - Financial Declaration",
-        "details": [
-          "Direct personal payments (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.) from healthcare industry.",
-          "Bayer AG: Imaging of Pulmonary Hypertension (2018)."
-        ],
-        "context": "Declared direct personal payments and an association with Bayer AG for imaging of pulmonary hypertension in 2018."
-      },
-      {
-        "name": "Habib Gilbert",
-        "relationship_type": "1 - Financial Declaration",
-        "details": [
-          "Direct personal payments (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.) from healthcare industry.",
-          "Pfizer: Amyloidosis (2018).",
-          "Genzyme: Fabry disease (2018).",
-          "Abbott: Mitraclip (2018).",
-          "Actelion: Pulmonary hypertension (2018)."
-        ],
-        "context": "Declared multiple industry relationships in 2018 including disease- and device-related consultancies/payments (amyloidosis, Fabry disease, Mitraclip, pulmonary hypertension)."
-      },
-      {
-        "name": "Halvorsen Sigrun",
-        "relationship_type": "1 - Financial Declaration",
-        "details": [
-          "Direct personal payments (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.) from healthcare industry.",
-          "Bristol Myers Squibb: Antithrombotic treatment (2018).",
-          "AstraZeneca: Anti-thrombotic treatment (2018).",
-          "Boehringer-Ingelheim: Anti-thrombotic treatment (2018)."
-        ],
-        "context": "Declared industry relationships in 2018 related to antithrombotic treatments with multiple pharmaceutical companies."
-      }
-    ]
+    "summary": "Updates to guideline sections on haemodynamic/respiratory support, management algorithms, and anticoagulation for pulmonary embolism (PE).",
+    "high-risk PE": "Thoroughly revised section on haemodynamic and respiratory support for high-risk PE (Section 6.1). A dedicated management algorithm is proposed for high-risk PE (Supplementary Figure 1).",
+    "anticoagulation recommendations": "NOACs are recommended as the first choice for anticoagulation treatment in a patient eligible for NOACs; VKAs are an alternative to NOACs.",
+    "risk-adjusted management": "The risk-adjusted management algorithm (Figure 6) was revised to take into consideration clinical PE severity, aggravating conditions/comorbidity, and the presence of RV dysfunction.",
+    "chronic treatment after the first 3 months": "Risk factors for VTE recurrence have been classified according to high, intermediate, or low recurrence risk (Table 11). Potential indications for extended anticoagulation are discussed, including presence of a minor transient or reversible risk factor for the index PE, any persisting risk factor, or no identifiable risk factor. Terminology such as 'provoked vs. unprovoked' PE/VTE is no longer supported by the Guidelines as potentially misleading and not helpful for decision-making regarding duration of anticoagulation. VTE recurrence scores are presented and discussed in parallel with bleeding scores for patients on anticoagulation treatment (Supplementary Tables 13 and 14). A reduced dose of apixaban or rivaroxaban for extended anticoagulation should be considered after the first 6 months of treatment.",
+    "PE in cancer": "Edoxaban or rivaroxaban should be considered as an alternative to LMWH, with caution for patients with gastrointestinal cancer due to increased bleeding risk with NOACs.",
+    "PE in pregnancy": "A dedicated diagnostic algorithm is proposed for suspected PE in pregnancy (Figure 7). Updated information is provided on radiation absorption related to procedures used for diagnosing PE in pregnancy (Table 12).",
+    "long-term sequelae": "An integrated model of patient care after PE is proposed to ensure optimal transition from hospital to community care."
   },
   "genes": []
 }

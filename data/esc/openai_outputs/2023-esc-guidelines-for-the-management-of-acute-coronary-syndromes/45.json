@@ -1,90 +1,41 @@
 {
   "content": {
-    "page_title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "disclaimer": "For ESC Guidelines: The report below lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2022.",
-    "experts": [
-      {
-        "name": "Gorog Diana Adrienne",
-        "entries": [
-          {
-            "year": 2022,
-            "declarations": [
-              "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-              "Astra Zeneca: Chronic Heart Failure",
-              "Research funding from healthcare industry under your direct/personal responsibility (to department or institution).",
-              "Bayer AG: Investigator initiated study, Principal investigator",
-              "Medtronic: PI for study, PI"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "GROS U Aurel",
-        "entries": [
-          {
-            "year": 2021,
-            "declarations": [
-              "Nothing to be declared"
-            ]
-          },
-          {
-            "year": 2022,
-            "declarations": [
-              "Nothing to be declared"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Gudmundsdottir Ingibjorg Jona",
-        "entries": [
-          {
-            "year": 2021,
-            "declarations": [
-              "Nothing to be declared"
-            ]
-          },
-          {
-            "year": 2022,
-            "declarations": [
-              "Travel and meeting support from healthcare industry, independent of the above activities.",
-              "Abbott: Interventional Cardiology",
-              "Medtronic: Valvular Heart Disease"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Halvorsen Sigrun",
-        "entries": [
-          {
-            "year": 2021,
-            "declarations": [
-              "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-              "Boehringer-Ingelheim: anticoagulation - speaker fee",
-              "Bristol Myers Squibb: Anticoagulation - speaker fee",
-              "Novartis: heart failure - speaker fee"
-            ]
-          },
-          {
-            "year": 2022,
-            "declarations": [
-              "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-              "Bristol Myers Squibb: Atrial Fibrillation (AF)",
-              "Astra Zeneca: Chronic Heart Failure",
-              "Novartis: Risk Factors and Prevention",
-              "Amarin: Risk Factors and Prevention",
-              "Payment from healthcare industry to your department or institution or any other body for your personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-              "Pfizer: Cardiovascular Disease in Special Populations"
-            ]
-          }
-        ]
-      }
+    "figure_title": "The ACS spectrum",
+    "clinical_presentation": [
+      "Oligo/asymptomatic",
+      "Increasing chest pain/symptoms",
+      "Persistent chest pain/symptoms",
+      "Cardiogenic shock/acute heart failure",
+      "Cardiac arrest"
     ],
-    "footer": {
-      "date": "16/05/2023",
-      "page": "21/57"
-    }
+    "ECG_findings": [
+      "Normal",
+      "ST-segment depression",
+      "ST-segment elevation",
+      "Malignant arrhythmia (e.g., ventricular fibrillation)"
+    ],
+    "working_diagnosis_by_ECG": {
+      "NSTE-ACS": "Associated with normal ECG or ST-segment depression",
+      "STEMI": "Associated with ST-segment elevation"
+    },
+    "hs-cTn_levels": {
+      "Non-elevated": "Typical for NSTE-ACS working diagnosis when troponin not elevated",
+      "Rise_and_fall": "Typical for STEMI (rise and fall pattern of high-sensitivity cardiac troponin)"
+    },
+    "final_diagnosis_mapping": {
+      "Non-elevated troponin with non-specific ECG": "Unstable angina",
+      "Elevated troponin without ST-elevation": "NSTEMI",
+      "Elevated troponin with ST-elevation": "STEMI"
+    },
+    "abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "ECG": "electrocardiogram",
+      "hs-cTn": "high-sensitivity cardiac troponin",
+      "NSTE-ACS": "non-ST-elevation acute coronary syndrome",
+      "NSTEMI": "non-ST-elevation myocardial infarction",
+      "STEMI": "ST-elevation myocardial infarction"
+    },
+    "summary": "Patients with suspected ACS are initially classified by ECG at presentation (normal, ST-depression, ST-elevation, malignant arrhythmia) to guide immediate management. After troponin results are available, patients are further classified by presence/absence and pattern (rise and fall) of high-sensitivity cardiac troponin to distinguish unstable angina, NSTEMI, and STEMI. These ECG and troponin features are used for triage and initial management and help guide subsequent common pathway treatment for ACS."
   },
   "genes": []
 }

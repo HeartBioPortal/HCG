@@ -1,0 +1,36 @@
+{
+  "content": {
+    "page_title": "16. Gaps in evidence",
+    "table": "Table 8: Gaps in evidence",
+    "sections": [
+      {
+        "section_number": 3,
+        "heading": "Triage and diagnosis",
+        "gaps_in_evidence": [
+          "Observe zone: how can we improve the guidance for and management of patients assigned to the observe zone of the 0 h/1 h and 0 h/2 h ESC algorithms to improve their poor outcome?",
+          "No testing rule: what is the added value of biomarkers other than hs-cTn for rapid rule-out of NSTE-ACS compared with usual care?",
+          "There is insufficient evidence to set sex-specific thresholds for troponin levels.",
+          "The role of non-invasive anatomy (e.g. CCTA) or functional imaging (e.g. stress testing strategies) for low-risk NSTE-ACS patients should be further evaluated."
+        ],
+        "research_recommendations": [
+          "Observe zone: prospectively evaluate changes in the 0 h/1 h and 0 h/2 h ESC algorithms to improve the outcomes of patients assigned to the observe zone.",
+          "No testing rule: randomization of patients to strategies with and without new biomarkers to evaluate whether their use improves clinical outcomes.",
+          "Prospectively evaluate the impact of using sex-specific cut-offs on the diagnosis, treatment, and outcomes of patients presenting to the ED with suspected ACS.",
+          "Adequately powered RCTs testing whether non-invasive imaging improves clinical outcomes in patients presenting with NSTE-ACS."
+        ]
+      },
+      {
+        "section_number": 4,
+        "heading": "Initial measures for patients presenting with suspected [ACS]",
+        "gaps_in_evidence": [
+          "The impact of early i.v. beta-blockers on clinical outcomes in [patients presenting with suspected ACS]"
+        ],
+        "research_recommendations": [
+          "Patients randomized to i.v. beta-blockers (ideally metoprolol) or [comparator]"
+        ]
+      }
+    ],
+    "notes": "Text transcribed from an image of a clinical guideline table. Bracketed items indicate truncated or inferred context from the visible portion of the page."
+  },
+  "genes": []
+}

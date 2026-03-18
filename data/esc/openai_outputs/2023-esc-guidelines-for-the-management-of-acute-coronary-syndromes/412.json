@@ -1,0 +1,67 @@
+{
+  "content": {
+    "Beta-blockers": {
+      "recommendation": "Beta-blockers are recommended in ACS patients with LVEF ≤40% regardless of HF symptoms.",
+      "class": "I",
+      "level": "A"
+    },
+    "RAAS system inhibitors": {
+      "Angiotensin-converting enzyme inhibitors": {
+        "recommendation": "Angiotensin-converting enzyme inhibitors are recommended in ACS patients with HF symptoms, LVEF ≤40%, diabetes, hypertension, and/or CKD.",
+        "class": "I",
+        "level": "A"
+      },
+      "Mineralocorticoid receptor antagonists": {
+        "recommendation": "Mineralocorticoid receptor antagonists are recommended in ACS patients with an LVEF ≤40% and HF or diabetes.",
+        "class": "I",
+        "level": "A"
+      }
+    },
+    "Imaging": {
+      "recommendation": "In patients with pre-discharge LVEF ≤40%, repeat evaluation of the LVEF 6–12 weeks after an ACS (and after complete revascularization and the institution of optimal medical therapy) is recommended to assess the potential need for sudden cardiac death primary prevention ICD implantation.",
+      "class": "I",
+      "level": "C",
+      "timing": "6–12 weeks after ACS"
+    },
+    "Vaccination": {
+      "recommendation": "Influenza vaccination is recommended for all ACS patients.",
+      "class": "I",
+      "level": "A"
+    },
+    "Recommendations for patient perspectives in acute coronary syndrome care": {
+      "Patient-centred care": {
+        "recommendation": "Patient-centred care is recommended by assessing and adhering to individual patient preferences, needs and beliefs, ensuring that patient values are used to inform all clinical decisions.",
+        "class": "I",
+        "level": "B"
+      },
+      "Include patients in decision-making": {
+        "recommendation": "It is recommended to include ACS patients in decision-making (as much as their condition allows) and to inform them about the risk of adverse events, radiation exposure, and alternative options. Decision aids should be used to facilitate the discussion.",
+        "class": "I",
+        "level": "B"
+      },
+      "Assess symptoms using patient-descriptive methods": {
+        "recommendation": "It is recommended to assess symptoms using methods that help patients to describe their experience.",
+        "class": "I",
+        "level": "C"
+      }
+    },
+    "Abbreviations (selected from page footer)": {
+      "ACS": "acute coronary syndrome",
+      "CABG": "coronary artery bypass grafting",
+      "CKD": "chronic kidney disease",
+      "CMR": "cardiac magnetic resonance",
+      "DAPT": "dual antiplatelet therapy",
+      "ECG": "electrocardiogram",
+      "ESC": "European Society of Cardiology",
+      "HF": "heart failure",
+      "hs-cTn": "high-sensitivity cardiac troponin",
+      "ICU": "intensive care unit",
+      "IRA": "infarct-related artery",
+      "LVEF": "left ventricular ejection fraction",
+      "LDL-C": "low-density lipoprotein cholesterol",
+      "MINOCA": "myocardial infarction with non-obstructive coronary arteries",
+      "CHA2DS2-VASc": "congestive heart failure, hypertension, age ≥75 years, diabetes mellitus, stroke or transient ischaemic attack, vascular disease (risk score)"
+    }
+  },
+  "genes": []
+}

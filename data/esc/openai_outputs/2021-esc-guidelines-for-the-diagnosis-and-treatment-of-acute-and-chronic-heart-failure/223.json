@@ -1,0 +1,93 @@
+{
+  "content": {
+    "title": "Recommendations — long-term mechanical circulatory support (MCS), heart transplantation, and related therapies",
+    "table_header": {
+      "columns": [
+        "Recommendations",
+        "Class",
+        "Level"
+      ]
+    },
+    "recommendations": [
+      {
+        "text": "Patients being considered for long-term MCS must have good compliance, appropriate capacity for device handling and psychosocial support.",
+        "Class": "I",
+        "Level": "C",
+        "references": [
+          "414",
+          "415",
+          "416"
+        ]
+      },
+      {
+        "text": "Heart transplantation is recommended for patients with advanced HF, refractory to medical/device therapy and who do not have absolute contraindications.",
+        "Class": "I",
+        "Level": "C",
+        "references": []
+      },
+      {
+        "text": "Long-term MCS should be considered in patients with advanced HFrEF despite optimal medical and device therapy, not eligible for heart transplantation or other surgical options, and without severe right ventricular dysfunction, to reduce the risk of death and improve symptoms.",
+        "Class": "IIa",
+        "Level": "A",
+        "references": [
+          "378",
+          "396",
+          "397",
+          "401",
+          "402",
+          "404",
+          "417"
+        ]
+      },
+      {
+        "text": "Long-term MCS should be considered in patients with advanced HFrEF refractory to optimal medical and device therapy as a bridge to cardiac transplantation in order to improve symptoms, reduce the risk of HF hospitalization and the risk of premature death.",
+        "Class": "IIa",
+        "Level": "B",
+        "references": [
+          "398",
+          "399",
+          "400",
+          "402",
+          "404"
+        ]
+      },
+      {
+        "text": "Renal replacement therapy should be considered in patients with refractory volume overload and end-stage kidney failure.",
+        "Class": "IIa",
+        "Level": "C",
+        "references": []
+      },
+      {
+        "text": "Continuous inotropes and/or vasopressors may be considered in patients with low cardiac output and evidence of organ hypoperfusion as bridge to MCS or heart transplantation.",
+        "Class": "IIb",
+        "Level": "C",
+        "references": [
+          "389",
+          "390"
+        ]
+      },
+      {
+        "text": "Ultrafiltration may be considered in refractory volume overload unresponsive to diuretic treatment.",
+        "Class": "IIb",
+        "Level": "C",
+        "references": [
+          "391",
+          "392"
+        ]
+      }
+    ],
+    "abbreviations_and_footnotes": {
+      "HF": "heart failure",
+      "HFrEF": "heart failure with reduced ejection fraction",
+      "MCS": "mechanical circulatory support",
+      "a": "Class of recommendation",
+      "b": "Level of evidence"
+    },
+    "section_10_2_4_summary": "Symptom control and end-of-life care: Disease trajectory in advanced HF is variable but generally shows gradual decline with episodes of acute deterioration that can lead to sudden death or death from progressive HF. Communication about disease trajectory and anticipatory planning should begin when a patient is diagnosed with advanced HF. Indications for and components of palliative care are referenced (Tables 18 and 19).",
+    "references_in_paragraph": [
+      "312",
+      "418"
+    ]
+  },
+  "genes": []
+}

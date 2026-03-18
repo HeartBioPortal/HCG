@@ -1,0 +1,35 @@
+{
+  "content": {
+    "Loop diuretics": {
+      "description": "Diuretics are recommended in patients with HFrEF with signs and/or symptoms of congestion to alleviate HF symptoms, improve exercise capacity, and reduce HF hospitalizations.",
+      "Class": "I",
+      "Level": "C"
+    },
+    "ARB": {
+      "description": "An ARB is recommended to reduce the risk of HF hospitalization and CV death in symptomatic patients unable to tolerate an ACE-I or ARNI (patients should also receive a beta-blocker and an MRA).",
+      "Class": "I",
+      "Level": "B"
+    },
+    "If-channel inhibitor (Ivabradine) - scenario 1": {
+      "description": "Ivabradine should be considered in symptomatic patients with LVEF ≤35%, in SR and a resting heart rate ≥70 b.p.m. despite treatment with an evidence-based dose of beta-blocker (or maximum tolerated dose below that), ACE-I/(or ARNI), and an MRA, to reduce the risk of HF hospitalization and CV death.",
+      "Class": "IIa",
+      "Level": "B"
+    },
+    "If-channel inhibitor (Ivabradine) - scenario 2": {
+      "description": "Ivabradine should be considered in symptomatic patients with LVEF ≤35%, in SR and a resting heart rate ≥70 b.p.m. who are unable to tolerate or have contraindications for a beta-blocker to reduce the risk of HF hospitalization and CV death. Patients should also receive an ACE-I (or ARNI) and an MRA.",
+      "Class": "IIa",
+      "Level": "C"
+    },
+    "Soluble guanylate cyclase receptor stimulator (Vericiguat)": {
+      "description": "Vericiguat may be considered in patients in NYHA class II–IV who have had worsening HF despite treatment with an ACE-I (or ARNI), a beta-blocker and an MRA to reduce the risk of CV mortality or HF hospitalization.",
+      "Class": "IIb",
+      "Level": "B"
+    },
+    "Hydralazine and isosorbide dinitrate": {
+      "description": "Hydralazine and isosorbide dinitrate should be considered in self-identified black patients with LVEF ≤35% or with an LVEF <45% combined with a dilated left ventricle in NYHA class III–IV despite treatment with an ACE-I (or ARNI), a beta-blocker and an MRA to reduce the risk of HF hospitalization and death.",
+      "Class": "IIa",
+      "Level": "B"
+    }
+  },
+  "genes": []
+}

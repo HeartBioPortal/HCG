@@ -1,0 +1,34 @@
+{
+  "content": {
+    "figure": "Figure 4",
+    "title": "Algorithm for the treatment of patients with advanced heart failure",
+    "summary": "Flowchart guiding management of advanced heart failure based on INTERMACS profile, use of short-term mechanical circulatory support (MCS), assessment of neurological and end-organ recovery, evaluation of contraindications to heart transplantation (HT), consideration of LVAD as bridge-to-candidacy (LVAD-BTC) or destination therapy (LVAD-DT), and pathways for withdrawal, weaning, listing for HT or deferred advanced HF therapies.",
+    "key_nodes": [
+      "INTERMACS levels (1, 2, 3-4, >4 'Stable ambulatory') guide initial pathway",
+      "Short-term MCS (BTD/BTR/BTB/BTT) indicated (Class IIa) for certain INTERMACS profiles",
+      "Assessment branches: persistence of severe brain damage/irreversible end-organ damage; cardiac, neurological and end-organ recovered; neurological and end-organ recovered but no cardiac recovery",
+      "If contraindications to HT present — determine whether potentially reversible; if reversible consider LVAD-BTC (Class IIa)",
+      "If contraindications reversed — consider listing for HT or de-listing with close follow-up if meaningful improvement (Class I)",
+      "If high surgical/HT risk or contraindications persist — consider advanced HF therapies or LVAD-DT (Class IIa), or withdrawal/weaning of MCS support"
+    ],
+    "classes_and_colours": {
+      "Class I": "Green (for list for HT or de-listing with very close follow-up in case of meaningful improvement)",
+      "Class IIa": "Yellow (short-term MCS, LVAD-BTC, LVAD-DT are shown as Class IIa in algorithm)"
+    },
+    "abbreviations_extracted": {
+      "INTERMACS": "Interagency Registry for Mechanically Assisted Circulatory Support",
+      "MCS": "mechanical circulatory support",
+      "LVAD": "left ventricular assist device",
+      "LVAD-BTC": "LVAD as bridge to candidacy",
+      "LVAD-DT": "LVAD as destination therapy",
+      "HT": "heart transplantation",
+      "HCM": "hypertrophic cardiomyopathy",
+      "CA": "cardiac amyloidosis",
+      "ESC/HFA": "European Society of Cardiology / Heart Failure Association"
+    },
+    "applicability_and_exceptions": "Algorithm applies to all patients with advanced heart failure defined according to ESC/HFA criteria, with exceptions including HCM, CA, arrhythmic storm, adult congenital heart disease, and refractory angina.",
+    "prognostic_notes": "Despite many prognostic parameters, predicting outcomes remains difficult; early referral to advanced HF centres may allow MCS and HT before end-organ damage develops.",
+    "selection_criteria_examples": "Examples of criteria cited include recurrent hospitalization, progressive end-organ failure, refractory congestion, inability to perform cardiopulmonary exercise test or peak VO2 <12 mL/min/kg or <50% of expected value."
+  },
+  "genes": []
+}

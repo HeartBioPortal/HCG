@@ -1,35 +1,12 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "organization": "European Society of Cardiology (ESC)",
-    "expert": "Ruschitzka Frank",
-    "document_date": "12/08/2021",
-    "declarations_2019": [
-      "Medtronic NL: MicraTM, Registry",
-      "Amgen: RNA Swiss Lipid Award",
-      "Swiss national foundation: Scylla and Charybdis",
-      "Aarhus Univ. DK: The_FAVOR_3",
-      "Guidant Europe BE: UNTOUCHED",
-      "Novartis: VASCEND"
-    ],
-    "financial_declaration_2020_payments": [
-      "Amgen: Advisory Board",
-      "Stiftung Pfizer Forschungspreis: Consulting service",
-      "AstraZeneca: Grant to the University of Zurich: Postgraduate Course in Heart Failure",
-      "Bayer: Grant to the University of Zurich: Postgraduate Course in Heart Failure",
-      "Novartis: Grant to the University of Zurich: Postgraduate Course in Heart Failure",
-      "Servier: Grant to the University of Zurich: Postgraduate Course in Heart Failure",
-      "Abbott/St. Jude Medical: Grant to the University of Zurich: Postgraduate Course in Heart Failure",
-      "ESC: Secretarial and administrative support of the HFA Past‑President 2020",
-      "Boehringer Ingelheim: Speaker Fee",
-      "Trama Solutions SL: Speaker Fee",
-      "IMC / AstraZeneca: Speaker Fee, Advisory Board"
-    ],
-    "research_funding_2020": [
-      "Amgen: Aging Heart",
-      "Bayer: Aging Heart"
-    ],
-    "notes": "Declarations list payments, grants, advisory roles and research funding reported to ESC for the years up to and including 2020."
+    "disclaimer": "Health professionals are encouraged to take the ESC Guidelines fully into account when exercising their clinical judgment. The ESC Guidelines do not override the individual responsibility of health professionals to make appropriate and accurate decisions in consideration of each patient's health condition and in consultation with the patient or caregiver. Health professionals must verify rules and regulations applicable in each country to drugs and devices at the time of prescription.",
+    "introduction": "Aim is to help health professionals manage people with heart failure (HF) according to best available evidence, providing practical, evidence-based recommendations. The 2016 ESC HF Guidelines format was revised to make each HF phenotype stand-alone for diagnosis and management. Therapy recommendations include treatment effect with class and level of evidence; for HFrEF tabular recommendations focus on mortality and morbidity outcomes. Diagnostic indications and suggested investigations are described; many diagnostic tests lack randomized controlled trial evidence and are often level C.",
+    "guideline_scope": "Focus is on diagnosis and treatment of HF, not prevention. Management of cardiovascular (CV) risk and many CV diseases (systemic hypertension, diabetes mellitus, coronary artery disease, myocardial infarction (MI), atrial fibrillation (AF), asymptomatic left ventricular (LV) systolic dysfunction) will reduce the risk of developing HF and are addressed elsewhere in ESC Guidelines (see section 9.1).",
+    "development_and_collaboration": "Guideline produced by a Task Force (including two patient representatives), reviewers, and the ESC CPG Committee. It represents a consensus/majority opinion of consulted experts.",
+    "what_is_new_section": "Lists new concepts compared with the 2016 version.",
+    "new_concepts": "Change of terminology: 'heart failure with mid-range ejection fraction' renamed to 'heart failure with mildly reduced ejection fraction' (HFmrEF / HFm rEF).",
+    "references_and_notes": "Mentions revised format from 2016 ESC HF Guidelines and refers to web appendices for detailed trial summaries and to section 9.1 of the current guideline for related topics."
   },
   "genes": []
 }

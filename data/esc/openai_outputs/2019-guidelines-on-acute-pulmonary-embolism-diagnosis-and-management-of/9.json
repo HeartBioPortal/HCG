@@ -1,105 +1,34 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism - Task Force Members (Declarations of Interest)",
-    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted up to and including 2018).",
-    "date_on_page": "21/08/2019",
-    "page_number": "9/62",
-    "members": [
-      {
-        "name": "Mazzolai Lucia",
-        "declaration_section": "1- Financial Declaration",
-        "category": "B - Payment to your department or institution or any other body for your personal services from healthcare industry",
-        "disclosures": [
-          {
-            "company": "Pfizer",
-            "relationship": "anticoagulants",
-            "years": "2017"
-          },
-          {
-            "company": "Sanofi Aventis",
-            "relationship": "anticoagulants",
-            "years": "2017"
-          },
-          {
-            "company": "Bayer",
-            "relationship": "anticoagulants",
-            "years": "2017-2018"
-          },
-          {
-            "company": "Amgen Inc",
-            "relationship": "lipid lowering",
-            "years": "2018"
-          }
-        ]
-      },
-      {
-        "name": "Meneveau Nicolas",
-        "declaration_section": "1- Financial Declaration",
-        "categories": [
-          {
-            "category": "A - Direct personal payment (personal or household) from healthcare industry",
-            "disclosures": [
-              {
-                "company": "BMS/Pfizer",
-                "relationship": "Apixaban",
-                "years": "2017-2018"
-              },
-              {
-                "company": "saint Jude medical",
-                "relationship": "Consultant (OCT, FFR)",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Boehringer-Ingelheim",
-                "relationship": "Dabigatran",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Terumo Inc",
-                "relationship": "OFDI",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Bayer Healthcare",
-                "relationship": "Rivaroxaban",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Edwards Life Sciences",
-                "relationship": "TAVI",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Astra Zeneca",
-                "relationship": "ticagrelor",
-                "years": "2017-2018"
-              }
-            ]
-          },
-          {
-            "category": "D - Research funding under your direct/personal responsibility (to department or institution) from healthcare industry",
-            "disclosures": [
-              {
-                "company": "Boston Scientific",
-                "relationship": "DES",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Abbott Vascular",
-                "relationship": "DES",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Medtronic",
-                "relationship": "DES and TAVI",
-                "years": "2017-2018"
-              }
-            ]
-          }
-        ]
-      }
+    "page_title": "Table of contents and Recommendations (pulmonary embolism guideline)",
+    "sections": [
+      "10.2 Chronic thromboembolic pulmonary hypertension — p583",
+      "10.2.1 Epidemiology, pathophysiology, and natural history — p583",
+      "10.2.2 Clinical presentation and diagnosis — p584",
+      "10.2.3 Surgical treatment — p584",
+      "10.2.4 Balloon pulmonary angioplasty — p585",
+      "10.2.5 Pharmacological treatment — p585",
+      "10.3 Strategies for patient follow-up after pulmonary embolism — p586",
+      "11 Non-thrombotic pulmonary embolism — p587",
+      "12 Key messages — p587",
+      "13 Gaps in the evidence — p588",
+      "14 What to do and what not to do: messages from the Guidelines — p589",
+      "15 Supplementary data — p590",
+      "16 Appendix — p590",
+      "17 References — p591"
     ],
-    "visual_footer_notes": "ESC logo present; page contains boxed table layout of disclosures."
+    "recommendations_heading": "Recommendations",
+    "recommendations": [
+      "4.11 Recommendations for diagnosis — p559",
+      "5.7 Recommendations for prognostic assessment — p564",
+      "6.6 Recommendations for acute-phase treatment of high-risk pulmonary embolism — p568",
+      "6.7 Recommendations for acute-phase treatment of intermediate- or low-risk pulmonary embolism — p569",
+      "6.8 Recommendations for multidisciplinary pulmonary embolism teams — p569",
+      "6.9 Recommendations for inferior vena cava filters — p569",
+      "6.10 Recommendations for early discharge and home treatment — p569",
+      "8.4 Recommendations for the regimen and the duration of anticoagulation after pulmonary embolism in patients without cancer — p577"
+    ],
+    "notes": "Page appears to be a table of contents and recommendation index for pulmonary embolism guidelines. No human gene names were detected on this page."
   },
   "genes": []
 }

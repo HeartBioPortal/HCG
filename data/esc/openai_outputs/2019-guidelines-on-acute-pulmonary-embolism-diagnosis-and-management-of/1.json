@@ -1,94 +1,73 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism - Declarations of Interest (excerpt)",
-    "header_note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration up to and including 2018.",
-    "page_date": "21/08/2019",
-    "members": [
+    "document_type": "Journal Article",
+    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism",
+    "full_title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC)",
+    "year": 2019,
+    "collaboration": "European Respiratory Society (ERS) and European Society of Cardiology (ESC)",
+    "focus": "Diagnosis and management of acute pulmonary embolism",
+    "authors": [
       {
-        "name": "Becattini Cecilia",
-        "declaration_type": "Financial Declaration",
-        "items": [
-          {
-            "company": "Bristol Myers Squibb",
-            "product": "apixaban",
-            "years": "2017-2018"
-          },
-          {
-            "company": "Daiichi Sankyo",
-            "product": "edoxaban",
-            "years": "2017-2018"
-          },
-          {
-            "company": "Boehringer-Ingelheim",
-            "product": "dabigatran",
-            "years": "2018"
-          },
-          {
-            "company": "Bayer Healthcare",
-            "product": "rivaroxaban, aspirin",
-            "years": "2018"
-          }
+        "name": "Stavros V Konstantinides",
+        "role": "Chairperson",
+        "countries": [
+          "Germany",
+          "Greece"
+        ],
+        "affiliations": [
+          "Center for Thrombosis and Hemostasis, Johannes Gutenberg University Mainz",
+          "Department of Cardiology, Democritus University of Thrace"
+        ],
+        "contacts": {
+          "address": "Center for Thrombosis and Hemostasis, Johannes Gutenberg University Mainz, Building 403, Langenbeckstr. 1, 55131 Mainz, Germany",
+          "telephone": "+49 613 117 6255",
+          "fax": "+49 613 117 3456",
+          "emails": [
+            "stavros.konstantinides@unimedizin-mainz.de",
+            "skonst@med.duth.gr"
+          ]
+        },
+        "search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
         ]
       },
       {
-        "name": "Bueno Hector",
-        "declaration_type": "Financial Declaration",
-        "items": [
-          {
-            "company": "Sanofi Aventis",
-            "product": "PCSK9 inhibitors",
-            "years": "2017"
-          },
-          {
-            "company": "Novartis",
-            "product": "Serelaxin, ACZ885, AHF Academy",
-            "years": "2017"
-          },
-          {
-            "company": "Ferrer Internacional",
-            "product": "Trinomia (polypill)",
-            "years": "2017"
-          },
-          {
-            "company": "Pfizer",
-            "product": "Apixaban",
-            "years": "2017-2018"
-          },
-          {
-            "company": "Bristol Myers Squibb",
-            "product": "Apixaban",
-            "years": "2017-2018"
-          },
-          {
-            "company": "Bayer",
-            "product": "Aspirin, rivaroxaban",
-            "years": "2017-2018"
-          },
-          {
-            "company": "MEDSCAPE-the heart.org",
-            "product": "Inespecific",
-            "years": "2017-2018"
-          },
-          {
-            "company": "Astra Zeneca",
-            "product": "Ticagrelor",
-            "years": "2017-2018"
-          },
-          {
-            "company": "Novartis",
-            "product": "Canakinumab",
-            "years": "2018"
-          }
+        "name": "Guy Meyer",
+        "role": "Co-Chairperson",
+        "country": "France",
+        "affiliations": [
+          "Respiratory Medicine Department, Hôpital Européen Georges Pompidou",
+          "Université Paris Descartes"
+        ],
+        "contacts": {
+          "address": "Respiratory Medicine Department, Hôpital Européen Georges Pompidou, 20 Rue Leblanc, 75015 Paris, France; Université Paris Descartes, 15 rue de l'École de médecine 75006 Paris, France",
+          "telephone": "+33 156 093 461",
+          "fax": "+33 156 093 255",
+          "emails": [
+            "guy.meyer@aphp.fr"
+          ]
+        },
+        "search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
         ]
+      },
+      {
+        "name": "Cecilia Becattini",
+        "country": "Italy",
+        "role": null,
+        "affiliations": [],
+        "contacts": {},
+        "search_links": []
       }
-    ]
-  },
-  "genes": [
-    {
-      "Gene": "PCSK9",
-      "Associated Conditions": [],
-      "Occurrences": 1,
-      "context": "Mentioned in Bueno Hector's financial declaration as 'Sanofi Aventis : PCSK9 inhibitors (2017)'."
+    ],
+    "page_elements": {
+      "free_access_label": "Free",
+      "search_prompts": "Search for other works by this author on: Oxford Academic, PubMed, Google Scholar"
     }
-  ]
+  },
+  "genes": []
 }

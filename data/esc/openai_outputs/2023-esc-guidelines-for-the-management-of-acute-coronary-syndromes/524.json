@@ -1,0 +1,65 @@
+{
+  "content": {
+    "references": [
+      {
+        "number": 360,
+        "citation": "Antman EM, Louwerenburg HW, Baars HF, Wesdorp JCL, Hamer B, Bassand J-P, et al. Enoxaparin as adjunctive antithrombin therapy for ST-elevation myocardial infarction: results of the ENTIRE-Thrombolysis in Myocardial Infarction (TIMI) 23 Trial. Circulation 2002;105:1642-1649.",
+        "topic": "Enoxaparin as adjunct antithrombin therapy for ST-elevation myocardial infarction",
+        "trial": "ENTIRE-TIMI 23",
+        "journal": "Circulation",
+        "year": 2002,
+        "doi": "https://doi.org/10.1161/01.cir.0000013402.34759.46"
+      },
+      {
+        "number": 361,
+        "citation": "James SK, Roe MT, Cannon CP, Cornel JH, Horrow J, Husted S, et al. Ticagrelor versus clopidogrel in patients with acute coronary syndromes intended for non-invasive management: substudy from PLATelet inhibition and patient Outcomes (PLATO) trial. BMJ 2011;342:d3527.",
+        "topic": "Comparison of ticagrelor versus clopidogrel in acute coronary syndromes (non-invasive management subgroup)",
+        "trial": "PLATO substudy",
+        "journal": "BMJ",
+        "year": 2011,
+        "doi": "https://doi.org/10.1136/bmj.d3527"
+      },
+      {
+        "number": 362,
+        "citation": "Wiviott SD, White HD, Ohman EM, Fox KAA, Armstrong PW, Prabhakaran D, et al. Prasugrel versus clopidogrel for patients with unstable angina or non-ST-segment elevation myocardial infarction with or without angiography: a secondary, prespecified analysis of the TRILOGY ACS trial. Lancet 2013;382:605-613.",
+        "topic": "Prasugrel versus clopidogrel for unstable angina / NSTEMI (with/without angiography)",
+        "trial": "TRILOGY ACS (secondary analysis)",
+        "journal": "Lancet",
+        "year": 2013,
+        "doi": "https://doi.org/10.1016/S0140-6736(13)61451-8"
+      },
+      {
+        "number": 363,
+        "citation": "Savonitto S, Ferri LA, Piatti L, Grosseto D, Piovaccari G, Morici N, et al. Comparison of reduced-dose prasugrel and standard-dose clopidogrel in elderly patients with acute coronary syndromes undergoing early percutaneous revascularization. Circulation 2018;137:2435-2445.",
+        "topic": "Reduced-dose prasugrel versus standard-dose clopidogrel in elderly ACS patients undergoing early PCI",
+        "journal": "Circulation",
+        "year": 2018,
+        "doi": "https://doi.org/10.1161/CIRCULATIONAHA.117.032180"
+      },
+      {
+        "number": 364,
+        "citation": "Patterson T, Perkins GD, Hassan Y, Moschonas K, Gray H, Curzen N, et al. Temporal trends in identification, management, and clinical outcomes after out-of-hospital cardiac arrest: insights from the myocardial ischaemia national audit project database. Circ Cardiovasc Interv 2018;11:e005346.",
+        "topic": "Temporal trends in identification, management and outcomes after out-of-hospital cardiac arrest",
+        "journal": "Circulation: Cardiovascular Interventions",
+        "year": 2018,
+        "doi": "https://doi.org/10.1161/CIRCINTERVENTIONS.117.005346"
+      },
+      {
+        "number": 365,
+        "citation": "Byrne R, Constant O, Smyth Y, Callagy G, Nash P, Daly K, et al. Multiple source surveillance incidence and aetiology of out-of-hospital sudden cardiac death in a rural population in the West of Ireland. Eur Heart J 2008;29:1418-1423.",
+        "topic": "Incidence and aetiology of out-of-hospital sudden cardiac death in a rural Irish population",
+        "journal": "European Heart Journal",
+        "year": 2008,
+        "doi": "https://doi.org/10.1093/eurheartj/ehn155"
+      },
+      {
+        "number": 366,
+        "citation": "Kroupa J, Knot J, Ulman J, Bednar F, Dohnalova A, Motovska Z. Characteristics and survival determinants in patients after out-of-hospital cardiac arrest in the era of 24/7 coronary intervention facilities. Heart Lung Circ 2017;26:799-807.",
+        "topic": "Characteristics and survival determinants after out-of-hospital cardiac arrest in era of continuous coronary intervention facilities",
+        "journal": "Heart Lung and Circulation",
+        "year": 2017
+      }
+    ]
+  },
+  "genes": []
+}

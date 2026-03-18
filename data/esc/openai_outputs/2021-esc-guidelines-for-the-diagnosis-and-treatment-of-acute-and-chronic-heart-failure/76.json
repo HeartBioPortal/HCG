@@ -1,39 +1,26 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
-    "publisher": "European Society of Cardiology (ESC)",
-    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration were conducted during the period of development of these guidelines up to and including 2020.",
-    "date_on_page": "03/08/2021",
-    "entries": [
+    "extracted_text": "Percutaneous edge-to-edge mitral valve repair should be considered in carefully selected patients with secondary mitral regurgitation, not eligible for surgery and not needing coronary revascularization, who are symptomatic despite OMT and who fulfil criteria to achieve a reduction in HF hospitalizations.\n\nPercutaneous edge-to-edge mitral valve repair may be considered to improve symptoms in carefully selected patients with secondary mitral regurgitation, not eligible for surgery and not needing coronary revascularization, who are highly symptomatic despite OMT and who do not fulfil criteria for reducing HF hospitalization.",
+    "recommendations": [
       {
-        "name": "Petersen Steffen Erhard",
-        "year": 2020,
-        "type_of_relationship": "Other Positions of Influence",
-        "details": [
-          "Direct ownership of shares or direct financial interest in healthcare, media, education companies or in companies related to (suppliers), or in competition with the ESC and its mission: - Healthcare - IMAGING - Circle Cardiovascular Imaging Inc., Calgary, Canada (25,000 shares at Canadian dollars $1.50 each.)",
-          "Membership or affiliation in political, advocacy or patients organisations working in the field of cardiology: Membership British Cardiovascular Society, Royal College of Physicians, British Medical Association."
-        ]
+        "class": "IIa",
+        "recommendation": "Percutaneous edge-to-edge mitral valve repair should be considered",
+        "indication": "Secondary mitral regurgitation",
+        "patient_selection": "Carefully selected patients not eligible for surgery, not needing coronary revascularization, symptomatic despite OMT, who fulfil criteria to achieve a reduction in HF hospitalizations",
+        "notes": "Aimed at reducing heart failure (HF) hospitalizations; OMT = optimal medical therapy"
       },
       {
-        "name": "Petronio Anna Sonia",
-        "year": 2020,
-        "type_of_relationship": "Financial Declaration",
-        "details": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Specified companies/areas: Boston Scientific: TAVI and mitral treatment; Abbott: TMVR",
-          "Payment from healthcare industry to department/institution for personal services: Medtronic: TAVI"
-        ]
-      },
-      {
-        "name": "Ponikowski Piotr",
-        "year": 2020,
-        "type_of_relationship": "Financial Declaration",
-        "details": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Specified companies/areas: Bayer: anticoagulation; Vifor Pharma Ltd.: heart failure (HF); AstraZeneca: HF; Novartis: HF; Servier: HF"
-        ]
+        "class": "IIb",
+        "recommendation": "Percutaneous edge-to-edge mitral valve repair may be considered to improve symptoms",
+        "indication": "Secondary mitral regurgitation",
+        "patient_selection": "Carefully selected patients not eligible for surgery, not needing coronary revascularization, highly symptomatic despite OMT, who do not fulfil criteria for reducing HF hospitalization",
+        "notes": "Primarily symptom improvement rather than proven reduction in HF hospitalizations"
       }
-    ]
+    ],
+    "abbreviations": {
+      "OMT": "optimal medical therapy",
+      "HF": "heart failure"
+    }
   },
   "genes": []
 }

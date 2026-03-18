@@ -1,35 +1,35 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "introduction": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during the period of development of these guidelines up to and including 2020.",
-    "experts": [
+    "bullets": [
       {
-        "name": "Mindham Richard",
-        "entries": [
-          {
-            "year": 2020,
-            "declaration_type": "Other Positions of Influence",
-            "details": "Membership or affiliation in political, advocacy or patients organisations working in the field of cardiology. I support actively the British charity CardiomyopathyUK and make a monthly payment to support their activities. I also passed the three honoraria in 2A to CardiomyopathyUK, in full. Any other interest (financial or otherwise) that should be declared in view of holding an ESC position: Re item 7A: I have shares which are held inside and outside of a pension. I am unaware of what the shares are as they are all managed by a portfolio manager. Consequently I do not know whether I hold any shares in healthcare or healthcare-related companies, or in media or education companies."
-          }
-        ]
+        "code": "WARCEF",
+        "description": "Warfarin and Aspirin in Reduced Cardiac Ejection Fraction (trial)"
       },
       {
-        "name": "Muneretto Claudio",
-        "entries": [
-          {
-            "year": 2019,
-            "declaration_type": "Financial Declaration",
-            "details": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. - Atricure : Atrial fibrillation. Travel and meeting support from healthcare industry, independent of the above activities. - LIvanova : Heart valve."
-          },
-          {
-            "year": 2020,
-            "declaration_type": "Financial Declaration",
-            "details": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. - Atricure : Atrial fibrillation. Travel and meeting support from healthcare industry, independent of the above activities. - LIvanova : Heart valve."
-          }
-        ]
+        "code": "wtTTR-CA",
+        "description": "Wild-type transthyretin cardiac amyloidosis"
+      },
+      {
+        "code": "XL",
+        "description": "Extended release"
       }
     ],
-    "footer_date": "12/08/2021"
+    "section_1_title": "Preamble",
+    "preamble_summary": "Guidelines summarize and evaluate available evidence to assist health professionals in proposing the best management strategies for individual patients. The ESC issues clinical practice guidelines, maintains registries to assess diagnostic and therapeutic processes, and provides quality indicators to evaluate guideline implementation and improve care.",
+    "references": [
+      "https://www.escardio.org/Guidelines"
+    ],
+    "table_reference": "Table 1 - Classes of recommendations (link: Open in new tab)"
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "TTR",
+      "Associated Conditions": [
+        "Wild-type transthyretin cardiac amyloidosis",
+        "Cardiac amyloidosis"
+      ],
+      "Occurrences": 2,
+      "context": "Appears as 'wtTTR-CA' with the expanded phrase 'Wild-type transthyretin cardiac amyloidosis' on the page."
+    }
+  ]
 }

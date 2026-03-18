@@ -1,0 +1,72 @@
+{
+  "content": {
+    "page_title": null,
+    "sections": [
+      {
+        "id": "12.3.3",
+        "title": "Diabetes mellitus",
+        "summary": [
+          "ACS patients with diabetes mellitus (DM) may present with non-specific symptoms leading to delays in diagnosis and treatment; they tend to have more advanced CAD at diagnosis and worse long-term prognosis, particularly if requiring insulin.",
+          "All ACS patients should have glycaemic status evaluated during hospitalization; diagnoses of DM made during hospitalisation should be confirmed later because ACS can cause stress hyperglycaemia.",
+          "Management of hyperglycaemia (>11.0 mmol/L or 200 mg/dL) in hospitalized ACS patients has shown benefits, but intensive insulin therapy increases risk of hypoglycaemia and this risk should not be neglected.",
+          "Glucose-lowering reduces microvascular complications. Recent trial evidence shows that SGLT2 inhibitors and GLP-1 receptor agonists reduce risk of new ACS events, heart failure (HF), and renal impairment independent of baseline HbA1c.",
+          "These benefits should be considered when choosing glucose-lowering therapy for patients with DM and concomitant CAD; refer to 2023 ESC Guidelines on diabetes and cardiovascular disease and 2021 ESC Guidelines on cardiovascular disease prevention for details."
+        ]
+      },
+      {
+        "id": "12.3.4",
+        "title": "Older adults with frailty and multimorbidity",
+        "summary": [
+          "Older adults are an increasing proportion of ACS patients; age is a major predictor of adverse outcomes and patients aged ≥75 years are often under-represented in trials.",
+          "Older age is associated with frailty, multimorbidity, and greater risk of both ischaemic and bleeding events in ACS.",
+          "High-sensitivity cardiac troponin (hs-cTn) assays have excellent diagnostic performance in older persons but lower specificity than in younger patients; elevated cTn levels in older patients are often associated with conditions other than ACS."
+        ]
+      },
+      {
+        "id": null,
+        "title": "Renal considerations and hydration",
+        "summary": [
+          "For ACS patients with low eGFR undergoing invasive management, intravenous hydration should be considered to minimize risk of contrast-induced nephropathy.",
+          "For long-term treatment in patients with ACS and concomitant chronic kidney disease (CKD) refer to the 2021 ESC Guidelines on cardiovascular disease prevention."
+        ]
+      }
+    ],
+    "recommendations": [
+      "Evaluate glycaemic status in all ACS patients during hospitalization and confirm in-hospital diagnoses of DM later.",
+      "Avoid neglecting the risk of hypoglycaemia when using intensive insulin therapy in hospitalized ACS patients.",
+      "Consider SGLT2 inhibitors or GLP-1 receptor agonists for reducing risk of new ACS events, HF, and renal impairment in patients with DM, independent of baseline HbA1c.",
+      "Consider IV hydration for patients with low eGFR undergoing invasive ACS management to reduce contrast-induced nephropathy risk.",
+      "Refer to the 2023 ESC Guidelines on diabetes and cardiovascular disease and the 2021 ESC Guidelines on cardiovascular disease prevention for further details."
+    ],
+    "references_mentioned": [
+      "2021 ESC Guidelines on cardiovascular disease prevention",
+      "2023 ESC Guidelines on diabetes and cardiovascular disease"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "SLC5A2 (SGLT2)",
+      "Associated Conditions": [
+        "Diabetes mellitus (DM)",
+        "Acute coronary syndrome (ACS) / new ACS events",
+        "Heart failure (HF)",
+        "Renal impairment",
+        "Coronary artery disease (CAD)"
+      ],
+      "Occurrences": 1,
+      "context": "Page states that sodium–glucose co-transporter 2 (SGLT2) inhibitors reduce the risk of new ACS events, HF, and renal impairment independent of baseline HbA1c; mentioned as a glucose-lowering medication class to consider in patients with DM and concomitant CAD."
+    },
+    {
+      "Gene": "GLP1R (glucagon-like peptide-1 receptor)",
+      "Associated Conditions": [
+        "Diabetes mellitus (DM)",
+        "Acute coronary syndrome (ACS) / new ACS events",
+        "Heart failure (HF)",
+        "Renal impairment",
+        "Coronary artery disease (CAD)"
+      ],
+      "Occurrences": 1,
+      "context": "Page refers to glucagon-like peptide-1 receptor agonists (GLP-1-RA) as reducing the risk of new ACS events, HF, and renal impairment independent of baseline HbA1c; cited when discussing choice of glucose-lowering therapy for patients with DM and concomitant CAD."
+    }
+  ]
+}

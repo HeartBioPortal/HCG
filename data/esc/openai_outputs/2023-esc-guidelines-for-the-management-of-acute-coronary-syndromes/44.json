@@ -1,34 +1,9 @@
 {
   "content": {
-    "document_title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "note": "Declarations of interest reported to the ESC by experts during yearly call covering previous calendar year (calls conducted during development up to and including 2022).",
-    "page_date": "16/05/2023",
-    "page": "20/57",
-    "reviewers": [
-      {
-        "Expert": "Geisler Tobias",
-        "Year": 2022,
-        "Type of relationships": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member",
-          "Companies listed for pharmacology/pharmacotherapy or other support: AstraZeneca; Pfizer; Bayer Healthcare; Ferrer Internacional; Daiichi Sankyo",
-          "Training and education support: Thieme Verlag; Doctrinamed",
-          "Valvular heart disease related companies/support: Edwards Lifesciences; Medtronic",
-          "Payments to department/institution for personal services (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member): Ferrer Internacional; Edwards Lifesciences",
-          "Travel and meeting support from healthcare industry (independent of above activities): Daiichi Sankyo; Edwards Lifesciences",
-          "Research funding to department/institution under direct/personal responsibility: Bristol Myers Squibb (ATTICUS trial, Chief investigator); Ferrer Internacional (IIT - Platelet function in cardiogenic shock, Principal investigator); Edwards Lifesciences (IIT - Effects of TEER on Myocardial Remodelling, Principal investigator)"
-        ]
-      },
-      {
-        "Expert": "Gorog Diana Adrienne",
-        "Year": 2021,
-        "Type of relationships": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member",
-          "Companies listed for speaker fees: AstraZeneca; Boehringer-Ingelheim",
-          "Research funding from healthcare industry under direct/personal responsibility to department/institution: Bayer AG (ACS); Alpha MD (ACS)",
-          "Device-related support: Medtronic (TAVI)"
-        ]
-      }
-    ]
+    "recommendations": "Primary percutaneous coronary intervention (PPCI) is preferred for ST-elevation myocardial infarction; fibrinolysis if PPCI cannot be performed within 120 minutes. Patients with non-ST-elevation ACS (NSTE-ACS) with very high-risk features require immediate angiography ± PCI; other NSTE-ACS patients with high-risk features should undergo inpatient angiography (angiography within 24 h should be considered). A combination of antiplatelet and anticoagulant therapy is indicated acutely. Most patients with ACS will eventually undergo revascularization, most commonly with PCI. After final diagnosis, implement measures to prevent recurrent events and optimize cardiovascular risk (medical therapy, lifestyle changes, cardiac rehabilitation, psychosocial factors).",
+    "definitions": "Acute coronary syndromes (ACS) encompass a spectrum including patients with recent changes in clinical symptoms or signs, with or without changes on 12-lead ECG and with or without acute elevations in cardiac troponin (cTn). Patients with suspected ACS may receive a diagnosis of acute myocardial infarction (AMI/MI) or unstable angina (UA). The diagnosis of MI is associated with cTn release and is made using the fourth universal definition of MI. Unstable angina is myocardial ischemia at rest or with minimal exertion in the absence of acute cardiomyocyte injury/necrosis; characterized by prolonged (>20 min) rest angina, new severe angina, or angina that is increasing in frequency, duration, or lower in threshold, or occurring after a recent MI.",
+    "diagnostic_markers_and_tools": "12-lead ECG and cardiac troponin (cTn) concentrations are central to assessment. MI diagnosis is based on cTn release per the fourth universal definition.",
+    "clinical_presentations": "ACS presentations range from asymptomatic at presentation to patients with ongoing chest discomfort/symptoms, cardiac arrest, electrical/haemodynamic instability, or cardiogenic shock."
   },
   "genes": []
 }

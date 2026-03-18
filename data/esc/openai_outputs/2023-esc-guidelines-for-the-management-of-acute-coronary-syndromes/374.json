@@ -1,0 +1,18 @@
+{
+  "content": {
+    "title": "Ventricular arrythmias",
+    "recommendations": [
+      {
+        "text": "Implantable cardioverter defibrillator use is recommended to reduce sudden cardiac death in patients with symptomatic HF (NYHA Class II–III) and LVEF ≤35% despite optimal medical therapy for >3 months and at least 6 weeks after MI who are expected to survive for at least 1 year with good functional status.",
+        "recommendation_class": "I",
+        "evidence_level": "A"
+      },
+      {
+        "text": "Intravenous beta-blocker and/or amiodarone treatment is recommended for patients with polymorphic VT and/or VF unless contraindicated.",
+        "recommendation_class": "I",
+        "evidence_level": "B"
+      }
+    ]
+  },
+  "genes": []
+}

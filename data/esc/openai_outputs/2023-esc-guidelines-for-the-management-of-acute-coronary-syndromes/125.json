@@ -1,0 +1,55 @@
+{
+  "content": {
+    "title": "II. Anticoagulant drugs",
+    "table_entries": [
+      {
+        "drug": "UFH",
+        "initial_treatment": "i.v. bolus 70–100 U/kg followed by i.v. infusion titrated to achieve an aPTT of 60–80 s.",
+        "during_PCI": "70–100 U/kg i.v. bolus or according to ACT in case of UFH pre-treatment.",
+        "notes": "UFH = unfractionated heparin; ACT = activated clotting time; aPTT = activated partial thromboplastin time."
+      },
+      {
+        "drug": "Enoxaparin",
+        "initial_treatment": "For treatment of ACS: 1 mg/kg b.i.d. subcutaneously for a minimum of 2 days and continued until clinical stabilization. If CrCl <30 mL/min (by Cockcroft–Gault), reduce dosage to 1 mg/kg o.d.",
+        "during_PCI": "If last dose given <8 h before balloon inflation, no additional dosing is needed. If last s.c. administration >8 h before balloon inflation, administer i.v. bolus of 0.3 mg/kg enoxaparin sodium.",
+        "notes": "CrCl = creatinine clearance; b.i.d. = twice a day; o.d. = once a day; Cockcroft–Gault equation referenced for renal dosing."
+      },
+      {
+        "drug": "Bivalirudin",
+        "during_PPCI": "0.75 mg/kg i.v. bolus followed by i.v. infusion of 1.75 mg/kg/h for 4 h after the procedure.",
+        "dose_adjustment": "In patients with CrCl <30 mL/min (by Cockcroft–Gault), maintenance infusion should be reduced to 1 mg/kg/h.",
+        "notes": "PPCI = primary percutaneous coronary intervention; CrCl and Cockcroft–Gault referenced for renal dosing."
+      },
+      {
+        "drug": "Fondaparinux",
+        "initial_treatment": "2.5 mg subcutaneously daily.",
+        "during_PCI": "A single bolus of UFH is recommended during PCI.",
+        "contraindication_or_avoidance": "Avoid if CrCl <20 mL/min.",
+        "notes": "UFH recommended as single bolus during PCI when fondaparinux is used."
+      }
+    ],
+    "footnotes_and_abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "ACT": "activated clotting time",
+      "aPTT": "activated partial thromboplastin time",
+      "b.i.d.": "bis in die (twice a day)",
+      "CKD": "chronic kidney disease",
+      "CrCl": "creatinine clearance",
+      "DDI": "drug–drug interactions",
+      "ICH": "intracranial haemorrhage",
+      "i.v.": "intravenous",
+      "LD": "loading dose",
+      "MD": "maintenance dose",
+      "o.d.": "once a day",
+      "PPCI": "primary percutaneous coronary intervention",
+      "s.c.": "subcutaneous",
+      "UFH": "unfractionated heparin"
+    },
+    "additional_section": {
+      "title": "I. Antiplatelet drugs (excerpt)",
+      "Aspirin": "LD of 150–300 mg orally or 75–250 mg i.v. if oral ingestion not possible, followed by oral MD of 75–100 mg o.d.; no specific dose adjustment in CKD patients."
+    },
+    "source": "ESC guideline table image (anticoagulant and antiplatelet drug dosing in ACS)"
+  },
+  "genes": []
+}

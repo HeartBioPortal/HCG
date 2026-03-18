@@ -1,0 +1,85 @@
+{
+  "content": {
+    "Antiplatelet therapy": [
+      {
+        "recommendation": "Pre-treatment with a P2Y12 receptor inhibitor may be considered in patients undergoing a primary PCI strategy.",
+        "class": "IIb",
+        "level": "B"
+      },
+      {
+        "recommendation": "Pre-treatment with a P2Y12 receptor inhibitor may be considered in NSTE-ACS patients who are not expected to undergo an early invasive strategy (<24 h) and do not have high bleeding risk (HBR).",
+        "class": "IIb",
+        "level": "C"
+      },
+      {
+        "recommendation": "Pre-treatment with a GP IIb/IIIa receptor antagonist is not recommended.",
+        "class": "III",
+        "level": "A"
+      },
+      {
+        "recommendation": "Routine pre-treatment with a P2Y12 receptor inhibitor in NSTE-ACS patients in whom coronary anatomy is not known and early invasive management (<24 h) is planned is not recommended.",
+        "class": "III",
+        "level": "A"
+      }
+    ],
+    "Anticoagulant therapy": [
+      {
+        "recommendation": "Parenteral anticoagulation is recommended for all patients with ACS at the time of diagnosis.",
+        "class": "I",
+        "level": "A"
+      },
+      {
+        "recommendation": "Routine use of a UFH bolus (weight-adjusted i.v. bolus during PCI of 70–100 IU/kg) is recommended in patients undergoing PCI.",
+        "class": "I",
+        "level": "C"
+      },
+      {
+        "recommendation": "Intravenous enoxaparin at the time of PCI should be considered in patients pre-treated with subcutaneous enoxaparin.",
+        "class": "IIa",
+        "level": "B"
+      },
+      {
+        "recommendation": "Discontinuation of parenteral anticoagulation should be considered immediately after an invasive procedure.",
+        "class": "IIa",
+        "level": "C"
+      }
+    ],
+    "Patients with STEMI": [
+      {
+        "recommendation": "Enoxaparin should be considered as an alternative to UFH in patients with STEMI undergoing PPCI.",
+        "class": "IIa",
+        "level": "A"
+      },
+      {
+        "recommendation": "Bivalirudin with a full-dose post-PCI infusion should be considered as an alternative to UFH in patients with STEMI undergoing PPCI.",
+        "class": "IIa",
+        "level": "A"
+      },
+      {
+        "recommendation": "Fondaparinux is not recommended in patients with STEMI undergoing PPCI.",
+        "class": "III",
+        "level": "B"
+      }
+    ],
+    "Patients with NSTE-ACS": [
+      {
+        "recommendation": "For patients with NSTE-ACS in whom early invasive angiography (i.e. within 24 h) is not anticipated, fondaparinux is recommended.",
+        "class": "I",
+        "level": "B"
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "Acute coronary syndrome (ACS)",
+        "Non-ST-elevation ACS (NSTE-ACS)",
+        "ST-elevation myocardial infarction (STEMI)",
+        "Patients undergoing PCI / primary PCI"
+      ],
+      "Occurrences": 3,
+      "context": "Page repeatedly references 'P2Y12 receptor inhibitor' as a pre-treatment option or consideration in patients undergoing primary PCI and in certain NSTE-ACS scenarios."
+    }
+  ]
+}

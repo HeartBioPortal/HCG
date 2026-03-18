@@ -1,0 +1,35 @@
+{
+  "content": {
+    "recommendations": [
+      "Hydralazine and isosorbide dinitrate may be considered in patients with symptomatic HFrEF who cannot tolerate any of an ACE-I, an ARB, or ARNI (or they are contraindicated) to reduce the risk of death.",
+      "Digoxin may be considered in patients with symptomatic HFrEF in sinus rhythm despite treatment with an ACE-I (or ARNI), a beta-blocker and an MRA, to reduce the risk of hospitalization (both all-cause and HF hospitalizations)."
+    ],
+    "abbreviations": {
+      "ACE-I": "angiotensin-converting enzyme inhibitor",
+      "ARB": "angiotensin-receptor blocker",
+      "ARNI": "angiotensin receptor-neprilysin inhibitor",
+      "b.p.m.": "beats per minute",
+      "CVA": "cardiovascular",
+      "HF": "heart failure",
+      "HFrEF": "heart failure with reduced ejection fraction",
+      "LVEF": "left ventricular ejection fraction",
+      "MRA": "mineralocorticoid receptor antagonist",
+      "NYHA": "New York Heart Association",
+      "SR": "sinus rhythm"
+    },
+    "additional_notes": [
+      "Class of recommendation and level of evidence labels are present (a = class of recommendation, b = level of evidence).",
+      "The ARBs with evidence in HFrEF are listed as candesartan, losartan, and valsartan."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "ACE",
+      "Associated Conditions": [
+        "Heart failure with reduced ejection fraction (HFrEF)"
+      ],
+      "Occurrences": 3,
+      "context": "Referenced as 'ACE-I' (angiotensin-converting enzyme inhibitor) in treatment recommendations for symptomatic HFrEF (patients who cannot tolerate an ACE-I/used in combination therapy)."
+    }
+  ]
+}

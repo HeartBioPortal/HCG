@@ -1,0 +1,64 @@
+{
+  "content": {
+    "sections": [
+      {
+        "id": "5.3.1.1",
+        "title": "Pre-hospital fibrinolysis",
+        "recommendation": "If trained medical or allied health staff can interpret the ECG on site or transmit the ECG for remote interpretation, initiate fibrinolytic therapy in the pre-hospital setting. Use a fibrin-specific agent (tenecteplase, alteplase, or reteplase) with the goal of starting fibrinolytic therapy within 10 minutes of STEMI diagnosis. Do not delay initiation for cardiac biomarker results.",
+        "key_points": [
+          "Preferred fibrin-specific agents: tenecteplase, alteplase, reteplase.",
+          "Goal: start fibrinolysis within 10 minutes of STEMI diagnosis.",
+          "Do not wait for cardiac biomarker testing before starting fibrinolysis."
+        ],
+        "evidence": [
+          "Meta-analysis of six randomized trials (n = 6434) showed pre-hospital fibrinolysis reduced early mortality by 17%, particularly when administered in the first 2 hours after symptom onset.",
+          "STREAM trial: pre-hospital fibrinolysis followed by early PCI had similar outcomes to transfer for PPCI in STEMI patients presenting within 3 hours who could not undergo PPCI within 1 hour of first medical contact; slight excess of intracranial bleeding observed, which was reduced by halving the dose of tenecteplase in patients >75 years."
+        ]
+      },
+      {
+        "id": "5.3.1.2",
+        "title": "Angiography and percutaneous coronary intervention after fibrinolysis (pharmaco-invasive strategy)",
+        "recommendation": "Transfer patients to a PCI centre immediately after initiation of lytic therapy. In cases of failed fibrinolysis or evidence of re-occlusion/re-infarction with recurrent ST-segment elevation, immediate angiography and rescue PCI are indicated. Routine early angiography (within ~2–24 hours) after fibrinolysis is recommended even if initial reperfusion appears successful.",
+        "key_points": [
+          "Immediate transfer to PCI centre after initiation of lytic therapy is recommended.",
+          "Failed fibrinolysis, re-occlusion or recurrent ST-elevation: immediate angiography and rescue PCI.",
+          "Re-administration of fibrinolysis is not beneficial and is discouraged.",
+          "Routine early angiography (within 2–24 h) after fibrinolysis reduces rates of reinfarction and recurrent ischemia versus a 'watchful waiting' strategy."
+        ],
+        "evidence": [
+          "Several randomized trials showed routine early angiography with subsequent PCI reduced re-infarction and recurrent ischaemia compared with watchful waiting.",
+          "Network meta-analysis including 15,357 STEMI patients compared fibrinolytic therapy (n = 4212), PPCI (n = 6139), and fibrinolysis followed by routine immediate or early PCI (n = 5006) to investigate transfer to PCI-capable facilities.",
+          "Pharmaco-invasive approach (transfer within a day, e.g. <24 h) was the second most favourable approach after PPCI; reported OR for death 0.79 (95% CI 0.59–1.08) compared with conventional fibrinolytic strategy."
+        ]
+      }
+    ],
+    "drugs_mentioned": [
+      "tenecteplase",
+      "alteplase",
+      "reteplase"
+    ],
+    "clinical_endpoints_and_thresholds": [
+      "ST-segment resolution >50% at 60–90 minutes is mentioned as an indicator of successful reperfusion.",
+      "Early mortality reduction (17%) with pre-hospital fibrinolysis in meta-analysis.",
+      "Timing thresholds: fibrinolysis within 2 hours of symptom onset associated with greater benefit; presentation within 3 hours relevant for strategy decisions; aim to start fibrinolysis within 10 minutes of diagnosis; transfer/PPCI within 1 hour of first medical contact when possible; pharmaco-invasive transfer within <24 h."
+    ],
+    "special_considerations": [
+      "Slight excess of intracranial bleeding observed with pre-hospital investigational strategy; reduced by halving tenecteplase dose in patients >75 years.",
+      "Re-administration of fibrinolysis in the same setting is discouraged."
+    ],
+    "statistics_and_trial_numbers": {
+      "meta_analysis_prehospital_trials": {
+        "trials_count": 6,
+        "patients_n": 6434,
+        "early_mortality_reduction_percent": 17
+      },
+      "network_meta_analysis": {
+        "total_STEMI_patients": 15357,
+        "fibrinolytic_therapy_n": 4212,
+        "PPCI_n": 6139,
+        "fibrinolysis_plus_routine_PCI_n": 5006
+      }
+    }
+  },
+  "genes": []
+}

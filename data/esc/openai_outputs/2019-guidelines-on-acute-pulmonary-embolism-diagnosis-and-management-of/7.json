@@ -1,99 +1,128 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism (Declarations of Interest)",
-    "organization": "European Society of Cardiology (ESC) in collaboration with the European Respiratory Society (ERS) - Task Force Members",
-    "member_name": "Lang Irene Marthe",
-    "declarations_intro": "The report below lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2018.",
-    "disclosures": [
+    "document_part": "Table of contents / section index",
+    "sections": [
       {
-        "company": "Actelion",
-        "relationship": "Pulmonary Hypertension medications/drugs",
-        "years": [
-          2017,
-          2018
-        ],
-        "notes": "Listed under general disclosures and also under payment to department and research funding in specific years."
+        "section": "5.3.1",
+        "title": "Markers of myocardial injury",
+        "page": 561
       },
       {
-        "company": "Ferrer Internacional",
-        "relationship": "Pulmonary Hypertension medications/drugs",
-        "years": [
-          2017,
-          2018
-        ],
-        "notes": "Listed under general disclosures."
+        "section": "5.3.2",
+        "title": "Markers of right ventricular dysfunction",
+        "page": 561
       },
       {
-        "company": "MSD",
-        "relationship": "Pulmonary Hypertension medications/drugs",
-        "years": [
-          2017,
-          2018
-        ],
-        "notes": "Listed under general disclosures."
+        "section": "5.3.3",
+        "title": "Other laboratory biomarkers",
+        "page": 561
       },
       {
-        "company": "AOP Orphan Pharmaceuticals",
-        "relationship": "Pulmonary Hypertension medications/drugs",
-        "years": [
-          2017,
-          2018
-        ],
-        "notes": "Listed under general disclosures and also under payment to department and research funding in 2017 and 2018."
+        "section": "5.4",
+        "title": "Combined parameters and scores for assessment of pulmonary embolism severity",
+        "page": 562
       },
       {
-        "company": "United Therapeutics",
-        "relationship": "Pulmonary Hypertension drugs",
-        "years": [
-          2018
-        ],
-        "notes": "Listed under general disclosures for 2018."
+        "section": "5.5",
+        "title": "Integration of aggravating conditions and comorbidity into risk assessment of acute pulmonary embolism",
+        "page": 562
+      },
+      {
+        "section": "5.6",
+        "title": "Prognostic assessment strategy",
+        "page": 562
+      },
+      {
+        "section": "6",
+        "title": "Treatment in the acute phase",
+        "page": 564
+      },
+      {
+        "section": "6.1",
+        "title": "Haemodynamic and respiratory support",
+        "page": 564
+      },
+      {
+        "section": "6.1.1",
+        "title": "Oxygen therapy and ventilation",
+        "page": 564
+      },
+      {
+        "section": "6.1.2",
+        "title": "Pharmacological treatment of acute right ventricular failure",
+        "page": 564
+      },
+      {
+        "section": "6.1.3",
+        "title": "Mechanical circulatory support and oxygenation",
+        "page": 565
+      },
+      {
+        "section": "6.1.4",
+        "title": "Advanced life support in cardiac arrest",
+        "page": 565
+      },
+      {
+        "section": "6.2",
+        "title": "Initial anticoagulation",
+        "page": 565
+      },
+      {
+        "section": "6.2.1",
+        "title": "Parenteral anticoagulation",
+        "page": 565
+      },
+      {
+        "section": "6.2.2",
+        "title": "Non-vitamin K antagonist oral anticoagulants",
+        "page": 566
+      },
+      {
+        "section": "6.2.3",
+        "title": "Vitamin K antagonists",
+        "page": 566
+      },
+      {
+        "section": "6.3",
+        "title": "Reperfusion treatment",
+        "page": 566
+      },
+      {
+        "section": "6.3.1",
+        "title": "Systemic thrombolysis",
+        "page": 566
+      },
+      {
+        "section": "6.3.2",
+        "title": "Percutaneous catheter-directed treatment",
+        "page": 567
+      },
+      {
+        "section": "6.3.3",
+        "title": "Surgical embolectomy",
+        "page": 567
+      },
+      {
+        "section": "6.4",
+        "title": "Multidisciplinary pulmonary embolism teams",
+        "page": 568
+      },
+      {
+        "section": "6.5",
+        "title": "Vena cava filters",
+        "page": 568
+      },
+      {
+        "section": "7",
+        "title": "Integrated risk-adapted diagnosis and management",
+        "page": 570
+      },
+      {
+        "section": "7.1",
+        "title": "Diagnostic strategies",
+        "page": 570
       }
-    ],
-    "sections": {
-      "B_PAYMENT_TO_YOUR_DEPARTMENT": {
-        "description": "Payment to your department or institution or any other body for personal services (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.) from healthcare industry.",
-        "items": [
-          {
-            "company": "Actelion",
-            "activity": "Pulmonary Hypertension medications",
-            "year": 2017
-          },
-          {
-            "company": "AOP Orphan Pharmaceuticals",
-            "activity": "Pulmonary Hypertension medications",
-            "year": 2017
-          },
-          {
-            "company": "Actelion",
-            "activity": "Pulmonary Hypertension drugs",
-            "year": 2018
-          },
-          {
-            "company": "AOP Orphan Pharmaceuticals",
-            "activity": "Pulmonary Hypertension drugs",
-            "year": 2018
-          }
-        ]
-      },
-      "D_RESEARCH_FUNDING": {
-        "description": "Research funding under your direct/personal responsibility (to department or institution) from healthcare industry.",
-        "items": [
-          {
-            "company": "Actelion",
-            "activity": "Pulmonary Hypertension medications",
-            "year": 2017
-          },
-          {
-            "company": "AOP Orphan Pharmaceuticals",
-            "activity": "Pulmonary Hypertension medications",
-            "year": 2017
-          }
-        ]
-      }
-    },
-    "date_on_page": "21/08/2019",
-    "page_number": "7/62"
+    ]
   },
   "genes": []
 }

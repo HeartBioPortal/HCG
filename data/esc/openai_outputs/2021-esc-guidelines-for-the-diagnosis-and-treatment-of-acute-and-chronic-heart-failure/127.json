@@ -1,0 +1,57 @@
+{
+  "content": {
+    "section": "5.3",
+    "title": "Drugs recommended in all patients with heart failure with reduced ejection fraction",
+    "population": "Patients with heart failure (NYHA class II–IV) with reduced ejection fraction (HFrEF) and LVEF ≤ 40%",
+    "recommendations": [
+      {
+        "treatment": "ACE inhibitor (ACE-I)",
+        "indication": "Recommended for patients with HFrEF to reduce the risk of HF hospitalization and death",
+        "class": "I",
+        "level": "A",
+        "notes": "Standard cornerstone therapy unless contraindicated"
+      },
+      {
+        "treatment": "Beta-blocker",
+        "indication": "Recommended for patients with stable HFrEF to reduce the risk of HF hospitalization and death",
+        "class": "I",
+        "level": "A",
+        "notes": ""
+      },
+      {
+        "treatment": "Mineralocorticoid receptor antagonist (MRA)",
+        "indication": "Recommended for patients with HFrEF to reduce the risk of HF hospitalization and death",
+        "class": "I",
+        "level": "A",
+        "notes": ""
+      },
+      {
+        "treatment": "Dapagliflozin or empagliflozin (SGLT2 inhibitors)",
+        "indication": "Recommended for patients with HFrEF to reduce the risk of HF hospitalization and death",
+        "class": "I",
+        "level": "A",
+        "notes": ""
+      },
+      {
+        "treatment": "Sacubitril/valsartan",
+        "indication": "Recommended as a replacement for an ACE inhibitor in patients with HFrEF to reduce the risk of HF hospitalization and death",
+        "class": "I",
+        "level": "B",
+        "notes": "Used as ARNI alternative to ACE-I when appropriate"
+      }
+    ],
+    "abbreviations": {
+      "ACE-I": "angiotensin-converting enzyme inhibitor",
+      "HF": "heart failure",
+      "HFrEF": "heart failure with reduced ejection fraction",
+      "LVEF": "left ventricular ejection fraction",
+      "MRA": "mineralocorticoid receptor antagonist",
+      "NYHA": "New York Heart Association"
+    },
+    "notes": {
+      "class_explanation": "a = Class of recommendation",
+      "level_explanation": "b = Level of evidence"
+    }
+  },
+  "genes": []
+}

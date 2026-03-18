@@ -1,0 +1,66 @@
+{
+  "content": {
+    "title": "Endomyocardial biopsy in patients with suspected myocarditis",
+    "indication": "Progressive or persistent severe cardiac dysfunction and/or life‑threatening ventricular arrhythmias and/or Mobitz type 2 second‑degree or higher AV block with lack of short‑term (<1–2 weeks) expected response to usual medical treatment. Aim: identify aetiology to indicate specific treatment (e.g., giant cell myocarditis, eosinophilic myocarditis, cardiac sarcoidosis, systemic inflammatory disorders).",
+    "number_and_sites_of_samples": "A minimum of 5 but possibly at least 7 samples: 3 for pathology, 2 for infections (DNA, PCR) and 2 for RNA viruses/viral replication. Left and/or right ventricle. CMR or PET guided sampling may be considered.",
+    "aetiology": "Quantitative PCR viral genome analysis for common cardiotrophic viruses (parvovirus B19, HHV4, HHV6, enteroviruses, adenovirus and coxsackievirus) by rtPCR. Viral mRNA for active viral replication may be assessed (low sensitivity). On indication, search for CMV, HIV, Borrelia, Coxiella burnetii and SARS‑CoV‑2.",
+    "diagnosis_of_inflammation": "Immunohistochemistry with staining for anti‑CD3, CD4, CD8 or CD45 antibodies for lymphocytes; anti‑CD68 antibodies for macrophages; and anti‑HLA‑DR antibodies.",
+    "therapeutic_implications": "Immunosuppressive therapy may be indicated based on EMB results (e.g., giant cell or eosinophilic myocarditis, possibly sarcoidosis, vasculitis). Antibiotics for Borrelia (Lyme disease). Antiviral therapy for HIV, CMV, HHV6 pending on load and viral replication (mRNA)."
+  },
+  "genes": [
+    {
+      "Gene": "CD3",
+      "Associated Conditions": [
+        "Myocarditis",
+        "Cardiac inflammation; lymphocyte identification on biopsy"
+      ],
+      "Occurrences": 1,
+      "context": "Immunohistochemistry with staining for anti‑CD3 antibodies for lymphocytes in diagnosis of inflammation on endomyocardial biopsy."
+    },
+    {
+      "Gene": "CD4",
+      "Associated Conditions": [
+        "Myocarditis",
+        "Cardiac inflammation; lymphocyte identification on biopsy"
+      ],
+      "Occurrences": 1,
+      "context": "Immunohistochemistry with staining for anti‑CD4 antibodies for lymphocytes in diagnosis of inflammation on endomyocardial biopsy."
+    },
+    {
+      "Gene": "CD8",
+      "Associated Conditions": [
+        "Myocarditis",
+        "Cardiac inflammation; lymphocyte identification on biopsy"
+      ],
+      "Occurrences": 1,
+      "context": "Immunohistochemistry with staining for anti‑CD8 antibodies for lymphocytes in diagnosis of inflammation on endomyocardial biopsy."
+    },
+    {
+      "Gene": "CD45",
+      "Associated Conditions": [
+        "Myocarditis",
+        "Cardiac inflammation; lymphocyte identification on biopsy"
+      ],
+      "Occurrences": 1,
+      "context": "Immunohistochemistry with staining for anti‑CD45 antibodies for lymphocytes in diagnosis of inflammation on endomyocardial biopsy."
+    },
+    {
+      "Gene": "CD68",
+      "Associated Conditions": [
+        "Myocarditis",
+        "Cardiac inflammation; macrophage identification on biopsy"
+      ],
+      "Occurrences": 1,
+      "context": "Immunohistochemistry with staining for anti‑CD68 antibodies for macrophages in diagnosis of inflammation on endomyocardial biopsy."
+    },
+    {
+      "Gene": "HLA-DR",
+      "Associated Conditions": [
+        "Myocarditis",
+        "Cardiac inflammation; antigen presentation/inflammatory marker on biopsy"
+      ],
+      "Occurrences": 1,
+      "context": "Use of anti‑HLA‑DR antibodies in immunohistochemistry as part of diagnosis of inflammation on endomyocardial biopsy."
+    }
+  ]
+}

@@ -1,112 +1,25 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism - Reviewers (page excerpt)",
-    "note": "Declarations of interest reported to the ESC by experts during yearly call for declaration covering previous calendar year (up to and including 2018).",
-    "date": "21/08/2019",
-    "page": "25/62",
-    "experts": [
-      {
-        "name": "Giannakoulas George",
-        "relationships": [
-          {
-            "company": "Vianex",
-            "condition": "Hyperlipidemia",
-            "year": 2018
-          },
-          {
-            "company": "MSD",
-            "condition": "Hyperlipidemia - Pulmonary Hypertension",
-            "year": 2018
-          },
-          {
-            "company": "Actelion",
-            "condition": "Pulmonary Hypertension",
-            "year": 2018
-          },
-          {
-            "company": "GlaxoSmithKline",
-            "condition": "Pulmonary Hypertension",
-            "year": 2018
-          },
-          {
-            "company": "Lilly",
-            "condition": "Pulmonary Hypertension",
-            "year": 2018
-          },
-          {
-            "company": "Galenica Greece",
-            "condition": "Pulmonary Hypertension",
-            "year": 2018
-          },
-          {
-            "company": "Boehringer-Ingelheim",
-            "condition": "Thromboembolic Disease",
-            "year": 2018
-          },
-          {
-            "company": "Elpen Pharmaceuticals",
-            "condition": "Thromboembolic Disease",
-            "year": 2018
-          },
-          {
-            "company": "Pfizer",
-            "condition": "Thromboembolic Disease - Heart Failure",
-            "year": 2018
-          }
-        ]
-      },
-      {
-        "name": "Gibbs Simon",
-        "declaration_type": "Financial Declaration (direct personal payment)",
-        "declaration_text": "A - DIRECT PERSONAL PAYMENT AS IT APPLIES TO YOU AND YOUR SPOUSE/PARTNER OR ANY OTHER MEMBER OF YOUR HOUSEHOLD, OR ANY ENTITY CONTROLLED DIRECTLY OR INDIRECTLY BY ANY OF ABOVE PERSONS: SPEAKER FEES, HONORARIA, CONSULTANCY, ADVISORY BOARD FEES, INVESTIGATOR, COMMITTEE MEMBER, ETC. FROM HEALTHCARE INDUSTRY.",
-        "relationships": [
-          {
-            "company": "Pfizer",
-            "condition": "Pulmonary Hypertension",
-            "year": 2018
-          },
-          {
-            "company": "Actelion",
-            "condition": "Pulmonary Hypertension",
-            "year": 2018
-          },
-          {
-            "company": "Merck Sharp & Dohme",
-            "condition": "Pulmonary Hypertension",
-            "year": 2018
-          },
-          {
-            "company": "GSK",
-            "condition": "Pulmonary Hypertension",
-            "year": 2018
-          },
-          {
-            "company": "Bellerophon",
-            "condition": "Pulmonary Hypertension",
-            "year": 2018
-          },
-          {
-            "company": "Arena",
-            "condition": "Pulmonary Hypertension",
-            "year": 2018
-          },
-          {
-            "company": "Complexa",
-            "condition": "Pulmonary Hypertension",
-            "year": 2018
-          },
-          {
-            "company": "Acceleron",
-            "condition": "Pulmonary Hypertension",
-            "year": 2018
-          },
-          {
-            "company": "Bayer Healthcare",
-            "condition": "Riociguat (drug)",
-            "year": 2018
-          }
-        ]
-      }
+    "Diagnosis": [
+      "D-dimer cut-off values adjusted for age or clinical probability can be used as an alternative to the fixed cut-off value.",
+      "Updated information is provided on the radiation dosage when using CTPA and a lung scan to diagnose PE (Table 6)."
+    ],
+    "Risk assessment": [
+      "A clear definition of haemodynamic instability and high-risk PE is provided (Table 4).",
+      "Assessment of PE severity and early PE-related risk is recommended, in addition to comorbidity/aggravating conditions and overall death risk.",
+      "A clear word of caution that RV dysfunction may be present, and affect early outcomes, in patients at low risk based on clinical risk scores."
+    ],
+    "Treatment in the acute phase": [
+      "Thoroughly revised section on haemodynamic and respiratory support for high-risk PE (Section 6.1).",
+      "A dedicated management algorithm is proposed for high-risk PE (Supplementary Figure 1).",
+      "NOACs are recommended as the first choice for anticoagulation treatment in a patient eligible for NOACs; VKAs are an alternative to NOACs.",
+      "The risk-adjusted management algorithm (Figure 6) was revised to take into consideration clinical PE severity, aggravating conditions/comorbidity, and the presence of RV dysfunction."
+    ],
+    "Chronic treatment after the first 3 months": [
+      "Risk factors for VTE recurrence have been classified according to high, intermediate, or low recurrence risk (Table 11).",
+      "Potential indications for extended anticoagulation are discussed, including the presence of a minor transient or reversible risk factor for the index PE, any persisting risk factor, or no identifiable risk factor.",
+      "Terminology such as provoked vs. unprovoked PE/VTE is no longer supported by the Guidelines, as it is potentially misleading and not helpful for decision-making regarding the duration of anticoagulation.",
+      "VTE recurrence scores are presented and discussed in parallel with bleeding scores for patients on anticoagulation treatment (Supplementary Tables 13 and 14)."
     ]
   },
   "genes": []

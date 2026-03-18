@@ -1,82 +1,17 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "preamble": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering previous calendar year (calls conducted during guideline development up to and including 2020).",
-    "expert": "Crespo-Leiro Maria Generosa",
-    "entries": [
-      {
-        "year": 2019,
-        "declaration_type": "Financial Declaration",
-        "direct_personal_payments": [
-          {
-            "company": "Astra Zeneca",
-            "associated_condition": "Heart Failure"
-          },
-          {
-            "company": "Novartis",
-            "associated_condition": "Heart Failure"
-          },
-          {
-            "company": "Merck Sharp & Dohme",
-            "associated_condition": "Heart Failure"
-          },
-          {
-            "company": "Astellas",
-            "associated_condition": "Heart Transplantation"
-          }
-        ],
-        "travel_and_meeting_support": [
-          {
-            "company": "Novartis",
-            "associated_condition": "Heart Failure"
-          }
-        ],
-        "research_funding": [
-          {
-            "company": "Rovi",
-            "associated_condition": "Heart Failure",
-            "note": "Funding to department or institution under direct/personal responsibility"
-          }
-        ]
-      },
-      {
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "direct_personal_payments": [
-          {
-            "company": "Astra Zeneca",
-            "associated_condition": "Heart Failure"
-          },
-          {
-            "company": "Novartis",
-            "associated_condition": "Heart Failure"
-          },
-          {
-            "company": "Vifor International",
-            "associated_condition": "Heart Failure"
-          },
-          {
-            "company": "Medtronic Foundation",
-            "associated_condition": "Heart Failure"
-          },
-          {
-            "company": "Rovi",
-            "associated_condition": "Heart Failure"
-          },
-          {
-            "company": "Astellas",
-            "associated_condition": "Heart Transplantation"
-          }
-        ],
-        "travel_and_meeting_support": [
-          {
-            "company": "Novartis",
-            "associated_condition": "Heart Failure"
-          }
-        ]
-      }
-    ],
-    "document_date": "12/08/2021"
+    "ACS": "Acute coronary syndrome",
+    "ADHF": "Acutely decompensated heart failure",
+    "AF": "Atrial fibrillation",
+    "AF-CHF": "Atrial fibrillation and Congestive Heart Failure (trial)",
+    "AFFIRM": "Atrial Fibrillation Follow-up Investigation of Rhythm Management (trial)",
+    "AFFIRM-AHF": "Randomized, double-blind placebo-controlled trial comparing effect of intravenous ferric carboxymaltose on hospitalizations and mortality in iron-deficient subjects admitted for acute heart failure (trial)",
+    "AHF": "Acute heart failure",
+    "AL": "Light chain immunoglobulin",
+    "AL-CA": "Light chain immunoglobulin cardiac amyloidosis",
+    "AMICA": "Atrial Fibrillation Management in Congestive Heart Failure With Ablation (trial)",
+    "ANCA": "Antineutrophil cytoplasmic antibody",
+    "ARB": "Angiotensin-receptor blocker"
   },
   "genes": []
 }

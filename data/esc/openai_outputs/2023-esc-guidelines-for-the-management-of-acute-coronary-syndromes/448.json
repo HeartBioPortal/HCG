@@ -1,0 +1,55 @@
+{
+  "content": {
+    "title": "Recommendations for the initial management of patients with acute coronary syndrome",
+    "source_layout_notes": "Table of recommendations with class (I/III) and evidence grade (A/B/C). Sections include initial management and reperfusion therapy for STEMI.",
+    "recommendations": [
+      {
+        "text": "Pre-hospital management of patients with a working diagnosis of STEMI is based on regional networks designed to deliver reperfusion therapy expeditiously and effectively, with efforts made to make PPCI available to as many patients as possible.",
+        "Class": "I",
+        "Evidence": "B"
+      },
+      {
+        "text": "PPCI-capable centres should deliver a 24/7 service and be able to perform PPCI without delay.",
+        "Class": "I",
+        "Evidence": "B"
+      },
+      {
+        "text": "Patients transferred for PPCI should bypass the emergency department and CCU/ICU and be transferred directly to the catheterization laboratory.",
+        "Class": "I",
+        "Evidence": "B"
+      },
+      {
+        "text": "Oxygen is recommended in patients with hypoxaemia (SaO2 <90%).",
+        "Class": "I",
+        "Evidence": "C"
+      },
+      {
+        "text": "EMS should transfer patients with suspected STEMI to a PCI-capable centre, bypassing non-PCI centres.",
+        "Class": "I",
+        "Evidence": "C"
+      },
+      {
+        "text": "Ambulance teams should be trained and equipped to identify ECG patterns suggestive of acute coronary occlusion and to administer initial therapy, including defibrillation and fibrinolysis when applicable.",
+        "Class": "I",
+        "Evidence": "C"
+      },
+      {
+        "text": "All hospitals and EMS participating in the care of patients with suspected STEMI should record and audit delay times and work together to achieve and maintain quality targets.",
+        "Class": "I",
+        "Evidence": "C"
+      },
+      {
+        "text": "Routine oxygen is not recommended in patients with oxygen saturation >90%.",
+        "Class": "III",
+        "Evidence": "A"
+      },
+      {
+        "section_heading": "Recommendations for reperfusion therapy for patients with STEMI",
+        "text": "Reperfusion therapy is recommended in all patients with a working diagnosis of STEMI (persistent ST-segment elevation or equivalents) and symptoms of ischaemia of ≤12 h duration.",
+        "Class": "I",
+        "Evidence": "A"
+      }
+    ]
+  },
+  "genes": []
+}

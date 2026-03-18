@@ -1,0 +1,72 @@
+{
+  "content": {
+    "title": "Pharmacological treatments to be considered in patients with (NYHA class II–IV) heart failure with mildly reduced ejection fraction",
+    "patient_population": "Patients with HFmrEF (heart failure with mildly reduced ejection fraction), NYHA class II–IV",
+    "recommendationsTable": [
+      {
+        "recommendation": "Diuretics are recommended in patients with congestion and HFmrEF in order to alleviate symptoms and signs.",
+        "class": "I",
+        "level": "C",
+        "references": [
+          "137"
+        ]
+      },
+      {
+        "recommendation": "An ACE-I may be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death.",
+        "class": "IIb",
+        "level": "C",
+        "references": [
+          "11"
+        ]
+      },
+      {
+        "recommendation": "An ARB may be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death.",
+        "class": "IIb",
+        "level": "C",
+        "references": [
+          "245"
+        ]
+      },
+      {
+        "recommendation": "A beta-blocker may be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death.",
+        "class": "IIb",
+        "level": "C",
+        "references": [
+          "12",
+          "119"
+        ]
+      },
+      {
+        "recommendation": "An MRA may be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death.",
+        "class": "IIb",
+        "level": "C",
+        "references": [
+          "246"
+        ]
+      },
+      {
+        "recommendation": "Sacubitril/valsartan may be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death.",
+        "class": "IIb",
+        "level": "C",
+        "references": [
+          "13",
+          "247"
+        ]
+      }
+    ],
+    "abbreviations": {
+      "ACE-I": "angiotensin-converting enzyme inhibitor",
+      "ARB": "angiotensin-receptor blocker",
+      "HF": "heart failure",
+      "HFmrEF": "heart failure with mildly reduced ejection fraction",
+      "MRA": "mineralocorticoid receptor antagonist",
+      "NYHA": "New York Heart Association"
+    },
+    "notes": {
+      "a": "Class of recommendation.",
+      "b": "Level of evidence.",
+      "source_marker": "© ESC 2021 (visible on page)"
+    }
+  },
+  "genes": []
+}

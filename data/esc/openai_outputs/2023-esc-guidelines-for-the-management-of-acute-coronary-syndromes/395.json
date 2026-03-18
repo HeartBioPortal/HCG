@@ -1,0 +1,33 @@
+{
+  "content": {
+    "text_snippets": [
+      {
+        "id": "antiplatelet_12mo",
+        "text": "A dose for stroke prevention and a single oral antiplatelet agent (preferably clopidogrel) for up to 12 months is recommended.",
+        "recommendation_class": null,
+        "level_of_evidence": null
+      },
+      {
+        "id": "ufh_bolus_during_PCI",
+        "text": "During PCI, a UFH bolus is recommended in any of the following circumstances: if the patient is on a NOAC; if the INR is <2.5 in VKA-treated patients.",
+        "recommendation_class": "I",
+        "level_of_evidence": "C"
+      },
+      {
+        "id": "avoid_ticagrelor_prasugrel_triple",
+        "text": "The use of ticagrelor or prasugrel as part of triple antithrombotic therapy is not recommended.",
+        "recommendation_class": "III",
+        "level_of_evidence": "C"
+      }
+    ],
+    "key_terms": [
+      "clopidogrel (preferred single oral antiplatelet)",
+      "UFH bolus (during PCI)",
+      "NOAC (circumstance for UFH bolus)",
+      "INR <2.5 in VKA-treated patients (circumstance for UFH bolus)",
+      "ticagrelor (not recommended in triple therapy)",
+      "prasugrel (not recommended in triple therapy)"
+    ]
+  },
+  "genes": []
+}

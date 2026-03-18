@@ -1,0 +1,138 @@
+{
+  "content": {
+    "infectious_causes": [
+      "Lyme disease (Borrelia). Treatment with doxycycline.",
+      "Chagas disease (Trypanosoma cruzi). Specific treatment according to current recommendations."
+    ],
+    "autoimmune_inflammatory": "Consider immunosuppressive therapy in giant cell myocarditis, eosinophilic myocarditis, sarcoidosis or vasculitis, and in highly selected patients with increased cardiac inflammation of unknown origin based on multidisciplinary counselling (cardiology and immunology).",
+    "diagnostic_criteria_and_definitions": {
+      "DCM": "LV dilatation and systolic dysfunction in the absence of known abnormal loading conditions or significant CAD.",
+      "HNDC": "LV or biventricular global systolic dysfunction (LVEF <45%) without dilatation in the absence of known abnormal loading conditions or significant CAD.",
+      "familial_consideration": "DCM and HNDC can be considered familial if two or more first- or second-degree relatives have DCM or HNDC, or a first-degree relative has autopsy proven DCM and sudden death at <50 years of age."
+    },
+    "genetic_counselling_and_testing": {
+      "indication": "All patients with a diagnosis of DCM or HNDC and all first-degree adult relatives of these patients and a definite disease-causing mutation, regardless of phenotype, to identify genetically affected individuals at a preclinical phase.",
+      "family_follow_up": "First-degree adult relatives should have their evaluation repeated every 5 years or less when aged <50 years or non-diagnostic abnormalities are found.",
+      "evaluation": "Clinical evaluation, ECG, echocardiography and possibly CMR must be performed in first-degree relatives of patients.",
+      "results": "Can identify patients with DCM or HNDC at highest risk of arrhythmia and/or deserving other specific treatments. Early identification of asymptomatic relatives may lead to early treatment and prevention of progression to HF and proper genetic counseling.",
+      "minimal_set_of_genes": "TTN, LMNA, MHC, TNNT, troponin-C, MYPC, RBM20, PLN, sodium channel alpha unit, BAG3, actin alpha cardiac muscle, nexilin, tropomyosin-1, vinculin.",
+      "additional_sequencing": "The use of additional sequencing for the analysis of very large panel of genes may be considered when there is a clear familial history or structural phenotype, by preference combined with family segregation."
+    },
+    "endomyocardial_biopsy": {
+      "indication": "In suspected phenotypes requiring specific treatments (i.e. giant cell myocarditis, eosinophilic myocarditis, sarcoidosis, vasculitis, SLE, other systemic, auto-immune inflammatory conditions, or storage diseases)."
+    }
+  },
+  "genes": [
+    {
+      "Gene": "TTN",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Familial cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Listed in the 'Minimal set of genes' for genetic testing in patients with DCM/HNDC."
+    },
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Arrhythmia/conduction disease risk"
+      ],
+      "Occurrences": 1,
+      "context": "Included in the minimal gene panel for DCM; LMNA variants are known contributors to familial DCM with arrhythmia risk (listed in the minimal set)."
+    },
+    {
+      "Gene": "RBM20",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)"
+      ],
+      "Occurrences": 1,
+      "context": "Named in the minimal set of genes for DCM genetic testing."
+    },
+    {
+      "Gene": "PLN",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)"
+      ],
+      "Occurrences": 1,
+      "context": "Listed among genes in the minimal panel for familial DCM/HNDC evaluation."
+    },
+    {
+      "Gene": "BAG3",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)"
+      ],
+      "Occurrences": 1,
+      "context": "Included in the guideline's minimal gene set for DCM genetic testing."
+    },
+    {
+      "Gene": "ACTC1",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Cardiac muscle disease"
+      ],
+      "Occurrences": 1,
+      "context": "Appears as 'actin alpha cardiac muscle' in the minimal gene list; corresponds to ACTC1, a known cardiomyopathy gene."
+    },
+    {
+      "Gene": "NEXN",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)"
+      ],
+      "Occurrences": 1,
+      "context": "Listed as 'nexilin' in the minimal set of genes for DCM testing; NEXN is the gene encoding nexilin."
+    },
+    {
+      "Gene": "TPM1",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)"
+      ],
+      "Occurrences": 1,
+      "context": "Shown as 'tropomyosin-1' in the minimal gene panel; corresponds to TPM1 associated with cardiomyopathy."
+    },
+    {
+      "Gene": "VCL",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)"
+      ],
+      "Occurrences": 1,
+      "context": "Listed as 'vinculin' in the minimal gene list for familial DCM evaluation; VCL encodes vinculin."
+    },
+    {
+      "Gene": "TNNC1",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Troponin-related cardiomyopathies"
+      ],
+      "Occurrences": 1,
+      "context": "Appears as 'troponin-C' in the minimal gene set; TNNC1 encodes cardiac troponin C implicated in cardiomyopathy."
+    },
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Cardiac conduction/arrhythmia"
+      ],
+      "Occurrences": 1,
+      "context": "Referenced as 'sodium channel alpha unit' in the minimal gene panel for DCM; SCN5A is the main cardiac sodium channel gene."
+    },
+    {
+      "Gene": "MYBPC3",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Listed as 'MYPC' in the minimal gene list; commonly corresponds to MYBPC3 (myosin-binding protein C) in cardiomyopathy gene panels."
+    },
+    {
+      "Gene": "TNNT2",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Troponin-related cardiomyopathies"
+      ],
+      "Occurrences": 1,
+      "context": "Shown as 'TNNT' in the minimal gene set; TNNT2 (cardiac troponin T) is the likely cardiac troponin T gene referred to in the guideline."
+    }
+  ]
+}

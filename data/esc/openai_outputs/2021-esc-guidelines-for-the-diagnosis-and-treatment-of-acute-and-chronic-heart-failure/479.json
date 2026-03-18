@@ -1,0 +1,67 @@
+{
+  "content": {
+    "topic": "Iron deficiency in chronic heart failure",
+    "summary": "List of references and key points from guideline/literature citations addressing prevalence, diagnosis, screening, and treatment of iron deficiency in heart failure, including a report that high soluble transferrin receptor is a measure of iron deficiency and a predictor of mortality.",
+    "key_points": [
+      "Disordered iron homeostasis is associated with chronic heart failure and relates to anemia, exercise capacity, and survival.",
+      "Guidance on screening, diagnosis and treatment of iron deficiency in chronic heart failure (implementation of 2016 ESC HF guidelines).",
+      "Iron deficiency occurs across chronic inflammatory conditions and has international expert recommendations for definition, diagnosis, and management.",
+      "High soluble transferrin receptor levels in patients with heart failure indicate iron deficiency and strongly predict mortality.",
+      "Iron deficiency represents a significant burden in heart failure and influences skeletal muscle function."
+    ],
+    "references": [
+      {
+        "id": 708,
+        "citation": "Okonko DO, Mandal AK, Missouri CG, Poole-Wilson PA. Disordered iron homeostasis in chronic heart failure: prevalence, predictors, and relation to anemia, exercise capacity, and survival. J Am Coll Cardiol. 2011;58:1241–1251."
+      },
+      {
+        "id": 709,
+        "citation": "McDonagh T, Damy T, Doehner W, Lam CSP, Sindone A, van der Meer P, Cohen-Solal A, Kindermann I, Manito N, Pfister O, Pohjantahti-Maaroos H, Taylor J, Comin-Colet J. Screening, diagnosis and treatment of iron deficiency in chronic heart failure: putting the 2016 European Society of Cardiology heart failure guidelines into clinical practice. Eur J Heart Fail. 2018;20:1664–1672."
+      },
+      {
+        "id": 710,
+        "citation": "Cappellini MD, Comin-Colet J, de Francisco A, Dignass A, Doehner W, Lam CS, Macdougall IC, Rogler G, Camaschella C, Kadir R, Kassebaum NJ, Spahn DR, Taher AT, Musallam KM; IRON CORE Group. Iron deficiency across chronic inflammatory conditions: international expert opinion on definition, diagnosis, and management. Am J Hematol. 2017;92:1068–1078."
+      },
+      {
+        "id": 711,
+        "citation": "Lopez A, Cacoub P, Macdougall IC, Peyrin-Biroulet L. Iron deficiency anaemia. Lancet. 2016;387:907–916."
+      },
+      {
+        "id": 712,
+        "citation": "Sierpinski R, Josiak K, Suchocki T, Wojtas-Polc K, Mazur G, Butrym A, Rozentryt P, van der Meer P, Comin-Colet J, von Haehling S, Kosmala W, Przewlocka-Kosmala M, Banasiak W, Nowak J, Voors AA, Anker SD, Cleland JGF, Ponikowski P, Jankowska EA. High soluble transferrin receptor in patients with heart failure: a measure of iron deficiency and a strong predictor of mortality. Eur J Heart Fail. 2020 Oct 27. doi:10.1002/ejhf.2036. [Epub ahead of print]."
+      },
+      {
+        "id": 713,
+        "citation": "Rocha BML, Cunha GJL, Falcao Menezes LF. The burden of iron deficiency in heart failure: therapeutic approach. J Am Coll Cardiol. 2018;71:782–793."
+      },
+      {
+        "id": 714,
+        "citation": "Klip IT, Comin-Colet J, Voors AA, Ponikowski P, Enjuanes C, Banasiak W, Lok DJ, Rosentryt P, Torrens A, Polonski L, van Veldhuisen DJ, van der Meer P, Jankowska EA. Iron deficiency in chronic heart failure: an international pooled analysis. Am Heart J. 2013;165:575–582.e3."
+      },
+      {
+        "id": 715,
+        "citation": "Jankowska EA, Rozentryt P, Witkowska A, Nowak J, Hartmann O, Ponikowska B, Borodulin-Nadzieja L, Banasiak W, Polonski L, Filippatos G, McMurray JJ, Anker SD, Ponikowski P. Iron deficiency: an ominous sign in patients with systolic chronic heart failure. Eur Heart J. 2010;31:1872–1880."
+      },
+      {
+        "id": 716,
+        "citation": "von Haehling S, Jankowska EA, van Veldhuisen DJ, Ponikowski P, Anker SD. Iron deficiency and cardiovascular disease. Nat Rev Cardiol. 2015;12:659–669."
+      },
+      {
+        "id": 717,
+        "citation": "Stugiewicz M, Tkaczyszyn M, Kasztura M, Banasiak W, Ponikowski P, Jankowska EA. The influence of iron deficiency on the functioning of skeletal muscles: experimental evidence and clinical implications. Eur J Heart Fail. 2016;18:762–773."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "TFRC",
+      "Associated Conditions": [
+        "Heart failure",
+        "Iron deficiency",
+        "Predictor of mortality in heart failure"
+      ],
+      "Occurrences": 1,
+      "context": "Reference 712 reports 'High soluble transferrin receptor in patients with heart failure: a measure of iron deficiency and a strong predictor of mortality' (soluble transferrin receptor refers to the transferrin receptor encoded by TFRC)."
+    }
+  ]
+}

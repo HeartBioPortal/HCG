@@ -1,0 +1,78 @@
+{
+  "content": {
+    "conditions": {
+      "Acute decompensated heart failure": {
+        "Main treatment": [
+          "Diuretics",
+          "Inotropic agents/vasopressors (if peripheral hypoperfusion/hypotension)",
+          "Short-term MCS or RRT if needed"
+        ],
+        "Main mechanisms": [
+          "LV dysfunction",
+          "Sodium and water renal retention"
+        ],
+        "Main cause of symptoms": "Fluid accumulation, increased intraventricular pressure",
+        "Onset": "Gradual (days)",
+        "Main haemodynamic abnormalities": [
+          "Increased LVEDP and PCWP",
+          "Low or normal cardiac output",
+          "Normal to low SBP"
+        ]
+      },
+      "Acute pulmonary oedema": {
+        "Main treatment": [
+          "Diuretics",
+          "Vasodilators",
+          "Inotropic agents/vasopressors (if peripheral hypoperfusion/hypotension)",
+          "Short-term MCS or RRT if needed"
+        ],
+        "Main mechanisms": [
+          "Increased afterload and/or predominant LV diastolic dysfunction",
+          "Valvular heart disease"
+        ],
+        "Main cause of symptoms": "Fluid redistribution to the lungs and acute respiratory failure",
+        "Onset": "Rapid (hours)",
+        "Main haemodynamic abnormalities": [
+          "Increased LVEDP and PCWP",
+          "Normal cardiac output",
+          "Normal to high SBP"
+        ]
+      },
+      "Isolated right ventricular failure": {
+        "Main treatment": [
+          "Diuretics for peripheral congestion",
+          "Inotropic agents/vasopressors (if peripheral hypoperfusion/hypotension)",
+          "Short-term MCS or RRT if needed"
+        ],
+        "Main mechanisms": [
+          "RV dysfunction and/or pre-capillary pulmonary hypertension"
+        ],
+        "Main cause of symptoms": "Increased central venous pressure and often systemic hypoperfusion",
+        "Onset": "Gradual or rapid",
+        "Main haemodynamic abnormalities": [
+          "Increased RVEDP",
+          "Low cardiac output",
+          "Low SBP"
+        ]
+      },
+      "Cardiogenic shock": {
+        "Main treatment": [
+          "Inotropic agents/vasopressors",
+          "Short-term MCS or RRT"
+        ],
+        "Main mechanisms": [
+          "Severe cardiac dysfunction"
+        ],
+        "Main cause of symptoms": "Systemic hypoperfusion",
+        "Onset": "Gradual or rapid",
+        "Main haemodynamic abnormalities": [
+          "Increased LVEDP and PCWP",
+          "Low cardiac output",
+          "Low SBP"
+        ]
+      }
+    },
+    "notes": "Table depicts treatments, mechanisms, causes, onset, and haemodynamic abnormalities for four acute heart failure presentations."
+  },
+  "genes": []
+}

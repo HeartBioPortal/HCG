@@ -1,0 +1,83 @@
+{
+  "content": {
+    "page_title": "Multivessel disease, MINOCA and ACS complications (extracted recommendations)",
+    "sections": [
+      {
+        "title": "Multivessel disease in ACS patients presenting in cardiogenic shock",
+        "recommendations": [
+          {
+            "text": "IRA-only PCI during the index procedure is recommended.",
+            "class": "I",
+            "level": "B"
+          }
+        ]
+      },
+      {
+        "title": "Multivessel disease in haemodynamically stable STEMI patients undergoing PPCI",
+        "recommendations": [
+          {
+            "text": "Complete revascularization is recommended either during the index PCI procedure or within 45 days.",
+            "class": "I",
+            "level": "A"
+          },
+          {
+            "text": "PCI of the non-IRA should be based on angiographic severity.",
+            "class": "I",
+            "level": "B"
+          },
+          {
+            "text": "Invasive epicardial functional assessment of non-culprit segments of the IRA is not recommended during the index procedure.",
+            "class": "III",
+            "level": "C"
+          }
+        ]
+      },
+      {
+        "title": "Recommendations for myocardial infarction with non-obstructive coronary arteries (MINOCA)",
+        "recommendations": [
+          {
+            "text": "In patients with a working diagnosis of MINOCA, CMR imaging is recommended after invasive angiography if the final diagnosis is not clear.",
+            "class": "I",
+            "level": "B"
+          },
+          {
+            "text": "Management of MINOCA according to the final established underlying diagnosis is recommended, consistent with appropriate disease-specific guidelines.",
+            "class": "I",
+            "level": "B"
+          },
+          {
+            "text": "In all patients with an initial working diagnosis of MINOCA, it is recommended to follow a diagnostic algorithm to determine the underlying final diagnosis.",
+            "class": "I",
+            "level": "C"
+          }
+        ]
+      },
+      {
+        "title": "Recommendations for acute coronary syndrome complications — Atrial fibrillation",
+        "recommendations": [
+          {
+            "text": "Intravenous beta-blockers are recommended when rate control is needed in the absence of acute heart failure (HF) or hypotension.",
+            "class": "I",
+            "level": "C"
+          },
+          {
+            "text": "Intravenous amiodarone is recommended when rate control is needed in the presence of acute HF and no hypotension.",
+            "class": "I",
+            "level": "C"
+          },
+          {
+            "text": "Immediate electrical cardioversion is recommended in patients with ACS and haemodynamic instability and when adequate rate control cannot be achieved promptly with pharmacological agents.",
+            "class": "I",
+            "level": "C"
+          },
+          {
+            "text": "Intravenous amiodarone is recommended to facilitate electrical cardioversion and/or decrease risk (text truncated on source).",
+            "class": "I",
+            "level": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

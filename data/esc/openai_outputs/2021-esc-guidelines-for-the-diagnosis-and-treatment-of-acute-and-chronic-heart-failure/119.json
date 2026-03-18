@@ -1,0 +1,62 @@
+{
+  "content": {
+    "page_title": "Right heart catheterization / EMB / Heart failure with reduced ejection fraction",
+    "recommendations": [
+      {
+        "topic": "Right heart catheterization",
+        "recommendation": "Recommended in patients with severe HF being evaluated for heart transplantation or mechanical circulatory support (MCS).",
+        "class": "I",
+        "level": "C"
+      },
+      {
+        "topic": "Right heart catheterization",
+        "recommendation": "Should be considered in patients where HF is thought to be due to constrictive pericarditis, restrictive cardiomyopathy, congenital heart disease, and high-output states.",
+        "class": "IIa",
+        "level": "C"
+      },
+      {
+        "topic": "Right heart catheterization",
+        "recommendation": "Should be considered in patients with probable pulmonary hypertension (assessed by echo) to confirm diagnosis and assess reversibility before correction of valve/structural disease.",
+        "class": "IIa",
+        "level": "C"
+      },
+      {
+        "topic": "Right heart catheterization",
+        "recommendation": "May be considered in selected patients with HFpEF to confirm the diagnosis.",
+        "class": "IIb",
+        "level": "C"
+      },
+      {
+        "topic": "Endomyocardial biopsy (EMB)",
+        "recommendation": "Should be considered in patients with rapidly progressive HF despite standard therapy when there is a probability of a specific diagnosis that can be confirmed only in myocardial samples.",
+        "class": "IIa",
+        "level": "C",
+        "notes": "References cited (97, 98) in original."
+      }
+    ],
+    "section_5": {
+      "title": "Heart failure with reduced ejection fraction",
+      "subsection_5_1": {
+        "title": "The diagnosis of heart failure with reduced ejection fraction",
+        "content": "Diagnosis of HFrEF requires presence of symptoms and/or signs of HF and a reduced left ventricular ejection fraction (LVEF <40%). This is most usually obtained by echocardiography."
+      }
+    },
+    "abbreviations": {
+      "CAD": "coronary artery disease",
+      "CMR": "cardiac magnetic resonance",
+      "CTCA": "computed tomography coronary angiography",
+      "DCM": "dilated cardiomyopathy",
+      "EMB": "endomyocardial biopsy",
+      "HF": "heart failure",
+      "HFpEF": "heart failure with preserved ejection fraction",
+      "HFrEF": "heart failure with reduced ejection fraction",
+      "LGE": "late gadolinium enhancement",
+      "LVEF": "left ventricular ejection fraction",
+      "MCS": "mechanical circulatory support",
+      "PET": "positron emission tomography",
+      "SPECT": "single-photon emission computed tomography"
+    },
+    "notes": "Text contains some encoding artefacts in the image; content extracted focuses on visible recommendations and definitions."
+  },
+  "genes": []
+}

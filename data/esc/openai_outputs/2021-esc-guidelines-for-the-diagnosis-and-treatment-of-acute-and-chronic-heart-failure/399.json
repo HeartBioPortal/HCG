@@ -1,0 +1,29 @@
+{
+  "content": {
+    "Title": "Main (5): Proportion of patients with HFrEF who are prescribed a SGLT2 inhibitor in the absence of any contraindications",
+    "Numerator": "Number of patients with HFrEF who are prescribed a SGLT2 inhibitor.",
+    "Denominator": "Number of patients with HFrEF without any contraindications for SGLT2 inhibitor.",
+    "Abbreviations": "ACE — angiotensin-converting enzyme; ARB — angiotensin-receptor blocker; ARNI — angiotensin receptor–neprilysin inhibitor; HFa — heart failure; HFmrEF — heart failure with mildly reduced ejection fraction; HFpEF — heart failure with preserved ejection fraction; HFrEF — heart failure with reduced ejection fraction; ICD — implantable cardioverter-defibrillator; IHD — ischaemic heart disease; LBBB — left bundle branch block; LVEF — left ventricular ejection fraction; MRA — mineralocorticoid receptor antagonist; NP — natriuretic peptide; NYHA — New York Heart Association; OMT — optimal medical therapy; QI — quality indicator; SGLT2 — sodium-glucose co-transporter 2.",
+    "Notes": "Structural QIs are binary measurements (Yes/No), and thus, have only numerator definitions. Blood tests include urea, creatinine, electrolytes, full blood count, glucose, glycated haemoglobin, thyroid-stimulating hormone, liver function test, lipids, and iron profile.",
+    "Supplementary data": "Supplementary data with additional Supplementary Figures, Tables, and text complementing the full text are available on the European Heart Journal website and via the ESC website at www.escardio.org/guidelines.",
+    "Author information (excerpt)": "Author/Task Force Member Affiliations: Marianna Adamo; Andreas Baumbach; Michael Böhm; Haran Burri; Jelena Belutkienė; Ovidiu Chioncel; John G.F. Cleland; Andrew J.S. Coats; Maria G. Crespo-Leiro; Dimitrios Farmakis; Roy S. Gardner; Martine Gilard; Stephane Heymans; Arno W. Hoes."
+  },
+  "genes": [
+    {
+      "Gene": "ACE",
+      "Associated Conditions": [
+        "Heart failure (context: listed among cardiovascular-related abbreviations/therapies)"
+      ],
+      "Occurrences": 1,
+      "context": "Listed in the abbreviations line as 'ACE — angiotensin-converting enzyme' in the guideline's abbreviation list related to heart failure care."
+    },
+    {
+      "Gene": "SLC5A2 (SGLT2)",
+      "Associated Conditions": [
+        "Heart failure with reduced ejection fraction (HFrEF)"
+      ],
+      "Occurrences": 4,
+      "context": "The guideline repeatedly refers to 'SGLT2 inhibitor' for patients with HFrEF and defines 'SGLT2 — sodium-glucose co-transporter 2' in the abbreviations; SGLT2 is encoded by human gene SLC5A2."
+    }
+  ]
+}

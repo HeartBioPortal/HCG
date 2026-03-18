@@ -1,0 +1,56 @@
+{
+  "content": {
+    "title": "Treatment recommendations for ventricular arrhythmias and bradyarrhythmias (extracted)",
+    "recommendations": [
+      {
+        "recommendation": "Intravenous beta-blocker and/or amiodarone treatment is recommended for patients with polymorphic VT and/or VF unless contraindicated.",
+        "class": "I",
+        "level": "B",
+        "notes": "Reference numbers present on original page; applies to polymorphic ventricular tachycardia (VT) and ventricular fibrillation (VF)."
+      },
+      {
+        "recommendation": "Prompt and complete revascularization is recommended to treat myocardial ischaemia that may be present in patients with recurrent VT and/or VF.",
+        "class": "I",
+        "level": "C"
+      },
+      {
+        "recommendation": "Transvenous catheter pacing termination and/or overdrive pacing should be considered if VT cannot be controlled by repeated electrical cardioversion.",
+        "class": "IIa",
+        "level": "C"
+      },
+      {
+        "recommendation": "Radiofrequency catheter ablation at a specialized ablation centre followed by ICD implantation should be considered in patients with recurrent VT, VF, or electrical storm despite complete revascularization and optimal medical therapy.",
+        "class": "IIa",
+        "level": "C"
+      },
+      {
+        "recommendation": "Treatment of recurrent VT with haemodynamic relevance (despite repeated electrical cardioversion) with lidocaine may be considered if beta-blockers, amiodarone, and overdrive stimulation are not effective/applicable.",
+        "class": "IIb",
+        "level": "C"
+      },
+      {
+        "recommendation": "In patients with recurrent life‑threatening ventricular arrhythmias, sedation or general anaesthesia to reduce sympathetic drive may be considered.",
+        "class": "IIb",
+        "level": "C"
+      },
+      {
+        "recommendation": "ICD implantation or the temporary use of a wearable cardioverter defibrillator may be considered <40 days after MI in selected patients (incomplete revascularization, pre‑existing LVEF dysfunction, occurrence of arrhythmias >48 h after STEMI onset, polymorphic VT or VF).",
+        "class": "IIb",
+        "level": "C",
+        "notes": "Selection factors for consideration are listed in parentheses on original page."
+      },
+      {
+        "recommendation": "Treatment of asymptomatic and haemodynamically irrelevant ventricular arrhythmias with anti‑arrhythmic drugs is not recommended.",
+        "class": "III",
+        "level": "C"
+      },
+      {
+        "section": "Bradyarrhythmias",
+        "recommendation": "In cases of sinus bradycardia with haemodynamic intolerance or high‑degree AV block without stable escape rhythm: i.v. positive chronotropic medication (adrenaline, vasopressin, and/or atropine) is indicated.",
+        "class": "I",
+        "level": "C"
+      }
+    ]
+  },
+  "genes": []
+}

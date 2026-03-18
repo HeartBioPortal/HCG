@@ -1,0 +1,62 @@
+{
+  "content": {
+    "page_summary": "Reference list (citations 806–815) from a clinical guideline focusing on sleep-disordered breathing in heart failure and studies of statins (rosuvastatin) in chronic/systolic heart failure.",
+    "citations": [
+      {
+        "id": 806,
+        "citation": "Pearse SG, Cowie MR. Sleep-disordered breathing in heart failure. Eur J Heart Fail 2016;18:353–361.",
+        "note": "Review/summary on sleep-disordered breathing in patients with heart failure."
+      },
+      {
+        "id": 807,
+        "citation": "Cowie MR, Gallagher AM. Sleep disordered breathing and heart failure: what does the future hold? JACC Heart Fail 2017;5:715–723.",
+        "note": "Discussion of future directions linking sleep-disordered breathing and heart failure."
+      },
+      {
+        "id": 808,
+        "citation": "Cowie MR, Woehrle H, Wegscheider K, Angermann C, d'Ortho MP, Erdmann E, Levy P, Simonds AK, Somers VK, Zannad F, Teschler H. Adaptive servo-ventilation for central sleep apnea in systolic heart failure. N Engl J Med 2015;373:1095–1105.",
+        "note": "SERVE-HF trial investigating adaptive servo-ventilation for central sleep apnea in systolic heart failure."
+      },
+      {
+        "id": 809,
+        "citation": "Costanzo MR, Ponikowski P, Javaheri S, Augostini R, Goldberg L, Holcomb R, Kao A, Khayat RN, Oldenburg O, Stellbrink C, Abraham WT; remedē System Pivotal Trial Study Group. Transvenous neurostimulation for central sleep apnoea: a randomised controlled trial. Lancet 2016;388:974–982.",
+        "note": "Randomized trial of transvenous neurostimulation (remedē System) to treat central sleep apnoea."
+      },
+      {
+        "id": 810,
+        "citation": "Costanzo MR, Ponikowski P, Coats A, Javaheri S, Augostini R, Goldberg LR, Holcomb R, Kao A, Khayat RN, Oldenburg O, Stellbrink C, McKane S, Abraham WT; remedē System Pivotal Trial Study Group. Phrenic nerve stimulation to treat patients with central sleep apnoea and heart failure. Eur J Heart Fail 2018;20:1746–1754.",
+        "note": "Study on phrenic nerve stimulation for central sleep apnoea in heart failure patients."
+      },
+      {
+        "id": 811,
+        "citation": "Kjekshus J, Apetrei E, Barrios V, et al.; CORONA Group. Rosuvastatin in older patients with systolic heart failure. N Engl J Med 2007;357:2248–2261.",
+        "note": "CORONA trial evaluating rosuvastatin in older patients with systolic heart failure."
+      },
+      {
+        "id": 812,
+        "citation": "Tavazzi L, Maggioni AP, Marchioli R, Barlera S, Franzosi MG, Latini R, Lucci D, Nicolosi GL, Porcu M, Tognoni G; GISSI-HF Investigators. Effect of rosuvastatin in patients with chronic heart failure (the GISSI-HF trial): a randomised, double-blind, placebo-controlled trial. Lancet 2008;372:1231–1239.",
+        "note": "GISSI-HF randomized trial of rosuvastatin in chronic heart failure."
+      },
+      {
+        "id": 813,
+        "citation": "Al-Gobari M, Le HH, Fall M, Gueyffier F, Burnand B. No benefits of statins for sudden cardiac death prevention in patients with heart failure and reduced ejection fraction: a meta-analysis of randomized controlled trials. PLoS One 2017;12:e0171168.",
+        "note": "Meta-analysis finding no benefit of statins for sudden cardiac death prevention in patients with heart failure and reduced EF."
+      },
+      {
+        "id": 814,
+        "citation": "Rogers JK, Jhund PS, Perez AC, Bohm M, Cleland JG, Gullestad L, Kjekshus J, van Veldhuisen DJ, Wikstrand J, Wedel H, McMurray JJ, Pocock SJ. Effect of rosuvastatin on repeat heart failure hospitalizations: the CORONA trial (Controlled Rosuvastatin Multinational Trial in Heart Failure). JACC Heart Fail 2014;2:289–297.",
+        "note": "Analysis from CORONA on rosuvastatin's effect on repeat heart failure hospitalizations."
+      },
+      {
+        "id": 815,
+        "citation": "Feinstein MJ, Jhund P, Kang J, Ning H, Maggioni A, Wikstrand J, Kjekshus J, Tavazzi L, McMurray J, Lloyd-Jones DM. Do statins reduce the risk of myocardial infarction in patients with heart failure? A pooled individual-level reanalysis of CORONA and GISSI-HF. Eur J Heart Fail 2015;17:434–441.",
+        "note": "Pooled individual-level reanalysis of CORONA and GISSI-HF assessing statins' effect on myocardial infarction risk in heart failure patients."
+      }
+    ],
+    "themes": [
+      "Sleep-disordered breathing and central sleep apnea in heart failure (adaptive servo-ventilation, transvenous neurostimulation, phrenic nerve stimulation).",
+      "Multiple randomized trials and analyses assessing rosuvastatin/statins in chronic or systolic heart failure (CORONA, GISSI-HF) and meta-analysis showing limited/no benefit for some outcomes."
+    ]
+  },
+  "genes": []
+}

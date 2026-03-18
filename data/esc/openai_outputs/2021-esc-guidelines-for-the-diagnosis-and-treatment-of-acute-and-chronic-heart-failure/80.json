@@ -1,63 +1,40 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
-    "organization": "European Society of Cardiology (ESC)",
-    "purpose": "Declarations of interest reported to the ESC by experts during the yearly call for declaration conducted every January covering the previous calendar year (calls for declaration up to and including 2020).",
-    "document_date": "03/08/2021 (footer)",
-    "reviewers": [
-      {
-        "name": "Senni Michele",
-        "year": 2020,
-        "declaration": [
-          "Boehringer-Ingelheim : CARDIOVASCULAR",
-          "Novartis : cardiovascular",
-          "Vifor International : cardiovascular",
-          "Merck Sharp & Dohme : cardiovascular",
-          "Bayer AG : Cardiovascular"
-        ]
-      },
-      {
-        "name": "Sepp Robert",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "declaration": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Novartis : ARN inhibitors",
-          "Pharma Nord : coenzyme Q10",
-          "Takeda Pharmaceuticals : Fabry disease",
-          "Astra Zeneca : SGLT2 inhibitors",
-          "Boehringer-Ingelheim : SGLT2 inhibitors"
-        ]
-      },
-      {
-        "name": "Shlyakhto Evgeny",
-        "year": 2020,
-        "declaration": "Nothing to be declared"
-      },
-      {
-        "name": "Sitges Marta",
-        "year": 2020,
-        "declaration_type": "Financial Declaration",
-        "declaration": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Abbott : Heart Valve Disease",
-          "Edwards Lifesciences : Heart Valve Disease",
-          "Medtronic : Heart Valve Disease",
-          "Travel and meeting support from healthcare industry, independent of the above activities. - Abbott : Heart Valve Disease"
-        ]
-      }
-    ]
+    "Recommendations_for_management_of_patients_with_HF_and_AF": {
+      "anticoagulation": "DOACs recommended in preference to VKAs in patients with HF, except in moderate or severe mitral stenosis or mechanical prosthetic heart valves; use CHA2DS2-VASc to guide anticoagulation, NOACs preferred over warfarin in non-valvular AF.",
+      "rate_control": "Beta-blockers recommended for short- and long-term rate control in patients with HF and AF; AV node ablation may be considered for refractory symptomatic patients."
+    },
+    "Recommendations_for_management_of_patients_with_HF_and_CCS": {
+      "revascularization": "Coronary revascularization considered to relieve persistent symptoms of angina in patients with HF and CCS; myocardial revascularization recommended when angina persists despite anti-anginal drugs."
+    },
+    "Recommendations_for_management_of_patients_with_HF_and_diabetes": {
+      "SGLT2_inhibitors": "SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, sotagliflozin) are recommended in patients with T2DM at risk of CV events to reduce hospitalizations for HF, major CV events, end-stage renal dysfunction, and CV death; empagliflozin may be considered in patients with T2DM to prevent or delay onset of HF and prolong life."
+    },
+    "Recommendations_for_diagnosis_of_HF": {
+      "coronary_angiography": "Invasive coronary angiography may be considered in patients with HF and intermediate-to-high pre-test probability of CAD or presence of ischaemia on non-invasive stress tests.",
+      "CTCA": "CT coronary angiography may be considered in patients with low-to-intermediate pre-test probability of CAD to rule out coronary artery stenosis."
+    },
+    "Recommendations_for_device_therapy_in_HFREF": {
+      "ICD": "An ICD should be considered to reduce the risk of sudden death and all-cause mortality in symptomatic HF patients with reduced LVEF despite ≥3 months of OMT and expected survival >1 year.",
+      "CRT": "CRT recommended for symptomatic patients with HF in sinus rhythm with QRS duration 130–149 ms and LBBB morphology and LVEF ≤35% despite OMT to improve symptoms and reduce morbidity and mortality; upgrade to CRT may be considered in certain paced patients."
+    },
+    "Recommendations_for_management_of_patients_with_acute_HF": {
+      "diuretics": "Combination or loop diuretic strategies considered for patients with resistant oedema; adjust based on response.",
+      "vasodilators": "In selected hypertensive acute HF patients, IV vasodilators may be considered to improve symptoms and reduce congestion.",
+      "short_term_MCS": "Short-term mechanical circulatory support may be considered in refractory cardiogenic shock depending on patient age, comorbidities, and neurological function."
+    }
   },
   "genes": [
     {
-      "Gene": "SGLT2",
+      "Gene": "SLC5A2",
       "Associated Conditions": [
-        "Heart failure",
-        "Cardiovascular disease",
-        "Therapeutic target (SGLT2 inhibitors listed by industry)"
+        "Type 2 diabetes mellitus (T2DM)",
+        "Heart failure (HF)",
+        "Cardiovascular events (hospitalization for HF, CV death)",
+        "Renal dysfunction (end-stage renal disease)"
       ],
-      "Occurrences": 2,
-      "context": "Listed twice under Sepp Robert's 2020 financial declaration as 'Astra Zeneca : SGLT2 inhibitors' and 'Boehringer-Ingelheim : SGLT2 inhibitors' in the reviewers' declarations."
+      "Occurrences": 1,
+      "context": "Page recommends SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, sotagliflozin) in patients with T2DM to reduce hospitalizations for HF, major CV events, end-stage renal dysfunction, and CV death; empagliflozin mentioned to prevent or delay onset of HF and prolong life."
     }
   ]
 }

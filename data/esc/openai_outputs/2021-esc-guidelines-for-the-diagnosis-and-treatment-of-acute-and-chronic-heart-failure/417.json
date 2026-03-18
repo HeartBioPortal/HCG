@@ -1,0 +1,120 @@
+{
+  "content": {
+    "page_summary": "Reference list of clinical trials and meta-analyses addressing pharmacologic treatments for heart failure (predominantly heart failure with reduced ejection fraction and chronic heart failure). Entries include SGLT2 inhibitors, dapagliflozin, sotagliflozin, candesartan, ivabradine, vericiguat, and isosorbide dinitrate plus hydralazine among others.",
+    "references": [
+      {
+        "number": 134,
+        "citation": "Zannad F, Ferreira JP, Pocock SJ, Anker SD, Butler J, Filippatos G, Brueckmann M, Ofstad AP, Pfarr E, Jamal W, Packer M. SGLT2 inhibitors in patients with heart failure with reduced ejection fraction: a meta-analysis of the EMPEROR-Reduced and DAPA-HF trials. Lancet 2020;396:819-829.",
+        "interventions": [
+          "SGLT2 inhibitors"
+        ],
+        "trial": "EMPEROR-Reduced and DAPA-HF (meta-analysis)",
+        "condition": [
+          "heart failure with reduced ejection fraction"
+        ],
+        "journal_year": "Lancet 2020"
+      },
+      {
+        "number": 135,
+        "citation": "Jackson AM, Dewan P, Anand IS, Belohlavek J, Bengtsson O, de Boer RA, Bohm M, Boulton DW, Chopra VK, DeMets DL, Docherty KF, Dukat A, Greasley PJ, Howlett JG, Inzucchi SE, Katova T, Kober L, Kosiborod MN, Langkilde AM, Lindholm D, Ljungman CEA, Martinez FA, O'Meara E, Sabatine MS, Sjostrand M, Solomon SD, Tereshchenko S, Verma S, Jhund PS, McMurray JJV. Dapagliflozin and diuretic use in patients with heart failure and reduced ejection fraction in DAPA-HF. Circulation 2020;142:1040-1054.",
+        "interventions": [
+          "Dapagliflozin",
+          "diuretics (context: interaction/diuretic use)"
+        ],
+        "trial": "DAPA-HF (analysis)",
+        "condition": [
+          "heart failure with reduced ejection fraction"
+        ],
+        "journal_year": "Circulation 2020"
+      },
+      {
+        "number": 136,
+        "citation": "Bhatt DL, Szarek M, Steg PG, Cannon CP, Leiter LA, McGuire DK, Lewis JB, Riddle MC, Voors AA, Metra M, Lund LH, Komajda M, Testani JM, Wilcox CS, Ponikowski P, Lopes RD, Verma S, Lapuerta P, Pitt B, SOLOIST-WHF Trial Investigators. Sotagliflozin in patients with diabetes and recent worsening heart failure. N Engl J Med 2021;384:117-128.",
+        "interventions": [
+          "Sotagliflozin"
+        ],
+        "trial": "SOLOIST-WHF",
+        "condition": [
+          "diabetes with recent worsening heart failure"
+        ],
+        "journal_year": "N Engl J Med 2021"
+      },
+      {
+        "number": 137,
+        "citation": "Faris R, Flather M, Purcell H, Henein M, Poole-Wilson P, Coats A. Current evidence supporting the role of diuretics in heart failure: a meta-analysis of randomised controlled trials. Int J Cardiol 2002;82:149-158.",
+        "interventions": [
+          "diuretics (general)"
+        ],
+        "trial": "meta-analysis",
+        "condition": [
+          "heart failure"
+        ],
+        "journal_year": "Int J Cardiol 2002"
+      },
+      {
+        "number": 138,
+        "citation": "Granger CB, McMurray JJ, Yusuf S, Held P, Michelson EL, Olofsson B, Ostergren J, Pfeffer MA, Swedberg K, CHARM Investigators and Committees. Effects of candesartan in patients with chronic heart failure and reduced left-ventricular systolic function intolerant to angiotensin-converting-enzyme inhibitors: the CHARM-Alternative trial. Lancet 2003;362:77?-776.",
+        "interventions": [
+          "Candesartan"
+        ],
+        "trial": "CHARM-Alternative",
+        "condition": [
+          "chronic heart failure with reduced left-ventricular systolic function (ACE-inhibitor intolerant)"
+        ],
+        "journal_year": "Lancet 2003"
+      },
+      {
+        "number": 139,
+        "citation": "Swedberg K, Komajda M, Bohm M, Borer JS, Ford I, Dubost-Brama A, Lerebours G, Tavazzi L. SHIFT Investigators. Ivabradine and outcomes in chronic heart failure (SHIFT): a randomised placebo-controlled study. Lancet 2010;376:875-885.",
+        "interventions": [
+          "Ivabradine"
+        ],
+        "trial": "SHIFT",
+        "condition": [
+          "chronic heart failure"
+        ],
+        "journal_year": "Lancet 2010"
+      },
+      {
+        "number": 140,
+        "citation": "Swedberg K, Komajda M, Bohm M, Borer J, Robertson M, Tavazzi L, Ford I, SHIFT Investigators. Effects on outcomes of heart rate reduction by ivabradine in patients with congestive heart failure: is there an influence of beta-blocker dose? Findings from the SHIFT trial. J Am Coll Cardiol 2012;59:1938-1945.",
+        "interventions": [
+          "Ivabradine",
+          "beta-blocker (context: dose interaction)"
+        ],
+        "trial": "SHIFT (subanalysis)",
+        "condition": [
+          "congestive heart failure"
+        ],
+        "journal_year": "J Am Coll Cardiol 2012"
+      },
+      {
+        "number": 141,
+        "citation": "Armstrong PW, Pieske B, Anstrom KJ, Ezekowitz J, Hernandez AF, Butler J, Lam CSP, Ponikowski P, Voors AA, Jia G, McNulty SE, Patel MJ, Roessig L, Koglin J, O'Connor CM, VICTORIA Study Group. Vericiguat in patients with heart failure and reduced ejection fraction. N Engl J Med 2020;382:1883-1893.",
+        "interventions": [
+          "Vericiguat"
+        ],
+        "trial": "VICTORIA",
+        "condition": [
+          "heart failure with reduced ejection fraction"
+        ],
+        "journal_year": "N Engl J Med 2020"
+      },
+      {
+        "number": 142,
+        "citation": "Taylor AL, Ziesche S, Yancy C, Carson P, D'Agostino RJr., Ferdinand K, Taylor M, Adams K, Sabolinski M, Worcel M, Cohn JN, African-American Heart Failure Trial Investigators. Combination of isosorbide dinitrate and hydralazine in blacks with heart failure. N Engl J Med 2004;351:2049-2057.",
+        "interventions": [
+          "Isosorbide dinitrate",
+          "Hydralazine",
+          "Combination therapy"
+        ],
+        "trial": "African-American Heart Failure Trial (A-HeFT)",
+        "condition": [
+          "heart failure in Black patients"
+        ],
+        "journal_year": "N Engl J Med 2004"
+      }
+    ]
+  },
+  "genes": []
+}

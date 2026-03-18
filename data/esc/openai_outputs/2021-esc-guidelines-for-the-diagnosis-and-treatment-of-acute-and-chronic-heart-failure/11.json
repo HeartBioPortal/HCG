@@ -1,54 +1,140 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls are conducted during development of guidelines up to and including 2020.",
-    "expert": {
-      "name": "Cleland John",
-      "entries": [
-        {
-          "year": 2019,
-          "type": "Type of Relationship with Industry",
-          "items": [
-            "Philips : Heart Failure",
-            "Vifor International : Heart Failure",
-            "Roche Diagnostics : Heart Failure",
-            "MyoKardia : Heart Failure",
-            "Thermofisher : Heart Failure",
-            "Stealth Biopharmaceuticals : heart failure",
-            "Pharmacosmos : Heart Failure",
-            "Viscardia : Heart Failure - Devices"
-          ]
-        },
-        {
-          "year": 2019,
-          "type": "Other Positions of Influence",
-          "details": "Direct ownership of shares or direct financial interest in healthcare, media, education companies or in companies related to (suppliers), or in competition with the ESC and its mission; to reduce the burden of cardiovascular disease.",
-          "examples": [
-            "Healthcare - HEART FAILURE - Share options in HeartFelt technologies developing a device for measuring limb volume and congestion (CE marked; no trial data as yet). Share options in Viscardia developing a diaphragmatic pacing device (Phase IIa). Share options in Pharmaln developing developing new investigational medical products (Phase I)."
-          ],
-          "memberships_affiliations": [
-            "European Society of Cardiology",
-            "British Society for Heart Failure",
-            "British Cardiovascular Society",
-            "Royal College of Physicians (London and Edinburgh)",
-            "Royal College of Physicians and Surgeons (Glasgow)",
-            "American College of Cardiology"
-          ]
-        },
-        {
-          "year": 2020,
-          "type": "Financial Declaration",
-          "details": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "items": [
-            "Philips : Cardiac Imaging",
-            "Amgen : Heart Failure",
-            "Astra Zeneca : heart failure"
-          ]
-        }
-      ]
-    },
-    "footer_date": "12/08/2021"
+    "title": "Table of contents (selected sections)",
+    "sections": [
+      {
+        "section": "14.1.2",
+        "title": "New heart failure presenting during pregnancy",
+        "page": 3675
+      },
+      {
+        "section": "14.2",
+        "title": "Cardiomyopathies",
+        "page": 3677
+      },
+      {
+        "section": "14.2.1",
+        "title": "Epidemiology and diagnosis",
+        "page": 3677
+      },
+      {
+        "section": "14.2.2",
+        "title": "Treatment",
+        "page": 3677
+      },
+      {
+        "section": "14.3",
+        "title": "Left ventricular non-compaction",
+        "page": 3681
+      },
+      {
+        "section": "14.4",
+        "title": "Atrial disease",
+        "page": 3682
+      },
+      {
+        "section": "14.4.1",
+        "title": "Definition",
+        "page": 3682
+      },
+      {
+        "section": "14.4.2",
+        "title": "Diagnosis",
+        "page": 3682
+      },
+      {
+        "section": "14.4.3",
+        "title": "Management",
+        "page": 3682
+      },
+      {
+        "section": "14.5",
+        "title": "Myocarditis",
+        "page": 3682
+      },
+      {
+        "section": "14.5.1",
+        "title": "Epidemiology and diagnosis",
+        "page": 3682
+      },
+      {
+        "section": "14.5.2",
+        "title": "Treatment",
+        "page": 3682
+      },
+      {
+        "section": "14.6",
+        "title": "Amyloidosis",
+        "page": 3682
+      },
+      {
+        "section": "14.6.1",
+        "title": "Epidemiology and diagnosis",
+        "page": 3682
+      },
+      {
+        "section": "14.6.2",
+        "title": "Therapy of amyloidosis and heart failure",
+        "page": 3685
+      },
+      {
+        "section": "14.7",
+        "title": "Iron overload cardiomyopathy",
+        "page": 3685
+      },
+      {
+        "section": "14.8",
+        "title": "Adult congenital heart disease",
+        "page": 3686
+      },
+      {
+        "section": "15",
+        "title": "Key messages",
+        "page": 3688
+      },
+      {
+        "section": "16",
+        "title": "Gaps in evidence",
+        "page": 3689
+      },
+      {
+        "section": "17",
+        "title": "What to do and what not to do: messages from the guidelines",
+        "page": 3690
+      },
+      {
+        "section": "18",
+        "title": "Quality indicators",
+        "page": 3693
+      },
+      {
+        "section": "19",
+        "title": "Supplementary data",
+        "page": 3694
+      },
+      {
+        "section": "20",
+        "title": "Author information",
+        "page": 3694
+      },
+      {
+        "section": "21",
+        "title": "Appendix",
+        "page": 3694
+      },
+      {
+        "section": "22",
+        "title": "References",
+        "page": 3695
+      }
+    ],
+    "list_of_recommendations": [
+      {
+        "text": "Recommended diagnostic tests in all patients with suspected chronic heart failure",
+        "page": 3617
+      }
+    ],
+    "notes": "This page is a table-of-contents style listing of guideline sections and does not contain explicit mention of human genes."
   },
   "genes": []
 }

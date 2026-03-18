@@ -1,67 +1,62 @@
 {
   "content": {
-    "title": "Clinical Practice Guidelines Committee 2020-2022",
-    "organization": "European Society of Cardiology (ESC)",
-    "declaration_note": "For ESC Guidelines: The report below lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2020.",
-    "date_generated": "09/08/2021",
-    "experts": [
+    "title": "Causes of heart failure, common modes of presentation and specific investigations",
+    "table_rows": [
       {
-        "name": "Gale Christopher Peter",
-        "year": 2020,
-        "summary": "Financial Declaration: direct personal payments and research funding from healthcare industry.",
-        "companies": [
-          {
-            "company": "AstraZeneca",
-            "note": "acs hf (listed)"
-          },
-          {
-            "company": "Bristol Myers Squibb",
-            "note": "af (listed under research funding)"
-          },
-          {
-            "company": "Abbott",
-            "note": "diabetes (research funding)"
-          }
-        ]
+        "Cause": "CAD",
+        "Examples of presentations": "Myocardial infarction; Angina or angina-equivalent; Arrhythmias",
+        "Specific investigations": "Invasive coronary angiography; CT coronary angiography; Imaging stress tests (echo, nuclear, CMR)"
       },
       {
-        "name": "Halvorsen Sigrun",
-        "year": 2020,
-        "summary": "Financial Declaration: direct personal payments and payments to department/institution for personal services.",
-        "companies": [
-          {
-            "company": "Bristol Myers Squibb",
-            "note": "Anticoagulation"
-          },
-          {
-            "company": "Sanofi Aventis",
-            "note": "Lipid lowering"
-          },
-          {
-            "company": "Bayer",
-            "note": "Anticoagulation (payments to department/institution)"
-          },
-          {
-            "company": "Pfizer",
-            "note": "Anticoagulation (payments to department/institution)"
-          },
-          {
-            "company": "Novartis",
-            "note": "Heart failure (payments to department/institution)"
-          }
-        ]
+        "Cause": "Hypertension",
+        "Examples of presentations": "Heart failure with preserved systolic function; Malignant hypertension/acute pulmonary oedema",
+        "Specific investigations": "24 h ambulatory BP; Plasma metanephrines, renal artery imaging; Renin and aldosterone"
       },
       {
-        "name": "Iung Bernard",
-        "year": 2020,
-        "summary": "Nothing to be declared"
+        "Cause": "Valve disease",
+        "Examples of presentations": "Primary valve disease (e.g., aortic stenosis); Secondary valve disease (functional regurgitation); Congenital valve disease",
+        "Specific investigations": "Echocardiography (including transoesophageal/stress as indicated)"
       },
       {
-        "name": "Jaarsma Tiny",
-        "year": 2020,
-        "summary": "Nothing to be declared"
+        "Cause": "Arrhythmias",
+        "Examples of presentations": "Atrial tachyarrhythmias; Ventricular arrhythmias",
+        "Specific investigations": "Ambulatory ECG recording; Electrophysiology study if indicated"
+      },
+      {
+        "Cause": "CMPs",
+        "Examples of presentations": "Dilated, Hypertrophic, Restrictive cardiomyopathies; ARVC; Peripartum; Takotsubo syndrome; Toxin-related (alcohol, cocaine, iron, copper)",
+        "Specific investigations": "CMR; genetic testing; right and left heart catheterisation; angiography; trace elements/toxicology; LFTs, GGT"
+      },
+      {
+        "Cause": "Congenital heart disease",
+        "Examples of presentations": "Congenitally corrected/repaired transposition of great arteries; Shunt lesions; Repaired tetralogy of Fallot; Ebstein's anomaly",
+        "Specific investigations": "CMR"
+      },
+      {
+        "Cause": "Infective",
+        "Examples of presentations": "Viral myocarditis; Chagas disease; HIV; Lyme disease",
+        "Specific investigations": "CMR; EMB; Serology"
+      },
+      {
+        "Cause": "Drug-induced",
+        "Examples of presentations": "Anthracyclines; Trastuzumab; VEGF inhibitors; Immune checkpoint inhibitors; Proteasome inhibitors; RAF + MEK inhibitors",
+        "Specific investigations": ""
+      },
+      {
+        "Cause": "Infiltrative",
+        "Examples of presentations": "Amyloid; Sarcoidosis; Neoplastic",
+        "Specific investigations": "Serum electrophoresis and serum free light chains; Bence Jones protein; Bone scintigraphy; CMR; CT-PET; EMB; Serum ACE; FDG-PET; chest CT"
       }
     ]
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "ACE",
+      "Associated Conditions": [
+        "Infiltrative cardiac disease (sarcoidosis evaluation)"
+      ],
+      "Occurrences": 1,
+      "context": "Listed under 'Infiltrative' investigations as 'Serum ACE' alongside CMR and FDG-PET for evaluation of amyloid/sarcoidosis/neoplastic causes"
+    }
+  ]
 }

@@ -1,85 +1,18 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year. Calls for declaration were conducted during development up to and including 2022.",
-    "experts": [
-      {
-        "name": "Ducrocq Gregory",
-        "entries": [
-          {
-            "year": 2022,
-            "declaration": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.; Research funding from healthcare industry under your direct/personal responsibility (to department or institution).",
-            "companies_and_associated_conditions": [
-              {
-                "company": "Astra Zeneca",
-                "associated_condition": "Acute Coronary Syndromes"
-              },
-              {
-                "company": "Abbott",
-                "associated_condition": "Atrial Fibrillation (AF)"
-              },
-              {
-                "company": "Boston Scientific",
-                "associated_condition": "Atrial Fibrillation (AF)"
-              },
-              {
-                "company": "Bristol Myers Squibb",
-                "associated_condition": "Atrial Fibrillation (AF)"
-              },
-              {
-                "company": "Novo-Nordisk",
-                "associated_condition": "Chronic Heart Failure"
-              },
-              {
-                "company": "Bayer",
-                "associated_condition": "Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS)"
-              },
-              {
-                "company": "Amgen",
-                "associated_condition": "Risk Factors and Prevention"
-              },
-              {
-                "company": "Sanofi Aventis",
-                "associated_condition": "Risk Factors and Prevention"
-              },
-              {
-                "company": "Pfizer",
-                "associated_condition": "Funding for research on amyloidosis; Investigator"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Elezi Shpend",
-        "entries": [
-          {
-            "year": 2021,
-            "declaration": "Nothing to be declared"
-          },
-          {
-            "year": 2022,
-            "declaration": "Nothing to be declared"
-          }
-        ]
-      },
-      {
-        "name": "Elwasify Tamer Mostafa",
-        "entries": [
-          {
-            "year": 2021,
-            "declaration": "Nothing to be declared"
-          },
-          {
-            "year": 2022,
-            "declaration": "Nothing to be declared"
-          }
-        ]
-      }
-    ],
-    "page_footer": {
-      "date": "16/05/2023",
-      "page": "14/57"
+    "abbreviations": {
+      "VF": "Ventricular fibrillation",
+      "VKA": "Vitamin K antagonist",
+      "VT": "Ventricular tachycardia"
+    },
+    "sections": {
+      "1. Preamble": [
+        "Guidelines evaluate and summarize available evidence with the aim of assisting health professionals in proposing the best diagnostic or therapeutic approach for an individual patient with a given condition. Guidelines are intended for use by health professionals and the European Society of Cardiology (ESC) makes its Guidelines freely available.",
+        "ESC Guidelines do not override the individual responsibility of health professionals to make appropriate and accurate decisions in consideration of each patient's health condition and in consultation with that patient or the patient's caregiver where appropriate and/or necessary. It is also the health professional's responsibility to verify the rules and regulations applicable in each country to drugs and devices at the time of prescription, and, where appropriate, to respect the ethical rules of their profession.",
+        "ESC Guidelines represent the official position of the ESC on a given topic and are regularly updated. ESC Policies and Procedures for formulating and issuing ESC Guidelines can be found on the ESC website (https://www.escardio.org/Guidelines).",
+        "The Members of this Task Force were selected by the ESC to represent professionals involved with the medical care of patients with this pathology. The selection procedure aimed to include members from across the whole of the ESC region and from relevant ESC Subspecialty Communities. Consideration was given to diversity and inclusion, notably with respect to gender and country of origin. The Task Force performed a critical evaluation of diagnostic and therapeutic approaches, including assessment of the risk-benefit ratio. The strength of every recommendation and the level of evidence supporting them were weighed and scored according to predefined scales as outlined below. The Task Force followed ESC voting procedures, and all approved recommendations were subject to a vote and achieved at least 75% agreement among voting members.",
+        "The experts of the writing and reviewing panels provided declaration of interest forms for all relationships that might be perceived as real or potential sources of conflicts of interest. Their declarations of interest were reviewed according to the ESC declaration of interest rules."
+      ]
     }
   },
   "genes": []

@@ -1,0 +1,46 @@
+{
+  "content": {
+    "title": "24 or 48-hour ambulatory ECG monitoring to detect atrial and ventricular arrhythmias",
+    "page_heading": "Initial diagnostic assessment in patients with suspected cardiomyopathy",
+    "sections": {
+      "History": "Detailed questions on any systemic disease, exposure to toxic agents (chemotherapy, alcohol, drugs), and familial history of cardiac or neuromuscular disease, or sudden cardiac death in family members at young age (<50 years).",
+      "Laboratory exams": "Include cardiac and muscular enzymes, liver and renal function, haemoglobin, white blood cell count (including differential to detect eosinophilia), natriuretic peptides, thyroid function tests, iron status, and markers of systemic auto-immune disease (hsCRP, anti-nuclear antibodies, soluble IL-2 receptor).",
+      "Standard 12-lead ECG and echocardiography": "To detect arrhythmias and assess cardiac structure and function and concomitant abnormalities.",
+      "Invasive coronary angiography or CTCA": "To rule out significant CAD in patients with cardiac dysfunction.",
+      "CMR imaging": "CMR with T1 and T2 sequencing and LGE to visualize structural changes, storage, infiltration, inflammation, fibrosis and scarring.",
+      "Genetic counselling and genetic testing": "Should be performed depending on age, family history, cardiac phenotype.",
+      "Ambulatory ECG monitoring": "24 or 48-hour ambulatory ECG monitoring to detect atrial and ventricular arrhythmias."
+    },
+    "abbreviations_listed": {
+      "CAD": "coronary artery disease",
+      "CMR": "cardiac magnetic resonance",
+      "CTCA": "computed tomography coronary angiography",
+      "ECG": "electrocardiogram",
+      "hsCRP": "high-sensitivity C-reactive protein",
+      "IL-2": "interleukin-2",
+      "LGE": "late gadolinium enhancement"
+    },
+    "table_reference": "Table 26 (Initial diagnostic assessment in patients with suspected cardiomyopathy)"
+  },
+  "genes": [
+    {
+      "Gene": "CRP",
+      "Associated Conditions": [
+        "systemic autoimmune disease (marker)",
+        "inflammatory marker in cardiomyopathy assessment",
+        "used in initial diagnostic workup for suspected cardiomyopathy"
+      ],
+      "Occurrences": 3,
+      "context": "hsCRP (high-sensitivity C-reactive protein) is listed among 'markers of systemic auto-immune disease' in laboratory exams for initial assessment of suspected cardiomyopathy."
+    },
+    {
+      "Gene": "IL2",
+      "Associated Conditions": [
+        "systemic autoimmune disease (soluble IL-2 receptor listed as marker)",
+        "immune activation/inflammation assessment in cardiomyopathy workup"
+      ],
+      "Occurrences": 3,
+      "context": "Soluble IL-2 receptor (IL-2 related) is listed as a marker of systemic autoimmune disease in laboratory examinations for patients with suspected cardiomyopathy."
+    }
+  ]
+}

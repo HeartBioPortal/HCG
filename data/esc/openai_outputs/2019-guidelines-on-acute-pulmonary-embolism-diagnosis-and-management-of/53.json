@@ -1,88 +1,35 @@
 {
   "content": {
-    "title": "ESC Committee for Practice Guidelines 2018-2020",
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year (calls conducted during period of development up to and including 2018).",
-    "page_date": "21/08/2019",
-    "experts": [
-      {
-        "name": "Landmesser Ulf",
-        "declarations": {
-          "1- Financial Declaration": {
-            "A - Direct personal payment (examples listed)": [
-              {
-                "company": "Abbott",
-                "relationship": "Advisory Board fees",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Medicines Company",
-                "relationship": "Advisory Board fees",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Amgen",
-                "relationship": "Speaker fees",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Sanofi Aventis",
-                "relationship": "Speaker fees",
-                "years": "2017-2018"
-              }
-            ],
-            "D - Research funding under direct/personal responsibility": [
-              {
-                "company": "Bayer AG",
-                "relationship": "Research Grant",
-                "years": "2017-2018"
-              }
-            ]
-          }
-        }
-      },
-      {
-        "name": "Leclercq Christophe",
-        "declarations": {
-          "1- Financial Declaration": {
-            "A - Direct personal payment (examples listed)": [
-              {
-                "company": "Livanova",
-                "relationship": "devices",
-                "years": "2017"
-              },
-              {
-                "company": "Abbott",
-                "relationship": "devices",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Boston Scientific",
-                "relationship": "devices",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Medtronic",
-                "relationship": "devices",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Biotronik",
-                "relationship": "devices",
-                "years": "2017-2018"
-              }
-            ],
-            "B - Payment to department or institution (example listed)": [
-              {
-                "company": "Biotronik",
-                "relationship": "devices",
-                "years": "2018"
-              }
-            ]
-          }
-        }
-      }
+    "page_title": "Risk factors (page)",
+    "strong_risk_factors_(OR_≥_2)": [
+      "Arthroscopic knee surgery",
+      "Autoimmune diseases",
+      "Blood transfusion",
+      "Central venous lines",
+      "Intravenous catheters and leads",
+      "Chemotherapy",
+      "Congestive heart failure or respiratory failure",
+      "Erythropoiesis-stimulating agents",
+      "Hormone replacement therapy (depends on formulation)",
+      "In vitro fertilization",
+      "Oral contraceptive therapy",
+      "Post-partum period",
+      "Infection (specifically pneumonia, urinary tract infection, and HIV)",
+      "Inflammatory bowel disease",
+      "Cancer (highest risk in metastatic disease)",
+      "Paralytic stroke",
+      "Superficial vein thrombosis",
+      "Thrombophilia"
     ],
-    "page_number": "53/62"
+    "weak_risk_factors_(OR_<_2)": [
+      "Bed rest >3 days",
+      "Diabetes mellitus",
+      "Arterial hypertension",
+      "Immobility due to sitting (e.g. prolonged car or air travel)",
+      "Increasing age",
+      "Laparoscopic surgery (e.g. cholecystectomy)"
+    ],
+    "notes": "Infections specified include pneumonia, urinary tract infection, and HIV. Cancer risk noted highest in metastatic disease. Hormone replacement risk depends on formulation."
   },
   "genes": []
 }

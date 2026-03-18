@@ -1,0 +1,58 @@
+{
+  "content": {
+    "title": "Risk factors for the development of heart failure and potential corrective actions",
+    "abbreviations": "CAD = coronary artery disease; CMP = cardiomyopathy; SGLT2 = sodium-glucose co-transporter 2",
+    "table_rows": [
+      {
+        "Risk factor": "Sedentary habit",
+        "Preventive strategy": "Regular physical activity"
+      },
+      {
+        "Risk factor": "Cigarette smoking",
+        "Preventive strategy": "Cigarette smoking cessation"
+      },
+      {
+        "Risk factor": "Obesity",
+        "Preventive strategy": "Physical activity and healthy diet"
+      },
+      {
+        "Risk factor": "Excessive alcohol intake",
+        "Preventive strategy": "General population: no/light alcohol intake is beneficial; Patients with alcohol-induced CMP should abstain from alcohol"
+      },
+      {
+        "Risk factor": "Influenza",
+        "Preventive strategy": "Influenza vaccination"
+      },
+      {
+        "Risk factor": "Microbes (e.g. Trypanosoma cruzi, Streptococci)",
+        "Preventive strategy": "Early diagnosis, specific antimicrobial therapy for either prevention and/or treatment"
+      },
+      {
+        "Risk factor": "Cardiotoxic drugs (e.g., anthracyclines)",
+        "Preventive strategy": "Cardiac function and side effect monitoring, dose adaptation, change of chemotherapy"
+      },
+      {
+        "Risk factor": "Chest radiation",
+        "Preventive strategy": "Cardiac function and side effect monitoring, dose adaptation"
+      },
+      {
+        "Risk factor": "Hypertension",
+        "Preventive strategy": "Lifestyle changes, antihypertensive therapy"
+      },
+      {
+        "Risk factor": "Dyslipidaemia",
+        "Preventive strategy": "Healthy diet, statins"
+      },
+      {
+        "Risk factor": "Diabetes mellitus",
+        "Preventive strategy": "Physical activity and healthy diet, SGLT2 inhibitors"
+      },
+      {
+        "Risk factor": "CAD",
+        "Preventive strategy": "Lifestyle changes, statin therapy"
+      }
+    ],
+    "source_table_note": "Table 10 (risk factors for heart failure; preventive strategies)"
+  },
+  "genes": []
+}

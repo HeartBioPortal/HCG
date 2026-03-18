@@ -1,44 +1,58 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Task Force Members",
-    "preface": "For ESC Guidelines: The report below lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2022.",
-    "experts": [
+    "section": "A",
+    "entries": [
       {
-        "name": "Wassmann Sven",
-        "year": 2022,
-        "type_of_relationship": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-        "companies_and_relationships": [
-          "Amgen : Pharmacology and Pharmacotherapy",
-          "Astra Zeneca : Pharmacology and Pharmacotherapy",
-          "Boehringer-Ingelheim : Pharmacology and Pharmacotherapy",
-          "Daiichi Sankyo : Pharmacology and Pharmacotherapy",
-          "Novartis : Pharmacology and Pharmacotherapy",
-          "Pfizer : Pharmacology and Pharmacotherapy",
-          "Lilly : Pharmacology and Pharmacotherapy",
-          "Berlin Chemie AG : Pharmacology and Pharmacotherapy",
-          "Vifor International : Pharmacology and Pharmacotherapy",
-          "Bristol Myers Squibb : Pharmacology and Pharmacotherapy",
-          "Bayer Vital : Pharmacology and Pharmacotherapy",
-          "Aponits : Pharmacology and Pharmacotherapy"
-        ],
-        "other_affiliations": "Membership or affiliation in political or advocacy groups working in the field of cardiology: Bundesverband Niedergelassener Kardiologen, Germany"
+        "abbreviation": "COLCOT",
+        "definition": "Colchicine Cardiovascular Outcomes Trial",
+        "occurrences": 1
       },
       {
-        "name": "Wenger Nanette",
-        "year": 2020,
-        "type_of_relationship": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-        "organizations_and_relationships": [
-          "Department of Defence (DoD) : Chair DSMB",
-          "NHLBI : Chair DSMB, member DSMB",
-          "Amarin : Consultanship",
-          "Boehringer-Ingelheim : Research grant",
-          "Zoll Medical : Research grant",
-          "Duke Clinical Research Institute : Research Grant",
-          "Astra Zeneca : Research Grant Consultantship"
-        ]
+        "abbreviation": "COMFORTABLE-AMI",
+        "definition": "Comparison of Biolimus Eluted From an Erodible Stent Coating With Bare Metal Stents in Acute ST-Elevation Myocardial Infarction",
+        "occurrences": 1
+      },
+      {
+        "abbreviation": "COMPARE-ACUTE",
+        "definition": "Comparison Between FFR Guided Revascularization Versus Conventional Strategy in Acute STEMI Patients With MVD",
+        "occurrences": 1
+      },
+      {
+        "abbreviation": "COMPASS",
+        "definition": "Cardiovascular Outcomes for People Using Anticoagulation Strategies",
+        "occurrences": 1
+      },
+      {
+        "abbreviation": "COMPLETE",
+        "definition": "Complete vs. Culprit-only Revascularization to Treat Multivessel Disease After Early PCI for STEMI",
+        "occurrences": 1
+      },
+      {
+        "abbreviation": "COVID-19",
+        "definition": "Coronavirus disease 2019",
+        "occurrences": 1
+      },
+      {
+        "abbreviation": "CR",
+        "definition": "Cardiac rehabilitation",
+        "occurrences": 1
+      },
+      {
+        "abbreviation": "CRT",
+        "definition": "Cardiac resynchronization therapy ± defibrillator/pacemaker",
+        "occurrences": 1
+      },
+      {
+        "abbreviation": "CS",
+        "definition": "Cardiogenic shock",
+        "occurrences": 1
+      },
+      {
+        "abbreviation": "CT",
+        "definition": "Computed tomography",
+        "occurrences": 1
       }
-    ],
-    "footer": "12/05/2023 22/23"
+    ]
   },
   "genes": []
 }

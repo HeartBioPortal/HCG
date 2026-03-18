@@ -1,107 +1,67 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS) - Task Force Members",
-    "date_on_page": "21/08/2019",
-    "page": "11/62",
-    "summary": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (up to and including 2018).",
-    "entries": [
+    "figures": [
       {
-        "name": "Ni Ainle Fionnuala",
-        "declarations": {
-          "B - Payment to your department or institution or any other body for your personal services": {
-            "description": "Speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry.",
-            "items": [
-              {
-                "company": "Bristol Myers Squibb",
-                "product": "apixaban",
-                "year": 2017
-              },
-              {
-                "company": "Sanofi Aventis",
-                "product": "clexane",
-                "year": 2017
-              },
-              {
-                "company": "Boehringer-Ingelheim",
-                "product": "dabigatran",
-                "year": 2017
-              },
-              {
-                "company": "Daiichi Sankyo",
-                "product": "edoxaban",
-                "year": 2017
-              },
-              {
-                "company": "Bayer",
-                "product": "rivaroxaban",
-                "year": 2017
-              },
-              {
-                "company": "Leo Pharma",
-                "product": "Tinzaparin",
-                "year": 2017
-              }
-            ]
-          },
-          "D - Research funding under your direct/personal responsibility (to department or institution) from healthcare industry": {
-            "description": "Research funding listed with company, indication or product, and years.",
-            "items": [
-              {
-                "company": "Actelion",
-                "product_or_indication": "congenital heart dx",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Bayer",
-                "product": "Rivaroxaban",
-                "years": "2017-2018"
-              },
-              {
-                "company": "BMS-Pfizer",
-                "product": "Apixaban",
-                "years": 2018
-              },
-              {
-                "company": "Sanofi Aventis",
-                "product": "Clexane",
-                "years": 2018
-              },
-              {
-                "company": "Leo Pharma",
-                "product": "Tinzaparin",
-                "years": 2018
-              }
-            ]
-          },
-          "Other positions of influence": {
-            "description": "Membership or affiliation in political or advocacy groups working in cardiology.",
-            "items": [
-              "Member of World Thrombosis Day International Steering Committee (http://www.worldthrombosisday.org/) (2018)"
-            ]
-          }
-        }
+        "figure": "Figure 3",
+        "title": "Graphic representation of transthoracic echocardiographic parameters in the assessment of right ventricular pressure overload",
+        "page": 558
       },
       {
-        "name": "Prandoni Paolo",
-        "declarations": {
-          "1 - Financial Declaration": {
-            "A - Direct personal payment": {
-              "description": "Direct personal payments to the individual or spouse/partner or household members: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry.",
-              "items": [
-                {
-                  "company": "Pfizer",
-                  "product_or_indication": "THROMBOSIS - APIXABAN",
-                  "years": "2017-2018"
-                },
-                {
-                  "company": "Sanofi Aventis",
-                  "product_or_indication": "THROMBOSIS - ENOXAPARIN",
-                  "years": "2017-2018"
-                }
-              ]
-            }
-          }
-        }
+        "figure": "Figure 4",
+        "title": "Diagnostic algorithm for patients with suspected high-risk pulmonary embolism, presenting with haemodynamic instability",
+        "page": 570
+      },
+      {
+        "figure": "Figure 5",
+        "title": "Diagnostic algorithm for patients with suspected pulmonary embolism without haemodynamic instability",
+        "page": 571
+      },
+      {
+        "figure": "Figure 6",
+        "title": "Risk-adjusted management strategy for acute pulmonary embolism",
+        "page": 573
+      },
+      {
+        "figure": "Figure 7",
+        "title": "Diagnostic workup for suspected pulmonary embolism during pregnancy and up to 6 weeks post-partum",
+        "page": 580
+      },
+      {
+        "figure": "Figure 8",
+        "title": "Follow-up strategy and diagnostic workup for long-term sequelae of pulmonary embolism",
+        "page": 586
+      }
+    ],
+    "abbreviations_and_acronyms": [
+      {
+        "abbreviation": "AcT",
+        "expansion": "Right ventricular outflow Doppler acceleration time",
+        "note": "Listed under Abbreviations and acronyms"
+      },
+      {
+        "abbreviation": "AFE",
+        "expansion": "Amniotic fluid embolism",
+        "note": "Listed under Abbreviations and acronyms"
+      },
+      {
+        "abbreviation": "ALT",
+        "expansion": "Alanine aminotransferase",
+        "note": "Listed under Abbreviations and acronyms"
+      },
+      {
+        "abbreviation": "AMPLIFY",
+        "expansion": "Apixaban for the Initial Management of Pulmonary Embolism and Deep-Vein Thrombosis as First-line Therapy",
+        "note": "Listed under Abbreviations and acronyms"
+      },
+      {
+        "abbreviation": "ASPIRE",
+        "expansion": "Aspirin to Prevent Recurrent Venous Thromboembolism trial",
+        "note": "Listed under Abbreviations and acronyms"
+      },
+      {
+        "abbreviation": "AV",
+        "expansion": "Arteriovenous",
+        "note": "Listed under Abbreviations and acronyms"
       }
     ]
   },

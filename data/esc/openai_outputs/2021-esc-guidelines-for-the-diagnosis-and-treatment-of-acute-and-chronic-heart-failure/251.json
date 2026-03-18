@@ -1,0 +1,50 @@
+{
+  "content": {
+    "title": "Recommendations (selected)",
+    "recommendations": [
+      {
+        "section": "Oxygen and ventilatory support",
+        "recommendation": "Oxygen is recommended in patients with SpO2 <90% or PaO2 <60 mmHg to correct hypoxaemia.",
+        "Class": "I",
+        "Level": "C",
+        "supporting_text": "Oxygen recommended for SpO2 <90% or PaO2 <60 mmHg to correct hypoxaemia."
+      },
+      {
+        "section": "Oxygen and ventilatory support",
+        "recommendation": "Intubation is recommended for progressive respiratory failure persisting in spite of oxygen administration or non-invasive ventilation.",
+        "Class": "I",
+        "Level": "C",
+        "supporting_text": "Intubation recommended for progressive respiratory failure not responding to oxygen/non-invasive ventilation."
+      },
+      {
+        "section": "Oxygen and ventilatory support",
+        "recommendation": "Non-invasive positive pressure ventilation should be considered in patients with respiratory distress (respiratory rate >25 breaths/min, SpO2 <90%) and started as soon as possible to decrease respiratory distress and reduce the rate of mechanical endotracheal intubation.",
+        "Class": "IIa",
+        "Level": "B",
+        "supporting_text": "Consider NIV for respiratory distress (RR >25/min, SpO2 <90%) to reduce distress and intubation rate."
+      },
+      {
+        "section": "Diuretics",
+        "recommendation": "Intravenous loop diuretics are recommended for all patients with AHF admitted with signs/symptoms of fluid overload to improve symptoms.",
+        "Class": "I",
+        "Level": "C",
+        "supporting_text": "IV loop diuretics recommended for AHF with fluid overload to improve symptoms."
+      },
+      {
+        "section": "Diuretics",
+        "recommendation": "Combination of a loop diuretic with thiazide-type diuretic should be considered in patients with resistant oedema who do not respond to an increase in loop diuretic doses.",
+        "Class": "IIa",
+        "Level": "B",
+        "supporting_text": "Consider adding thiazide-type diuretic to loop diuretic for resistant oedema unresponsive to increased loop doses."
+      },
+      {
+        "section": "Vasodilators",
+        "recommendation": "In patients with AHF and SBP >110 mmHg, intravenous vasodilators may be considered as initial therapy to improve symptoms and reduce congestion.",
+        "Class": "IIb",
+        "Level": "B",
+        "supporting_text": "IV vasodilators may be considered in AHF patients with SBP >110 mmHg to improve symptoms/reduce congestion."
+      }
+    ]
+  },
+  "genes": []
+}

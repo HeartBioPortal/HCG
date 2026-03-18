@@ -1,103 +1,40 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "organization": "European Society of Cardiology (ESC)",
-    "declaration_note": "The report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2020.",
-    "expert": "Cleland John",
-    "declaration_year": 2020,
-    "relationships_with_industry": [
-      {
-        "company": "Medtronic",
-        "topic": "Heart Failure"
-      },
-      {
-        "company": "Novartis",
-        "topic": "Heart Failure"
-      },
-      {
-        "company": "Servier",
-        "topic": "Heart Failure"
-      },
-      {
-        "company": "GlaxoSmithKline",
-        "topic": "heart failure"
-      },
-      {
-        "company": "Johnson & Johnson",
-        "topic": "Heart Failure"
-      },
-      {
-        "company": "Bayer Healthcare",
-        "topic": "Heart Failure"
-      },
-      {
-        "company": "Torrent",
-        "topic": "heart failure"
-      },
-      {
-        "company": "Vifor International",
-        "topic": "Heart Failure"
-      },
-      {
-        "company": "Bristol Myers Squibb",
-        "topic": "heart failure"
-      },
-      {
-        "company": "Respicardia",
-        "topic": "heart failure"
-      },
-      {
-        "company": "Roche Diagnostics",
-        "topic": "Heart Failure"
-      },
-      {
-        "company": "Zoll Medical",
-        "topic": "heart failure"
-      },
-      {
-        "company": "Sensible Medical",
-        "topic": "Heart Failure"
-      },
-      {
-        "company": "Stealthpeptides",
-        "topic": "Heart Failure"
-      },
-      {
-        "company": "Corvedia",
-        "topic": "Heart Failure"
-      },
-      {
-        "company": "Abbott",
-        "topic": "Heart failure devices and biomarkers"
-      },
-      {
-        "company": "Actelion",
-        "topic": "Pulmonary Hypertension"
-      }
-    ],
-    "payments_to_department_or_institution": [
-      {
-        "company": "Bayer Healthcare",
-        "topic": "CV Disease"
-      },
-      {
-        "company": "Amgen",
-        "topic": "Heart Failure"
-      },
-      {
-        "company": "Novartis",
-        "topic": "Heart failure"
-      },
-      {
-        "company": "Philips",
-        "topic": "Heart Failure"
-      },
-      {
-        "company": "Vifor International",
-        "topic": "Heart Failure"
-      }
-    ],
-    "footer_date": "12/08/2021"
+    "recommendations": [
+      "Recommendations for specialized diagnostic tests for selected patients with chronic heart failure to detect reversible/treatable causes of heart failure",
+      "Pharmacological treatments indicated in patients with (NYHA class IIa–IV) heart failure with reduced ejection fraction (LVEF ≤40%)",
+      "Other pharmacological treatments indicated in selected patients with NYHA class IIa–IV heart failure with reduced ejection fraction (LVEF ≤40%)",
+      "Recommendations for an implantable cardioverter-defibrillator in patients with heart failure",
+      "Recommendations for cardiac resynchronization therapy implantation in patients with heart failure",
+      "Pharmacological treatments to be considered in patients with (NYHA class IIa–IV) heart failure with mildly reduced ejection fraction",
+      "Recommendations for the treatment of patients with heart failure with preserved ejection fraction",
+      "Recommendations for the primary prevention of heart failure in patients with risk factors for its development",
+      "Multidisciplinary interventions recommended for the management of chronic heart failure",
+      "Recommendations for exercise rehabilitation in patients with chronic heart failure",
+      "Recommendations for telemonitoring",
+      "Recommendations for the treatment of patients with advanced heart failure",
+      "Recommendations for the initial treatment of acute heart failure",
+      "Recommendations for the use of short-term mechanical circulatory support in patients with cardiogenic shock",
+      "Recommendations for pre-discharge and early post-discharge follow-up of patients hospitalized for acute heart failure",
+      "Recommendations for the treatment of atrial fibrillation in patients with heart failure",
+      "Recommendations for myocardial revascularization in patients with heart failure with reduced ejection fraction",
+      "Recommendations for the management of valvular heart disease in patients with heart failure",
+      "Recommendations for the treatment of diabetes in heart failure",
+      "Recommendations for the management of anaemia and iron deficiency in patients with heart failure",
+      "Recommendations for the management of patients with cancer and heart failure",
+      "Recommendations for the treatment of transthyretin amyloidosis—cardiac amyloidosis",
+      "List of tables"
+    ]
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "TTR",
+      "Associated Conditions": [
+        "transthyretin amyloidosis",
+        "cardiac amyloidosis"
+      ],
+      "Occurrences": 1,
+      "context": "Appears as 'Recommendations for the treatment of transthyretin amyloidosis—cardiac amyloidosis' in the recommendations list."
+    }
+  ]
 }

@@ -1,0 +1,47 @@
+{
+  "content": {
+    "section": "14.5.2 Treatment",
+    "overview": "Hospitalization for at least 48 h may be useful for patients with acute myocarditis and heart failure (HF), especially with elevated troponins or initial cardiac dysfunction/arrhythmias. Treat HFrEF if systolic LV dysfunction is present; continue standard HF therapy for at least 6 months after stabilization. Immunosuppression is indicated only in selected cases of acute myocarditis.",
+    "table_34_summary": [
+      {
+        "recommendation": "Start HF therapy when LV systolic dysfunction is present at presentation.",
+        "duration": "Continue for at least 6 months upon complete functional recovery (EF >50%).",
+        "notes": "Applies to HFrEF in the presence of systolic LV dysfunction."
+      },
+      {
+        "recommendation": "Immunosuppression for acute myocarditis with clinical or EMB evidence of autoimmune disease.",
+        "duration": "At least 6–12 months.",
+        "associated_conditions": [
+          "giant cell myocarditis",
+          "vasculitis",
+          "sarcoidosis"
+        ]
+      },
+      {
+        "recommendation": "Do not use immunosuppression routinely in acute myocarditis without clinical or EMB evidence of autoimmune disease.",
+        "exceptions": "Initial empirical IV corticosteroids may be considered when high suspicion of immune-mediated myocarditis, especially if complicated by acute HF, malignant arrhythmias, or high-degree AV block."
+      },
+      {
+        "recommendation": "Avoid intense sporting activities while symptoms, elevated cardiac enzymes, or ECG/imaging abnormalities are present.",
+        "duration": "Avoid for at least 6 months after complete recovery."
+      },
+      {
+        "recommendation": "Long-term follow-up",
+        "duration": "Yearly follow-up for at least 4 years with ECG and echocardiography.",
+        "rationale": "Acute myocarditis may lead to dilated cardiomyopathy (DCM) in up to 20% of cases."
+      }
+    ],
+    "key_terms_and_abbreviations_used_on_page": {
+      "HF": "heart failure",
+      "HFrEF": "heart failure with reduced ejection fraction",
+      "LV": "left ventricle/left ventricular",
+      "EMB": "endomyocardial biopsy",
+      "EF": "ejection fraction",
+      "ECG": "electrocardiogram",
+      "DCM": "dilated cardiomyopathy",
+      "AV": "atrioventricular",
+      "IV": "intravenous"
+    }
+  },
+  "genes": []
+}

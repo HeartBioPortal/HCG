@@ -1,13 +1,63 @@
 {
   "content": {
-    "title": "ESC Declaration of Interest Report",
-    "guideline_title": "2023 ESC Guidelines for the management of acute coronary syndromes",
-    "summary": "Statement describing ESC policy on declarations of interest (DOIs) for experts involved in guideline development, requiring yearly DOI submission and assessment under the ESC Declaration and Management of Conflict of Interest Policy.",
-    "mandatory_requirements": "All experts involved in development of ESC Guidelines must comply with the ESC Declaration and Management of Conflict of Interest Policy and submit yearly Declaration of Interest (DOI) forms during the writing and reviewing phases.",
-    "assessment_and_timing": "All DOIs presented in this report were assessed prior to work commencing and during the development of the work according to the applicable review criteria in place at the time and as defined in the ESC Declaration and Management of Conflict of Interest Policy, Annex 3.",
-    "availability": "The most up-to-date version of the policy and its annexes are available on the ESC website.",
-    "link": "www.escardio.org/DOI",
-    "organization": "European Society of Cardiology (ESC)"
+    "journal_section": "Journal Article Guidelines",
+    "title": "2023 ESC Guidelines for the management of acute coronary syndromes: Developed by the task force on the management of acute coronary syndromes of the European Society of Cardiology (ESC)",
+    "access": "Free",
+    "corresponding_author": {
+      "name": "Robert A Byrne",
+      "country": "Ireland",
+      "affiliations": [
+        "Department of Cardiology and Cardiovascular Research Institute (CVRI) Dublin",
+        "Mater Private Network, Dublin, Ireland",
+        "School of Pharmacy and Biomolecular Sciences, RCSI University of Medicine and Health Sciences, Dublin, Ireland"
+      ],
+      "telephone": "+353-1-2483190",
+      "email": "robertabyrne@rcsi.ie",
+      "orcid": "https://orcid.org/0000-0001-5224-6393",
+      "other_search_links": [
+        "Oxford Academic",
+        "PubMed",
+        "Google Scholar"
+      ]
+    },
+    "authors": [
+      {
+        "name": "Robert A Byrne",
+        "country": "Ireland",
+        "orcid": "https://orcid.org/0000-0001-5224-6393",
+        "other_search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ]
+      },
+      {
+        "name": "Xavier Rossello",
+        "country": "Spain",
+        "orcid": "https://orcid.org/0000-0001-6783-8463",
+        "other_search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ]
+      },
+      {
+        "name": "J J Coughlan",
+        "country": "Ireland",
+        "orcid": "https://orcid.org/0000-0001-6086-3279",
+        "other_search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ]
+      },
+      {
+        "name": "Emanuele Barbato",
+        "country": "Italy",
+        "orcid": "https://orcid.org/0000-0002-0050-5178"
+      }
+    ],
+    "notes": "Page shows article title, author list with countries and ORCID links, corresponding author contact and affiliations. No gene names are present on this page."
   },
   "genes": []
 }

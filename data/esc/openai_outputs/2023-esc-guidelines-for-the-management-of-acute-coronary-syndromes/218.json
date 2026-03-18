@@ -1,0 +1,76 @@
+{
+  "content": {
+    "source": "Recommendation Table 11 (ESC 2023)",
+    "recommendations_table_11": [
+      {
+        "text": "Drug-eluting stents are recommended in preference to bare metal stents in all cases.",
+        "class": "I",
+        "level": "A",
+        "references": [
+          "463",
+          "466",
+          "468"
+        ]
+      },
+      {
+        "text": "In patients with spontaneous coronary artery dissection, PCI is recommended only for patients with symptoms and signs of ongoing myocardial ischaemia, a large area of myocardium in jeopardy, and reduced antegrade flow.",
+        "class": "I",
+        "level": "C"
+      },
+      {
+        "text": "Intravascular imaging should be considered to guide PCI.",
+        "class": "IIa",
+        "level": "A",
+        "references": [
+          "495",
+          "499"
+        ]
+      },
+      {
+        "text": "Coronary artery bypass grafting should be considered in patients with an occluded IRA when PPCI is not feasible/unsuccessful and there is a large area of myocardium in jeopardy.",
+        "class": "IIa",
+        "level": "C"
+      },
+      {
+        "text": "Intravascular imaging (preferably optical coherence tomography) may be considered in patients with ambiguous culprit lesions.",
+        "class": "IIb",
+        "level": "C"
+      },
+      {
+        "text": "The routine use of thrombus aspiration is not recommended.",
+        "class": "III",
+        "level": "A",
+        "references": [
+          "472",
+          "474"
+        ]
+      }
+    ],
+    "abbreviations": {
+      "IRA": "infarct-related artery",
+      "PCI": "percutaneous coronary intervention",
+      "PPCI": "primary percutaneous coronary intervention"
+    },
+    "technical_aspects_recommendations": [
+      {
+        "text": "Radial access is recommended as the standard approach, unless there are overriding procedural considerations.",
+        "class": "I",
+        "level": "A",
+        "references": [
+          "451",
+          "452"
+        ]
+      },
+      {
+        "text": "PCI with stent deployment in the IRA during the index procedure is recommended in patients undergoing PPCI.",
+        "class": "I",
+        "level": "A",
+        "references": [
+          "490",
+          "494"
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

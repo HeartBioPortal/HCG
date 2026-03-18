@@ -1,0 +1,54 @@
+{
+  "content": {
+    "title": "Cardio-oncology: prevention and monitoring of cardiotoxicity during cancer therapy",
+    "immune_checkpoint_inhibitors": [
+      "anti-programmed cell death 1 inhibitors (nivolumab, pembrolizumab)",
+      "anti-cytotoxic T-lymphocyte-associated protein 4 inhibitor (ipilimumab)",
+      "anti-programmed death-ligand 1 inhibitors (avelumab, atezolizumab, durvalumab)"
+    ],
+    "indications_listed_for_ICIs": [
+      "Melanoma (metastatic and adjuvant)",
+      "Metastatic renal cancer",
+      "Non-small cell lung cancer",
+      "Small cell lung cancer",
+      "Refractory Hodgkin's lymphoma",
+      "Metastatic triple negative breast cancer",
+      "Metastatic urothelial cancer",
+      "Liver cancer",
+      "MMR-deficient cancer"
+    ],
+    "abbreviations_and_definitions": {
+      "GIST": "gastrointestinal stromal tumour",
+      "GnRH": "gonadotropin-releasing hormone",
+      "HER2": "human epidermal growth factor receptor 2",
+      "MEK": "mitogen-activated protein kinase",
+      "MMR": "mismatch repair",
+      "TKI": "tyrosine kinase inhibitor",
+      "VEGF": "vascular endothelial growth factor"
+    },
+    "cardiotoxicity_prevention_overview": "Prevention of heart failure (HF) in patients undergoing potentially cardiotoxic cancer therapies requires careful patient assessment and management before, during, and after therapy, preferably within an integrated Cardio-Oncology service. Baseline cardiovascular (CV) risk assessment (e.g., HFA-ICOS risk assessment) is advisable for patients scheduled to receive potentially cardiotoxic therapies.",
+    "risk_factors_and_criteria": "History of HF or cardiomyopathy (CMP) characterizes patients as very high or high risk for most cancer therapies. An LVEF <50% is an additional factor for high-risk patients. Elevated baseline natriuretic peptides (NPs) or troponin are additional criteria of medium risk for many treatments.",
+    "monitoring_and_management_recommendations": [
+      "Monitor LV systolic function by echocardiography during potentially cardiotoxic therapy.",
+      "Reconsider chemotherapy and start ACE inhibitor and a beta-blocker (preferably carvedilol) for patients who develop LV systolic dysfunction (defined as ≥10% absolute reduction in LVEF to below 50%).",
+      "Global longitudinal strain (GLS) can detect cardiac dysfunction earlier than LVEF; ~12% relative reduction in GLS has been used as a trigger in trials.",
+      "Biomarker monitoring (NPs and troponin) is useful for early detection of cardiac dysfunction.",
+      "Patients on immunotherapy (immune checkpoint inhibitors) are at increased risk of myocarditis: monitor for symptoms and signs and perform weekly assessment of cardiac troponin during at least the first 6 weeks of therapy, with management as indicated."
+    ],
+    "follow_up_and_long_term": "Timing of imaging and biomarker assessments depends on anticancer treatment and patient risk profile. All patients scheduled for potentially cardiotoxic therapies should undergo baseline evaluation to define cardiotoxicity risk (low, medium, high) and intensity of monitoring during and after cancer treatment. Cancer survivors exposed to potentially cardiotoxic therapies should be periodically monitored long term as HF may develop years after therapy."
+  },
+  "genes": [
+    {
+      "Gene": "HER2",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": "Listed in the abbreviation key as 'HER2 — human epidermal growth factor receptor 2'."
+    },
+    {
+      "Gene": "VEGF",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": "Listed in the abbreviation key as 'VEGF — vascular endothelial growth factor'."
+    }
+  ]
+}

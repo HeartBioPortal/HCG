@@ -1,39 +1,33 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "organization": "European Society of Cardiology (ESC)",
-    "note_on_declarations": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during development period up to and including 2020.",
-    "expert": {
-      "name": "McMurray John J V",
-      "declaration_year": 2020,
-      "declaration_type": "Financial Declaration",
-      "summary": "Direct personal payments from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member) and payments to employer/department for personal services or participation.",
-      "direct_personal_payments_companies": [
-        "Global Clinical Trial Partners Ltd (GCTP) : Director",
-        "Abbott : Lecture fee",
-        "Astra Zeneca : lecture fee",
-        "Servier : lecture fee",
-        "Lupin : lecture fee",
-        "Hikma : lecture fee",
-        "Alkem Metabolics : lecture fee",
-        "Eris Lifesciences : lecture fee",
-        "Sun Pharmaceuticals : lecture fee",
-        "Medscape/Heart.Org : lecture fee",
-        "ProAdWise Communications : lecture fee",
-        "Radcliff Cardiology : lecture fee",
-        "The Corpus : lecture fee"
-      ],
-      "payments_to_employer_or_department": [
-        "AbbVie: Glasgow University (employer) has been paid by Abbvie (who manufacture atrasentan) for time spent as Steering Committee member for the SONAR trial (using atrasentan) and meetings related to this trial; Abbvie has also paid travel and accommodation for some meetings. Payments made through a Consultancy with Glasgow University and the expert reports not receiving personal payments in relation to this trial/drug.",
-        "Alnylam: Glasgow University (employer) has been paid by Alnylam Pharmaceuticals for participation in a company advisory board about development of ALN-AGT01."
-      ],
-      "specific_trials_and_drugs_mentioned": [
-        "SONAR trial (using atrasentan)",
-        "ALN-AGT01 (development advisory board)"
-      ],
-      "additional_notes": "Payments described include both direct personal payments and payments to the employer/department. The declaration covers various forms of industry relationships (speaker fees, honoraria, consultancy, advisory board fees, investigator/committee membership)."
-    },
-    "document_date": "12/08/2021"
+    "abbreviations": {
+      "PCI": "Percutaneous coronary intervention",
+      "PCR": "Polymerase chain reaction",
+      "PCWP": "Pulmonary capillary wedge pressure",
+      "PEP-CHF": "Perindopril in Elderly People with Chronic Heart Failure (trial)",
+      "PET": "Positron emission tomography",
+      "PKP2": "Plakophilin 2",
+      "PLN": "Phospholamban",
+      "PPCM": "Peripartum cardiomyopathy",
+      "PREVEND": "Prevention of REnal and Vascular ENd-stage Disease (trial)",
+      "PV": "Pulmonary vein",
+      "PVC": "Premature ventricular contraction",
+      "PVI": "Pulmonary vein isolation",
+      "pVO2": ""
+    }
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "PKP2",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": "Listed in the glossary as 'PKP2 - Plakophilin 2'."
+    },
+    {
+      "Gene": "PLN",
+      "Associated Conditions": [],
+      "Occurrences": 1,
+      "context": "Listed in the glossary as 'PLN - Phospholamban'."
+    }
+  ]
 }

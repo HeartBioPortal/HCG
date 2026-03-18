@@ -1,73 +1,72 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
-    "preamble": "For ESC Guidelines: The report below lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2020.",
-    "date_on_page": "03/08/2021",
-    "experts": [
+    "title": "Recommendations",
+    "Recommendations for the diagnosis of HF": [
       {
-        "name": "Delgado Victoria",
-        "year": 2020,
-        "type_of_relationship": "Financial Declaration",
-        "direct_personal_payments": [
-          {
-            "company": "Medtronic",
-            "context": "aortic stenosis (speaker fee in 2019 <1000 euro)"
-          },
-          {
-            "company": "MSD",
-            "context": "diabetes - speaker fee (800 euro)"
-          },
-          {
-            "company": "GE Healthcare",
-            "context": "echocardiography (<2000 euro)"
-          },
-          {
-            "company": "Novartis",
-            "context": "heart failure (speaker fee 800 euro)"
-          },
-          {
-            "company": "Abbott Vascular",
-            "context": "Mitral valve disease (<2000 euro)"
-          },
-          {
-            "company": "Edwards Lifesciences",
-            "context": "valvular heart disease (<2000 euro)"
-          }
-        ],
-        "research_funding_under_responsibility": [
-          {
-            "company": "GE Healthcare",
-            "context": "echocardiography"
-          },
-          {
-            "company": "Edwards Lifesciences",
-            "context": "tricuspid valve disease"
-          }
-        ],
-        "other_positions_of_influence": "Member of AHA, associate editor of Circulation and JASE"
+        "recommendation": "Right heart catheterization should be considered in patients where HF is thought to be due to constrictive pericarditis, restrictive cardiomyopathy, congenital heart disease, and high output states.",
+        "class": "IIa"
       },
       {
-        "name": "Dendale Paul",
-        "year": 2020,
-        "type_of_relationship": "Financial Declaration",
-        "research_funding_under_responsibility": [
-          {
-            "company": "Abbott",
-            "context": "drugs"
-          },
-          {
-            "company": "Astra Zeneca",
-            "context": "drugs"
-          },
-          {
-            "company": "Boehringer-Ingelheim",
-            "context": "drugs"
-          },
-          {
-            "company": "Novartis",
-            "context": "drugs"
-          }
-        ]
+        "recommendation": "Right heart catheterization may be considered in selected patients with HFpEF to confirm the diagnosis.",
+        "class": "IIb"
+      }
+    ],
+    "Recommendations for treatment of chronic HF": {
+      "HFrEF": [
+        {
+          "recommendation": "Dapagliflozin or empagliflozin are recommended for patients with HFrEF to reduce the risk of HF hospitalization and death.",
+          "class": "I"
+        },
+        {
+          "recommendation": "Vericiguat may be considered in patients in NYHA class II–IV who have had worsening HF despite treatment with an ACE‑I (or ARNI), a beta‑blocker and an MRA to reduce the risk of CV mortality or HF hospitalization.",
+          "class": "IIb"
+        }
+      ],
+      "HFmrEF": [
+        {
+          "recommendation": "An ACE‑I may be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death.",
+          "class": "IIb"
+        },
+        {
+          "recommendation": "An ARB may be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death.",
+          "class": "IIb"
+        },
+        {
+          "recommendation": "A beta‑blocker may be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death.",
+          "class": "IIb"
+        },
+        {
+          "recommendation": "An MRA may be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death.",
+          "class": "IIb"
+        },
+        {
+          "recommendation": "Sacubitril/valsartan may be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death.",
+          "class": "IIb"
+        }
+      ],
+      "HFpEF": [
+        {
+          "recommendation": "Screening for, and treatment of, aetiologies, and CV and non‑CV comorbidities are recommended in patients with HFpEF (see relevant sections of this document).",
+          "class": "I"
+        }
+      ]
+    },
+    "Prevention and monitoring": [
+      {
+        "recommendation": "Self‑management strategies are recommended to reduce the risk of HF hospitalization and mortality.",
+        "class": "I"
+      },
+      {
+        "recommendation": "Either home‑based and/or clinic‑based programmes improve outcomes and are recommended to reduce the risk of HF hospitalization and mortality.",
+        "class": "I"
+      },
+      {
+        "recommendation": "Influenza and pneumococcal vaccinations should be considered in order to prevent HF hospitalizations.",
+        "class": "IIa"
+      },
+      {
+        "recommendation": "A supervised, exercise‑based, cardiac rehabilitation programme should be considered in patients with more severe disease, frailty, or with comorbidities.",
+        "class": "IIa"
       }
     ]
   },

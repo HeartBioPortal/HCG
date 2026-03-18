@@ -1,46 +1,34 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
-    "date_on_page": "03/08/2021",
-    "note": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (up to and including 2020).",
-    "reviewers": [
-      {
-        "name": "Straburzynska-Migaj Ewa",
-        "year": 2020,
-        "relationships_with_industry": [
-          "Vifor International: heart failure",
-          "Bayer: heart failure, stroke prevention",
-          "Boehringer-Ingelheim: stroke prevention, diabetes, heart failure"
-        ],
-        "travel_and_meeting_support": [
-          "Boehringer-Ingelheim: heart failure",
-          "Servier: heart failure"
-        ],
-        "other_positions_of_influence": [
-          "Membership/affiliation in patient organisation - Polskie Stowarzyszenie Osób z Niewydolnością Serca"
-        ]
-      },
-      {
-        "name": "Tocchetti Carlo Gabriele",
-        "year": 2020,
-        "financial_declaration": [
-          "Payments from healthcare industry to department/institution for personal services (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-          "Amgen: Heart Failure, enrollment of patients in the Galactic trial"
-        ],
-        "other_positions_of_influence": [
-          "Canadian Patent No. 2,613,477 (Dec 3, 2013) and related US pre-granted publication US20180271931 (Sep 27, 2018) listing inventors and referencing THIOL-SENSITIVE POSITIVE INOTROPES and P75NTR ANTAGONISTS and treatment of acute and chronic cardiac disease"
-        ]
-      }
-    ]
+    "document_title": "Heart Failure recommendations (2021 vs 2016) - extracted highlights",
+    "overview": "Tabular summary comparing 2021 and 2016 guideline recommendations for diagnosis, device therapy, acute management, and comorbid conditions (AF, CCS, diabetes) in patients with heart failure (HF).",
+    "Recommendations for diagnosis of HF": {
+      "invasive_coronary_angiography": "May be considered in patients with HFrEF with intermediate-to-high pre-test probability of coronary artery disease (CAD) and evidence of ischaemia on non-invasive stress testing to establish CAD and its severity.",
+      "CT_coronary_angiography": "Coronary CT angiography (CTCA) may be considered in patients with low-to-intermediate pre-test probability of CAD or equivocal non-invasive stress tests to rule out coronary artery stenosis."
+    },
+    "Recommendations for device therapy in HFrEF": {
+      "ICD_primary_prevention": "An implantable cardioverter-defibrillator (ICD) should be considered to reduce risk of sudden death and all-cause mortality in symptomatic HFrEF (NYHA II–III) with LVEF ≤35% despite ≥3 months of optimal medical therapy (OMT), provided life expectancy and functional status justify implantation.",
+      "CRT": "Cardiac resynchronisation therapy (CRT) is recommended for symptomatic patients in sinus rhythm with QRS duration ~130–149 ms with LBBB morphology and LVEF ≤35% despite OMT to improve symptoms and reduce morbidity and mortality; consideration for 'upgrade' to CRT in patients with significant RV pacing or worsening HF despite device therapy."
+    },
+    "Recommendations for management of patients with acute HF": {
+      "diuretics": "Combination of a loop diuretic with a thiazide-type diuretic or a potassium-sparing adjunct may be considered for patients with resistant congestion.",
+      "vasodilators": "Intravenous vasodilators may be considered in hypertensive acute HF to improve symptoms and reduce congestion.",
+      "opioids": "Routine use of opiates is not recommended; may be used cautiously in selected patients for severe dyspnoea/anxiety.",
+      "short_term_MCS": "Short-term mechanical circulatory support (MCS) may be considered in refractory cardiogenic shock depending on patient age, comorbidities and neurological function."
+    },
+    "Recommendations for management of patients with HF and AF": {
+      "anticoagulation": "Direct oral anticoagulants (DOACs) are recommended in preference to vitamin K antagonists (VKAs) for HF patients with AF who are eligible (non-valvular AF), based on stroke risk assessment (e.g., CHA2DS2-VASc).",
+      "rate_control": "Beta-blockers should be considered for short- and long-term rate control in patients with HF and AF.",
+      "rhythm_control_and_ablation": "Catheter ablation may be considered in selected patients with symptomatic AF, persistent symptoms despite medical therapy, or when rhythm control is preferred; AV node ablation with pacing may be considered in specific cases."
+    },
+    "Recommendations for management of patients with HF and CCS (chronic coronary syndromes)": {
+      "revascularisation": "Coronary revascularisation may be considered to relieve persistent symptoms of angina in patients with HF and CCS despite optimal anti-anginal/medical therapy."
+    },
+    "Recommendations for management of patients with HF and diabetes": {
+      "SGLT2_inhibitors_class": "SGLT2 inhibitors (examples listed: canagliflozin, dapagliflozin, empagliflozin, others) are recommended in patients with type 2 diabetes mellitus (T2DM) at risk of cardiovascular events to reduce hospitalisations for HF, major adverse CV events, progression of renal disease, and CV death.",
+      "empagliflozin_specific": "Empagliflozin is noted as a specific agent that may be considered in patients with T2DM to prevent or delay onset of HF and to prolong life."
+    },
+    "notes": "Extraction focused on high-level recommendations visible on the page. Drug classes and device indications summarized; guideline class levels and exact wording abbreviated for brevity."
   },
-  "genes": [
-    {
-      "Gene": "NGFR (p75NTR)",
-      "Associated Conditions": [
-        "Acute and chronic cardiac disease"
-      ],
-      "Occurrences": 1,
-      "context": "Mentioned in patent text in Tocchetti declaration: 'P75NTR ANTAGONISTS AND TREATMENT OF ACUTE AND CHRONIC CARDIAC DISEASE.'"
-    }
-  ]
+  "genes": []
 }

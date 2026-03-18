@@ -1,30 +1,59 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (up to and including 2022).",
-    "page_date": "16/05/2023",
-    "experts": [
-      {
-        "name": "Sakhov Orazbek",
-        "years_reported": "2021-2022",
-        "declaration": "Travel and meeting support from healthcare industry, independent of the above activities. Medtronic: Board of Member on Interventional Cardiology. 2022: Nothing to be declared."
-      },
-      {
-        "name": "Schiele Francois",
-        "years_reported": "2021",
-        "declaration": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Bayer AG: anticoagulant. AstraZeneca: antiplatelet, statins, antidiabetics. Lilly: diabetes. Novo-Nordisk: diabetes. Recordati International: lipid lowering treatment. Servier: lipids. Mylan: lipids. Sanofi Aventis: PCSK9 inhibitor. Amgen Inc: PCSK9 inhibitor. Payment from healthcare industry to department/institution for personal services. Novartis: heart failure. Amgen: PCSK9i. Pfizer: PCSK9i. Sanofi Aventis: PCSK9i."
+    "Blood sampling": {
+      "recommendations": [
+        {
+          "text": "Measure cardiac troponins with high-sensitivity assays immediately after presentation and obtain results within 60 minutes of blood sampling.",
+          "class": "I",
+          "level_of_evidence": "B",
+          "timing": "within 60 min"
+        },
+        {
+          "text": "Use an ESC algorithmic approach with serial hs-cTn measurements (0 h/1 h or 0 h/2 h) to rule in and rule out NSTEMI.",
+          "class": "I",
+          "level_of_evidence": "B",
+          "serial_intervals": "0 h/1 h or 0 h/2 h"
+        },
+        {
+          "text": "Additional testing after 3 h is recommended if the first two hs-cTn measurements of the 0 h/1 h algorithm are inconclusive and no alternative diagnoses explaining the condition have been made.",
+          "class": "I",
+          "level_of_evidence": "B",
+          "additional_testing_timing": "after 3 h"
+        },
+        {
+          "text": "Consider use of established risk scores (e.g., GRACE risk score) for prognosis estimation.",
+          "class": "IIa",
+          "level_of_evidence": "B",
+          "note": "prognostic estimation"
+        }
+      ]
+    },
+    "Triage for emergency reperfusion strategy": {
+      "recommendation": "Patients with suspected STEMI should be immediately triaged for an emergency reperfusion strategy.",
+      "class": "I",
+      "level_of_evidence": "A"
+    },
+    "3.3 Diagnostic tools | Biomarkers": {
+      "3.3.1 High-sensitivity cardiac troponins": {
+        "recommendation": "Measurement of a biomarker of cardiomyocyte injury, preferably high-sensitivity cardiac troponin (hs-cTn), is recommended in all patients with suspected ACS after excluding clinical and ECG signs suggestive of STEMI or very high-risk NSTE-ACS.",
+        "key_points": [
+          "Biomarkers complement diagnosis, risk stratification, and management in suspected ACS.",
+          "A rise and/or fall in cTn above the 99th percentile of healthy individuals supports a diagnosis of myocardial infarction (MI) when clinical presentation is compatible with myocardial ischaemia.",
+          "In patients with MI, cTn levels rise rapidly (usually within 1 hour when using high-sensitivity assays) after symptom onset and remain elevated for a variable period (usually several days)."
+        ]
       }
-    ]
-  },
-  "genes": [
-    {
-      "Gene": "PCSK9",
-      "Associated Conditions": [
-        "lipid lowering (hypercholesterolemia)",
-        "cardiovascular disease"
-      ],
-      "Occurrences": 5,
-      "context": "Listed multiple times on the page as 'PCSK9 inhibitor' (Sanofi Aventis, Amgen Inc, Pfizer) in the context of lipid-lowering therapies and disclosures of industry relationships."
+    },
+    "Abbreviations (from page footnote)": {
+      "ACS": "acute coronary syndrome",
+      "ECG": "electrocardiogram",
+      "ESC": "European Society of Cardiology",
+      "FMC": "first medical contact",
+      "GRACE": "Global Registry of Acute Coronary Events",
+      "hs-cTn": "high-sensitivity cardiac troponin",
+      "MI": "myocardial infarction",
+      "NSTEMI": "non-ST-elevation myocardial infarction",
+      "STEMI": "ST-elevation myocardial infarction"
     }
-  ]
+  },
+  "genes": []
 }

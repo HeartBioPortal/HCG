@@ -1,0 +1,46 @@
+{
+  "content": {
+    "MCS_use_definitions": [
+      {
+        "strategy": "Destination therapy (DT)",
+        "description": "Long-term use of MCS (LVAD) as an alternative to transplantation in patients with end-stage heart failure (HF) ineligible for transplantation."
+      },
+      {
+        "strategy": "Bridge to decision (BTD) / Bridge to bridge (BTB)",
+        "description": "Use of short-term MCS (e.g., ECMO or Impella) in patients with cardiogenic shock until hemodynamics and end-organ perfusion are stabilized, contraindications for long-term MCS are excluded and additional therapeutic options (including long-term VAD therapy or heart transplant) can be evaluated."
+      },
+      {
+        "strategy": "Bridge to candidacy (BTC)",
+        "description": "Use of MCS (usually LVAD) to improve end-organ function and/or to make an initially ineligible patient eligible for heart transplantation."
+      },
+      {
+        "strategy": "Bridge to transplantation (BTT)",
+        "description": "Use of MCS (LVAD, BiVAD or TAH) to keep a patient alive who is at high risk of death before transplantation until a donor organ becomes available."
+      },
+      {
+        "strategy": "Bridge to recovery (BTR)",
+        "description": "Use of MCS (short-term or long-term) to keep a patient alive until cardiac function recovers sufficiently to remove MCS."
+      }
+    ],
+    "abbreviations": {
+      "BiVAD": "biventricular assist device",
+      "ECMO": "extracorporeal membrane oxygenation",
+      "HF": "heart failure",
+      "LVAD": "left ventricular assist device",
+      "MCS": "mechanical circulatory support",
+      "TAH": "total artificial heart",
+      "VAD": "ventricular assist device"
+    },
+    "INTERMACS_recommendation": "Long-term MCS should be considered in patients with INTERMACS profiles 2 to 4, and in some patients with INTERMACS profile 5 (and 6 when high-risk characteristics are present). Patients without irreversible end‑organ failure other than cardiac, or recovering from INTERMACS level 1 while on short-term MCS, may also qualify for long-term MCS.",
+    "Table_16_title": "Patients potentially eligible for implantation of a left ventricular assist device (LVAD)",
+    "Table_16_overview": "Patients with persistent severe symptoms despite optimal medical and device therapy, without severe right ventricular dysfunction and/or severe tricuspid regurgitation, with a stable psychosocial background and absence of major contraindications, and who have at least one of the listed criteria.",
+    "Table_16_specific_criteria": [
+      "LVEF < 25% and unable to exercise for HF or, if able to perform cardiopulmonary exercise testing, peak VO2 < 12 mL/kg/min and/or < 50% predicted value.",
+      "≥ 3 HF hospitalizations in the previous 12 months without an obvious precipitating cause.",
+      "Dependence on intravenous inotropic therapy or temporary MCS.",
+      "Progressive end-organ dysfunction (worsening renal and/or hepatic function, type II pulmonary hypertension, cardiac cachexia) due to reduced perfusion and not to inadequately low ventricular filling pressure (examples noted in guideline: PCWP ≥ 20 mmHg, SBP ≤ 90 mmHg or cardiac index ≤ 2 L/min/m²)."
+    ],
+    "notes": "Text contains repeated entry for 'Destination therapy (DT)'. Some glyphs/characters in the scanned text are garbled; core clinical recommendations and abbreviations have been captured."
+  },
+  "genes": []
+}

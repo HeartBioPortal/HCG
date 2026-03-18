@@ -1,0 +1,74 @@
+{
+  "content": {
+    "Title": "Red flags for most common forms of cardiac amyloidosis",
+    "Cardiac": {
+      "Renal": [
+        "Renal insufficiency",
+        "Proteinuria"
+      ],
+      "Clinical": [
+        "Hypotension or normotensive if previously hypertensive"
+      ],
+      "ECG": [
+        "Pseudo-infarct ECG pattern",
+        "Low/decreased QRS voltage out of proportion to LV wall thickness",
+        "AV conduction disease"
+      ],
+      "Laboratory": [
+        "Disproportionally elevated NT-proBNP relative to degree of heart failure",
+        "Persisting elevated troponin levels"
+      ],
+      "Echocardiography": [
+        "Granular sparkling of myocardium",
+        "Increased right ventricular wall thickness",
+        "Increased AV valve thickness",
+        "Pericardial effusion",
+        "Reduced longitudinal strain with apical sparing pattern"
+      ],
+      "CMR": [
+        "Subendocardial late gadolinium enhancement (LGE)",
+        "Elevated native T1 values",
+        "Increased extracellular volume",
+        "Abnormal gadolinium kinetics"
+      ]
+    },
+    "Extracardiac_Red_Flags": {
+      "Type": "Extracardiac",
+      "Findings": [
+        "Polyneuropathy",
+        "Dysautonomia",
+        "Skin bruising",
+        "Macroglossia"
+      ],
+      "Columns": "Table indicates presence for TTR and AL forms (marked with Xs in table)"
+    },
+    "Abbreviations_and_Notes": {
+      "AL": "light chain immunoglobulin (cardiac amyloidosis)",
+      "TTR": "transthyretin (hereditary TTR-CA mentioned)",
+      "CMR": "cardiac magnetic resonance",
+      "ECG": "electrocardiogram",
+      "HF": "heart failure",
+      "LGE": "late gadolinium enhancement",
+      "LV": "left ventricular",
+      "NT-proBNP": "N-terminal pro-B-type natriuretic peptide",
+      "QRS": "Q, R and S waves",
+      "Note": "Table modified from cited source; 'Hereditary TTR-CA' explicitly mentioned."
+    },
+    "Source_References": [
+      "Modified from reference 973 (as noted on page)",
+      "Table 35: Red flags for most common forms of cardiac amyloidosis"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "TTR",
+      "Associated Conditions": [
+        "Transthyretin cardiac amyloidosis",
+        "Hereditary TTR-CA",
+        "Cardiac amyloidosis (TTR form)"
+      ],
+      "Occurrences": 2,
+      "context": "Abbreviation list identifies TTR as transthyretin and the page includes the line 'Hereditary TTR-CA.'"
+    }
+  ]
+}

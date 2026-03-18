@@ -1,0 +1,22 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "text": "Emergency TTE is recommended in patients with suspected ACS presenting with cardiogenic shock or suspected mechanical complications.",
+        "indication": "suspected ACS with cardiogenic shock or suspected mechanical complications",
+        "action": "Emergency transthoracic echocardiography (TTE)",
+        "class": "I",
+        "evidence_grade": "C"
+      },
+      {
+        "text": "Routine, early coronary computed tomography angiography in patients with suspected ACS is not recommended.",
+        "indication": "suspected ACS",
+        "action": "Routine early coronary CT angiography",
+        "class": "III",
+        "evidence_grade": "B"
+      }
+    ],
+    "source_page_notes": "Two guideline recommendations shown with class and evidence grade labels."
+  },
+  "genes": []
+}

@@ -1,0 +1,78 @@
+{
+  "content": {
+    "page_summary": "Reference list (entries 211-217) from a clinical guideline focused on angioplasty/stenting and invasive strategies after fibrinolysis/thrombolysis in acute myocardial infarction (STEMI). Each entry includes authors, study title, journal, year, pages and DOI.",
+    "references": [
+      {
+        "number": 211,
+        "authors": "Arbel Y, Ko DT, Yan AT, Cantor WJ, Bagai A, Koh M, et al.",
+        "title": "Long-term follow-up of the trial of routine angioplasty and stenting after fibrinolysis to enhance reperfusion in acute myocardial infarction (TRANSFER-AMI).",
+        "journal": "Can J Cardiol",
+        "year": 2018,
+        "volume_pages": "34:736-743",
+        "doi": "https://doi.org/10.1016/j.cjca.2018.02.005",
+        "notes": "Long-term follow-up of TRANSFER-AMI trial assessing routine angioplasty/stenting after fibrinolysis."
+      },
+      {
+        "number": 212,
+        "authors": "Di Mario C, Dudek D, Piscione F, Mielecki W, Savonitto S, Murena E, et al.",
+        "title": "Immediate angioplasty versus standard therapy with rescue angioplasty after thrombolysis in the Combined Abciximab REteplase Stent Study in Acute Myocardial Infarction (CARESS-in-AMI): an open, prospective, randomised, multicentre trial.",
+        "journal": "Lancet",
+        "year": 2008,
+        "volume_pages": "371:559-568",
+        "doi": "https://doi.org/10.1016/S0140-6736(08)60268-8",
+        "notes": "CARESS-in-AMI trial comparing immediate angioplasty versus standard/rescue angioplasty after thrombolysis; mentions combined Abciximab and Reteplase stent strategy."
+      },
+      {
+        "number": 213,
+        "authors": "Bøhmer E, Hoffmann P, Abdelnoor M, Arnesen H, Halvorsen S, et al.",
+        "title": "Efficacy and safety of immediate angioplasty versus ischemia-guided management after thrombolysis in acute myocardial infarction in areas with very long transfer distances: results of the NORDISTEMI (NORwegian study on DIstrict treatment of ST-elevation myocardial infarction).",
+        "journal": "J Am Coll Cardiol",
+        "year": 2010,
+        "volume_pages": "55:102-110",
+        "doi": "https://doi.org/10.1016/j.jacc.2009.08.007",
+        "notes": "NORDISTEMI trial evaluating immediate angioplasty vs ischemia-guided management after thrombolysis in remote areas."
+      },
+      {
+        "number": 214,
+        "authors": "Scheller B, Hennen B, Hammer B, Walle J, Hofer C, Hilpert V, et al.",
+        "title": "Beneficial effects of immediate stenting after thrombolysis in acute myocardial infarction.",
+        "journal": "J Am Coll Cardiol",
+        "year": 2003,
+        "volume_pages": "42:634-641",
+        "doi": "https://doi.org/10.1016/S0735-1097(03)00763-0",
+        "notes": "Study reporting benefits of immediate stenting following thrombolysis in AMI."
+      },
+      {
+        "number": 215,
+        "authors": "Le May MR, Wells GA, Labinaz M, Davies RF, Turek AM, Leddy D, et al.",
+        "title": "Combined angioplasty and pharmacological intervention versus thrombolysis alone in acute myocardial infarction (CAPITAL AMI study).",
+        "journal": "J Am Coll Cardiol",
+        "year": 2005,
+        "volume_pages": "46:417-424",
+        "doi": "https://doi.org/10.1016/j.jacc.2005.04.042",
+        "notes": "CAPITAL AMI study comparing combined angioplasty + pharmacologic intervention vs thrombolysis alone."
+      },
+      {
+        "number": 216,
+        "authors": "Abdel-Qadir H, Yan AT, Tan M, Borgia F, Piscione F, Di Mario C, et al.",
+        "title": "Consistency of benefit from an early invasive strategy after fibrinolysis: a patient-level meta-analysis.",
+        "journal": "Heart",
+        "year": 2015,
+        "volume_pages": "101:1554-1561",
+        "doi": "https://doi.org/10.1136/heartjnl-2015-307815",
+        "notes": "Patient-level meta-analysis assessing benefit consistency of early invasive strategy after fibrinolysis."
+      },
+      {
+        "number": 217,
+        "authors": "Madan M, Halvorsen S, Di Mario C, Tan M, Westerhout CM, Cantor WJ, et al.",
+        "title": "Relationship between time to invasive assessment and clinical outcomes of patients undergoing an early invasive strategy after fibrinolysis for ST-segment elevation myocardial infarction: a patient-level analysis of the randomized early routine invasive clinical trials.",
+        "journal": "JACC Cardiovasc Interv",
+        "year": 2015,
+        "volume_pages": "8:166-174",
+        "doi": "https://doi.org/10.1016/j.jcin.2014.09.005",
+        "notes": "Patient-level analysis linking timing of invasive assessment to clinical outcomes after fibrinolysis for STEMI."
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,78 @@
+{
+  "content": {
+    "section_title": "Acute heart failure (HF) complicating acute coronary syndrome (ACS)",
+    "summary": "Patients with ACS complicated by acute HF require urgent, coordinated management of both conditions following current ESC HF recommendations. Consider diuretics, vasodilators, inotropic agents, vasopressors, and selected mechanical circulatory support; invasive respiratory support and/or renal replacement therapy may be required in some cases.",
+    "recommendations": [
+      "Follow current ESC Guidelines on HF and ancillary documents for management of acute HF.",
+      "Consider diuretics, vasodilators, inotropic agents, and vasopressors per established algorithms.",
+      "Mechanical circulatory support (MCS) may be considered in selected cases.",
+      "Invasive respiratory support and/or renal replacement therapy may be required where indicated."
+    ],
+    "diagnostic_and_interventional_management": [
+      "Patients with acute HF (including those with cardiogenic shock) complicating ACS require immediate invasive coronary angiography (ICA) when indicated.",
+      "Emergency echocardiography/chest ultrasonography should be performed to assess LV and RV function, regional wall motion abnormalities, valvular function, and possible mechanical complications.",
+      "Transfer to a PCI centre for immediate coronary angiography and PCI of the infarct-related artery (IRA) if needed; emergency CABG if coronary anatomy unsuitable for PCI."
+    ],
+    "mechanical_circulatory_support_evidence": {
+      "overall_statement": "The clinical benefit of percutaneous MCS devices and/or VA-ECMO in ACS is unclear.",
+      "key_points": [
+        "Micro-axial MCS devices have not been shown to reduce 30-day mortality compared with IABP in observational studies.",
+        "A large retrospective registry (>48,000 patients, >80% ACS) found micro-axial MCS support associated with higher mortality and bleeding rates compared with IABP.",
+        "Propensity-matched analyses confined to patients with cardiogenic shock also associated micro-axial MCS with more complications and higher mortality than IABP.",
+        "IABP-SHOCK II trial: routine use of IABP in patients with ACS and cardiogenic shock did not reduce 30-day, 1-year, or 6-year mortality.",
+        "No demonstrated benefit of LVAD in patients with ACS; observational data suggest possible harm, so caution is advised until further RCT evidence is available."
+      ]
+    },
+    "mechanical_complications": {
+      "statement": "Mechanical complications may occur in the first days following MI, most commonly in patients presenting with STEMI.",
+      "epidemiology": {
+        "prevalence_STEMI": "0.27%",
+        "prevalence_NSTEMI": "0.06%",
+        "in_hospital_mortality_STEMI": "42.4%",
+        "in_hospital_mortality_NSTEMI": "18%"
+      },
+      "note": "Mechanical complications are life-threatening and require prompt identification and management."
+    },
+    "key_abbreviations_used_on_page": {
+      "HF": "heart failure",
+      "ACS": "acute coronary syndrome",
+      "CS": "cardiogenic shock",
+      "ICA": "invasive coronary angiography",
+      "LV": "left ventricle",
+      "RV": "right ventricle",
+      "PCI": "percutaneous coronary intervention",
+      "IRA": "infarct-related artery",
+      "CABG": "coronary artery bypass grafting",
+      "MCS": "mechanical circulatory support",
+      "VA-ECMO": "veno-arterial extracorporeal membrane oxygenation",
+      "IABP": "intra-aortic balloon pump",
+      "LVAD": "left ventricular assist device",
+      "MI": "myocardial infarction",
+      "STEMI": "ST-elevation myocardial infarction",
+      "NSTEMI": "non-ST-elevation myocardial infarction",
+      "PPCI": "primary percutaneous coronary intervention"
+    },
+    "references_mentioned_as_numbers": [
+      557,
+      559,
+      250,
+      394,
+      396,
+      250,
+      557,
+      560,
+      404,
+      505,
+      402,
+      561,
+      400,
+      562,
+      563,
+      399,
+      405,
+      407,
+      564
+    ]
+  },
+  "genes": []
+}

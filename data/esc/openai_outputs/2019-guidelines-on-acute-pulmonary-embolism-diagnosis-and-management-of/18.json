@@ -1,81 +1,80 @@
 {
   "content": {
-    "document_title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS) - Reviewers",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during development up to and including 2018.",
-    "page_date": "21/08/2019",
-    "page_number": "18/62",
-    "experts": [
+    "abbreviations": [
       {
-        "name": "Aujesky Drahomir",
-        "declaration_type": "1- Financial Declaration",
-        "details": "Direct personal payment as applies to you and your spouse/partner or household from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.).",
-        "relationships": [
-          {
-            "company": "Bayer",
-            "notes": "Anticoagulants - rivaroxaban (2018)"
-          }
-        ]
+        "abbrev": "RV",
+        "definition": "Right ventricle/ventricular",
+        "Occurrences": 1,
+        "context": "Listed in abbreviation glossary as 'RV - Right ventricle/ventricular'."
       },
       {
-        "name": "Barbato Emanuele",
-        "declaration_type": "1- Financial Declaration",
-        "details": "Direct personal payment as applies to you and your spouse/partner or household from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.).",
-        "relationships": [
-          {
-            "company": "Boston Scientific",
-            "notes": "Speaker fees (2018)"
-          },
-          {
-            "company": "Abbott Vascular",
-            "notes": "Speaker fees (2018)"
-          }
-        ]
+        "abbrev": "SaO2",
+        "definition": "Arterial oxygen saturation",
+        "Occurrences": 1,
+        "context": "Listed in abbreviation glossary as 'SaO2 - Arterial oxygen saturation'."
       },
       {
-        "name": "Bauersachs Johann",
-        "declaration_type": "1- Financial Declaration",
-        "details": "Direct personal payment as applies to you and your spouse/partner or household from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.).",
-        "relationships": [
-          {
-            "company": "Daiichi Sankyo",
-            "notes": "ACS, Afib (2018)"
-          },
-          {
-            "company": "Orion",
-            "notes": "Acute Heart Failure (2018)"
-          },
-          {
-            "company": "Abiomed",
-            "notes": "acute heart failure (2018)"
-          },
-          {
-            "company": "Boehringer-Ingelheim",
-            "notes": "Afib, Diabetes mellitus, Heart Failure (2018)"
-          },
-          {
-            "company": "Bayer",
-            "notes": "Afib, heart failure (2018)"
-          },
-          {
-            "company": "Bristol Myers Squibb",
-            "notes": "Afib, heart failure (2018)"
-          },
-          {
-            "company": "Merck Sharp & Dohme",
-            "notes": "CAD, Hypercholesterolemia, heart failure (2018)"
-          },
-          {
-            "company": "Abbott",
-            "notes": "Heart Failure (2018)"
-          },
-          {
-            "company": "Medtronic",
-            "notes": "Heart Failure (2018)"
-          }
-        ]
+        "abbrev": "SPECT",
+        "definition": "Single-photon emission computed tomography",
+        "Occurrences": 1,
+        "context": "Listed in abbreviation glossary as 'SPECT - Single-photon emission computed tomography'."
+      },
+      {
+        "abbrev": "sPESI",
+        "definition": "Simplified Pulmonary Embolism Severity Index",
+        "Occurrences": 1,
+        "context": "Listed in abbreviation glossary as 'sPESI - Simplified Pulmonary Embolism Severity Index'."
+      },
+      {
+        "abbrev": "SURVET",
+        "definition": "Sulodexide in Secondary Prevention of Recurrent Deep Vein Thrombosis study",
+        "Occurrences": 1,
+        "context": "Listed in abbreviation glossary as 'SURVET - Sulodexide in Secondary Prevention of Recurrent Deep Vein Thrombosis study'."
+      },
+      {
+        "abbrev": "TAPSE",
+        "definition": "Tricuspid annular plane systolic excursion",
+        "Occurrences": 1,
+        "context": "Listed in abbreviation glossary as 'TAPSE - Tricuspid annular plane systolic excursion'."
+      },
+      {
+        "abbrev": "TOE",
+        "definition": "Transoesophageal echocardiography/echocardiogram",
+        "Occurrences": 1,
+        "context": "Listed in abbreviation glossary as 'TOE - Transoesophageal echocardiography/echocardiogram'."
+      },
+      {
+        "abbrev": "TTE",
+        "definition": "Transthoracic echocardiography/echocardiogram",
+        "Occurrences": 1,
+        "context": "Listed in abbreviation glossary as 'TTE - Transthoracic echocardiography/echocardiogram'."
+      },
+      {
+        "abbrev": "TV",
+        "definition": "Tricuspid valve",
+        "Occurrences": 1,
+        "context": "Listed in abbreviation glossary as 'TV - Tricuspid valve'."
+      },
+      {
+        "abbrev": "U",
+        "definition": "Unit",
+        "Occurrences": 1,
+        "context": "Listed in abbreviation glossary as 'U - Unit'."
+      },
+      {
+        "abbrev": "UFH",
+        "definition": "Unfractionated heparin",
+        "Occurrences": 1,
+        "context": "Listed in abbreviation glossary as 'UFH - Unfractionated heparin'."
+      },
+      {
+        "abbrev": "VKA(s)",
+        "definition": "Vitamin K antagonist(s)",
+        "Occurrences": 1,
+        "context": "Appears as an abbreviation entry 'VKA(s)' (full phrase not fully visible on this crop but standard meaning is Vitamin K antagonists)."
       }
-    ]
+    ],
+    "source_region_notes": "Page is an abbreviations/glossary section from a clinical guideline (partial crop)."
   },
   "genes": []
 }

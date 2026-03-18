@@ -1,0 +1,27 @@
+{
+  "content": {
+    "Quality indicators": {
+      "Gap": "There is a lack of implementation studies evaluating whether prospectively monitoring and reporting ESC QIs for ACS improve clinical outcomes.",
+      "Research recommendation": "Implementation studies evaluating a quality-of-care programme based on the evaluation of ESC QIs for ACS."
+    },
+    "General": {
+      "Gap": "Patients included in clinical trials represent a relatively small proportion of real-life patients.",
+      "Research recommendation": "Conduct clinical trials that enrol more representative patient populations (e.g. pragmatic clinical trials)."
+    },
+    "Triage and diagnosis": {
+      "Gaps in evidence": [
+        "Observe zone: how can guidance for and management of patients assigned to the observe zone of the 0 h/1 h and 0 h/2 h ESC algorithms be improved to address their poor outcome?",
+        "No testing rule: what is the added value of biomarkers other than hs-cTn for rapid rule-out of NSTE-ACS compared with usual care?",
+        "There is insufficient evidence to set sex-specific thresholds for troponin levels.",
+        "The role of non-invasive anatomy (e.g. CCTA) or functional imaging (e.g. stress testing strategies) for low-risk NSTE-ACS patients should be further evaluated."
+      ],
+      "Research recommendations to address these gaps": [
+        "Observe zone: prospectively evaluate changes in the 0 h/1 h and 0 h/2 h ESC algorithms to improve outcomes of patients assigned to the observe zone.",
+        "No testing rule: randomization of patients to strategies with and without new biomarkers to evaluate whether their use improves clinical outcomes.",
+        "Prospectively evaluate the impact of using sex-specific cut-offs on diagnosis, treatment, and outcomes of patients presenting to the ED with suspected ACS.",
+        "Adequately powered RCTs testing whether non-invasive (imaging) strategies improve outcomes for low-risk patients (text truncated on page)."
+      ]
+    }
+  },
+  "genes": []
+}

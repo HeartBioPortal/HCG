@@ -1,143 +1,45 @@
 {
   "content": {
-    "page_title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "notes": "Declarations of interest reported to the ESC by experts during the yearly call covering the previous calendar year up to and including 2022.",
-    "entries": [
+    "title": "Recommendations",
+    "summary_recommendation": {
+      "text": "It is recommended to base the diagnosis and initial short-term risk stratification of ACS on a combination of clinical history, symptoms, vital signs, other physical findings, ECG, and hs-cTn.",
+      "class": "I",
+      "level": "B",
+      "notes": "References cited in image: 1,17,18"
+    },
+    "ECG": [
       {
-        "expert": "Parkhomenko Alexander",
-        "year": 2022,
-        "disclosure_summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-        "companies_and_conditions": [
-          {
-            "company": "Boehringer-Ingelheim",
-            "conditions": [
-              "Atrial Fibrillation (AF)",
-              "Chronic Heart Failure"
-            ]
-          },
-          {
-            "company": "Bayer",
-            "conditions": [
-              "Atrial Fibrillation (AF)",
-              "Pulmonary Circulation",
-              "Pulmonary Embolism",
-              "Right Heart Failure"
-            ]
-          },
-          {
-            "company": "Astra Zeneca",
-            "conditions": [
-              "Chronic Heart Failure",
-              "Acute Coronary Syndromes"
-            ]
-          },
-          {
-            "company": "Novartis",
-            "conditions": [
-              "Chronic Heart Failure",
-              "Coronary Artery Disease (Chronic)",
-              "Chronic Coronary Syndromes (CCS)"
-            ]
-          },
-          {
-            "company": "Egis Pharma",
-            "conditions": [
-              "Coronary Artery Disease (Chronic)",
-              "Chronic Coronary Syndromes (CCS)"
-            ]
-          },
-          {
-            "company": "Novo-Nordisk",
-            "conditions": [
-              "Risk Factors and Prevention"
-            ]
-          }
-        ]
+        "text": "Twelve-lead ECG recording and interpretation is recommended as soon as possible at the point of FMC, with a target of <10 min.",
+        "class": "I",
+        "level": "B",
+        "notes": "References cited in image: 5,19"
       },
       {
-        "expert": "Pasquet Agnes A",
-        "years": [
-          {
-            "year": 2021,
-            "disclosure_summary": "Payment from healthcare industry to department/institution for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies_and_conditions": [
-              {
-                "company": "Daiichi Sankyo",
-                "conditions": [
-                  "General cardiology"
-                ]
-              },
-              {
-                "company": "Servier",
-                "conditions": [
-                  "General cardiology"
-                ]
-              },
-              {
-                "company": "Philips",
-                "conditions": [
-                  "Imaging"
-                ]
-              }
-            ],
-            "other": "Membership or affiliation in political, advocacy or patients organisations working in the field of cardiology; member of the Belgian Society of Cardiology"
-          },
-          {
-            "year": 2022,
-            "disclosure_summary": "Payment from healthcare industry to department/institution for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies_and_conditions": [
-              {
-                "company": "Philips",
-                "conditions": [
-                  "Echocardiography",
-                  "Interventional Cardiology"
-                ]
-              },
-              {
-                "company": "Daiichi Sankyo",
-                "conditions": [
-                  "Hypertension"
-                ]
-              },
-              {
-                "company": "Servier",
-                "conditions": [
-                  "Other"
-                ]
-              }
-            ]
-          }
-        ]
+        "text": "Continuous ECG monitoring and the availability of defibrillator capacity is recommended as soon as possible in all patients with suspected STEMI, in suspected ACS with other ECG changes or ongoing chest pain, and once the diagnosis of MI is made.",
+        "class": "I",
+        "level": "B",
+        "notes": "References cited in image: 20,21"
       },
       {
-        "expert": "Pejkov Hristo",
-        "years": [
-          {
-            "year": 2021,
-            "disclosure_summary": "Nothing to be declared"
-          },
-          {
-            "year": 2022,
-            "disclosure_summary": "Nothing to be declared"
-          }
-        ]
+        "text": "The use of additional ECG leads (V3R, V4R, and V7–V9) is recommended in cases of inferior STEMI or if total vessel occlusion is suspected and standard leads are inconclusive.",
+        "class": "I",
+        "level": "B",
+        "notes": "References cited in image: 22–24"
       },
       {
-        "expert": "Petersen Steffen Erhard",
-        "year": 2021,
-        "disclosure_summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-        "companies_and_conditions": [
-          {
-            "company": "Circle Cardiovascular Imaging, Inc",
-            "conditions": [
-              "Cardiac MRI and CT analysis and reporting software"
-            ]
-          }
-        ]
+        "text": "An additional 12-lead ECG is recommended in cases with recurrent symptoms or diagnostic uncertainty.",
+        "class": "I",
+        "level": "C"
       }
     ],
-    "footer_date": "16/05/2023",
-    "page_number": "41/57"
+    "terms_and_abbreviations_identified": [
+      "ACS (acute coronary syndrome)",
+      "ECG (electrocardiogram)",
+      "hs-cTn (high-sensitivity cardiac troponin)",
+      "FMC (first medical contact)",
+      "STEMI (ST-elevation myocardial infarction)",
+      "MI (myocardial infarction)"
+    ]
   },
   "genes": []
 }

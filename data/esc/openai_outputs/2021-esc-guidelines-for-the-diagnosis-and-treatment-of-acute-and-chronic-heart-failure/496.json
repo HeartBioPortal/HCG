@@ -1,0 +1,106 @@
+{
+  "content": {
+    "page_summary": "Reference list entries focusing on heart failure, cardiovascular complications associated with pneumonia and COVID-19, and studies of influenza vaccination in heart failure patients.",
+    "topics": [
+      "heart failure",
+      "COVID-19",
+      "community-acquired pneumonia",
+      "influenza vaccination",
+      "cardiovascular complications",
+      "clinical outcomes"
+    ],
+    "references": [
+      {
+        "index": 874,
+        "citation": "Corrales-Medina VF, Alvarez KN, Weissfeld LA, Angus DC, Chirinos JA, Chang CC, Newman A, Loehr L, Folsom AR, Elkind MS, Lyles MF, Kronmal RA, Yende S. Association between hospitalization for pneumonia and subsequent risk of cardiovascular disease. JAMA 2015;313:264–274.",
+        "topics": [
+          "pneumonia",
+          "subsequent cardiovascular disease risk"
+        ]
+      },
+      {
+        "index": 875,
+        "citation": "Violi F, Cangemi R, Falcone M, Taliani G, Pieralli F, Vannucchi V, Nozzoli C, Venditti M, Chirinos JA, Corrales-Medina VF, SIXTUS Study Group. Cardiovascular complications and short-term mortality risk in community-acquired pneumonia. Clin Infect Dis 2017;64:1486–1493.",
+        "topics": [
+          "community-acquired pneumonia",
+          "cardiovascular complications",
+          "mortality risk"
+        ]
+      },
+      {
+        "index": 876,
+        "citation": "Rey JR, Caro-Codon J, Rosillo SO, Iniesta AM, Castrejon-Castrejon S, Marco-Clement I, Martin-Polo L, Merino-Argos C, Rodriguez-Sotelo L, Garcia-Veas JM, Martinez-Marin LA, Martinez-Cossiani M, Buno A, Gonzalez-Valle L, Herrero A, Lopez-Sendon JL, Merino JL, CARD-COVID Investigators. Heart failure in COVID-19 patients: prevalence, incidence and prognostic implications. Eur J Heart Fail 2020;22:2205–2215.",
+        "topics": [
+          "heart failure",
+          "COVID-19",
+          "prevalence",
+          "prognostic implications"
+        ]
+      },
+      {
+        "index": 877,
+        "citation": "Cannata A, Bromage DI, Rind IA, Gregorio C, Bannister C, Albarjas M, Piper S, Shah AM, McDonagh TA. Temporal trends in decompensated heart failure and outcomes during COVID-19: a multisite report from heart failure referral centres in London. Eur J Heart Fail 2020;22:2219–2224.",
+        "topics": [
+          "decompensated heart failure",
+          "COVID-19",
+          "service/outcomes trends"
+        ]
+      },
+      {
+        "index": 878,
+        "citation": "Konig S, Hohenstein S, Meier-Hellmann A, Kuhlen R, Hindricks G, Bollmann A, Helios Hospitals G. In-hospital care in acute heart failure during the COVID-19 pandemic: insights from the German-wide Helios hospital network. Eur J Heart Fail 2020;22:2190–2201.",
+        "topics": [
+          "acute heart failure",
+          "COVID-19",
+          "in-hospital care"
+        ]
+      },
+      {
+        "index": 879,
+        "citation": "Zhang Y, Coats AJS, Zheng Z, Adamo M, Ambrosio G, Anker SD, Butler J, Xu D, Mao J, Khan MS, Bai L, Mebazaa A, Ponikowski P, Tang Q, Ruschitzka F, Seferovic P, Tschope C, Zhang S, Gao C, Zhou S, Senni M, Zhang J, Metra M. Management of heart failure patients with COVID-19: a joint position paper of the Chinese Heart Failure Association & National Heart Failure Committee and the Heart Failure Association of the European Society of Cardiology. Eur J Heart Fail 2020;22:941–956.",
+        "topics": [
+          "heart failure management",
+          "COVID-19",
+          "guidance/position paper"
+        ]
+      },
+      {
+        "index": 880,
+        "citation": "Modin D, Jorgensen ME, Gislason G, Jensen JS, Kober L, Claggett B, Hegde SM, Solomon SD, Torp-Pedersen C, Biering-Sorensen T. Influenza vaccine in heart failure. Circulation 2019;139:575–586.",
+        "topics": [
+          "influenza vaccination",
+          "heart failure",
+          "vaccine outcomes"
+        ]
+      },
+      {
+        "index": 881,
+        "citation": "Vardeny O, Claggett B, Udell JA, Packer M, Zile M, Rouleau J, Swedberg K, Desai AS, Lefkowitz M, Shi V, McMurray JJV, Solomon SD, PARADIGM-HF Investigators. Influenza vaccination in patients with chronic heart failure: the PARADIGM-HF trial. JACC Heart Fail 2016;4:152–158.",
+        "topics": [
+          "influenza vaccination",
+          "chronic heart failure",
+          "PARADIGM-HF trial"
+        ]
+      },
+      {
+        "index": 882,
+        "citation": "Gotsman I, Shuvy M, Tahiroglu I, Zwas DR, Keren A. Influenza vaccination and outcome in heart failure. Am J Cardiol 2020;128:134–139.",
+        "topics": [
+          "influenza vaccination",
+          "heart failure",
+          "outcomes"
+        ]
+      },
+      {
+        "index": 883,
+        "citation": "Bhatt AS, Jering KS, Vaduganathan M, Claggett BL, Cunningham JW, Rosenthal N, Signorovitch J, Thune JJ, Vardeny O, Solomon SD. Clinical outcomes in patients with heart failure hospitalized with COVID-19. JACC Heart Fail 2021;9:65–73.",
+        "topics": [
+          "heart failure",
+          "COVID-19",
+          "hospitalized patient outcomes"
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

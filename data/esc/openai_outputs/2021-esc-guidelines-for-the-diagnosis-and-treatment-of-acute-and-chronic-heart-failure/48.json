@@ -1,47 +1,57 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
-    "note": "Declarations of interest as reported to the ESC by experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during period of guideline development up to and including 2020.",
-    "date": "03/08/2021",
-    "experts": [
+    "Heart transplantation": {
+      "recommendation": "Heart transplantation is recommended for patients with advanced HF, refractory to medical/device therapy and who do not have absolute contraindications.",
+      "class": "I"
+    },
+    "Inotropes/vasopressors": {
+      "recommendation": "Continuous inotropes and/or vasopressors may be considered in patients with low cardiac output and evidence of organ hypoperfusion as bridge to MCS or heart transplantation.",
+      "class": "IIb"
+    },
+    "Recommendations for management of patients after HF hospitalization": [
       {
-        "id": "Expert 1 (name redacted)",
-        "year": 2020,
-        "declarations": [
-          "Amgen: CAD, Heart Failure",
-          "Novartis: Heart Failure",
-          "Servier: Heart Failure",
-          "CVRx: Heart Failure",
-          "Cardior: Heart Failure",
-          "Vifor International: heart failure, hyperkalemia",
-          "AstraZeneca: heart failure, hyperkalemia"
-        ],
-        "research_funding_under_direct_responsibility": [
-          "Zoll Medical: Arrhythmia",
-          "Abiomed: cardiogenic shock",
-          "Vifor International: Heart failure",
-          "CVRx: Heart Failure"
-        ]
+        "recommendation": "Patients hospitalized for HF should be carefully evaluated to exclude persistent signs of congestion before discharge and to optimize oral treatment.",
+        "class": "I"
       },
       {
-        "id": "Expert 2 (name redacted)",
-        "year": 2020,
-        "declarations": [
-          "Financial Declaration: Direct personal payment from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-          "Abbott: speaker fees, advisory board fees",
-          "AstraZeneca: speaker fees, advisory board fees",
-          "Boehringer-Ingelheim: speaker fees, advisory board fees",
-          "Novartis: speaker fees, advisory board fees",
-          "Vifor International: speaker fees, advisory board fees",
-          "Roche Diagnostics: speaker fees, advisory board fees"
-        ]
+        "recommendation": "Evidence-based oral medical treatment should be administered before discharge.",
+        "class": "I"
       },
       {
-        "id": "Expert 3 (name redacted)",
-        "year": 2020,
-        "declarations": [
-          "Nothing to be declared"
-        ]
+        "recommendation": "An early follow-up visit is recommended at 1–2 weeks after discharge to assess signs of congestion, drug tolerance, and start and/or uptitrate evidence-based therapy.",
+        "class": "I"
+      }
+    ],
+    "Recommendations for management of patients with HF and atrial fibrillation": {
+      "recommendation": "Long-term treatment with an oral anticoagulant should be considered for stroke prevention in AF patients with a CHA2DS2-VASc score of 1 in men or 2 in women.",
+      "class": "IIa"
+    },
+    "Recommendations for management of patients with HF and CCS": [
+      {
+        "recommendation": "CABG should be considered as the first-choice revascularization strategy in patients suitable for surgery, especially if they have diabetes and for those with multivessel disease.",
+        "class": "IIa"
+      },
+      {
+        "recommendation": "In LVAD candidates needing coronary revascularization, CABG should be avoided, if possible.",
+        "class": "IIa"
+      },
+      {
+        "recommendation": "Coronary revascularization may be considered to improve outcomes in patients with HFrEF, CCS, and coronary anatomy suitable for revascularization, after careful evaluation of individual risk–benefit ratio (including coronary anatomy, comorbidities, life expectancy, and patient’s perspectives).",
+        "class": "IIb"
+      },
+      {
+        "recommendation": "PCI may be considered as an alternative to CABG, based on Heart Team evaluation, considering coronary anatomy, comorbidities, and surgical risk.",
+        "class": "IIb"
+      }
+    ],
+    "Recommendations for management of patients with HF and valvular heart disease": [
+      {
+        "recommendation": "Aortic valve intervention (TAVI or SAVR) is recommended in patients with HF and severe high-gradient aortic stenosis to reduce mortality and improve symptoms.",
+        "class": "I"
+      },
+      {
+        "recommendation": "The choice between TAVI and SAVR should be made by the Heart Team according to individual patient preference and features including age, surgical risk, clinical, anatomical and procedural aspects.",
+        "class": "I"
       }
     ]
   },

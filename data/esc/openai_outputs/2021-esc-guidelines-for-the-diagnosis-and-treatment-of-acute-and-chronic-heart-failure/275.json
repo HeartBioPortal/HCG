@@ -1,0 +1,48 @@
+{
+  "content": {
+    "section": "12.2.1 Medical therapy",
+    "summary": "Beta-blockers are the mainstay of therapy in patients with HFrEF and CAD because of prognostic benefit. Ivabradine should be considered as an alternative to beta-blockers (when contraindicated) or as additional anti-anginal therapy in patients in sinus rhythm with heart rate ≥70 b.p.m. Other anti-anginal drugs (amlodipine, felodipine, nicorandil, ranolazine, oral or transdermal nitrates) are effective for treating symptoms though outcome data are neutral or lacking. Trimetazidine may have additive effects (improvement of LV function and exercise capacity) in patients with HFrEF and CCS already on beta-blockers. Short-acting nitrates should be used with caution in patients with HF because they cause hypotension. Diltiazem and verapamil increase HF-related events and are contraindicated in patients with HFrEF.",
+    "conditions": [
+      "HFrEF (heart failure with reduced ejection fraction)",
+      "CAD (coronary artery disease)",
+      "CCS (chronic coronary syndrome)",
+      "HF (heart failure)",
+      "HFpEF (heart failure with preserved ejection fraction) - mentioned later in text regarding angina relief without clear HF benefit"
+    ],
+    "key_recommendations": [
+      "Use beta-blockers as first-line (Class I) in patients with HFrEF and CAD.",
+      "Consider ivabradine for patients in sinus rhythm with HR ≥70 bpm when beta-blockers are contraindicated or insufficient (Class IIa/IIb depending on context).",
+      "Consider other anti-anginal agents (amlodipine, felodipine, nicorandil, ranolazine, nitrates, trimetazidine) for symptom relief (various Class IIa/IIb recommendations).",
+      "Avoid diltiazem and verapamil in HFrEF (Class III — contraindicated).",
+      "Short-acting nitrates: use with caution in HF due to hypotension risk."
+    ],
+    "drugs_mentioned": [
+      "Beta-blockers",
+      "Ivabradine",
+      "Amlodipine",
+      "Felodipine",
+      "Nicorandil",
+      "Ranolazine",
+      "Nitrates (oral or transdermal, short-acting)",
+      "Trimetazidine",
+      "Diltiazem",
+      "Verapamil"
+    ],
+    "algorithm_figure": {
+      "figure_number": 15,
+      "description": "Flowchart for use of anti-anginal medications in patients with CCS and HFrEF. Starts with beta-blockers (Class I). If symptoms persist, branch based on heart rate: HR ≥70 bpm in sinus rhythm → ivabradine (Class IIa) considered; HR <70 bpm or atrial fibrillation → consider other agents (trimetazidine, ranolazine, nicorandil, nitrates, felodipine, amlodipine) with Class IIb recommendations. Diltiazem and verapamil shown as Class III (contraindicated).",
+      "visual_coding": "Green = Class I; Yellow = Class IIa; Orange = Class IIb; Red = Class III"
+    },
+    "heart_rate_thresholds": {
+      "ivabradine_threshold_bpm": 70,
+      "context": "Ivabradine considered in patients in sinus rhythm whose heart rate is ≥70 b.p.m."
+    },
+    "contraindications_and_cautions": [
+      "Diltiazem and verapamil contraindicated in HFrEF (increase HF-related events).",
+      "Short-acting nitrates cause hypotension and should be used with caution in HF.",
+      "Ivabradine only for patients in sinus rhythm (not for AF)"
+    ],
+    "notes": "Page contains citation markers and refers to Table 1 and other sections for further details on classes of recommendation. Mentions HFpEF regarding angina relief but notes no clear benefit on HF outcomes."
+  },
+  "genes": []
+}

@@ -1,0 +1,101 @@
+{
+  "content": {
+    "title": "Dilated cardiomyopathy or hypokinetic non-dilated cardiomyopathy: specific aspects of diagnosis and treatment",
+    "summary": "Guidance on diagnostic criteria for DCM and HNDC, recommendations for genetic counselling and testing, and a minimal gene panel for familial DCM/HNDC.",
+    "diagnostic_criteria": [
+      "DCM: LV dilatation and systolic dysfunction in the absence of known abnormal loading conditions or significant CAD.",
+      "HNDC: LV or biventricular global systolic dysfunction (LVEF <45%) without dilatation in the absence of known abnormal loading conditions or significant CAD.",
+      "DCM and HNDC can be considered familial if two or more first- or second-degree relatives have DCM or HNDC, or a first-degree relative has autopsy proven DCM and sudden death at <50 years of age."
+    ],
+    "genetic_counselling_and_testing": [
+      "Indication: All patients with a diagnosis of DCM or HNDC and all first-degree adult relatives of these patients and a definite disease-causing mutation should be offered testing to identify genetically affected individuals at a preclinical phase.",
+      "First-degree adult relatives should have evaluation repeated every 5 years or less when aged <50 years or non-diagnostic abnormalities are found.",
+      "Clinical evaluation, ECG, echocardiography and possibly CMR must be performed in first-degree relatives of patients.",
+      "Results: Genetic testing can identify patients with DCM or HNDC at highest risk of arrhythmia and/or deserving other specific treatments."
+    ],
+    "minimal_gene_set_note": "Minimal set of genes listed in the guideline as relevant for DCM/HNDC genetic testing."
+  },
+  "genes": [
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)",
+        "Risk of arrhythmia in DCM/HNDC"
+      ],
+      "Occurrences": 2,
+      "context": "Risk factors in patients with a confirmed LMNA mutation: NSVT during ambulatory ECG monitoring, LVEF <45% at first evaluation, male sex and non-missense mutations...; listed in the minimal set of genes."
+    },
+    {
+      "Gene": "TTN",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)"
+      ],
+      "Occurrences": 1,
+      "context": "Included in the guideline's 'Minimal set of genes' for DCM (listed as TTN)."
+    },
+    {
+      "Gene": "RBM20",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)"
+      ],
+      "Occurrences": 1,
+      "context": "Included in the guideline's 'Minimal set of genes' for DCM (listed as RBM20)."
+    },
+    {
+      "Gene": "PLN",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)"
+      ],
+      "Occurrences": 1,
+      "context": "Included in the guideline's 'Minimal set of genes' for DCM (listed as PLN)."
+    },
+    {
+      "Gene": "BAG3",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)"
+      ],
+      "Occurrences": 1,
+      "context": "Included in the guideline's 'Minimal set of genes' for DCM (listed as BAG3)."
+    },
+    {
+      "Gene": "ACTC1",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)"
+      ],
+      "Occurrences": 1,
+      "context": "The guideline lists 'actin alpha cardiac muscle' in the minimal gene set (corresponds to ACTC1)."
+    },
+    {
+      "Gene": "NEXN",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)"
+      ],
+      "Occurrences": 1,
+      "context": "The guideline lists 'nexilin' in the minimal gene set (corresponds to NEXN)."
+    },
+    {
+      "Gene": "TPM1",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)"
+      ],
+      "Occurrences": 1,
+      "context": "The guideline lists 'tropomyosin-1' in the minimal gene set (corresponds to TPM1)."
+    },
+    {
+      "Gene": "VCL",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)"
+      ],
+      "Occurrences": 1,
+      "context": "The guideline lists 'vinculin' in the minimal gene set (corresponds to VCL)."
+    },
+    {
+      "Gene": "TNNC1",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy (DCM)"
+      ],
+      "Occurrences": 1,
+      "context": "The guideline lists 'troponin-C' in the minimal gene set (cardiac troponin C corresponds to TNNC1)."
+    }
+  ]
+}

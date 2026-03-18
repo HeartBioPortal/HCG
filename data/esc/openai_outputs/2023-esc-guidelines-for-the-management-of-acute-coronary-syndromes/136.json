@@ -1,0 +1,39 @@
+{
+  "content": {
+    "heading": "6.3.1. Shortening dual antiplatelet therapy",
+    "summary": "Several RCTs and meta-analyses compared standard 12-month DAPT with shorter (≈3–6 month) regimens followed by aspirin or P2Y12 inhibitor monotherapy in ACS patients. Shortened DAPT reduced bleeding but some abbreviated regimens (eg, 3-month) were associated with higher ischaemic events (MI or stent thrombosis) in some analyses. Trials investigating very short DAPT (≈1–3 months) then P2Y12 monotherapy included patients at low-to-intermediate ischaemic risk; STEMI patients tended to be excluded or under-represented.",
+    "key_findings": [
+      "Large network meta-analysis: 3-month DAPT (but not 6-month) associated with higher rates of MI or stent thrombosis in ACS patients.",
+      "Several large RCTs investigated 1–3 months DAPT followed by P2Y12 inhibitor monotherapy (clopidogrel or ticagrelor) in patients with and without ACS.",
+      "TWILIGHT: ticagrelor monotherapy after 3 months DAPT reduced clinically relevant bleeding without signal for increased ischaemic risk in selected high‑risk patients.",
+      "TICO: ticagrelor monotherapy after 3 months DAPT tested in ACS patients showed reduced net adverse clinical events and major bleeding in the trial population tested.",
+      "STOPDAPT-2-ACS: investigated very short DAPT strategies in ACS; non-inferiority for composite CV/bleeding endpoints was not proven for very short (<3 months) DAPT followed by clopidogrel monotherapy."
+    ],
+    "trials_reported": [
+      {
+        "name": "TWILIGHT",
+        "description": "Examined ticagrelor monotherapy vs ticagrelor+aspirin after 3 months of DAPT in high‑risk patients; reduced BARC type 2–5 bleeding without signal of increased ischaemic risk."
+      },
+      {
+        "name": "TICO",
+        "description": "Tested ticagrelor monotherapy vs ticagrelor+aspirin after 3 months DAPT in ACS patients (3056 patients); showed reductions in net adverse clinical events and major bleeding."
+      },
+      {
+        "name": "STOPDAPT-2-ACS",
+        "description": "Investigated short DAPT strategy in ACS patients; at ~2 months patients randomized to clopidogrel monotherapy vs 12 months DAPT; non-inferiority was not proven for the composite CV/bleeding endpoint."
+      }
+    ],
+    "clinical_implication": "Shortened DAPT (particularly transitioning to P2Y12 inhibitor monotherapy after 3 months) can reduce bleeding in selected populations, but selection of patients (ischaemic risk, STEMI status) is critical and very short DAPT (<3 months) may not be appropriate in ACS."
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "Target of P2Y12 receptor inhibitors (antiplatelet therapy)",
+        "Acute coronary syndrome (ACS) / patients treated with coronary stents"
+      ],
+      "Occurrences": 1,
+      "context": "Text refers to 'P2Y12 receptor inhibitor monotherapy' as the strategy after shortened DAPT in patients with and without ACS (i.e., use of P2Y12 receptor antagonists such as clopidogrel or ticagrelor)."
+    }
+  ]
+}

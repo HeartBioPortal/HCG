@@ -1,0 +1,61 @@
+{
+  "content": {
+    "page_note": "Reference list entries 961–970 from a clinical guideline document, focused on myocarditis, dilated cardiomyopathy, immunoglobulin/immunomodulation treatments, and multiple entries on cardiac amyloidosis including transthyretin-related disease.",
+    "references": [
+      {
+        "id": 961,
+        "citation": "Maisch B, Hufnagel G, Kolsch S, Funck R, Richter A, Rupp H, Herzum M, Pankuweit S. Treatment of inflammatory dilated cardiomyopathy and (peri)myocarditis with immunosuppression and i.v. immunoglobulins. Herz 2004;29:624–636."
+      },
+      {
+        "id": 962,
+        "citation": "Kociol RD, Cooper LT, Fang JC, Moslehi JJ, Pang PS, Sabe MA, Shah RV, Sims DB, Thiene G, Vardeny O, American Heart Association Heart Failure Transplantation Committee of the Council on Clinical Cardiology. Recognition and initial management of fulminant myocarditis: a scientific statement from the American Heart Association. Circulation 2020;141:e69–e92."
+      },
+      {
+        "id": 963,
+        "citation": "Felix SB, Staudt A, Dorffel WV, Stangl V, Merkel K, Pohl M, Docke WD, Morgera S, Neumayer HH, Wernecke KD, Wallukat G, Stangl K, Baumann G. Hemodynamic effects of immunoadsorption and subsequent immunoglobulin substitution in dilated cardiomyopathy: three-month results from a randomized study. J Am Coll Cardiol A 2000;35:1590–1598."
+      },
+      {
+        "id": 964,
+        "citation": "Bajaj NS, Gupta K, Gharpure N, Pate M, Chopra L, Kalra R, Prabhu SD. Effect of immunomodulation on cardiac remodelling and outcomes in heart failure: a quantitative synthesis of the literature. ESC Heart Fail 2020;7:1319–1330."
+      },
+      {
+        "id": 965,
+        "citation": "Martinez-Naharro A, Hawkins PN, Fontana M. Cardiac amyloidosis. Clin Med (Lond) 2018;18:s30–s35."
+      },
+      {
+        "id": 966,
+        "citation": "Ruberg FL, Grogan M, Hanna M, Kelly JW, Maurer MS. Transthyretin amyloid cardiomyopathy: JACC state-of-the-art review. J Am Coll Cardiol 2019;73:2872–2891."
+      },
+      {
+        "id": 967,
+        "citation": "Gonzalez-Lopez E, Gallego-Delgado M, Guzzo-Merello G, de Haro-Del Moral FJ, Cobo-Marcos M, Robles C, Bornstein B, Salas C, Lara-Pezzi E, Alonso-Pulpon L, Garcia-Pavia P. Wild-type transthyretin amyloidosis as a cause of heart failure with preserved ejection fraction. Eur Heart J 2015;36:2585–2594."
+      },
+      {
+        "id": 968,
+        "citation": "Helder MR, Schaff HV, Nishimura RA, Gersh BJ, Dearani JA, Ommen SR, Mereuta OM, Theis JD, Dogan A, Edwards WD. Impact of incidental amyloidosis on the prognosis of patients with hypertrophic cardiomyopathy undergoing septal myectomy for left ventricular outflow tract obstruction. Am J Cardiol 2014;114:1396–1399."
+      },
+      {
+        "id": 969,
+        "citation": "Treibel TA, Fontana M, Gilbertson JA, Castelletti S, White SK, Scully PR, Roberts N, Hutt DF, Rowczenio DM, Whelan CJ, Ashworth MA, Gillmore JD, Hawkins PN, Moon JC. Occult transthyretin cardiac amyloid in severe calcific aortic stenosis: prevalence and prognosis in patients undergoing surgical aortic valve replacement. Circ Cardiovasc Imaging 2016;9."
+      },
+      {
+        "id": 970,
+        "citation": "Cavalcante JL, Rijal S, Abdelkarim I, Althouse AD, Sharbaugh MS, Fridman Y, Soman P, Forman DE, Schindler JT, Gleason TG, Lee JS, Schelbert EB. Cardiac amyloidosis is prevalent in older patients with aortic stenosis and carries worse prognosis. J Cardiovasc Magn Reson 2017;19:98."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "TTR",
+      "Associated Conditions": [
+        "Transthyretin amyloid cardiomyopathy",
+        "Wild-type transthyretin amyloidosis",
+        "Cardiac amyloid associated with aortic stenosis",
+        "Heart failure with preserved ejection fraction related to transthyretin amyloidosis",
+        "Cardiac amyloidosis (general, transthyretin-related)"
+      ],
+      "Occurrences": 3,
+      "context": "Multiple references on the page describe transthyretin-related cardiac disease: Ruberg et al. (\"Transthyretin amyloid cardiomyopathy\"), Gonzalez-Lopez et al. (\"Wild-type transthyretin amyloidosis as a cause of heart failure with preserved ejection fraction\"), and Treibel et al. (\"Occult transthyretin cardiac amyloid in severe calcific aortic stenosis\")."
+    }
+  ]
+}

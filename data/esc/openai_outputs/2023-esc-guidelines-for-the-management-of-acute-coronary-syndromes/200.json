@@ -1,0 +1,82 @@
+{
+  "content": {
+    "title": "Recommendations for ACS-related cardiogenic shock (CS)",
+    "recommendations": [
+      {
+        "id": 1,
+        "text": "Immediate coronary angiography and PCI of the IRA (if indicated) is recommended in patients with CS complicating ACS.",
+        "class": "I",
+        "level": "B",
+        "evidence_references": [
+          394,
+          396,
+          404
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Emergency CABG is recommended for ACS-related CS if PCI of the IRA is not feasible/unsuccessful.",
+        "class": "I",
+        "level": "B",
+        "evidence_references": [
+          394,
+          395
+        ]
+      },
+      {
+        "id": 3,
+        "text": "In cases of haemodynamic instability, emergency surgical/catheter-based repair of mechanical complications of ACS is recommended, based on Heart Team discussion.",
+        "class": "I",
+        "level": "C",
+        "evidence_references": []
+      },
+      {
+        "id": 4,
+        "text": "Fibrinolysis should be considered in STEMI patients presenting with CS if a PPCI strategy is not available within 120 min from the time of STEMI diagnosis and mechanical complications have been ruled out.",
+        "class": "IIa",
+        "level": "C",
+        "evidence_references": [
+          184,
+          354
+        ],
+        "time_window_min": 120
+      },
+      {
+        "id": 5,
+        "text": "In patients with ACS and severe/refractory CS, short-term mechanical circulatory support may be considered.",
+        "class": "IIb",
+        "level": "C",
+        "evidence_references": [
+          402
+        ]
+      },
+      {
+        "id": 6,
+        "text": "The routine use of an IABP in ACS patients with CS and without mechanical complications is not recommended.",
+        "class": "III",
+        "level": "B",
+        "evidence_references": [
+          399,
+          405,
+          406,
+          407
+        ]
+      }
+    ],
+    "abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "CABG": "coronary artery bypass grafting",
+      "CS": "cardiogenic shock",
+      "IABP": "intra-aortic balloon pump",
+      "IRA": "infarct-related artery",
+      "PPCI": "primary percutaneous coronary intervention",
+      "STEMI": "ST-elevation myocardial infarction"
+    },
+    "notes": {
+      "classes": "Class of recommendation",
+      "levels": "Level of evidence",
+      "source": "ESC 2023 (as shown on image)"
+    }
+  },
+  "genes": []
+}

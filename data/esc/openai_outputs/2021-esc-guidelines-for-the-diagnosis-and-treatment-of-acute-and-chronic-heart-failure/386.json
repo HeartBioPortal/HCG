@@ -1,0 +1,99 @@
+{
+  "content": {
+    "page_title": "Guideline recommendations (heart failure comorbidities and special situations)",
+    "summary": "Recommendations for management of patients with heart failure (HF) and common comorbidities or conditions.",
+    "recommendations": [
+      {
+        "topic": "HF and aortic stenosis",
+        "points": [
+          "Aortic valve intervention (TAVI or SAVR) is recommended in patients with HF and severe high-gradient aortic stenosis to reduce mortality and improve symptoms.",
+          "Choice between TAVI and SAVR should be made by the Heart Team considering age, surgical risk, clinical, anatomical and procedural aspects."
+        ]
+      },
+      {
+        "topic": "HF and diabetes",
+        "points": [
+          "SGLT2 inhibitors (examples listed: canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, sotagliflozin) are recommended in patients with T2DM at risk of cardiovascular events to reduce hospitalizations for HF, major CV events, end-stage renal dysfunction and CV death.",
+          "SGLT2 inhibitors (dapagliflozin, empagliflozin, sotagliflozin) are recommended in patients with T2DM and HFrEF to reduce hospitalizations for HF and CV death.",
+          "Thiazolidinediones (glitazones) are not recommended in patients with HF (increase risk of HF worsening and hospitalization).",
+          "The DPP-4 inhibitor saxagliptin is not recommended in patients with HF."
+        ]
+      },
+      {
+        "topic": "HF and iron deficiency",
+        "points": [
+          "All patients with HF should be periodically screened for anaemia and iron deficiency with CBC, serum ferritin and TSAT.",
+          "Treatment of anaemia in HF with erythropoiesis-stimulating agents is not recommended in the absence of other indications for this therapy."
+        ]
+      },
+      {
+        "topic": "HF and sleep apnoea",
+        "points": [
+          "Adaptive servo-ventilation is not recommended in patients with HFrEF and predominant central sleep apnoea (increased all-cause and CV mortality)."
+        ]
+      },
+      {
+        "topic": "HF and arthritis",
+        "points": [
+          "NSAIDs or COX-2 inhibitors are not recommended in patients with HF (increase risk of HF worsening and hospitalization)."
+        ]
+      },
+      {
+        "topic": "HF and cancer",
+        "points": [
+          "Cancer patients at increased risk for cardiotoxicity should undergo CV evaluation before scheduled anticancer therapy, preferably by cardiologist experienced in cardio-oncology."
+        ]
+      },
+      {
+        "topic": "HF and amyloidosis (TTR-related)",
+        "points": [
+          "Tafamidis is recommended in patients with genetically proven hereditary transthyretin cardiac amyloidosis (hATTR-CA) and NYHA class I or II symptoms to reduce symptoms, CV hospitalization and mortality.",
+          "Tafamidis is also recommended in patients with wild-type transthyretin cardiac amyloidosis (wtTTR-CA) and NYHA class I or II to reduce symptoms, CV hospitalization and mortality."
+        ]
+      }
+    ],
+    "abbreviations_present_on_page": [
+      "ACE-I (angiotensin-converting enzyme inhibitor)",
+      "ARB (angiotensin-receptor blocker)",
+      "ARNI (angiotensin receptor-neprilysin inhibitor)",
+      "BNP / NT-proBNP (B-type natriuretic peptide / N-terminal pro-B-type natriuretic peptide)",
+      "SGLT2 (sodium‑glucose co‑transporter 2) / SGLT2 inhibitors",
+      "hATTR-CA, wtTTR-CA (hereditary / wild-type transthyretin cardiac amyloidosis)"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "TTR",
+      "Associated Conditions": [
+        "Hereditary transthyretin cardiac amyloidosis (hATTR-CA)",
+        "Wild-type transthyretin cardiac amyloidosis (wtTTR-CA)"
+      ],
+      "Occurrences": 3,
+      "context": "Guideline recommends tafamidis for patients with genetically proven hATTR-CA and for wtTTR-CA; abbreviations hATTR-CA and wtTTR-CA appear in recommendations and abbreviation list."
+    },
+    {
+      "Gene": "NPPB",
+      "Associated Conditions": [
+        "Heart failure (biomarker BNP / NT-proBNP)"
+      ],
+      "Occurrences": 1,
+      "context": "BNP and NT-proBNP are listed in the abbreviations as B-type natriuretic peptide and N-terminal pro-B-type natriuretic peptide, markers used in HF management."
+    },
+    {
+      "Gene": "SLC5A2",
+      "Associated Conditions": [
+        "Type 2 diabetes mellitus; heart failure (treatment target of SGLT2 inhibitors)"
+      ],
+      "Occurrences": 2,
+      "context": "The page refers to SGLT2 inhibitors (sodium‑glucose co‑transporter 2) recommended for patients with T2DM and HF; SGLT2 corresponds to the SLC5A2 gene product."
+    },
+    {
+      "Gene": "ACE",
+      "Associated Conditions": [
+        "Hypertension; heart failure (target of ACE inhibitors)"
+      ],
+      "Occurrences": 1,
+      "context": "ACE-I is defined in the abbreviations (angiotensin-converting enzyme inhibitor), a primary drug class referenced in HF care on the page."
+    }
+  ]
+}

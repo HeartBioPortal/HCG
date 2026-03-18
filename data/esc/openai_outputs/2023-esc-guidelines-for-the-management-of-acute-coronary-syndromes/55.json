@@ -1,147 +1,61 @@
 {
   "content": {
-    "document_title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers (Declarations of Interest)",
-    "notes": "Report lists declarations of interest as reported to the ESC by experts during yearly call covering previous calendar year (calls conducted during development period up to and including 2022).",
-    "experts": [
-      {
-        "name": "Linhart Ales",
-        "declarations": [
-          {
-            "year": 2021,
-            "type_of_relationship": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies_and_associated_conditions": [
-              {
-                "company": "Servier",
-                "conditions": [
-                  "Arterial hypertension",
-                  "Coronary heart disease",
-                  "Heart failure"
-                ]
-              },
-              {
-                "company": "Boehringer-Ingelheim",
-                "conditions": [
-                  "Atrial fibrillation",
-                  "Diabetes"
-                ]
-              },
-              {
-                "company": "Sanofi Aventis",
-                "conditions": [
-                  "Fabry disease"
-                ]
-              },
-              {
-                "company": "Takeda Pharmaceuticals",
-                "conditions": [
-                  "Fabry disease"
-                ]
-              },
-              {
-                "company": "Avrobio",
-                "conditions": [
-                  "Fabry disease"
-                ]
-              },
-              {
-                "company": "Novartis",
-                "conditions": [
-                  "Heart failure"
-                ]
-              }
-            ]
-          },
-          {
-            "year": 2022,
-            "type_of_relationship": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies_and_associated_conditions": [
-              {
-                "company": "Boehringer-Ingelheim",
-                "conditions": [
-                  "Chronic Heart Failure"
-                ]
-              },
-              {
-                "company": "Novartis",
-                "conditions": [
-                  "Chronic Heart Failure"
-                ]
-              },
-              {
-                "company": "Servier",
-                "conditions": [
-                  "Hypertension"
-                ]
-              },
-              {
-                "company": "Sanofi Aventis",
-                "conditions": [
-                  "Myocardial Disease"
-                ]
-              },
-              {
-                "company": "Takeda Pharmaceuticals",
-                "conditions": [
-                  "Myocardial Disease"
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Lochen Maja-Lisa",
-        "declarations": [
-          {
-            "year": 2021,
-            "type_of_relationship": "Nothing to be declared"
-          },
-          {
-            "year": 2022,
-            "type_of_relationship": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies_and_associated_conditions": [
-              {
-                "company": "Sanofi Aventis",
-                "conditions": [
-                  "Acute Coronary Syndromes"
-                ]
-              },
-              {
-                "company": "BMS/Pfizer",
-                "conditions": [
-                  "Atrial Fibrillation (AF)"
-                ]
-              },
-              {
-                "company": "Bayer AG",
-                "conditions": [
-                  "Atrial Fibrillation (AF)"
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Mamas Mamas",
-        "declarations": [
-          {
-            "year": 2021,
-            "type_of_relationship": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "details": [
-              "Terumo Inc: speaker fees for webinars (around 1000E a year)",
-              "Research funding from healthcare industry under direct/personal responsibility (to department or institution).",
-              "Abbott: pci",
-              "Terumo Inc: pci"
-            ]
-          }
-        ]
-      }
-    ],
-    "page_footer": {
-      "date": "16/05/2023",
-      "page": "31/57"
+    "title": "Recommendations (Table 5) - Acute Coronary Syndrome",
+    "sections": {
+      "Antiplatelet_and_Anticoagulant_Therapy_in_ACS": [
+        "If patients presenting with ACS stop DAPT to undergo coronary artery bypass grafting, resume DAPT after surgery for at least 12 months.",
+        "In older ACS patients, especially if HBR, clopidogrel as the P2Y12 receptor inhibitor may be considered."
+      ],
+      "Alternative_Antithrombotic_Therapy_Regimens": [
+        "In patients who are event-free after 3–6 months of DAPT and not at high ischemic risk, single antiplatelet therapy (preferably with a P2Y12 receptor inhibitor) should be considered.",
+        "P2Y12 inhibitor monotherapy may be considered as an alternative to aspirin monotherapy for long‑term treatment.",
+        "In HBR patients, aspirin or P2Y12 receptor inhibitor monotherapy after 1 month of DAPT may be considered."
+      ],
+      "Cardiac_Arrest_and_Out-of-Hospital_Cardiac_Arrest": [
+        "Evaluation of neurological prognosis (no earlier than 72 h after admission) recommended in comatose survivors after cardiac arrest.",
+        "Transport of out-of-hospital cardiac arrest patients to a cardiac arrest centre according to local protocol should be considered."
+      ],
+      "Technical_Aspects_of_Invasive_Strategies": [
+        "PCI recommended only for patients with symptoms and ongoing myocardial ischemia, large area of myocardium in jeopardy, or reduced antegrade flow.",
+        "Intravascular imaging (preferably optical coherence tomography) may be considered in ambiguous culprit lesions."
+      ],
+      "Multivessel_Disease": [
+        "Staged PCI of non-IRA should be considered in ACS patients presenting with cardiogenic shock.",
+        "For haemodynamically stable STEMI patients undergoing primary PCI, PCI of the non-IRA is recommended based on angiographic severity."
+      ],
+      "ACSC_Complications": [
+        "Permanent pacemaker recommended when high-degree AV block does not resolve within at least 5 days after MI.",
+        "Cardiac MRI should be considered with equivocal echo images or high suspicion of LV thrombus.",
+        "Consider contrast echocardiography for detection of LV thrombus if apex is not well visualized."
+      ],
+      "Comorbid_Conditions": [
+        "Base long-term glucose‑lowering treatment choice on comorbidities, including heart failure, chronic kidney disease, and obesity.",
+        "Individualize interventional and pharmacological treatments for frail older patients after careful evaluation of risks and benefits.",
+        "In cancer patients, consider prognosis and bleeding risk when choosing invasive strategies; aspirin not recommended if platelet count <10,000/μL; clopidogrel not recommended if platelet count <30,000/μL."
+      ],
+      "Long-term_Management": [
+        "Intensify lipid-lowering therapy during index hospitalization for patients already on lipid-lowering therapy before admission.",
+        "Low-dose colchicine (0.5 mg once daily) may be considered in certain patients.",
+        "Combination therapy with a high-dose statin plus ezetimibe may be considered during index hospitalization."
+      ],
+      "Patient_Perspectives_and_Communication": [
+        "Patient-centred care is recommended, involving patients in decision-making and informing them about risks and benefits.",
+        "Provide written and verbal information prior to discharge; consider validated tools for assessment of mental well‑being and onward psychological referral when appropriate."
+      ],
+      "Abbreviations_Footnote": "ACS acute coronary syndrome; AV atrioventricular; DAPT dual antiplatelet therapy; HBR high bleeding risk; IRA infarct-related artery; LV left ventricle; MI myocardial infarction; OAC oral anticoagulant; PCI percutaneous coronary intervention; STEMI ST-elevation myocardial infarction."
     }
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "Acute coronary syndrome (ACS)",
+        "Antiplatelet therapy selection (clopidogrel and other P2Y12 inhibitors)",
+        "Single antiplatelet therapy/monotherapy after DAPT",
+        "Consideration in high bleeding risk (HBR) patients and older ACS patients"
+      ],
+      "Occurrences": 4,
+      "context": "The guideline repeatedly refers to the P2Y12 receptor inhibitor (e.g., clopidogrel) in recommendations for antiplatelet therapy in ACS, for consideration as monotherapy after 3–6 months of DAPT, and as an option in older or high‑bleeding‑risk patients."
+    }
+  ]
 }

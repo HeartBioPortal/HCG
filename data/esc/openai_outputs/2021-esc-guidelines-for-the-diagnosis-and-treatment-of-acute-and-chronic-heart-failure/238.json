@@ -1,0 +1,79 @@
+{
+  "content": {
+    "overview_table": {
+      "columns": [
+        "Column 1",
+        "Column 2",
+        "Column 3",
+        "Column 4"
+      ],
+      "rows": [
+        {
+          "row": "Onset",
+          "values": [
+            "Gradual (days)",
+            "Rapid (hours)",
+            "Gradual or rapid",
+            "Gradual or rapid"
+          ]
+        },
+        {
+          "row": "Main haemodynamic abnormalities",
+          "values": [
+            "Increased LVEDP and PCWP; Low or normal cardiac output; Normal to low SBP",
+            "Increased LVEDP and PCWP; Normal cardiac output; Normal to high SBP",
+            "Increased RVEDP; Low cardiac output; Low SBP",
+            "Increased LVEDP and PCWP; Low cardiac output; Low SBP"
+          ]
+        },
+        {
+          "row": "Main clinical presentations",
+          "values": [
+            "Wet and warm OR Wet and cold",
+            "Wet and warm",
+            "Wet and cold",
+            "Wet and cold"
+          ]
+        },
+        {
+          "row": "Main treatment",
+          "values": [
+            "Diuretics; Inotropic agents/vasopressors (if peripheral hypoperfusion/hypotension); Short-term MCS or RRT if needed",
+            "Diuretics; Vasodilators",
+            "Diuretics for peripheral congestion; Inotropic agents/vasopressors (if peripheral hypoperfusion/hypotension); Short-term MCS or RRT if needed",
+            "Inotropic agents/vasopressors; Short-term MCS; RRT"
+          ]
+        }
+      ]
+    },
+    "syndromes_table": {
+      "headers": [
+        "Acute decompensated heart failure",
+        "Acute pulmonary oedema",
+        "Isolated right ventricular failure",
+        "Cardiogenic shock"
+      ],
+      "rows": [
+        {
+          "row": "Main mechanisms",
+          "values": [
+            "LV dysfunction; Sodium and water renal retention",
+            "Increased afterload and/or predominant LV diastolic dysfunction; Valvular heart disease",
+            "RV dysfunction and/or pre-capillary pulmonary hypertension",
+            "Severe cardiac dysfunction"
+          ]
+        },
+        {
+          "row": "Main cause of symptoms",
+          "values": [
+            "Fluid accumulation, increased intraventricular",
+            "Fluid redistribution",
+            "Increased central venous pressure and often systemic",
+            "Systemic hypoperfusion"
+          ]
+        }
+      ]
+    }
+  },
+  "genes": []
+}

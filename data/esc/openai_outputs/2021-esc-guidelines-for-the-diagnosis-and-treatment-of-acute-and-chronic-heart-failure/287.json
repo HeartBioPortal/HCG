@@ -1,0 +1,57 @@
+{
+  "content": {
+    "page_title": "Recommendations for the management of valvular heart disease in patients with heart failure",
+    "eligibility_criteria": [
+      "LVEF 20–50%",
+      "LVESD <70 mm",
+      "systolic pulmonary pressure <70 mmHg",
+      "absence of moderate or severe right ventricular dysfunction or severe TR",
+      "absence of haemodynamic instability"
+    ],
+    "recommendations": {
+      "aortic_stenosis": [
+        {
+          "text": "Aortic valve intervention, TAVI or SAVR, is recommended in patients with HF and severe high-gradient aortic stenosis to reduce mortality and improve symptoms.",
+          "Class": "I",
+          "Level": "B",
+          "references": [
+            "594"
+          ]
+        },
+        {
+          "text": "It is recommended that the choice between TAVI and SAVR be made by the Heart Team, according to individual patient preference and features including age, surgical risk, clinical, anatomical and procedural aspects, weighing the risks and benefits of each approach.",
+          "Class": "I",
+          "Level": "C",
+          "references": [
+            "592"
+          ]
+        }
+      ],
+      "secondary_mitral_regurgitation": [
+        {
+          "text": "Percutaneous edge-to-edge mitral valve repair should be considered in carefully selected patients with secondary mitral regurgitation, not eligible for surgery and not needing coronary revascularization, who are symptomatic despite OMT and who fulfil criteria for achieving a reduction in HF hospitalizations.",
+          "Class": "IIa",
+          "Level": "B",
+          "references": [
+            "612"
+          ]
+        },
+        {
+          "text": "In patients with HF, severe secondary mitral regurgitation and CAD who need revascularization, CABG and mitral valve surgery should be considered.",
+          "Class": "IIa",
+          "Level": "C"
+        },
+        {
+          "text": "Percutaneous edge-to-edge mitral valve repair may be considered to improve symptoms in carefully selected patients with secondary mitral regurgitation, not eligible for surgery and not needing coronary revascularization, highly symptomatic despite OMT and who do not fulfil criteria for reducing HF hospitalization.",
+          "Class": "IIb",
+          "Level": "C",
+          "references": [
+            "617"
+          ]
+        }
+      ]
+    },
+    "footer": "© ESC 2021"
+  },
+  "genes": []
+}

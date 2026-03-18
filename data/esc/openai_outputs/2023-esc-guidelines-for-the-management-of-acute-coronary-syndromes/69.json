@@ -1,104 +1,28 @@
 {
   "content": {
-    "document_title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "expert": "Ravn-Fischer Annica",
-    "declaration_year": 2021,
-    "summary": "Declarations of interest reported to the ESC by the expert during the yearly call for declaration covering the previous calendar year.",
-    "disclosures": [
+    "Recommendations_overview": "It is recommended to base the diagnosis and initial short-term risk stratification of ACS on a combination of clinical history, symptoms, vital signs, other physical findings, ECG, and hs-cTn. (refs 1,17,18)",
+    "ECG_recommendations": [
       {
-        "company": "Bayer",
-        "relationship": "Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-        "associated_conditions": [
-          "Anticoagulation",
-          "Atrial fibrillation"
-        ]
+        "recommendation": "Twelve-lead ECG recording and interpretation is recommended as soon as possible at the point of FMC, with a target of <10 min. (refs 5,19)",
+        "Class": "I",
+        "Level": "B"
       },
       {
-        "company": "Pfizer",
-        "relationship": "Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-        "associated_conditions": [
-          "Anticoagulation",
-          "Atrial fibrillation"
-        ]
+        "recommendation": "Continuous ECG monitoring and the availability of defibrillator capacity is recommended as soon as possible in all patients with suspected STEMI, in suspected ACS with other ECG changes or ongoing chest pain, and once the diagnosis of MI is made. (refs 20,21)",
+        "Class": "I",
+        "Level": "B"
       },
       {
-        "company": "Bristol Myers Squibb",
-        "relationship": "Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-        "associated_conditions": [
-          "Anticoagulation",
-          "Atrial fibrillation"
-        ]
+        "recommendation": "The use of additional ECG leads (V3R, V4R, and V7–V9) is recommended in cases of inferior STEMI or if total vessel occlusion is suspected and standard leads are inconclusive. (refs 22–24)",
+        "Class": "I",
+        "Level": "B"
       },
       {
-        "company": "Boehringer-Ingelheim",
-        "relationship": "Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-        "associated_conditions": [
-          "Anticoagulation",
-          "Atrial fibrillation",
-          "Heart failure",
-          "Diabetes"
-        ]
-      },
-      {
-        "company": "Novo-Nordisk",
-        "relationship": "Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-        "associated_conditions": [
-          "Diabetes"
-        ]
-      },
-      {
-        "company": "AstraZeneca",
-        "relationship": "Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-        "associated_conditions": [
-          "Diabetes",
-          "Heart failure"
-        ]
-      },
-      {
-        "company": "Orion",
-        "relationship": "Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-        "associated_conditions": [
-          "Heart failure"
-        ]
-      },
-      {
-        "company": "Amgen",
-        "relationship": "Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-        "associated_conditions": [
-          "Lipids"
-        ]
-      },
-      {
-        "company": "Sanofi Aventis",
-        "relationship": "Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-        "associated_conditions": [
-          "Lipids"
-        ]
-      },
-      {
-        "company": "Novartis",
-        "relationship": "Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-        "associated_conditions": [
-          "Lipids"
-        ]
-      },
-      {
-        "company": "Bayer",
-        "relationship": "Research funding to department/institution",
-        "associated_conditions": [
-          "Atherosclerosis"
-        ],
-        "note": "Research funding from healthcare industry under direct/personal responsibility to department or institution"
+        "recommendation": "An additional 12-lead ECG is recommended in cases with recurrent symptoms or diagnostic uncertainty.",
+        "Class": "I",
+        "Level": "C"
       }
-    ],
-    "other_interests": [
-      "Direct ownership of shares or direct financial interest in healthcare, media, education companies or companies related to suppliers or in competition with the ESC",
-      "Owner of small company focused on health care education (Education)"
-    ],
-    "page_info": {
-      "date": "16/05/2023",
-      "page_number": "45/57"
-    }
+    ]
   },
   "genes": []
 }

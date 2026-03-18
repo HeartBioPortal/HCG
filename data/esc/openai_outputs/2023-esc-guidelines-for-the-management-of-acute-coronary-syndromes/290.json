@@ -1,0 +1,48 @@
+{
+  "content": {
+    "title": "Medications for diabetes; Proton pump inhibitors; Vaccination",
+    "sections": {
+      "13.3.6. Medications for diabetes": "Discusses pharmacologic diabetes therapies with cardiovascular effects.",
+      "13.3.6.1. Sodium-glucose co-transporter 2 inhibitors": "Pharmacological blockade of SGLT2 induces glycosuria, lowers plasma glucose, improves glycaemic control without hypoglycaemia, reduces weight and blood pressure. In patients with type 2 diabetes and established ASCVD, trials of empagliflozin, canagliflozin and dapagliflozin showed significant CV benefits (meta-analysis: MACE reduced ~11%). Benefits also observed in heart failure regardless of LVEF (dapagliflozin, empagliflozin reduce risk of worsening HF or CV death).",
+      "13.3.6.2. Glucagon-like peptide-1 receptor agonists": "Systematic review/meta-analysis of seven trials (~56,004 patients with type 2 diabetes) found GLP-1 receptor agonists associated with reductions in MACE, CV death, all-cause mortality, MI, and stroke.",
+      "13.3.7. Proton pump inhibitors": "PPIs reduce risk of upper gastroduodenal bleeding in patients on antiplatelet agents; indicated for patients at high GI bleeding risk. PPIs that inhibit CYP2C19 (omeprazole, esomeprazole) may reduce the pharmacodynamic response to clopidogrel, though strong evidence of increased ischaemic events is lacking. No interaction observed between PPIs and aspirin, prasugrel or ticagrelor."
+    },
+    "key_points": [
+      "SGLT2 inhibitors provide glycaemic control and cardiovascular benefits in type 2 diabetes with ASCVD and reduce worsening HF or CV death in HF patients irrespective of LVEF.",
+      "GLP-1 receptor agonists reduce major adverse cardiovascular events and mortality in type 2 diabetes.",
+      "PPIs protect against upper GI bleeding in patients on antithrombotic therapy; PPIs that inhibit CYP2C19 can reduce clopidogrel response."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "SLC5A2",
+      "Associated Conditions": [
+        "Type 2 diabetes",
+        "Atherosclerotic cardiovascular disease (ASCVD)",
+        "Heart failure",
+        "Cardiovascular outcomes (MACE, CV death)"
+      ],
+      "Occurrences": 3,
+      "context": "Referred to on page as 'SGLT2' (sodium–glucose co-transporter 2). Text describes pharmacological blockade (SGLT2 inhibitors: empagliflozin, canagliflozin, dapagliflozin) improving glycaemic control and demonstrating CV benefits in type 2 diabetes with ASCVD and reducing risk in HF."
+    },
+    {
+      "Gene": "NPPB",
+      "Associated Conditions": [
+        "Heart failure",
+        "Myocardial infarction (post-MI biomarker changes)",
+        "Cardiac natriuretic peptide levels (BNP/NT-proBNP)"
+      ],
+      "Occurrences": 2,
+      "context": "Page references 'BNP levels' and 'NT-pro BNP' (changes in NT-proBNP after empagliflozin post-MI), which are peptides encoded by the NPPB gene and used as heart failure biomarkers."
+    },
+    {
+      "Gene": "CYP2C19",
+      "Associated Conditions": [
+        "Drug metabolism impacting antiplatelet therapy (clopidogrel response)",
+        "Pharmacogenomic interactions with proton pump inhibitors"
+      ],
+      "Occurrences": 1,
+      "context": "Text states 'PPIs that inhibit CYP2C19, particularly omeprazole and esomeprazole, may reduce the pharmacodynamic response to clopidogrel', indicating a drug–gene interaction affecting antiplatelet efficacy."
+    }
+  ]
+}

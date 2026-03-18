@@ -1,58 +1,33 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "date_on_page": "16/05/2023",
-    "notes": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year; calls conducted during period of development of these guidelines up to and including 2022.",
-    "page_number": "16/57",
-    "experts": [
-      {
-        "name": "Erglis Andrejs",
-        "year": 2022,
-        "disclosures": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Payment from healthcare industry to department/institution for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc."
-        ],
-        "companies_and_topics": [
-          "Boehringer-Ingelheim: Atrial Fibrillation (AF)",
-          "Novartis: Chronic Heart Failure",
-          "Amgen: Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS)",
-          "Bayer: Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS)",
-          "Servier: Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS)",
-          "Biosensors: Interventional Cardiology",
-          "Boston Scientific: Interventional Cardiology",
-          "Abbott Vascular: Interventional Cardiology",
-          "MVRx: Interventional Cardiology",
-          "HeartFlow: Interventional Cardiology",
-          "Research Company AS “SISTEMU INOVACIJAS”: Interventional Cardiology"
-        ],
-        "conditions_mentioned": [
-          "Atrial Fibrillation (AF)",
-          "Chronic Heart Failure",
-          "Coronary Artery Disease (Chronic)",
-          "Chronic Coronary Syndromes (CCS)",
-          "Interventional Cardiology"
-        ]
+    "title": "Classes of recommendations",
+    "figure": "Table 1 (diagram showing classes of recommendation repeated twice)",
+    "classes": {
+      "Class I": {
+        "Definition": "Evidence and/or general agreement that a given treatment or procedure is beneficial, useful, effective.",
+        "Wording to use": "Is recommended or is indicated"
       },
-      {
-        "name": "Falk Volkmar",
-        "year": 2021,
-        "disclosures": [
-          "Payment from healthcare industry to department/institution for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc."
-        ],
-        "companies_and_topics": [
-          "Berlin Heart: Advisory",
-          "Novartis: Consultancy",
-          "Abbott: Educational Grant for HCP's",
-          "Edwards Lifesciences: Educational Grant for HCP's",
-          "Medtronic: Educational Grant for HCP's",
-          "Cryolife / Jotec: Educational Grant for HCP's",
-          "Boston Scientific: Study",
-          "Biotronik: Study",
-          "Liva Nova: Study"
-        ],
-        "conditions_mentioned": []
+      "Class II": {
+        "Definition": "Conflicting evidence and/or a divergence of opinion about the usefulness/efficacy of the given treatment or procedure.",
+        "Wording to use": null,
+        "subclasses": {
+          "Class IIa": {
+            "Definition": "Weight of evidence/opinion is in favour of usefulness/efficacy.",
+            "Wording to use": "Should be considered"
+          },
+          "Class IIb": {
+            "Definition": "Usefulness/efficacy is less well established by evidence/opinion.",
+            "Wording to use": "May be considered"
+          }
+        }
+      },
+      "Class III": {
+        "Definition": "Evidence or general agreement that the given treatment or procedure is not useful/effective, and in some cases may be harmful.",
+        "Wording to use": "Is not recommended"
       }
-    ]
+    },
+    "caption_text": "Open in new tab",
+    "notes": "Diagram presents standard wording and definitions for recommendation classes (I, IIa, IIb, III)."
   },
   "genes": []
 }

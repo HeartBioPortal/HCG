@@ -1,39 +1,49 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers (page excerpt)",
-    "expert": "Cikes Maja",
-    "year": 2022,
-    "declarations_summary": [
-      "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-      "Payment from healthcare industry to department/institution for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-      "Research funding from healthcare industry under direct/personal responsibility (to department or institution)."
+    "trials": [
+      {
+        "abbreviation": "RAPID-CTCA",
+        "title": "Rapid Assessment of Potential Ischaemic heart Disease with CTCA"
+      },
+      {
+        "abbreviation": "RCT",
+        "title": "Randomized controlled trial"
+      },
+      {
+        "abbreviation": "REALITY",
+        "title": "Restrictive and Liberal Transfusion Strategies in Patients With Acute Myocardial Infarction"
+      },
+      {
+        "abbreviation": "REBOOT-CNIC",
+        "title": "TREatment With Beta-blockers After myOcardial Infarction withOut Reduced Ejection fracTion",
+        "note": "treatment with beta-blockers after myocardial infarction without reduced ejection fraction"
+      },
+      {
+        "abbreviation": "REDUCE-SWEDEHEART",
+        "title": "Evaluation of Decreased Usage of Betablockers After Myocardial Infarction in the SWEDEHEART Registry"
+      },
+      {
+        "abbreviation": "REMINDER",
+        "title": "Double-Blind, Randomized, Placebo-Controlled Trial Evaluating The Safety And Efficacy Of Early Treatment With Eplerenone In Patients With Acute Myocardial Infarction"
+      },
+      {
+        "abbreviation": "REVELATION",
+        "title": "REVascularization With PaclitaxEL-Coated Balloon Angioplasty Versus Drug-Eluting Stenting in Acute Myocardial InfarCTION"
+      },
+      {
+        "abbreviation": "RIVAL",
+        "title": "Radial Vs femoral access for coronary intervention"
+      },
+      {
+        "abbreviation": "ROMICAT II",
+        "title": "Multicenter Study to Rule Out Myocardial Infarction by Cardiac Computed Tomography"
+      },
+      {
+        "abbreviation": "ROSC",
+        "title": "Return of spontaneous circulation"
+      }
     ],
-    "relationships": [
-      "AstraZeneca: Chronic Heart Failure",
-      "Bayer: Chronic Heart Failure",
-      "Boehringer-Ingelheim: Chronic Heart Failure",
-      "Novartis: Chronic Heart Failure; Investigator-initiated trial (ENVAD-HF), chief investigator",
-      "Teva Pharmaceutical Industries: Chronic Heart Failure",
-      "Novo-Nordisk: Chronic Heart Failure",
-      "Roche Diagnostics: Chronic Heart Failure",
-      "Krka Pharma: Chronic Heart Failure",
-      "Abbott: Device Therapy; investigator-initiated trial (ENVAD-HF), chief investigator",
-      "GE Healthcare: Echocardiography",
-      "Pfizer: Myocardial Disease; National TTR registry, chief investigator",
-      "Amicus Therapeutics: Myocardial Disease",
-      "CorVia: Chronic Heart Failure"
-    ],
-    "notes": "List reflects declarations of interest reported to the ESC for the period covering the development of the guidelines up to and including 2022."
+    "page_notes": "Page lists clinical trial acronyms and brief descriptions related to myocardial infarction and coronary interventions. Several encoding artifacts ('Â') present on the page."
   },
-  "genes": [
-    {
-      "Gene": "TTR",
-      "Associated Conditions": [
-        "Transthyretin (TTR) related disease / amyloidosis",
-        "Cardiac involvement / myocardial disease (registry context)"
-      ],
-      "Occurrences": 1,
-      "context": "Pfizer : National TTR registry, chief investigator"
-    }
-  ]
+  "genes": []
 }

@@ -1,0 +1,50 @@
+{
+  "content": {
+    "high_level_criteria": [
+      "Persistently high (or increasing) BNP or NT-proBNP values and severe LV diastolic dysfunction or structural abnormalities (according to definitions of HFpEF).",
+      "Episodes of pulmonary or systemic congestion requiring high-dose i.v. diuretics (or diuretic combinations) or episodes of low output requiring inotropes or vasoactive drugs or malignant arrhythmias causing >1 unplanned visit or hospitalization in the last 12 months.",
+      "Severe impairment of exercise capacity with inability to exercise or low 6MWT distance (<300 m) or pVO2 <12 mL/kg/min or <50% predicted value, estimated to be of cardiac origin."
+    ],
+    "abbreviations_and_definitions": {
+      "6MWT": "6-minute walk test",
+      "ARVC": "arrhythmogenic right ventricular cardiomyopathy",
+      "BNP": "B-type natriuretic peptide",
+      "HFpEF": "heart failure with preserved ejection fraction",
+      "i.v.": "intravenous",
+      "LV": "left ventricular",
+      "LVEF": "left ventricular ejection fraction",
+      "NT-proBNP": "N-terminal pro-B-type natriuretic peptide",
+      "NYHA": "New York Heart Association",
+      "pVO2": "peak oxygen consumption",
+      "RV": "right ventricular"
+    },
+    "INTERMACS_overview": "The Interagency Registry for Mechanically Assisted Circulatory Support (INTERMACS) profiles classify patients with potential indication for durable mechanical circulatory support (MCS) devices and describe clinical parameters and characteristics consistent with need for advanced therapies. The classification is used to estimate prognosis for urgent heart transplantation or LV assist device (LVAD) implantation and for risk assessment in ambulatory advanced heart failure patients.",
+    "Table_14_profiles": [
+      {
+        "profile": "Profile 1. Critical cardiogenic shock",
+        "description": "Patient with life-threatening hypotension despite rapidly escalating inotropic support, critical organ hypoperfusion, often confirmed by worsening acidosis and/or lactate levels. Described as 'Crash and burn.'",
+        "time_frame_for_intervention": "Definitive intervention needed within hours."
+      },
+      {
+        "profile": "Profile 2. Progressive decline",
+        "description": "Patient with declining function despite i.v. inotropic support; may manifest by worsening renal function, nutritional depletion, inability to restore volume balance, or 'sliding on inotropes.' Also describes declining status in patients unable to tolerate inotropic therapy.",
+        "time_frame_for_intervention": "Definitive intervention needed within few days."
+      },
+      {
+        "profile": "Profile 3. Stable on inotrope or inotrope-dependent",
+        "description": "Patient with stable blood pressure, organ function, nutrition, and symptoms on continuous i.v. inotropic support (or temporary circulatory support device) but demonstrating repeated failure to wean from support due to recurrent symptomatic hypotension or renal dysfunction; dependent stability.",
+        "time_frame_for_intervention": "Definitive intervention elective over a period of weeks to few months."
+      },
+      {
+        "profile": "Profile 4. Frequent Flyer",
+        "description": "Patient can be stabilized close to normal volume status but experiences daily symptoms of congestion at rest or during activities of daily living. Doses of diuretics generally fluctuate at very high levels. More intensive management and surveillance strategies should be considered.",
+        "time_frame_for_intervention": "Definitive intervention elective over a period of weeks to few months."
+      }
+    ],
+    "clinical_use_notes": [
+      "INTERMACS profiles were developed to classify patients with potential indication for durable MCS devices and to describe clinical parameters and characteristics consistent with a need for advanced therapies.",
+      "This classification has been shown useful in estimating prognosis for urgent heart transplantation or LVAD implantation and for risk assessment in ambulatory advanced heart failure patients."
+    ]
+  },
+  "genes": []
+}

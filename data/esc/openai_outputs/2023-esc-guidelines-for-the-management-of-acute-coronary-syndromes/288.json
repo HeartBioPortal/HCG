@@ -1,0 +1,11 @@
+{
+  "content": {
+    "topic": "Beta-blocker therapy after acute coronary syndromes (ACS) and brief note on nitrates/CCBs",
+    "beta_blocker_evidence_summary": "Older large RCTs (pre-reperfusion era) recruited mostly patients with LVEF ≤40% and demonstrated pooled data that post-MI beta-blocker therapy reduced risk of death by >20%. These trials largely enrolled STEMI patients; evidence in NSTEMI is less robust. Modern observational studies and meta-analyses have mixed results, with some suggesting benefit irrespective of LVEF and others not.",
+    "CAPITAL_RCT": "One small open-label trial (CAPITAL-RCT, Carvedilol Post-Intervention Long-Term Administration in Large-scale Randomized Controlled Trial) randomized 801 STEMI patients with successful PPCI and preserved LVEF to carvedilol or control. At 3-year follow-up the composite incidence (all-cause death, MI, hospitalization for HF, hospitalization for ACS) was not significantly different between groups; trial was underpowered.",
+    "ongoing_large_RCTs": "Several large pragmatic prospective RCTs in Europe are randomizing ACS patients without reduced LVEF to beta-blocker vs control, with planned enrollments reported: REBOOT-CNIC (~8468 ACS patients with LVEF >40%), REDUCE-SWEDEHEART (~5000 ACS patients with LVEF ≥50%, NCT03278509), BETAMI (~10,000 ACS patients with LVEF >40%), DANBLOCK (~3570 ACS patients with LVEF >40%).",
+    "duration_of_therapy_controversy": "The optimal duration of beta-blocker therapy after uncomplicated ACS is controversial. Observational studies suggest benefit may be limited to the first year after the index event, but non-randomized data limit conclusions. Two ongoing large RCTs are testing beta-blocker withdrawal 6–12 months after uncomplicated ACS in patients with preserved LVEF: AIFYSS (Beta Blocker Interruption After Uncomplicated Myocardial Infarction; NCT03498066) and SMART-DECISION (Long-term Beta-blocker Therapy After Acute Myocardial Infarction; NCT04769362).",
+    "nitrates_and_calcium_channel_blockers": "Intravenous nitrates may be useful during the acute phase in STEMI patients with hypertension or HF if no hypotension or RV infarction. In the ISIS-4 trial oral nitrates showed no survival benefit in MI patients; their use is therefore restricted to control of residual angina per 2019 ESC Guidelines."
+  },
+  "genes": []
+}

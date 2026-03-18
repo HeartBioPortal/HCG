@@ -1,107 +1,66 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "organization": "European Society of Cardiology (ESC)",
-    "page_purpose": "Declarations of interest reported to the ESC by experts during yearly call for declaration (covering previous calendar year).",
-    "expert": "Lam Carolyn Sp",
-    "declaration_year": 2019,
-    "industry_relationships": [
+    "header": "Heart Failure Association of ESC diagnostic algorithm, P â Initial Workup (Step 1: Pretest Assessment), E - Diagnostic Workup (Step 2: Echocardiographic and Natriuretic Peptide score), F1 â Advanced Workup (Step 3: Functional testing in Case of Uncertainty), F2 â Aetiological Workup (Step 4: Final Aetiology)",
+    "abbreviations": [
       {
-        "company": "Boston Scientific",
-        "relationship": "Heart failure"
+        "abbreviation": "HF-MP",
+        "definition": "Heart failure management programme"
       },
       {
-        "company": "Medtronic",
-        "relationship": "Heart failure"
+        "abbreviation": "HFmrEF",
+        "definition": "Heart failure with mildly reduced ejection fraction"
       },
       {
-        "company": "Novartis",
-        "relationship": "Heart failure"
+        "abbreviation": "HFpEF",
+        "definition": "Heart failure with preserved ejection fraction"
       },
       {
-        "company": "Merck Sharp & Dohme",
-        "relationship": "Heart failure"
+        "abbreviation": "HFrEF",
+        "definition": "Heart failure with reduced ejection fraction"
       },
       {
-        "company": "Novo-Nordisk",
-        "relationship": "Heart failure"
+        "abbreviation": "HHV",
+        "definition": "Human herpes virus"
       },
       {
-        "company": "MyoKardia",
-        "relationship": "Heart failure"
+        "abbreviation": "HIV",
+        "definition": "Human immunodeficiency virus"
       },
       {
-        "company": "Stealth Biotherapeutics",
-        "relationship": "Heart failure"
+        "abbreviation": "HLA-DR",
+        "definition": "Human leukocyte antigen-DR isotype"
       },
       {
-        "company": "CorVia",
-        "relationship": "Heart failure"
+        "abbreviation": "HMDP",
+        "definition": "Hydroxyl-methylene-diphosphonate"
       },
       {
-        "company": "Janacare",
-        "relationship": "Heart failure"
+        "abbreviation": "HR",
+        "definition": "Hazard ratio"
       },
       {
-        "company": "Applied Therapeutics",
-        "relationship": "Heart failure"
+        "abbreviation": "HT",
+        "definition": "Heart transplantation"
       },
       {
-        "company": "Janssen Research & Development LLC",
-        "relationship": "Heart failure"
+        "abbreviation": "HTM",
+        "definition": "Home telemonitoring"
       },
       {
-        "company": "Biofourmis",
-        "relationship": "Heart failure"
-      },
-      {
-        "company": "Bayer",
-        "relationship": "Heart failure; Cardiorenal initiative; Vascular protection"
-      },
-      {
-        "company": "Menarini",
-        "relationship": "Heart failure; Coronary artery disease"
-      },
-      {
-        "company": "Boehringer Ingelheim",
-        "relationship": "Heart failure; Diabetes"
-      },
-      {
-        "company": "Astrazeneca",
-        "relationship": "Heart failure; Diabetes; Real world evidence"
-      },
-      {
-        "company": "Vifor Pharma",
-        "relationship": "Heart failure; Iron deficiency"
-      },
-      {
-        "company": "WebMD Global LLC",
-        "relationship": "Medical education"
-      },
-      {
-        "company": "Radcliffe Group Ltd",
-        "relationship": "Medical education"
-      },
-      {
-        "company": "Corpus.",
-        "relationship": "Medical education"
+        "abbreviation": "i.v.",
+        "definition": "Intravenous"
       }
-    ],
-    "research_funding_under_direct_responsibility": [
-      {
-        "company": "Roche Diagnostics",
-        "relationship": "Biomarkers"
-      },
-      {
-        "company": "Bayer",
-        "relationship": "Heart failure"
-      },
-      {
-        "company": "Boston Scientific",
-        "relationship": "Heart failure"
-      }
-    ],
-    "footer_date": "12/08/2021"
+    ]
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "HLA-DR",
+      "Associated Conditions": [
+        "immune response (HLA class II)",
+        "transplantation compatibility"
+      ],
+      "Occurrences": 1,
+      "context": "Listed as 'HLA-DR — Human leukocyte antigen-DR isotype' in the abbreviations list"
+    }
+  ]
 }

@@ -1,0 +1,66 @@
+{
+  "content": {
+    "page_title": "Important characteristics and components in a heart failure management programme",
+    "note": "Level of evidence. Table 11. Open in new tab.",
+    "characteristics": [
+      {
+        "id": 1,
+        "text": "Patient/person-centred",
+        "reference": "318"
+      },
+      {
+        "id": 2,
+        "text": "Multidisciplinary"
+      },
+      {
+        "id": 3,
+        "text": "The focus of the programme should be flexible and include:",
+        "subitems": [
+          "prevention of disease progression",
+          "symptom control",
+          "maintaining patients in their preferred place of care for end-stage heart failure"
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Competent and professionally educated staff"
+      },
+      {
+        "id": 5,
+        "text": "Encourage patient/carer engagement in the understanding and management of their condition"
+      }
+    ],
+    "components": [
+      {
+        "id": 1,
+        "text": "Optimized management; lifestyle choices, pharmacological, and devices"
+      },
+      {
+        "id": 2,
+        "text": "Patient education, with special emphasis on self-care and symptom management"
+      },
+      {
+        "id": 3,
+        "text": "Provision of psychosocial support to patients and family caregivers"
+      },
+      {
+        "id": 4,
+        "text": "Follow-up after discharge (clinic; home visits; telephone support or telemonitoring)"
+      },
+      {
+        "id": 5,
+        "text": "Easy access to healthcare, especially to prevent and manage decompensation"
+      },
+      {
+        "id": 6,
+        "text": "Assessment of (and appropriate intervention in response to) an unexplained change in weight, nutritional and functional status, quality of life, sleep problems, psychosocial problems or other findings (e.g., laboratory values)"
+      },
+      {
+        "id": 7,
+        "text": "Access to advanced treatment options; supportive and palliative care"
+      }
+    ],
+    "footer_repeat": "Characteristics section repeated below (partial duplicate of above content)."
+  },
+  "genes": []
+}

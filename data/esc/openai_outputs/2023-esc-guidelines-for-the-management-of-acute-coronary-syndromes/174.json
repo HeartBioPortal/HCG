@@ -1,0 +1,92 @@
+{
+  "content": {
+    "title": "Recommendations on antithrombotic therapy with oral anticoagulants (OAC) and antiplatelet agents",
+    "source": "ESC 2023 guideline page (image)",
+    "recommendations": [
+      {
+        "text": "In patients with an indication for OAC with VKA in combination with aspirin and/or clopidogrel, careful regulation of the dose intensity of VKA with a target INR of 2.0–2.5 and a time in the therapeutic range >70% should be considered.",
+        "class_of_recommendation": "IIa",
+        "level_of_evidence": "B",
+        "references": [
+          "305",
+          "306",
+          "307",
+          "308",
+          "311"
+        ]
+      },
+      {
+        "text": "When rivaroxaban is used and concerns about high bleeding risk (HBR) prevail over ischaemic stroke, rivaroxaban 15 mg once daily should be considered in preference to rivaroxaban 20 mg once daily for the duration of concomitant SAPT or DAPT.",
+        "class_of_recommendation": "IIa",
+        "level_of_evidence": "B",
+        "references": [
+          "307"
+        ]
+      },
+      {
+        "text": "In patients at high bleeding risk (HBR), dabigatran 110 mg twice daily should be considered in preference to dabigatran 150 mg twice daily for the duration of concomitant SAPT or DAPT, to mitigate bleeding risk.",
+        "class_of_recommendation": "IIa",
+        "level_of_evidence": "B",
+        "references": [
+          "305"
+        ]
+      },
+      {
+        "text": "In patients requiring anticoagulation and treated medically, a single antiplatelet agent in addition to an OAC should be considered for up to 1 year.",
+        "class_of_recommendation": "IIa",
+        "level_of_evidence": "B",
+        "references": [
+          "308",
+          "312"
+        ]
+      },
+      {
+        "text": "In patients treated with an OAC, aspirin plus clopidogrel for longer than 1 week and up to 1 month should be considered in those with high ischaemic risk or with other anatomical/procedural characteristics judged to outweigh the bleeding risk.",
+        "class_of_recommendation": "IIa",
+        "level_of_evidence": "C",
+        "references": []
+      },
+      {
+        "text": "In patients requiring OAC, withdrawing antiplatelet therapy at 6 months while continuing OAC may be considered.",
+        "class_of_recommendation": "IIb",
+        "level_of_evidence": "B",
+        "references": [
+          "313"
+        ]
+      },
+      {
+        "text": "The use of ticagrelor or prasugrel as part of triple antithrombotic therapy is not recommended.",
+        "class_of_recommendation": "III",
+        "level_of_evidence": "C",
+        "references": []
+      }
+    ],
+    "abbreviations_and_notes": {
+      "ACS": "acute coronary syndrome",
+      "b.i.d.": "bis in die (twice a day)",
+      "CHA2DS2-VASc": "Congestive heart failure, Hypertension, Age ≥75 years, Diabetes mellitus, Stroke or transient ischaemic attack, Vascular disease",
+      "DAPT": "dual antiplatelet therapy",
+      "GP": "glycoprotein",
+      "HBR": "high bleeding risk",
+      "INR": "international normalized ratio",
+      "LD": "loading dose",
+      "MD": "maintenance dose",
+      "NOAC": "non-vitamin K antagonist oral anticoagulant",
+      "NSTE-ACS": "non-ST-elevation acute coronary syndrome",
+      "OAC": "oral anticoagulant",
+      "PPCI": "primary percutaneous coronary intervention",
+      "SAPT": "single antiplatelet therapy",
+      "STEMI": "ST-elevation myocardial infarction",
+      "UFH": "unfractionated heparin",
+      "VKA": "vitamin K antagonist"
+    },
+    "footnotes": [
+      "a Class of recommendation.",
+      "b Level of evidence.",
+      "c HBR should be assessed in a structured manner, e.g. presence of a single major or two minor characteristics as defined by ARC-HBR.",
+      "d Definition of older patients varies across trials, ranging from 70 to 80 years of age; frailty and comorbidities should be considered."
+    ],
+    "copyright": "© ESC 2023"
+  },
+  "genes": []
+}

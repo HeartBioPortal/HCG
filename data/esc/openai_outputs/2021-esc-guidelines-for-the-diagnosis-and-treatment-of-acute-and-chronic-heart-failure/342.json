@@ -1,0 +1,76 @@
+{
+  "content": {
+    "Indications for ICD": "Consider ICD implantation if: family history of sudden cardiac death in one or more first degree relatives under 40 years of age or sudden cardiac death in a first degree relative with confirmed HCM at any age; NSVT; unexplained syncope.",
+    "Fabry disease": "Enzyme replacement therapy (alpha-galactosidase A deficiency).",
+    "Amyloidosis": "See referenced sections for details (section 14.6 and Figure 21).",
+    "Abbreviations and gene notes (excerpt)": "AV = atrio-ventricular; BAG3 = Bcl2-associated athanogene 3; ECG = electrocardiogram; HCM = hypertrophic cardiomyopathy; ICD = implantable cardioverter-defibrillator; LGE = late gadolinium enhancement; LMNA = lamin A/C; LV = left ventricular; LVEF = left ventricular ejection fraction; LVOT = left ventricular outflow tract; LVOTO = left ventricular outflow tract obstruction; MHC = myosin heavy chain; MYPC (myosin-binding protein C); NSVT = non-sustained ventricular tachycardia; NYHA = New York Heart Association; OMT = optimal medical therapy; PLN = phospholamban; RBM20 = RNA binding motif 20; RV = right ventricular; TNNT = troponin-T; TTN = titin.",
+    "Note on genes": "The list of genes is not exhaustive and will change over time; contact the genetic department for current core panels.",
+    "Arrhythmogenic cardiomyopathy - Definition": "Inherited heart muscle disease characterized by progressive fibrofatty replacement of the RV myocardium which may act as a substrate for ventricular arrhythmias, unexplained syncope and/or sudden cardiac death. LV involvement and systolic dysfunction occurs in >30% of AC patients; phenotype may overlap with DCM.",
+    "Arrhythmogenic cardiomyopathy - Diagnosis": "Based upon evaluation of combination of genetic factors (most cases autosomal dominant desmosomal mutations), documentation of ventricular arrhythmias and imaging criteria (echocardiography and MRI) of RV dysplasia with fibrofatty replacement either or not confirmed by EMB. Specific ECG abnormalities can be present or absent."
+  },
+  "genes": [
+    {
+      "Gene": "BAG3",
+      "Associated Conditions": [
+        "Cardiomyopathy",
+        "Arrhythmogenic cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Listed in abbreviations: 'BAG3 = Bcl2-associated athanogene 3;' in the cardiomyopathy/arrhythmogenic cardiomyopathy section."
+    },
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [
+        "Cardiomyopathy",
+        "Dilated/hypertrophic cardiomyopathy features"
+      ],
+      "Occurrences": 1,
+      "context": "Listed in abbreviations: 'LMNA = lamin A/C;' within cardiomyopathy-related abbreviations."
+    },
+    {
+      "Gene": "MYBPC3",
+      "Associated Conditions": [
+        "Hypertrophic cardiomyopathy",
+        "Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Myosin-binding protein C is listed ('MYPC = myosin-binding protein C'); corresponds to the cardiac MYBPC3 gene implicated in cardiomyopathies."
+    },
+    {
+      "Gene": "PLN",
+      "Associated Conditions": [
+        "Cardiomyopathy",
+        "Arrhythmogenic/dilated cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Listed in abbreviations: 'PLN = phospholamban;' in the cardiomyopathy section."
+    },
+    {
+      "Gene": "RBM20",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy",
+        "Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Described as 'ribonucleic acid binding motif 20' (shown as RBM20) in the gene/abbreviations list relevant to cardiomyopathy."
+    },
+    {
+      "Gene": "TNNT2",
+      "Associated Conditions": [
+        "Cardiomyopathy",
+        "Troponin-related cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Troponin-T is listed ('TNNT = troponin-T'); in the cardiomyopathy context this refers to cardiac troponin-T (TNNT2) associated with cardiomyopathies."
+    },
+    {
+      "Gene": "TTN",
+      "Associated Conditions": [
+        "Dilated cardiomyopathy",
+        "Cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Listed in abbreviations: 'TTN = titin;' included in the cardiomyopathy gene list/explanatory abbreviations."
+    }
+  ]
+}

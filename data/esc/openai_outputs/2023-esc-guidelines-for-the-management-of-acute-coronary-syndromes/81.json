@@ -1,20 +1,45 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "organization": "European Society of Cardiology (ESC)",
-    "summary_paragraph": "For ESC Guidelines: The report below lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2022.",
-    "declarations_table": [
+    "title": "Recommendations for non-invasive imaging in the initial assessment of patients with suspected acute coronary syndrome",
+    "source": "ESC 2023 (Recommendation Table 2)",
+    "abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "CCTA": "coronary computed tomography angiography",
+      "ECG": "electrocardiogram",
+      "hs-cTn": "high-sensitivity cardiac troponin",
+      "TTE": "transthoracic echocardiography"
+    },
+    "recommendations": [
       {
-        "Expert": "Yildirir Aylin",
-        "Year": "2022",
-        "Type of Relationship with Industry": "Travel and meeting support from healthcare industry, independent of the above activities.",
-        "Company_and_Context": "Bayer: Chronic Heart Failure"
+        "id": 1,
+        "recommendation": "Emergency TTE is recommended in patients with suspected ACS presenting with cardiogenic shock or suspected mechanical complications.",
+        "class": "I",
+        "level": "C",
+        "notes": "Use transthoracic echocardiography urgently for suspected mechanical complications or cardiogenic shock in ACS."
+      },
+      {
+        "id": 2,
+        "recommendation": "In patients with suspected ACS, non-elevated (or uncertain) hs-cTn levels, no ECG changes and no recurrence of pain, incorporating CCTA or a non-invasive stress imaging test as part of the initial workup should be considered.",
+        "class": "IIa",
+        "level": "A",
+        "notes": "Consider coronary CT angiography or non-invasive stress imaging when troponin is non-elevated/uncertain, ECG normal and no recurrent pain."
+      },
+      {
+        "id": 3,
+        "recommendation": "Emergency TTE should be considered at triage in cases of diagnostic uncertainty but this should not result in delays in transfer to the cardiac catheterization laboratory if there is suspicion of an acute coronary artery occlusion.",
+        "class": "IIa",
+        "level": "C",
+        "notes": "Perform TTE at triage for diagnostic uncertainty, but avoid delaying urgent catheterization when occlusion is suspected."
+      },
+      {
+        "id": 4,
+        "recommendation": "Routine, early CCTA in patients with suspected ACS is not recommended.",
+        "class": "III",
+        "level": "B",
+        "notes": "Do not routinely use early coronary CT angiography in suspected ACS patients."
       }
     ],
-    "footer": {
-      "date": "16/05/2023",
-      "page": "57/57"
-    }
+    "footnotes": "Table cites references and indicates class of recommendation and level of evidence."
   },
   "genes": []
 }

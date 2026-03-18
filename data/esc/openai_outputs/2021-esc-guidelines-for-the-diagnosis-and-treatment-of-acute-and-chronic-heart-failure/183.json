@@ -1,0 +1,69 @@
+{
+  "content": {
+    "Hydration": {
+      "Goals": [
+        "To avoid dehydration where fluids are restricted."
+      ],
+      "Actions": [
+        "Increase intake during periods of high heat/humidity and/or nausea/vomiting.",
+        "Be aware of dehydration risk towards end-of-life."
+      ]
+    },
+    "Healthy diet": {
+      "Goals": [
+        "To be able to prevent malnutrition and know how to eat healthily.",
+        "Avoid excessive salt intake (>5 g/day) and maintain a healthy body weight."
+      ],
+      "Actions": [
+        "Discuss current food intake, role of salt, and role of micronutrients.",
+        "Discuss need for supplementing in case of nutrient deficiencies; note there is no clear role for routine micronutrient supplementation.",
+        "Discuss maintaining a healthy body weight."
+      ],
+      "Notes": [
+        "Reference to routine micronutrient supplementation not supported by clear role."
+      ]
+    },
+    "Alcohol": {
+      "Goals": [
+        "To be able to abstain from or avoid excessive alcohol intake, especially for alcohol-induced cardiomyopathy (CMP).",
+        "To restrict alcohol according to cardiovascular (CV) prevention guidelines."
+      ],
+      "Actions": [
+        "Tailor alcohol advice to aetiology of heart failure (HF); e.g., abstinence in alcoholic CMP.",
+        "Inform and discuss alcohol intake according to CV prevention guidelines (2 units per day in men or 1 unit per day in women)."
+      ]
+    },
+    "Immunization": {
+      "Goals": [
+        "To be aware of the need for immunization for influenza and pneumococcal disease."
+      ],
+      "Actions": [
+        "Discuss benefits and possible barriers to immunization.",
+        "Advise on local immunization practice."
+      ]
+    },
+    "Smoking and recreational drugs": {
+      "Goals": [
+        "To be aware of the consequences for health of smoking and use of recreational drugs.",
+        "Stop smoking (including e-cigarettes) and stop taking recreational drugs."
+      ],
+      "Actions": [
+        "Inform, discuss and help in decision making about smoking cessation and drug use.",
+        "Refer for specialist advice for smoking cessation and drug withdrawal and replacement therapy.",
+        "Consider referral for cognitive behavioural therapy and psychological support if patient wishes to stop smoking or taking drugs."
+      ]
+    },
+    "Travel, leisure, driving": {
+      "Goals": [
+        "To be able to prepare travel and leisure activities according to physical capacity.",
+        "To be able to take an informed decision about driving."
+      ],
+      "Actions": [
+        "Inform and discuss practical issues related to long haul travel, staying abroad, exposure to sun (amiodarone effects), high humidity or heat (dehydration), and high altitude (oxygenation).",
+        "Provide practical advice related to travel with medication/devices (keep medicines in hand luggage, have a list with medication, device name/card and treating centres).",
+        "Inform about local/national/international regulation related to driving."
+      ]
+    }
+  },
+  "genes": []
+}

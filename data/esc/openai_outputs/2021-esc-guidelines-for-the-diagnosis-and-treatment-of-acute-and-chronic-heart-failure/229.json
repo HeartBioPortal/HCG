@@ -1,0 +1,139 @@
+{
+  "content": {
+    "source": "Clinical guideline table (single page image)",
+    "tests": [
+      {
+        "name": "LUS",
+        "timing": "Admission, during hospitalization, pre-discharge",
+        "indication": "Congestion",
+        "role/notes": "Confirmatory",
+        "recommendation": "May be considered"
+      },
+      {
+        "name": "Echocardiography",
+        "timing": "Admission, during hospitalization, pre-discharge",
+        "indication": "Congestion, cardiac dysfunction, mechanical causes",
+        "role/notes": "Major",
+        "recommendation": "Recommended"
+      },
+      {
+        "name": "Natriuretic peptides (BNP, NT-proBNP, MR-proANP)",
+        "timing": "Admission, pre-discharge",
+        "indication": "Congestion",
+        "role/notes": "High negative predictive value",
+        "recommendation": "Should be considered"
+      },
+      {
+        "name": "Serum troponin",
+        "timing": "Admission",
+        "indication": "Myocardial injury",
+        "role/notes": "Exclusion of ACS",
+        "recommendation": "Recommended"
+      },
+      {
+        "name": "Serum creatinine",
+        "timing": "Admission, during hospitalization, pre-discharge",
+        "indication": "Renal dysfunction",
+        "role/notes": "None",
+        "recommendation": "Recommended for prognostic assessment"
+      },
+      {
+        "name": "Serum electrolytes (sodium, potassium, chloride)",
+        "timing": "Admission, during hospitalization, pre-discharge",
+        "indication": "Electrolyte disorders",
+        "role/notes": "None",
+        "recommendation": "Recommended for prognostic assessment and treatment"
+      },
+      {
+        "name": "Iron status (transferrin, ferritin)",
+        "timing": "Pre-discharge",
+        "indication": "Iron depletion",
+        "role/notes": "None",
+        "recommendation": "Recommended for prognostic assessment and treatment"
+      },
+      {
+        "name": "TSH",
+        "timing": "Admission",
+        "indication": "Hypo-hyperthyroidism",
+        "role/notes": "None",
+        "recommendation": "Recommended when hypo-hyperthyroidism is suspected"
+      },
+      {
+        "name": "D-dimer",
+        "timing": "Admission",
+        "indication": "Pulmonary embolism",
+        "role/notes": "Useful to exclude pulmonary embolism",
+        "recommendation": "Recommended when pulmonary embolism is suspected"
+      },
+      {
+        "name": "Procalcitonin",
+        "timing": "Admission",
+        "indication": "Pneumonia",
+        "role/notes": "Useful for diagnosis of pneumonia",
+        "recommendation": "May be done when pneumonia is suspected"
+      },
+      {
+        "name": "Lactate",
+        "timing": "Admission, during hospitalization",
+        "indication": "Lactic acidosis",
+        "role/notes": "Useful to assess perfusion status",
+        "recommendation": "Recommended when peripheral hypoperfusion is suspected"
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "NPPB",
+      "Associated Conditions": [
+        "Congestion",
+        "Heart failure biomarker (BNP/NT-proBNP)"
+      ],
+      "Occurrences": 1,
+      "context": "Natriuretic peptides (BNP, NT-proBNP, MR-proANP) — listed for admission/pre-discharge for congestion; high negative predictive value; should be considered."
+    },
+    {
+      "Gene": "NPPA",
+      "Associated Conditions": [
+        "Congestion",
+        "Heart failure biomarker (ANP / MR-proANP)"
+      ],
+      "Occurrences": 1,
+      "context": "Natriuretic peptides (BNP, NT-proBNP, MR-proANP) — MR-proANP (atrial natriuretic peptide) listed for congestion with high negative predictive value."
+    },
+    {
+      "Gene": "TF",
+      "Associated Conditions": [
+        "Iron depletion",
+        "Assessment of iron status (transferrin)"
+      ],
+      "Occurrences": 1,
+      "context": "Iron status (transferrin, ferritin) — pre-discharge testing for iron depletion; recommended for prognostic assessment and treatment."
+    },
+    {
+      "Gene": "FTH1",
+      "Associated Conditions": [
+        "Iron depletion",
+        "Assessment of iron status (ferritin)"
+      ],
+      "Occurrences": 1,
+      "context": "Iron status (transferrin, ferritin) — ferritin listed as part of iron status testing for iron depletion."
+    },
+    {
+      "Gene": "FTL",
+      "Associated Conditions": [
+        "Iron depletion",
+        "Assessment of iron status (ferritin)"
+      ],
+      "Occurrences": 1,
+      "context": "Iron status (transferrin, ferritin) — ferritin listed as part of iron status testing for iron depletion."
+    },
+    {
+      "Gene": "CALCA",
+      "Associated Conditions": [
+        "Pneumonia (diagnostic biomarker: procalcitonin)"
+      ],
+      "Occurrences": 1,
+      "context": "Procalcitonin — admission testing listed for pneumonia; noted as useful for diagnosis of pneumonia and may be done when pneumonia is suspected."
+    }
+  ]
+}

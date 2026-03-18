@@ -1,46 +1,34 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "note": "Report lists declarations of interest reported to the ESC by experts during yearly call for declaration covering previous calendar year (up to and including 2020).",
-    "document_date": "12/08/2021",
-    "experts": [
-      {
-        "name": "Coats Andrew",
-        "entries": {
-          "2019": {
-            "section_label": "Type of Relationship with Industry",
-            "declarations": [
-              "Vifor International : Iron deficiency",
-              "Arena : New drug development in acute heart failure",
-              "Nutricia : Nutrition",
-              "WL Gore : Prosthetic Valves",
-              "Respicardia : Sleep Apnoea"
-            ]
-          },
-          "2020": {
-            "section_label": "Financial Declaration",
-            "declarations": [
-              "Faraday Australia : Acute MI",
-              "CVRx : Autonomic devices",
-              "ESN Cleer : Biomarkers",
-              "Actimed : Cancer",
-              "Bayer AG (event review committee member) : CV disease",
-              "CorVia : Device for HFpEF",
-              "Cardiac Dimensions : Devices for MR",
-              "Novartis : Heart Failure",
-              "Servier : Heart Failure",
-              "Menarini : Heart Failure",
-              "Astra Zeneca : Hyperkalaemia",
-              "Vifor International : Iron deficiency",
-              "Arena : New drug development in acute heart failure",
-              "Nutricia : Nutrition",
-              "WL Gore : Prosthetic Valves",
-              "Respicardia : Sleep Apnoea"
-            ]
-          }
-        }
-      }
-    ]
+    "figures": [
+      "Figure 14 Management of atrial fibrillation in patients with heart failure with reduced ejection fraction",
+      "Figure 15 Algorithm for the medical treatment of chronic coronary syndrome in patients with heart failure with reduced ejection fraction",
+      "Figure 16 Management of patients with severe low-flow low-gradient aortic stenosis and heart failure",
+      "Figure 17 Management of secondary mitral regurgitation in patients with heart failure with reduced ejection fraction",
+      "Figure 18 Management of patients with cancer and heart failure",
+      "Figure 19 Management of patients with heart failure before and during pregnancy",
+      "Figure 20 Management of patients with heart failure and acute myocarditis",
+      "Figure 21 Diagnosis and treatment of cardiac amyloidosis in heart failure patients"
+    ],
+    "abbreviations": {
+      "6MWT": "6-minute walk test",
+      "99mTc-PYP": "Technetium-labelled pyrophosphate",
+      "AATAC": "Ablation vs. Amiodarone for Treatment of Atrial Fibrillation in Patients With Congestive Heart Failure and an Implanted ICD/CRTD (trial)",
+      "AC": "Arrhythmogenic cardiomyopathy",
+      "ACE": "Angiotensin-converting enzyme",
+      "ACE-I": "Angiotensin-converting enzyme inhibitor",
+      "ACHD": "Adult congenital heart disease"
+    },
+    "page_context": "Section lists figures related to management of various heart failure scenarios and an \"Abbreviations and acronyms\" list including ACE (angiotensin-converting enzyme)."
   },
-  "genes": []
+  "genes": [
+    {
+      "Gene": "ACE",
+      "Associated Conditions": [
+        "heart failure"
+      ],
+      "Occurrences": 1,
+      "context": "Listed in the abbreviations as 'ACE - Angiotensin-converting enzyme' on a guideline page focused on heart failure management (figures and abbreviations section)."
+    }
+  ]
 }

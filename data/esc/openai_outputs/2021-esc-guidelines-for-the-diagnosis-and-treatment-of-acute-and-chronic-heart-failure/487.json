@@ -1,0 +1,90 @@
+{
+  "content": {
+    "page_title": "Reference list (heart failure, diuretic strategies, serum chloride, hypochloraemia)",
+    "page_summary": "A list of references (entries 786–794) focusing on management of acute and chronic heart failure, including studies of high-dose furosemide with hypertonic saline, real-world use of hypertonic saline, serum chloride and hypochloraemia associations with prognosis and readmission, diuretic resistance, and use of acetazolamide to increase natriuresis.",
+    "citations": [
+      {
+        "id": 786,
+        "authors": "Licata G, Di Pasquale P, Parrinello G, Cardinale A, Scandurra A, Follone G, Argano C, Tuttolomondo A, Paterna S",
+        "title": "Effects of high-dose furosemide and small-volume hypertonic saline solution infusion in comparison with a high dose of furosemide as bolus in refractory congestive heart failure: long-term effects",
+        "journal": "Am Heart J",
+        "year": 2003,
+        "pages": "145:459–466",
+        "topic": "High-dose furosemide with hypertonic saline vs bolus furosemide in refractory congestive heart failure"
+      },
+      {
+        "id": 787,
+        "authors": "Paterna S, Di Pasquale P, Parrinello G, Amato P, Cardinale A, Follone G, Giubilato A, Licata G",
+        "title": "Effects of high-dose furosemide and small-volume hypertonic saline solution infusion in comparison with a high dose of furosemide as a bolus, in refractory congestive heart failure",
+        "journal": "Eur J Heart Fail",
+        "year": 2000,
+        "pages": "2:305–313",
+        "topic": "Comparison of infusion of high-dose furosemide with small-volume hypertonic saline versus bolus furosemide in refractory heart failure"
+      },
+      {
+        "id": 788,
+        "authors": "Griffin M, Soufer A, Goljo E, Colna M, Rao VS, Jeon S, Raghavendra P, D'Ambrosi J, Riello R, Coca SG, Mahoney D, Jacoby D, Ahmad T, Chen M, Tang WHW, Turner J, Mullens W, Wilson FP, Testani JM",
+        "title": "A Real world use of hypertonic saline in refractory acute decompensated heart failure: a U.S. center's experience",
+        "journal": "JACC Heart Fail",
+        "year": 2020,
+        "pages": "8:199–208",
+        "topic": "Real-world experience using hypertonic saline for refractory acute decompensated heart failure"
+      },
+      {
+        "id": 789,
+        "authors": "Cuthbert JJ, Pellicori P, Rigby A, Pan D, Kazmi S, Shah P, Clark AL",
+        "title": "Low serum chloride in patients with chronic heart failure: clinical associations and prognostic significance",
+        "journal": "Eur J Heart Fail",
+        "year": 2018,
+        "pages": "20:1426–1435",
+        "topic": "Association and prognostic significance of low serum chloride in chronic heart failure"
+      },
+      {
+        "id": 790,
+        "authors": "Testani JM, Hanberg JS, Arroyo JP, Brisco MA, Ter Maaten JM, Wilson FP, Bellumkonda L, Jacoby D, Tang WH, Parikh CR",
+        "title": "Hypochloraemia is strongly and independently associated with mortality in patients with chronic heart failure",
+        "journal": "Eur J Heart Fail",
+        "year": 2016,
+        "pages": "18:660–668",
+        "topic": "Hypochloraemia association with mortality in chronic heart failure"
+      },
+      {
+        "id": 791,
+        "authors": "Marchenko R, Sigal A, Wasser TE, Reyer J, Green J, Mercogliano C, Khan MS, Donato AA",
+        "title": "Hypochloraemia and 30 day readmission rate in patients with acute decompensated heart failure",
+        "journal": "ESC Heart Fail",
+        "year": 2020,
+        "pages": "7:903–907",
+        "topic": "Relationship between hypochloraemia and 30-day readmission in acute decompensated heart failure"
+      },
+      {
+        "id": 792,
+        "authors": "Grodin JL, Simon J, Hachamovitch R, Wu Y, Jackson G, Halkar M, Starling RC, Testani JM, Tang WH",
+        "title": "Prognostic role of serum chloride levels in acute decompensated heart failure",
+        "journal": "J Am Coll Cardiol",
+        "year": 2015,
+        "pages": "66:659–666",
+        "topic": "Prognostic significance of serum chloride in acute decompensated heart failure"
+      },
+      {
+        "id": 793,
+        "authors": "Hanberg JS, Rao V, Ter Maaten JM, Laur O, Brisco MA, Perry Wilson F, Grodin JL, Assefa M, Samuel Broughton J, Planavsky NJ, Ahmad T, Bellumkonda L, Tang WH, Parikh CR, Testani JM",
+        "title": "Hypochloremia and diuretic resistance in heart failure: mechanistic insights",
+        "journal": "Circ Heart Fail",
+        "year": 2016,
+        "pages": "9",
+        "topic": "Mechanistic insights linking hypochloremia to diuretic resistance in heart failure"
+      },
+      {
+        "id": 794,
+        "authors": "Verbrugge FH, Martens P, Ameloot K, Haemels V, Penders J, Dupont M, Tang WHW, Droogne W, Mullens W",
+        "title": "Acetazolamide to increase natriuresis in congestive heart failure at high risk for diuretic resistance",
+        "journal": "Eur J Heart Fail",
+        "year": 2019,
+        "pages": "21:1415–1422",
+        "topic": "Use of acetazolamide to augment natriuresis in congestive heart failure with high risk of diuretic resistance"
+      }
+    ]
+  },
+  "genes": []
+}

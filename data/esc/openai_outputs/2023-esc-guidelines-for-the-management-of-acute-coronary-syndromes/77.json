@@ -1,138 +1,28 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "note": "Declarations of interest reported to the ESC by experts during yearly call covering previous calendar year (calls conducted during development period up to and including 2022).",
-    "experts": [
-      {
-        "name": "ten Berg Jurrien M",
-        "declarations": [
-          {
-            "year": 2022,
-            "type": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies_and_context": [
-              {
-                "company": "Astra Zeneca",
-                "context": "Acute Coronary Syndromes"
-              },
-              {
-                "company": "Daiichi Sankyo",
-                "context": "Acute Coronary Syndromes"
-              },
-              {
-                "company": "Ferrer Internacional",
-                "context": "Acute Coronary Syndromes"
-              },
-              {
-                "company": "CeleCOR",
-                "context": "Acute Coronary Syndromes"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Thielmann Matthias",
-        "declarations": [
-          {
-            "year": 2021,
-            "type": "Nothing to be declared"
-          },
-          {
-            "year": 2022,
-            "type": "Nothing to be declared"
-          }
-        ]
-      },
-      {
-        "name": "Vrints Christiaan Jm",
-        "declarations": [
-          {
-            "year": 2021,
-            "type": "Nothing to be declared"
-          },
-          {
-            "year": 2022,
-            "type": "Nothing to be declared"
-          }
-        ]
-      },
-      {
-        "name": "Windecker Stephan",
-        "declarations": [
-          {
-            "year": 2021,
-            "type": "Research funding from healthcare industry under direct/personal responsibility (to department or institution)",
-            "companies_and_context": [
-              {
-                "company": "Daiichi Sankyo",
-                "context": "Cardiology"
-              },
-              {
-                "company": "Boehringer-Ingelheim",
-                "context": "Cardiology"
-              },
-              {
-                "company": "Boston Scientific",
-                "context": "Cardiology"
-              },
-              {
-                "company": "Edwards Lifesciences",
-                "context": "Cardiology"
-              },
-              {
-                "company": "Janssen-Cilag",
-                "context": "Cardiology"
-              },
-              {
-                "company": "Medtronic",
-                "context": "Cardiology"
-              },
-              {
-                "company": "Novartis",
-                "context": "Cardiology"
-              },
-              {
-                "company": "Pfizer",
-                "context": "Cardiology"
-              },
-              {
-                "company": "Servier",
-                "context": "Cardiology"
-              },
-              {
-                "company": "Biotronik",
-                "context": "Cardiology"
-              },
-              {
-                "company": "Sanofi Aventis",
-                "context": "Cardiology"
-              },
-              {
-                "company": "Johnson & Johnson",
-                "context": "Cardiology"
-              },
-              {
-                "company": "Vifor International",
-                "context": "Cardiology"
-              },
-              {
-                "company": "Bristol Myers Squibb",
-                "context": "Cardiology"
-              },
-              {
-                "company": "Merck Sharp & Dohme",
-                "context": "Cardiology"
-              }
-            ]
-          }
-        ]
-      }
+    "summary": "Guidance on implementation of ESC 0 h/1 h and 0 h/2 h algorithms for suspected myocardial infarction (MI) with focus on use of high-sensitivity cardiac troponin (hs-cTn) assays and complementary diagnostic steps.",
+    "key_points": [
+      "The ESC 0 h/1 h and 0 h/2 h algorithms must be integrated with a detailed clinical assessment and a 12-lead ECG.",
+      "Repeat blood sampling is mandatory when there is ongoing or recurrent chest pain.",
+      "Artificial intelligence models that include serial hs-cTn measurements and individual risk profiles have been proposed to facilitate personalized diagnostic evaluation and prediction of MI events during the first 30 days.",
+      "Cut-off levels for the 0 h/1 h and 0 h/2 h algorithms are assay-specific; assay-specific cut-offs are provided in Supplementary data (Table S4).",
+      "Practical guidance: to maximize safety and feasibility, blood samples for hs-cTn at 0 h and 1 h should be obtained irrespective of other clinical details and pending results. The 0 h sample should be obtained immediately after admission to the ED.",
+      "Obtaining routine 0 h/1 h sampling may lead to unnecessary cTn measurements in approximately 10–15% of patients with very low 0 h concentrations and chest pain onset >3 h, but this practice facilitates the diagnostic process and increases patient safety.",
+      "Other biomarkers: use of biomarkers other than cTn for ACS diagnosis is not recommended unless cTn is unavailable. Among additional biomarkers evaluated for NSTEMI, creatine kinase myocardial band (CK-MB), myosin-binding protein C, and copeptin may have some clinical relevance when used in combination with standard cTn T/I, but their incremental value above cTn is limited in most clinical situations.",
+      "Non-invasive imaging: transthoracic echocardiography (TTE) performed/interpreted by trained healthcare professionals should be routinely available in emergency rooms and chest pain units and can help identify signs suggestive of ongoing ischemia when ACS diagnostic uncertainty exists."
     ],
-    "footer": {
-      "date": "16/05/2023",
-      "page": "53/57",
-      "source": "ESC document image"
-    }
+    "practical_recommendations": {
+      "sampling_timing": "Obtain hs-cTn at 0 h and 1 h for the 0 h/1 h algorithm irrespective of other clinical details; 0 h sample immediately after ED admission.",
+      "repeat_sampling": "Mandatory when ongoing or recurrent chest pain; repeat measurements as clinically indicated.",
+      "assay_specific_cutoffs": "Use assay-specific cut-offs (refer to Supplementary data Table S4).",
+      "use_of_other_biomarkers": "Not recommended as a routine replacement for cTn; CK-MB, myosin-binding protein C, and copeptin may be adjuncts but add limited incremental value."
+    },
+    "references_mentioned": [
+      "Supplementary data online, Table S4",
+      "Figure 6",
+      "Section 3.3.2.2 (caveats of rapid algorithms)"
+    ],
+    "limitations_noted": "Incremental diagnostic value of additional biomarkers above and beyond cTn is limited in most clinical situations."
   },
   "genes": []
 }

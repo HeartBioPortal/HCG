@@ -1,0 +1,11 @@
+{
+  "content": {
+    "re-evaluation_LVEF": "In patients with a pre-discharge LVEF of ≤40%, re-evaluation of the LVEF 6–12 weeks after complete revascularization and optimal medical therapy is recommended to assess the potential need for primary prevention ICD implantation.",
+    "imaging_parameters": "Additional imaging parameters used as endpoints in clinical trials include infarct size (CMR, SPECT, PET), myocardium at risk (SPECT, CMR), MVO (CMR), and intra-myocardial haemorrhage (CMR). Infarct size, MVO and intra-myocardial haemorrhage are predictors of long-term mortality and heart failure in STEMI survivors.",
+    "biomarkers_for_risk_assessment": "Initial cardiac troponin (cTn) levels add prognostic information beyond clinical and ECG variables for predicting short- and long-term mortality. High-sensitivity cardiac troponin (hs-cTn) T and I have comparable diagnostic accuracy; hs-cTn T has slightly greater prognostic accuracy for mortality. Serial measurements are useful to identify peak cTn for risk stratification in established MI; higher hs-cTn levels correlate with greater risk of death. Serum creatinine and eGFR should be determined in all patients with ACS as they affect prognosis and are elements of GRACE risk score. BNP and NT-proBNP provide prognostic information in addition to cTn regarding risk of death, acute heart failure, and development of atrial fibrillation.",
+    "bleeding_risk_assessment": "Major bleeding events are associated with increased mortality in patients with ACS. Scores for estimation of bleeding risk are available and further detailed in supplementary data (including Table S12).",
+    "integrating_ischaemic_and_bleeding_risks": "Because of the trade-off between ischaemic and bleeding risks for antithrombotic regimens, risk scores may be useful to tailor antithrombotic duration and intensity to maximize ischaemic protection and minimize bleeding risk. Specific risk scores exist for patients on DAPT following PCI in both CCS and ACS settings; details are provided in supplementary data.",
+    "references_and_supplementary": "The text references supplementary online data for additional biomarker usage information, bleeding-risk scores, and recommendation tables (e.g., Recommendation Table 10, Table S12)."
+  },
+  "genes": []
+}

@@ -1,0 +1,57 @@
+{
+  "content": {
+    "title": "Symptoms and signs of heart failure",
+    "typical_symptoms": [
+      "Orthopnoea",
+      "Paroxysmal nocturnal dyspnoea",
+      "Reduced exercise tolerance",
+      "Fatigue, tiredness, increased time to recover after exercise",
+      "Ankle swelling"
+    ],
+    "typical_signs": [
+      "Hepatojugular reflux",
+      "Third heart sound (gallop rhythm)",
+      "Laterally displaced apical impulse"
+    ],
+    "less_typical": [
+      "Nocturnal cough",
+      "Wheezing",
+      "Bloated feeling",
+      "Loss of appetite",
+      "Confusion (especially in the elderly)",
+      "Depression",
+      "Palpitation",
+      "Dizziness",
+      "Syncope",
+      "Bendopnea"
+    ],
+    "less_specific": [
+      "Weight gain (>2 kg/week)",
+      "Weight loss (in advanced HF)",
+      "Tissue wasting (cachexia)",
+      "Cardiac murmur",
+      "Peripheral oedema (ankle, sacral, scrotal)",
+      "Pulmonary crepitations",
+      "Pleural effusion",
+      "Tachycardia",
+      "Irregular pulse",
+      "Tachypnoea",
+      "Cheyne-Stokes respiration",
+      "Hepatomegaly",
+      "Ascites",
+      "Cold extremities",
+      "Oliguria",
+      "Narrow pulse pressure"
+    ],
+    "footnotes_and_notes": [
+      "HF = heart failure.",
+      "Bendopnea: symptom of advanced HF corresponding to shortness of breath when leaning forward.",
+      "Reference to Table 7 and to causes of elevated concentrations of natriuretic peptides (citations present on page)."
+    ],
+    "references": [
+      "67",
+      "86-88"
+    ]
+  },
+  "genes": []
+}

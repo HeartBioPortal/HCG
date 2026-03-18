@@ -1,109 +1,59 @@
 {
   "content": {
-    "title": "Clinical Practice Guidelines Committee 2022-2024",
-    "header_note": "For ESC Guidelines: The report below lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. The calls for declaration are conducted during the period of development of these guidelines up to and including 2022.",
-    "date_printed": "24/04/2023",
-    "page": "3/7",
-    "experts": [
-      {
-        "name": "Kober Lars",
-        "declarations": [
-          {
-            "year": 2021,
-            "relationship_summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies_and_topics": [
-              {
-                "company": "Astra Zeneca",
-                "topic": "Heart Failure"
-              },
-              {
-                "company": "Bayer",
-                "topic": "Heart Failure"
-              },
-              {
-                "company": "Boehringer-Ingelheim",
-                "topic": "Heart Failure"
-              },
-              {
-                "company": "Novartis",
-                "topic": "Heart Failure"
-              },
-              {
-                "company": "Novo-Nordisk",
-                "topic": "Heart Failure"
-              }
-            ]
+    "figure_number": "Figure 7",
+    "title": "Modes of presentation and pathways to invasive management and myocardial revascularization in patients presenting with STEMI",
+    "summary": "Flowchart describing presentation modes, first medical contact (FMC) locations, decision points for reperfusion strategy, and time targets for primary PCI vs fibrinolysis.",
+    "flow_steps": {
+      "onset_of_symptoms": "Patient with symptoms of ACS and ECG consistent with STEMI.",
+      "mode_of_FMC": [
+        "Patient self presents to hospital",
+        "Patient calls EMS"
+      ],
+      "FMC_location_options": [
+        "PCI centre",
+        "Non-PCI centre",
+        "Ambulance"
+      ],
+      "determine_therapeutic_strategy": {
+        "if_at_PCI_centre": {
+          "strategy": "PPCI (primary percutaneous coronary intervention) strategy",
+          "time_target": "Aim <60 min to wire crossing"
+        },
+        "if_at_non-PCI_centre": {
+          "decision_point": "Is PCI possible in <120 min?",
+          "if_yes": {
+            "strategy": "PPCI strategy via immediate transfer to PCI centre for primary PCI",
+            "time_target": "Aim <90 min to wire crossing"
           },
-          {
-            "year": 2022,
-            "relationship_summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies_and_topics": [
-              {
-                "company": "Astra Zeneca",
-                "topic": "Chronic Heart Failure"
-              },
-              {
-                "company": "Bayer",
-                "topic": "Chronic Heart Failure"
-              },
-              {
-                "company": "Boehringer-Ingelheim",
-                "topic": "Chronic Heart Failure"
-              },
-              {
-                "company": "Novartis",
-                "topic": "Chronic Heart Failure"
-              }
-            ]
+          "if_no": {
+            "strategy": "Fibrinolysis strategy with immediate transfer to PCI centre after fibrinolysis",
+            "time_target": "Aim <10 min to lytic bolus"
           }
-        ]
-      },
-      {
-        "name": "Koskinas Konstantinos",
-        "declarations": [
-          {
-            "year": 2021,
-            "relationship_summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.; payment to department/institution for personal services.",
-            "companies_and_topics": [
-              {
-                "company": "Amgen",
-                "topic": "Cardiology"
-              },
-              {
-                "company": "Daiichi Sankyo",
-                "topic": "Cardiology"
-              },
-              {
-                "company": "Novartis",
-                "topic": "Cardiology"
-              }
-            ]
-          },
-          {
-            "year": 2022,
-            "relationship_summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.; payment to department/institution for personal services.",
-            "companies_and_topics": [
-              {
-                "company": "Amgen",
-                "topic": "Risk Factors and Prevention"
-              },
-              {
-                "company": "Daiichi Sankyo",
-                "topic": "Risk Factors and Prevention"
-              },
-              {
-                "company": "Sanofi Aventis",
-                "topic": "Risk Factors and Prevention"
-              },
-              {
-                "company": "Novartis",
-                "topic": "Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS)"
-              }
-            ]
-          }
-        ]
+        }
       }
-    ]
+    },
+    "reperfusion_timing_legend": {
+      "bars_represent": "Total ischaemic time and sources of delay to reperfusion",
+      "color_key": {
+        "total_ischaemic_time": "dark/gray bar",
+        "patient_self_presents": "orange bar",
+        "patient_calls_EMS": "purple bar",
+        "patient_delay": "orange (legend: patient delay)",
+        "EMS_delay": "purple (legend: EMS delay)",
+        "system_delay": "green (legend: system delay)",
+        "total_ischaemic_time_legend": "dark/gray (legend: total ischaemic time)"
+      }
+    },
+    "abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "ECG": "electrocardiogram",
+      "EMS": "emergency medical services",
+      "FMC": "first medical contact",
+      "PCI": "percutaneous coronary intervention",
+      "PPCI": "primary percutaneous coronary intervention",
+      "STEMI": "ST-segment elevation myocardial infarction"
+    },
+    "notes": "Emphasis on minimizing time to reperfusion: immediate transfer for PPCI when feasible within target times; prompt fibrinolysis if timely PCI cannot be achieved, followed by transfer for possible PCI."
   },
   "genes": []
 }

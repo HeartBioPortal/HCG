@@ -1,0 +1,18 @@
+{
+  "content": {
+    "limitations_of_meta_analyses_and_timing": "Meta-analyses of RCTs show early invasive strategies only significantly reduced risk of recurrent ischaemia and length of stay, without significant reductions in all-cause mortality, MI, heart failure admission, or repeat revascularization. A key limitation is variability in time to invasive angiography across trials: early invasive groups generally underwent angiography within 24 h of randomization while delayed groups were heterogeneous. In many trials delayed angiography was still performed within 24 h but later than the early arm. Diagnosis of NSTEMI in older trials was often not based on current ESC high-sensitivity cardiac troponin (hs-cTn) algorithms. Studies assessing the value of a GRACE score >140 to guide timing in the hs-cTn era are lacking. Observational data are concordant with trial data and do not show a strong benefit signal for early vs delayed coronary angiography.",
+    "selective_invasive_approach_recommendation": "A selective invasive approach after appropriate ischaemia testing or detection of obstructive coronary artery disease (CAD) by CCTA is recommended for patients without very-high or high-risk features and with a low index of suspicion for NSTE-ACS. These patients should be managed according to ESC guidelines for chronic coronary syndromes. A selective invasive approach is also appropriate for patients with NSTEMI or unstable angina (UA) who are not good candidates for coronary angiography.",
+    "summary_of_invasive_strategies_for_nste_acs": {
+      "very_high_risk": "Immediate invasive strategy with emergency angiography and PCI if required.",
+      "high_risk": "Inpatient invasive strategy and consideration for an early invasive strategy (i.e., within 24 h).",
+      "not_high_risk_or_very_high_risk": "Tailor strategy based on degree of clinical suspicion. Patients with clinical suspicion for NSTE-ACS and non-elevated troponins or troponins not meeting MI criteria can be managed based on suspicion.",
+      "high_index_for_ua": "Inpatient invasive strategy recommended.",
+      "low_index_of_suspicion": "Selective invasive approach recommended."
+    },
+    "fibrinolysis_and_pharmaco-invasive_strategy_in_stemi": {
+      "benefit_and_indication": "Fibrinolytic therapy is an important reperfusion option for STEMI patients presenting within 12 h of symptom onset when primary PCI cannot be performed in a timely manner.",
+      "absolute_benefit": "Fibrinolysis prevents about 30 early deaths per 1000 patients treated when given within 6 h of symptom onset."
+    }
+  },
+  "genes": []
+}

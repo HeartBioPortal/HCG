@@ -1,99 +1,47 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism (Reviewers)",
-    "subtitle": "Developed in collaboration with the European Respiratory Society (ERS)",
-    "note": "Declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted up to and including 2018).",
-    "page_date": "21/08/2019",
-    "experts": [
-      {
-        "name": "Stortecky Stefan",
-        "relationships": [
-          {
-            "company": "Edwards Lifesciences",
-            "activity": "Transcatheter heart valves",
-            "year": 2018
-          },
-          {
-            "company": "Medtronic",
-            "activity": "Transcatheter heart valves",
-            "year": 2018
-          },
-          {
-            "company": "Fumedica",
-            "activity": "Transcatheter heart valves",
-            "year": 2018
-          }
-        ]
-      },
-      {
-        "name": "Sugraliyev Akhmetzhan",
-        "relationships": [
-          {
-            "declaration_type": "Financial Declaration",
-            "details": "Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-            "company": "Takeda Pharmaceuticals",
-            "activity": "Arterial Hypertension",
-            "year": 2018
-          }
-        ]
-      },
-      {
-        "name": "Thielmann Matthias",
-        "relationships": [
-          {
-            "declaration": "Nothing to be declared",
-            "year": 2018
-          }
-        ]
-      },
-      {
-        "name": "Tokmakova Mariya",
-        "relationships": [
-          {
-            "declaration_type": "Financial Declaration",
-            "details": "Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-            "company": "Astra Zeneca",
-            "activity": "ACS",
-            "year": 2018
-          },
-          {
-            "company": "Bayer",
-            "activity": "Anticoagulation",
-            "year": 2018
-          },
-          {
-            "company": "Boehringer-Ingelheim",
-            "activity": "Anticoagulation",
-            "year": 2018
-          },
-          {
-            "company": "Pfizer",
-            "activity": "Anticoagulation",
-            "year": 2018
-          },
-          {
-            "company": "Amgen",
-            "activity": "Dyslipidemia",
-            "year": 2018
-          },
-          {
-            "company": "Novartis",
-            "activity": "Heart failure",
-            "year": 2018
-          },
-          {
-            "company": "Merck Sharp & Dohme",
-            "activity": "Hypertension",
-            "year": 2018
-          },
-          {
-            "company": "Berlin Chemie AG",
-            "activity": "Hypertension, HF",
-            "year": 2018
-          }
-        ]
-      }
-    ]
+    "summary": "Extracted recommendations from page (ESC 2019) on pulmonary embolism (PE) management and follow-up.",
+    "anticoagulation_after_index_PE": {
+      "recommendation": "A reduced dose of apixaban or rivaroxaban should be considered after the first 6 months.",
+      "class": "IIa"
+    },
+    "PE_in_cancer": {
+      "recommendation": "Edoxaban or rivaroxaban should be considered as an alternative to LMWH, with the exception of patients with gastrointestinal cancer.",
+      "class": "IIa"
+    },
+    "PE_in_pregnancy": {
+      "recommendations": [
+        {
+          "text": "Amniotic fluid embolism should be considered in a pregnant or post-partum woman with unexplained haemodynamic instability or respiratory deterioration, and disseminated intravascular coagulation.",
+          "class": "IIa"
+        },
+        {
+          "text": "Thrombolysis or surgical embolectomy should be considered for pregnant women with high-risk PE.",
+          "class": "IIa"
+        },
+        {
+          "text": "NOACs are not recommended during pregnancy or lactation.",
+          "class": "III"
+        }
+      ]
+    },
+    "post_PE_care_and_long_term_sequelae": {
+      "recommendations": [
+        {
+          "text": "Routine clinical evaluation is recommended 3–6 months after acute PE.",
+          "class": "I"
+        },
+        {
+          "text": "An integrated model of care is recommended after acute PE to ensure optimal transition from hospital to ambulatory care.",
+          "class": "I"
+        },
+        {
+          "text": "Refer symptomatic patients with mismatched perfusion defects on a V/Q scan >3 months after acute PE to a pulmonary hypertension/CTEPH expert centre, taking into account results of echocardiography, natriuretic peptide, and/or cardiopulmonary exercise testing.",
+          "class": "I"
+        }
+      ]
+    },
+    "notes": "Source page includes visual class-of-recommendation boxes (I, IIa, III) and a © ESC 2019 mark."
   },
   "genes": []
 }

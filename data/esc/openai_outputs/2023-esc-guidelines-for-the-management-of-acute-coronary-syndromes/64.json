@@ -1,65 +1,10 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers (page excerpt)",
-    "experts": [
-      {
-        "name": "Ostadal Petr",
-        "declarations": [
-          {
-            "year": 2022,
-            "declaration_type": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies_and_areas": [
-              "Edwards Lifesciences: Acute Cardiac Care",
-              "AOP Orphan Pharmaceuticals: Acute Cardiac Care",
-              "Amgen: Acute Coronary Syndromes",
-              "Astra Zeneca: Acute Coronary Syndromes",
-              "Bayer: Acute Coronary Syndromes",
-              "Novartis: Acute Coronary Syndromes",
-              "Sanofi Aventis: Acute Coronary Syndromes",
-              "Abiomed: Acute Heart Failure",
-              "GETINGE: Acute Heart Failure"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Paradies Valeria",
-        "declarations": [
-          {
-            "year": 2021,
-            "declaration_type": "Nothing to be declared"
-          },
-          {
-            "year": 2022,
-            "declaration_type": "Research funding from healthcare industry under direct/personal responsibility (to department or institution).",
-            "companies_and_areas": [
-              "Abbott: Research grant to the institution, Principal investigator"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Parkhomenko Alexander",
-        "declarations": [
-          {
-            "year": 2021,
-            "declaration_type": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies_and_products": [
-              "Astra Zeneca: dapagliflozin",
-              "Boehringer-Ingelheim: empagliflozin",
-              "Egis Pharma: ezetimibe",
-              "Novartis: inclisiran, entresto",
-              "Bayer: rivaroxaban",
-              "Novo-Nordisk: semaglutide"
-            ]
-          }
-        ]
-      }
-    ],
-    "document_footer": {
-      "date": "16/05/2023",
-      "page": "40/57"
-    }
+    "page_summary": "Guidance on ECG findings in suspected acute coronary syndromes (ACS), focusing on ST‑segment changes, lead patterns suggestive of specific coronary occlusions, the impact of bundle branch block on interpretation, and features of non‑ST elevation ACS (NSTE‑ACS).",
+    "ecg_findings": "ST‑segment depression in leads V1–V3 (especially with positive terminal T wave) and/or ST‑segment elevation in V7–V9 suggests posterior coronary artery occlusion (often left circumflex). ST‑elevation in V3R and V4R suggests right ventricular (RV) ischaemia. ST depression ≥1 mm in V5–V6 (inferolateral ST depression) with ST elevation in aVR and/or V1 suggests multivessel ischaemia or left main coronary artery obstruction.",
+    "bundle_branch_block": "Presence of left bundle branch block (LBBB), right bundle branch block (RBBB), or paced rhythm can preclude accurate assessment of ST‑segment elevation. Patients with high clinical suspicion of ongoing myocardial ischaemia and these ECG patterns should be managed similarly to those with clear ST‑segment elevation, regardless of prior BBB status.",
+    "nste_acs": "In NSTE‑ACS the ECG may be normal in >1/3 of patients, but characteristic abnormalities (ST depression and T‑wave changes, including biphasic or prominent negative T waves such as Wellens' sign related to severe proximal LAD stenosis) increase diagnostic probability of ACS.",
+    "supplementary_references": "References provided to supplementary data and figures (Supplementary data online, Figures S2 and S3) and a Recommendation Table for clinical and diagnostic tools for suspected ACS."
   },
   "genes": []
 }

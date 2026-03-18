@@ -1,0 +1,24 @@
+{
+  "content": {
+    "figure_caption": "Figure 8. Management of pulmonary oedema. MCS = mechanical circulatory support; RRT = renal replacement therapy; SBP = systolic blood pressure.",
+    "flowchart_summary": [
+      "Initial: Oxygen (Class I) or ventilatory support (Class IIa).",
+      "Assess SBP ≥110 mmHg.",
+      "If SBP ≥110 and no signs of hypoperfusion: Loop diuretics (Class I) and/or vasodilators (Class IIb).",
+      "If signs of hypoperfusion: Loop diuretics (Class I) and inotropes/vasopressors (Class IIb).",
+      "If SBP <110 or persistent instability: Loop diuretics (Class I).",
+      "Goal: Congestion relief. If congestion relieved → medical therapy optimization (Class I).",
+      "If congestion not relieved → consider RRT, MCS, other devices (Class IIa) or palliative care."
+    ],
+    "section_heading": "11.2.3 Isolated right ventricular failure",
+    "section_summary": "Right ventricular (RV) failure is associated with increased RV and atrial pressure and systemic congestion. RV failure may impair left ventricular filling and reduce systemic cardiac output via ventricular interdependence.",
+    "therapeutic_recommendations": [
+      "Diuretics are often first-line therapy for venous congestion.",
+      "Noradrenaline and/or inotropes are indicated for low cardiac output and haemodynamic instability.",
+      "Inotropes that reduce cardiac filling pressures may be preferred (example given: levosimendan, phosphodiesterase type III inhibitors).",
+      "Because inotropic agents may aggravate arterial hypotension, they can be combined with norepinephrine if needed."
+    ],
+    "references_notes": "Citations indicated in text (e.g., reference 449) for statements on ventricular interdependence and therapy."
+  },
+  "genes": []
+}

@@ -1,0 +1,33 @@
+{
+  "content": {
+    "title": "Recommendations for exercise rehabilitation in patients with chronic heart failure",
+    "source": "ESC 2021 (image)",
+    "summary": "Guideline recommendations on exercise and supervised cardiac rehabilitation for patients with chronic heart failure.",
+    "recommendations": [
+      {
+        "text": "Exercise is recommended for all patients who are able in order to improve exercise capacity, QOL, and reduce HF hospitalization.",
+        "class": "I",
+        "level": "A",
+        "notes": "Applies to those who are able to adhere to the exercise programme (footnote c).",
+        "references": "324–328,335–337"
+      },
+      {
+        "text": "A supervised, exercise-based, cardiac rehabilitation programme should be considered in patients with more severe disease, frailty, or with comorbidities.",
+        "class": "IIa",
+        "level": "C",
+        "references": "95,324–327,338"
+      }
+    ],
+    "abbreviations": {
+      "HF": "heart failure",
+      "QOL": "quality of life"
+    },
+    "footnotes": {
+      "a": "Class of recommendation",
+      "b": "Level of evidence",
+      "c": "In those who are able to adhere to the exercise programme"
+    },
+    "copyright": "© ESC 2021"
+  },
+  "genes": []
+}

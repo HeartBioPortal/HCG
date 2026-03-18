@@ -1,76 +1,146 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "header_note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during the period of development of these guidelines up to and including 2020.",
-    "page_date": "12/08/2021",
-    "experts": [
+    "source": "Table of contents / section listing from a clinical guideline on heart failure",
+    "sections": [
       {
-        "name": "Celutkiene Jelena",
-        "year": 2020,
-        "financial_declaration_summary": "Direct personal payments from healthcare industry for speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member; research funding to department/institution.",
-        "direct_personal_payments": [
-          {
-            "company": "Pfizer",
-            "indication": "anticoagulation"
-          },
-          {
-            "company": "Amgen",
-            "indication": "heart failure"
-          },
-          {
-            "company": "Boehringer-Ingelheim",
-            "indication": "heart failure"
-          },
-          {
-            "company": "Novartis",
-            "indication": "heart failure"
-          },
-          {
-            "company": "Bayer Healthcare",
-            "indication": "heart failure"
-          },
-          {
-            "company": "Astrazeneca",
-            "indication": "heart failure"
-          }
-        ],
-        "research_funding": [
-          {
-            "company": "Roche Diagnostics",
-            "indication": "heart failure"
-          }
-        ]
+        "section": "7.2",
+        "title": "Clinical characteristics of patients with heart failure with mildly reduced ejection fraction",
+        "page": 3629
       },
       {
-        "name": "Chioncel Ovidiu",
-        "year": 2019,
-        "financial_declaration_summary": "Direct personal payments from healthcare industry for speaker fees, honoraria, consultancy, advisory board fees; travel and meeting support; research funding to department/institution.",
-        "direct_personal_payments": [
-          {
-            "company": "Boehringer-Ingelheim",
-            "indication": "Advisory Board Heart Failure"
-          }
-        ],
-        "travel_and_meeting_support": [
-          {
-            "company": "Servier",
-            "indication": "HF/ESC Congress 2019"
-          }
-        ],
-        "research_funding": [
-          {
-            "company": "Novartis",
-            "indication": "Heart Failure"
-          },
-          {
-            "company": "Servier",
-            "indication": "Heart Failure"
-          },
-          {
-            "company": "Vifor International",
-            "indication": "Heart Failure"
-          }
-        ]
+        "section": "7.3",
+        "title": "Treatments for patients with heart failure with mildly reduced ejection fraction",
+        "page": 3629
+      },
+      {
+        "section": "7.3.1",
+        "title": "Angiotensin-converting enzyme inhibitors",
+        "page": 3629
+      },
+      {
+        "section": "7.3.2",
+        "title": "Angiotensin receptor II type 1 receptor blockers",
+        "page": 3629
+      },
+      {
+        "section": "7.3.3",
+        "title": "Beta-blockers",
+        "page": 3629
+      },
+      {
+        "section": "7.3.4",
+        "title": "Mineralocorticoid receptor antagonists",
+        "page": 3629
+      },
+      {
+        "section": "7.3.5",
+        "title": "Angiotensin receptor-neprilysin inhibitor",
+        "page": 3629
+      },
+      {
+        "section": "7.3.6",
+        "title": "Other drugs",
+        "page": 3630
+      },
+      {
+        "section": "7.3.7",
+        "title": "Devices",
+        "page": 3630
+      },
+      {
+        "section": "8",
+        "title": "Heart failure with preserved ejection fraction",
+        "page": 3630
+      },
+      {
+        "section": "8.1",
+        "title": "The background to heart failure with preserved ejection fraction",
+        "page": 3630
+      },
+      {
+        "section": "8.2",
+        "title": "Clinical characteristics of patients with heart failure with preserved ejection fraction",
+        "page": 3630
+      },
+      {
+        "section": "8.3",
+        "title": "The diagnosis of heart failure with preserved ejection fraction",
+        "page": 3630
+      },
+      {
+        "section": "8.4",
+        "title": "Treatment of heart failure with preserved ejection fraction",
+        "page": 3631
+      },
+      {
+        "section": "9",
+        "title": "Multidisciplinary team management for the prevention and treatment of chronic heart failure",
+        "page": 3633
+      },
+      {
+        "section": "9.1",
+        "title": "Prevention of heart failure",
+        "page": 3633
+      },
+      {
+        "section": "9.2",
+        "title": "Multidisciplinary management of chronic heart failure",
+        "page": 3633
+      },
+      {
+        "section": "9.2.1",
+        "title": "Models of care",
+        "page": 3633
+      },
+      {
+        "section": "9.2.2",
+        "title": "Characteristics and components of a heart failure management programme",
+        "page": 3633
+      },
+      {
+        "section": "9.3",
+        "title": "Patient education, self-care and lifestyle advice",
+        "page": 3633
+      },
+      {
+        "section": "9.4",
+        "title": "Exercise rehabilitation",
+        "page": 3636
+      },
+      {
+        "section": "9.5",
+        "title": "Follow-up of chronic heart failure",
+        "page": 3636
+      },
+      {
+        "section": "9.5.1",
+        "title": "General follow-up",
+        "page": 3636
+      },
+      {
+        "section": "9.5.2",
+        "title": "Monitoring with biomarkers",
+        "page": 3636
+      },
+      {
+        "section": "9.6",
+        "title": "Telemonitoring",
+        "page": 3636
+      },
+      {
+        "section": "10",
+        "title": "Advanced heart failure",
+        "page": 3637
+      },
+      {
+        "section": "10.1",
+        "title": "Epidemiology, diagnosis, and prognosis",
+        "page": 3637
+      },
+      {
+        "section": "10.2",
+        "title": "Management",
+        "page": 3639
       }
     ]
   },

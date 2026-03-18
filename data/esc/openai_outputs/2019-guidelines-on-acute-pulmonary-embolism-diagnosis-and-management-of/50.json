@@ -1,125 +1,37 @@
 {
   "content": {
-    "title": "ESC Committee for Practice Guidelines 2018-2020 - Declarations of Interest",
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year (calls conducted during development period up to and including 2018).",
-    "date_on_page": "21/08/2019",
-    "page_number": "50/62",
-    "experts": [
-      {
-        "name": "Halvorsen Sigrun",
-        "declarations": [
-          {
-            "declaration_type": "1 - Financial Declaration (A)",
-            "description": "Direct personal payments (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.) from healthcare industry.",
-            "relationships": [
-              {
-                "company": "Bristol Myers Squibb",
-                "associated_condition": "Antithrombotic treatment",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Astra Zeneca",
-                "associated_condition": "Anti-thrombotic treatment",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Boehringer-Ingelheim",
-                "associated_condition": "Anti-thrombotic treatment",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Pfizer",
-                "associated_condition": "Anti-thrombotic treatment",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Bayer AS",
-                "associated_condition": "Anti-thrombotic treatment",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Sanofi Aventis",
-                "associated_condition": "Cholesterol lowering treatment",
-                "years": "2017-2018"
-              }
-            ]
-          },
-          {
-            "declaration_type": "1 - Financial Declaration (B)",
-            "description": "Payments to department or institution for personal services (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.) from healthcare industry.",
-            "relationships": [
-              {
-                "company": "Novartis",
-                "associated_condition": "Heart failure",
-                "years": "2017-2018"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Hindricks Gerhard",
-        "declarations": [
-          {
-            "declaration_type": "1 - Financial Declaration (B)",
-            "description": "Payments to department or institution for personal services (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.) from healthcare industry.",
-            "relationships": [
-              {
-                "company": "Abbott",
-                "associated_condition": "Pacemaker, Ablation",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Biosense Webster",
-                "associated_condition": "Pacemaker, Ablation",
-                "years": "2017-2018"
-              },
-              {
-                "company": "Biotronik",
-                "associated_condition": "Pacemaker, catheter",
-                "years": "2017-2018"
-              }
-            ]
-          },
-          {
-            "declaration_type": "1 - Financial Declaration (D)",
-            "description": "Research funding under direct/personal responsibility (to department or institution) from healthcare industry.",
-            "relationships": [
-              {
-                "company": "Abbott",
-                "associated_condition": "Electrophysiology, arrhythmias",
-                "years": "2017"
-              },
-              {
-                "company": "Biotronik",
-                "associated_condition": "Electrophysiology, arrhythmias",
-                "years": "2017"
-              },
-              {
-                "company": "Medtronic",
-                "associated_condition": "Electrophysiology, arrhythmias",
-                "years": "2017"
-              },
-              {
-                "company": "Boston Scientific",
-                "associated_condition": "Electrophysiology, arrhythmias",
-                "years": "2017"
-              },
-              {
-                "company": "Biosense Webster",
-                "associated_condition": "Electrophysiology, arrhythmias",
-                "years": "2018"
-              },
-              {
-                "company": "Abbott",
-                "associated_condition": "Electrophysiology, arrhythmias",
-                "years": "2018"
-              }
-            ]
-          }
-        ]
-      }
-    ]
+    "title": "Predisposing factors for venous thromboembolism (VTE)",
+    "abbreviations": {
+      "HIV": "human immunodeficiency virus",
+      "OR": "odds ratio",
+      "VTE": "venous thromboembolism"
+    },
+    "general_risk_factors": [
+      "Immobility due to sitting (e.g. prolonged car or air travel)",
+      "Increasing age",
+      "Laparoscopic surgery (e.g. cholecystectomy)",
+      "Obesity",
+      "Pregnancy",
+      "Varicose veins"
+    ],
+    "strong_risk_factors_(OR_>_10)": [
+      "Fracture of lower limb",
+      "Hospitalization for heart failure or atrial fibrillation/flutter (within previous 3 months)",
+      "Hip or knee replacement",
+      "Major trauma",
+      "Myocardial infarction (within previous 3 months)",
+      "Previous VTE",
+      "Spinal cord injury"
+    ],
+    "moderate_risk_factors_(OR_2-9)": [
+      "Arthroscopic knee surgery",
+      "Autoimmune diseases",
+      "Blood transfusion",
+      "Central venous lines",
+      "Intravenous catheters and leads",
+      "Chemotherapy"
+    ],
+    "notes": "Page appears to be Table 3 (data modified from Rogers et al. and Anderson and Spencer)."
   },
   "genes": []
 }

@@ -1,47 +1,32 @@
 {
   "content": {
-    "document_title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during the period of development of these guidelines up to and including 2022.",
-    "page_footer_date": "16/05/2023",
-    "page_number": "39/57",
-    "experts": [
+    "title": "Acute chest pain / acute coronary syndrome (ACS) — STEMI vs NSTE-ACS",
+    "patient_categories": [
       {
-        "name": "Niessner Alexander",
-        "year": 2022,
-        "disclosures": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Bayer : Pharmacology and Pharmacotherapy",
-          "Boehringer-Ingelheim : Pharmacology and Pharmacotherapy",
-          "Daiichi Sankyo : Pharmacology and Pharmacotherapy",
-          "Pfizer : Pharmacology and Pharmacotherapy",
-          "Lilly : Pharmacology and Pharmacotherapy",
-          "Bristol Myers Squibb : Pharmacology and Pharmacotherapy",
-          "Novo-Nordisk : Pharmacology and Pharmacotherapy",
-          "Galapagos Biopharma : Pharmacology and Pharmacotherapy",
-          "Research funding from healthcare industry under your direct/personal responsibility (to department or institution).",
-          "Boehringer-Ingelheim : registry, principal investigator",
-          "Boston Scientific : registry, principal investigator",
-          "Abbott Vascular : registry, principal investigator"
-        ]
+        "category": "STEMI (ST-segment elevation myocardial infarction)",
+        "description": "Patients with acute chest pain (or chest pain–equivalent signs/symptoms) and persistent ST-segment elevation (or ST-segment elevation equivalents) on ECG. The majority will sustain myocardial necrosis and troponin elevation and meet criteria for MI, though MI may not be the final diagnosis in all patients."
       },
       {
-        "name": "Ostadal Petr",
-        "year": 2021,
-        "disclosures": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Astra Zeneca : Acute Coronary Syndrome",
-          "Sanofi Aventis : Acute Coronary Syndrome",
-          "AOP Orphan Pharmaceuticals : Cardiogenic Shock",
-          "Amgen : Dyslipidaemia",
-          "Novartis : Dyslipidaemia",
-          "Edwards Lifesciences : Haemodynamics",
-          "Bayer : Ischemic Heart Disease",
-          "Maquet : Mechanical Circulatory Support",
-          "Abiomed : Mechanical Circulatory Support"
-        ]
+        "category": "NSTE-ACS (non–ST-elevation acute coronary syndrome; includes NSTEMI and UA)",
+        "description": "Patients with acute chest pain (or chest pain–equivalent signs/symptoms) but without persistent ST-segment elevation on ECG. May exhibit other ECG alterations (transient ST elevation, ST depression, T-wave abnormalities). Many who show a typical troponin rise and fall will be diagnosed NSTEMI; others with troponin below the 99th centile may be diagnosed with unstable angina (UA). High-sensitivity troponin assays have reduced the frequency of UA diagnoses."
       }
-    ]
+    ],
+    "section": "3.2.1 Acute coronary syndrome with persistent ST-segment elevation (suspected ST-elevation myocardial infarction)",
+    "priority": "Implement reperfusion therapy as soon as possible in appropriate clinical context.",
+    "diagnostic_context": "ST-segment elevation measured at the J-point is considered suggestive of ongoing coronary artery acute occlusion when new ST elevation is present in at least two contiguous leads.",
+    "ECG_thresholds_J-point_in_two_contiguous_leads": {
+      "precordial_V2-V3": "≥2.5 mm in men <40 years; ≥2.0 mm in men ≥40 years; ≥1.5 mm in women (regardless of age)",
+      "other_leads": "≥1.0 mm (in the absence of left ventricular hypertrophy or left bundle branch block)"
+    },
+    "additional_ECG_recommendations": [
+      "In suspected inferior STEMI, record right precordial leads V3R and V4R to assess for ST-segment elevation.",
+      "Record posterior leads (V7–V9) to investigate for posterior STEMI, especially when standard 12-lead ECG is inconclusive and symptoms continue."
+    ],
+    "diagnostic_caveats": [
+      "Diagnosis of ongoing coronary artery occlusion on ECG can be challenging; absence of ST-segment elevation does not rule out acute occlusion and some cases may still require prompt reperfusion despite lack of ST elevation.",
+      "While ST-segment elevation is the most sensitive sign for ongoing coronary occlusion, other ECG findings may indicate acute ischemia/occlusion."
+    ],
+    "troponin_note": "Troponin elevation (rise and/or fall) is used to confirm MI per the universal definition; NSTE-ACS patients who later show such a pattern will be diagnosed NSTEMI, while those with troponin below the 99th centile may be labeled UA."
   },
   "genes": []
 }

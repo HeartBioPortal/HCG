@@ -1,0 +1,62 @@
+{
+  "content": {
+    "summary": "Palliative and end-of-life care guidance for patients with advanced heart failure, focusing on symptom relief, psychological support, advanced care planning, and regular symptom assessment.",
+    "key_points": [
+      "Frequent assessment of symptoms (including dyspnoea and pain) resulting from advanced heart failure and comorbidities; focus on symptom relief.",
+      "Provide access to psychological support and spiritual care for patient and family as needed.",
+      "Advanced care planning: document preferences for place of death and resuscitation; may include deactivation of devices such as ICDs or long-term MCS after multidisciplinary decision.",
+      "Focus on improving or maintaining quality of life (QOL) of patient and family until death."
+    ],
+    "definitions": {
+      "ICD": "implantable cardioverter-defibrillator",
+      "MCS": "mechanical circulatory support",
+      "QOL": "quality of life"
+    },
+    "symptom_assessment": {
+      "recommendation": "Perform symptom assessment on a regular basis in addition to clinical assessment.",
+      "recommended_scales": [
+        "Numeric Rating Scale",
+        "Edmonton Symptom Assessment Scale (ESAS)",
+        "ESAS-HF",
+        "Integrated Palliative care Outcome Scale"
+      ]
+    },
+    "treatment_recommendations_on_top_of_OMT": {
+      "breathlessness": {
+        "recommendation": "Repeat doses of opioids may be considered for relief of dyspnoea, although effectiveness is not demonstrated.",
+        "considerations": [
+          "Guide patients about opioid side effects: constipation, nausea, urinary retention, mental status changes.",
+          "Benzodiazepines may be considered as second- or third-line treatment when opioids and non-pharmacological measures fail.",
+          "Increasing inspired oxygen concentration may provide relief."
+        ]
+      },
+      "pain": {
+        "recommendation": "Non-pharmacologic management can be helpful; opioids are generally viewed as safe options.",
+        "agents_mentioned": [
+          "oxycodone",
+          "hydromorphone",
+          "fentanyl"
+        ],
+        "routes": "oral, intravenous, transdermal",
+        "settings": "hospital, palliative care, hospice"
+      },
+      "anxiety_and_depression": {
+        "recommendation": "Adequate conventional treatment should be offered."
+      }
+    },
+    "advance_care_planning_and_documentation": {
+      "recommendation": "Proactive decisions and advanced planning regarding palliative and end-of-life care should be documented, regularly reviewed, and communicated to all involved in the patient's care.",
+      "notes": "Healthcare providers should ensure patient and carer preferences are followed when possible; recognize some patients may be unable to express preferences due to depression or cognitive impairment."
+    },
+    "section_headers_on_page": [
+      "11 Acute heart failure",
+      "11.1 Epidemiology, diagnosis and prognosis"
+    ],
+    "references_cited_on_page": [
+      "422",
+      "423",
+      "424"
+    ]
+  },
+  "genes": []
+}

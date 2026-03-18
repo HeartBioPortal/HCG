@@ -1,0 +1,33 @@
+{
+  "content": {
+    "title": "acute coronary syndrome - Antiplatelet therapy",
+    "recommendations": [
+      {
+        "text": "Aspirin is recommended for all patients without contraindications at an initial oral LD of 150–300 mg (or 75–250 mg i.v.) and an MD of 75–100 mg o.d. for long-term treatment.",
+        "class": "I",
+        "level": "A"
+      },
+      {
+        "text": "In all ACS patients, a P2Y12 receptor inhibitor is recommended in addition to aspirin, given as an initial oral LD followed by an MD for 12 months unless there is high bleeding risk.",
+        "class": "I",
+        "level": "A"
+      },
+      {
+        "text": "A proton pump inhibitor in combination with dual antiplatelet therapy is recommended in patients at high risk of gastrointestinal bleeding.",
+        "class": "I",
+        "level": "A"
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "acute coronary syndrome",
+        "use in antiplatelet therapy (dual antiplatelet therapy)"
+      ],
+      "Occurrences": 1,
+      "context": "Mentioned as the P2Y12 receptor inhibitor recommended in all ACS patients in addition to aspirin, given as an initial oral LD followed by an MD for 12 months unless high bleeding risk."
+    }
+  ]
+}

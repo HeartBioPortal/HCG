@@ -1,105 +1,46 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism - Task Force Members (Declarations of Interest)",
-    "note": "Declarations reported to the ESC by experts during yearly call for declaration covering the previous calendar year (conducted up to and including 2018).",
-    "date": "21/08/2019",
-    "page": "5/62",
-    "entries": [
-      {
-        "name": "Jimenez David",
-        "personal_payments": [
-          {
-            "company": "Leo Pharma",
-            "area": "Anticoagulation",
-            "years": "2017-2018"
-          },
-          {
-            "company": "Bayer",
-            "area": "Anticoagulation",
-            "years": "2018"
-          },
-          {
-            "company": "Rovi",
-            "area": "Anticoagulation",
-            "years": "2018"
-          }
-        ],
-        "research_funding_under_direct_responsibility": [
-          {
-            "company": "Daiichi Sankyo",
-            "area": "Anticoagulation",
-            "years": "2017"
-          },
-          {
-            "company": "Sanofi Aventis",
-            "area": "Anticoagulation",
-            "years": "2017"
-          },
-          {
-            "company": "Bayer Healthcare",
-            "area": "Anticoagulation",
-            "years": "2017"
-          },
-          {
-            "company": "Daiichi Sankyo",
-            "area": "Diagnosis of pulmonary embolism",
-            "years": "2018"
-          }
-        ]
-      },
-      {
-        "name": "Konstantinides Stavros V",
-        "financial_declaration_section": "A - Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-        "personal_payments": [
-          {
-            "company": "Daiichi Sankyo",
-            "area": "Cardiovascular",
-            "years": "2017-2018"
-          },
-          {
-            "company": "Pfizer",
-            "area": "Cardiovascular",
-            "years": "2017-2018"
-          },
-          {
-            "company": "Bayer Healthcare",
-            "area": "Cardiovascular",
-            "years": "2017-2018"
-          },
-          {
-            "company": "BTG Biocompatibles Group UK",
-            "area": "Cardiovascular",
-            "years": "2017-2018"
-          },
-          {
-            "company": "Merck Sharp & Dohme",
-            "area": "Cardiovascular - Pulmonary hypertension",
-            "years": "2017-2018"
-          }
-        ],
-        "research_funding_under_direct_responsibility": [
-          {
-            "company": "Boehringer-Ingelheim",
-            "area": "Cardiovascular",
-            "years": "2017-2018"
-          },
-          {
-            "company": "Bayer Healthcare",
-            "area": "Cardiovascular",
-            "years": "2017-2018"
-          },
-          {
-            "company": "Merck Sharp & Dohme",
-            "area": "Cardiovascular",
-            "years": "2017-2018"
-          },
-          {
-            "company": "Daiichi Sankyo",
-            "area": "Cardiovascular - Anticoagulation",
-            "years": "2017-2018"
-          }
-        ]
-      }
+    "title": "ESC Scientific Document Group / Guidelines on the diagnosis and management of pulmonary embolism",
+    "authors": [
+      "Marc Humbert",
+      "Marion Delcroix",
+      "Sean Gaine",
+      "Olivier Sanchez",
+      "Anton Vonk Noordegraaf (representing the ERS)"
+    ],
+    "journal_citation": "European Heart Journal, Volume 41, Issue 4, 21 January 2020, Pages 543–603",
+    "doi": "https://doi.org/10.1093/eurheartj/ehz405",
+    "published_date": "31 August 2019",
+    "keywords": [
+      "Guidelines",
+      "pulmonary embolism",
+      "venous thrombosis",
+      "shock",
+      "dyspnoea",
+      "heart failure",
+      "right ventricle",
+      "diagnosis",
+      "risk assessment",
+      "echocardiography",
+      "biomarkers",
+      "treatment",
+      "anticoagulation",
+      "thrombolysis",
+      "pregnancy",
+      "venous thromboembolism",
+      "embolectomy"
+    ],
+    "supplementary_data_url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehz405#supplementary-data",
+    "notes": "ESC Scientific Document Group page header and links to Oxford Academic, PubMed, Google Scholar. Author notes link present.",
+    "table_of_contents": [
+      "Abbreviations and acronyms",
+      "1 Preamble",
+      "2 Introduction",
+      "2.1 Why do we need new Guidelines on the diagnosis and management of pulmonary embolism?",
+      "2.2 What is new in the 2019 Guidelines?",
+      "2.2.1 New/revised concepts in 2019",
+      "2.2.2 Changes in recommendations 2014→2019",
+      "2.2.3 Main new recommendations 2019"
     ]
   },
   "genes": []

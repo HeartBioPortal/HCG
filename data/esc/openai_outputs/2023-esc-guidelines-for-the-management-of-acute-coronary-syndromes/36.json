@@ -1,51 +1,56 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "note": "Report lists declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during development period up to and including 2022).",
-    "page_date": "16/05/2023",
-    "page_number": "12/57",
-    "experts": [
+    "source_page_summary": "List of clinical trial/study/registry acronyms and their expansions related to acute coronary syndromes and myocardial infarction.",
+    "acronyms": [
       {
-        "expert": "Davlouros Periklis",
-        "year": 2022,
-        "declaration": "Payment from healthcare industry to your department or institution or any other body for your personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-        "details": [
-          "Bayer : Atrial Fibrillation (AF)",
-          "Boehringer-Ingelheim : Atrial Fibrillation (AF)",
-          "Pfizer : Atrial Fibrillation (AF)",
-          "Abbott : Hypertension"
-        ]
+        "acronym": "STEMI",
+        "expansion": "ST-elevation myocardial infarction",
+        "description": "Acute myocardial infarction with ST-segment elevation."
       },
       {
-        "expert": "Degrell Philippe",
-        "years": [
-          {
-            "year": 2021,
-            "declaration": "Nothing to be declared"
-          },
-          {
-            "year": 2022,
-            "declaration": "Nothing to be declared"
-          }
-        ]
+        "acronym": "STOPDAPT-2-ACS",
+        "expansion": "ShorT and OPtimal Duration of Dual AntiPlatelet Therapy-2 Study for the Patients With ACS",
+        "description": "Study evaluating optimal duration of dual antiplatelet therapy in acute coronary syndrome patients."
       },
       {
-        "expert": "Dobiliene Olivija",
-        "year": 2021,
-        "declaration": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.; Payments to department/institution; Travel and meeting support from healthcare industry, independent of the above activities.",
-        "details": [
-          "Astra Zeneca : speaker fees",
-          "Bayer : speaker fees",
-          "Pfizer : speaker fees",
-          "Berlin Menarini : speaker fees",
-          "Krka Pharma : speaker fees",
-          "Grindeks : speaker fees",
-          "Novartis : speaker fees, advisory board fees",
-          "Payment from healthcare industry to your department or institution: Bayer : speaker fees",
-          "Servier : speaker fees",
-          "Amgen : congress registration fees",
-          "Pfizer : congress registration fees"
-        ]
+        "acronym": "STREAM",
+        "expansion": "Strategic Reperfusion Early After Myocardial Infarction",
+        "description": "Study focused on early reperfusion strategies after myocardial infarction."
+      },
+      {
+        "acronym": "SWEDEHEART",
+        "expansion": "Swedish Web-System for Enhancement and Development of Evidence-Based Care in Heart Disease Evaluated According to Recommended Therapies",
+        "description": "Swedish registry/web-system for evidence-based care in heart disease."
+      },
+      {
+        "acronym": "TALOS-AMI",
+        "expansion": "TicAgrelor Versus CLOpidogrel in Stabilized Patients With Acute Myocardial Infarction",
+        "description": "Trial comparing ticagrelor and clopidogrel in stabilized AMI patients."
+      },
+      {
+        "acronym": "TAT",
+        "expansion": "Triple antithrombotic therapy",
+        "description": "Refers to use of three antithrombotic agents."
+      },
+      {
+        "acronym": "TICO",
+        "expansion": "Ticagrelor Monotherapy After 3 Months in the Patients Treated With New Generation Sirolimus Stent for Acute Coronary Syndrome",
+        "description": "Study of ticagrelor monotherapy following short DAPT in ACS patients with new generation sirolimus stents."
+      },
+      {
+        "acronym": "TIMI",
+        "expansion": "Thrombolysis In Myocardial Infarction",
+        "description": "Well-known research group/score and trials related to thrombolysis and myocardial infarction."
+      },
+      {
+        "acronym": "TLR",
+        "expansion": "Target lesion revascularization",
+        "description": "Clinical endpoint referring to repeat revascularization of the treated lesion."
+      },
+      {
+        "acronym": "TOMAHAWK",
+        "expansion": "Immediate Unselected Coronary Angiography Versus Delayed Triage in Survivors of Out-of-hospital Cardiac Arrest Without ST-segment Elevation",
+        "description": "Trial comparing immediate vs delayed coronary angiography in OHCA survivors without ST-elevation."
       }
     ]
   },

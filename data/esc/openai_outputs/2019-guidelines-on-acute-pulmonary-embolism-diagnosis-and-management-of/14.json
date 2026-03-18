@@ -1,47 +1,66 @@
 {
   "content": {
-    "document_title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism - Task Force Members Declarations",
-    "document_notes": "Report lists declarations of interest as reported to the ESC by experts during yearly call covering previous calendar year (up to and including 2018).",
-    "date": "21/08/2019",
-    "page": "14/62",
-    "entries": [
+    "source_header": "European Medicines Agency",
+    "abbreviations": [
       {
-        "name": "Van Belle Eric",
-        "declaration_type": "1- Financial Declaration",
-        "declaration_summary": "A - Direct personal payment as it applies to you and your spouse/partner or any other member of your household, or any entity controlled directly or indirectly by any of above persons: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry.",
-        "companies": [
-          {
-            "company": "Abbott",
-            "note": "FFR (2017-2018)"
-          },
-          {
-            "company": "Philips",
-            "note": "FFR/iFR (2017-2018)"
-          }
-        ]
+        "abbrev": "ERS",
+        "definition": "European Respiratory Society",
+        "occurrences": 1,
+        "context": "Listed as a society abbreviation on the page."
       },
       {
-        "name": "Zamorano Gomez Jose Luis",
-        "declaration_type": "1- Financial Declaration",
-        "declaration_summary": "A - Direct personal payment as it applies to you and your spouse/partner or any other member of your household, or any entity controlled directly or indirectly by any of above persons: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry.",
-        "companies": [
-          {
-            "company": "Bayer",
-            "note": "afib (2017)"
-          },
-          {
-            "company": "Pfizer",
-            "note": "Afib (2017)"
-          },
-          {
-            "company": "Daiichi Sankyo",
-            "note": "Anticoagulation Afib (2018)"
-          },
-          {
-            "company": "Amgen",
-            "note": "lipids (2018)"
-          }
-        ]
+        "abbrev": "ESC",
+        "definition": "European Society of Cardiology",
+        "occurrences": 1,
+        "context": "Listed as a society abbreviation on the page."
+      },
+      {
+        "abbrev": "FAST",
+        "definition": "H-FABP, Syncope, Tachycardia (prognostic score)",
+        "occurrences": 1,
+        "context": "Described as a prognostic score composed of H-FABP and clinical features."
+      },
+      {
+        "abbrev": "FDA",
+        "definition": "US Food and Drug Administration",
+        "occurrences": 1,
+        "context": "Regulatory agency abbreviation listed on the page."
+      },
+      {
+        "abbrev": "GUSTO",
+        "definition": "Global Utilization of Streptokinase and Tissue Plasminogen Activator for Occluded Coronary Arteries",
+        "occurrences": 1,
+        "context": "Full expansion of the GUSTO trial/consortium name."
+      },
+      {
+        "abbrev": "HAS-BLED",
+        "definition": "Hypertension, Abnormal renal/liver function, Stroke, Bleeding history or predisposition, Labile international normalized ratio, Elderly (>65 years), Drugs/alcohol concomitantly",
+        "occurrences": 1,
+        "context": "Bleeding risk score components listed in full on the page."
+      },
+      {
+        "abbrev": "HERDOO2",
+        "definition": "Hyperpigmentation, Edema, or Redness in either leg; D-dimer level ≥250 µg/L; Obesity with BMI ≥30 kg/m2; or Older age, ≥65 years",
+        "occurrences": 1,
+        "context": "Components/criteria of the HERDOO2 rule listed on the page."
+      },
+      {
+        "abbrev": "H-FABP",
+        "definition": "Heart-type fatty acid-binding protein",
+        "occurrences": 2,
+        "context": "Appears as part of the FAST prognostic score and also listed separately as 'Heart-type fatty acid-binding protein'."
+      },
+      {
+        "abbrev": "HIV",
+        "definition": "Human immunodeficiency virus",
+        "occurrences": 1,
+        "context": "Listed as an abbreviation with its full name."
+      },
+      {
+        "abbrev": "HR",
+        "definition": "Hazard ratio",
+        "occurrences": 1,
+        "context": "Statistical term listed as an abbreviation on the page."
       }
     ]
   },

@@ -1,0 +1,74 @@
+{
+  "content": {
+    "title": "Shortening/de-escalation and Prolonging of antithrombotic therapy (ESC 2023)",
+    "recommendations": [
+      {
+        "section": "Shortening/de-escalation of antithrombotic therapy",
+        "text": "In patients who are event-free after 3–6 months of DAPT and who are not high ischaemic risk, single antiplatelet therapy (preferably with a P2Y12 receptor inhibitor) should be considered.",
+        "class": "IIa",
+        "level": "A"
+      },
+      {
+        "section": "Shortening/de-escalation of antithrombotic therapy",
+        "text": "De-escalation of P2Y12 receptor inhibitor treatment (e.g., with a switch from prasugrel/ticagrelor to clopidogrel) may be considered as an alternative DAPT strategy to reduce bleeding risk.",
+        "class": "IIb",
+        "level": "A"
+      },
+      {
+        "section": "Shortening/de-escalation of antithrombotic therapy",
+        "text": "In HBR patients, aspirin or P2Y12 receptor inhibitor monotherapy after 1 month of DAPT may be considered.",
+        "class": "IIb",
+        "level": "B"
+      },
+      {
+        "section": "Shortening/de-escalation of antithrombotic therapy",
+        "text": "De-escalation of antiplatelet therapy in the first 30 days after an ACS event is not recommended.",
+        "class": "III",
+        "level": "B"
+      },
+      {
+        "section": "Prolonging antithrombotic therapy",
+        "text": "Discontinuation of antiplatelet treatment in patients treated with an OAC is recommended after 12 months.",
+        "class": "I",
+        "level": "B"
+      },
+      {
+        "section": "Prolonging antithrombotic therapy",
+        "text": "Adding a second antithrombotic agent to aspirin for extended long-term secondary prevention should be considered in patients with high ischaemic risk and without HBR.",
+        "class": "IIa",
+        "level": "A"
+      },
+      {
+        "section": "Prolonging antithrombotic therapy",
+        "text": "Adding a second antithrombotic agent to aspirin for extended long-term secondary prevention may be considered in patients with moderate ischaemic risk and without HBR.",
+        "class": "IIb",
+        "level": "A"
+      },
+      {
+        "section": "Prolonging antithrombotic therapy",
+        "text": "P2Y12 inhibitor monotherapy may be considered as an alternative to aspirin monotherapy for long-term treatment.",
+        "class": "IIb",
+        "level": "A"
+      }
+    ],
+    "abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "DAPT": "dual antiplatelet therapy",
+      "HBR": "high bleeding risk",
+      "OAC": "oral anticoagulant"
+    },
+    "notes": "Guidance summarises recommended timing and de-escalation/prolongation strategies for antiplatelet therapy (ESC 2023)."
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "acute coronary syndrome (ACS) / post-ACS antiplatelet management",
+        "dual antiplatelet therapy (DAPT) de-escalation strategies",
+        "antiplatelet monotherapy for secondary prevention / long-term antithrombotic therapy"
+      ],
+      "Occurrences": 4,
+      "context": "Referenced repeatedly as 'P2Y12 receptor inhibitor' or 'P2Y12 inhibitor monotherapy' in recommendations for single antiplatelet therapy after 1–3–6 months of DAPT, for de-escalation (switching drugs) to reduce bleeding risk, and as an alternative to aspirin for long-term treatment."
+    }
+  ]
+}

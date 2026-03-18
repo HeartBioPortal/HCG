@@ -1,0 +1,64 @@
+{
+  "content": {
+    "section_summary": "Guideline excerpt on glucose-lowering therapies and heart failure (HF): SGLT2 (and dual SGLT1/2) inhibitors (eg, empagliflozin, canagliflozin, dapagliflozin, sotagliflozin, ertugliflozin) reduce HF and cardiovascular (CV) hospitalizations and CV death in many trials and are recommended for patients with type 2 diabetes and CV disease or risk factors and for HFrEF. SGLT2 inhibitors are generally well tolerated. Metformin is considered safe in HF except with low eGFR or hepatic impairment. DPP-4 inhibitors (eg, saxagliptin, alogliptin, sitagliptin, linagliptin, vidagliptin) showed neutral or adverse HF signals (saxagliptin increased HF hospitalizations) and are not recommended to reduce CV events in diabetic patients with HF. GLP-1 receptor agonists reduce MI, stroke, and CV death in diabetes but do not prevent HF events and are not recommended for HF prevention. Insulin is required for type 1 diabetes and for some type 2 patients when beta-cell function is exhausted.",
+    "recommendations": [
+      "Use SGLT2 inhibitors to prevent HF and CV death and to reduce worsening kidney function in patients with type 2 diabetes and CV disease or CKD; some agents (dapagliflozin, empagliflozin) are indicated for HFrEF.",
+      "Metformin: generally safe in HF but avoid if eGFR <30 mL/min/1.73 m2 or hepatic impairment.",
+      "DPP-4 inhibitors: not recommended to reduce CV events in diabetic patients with HF due to neutral/adverse HF outcomes in trials.",
+      "GLP-1 receptor agonists: reduce MI/stroke/CV death in diabetes but do not reduce HF events and are not recommended for HF prevention."
+    ],
+    "key_trials_mentioned": [
+      "EMPA-REG OUTCOME",
+      "CANVAS",
+      "DECLARE-TIMI 58",
+      "VERTIS-CV",
+      "SCORED",
+      "CREDENCE"
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "SGLT2",
+      "Associated Conditions": [
+        "Heart failure (HF)",
+        "Cardiovascular (CV) death/events",
+        "Type 2 diabetes",
+        "Chronic kidney disease (CKD)",
+        "Heart failure with reduced ejection fraction (HFrEF)"
+      ],
+      "Occurrences": 5,
+      "context": "Text repeatedly refers to 'SGLT2 inhibitors' (eg, empagliflozin, canagliflozin, dapagliflozin) as reducing HF and CV hospitalizations/deaths and worsening kidney function; specific trials (EMPA-REG, CANVAS, DECLARE-TIMI 58, VERTIS-CV) cited."
+    },
+    {
+      "Gene": "SGLT1",
+      "Associated Conditions": [
+        "Heart failure (HF)",
+        "Type 2 diabetes"
+      ],
+      "Occurrences": 1,
+      "context": "Mentioned in combination as 'SGLT1/2 inhibitor sotagliflozin' in trials of patients with type 2 diabetes and HF."
+    },
+    {
+      "Gene": "DPP4",
+      "Associated Conditions": [
+        "Heart failure (HF) hospitalizations",
+        "Type 2 diabetes",
+        "Cardiovascular (CV) events (neutral overall)"
+      ],
+      "Occurrences": 3,
+      "context": "Described as 'dipeptidyl peptidase-4 (DPP-4) inhibitors' with one trial showing a 27% increase in HF hospitalizations with saxagliptin; overall DPP-4 trials were neutral for mortality/CV events and are not recommended to reduce CV events in diabetic patients with HF."
+    },
+    {
+      "Gene": "GLP1R",
+      "Associated Conditions": [
+        "Myocardial infarction (MI)",
+        "Stroke",
+        "Cardiovascular (CV) death",
+        "Type 2 diabetes",
+        "Heart failure (HF) — not reduced/prevented"
+      ],
+      "Occurrences": 2,
+      "context": "Referenced as 'GLP-1 receptor agonists' which reduce risk of MI, stroke, and CV death in diabetes but probably do not reduce incident HF and are not recommended for HF prevention."
+    }
+  ]
+}

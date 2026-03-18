@@ -1,0 +1,46 @@
+{
+  "content": {
+    "document": "Heart failure (HF) guideline recommendations (summary)",
+    "general_recommendations": [
+      "Screen for and treat aetiologies and cardiovascular and non-cardiovascular comorbidities in patients with HFpEF.",
+      "Diuretics are recommended in congested patients with HF to alleviate symptoms and signs."
+    ],
+    "prevention_of_chronic_HF": [
+      "Treat hypertension to prevent or delay onset of HF and to reduce HF hospitalizations.",
+      "Use statins in patients at high risk of cardiovascular disease or with established CV disease to prevent or delay onset of HF and reduce HF hospitalizations.",
+      "SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, sotagliflozin) are recommended in patients with diabetes at high risk of CV disease or with CV disease to prevent HF hospitalizations.",
+      "Counsel against sedentary behaviour, obesity, cigarette smoking, and alcohol abuse to prevent or delay HF onset."
+    ],
+    "management_of_chronic_HF": [
+      "Enroll HF patients in multidisciplinary HF management programmes to reduce risk of HF hospitalization and mortality.",
+      "Recommend self-management strategies and either home-based and/or clinic-based programmes to improve outcomes and reduce HF hospitalization and mortality.",
+      "Recommend exercise for all patients able to improve exercise capacity, quality of life, and reduce HF hospitalization."
+    ],
+    "treatment_of_advanced_HF": [
+      "Patients considered for long-term mechanical circulatory support (MCS) must have good compliance, appropriate capacity for device handling and psychosocial support.",
+      "Heart transplantation is recommended for patients with advanced HF refractory to medical/device therapy who do not have absolute contraindications."
+    ],
+    "treatment_of_acute_HF": [
+      "Give oxygen if SpO2 < 90% or PaO2 < 60 mmHg to correct hypoxaemia.",
+      "Consider intubation for progressive respiratory failure despite oxygen/non-invasive ventilation.",
+      "Intravenous loop diuretics are recommended for acute HF with signs/symptoms of fluid overload to improve symptoms.",
+      "Thromboprophylaxis (e.g., with LMWH) is recommended in patients not already anticoagulated and with no contraindication, to reduce venous thrombosis and pulmonary embolism risk.",
+      "Inotropic agents are not routinely recommended due to safety concerns and should be reserved for patients with symptomatic hypotension and evidence of hypoperfusion.",
+      "Routine use of opioids is not recommended except in selected patients with severe/intractable pain or anxiety.",
+      "Intra-aortic balloon pump (IABP) is not routinely recommended post-MI cardiogenic shock."
+    ],
+    "post_hospitalization_management": [
+      "Carefully evaluate patients hospitalized for HF to exclude persistent signs of congestion before discharge and optimize oral treatment.",
+      "Start evidence-based oral medical treatment prior to discharge when possible.",
+      "Arrange early follow-up (1–2 weeks after discharge) to assess congestion, drug tolerance, and start/uptitrate evidence-based therapy."
+    ],
+    "HF_and_atrial_fibrillation": [
+      "Long-term oral anticoagulation recommended in all patients with AF, HF, and CHA2DS2-VASc score ≥2 in men or ≥3 in women.",
+      "Direct oral anticoagulants (DOACs) preferred over VKAs in patients with HF except in those with moderate/severe mitral stenosis or mechanical prosthetic valves.",
+      "Urgent electrical cardioversion (ECV) recommended for acute worsening of HF with rapid ventricular rates and haemodynamic instability.",
+      "Anti-arrhythmic agents such as flecainide, encainide, disopyramide, dronedarone, and D-sotalol are not recommended due to safety concerns."
+    ],
+    "notes": "Drug classes and device therapies referenced are clinical recommendations from the guideline table. Specific grading of recommendations (e.g., I/A, I/C, III/B) present in the original table are not reproduced here but informed the strength statements summarized above."
+  },
+  "genes": []
+}

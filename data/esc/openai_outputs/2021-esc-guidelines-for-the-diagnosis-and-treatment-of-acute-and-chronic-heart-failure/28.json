@@ -1,38 +1,60 @@
 {
   "content": {
-    "document_title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Task Force Members",
-    "organization": "European Society of Cardiology (ESC)",
-    "page_date": "12/08/2021",
-    "expert": "Lyon Alexander",
-    "entries": [
+    "abbreviations": [
       {
-        "year": 2019,
-        "declarations": [
-          "Servier: Ivabradine, S44121, Pixantrone",
-          "Other Positions of Influence: Direct ownership of shares or direct financial interest in healthcare, media, education companies or in companies related to (suppliers), or in competition with the ESC and its mission: to reduce the burden of cardiovascular disease.",
-          "Healthcare - HEART FAILURE - Stock option (<1%) in Heartfelt Technologies Inc; Stock option (1%) in Brainstorm Inc; Stock option (1%) in Myocardial Solutions Inc"
-        ]
+        "abbr": "LVEF",
+        "definition": "Left ventricular ejection fraction"
       },
       {
-        "year": 2020,
-        "section": "Financial Declaration",
-        "declarations": [
-          "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-          "Akcea: Cardiac Amyloidosis",
-          "Takeda Pharmaceuticals: Cardio-Oncology, Multiple Myeloma, Ixazomib",
-          "Pfizer: Cardiotoxicity of cancer drugs for renal cancer and chronic myeloid leukaemia: sunitinib, axitinib, bosutinib",
-          "GlaxoSmithKline: Heart Failure",
-          "AstraZeneca: Heart Failure, Dapagliflozin",
-          "Novartis: Heart failure, Entresto, breast cancer - ribociclib, MPN",
-          "Ferring Pharmaceuticals: Prostate Cancer"
-        ],
-        "other_positions_of_influence": [
-          "Direct ownership of shares or direct financial interest in healthcare, media, education companies or in companies related to (suppliers), or in competition with the ESC and its mission: to reduce the burden of cardiovascular disease.",
-          "Healthcare - HEART FAILURE - Stock option (<1%) in Heartfelt Technologies Inc; Stock option (1%) in Brainstorm Inc; Stock option (1%) in Myocardial Solutions Inc"
-        ]
+        "abbr": "LVESD",
+        "definition": "Left ventricular end-systolic diameter"
+      },
+      {
+        "abbr": "LVH",
+        "definition": "Left ventricular hypertrophy"
+      },
+      {
+        "abbr": "LVNC",
+        "definition": "Left ventricular non-compaction"
+      },
+      {
+        "abbr": "LVOT",
+        "definition": "Left ventricular outflow tract"
+      },
+      {
+        "abbr": "LVOTO",
+        "definition": "Left ventricular outflow tract obstruction"
+      },
+      {
+        "abbr": "MADIT-CRT",
+        "definition": "Multicenter Automatic Defibrillator Implantation Trial with Cardiac Resynchronization Therapy (trial)"
+      },
+      {
+        "abbr": "MADIT-II",
+        "definition": "Multicenter Automatic Defibrillator Implantation Trial II (trial)"
+      },
+      {
+        "abbr": "MADIT-RIT",
+        "definition": "Multicenter Automatic Defibrillator Implantation Trial Reduce Inappropriate Therapy (trial)"
+      },
+      {
+        "abbr": "MAGGIC",
+        "definition": "Meta-Analysis Global Group in Chronic Heart Failure"
+      },
+      {
+        "abbr": "MCS",
+        "definition": "Mechanical circulatory support"
+      },
+      {
+        "abbr": "MEK",
+        "definition": "Mitogen-activated protein kinase"
+      },
+      {
+        "abbr": "MI",
+        "definition": "Myocardial infarction"
       }
     ],
-    "notes": "Page lists declarations of interest for the expert during calls for declaration covering previous calendar year up to and including 2020."
+    "page_notes": "Page contains a list of clinical abbreviations and their definitions related to cardiology trials, left ventricular measurements, and therapies."
   },
   "genes": []
 }

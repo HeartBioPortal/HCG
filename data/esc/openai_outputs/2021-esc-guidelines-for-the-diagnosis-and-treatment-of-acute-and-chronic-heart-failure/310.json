@@ -1,0 +1,55 @@
+{
+  "content": {
+    "title": "Management of patients receiving potential cardiotoxic treatments",
+    "flowchart_summary": {
+      "before_treatment": "Baseline risk assessment including clinical assessment, ECG, resting echocardiogram and cardiac biomarkers (NP, troponin). Identify pre-existing heart failure or high-risk cardiovascular disease.",
+      "risk_stratification": "Patients classified as medium- and high-risk versus low-risk.",
+      "during_treatment": {
+        "medium_high_risk": "Increased surveillance with ECG and cardiac biomarkers during treatment. Reassessment at 3 months and 12 months after completion of cancer therapy.",
+        "low_risk": "Standard surveillance during treatment. Reassessment at 12 months after completion of cancer therapy."
+      },
+      "after_treatment": "Surveillance every 5 years following therapies with established cardiotoxicity (e.g., high-dose anthracycline chemotherapy). Follow-up by heart failure or cardio-oncology team for new heart failure or left ventricular systolic dysfunction."
+    },
+    "surveillance_timing_notes": {
+      "increased_surveillance_interval": "Intended between 1 and 4 weeks (footnote).",
+      "standard_surveillance_interval": "Intended every 3 months (footnote).",
+      "long_term_follow_up": "Yearly/5-yearly clinical review every 5 years with history, examination, NP and troponin levels, and echocardiogram."
+    },
+    "therapies_mentioned_with_cardiac_risk": [
+      "Anthracycline chemotherapy",
+      "Trastuzumab and HER2-targeted therapies",
+      "VEGF inhibitors",
+      "Proteasome inhibitors",
+      "Combination RAF+MEK inhibitors"
+    ],
+    "abbreviations_expanded": {
+      "ECG": "Electrocardiogram",
+      "NP": "Natriuretic peptide",
+      "HER2": "Human epidermal growth factor receptor 2",
+      "VEGF": "Vascular endothelial growth factor",
+      "MEK": "Mitogen-activated protein kinase kinase (MEK)",
+      "HFA-ICOS": "HFA-ICOS baseline cardiovascular risk proformas (Heart Failure Association - International Cardio-Oncology Society)"
+    },
+    "references_notes": "Figure 18 from ESC guideline page showing management algorithm and footnotes describing surveillance intervals and examples of cardiotoxic therapies."
+  },
+  "genes": [
+    {
+      "Gene": "ERBB2 (HER2)",
+      "Associated Conditions": [
+        "Cancer (HER2-targeted therapies)",
+        "Cancer therapy-related cardiotoxicity / heart failure"
+      ],
+      "Occurrences": 2,
+      "context": "Defined as 'human epidermal growth factor receptor 2' in the abbreviations and referenced in the text/footnote as 'trastuzumab and HER2 targeted therapies' listed among therapies with cardiotoxic risk."
+    },
+    {
+      "Gene": "VEGFA (VEGF)",
+      "Associated Conditions": [
+        "Cancer (VEGF inhibitors)",
+        "Cancer therapy-related cardiotoxicity / heart failure"
+      ],
+      "Occurrences": 2,
+      "context": "Listed in abbreviations as 'VEGF vascular endothelial growth factor' and mentioned in the footnote as 'VEGF inhibitors' among therapies with established cardiotoxicity."
+    }
+  ]
+}

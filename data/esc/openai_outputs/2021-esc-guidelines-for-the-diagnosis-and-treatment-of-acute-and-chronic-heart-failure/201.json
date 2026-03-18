@@ -1,0 +1,47 @@
+{
+  "content": {
+    "title": "Criteria for definition of advanced heart failure",
+    "source": "Table 13 (page image)",
+    "summary": "All the following criteria must be present despite optimal medical treatment.",
+    "criteria": [
+      {
+        "number": 1,
+        "text": "Severe and persistent symptoms of heart failure [NYHA class III (advanced) or IV]."
+      },
+      {
+        "number": 2,
+        "text": "Severe cardiac dysfunction defined by at least one of the following:",
+        "subcriteria": [
+          "LVEF ≤30% (left ventricular ejection fraction)",
+          "Isolated RV failure (e.g., ARVC)",
+          "Non-operable severe valve abnormalities",
+          "Non-operable severe congenital abnormalities",
+          "Persistently high (or increasing) BNP or NT-proBNP values and severe LV diastolic dysfunction or structural abnormalities (according to the definitions of HFpEF)"
+        ]
+      },
+      {
+        "number": 3,
+        "text": "Episodes of pulmonary or systemic congestion requiring high-dose i.v. diuretics (or diuretic combinations) or episodes of low output requiring inotropes or vasoactive drugs or malignant arrhythmias causing >1 unplanned visit or hospitalization in the last 12 months."
+      },
+      {
+        "number": 4,
+        "text": "Severe impairment of exercise capacity with inability to exercise or low 6MWT distance (<300 m) or pVO2 <12 mL/kg/min or <50% predicted value, estimated to be of cardiac origin."
+      }
+    ],
+    "duplicates_and_notes": "The table/criteria text appears duplicated on the page image; content above reflects the repeated blocks consolidated into one structured representation.",
+    "abbreviations_present": [
+      "NYHA",
+      "LVEF",
+      "RV",
+      "ARVC",
+      "BNP",
+      "NT-proBNP",
+      "LV",
+      "HFpEF",
+      "i.v.",
+      "6MWT",
+      "pVO2"
+    ]
+  },
+  "genes": []
+}

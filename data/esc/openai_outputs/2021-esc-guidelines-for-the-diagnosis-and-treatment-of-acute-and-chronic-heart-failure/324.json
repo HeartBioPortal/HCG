@@ -1,0 +1,37 @@
+{
+  "content": {
+    "title": "Initial diagnostic assessment in patients with suspected cardiomyopathy (Table 26)",
+    "notes": "Assessment items for suspected cardiomyopathy; table repeated on page.",
+    "items": [
+      {
+        "name": "History",
+        "description": "Detailed questions on any systemic disease, exposure to toxic agents (chemotherapy, alcohol, drugs), and familial history of cardiac or neuromuscular disease, or sudden cardiac death in family members at young age (<50 years)."
+      },
+      {
+        "name": "Laboratory exams",
+        "description": "Includes cardiac and muscular enzymes, liver and renal function, haemoglobin, white blood cell count (including differential to detect eosinophilia), natriuretic peptides, thyroid function tests, iron status, and markers of systemic autoimmune disease (hsCRP, anti-nuclear antibodies, soluble IL-2 receptor)."
+      },
+      {
+        "name": "Standard 12-lead ECG and echocardiography",
+        "description": "To detect arrhythmias and assess cardiac structure and function and concomitant abnormalities."
+      },
+      {
+        "name": "Invasive coronary angiography or CTCA",
+        "description": "To rule out significant coronary artery disease (CAD) in patients with cardiac dysfunction."
+      },
+      {
+        "name": "CMR imaging",
+        "description": "Cardiac MRI with T1 and T2 sequencing and LGE to visualize structural changes, storage, infiltration, inflammation, fibrosis and scarring."
+      },
+      {
+        "name": "Genetic counselling and genetic testing",
+        "description": "Should be performed depending on age, family history, and cardiac phenotype."
+      },
+      {
+        "name": "24 or 48-hour ambulatory ECG monitoring",
+        "description": "To detect atrial and ventricular arrhythmias."
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,90 @@
+{
+  "content": {
+    "Multivessel disease in haemodynamically stable STEMI patients undergoing PPCI": [
+      {
+        "recommendation": "Complete revascularization is recommended either during the index PCI procedure or within 45 days.",
+        "Class": "I",
+        "Level": "A",
+        "citations": [
+          "508–511",
+          "531"
+        ]
+      },
+      {
+        "recommendation": "It is recommended that PCI of the non-IRA is based on angiographic severity.",
+        "Class": "I",
+        "Level": "B",
+        "citations": [
+          "511",
+          "524"
+        ]
+      },
+      {
+        "recommendation": "Invasive epicardial functional assessment of non-culprit segments of the IRA is not recommended during the index procedure.",
+        "Class": "III",
+        "Level": "C"
+      }
+    ],
+    "Multivessel disease in haemodynamically stable NSTE-ACS patients undergoing PCI": [
+      {
+        "recommendation": "In patients presenting with NSTE-ACS and MVD, complete revascularization should be considered, preferably during the index procedure.",
+        "Class": "IIa",
+        "Level": "C",
+        "citations": [
+          "513",
+          "514"
+        ]
+      },
+      {
+        "recommendation": "Functional invasive evaluation of non-IRA severity during the index procedure may be considered.",
+        "Class": "IIb",
+        "Level": "B",
+        "citations": [
+          "518",
+          "527",
+          "528",
+          "532"
+        ]
+      }
+    ],
+    "General recommendations": [
+      {
+        "recommendation": "It is recommended to base the revascularization strategy (IRA PCI, multivessel PCI/CABG) on the patient's clinical status and comorbidities, as well as their disease complexity, according to the principles of management of myocardial revascularization.",
+        "Class": "I",
+        "Level": "B",
+        "citations": [
+          "480",
+          "481"
+        ]
+      }
+    ],
+    "Multivessel disease in ACS patients presenting in cardiogenic shock": [
+      {
+        "recommendation": "IRA-only PCI during the index procedure is recommended.",
+        "Class": "I",
+        "Level": "B",
+        "citations": [
+          "404",
+          "505"
+        ]
+      },
+      {
+        "recommendation": "Staged PCI of non-IRA should be considered.",
+        "Class": "IIa",
+        "Level": "C"
+      }
+    ],
+    "Abbreviations_and_notes": {
+      "ACS": "acute coronary syndrome",
+      "CABG": "coronary artery bypass grafting",
+      "IRA": "infarct-related artery",
+      "MVD": "multivessel disease",
+      "NSTE-ACS": "non-ST-elevation acute coronary syndrome",
+      "PCI": "percutaneous coronary intervention",
+      "PPCI": "primary percutaneous coronary intervention",
+      "STEMI": "ST-elevation myocardial infarction",
+      "Notes": "Class = class of recommendation; Level = level of evidence; some recommendations based on ischaemia, symptoms, comorbidities, and clinical condition."
+    }
+  },
+  "genes": []
+}

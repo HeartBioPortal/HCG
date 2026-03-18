@@ -1,0 +1,58 @@
+{
+  "content": {
+    "title": "Recommendations for fibrinolytic therapy",
+    "summary": "Guideline table summarizing recommendations for use of fibrinolytic therapy, antiplatelet co‑therapy, and anticoagulation co‑therapy in patients for whom fibrinolysis is the reperfusion strategy.",
+    "recommendations": [
+      {
+        "section": "Fibrinolytic therapy",
+        "recommendation": "When fibrinolysis is the reperfusion strategy, initiate treatment as soon as possible after diagnosis in the pre‑hospital setting (aim for target of <10 min to lytic bolus).",
+        "class": "I",
+        "level": "A"
+      },
+      {
+        "section": "Fibrinolytic therapy",
+        "recommendation": "Use a fibrin‑specific agent (examples listed: tenecteplase, alteplase, or reteplase).",
+        "class": "I",
+        "level": "B"
+      },
+      {
+        "section": "Fibrinolytic therapy",
+        "recommendation": "Consider a half‑dose of tenecteplase in patients >75 years of age.",
+        "class": "IIa",
+        "level": "B"
+      },
+      {
+        "section": "Antiplatelet co‑therapy with fibrinolysis",
+        "recommendation": "Aspirin and clopidogrel are recommended.",
+        "class": "I",
+        "level": "A"
+      },
+      {
+        "section": "Anticoagulation co‑therapy with fibrinolysis",
+        "recommendation": "Anticoagulation is recommended in patients treated with fibrinolysis until revascularization (if performed) or for the duration of hospital stay (up to 8 days).",
+        "class": "I",
+        "level": "A"
+      },
+      {
+        "section": "Anticoagulation co‑therapy with fibrinolysis",
+        "recommendation": "Enoxaparin i.v. followed by s.c. is recommended as the preferred anticoagulant.",
+        "class": "I",
+        "level": "A"
+      },
+      {
+        "section": "Anticoagulation co‑therapy with fibrinolysis",
+        "recommendation": "When enoxaparin is not available, unfractionated heparin (UFH) is recommended as a weight‑adjusted i.v. bolus followed by infusion.",
+        "class": "I",
+        "level": "B"
+      },
+      {
+        "section": "Anticoagulation co‑therapy with fibrinolysis",
+        "recommendation": "In patients treated with streptokinase, an i.v. bolus of fondaparinux followed by an s.c. dose 24 h later should be considered.",
+        "class": "IIa",
+        "level": "B"
+      }
+    ],
+    "notes": "Abbreviations used on page: i.v. = intravenous; s.c. = subcutaneous; UFH = unfractionated heparin. The table includes citation references supporting each recommendation (not transcribed)."
+  },
+  "genes": []
+}

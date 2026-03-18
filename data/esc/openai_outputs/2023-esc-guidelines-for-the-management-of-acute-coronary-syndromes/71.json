@@ -1,75 +1,32 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "note": "Declarations of interest reported to the ESC by experts during yearly call covering previous calendar year (calls conducted during development period up to and including 2022). Page lists each expert and their type of relationship with industry by year.",
-    "experts": [
+    "Recommendations_summary": "Base diagnosis and initial short-term risk stratification of ACS on a combination of clinical history, symptoms, vital signs, other physical findings, ECG, and hs-cTn.",
+    "ECG_recommendations": [
       {
-        "id": "Expert 1",
-        "years": [
-          {
-            "year": 2021,
-            "declarations": [
-              "Abbott Laboratories: Dyslipidaemia",
-              "Vifor International: Iron Deficiency",
-              "Menarini: Ischaemic heart disease / arterial hypertension",
-              "AstraZeneca: speakers fees"
-            ]
-          },
-          {
-            "year": 2022,
-            "declarations": [
-              "AstraZeneca: Chronic Heart Failure",
-              "Vifor International: Chronic Heart Failure",
-              "Menarini: Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS)",
-              "Abbott Laboratories: Risk Factors and Prevention",
-              "Membership/affiliation in political or advocacy groups working in cardiology: Scientific Board of Heart Failure Policy Network"
-            ]
-          }
-        ]
+        "recommendation": "Twelve-lead ECG recording and interpretation is recommended as soon as possible at the point of FMC, with a target of <10 min.",
+        "class": "I",
+        "level": "B",
+        "notes": "Target time from first medical contact (FMC) is under 10 minutes."
       },
       {
-        "id": "Expert 2",
-        "years": [
-          {
-            "year": 2021,
-            "declarations": [
-              "Bristol Myers Squibb: Atrial fibrillation",
-              "Novo Nordisk: Diabetes and heart",
-              "Vifor International: Heart failure",
-              "Pfizer: Oral anticoagulants"
-            ]
-          },
-          {
-            "year": 2022,
-            "declarations": [
-              "Bristol Myers Squibb: Atrial Fibrillation (AF)",
-              "Novo Nordisk: Cardiovascular Disease in Special Populations"
-            ]
-          }
-        ]
+        "recommendation": "Continuous ECG monitoring and availability of defibrillator capacity is recommended as soon as possible in all patients with suspected STEMI, in suspected ACS with other ECG changes or ongoing chest pain, and once the diagnosis of MI is made.",
+        "class": "I",
+        "level": "B",
+        "notes": "Applies to suspected STEMI, ACS with other ECG changes, ongoing chest pain, and after MI diagnosis."
       },
       {
-        "id": "Expert 3",
-        "years": [
-          {
-            "year": 2021,
-            "declarations": [
-              "Pfizer: speaker honorarium fee to the University of Baskent"
-            ]
-          },
-          {
-            "year": 2022,
-            "declarations": [
-              "Nothing to be declared"
-            ]
-          }
-        ]
+        "recommendation": "Use of additional ECG leads (V3R, V4R, and V7–V9) is recommended in cases of inferior STEMI or if total vessel occlusion is suspected and standard leads are inconclusive.",
+        "class": "I",
+        "level": "B",
+        "notes": "Additional posterior and right-sided leads recommended when standard leads are inconclusive or inferior STEMI suspected."
+      },
+      {
+        "recommendation": "An additional 12-lead ECG is recommended in cases with recurrent symptoms or diagnostic uncertainty.",
+        "class": "I",
+        "level": "C",
+        "notes": "Repeat 12-lead ECG for recurrent symptoms or uncertain diagnosis."
       }
-    ],
-    "page_footer": {
-      "date": "16/05/2023",
-      "page": "47/57"
-    }
+    ]
   },
   "genes": []
 }

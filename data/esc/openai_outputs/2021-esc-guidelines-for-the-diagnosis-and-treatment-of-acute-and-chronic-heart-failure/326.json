@@ -1,0 +1,30 @@
+{
+  "content": {
+    "title": "Dilated cardiomyopathy / hypokinetic non-dilated cardiomyopathy (DCM / HNDC) - selected page",
+    "monitoring": "24 or 48-hour ambulatory ECG monitoring to detect atrial and ventricular arrhythmias.",
+    "abbreviations_and_markers": "CAD=coronary artery disease; CMR=cardiac magnetic resonance; CTCA=computed tomography coronary angiography; ECG=electrocardiogram; hsCRP=high-sensitivity C-reactive protein; IL-2=interleukin-2; LGE=late gadolinium enhancement.",
+    "treatment_summary": "Pharmacological treatment of HF in DCM, HCM, or AC largely follows general HF management. TRED-HF pilot showed relapse of DCM in 44% after withdrawing therapy in some non-ischaemic DCM patients. EXPLORER-HCM (mavacamten) improved exercise capacity and symptoms in obstructive HCM. ICD implantation should be considered for patients with DCM, HCM, or AC depending on risk factors including presence of significant LGE on CMR, younger age, or specific familial/genetic phenotype.",
+    "diagnostic_criteria": "DCM: LV dilatation and systolic dysfunction in absence of known abnormal loading conditions or significant CAD. HNDC: LV or biventricular global systolic dysfunction (LVEF <45%) without dilatation in absence of known abnormal loading conditions or significant CAD. DCM and HNDC may be considered familial if two or more first- or second-degree relatives have DCM or HNDC, or a first-degree relative has autopsy-proven DCM and sudden death at <50 years.",
+    "genetic_counselling_recommendation": "Genetic counselling and genetic testing should be performed depending on age, family history, cardiac phenotype. All patients with a diagnosis of DCM or HNDC and all first-degree adult relatives of these patients should be offered testing to identify a definite disease-causing mutation and genetically affected individuals at a preclinical phase."
+  },
+  "genes": [
+    {
+      "Gene": "IL2",
+      "Associated Conditions": [
+        "Referenced as an inflammatory/immunologic marker in cardiology context",
+        "Mentioned in list of abbreviations related to cardiac investigations"
+      ],
+      "Occurrences": 1,
+      "context": "Abbreviations line: 'hsCRP=high-sensitivity C-reactive protein; IL-2=interleukin-2; LGE=late gadolinium enhancement.'"
+    },
+    {
+      "Gene": "CRP",
+      "Associated Conditions": [
+        "Referenced as high-sensitivity C-reactive protein (inflammation biomarker) in cardiac disease context",
+        "Used as biomarker in cardiovascular assessment"
+      ],
+      "Occurrences": 1,
+      "context": "Abbreviations line: 'hsCRP=high-sensitivity C-reactive protein; IL-2=interleukin-2; LGE=late gadolinium enhancement.'"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "content": {
+    "source": "ESC 2021 (image)",
+    "table_title": "Recommendations for coronary revascularization in patients with HFrEF/CCS",
+    "references_shown": [
+      "581",
+      "587",
+      "588",
+      "590"
+    ],
+    "recommendations": [
+      {
+        "text": "CABG should be considered as the first-choice revascularization strategy, in patients suitable for surgery, especially if they have diabetes and for those with multivessel disease.",
+        "class": "IIa",
+        "level": "B",
+        "notes": "explicitly recommends CABG as first-choice in suitable surgical candidates with diabetes or multivessel disease."
+      },
+      {
+        "text": "Coronary revascularization should be considered to relieve persistent symptoms of angina (or an angina-equivalent) in patients with HFrEF, CCS, and coronary anatomy suitable for revascularization, despite OMT including anti-anginal drugs.",
+        "class": "IIa",
+        "level": "C",
+        "notes": "addresses symptomatic relief in HFrEF and CCS despite optimal medical therapy (OMT)."
+      },
+      {
+        "text": "In LVAD candidates needing coronary revascularization, CABG should be avoided, if possible.",
+        "class": "IIa",
+        "level": "C",
+        "notes": "advice specific to patients being considered for left ventricular assist device (LVAD)."
+      },
+      {
+        "text": "Coronary revascularization may be considered to improve outcomes in patients with HFrEF, CCS, and coronary anatomy suitable for revascularization, after careful evaluation of the individual risk to benefit ratio, including coronary anatomy (i.e. proximal stenosis >90% of large vessels, stenosis of left main or proximal LAD), comorbidities, life expectancy, and patient's perspectives.",
+        "class": "IIb",
+        "level": "C",
+        "notes": "emphasizes individualized decision-making; cites specific anatomic thresholds (proximal stenosis >90%, left main or proximal LAD involvement)."
+      },
+      {
+        "text": "PCI may be considered as an alternative to CABG, based on Heart Team evaluation, considering coronary anatomy, comorbidities, and surgical risk.",
+        "class": "IIb",
+        "level": "C",
+        "notes": "states PCI as an alternative to CABG after Heart Team assessment."
+      }
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,46 @@
+{
+  "content": {
+    "title": "Antiplatelet agents and GP IIb/IIIa inhibitors (extracted dosing and notes)",
+    "Clopidogrel": {
+      "Loading dose": "300–600 mg orally",
+      "Maintenance dose": "75 mg once daily",
+      "Fibrinolysis note": "At time of fibrinolysis initial dose 300–600 mg (75 mg for patients older than 75 years of age).",
+      "Renal adjustment": "No specific dose adjustment in CKD patients"
+    },
+    "Prasugrel": {
+      "Loading dose": "60 mg orally",
+      "Maintenance dose": "10 mg once daily (5 mg once daily recommended if body weight <60 kg)",
+      "Older patients": "Use with caution in patients aged ≥75 years; 5 mg once daily may be used if treatment deemed necessary",
+      "Contraindications/precautions": "Prior stroke is a contraindication",
+      "Renal adjustment": "No specific dose adjustment in CKD patients"
+    },
+    "Ticagrelor": {
+      "Loading dose": "180 mg orally",
+      "Maintenance dose": "90 mg twice daily",
+      "Renal adjustment": "No specific dose adjustment in CKD patients"
+    },
+    "Cangrelor": {
+      "IV dosing": "Bolus 30 mcg/kg i.v. followed by infusion 4 mcg/kg/min for at least 2 hours or for duration of procedure (whichever longer)",
+      "Transition to oral P2Y12 inhibitors": "When switching to a thienopyridine, give thienopyridine immediately after discontinuation of cangrelor with an oral LD (e.g., clopidogrel 600 mg or prasugrel 60 mg). To avoid drug–drug interaction, prasugrel may be given 30 min before cangrelor infusion is stopped. Ticagrelor (LD 180 mg) should be given at time of PCI to minimize gap in platelet inhibition.",
+      "Special note": "Used to minimize platelet inhibition gap during transition phase"
+    },
+    "GP IIb/IIIa receptor inhibitors (i.v.)": {
+      "Agents listed": [
+        "Eptifibatide",
+        "Tirofiban"
+      ]
+    },
+    "Eptifibatide": {
+      "Dosing general": "Double bolus 180 mcg/kg i.v. (given at a 10-min interval) followed by infusion 2.0 mcg/kg/min for up to 18 hours",
+      "Renal adjustment": "Dose and infusion reduced for reduced creatinine clearance (CrCl) — (CrCl-based dosing adjustments described for lower CrCl, with reduced maintenance infusion rate and bolus considerations)",
+      "PCI dosing": "If PCI, a second bolus 180 mcg/kg i.v. (max specified) should be administered 10 min after first bolus",
+      "Contraindications": "Contraindicated in patients with end-stage renal disease and with prior intracranial hemorrhage (ICH), ischemic stroke within 30 days, recent fibrinolysis, or platelet count <100,000/mm3"
+    },
+    "Tirofiban": {
+      "Dosing general": "Bolus 25 mcg/kg i.v. over 3 minutes followed by infusion 0.15 mcg/kg/min for up to 18 hours",
+      "Renal adjustment": "For CrCl <60 mL/min: give LD 25 mcg/kg i.v. over 5 minutes followed by maintenance infusion 0.075 mcg/kg/min continued for up to 18 hours",
+      "Contraindications": "Contraindicated in patients with prior intracranial hemorrhage (ICH), ischemic stroke within 30 days, recent fibrinolysis, or platelet count <100,000/mm3"
+    }
+  },
+  "genes": []
+}

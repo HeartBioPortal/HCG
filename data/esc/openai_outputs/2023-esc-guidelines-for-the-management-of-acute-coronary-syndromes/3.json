@@ -1,118 +1,59 @@
 {
   "content": {
-    "document_title": "2023 ESC Guidelines for the management of acute coronary syndromes - Task Force Members",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "Declarations of interest reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during the period of development of guidelines up to and including 2022).",
-    "page_footer": {
-      "date": "12/05/2023",
-      "page": "2/23"
-    },
-    "entries": [
+    "source": "Author list from clinical guideline page (authors with countries, ORCIDs, and research-links)",
+    "authors": [
       {
-        "expert": "Berry Colin",
-        "declarations": [
-          {
-            "year": 2021,
-            "items": [
-              {
-                "type": "Payment from healthcare industry for personal services",
-                "details": "Speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-                "companies_conditions": [
-                  {
-                    "company": "Abbott Vascular",
-                    "condition": "Ischaemic heart disease"
-                  },
-                  {
-                    "company": "Astrazeneca",
-                    "condition": "Ischaemic heart disease, COVID-19"
-                  }
-                ]
-              },
-              {
-                "type": "Research funding from healthcare industry (to department/institution)",
-                "companies_conditions": [
-                  {
-                    "company": "Astrazeneca",
-                    "condition": "COVID-19"
-                  },
-                  {
-                    "company": "HeartFlow",
-                    "condition": "COVID-19"
-                  },
-                  {
-                    "company": "Somalogic",
-                    "condition": "COVID-19"
-                  },
-                  {
-                    "company": "Abbott Vascular",
-                    "condition": "Ischaemic heart disease"
-                  }
-                ]
-              },
-              {
-                "type": "Direct ownership / financial interest",
-                "details": "Shares or direct financial interest in healthcare, media, education companies or companies related to suppliers; in competition with the ESC mission.",
-                "example": "Media - Kvattchi health app - not active"
-              }
-            ]
-          },
-          {
-            "year": 2022,
-            "items": [
-              {
-                "type": "Payment from healthcare industry for personal services",
-                "details": "Speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-                "companies_conditions": [
-                  {
-                    "company": "Abbott Vascular",
-                    "condition": "Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS)"
-                  },
-                  {
-                    "company": "Astrazeneca",
-                    "condition": "Coronary Artery Disease (Chronic) / Chronic Coronary Syndromes (CCS)"
-                  }
-                ]
-              },
-              {
-                "type": "Travel and meeting support from healthcare industry",
-                "details": "Independent of the above activities.",
-                "companies": [
-                  "Menarini (Interventional Cardiology)"
-                ]
-              },
-              {
-                "type": "Research funding from healthcare industry (to department/institution)",
-                "items": [
-                  {
-                    "company": "Astrazeneca",
-                    "study": "CISCO-19 study - biomarkers analyses",
-                    "clinicaltrials_gov_identifier": "NCT04403607",
-                    "role": "Chief Investigator"
-                  },
-                  {
-                    "company": "Somalogic",
-                    "study": "CISCO-19 study - biomarkers analyses",
-                    "clinicaltrials_gov_identifier": "NCT04403607",
-                    "role": "Chief Investigator"
-                  },
-                  {
-                    "company": "HeartFlow",
-                    "detail": "HeartFlow connect",
-                    "role": "Chief Investigator"
-                  },
-                  {
-                    "company": "Abbott Vascular",
-                    "study": "ICorMicA clinical trial support",
-                    "clinicaltrials_gov_identifier": "NCT04674449",
-                    "role": "Chief Investigator"
-                  }
-                ]
-              }
-            ]
-          }
+        "name": "Mary Galbraith",
+        "country": "United Kingdom",
+        "orcid": "https://orcid.org/0000-0002-4196-1815",
+        "search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ]
+      },
+      {
+        "name": "Martine Gilard",
+        "country": "France",
+        "orcid": null,
+        "search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ]
+      },
+      {
+        "name": "Lynne Hinterbuchner",
+        "country": "Austria",
+        "orcid": "https://orcid.org/0000-0001-5369-7399",
+        "search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ]
+      },
+      {
+        "name": "Ewa A Jankowska",
+        "country": "Poland",
+        "orcid": "https://orcid.org/0000-0002-9202-432X",
+        "search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
+        ]
+      },
+      {
+        "name": "Peter Jüni",
+        "country": "United Kingdom",
+        "orcid": null,
+        "search_links": [
+          "Oxford Academic",
+          "PubMed",
+          "Google Scholar"
         ]
       }
-    ]
+    ],
+    "notes": "Page image shows an author roster with ORCID links and search links for each author. No clinical genes or gene symbols are present on the page."
   },
   "genes": []
 }

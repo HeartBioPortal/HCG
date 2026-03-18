@@ -1,0 +1,47 @@
+{
+  "content": {
+    "unlabeled": {
+      "title": "Antithrombotic monotherapy after DAPT",
+      "knowledge_gaps": [
+        "Uncertainty about optimal antithrombotic monotherapy in ACS patients who have undergone PCI.",
+        "Need for head-to-head comparison based on superiority between aspirin monotherapy and clopidogrel monotherapy after stopping DAPT."
+      ],
+      "recommended_research": [
+        "RCTs evaluating the benefit–risk balance for ischaemic and bleeding events for different durations of antithrombotic therapy.",
+        "A head-to-head randomized superiority trial comparing aspirin versus clopidogrel monotherapy after DAPT."
+      ]
+    },
+    "7": {
+      "title": "Acute coronary syndrome with unstable presentation",
+      "knowledge_gaps": [
+        "The role of percutaneous mechanical circulatory support (MCS) devices in patients presenting with ACS and cardiogenic shock (CS) remains unclear."
+      ],
+      "recommended_research": [
+        "Randomized comparisons between standard of care and percutaneous MCS devices in ACS with CS."
+      ]
+    },
+    "8": {
+      "title": "Management of acute coronary syndrome during hospitalization",
+      "knowledge_gaps": [
+        "Whether clinical improvement can be achieved through the use of risk stratification based on validated risk prediction models."
+      ],
+      "recommended_research": [
+        "Randomized trials with patients assigned to a particular intervention versus usual care guided by validated risk prediction models to assess clinical benefit."
+      ]
+    },
+    "9": {
+      "title": "Technical aspects of invasive strategies",
+      "knowledge_gaps": [
+        "Does intravascular imaging–guided revascularization strategy improve clinical outcomes in patients with ACS?",
+        "Does intracoronary physiology assessment of myocardial reperfusion after primary PCI (PPCI) improve risk stratification and enable stratified therapies to limit microvascular dysfunction/reperfusion injury and microvascular obstruction (MVO) post-ACS?",
+        "In ACS patients with an infarct-related artery (IRA) that is unsuitable for stent implantation, does drug-coated balloon treatment of the IRA improve clinical outcomes?"
+      ],
+      "recommended_research": [
+        "RCTs evaluating the efficacy of an intravascular imaging–guided revascularization strategy to improve meaningful clinical outcomes in patients with ACS.",
+        "Prospective evaluation of whether intracoronary physiology assessment of myocardial reperfusion better stratifies patient risk.",
+        "Randomized trials in patients with an IRA unsuitable for stent implantation comparing drug-coated balloon treatment versus usual care to evaluate clinical outcomes."
+      ]
+    }
+  },
+  "genes": []
+}

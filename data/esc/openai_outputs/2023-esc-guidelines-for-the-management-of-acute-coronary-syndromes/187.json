@@ -1,0 +1,28 @@
+{
+  "content": {
+    "antithrombotic_strategy": "Preference for a NOAC over VKA for default strategy when no contraindications. For both TAT and DAT regimens, recommended NOAC doses listed; NOAC dose reductions based on renal function, body weight, concomitant meds and age.",
+    "NOAC_recommendations": [
+      "Apixaban 5 mg b.i.d.",
+      "Dabigatran 110 mg or 150 mg b.i.d.",
+      "Edoxaban 60 mg o.d.",
+      "Rivaroxaban 15 mg or 20 mg o.d."
+    ],
+    "SAPT_recommendation": "Preference for a P2Y12 receptor inhibitor (usually clopidogrel) over aspirin for single antiplatelet therapy (SAPT).",
+    "DAT_TAT_duration": "DAT may be shortened to 6 months by withdrawing antiplatelet therapy in certain patients; TAT may be prolonged up to 1 month followed by DAT for up to 12 months in high ischemic risk patients.",
+    "ticagrelor_prasugrel_note": "Limited evidence to support use of OAC with ticagrelor or prasugrel as DAT after ACS/PCI; ticagrelor and prasugrel were used in small percentages in pivotal RCTs.",
+    "medically_managed_ACS": "Current data support DAT over TAT with a single antiplatelet agent (most commonly clopidogrel) for at least 6 months in medically managed ACS patients.",
+    "AUGUSTUS_trial": "In AUGUSTUS, apixaban reduced bleeding events vs VKA in medically managed ACS patients; no significant differences in death or ischaemic events.",
+    "AFIRE_trial": "AFIRE randomized AF patients with prior PCI/CABG or documented CAD to rivaroxaban monotherapy vs combination; rivaroxaban monotherapy was non-inferior for efficacy and superior for major bleeding, supporting stopping antiplatelet therapy after 12 months and continuing OAC monotherapy in most patients."
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "Single antiplatelet therapy (SAPT) preference over aspirin",
+        "Antiplatelet therapy after ACS/PCI"
+      ],
+      "Occurrences": 1,
+      "context": "SAPT: preference for a P2Y12 receptor inhibitor (usually clopidogrel) over aspirin."
+    }
+  ]
+}

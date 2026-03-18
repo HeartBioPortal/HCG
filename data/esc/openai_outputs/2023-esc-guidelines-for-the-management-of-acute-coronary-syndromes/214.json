@@ -1,0 +1,20 @@
+{
+  "content": {
+    "9.1.5 Embolic protection and microvascular salvage strategies": {
+      "9.1.5.1 Thrombus aspiration (summary)": "Large randomized trials did not show clinical benefit for routine manual thrombus aspiration compared with conventional PPCI. Patient-level meta-analysis showed fewer CV deaths but more strokes or TIAs in a subgroup with high thrombus burden (TIMI thrombus Grade 3). Routine aspiration did not improve 1-year outcomes in TOTAL and was associated with increased stroke rate in patients with high thrombus burden. In NSTE-ACS with thrombus-containing lesions, adjunctive thrombus aspiration did not reduce microvascular obstruction (MVO) at 4 days or reduce MACE up to 1 year. Recommendation: routine thrombus aspiration is not recommended; may be considered in cases of large residual thrombus burden after opening the vessel with a guide wire or balloon."
+    },
+    "9.1.5.2 Interventions to protect the microcirculation (summary)": {
+      "key_points": "Myocardial damage during AMI is driven by ischaemia–reperfusion injury. Infarct size and MVO are independent predictors of long-term mortality and heart failure in survivors of STEMI. Strategies to reduce ischaemia/reperfusion injury and MVO remain an unmet clinical need. Further experimental/clinical interventions are referenced in supplementary data.",
+      "clinical_implication": "No definitive proven clinical interventions to reliably reduce MVO; ongoing research and supplementary materials available."
+    },
+    "9.2 Coronary artery bypass grafting": {
+      "9.2.1 Indication and timing of CABG in acute coronary syndrome patients (summary)": {
+        "overall": "No dedicated RCTs directly compare percutaneous vs surgical revascularization in ACS. In STEMI, CABG should be considered only when PPCI is not feasible, particularly with ongoing ischaemia or large areas of jeopardized myocardium.",
+        "timing_and_preference": "In very high-risk NSTE-ACS requiring immediate revascularization, PCI is usually preferred for timeliness unless mechanical complications mandate surgery. For other ACS patients, choice of revascularization modality should be based on number of diseased vessels and general myocardial revascularization principles.",
+        "multivessel_disease_considerations": "In MVD, modality choice influenced by anatomical complexity and comorbidities (including diabetes). Consider predicted surgical risk and suitability for either modality. Recommendations are based on pooled meta-analyses and individual-patient data.",
+        "clinical_implication": "CABG reserved when PCI/PPCI not feasible or anatomy/comorbidity profile favors surgical approach."
+      }
+    }
+  },
+  "genes": []
+}

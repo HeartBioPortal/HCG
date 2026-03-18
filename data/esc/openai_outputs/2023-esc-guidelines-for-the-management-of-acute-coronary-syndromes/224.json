@@ -1,0 +1,58 @@
+{
+  "content": {
+    "page_summary": "Discussion of randomized trials and meta-analyses assessing complete revascularization strategies in patients with multivessel ST-elevation myocardial infarction (STEMI) undergoing primary PCI (PPCI), comparing FFR-guided versus angiography-guided approaches and implications for timing of non-IRA PCI.",
+    "FLOWER-MI": {
+      "design": "Randomized trial of patients undergoing PPCI with multivessel disease (MVD) assigned to complete revascularization guided by FFR versus angiography.",
+      "sample_size": 1171,
+      "key_findings": "An FFR-guided strategy did not reduce the risk of death, MI, or urgent revascularization at 1 year compared with an angiography-guided approach.",
+      "procedural_data": {
+        "PCI_performed_in_FFR_group": "66.2% of patients",
+        "PCI_performed_in_angio_group": "97.1% of patients",
+        "complete_revascularization_index_procedure": "Only performed in 4% of patients in both groups",
+        "functional_evaluation_timing": "Mainly undertaken at time of second procedure"
+      },
+      "timing_note": "Study design allowed staged complete revascularization as early as possible before discharge and within 5 days of initial procedure."
+    },
+    "meta_analyses": [
+      {
+        "description": "Meta-analysis of 10 RCTs (including patients undergoing PPCI) comparing complete revascularization vs IRA-only PCI.",
+        "sample_size": 3031,
+        "finding": "Preventive PCI of the non-IRA was associated with a significant reduction in cardiac death and non-fatal MI only when the decision to proceed with non-IRA PCI was based solely on angiography (not angiography plus FFR)."
+      },
+      {
+        "description": "Another meta-analysis of seven RCTs assessing patients undergoing PPCI",
+        "sample_size": 6597,
+        "finding": "Reported similar findings regarding benefit of angiography-based decisions for non-IRA PCI."
+      },
+      {
+        "description": "Meta-analysis (pre-dating FLOWER-MI) examining heterogeneity of primary outcome by strategy",
+        "finding": "No heterogeneity in primary outcome when complete revascularization was performed using an FFR-guided strategy (OR 0.78, 95% CI 0.43–1.44) or an angiography-guided strategy (OR 0.61, 95% CI 0.38–0.97); P = 0.52 for interaction."
+      }
+    ],
+    "post_hoc_patient_level_analysis": {
+      "trials_included": "FAME, DANAMI-3-PRIMULTI, and FAMOUS-NSTEMI",
+      "population": "ACS patients",
+      "strategy": "Functionally complete revascularization (PCI of stenosis with FFR ≤0.80; deferral to medical therapy if FFR >0.80)",
+      "finding": "Residual SYNTAX score (proxy of residual coronary stenosis deferred to medical therapy) was not associated with MACE at 2 years, suggesting it may be safe to defer management of functionally non-significant stenoses in the non-IRA."
+    },
+    "FRAME_AMI": {
+      "name": "FRAME AMI (FFR Versus Angiography-Guided Strategy for Management of AMI With Multivessel Disease)",
+      "comparison": "Selective PCI guided by FFR (PCI if FFR ≤0.80) versus routine PCI guided by angiography (PCI if diameter stenosis >50%) for non-IRA lesions in patients presenting with AMI who had successful PCI of the IRA.",
+      "population_details": "Patients presenting with AMI who had undergone successful PCI of the IRA (47% STEMI, 53% NSTEMI).",
+      "sample_size_enrolled": 562,
+      "planned_sample_size": 1292,
+      "follow_up": "Median 3.5 years",
+      "primary_endpoint": "Death, MI, or repeat revascularization",
+      "key_result": "Primary endpoint occurred less frequently in patients randomized to the FFR-guided strategy, mainly driven by differences in patients presenting with NSTEMI.",
+      "limitations": "Trial was terminated early with only 562 of intended 1292 patients enrolled; relatively small number of primary outcome events."
+    },
+    "clinical_implications": [
+      "Complete revascularization during PPCI can be performed either at index procedure or staged; study designs often allowed staged procedures within days.",
+      "Evidence suggests benefit of preventive non-IRA PCI depends on how lesions are selected (angiography alone vs physiology-guided with FFR).",
+      "FFR-guided strategies do not uniformly show superiority over angiography-guided strategies for reduction in death/MI/urgent revascularization at 1 year (FLOWER-MI) but other analyses and trials show mixed results depending on population and endpoints.",
+      "Deferring PCI for lesions that are not functionally significant (FFR >0.80) appears safe in pooled post-hoc analyses with respect to 2-year MACE.",
+      "FRAME AMI suggests possible long-term benefit of FFR-guided selective PCI but was underpowered due to early termination; findings driven largely by NSTEMI subgroup."
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,78 @@
+{
+  "content": {
+    "Profile 7": {
+      "title": "Advanced NYHA class III symptoms",
+      "description": "Patient without current or recent episodes of unstable fluid balance, living comfortably with meaningful activity limited to mild physical exertion.",
+      "note": "Heart transplantation or MCS may not be currently indicated."
+    },
+    "Modifiers for profiles": {
+      "overview": "Situations or interventions that can modify profile assignment.",
+      "temporary_MCS": {
+        "description": "Temporary MCS can modify profile only in hospitalized patients.",
+        "examples": [
+          "IABP",
+          "ECMO",
+          "TandemHeart",
+          "LVAD",
+          "Impella"
+        ],
+        "possible_profiles_modified": [
+          1,
+          2,
+          3
+        ]
+      },
+      "arrhythmia": {
+        "description": "Arrhythmia can modify any profile.",
+        "details": "Includes recurrent ventricular tachyarrhythmias that have recently contributed substantially to clinical compromise, frequent ICD shocks or requirement for external defibrillation, usually more than twice weekly."
+      },
+      "frequent_HF_decompensation": {
+        "description": "Frequent episodes of HF decompensation characterize patients requiring frequent emergency visits or hospitalizations for diuretics, ultrafiltration, or temporary i.v. vasoactive therapy.",
+        "definition": "At least two emergency visits/admissions in the past 3 months or three in the past 6 months.",
+        "possible_profiles_modified": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "note": "Rarely modifies profile 7."
+      }
+    },
+    "Profiles": [
+      {
+        "id": 1,
+        "title": "Critical cardiogenic shock",
+        "description": "Patient with life-threatening hypotension despite rapidly escalating inotropic support, critical organ hypoperfusion, often confirmed by worsening acidosis and/or lactate levels.",
+        "clinical_note": "Often confirmed by worsening acidosis and/or lactate levels; examples include crash and burn presentations.",
+        "time_frame_for_intervention": "Definitive intervention needed within hours."
+      },
+      {
+        "id": 2,
+        "title": "Progressive decline",
+        "description": "Patient with declining function despite i.v. inotropic support, may be manifest by worsening renal function, nutritional depletion, inability to restore volume balance.",
+        "additional": "Also describes declining status in patients unable to tolerate inotropic therapy.",
+        "time_frame_for_intervention": "Definitive intervention needed within few days."
+      },
+      {
+        "id": 3,
+        "title": "Stable on inotrope or inotrope-dependent",
+        "description": "Patient with stable blood pressure, organ function, nutrition, and symptoms on continuous i.v. inotropic support (or a temporary circulatory support device or both) but demonstrating repeated failure to wean from support due to recurrent symptomatic hypotension or renal dysfunction.",
+        "time_frame_for_intervention": "Definitive intervention elective over a period of weeks to few months."
+      },
+      {
+        "id": 4,
+        "title": "Frequent Flyer",
+        "description": "Patient can be stabilized close to normal volume status but experiences daily symptoms of congestion at rest or during activities of daily living. Doses of diuretics generally fluctuate at very high levels. More intensive management and surveillance strategies should be considered.",
+        "note": "Some patients may shuttle between profiles 4 and 5.",
+        "time_frame_for_intervention": "Definitive intervention elective over a period of weeks to few months."
+      },
+      {
+        "id": 5,
+        "title": "Housebound",
+        "description": "Comfortable at rest and with activities of daily living but unable to engage in any other activity, living predominantly within the house. Patients are comfortable at rest without congestive symptoms, but may have underlying issues.",
+        "time_frame_for_intervention": "Variable urgency, depends upon maintenance of nutrition and other factors."
+      }
+    ]
+  },
+  "genes": []
+}

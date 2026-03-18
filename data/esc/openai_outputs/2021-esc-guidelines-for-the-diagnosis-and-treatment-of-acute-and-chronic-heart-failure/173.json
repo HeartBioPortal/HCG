@@ -1,0 +1,48 @@
+{
+  "content": {
+    "title": "Recommendations (ESC 2021)",
+    "recommendations": [
+      {
+        "recommendation": "Treatment of hypertension is recommended to prevent or delay the onset of HF, and to prevent HF hospitalizations.",
+        "class": "I",
+        "level": "A",
+        "references": "287–290"
+      },
+      {
+        "recommendation": "Treatment with statins is recommended in patients at high risk of CV disease or with CV disease in order to prevent or delay the onset of HF, and to prevent HF hospitalizations.",
+        "class": "I",
+        "level": "A",
+        "references": "291, 292"
+      },
+      {
+        "recommendation": "SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, sotagliflozin) are recommended in patients with diabetes at high risk of CV disease or with CV disease in order to prevent HF hospitalizations.",
+        "class": "I",
+        "level": "A",
+        "references": "293–297"
+      },
+      {
+        "recommendation": "Counselling against sedentary habit, obesity, cigarette smoking, and alcohol abuse is recommended to prevent or delay the onset of HF.",
+        "class": "I",
+        "level": "C",
+        "references": "298–302"
+      }
+    ],
+    "abbreviations": {
+      "CV": "cardiovascular",
+      "HF": "heart failure",
+      "SGLT2": "sodium–glucose co-transporter 2"
+    }
+  },
+  "genes": [
+    {
+      "Gene": "SLC5A2 (SGLT2)",
+      "Associated Conditions": [
+        "Type 2 diabetes mellitus",
+        "Cardiovascular disease (high risk or established)",
+        "Prevention of heart failure hospitalizations"
+      ],
+      "Occurrences": 2,
+      "context": "The guideline recommends SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, sotagliflozin) for patients with diabetes at high CV risk or with CV disease to prevent HF hospitalizations; SGLT2 is annotated as sodium–glucose co-transporter 2 (gene SLC5A2)."
+    }
+  ]
+}

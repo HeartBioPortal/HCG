@@ -1,48 +1,69 @@
 {
   "content": {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure - Reviewers",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration conducted every January covering the previous calendar year. Calls for declaration conducted during the period of development of these guidelines up to and including 2020.",
-    "date_on_page": "03/08/2021",
-    "table_columns": [
-      "Expert",
-      "Year",
-      "Type of Relationship with Industry / Financial Declaration"
-    ],
-    "experts": [
+    "Heart transplantation": {
+      "recommendation": "Heart transplantation is recommended for patients with advanced HF, refractory to medical/device therapy and who do not have absolute contraindications.",
+      "class": "I"
+    },
+    "Inotropes and vasopressors": {
+      "recommendation": "Continuous inotropes and/or vasopressors may be considered in patients with low cardiac output and evidence of organ hypoperfusion as bridge to MCS or heart transplantation.",
+      "class": "IIb"
+    },
+    "After HF hospitalization": [
       {
-        "name": "Lassus Johan Paul Eric",
-        "year": 2020,
-        "relationships": [
-          "Vifor International : Heart failure",
-          "Roche Diagnostics : Heart failure",
-          "Pfizer : Oral anticoagulants"
-        ]
+        "recommendation": "Patients hospitalized for HF should be carefully evaluated to exclude persistent signs of congestion before discharge and to optimize oral treatment.",
+        "class": "I"
       },
       {
-        "name": "Leclercq Christophe",
-        "year": 2020,
-        "relationships": [
-          "Financial Declaration: direct personal payment from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-          "Biotronik : device",
-          "Abbott : devices",
-          "Boston Scientific : devices",
-          "Medtronic : devices",
-          "Microport : devices"
-        ]
+        "recommendation": "Evidence-based oral medical treatment should be administered before discharge.",
+        "class": "I"
       },
       {
-        "name": "Lewis Basil S",
-        "year": 2020,
-        "relationships": [
-          "Financial Declaration: direct personal payment from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-          "Vifor International : Heart failure",
-          "Kowa : Lipidology",
-          "CSL Behring : Lipidology, Secondary prevention",
-          "Payment from healthcare industry to department/institution for personal services: Kowa : Lipidology"
-        ]
+        "recommendation": "An early follow-up visit is recommended at 1–2 weeks after discharge to assess signs of congestion, drug tolerance, and start and/or uptitrate evidence-based therapy.",
+        "class": "I"
       }
-    ]
+    ],
+    "HF and atrial fibrillation": {
+      "recommendation": "Long-term treatment with an oral anticoagulant should be considered for stroke prevention in AF patients with a CHA2DS2-VASc score of 1 in men or 2 in women.",
+      "class": "IIa"
+    },
+    "HF and CCS (chronic coronary syndromes)": [
+      {
+        "recommendation": "CABG should be considered as the first-choice revascularization strategy in patients suitable for surgery, especially if they have diabetes and for those with multivessel disease.",
+        "class": "IIa"
+      },
+      {
+        "recommendation": "In LVAD candidates needing coronary revascularization, CABG should be avoided, if possible.",
+        "class": "IIa"
+      },
+      {
+        "recommendation": "Coronary revascularization may be considered to improve outcomes in patients with HFrEF, CCS, and coronary anatomy suitable for revascularization, after careful evaluation of individual risk to benefit ratio (including coronary anatomy such as proximal stenosis >90% of large vessels, stenosis of left main or proximal LAD), comorbidities, life expectancy, and patient perspectives.",
+        "class": "IIb"
+      },
+      {
+        "recommendation": "PCI may be considered as alternative to CABG, based on Heart Team evaluation, considering coronary anatomy, comorbidities, and surgical risk.",
+        "class": "IIb"
+      }
+    ],
+    "HF and valvular heart disease": [
+      {
+        "recommendation": "Aortic valve intervention, TAVI or SAVR is recommended in patients with HF and severe high-gradient aortic stenosis to reduce mortality and improve symptoms.",
+        "class": "I"
+      },
+      {
+        "recommendation": "Choice between TAVI and SAVR should be made by the Heart Team according to individual patient preference and features including age, surgical risk, clinical, anatomical and procedural aspects.",
+        "class": "I"
+      }
+    ],
+    "Notable scores/abbreviations referenced": {
+      "CHA2DS2-VASc": "Stroke risk score used to guide anticoagulation in AF",
+      "CABG": "Coronary artery bypass grafting",
+      "PCI": "Percutaneous coronary intervention",
+      "LVAD": "Left ventricular assist device",
+      "HFrEF": "Heart failure with reduced ejection fraction",
+      "TAVI": "Transcatheter aortic valve implantation",
+      "SAVR": "Surgical aortic valve replacement",
+      "LAD": "Left anterior descending artery"
+    }
   },
   "genes": []
 }

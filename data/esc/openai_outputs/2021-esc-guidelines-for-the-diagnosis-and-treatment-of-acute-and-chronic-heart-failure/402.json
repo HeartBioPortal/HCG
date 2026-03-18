@@ -1,0 +1,293 @@
+{
+  "content": {
+    "Societies": [
+      {
+        "country": "Kosovo",
+        "society": "Kosovo Society of Cardiology",
+        "representative": "Gani Bajraktari"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "society": "Kyrgyz Society of Cardiology",
+        "representative": "Olga Lunegova"
+      },
+      {
+        "country": "Latvia",
+        "society": "Latvian Society of Cardiology",
+        "representative": "Ginta Kamzola"
+      },
+      {
+        "country": "Lebanon",
+        "society": "Lebanese Society of Cardiology",
+        "representative": "Tony Abdel Massih"
+      },
+      {
+        "country": "Libya",
+        "society": "Libyan Cardiac Society",
+        "representative": "Hisham Benlamin"
+      },
+      {
+        "country": "Lithuania",
+        "society": "Lithuanian Society of Cardiology",
+        "representative": "Diana Å½aliaduonytÄ—"
+      },
+      {
+        "country": "Luxembourg",
+        "society": "Luxembourg Society of Cardiology",
+        "representative": "Stephanie Noppe"
+      },
+      {
+        "country": "Malta",
+        "society": "Maltese Cardiac Society",
+        "representative": "Alice Moore"
+      },
+      {
+        "country": "Moldova (Republic of)",
+        "society": "Moldavian Society of Cardiology",
+        "representative": "Eleonora Vataman"
+      },
+      {
+        "country": "Montenegro",
+        "society": "Montenegro Society of Cardiology",
+        "representative": "Aneta Boskovic"
+      },
+      {
+        "country": "Morocco",
+        "society": "Moroccan Society of Cardiology",
+        "representative": "Ahmed Bennis"
+      },
+      {
+        "country": "Netherlands",
+        "society": "Netherlands Society of Cardiology",
+        "representative": "Olivier C. Manintveld"
+      },
+      {
+        "country": "North Macedonia",
+        "society": "North Macedonian Society of Cardiology",
+        "representative": "Elizabeta Srbinovska Kostovska"
+      },
+      {
+        "country": "Norway",
+        "society": "Norwegian Society of Cardiology",
+        "representative": "Geeta Gulati"
+      },
+      {
+        "country": "Poland",
+        "society": "Polish Cardiac Society",
+        "representative": "Ewa StraburzyÅ„ska-Migaj"
+      },
+      {
+        "country": "Portugal",
+        "society": "Portuguese Society of Cardiology",
+        "representative": "José Silva-Cardoso"
+      },
+      {
+        "country": "Romania",
+        "society": "Romanian Society of Cardiology",
+        "representative": "Roxana Cristina Rimba"
+      },
+      {
+        "country": "Russian Federation",
+        "society": "Russian Society of Cardiology",
+        "representative": "Yury Lopatin"
+      },
+      {
+        "country": "San Marino",
+        "society": "San Marino Society of Cardiology",
+        "representative": "Marina Foscoli"
+      },
+      {
+        "country": "Serbia",
+        "society": "Cardiology Society of Serbia",
+        "representative": "Sinisa Stojkovic"
+      },
+      {
+        "country": "Slovakia",
+        "society": "Slovak Society of Cardiology",
+        "representative": "Eva Goncalvesova"
+      },
+      {
+        "country": "Slovenia",
+        "society": "Slovenian Society of Cardiology",
+        "representative": "Zlatko Fras"
+      },
+      {
+        "country": "Spain",
+        "society": "Spanish Society of Cardiology",
+        "representative": "Javier Segovia"
+      },
+      {
+        "country": "Sweden",
+        "society": "Swedish Society of Cardiology",
+        "representative": "Krister Lindmark"
+      },
+      {
+        "country": "Switzerland",
+        "society": "Swiss Society of Cardiology",
+        "representative": "Micha T. Maeder"
+      },
+      {
+        "country": "Syrian Arab Republic",
+        "society": "Syrian Cardiovascular Association",
+        "representative": "Walid Bsata"
+      },
+      {
+        "country": "Tunisia",
+        "society": "Tunisian Society of Cardiology and Cardio-Vascular Surgery",
+        "representative": "Leila Abid"
+      },
+      {
+        "country": "Turkey",
+        "society": "Turkish Society of Cardiology",
+        "representative": "Hakan Altay"
+      },
+      {
+        "country": "Ukraine",
+        "society": "Ukrainian Association of Cardiology",
+        "representative": "Leonid Voronkov"
+      },
+      {
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "society": "British Cardiovascular Society",
+        "representative": "Ceri Davies"
+      },
+      {
+        "country": "Uzbekistan",
+        "society": "Association of Cardiologists of Uzbekistan",
+        "representative": "Timur Abdullaev"
+      }
+    ],
+    "ESC_Clinical_Practice_Guidelines_Committee_(CPG)": [
+      {
+        "name": "Colin N. Baigent",
+        "role": "Chairperson",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Magdy Abdelhamid",
+        "country": "Egypt"
+      },
+      {
+        "name": "Victor Aboyans",
+        "country": "France"
+      },
+      {
+        "name": "Sotiris Antoniou",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Elena Arbelo",
+        "country": "Spain"
+      },
+      {
+        "name": "Riccardo Asteggiano",
+        "country": "Italy"
+      },
+      {
+        "name": "Andreas Baumbach",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Michael A. Borger",
+        "country": "Germany"
+      },
+      {
+        "name": "Jelena Bučute",
+        "country": "Lithuania"
+      },
+      {
+        "name": "Maja Cikes",
+        "country": "Croatia"
+      },
+      {
+        "name": "Jean-Philippe Collet",
+        "country": "France"
+      },
+      {
+        "name": "Volkmar Falk",
+        "country": "Germany"
+      },
+      {
+        "name": "Laurent Fauchier",
+        "country": "France"
+      },
+      {
+        "name": "Chris P. Gale",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Sigrun Halvorsen",
+        "country": "Norway"
+      },
+      {
+        "name": "Bernard Iung",
+        "country": "France"
+      },
+      {
+        "name": "Tiny Jaarsma",
+        "country": "Sweden"
+      },
+      {
+        "name": "Aleksandra Konradi",
+        "country": "Russia"
+      },
+      {
+        "name": "Konstantinos C. Koskinas",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Dipak Kotecha",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Ulf Landmesser",
+        "country": "Germany"
+      },
+      {
+        "name": "Basil S. Lewis",
+        "country": "Israel"
+      },
+      {
+        "name": "Ales Linhart",
+        "country": "Czech Republic"
+      },
+      {
+        "name": "Maja-Lisa Låchen",
+        "country": "Norway"
+      },
+      {
+        "name": "Jens-Cosedis Nielsen",
+        "country": "Denmark"
+      },
+      {
+        "name": "Steffen E. Petersen",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Eva Prescott",
+        "country": "Denmark"
+      },
+      {
+        "name": "Lis Neubeck",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Amina Rakisheva",
+        "country": "Kazakhstan"
+      },
+      {
+        "name": "Marta Sitges",
+        "country": "Spain"
+      },
+      {
+        "name": "Rhian M. Touyz",
+        "country": "United Kingdom"
+      }
+    ],
+    "References": [
+      "1 Ponikowski P, Voors AA, Anker SD, Bueno H, Cleland JGF, Coats AJS, Falk V, Gonzalez-Juanatey JR, Harjola VP, Jankowska EA, Jessup M, Linde C, Nihoyannopoulos P, Parissis JT, Pieske B, Riley JP, Rosano GMC, Ruilope LM, Ruschitzka F, Rutten FH, van der Meer P, ESC Scientific Document Group. 2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: The Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC). Developed with the special contribution of the Heart Failure Association (HFA) of the ESC. Eur Heart J 2016;37:2129–2200.",
+      "2 Piepoli MF, Hoes AW, Agewall S, Albus C, Brotons C, Catapano AL, Cooney MT, Corra U, Cosyns B, Deaton C, Graham I, Hall MS, Hobbs FDR, Lochen ML, Lollgen H, Marques-Vidal P, Perk J, Prescott E, Redon J, Richter DJ, Sattar N, Smulders Y, Tiberi M, van der Worp HB, van Dis I, Verschuren WMM, Binno S, ESC Scientific Document Group. 2016 European Guidelines on cardiovascular disease prevention in clinical practice: The Sixth Joint Task Force of the European Society of Cardiology and Other Societies on Cardiovascular Disease Prevention in Clinical Practice."
+    ]
+  },
+  "genes": []
+}

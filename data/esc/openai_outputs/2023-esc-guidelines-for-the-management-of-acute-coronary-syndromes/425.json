@@ -1,0 +1,16 @@
+{
+  "content": {
+    "recommendations": [
+      "Use a single oral antiplatelet agent (preferably clopidogrel) for up to 12 months for stroke prevention in the described context.",
+      "During PCI, give an unfractionated heparin (UFH) bolus in either of the following circumstances: patient is on a NOAC; INR is <2.5 in VKA-treated patients."
+    ],
+    "during_PCI_UFH_bolus_recommended_if": [
+      "patient is on a NOAC",
+      "INR <2.5 in VKA-treated patients"
+    ],
+    "preferred_single_antiplatelet_agent": "clopidogrel",
+    "antiplatelet_duration": "up to 12 months",
+    "not_recommended": "use of ticagrelor or prasugrel as part of triple antithrombotic therapy"
+  },
+  "genes": []
+}

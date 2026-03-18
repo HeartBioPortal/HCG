@@ -1,0 +1,34 @@
+{
+  "content": {
+    "title": "Antithrombotic therapy recommendations (excerpt)",
+    "recommendations": [
+      {
+        "recommendation": "Single oral antiplatelet agent for stroke prevention",
+        "details": "A single oral antiplatelet agent (preferably clopidogrel) for up to 12 months is recommended for stroke prevention.",
+        "grade": null
+      },
+      {
+        "recommendation": "UFH bolus during PCI",
+        "details": "During PCI, a UFH (unfractionated heparin) bolus is recommended in any of the following circumstances: if the patient is on a NOAC; if the INR is <2.5 in VKA‑treated patients.",
+        "grade": "I (C)"
+      },
+      {
+        "recommendation": "Use of ticagrelor or prasugrel in triple therapy",
+        "details": "The use of ticagrelor or prasugrel as part of triple antithrombotic therapy is not recommended.",
+        "grade": "III (C)"
+      }
+    ],
+    "abbreviations_seen": [
+      "PCI",
+      "UFH",
+      "NOAC",
+      "INR",
+      "VKA",
+      "clopidogrel",
+      "ticagrelor",
+      "prasugrel"
+    ],
+    "notes": "This extract shows specific peri‑procedural recommendations and a contraindication for certain P2Y12 inhibitors when used as part of triple antithrombotic therapy."
+  },
+  "genes": []
+}

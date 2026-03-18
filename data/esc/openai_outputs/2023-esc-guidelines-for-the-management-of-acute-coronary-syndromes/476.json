@@ -1,0 +1,201 @@
+{
+  "content": {
+    "Societies_by_country": [
+      {
+        "country": "Israel",
+        "society": "Israel Heart Society",
+        "representative": "Yigal Abramowitz"
+      },
+      {
+        "country": "Italy",
+        "society": "Italian Federation of Cardiology",
+        "representative": "Ciro Indolfi"
+      },
+      {
+        "country": "Kazakhstan",
+        "society": "Association of Cardiologists of Kazakhstan",
+        "representative": "Orazbek Sakhov"
+      },
+      {
+        "country": "Kosovo (Republic of)",
+        "society": "Kosovo Society of Cardiology",
+        "representative": "Shpend Elezi"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "society": "Kyrgyz Society of Cardiology",
+        "representative": "Medet Beishenkulov"
+      },
+      {
+        "country": "Latvia",
+        "society": "Latvian Society of Cardiology",
+        "representative": "Andrejs Erglis"
+      },
+      {
+        "country": "Lebanon",
+        "society": "Lebanese Society of Cardiology",
+        "representative": "Nicolas Moussallem"
+      },
+      {
+        "country": "Libya",
+        "society": "Libyan Cardiac Society",
+        "representative": "Hisham Benlamin"
+      },
+      {
+        "country": "Lithuania",
+        "society": "Lithuanian Society of Cardiology",
+        "representative": "Olivija Dobilienė"
+      },
+      {
+        "country": "Luxembourg",
+        "society": "Luxembourg Society of Cardiology",
+        "representative": "Philippe Degrell"
+      },
+      {
+        "country": "Malta",
+        "society": "Maltese Cardiac Society",
+        "representative": "Matthew Mercieca Balbi"
+      },
+      {
+        "country": "Moldova (Republic of)",
+        "society": "Moldavian Society of Cardiology",
+        "representative": "Aurel Grosu"
+      },
+      {
+        "country": "Morocco",
+        "society": "Moroccan Society of Cardiology",
+        "representative": "Zouhair Lakhal"
+      },
+      {
+        "country": "Netherlands",
+        "society": "Netherlands Society of Cardiology",
+        "representative": "Jurriën ten Berg"
+      },
+      {
+        "country": "North Macedonia",
+        "society": "National Society of Cardiology of North Macedonia",
+        "representative": "Hristo Pejkov"
+      },
+      {
+        "country": "Norway",
+        "society": "Norwegian Society of Cardiology",
+        "representative": "Kristin Angel"
+      },
+      {
+        "country": "Poland",
+        "society": "Polish Cardiac Society",
+        "representative": "Adam Witkowski"
+      },
+      {
+        "country": "Portugal",
+        "society": "Portuguese Society of Cardiology",
+        "representative": "Manuel De Sousa Almeida"
+      },
+      {
+        "country": "Romania",
+        "society": "Romanian Society of Cardiology",
+        "representative": "Ovidiu Chioncel"
+      },
+      {
+        "country": "San Marino",
+        "society": "San Marino Society of Cardiology",
+        "representative": "Luca Bertelli"
+      },
+      {
+        "country": "Serbia",
+        "society": "Cardiology Society of Serbia",
+        "representative": "Sinisa Stojkovic"
+      },
+      {
+        "country": "Slovakia",
+        "society": "Slovak Society of Cardiology",
+        "representative": "Martin Studenán"
+      },
+      {
+        "country": "Slovenia",
+        "society": "Slovenian Society of Cardiology",
+        "representative": "Peter Radáčel"
+      },
+      {
+        "country": "Spain",
+        "society": "Spanish Society of Cardiology",
+        "representative": "Jose Luis Ferreiro"
+      },
+      {
+        "country": "Sweden",
+        "society": "Swedish Society of Cardiology",
+        "representative": "Annica Ravn-Fischer"
+      },
+      {
+        "country": "Switzerland",
+        "society": "Swiss Society of Cardiology",
+        "representative": "Lorenz Räber"
+      },
+      {
+        "country": "Syrian Arab Republic",
+        "society": "Syrian Cardiovascular Association",
+        "representative": "Mohammed Yassin Bani Marjeh"
+      },
+      {
+        "country": "Tunisia",
+        "society": "Tunisian Society of Cardiology and Cardiovascular Surgery",
+        "representative": "Majed Hassine"
+      },
+      {
+        "country": "Türkiye",
+        "society": "Turkish Society of Cardiology",
+        "representative": "Aylin Yildirir"
+      },
+      {
+        "country": "Ukraine",
+        "society": "Ukrainian Association of Cardiology",
+        "representative": "Alexander Parkhomenko"
+      },
+      {
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "society": "British Cardiovascular Society",
+        "representative": "Adrian Paul Banning"
+      },
+      {
+        "country": "Israel (earlier in line)",
+        "society": "Cardiac Society",
+        "representative": "James Crowley"
+      }
+    ],
+    "ESC_Clinical_Practice_Guidelines_Committee": {
+      "Chairperson": "Eva Prescott (Denmark)",
+      "Co-Chairperson": "Stefan James (Sweden)",
+      "members": [
+        "Elena Arbelo (Spain)",
+        "Colin Baigent (United Kingdom)",
+        "Michael A. Borger (Germany)",
+        "Sergio Buccheri (Sweden)",
+        "Borja Ibanez (Spain)",
+        "Lars Kã¸ber (Denmark)",
+        "Konstantinos C. Koskinas (Switzerland)",
+        "John William McEvoy (Ireland)",
+        "Borislava Mihaylova (United Kingdom)",
+        "Richard Mindham (United Kingdom)",
+        "Lis Neubeck (United Kingdom)",
+        "Jens Cosedis Nielsen (Denmark)",
+        "Agnes A. Pasquet (Belgium)",
+        "Amina Rakisheva (Kazakhstan)",
+        "Bianca Rocca (Italy)",
+        "Xavier Rossello (Spain)",
+        "Ilonca Vaartjes (Netherlands)",
+        "Christiaan Vrints (Belgium)",
+        "Adam Witkowski (Poland)",
+        "Katja Zeppenfeld (Netherlands)"
+      ]
+    },
+    "References": [
+      {
+        "id": 1,
+        "citation": "Thygesen K, Alpert JS, Jaffe AS, Chaitman BR, Bax JJ, Morrow DA, et al. Fourth universal definition of myocardial infarction (2018). Eur Heart J 2019;40:237â€“269.",
+        "doi": "https://doi.org/10.1093/eurheartj/ehy462"
+      }
+    ],
+    "page_section": "List of national cardiology societies and ESC Clinical Practice Guidelines Committee members; reference list begins"
+  },
+  "genes": []
+}

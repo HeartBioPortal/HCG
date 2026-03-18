@@ -1,0 +1,27 @@
+{
+  "content": {
+    "title": "Acute pharmacotherapy (excerpt)",
+    "sections": {
+      "4.2.2. Acute pharmacotherapy": "General section header for acute drug management in suspected ACS.",
+      "4.2.2.1. Oxygen": "Recommend oxygen supplementation for ACS patients with hypoxaemia (SpO2 <90%). Not recommended for patients who are not hypoxic (SpO2 >90%).",
+      "4.2.2.2. Nitrates": "Sublingual nitrate may relieve ischaemic symptoms but reduction in chest pain after nitroglycerine can be misleading and is not diagnostic. In ECG-compatible ongoing STEMI, obtain further 12-lead ECG after nitroglycerine. Nitrates contraindicated in hypotension, marked bradycardia/tachycardia, RV infarction, severe aortic stenosis, or recent phosphodiesterase-5 inhibitor use within previous 24–48 h.",
+      "4.2.2.3. Pain relief": "Intravenous opioids (e.g., morphine 5–10 mg) may be considered for severe chest pain. Morphine can enhance nausea/vomiting and slow GI absorption of oral meds, potentially delaying oral antiplatelet therapy onset. Small trials suggest i.v. morphine may reduce myocardial/microvascular damage but may reduce antiplatelet activity after ticagrelor; metoclopramide may reverse this interaction.",
+      "Antiplatelet interactions": "Platelet inhibition induced by oral P2Y12 receptor antagonists may be delayed in patients with ongoing MI. Morphine may further reduce absorption, delay onset of action, and decrease the antiplatelet effect of oral P2Y12 receptor inhibitors in MI patients. Clinical data have not demonstrated increased adverse outcomes from interactions between morphine and antiplatelet agents in ACS to date."
+    },
+    "references_mentioned": [
+      "References cited in text (e.g., 148–161) indicate supporting literature for statements on oxygen, nitrates, analgesia, and antiplatelet interactions."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "P2RY12",
+      "Associated Conditions": [
+        "Myocardial infarction (MI)",
+        "Acute coronary syndrome (ACS)",
+        "Oral antiplatelet therapy / platelet inhibition"
+      ],
+      "Occurrences": 3,
+      "context": "Text refers to 'P2Y12 receptor antagonists' and 'P2Y12 receptor inhibitors' in the context of platelet inhibition in MI/ACS and interactions with morphine delaying antiplatelet effect."
+    }
+  ]
+}

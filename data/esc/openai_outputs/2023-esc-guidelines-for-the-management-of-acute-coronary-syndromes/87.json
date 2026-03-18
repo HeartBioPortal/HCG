@@ -1,91 +1,57 @@
 {
   "content": {
-    "title": "Clinical Practice Guidelines Committee 2022-2024 - Declarations of Interest",
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year (calls up to and including 2022).",
-    "page_date": "24/04/2023",
-    "experts": [
-      {
-        "name": "Pasquet Agnes A",
-        "entries": [
-          {
-            "year": 2022,
-            "declaration": "Payment from healthcare industry to department/institution for personal services (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.).",
-            "companies_and_notes": [
-              "Philips: Echocardiography, Interventional Cardiology",
-              "Daiichi Sankyo: Hypertension",
-              "Servier: Other"
-            ]
-          }
+    "title": "Extracted content from guideline page",
+    "sections": {
+      "4.1.2 Healthcare systems and system delays": {
+        "summary": "System delay (time from patient contact with healthcare system to reperfusion) is modifiable by organizational measures and is a predictor of mortality in STEMI patients treated with primary PCI (PPCI). When a working diagnosis of STEMI is made in the pre-hospital setting (EMS), immediate activation of the catheterization laboratory reduces treatment delays and mortality.",
+        "recommendations": [
+          "When EMS makes a STEMI working diagnosis and patient is triaged for emergency invasive management, bypass the ED and go straight to the catheterization laboratory.",
+          "Bypassing the ED is associated with significant saving in time from first medical contact (FMC) to wire crossing and may improve survival.",
+          "For patients presenting to a non-PCI centre with suspected STEMI, measure door-in to door-out time (defined as duration between arrival at hospital and discharge of patient in an ambulance en route to the PCI centre) as a clinical performance metric.",
+          "A door-in to door-out time of ≤30 minutes is recommended to expedite reperfusion therapy."
+        ],
+        "notes": [
+          "System delay is multifactorial but amenable to organizational improvement.",
+          "Immediate activation of cath lab when pre-hospital STEMI diagnosis is made reduces delays and mortality."
+        ],
+        "references_mentioned": [
+          "129–131",
+          "132a, 136",
+          "137a, 139",
+          "140"
         ]
       },
-      {
-        "name": "Prescott Eva",
-        "entries": [
-          {
-            "year": 2021,
-            "declaration": "Nothing to be declared"
-          },
-          {
-            "year": 2022,
-            "declaration": "Nothing to be declared"
-          }
+      "4.1.3 Emergency medical services": {
+        "summary": "At national level, an EMS with an easily recalled, well-publicised emergency number (e.g., 112 in many EU countries) is important to accelerate system activation. The ambulance system is critical in early management of suspected STEMI, including establishing initial diagnosis, triage, and treatment.",
+        "recommendations": [
+          "Avoid parallel referral circuits that bypass EMS for patients with suspected STEMI.",
+          "Ambulances must be equipped with ECG recorders, defibrillators, telemetry devices, and at least one person trained in advanced life support.",
+          "Ambulance personnel should be trained to recognize ischaemic symptoms, administer oxygen when appropriate, secure IV access, relieve pain, administer fibrinolysis when indicated, and provide basic life support.",
+          "Ambulance staff should record an ECG as soon as possible for diagnostic purposes and either interpret it or transmit it for experienced staff review to establish/refute working diagnosis of STEMI.",
+          "Regular and structured training of ambulance staff is mandatory for a high-quality pre-hospital service."
+        ],
+        "notes": [
+          "Quality of care depends on training of staff involved.",
+          "Early ECG acquisition and review/transmission is emphasised."
+        ],
+        "references_mentioned": [
+          "129, 141",
+          "142"
         ]
       },
-      {
-        "name": "Rakisheva Amina",
-        "entries": [
-          {
-            "year": 2021,
-            "declaration": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies_and_conditions": [
-              "Bayer: Atrial Fibrillation",
-              "Novartis: Heart Failure"
-            ]
-          },
-          {
-            "year": 2022,
-            "declaration": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-            "companies_and_conditions": [
-              "AstraZeneca: Chronic Heart Failure",
-              "Novartis: Chronic Heart Failure",
-              "Roche Diagnostics: Chronic Heart Failure"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Rocca Bianca",
-        "entries": [
-          {
-            "year": 2021,
-            "declaration": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.; research funding from healthcare industry under direct/personal responsibility (to department or institution).",
-            "companies_and_notes": [
-              "Bayer AG: CV prevention in COVID pandemics",
-              "SOBI: platelet growth factor",
-              "Bayer AG: anticoagulant (rivaroxaban) – research funding"
-            ]
-          },
-          {
-            "year": 2022,
-            "declaration": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.; research funding from healthcare industry under direct/personal responsibility (to department or institution).",
-            "companies_and_notes": [
-              "Aboca SRL: Other",
-              "Bayer AG: study on low dose rivaroxaban, Chief investigator (research funding)"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Rossello Francisco Javier",
-        "entries": [
-          {
-            "year": 2021,
-            "declaration": "Nothing to be declared"
-          }
-        ]
+      "4.1.4 General practitioners": {
+        "summary": "Section heading present; content for general practitioners likely follows on next page."
       }
-    ],
-    "page_number": "6/7"
+    },
+    "key_terms": [
+      "STEMI (ST-segment elevation myocardial infarction)",
+      "System delay (time from patient contact to reperfusion)",
+      "PPCI (primary percutaneous coronary intervention)",
+      "EMS (emergency medical services)",
+      "ED (emergency department)",
+      "FMC (first medical contact)",
+      "Door-in to door-out time"
+    ]
   },
   "genes": []
 }

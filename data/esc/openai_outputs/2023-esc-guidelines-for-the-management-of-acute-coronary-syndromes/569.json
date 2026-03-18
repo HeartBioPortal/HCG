@@ -1,0 +1,44 @@
+{
+  "content": {
+    "source": "clinical guideline reference list (image)",
+    "references": [
+      {
+        "id": 706,
+        "citation": "Shahim B, De Bacquer D, De Backer G, Gyberg V, Kotseva K, Mellbin L, et al. The prognostic value of fasting plasma glucose, two-hour postload glucose, and HbA(1c) in patients with coronary artery disease: a report from EUROASPIRE IV: a survey from the European Society of Cardiology. Diabetes Care 2017;40:1233–1240.",
+        "doi": "https://doi.org/10.2337/dc17-0245"
+      },
+      {
+        "id": 707,
+        "citation": "Ritsinger V, Tanoglidi E, Malmberg K, Næssman P, Rydén L, Tenerz A, et al. Sustained prognostic implications of newly detected glucose abnormalities in patients with acute myocardial infarction: long-term follow-up of the Glucose Tolerance in Patients with Acute Myocardial Infarction cohort. Diab Vasc Dis Res 2015;12:23–32.",
+        "doi": "https://doi.org/10.1177/1479164114551746"
+      },
+      {
+        "id": 708,
+        "citation": "Svensson AM, McGuire DK, Abrahamsson P, Dellborg M. Association between hyper- and hypoglycaemia and 2 year all-cause mortality risk in diabetic patients with acute coronary events. Eur Heart J 2005;26:1255–1261.",
+        "doi": "https://doi.org/10.1093/eurheartj/ehi230"
+      },
+      {
+        "id": 709,
+        "citation": "Pinto DS, Skolnick AH, Kirtane AJ, Murphy SA, Barron HV, Giugliano RP, et al. U-shaped relationship of blood glucose with adverse outcomes among patients with ST-segment elevation myocardial infarction. J Am Coll Cardiol 2005;46:178–180.",
+        "doi": "https://doi.org/10.1016/j.jacc.2005.03.052"
+      },
+      {
+        "id": 710,
+        "citation": "Cholesterol Treatment Trialists' Collaboration. Efficacy and safety of statin therapy in older people: a meta-analysis of individual participant data from 28 randomised controlled trials. Lancet 2019;393:407–415.",
+        "doi": "https://doi.org/10.1016/S0140-6736(18)31942-1"
+      },
+      {
+        "id": 711,
+        "citation": "Bach RG, Cannon CP, Giugliano RP, White JA, Lokhnygina Y, Bohula EA, et al. Effect of simvastatin-ezetimibe compared with simvastatin monotherapy after acute coronary syndrome among patients 75 years or older: a secondary analysis of a randomized clinical trial. JAMA Cardiol 2019;4:846–854.",
+        "doi": "https://doi.org/10.1001/jamacardio.2019.2306"
+      },
+      {
+        "id": 712,
+        "citation": "Roe MT, Armstrong PW, Fox KA, White HD, Prabhakaran D, Goodman SG, et al. Prasugrel versus clopidogrel for acute coronary syndromes without revascularization. N Engl J Med 2012;367:1297–1309.",
+        "doi": "https://doi.org/10.1056/NEJMoa1205512"
+      }
+    ],
+    "notes": "Transcription of references 706–712 from the guideline reference list image. No explicit human gene symbols are present on the page."
+  },
+  "genes": []
+}

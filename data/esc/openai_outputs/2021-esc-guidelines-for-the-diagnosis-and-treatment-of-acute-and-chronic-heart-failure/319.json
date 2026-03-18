@@ -1,0 +1,170 @@
+{
+  "content": {
+    "Acquired diseases": [
+      {
+        "condition": "Infection (viruses)",
+        "notes": "Marked as associated; phenotype: Myocarditis, DCM"
+      },
+      {
+        "condition": "Immuno-mediated diseases (rheumatoid arthritis, systemic lupus erythematosus, dermatomyositis)",
+        "notes": "Marked as associated; phenotype: Myocarditis, DCM"
+      },
+      {
+        "condition": "Toxic (alcohol, amphetamines, cocaine)",
+        "notes": "Marked as associated; phenotype: DCM, myocarditis"
+      },
+      {
+        "condition": "Drugs (anthracyclines, trastuzumab, immune checkpoint inhibitors)",
+        "notes": "Marked as associated; phenotype: DCM, myocarditis"
+      },
+      {
+        "condition": "Overload (haemochromatosis)",
+        "notes": "Marked as associated; phenotype: HCM, DCM"
+      },
+      {
+        "condition": "Peripartum (pregnancy)",
+        "notes": "Marked as associated; phenotype: DCM"
+      }
+    ],
+    "Comorbidities with possible interactions with the gene mutations and an effect on phenotype and outcome": [
+      {
+        "condition": "Tachy-arrhythmias",
+        "notes": "Associated; phenotype: DCM"
+      },
+      {
+        "condition": "Diabetes mellitus",
+        "notes": "Associated; phenotype: DCM, HCM"
+      },
+      {
+        "condition": "Hypertension",
+        "notes": "Associated; phenotype: DCM, HCM"
+      },
+      {
+        "condition": "Hypo- and hyperthyroidism",
+        "notes": "Associated; phenotype: DCM, HCM, myocarditis"
+      }
+    ],
+    "Genetic mutations table": {
+      "columns": [
+        "Cause",
+        "Disease modifier",
+        "Phenotype"
+      ],
+      "entries": [
+        {
+          "gene": "LMNA",
+          "Cause": "x",
+          "Disease modifier": "",
+          "Phenotype": "DCM"
+        },
+        {
+          "gene": "TTN",
+          "Cause": "x",
+          "Disease modifier": "x",
+          "Phenotype": "DCM, (HCM)"
+        },
+        {
+          "gene": "RBM20",
+          "Cause": "x",
+          "Disease modifier": "",
+          "Phenotype": "DCM"
+        },
+        {
+          "gene": "MYH7",
+          "Cause": "x",
+          "Disease modifier": "",
+          "Phenotype": "DCM, HCM"
+        },
+        {
+          "gene": "TNNT",
+          "Cause": "x",
+          "Disease modifier": "",
+          "Phenotype": "DCM, HCM (listed as TNNT on page)"
+        },
+        {
+          "gene": "PLN",
+          "Cause": "x",
+          "Disease modifier": "",
+          "Phenotype": "DCM, HCM, AC"
+        },
+        {
+          "gene": "DSP",
+          "Cause": "x",
+          "Disease modifier": "x",
+          "Phenotype": "AC, DCM, myocarditis"
+        },
+        {
+          "gene": "SCN5a",
+          "Cause": "x",
+          "Disease modifier": "x",
+          "Phenotype": "AC, (DCM)"
+        }
+      ]
+    }
+  },
+  "genes": [
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [
+        "DCM"
+      ],
+      "Occurrences": 1,
+      "context": "Listed under 'Genetic mutations' with phenotype stated as 'DCM'."
+    },
+    {
+      "Gene": "TTN",
+      "Associated Conditions": [
+        "DCM",
+        "HCM"
+      ],
+      "Occurrences": 1,
+      "context": "Listed under 'Genetic mutations' with phenotype column 'DCM, (HCM)' and a disease modifier mark."
+    },
+    {
+      "Gene": "RBM20",
+      "Associated Conditions": [
+        "DCM"
+      ],
+      "Occurrences": 1,
+      "context": "Listed under 'Genetic mutations' with phenotype 'DCM'."
+    },
+    {
+      "Gene": "MYH7",
+      "Associated Conditions": [
+        "DCM",
+        "HCM"
+      ],
+      "Occurrences": 1,
+      "context": "Listed under 'Genetic mutations' with phenotype 'DCM, HCM'."
+    },
+    {
+      "Gene": "PLN",
+      "Associated Conditions": [
+        "DCM",
+        "HCM",
+        "AC"
+      ],
+      "Occurrences": 1,
+      "context": "Listed under 'Genetic mutations' with phenotype 'DCM, HCM, AC'."
+    },
+    {
+      "Gene": "DSP",
+      "Associated Conditions": [
+        "AC",
+        "DCM",
+        "myocarditis"
+      ],
+      "Occurrences": 1,
+      "context": "Listed under 'Genetic mutations' with phenotype 'AC, DCM, myocarditis' and marked as disease modifier."
+    },
+    {
+      "Gene": "SCN5A",
+      "Associated Conditions": [
+        "AC",
+        "DCM"
+      ],
+      "Occurrences": 1,
+      "context": "Listed (as 'SCN5a') under 'Genetic mutations' with phenotype 'AC, (DCM)' and marked as disease modifier."
+    }
+  ]
+}

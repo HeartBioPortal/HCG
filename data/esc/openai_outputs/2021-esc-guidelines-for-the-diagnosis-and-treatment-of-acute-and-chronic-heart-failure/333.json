@@ -1,0 +1,67 @@
+{
+  "content": {
+    "mutations_section": [
+      "LMNA, RBM20, PLN and FLN mutation. Higher risk of sudden cardiac death: early indication for primary prevention by ICD implantation should be considered (guided by risk factors as detailed).",
+      "TTN mutation. Higher rate of LV reverse remodeling (in up to 70%), but a higher risk of atrial and ventricular tachyarrhythmias."
+    ],
+    "infectious_and_inflammatory_causes": [
+      "Lyme disease (Borrelia). Treatment with doxycycline.",
+      "Chagas disease (Trypanosoma cruzi). Specific treatment according to current recommendations.",
+      "Auto-immune/inflammatory. Consider immunosuppressive therapy in giant cell myocarditis, eosinophilic myocarditis, sarcoidosis or vasculitis, and in highly selected patients with increased cardiac inflammation of unknown origin."
+    ],
+    "abbreviations_and_notes": {
+      "BAG3": "Bcl2-associated athanogene 3",
+      "LMNA": "lamin A/C",
+      "PLN": "phospholamban",
+      "RBM20": "ribonucleic acid binding motif 20",
+      "TTN": "titin",
+      "note": "The page states 'This list of genes is not exhaustive' and refers to a core panel used by genetic departments."
+    },
+    "risk_factors_note": "Risk factors in patients with a confirmed LMNA mutation: NSVT during ambulatory ECG monitoring, LVEF <45% at first evaluation, male sex and non-missense mutations (insertion, deletion, truncations, or mutations affecting splicing)."
+  },
+  "genes": [
+    {
+      "Gene": "LMNA",
+      "Associated Conditions": [
+        "Higher risk of sudden cardiac death",
+        "Cardiomyopathy (context: genetic cardiomyopathy panel)"
+      ],
+      "Occurrences": 3,
+      "context": "Listed in heading: 'LMNA, RBM20, PLN and FLN mutation. Higher risk of sudden cardiac death...' and abbreviated in legend as 'LMNA = lamin A/C'; also referenced in risk-factor footnote for confirmed LMNA mutation."
+    },
+    {
+      "Gene": "RBM20",
+      "Associated Conditions": [
+        "Genetic cardiomyopathy with increased risk of sudden cardiac death (as listed alongside LMNA/PLN/FLN)"
+      ],
+      "Occurrences": 2,
+      "context": "Appears in heading grouping: 'LMNA, RBM20, PLN and FLN mutation. Higher risk of sudden cardiac death...' and in abbreviation legend as 'RBM20 = ribonucleic acid binding motif 20'."
+    },
+    {
+      "Gene": "PLN",
+      "Associated Conditions": [
+        "Genetic cardiomyopathy with increased risk of sudden cardiac death (as listed alongside LMNA/RBM20/FLN)"
+      ],
+      "Occurrences": 2,
+      "context": "Appears in heading grouping indicating higher sudden cardiac death risk and in abbreviation legend as 'PLN = phospholamban'."
+    },
+    {
+      "Gene": "TTN",
+      "Associated Conditions": [
+        "Higher rate of left ventricular (LV) reverse remodeling",
+        "Increased risk of atrial and ventricular tachyarrhythmias",
+        "Dilated cardiomyopathy (context: guideline on cardiomyopathy)"
+      ],
+      "Occurrences": 2,
+      "context": "Standalone line: 'TTN mutation. Higher rate of LV reverse remodeling (in up to 70%), but a higher risk of atrial and ventricular tachyarrhythmias.' and in abbreviation legend as 'TTN = titin'."
+    },
+    {
+      "Gene": "BAG3",
+      "Associated Conditions": [
+        "Gene listed in abbreviation legend within cardiomyopathy guideline (implied association with cardiomyopathy)"
+      ],
+      "Occurrences": 1,
+      "context": "Listed in abbreviation legend as 'BAG3 = Bcl2-associated athanogene 3' within the cardiomyopathy guideline page."
+    }
+  ]
+}

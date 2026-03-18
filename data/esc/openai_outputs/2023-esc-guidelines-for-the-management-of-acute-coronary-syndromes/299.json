@@ -1,0 +1,32 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "id": 1,
+        "text": "For patients with a recurrent atherothrombotic event (recurrence within 2 years of first ACS episode) while taking maximally tolerated statin-based therapy, an LDL-C goal of <1.0 mmol/L (<40 mg/dL) may be considered.",
+        "population": "patients with recurrent atherothrombotic event within 2 years of first ACS episode on maximally tolerated statin therapy",
+        "intervention": "target LDL-C <1.0 mmol/L (<40 mg/dL)",
+        "timing/setting": null,
+        "recommendation_class": "IIb",
+        "level_of_evidence": "B",
+        "references": [
+          "785",
+          "786"
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Combination therapy with high-dose statin plus ezetimibe may be considered during index hospitalization.",
+        "population": "patients during index hospitalization",
+        "intervention": "high-dose statin plus ezetimibe",
+        "timing/setting": "during index hospitalization",
+        "recommendation_class": "IIb",
+        "level_of_evidence": "B",
+        "references": [
+          "788"
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

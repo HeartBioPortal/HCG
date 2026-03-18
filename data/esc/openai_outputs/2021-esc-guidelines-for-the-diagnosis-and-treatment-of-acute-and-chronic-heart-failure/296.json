@@ -1,0 +1,53 @@
+{
+  "content": {
+    "title": "Recommendations for the management of anaemia and iron deficiency in patients with heart failure",
+    "source_note": "ESC 2021 guideline figure shown twice on page",
+    "recommendations": [
+      {
+        "id": 1,
+        "text": "It is recommended that all patients with HF be periodically screened for anaemia and iron deficiency with a full blood count, serum ferritin concentration, and TSAT.",
+        "class": "I",
+        "level": "C",
+        "population": "All patients with heart failure",
+        "tests_specified": [
+          "full blood count",
+          "serum ferritin concentration",
+          "TSAT (transferrin saturation)"
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Intravenous iron supplementation with ferric carboxymaltose should be considered in symptomatic patients with LVEF <45% and iron deficiency, defined as serum ferritin <100 ng/mL or serum ferritin 100–299 ng/mL with TSAT <20%, to alleviate HF symptoms, improve exercise capacity and QOL.",
+        "class": "IIa",
+        "level": "A",
+        "population": "Symptomatic heart failure patients with LVEF <45% and iron deficiency",
+        "iron_deficiency_definition": [
+          "serum ferritin <100 ng/mL",
+          "or serum ferritin 100–299 ng/mL with TSAT <20%"
+        ],
+        "intervention": "Intravenous ferric carboxymaltose",
+        "intended_outcomes": [
+          "alleviate HF symptoms",
+          "improve exercise capacity",
+          "improve quality of life (QOL)"
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Intravenous iron supplementation with ferric carboxymaltose should be considered in symptomatic HF patients recently hospitalized for HF and with LVEF <50% and iron deficiency, defined as serum ferritin <100 ng/mL or serum ferritin 100–299 ng/mL with TSAT <20%, to reduce the risk of HF hospitalization.",
+        "class": "IIa",
+        "level": "B",
+        "population": "Symptomatic HF patients recently hospitalized for HF with LVEF <50% and iron deficiency",
+        "iron_deficiency_definition": [
+          "serum ferritin <100 ng/mL",
+          "or serum ferritin 100–299 ng/mL with TSAT <20%"
+        ],
+        "intervention": "Intravenous ferric carboxymaltose",
+        "intended_outcomes": [
+          "reduce risk of HF hospitalization"
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

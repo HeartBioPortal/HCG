@@ -1,0 +1,101 @@
+{
+  "content": {
+    "section": "13",
+    "title": "Long-term treatment",
+    "bullets_left": [
+      {
+        "text": "To evaluate the uptake, safety, and outcomes for alternative forms of cardiac rehabilitation, with a focus on telemedicine and eHealth."
+      },
+      {
+        "text": "How to improve referral for and uptake of CR, especially for groups with low participation, including women, older persons, and ethnic minorities."
+      },
+      {
+        "text": "The role of personalized medicine in the short- and long-term treatment of ACS needs to be further studied."
+      },
+      {
+        "text": "How to address additional risk from non-traditional risk factors, e.g. cardio-obstetrics, cardio-oncology, and inflammatory conditions, needs further attention."
+      },
+      {
+        "text": "Inflammation as a treatment target in patients with atherosclerosis still needs unravelling, as well as the use of biomarkers of inflammation (high-sensitivity C-reactive protein, interleukins 1 and 6) to guide treatment of residual risk."
+      },
+      {
+        "text": "The role of lipoprotein (a) in guiding treatment and as an independent treatment target needs to be studied further."
+      },
+      {
+        "text": "The added cardio-protective role of beta-blockers in post-ACS patients without reduced LVEF on otherwise optimal medical therapy needs to be clarified."
+      }
+    ],
+    "bullets_right": [
+      {
+        "text": "Remote cardiac rehabilitation methods need randomized data to evaluate their true potential."
+      },
+      {
+        "text": "Further monitoring is needed to increase the participation of historically under-represented patients in CR."
+      },
+      {
+        "text": "Patients randomized to personalized strategies vs. usual care are needed to determine the role of precision medicine in ACS."
+      },
+      {
+        "text": "Prospective cohorts are needed to evaluate non-traditional risk factors and residual risk."
+      },
+      {
+        "text": "RCTs testing whether management based on the use of biomarkers of inflammation improves clinical outcomes."
+      },
+      {
+        "text": "RCTs testing whether lipoprotein (a) measurement to guide medical management further improves clinical outcomes."
+      },
+      {
+        "text": "Patients randomized to beta-blocker and no beta-blocker use to evaluate treatment efficacy in patients with ACS and LVEF >40%."
+      },
+      {
+        "text": "RCTs evaluating the benefit of using ACE inhibitors/ARBs vs. placebo on top of standard care."
+      }
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "IL6",
+      "Associated Conditions": [
+        "Atherosclerosis",
+        "Inflammation",
+        "Residual cardiovascular risk",
+        "Acute coronary syndrome (ACS)"
+      ],
+      "Occurrences": 1,
+      "context": "Mentioned as 'interleukins 1 and 6' as biomarkers of inflammation to guide treatment of residual risk in patients with atherosclerosis."
+    },
+    {
+      "Gene": "IL1",
+      "Associated Conditions": [
+        "Atherosclerosis",
+        "Inflammation",
+        "Residual cardiovascular risk",
+        "Acute coronary syndrome (ACS)"
+      ],
+      "Occurrences": 1,
+      "context": "Mentioned as 'interleukins 1 and 6' as biomarkers of inflammation to guide treatment of residual risk in patients with atherosclerosis."
+    },
+    {
+      "Gene": "CRP",
+      "Associated Conditions": [
+        "Atherosclerosis",
+        "Inflammation",
+        "Residual cardiovascular risk",
+        "Acute coronary syndrome (ACS)"
+      ],
+      "Occurrences": 1,
+      "context": "Referenced as 'high-sensitivity C-reactive protein' among biomarkers of inflammation to guide treatment of residual risk."
+    },
+    {
+      "Gene": "LPA",
+      "Associated Conditions": [
+        "Acute coronary syndrome (ACS)",
+        "Atherosclerosis",
+        "Cardiovascular disease",
+        "Residual cardiovascular risk"
+      ],
+      "Occurrences": 2,
+      "context": "Referenced as 'lipoprotein (a)' where its role in guiding treatment and as an independent treatment target needs further study; RCTs testing whether its measurement guides management are recommended."
+    }
+  ]
+}

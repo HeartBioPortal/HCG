@@ -1,0 +1,73 @@
+{
+  "content": {
+    "section": "Patients with cancer",
+    "recommendations": [
+      {
+        "recommendation": "An invasive strategy is recommended in cancer patients presenting with high-risk ACS with expected survival ≥6 months.",
+        "class_of_recommendation": "I",
+        "level_of_evidence": "B"
+      },
+      {
+        "recommendation": "A temporary interruption of cancer therapy is recommended in patients in whom the cancer therapy is suspected to be a contributing cause of ACS.",
+        "class_of_recommendation": "I",
+        "level_of_evidence": "C"
+      },
+      {
+        "recommendation": "A conservative non-invasive strategy should be considered in ACS patients with poor cancer prognosis (i.e., expected survival <6 months) and/or very high bleeding risk.",
+        "class_of_recommendation": "IIa",
+        "level_of_evidence": "C"
+      },
+      {
+        "recommendation": "Aspirin is not recommended in cancer patients with a platelet count <10,000/µL.",
+        "class_of_recommendation": "III",
+        "level_of_evidence": "C",
+        "platelet_threshold_per_therapy": {
+          "aspirin": "<10,000/µL"
+        }
+      },
+      {
+        "recommendation": "Clopidogrel is not recommended in cancer patients with a platelet count <30,000/µL.",
+        "class_of_recommendation": "III",
+        "level_of_evidence": "C",
+        "platelet_threshold_per_therapy": {
+          "clopidogrel": "<30,000/µL"
+        }
+      },
+      {
+        "recommendation": "In ACS patients with cancer and <50,000/µL platelet count, prasugrel or ticagrelor are not recommended.",
+        "class_of_recommendation": "III",
+        "level_of_evidence": "C",
+        "platelet_threshold_per_therapy": {
+          "prasugrel_or_ticagrelor": "<50,000/µL"
+        }
+      }
+    ],
+    "anticancer_therapies_associated_with_high_risk_of_ACS_footnote": {
+      "description": "Anticancer therapies associated with high risk of ACS (very common [>10%])",
+      "listed_agents": [
+        "capecitabine",
+        "paclitaxel",
+        "cisplatin",
+        "carfilzomib",
+        "bevacizumab",
+        "ramucirumab",
+        "aflibercept",
+        "axitinib",
+        "sorafenib",
+        "pazopanib",
+        "cabozantinib",
+        "lenvatinib",
+        "ponatinib",
+        "erlotinib"
+      ]
+    },
+    "abbreviations_and_notes": {
+      "ACS": "acute coronary syndrome",
+      "CKD": "chronic kidney disease",
+      "eGFR": "estimated glomerular filtration rate",
+      "footnote_related_to_prognosis": "Related to advanced cancer stage and/or severe irreversible non-CV comorbidities."
+    },
+    "long_term_treatment_section_summary": "Secondary prevention after ACS is central to increase quality of life and to decrease morbidity and mortality. This should start as early as possible after the index event. Optimal medical therapy and treatment targets are well defined and summarized in Figure 17."
+  },
+  "genes": []
+}

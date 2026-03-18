@@ -1,0 +1,30 @@
+{
+  "content": {
+    "title": "Management of Heart Failure in Adult Congenital Heart Disease (excerpt)",
+    "recommendations": [
+      "Timely evaluation for transplantation by ACHD HF specialists in a transplant centre with ACHD expertise is recommended.",
+      "Ventricular assist devices can bridge patients to transplantation, or in a subgroup of patients, may be an option as destination therapy.",
+      "ACHD patients with chronic HF should be referred to specialized centres.",
+      "Specific guidelines for medical treatment of chronic HF in ACHD are lacking; practitioners should follow current general HF guidelines.",
+      "Sacubitril/valsartan may decrease morbidity, but no formal recommendation can be made due to retrospective/anecdotal nature of observations.",
+      "Co-morbidities in HF (diabetes mellitus, atrial fibrillation, central sleep apnoea, iron deficiency, cachexia) should be treated according to specific recommendations in the document.",
+      "In biventricular circulation, patients with an impaired systemic left ventricle should be treated with conventional HF therapy; similar consideration may apply to symptomatic patients with a failing systemic right ventricle.",
+      "Diuretics are recommended to control symptoms of fluid retention.",
+      "Treatment of symptomatic patients with a failing single ventricle (e.g., Fontan circulation) or persistent right-to-left shunt should be initiated carefully, taking ventricular preload and systemic afterload into account.",
+      "Cardiac resynchronization therapy (CRT) may be a therapeutic option in ACHD patients with HF, but evidence in this setting is still lacking; efficacy depends on structural/functional substrate (ventricle anatomy, AV valve regurgitation, myocardial disease/scarring, type of conduction delay).",
+      "Treatment of acute HF in ACHD patients should be in an expert centre with knowledge of inotropes, availability of extracorporeal membrane oxygenation (ECMO), and advanced bridging techniques."
+    ],
+    "notes": "Recommendations repeated emphasize specialist-centre care and individualized consideration of device therapies. Evidence gaps are noted for several therapies in ACHD-specific HF populations.",
+    "abbreviations": {
+      "ACHD": "adult congenital heart disease",
+      "AF": "atrial fibrillation",
+      "AV": "atrioventricular",
+      "CRT": "cardiac resynchronization therapy",
+      "CSA": "central sleep apnoea",
+      "HF": "heart failure",
+      "LV": "left ventricular"
+    },
+    "source_excerpt_present": true
+  },
+  "genes": []
+}

@@ -1,0 +1,58 @@
+{
+  "content": {
+    "Smoking and recreational drugs": {
+      "Goals": [
+        "To be aware of the consequences for health of smoking and use of recreational drugs.",
+        "Stop smoking (including e-cigarettes) and taking recreational drugs."
+      ],
+      "Healthcare advice": [
+        "Inform, discuss and help in decision making.",
+        "Refer for specialist advice for smoking cessation and drug withdrawal and replacement therapy.",
+        "Consider referral for cognitive behavioural therapy and psychological support if patient wishes to stop smoking or taking drugs."
+      ]
+    },
+    "Travel, leisure, driving": {
+      "Goals": [
+        "To be able to prepare travel and leisure activities according to physical capacity.",
+        "To be able to take an informed decision about driving."
+      ],
+      "Healthcare advice": [
+        "Inform and discuss practical issues related to long haul travel, staying abroad, exposure to sun (amiodarone effects), high humidity or heat (dehydration), and high altitude (oxygenation).",
+        "Provide practical advice related to travel with medication/devices (keep medicines in hand luggage, have a list with medication, device name/card and treating centres).",
+        "Inform about local/national/international regulation related to driving."
+      ]
+    },
+    "Sexual activity": {
+      "Goals": [
+        "To be able to resume or adapt sexual activity according to physical capacity.",
+        "To recognize possible problems with sexual activity and their relationship with HF or its treatment."
+      ],
+      "Healthcare advice": [
+        "Inform and discuss that sexual activity is safe for stable HF patients.",
+        "Provide advice on eliminating factors predisposing to sexual problems.",
+        "Discuss and provide available pharmacological treatment for sexual problems.",
+        "Refer to specialist for sexual counselling when necessary."
+      ]
+    },
+    "Symptom monitoring and symptom self-management": {
+      "Goals": [
+        "Monitor and recognize change in signs and symptoms.",
+        "Being able to react adequately to change in signs and symptoms.",
+        "Know how and when to contact a healthcare professional."
+      ],
+      "Healthcare advice": [
+        "Provide individualized information to support self-management.",
+        "In case of increasing dyspnoea or oedema or a sudden unexpected weight gain of >2 kg in 3 days, patients may increase their diuretic dose and/or alert their healthcare team."
+      ]
+    },
+    "Living with HF - Psychological issues": {
+      "Goals": [
+        "To be able to live a good life with HF."
+      ],
+      "Healthcare advice": [
+        "Regularly communicate information on disease, treatment options and self-care."
+      ]
+    }
+  },
+  "genes": []
+}

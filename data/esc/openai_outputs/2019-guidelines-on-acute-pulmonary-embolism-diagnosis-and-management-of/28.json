@@ -1,93 +1,33 @@
 {
   "content": {
-    "title": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism - Reviewers",
-    "organizations": [
-      "European Society of Cardiology (ESC)",
-      "European Respiratory Society (ERS)"
+    "summary": "Recommendations on patient care have been extended to the entire spectrum of post-PE symptoms and functional limitation, not only CTEPH. A new comprehensive algorithm is proposed for patient follow-up after acute PE (Figure 8).",
+    "abbreviations": {
+      "CTEPH": "Chronic thromboembolic pulmonary hypertension",
+      "CTPA": "computed tomography pulmonary angiography",
+      "LMWH": "low-molecular weight heparin",
+      "NOAC(s)": "non-vitamin K antagonist oral anticoagulant(s)",
+      "PE": "pulmonary embolism",
+      "RV": "right ventricular",
+      "VKA(s)": "vitamin K antagonist(s)",
+      "VTE": "venous thromboembolism"
+    },
+    "Diagnosis": [
+      "D-dimer cut-off values adjusted for age or clinical probability can be used as an alternative to the fixed cut-off value.",
+      "Updated information is provided on the radiation dosage when using CTPA and a lung scan to diagnose PE (Table 6)."
     ],
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration conducted every January covering the previous calendar year. Declarations cover development period up to and including 2018.",
-    "page_date": "21/08/2019",
-    "page_number": "28/62",
-    "experts": [
-      {
-        "name": "Halvorsen Sigrun",
-        "declaration_type": "B - Payment to department/institution or other body; personal services listed",
-        "details": [
-          {
-            "company": "Pfizer",
-            "relationship": "Anti-thrombotic treatment",
-            "year": 2018
-          },
-          {
-            "company": "Bayer AS",
-            "relationship": "Anti-thrombotic treatment",
-            "year": 2018
-          },
-          {
-            "company": "Sanofi Aventis",
-            "relationship": "Cholesterol lowering treatment",
-            "year": 2018
-          },
-          {
-            "company": "Novartis",
-            "relationship": "Heart failure",
-            "year": 2018
-          }
-        ],
-        "free_text": "Payment to department or institution or any other body for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry."
-      },
-      {
-        "name": "Hammoudi Naima",
-        "declaration_type": "None declared",
-        "details": [],
-        "free_text": "Nothing to be declared (2018)."
-      },
-      {
-        "name": "Hayrapetyan Hamlet",
-        "declaration_type": "1 - Financial Declaration; A - Direct personal payment",
-        "details": [
-          {
-            "company": "Berlin-Chemie Menarini",
-            "relationship": "Arterial Hypertension",
-            "year": 2018
-          },
-          {
-            "company": "Servier",
-            "relationship": "Arterial Hypertension, Coronary Heart Diseases",
-            "year": 2018
-          },
-          {
-            "company": "Novartis",
-            "relationship": "Heart Failure",
-            "year": 2018
-          }
-        ],
-        "free_text": "Direct personal payments as applicable to the expert/spouse/household: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry."
-      },
-      {
-        "name": "Huijnen Steve",
-        "declaration_type": "1 - Financial Declaration; B - Payment to department/institution",
-        "details": [
-          {
-            "company": "Novartis",
-            "relationship": "Heart failure",
-            "year": 2018
-          }
-        ],
-        "free_text": "Payment to department or institution or any other body for personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry."
-      },
-      {
-        "name": "Hutyra Martin",
-        "declaration_type": "1 - Financial Declaration; A - Direct personal payment",
-        "details": [
-          {
-            "company": "Merck Sharp & Dohme",
-            "relationship": "Adempas",
-            "year": 2018
-          }
-        ],
-        "free_text": "Direct personal payments as applicable to the expert/spouse/household: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. from healthcare industry."
-      }
+    "Risk assessment": [
+      "A clear definition of haemodynamic instability and high-risk PE is provided (Table 4).",
+      "Assessment of PE severity and early PE-related risk is recommended, in addition to comorbidity/aggravating conditions and overall death risk.",
+      "Caution that RV dysfunction may be present and affect early outcomes in patients at low risk based on clinical risk scores."
+    ],
+    "Treatment in the acute phase": [
+      "Thoroughly revised section on haemodynamic and respiratory support for high-risk PE (Section 6.1).",
+      "A dedicated management algorithm is proposed for high-risk PE (Supplementary Figure 1).",
+      "NOACs are recommended as the first choice for anticoagulation treatment in a patient eligible for NOACs; VKAs are an alternative to NOACs.",
+      "The risk-adjusted management algorithm (Figure 6) was revised to take into consideration clinical PE severity, aggravating conditions/comorbidity, and the presence of RV dysfunction."
+    ],
+    "Chronic treatment after the first 3 months": [
+      "Risk factors for VTE recurrence have been classified according to high, intermediate, or low recurrence risk (Table 11)."
     ]
   },
   "genes": []

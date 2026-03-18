@@ -1,47 +1,35 @@
 {
   "content": {
-    "document_title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers",
-    "note": "Report lists declarations of interest as reported to the ESC by experts during the yearly call for declaration covering the previous calendar year (calls conducted during period of development of these guidelines up to and including 2022).",
-    "page_date": "16/05/2023",
-    "page_number": "17/57",
-    "experts": [
+    "title": "Classes of recommendations",
+    "description": "Table outlining definitions of recommendation classes and suggested wording to use.",
+    "table": [
       {
-        "name": "Falk Volkmar",
-        "year": 2022,
-        "relationship_summary": "Payment from healthcare industry to department/institution or other body for personal services (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.).",
-        "companies": [
-          "Abbott",
-          "Boston Scientific",
-          "Edwards Lifesciences",
-          "Medtronic",
-          "Novartis",
-          "Biotronik",
-          "Liva Nova",
-          "Berlin Heart",
-          "Cryolife / Jotec"
-        ],
-        "affiliations": "Membership or affiliation in political or advocacy groups working in the field of cardiology. Affiliations: - DZHK - ETH – Zurich, Dept. Health Science & Technology, Transl. Cardiovascular Technology",
-        "raw_text_excerpt": "Payment from healthcare industry to your department or institution or any other body for your personal services: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc."
+        "class": "Class I",
+        "definition": "Evidence and/or general agreement that a given treatment or procedure is beneficial, useful, effective.",
+        "wording_to_use": "Is recommended or is indicated"
       },
       {
-        "name": "Fauchier Laurent",
-        "year": 2021,
-        "relationship_summary": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-        "companies": [
-          "Astra Zeneca",
-          "Bayer",
-          "Boehringer-Ingelheim",
-          "Medtronic",
-          "Novartis",
-          "BMS/Pfizer",
-          "Novo-Nordisk",
-          "Zoll Medical",
-          "XO"
-        ],
-        "affiliations": null,
-        "raw_text_excerpt": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc."
+        "class": "Class II",
+        "definition": "Conflicting evidence and/or a divergence of opinion about the usefulness/efficacy of the given treatment or procedure.",
+        "wording_to_use": ""
+      },
+      {
+        "class": "Class IIa",
+        "definition": "Weight of evidence/opinion is in favour of usefulness/efficacy.",
+        "wording_to_use": "Should be considered"
+      },
+      {
+        "class": "Class IIb",
+        "definition": "Usefulness/efficacy is less well established by evidence/opinion.",
+        "wording_to_use": "May be considered"
+      },
+      {
+        "class": "Class III",
+        "definition": "Evidence or general agreement that the given treatment or procedure is not useful/effective, and in some cases may be harmful.",
+        "wording_to_use": "Is not recommended"
       }
-    ]
+    ],
+    "notes": "Figure appears twice on the page (duplicate). Caption 'Table 2'. Link text present: 'Open in new tab'. Heading 'Levels of evidence' shown below the figure."
   },
   "genes": []
 }

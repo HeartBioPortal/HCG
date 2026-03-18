@@ -1,111 +1,27 @@
 {
   "content": {
-    "title": "ESC Committee for Practice Guidelines 2018-2020",
-    "header_note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year (calls conducted during the period of development of these guidelines up to and including 2018).",
-    "page_date": "21/08/2019",
-    "page_number": "46/62",
-    "experts": [
-      {
-        "name": "Aboyans Victor",
-        "type_of_relationship": [
-          {
-            "category": "A - Direct personal payment (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.)",
-            "entries": [
-              {
-                "company": "Amgen",
-                "indication": "Hyperlipidemia",
-                "year": "2017"
-              },
-              {
-                "company": "Novartis",
-                "indication": "Hypertension",
-                "year": "2017"
-              },
-              {
-                "company": "Boehringer-Ingelheim",
-                "indication": "Oral anticoagulation",
-                "year": "2017"
-              },
-              {
-                "company": "Bayer Healthcare",
-                "indication": "Oral anticoagulation",
-                "year": "2017"
-              },
-              {
-                "company": "Pfizer/BMS alliance",
-                "indication": "Oral anticoagulation",
-                "year": "2017"
-              },
-              {
-                "company": "Bayer",
-                "indication": "Antithrombotic therapy",
-                "year": "2018"
-              },
-              {
-                "company": "BMS/Pfizer Alliance",
-                "indication": "Antithrombotic therapy",
-                "year": "2018"
-              },
-              {
-                "company": "NovoNordisk",
-                "indication": "Diabetes",
-                "year": "2018"
-              },
-              {
-                "company": "Novartis",
-                "indication": "Heart Failure",
-                "year": "2018"
-              },
-              {
-                "company": "Amgen",
-                "indication": "Lipid lowering therapy",
-                "year": "2018"
-              },
-              {
-                "company": "Sanofi Aventis",
-                "indication": "PAD",
-                "year": "2018"
-              }
-            ]
-          },
-          {
-            "category": "D - Research funding under your direct/personal responsibility (to department or institution) from healthcare industry",
-            "entries": [
-              {
-                "company": "Bayer Healthcare",
-                "indication": "PAD",
-                "year": "2018"
-              }
-            ]
-          }
+    "title": "3 General considerations",
+    "sections": {
+      "3.1 Epidemiology": {
+        "summary": "Venous thromboembolism (VTE), presenting as deep vein thrombosis (DVT) or pulmonary embolism (PE), is the third most frequent acute cardiovascular syndrome after myocardial infarction and stroke. Reported annual incidence rates: PE 39–115 per 100,000; DVT 53–162 per 100,000. Incidence of VTE is about eight times higher in individuals aged ≥80 years than in the fifth decade. Longitudinal studies show rising PE incidence over time. Estimated annual EU costs up to €8.5 billion. PE may cause ~300,000 deaths/year in the US. In a six-country European population (454.4 million) >370,000 deaths were related to VTE in 2004; of these, 34% died suddenly or within a few hours, 59% were diagnosed after death, and only 7% of patients who died early were correctly diagnosed with PE before death. Time-trend analyses suggest decreasing case fatality rates for acute PE, likely due to better therapies and guideline adherence, though overdiagnosis of subsegmental/non-existent PE may falsely lower case fatality by inflating the denominator. Figure 1 summarizes global trends. Pediatric data: annual VTE incidence among hospitalized children 53–157 per 100,000 and 1.4–4.9 per 100,000 in the community overall.",
+        "key_points": [
+          "VTE (DVT/PE) is the third most frequent acute cardiovascular syndrome globally.",
+          "PE incidence: 39–115/100,000; DVT incidence: 53–162/100,000.",
+          "Higher incidence in older adults (≈8× in ≥80 years vs fifth decade).",
+          "Rising PE incidence over time; decreasing case fatality rates likely from improved care but may be affected by overdiagnosis.",
+          "Substantial mortality and economic burden (EU estimate up to €8.5 billion).",
+          "Pediatric incidence: hospitalized 53–157/100,000; community 1.4–4.9/100,000."
         ]
       },
-      {
-        "name": "Baigent Colin",
-        "type_of_relationship": [
-          {
-            "category": "D - Research funding under your direct/personal responsibility (to department or institution) from healthcare industry",
-            "entries": [
-              {
-                "company": "Boehringer-Ingelheim",
-                "indication": "Empagliflozin",
-                "year": "2017-2018"
-              },
-              {
-                "company": "Novartis",
-                "indication": "Sacubitril",
-                "year": "2017-2018"
-              },
-              {
-                "company": "Pfizer",
-                "indication": "Sirolimus",
-                "year": "2017-2018"
-              }
-            ]
-          }
+      "3.2 Predisposing factors": {
+        "summary": "There is an extensive collection of predisposing environmental and genetic factors for VTE. A list of predisposing (risk) factors is shown in Table 3. VTE is considered the consequence of interaction between patient-related (usually permanent) risk factors and setting-related (usually temporary) risk factors. Categorization of temporary and permanent risk factors is important for risk assessment.",
+        "key_points": [
+          "Both environmental and genetic factors contribute to VTE risk.",
+          "Risk factors can be categorized as patient-related (usually permanent) and setting-related (usually temporary).",
+          "Table 3 (referenced) lists specific predisposing risk factors."
         ]
       }
-    ]
+    }
   },
   "genes": []
 }

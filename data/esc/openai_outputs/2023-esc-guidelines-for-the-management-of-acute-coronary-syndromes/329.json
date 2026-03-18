@@ -1,0 +1,43 @@
+{
+  "content": {
+    "summary_left": [
+      "The added cardio-protective role of ACE inhibitors/ARBs in post-ACS patients without reduced LVEF on otherwise optimal medical therapy needs to be clarified.",
+      "The future role of new treatment options, using mRNA- and siRNA-based therapies targeting lipid metabolism and inflammation, needs to be explored.",
+      "It has to be determined whether SGLT2 inhibitors in the specific group of patients with ACS without heart failure or diabetes also improve clinical outcomes, regardless of diabetes status."
+    ],
+    "summary_right": [
+      "in ACS patients with LVEF >40%.",
+      "Randomized data are needed to evaluate the role of mRNA- and siRNA-based therapies in the current context of lipid management and lipid targets.",
+      "ACS patients without HF or diabetes should be randomized to SGLT2 inhibitors vs. standard of care."
+    ],
+    "section_14_patient_perspectives": [
+      "The feasibility of performing short witnessed verbal consent followed by written consent after the acute phase needs further evaluation.",
+      "There is a need to assess the contribution of social determinants of health on ACS incidence and prognosis.",
+      "The use of validated patient-reported outcome and experience measures in evidence-based medicine should be increased.",
+      "Quality of life is a relevant outcome not captured in most trials.",
+      "Use of validated decision aids and audio-visual tools can be helpful to make informed choices."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "ACE",
+      "Associated Conditions": [
+        "acute coronary syndrome (ACS)",
+        "reduced left ventricular ejection fraction (LVEF)",
+        "post-ACS cardio-protection"
+      ],
+      "Occurrences": 1,
+      "context": "Mentioned as part of 'ACE inhibitors/ARBs' whose added cardio-protective role in post-ACS patients without reduced LVEF needs clarification."
+    },
+    {
+      "Gene": "SLC5A2 (SGLT2)",
+      "Associated Conditions": [
+        "acute coronary syndrome (ACS)",
+        "heart failure (HF)",
+        "diabetes"
+      ],
+      "Occurrences": 2,
+      "context": "Referenced via 'SGLT2 inhibitors' with statements that ACS patients without HF or diabetes should be randomized to SGLT2 inhibitors vs standard care and that their benefit in ACS populations needs determination."
+    }
+  ]
+}

@@ -1,47 +1,18 @@
 {
   "content": {
-    "title": "ESC Committee for Practice Guidelines 2018-2020 - Declarations of Interest",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "Report lists declarations of interest reported to the ESC by experts during yearly call covering previous calendar year (calls conducted during development period up to and including 2018).",
-    "date_on_page": "21/08/2019",
-    "page": "57/62",
-    "experts": [
-      {
-        "name": "Petersen Steffen Erhard",
-        "declarations": {
-          "1_Financial_Declaration": {
-            "description": "Direct personal payments (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.) from healthcare industry.",
-            "items": [
-              "Circle Cardiovascular Imaging, Inc: Cardiac MRI and CT analysis and reporting software (2017-2018)",
-              "Servier: Heart failure (2018)"
-            ]
-          },
-          "2_Other_Positions_of_Influence": {
-            "2.1_direct_ownership_shares_or_financial_interest": [
-              "Healthcare - IMAGING (2017)",
-              "Option for shares for Circle Cardiovascular Imaging Inc. (2018)"
-            ]
-          }
-        }
-      },
-      {
-        "name": "Petronio Anna Sonia",
-        "declarations": {
-          "1_Financial_Declaration": {
-            "description": "Direct personal payments (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.) and payments to department/institution.",
-            "items": [
-              "Abbott: MitraClip (2017)",
-              "Boston Scientific: TAVI (2017)",
-              "Medtronic: TAVI (2017)",
-              "Boston Scientific: Percutaneous Aortic and Mitral treatment (2018)",
-              "Medtronic: Percutaneous Aortic and mitral treatment (2018)",
-              "Abbott: Percutaneous Mitral treatment (2018)",
-              "Boston Scientific: TAVI research (payment to department/institution) (2018)"
-            ]
-          }
-        }
-      }
-    ]
+    "figure_caption": "Figure 2: Key factors contributing to haemodynamic collapse and death in acute pulmonary embolism (modified from Konstantinides et al. with permission).",
+    "figure_description": "Diagram showing increased RV afterload leading to RV dilatation, TV insufficiency, increased RV wall tension, neurohormonal activation, myocardial inflammation, increased RV O2 demand, intrapulmonary A-V shunting, RV ischaemia/hypoxic injury, reduced RV contractility, decreased RV output, reduced LV preload, decreased cardiac output and systemic BP, reduced coronary perfusion and RV O2 delivery, culminating in obstructive shock and death.",
+    "abbreviations": {
+      "A-V": "arterio-venous",
+      "BP": "blood pressure",
+      "CO": "cardiac output",
+      "LV": "left ventricular",
+      "O2": "oxygen",
+      "RV": "right ventricular",
+      "TV": "tricuspid valve"
+    },
+    "main_text": "In view of the above pathophysiological considerations, acute RV failure is defined as a rapidly progressive syndrome with systemic congestion resulting from impaired RV filling and/or reduced RV flow output, and is a critical determinant of clinical severity and outcome in acute pulmonary embolism (PE). Clinical symptoms and signs of overt RV failure and haemodynamic instability indicate a high risk of early (in-hospital or 30 day) mortality. High-risk PE is defined by haemodynamic instability and encompasses the forms of clinical presentation shown in Table 4. High-risk PE requires emergency diagnostic (upon suspicion) and therapeutic (upon confirmation or if suspicion is sufficiently high) strategies as outlined in section 7. Absence of haemodynamic instability does not exclude beginning or progressing RV dysfunction and elevated PE-related early risk; further assessment (sections 5 and 7) is necessary to determine level of risk and adjust management.",
+    "notes": "Figure footnote: 'The exact sequence of events following the increase in RV afterload is not fully understood.' Links referenced: Konstantinides et al., and internal section/table references (Table 4; sections 5, 7)."
   },
   "genes": []
 }

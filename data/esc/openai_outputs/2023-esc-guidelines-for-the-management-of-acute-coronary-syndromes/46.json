@@ -1,96 +1,38 @@
 {
   "content": {
-    "document_title": "2023 ESC Guidelines for the management of acute coronary syndromes - Reviewers (Declarations of Interest)",
-    "expert": "Hassine Majed",
-    "note": "Report lists declarations of interest as reported to the ESC by the expert during the yearly call for declaration covering the previous calendar year (calls conducted during development period up to and including 2022).",
-    "declaration_periods": [
+    "figure_caption": "Classification of patients presenting with suspected acute coronary syndrome: from a working to a final diagnosis.",
+    "flow_stages": [
       {
-        "year": 2021,
-        "relationship_type": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-        "companies_and_associated_conditions": [
-          {
-            "company": "Pfizer",
-            "associated_condition": "Dyslipidemia"
-          },
-          {
-            "company": "AstraZeneca",
-            "associated_condition": "Dyslipidemia and antithrombotic therapy"
-          },
-          {
-            "company": "Novartis",
-            "associated_condition": "Heart failure"
-          },
-          {
-            "company": "Boehringer-Ingelheim",
-            "associated_condition": "Hypertension"
-          },
-          {
-            "company": "Daiichi Sankyo",
-            "associated_condition": "Hypertension"
-          },
-          {
-            "company": "Servier",
-            "associated_condition": "Hypertension"
-          },
-          {
-            "company": "Menarini",
-            "associated_condition": "Hypertension"
-          },
-          {
-            "company": "Merck Sharp & Dohme",
-            "associated_condition": "Hypertension"
-          },
-          {
-            "company": "Sanofi Aventis",
-            "associated_condition": "Hypertension and antithrombotic therapy"
-          },
-          {
-            "company": "Recordati International",
-            "associated_condition": "Hypertension and AOD"
-          },
-          {
-            "company": "Boston Scientific",
-            "associated_condition": "LAA closure"
-          }
-        ]
+        "stage": "Clinical presentation",
+        "details": "If a patient has signs/symptoms suggestive of ACS, perform an ECG within 10 min of first medical contact (FMC). Initial ECG findings guide triage."
       },
       {
-        "year": 2022,
-        "relationship_type": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc.",
-        "companies_and_associated_conditions": [
-          {
-            "company": "Recordati International",
-            "associated_condition": "Atrial fibrillation (AF)"
-          },
-          {
-            "company": "AstraZeneca",
-            "associated_condition": "Hypertension"
-          },
-          {
-            "company": "Boehringer-Ingelheim",
-            "associated_condition": "Hypertension"
-          },
-          {
-            "company": "Servier",
-            "associated_condition": "Hypertension"
-          },
-          {
-            "company": "Menarini",
-            "associated_condition": "Hypertension"
-          },
-          {
-            "company": "Merck Sharp & Dohme",
-            "associated_condition": "Hypertension"
-          },
-          {
-            "company": "Sanofi Aventis",
-            "associated_condition": "Hypertension, Risk Factors and Prevention"
-          }
-        ]
+        "stage": "Working diagnosis",
+        "details": "Based on available clinical information and ECG findings the working ACS diagnosis is classified as STEMI or NSTE-ACS to allow initial triage and assessment."
+      },
+      {
+        "stage": "Further investigations",
+        "details": "Assessment with high-sensitivity cardiac troponin (hs-cTn) levels and, as indicated, angiography and/or imaging to help establish mechanism and subtype of myocardial infarction (MI)."
+      },
+      {
+        "stage": "Final diagnosis",
+        "details": "Final diagnosis (STEMI, NSTEMI, unstable angina, or non-ACS diagnosis) is based on symptoms, ECG, troponin results, and other tests (imaging and/or angiography). Patients initially assigned STEMI or NSTE-ACS may ultimately receive a final non-ACS diagnosis."
       }
     ],
-    "page_date": "16/05/2023",
-    "page_number": "22/57"
+    "abbreviations": {
+      "ACS": "acute coronary syndrome",
+      "ECG": "electrocardiogram",
+      "FMC": "first medical contact",
+      "hs-cTn": "high-sensitivity cardiac troponin",
+      "MI": "myocardial infarction",
+      "NSTE-ACS": "non-ST-elevation acute coronary syndrome",
+      "NSTEMI": "non-ST-elevation myocardial infarction",
+      "STEMI": "ST-elevation myocardial infarction"
+    },
+    "notes": [
+      "Figure references: Figure 3 from ESC guidelines.",
+      "The working diagnosis uses ECG and clinical information; the final diagnosis incorporates troponin and additional testing (imaging/angiography)."
+    ]
   },
   "genes": []
 }

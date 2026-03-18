@@ -1,0 +1,65 @@
+{
+  "content": {
+    "page_title": "21 Appendix",
+    "sections": [
+      {
+        "heading": "ESC Scientific Document Group",
+        "body": "Includes Document Reviewers and ESC National Cardiac Societies."
+      },
+      {
+        "heading": "Document Reviewers",
+        "body": "List of individual document reviewers and their affiliations/countries.",
+        "reviewers_count_estimate": 80,
+        "reviewers_sample": [
+          "Rudolf A. de Boer (CPG Review Coordinator) (Netherlands)",
+          "P. Christian Schulze (CPG Review Coordinator) (Germany)",
+          "Magdy Abdelhamid (Egypt)",
+          "Victor Aboyans (France)",
+          "Stamatis Adamopoulos (Greece)",
+          "Stefan D. Anker (Germany)",
+          "Elena Arbelo (Spain)",
+          "Riccardo Asteiggiano (Italy)",
+          "Johann Bauersachs (Germany)",
+          "Antoni Bayes-Genis (Spain)",
+          "Michael A. Borger (Germany)",
+          "Werner Budts (Belgium)"
+        ],
+        "note": "Full reviewer list continues on the page and includes multiple reviewers from many countries."
+      },
+      {
+        "heading": "ESC National Cardiac Societies",
+        "body": "Countries and their national cardiac societies actively involved in the review process of the 2021 ESC Guidelines for diagnosis and treatment of acute and chronic heart failure.",
+        "countries_sample": [
+          "Algeria: Algerian Society of Cardiology",
+          "Armenia: Armenian Cardiologists Association",
+          "Austria: Austrian Society of Cardiology",
+          "Azerbaijan: Azerbaijan Society of Cardiology",
+          "Belarus: Belorussian Scientific Society of Cardiologists",
+          "Belgium: Belgian Society of Cardiology",
+          "Bosnia and Herzegovina: Association of Cardiologists of Bosnia and Herzegovina",
+          "Bulgaria: Bulgarian Society of Cardiology",
+          "Croatia: Croatian Cardiac Society",
+          "Cyprus: Cyprus Society of Cardiology",
+          "Czech Republic: Czech Society of Cardiology",
+          "Denmark: Danish Society of Cardiology",
+          "Egypt: Egyptian Society of Cardiology",
+          "Estonia: Estonian Society of Cardiology",
+          "Finland: Finnish Cardiac Society",
+          "France: French Society of Cardiology",
+          "Georgia: Georgian Society of Cardiology",
+          "Germany: German Cardiac Society",
+          "Greece: Hellenic Society of Cardiology",
+          "Hungary: Hungarian Society of Cardiology",
+          "Iceland: Icelandic Society of Cardiology",
+          "Ireland: Irish Cardiac Society",
+          "Israel: Israel Heart Society",
+          "Italy: Italian Federation of Cardiology",
+          "Kazakhstan: Association of Cardiologists of Kazakhstan"
+        ],
+        "note": "List continues beyond the sample; page contains many national societies and named representatives."
+      }
+    ],
+    "disclaimer_paragraph": "Advises clinicians to consider relevant official updated recommendations and guidelines from public health authorities and to verify rules and regulations relating to drugs and medical devices at time of prescription."
+  },
+  "genes": []
+}

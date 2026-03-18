@@ -1,30 +1,109 @@
 {
   "content": {
-    "document_title": "2023 ESC Guidelines for the management of acute coronary syndromes - Task Force Members",
-    "organization": "European Society of Cardiology (ESC)",
-    "page_footer_date": "12/05/2023",
-    "page_number": "12/23",
-    "expert": "Juni Peter",
-    "declarations": [
+    "document": "Clinical guideline table of contents (excerpt)",
+    "sections": [
       {
-        "year": 2020,
-        "summary": "Employment in healthcare industry (including part time). Director, Applied Health Research Centre, St. Michael's Hospital Scientific Director, Ontario COVID-19 Science Advisory Table. Serves as unpaid member of steering group of trials funded by Abbott Vascular, AstraZeneca, Biotronik, Biosensors, St. Jude Medical, Terumo and The Medicines Company; has received research grants to the institution from AstraZeneca, Biotronik, Biosensors International, Eli Lilly and The Medicines Company; honoraria to the institution for advisory boards and/or consulting from Amgen, Ava and Fresenius; no personal payments received from pharmaceutical companies or device manufacturers."
+        "section": "9.1.5.1",
+        "title": "Thrombus aspiration",
+        "page": 3768
       },
       {
-        "year": 2021,
-        "summary": "Direct personal payments from healthcare industry (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member). Expert witness roles for Hicks Morley Hamilton Stewart Storie LLP, City of Toronto, Baker McKenzie LLP on COVID-19 vaccine mandates. Payments from various organizations to department/institution for personal services. Participation in trials and projects including Thromboembolism/Coagulopathy of COVID-19 (pragmatic randomized controlled trial), ECCO2R in COPD, fertility app (Ava), infectious disease work with Appili Therapeutics, and work with Amgen Inc on PCSK9 inhibitors in patients at cardiovascular risk. Reiterated employment and directorship roles as in 2020."
+        "section": "9.1.5.2",
+        "title": "Interventions to protect the microcirculation",
+        "page": 3768
+      },
+      {
+        "section": "9.2",
+        "title": "Coronary artery bypass grafting",
+        "page": 3768
+      },
+      {
+        "section": "9.2.1",
+        "title": "Indication and timing of coronary artery bypass grafting in acute coronary syndrome patients",
+        "page": 3768
+      },
+      {
+        "section": "9.2.2",
+        "title": "Technical considerations specific to acute coronary syndrome patients",
+        "page": 3768
+      },
+      {
+        "section": "9.3",
+        "title": "Spontaneous coronary artery dissection",
+        "page": 3768
+      },
+      {
+        "section": "9.3.1",
+        "title": "Intravascular imaging",
+        "page": 3769
+      },
+      {
+        "section": "9.3.2",
+        "title": "Revascularization",
+        "page": 3769
+      },
+      {
+        "section": "10",
+        "title": "Management of patients with multivessel disease",
+        "page": 3769
+      },
+      {
+        "section": "10.1",
+        "title": "Management of multivessel disease in acute coronary syndrome complicated by cardiogenic shock",
+        "page": 3769
+      },
+      {
+        "section": "10.2",
+        "title": "Patients with multivessel coronary artery disease undergoing primary percutaneous coronary intervention",
+        "page": 3770
+      },
+      {
+        "section": "10.3",
+        "title": "Timing of non-infarct-related artery revascularization in acute coronary syndrome",
+        "page": 3771
+      },
+      {
+        "section": "10.3.1",
+        "title": "Patients presenting with ST-elevation myocardial infarction and multivessel coronary artery disease",
+        "page": 3771
+      },
+      {
+        "section": "10.3.2",
+        "title": "Patients presenting with non-ST-elevation acute coronary syndrome and multivessel coronary artery disease",
+        "page": 3771
+      },
+      {
+        "section": "10.4",
+        "title": "Evaluation of non-infarct-related artery stenosis severity (angiography vs. physiology)",
+        "page": 3771
+      },
+      {
+        "section": "10.5",
+        "title": "Hybrid revascularization",
+        "page": 3772
+      },
+      {
+        "section": "11",
+        "title": "Myocardial infarction with non-obstructive coronary arteries",
+        "page": 3772
+      },
+      {
+        "section": "12",
+        "title": "Special situations",
+        "page": 3775
+      },
+      {
+        "section": "12.1",
+        "title": "Type 2 myocardial infarction and acute myocardial injury",
+        "page": 3775
+      },
+      {
+        "section": "12.2",
+        "title": "Complications",
+        "page": 3775
       }
-    ]
+    ],
+    "notes": "Transcribed from image of guideline table of contents. Page numbers approximate as shown on image."
   },
-  "genes": [
-    {
-      "Gene": "PCSK9",
-      "Associated Conditions": [
-        "cardiovascular risk",
-        "patients at cardiovascular risk"
-      ],
-      "Occurrences": 1,
-      "context": "Amgen Inc : PCSK9 inhibitors in Patients at Cardiovascular Risk"
-    }
-  ]
+  "genes": []
 }

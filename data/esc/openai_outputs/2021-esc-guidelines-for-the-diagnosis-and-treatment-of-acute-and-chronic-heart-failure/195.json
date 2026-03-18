@@ -1,0 +1,56 @@
+{
+  "content": {
+    "Symptom monitoring and symptom self-management": {
+      "Goals": [
+        "Monitor and recognize change in signs and symptoms.",
+        "Be able to react adequately to change in signs and symptoms.",
+        "Know how and when to contact a healthcare professional."
+      ],
+      "Recommended self-management actions": [
+        "Provide individualized information to support self-management.",
+        "If increasing dyspnoea or oedema or a sudden unexpected weight gain of >2 kg in 3 days occurs, patients may increase their diuretic dose and/or alert their healthcare team."
+      ]
+    },
+    "Living with HF": {
+      "Psychological issues - Goals": [
+        "To be able to live a good life with HF.",
+        "To be able to seek help in case of psychological problems such as depressive symptoms, anxiety or low mood which may occur in the course of the HF trajectory.",
+        "To recognise that the carer or family members may be greatly affected and need to seek help."
+      ],
+      "Psychological issues - Recommendations": [
+        "Regularly communicate information on disease, treatment options and self-care.",
+        "Regularly discuss the need for support.",
+        "Treat or refer to specialist for psychological support when necessary."
+      ],
+      "Family and informal caregivers - Goals": [
+        "To be able to ask for support."
+      ],
+      "Family and informal caregivers - Recommendations": [
+        "Discuss the preference of caregiver/family involvement.",
+        "Involve patients and caregivers in a respectful way."
+      ]
+    },
+    "Exercise rehabilitation (Section 9.4)": {
+      "Key points": [
+        "Physical conditioning by exercise training improves exercise tolerance and health-related quality of life (QOL) in patients with HF.",
+        "Clinical trials and meta-analyses in people with HFrEF show that exercise rehabilitation improves exercise capacity and QOL.",
+        "Meta-analyses also show reduced all-cause and HF hospitalizations, though uncertainty remains about effects on mortality.",
+        "Benefits on hospitalization are seen in those highly adherent to the exercise programme.",
+        "High-intensity interval training, in patients who are able and willing, may improve peak oxygen consumption (VO2).",
+        "Supervised exercise-based rehabilitation should be considered for those who are frail or have more severe disease or comorbidities."
+      ],
+      "Notes": [
+        "References and numbered citations are present in the original text supporting these statements."
+      ]
+    },
+    "Footer notes / abbreviations": {
+      "Visible abbreviations (as printed)": [
+        "CMP (appears in footer but context unclear)",
+        "CV (appears as part of abbreviation strings)",
+        "HF = heart failure"
+      ],
+      "Other": "The page includes a note that 1 unit = 10 mL of pure alcohol (examples given)."
+    }
+  },
+  "genes": []
+}

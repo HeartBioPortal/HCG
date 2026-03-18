@@ -1,0 +1,61 @@
+{
+  "content": {
+    "Title": "Recommendations",
+    "Sections": {
+      "Hypoxia": [
+        {
+          "Recommendation": "Oxygen is recommended in patients with hypoxaemia (SaO2 <90%).",
+          "Class": "I",
+          "Level": "C"
+        },
+        {
+          "Recommendation": "Routine oxygen is not recommended in patients without hypoxaemia (SaO2 >90%).",
+          "Class": "III",
+          "Level": "A"
+        }
+      ],
+      "Symptoms": [
+        {
+          "Recommendation": "Intravenous opioids should be considered to relieve pain.",
+          "Class": "IIa",
+          "Level": "C"
+        },
+        {
+          "Recommendation": "A mild tranquilizer should be considered in very anxious patients.",
+          "Class": "IIa",
+          "Level": "C"
+        }
+      ],
+      "Intravenous beta-blockers": [
+        {
+          "Recommendation": "Intravenous beta-blockers (preferably metoprolol) should be considered at the time of presentation in patients undergoing PPCI with no signs of acute heart failure, an SBP >120 mmHg, and no other contraindications.",
+          "Class": "IIa",
+          "Level": "A"
+        }
+      ],
+      "Pre-hospital logistics of care": [
+        {
+          "Recommendation": "Pre-hospital management of patients with a working diagnosis of STEMI should be based on regional networks designed to deliver reperfusion therapy expeditiously and effectively, with efforts made to make PPCI available to as many patients as possible.",
+          "Class": "I",
+          "Level": "B"
+        },
+        {
+          "Recommendation": "PPCI-capable centres should deliver a 24/7 service and be able to perform PPCI without delay.",
+          "Class": "I",
+          "Level": "B"
+        },
+        {
+          "Recommendation": "Patients transferred for PPCI should bypass the emergency department and CCU/ICU and be transferred directly to the catheterization laboratory.",
+          "Class": "I",
+          "Level": "B"
+        },
+        {
+          "Recommendation": "EMS should transfer patients with suspected STEMI to a PCI-capable centre, bypassing non-PCI centres.",
+          "Class": "I",
+          "Level": "C"
+        }
+      ]
+    }
+  },
+  "genes": []
+}

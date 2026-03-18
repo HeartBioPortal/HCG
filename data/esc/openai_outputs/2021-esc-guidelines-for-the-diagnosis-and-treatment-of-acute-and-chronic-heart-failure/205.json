@@ -1,0 +1,62 @@
+{
+  "content": {
+    "profiles": [
+      {
+        "id": 3,
+        "title": "Stable on inotrope or inotrope-dependent",
+        "description": "Patient with stable blood pressure, organ function, nutrition, and symptoms on continuous i.v. inotropic support (or a temporary circulatory support device or both) but demonstrating repeated failure to wean from support due to recurrent symptomatic hypotension or renal dysfunction.",
+        "recommended_intervention": "Definitive intervention elective over a period of weeks to few months."
+      },
+      {
+        "id": 4,
+        "title": "Frequent Flyer",
+        "description": "Patient can be stabilized close to normal volume status but experiences daily symptoms of congestion at rest or during activities of daily living. Doses of diuretics generally fluctuate at very high levels; more intensive management and surveillance strategies should be considered. Some patients may shuttle between profiles 4 and 5.",
+        "recommended_intervention": "Definitive intervention elective over a period of weeks to few months."
+      },
+      {
+        "id": 5,
+        "title": "Housebound",
+        "description": "Comfortable at rest and with activities of daily living but unable to engage in any other activity, living predominantly within the house. Patients are comfortable at rest without congestive symptoms but may have underlying refractory elevated volume status, often with renal dysfunction. If nutritional status and organ function are marginal, patients may be more at risk than INTERMACS 4 and require definitive intervention.",
+        "recommended_intervention": "Variable urgency; depends upon maintenance of nutrition, organ function, and activity."
+      },
+      {
+        "id": 6,
+        "title": "Exertion limited",
+        "description": "Patient without evidence of fluid overload, comfortable at rest and with activities of daily living and minor activities outside the home but fatigues after the first few minutes of any meaningful activity. Attribution to cardiac limitation requires careful measurement of peak oxygen consumption; in some cases haemodynamic monitoring to confirm severity of cardiac impairment.",
+        "recommended_intervention": "Variable; depends upon maintenance of nutrition, organ function, and activity level."
+      },
+      {
+        "id": 7,
+        "title": "Advanced NYHA class III symptoms",
+        "description": "Patient without current or recent episodes of unstable fluid balance, living comfortably with meaningful activity limited to mild physical exertion.",
+        "recommended_intervention": "Heart transplantation or MCS may not be currently indicated."
+      }
+    ],
+    "modifiers_for_profiles": {
+      "temporary_MCS": "Can modify profile only in hospitalized patients. They include IABP, ECMO, TandemHeart, LVAD, Impella.",
+      "arrhythmia": "Can modify any profile. Includes recurrent ventricular tachyarrhythmias that have recently contributed substantially to clinical compromise, frequent ICD shocks or requirement for external defibrillation, usually more than twice weekly.",
+      "frequent_HF_decompensation": "Characterizes patients requiring frequent emergency visits or hospitalizations for diuretics, ultrafiltration, or temporary i.v. vasoactive therapy. Frequent episodes are at least two emergency visits/admissions in the past 3 months or three in the past 6 months. Typical modification: profiles 3 if at home, 4, 5, 6; rarely for profile 7."
+    },
+    "possible_profiles_that_can_be_modified": {
+      "temporary_MCS_applies_to": [
+        1,
+        2,
+        3
+      ],
+      "frequent_decompensation_applies_to": [
+        "3 if at home",
+        4,
+        5,
+        6
+      ]
+    },
+    "abbreviations": {
+      "ECMO": "extracorporeal membrane oxygenation",
+      "HF": "heart failure",
+      "IABP": "intra-aortic balloon pump",
+      "ICD": "implantable cardioverter-defibrillator",
+      "INTERMACS": "Interagency Registry for Mechanically Assisted Circulatory Support"
+    }
+  },
+  "genes": []
+}

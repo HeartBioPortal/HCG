@@ -1,60 +1,55 @@
 {
   "content": {
-    "title": "2023 ESC Guidelines for the management of acute coronary syndromes - Task Force Members",
-    "organization": "European Society of Cardiology (ESC)",
-    "note": "Declarations of interest reported to the ESC by experts during the yearly call covering the previous calendar year (calls conducted during development period up to and including 2022).",
-    "page_date": "12/05/2023",
-    "page_number": "3/23",
-    "experts": [
+    "page_description": "Author listings with affiliations and researcher links",
+    "authors": [
       {
-        "name": "Berry Colin",
-        "entries": [
-          {
-            "year": 2022,
-            "disclosures": [
-              "Direct financial interest in healthcare, media, education companies or in companies related to, or in competition with, the ESC and its mission to reduce the burden of cardiovascular disease.",
-              "Healthcare - Risk Factors and Prevention - Kvaatchi App - a health app company which currently is not in use.",
-              "University of Glasgow holds intellectual property on the use of zibotentan in microvascular angina; named inventor; no royalties."
-            ]
-          }
-        ]
+        "name": "Takeshi Kimura",
+        "country": "Japan",
+        "links": {
+          "Oxford Academic": null,
+          "PubMed": null,
+          "Google Scholar": null
+        }
       },
       {
-        "name": "Byrne Robert",
-        "entries": [
-          {
-            "year": 2020,
-            "disclosures": [
-              "Payment from healthcare industry to department/institution for personal services (speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member).",
-              "Biotronik: Coronary intervention.",
-              "Research funding from healthcare industry under direct/personal responsibility to department or institution.",
-              "Biosensors: Coronary intervention.",
-              "Boston Scientific: Coronary intervention.",
-              "Abbott Vascular: Coronary intervention.",
-              "Membership/affiliation in political, advocacy or patient organisations working in cardiology; Women as One Quality, Equity, & Ethical Standards Committee."
-            ]
-          },
-          {
-            "year": 2021,
-            "disclosures": [
-              "Research funding from healthcare industry under direct/personal responsibility to department or institution.",
-              "Biosensors: Coronary intervention.",
-              "Boston Scientific: Coronary intervention.",
-              "Abbott Vascular: Coronary intervention.",
-              "Membership/affiliation in political, advocacy or patient organisations; Women as One Quality, Equity, & Ethical Standards Committee."
-            ]
-          },
-          {
-            "year": 2022,
-            "disclosures": [
-              "Research funding from healthcare industry under direct/personal responsibility to department or institution.",
-              "Biosensors: Clinical trial activity, Principal investigator.",
-              "Boston Scientific: Research/educational grant to institution to support fellowship programme, Clinical director.",
-              "Abbott Vascular: Research/educational grant to institution to support fellowship programme, Clinical director.",
-              "Translumina: Research/educational grant to institution to support research nurse for patient outcomes, Clinical director."
-            ]
-          }
-        ]
+        "name": "Vijay Kunadian",
+        "country": "United Kingdom",
+        "orcid": "https://orcid.org/0000-0003-2975-6971",
+        "links": {
+          "Oxford Academic": null,
+          "PubMed": null,
+          "Google Scholar": null
+        }
+      },
+      {
+        "name": "Margret Leosdottir",
+        "country": "Sweden",
+        "orcid": "https://orcid.org/0000-0003-1677-1566",
+        "links": {
+          "Oxford Academic": null,
+          "PubMed": null,
+          "Google Scholar": null
+        }
+      },
+      {
+        "name": "Roberto Lorusso",
+        "country": "Netherlands",
+        "orcid": "https://orcid.org/0000-0002-1777-2045",
+        "links": {
+          "Oxford Academic": null,
+          "PubMed": null,
+          "Google Scholar": null
+        }
+      },
+      {
+        "name": "Roberto F E Pedretti",
+        "country": "Italy",
+        "orcid": "https://orcid.org/0000-0003-1789-8657",
+        "links": {
+          "Oxford Academic": null,
+          "PubMed": null,
+          "Google Scholar": null
+        }
       }
     ]
   },

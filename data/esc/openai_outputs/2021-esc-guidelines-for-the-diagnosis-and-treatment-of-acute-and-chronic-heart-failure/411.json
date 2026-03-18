@@ -1,0 +1,26 @@
+{
+  "content": {
+    "references": [
+      "80 Taylor CJ, Roalfe AK, Iles R, Hobbs FR, investigators R, Barton P, Deeks J, McCahon D, Cowie MR, Sutton G, Davis RC, Mant J, McDonagh T, Tait L. Primary care REFeRRal for EchocaRdiogram (REFER) in heart failure: a diagnostic accuracy study. Br J Gen Pract 2017;67:e94–e102.",
+      "81 Sicari R, Nihoyannopoulos P, Evangelista A, Kasprzak J, Lancellotti P, Poldermans D, Voigt JU, Zamorano JL; European Association of Echocardiography. Stress Echocardiography Expert Consensus Statement--Executive Summary: European Association of Echocardiography (EAE). Eur Heart J 2009;30:278–289.",
+      "82 Lancellotti P, Pellikka PA, Budts W, Chaudhry FA, Donal E, Dulgheru R, Edvardsen T, Garbi M, Ha JW, Kane GC, Kreeger J, Mertens L, Pibarot P, Picano E, Ryan T, Tsutsui JM, Varga A. The clinical use of stress echocardiography in non-ischaemic heart disease: recommendations from the European Association of Cardiovascular Imaging and the American Society of Echocardiography. Eur Heart J Cardiovasc Imaging 2016;17:1191–1229.",
+      "83 Gonzalez JA, Kramer CM. Role of imaging techniques for diagnosis, prognosis and management of heart failure patients: cardiac magnetic resonance. Curr Heart Fail Rep 2015;12:276–283.",
+      "84 Messroghli DR, Moon JC, Ferreira VM, Grosse-Wortmann L, He T, Kellman P, Mascherbauer J, Nezafat R, Salerno M, Schelbert EB, Taylor AJ, Thompson R, Ugander M, van Heeswijk RB, Friedrich MG. Clinical recommendations for cardiovascular magnetic resonance mapping of T1, T2, T2* and extracellular volume: a consensus statement by the Society for Cardiovascular Magnetic Resonance (SCMR) endorsed by the European Association for Cardiovascular Imaging (EACVI). J Cardiovasc Magn Reson 2017;19:75.",
+      "85 Witteles RM, Bokhari S, Damy T, Elliott PM, Falk RH, Fine NM, Gospodinova M, Obici L, Rapezzi C, Garcia-Pavia P. Screening for transthyretin amyloid cardiomyopathy in everyday practice. JACC Heart Fail 2019;7:709–716.",
+      "86 Gupta DK, Wang TJ. Natriuretic peptides and cardiometabolic health. Circ J 2015;79:1647–1655.",
+      "87 Zois NE, Bartels ED, Hunter I, Kousholt BS, Olsen LH, Goetze JP. Natriuretic peptides in cardiometabolic regulation and disease. Nat Rev Cardiol 2014;11:403–412.",
+      "88 Nishikimi T, Kuwahara K, Nakao K. Current biochemistry, molecular biology, and clinical relevance of natriuretic peptides. J Cardiol 2011;57:131–140.",
+      "89 Velazquez EJ, Lee KL, Deja MA, Jain A, Sopko G, Marchenko A, Ali IS, Pohost G, Gradinac S, Abraham WT, Yii M, Prabhakaran D, Szwed H, Ferrazzi P, Petrie MC, O'Connor CM, Panchavinnin P, She L, Bonow RO, Rankin GR, Jones RH, Rouleau JL; STICH Investigators. Coronary-artery bypass surgery in patients with left ventricular dysfunction. N Engl J Med 2011;364:1607–1616."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "TTR",
+      "Associated Conditions": [
+        "Transthyretin amyloid cardiomyopathy"
+      ],
+      "Occurrences": 1,
+      "context": "Reference 85: 'Screening for transthyretin amyloid cardiomyopathy in everyday practice' — transthyretin (TTR) is implicated as the causal protein for this form of amyloid cardiomyopathy."
+    }
+  ]
+}

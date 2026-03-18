@@ -1,0 +1,66 @@
+{
+  "content": {
+    "title": "Pharmacological treatments to be considered in patients with (NYHA class II–IV) heart failure with mildly reduced ejection fraction",
+    "population": "Patients with HFmrEF (heart failure with mildly reduced ejection fraction), NYHA class II–IV",
+    "recommendations_table": [
+      {
+        "treatment": "Diuretics",
+        "indication": "Recommended in patients with congestion and HFmrEF to alleviate symptoms and signs",
+        "class": "I",
+        "level": "C",
+        "references": [
+          "137"
+        ]
+      },
+      {
+        "treatment": "ACE inhibitor (ACE‑I)",
+        "indication": "May be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death",
+        "class": "IIb",
+        "level": "C",
+        "references": [
+          "11"
+        ]
+      },
+      {
+        "treatment": "ARB",
+        "indication": "May be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death",
+        "class": "IIb",
+        "level": "C",
+        "references": [
+          "245"
+        ]
+      },
+      {
+        "treatment": "Beta‑blocker",
+        "indication": "May be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death",
+        "class": "IIb",
+        "level": "C",
+        "references": [
+          "12",
+          "119"
+        ]
+      },
+      {
+        "treatment": "Mineralocorticoid receptor antagonist (MRA)",
+        "indication": "May be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death",
+        "class": "IIb",
+        "level": "C",
+        "references": [
+          "246"
+        ]
+      },
+      {
+        "treatment": "Sacubitril/valsartan",
+        "indication": "May be considered for patients with HFmrEF to reduce the risk of HF hospitalization and death",
+        "class": "IIb",
+        "level": "C",
+        "references": [
+          "13",
+          "247"
+        ]
+      }
+    ],
+    "notes": "Table lists class of recommendation and level of evidence for each pharmacological option in HFmrEF"
+  },
+  "genes": []
+}

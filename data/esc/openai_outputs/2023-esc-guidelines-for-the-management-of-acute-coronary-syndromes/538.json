@@ -1,0 +1,87 @@
+{
+  "content": {
+    "page_type": "references",
+    "title": "References (excerpt)",
+    "topic": "Percutaneous coronary interventions and adjunctive therapies in acute myocardial infarction (STEMI/NSTEMI)",
+    "notes": "Reference list describing randomized trials comparing stent types, drug-coated balloons, thrombus aspiration and routine thrombectomy in acute myocardial infarction.",
+    "references": [
+      {
+        "index": 468,
+        "citation_text": "Räber L, Yamaji K, Kelbæk H, Engström T, Baumbach A, Roffi M, et al. Five-year clinical outcomes and intracoronary imaging findings of the COMFORTABLE AMI trial: randomized comparison of biodegradable polymer-based biolimus-eluting stents with bare-metal stents in patients with acute ST-segment elevation myocardial infarction. Eur Heart J 2019;40:1909–1919.",
+        "doi": "https://doi.org/10.1093/eurheartj/ehz074",
+        "topics": [
+          "biodegradable polymer-based biolimus-eluting stents",
+          "bare-metal stents",
+          "ST-elevation myocardial infarction",
+          "intracoronary imaging",
+          "5-year clinical outcomes"
+        ]
+      },
+      {
+        "index": 469,
+        "citation_text": "Vos NS, Fagel ND, Amoroso G, Herrman J-PR, Patterson MS, Piers LH, et al. Paclitaxel-coated balloon angioplasty versus drug-eluting stent in acute myocardial infarction: the REVELATION randomized trial. JACC Cardiovasc Interv 2019;12:1691–1699.",
+        "doi": "https://doi.org/10.1016/j.jcin.2019.04.016",
+        "topics": [
+          "paclitaxel-coated balloon angioplasty",
+          "drug-eluting stent",
+          "acute myocardial infarction"
+        ]
+      },
+      {
+        "index": 470,
+        "citation_text": "Scheller B, Ohlow MA, Ewen S, Kische S, Rudolph TK, Clever YP, et al. Bare metal or drug-eluting stent versus drug-coated balloon in non-ST-elevation myocardial infarction: the randomised PEPCAD NSTEMI trial. EuroIntervention 2020;15:1527–1533.",
+        "doi": "https://doi.org/10.4244/eij-d-19-00723",
+        "topics": [
+          "bare-metal stent",
+          "drug-eluting stent",
+          "drug-coated balloon",
+          "NSTEMI"
+        ]
+      },
+      {
+        "index": 471,
+        "citation_text": "Belkacemi A, Agostoni P, Nathoe HM, Voskuil M, Shao CL, Van Belle E, et al. First results of the DEB-AMI (drug eluting balloon in acute ST-segment elevation myocardial infarction) trial: a multicenter randomized comparison of drug-eluting balloon plus bare-metal stent versus bare-metal stent versus drug-eluting stent in primary percutaneous coronary intervention with 6-month angiographic, intravascular, functional, and clinical outcomes. J Am Coll Cardiol 2012;59:2327–2337.",
+        "doi": "https://doi.org/10.1016/j.jacc.2012.02.027",
+        "topics": [
+          "drug-eluting balloon (DEB)",
+          "bare-metal stent",
+          "drug-eluting stent",
+          "primary PCI",
+          "ST-elevation myocardial infarction",
+          "6-month outcomes"
+        ]
+      },
+      {
+        "index": 472,
+        "citation_text": "Fröbert O, Lagerqvist B, Olivecrona GK, Omerovic E, Gudnason T, Maeng M, et al. Thrombus aspiration during ST-segment elevation myocardial infarction. N Engl J Med 2013;369:1587–1597.",
+        "doi": "https://doi.org/10.1056/NEJMoa1308789",
+        "topics": [
+          "thrombus aspiration",
+          "ST-elevation myocardial infarction",
+          "aspiration thrombectomy"
+        ]
+      },
+      {
+        "index": 473,
+        "citation_text": "Lagerqvist B, Fröbert O, Olivecrona GK, Gudnason T, Maeng M, Alström P, et al. Outcomes 1 year after thrombus aspiration for myocardial infarction. N Engl J Med 2014;371:1111–1120.",
+        "doi": "https://doi.org/10.1056/NEJMoa1405707",
+        "topics": [
+          "thrombus aspiration",
+          "1-year outcomes",
+          "myocardial infarction"
+        ]
+      },
+      {
+        "index": 474,
+        "citation_text": "Jolly SS, Cairns JA, Yusuf S, Meeks B, Pogue J, Rokoss MJ, et al. Randomized trial of primary PCI with or without routine manual thrombectomy. N Engl J Med 2015;372:1389–1398.",
+        "doi": "https://doi.org/10.1056/NEJMoa1415098",
+        "topics": [
+          "primary PCI",
+          "routine manual thrombectomy",
+          "randomized trial"
+        ]
+      }
+    ]
+  },
+  "genes": []
+}

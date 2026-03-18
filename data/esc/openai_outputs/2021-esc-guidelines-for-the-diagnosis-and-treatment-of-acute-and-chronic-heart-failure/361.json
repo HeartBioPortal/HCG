@@ -1,0 +1,19 @@
+{
+  "content": {
+    "Indication": [
+      "Indicated at baseline in all patients with clinical history + ECG, elevated troponin or echocardiographic abnormalities, and significant CAD excluded or unlikely.",
+      "Advised at follow-up in patients with persistent dysfunction at echocardiography, arrhythmias or ECG abnormalities."
+    ],
+    "Main findings": [
+      "At baseline: T1-weighted (inflammation, injury) and T2-weighted (oedema) sequences, extracellular volume and LGE within 2 weeks after symptom onset (refs cited).",
+      "At follow up: LGE to evaluate the degree of scarring; T1 and T2 to identify persistent inflammation."
+    ],
+    "Diagnostic significance": [
+      "Require at least one T2-based criterion (global or regional increase of myocardial T2 relaxation time or increased signal intensity in T2-weighted images) together with at least one T1-based criterion (increased myocardial T1, extracellular volume, or LGE) in the acute phase.",
+      "Only one (i.e., T2-based or T1-based) marker may still support a diagnosis of acute myocardial inflammation in an appropriate clinical scenario, albeit with less specificity in the acute phase.",
+      "A negative T1/T2 scan does not exclude a still ongoing inflammatory process in the chronic phase."
+    ],
+    "Notes": "Content on the page is repeated/duplicated (same sections appear twice)."
+  },
+  "genes": []
+}

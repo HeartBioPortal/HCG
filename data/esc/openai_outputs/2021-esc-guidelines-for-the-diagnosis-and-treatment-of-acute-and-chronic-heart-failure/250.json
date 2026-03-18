@@ -1,0 +1,47 @@
+{
+  "content": {
+    "title": "Inotropes and/or vasopressors used to treat acute heart failure (Table 22)",
+    "table_description": "Recommended infusion rates for inotropes and vasopressors used to treat acute heart failure",
+    "drugs": [
+      {
+        "Drug": "Dobutamine",
+        "Infusion rate": "2.5–20 μg/kg/min (beta+)"
+      },
+      {
+        "Drug": "Dopamine",
+        "Infusion rate": "3–5 μg/kg/min; inotropic (beta+) >5 μg/kg/min: inotropic (beta+), vasopressor (alpha+)"
+      },
+      {
+        "Drug": "Milrinone",
+        "Infusion rate": "0.375–0.75 μg/kg/min"
+      },
+      {
+        "Drug": "Enoximone",
+        "Infusion rate": "5–20 μg/kg/min"
+      },
+      {
+        "Drug": "Levosimendan",
+        "Infusion rate": "0.1 μg/kg/min (can be decreased to 0.05 or increased to 0.2 μg/kg/min)"
+      },
+      {
+        "Drug": "Norepinephrine",
+        "Infusion rate": "0.2–1.0 μg/kg/min"
+      },
+      {
+        "Drug": "Epinephrine",
+        "Infusion rate": "0.05–0.5 μg/kg/min"
+      }
+    ],
+    "section": "11.3.7 Opiates",
+    "opiates_summary": "Opiates relieve dyspnoea and anxiety and may be used as sedative agents during non-invasive positive pressure ventilation to improve patient adaptation. Dose-dependent side effects include nausea, hypotension, bradycardia, and respiratory depression. Retrospective analyses suggest morphine administration is associated with greater frequency of mechanical ventilation, prolonged hospitalization, more intensive care unit admissions, and increased mortality. Routine use of opiates in acute heart failure (AHF) is not recommended, though they may be considered in selected patients (e.g., severe/intractable pain or anxiety or palliative settings).",
+    "references_mentioned": [
+      "488",
+      "491"
+    ],
+    "links": [
+      "Open in new tab",
+      "Recommendations for the initial treatment of acute heart failure"
+    ]
+  },
+  "genes": []
+}

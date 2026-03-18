@@ -1,0 +1,50 @@
+{
+  "content": {
+    "title": "Multidisciplinary interventions recommended for the management of chronic heart failure",
+    "summary": "Clinical trials include complex, bundled interventions; table presents characteristics and components important for HF management programmes (HF-MP). Multidisciplinary HF management and self-management reduce HF hospitalization and mortality. Home-based and/or clinic-based programmes improve outcomes. Influenza and pneumococcal vaccination considered to prevent HF hospitalizations.",
+    "recommendations": [
+      {
+        "text": "It is recommended that HF patients are enrolled in a multidisciplinary HF management programme to reduce the risk of HF hospitalization and mortality.",
+        "class": "I",
+        "level": "A",
+        "references": [
+          "309",
+          "314",
+          "315",
+          "316"
+        ]
+      },
+      {
+        "text": "Self-management strategies are recommended to reduce the risk of HF hospitalization and mortality.",
+        "class": "I",
+        "level": "A",
+        "references": [
+          "309"
+        ]
+      },
+      {
+        "text": "Either home-based and/or clinic-based programmes improve outcomes and are recommended to reduce the risk of HF hospitalization and mortality.",
+        "class": "I",
+        "level": "A",
+        "references": [
+          "310",
+          "317"
+        ]
+      },
+      {
+        "text": "Influenza and pneumococcal vaccinations should be considered in order to prevent HF hospitalizations.",
+        "class": "IIa",
+        "level": "B",
+        "references": [
+          "315",
+          "316"
+        ]
+      }
+    ],
+    "notes": [
+      "Recommendation table attributed to ESC 2021.",
+      "Footnote: a = Class of recommendation. HF = heart failure."
+    ]
+  },
+  "genes": []
+}

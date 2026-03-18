@@ -1,0 +1,59 @@
+{
+  "content": {
+    "title": "Self-care aspects",
+    "Activity and exercise": {
+      "Objectives": [
+        "To undertake regular exercise and be physically active.",
+        "To be able to adapt physical activity to symptom status and personal circumstances."
+      ],
+      "Advice": [
+        "Advise on exercise that recognizes physical and functional limitations, such as frailty, comorbidities.",
+        "Refer to exercise programme or other activity modes.",
+        "Discuss possible barriers, side-effects and opportunities."
+      ]
+    },
+    "Sleep and breathing": {
+      "Objectives": [
+        "To recognize the importance of sleep and rest for (CV) health.",
+        "To be able to recognize problems with sleeping and how to optimize sleep."
+      ],
+      "Advice": [
+        "Review sleep history.",
+        "Advise and discuss the importance of good sleep and provide advice on sleep health (including timing of diuretics).",
+        "Consider and carefully discuss the benefits and deleterious effects of sleep medication."
+      ]
+    },
+    "Fluids": {
+      "Objectives": [
+        "To avoid large volumes of fluid intake. A fluid restriction of 1.5–2 L/day may be considered in patients with severe HF/hyponatraemia to relieve symptoms and congestion.",
+        "To avoid dehydration: where fluids are restricted, increase intake during periods of high heat/humidity and/or nausea/vomiting."
+      ],
+      "Advice": [
+        "Provide information and discuss the advantages and disadvantages of fluid restriction.",
+        "Advise to adapt fluid intake to weight, and in times of high heat and humidity, nausea/vomiting.",
+        "Adjust advice during periods of acute decompensation and consider altering this advice towards end-of-life."
+      ]
+    },
+    "Healthy diet": {
+      "Objectives": [
+        "To be able to prevent malnutrition and know how to eat healthily, avoiding excessive salt intake (>5 g/day) and maintaining a healthy body weight."
+      ],
+      "Advice": [
+        "Discuss current food intake, role of salt, role of micronutrients.",
+        "Discuss the need for supplementing in case of nutrient deficiencies but there is no clear role for routine micronutrient supplementation.",
+        "Discuss maintaining a healthy body weight."
+      ],
+      "reference": "citation 321 (as shown on page)"
+    },
+    "Alcohol": {
+      "Objectives": [
+        "To be able to abstain from or avoid excessive alcohol intake, especially for alcohol-induced CMP."
+      ],
+      "Advice": [
+        "Tailor alcohol advice to aetiology of HF; e.g., abstinence in alcoholic CMP.",
+        "Inform and discuss alcohol intake according to CV prevention guidelines (2 units per day referenced)."
+      ]
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,69 @@
+{
+  "content": {
+    "page_title": "Reference list (selected trials on dual antiplatelet therapy)",
+    "key_topics": [
+      "dual antiplatelet therapy duration (1, 3, 6, 12 months)",
+      "drug-eluting stent implantation",
+      "percutaneous coronary intervention (PCI)",
+      "acute coronary syndrome (ACS)",
+      "P2Y12 inhibitor monotherapy vs dual antiplatelet therapy",
+      "randomized clinical trials/meta-analyses"
+    ],
+    "references": [
+      {
+        "id": 264,
+        "citation": "Palmerini T, Della Riva D, Benedetto U, Bacchi Reggiani L, Feres F, Abizaid A, et al. Three, six, or twelve months of dual antiplatelet therapy after DES implantation in patients with or without acute coronary syndromes: an individual patient data pairwise and network meta-analysis of six randomized trials and 11 473 patients. Eur Heart J 2017;38:1034–1043.",
+        "doi": "https://doi.org/10.1093/eurheartj/ehw627",
+        "notes": "Meta-analysis comparing 3, 6, 12 months DAPT after DES in patients with/without ACS."
+      },
+      {
+        "id": 265,
+        "citation": "Hahn J-Y, Song YB, Oh J-H, Cho D-K, Lee JB, Doh J-H, et al. A 6-month versus 12-month or longer dual antiplatelet therapy after percutaneous coronary intervention in patients with acute coronary syndrome (SMART-DATE): a randomised, open-label, non-inferiority trial. Lancet 2018;391:1274–1284.",
+        "doi": "https://doi.org/10.1016/S0140-6736(18)30493-8",
+        "notes": "SMART-DATE trial evaluating 6 vs ≥12 months DAPT in ACS patients undergoing PCI."
+      },
+      {
+        "id": 266,
+        "citation": "Kedhi E, Fabris E, van der Ent M, Buszman P, von Birgelen C, Roolvink V, et al. Six months versus 12 months dual antiplatelet therapy after drug-eluting stent implantation in ST-elevation myocardial infarction (DAPT-STEMI): randomised, multicentre, non-inferiority trial. BMJ 2018;363:k3793.",
+        "doi": "https://doi.org/10.1136/bmj.k3793",
+        "notes": "DAPT-STEMI trial comparing 6 vs 12 months DAPT after DES in STEMI patients."
+      },
+      {
+        "id": 267,
+        "citation": "De Luca G, Damen SA, Camaro C, Benit E, Verdoia M, Rasoul S, et al. Final results of the randomised evaluation of short-term dual antiplatelet therapy in patients with acute coronary syndrome treated with a new-generation stent (REDUCE trial). EuroIntervention 2019;15:e990–e998.",
+        "doi": "https://doi.org/10.4244/eij-d-19-00539",
+        "notes": "REDUCE trial evaluating short-term DAPT in ACS patients with new‑generation stents."
+      },
+      {
+        "id": 268,
+        "citation": "Hahn J-Y, Song YB, Oh J-H, Chun WJ, Park YH, Jang WJ, et al. Effect of P2Y12 inhibitor monotherapy vs dual antiplatelet therapy on cardiovascular events in patients undergoing percutaneous coronary intervention: the SMART-CHOICE randomized clinical trial. JAMA 2019;321:2428–2437.",
+        "doi": "https://doi.org/10.1001/jama.2019.8146",
+        "notes": "SMART-CHOICE trial comparing P2Y12 inhibitor monotherapy to standard DAPT after PCI for effects on cardiovascular events."
+      },
+      {
+        "id": 269,
+        "citation": "Vranckx P, Valgimigli M, Jüni P, Hamm C, Steg PG, Heg D, et al. Ticagrelor plus aspirin for 1 month, followed by ticagrelor monotherapy for 23 months vs aspirin plus clopidogrel or ticagrelor for 12 months, followed by aspirin monotherapy for 12 months after implantation of a drug-eluting stent: a multicentre, open-label, randomised superiority trial. Lancet 2018;392:940–949.",
+        "doi": "https://doi.org/10.1016/S0140-6736(18)31858-0",
+        "notes": "Trial testing short aspirin + ticagrelor then ticagrelor monotherapy vs conventional regimens after DES."
+      },
+      {
+        "id": 270,
+        "citation": "Watanabe H, Domei T, Morimoto T, Natsuaki M, Shiomi H, Toyota T, et al. Effect of 1-month dual antiplatelet therapy followed by clopidogrel vs 12-month dual antiplatelet therapy on cardiovascular and bleeding events in patients receiving PCI: the STOPDAPT-2 randomized clinical trial. JAMA 2019;321:2414–2427.",
+        "doi": null,
+        "notes": "STOPDAPT-2 trial comparing 1-month DAPT followed by clopidogrel vs 12-month DAPT in PCI patients."
+      }
+    ],
+    "summary_statement": "This page lists randomized trials and a meta-analysis comparing durations and compositions of dual antiplatelet therapy (DAPT) after drug-eluting stent implantation or PCI, including trials testing P2Y12 inhibitor monotherapy versus standard DAPT, primarily in patients with acute coronary syndromes or undergoing PCI."
+  },
+  "genes": [
+    {
+      "Gene": "P2Y12",
+      "Associated Conditions": [
+        "cardiovascular events",
+        "patients undergoing percutaneous coronary intervention (PCI)"
+      ],
+      "Occurrences": 1,
+      "context": "Reference 268: 'Effect of P2Y12 inhibitor monotherapy vs dual antiplatelet therapy on cardiovascular events in patients undergoing percutaneous coronary intervention: the SMART-CHOICE randomized clinical trial.'"
+    }
+  ]
+}

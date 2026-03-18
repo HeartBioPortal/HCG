@@ -1,80 +1,14 @@
 {
   "content": {
-    "committee": "ESC Committee for Practice Guidelines 2018-2020",
-    "note": "Declarations of interest reported to the ESC by experts during the yearly call covering the previous calendar year (up to and including 2018).",
-    "expert": "Katus Hugo",
-    "financial_declaration": {
-      "direct_personal_payment": [
-        {
-          "company": "Daiichi Sankyo",
-          "product": "Lixiana (NOAK)",
-          "year": 2017
-        },
-        {
-          "company": "AstraZeneca",
-          "product": "Ticagrelor",
-          "year": 2017
-        },
-        {
-          "company": "Bayer Vital",
-          "product": "Xarelto (NOAK)",
-          "year": 2017
-        },
-        {
-          "company": "Daiichi Sankyo",
-          "product": "Anticoagulants",
-          "year": 2018
-        },
-        {
-          "company": "Bayer Vital",
-          "product": "Anticoagulants",
-          "year": 2018
-        },
-        {
-          "company": "AstraZeneca",
-          "product": "Antiplatelet",
-          "year": 2018
-        },
-        {
-          "company": "Roche Diagnostics",
-          "product": "Biomar",
-          "year": 2018
-        }
-      ],
-      "research_funding_under_direct_responsibility": [
-        {
-          "company": "St Jude Medical",
-          "project": "Biobank",
-          "year": 2017
-        },
-        {
-          "company": "Philips",
-          "project": "MRT",
-          "year": 2017
-        },
-        {
-          "company": "Roche Diagnostics",
-          "project": "Biomarker",
-          "year": 2018
-        },
-        {
-          "company": "Daiichi Sankyo",
-          "project": "Xarelto",
-          "year": 2018
-        }
-      ]
-    },
-    "other_positions_of_influence": [
-      {
-        "category": "Membership/affiliation in political or advocacy groups in cardiology",
-        "role": "President of the German Society of Cardiology",
-        "year": 2018
-      }
+    "extracted_text_lines": [
+      "Hospitalization for heart failure or atrial fibrillation/flutter (within previous 3 months)",
+      "Hip or knee replacement",
+      "Major trauma",
+      "Myocardial infarction (within previous 3 months)",
+      "Previous VTE",
+      "Spinal cord injury"
     ],
-    "footer": {
-      "date": "21/08/2019",
-      "page": "52/62"
-    }
+    "section_note": "Moderate risk factors (OR 2–9)"
   },
   "genes": []
 }

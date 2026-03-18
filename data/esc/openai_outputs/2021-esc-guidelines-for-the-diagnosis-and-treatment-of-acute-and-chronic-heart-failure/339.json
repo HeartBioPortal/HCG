@@ -1,0 +1,26 @@
+{
+  "content": {
+    "use_of_sequencing": "The use of additional sequencing for analysis of very large gene panels may be considered if there is a clear familial history or structural phenotype, preferably combined with family segregation.",
+    "specific_conditions": {
+      "muscular_weakness": "Consider mitochondrial X-linked mutations, glycogen storage disorders, FHL1 mutations, Friedreich ataxia.",
+      "syndromic_conditions": "Cognitive, visual impairment, drooping eyelid: consider mitochondrial X-linked mutations, Noonan syndrome, Danon disease.",
+      "cafe_au_lait_spots": "Consider Leopard/Noonan syndrome (lentigines)."
+    },
+    "endomyocardial_biopsy": {
+      "indication": "May be considered when baseline clinical assessment suggests cardiac inflammation or storage disease which cannot be diagnosed by other means (see also Section 14.6).",
+      "therapeutic_options_references": "[references cited in original text]",
+      "with_LVOTO": [
+        "Avoid hypovolaemia (dehydration), arterial and venous dilators (nitrates and phosphodiesterase type 5 inhibitors), and digoxin.",
+        "Use non-vasodilating beta-blockers or use verapamil if beta-blockers not tolerated or ineffective.",
+        "Low-dose loop or thiazide diuretics must be used with caution to improve dyspnoea associated with LVOTO, while avoiding hypovolaemia.",
+        "Invasive treatment (septal reduction therapy by alcohol ablation or myomectomy), in experienced centres, may be considered in patients with resting or provoked LVOTO ≥50 mmHg and/or who remain symptomatic (NYHA class III or IV, syncope) despite optimal medical therapy.",
+        "Novel drugs or devices may be considered once available."
+      ],
+      "symptomatic_without_LVOTO": [
+        "Cautious use of low-dose loop or thiazide diuretics avoiding hypovolaemia.",
+        "Verapamil/diltiazem if LVEF >50% and beta-blockers are not tolerated or ineffective."
+      ]
+    }
+  },
+  "genes": []
+}

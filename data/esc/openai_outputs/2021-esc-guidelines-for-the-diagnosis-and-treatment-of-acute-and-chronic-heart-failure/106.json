@@ -1,0 +1,33 @@
+{
+  "content": {
+    "Cardiac": [
+      "Myocarditis",
+      "Left ventricular hypertrophy",
+      "Hypertrophic or restrictive cardiomyopathy",
+      "Valvular heart disease",
+      "Congenital heart disease",
+      "Atrial and ventricular tachyarrhythmias",
+      "Heart contusion",
+      "Cardioversion, ICD shock",
+      "Surgical procedures involving the heart",
+      "Pulmonary hypertension",
+      "Heart failure",
+      "ACS",
+      "Pulmonary embolism"
+    ],
+    "Non-cardiac": [
+      "Advanced age",
+      "Ischaemic stroke",
+      "Subarachnoid haemorrhage",
+      "Renal dysfunction",
+      "Liver dysfunction (mainly liver cirrhosis with ascites)",
+      "Paraneoplastic syndrome",
+      "COPD",
+      "Severe infections (including pneumonia and sepsis)",
+      "Severe burns",
+      "Anaemia",
+      "Severe metabolic and hormone abnormalities (e.g. thyrotoxicosis, diabetic ketosis)"
+    ]
+  },
+  "genes": []
+}

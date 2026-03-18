@@ -1,0 +1,48 @@
+{
+  "content": {
+    "Inotropic agents": {
+      "recommendation_when_to_consider": "May be considered in patients with SBP <90 mmHg and evidence of hypoperfusion who do not respond to standard treatment, including fluid challenge, to improve peripheral perfusion and maintain end-organ function.",
+      "class": "IIb",
+      "level": "C",
+      "recommendation_when_not_routinely_used": "Not recommended routinely due to safety concerns, unless the patient has symptomatic hypotension and evidence of hypoperfusion.",
+      "class_when_not_recommended": "III",
+      "level_when_not_recommended": "C"
+    },
+    "Vasopressors": {
+      "recommendation": "A vasopressor, preferably norepinephrine, may be considered in patients with cardiogenic shock to increase blood pressure and vital organ perfusion.",
+      "class": "IIb",
+      "level": "B"
+    },
+    "Other drugs": {
+      "Thromboembolism_prophylaxis": {
+        "recommendation": "Thromboembolism prophylaxis (e.g., with low-molecular-weight heparin (LMWH)) is recommended in patients not already anticoagulated and with no contraindication to anticoagulation to reduce the risk of deep venous thrombosis and pulmonary embolism.",
+        "class": "I",
+        "level": "A",
+        "notes": "Apply unless patient is already anticoagulated or has contraindications."
+      },
+      "Opiates": {
+        "recommendation": "Routine use of opiates is not recommended, unless in selected patients with severe/intractable pain or anxiety.",
+        "class": "III",
+        "level": "C"
+      }
+    },
+    "Digoxin (section 11.3.8)": {
+      "indication": "Should be considered in patients with atrial fibrillation (AF) with a rapid ventricular rate (>110 b.p.m.) despite beta-blockers.",
+      "dosing": "Can be given in boluses of 0.25–0.5 mg IV if not used previously.",
+      "special_considerations": "In patients with comorbidities (e.g., CKD) or other factors affecting digoxin metabolism, and/or the elderly, maintenance dose may be difficult to estimate; measurements of serum digoxin concentrations should be performed.",
+      "alternatives_and_research": "Digitoxin is a potential alternative being evaluated in a randomized placebo-controlled trial (ClinicalTrials.gov Identifier: NCT03783429).",
+      "references": "See cross-reference to section 12.1.1 and cited references."
+    },
+    "Thromboembolism prophylaxis (section 11.3.9)": {
+      "recommendation": "Thromboembolism prophylaxis with heparin (e.g., LMWH) or another anticoagulant is recommended, unless contraindicated or unnecessary because of existing oral anticoagulant treatment.",
+      "references": "Guideline references cited (e.g., 494,495)."
+    },
+    "Abbreviations_and_notes": {
+      "AF": "Atrial fibrillation",
+      "CKD": "Chronic kidney disease",
+      "LMWH": "Low-molecular-weight heparin",
+      "SBP": "Systolic blood pressure"
+    }
+  },
+  "genes": []
+}

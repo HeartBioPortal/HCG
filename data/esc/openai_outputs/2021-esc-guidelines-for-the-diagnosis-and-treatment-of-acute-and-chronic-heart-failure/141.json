@@ -1,0 +1,82 @@
+{
+  "content": {
+    "title": "Management of HFrEF",
+    "figure_caption": "Central illustration. Strategic phenotypic overview of the management of heart failure with reduced ejection fraction (HFrEF).",
+    "to_reduce_mortality_for_all_patients": [
+      "ACE-I/ARNI",
+      "BB (beta-blocker)",
+      "MRA (mineralocorticoid receptor antagonist)",
+      "SGLT2i"
+    ],
+    "to_reduce_HF_hospitalization_mortality_for_selected_patients": {
+      "volume_overload": [
+        "Diuretics"
+      ],
+      "electrical_therapy_and_conduction": [
+        "CRT-P/D for SR with LBBB ≥150 ms",
+        "CRT-P/D for SR with LBBB 130–149 ms or non-LBBB ≥150 ms"
+      ],
+      "ischemic_vs_nonischemic": [
+        "ICD for ischaemic aetiology",
+        "ICD for non-ischaemic aetiology"
+      ],
+      "other_conditions_and_treatments": [
+        "Anticoagulation for atrial fibrillation",
+        "Digoxin, PVI for atrial fibrillation",
+        "CABG for coronary artery disease",
+        "Ferric carboxymaltose for iron deficiency",
+        "SAVR/TAVI for aortic stenosis",
+        "TEE MV Repair for mitral regurgitation",
+        "Ivabradine for heart rate SR>70 bpm",
+        "Hydralazine/ISDN for Black race",
+        "ARB for ACE-I/ARNI intolerance"
+      ]
+    },
+    "for_selected_advanced_HF_patients": [
+      "Heart transplantation",
+      "MCS as BTT/BTC",
+      "Long-term MCS as DT"
+    ],
+    "to_reduce_HF_hospitalization_and_improve_QOL_for_all_patients": [
+      "Exercise rehabilitation",
+      "Multi-professional disease management"
+    ],
+    "abbreviation_legend_excerpt": {
+      "ACE-I": "angiotensin-converting enzyme inhibitor",
+      "ARB": "angiotensin receptor blocker",
+      "ARNI": "angiotensin receptor–neprilysin inhibitor",
+      "BB": "beta-blocker",
+      "CRT-P/D": "cardiac resynchronization therapy/pacemaker or defibrillator",
+      "ICD": "implantable cardioverter-defibrillator",
+      "LBBB": "left bundle branch block",
+      "MCS": "mechanical circulatory support",
+      "MRA": "mineralocorticoid receptor antagonist",
+      "PVI": "pulmonary vein isolation",
+      "QOL": "quality of life",
+      "SAVR/TAVI": "surgical aortic valve replacement / transcatheter aortic valve replacement",
+      "SGLT2i": "sodium-glucose co-transporter 2 inhibitor",
+      "SR": "sinus rhythm",
+      "TEE": "transcatheter edge to edge (or transesophageal echocardiography depending on context in legend)"
+    }
+  },
+  "genes": [
+    {
+      "Gene": "ACE",
+      "Associated Conditions": [
+        "Heart failure with reduced ejection fraction (HFrEF)",
+        "Reduction of mortality"
+      ],
+      "Occurrences": 2,
+      "context": "Appears as 'ACE-I/ARNI' in the 'To reduce mortality - for all patients' box and expanded in the legend as 'ACE-I = angiotensin-converting enzyme inhibitor'."
+    },
+    {
+      "Gene": "SGLT2",
+      "Associated Conditions": [
+        "Heart failure with reduced ejection fraction (HFrEF)",
+        "Reduction of mortality and HF hospitalization"
+      ],
+      "Occurrences": 2,
+      "context": "Appears as 'SGLT2i' in the 'To reduce mortality - for all patients' box and expanded in the legend as 'SGLT2i = sodium-glucose co-transporter 2 inhibitor'."
+    }
+  ]
+}

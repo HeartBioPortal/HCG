@@ -1,0 +1,38 @@
+{
+  "content": {
+    "page_title": "Combining antiplatelets and OAC",
+    "notes": [
+      "If angiography (i.e. within 24 h) is anticipated, enoxaparin should be considered as an alternative to UFH. (Class IIa, Level B)"
+    ],
+    "recommendations": [
+      {
+        "id": 1,
+        "clinical_context": "Patients with atrial fibrillation after an ACS event",
+        "criteria": "CHA2DS2-VASc score ≥1 in men and ≥2 in women; after up to 1 week of triple antithrombotic therapy following the ACS event",
+        "recommendation": "Dual antithrombotic therapy using a NOAC at the recommended dose for stroke prevention plus a single oral antiplatelet agent (preferably clopidogrel) for up to 12 months is recommended.",
+        "strength": "Class I",
+        "level": "A",
+        "references": "305–310"
+      },
+      {
+        "id": 2,
+        "clinical_context": "Patients undergoing PCI",
+        "criteria": "Any of the following circumstances: patient is on a NOAC; or INR <2.5 in VKA-treated patients",
+        "recommendation": "A UFH bolus is recommended during PCI.",
+        "strength": "Class I",
+        "level": "C"
+      }
+    ],
+    "abbreviations": {
+      "OAC": "oral anticoagulant",
+      "NOAC": "non-vitamin K oral anticoagulant",
+      "UFH": "unfractionated heparin",
+      "VKA": "vitamin K antagonist",
+      "INR": "international normalised ratio",
+      "ACS": "acute coronary syndrome",
+      "PCI": "percutaneous coronary intervention"
+    },
+    "preferred_antiplatelet": "clopidogrel (single oral antiplatelet agent preferred when used with a NOAC)"
+  },
+  "genes": []
+}

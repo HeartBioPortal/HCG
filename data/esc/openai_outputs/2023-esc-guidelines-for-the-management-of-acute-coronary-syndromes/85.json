@@ -1,51 +1,42 @@
 {
   "content": {
-    "title": "Clinical Practice Guidelines Committee 2022-2024",
-    "organization": "European Society of Cardiology (ESC)",
-    "page_date": "24/04/2023",
-    "page_number": "4/7",
-    "note": "Report lists declarations of interest as reported to the ESC by the experts during the yearly call for declaration covering the previous calendar year.",
-    "experts": [
-      {
-        "name": "Mcevoy John William",
-        "declarations": [
-          {
-            "year": 2021,
-            "text": "Nothing to be declared"
-          },
-          {
-            "year": 2022,
-            "text": "Nothing to be declared"
-          }
-        ]
-      },
-      {
-        "name": "Mihaylova Borislava",
-        "declarations": [
-          {
-            "year": 2021,
-            "text": "Research funding from healthcare industry under direct/personal responsibility (to department or institution). Merck Sharp & Dohme: Anacetrapib. National Institute for Health Research (UK), Health Technology Assessment Programme: Cost-effectiveness of statin therapy. Barts Charity: Digital pathology. National Institute for Health Research: Various clinical studies including economic evaluations. Member of the Editorial Advisory Board of Value in Health (journal)."
-          },
-          {
-            "year": 2022,
-            "text": "Research funding from healthcare industry under direct/personal responsibility (to department or institution). Merck Sharp & Dohme: economic analyses alongside a clinical trial, senior health economist. Barts Charity: Research project, principal investigator. National Institute for Health Research (UK), Health Technology Assessment Programme: Research project, principal investigator. Bowel Research UK: research project, principal investigator."
-          }
-        ]
-      },
-      {
-        "name": "Mindham Richard",
-        "declarations": [
-          {
-            "year": 2021,
-            "text": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. Imperial College London: once-off honorarium 2019, non-recurring, less than GB£900/€1000, passed in full to UK charity CardiomyopathyUK. Other interests: pension and savings held in shares and funds."
-          },
-          {
-            "year": 2022,
-            "text": "Direct personal payment from healthcare industry: speaker fees, honoraria, consultancy, advisory board fees, investigator, committee member, etc. PASSpaces (http://passpaces.co.uk/): tutors young British doctors; acts as a patient permitting trainee to take a patient history (training and education). Travel and meeting support from healthcare industry, independent of the above activities. European Society of Cardiology: payment of hotel, travel and meals to attend or speak at ESC conferences."
-          }
-        ]
-      }
-    ]
+    "figure": "Figure 8: Selection of invasive strategy and reperfusion therapy in patients presenting with NSTE-ACS",
+    "summary": "Guidance for risk stratification and selection of invasive/reperfusion strategy in patients with non–ST-elevation acute coronary syndrome (NSTE-ACS). Patients are triaged by risk (very high, high, non-high) to determine timing of invasive angiography and reperfusion.",
+    "risk_stratification_overview": "Determine risk at first medical contact (FMC) and transfer appropriately (non-PCI centre, ambulance, or PCI centre). Very-high-risk patients require immediate transfer and invasive strategy. High-risk patients should undergo early (<24 h) or inpatient invasive strategy. Non-high-risk patients may undergo selective invasive or inpatient invasive strategy based on clinical course.",
+    "very_high_risk_features": [
+      "Haemodynamic instability or cardiogenic shock (CS)",
+      "Recurrent or ongoing chest pain refractory to medical treatment",
+      "Acute heart failure presumed secondary to ongoing myocardial ischemia",
+      "Life-threatening arrhythmias or cardiac arrest after presentation",
+      "Mechanical complications",
+      "Recurrent dynamic ECG changes suggestive of ischemia"
+    ],
+    "high_risk_features": [
+      "Confirmed diagnosis of NSTEMI based on ESC algorithms",
+      "GRACE risk score > 140",
+      "Transient ST-segment elevation",
+      "Dynamic ST-segment or T-wave changes"
+    ],
+    "management_recommendations": {
+      "very_high_risk": "Immediate invasive strategy and immediate transfer to PCI centre (Class I).",
+      "high_risk": "Early (<24 h) invasive angiography and inpatient invasive strategy (Class I / Class IIa depending on specific features).",
+      "non_high_risk": "Selective invasive strategy or inpatient invasive strategy if required; invasive strategy during admission for patients with high index of suspicion for unstable angina."
+    },
+    "abbreviations_and_definitions": {
+      "ACS": "acute coronary syndrome",
+      "CS": "cardiogenic shock",
+      "ECG": "electrocardiogram",
+      "FMC": "first medical contact",
+      "GRACE": "Global Registry of Acute Coronary Events",
+      "hs-cTn": "high-sensitivity cardiac troponin (biomarker)",
+      "NSTE-ACS": "non-ST-elevation acute coronary syndrome",
+      "NSTEMI": "non-ST-elevation myocardial infarction",
+      "PCI": "percutaneous coronary intervention",
+      "UA": "unstable angina",
+      "MI": "myocardial infarction",
+      "HF": "heart failure"
+    },
+    "notes": "Patients meeting any single very-high-risk NSTE-ACS criterion should undergo an immediate invasive strategy. Patients with high-risk criteria (e.g., confirmed NSTEMI by hs-cTn-based ESC algorithm, GRACE >140, dynamic ECG changes) should be considered for early invasive angiography within 24 hours."
   },
   "genes": []
 }

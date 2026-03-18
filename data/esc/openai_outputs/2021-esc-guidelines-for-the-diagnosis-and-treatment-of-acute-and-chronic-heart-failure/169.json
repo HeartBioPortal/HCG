@@ -1,0 +1,41 @@
+{
+  "content": {
+    "page_title": "Multidisciplinary team management for the prevention and treatment of chronic heart failure",
+    "sections": [
+      {
+        "section_number": "9",
+        "section_title": "Multidisciplinary team management for the prevention and treatment of chronic heart failure"
+      },
+      {
+        "section_number": "9.1",
+        "section_title": "Prevention of heart failure",
+        "notes": "General advice about risk factors for the development of HF and strategies to prevent HF early in the cardiovascular continuum; references supplementary figures and tables."
+      }
+    ],
+    "recommendations": [
+      {
+        "text": "Screening for, and treatment of, aetiologies, and cardiovascular and non-cardiovascular comorbidities is recommended in patients with HFpEF (see relevant sections of this document).",
+        "class": "I",
+        "level": "C",
+        "occurrences_on_page": 2
+      },
+      {
+        "text": "Diuretics are recommended in congested patients with HFpEF in order to alleviate symptoms and signs.",
+        "class": "I",
+        "level": "C",
+        "occurrences_on_page": 2
+      }
+    ],
+    "abbreviations": {
+      "HF": "heart failure",
+      "HFpEF": "heart failure with preserved ejection fraction"
+    },
+    "visible_references": [
+      "137 (cited in recommendation)",
+      "Supplementary Figure 1",
+      "Table 10"
+    ],
+    "visual_notes": "Two identical recommendation tables are shown on the page; HFpEF and explanatory footnotes (a = Class of recommendation; b = Level of evidence) appear multiple times."
+  },
+  "genes": []
+}

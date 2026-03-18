@@ -1,0 +1,56 @@
+{
+  "content": {
+    "figure_recommendations_table": {
+      "rows": [
+        {
+          "recommendation": "Short-term MCS should be considered in patients with cardiogenic shock as a BTR, BTD, BTB. Further indications include treatment of the cause of cardiogenic shock or long-term MCS or transplantation.",
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "recommendation": "IABP may be considered in patients with cardiogenic shock as a BTR, BTD, BTB, including treatment of the cause of cardiogenic shock (i.e. mechanical complication of acute MI) or long-term MCS or transplantation.",
+          "class": "IIb",
+          "level": "C",
+          "references": [
+            450
+          ]
+        },
+        {
+          "recommendation": "IABP is not routinely recommended in post-MI cardiogenic shock.",
+          "class": "III",
+          "level": "B",
+          "references": [
+            500,
+            501,
+            502
+          ]
+        }
+      ]
+    },
+    "abbreviations_explained": {
+      "BTB": "bridge to bridge",
+      "BTD": "bridge to decision",
+      "BTR": "bridge to recovery",
+      "IABP": "intra-aortic balloon pump",
+      "MCS": "mechanical circulatory support",
+      "MI": "myocardial infarction",
+      "a": "Class of recommendation",
+      "b": "Level of evidence"
+    },
+    "section_11.3.11_pre-discharge_assessment_and_post-discharge_management_planning": {
+      "main_message": "Optimize treatment before discharge to relieve congestion and reduce readmission and mortality risk; continue or initiate guideline-directed oral medical therapy when appropriate.",
+      "key_points": [
+        "A significant proportion of patients with AHF are discharged with minimal or no weight loss and persistent congestion; persistent congestion before discharge is associated with higher readmission and mortality risk (refs 427, 472).",
+        "Treatment including diuretic dose should be optimized to keep patient free of congestion (refs 426, 472).",
+        "In those admitted with ADHF, continue oral OMT except consider dose reduction/withdrawal for haemodynamic instability, severely impaired renal function, or hyperkalaemia.",
+        "Once haemodynamic stabilization is achieved with IV therapy, treatment should be optimized before discharge (ref 467).",
+        "Treatment optimization aims: (1) relieve congestion, (2) treat comorbidities such as iron deficiency that impact post-discharge outcome (ref 512), (3) initiate or restart oral OMT with beneficial effects on outcome. Doses may be uptitrated before discharge and/or early post-discharge.",
+        "Optimization of medical treatment is associated with lower 30-day readmission risk; prospective randomized trials limited to date (refs 103, 467, 513).",
+        "Retrospective analyses indicate discontinuation or dose reduction of beta-blocker therapy during AHF hospitalization is associated with worse outcomes (ref 514).",
+        "Initiation of ARNI in recently hospitalized stable patients with HFrEF, including those who are ACE-I/ARB naive, is safe and may be considered (refs 106, 107).",
+        "A prospective randomized trial showed benefit/safety with sotagliflozin in diabetic patients hospitalized for HF irrespective of LVEF (ref 136)."
+      ]
+    }
+  },
+  "genes": []
+}

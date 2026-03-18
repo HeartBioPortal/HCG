@@ -1,0 +1,50 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "content": {
+      "type": "object",
+      "description": "Structured clinical content extracted from the page. Keys may vary by page content.",
+      "additionalProperties": true
+    },
+    "genes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "Gene": {
+            "type": "string"
+          },
+          "Associated Conditions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "Occurrences": {
+            "type": "integer"
+          },
+          "context": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "Gene",
+          "Associated Conditions",
+          "Occurrences",
+          "context"
+        ]
+      }
+    }
+  },
+  "required": [
+    "content",
+    "genes"
+  ],
+  "content": {
+    "text": "",
+    "note": "The provided page image appears blank or contains no readable clinical guideline text. No clinical content, recommendations, or human gene mentions were detected."
+  },
+  "genes": []
+}

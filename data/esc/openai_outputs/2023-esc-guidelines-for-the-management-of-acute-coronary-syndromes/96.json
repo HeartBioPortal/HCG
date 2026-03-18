@@ -1,0 +1,41 @@
+{
+  "content": {
+    "recommendations": [
+      {
+        "text": "It is recommended that ambulance teams are trained and equipped to identify ECG patterns suggestive of acute coronary occlusion and to administer initial therapy, including defibrillation, and fibrinolysis when applicable.",
+        "class_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "audience": "ambulance teams",
+        "actions": [
+          "identify ECG patterns suggestive of acute coronary occlusion",
+          "administer initial therapy including defibrillation",
+          "administer fibrinolysis when applicable"
+        ],
+        "reference": "142"
+      },
+      {
+        "text": "It is recommended that all hospitals and EMS participating in the care of patients with suspected STEMI record and audit delay times and work together to achieve and maintain quality targets.",
+        "class_of_recommendation": "I",
+        "level_of_evidence": "C",
+        "audience": "hospitals and EMS",
+        "actions": [
+          "record and audit delay times for suspected STEMI care",
+          "collaborate to achieve and maintain quality targets"
+        ]
+      }
+    ],
+    "abbreviations": {
+      "CCU": "cardiac care unit",
+      "ECG": "electrocardiogram",
+      "EMS": "emergency medical services",
+      "ICU": "intensive care unit",
+      "i.v.": "intravenous",
+      "PPCI": "primary percutaneous coronary intervention",
+      "SaO2": "saturation of oxygen",
+      "SBP": "systolic blood pressure",
+      "STEMI": "ST-elevation myocardial infarction"
+    },
+    "footer_notes": "Class of recommendation and level of evidence noted. © ESC 2023"
+  },
+  "genes": []
+}

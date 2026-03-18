@@ -1,0 +1,54 @@
+{
+  "content": {
+    "title": "Exercise and follow-up recommendations for chronic heart failure",
+    "recommendations": [
+      {
+        "recommendation": "Exercise is recommended for all patients who are able in order to improve exercise capacity, quality of life (QOL), and reduce heart failure (HF) hospitalization.",
+        "class": "I",
+        "level": "A",
+        "notes": "Applies to patients able to adhere to exercise programme; physical conditioning improves exercise capacity and QOL."
+      },
+      {
+        "recommendation": "A supervised, exercise-based, cardiac rehabilitation programme should be considered in patients with more severe disease, frailty, or with comorbidities.",
+        "class": "IIa",
+        "level": "C"
+      }
+    ],
+    "footnotes": {
+      "a": "Class of recommendation.",
+      "b": "Level of evidence.",
+      "c": "In those who are able to adhere to the exercise programme."
+    },
+    "follow_up_of_chronic_heart_failure": {
+      "general_follow_up": {
+        "summary": "Patients with HF require follow-up even if symptoms are well controlled to optimize therapy, detect asymptomatic progression, and review comorbidities and advances in care.",
+        "recommended_interval": "At intervals no longer than 6 months for stable patients; more frequent after recent hospital discharge or during medication uptitration.",
+        "assessments_to_check": [
+          "Symptoms",
+          "Heart rate and rhythm",
+          "Blood pressure (BP)",
+          "Full blood count",
+          "Electrolytes",
+          "Renal function"
+        ],
+        "care_delivery_notes": "Whether stable patients must be followed by cardiologists is uncertain; primary care follow-up may be appropriate in some settings. HF specialist follow-up and use of quality improvement registries associated with higher rates of optimal therapy and improved outcomes."
+      },
+      "ecg": {
+        "recommendation": "An ECG should be done annually to detect QRS prolongation and may identify conduction disturbances and atrial fibrillation (AF).",
+        "rationale": "Detection of QRS prolongation may identify candidates for cardiac resynchronization therapy (CRT)."
+      },
+      "echocardiography": {
+        "recommendation": "Serial echocardiography generally not necessary unless clinical deterioration occurs.",
+        "specific": "An echocardiogram is advised 3–6 months after optimization of standard therapies for HFrEF to determine need for additional pharmacological agents or implanted devices."
+      },
+      "monitoring_with_biomarkers": {
+        "header_present": true,
+        "details": "Section header present in source; content not fully visible on page image."
+      }
+    },
+    "miscellaneous": {
+      "notes_on_evidence_uptake": "Uptake of evidence-based interventions is poor in many settings according to cited studies."
+    }
+  },
+  "genes": []
+}

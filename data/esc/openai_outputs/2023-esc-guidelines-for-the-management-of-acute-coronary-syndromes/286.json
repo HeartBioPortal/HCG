@@ -1,0 +1,26 @@
+{
+  "content": {
+    "summary": "Recommendations for lipid-lowering therapy in acute coronary syndrome (ACS) patients.",
+    "recommendations": [
+      "Initiate PCSK9 inhibitor treatment during ACS hospitalization for patients not at LDL-C goal despite statin and ezetimibe therapy.",
+      "Re-evaluate lipid levels 4–6 weeks after each treatment or dose adjustment to assess goal attainment and safety.",
+      "If LDL-C goals are not achieved with maximum tolerated statin alone after 4–6 weeks following ACS, add ezetimibe.",
+      "Initiation of PCSK9 inhibitor treatment is recommended in patients who do not reach their LDL-C goal despite maximum tolerated statin and ezetimibe.",
+      "Icosapent ethyl 2 g b.i.d. can be used with a statin in patients with ACS and triglycerides 1.5–5.6 mmol/L (135–499 mg/dL) despite statin treatment."
+    ],
+    "monitoring": "Lipid levels should be re-evaluated 4–6 weeks after treatment initiation or dose changes; therapeutic regimen adapted accordingly.",
+    "notes": "Data show PCSK9 inhibitors are safe and effective in lowering LDL-C in patients hospitalized with ACS and can improve plaque phenotype and regression. An algorithm for lipid-lowering management in ACS patients is outlined in Figure 18."
+  },
+  "genes": [
+    {
+      "Gene": "PCSK9",
+      "Associated Conditions": [
+        "Acute coronary syndrome (ACS)",
+        "Elevated LDL-C / failure to reach LDL-C goals despite statin and ezetimibe",
+        "Atherosclerotic plaque phenotype and plaque regression"
+      ],
+      "Occurrences": 4,
+      "context": "The guideline states that treatment with PCSK9 inhibitors has been shown to be safe and effective in lowering LDL-C in patients hospitalized with ACS and that initiation of PCSK9 inhibitor treatment is recommended during ACS hospitalization for patients not at their LDL-C goal despite statin and ezetimibe."
+    }
+  ]
+}
