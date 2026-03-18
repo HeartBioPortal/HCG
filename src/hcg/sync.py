@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from pathlib import Path
+import shutil
 
 from hcg.extractor import GuidelinePageExtractor
 from hcg.paths import ACC_AHA_DATASET, GENE_REFERENCE_PATH, PROJECT_ROOT, get_dataset_paths
@@ -49,6 +50,9 @@ def sync_datasets(
             raise ValueError("OPENAI_API_KEY is required to extract PDFs that are missing JSON outputs during sync.")
 
         if pdfs_to_extract:
+            refresh_paths = list(dict.fromkeys(scrape_result.downloaded_paths))
+            if refresh_paths:
+                reset_extraction_outputs(dataset_paths.raw_output_dir, refresh_paths, logger)
             logger.info(
                 "Running OpenAI extraction for %s %s PDF(s) that are missing JSON outputs",
                 len(pdfs_to_extract),
@@ -95,8 +99,13 @@ def sync_datasets(
 def pending_extraction_paths(scrape_result: ScrapeResult, dataset_paths) -> list[Path]:
     pending: list[Path] = []
     seen: set[Path] = set()
-    tracked_paths = [*scrape_result.downloaded_paths, *scrape_result.existing_paths]
-    for pdf_path in tracked_paths:
+    for pdf_path in scrape_result.downloaded_paths:
+        if pdf_path in seen:
+            continue
+        seen.add(pdf_path)
+        pending.append(pdf_path)
+
+    for pdf_path in scrape_result.existing_paths:
         if pdf_path in seen:
             continue
         seen.add(pdf_path)
@@ -116,3 +125,15 @@ def pdf_requires_extraction(raw_output_dir: Path, pdf_path: Path) -> bool:
 
     aggregated_path = raw_output_dir / f"{pdf_path.stem}_aggregated.json"
     return not aggregated_path.exists()
+
+
+def reset_extraction_outputs(raw_output_dir: Path, pdf_paths: list[Path], logger) -> None:
+    for pdf_path in pdf_paths:
+        pdf_output_dir = raw_output_dir / pdf_path.stem
+        aggregated_path = raw_output_dir / f"{pdf_path.stem}_aggregated.json"
+        if pdf_output_dir.exists():
+            shutil.rmtree(pdf_output_dir)
+            logger.info("Removed stale page outputs for refreshed PDF %s", pdf_path.name)
+        if aggregated_path.exists():
+            aggregated_path.unlink()
+            logger.info("Removed stale aggregated output for refreshed PDF %s", pdf_path.name)

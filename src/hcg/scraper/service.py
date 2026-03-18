@@ -42,6 +42,7 @@ def run_scrapers(
         elif dataset == ESC_DATASET:
             scraper = EscGuidelineScraper(
                 paths,
+                headless=headless,
                 timeout_seconds=timeout_seconds,
                 limit=limit,
                 dry_run=dry_run,

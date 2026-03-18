@@ -10,7 +10,7 @@ import hcg.sync as sync_module
 from hcg.extractor import GuidelinePageExtractor
 from hcg.paths import DatasetPaths
 from hcg.scraper.acc import AccGuidelineScraper
-from hcg.scraper.esc import EscGuidelineScraper
+from hcg.scraper.esc import EscGuidelineScraper, is_doi_report_text, parse_esc_detail_candidate
 from hcg.scraper.models import DownloadRecord, GuidelineCandidate, ScrapeResult
 from hcg.scraper.utils import slugify
 
@@ -55,6 +55,70 @@ def test_esc_scraper_does_not_redownload_existing_pdf(tmp_path, monkeypatch) -> 
     assert len(result.records) == 1
     assert result.records[0].status == "existing"
     assert result.records[0].pdf_path == pdf_path
+
+
+def test_parse_esc_detail_candidate_prefers_article_link_over_doi() -> None:
+    html = """
+    <html>
+      <body>
+        <h1>2022 ESC Guidelines on cardio-oncology</h1>
+        <a href="https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehac244">
+          Read the European Heart Journal
+        </a>
+        <a href="https://files.cmp.optimizely.com/download/bad-doi-report">Download the DOI</a>
+      </body>
+    </html>
+    """
+
+    candidate = parse_esc_detail_candidate(
+        html,
+        "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/cardio-oncology-guidelines/",
+    )
+
+    assert candidate is not None
+    assert candidate.download_url == "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehac244"
+    assert candidate.metadata["download_mode"] == "render_article_pdf"
+
+
+def test_esc_scraper_replaces_existing_doi_report(tmp_path, monkeypatch) -> None:
+    paths = make_dataset_paths(tmp_path, "esc")
+    paths.ensure_directories()
+    title = "2022 ESC Guidelines on cardio-oncology"
+    slug = slugify(title)
+    pdf_path = paths.source_pdf_dir / slug / f"{slug}.pdf"
+    pdf_path.parent.mkdir(parents=True, exist_ok=True)
+    pdf_path.write_bytes(b"old doi report")
+
+    candidate = GuidelineCandidate(
+        dataset="esc",
+        title=title,
+        landing_url="https://www.escardio.org/guideline-detail",
+        download_url="https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehac244",
+        metadata={"download_mode": "render_article_pdf"},
+    )
+
+    monkeypatch.setattr(EscGuidelineScraper, "discover", lambda self: [candidate])
+    monkeypatch.setattr(esc_module, "is_doi_report_pdf", lambda path: path.read_bytes() == b"old doi report")
+
+    def fake_render(self, article_url: str, destination: Path, title: str) -> int:
+        destination.write_bytes(b"%PDF-1.4 refreshed guideline")
+        return destination.stat().st_size
+
+    monkeypatch.setattr(EscGuidelineScraper, "_render_article_to_pdf", fake_render)
+
+    result = EscGuidelineScraper(paths, limit=1).scrape()
+
+    assert len(result.records) == 1
+    assert result.records[0].status == "downloaded"
+    assert result.records[0].pdf_path == pdf_path
+    assert pdf_path.read_bytes().startswith(b"%PDF-1.4 refreshed guideline")
+
+
+def test_is_doi_report_text_detects_declaration_reports() -> None:
+    assert is_doi_report_text(
+        "ESC Declaration of Interest Report 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure"
+    )
+    assert not is_doi_report_text("2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure")
 
 
 def test_process_single_pdf_writes_readable_non_error_json(tmp_path, monkeypatch) -> None:
@@ -186,6 +250,86 @@ def test_sync_extracts_existing_pdf_without_redownloading(tmp_path, monkeypatch)
     assert json.loads((paths.raw_output_dir / f"{pdf_path.stem}_aggregated.json").read_text(encoding="utf-8"))[
         "content"
     ][0]["content"]["status"] == "ok"
+
+
+def test_sync_reextracts_refreshed_pdf_and_resets_stale_outputs(tmp_path, monkeypatch) -> None:
+    paths = make_dataset_paths(tmp_path, "esc")
+    paths.ensure_directories()
+    title = "2022 ESC Guidelines on cardio-oncology"
+    slug = slugify(title)
+    pdf_path = paths.source_pdf_dir / slug / f"{slug}.pdf"
+    pdf_path.parent.mkdir(parents=True, exist_ok=True)
+    pdf_path.write_bytes(b"%PDF-1.4 refreshed")
+
+    stale_pdf_output_dir = paths.raw_output_dir / pdf_path.stem
+    stale_pdf_output_dir.mkdir(parents=True, exist_ok=True)
+    (stale_pdf_output_dir / "1.json").write_text(
+        json.dumps({"content": {"status": "stale"}, "genes": []}),
+        encoding="utf-8",
+    )
+    (paths.raw_output_dir / f"{pdf_path.stem}_aggregated.json").write_text(
+        json.dumps({"content": [{"content": {"status": "stale"}, "genes": []}], "genes": []}),
+        encoding="utf-8",
+    )
+
+    scrape_result = ScrapeResult(
+        dataset="esc",
+        records=[
+            DownloadRecord(
+                candidate=GuidelineCandidate(
+                    dataset="esc",
+                    title=title,
+                    landing_url="https://www.escardio.org/guideline-detail",
+                    download_url="https://academic.oup.com/article",
+                ),
+                status="downloaded",
+                pdf_path=pdf_path,
+            )
+        ],
+        manifest_path=paths.scraper_manifest_path,
+    )
+
+    monkeypatch.setattr(sync_module, "run_scrapers", lambda *args, **kwargs: {"esc": scrape_result})
+    monkeypatch.setattr(sync_module, "get_dataset_paths", lambda dataset: paths)
+
+    recorded: dict[str, object] = {}
+
+    class FakeExtractor:
+        def __init__(self, *, pdf_dir, output_dir, model, sleep_seconds, api_key) -> None:
+            recorded["init"] = True
+            self.output_dir = output_dir
+
+        def process_pdf_paths(self, pdf_paths) -> None:
+            recorded["pdf_paths"] = list(pdf_paths)
+            pdf_output_dir = self.output_dir / pdf_path.stem
+            pdf_output_dir.mkdir(parents=True, exist_ok=True)
+            (pdf_output_dir / "1.json").write_text(
+                json.dumps({"content": {"status": "fresh"}, "genes": []}),
+                encoding="utf-8",
+            )
+
+        def aggregate_outputs(self) -> None:
+            (self.output_dir / f"{pdf_path.stem}_aggregated.json").write_text(
+                json.dumps({"content": [{"content": {"status": "fresh"}, "genes": []}], "genes": []}),
+                encoding="utf-8",
+            )
+
+    monkeypatch.setattr(sync_module, "GuidelinePageExtractor", FakeExtractor)
+
+    results = sync_module.sync_datasets(
+        ["esc"],
+        model="gpt-5-mini",
+        sleep_seconds=0.0,
+        api_key="test-key",
+        headless=True,
+        timeout_seconds=1.0,
+    )
+
+    assert recorded["pdf_paths"] == [pdf_path]
+    assert results["esc"].extracted_pdfs == [pdf_path]
+    assert json.loads((paths.raw_output_dir / f"{pdf_path.stem}_aggregated.json").read_text(encoding="utf-8"))[
+        "content"
+    ][0]["content"]["status"] == "fresh"
 
 
 def test_require_api_key_raises_clear_error() -> None:

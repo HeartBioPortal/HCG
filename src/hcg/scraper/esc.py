@@ -21,6 +21,7 @@ from hcg.scraper.utils import (
     sha256_file,
     slugify,
     text_tokens,
+    USER_AGENT,
     write_manifest,
     read_manifest,
     year_from_text,
@@ -29,6 +30,12 @@ from hcg.scraper.utils import (
 ESC_GUIDELINES_URL = "https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines"
 ESC_ALL_GUIDELINES_URL = (
     "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/"
+)
+DOI_TEXT_MARKERS = (
+    "declaration of interest report",
+    "declarations of interest",
+    "conflict of interest policy",
+    "for esc guidelines: the report below lists declarations of interest",
 )
 
 
@@ -64,30 +71,66 @@ def parse_esc_detail_candidate(html: str, detail_url: str) -> GuidelineCandidate
     if not title:
         return None
 
-    download_url = None
+    article_url = None
+    direct_pdf_url = None
     for anchor in soup.find_all("a", href=True):
         href = resolve_url(detail_url, anchor.get("href"))
         if not href:
             continue
         text = anchor.get_text(" ", strip=True).lower()
-        if "files.cmp.optimizely.com/download/" in href.lower():
-            download_url = href
-            break
-        if "download the doi" in text or ("download" in text and href.lower().endswith(".pdf")):
-            download_url = href
-            break
+        lowered_href = href.lower()
 
-    if download_url is None:
+        if "download the doi" in text or "declaration of interest" in text:
+            continue
+        if "academic.oup.com" in lowered_href:
+            if article_url is None:
+                article_url = href
+            continue
+        if lowered_href.endswith(".pdf") and "doi" not in text and "slide" not in text:
+            if direct_pdf_url is None:
+                direct_pdf_url = href
+
+    if article_url is None and direct_pdf_url is None:
         return None
 
+    download_url = article_url or direct_pdf_url
+    download_mode = "render_article_pdf" if article_url else "direct_pdf"
     return GuidelineCandidate(
         dataset=ESC_DATASET,
         title=title,
         landing_url=detail_url,
         download_url=download_url,
         year=year_from_text(title),
-        metadata={"publisher": "ESC"},
+        metadata={
+            "publisher": "ESC",
+            "download_mode": download_mode,
+            "article_url": article_url,
+        },
     )
+
+
+def read_pdf_first_page_text(pdf_path: Path) -> str:
+    try:
+        from pypdf import PdfReader
+    except ImportError:
+        return ""
+
+    try:
+        reader = PdfReader(str(pdf_path))
+        if not reader.pages:
+            return ""
+        return (reader.pages[0].extract_text() or "").strip()
+    except Exception:
+        return ""
+
+
+def is_doi_report_text(text: str) -> bool:
+    normalized = " ".join(text.lower().split())
+    return any(marker in normalized for marker in DOI_TEXT_MARKERS)
+
+
+def is_doi_report_pdf(pdf_path: Path) -> bool:
+    return is_doi_report_text(read_pdf_first_page_text(pdf_path))
 
 
 class EscGuidelineScraper:
@@ -95,11 +138,13 @@ class EscGuidelineScraper:
         self,
         paths: DatasetPaths,
         *,
+        headless: bool = True,
         timeout_seconds: float = 60.0,
         limit: int | None = None,
         dry_run: bool = False,
     ) -> None:
         self.paths = paths
+        self.headless = headless
         self.timeout_seconds = timeout_seconds
         self.limit = limit
         self.dry_run = dry_run
@@ -148,30 +193,35 @@ class EscGuidelineScraper:
                     existing_path = match_existing_pdf_from_index(candidate.title, pdf_index)
 
                 if existing_path is not None:
-                    records.append(
-                        DownloadRecord(
-                            candidate=candidate,
-                            status="existing",
-                            pdf_path=existing_path,
-                            sha256=sha256_file(existing_path),
+                    if is_doi_report_pdf(existing_path):
+                        self.logger.warning(
+                            "Existing ESC PDF for '%s' is a declaration-of-interest report; refreshing it",
+                            candidate.title,
                         )
-                    )
-                    continue
+                    else:
+                        records.append(
+                            DownloadRecord(
+                                candidate=candidate,
+                                status="existing",
+                                pdf_path=existing_path,
+                                sha256=sha256_file(existing_path),
+                            )
+                        )
+                        continue
 
                 if self.dry_run:
-                    records.append(DownloadRecord(candidate=candidate, status="missing"))
+                    records.append(
+                        DownloadRecord(candidate=candidate, status="missing" if existing_path is None else "stale")
+                    )
                     continue
 
                 destination = self.paths.source_pdf_dir / slugify(candidate.title) / f"{slugify(candidate.title)}.pdf"
                 try:
-                    bytes_written = download_file(
-                        session,
-                        candidate.download_url or candidate.landing_url,
-                        destination,
-                        logger=self.logger,
-                        description=f"ESC {destination.stem}",
-                        timeout_seconds=self.timeout_seconds,
-                    )
+                    bytes_written = self._download_candidate(session, candidate, destination)
+                    if is_doi_report_pdf(destination):
+                        raise RuntimeError(
+                            f"ESC download for '{candidate.title}' produced a declaration-of-interest PDF instead of the guideline"
+                        )
                     pdf_index.append(
                         {
                             "path": destination,
@@ -197,6 +247,72 @@ class EscGuidelineScraper:
         if not self.dry_run:
             self._write_manifest(records)
         return ScrapeResult(dataset=ESC_DATASET, records=records, manifest_path=self.paths.scraper_manifest_path)
+
+    def _download_candidate(self, session, candidate: GuidelineCandidate, destination: Path) -> int:
+        download_mode = str(candidate.metadata.get("download_mode") or "")
+        if download_mode == "render_article_pdf":
+            return self._render_article_to_pdf(candidate.download_url or candidate.landing_url, destination, candidate.title)
+        return download_file(
+            session,
+            candidate.download_url or candidate.landing_url,
+            destination,
+            logger=self.logger,
+            description=f"ESC {destination.stem}",
+            timeout_seconds=self.timeout_seconds,
+        )
+
+    def _render_article_to_pdf(self, article_url: str, destination: Path, title: str) -> int:
+        try:
+            from playwright.sync_api import sync_playwright
+        except ImportError as exc:  # pragma: no cover - exercised during runtime only
+            raise RuntimeError(
+                "Playwright is required for ESC article rendering. Install project dependencies and run "
+                "'playwright install chromium'."
+            ) from exc
+
+        timeout_ms = int(self.timeout_seconds * 1000)
+        destination.parent.mkdir(parents=True, exist_ok=True)
+
+        try:
+            with sync_playwright() as playwright:
+                browser = playwright.chromium.launch(headless=self.headless)
+                context = browser.new_context(locale="en-US", user_agent=USER_AGENT)
+                page = context.new_page()
+                page.set_default_timeout(timeout_ms)
+                self.logger.info("Rendering ESC article PDF for %s from %s", title, article_url)
+                page.goto(article_url, wait_until="domcontentloaded")
+                page.wait_for_load_state("networkidle")
+                body_text = page.locator("body").inner_text()
+                if "just a moment" in page.title().lower() or "verify you are human" in body_text.lower():
+                    raise RuntimeError(f"OUP blocked automated access for ESC article '{title}'")
+                page.emulate_media(media="screen")
+                page.pdf(
+                    path=str(destination),
+                    format="A4",
+                    print_background=True,
+                    margin={"top": "0.5in", "right": "0.5in", "bottom": "0.5in", "left": "0.5in"},
+                )
+                context.close()
+                browser.close()
+        except Exception as exc:  # noqa: BLE001
+            raise self._rewrite_browser_launch_error(exc) from exc
+
+        return destination.stat().st_size
+
+    def _rewrite_browser_launch_error(self, exc: Exception) -> RuntimeError:
+        error_text = str(exc)
+        lowered = error_text.lower()
+        if "executable doesn't exist" in lowered:
+            return RuntimeError(
+                "Playwright Chromium is not installed on this machine. "
+                "Run `.venv/bin/playwright install chromium` once, then rerun the command."
+            )
+        if "host system is missing dependencies" in lowered or "error while loading shared libraries" in lowered:
+            return RuntimeError(
+                "Playwright Chromium dependencies are missing on this machine. "
+                "On Ubuntu, run `sudo .venv/bin/playwright install --with-deps chromium` once, then rerun the command."
+            )
+        return RuntimeError(error_text)
 
     def _write_manifest(self, records: list[DownloadRecord]) -> None:
         existing_payload = read_manifest(self.paths.scraper_manifest_path)

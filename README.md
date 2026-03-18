@@ -7,7 +7,7 @@ The repository ships the current ACC/AHA extraction corpus and now includes a da
 - `acc_aha`
   ACC guideline discovery on `acc.org`, with browser-backed PDF resolution for JACC-hosted files.
 - `esc`
-  ESC guideline discovery on `escardio.org`, with direct PDF downloads from ESC-hosted guideline pages.
+  ESC guideline discovery on `escardio.org`, with article-first capture from the linked Oxford Academic guideline pages.
 
 ## Repository layout
 
@@ -124,7 +124,8 @@ python -m hcg build-release
 - ACC scraping uses Playwright because the ACC site links out to JACC-hosted documents that are not reliably downloadable through plain HTTP requests.
 - If Playwright Chromium is not installed, ACC scraping now fails with a direct instruction to run `.venv/bin/playwright install chromium`.
 - JACC can still block automated access behind a Cloudflare verification page, even in a visible browser. When that happens, the ACC scraper records the item as `blocked` in the manifest and continues instead of hanging.
-- ESC scraping uses direct PDF links exposed on official ESC guideline detail pages.
+- ESC scraping now ignores ESC declaration-of-interest attachments, follows the linked journal article, and renders the article page to PDF for extraction.
+- Existing ESC PDFs that look like declaration-of-interest reports are treated as stale and replaced on the next `hcg scrape` or `hcg sync` run.
 - Scraper logs are written to `data/<dataset>/scraper.log`.
 - Scraper manifests are written to `data/<dataset>/scraper_manifest.json`.
 - `hcg sync` and `hcg extract` now fail immediately with a clear error if `OPENAI_API_KEY` is not set.

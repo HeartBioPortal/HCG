@@ -19,7 +19,7 @@ The current release artifact is:
 - The release artifact has been rebuilt from the cleaned raw output set and no longer depends on fallback page recovery.
 - `hcg scrape` can now check the live ACC and ESC sites for PDFs not already present locally.
 - `hcg sync` can now scrape, download, and extract PDFs that are missing JSON outputs without rerunning the full corpus or redownloading already-matched PDFs.
-- Live ESC downloads work automatically. Live ACC discovery works, but JACC can block automated downloads with a Cloudflare verification page, so blocked ACC items are now recorded and skipped instead of stalling the sync run.
+- Live ESC scraping now follows the journal article link from each ESC guideline page and rejects declaration-of-interest PDFs. Live ACC discovery works, but JACC can block automated downloads with a Cloudflare verification page, so blocked ACC items are now recorded and skipped instead of stalling the sync run.
 
 ## Coverage counts
 

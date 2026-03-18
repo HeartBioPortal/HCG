@@ -30,11 +30,14 @@ def test_parse_acc_candidates_filters_to_guidelines() -> None:
     assert candidates[0].landing_url == "https://www.jacc.org/doi/10.1016/j.jacc.2024.02.013"
 
 
-def test_parse_esc_detail_candidate_finds_direct_pdf() -> None:
+def test_parse_esc_detail_candidate_prefers_article_link_and_ignores_doi() -> None:
     html = """
     <html>
       <body>
         <h1>2024 ESC Guidelines for the management of chronic coronary syndromes</h1>
+        <a href="https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehae177">
+          Read the European Heart Journal
+        </a>
         <a href="https://yjxzhi.files.cmp.optimizely.com/download/abcdef">Download the DOI</a>
       </body>
     </html>
@@ -47,7 +50,8 @@ def test_parse_esc_detail_candidate_finds_direct_pdf() -> None:
 
     assert candidate is not None
     assert candidate.title == "2024 ESC Guidelines for the management of chronic coronary syndromes"
-    assert candidate.download_url == "https://yjxzhi.files.cmp.optimizely.com/download/abcdef"
+    assert candidate.download_url == "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehae177"
+    assert candidate.metadata["download_mode"] == "render_article_pdf"
 
 
 def test_parse_esc_detail_urls_extracts_guideline_pages() -> None:
