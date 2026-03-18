@@ -1,0 +1,38 @@
+{
+  "content": {
+    "title": "Regimens and treatment durations with non-vitamin K antagonist oral anticoagulants (NOACs)",
+    "recommendation_summary": "All patients with pulmonary embolism (PE) should receive anticoagulant therapy for at least 3 months. After this period, decision on extended anticoagulation should balance risk of recurrent venous thromboembolism (VTE) versus bleeding risk; NOACs have generally lower bleeding rates than VKAs but are not without risk.",
+    "trial_population": "In NOAC extended-treatment trials, patients with PE comprised approximately one-third of the study populations; the remaining two-thirds had proximal deep vein thrombosis (DVT) without clinically overt PE.",
+    "dabigatran": {
+      "comparators": [
+        "warfarin",
+        "placebo"
+      ],
+      "efficacy": "Dabigatran was non-inferior to warfarin for prevention of confirmed recurrent symptomatic VTE or VTE-related death, and more effective than placebo for prevention of symptomatic recurrent VTE or unexplained death.",
+      "safety": "Rate of major bleeding with dabigatran was 0.9% versus 1.8% with warfarin (reported HR 0.52, 95% CI approximately 0.27–1.02).",
+      "context": "Two studies compared dabigatran with warfarin or placebo in extended treatment of VTE."
+    },
+    "rivaroxaban": {
+      "dose_regimens": [
+        "20 mg once daily (o.d.)",
+        "20 mg or 10 mg o.d. compared with aspirin 100 mg o.d."
+      ],
+      "efficacy": "Rivaroxaban 20 mg o.d. reduced recurrent VTE (reported ~48% relative reduction versus comparator). Rivaroxaban at 20 or 10 mg o.d. reduced symptomatic recurrent fatal or non-fatal VTE versus aspirin in the aspirin-comparison study.",
+      "safety": "Reported incidence of major or clinically relevant non-major (CRNM) bleeding with rivaroxaban in one comparison was 6.0% versus 1.2% with placebo. No significant differences in rates of major or CRNM bleeding were shown between rivaroxaban doses and aspirin in the aspirin comparison.",
+      "study_size_note": "One rivaroxaban versus aspirin study included 3,365 patients.",
+      "context": "Rivaroxaban was tested versus placebo/aspirin in extended-treatment trials after 6–12 months of initial anticoagulation for a first VTE event."
+    },
+    "apixaban": {
+      "dose_regimens": [
+        "2.5 mg twice daily",
+        "5 mg twice daily"
+      ],
+      "efficacy": "Both doses of apixaban reduced incidence of symptomatic recurrent VTE or death from any cause compared with placebo.",
+      "safety": "No safety concerns reported in the referenced extended-treatment studies.",
+      "context": "Patients with VTE were randomized to two apixaban doses or placebo after 6–12 months of initial anticoagulation."
+    },
+    "general_safety_and_exclusions": "Phase III extended-treatment trials reported major bleeding rates up to ~1% (example: dabigatran) and CRNM bleeding up to ~6% in some settings. Patients judged to be at high bleeding risk by investigators (based on history and laboratory results) were excluded from the extension studies.",
+    "notes": "Text refers generically to vitamin K antagonists (VKAs) as comparator class. Supplementary Data tables are cited for detailed trial summaries."
+  },
+  "genes": []
+}

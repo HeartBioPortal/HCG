@@ -1,0 +1,80 @@
+{
+  "content": {
+    "title": "Findings related to acute PE and concomitant chronic diseases predisposing to CTEPH",
+    "columns": [
+      "Findings related to the acute PE event (obtained at PE diagnosis)",
+      "Concomitant chronic diseases and conditions predisposing to CTEPH (documented at PE diagnosis or at 3–6 month follow-up)"
+    ],
+    "rows": [
+      {
+        "PE_finding": "Previous episodes of PE or DVT",
+        "concomitant_condition": "Ventriculo-atrial shunts"
+      },
+      {
+        "PE_finding": "Large pulmonary arterial thrombi on CTPA",
+        "concomitant_condition": "Infected chronic i.v. lines or pacemakers"
+      },
+      {
+        "PE_finding": "Echocardiographic signs of PH/RV dysfunction",
+        "concomitant_condition": "History of splenectomy"
+      },
+      {
+        "PE_finding": "CTPA findings suggestive of pre-existing chronic thromboembolic disease",
+        "concomitant_condition": "Thrombophilic disorders, particularly antiphospholipid antibody syndrome and high coagulation factor VIII levels"
+      },
+      {
+        "PE_finding": "",
+        "concomitant_condition": "Non-O blood group"
+      },
+      {
+        "PE_finding": "",
+        "concomitant_condition": "Hypothyroidism treated with thyroid hormones"
+      },
+      {
+        "PE_finding": "",
+        "concomitant_condition": "History of cancer"
+      },
+      {
+        "PE_finding": "",
+        "concomitant_condition": "Myeloproliferative disorders"
+      },
+      {
+        "PE_finding": "",
+        "concomitant_condition": "Inflammatory bowel disease"
+      },
+      {
+        "PE_finding": "",
+        "concomitant_condition": "Chronic osteomyelitis"
+      }
+    ],
+    "abbreviations": {
+      "CTEPH": "Chronic thromboembolic pulmonary hypertension",
+      "CTPA": "Computed tomographic pulmonary angiography",
+      "DVT": "Deep vein thrombosis",
+      "i.v.": "Intravenous",
+      "PE": "Pulmonary embolism",
+      "PH": "Pulmonary hypertension",
+      "RV": "Right ventricular"
+    },
+    "footnote": "Echocardiographic criteria of RV dysfunction are graphically presented elsewhere; on CTPA (four-chamber views) RV dysfunction is defined as RV/LV diameter ratio >1.0."
+  },
+  "genes": [
+    {
+      "Gene": "F8",
+      "Associated Conditions": [
+        "High coagulation factor VIII levels",
+        "Thrombophilic disorders predisposing to CTEPH"
+      ],
+      "Occurrences": 1,
+      "context": "Text lists 'high coagulation factor VIII levels' as part of thrombophilic disorders that predispose to CTEPH."
+    },
+    {
+      "Gene": "ABO",
+      "Associated Conditions": [
+        "Non-O blood group associated with predisposition to CTEPH"
+      ],
+      "Occurrences": 1,
+      "context": "Table lists 'Non-O blood group' among conditions predisposing to CTEPH (implies ABO blood group)."
+    }
+  ]
+}

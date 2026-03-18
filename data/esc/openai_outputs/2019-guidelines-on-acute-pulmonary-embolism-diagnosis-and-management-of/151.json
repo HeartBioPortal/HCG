@@ -1,0 +1,31 @@
+{
+  "content": {
+    "topic": "Anticoagulation in pregnancy (selected guidance from page)",
+    "monitoring": {
+      "summary": "Serial measurements of plasma anti-activated coagulation factor X activity to guide LMWH dosing remain of uncertain clinical benefit; assay limitations and lack of optimal target levels are noted. Monitoring may be reserved for high-risk circumstances (recurrent VTE, renal impairment, extremes of body weight)."
+    },
+    "anticoagulants_and_safety": {
+      "LMWH": "Preferred in pregnancy; predictable pharmacokinetics. Data lacking on frequent weight-based dose adjustments and on bone loss risk.",
+      "UFH": "Associated with heparin-induced thrombocytopenia and bone loss; used in some high-risk situations and prior to delivery conversion.",
+      "Fondaparinux": "May be considered for allergy/adverse response to LMWH though data limited; minor transplacental passage demonstrated.",
+      "VKAs_and_Warfarin": "VKAs cross placenta and are associated with embryopathy in first trimester; third-trimester use can cause fetal/neonatal hemorrhage and placental abruption. Warfarin may be associated with fetal CNS anomalies.",
+      "NOACs": "Contraindicated in pregnant patients."
+    },
+    "labour_delivery_management": {
+      "summary": "Planned delivery is recommended for women on therapeutic LMWH in collaboration with a multidisciplinary team to avoid spontaneous labor while anticoagulated. If regional analgesia is considered, an interval (example: ~24 h) should elapse since last therapeutic LMWH dose (assuming normal renal function). In high-risk situations (eg recent PE) conversion to UFH ~36 h prior to delivery is recommended; UFH infusion should be stopped a specified period (eg several hours) prior to anticipated delivery and normal APTT confirmed before regional anesthesia.",
+      "postpartum_reinitiation": "Timing of post-partum reinitiation of LMWH is limited and should depend on mode of delivery and thrombosis vs bleeding risk. LMWH generally withheld for ~4 h after epidural catheter removal; interim prophylactic dosing may be considered post-operatively once safe intervals have elapsed."
+    },
+    "evidence_notes": "Cohort study cited: bone mineral density measured 4–7 years after last delivery in 152 women (92 received prolonged LMWH) showed similar lumbar spine BMD after adjustment; no osteoporosis/osteoporotic fractures reported."
+  },
+  "genes": [
+    {
+      "Gene": "F10",
+      "Associated Conditions": [
+        "Monitoring of anticoagulation during LMWH therapy in pregnancy",
+        "Venous thromboembolism (VTE) management considerations"
+      ],
+      "Occurrences": 2,
+      "context": "References to 'plasma anti-activated coagulation factor X activity' and 'anti-activated coagulation factor X monitoring' as a potential way to guide LMWH dosing in pregnancy, reserved for high-risk circumstances such as recurrent VTE, renal impairment, and extremes of body weight."
+    }
+  ]
+}

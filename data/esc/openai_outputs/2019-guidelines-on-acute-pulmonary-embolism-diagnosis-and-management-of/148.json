@@ -1,0 +1,47 @@
+{
+  "content": {
+    "title": "Estimated amounts of radiation absorbed in procedures used to diagnose pulmonary embolism",
+    "description": "Table of estimated foetal radiation exposure and estimated maternal radiation exposure to breast tissue for various diagnostic tests (values are approximate ranges). Based on various references (385, 392–398).",
+    "table_rows": [
+      {
+        "Test": "Chest X-ray",
+        "Estimated foetal radiation exposure (mGy)": "<0.01",
+        "Estimated maternal radiation exposure to breast tissue (mGy)": "<0.1",
+        "notes": ""
+      },
+      {
+        "Test": "Perfusion lung scan with technetium-99m–labelled albumin (general)",
+        "Estimated foetal radiation exposure (mGy)": "0.02–0.20",
+        "Estimated maternal radiation exposure to breast tissue (mGy)": "0.16–0.5",
+        "notes": "General perfusion scan range"
+      },
+      {
+        "Test": "Perfusion lung scan with technetium-99m–labelled albumin — Low dose (≈40 MBq)",
+        "Estimated foetal radiation exposure (mGy)": "0.20–0.60",
+        "Estimated maternal radiation exposure to breast tissue (mGy)": "1.2",
+        "notes": "Low-dose activity example given as ~40 MBq"
+      },
+      {
+        "Test": "Perfusion lung scan with technetium-99m–labelled albumin — High dose (≈200 MBq)",
+        "Estimated foetal radiation exposure (mGy)": null,
+        "Estimated maternal radiation exposure to breast tissue (mGy)": null,
+        "notes": "High-dose activity example listed (~200 MBq); specific numeric exposures not legible in image"
+      },
+      {
+        "Test": "Ventilation lung scan",
+        "Estimated foetal radiation exposure (mGy)": "0.10–0.30",
+        "Estimated maternal radiation exposure to breast tissue (mGy)": "<0.01",
+        "notes": ""
+      },
+      {
+        "Test": "CTPA (computed tomography pulmonary angiography)",
+        "Estimated foetal radiation exposure (mGy)": "0.05–0.5",
+        "Estimated maternal radiation exposure to breast tissue (mGy)": "3–10",
+        "notes": "CTPA = computed tomography pulmonary angiography"
+      }
+    ],
+    "footnotes": "CTPA = computed tomography pulmonary angiography; mGy = milligray; MBq = megabecquerel; PE = pulmonary embolism.",
+    "notes": "Table appears duplicated on the page; values are approximate and taken from the reproduced table image. Some high-dose perfusion scan numeric cells were not legible in the image and are left null."
+  },
+  "genes": []
+}

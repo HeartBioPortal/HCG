@@ -1,0 +1,85 @@
+{
+  "content": {
+    "scoring_criteria": [
+      {
+        "criterion": "Pulse rate >110 b.p.m.",
+        "points_added": 20,
+        "additional_column": "1 point"
+      },
+      {
+        "criterion": "Systolic BP <100 mmHg",
+        "points_added": 30,
+        "additional_column": "1 point"
+      },
+      {
+        "criterion": "Respiratory rate >30 breaths per min",
+        "points_added": 20,
+        "additional_column": ""
+      },
+      {
+        "criterion": "Temperature <36°C",
+        "points_added": 20,
+        "additional_column": ""
+      },
+      {
+        "criterion": "Altered mental status",
+        "points_added": 60,
+        "additional_column": ""
+      },
+      {
+        "criterion": "Arterial oxyhaemoglobin saturation <90%",
+        "points_added": 20,
+        "additional_column": "1 point"
+      }
+    ],
+    "risk_strata": [
+      {
+        "class": "Class I",
+        "point_range": "≤65 points",
+        "mortality_description": "very low 30 day mortality risk",
+        "mortality_range_percent": "approx. 0.1%–1.6%"
+      },
+      {
+        "class": "Class II",
+        "point_range": "66–85 points",
+        "mortality_description": "low mortality risk",
+        "mortality_range_percent": "approx. 1.7%–3.5%"
+      },
+      {
+        "class": "Class III",
+        "point_range": "86–105 points",
+        "mortality_description": "moderate mortality risk",
+        "mortality_range_percent": "approx. 3.2%–7.1%"
+      },
+      {
+        "class": "Class IV",
+        "point_range": "106–125 points",
+        "mortality_description": "high mortality risk",
+        "mortality_range_percent": "approx. 4.0%–11.4%"
+      },
+      {
+        "class": "Class V",
+        "point_range": ">125 points",
+        "mortality_description": "very high mortality risk",
+        "mortality_range_percent": "approx. 10.0%–24.5%"
+      }
+    ],
+    "point_to_mortality_mappings": [
+      {
+        "points": 0,
+        "30_day_mortality_percent": "1.0%",
+        "95_CI": "approx. 0.0%–2.1%"
+      },
+      {
+        "points": "≥1",
+        "30_day_mortality_percent": "10.9%",
+        "95_CI": "approx. 8.5%–13.2%"
+      }
+    ],
+    "notes": {
+      "abbreviations": "BP = blood pressure; b.p.m. = beats per minute; CI = confidence interval.",
+      "source_page_type": "clinical guideline scoring table (risk strata and point-based criteria)"
+    }
+  },
+  "genes": []
+}

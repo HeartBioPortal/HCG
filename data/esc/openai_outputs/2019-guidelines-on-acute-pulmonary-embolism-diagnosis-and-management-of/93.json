@@ -1,0 +1,52 @@
+{
+  "content": {
+    "summary": "Guidance on use of laboratory biomarkers and imaging to stratify pulmonary embolism (PE) risk. Specific biomarkers may provide prognostic information but have not been used to guide treatment in randomized controlled trials.",
+    "biomarkers": {
+      "NT-proBNP": {
+        "threshold": "≥600 ng/L",
+        "note": "May provide additional prognostic information; validated in cohort studies but not yet used to guide treatment decisions in randomized controlled trials."
+      },
+      "H-FABP": {
+        "threshold": "≥6 ng/mL",
+        "note": "May provide additional prognostic information; validated in cohort studies but not yet used to guide treatment decisions in randomized controlled trials."
+      },
+      "copeptin": {
+        "threshold": "≥24 pmol/L",
+        "note": "May provide additional prognostic information; validated in cohort studies but not yet used to guide treatment decisions in randomized controlled trials."
+      },
+      "cardiac troponin": {
+        "threshold": "elevated (no numerical threshold given on page)",
+        "note": "Used as an indicator of risk in classification tables."
+      }
+    },
+    "clinical_classification_rules": {
+      "high_risk_PE": "Haemodynamic instability combined with PE confirmation on CTPA and/or evidence of right ventricular (RV) dysfunction on transthoracic echocardiography (TTE) is sufficient to classify as high-risk PE. In these cases, calculation of the PESI or measurement of troponins or other cardiac biomarkers is not necessary.",
+      "intermediate_risk_PE": "Signs of RV dysfunction on TTE (or CTPA) or elevated cardiac biomarker levels may be present despite a low calculated PESI or sPESI of 0. Until implications of such discrepancies are fully understood, these patients should be classified into the intermediate-risk category.",
+      "risk_table_indicators": [
+        "Haemodynamic instability",
+        "Clinical parameters of PE severity and/or comorbidity: PESI class III–V or sPESI ≥1",
+        "RV dysfunction on TTE or CTPA",
+        "Elevated cardiac troponin levels"
+      ],
+      "risk_categories_described": {
+        "High": "Haemodynamic instability (± other indicators).",
+        "Intermediate–high": "Hemodynamically stable but multiple indicators positive (e.g., RV dysfunction and elevated troponin and/or high PESI).",
+        "Intermediate–low": "Some indicators positive (one or none positive depending on combination).",
+        "Low": "No indicators of risk present."
+      }
+    },
+    "practical_notes": "Assessment of biomarkers is optional for some categories; if assessed and negative, this may influence classification. The guideline emphasizes imaging (CTPA, TTE) and haemodynamic status as primary determinants for high-risk classification.",
+    "abbreviations": {
+      "BP": "blood pressure",
+      "CTPA": "computed tomography pulmonary angiography",
+      "H-FABP": "heart-type fatty acid-binding protein",
+      "NT-proBNP": "N-terminal pro B-type natriuretic peptide",
+      "PE": "pulmonary embolism",
+      "PESI": "Pulmonary Embolism Severity Index",
+      "RV": "right ventricular",
+      "sPESI": "simplified Pulmonary Embolism Severity Index",
+      "TTE": "transthoracic echocardiogram"
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,28 @@
+{
+  "content": {
+    "Volume optimization": {
+      "Recommendation": "Cautious volume loading with saline or Ringer's lactate, ~500 mL over 15–30 min",
+      "Considerations": "Consider in patients with normal/low central venous pressure (for example, concomitant hypovolaemia)",
+      "Caveats": "Volume loading can over-distend the RV, worsen ventricular interdependence, and reduce cardiac output"
+    },
+    "Vasopressors and inotropes": {
+      "Norepinephrine": {
+        "Dosage": "≈0.2–1.0 µg/kg/min",
+        "Properties_and_use": "Increases RV inotropy and systemic blood pressure, promotes positive ventricular interactions, and restores coronary perfusion gradient",
+        "Caveats": "Excessive vasoconstriction may worsen tissue perfusion"
+      },
+      "Dobutamine": {
+        "Dosage": "≈2–20 µg/kg/min",
+        "Properties_and_use": "Increases RV inotropy and lowers filling pressures",
+        "Caveats": "May aggravate arterial hypotension if used alone without a vasopressor; may trigger or aggravate arrhythmias"
+      }
+    },
+    "Mechanical circulatory support": {
+      "VA-ECMO/extracorporeal life support": {
+        "Use": "Rapid short-term support combined with an oxygenator",
+        "Caveats": "Complications with use over longer periods (>5–10 days) including bleeding and infections; no clinical benefit unless combined with surgical embolectomy; requires an experienced team"
+      }
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,61 @@
+{
+  "content": {
+    "page_title": "Avoiding overuse of diagnostic tests for pulmonary embolism; D-dimer testing",
+    "sections": {
+      "4.3": "Avoiding overuse of diagnostic tests for pulmonary embolism",
+      "4.4": "D-dimer testing",
+      "4.4.1": "Age-adjusted D-dimer cut-offs (heading present)"
+    },
+    "proportion_confirmed_PE_by_probability": {
+      "three_level_classification": {
+        "low_probability": "≈10%",
+        "moderate_probability": "≈30%",
+        "high_probability": "≈65%"
+      },
+      "two_level_classification": {
+        "PE-unlikely": "≈12%",
+        "PE-likely": "≈30%"
+      },
+      "note": "Direct prospective comparisons showed similar diagnostic performance between classification rules."
+    },
+    "PERC_rule": {
+      "purpose": "Select emergency department patients whose likelihood of PE is so low diagnostic workup should not be initiated",
+      "criteria_count": 8,
+      "criteria": [
+        "Age < 50 years",
+        "Pulse < 100 beats per minute",
+        "SaO2 > 94%",
+        "No unilateral leg swelling",
+        "No haemoptysis",
+        "No recent trauma or surgery",
+        "No history of VTE",
+        "No oral hormone use"
+      ],
+      "validation": "Prospective validation and a randomized non-inferiority management study suggested safe exclusion of PE in patients with low clinical probability who met all PERC criteria, but low overall prevalence in those studies limits generalizability."
+    },
+    "D-dimer_testing_summary": {
+      "mechanism": "D-dimer levels elevated in plasma with acute thrombosis due to activation of coagulation and fibrinolysis",
+      "diagnostic_role": {
+        "negative_predictive_value": "High — a normal D-dimer makes acute PE or DVT unlikely",
+        "positive_predictive_value": "Low — elevated D-dimer is not useful for confirming PE"
+      },
+      "situations_with_more_frequent_elevation": [
+        "Cancer",
+        "Hospitalised patients",
+        "Severe infection or inflammatory disease",
+        "Pregnancy"
+      ],
+      "number_needed_to_test_to_exclude_one_PE": {
+        "general_emergency_department_population": 3,
+        "specific_situations_listed_above": 10
+      },
+      "assay_notes": {
+        "recommended_awareness": "Clinicians should be aware of diagnostic performance of the specific D-dimer assay used locally",
+        "ELISA_performance": "Quantitative ELISA or ELISA-derived assays have diagnostic sensitivity of approximately 95% and can be used to exclude PE in low or intermediate pre-test probability patients",
+        "clinical_use": "In emergency department, a negative ELISA D-dimer combined with clinical probability can exclude disease without further testing in a substantial proportion of patients with suspected PE",
+        "outcome_data": "Outcome studies showed 3-month thrombo-embolic risk <1% in patients with low or intermediate clinical probability who were left untreated on the basis of a negative test"
+      }
+    }
+  },
+  "genes": []
+}

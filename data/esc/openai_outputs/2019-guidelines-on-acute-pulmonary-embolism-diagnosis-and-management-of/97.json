@@ -1,0 +1,56 @@
+{
+  "content": {
+    "title": "6 Treatment in the acute phase",
+    "sections": [
+      {
+        "heading": "6.1 Haemodynamic and respiratory support",
+        "text": "General heading for supportive measures in patients with acute pulmonary embolism (PE)."
+      },
+      {
+        "heading": "6.1.1 Oxygen therapy and ventilation",
+        "text": "Hypoxaemia is common in severe PE due to ventilation–perfusion mismatch. Supplemental oxygen is indicated in patients with PE and SaO2 <90%. Severe hypoxaemia or respiratory failure refractory to conventional oxygen may be due to right-to-left shunt (e.g., patent foramen ovale or atrial septal defect). Consider additional oxygenation techniques such as high-flow nasal oxygen and mechanical ventilation (non-invasive or invasive) in extreme instability (e.g., cardiac arrest). Correction of hypoxaemia may not be possible without simultaneous pulmonary reperfusion.",
+        "recommendations": [
+          "Administer supplemental oxygen for SaO2 < 90%.",
+          "Consider high-flow nasal oxygen in selected patients.",
+          "Use non-invasive ventilation when feasible; if mechanical ventilation is required, be cautious of haemodynamic effects.",
+          "Intubation only if patient cannot tolerate non-invasive ventilation or oxygenation.",
+          "When mechanical ventilation is used, limit adverse haemodynamic effects (positive intrathoracic pressure may reduce venous return and worsen low cardiac output due to RV failure).",
+          "Apply positive end-expiratory pressure (PEEP) with caution in patients with RV failure.",
+          "Use tidal volumes of ~6 mL/kg lean body weight and attempt to keep end-inspiratory plateau pressure < 30 cm H2O.",
+          "Avoid induction anaesthetic drugs that are more prone to cause hypotension."
+        ],
+        "references": [
+          "Right-to-left shunt via patent foramen ovale or atrial septal defect noted as a possible explanation for refractory hypoxaemia (reference 67).",
+          "High-flow oxygen and mechanical ventilation references cited (236, 237)."
+        ]
+      },
+      {
+        "heading": "6.1.2 Pharmacological treatment of acute right ventricular failure",
+        "text": "Acute right ventricular (RV) failure with resulting low systemic output is a leading cause of death in patients with high-risk PE. Principles of acute right heart failure management have been reviewed by the Heart Failure Association and the Working Group on Pulmonary Circulation and Right Ventricular Function of the ESC. An overview of current treatment options for acute RV failure is provided in Table 9.",
+        "recommendations": [
+          "Recognize acute RV failure as a critical determinant of outcome in high-risk PE.",
+          "Refer to specialist guidelines/statements (Heart Failure Association and ESC Working Group) for management principles.",
+          "Consult Table 9 for treatment strategies (e.g., volume optimization and other pharmacological/mechanical strategies)."
+        ],
+        "references": [
+          "Statement from Heart Failure Association and ESC Working Group (reference 68).",
+          "Table 9: Treatment of right ventricular failure in acute high-risk pulmonary embolism (table referenced but not fully shown on page)."
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "table_id": "Table 9",
+        "title": "Treatment of right ventricular failure in acute high-risk pulmonary embolism",
+        "note": "Table referenced and header partially visible; lists strategies such as 'Volume optimization' with columns for 'Properties and use' and 'Caveats'. Full table content not shown on this page image."
+      }
+    ],
+    "key_messages": [
+      "Supplemental oxygen is indicated for PE patients with SaO2 < 90%.",
+      "Consider high-flow nasal oxygen and mechanical ventilation for severe cases, but be cautious of adverse haemodynamic effects on the failing right ventricle.",
+      "Limit tidal volumes (~6 mL/kg lean body weight) and keep plateau pressure <30 cm H2O when ventilating.",
+      "Acute RV failure is a major cause of death in high-risk PE; follow published cardiology/heart-failure guidance and the summarized treatment options in Table 9."
+    ]
+  },
+  "genes": []
+}

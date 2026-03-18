@@ -1,0 +1,69 @@
+{
+  "content": {
+    "title": "The revised Geneva clinical prediction rule for pulmonary embolism",
+    "summary": "Describes the revised Geneva clinical prediction rule with original and simplified clinical decision rule points for items used to estimate probability of pulmonary embolism.",
+    "items": [
+      {
+        "Item": "Previous PE or DVT",
+        "Original version": 3,
+        "Simplified version": 1
+      },
+      {
+        "Item": "Heart rate (first threshold)",
+        "Original version": 3,
+        "Simplified version": 1,
+        "note": "Exact heart rate threshold text in image partially garbled"
+      },
+      {
+        "Item": "Heart rate (second threshold)",
+        "Original version": 5,
+        "Simplified version": 2,
+        "note": "Exact heart rate threshold text in image partially garbled"
+      },
+      {
+        "Item": "Surgery or fracture within the past month",
+        "Original version": 2,
+        "Simplified version": 1
+      },
+      {
+        "Item": "Haemoptysis",
+        "Original version": 2,
+        "Simplified version": 1
+      },
+      {
+        "Item": "Active cancer",
+        "Original version": 2,
+        "Simplified version": 1
+      },
+      {
+        "Item": "Unilateral lower-limb pain",
+        "Original version": 3,
+        "Simplified version": 1
+      },
+      {
+        "Item": "Pain on lower-limb deep venous palpation and unilateral oedema",
+        "Original version": 4,
+        "Simplified version": 1
+      },
+      {
+        "Item": "Age >65 years",
+        "Original version": 1,
+        "Simplified version": 1
+      }
+    ],
+    "clinical_probability": {
+      "Three-level score": {
+        "Low": {
+          "Original version": "0–3",
+          "Simplified version": "0–1"
+        },
+        "Intermediate": {
+          "Original version": "4–10",
+          "Simplified version": "2–4"
+        }
+      },
+      "note": "High category thresholds not fully visible in image"
+    }
+  },
+  "genes": []
+}

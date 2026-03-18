@@ -1,0 +1,51 @@
+{
+  "content": {
+    "5.3.3 Other laboratory biomarkers": "Lactate indicates tissue oxygen supply/demand imbalance and elevated arterial plasma lactate (>2 mmol/L) predicts PE-related complications. Elevated serum creatinine and reduced (calculated) glomerular filtration rate are related to 30-day all-cause mortality in acute PE. Neutrophil gelatinase-associated lipocalin and cystatin C, both markers of acute kidney injury, are of prognostic value. Hyponatraemia predicts in-hospital mortality in acute PE (meta-analysis). Vasopressin is released with stress/hypotension/low cardiac output; its surrogate marker copeptin has been reported useful for risk stratification in acute PE, with specific copeptin cut-offs associated with increased risk. Results were confirmed in multiple cohorts.",
+    "5.4 Combined parameters and scores for assessment of pulmonary embolism severity": "Individual baseline findings may not suffice to classify PE severity; combinations of clinical, imaging, and laboratory parameters are used to build prognostic scores (e.g., Bova score). H-FABP (heart-type fatty acid binding protein) and high-sensitivity troponin T have been validated in cohort studies and are used in risk scores (Syncope, Tachycardia/FAST). A combination of RV dysfunction on echocardiogram or CTPA together with a positive cardiac troponin test has been directly tested as a guide for early therapeutic decisions in a large RCT of PE patients without haemodynamic instability."
+  },
+  "genes": [
+    {
+      "Gene": "LCN2",
+      "Associated Conditions": [
+        "Acute kidney injury",
+        "Prognostic marker in acute pulmonary embolism"
+      ],
+      "Occurrences": 1,
+      "context": "Neutrophil gelatinase-associated lipocalin (NGAL) is mentioned as indicating acute kidney injury and being of prognostic value in acute PE."
+    },
+    {
+      "Gene": "CST3",
+      "Associated Conditions": [
+        "Acute kidney injury",
+        "Prognostic marker in acute pulmonary embolism"
+      ],
+      "Occurrences": 1,
+      "context": "Cystatin C is cited alongside NGAL as indicating acute kidney injury and having prognostic value in acute PE."
+    },
+    {
+      "Gene": "AVP",
+      "Associated Conditions": [
+        "Stress/hypotension/low cardiac output response",
+        "Risk stratification and prognostic marker in acute pulmonary embolism (via copeptin)"
+      ],
+      "Occurrences": 2,
+      "context": "Vasopressin is discussed, and its surrogate marker copeptin (a peptide derived from the vasopressin precursor) is reported useful for risk stratification in acute PE; specific copeptin levels were associated with increased risk."
+    },
+    {
+      "Gene": "FABP3",
+      "Associated Conditions": [
+        "Used as H-FABP biomarker in prognostic scores for pulmonary embolism severity"
+      ],
+      "Occurrences": 1,
+      "context": "H-FABP (heart-type fatty acid binding protein) is listed among biomarkers validated in cohort studies and used in prognostic scores for PE severity."
+    },
+    {
+      "Gene": "TNNT2",
+      "Associated Conditions": [
+        "Cardiac injury marker (high-sensitivity troponin T) used in PE risk stratification and to guide therapy"
+      ],
+      "Occurrences": 1,
+      "context": "High-sensitivity troponin T is referenced as a cardiac biomarker included in prognostic scores and as part of a tested strategy (positive cardiac troponin plus RV dysfunction) to guide early therapeutic decisions in PE."
+    }
+  ]
+}

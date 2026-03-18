@@ -1,0 +1,60 @@
+{
+  "content": {
+    "title": "Thrombolytic regimens, doses, and contraindications",
+    "summary": "Table of thrombolytic agents (rtPA, streptokinase, urokinase) with typical dosing regimens, accelerated regimens, and contraindications.",
+    "agents": [
+      {
+        "agent": "rtPA (recombinant tissue-type plasminogen activator)",
+        "standard_dose": "0.6 mg/kg over 15 min (maximum dose 50 mg)",
+        "accelerated_regimen_note": "This is the accelerated regimen for rtPA in pulmonary embolism; it is not officially approved, but it is sometimes used in extreme haemodynamic instability such as cardiac arrest.",
+        "contraindications": {
+          "notes": "No agent-specific contraindication bullets visible adjacent to rtPA on this page image; see streptokinase and urokinase entries for listed contraindications."
+        }
+      },
+      {
+        "agent": "Streptokinase",
+        "standard_dose": "250 000 IU as a loading dose over 30 min, followed by 100 000 IU/h over 12–24 h",
+        "accelerated_regimen": "1.5 million IU over 2 h",
+        "contraindications": {
+          "absolute": [
+            "History of haemorrhagic stroke or stroke of unknown origin",
+            "Ischaemic stroke in previous 6 months",
+            "Central nervous system neoplasm",
+            "Major trauma, surgery, or head injury in previous 3 weeks",
+            "Bleeding diathesis",
+            "Active bleeding"
+          ],
+          "relative": [
+            "Transient ischaemic attack in previous 6 months"
+          ]
+        }
+      },
+      {
+        "agent": "Urokinase",
+        "standard_dose": "4400 IU/kg as a loading dose over 10 min, followed by 4400 IU/kg/h over 12–24 h",
+        "accelerated_regimen": "3 million IU over 2 h",
+        "contraindications": {
+          "absolute_or_relative_listed_on_page": [
+            "Oral anticoagulation",
+            "Pregnancy or first post-partum week",
+            "Non-compressible puncture sites",
+            "Traumatic resuscitation",
+            "Refractory hypertension (systolic BP >180 mmHg)",
+            "Advanced liver disease",
+            "Infective endocarditis",
+            "Active peptic ulcer"
+          ]
+        }
+      }
+    ],
+    "abbreviations": {
+      "BP": "blood pressure",
+      "IU": "international units",
+      "rtPA": "recombinant tissue-type plasminogen activator"
+    },
+    "footnotes": [
+      "a: This is the accelerated regimen for rtPA in pulmonary embolism; it is not officially approved, but it is sometimes used in extreme haemodynamic instability such as cardiac arrest."
+    ]
+  },
+  "genes": []
+}

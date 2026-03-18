@@ -1,0 +1,53 @@
+{
+  "content": {
+    "page_title": "7.2 Treatment strategies",
+    "sections": [
+      {
+        "id": "7.2.1",
+        "title": "Emergency treatment of high-risk pulmonary embolism",
+        "key_points": [
+          "Primary reperfusion treatment (in most cases systemic thrombolysis) is the treatment of choice for patients with high-risk PE.",
+          "Surgical pulmonary embolectomy or percutaneous catheter-directed treatment are alternative reperfusion options for patients with contraindications to thrombolysis if appropriate expertise/resources are available.",
+          "After reperfusion and haemodynamic stabilization, patients can be switched from parenteral to oral anticoagulation; timing should be based on clinical judgement (patients in this risk category were excluded from phase III NOAC trials).",
+          "Follow specified higher initial dosing regimens for apixaban or rivaroxaban (apixaban for 1 week, rivaroxaban for 3 weeks after PE diagnosis specified here), or ensure a minimum overall period (5 days) of heparin anticoagulation before switching to dabigatran or edoxaban.",
+          "See supplementary data (Figure 1, Table 8) for management algorithms and tested/approved regimens."
+        ]
+      },
+      {
+        "id": "7.2.2",
+        "title": "Treatment of intermediate-risk pulmonary embolism",
+        "key_points": [
+          "For most acute PE without haemodynamic compromise, parenteral or oral anticoagulation (without reperfusion techniques) is adequate.",
+          "Normotensive patients with at least one indicator of elevated PE-related risk, or with aggravating conditions/comorbidity, should be hospitalized.",
+          "Patients with signs of RV dysfunction on imaging (echocardiography or CTPA) accompanied by positive troponin should be closely monitored for early haemodynamic decompensation/circulatory collapse.",
+          "Routine primary reperfusion (notably full-dose systemic thrombolysis) is not recommended because bleeding risk outweighs expected benefits.",
+          "Rescue thrombolytic therapy, or surgical embolectomy/percutaneous catheter-directed treatment, should be reserved for patients who develop haemodynamic instability.",
+          "PEITHO trial data cited for timing between randomization and death/haemodynamic decompensation; recommends reasonable practice to keep intermediate–high-risk PE patients on LMWH for first 2–3 days and ensure stability before switching to oral anticoagulation.",
+          "Same specifications as in high-risk section regarding increased initial dose of apixaban or rivaroxaban, or minimum overall heparin period before switching to dabigatran or edoxaban."
+        ]
+      }
+    ],
+    "drugs_and_treatments_mentioned": [
+      "systemic thrombolysis",
+      "surgical pulmonary embolectomy",
+      "percutaneous catheter-directed treatment",
+      "parenteral anticoagulation",
+      "oral anticoagulation",
+      "apixaban",
+      "rivaroxaban",
+      "dabigatran",
+      "edoxaban",
+      "heparin",
+      "LMWH"
+    ],
+    "trials_and_references": [
+      "phase III NOAC trials (patients in high-risk category were excluded)",
+      "PEITHO trial (time between randomization and death/haemodynamic decompensation cited)"
+    ],
+    "monitoring_and_transition_advice": {
+      "monitoring": "Patients with RV dysfunction and positive troponin should be monitored over initial hours/days for haemodynamic decompensation.",
+      "transition_from_parenteral_to_oral": "Base timing on clinical judgement; follow drug-specific initial dosing regimens or minimum heparin duration (5 days) before switching to certain oral agents."
+    }
+  },
+  "genes": []
+}

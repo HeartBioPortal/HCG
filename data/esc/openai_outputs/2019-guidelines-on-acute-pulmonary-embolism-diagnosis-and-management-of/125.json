@@ -1,0 +1,25 @@
+{
+  "content": {
+    "title": "Recommendation on early discharge for low-risk PE",
+    "source": "ESC 2019",
+    "repetitions_on_page": 3,
+    "recommendations": [
+      {
+        "text": "Carefully selected patients with low-risk PE should be considered for early discharge and continuation of treatment at home, if proper outpatient care and anticoagulant treatment can be provided.",
+        "class": "IIa",
+        "level": "A",
+        "references": "178, 206, 317–319",
+        "footnote_marker": "c",
+        "footnote_text": "See section 7 and Figure 6 for further guidance on defining low-risk PE and decision-making."
+      }
+    ],
+    "abbreviations_and_notes": {
+      "PE": "pulmonary embolism",
+      "a": "Class of recommendation",
+      "b": "Level of evidence",
+      "c": "See section 7 and Figure 6 for further guidance on defining low-risk PE and decision-making"
+    },
+    "link_text": "Open in new tab"
+  },
+  "genes": []
+}

@@ -1,0 +1,71 @@
+{
+  "content": {
+    "risk_classes": [
+      {
+        "class": "I",
+        "points": "<=65",
+        "risk_level": "very low",
+        "30_day_mortality_risk": "0–1.6%",
+        "notes": "Class I: very low 30 day mortality risk (approximate CI shown on page)"
+      },
+      {
+        "class": "II",
+        "points": "66–85",
+        "risk_level": "low",
+        "30_day_mortality_risk": "1.7–3.5%",
+        "notes": "Class II: low mortality risk"
+      },
+      {
+        "class": "III",
+        "points": "86–105",
+        "risk_level": "moderate",
+        "30_day_mortality_risk": "3.2–7.1%",
+        "notes": "Class III: moderate mortality risk"
+      },
+      {
+        "class": "IV",
+        "points": "106–125",
+        "risk_level": "high",
+        "30_day_mortality_risk": "4.0–11.4%",
+        "notes": "Class IV: high mortality risk"
+      },
+      {
+        "class": "V",
+        "points": ">125",
+        "risk_level": "very high",
+        "30_day_mortality_risk": "10.0–24.5%",
+        "notes": "Class V: very high mortality risk"
+      }
+    ],
+    "specific_point_examples": [
+      {
+        "points": "0",
+        "30_day_mortality_risk": "1.0%",
+        "confidence_interval": "95% CI 0.0%–2.1%",
+        "notes": "Displayed on right column of table: '0 points = 30 day mortality risk 1.0% (95% CI 0.0–2.1%)'"
+      },
+      {
+        "points_displayed": "shown as '1 point(s)' in image",
+        "30_day_mortality_risk": "10.9%",
+        "confidence_interval": "95% CI 8.5%–13.2%",
+        "notes": "Right column shows a line indicating '... 1 point(s) = 30 day mortality risk 10.9% (95% CI 8.5–13.2%)' (text is partially garbled on image)"
+      }
+    ],
+    "abbreviations": {
+      "BP": "blood pressure",
+      "b.p.m.": "beats per minute",
+      "CI": "confidence interval"
+    },
+    "prognostic_notes": {
+      "DVT": "The diagnosis of concomitant DVT has been identified as an adverse prognostic factor, independently associated with death within the first 3 months after acute PE.",
+      "meta_analysis": "Meta-analysis of 8,859 patients with PE: presence of concomitant DVT confirmed as a predictor of 30-day all-cause mortality (OR 1.9, 95% CI 1.5–2.4), but did not predict PE-related adverse outcomes at 90 days.",
+      "interpretation": "Concomitant DVT can be regarded as an indicator of significant comorbidity in acute PE."
+    },
+    "section_5_6_prognostic_assessment_strategy": {
+      "summary": "Classification of PE severity and risk of early (in-hospital or 30 day) death is summarized in Table 8. Risk assessment begins upon suspicion and initiation of diagnostic workup.",
+      "clinical_action": "At early stage identify patients with (suspected) high-risk PE. This setting necessitates an emergency diagnostic algorithm (referenced Figure 4) and immediate referral."
+    },
+    "source_page_notes": "Page contains a table mapping total points to PE risk classes (I–V) and 30-day mortality ranges, followed by commentary about DVT as a prognostic factor and section 5.6 on prognostic assessment strategy. Some text in the image is partially garbled but numeric thresholds and CIs are extractable as shown."
+  },
+  "genes": []
+}

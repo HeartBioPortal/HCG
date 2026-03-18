@@ -1,0 +1,51 @@
+{
+  "content": {
+    "title": "Recommendations for high-risk pulmonary embolism (PE)",
+    "recommendations": [
+      {
+        "recommendation": "Initiate anticoagulation with UFH, including a weight-adjusted bolus injection, without delay in patients with high-risk PE.",
+        "class": "I",
+        "level": "C"
+      },
+      {
+        "recommendation": "Systemic thrombolytic therapy is recommended for high-risk PE.",
+        "class": "I",
+        "level": "B"
+      },
+      {
+        "recommendation": "Surgical pulmonary embolectomy is recommended for patients with high-risk PE in whom thrombolysis is contraindicated or has failed.",
+        "class": "I",
+        "level": "C",
+        "note": "Footnote d applies"
+      },
+      {
+        "recommendation": "Percutaneous catheter-directed treatment should be considered for patients with high-risk PE in whom thrombolysis is contraindicated or has failed.",
+        "class": "IIa",
+        "level": "C"
+      },
+      {
+        "recommendation": "Norepinephrine and/or dobutamine should be considered in patients with high-risk PE.",
+        "class": "IIa",
+        "level": "C"
+      },
+      {
+        "recommendation": "ECMO may be considered, in combination with surgical embolectomy or catheter-directed treatment, in patients with PE and refractory circulatory collapse or cardiac arrest.",
+        "class": "IIb",
+        "level": "C"
+      }
+    ],
+    "abbreviations": {
+      "ECMO": "extracorporeal membrane oxygenation",
+      "PE": "pulmonary embolism",
+      "UFH": "unfractionated heparin"
+    },
+    "footnotes": {
+      "a": "See Table 4 for definition of high-risk PE. After haemodynamic stabilization of the patient, continue with anticoagulation treatment as in intermediate- or low-risk PE (section 6.7).",
+      "b": "Class of recommendation.",
+      "c": "Level of evidence.",
+      "d": "If appropriate expertise and resources are available on-site."
+    },
+    "source_note": "Extracted from guideline table image listing classes and levels for interventions in high-risk PE."
+  },
+  "genes": []
+}

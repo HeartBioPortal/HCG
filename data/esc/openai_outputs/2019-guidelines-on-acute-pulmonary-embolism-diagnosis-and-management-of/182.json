@@ -1,0 +1,58 @@
+{
+  "content": {
+    "topic": "Pulmonary embolism (PE) — research and practice gaps / recommendations",
+    "key_points": [
+      {
+        "section": "Assessment and risk stratification",
+        "points": [
+          "Need to assess RV (right ventricular) status in addition to clinical parameters to classify acute symptomatic PE as low vs. intermediate risk; requires confirmation in prospective cohort studies."
+        ]
+      },
+      {
+        "section": "Treatment in the acute phase",
+        "points": [
+          "Clinical benefits vs. risks of reduced-dose thrombolysis and catheter-based reperfusion in intermediate–high-risk PE should be evaluated in prospective randomized trials.",
+          "Role of ECMO in management of acute high-risk PE requires additional evidence from prospective cohort studies.",
+          "Optimal anticoagulant drug(s) and regimens for patients with renal insufficiency (CrCl < 30 mL/min) remain unclear.",
+          "Criteria for selecting patients for early discharge and outpatient treatment of PE — including assessment of RV status with imaging and laboratory markers alongside clinical scores — need validation in prospective cohort studies."
+        ]
+      },
+      {
+        "section": "Chronic treatment and prevention of recurrence",
+        "points": [
+          "Clinical value and therapeutic implications of models/scores assessing VTE recurrence risk and bleeding risk under anticoagulation need re-evaluation in the NOAC era.",
+          "Effectiveness of extended treatment with reduced dose, or with apixaban or rivaroxaban, should be confirmed in patients at high risk of recurrent PE.",
+          "Evidence supporting efficacy and safety of NOACs for treatment of PE in patients with cancer needs further studies.",
+          "In cancer patients, the anticoagulant regimen and dose after the first 6 months should be clarified and prospectively tested.",
+          "Optimal time for discontinuing anticoagulant treatment after an acute PE in cancer patients is undetermined."
+        ]
+      },
+      {
+        "section": "Pulmonary embolism and pregnancy",
+        "points": [
+          "Diagnostic algorithms for PE in pregnancy using modern radiological techniques and low radiation doses need prospective testing in adequately powered cohort studies.",
+          "Controversy persists regarding optimal LMWH dose and regimen for treatment of PE during pregnancy.",
+          "NOACs are not allowed in pregnancy; if exposure occurs despite warnings, possible effects on the fetus should be recorded to provide more precise data."
+        ]
+      }
+    ],
+    "clinical_terms_and_abbreviations_defined": {
+      "RV": "right ventricle",
+      "PE": "pulmonary embolism",
+      "ECMO": "extracorporeal membrane oxygenation",
+      "CrCl": "creatinine clearance",
+      "VTE": "venous thromboembolism",
+      "NOACs": "non-vitamin K oral anticoagulants",
+      "LMWH": "low molecular weight heparin"
+    },
+    "uncertainties_requiring_research": [
+      "Validation of RV assessment in risk classification",
+      "Prospective randomized trials for reduced-dose thrombolysis and catheter-based reperfusion",
+      "Evidence for ECMO use in high-risk PE",
+      "Optimal anticoagulant choice/regimen in renal impairment (CrCl <30 mL/min)",
+      "Long-term anticoagulation strategies and dosing in cancer-associated PE",
+      "Safe diagnostic and treatment protocols for PE in pregnancy"
+    ]
+  },
+  "genes": []
+}

@@ -1,0 +1,56 @@
+{
+  "content": {
+    "title": "Recommendations for acute-phase treatment of high-risk pulmonary embolism",
+    "abbreviations": {
+      "ECMO": "extracorporeal membrane oxygenation",
+      "PE": "pulmonary embolism",
+      "UFH": "unfractionated heparin"
+    },
+    "recommendations": [
+      {
+        "text": "It is recommended that anticoagulation with UFH, including a weight-adjusted bolus injection, be initiated without delay in patients with high-risk PE.",
+        "Class": "I",
+        "Level": "C",
+        "notes": "Immediate anticoagulation with unfractionated heparin for high-risk PE."
+      },
+      {
+        "text": "Systemic thrombolytic therapy is recommended for high-risk PE.",
+        "Class": "I",
+        "Level": "B",
+        "notes": "Thrombolysis as first-line reperfusion therapy for high-risk pulmonary embolism."
+      },
+      {
+        "text": "Surgical pulmonary embolectomy is recommended for patients with high-risk PE, in whom thrombolysis is contraindicated or has failed.",
+        "Class": "I",
+        "Level": "C",
+        "notes": "Surgical embolectomy when thrombolysis not possible or unsuccessful (footnote: if appropriate expertise and resources are available on-site)."
+      },
+      {
+        "text": "Percutaneous catheter-directed treatment should be considered for patients with high-risk PE, in whom thrombolysis is contraindicated or has failed.",
+        "Class": "IIa",
+        "Level": "C",
+        "notes": "Endovascular catheter-directed approaches as an alternative when thrombolysis is not an option or failed."
+      },
+      {
+        "text": "Norepinephrine and/or dobutamine should be considered in patients with high-risk PE.",
+        "Class": "IIa",
+        "Level": "C",
+        "notes": "Vasoactive support for haemodynamic compromise in high-risk PE."
+      },
+      {
+        "text": "ECMO may be considered, in combination with surgical embolectomy or catheter-directed treatment, in patients with PE and refractory circulatory collapse or cardiac arrest.",
+        "Class": "IIb",
+        "Level": "C",
+        "notes": "Extracorporeal support as rescue therapy in refractory circulatory collapse or cardiac arrest."
+      }
+    ],
+    "footnotes_and_references": {
+      "a": "See Table 4 for definition of high-risk PE. After haemodynamic stabilization of the patient, continue with anticoagulation treatment as in intermediate- or low-risk PE (section 6.7).",
+      "b": "Class of recommendation.",
+      "c": "Level of evidence.",
+      "d": "If appropriate expertise and resources are available on-site."
+    },
+    "context": "Extracted from guideline table summarizing recommended acute-phase treatments and class/level of evidence for patients with high-risk pulmonary embolism."
+  },
+  "genes": []
+}

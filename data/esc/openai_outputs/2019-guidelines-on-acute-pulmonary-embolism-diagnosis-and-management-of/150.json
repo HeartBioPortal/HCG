@@ -1,0 +1,37 @@
+{
+  "content": {
+    "page_title": "Diagnosis and treatment of pulmonary embolism (PE) in pregnancy (excerpt)",
+    "table_radiation_doses": {
+      "ventilation_lung_scan": {
+        "maternal_absorbed_dose_mGy": "≈0.10–0.30",
+        "foetal_absorbed_dose_mGy": "<0.01",
+        "notes": "Values from table at top of page (approximate)"
+      },
+      "CTPA": {
+        "maternal_absorbed_dose_mGy": "≈0.05–0.5",
+        "foetal_absorbed_dose_mGy": "≈3–10",
+        "notes": "Computed tomography pulmonary angiography; values approximate from table"
+      }
+    },
+    "diagnostic_imaging_findings_and_recommendations": [
+      "A normal perfusion scan and a negative CTPA appear equally safe for ruling out PE in pregnancy based on retrospective series.",
+      "Inconclusive imaging results are a known problem (reported rates up to about one-third of investigations, especially late in pregnancy).",
+      "V/Q SPECT is associated with low foetal and maternal radiation exposure and shows promise for PE diagnosis in pregnancy, but further evaluation is needed before widespread adoption.",
+      "MRA: long-term effects of gadolinium contrast on the foetus are unknown; technically inadequate images and high rates of inconclusive results have been reported in non-pregnant patients, so MRA cannot currently be recommended for diagnosing or ruling out PE in pregnancy.",
+      "Conventional pulmonary angiography involves significantly higher foetal radiation exposure (reported ≈2.2–3.7 mSv in the text) and should be avoided during pregnancy."
+    ],
+    "clinical_considerations_and_risks": [
+      "Overdiagnosis of PE in pregnancy can have significant, lifelong implications (e.g., bleeding risk at delivery, withholding oestrogen contraception, requirement for future thromboprophylaxis).",
+      "Choice of initial imaging should consider local expertise and resources due to variable rates of inadequate/indeterminate CTPA and scintigraphy scans."
+    ],
+    "treatment_recommendations_for_PE_in_pregnancy": [
+      "Low-molecular-weight heparin (LMWH) is the treatment of choice for PE during pregnancy.",
+      "LMWH does not cross the placenta and therefore does not confer a risk of foetal haemorrhage or teratogenicity.",
+      "Unfractionated heparin (UFH) is also considered safe in pregnancy, but LMWH has more predictable pharmacokinetics and a more favourable risk profile.",
+      "No randomized controlled trial has established the optimal LMWH dose for PE in pregnancy; published data favour dosing similar to non-pregnant patients, with once-daily (o.d.) or twice-daily (b.i.d.) regimens based on early pregnancy weight.",
+      "For the majority of patients receiving LMWH for PE in pregnancy, current practice follows dosing approaches used in non-pregnant patients (references cited in guideline)."
+    ],
+    "references_notes": "Multiple guideline references/citation numbers are visible in the text supporting statements (numbers present in original page)."
+  },
+  "genes": []
+}

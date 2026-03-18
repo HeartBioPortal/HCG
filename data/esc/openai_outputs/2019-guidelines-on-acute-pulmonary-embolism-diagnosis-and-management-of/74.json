@@ -1,0 +1,31 @@
+{
+  "content": {
+    "title": "Imaging for Pulmonary Embolism — V/Q, SPECT and Pulmonary Angiography (excerpt)",
+    "key_points": [
+      "A three-tier V/Q scan classification is preferable: normal scan (excluding PE), high-probability scan (considered diagnostic of PE in most patients), and non-diagnostic scan.",
+      "Prospective outcome studies suggest it is safe to withhold anticoagulant therapy in patients with a normal perfusion scan; a randomized trial confirmed safety comparing V/Q scan with CTPA.",
+      "High-probability V/Q scans may confirm PE, but positive predictive value is insufficient to confirm PE in patients with low clinical probability.",
+      "Performing only a perfusion scan may be acceptable with a normal chest X-ray; a perfusion defect in that context is considered a mismatch and may warrant further testing.",
+      "High frequency of non-diagnostic scans is a limitation; incorporation of clinical probability and combined imaging strategies have been proposed to reduce nondiagnostic results.",
+      "Single-photon emission CT (SPECT) imaging (with or without low-dose CT) may decrease proportion of non-diagnostic scans (reported reductions to as low as ~5%), but many SPECT studies are limited by retrospective design or inclusion of SPECT in reference standards.",
+      "Diagnostic criteria for SPECT vary; many define PE as one or two subsegmental perfusion defects without ventilation defects, but these criteria are infrequently used in practice.",
+      "Optimal SPECT scanning technique (perfusion SPECT, V/Q SPECT, perfusion SPECT with non-enhanced CT, or V/Q SPECT with non-enhanced CT) remains undefined; few outcome studies and incomplete follow-up limit conclusions.",
+      "Pulmonary angiography was long considered the gold standard for diagnosis/exclusion of acute PE but is now rarely performed because less-invasive CTPA offers similar diagnostic accuracy.",
+      "Diagnosis of acute PE by angiography is based on direct evidence of a thrombus in two projections, either as a filling defect or as amputation of a pulmonary arterial branch; thrombi as small as ~1–2 mm in subsegmental arteries can be visualized, but interobserver variability is substantial at that level."
+    ],
+    "evidence_and_limitations": [
+      "Prospective clinical outcome studies and a randomized trial support withholding anticoagulation when perfusion scan is normal.",
+      "PIOPED II analysis suggested high-probability V/Q scans could confirm PE, but other sources caution low positive predictive value in low pretest probability patients.",
+      "Many SPECT accuracy studies are retrospective or use imperfect reference standards; only one study used a validated diagnostic algorithm.",
+      "Heterogeneity in SPECT diagnostic criteria and scanning techniques complicates comparison; large-scale prospective studies are needed to validate SPECT techniques."
+    ],
+    "recommendations_implications": [
+      "Use three-tier V/Q classification and incorporate clinical probability when interpreting scans.",
+      "Consider combined imaging approaches or additional testing when scans are non-diagnostic.",
+      "Recognize that CTPA is now commonly preferred over invasive pulmonary angiography for most diagnostic situations."
+    ],
+    "section": "4.7 Pulmonary angiography",
+    "section_summary": "Pulmonary angiography historically the gold standard for PE diagnosis/exclusion; now rarely performed due to less-invasive CTPA. Angiographic diagnosis requires direct visualization of thrombus in two projections; small thrombi in subsegmental arteries may be seen but with substantial interobserver variability."
+  },
+  "genes": []
+}

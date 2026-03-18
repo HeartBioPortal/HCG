@@ -1,0 +1,83 @@
+{
+  "content": {
+    "Diagnosis": [
+      {
+        "recommendation": "Formal diagnostic assessment with validated methods is recommended if PE is suspected during pregnancy or in the post-partum period.",
+        "Class": "I",
+        "Level": "B",
+        "references": [
+          "388",
+          "391"
+        ]
+      },
+      {
+        "recommendation": "D-dimer measurement and clinical prediction rules should be considered to rule out PE during pregnancy or the post-partum period.",
+        "Class": "IIa",
+        "Level": "B",
+        "references": [
+          "388",
+          "391"
+        ]
+      },
+      {
+        "recommendation": "In a pregnant patient with suspected PE (particularly if she has symptoms of DVT), venous CUS should be considered to avoid unnecessary irradiation.",
+        "Class": "IIa",
+        "Level": "B",
+        "references": [
+          "388"
+        ]
+      },
+      {
+        "recommendation": "Perfusion scintigraphy or CTPA (with a low-radiation dose protocol) should be considered to rule out suspected PE in pregnant women; CTPA should be considered as the first-line option if the chest X-ray is abnormal.",
+        "Class": "IIa",
+        "Level": "C",
+        "references": [
+          "385",
+          "386"
+        ]
+      }
+    ],
+    "Treatment": [
+      {
+        "recommendation": "A therapeutic, fixed dose of LMWH based on early pregnancy body weight is the recommended therapy for PE in the majority of pregnant women without haemodynamic instability.",
+        "Class": "I",
+        "Level": "B",
+        "references": [
+          "408",
+          "410"
+        ]
+      },
+      {
+        "recommendation": "Thrombolysis or surgical embolectomy should be considered for pregnant women with high-risk PE.",
+        "Class": "IIa",
+        "Level": "C",
+        "references": [
+          "421"
+        ]
+      },
+      {
+        "recommendation": "Insertion of a spinal or epidural needle is not recommended, unless >24 h have passed since the last therapeutic dose of LMWH.",
+        "Class": "III",
+        "Level": "C"
+      },
+      {
+        "recommendation": "Administration of LMWH is not recommended within 4 h of removal of an epidural catheter.",
+        "Class": "III",
+        "Level": "C"
+      },
+      {
+        "recommendation": "NOACs are not recommended during pregnancy or lactation.",
+        "Class": "III",
+        "Level": "C"
+      }
+    ],
+    "Amniotic fluid embolism": [
+      {
+        "recommendation": "Amniotic fluid embolism should be considered in a pregnant or post-partum woman with otherwise unexplained cardiac arrest, sustained hypotension, or respiratory deterioration.",
+        "Class": "IIa",
+        "Level": "C"
+      }
+    ]
+  },
+  "genes": []
+}

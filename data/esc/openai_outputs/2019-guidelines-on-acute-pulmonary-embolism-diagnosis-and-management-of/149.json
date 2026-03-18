@@ -1,0 +1,43 @@
+{
+  "content": {
+    "title": "Estimated amounts of radiation absorbed in procedures used to diagnose pulmonary embolism",
+    "summary": "Table of absorbed radiation dose expressed in mGy for single organs or the foetus from diagnostic procedures used to diagnose pulmonary embolism. Effective doses in mSv are referenced elsewhere.",
+    "notes": "Values appear as ranges and include separate entries for some procedures (eg, low and high administered activities for perfusion scans). Values derived from table on page (references cited on page).",
+    "table": [
+      {
+        "Test": "Chest X-ray",
+        "Estimated foetal radiation exposure (mGy)": "<0.01",
+        "Estimated maternal radiation exposure to breast tissue (mGy)": "<0.1"
+      },
+      {
+        "Test": "Perfusion lung scan with technetium-99m-labelled albumin",
+        "Estimated foetal radiation exposure (mGy)": "0.02–0.20 (range shown); subentries for administered activity:",
+        "Estimated maternal radiation exposure to breast tissue (mGy)": "0.16–0.5 (range shown); subentries for administered activity:",
+        "subentries": [
+          {
+            "label": "Low dose (≈440 MBq shown on page)",
+            "Estimated foetal radiation exposure (mGy)": "0.20–0.60",
+            "Estimated maternal radiation exposure to breast tissue (mGy)": "1.2"
+          },
+          {
+            "label": "High dose (≈200 MBq shown on page)",
+            "Estimated foetal radiation exposure (mGy)": "0.20–0.60",
+            "Estimated maternal radiation exposure to breast tissue (mGy)": "1.2"
+          }
+        ]
+      },
+      {
+        "Test": "Ventilation lung scan",
+        "Estimated foetal radiation exposure (mGy)": "0.10–0.30",
+        "Estimated maternal radiation exposure to breast tissue (mGy)": "<0.01"
+      },
+      {
+        "Test": "CTPA",
+        "Estimated foetal radiation exposure (mGy)": "0.05–0.5",
+        "Estimated maternal radiation exposure to breast tissue (mGy)": "3–10"
+      }
+    ],
+    "source_text_snippet": "In this section, absorbed radiation dose is expressed in mGy to reflect the radiation exposure to single organs, or the foetus, as a result of various diagnostic techniques. Estimated amounts of radiation absorbed in procedures used to diagnose pulmonary embolism (based on various references)."
+  },
+  "genes": []
+}

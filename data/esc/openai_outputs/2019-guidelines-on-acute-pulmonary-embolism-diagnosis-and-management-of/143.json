@@ -1,0 +1,35 @@
+{
+  "content": {
+    "summary": "Guidance on anticoagulation in patients with cancer-associated venous thromboembolism (VTE). Evidence from randomized and cohort studies comparing LMWH, edoxaban, rivaroxaban and dalteparin is summarized, with attention to bleeding risk (particularly gastrointestinal) and recurrence risk.",
+    "recommendations": [
+      "For patients with acute pulmonary embolism (PE) and cancer, particularly gastrointestinal cancer, continue low-molecular-weight heparin (LMWH) for about 3–6 months.",
+      "LMWH is preferred for patients in whom oral treatment is unfeasible (problems with intake/absorption) or those with severe renal impairment.",
+      "In patients without gastrointestinal tumours and with low anticipated bleeding risk, choice between LMWH and DOACs (edoxaban or rivaroxaban) may be left to physician and patient preference.",
+      "Because of high recurrence risk, patients with cancer should receive indefinite anticoagulation after a first episode of VTE; however, once cancer is cured anticoagulation may be stopped case-by-case.",
+      "After the first 3–6 months, extended anticoagulation may continue with LMWH or transition to an oral anticoagulant; decision should be individualized considering cancer control, recurrence risk, bleeding risk and patient preference.",
+      "Venous filters are principally indicated when anticoagulation is impossible due to active hemorrhage or excessive bleeding risk; insertion should be considered carefully given high VTE recurrence risk in cancer."
+    ],
+    "evidence_summary": {
+      "comparative_outcomes": "Randomized/open-label pilot trials compared rivaroxaban vs dalteparin (n=406) and other trials compared edoxaban vs LMWH. Rivaroxaban showed decreased recurrent VTE risk (HR 0.43, 95% CI 0.19–0.99) but higher major bleeding, largely gastrointestinal.",
+      "bleeding_and_crnm_rates": "6-month cumulative major bleeding: rivaroxaban 6% (95% CI ~3–11%), dalteparin 4% (95% CI ~2–8%). Clinically relevant non-major (CRNM) bleeding: rivaroxaban 13% (95% CI ~9–19%), dalteparin 4% (95% CI ~2–9%). Reported HR for CRNM bleeds ~3.76 (95% CI 1.63–8.69).",
+      "timing_of_bleeding_complications": "Incidence higher in the first months of extended treatment with LMWH (up to ~12 months) then reached a plateau after six months."
+    },
+    "risk_of_recurrence_and_score": {
+      "cohort_validation": "Risk of recurrence of PE in cancer assessed in a cohort of 543 patients and validated in independent set of 819 patients.",
+      "proposed_score_components": [
+        "Breast cancer (minus 1 point)",
+        "Tumour Node Metastasis (TNM) stage I or II (minus 1 point)",
+        "Female sex (plus 1 point)",
+        "Lung cancer (plus 1 point)",
+        "Previous VTE (plus 1 point)"
+      ],
+      "risk_categories": "Score ≤0 = low risk (≈4.5% recurrence over 6 months). Score ≥1 = high risk (≈19% recurrence over 6 months)."
+    },
+    "practical_considerations": {
+      "individualization": "In absence of conclusive evidence, decision to continue LMWH vs change to vitamin K antagonists (VKA) or a NOAC should be made case-by-case, with periodic reassessment of risk-to-benefit.",
+      "special_populations": "Patients with gastrointestinal cancer have higher bleeding risk on DOACs and should be particularly considered for LMWH."
+    },
+    "references_note": "Multiple references cited in text for studies and cohort validations (reference numbers present in original page)."
+  },
+  "genes": []
+}

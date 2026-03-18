@@ -1,0 +1,80 @@
+{
+  "content": {
+    "title": "Revised Geneva clinical prediction rule for pulmonary embolism",
+    "description": "Structured transcription of Table: items and clinical decision rule points (Original and Simplified versions). b.p.m. = beats per minute; DVT = deep vein thrombosis; PE = pulmonary embolism.",
+    "abbreviations": {
+      "b.p.m.": "beats per minute",
+      "DVT": "deep vein thrombosis",
+      "PE": "pulmonary embolism"
+    },
+    "tableItems": [
+      {
+        "Item": "Previous PE or DVT",
+        "Original version": 3,
+        "Simplified version": 1
+      },
+      {
+        "Item": "Heart rate 75–94 b.p.m.",
+        "Original version": 3,
+        "Simplified version": 1
+      },
+      {
+        "Item": "Heart rate ≥95 b.p.m.",
+        "Original version": 5,
+        "Simplified version": 2
+      },
+      {
+        "Item": "Surgery or fracture within the past month",
+        "Original version": 2,
+        "Simplified version": 1
+      },
+      {
+        "Item": "Haemoptysis",
+        "Original version": 2,
+        "Simplified version": 1
+      },
+      {
+        "Item": "Active cancer",
+        "Original version": 2,
+        "Simplified version": 1
+      },
+      {
+        "Item": "Unilateral lower-limb pain",
+        "Original version": 3,
+        "Simplified version": 1
+      },
+      {
+        "Item": "Pain on lower-limb deep venous palpation and unilateral oedema",
+        "Original version": 4,
+        "Simplified version": 1
+      },
+      {
+        "Item": "Age >65 years",
+        "Original version": 1,
+        "Simplified version": 1
+      }
+    ],
+    "clinicalProbability": {
+      "three-level score": {
+        "Original version": {
+          "Low": "≤3",
+          "Intermediate": "4–10",
+          "High": "≥11"
+        },
+        "Simplified version": {
+          "Low": "≤1",
+          "Intermediate": "2–4",
+          "High": "≥5"
+        }
+      },
+      "two-level score": {
+        "note": "Not explicitly detailed on the page image"
+      }
+    },
+    "notes": [
+      "Table presents the revised Geneva clinical prediction rule for pulmonary embolism with point allocations for original and simplified scoring systems.",
+      "Values and thresholds transcribed as presented in the table."
+    ]
+  },
+  "genes": []
+}

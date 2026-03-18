@@ -1,0 +1,34 @@
+{
+  "content": {
+    "title": "Recommendations (anticoagulation for pulmonary embolism)",
+    "key_recommendations": [
+      "Therapeutic anticoagulation for ≥3 months is recommended for all patients with PE.",
+      "Discontinuation of anticoagulation after 3 months is recommended for patients with first PE/VTE secondary to a major transient or reversible risk factor.",
+      "Extension of anticoagulation beyond 3 months is recommended for patients with recurrent VTE (i.e., at least one previous episode not related to a major transient/reversible risk factor).",
+      "Oral anticoagulant treatment with a VKA for an indefinite period is recommended for patients with antiphospholipid antibody syndrome.",
+      "Extended oral anticoagulation of indefinite duration should be considered for selected patients (examples noted include first episode of PE with persistent risk factor, or first episode of PE with no identifiable risk factor) — decision individualized based on risk factors and bleeding risk."
+    ],
+    "NOAC_dose_in_extended_anticoagulation": "If extended anticoagulation is decided after PE in a patient without cancer, a reduced dose of NOACs should be considered after 6 months of therapeutic anticoagulation (examples given: apixaban 2.5 mg b.i.d. or rivaroxaban 10 mg o.d.).",
+    "alternative_extended_treatment": "For patients who refuse or are unable to tolerate oral anticoagulants, aspirin or sulodexide may be considered for extended VTE prophylaxis.",
+    "follow_up": "Patients on extended anticoagulation should have drug tolerance and adherence, hepatic and renal function, and bleeding risk reassessed at regular intervals.",
+    "abbreviations": {
+      "b.i.d.": "bis in die (twice a day)",
+      "o.d.": "omni die (once a day)",
+      "DVT": "deep vein thrombosis",
+      "NOAC(s)": "non-vitamin K antagonist oral anticoagulant(s)",
+      "PE": "pulmonary embolism",
+      "VKA": "vitamin K antagonist",
+      "VTE": "venous thromboembolism"
+    },
+    "notes": {
+      "a": "Class of recommendation.",
+      "b": "Level of evidence.",
+      "c": "Patient's bleeding risk should be assessed (see supplementary data/table referenced) to identify modifiable bleeding risk factors and influence anticoagulant duration/regimen.",
+      "d": "Refer to supplementary data for therapeutic decisions in specific clinical situations.",
+      "e": "If dabigatran or edoxaban is chosen for extended anticoagulation after PE, the dose should remain unchanged because reduced-dose regimens were not investigated in dedicated extension trials.",
+      "f": "Especially applicable to patients receiving NOACs."
+    },
+    "references_mentioned": "Supplementary data tables (e.g., Table 9, Table 14) and multiple literature citations referenced in the guideline excerpt."
+  },
+  "genes": []
+}

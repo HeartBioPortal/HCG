@@ -1,0 +1,36 @@
+{
+  "content": {
+    "page_summary": "Guidance on anticoagulation and acute management of pulmonary embolism (PE) in pregnancy, use of invasive procedures, role of multidisciplinary pregnancy heart team, and a section on amniotic fluid embolism (AFE).",
+    "anticoagulant_recommendations": {
+      "postpartum_duration": "Anticoagulant treatment should be administered for 6 weeks after delivery with a minimum overall treatment duration of 3 months.",
+      "breastfeeding": "Low-molecular-weight heparin (LMWH) and warfarin can be given to breastfeeding mothers; use of non-vitamin K oral anticoagulants (NOACs) is not recommended.",
+      "peri-procedural_interval": "Allow interval of approximately 8–12 h between prophylactic and next therapeutic dose around catheter removal and similar periprocedural considerations; close collaboration between obstetrician, anaesthesiologist and attending physician is recommended."
+    },
+    "acute_management_of_high-risk_PE_in_pregnancy": {
+      "incidence_note": "High-risk, life-threatening PE during pregnancy is rare but potentially devastating.",
+      "systematic_review": {
+        "cases_included": 127,
+        "treatments_used": "thrombolysis, surgical thrombectomy, and/or extracorporeal membrane oxygenation (ECMO)",
+        "cardiac_arrest_rate": "23% of women experienced cardiac arrest",
+        "survival_rates": "Reported survival rates were 94% after thrombolysis and 86% after surgical thrombectomy (may reflect reporting bias).",
+        "major_bleeding_rates": "Following thrombolysis, major bleeding occurred in 18% of cases during pregnancy and 58% in the post-partum period.",
+        "fetal_death_rates": "Foetal deaths occurred in 12% of cases following thrombolysis and 20% following thrombectomy."
+      },
+      "treatment_guidance": "Thrombolytic treatment should not be used peri-partum except in life-threatening PE. Unfractionated heparin (UFH) is typically used in the acute treatment of high-risk PE.",
+      "vena_cava_filters": "Indications similar to non-pregnant patients, but limited experience in pregnancy and potentially increased procedural risk."
+    },
+    "multidisciplinary_team_role": {
+      "section": "9.3.1 Role of a multidisciplinary pregnancy heart team",
+      "recommendation": "A multidisciplinary team should collaborate to plan ante-, peri- and post-partum care pathways for women with cardiovascular disease including PE. Team members should have expertise in PE management in pregnancy and the post-partum period. Jointly agreed, written care pathways should be available when timelines permit to ensure effective communication."
+    },
+    "amniotic_fluid_embolism_AFE": {
+      "section": "9.4",
+      "definition": "AFE is a rare condition that occurs during pregnancy or shortly after delivery and is a leading cause of direct maternal death in high-income countries.",
+      "diagnosis": "Challenging; primarily a clinical diagnosis of exclusion. Awareness and prompt diagnosis are critical.",
+      "clinical_features": "Unexplained sudden cardiovascular or respiratory deterioration, often accompanied by disseminated intravascular coagulation (DIC), occurring during pregnancy or after delivery.",
+      "management_principles": "Aggressive life support and prompt diagnosis are of critical importance."
+    },
+    "references_notes": "Statistics and recommendations are supported by cited systematic reviews and referenced evidence (citations indicated in text)."
+  },
+  "genes": []
+}

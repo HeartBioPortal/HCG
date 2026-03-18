@@ -1,0 +1,56 @@
+{
+  "content": {
+    "page_title": "Pulmonary embolism and pregnancy",
+    "section": "9 Pulmonary embolism and pregnancy",
+    "subsection": "9.1 Epidemiology and risk factors for pulmonary embolism in pregnancy",
+    "recommendations_summary": [
+      {
+        "recommendation": "For patients with PE and cancer, weight‑adjusted subcutaneous LMWH should be considered for the first 6 months over VKAs.",
+        "class": "IIa",
+        "level": "A"
+      },
+      {
+        "recommendation": "Edoxaban should be considered as an alternative to weight‑adjusted subcutaneous LMWH in patients without gastrointestinal cancer.",
+        "class": "IIa",
+        "level": "B"
+      },
+      {
+        "recommendation": "Rivaroxaban should be considered as an alternative to weight‑adjusted subcutaneous LMWH in patients without gastrointestinal cancer.",
+        "class": "IIa",
+        "level": "C"
+      },
+      {
+        "recommendation": "For patients with PE and cancer, extended anticoagulation (beyond the first 6 months) should be considered for an indefinite period or until the cancer is cured.",
+        "class": "IIa",
+        "level": "B"
+      },
+      {
+        "recommendation": "Management of incidental PE in patients with cancer should be the same as symptomatic PE if it involves segmental or more proximal branches, multiple subsegmental vessels, or a single subsegmental vessel in association with proven DVT.",
+        "class": "IIa",
+        "level": "B"
+      }
+    ],
+    "references_and_notes": [
+      "Refer to Supplementary Data Table 9 for further guidance on therapeutic decisions after the first 6 months.",
+      "Two identical recommendation tables are shown on the page (graphic images)."
+    ],
+    "abbreviations": {
+      "DVT": "deep vein thrombosis",
+      "LMWH": "low‑molecular weight heparin",
+      "PE": "pulmonary embolism",
+      "VKAs": "vitamin K antagonists"
+    },
+    "drugs_mentioned": [
+      "LMWH (low‑molecular weight heparin)",
+      "VKAs (vitamin K antagonists)",
+      "Edoxaban",
+      "Rivaroxaban"
+    ],
+    "meta": {
+      "class_definition_note": "a = Class of recommendation",
+      "level_definition_note": "b = Level of evidence",
+      "footnote_c": "c = Refer to Supplementary Data Table 9 for further guidance after the first 6 months"
+    }
+  },
+  "genes": []
+}

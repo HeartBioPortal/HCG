@@ -1,0 +1,50 @@
+{
+  "content": {
+    "title": "Recommendations",
+    "Initiation of anticoagulation": [
+      {
+        "recommendation": "Initiation of anticoagulation is recommended without delay in patients with high or intermediate clinical probability of PE, while diagnostic workup is in progress.",
+        "Class": "I",
+        "Level": "C"
+      },
+      {
+        "recommendation": "If anticoagulation is initiated parenterally, LMWH or fondaparinux is recommended (over UFH) for most patients.",
+        "Class": "I",
+        "Level": "A"
+      },
+      {
+        "recommendation": "When oral anticoagulation is started in a patient with PE who is eligible for a NOAC (apixaban, dabigatran, edoxaban, or rivaroxaban), a NOAC is recommended in preference to a VKA.",
+        "Class": "I",
+        "Level": "A"
+      },
+      {
+        "recommendation": "When patients are treated with a VKA, overlapping with parenteral anticoagulation is recommended until an INR of 2.5 (range 2.0–3.0) is reached.",
+        "Class": "I",
+        "Level": "A"
+      },
+      {
+        "recommendation": "NOACs are not recommended in patients with severe renal impairment, during pregnancy and lactation, and in patients with antiphospholipid antibody syndrome.",
+        "Class": "III",
+        "Level": "C"
+      }
+    ],
+    "Reperfusion treatment": [
+      {
+        "recommendation": "Rescue thrombolytic therapy is recommended for patients with haemodynamic deterioration on anticoagulation treatment.",
+        "Class": "I",
+        "Level": "B"
+      },
+      {
+        "recommendation": "As an alternative to rescue thrombolytic therapy, surgical embolectomy or percutaneous catheter-directed treatment should be considered for patients with haemodynamic deterioration on anticoagulation treatment.",
+        "Class": "IIa",
+        "Level": "C"
+      },
+      {
+        "recommendation": "Routine use of primary systemic thrombolysis is not recommended in patients with intermediate- or low-risk PE.",
+        "Class": "III",
+        "Level": "B"
+      }
+    ]
+  },
+  "genes": []
+}

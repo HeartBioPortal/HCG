@@ -1,0 +1,19 @@
+{
+  "content": {
+    "title": "Circulation and Right Ventricular Function - 4.11 Recommendations for diagnosis",
+    "summary": "Recommendations for the diagnosis of suspected pulmonary embolism (PE), covering suspected PE with and without haemodynamic instability, clinical evaluation, D-dimer testing, computed tomography pulmonary angiography (CTPA), V/Q scintigraphy and SPECT, lower-limb compression ultrasound (CUS), and magnetic resonance angiography (MRA). Includes class and level recommendations for each diagnostic strategy.",
+    "sections": {
+      "Suspected PE with haemodynamic instability": "In suspected high-risk PE indicated by haemodynamic instability, bedside echocardiography or emergency CTPA (depending on availability and clinical circumstances) is recommended. Initiation of intravenous anticoagulation with UFH including weight-adjusted bolus may be recommended without delay in patients with suspected high-risk PE. (Class I, Level C in image for key points).",
+      "Suspected PE without haemodynamic instability": "Use of validated criteria for diagnosing PE is recommended. Initiation of anticoagulation is recommended without delay in patients with high or intermediate clinical probability while diagnostic workup is in progress. (Class I, Level B/C depending on statement).",
+      "Clinical evaluation": "Diagnostic strategy should be based on clinical probability assessed by clinical judgment or a validated prediction rule. (Class I, Level A).",
+      "D-dimer": "Plasma D-dimer measurement using a highly sensitive assay is recommended in outpatients/emergency department patients with low or intermediate clinical probability to reduce unnecessary imaging. Age-adjusted D-dimer cut-off (age × 10 μg/L for patients >50 years) may be considered to exclude PE in low/intermediate probability. D-dimer not recommended to exclude PE in high clinical probability. (Recommendations vary: Class I/IIa/III with Levels A–B shown).",
+      "CTPA": "If CTPA is normal in a patient with low or intermediate clinical probability, PE may be excluded. A segmental or more proximal filling defect on CTPA is recommended to accept diagnosis of PE. Consider rejecting diagnosis if CTPA is normal in high clinical probability. Further imaging may be considered for isolated subsegmental defects. CT venography not recommended as adjunct to CTPA. (Various Class I/IIa/III, Levels A–B).",
+      "V/Q scintigraphy": "A normal perfusion lung scan may be used to reject diagnosis of PE without further testing. A V/Q scan showing high probability may be accepted to diagnose PE. Non-diagnostic V/Q may be considered as exclusion when combined with negative proximal CUS in low clinical probability or PE-unlikely patients. (Class I/IIa, Levels A–B).",
+      "V/Q SPECT": "V/Q SPECT may be considered for PE diagnosis (class IIb in image, Level B).",
+      "Lower-limb CUS": "CUS showing a proximal DVT in a patient with clinical suspicion of PE should be accepted to diagnose VTE (and PE). If CUS shows only distal DVT, further testing should be considered to confirm PE. If positive proximal CUS is used to confirm PE, assessment of PE severity should guide management. (Class I/IIa with Levels A–C).",
+      "MRA": "MRA is not recommended for ruling out PE (Class III, Level A shown)."
+    },
+    "notes": "The page presents many specific graded recommendations (Class I/IIa/IIb/III and Levels A/B/C) for diagnostic strategies; the above is a condensed extraction of the main actionable recommendations visible on the page image."
+  },
+  "genes": []
+}

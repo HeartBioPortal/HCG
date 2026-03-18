@@ -1,0 +1,46 @@
+{
+  "content": {
+    "page_context": "Clinical guideline recommendations on diagnosis of pulmonary embolism (PE), focusing on D-dimer thresholds, use of clinical probability (YEARS model), and imaging strategies.",
+    "D-dimer_and_YEARS_model": {
+      "YEARS_rule": "D-dimer cut-offs adapted to clinical probability according to the YEARS model (signs of DVT, haemoptysis, and whether an alternative diagnosis is less likely than PE).",
+      "cutoffs": [
+        "PE excluded in patients without clinical items and D-dimer < 1000 µg/L",
+        "PE excluded in patients with one or more clinical items and D-dimer < 500 µg/L"
+      ],
+      "note": "Low level of recommendation given limitations summarized elsewhere (Table 5 reference)."
+    },
+    "general_principles": {
+      "clinical_evaluation": "Diagnostic strategy should be based on clinical probability assessed by clinical judgement or a validated prediction rule.",
+      "anticoagulation": "In suspected high-risk PE (haemodynamic instability) initiate anticoagulation (e.g. UFH with weight-adjusted bolus) without delay; in patients with high or intermediate clinical probability initiation of anticoagulation is recommended without delay while diagnostic workup in progress."
+    },
+    "D-dimer_measurement": {
+      "recommendation": "Plasma D-dimer measurement using a highly sensitive assay is recommended in outpatients/emergency department patients with low or intermediate clinical probability, or those that are PE-unlikely, to reduce unnecessary imaging.",
+      "age_adjusted": "An age-adjusted D-dimer cut-off (age x 10 µg/L for patients aged >50 years) may be considered to exclude PE in patients with low or intermediate clinical probability.",
+      "limitations": "D-dimer measurement is not recommended to exclude PE in patients with high clinical probability because a normal result does not safely rule out PE."
+    },
+    "CTPA_recommendations": {
+      "use": "CT pulmonary angiography (CTPA) recommended for suspected high-risk PE and to confirm/exclude PE depending on clinical probability.",
+      "interpretation_guidance": [
+        "Reject diagnosis of PE (without further testing) if CTPA is normal in a patient with low or intermediate clinical probability.",
+        "Accept diagnosis of PE (without further testing) if CTPA shows a segmental or more proximal filling defect in a patient with intermediate or high clinical probability.",
+        "If CTPA is normal in a patient with high clinical probability, consider further testing; do not automatically exclude PE."
+      ],
+      "adjuncts": "CT venography not recommended as an adjunct to CTPA."
+    },
+    "VQ_scintigraphy_and_SPECT": {
+      "VQ_scintigraphy": [
+        "Reject diagnosis of PE (without further testing) if perfusion lung scan is normal.",
+        "Consider diagnosis of PE if V/Q scan yields high probability.",
+        "A non-diagnostic V/Q scan can be used to exclude PE when combined with a negative proximal compression ultrasound (CUS) in patients with low clinical probability or who are PE-unlikely."
+      ],
+      "VQ_SPECT": "V/Q SPECT may be considered for PE diagnosis."
+    },
+    "lower_limb_CUS": {
+      "use": "Accept diagnosis of venous thromboembolism (VTE) and (by extension) PE if CUS shows a proximal DVT in a patient with clinical suspicion of PE.",
+      "limitations": "If CUS shows only a distal DVT, further testing should be considered to confirm PE. If a positive proximal CUS is used to confirm PE, assessment of PE severity should be considered for risk-adjusted management."
+    },
+    "MRA": "Magnetic resonance angiography (MRA) is not recommended for ruling out PE.",
+    "table_notes": "Recommendations in the referenced table include class (I/IIa/IIb/III) and level (A/B/C) gradings for individual statements; specific gradings are provided in the original table image."
+  },
+  "genes": []
+}

@@ -1,0 +1,66 @@
+{
+  "content": {
+    "title": "Pulmonary Embolism Severity Index (PESI) and simplified PESI (sPESI)",
+    "summary": "Description of clinical scores integrating pulmonary embolism (PE) severity and comorbidity. PESI is the extensively validated index for identifying patients at low risk for 30-day mortality (PESI classes I and II). A simplified version (sPESI) with fewer weighted variables has been developed and validated; both identify low 30-day mortality risk, and sPESI performance has been confirmed in observational cohorts.",
+    "key_points": [
+      "PESI integrates PE severity and comorbidity; principal strength is reliable identification of patients at low risk for 30-day mortality (classes I and II).",
+      "A randomized trial used low PESI as inclusion criterion for home treatment of acute PE.",
+      "Original PESI includes 11 differently weighted variables; sPESI is simplified and validated and retains prognostic performance for 30-day mortality, though not yet prospectively used to guide therapeutic management of low-risk PE patients."
+    ],
+    "notes": "References to validation studies and observational cohorts are cited (reference numbers present in the source).",
+    "table_title": "Original and simplified Pulmonary Embolism Severity Index (Table 7)",
+    "parameters_table": [
+      {
+        "Parameter": "Age",
+        "Original version": "Age in years",
+        "Simplified version": "1 point (if age >80 years)"
+      },
+      {
+        "Parameter": "Male sex",
+        "Original version": "+10 points",
+        "Simplified version": "1 point"
+      },
+      {
+        "Parameter": "Cancer",
+        "Original version": "+30 points",
+        "Simplified version": "1 point"
+      },
+      {
+        "Parameter": "Chronic heart failure",
+        "Original version": "+10 points",
+        "Simplified version": "1 point"
+      },
+      {
+        "Parameter": "Chronic pulmonary disease",
+        "Original version": "+10 points",
+        "Simplified version": "1 point"
+      },
+      {
+        "Parameter": "Pulse rate ≥110 b.p.m.",
+        "Original version": "+20 points",
+        "Simplified version": "1 point"
+      },
+      {
+        "Parameter": "Systolic BP <100 mmHg",
+        "Original version": "+30 points",
+        "Simplified version": "1 point"
+      },
+      {
+        "Parameter": "Respiratory rate >30 breaths per min",
+        "Original version": "+20 points",
+        "Simplified version": "1 point"
+      },
+      {
+        "Parameter": "Temperature <36°C",
+        "Original version": "+20 points",
+        "Simplified version": "1 point"
+      },
+      {
+        "Parameter": "Altered mental status",
+        "Original version": "+60 points",
+        "Simplified version": "1 point"
+      }
+    ]
+  },
+  "genes": []
+}

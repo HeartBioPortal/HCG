@@ -1,0 +1,77 @@
+{
+  "content": {
+    "title": "Original and simplified Pulmonary Embolism Severity Index (Table 7)",
+    "description": "Risk score table listing parameters, original point values and a simplified version (1 point per item in simplified version where shown). Also includes risk strata and associated 30-day mortality estimates.",
+    "table": [
+      {
+        "Parameter": "Age",
+        "Original version": "Age in years",
+        "Simplified version": "1 point (if age > 80 years)"
+      },
+      {
+        "Parameter": "Male sex",
+        "Original version": "+10 points",
+        "Simplified version": "not specified / image artifact"
+      },
+      {
+        "Parameter": "Cancer",
+        "Original version": "+30 points",
+        "Simplified version": "1 point"
+      },
+      {
+        "Parameter": "Chronic heart failure",
+        "Original version": "+10 points",
+        "Simplified version": "1 point"
+      },
+      {
+        "Parameter": "Chronic pulmonary disease",
+        "Original version": "+10 points",
+        "Simplified version": "not specified / image artifact"
+      },
+      {
+        "Parameter": "Pulse rate ≥110 b.p.m.",
+        "Original version": "+20 points",
+        "Simplified version": "1 point"
+      },
+      {
+        "Parameter": "Systolic BP <100 mmHg",
+        "Original version": "+30 points",
+        "Simplified version": "1 point"
+      },
+      {
+        "Parameter": "Respiratory rate >30 breaths per min",
+        "Original version": "+20 points",
+        "Simplified version": "not specified / image artifact"
+      },
+      {
+        "Parameter": "Temperature <36°C",
+        "Original version": "+20 points",
+        "Simplified version": "not specified / image artifact"
+      },
+      {
+        "Parameter": "Altered mental status",
+        "Original version": "+60 points",
+        "Simplified version": "not specified / image artifact"
+      },
+      {
+        "Parameter": "Arterial oxyhaemoglobin saturation <90%",
+        "Original version": "+20 points",
+        "Simplified version": "1 point"
+      }
+    ],
+    "risk_strata": {
+      "notes": "Risk strata headings and 30-day mortality estimates (some numeric ranges partly obscured by image artifacts).",
+      "Class I": {
+        "score_range": "≤ 65 points (original scoring)",
+        "mortality_30day": "very low (approx. reported range on page 0.4%–1.6%)"
+      },
+      "Class II": {
+        "score_range": "66–85 points (original scoring)",
+        "mortality_30day": "low (approx. reported range on page 1.7%–3.5%)"
+      },
+      "Simplified_version_note": "0 points = 30 day mortality risk ≈ 1.0% (95% CI reported on page approximately 0.0%–2.1%)"
+    },
+    "footnotes": "Some simplified-column entries and numeric confidence-interval text are partially obscured or rendered as image artifacts in the supplied page image."
+  },
+  "genes": []
+}

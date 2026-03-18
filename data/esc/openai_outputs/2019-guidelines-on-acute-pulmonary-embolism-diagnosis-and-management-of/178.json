@@ -1,0 +1,37 @@
+{
+  "content": {
+    "page_refs": {
+      "figure_reference": "As proposed in the algorithm shown in Figure 8.",
+      "table_reference": "Risk factors and predisposing conditions for CTEPH are listed in Table 13."
+    },
+    "recommendations_table": [
+      {
+        "text": "Routine clinical evaluation of patients 3–6 months after the acute PE episode is recommended.",
+        "Class": "I",
+        "Level": "B",
+        "notes": "References cited in image (numerical)."
+      },
+      {
+        "text": "An integrated model of patient care after PE (involving hospital specialists, appropriately qualified nurses, and primary care physicians) is recommended to ensure optimal transition from hospital to community care.",
+        "Class": "I",
+        "Level": "C"
+      },
+      {
+        "text": "In symptomatic patients with mismatched perfusion defects persisting on V/Q scan beyond 3 months after acute PE, referral to a PH/CTEPH expert centre is recommended, after taking into account the results of echocardiography, natriuretic peptide levels, and/or CPET.",
+        "Class": "I",
+        "Level": "C"
+      },
+      {
+        "text": "Further diagnostic evaluation should be considered in patients with persistent or new-onset dyspnoea/exercise limitation after PE.",
+        "Class": "IIa",
+        "Level": "C"
+      },
+      {
+        "text": "Further diagnostic evaluation may be considered in asymptomatic patients with risk factors for CTEPH.",
+        "Class": "IIb",
+        "Level": "C"
+      }
+    ]
+  },
+  "genes": []
+}

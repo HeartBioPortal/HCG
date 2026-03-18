@@ -1,0 +1,43 @@
+{
+  "content": {
+    "D-dimer_YEARS_model": {
+      "recommendation": "D-dimer cut-off levels adapted to clinical probability per the YEARS model (signs of DVT, haemoptysis, and whether an alternative diagnosis is less likely than PE).",
+      "criteria": [
+        "PE excluded in patients without clinical items and D-dimer < 1000 µg/L",
+        "PE excluded in patients with one or more clinical items and D-dimer < 500 µg/L"
+      ],
+      "note": "Low level of recommendation due to limitations (see Table 5)."
+    },
+    "Computed_tomography_venography_(4.12)": {
+      "summary": "When using CTPA it is possible to image deep veins of the legs during the same acquisition.",
+      "limitations": [
+        "Approach not widely validated",
+        "Added value of venous imaging is limited",
+        "Associated with increased radiation dose"
+      ]
+    },
+    "Assessment_of_pulmonary_embolism_severity_and_risk_of_early_death_(Section_5)": {
+      "overall_message": "Risk stratification of patients with acute PE is mandatory to determine appropriate therapeutic management.",
+      "initial_stratification": "Based on clinical symptoms and signs of haemodynamic instability (high risk of early death).",
+      "advanced_stratification": "For haemodynamically stable patients, assess (i) clinical, imaging and laboratory indicators of PE severity—mostly related to presence of right ventricular (RV) dysfunction—and (ii) presence of comorbidity or other aggravating conditions."
+    },
+    "Clinical_parameters_of_PE_severity_(5.1)": {
+      "acute_RV_failure_definition": "Rapidly progressive syndrome with systemic congestion resulting from impaired RV filling and/or reduced RV flow output; a critical determinant of outcome in acute PE.",
+      "associated_clinical_findings": [
+        "Tachycardia",
+        "Low systolic blood pressure",
+        "Respiratory insufficiency (tachypnoea and/or low SaO2)",
+        "Syncope"
+      ],
+      "prognostic_implication": "These findings, alone or in combination, are associated with unfavourable short-term prognosis in acute PE."
+    },
+    "Imaging_of_right_ventricular_size_and_function_(5.2_and_5.2.1_Echocardiography)": {
+      "summary": "Echocardiographic parameters are used to stratify early risk in PE; prognostic values summarized in supplementary materials.",
+      "specific_findings_associated_with_unfavourable_prognosis": [
+        "RV/LV diameter ratio ≥ 1.0",
+        "TAPSE < 16 mm"
+      ]
+    }
+  },
+  "genes": []
+}

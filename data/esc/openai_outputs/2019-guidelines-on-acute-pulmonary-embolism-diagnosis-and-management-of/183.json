@@ -1,0 +1,37 @@
+{
+  "content": {
+    "page_title": "Long-term sequelae of pulmonary embolism; What to do and what not to do — messages from the Guidelines",
+    "follow_up_recommendations": [
+      "Define and prospectively validate the optimal follow-up strategy, including the spectrum of diagnostic tests necessary for patients with persisting symptoms and functional limitation after acute PE.",
+      "In the absence of persisting symptoms or functional limitation after acute PE, criteria to identify patients whose risk of developing CTEPH is sufficiently high to justify further diagnostic workup require further elaboration and validation in prospective cohort studies."
+    ],
+    "guideline_section_link": "Open in new tab (embedded table image present)",
+    "diagnosis_table_key_points": [
+      "In suspected high-risk PE, perform bedside echocardiography or emergency CTPA depending on availability and clinical circumstances.",
+      "In suspected high-risk PE, initiate intravenous anticoagulation with UFH without delay, including a weight-adjusted bolus injection.",
+      "In suspected PE without haemodynamic instability, use validated diagnostic criteria.",
+      "In suspected PE without haemodynamic instability, initiate anticoagulation in case of high or intermediate clinical probability while diagnostic workup is in progress.",
+      "Base the diagnostic strategy on clinical probability, using either clinical judgement or a validated prediction rule.",
+      "Measure D-dimers in plasma, preferably with a highly sensitive assay, in outpatients/emergency department patients with low or intermediate clinical probability or who are PE-unlikely.",
+      "Reject the diagnosis of PE (without further testing) if CTPA is normal in a patient with low or intermediate clinical probability, or if the patient is PE-unlikely.",
+      "Reject the diagnosis of PE (without further testing) if the perfusion lung scan is normal.",
+      "Accept the diagnosis of PE if CTPA shows a segmental or more proximal filling defect in a patient with intermediate or high clinical probability.",
+      "Accept the diagnosis of VTE if CUS shows a proximal DVT in a patient with clinical suspicion of PE.",
+      "Do not measure D-dimers in patients with high clinical probability, as a normal result does not safely exclude PE.",
+      "Do not perform CT venography as an adjunct to CTPA.",
+      "Do not perform MRA to rule out PE."
+    ],
+    "risk_assessment": [
+      "Stratify patients with suspected or confirmed PE, based on the presence of haemodynamic instability, to identify those at high risk of early mortality.",
+      "In patients without haemodynamic instability, further stratify PE into intermediate- and low-risk categories."
+    ],
+    "treatment_recommendations_acute_phase": [
+      "Administer systemic thrombolytic therapy to patients with high-risk PE.",
+      "Consider surgical pulmonary embolectomy for patients with high-risk PE in whom recommended thrombolysis is contraindicated or has failed.",
+      "If anticoagulation is initiated parenterally in a patient without haemodynamic instability, prefer LMWH or fondaparinux over UFH."
+    ],
+    "image_table_present": true,
+    "notes": "Content extracted from guideline text and embedded diagnosis/treatment table image. Abbreviations on page include PE, CTEPH, CTPA, UFH, LMWH, CUS, D-dimers, VTE, DVT (not genes)."
+  },
+  "genes": []
+}

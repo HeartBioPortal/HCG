@@ -1,0 +1,58 @@
+{
+  "content": {
+    "CTPA": {
+      "Strengths": [
+        "Readily available around the clock in most centres",
+        "Excellent accuracy",
+        "Strong validation in prospective management outcome studies",
+        "Low rate of inconclusive results (3–5%)",
+        "May provide alternative diagnosis if PE excluded",
+        "Short acquisition time"
+      ],
+      "Weaknesses/limitations": [
+        "Radiation exposure",
+        "Exposure to iodine contrast: limited use in iodine allergy and hyperthyroidism",
+        "Risks in pregnant and breastfeeding women",
+        "Contraindicated in severe renal failure",
+        "Tendency to overuse because of easy accessibility",
+        "Clinical relevance of CTPA diagnosis of subsegmental PE unknown"
+      ],
+      "Radiation_issues": [
+        "Radiation effective dose ~3–10 mSv",
+        "Significant radiation exposure to young female breast tissue"
+      ]
+    },
+    "Planar V/Q scan": {
+      "Strengths": [
+        "Almost no contraindications",
+        "Relatively inexpensive",
+        "Strong validation in prospective management outcome studies"
+      ],
+      "Weaknesses/limitations": [
+        "Not readily available in all centres",
+        "Interobserver variability in interpretation",
+        "Results reported as likelihood ratios",
+        "Inconclusive in 50% of cases",
+        "Cannot provide alternative diagnosis if PE excluded"
+      ],
+      "Radiation_issues": [
+        "Lower radiation than CTPA, effective dose approximately lower (reported ~1–2 mSv)"
+      ]
+    },
+    "V/Q SPECT": {
+      "Strengths": [
+        "Almost no contraindications",
+        "Lowest rate of non-diagnostic tests (<3%)"
+      ],
+      "Weaknesses/limitations": [
+        "Variability of techniques",
+        "Variability of diagnostic criteria",
+        "Cannot provide alternative diagnosis if PE excluded"
+      ],
+      "Radiation_issues": [
+        "Lower radiation than CTPA, effective dose approximately lower (reported ~1–2 mSv)"
+      ]
+    }
+  },
+  "genes": []
+}

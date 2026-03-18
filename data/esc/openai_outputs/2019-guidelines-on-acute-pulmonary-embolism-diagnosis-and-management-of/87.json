@@ -1,0 +1,88 @@
+{
+  "content": {
+    "arterial_oxyhaemoglobin_saturation": {
+      "threshold": "<90%",
+      "original_version": "+20 points",
+      "simplified_version": "1 point"
+    },
+    "risk_strata": {
+      "overview_note": "Risk strata based on point totals with associated 30-day mortality risks and 95% CI where provided.",
+      "classes": [
+        {
+          "class": "I",
+          "points": "≤65 points",
+          "mortality_risk_30_day": "very low (0–1.6%)"
+        },
+        {
+          "class": "II",
+          "points": "66–85 points",
+          "mortality_risk_30_day": "low (1.7–3.5%)"
+        },
+        {
+          "class": "III",
+          "points": "86–105 points",
+          "mortality_risk_30_day": "moderate (3.2–7.1%)"
+        },
+        {
+          "class": "IV",
+          "points": "106–125 points",
+          "mortality_risk_30_day": "high (4.0–11.4%)"
+        },
+        {
+          "class": "V",
+          "points": ">125 points",
+          "mortality_risk_30_day": "very high (10.0–24.5%)"
+        }
+      ],
+      "example_point_mappings": [
+        {
+          "points": "0 points",
+          "statement": "30 day mortality risk 1.0% (95% CI 0.0–2.1%)"
+        },
+        {
+          "points": "≥1 point(s)",
+          "statement": "30 day mortality risk 10.9% (95% CI 8.5–13.2%)"
+        }
+      ]
+    },
+    "parameter_table": {
+      "columns": [
+        "Parameter",
+        "Original version",
+        "Simplified version"
+      ],
+      "rows": [
+        {
+          "Parameter": "Age",
+          "Original version": "Age in years",
+          "Simplified version": "1 point (if age >80 years)"
+        },
+        {
+          "Parameter": "Male sex",
+          "Original version": "+10 points",
+          "Simplified version": "(garbled/unspecified on image)"
+        },
+        {
+          "Parameter": "Cancer",
+          "Original version": "+30 points",
+          "Simplified version": "1 point"
+        },
+        {
+          "Parameter": "Chronic heart failure",
+          "Original version": "+10 points",
+          "Simplified version": "1 point"
+        },
+        {
+          "Parameter": "Chronic pulmonary disease",
+          "Original version": "+10 points",
+          "Simplified version": "1 point"
+        }
+      ]
+    },
+    "notes": [
+      "This page shows a point-based risk score with class-based 30-day mortality estimates and corresponding 95% confidence intervals.",
+      "Some text in the image is partially garbled; values above are transcribed from visible, legible portions."
+    ]
+  },
+  "genes": []
+}

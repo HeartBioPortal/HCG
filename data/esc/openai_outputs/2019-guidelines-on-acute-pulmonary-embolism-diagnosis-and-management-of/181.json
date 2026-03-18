@@ -1,0 +1,22 @@
+{
+  "content": {
+    "recommendations": [
+      "7. Prefer anticoagulation with a NOAC over the traditional LMWH ± VKA regimen unless the patient has contraindications to this type of drug.",
+      "8. There is a lifelong risk of VTE recurrence after a first episode of PE (except PE provoked by a strong transient/reversible risk factor). Re-examine the patient after the first 3–6 months of anticoagulation to weigh benefits vs. risks of continuing treatment, decide on extension and dose of anticoagulant therapy, and consider patient preference. Recommend regular follow-up examinations (e.g., yearly).",
+      "9. If PE is suspected in a pregnant patient, consider diagnostic pathways and algorithms including CTPA or V/Q lung scan, which can be used safely during pregnancy.",
+      "10. After acute PE, ensure patients are not lost to follow-up. Check for signs of VTE recurrence, cancer, or bleeding complications of anticoagulation, and ask about persisting or new-onset dyspnoea or functional limitation. If present, implement a staged diagnostic workup to exclude CTEPH or chronic thromboembolic disease and detect/treat comorbidity or simple deconditioning. Follow-up imaging is not routinely recommended in an asymptomatic patient but may be considered in patients with risk factors for development of CTEPH."
+    ],
+    "gaps_in_the_evidence": {
+      "diagnosis": [
+        "The optimal method to adjust the D-dimer threshold (e.g., by patient age or in combination with clinical probability) to exclude PE while reducing unnecessary imaging remains to be determined.",
+        "The diagnostic value and clinical significance of isolated subsegmental contrast-filling defects in the modern CTPA era remain controversial.",
+        "No robust data exist to guide the decision on whether to treat incidental PE with anticoagulants versus a watchful waiting strategy.",
+        "For patients presenting with non-traumatic chest pain, the benefits vs. risks of a triple rule-out (coronary artery disease, PE, and aortic dissection) CT angiography approach need further evaluation before routine recommendation."
+      ],
+      "assessment_of_pulmonary_embolism_severity_and_risk_of_early_death": [
+        "The optimal, clinically most relevant combination (and cut-off levels) of clinical and biochemical predictors of early PE-related death remain to be determined, particularly for identifying candidates for reperfusion treatment among patients with intermediate-risk PE."
+      ]
+    }
+  },
+  "genes": []
+}

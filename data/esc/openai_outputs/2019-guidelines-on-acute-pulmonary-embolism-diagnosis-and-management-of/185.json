@@ -1,0 +1,44 @@
+{
+  "content": {
+    "title": "Pulmonary embolism — key guideline recommendations (page summary)",
+    "recommendations": [
+      "When initiating oral anticoagulation in a patient with PE who is eligible for a NOAC (apixaban, dabigatran, edoxaban, or rivaroxaban), prefer a NOAC.",
+      "As an alternative to a NOAC, administer a VKA, overlapping with parenteral anticoagulation until INR of 2.5 (range 2.0–3.0) has been reached.",
+      "Administer rescue thrombolytic therapy to a patient with haemodynamic deterioration while on anticoagulation treatment.",
+      "Do not use NOACs in patients with severe renal impairment or in those with antiphospholipid antibody syndrome.",
+      "Do not routinely administer systemic thrombolysis as primary treatment in patients with intermediate- or low-risk PE.",
+      "Do not routinely use inferior vena cava filters.",
+      "Chronic treatment and prevention of recurrence: administer therapeutic anticoagulation for ≥3 months to all patients with PE.",
+      "Discontinue therapeutic oral anticoagulation after 3 months in patients with first PE secondary to a major transient/reversible risk factor.",
+      "Continue oral anticoagulant treatment indefinitely in patients presenting with recurrent VTE (at least one previous episode of PE or DVT) that is not related to a major transient or reversible risk factor.",
+      "Continue oral anticoagulant treatment with a VKA indefinitely in patients with antiphospholipid antibody syndrome.",
+      "For patients on extended anticoagulation, reassess drug tolerance and adherence, hepatic and renal function, and bleeding risk at regular intervals.",
+      "PE in pregnancy: perform formal diagnostic assessment with validated methods if PE is suspected in pregnancy or the post-partum period.",
+      "Administer therapeutic, fixed doses of LMWH based on early pregnancy weight in the majority of pregnant women without haemodynamic instability.",
+      "Do not insert a spinal or epidural needle within 24 h since the last LMWH dose.",
+      "Do not administer LMWH within 4 h of removal of an epidural catheter.",
+      "Do not use NOACs during pregnancy or lactation.",
+      "Post-PE care and long-term sequelae: routinely re-evaluate patients 3–6 months after acute PE.",
+      "Implement an integrated model of care after acute PE to ensure optimal transition from hospital to ambulatory care.",
+      "Refer symptomatic patients with mismatched perfusion defects on V/Q lung scan beyond 3 months after acute PE to a pulmonary hypertension/CTEPH expert centre, considering echocardiography, natriuretic peptide, and/or cardiopulmonary exercise testing."
+    ],
+    "abbreviations": {
+      "CT": "computed tomography",
+      "CTPA": "computed tomographic pulmonary angiography/angiogram",
+      "CTEPH": "Chronic thromboembolic pulmonary hypertension",
+      "CUS": "compression ultrasonography",
+      "DVT": "deep vein thrombosis",
+      "INR": "international normalized ratio",
+      "LMWH": "low-molecular-weight heparin",
+      "MRA": "magnetic resonance angiography",
+      "NOAC(s)": "non-vitamin K antagonist oral anticoagulant(s)",
+      "PE": "pulmonary embolism",
+      "UFH": "unfractionated heparin",
+      "VKA": "vitamin K antagonist",
+      "V/Q": "ventilation/perfusion (lung scintigraphy)",
+      "VTE": "venous thromboembolism"
+    },
+    "notes": "Recommendations include class indicators on the original page (not reproduced here). Emphasis on anticoagulation selection, duration, special situations (pregnancy, renal impairment, antiphospholipid syndrome), and follow-up care."
+  },
+  "genes": []
+}

@@ -1,0 +1,31 @@
+{
+  "content": {
+    "page_title": "Integrated risk-adapted diagnosis and management (excerpt)",
+    "recommendation_summary": "Carefully selected patients with low-risk pulmonary embolism (PE) should be considered for early discharge and continuation of treatment at home if proper outpatient care and anticoagulant treatment can be provided.",
+    "recommendation_class": "IIa",
+    "recommendation_level": "A",
+    "abbreviations": {
+      "PE": "pulmonary embolism",
+      "VTE": "venous thromboembolism"
+    },
+    "section": "7 Integrated risk-adapted diagnosis and management",
+    "subsection": "7.1 Diagnostic strategies",
+    "diagnostic_strategies_summary": "Various combinations of clinical assessment, plasma D-dimer measurements, and imaging tests have been proposed and validated for PE diagnosis. Strategies have been tested in patients presenting with suspected PE in the emergency department, during hospital stay, and in primary care.",
+    "safety_concern": "Withholding anticoagulation without adherence to evidence-based diagnostic strategies was associated with a significant increase in the number of VTE episodes and sudden cardiac death at 3-month follow-up.",
+    "diagnostic_algorithms": "The most straightforward diagnostic algorithms for suspected PE with and without haemodynamic instability are presented in Figures 4 and 5 of the guideline.",
+    "implementation_note": "Diagnostic approach may vary depending on availability of tests and local expertise; see section 7 and Figure 6 for guidance on defining low-risk PE and decision-making.",
+    "references_mentioned": [
+      "101",
+      "111",
+      "12",
+      "164",
+      "171",
+      "320",
+      "178",
+      "206",
+      "317",
+      "319"
+    ]
+  },
+  "genes": []
+}

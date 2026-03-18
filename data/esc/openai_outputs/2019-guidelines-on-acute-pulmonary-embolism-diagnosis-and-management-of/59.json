@@ -1,0 +1,27 @@
+{
+  "content": {
+    "table_title": "Need for cardiopulmonary resuscitation",
+    "categories": {
+      "Cardiac arrest": {
+        "criteria": "Cardiac arrest requiring cardiopulmonary resuscitation."
+      },
+      "Obstructive shock": {
+        "systolic_BP": "Systolic BP < 90 mmHg or vasopressors required to achieve a BP ≥ 90 mmHg despite adequate filling status.",
+        "and": "End-organ hypoperfusion (altered mental status; cold, clammy skin; oliguria/anuria; increased serum lactate)."
+      },
+      "Persistent hypotension": {
+        "systolic_BP": "Systolic BP < 90 mmHg or systolic BP drop ≥ 40 mmHg, lasting longer than 15 min and not caused by new-onset arrhythmia, hypovolaemia, or sepsis."
+      }
+    },
+    "abbreviations": {
+      "BP": "blood pressure"
+    },
+    "diagnosis_section": {
+      "section_heading": "4 Diagnosis",
+      "summary": "Increased awareness of venous thromboembolic disease and wider availability of non-invasive imaging (mainly CT pulmonary angiography, CTPA) has led to more frequent diagnostic workups for pulmonary embolism (PE). Contemporary PE confirmation rates in diagnostic workups may be as low as ~5% in recent North American studies versus ~50% in the early 1980s. Non-invasive diagnostic strategies must safely exclude PE in low pre-test probability populations; conversely, a positive test should have adequate specificity to justify anticoagulant treatment.",
+      "references_note": "Text references numbered in original (e.g., 71, 72)."
+    },
+    "next_heading": "4.1 Clinical presentation"
+  },
+  "genes": []
+}

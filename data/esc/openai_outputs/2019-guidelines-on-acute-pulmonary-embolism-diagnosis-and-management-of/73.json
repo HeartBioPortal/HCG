@@ -1,0 +1,50 @@
+{
+  "content": {
+    "table_summary": {
+      "CTPA": {
+        "pros": [
+          "High accuracy according to available data",
+          "Binary interpretation (PE vs. no PE)"
+        ],
+        "cons": [
+          "No validation in prospective management outcome studies"
+        ]
+      },
+      "Pulmonary angiography": {
+        "pros": [
+          "Historical gold standard"
+        ],
+        "cons": [
+          "Invasive procedure",
+          "Not readily available in all centres"
+        ],
+        "notes": [
+          "Highest radiation, effective dose 10–20 mSv (footnote b)"
+        ]
+      }
+    },
+    "abbreviations": "CTPA = computed tomographic pulmonary angiography; mGy = milligray; mSv = millisieverts; PE = pulmonary embolism; SPECT = single-photon emission computed tomography; V/Q = ventilation/perfusion (lung scintigraphy).",
+    "footnotes": {
+      "a": "Effective radiation dose is expressed in mSv (dose in mSv = absorbed dose in mGy × radiation weighting factor (1.0 for X-rays) × tissue weighting factor). Reflects effective doses of all organs exposed (overall radiation dose to the body).",
+      "b": "For comparison, the whole-body effective dose of a chest X-ray examination is 0.1 mSv."
+    },
+    "section_4_6_title": "4.6 Lung scintigraphy",
+    "section_4_6_summary": "The planar ventilation/perfusion (V/Q) lung scintigraphy scan is an established diagnostic test for suspected pulmonary embolism (PE). Perfusion scans are combined with ventilation studies using various tracers. The ventilation scan increases specificity; in acute PE ventilation is expected to be normal in hypoperfused (mismatched) segments.",
+    "tracers_list": [
+      "xenon-133 gas",
+      "krypton-81 gas",
+      "technetium-99m-labelled aerosols",
+      "technetium-99m-labelled carbon microparticles (Technegas)"
+    ],
+    "indications_and_preferred_use": [
+      "Lower-radiation and contrast medium-sparing procedure",
+      "Preferentially applied in outpatients with low clinical probability and a normal chest X-ray",
+      "Preferred in young (particularly female) patients",
+      "Preferred in pregnant women",
+      "Preferred in patients with history of contrast medium–induced anaphylaxis",
+      "Preferred in patients with severe renal failure"
+    ],
+    "classification_and_criteria": "Planar lung scan results are frequently classified according to the criteria established in the PIOPED study; these criteria have been debated and revised."
+  },
+  "genes": []
+}

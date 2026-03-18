@@ -1,0 +1,34 @@
+{
+  "content": {
+    "condition": "Amniotic fluid embolism (AFE)",
+    "incidence": "Approximately 2–8 per 100,000 maternities (text shows corrupted characters but approximates this range).",
+    "mortality_rate": "Approximately 0.5–1.6 deaths per 100,000 deliveries.",
+    "case_fatality_rates": [
+      "Retrospective Californian study (>3.5 million deliveries) reported case fatality of 13%.",
+      "Prospective UK population-based study with validated case criteria reported case fatality of 19%."
+    ],
+    "risk_factors": [
+      "Pre-existing cardiac disorders",
+      "Cerebrovascular disorders",
+      "Renal disorders",
+      "Placenta previa",
+      "Polyhydramnios",
+      "Stillbirth",
+      "Chorioamnionitis",
+      "Hypertensive disorders",
+      "Instrumental delivery",
+      "Caesarean section"
+    ],
+    "management": "Supportive care based on high-quality emergency care following recognition and diagnosis; prompt treatment of bleeding and coagulopathy.",
+    "education_note": "Awareness of AFE should be integral to education of involved physicians and to emergency algorithms.",
+    "next_section": "9.5 Recommendations for pulmonary embolism in pregnancy (link provided: 'Open in new tab')",
+    "references_mentioned": [
+      "422",
+      "425",
+      "426",
+      "423"
+    ],
+    "notes": "Reported case fatality rates vary reflecting diagnostic challenges and rarity of AFE."
+  },
+  "genes": []
+}

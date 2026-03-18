@@ -1,0 +1,22 @@
+{
+  "content": {
+    "footnotes": {
+      "a": "Class of recommendation.",
+      "b": "Level of evidence.",
+      "c": "See Table 8 for definition of the PE severity and PE-related risk.",
+      "d": "Dabigatran is not recommended in patients with CrCl <30 mL/min. Edoxaban should be given at a dose of 30 mg once daily in patients with CrCl of 15–50 mL/min and is not recommended in patients with CrCl <15 mL/min. Rivaroxaban and apixaban are to be used with caution in patients with CrCl 15–29 mL/min, and their use is not recommended in patients with CrCl <15 mL/min.",
+      "e": "If appropriate expertise and resources are available on-site.",
+      "f": "The risk-to-benefit ratios of surgical embolectomy or catheter-directed procedures have not yet been established in intermediate- or low-risk PE."
+    },
+    "section_heading": "6.8 Recommendations for multidisciplinary pulmonary embolism teams",
+    "recommendation_summary": {
+      "text": "Set-up of a multidisciplinary team and a programme for the management of high- and (in selected cases) intermediate-risk PE should be considered, depending on the resources and expertise available in each hospital.",
+      "class": "IIa",
+      "level": "C",
+      "occurrences_in_image": 2,
+      "note": "Recommendation box is shown twice in the image (duplicate)."
+    },
+    "other_notes": "Reference to Table 8 for PE severity. Emphasis on renal function (CrCl) for DOAC use and dosing; several direct oral anticoagulants named (dabigatran, edoxaban, rivaroxaban, apixaban)."
+  },
+  "genes": []
+}

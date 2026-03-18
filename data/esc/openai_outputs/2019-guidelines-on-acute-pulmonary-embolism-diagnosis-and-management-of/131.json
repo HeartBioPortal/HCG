@@ -1,0 +1,28 @@
+{
+  "content": {
+    "section": "7.2.3 Management of low-risk pulmonary embolism: triage for early discharge and home treatment",
+    "general_rule": "Early discharge and continuation of anticoagulant treatment at home may be considered if three criteria are fulfilled: (i) low risk of early PE-related death or serious complications; (ii) no serious comorbidity or aggravating condition mandating hospitalization; (iii) adequate outpatient care and anticoagulant treatment can be provided, considering patient (anticipated) compliance and healthcare/social infrastructure.",
+    "supporting_evidence": "Randomized trials and prospective management cohort studies investigated feasibility and safety of early discharge and home treatment and adhered to these principles, using slightly different criteria or combinations to meet the requirements.",
+    "triage_flowchart_summary": {
+      "initial_step": "Anticoagulate and assess for haemodynamic instability.",
+      "if_haemodynamically_unstable": "Manage as high risk (hospitalize, consider reperfusion and haemodynamic support).",
+      "if_stable": "Distinguish low- from intermediate-risk PE by checking two items:",
+      "checks": [
+        "1) Clinical signs of PE severity or serious comorbidity (e.g., PESI Class III–IV or sPESI ≥1; alternatively Hestia criteria met).",
+        "2) Right ventricular (RV) dysfunction on TTE or CTPA."
+      ],
+      "interpretation": {
+        "either_check_present": "Perform troponin test.",
+        "troponin_positive_plus_RV_dysfunction": "Intermediate–high risk → Hospitalize and consider reperfusion/advanced support.",
+        "troponin_negative": "Intermediate–low risk → Hospitalize for monitoring; consider escalation if deterioration.",
+        "neither_check_present": "Low risk → Evaluate non-medical reasons for hospitalization (family/social support, easy access to medical care)."
+      },
+      "disposition_decision": {
+        "no_other_reasons_for_hospitalization_and_support_available": "Early discharge and home treatment.",
+        "any_other_reasons_or_support_inadequate": "Hospitalize for treatment/monitoring."
+      }
+    },
+    "figure": "Figure 6 — flowchart illustrating triage steps from patient with acute PE to disposition (hospitalize vs early discharge/home treatment)."
+  },
+  "genes": []
+}

@@ -1,0 +1,31 @@
+{
+  "content": {
+    "topic": "CTEPH management (BPA, PEA, pharmacological)",
+    "BPA_registry": {
+      "patients": 249,
+      "mean_age_years": 61.5,
+      "years_treated": "2004-2013",
+      "centres": "seven Japanese centres",
+      "mean_PAP_pre_post_mmHg": "43 -> 24",
+      "follow_up_catheterization_patients": 196,
+      "complications_rate_percent": 36,
+      "complication_breakdown": {
+        "pulmonary_injury_percent": 18,
+        "haemoptysis_percent": 14,
+        "pulmonary_artery_perforation_percent": 2.9
+      },
+      "30_day_mortality_percent": 2.6,
+      "one_year_overall_survival_percent": 97
+    },
+    "BPA_clinical_points": "Most BPA performed in technically inoperable patients; has been used sequentially for PH persisting after PEA; rescue BPA in unstable patients on ECMO after PEA were ineffective in reported cases.",
+    "pharmacological_treatment_summary": "Optimal medical treatment for CTEPH consists of anticoagulants (lifelong oral VKAs recommended), diuretics and oxygen for heart failure or hypoxaemia. No data exist on efficacy/safety of NOACs for CTEPH.",
+    "targeted_therapy_rationale": "Pulmonary microvascular disease in CTEPH provided rationale to test drugs approved for pulmonary arterial hypertension; targeted therapy justified for technically inoperable patients and for PH persisting after PEA.",
+    "approved_drugs_for_inoperable_or_persistent_CTEPH": "Riociguat is the only drug specifically approved for inoperable CTEPH or persistent/recurrent PH after PEA (oral soluble guanylate cyclase stimulator).",
+    "riociguat_evidence": "Prospective randomized trial of 261 patients with inoperable CTEPH or persistent/recurrent PH after PEA showed riociguat significantly increased 6-minute walk distance and reduced PVR.",
+    "endothelin_antagonists_evidence": "In a trial of 157 patients bosentan improved haemodynamics but did not improve exercise capacity or meet primary outcome. Macitentan (dual endothelin antagonist) improved PVR and 6-minute walk distance versus placebo in a phase II trial.",
+    "ongoing_trials": "Riociguat being tested as bridging therapy for patients scheduled for PEA (NCT03273257) and in comparison to BPA (NCT02634203).",
+    "clinical_uncertainties": "Overall effects on clinical worsening from RCTs in CTEPH remain unclear; no data on medical treatment in technically operable patients with prohibitive comorbidities or refusing surgery. Limited prospective data on off-label combinations of PAH drugs in severe haemodynamic compromise.",
+    "clinical_recommendation_note": "Medical therapy is not indicated in symptomatic survivors of acute PE with documented post-thrombotic obstructions but absence of PH at rest (CTED)."
+  },
+  "genes": []
+}

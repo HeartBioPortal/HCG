@@ -1,0 +1,47 @@
+{
+  "content": {
+    "page_topic": "Diagnostic workup and management of suspected pulmonary embolism (PE) during pregnancy and up to 6 weeks postpartum",
+    "figure": "Figure 7: Diagnostic flowchart for suspected PE in pregnancy (initial anticoagulation with LMWH, imaging pathway based on chest X-ray and compression ultrasound findings)",
+    "initial_management": [
+      "If high pretest probability or intermediate/low probability with positive D-dimer: start anticoagulation with low-molecular-weight heparin (LMWH).",
+      "Perform chest X-ray and compression proximal duplex ultrasound (CUS) if symptoms or signs suggestive of deep vein thrombosis (DVT)."
+    ],
+    "imaging_pathway_summary": {
+      "if_proximal_DVT_present": "Treat as PE (continue LMWH at therapeutic dose and manage accordingly).",
+      "if_no_proximal_DVT": "Proceed to specific investigation for PE.",
+      "specific_investigation_decision": [
+        "If chest X-ray normal => consider CTPA or perfusion lung scan (CTPA often preferred).",
+        "If chest X-ray abnormal => CTPA.",
+        "If imaging negative => PE ruled out.",
+        "If indeterminate or positive => review by experienced radiologist or nuclear physician; if positive, treat as PE."
+      ]
+    },
+    "management_after_positive_imaging": [
+      "Continue LMWH at therapeutic dose.",
+      "Assess PE severity and risk of early death.",
+      "Refer to multidisciplinary team experienced in PE management in pregnancy.",
+      "Provide plan for management of pregnancy, labour and delivery, postnatal and future care."
+    ],
+    "radiation_and_imaging_considerations": [
+      "Modern CTPA techniques can reduce maternal breast and foetal radiation exposure (reduce anatomical coverage, lower kilovoltage, iterative reconstruction, reduce contrast-monitoring component).",
+      "CTPA technique must ensure very low foetal radiation exposure.",
+      "Avoiding CTPA on grounds of maternal cancer risk is not justified with modern techniques (lifetime cancer risk increase negligible)."
+    ],
+    "additional_investigations_and_precautions": [
+      "If entire leg is swollen or there is buttock pain or other symptoms suggestive of pelvic thrombosis, consider magnetic resonance venography to rule out DVT (pelvic DVT may not be ruled out by CUS).",
+      "Before giving LMWH: perform full blood count (haemoglobin and platelet count) and calculate creatinine clearance; assess bleeding risk and ensure absence of contraindications."
+    ],
+    "abbreviations_expanded": {
+      "CTPA": "computed tomography pulmonary angiography",
+      "CUS": "compression ultrasonography",
+      "DVT": "deep vein thrombosis",
+      "LMWH": "low-molecular-weight heparin",
+      "PE": "pulmonary embolism"
+    },
+    "references_and_notes": [
+      "Figure and text reference Table 12 for radiation dose detail and Table 8 for additional guidance.",
+      "Guideline emphasizes multidisciplinary review for indeterminate imaging and individualized management planning."
+    ]
+  },
+  "genes": []
+}

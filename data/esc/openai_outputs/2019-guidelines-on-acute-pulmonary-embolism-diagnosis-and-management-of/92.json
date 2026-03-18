@@ -1,0 +1,42 @@
+{
+  "content": {
+    "page_summary": "Guidance on classification of pulmonary embolism (PE) severity and risk of early (in-hospital or 30 day) death, including a table (Table 8) mapping haemodynamic instability, clinical severity parameters (PESI/sPESI), RV dysfunction on imaging (TTE or CTPA), and elevated cardiac troponin levels to risk categories (high, intermediate-high, intermediate-low, low). Notes specify that testing for laboratory biomarkers such as cardiac troponins or natriuretic peptides is not necessary for immediate therapeutic decisions in high-risk PE and reference prognostically relevant imaging cut-offs presented elsewhere.",
+    "table_title": "Classification of pulmonary embolism severity and the risk of early (in-hospital or 30 day) death (Table 8)",
+    "key_points": [
+      "High-risk PE defined by haemodynamic instability (cardiac arrest, obstructive shock: systolic BP <90 mmHg or need for vasopressors to maintain BP ≥90 mmHg with end-organ hypoperfusion; or persistent hypotension: systolic BP <90 mmHg or drop ≥40 mmHg for >15 min not due to arrhythmia, hypovolaemia, or sepsis).",
+      "Intermediate risk subdivided into intermediate-high and intermediate-low based on combinations of clinical parameters, imaging (RV dysfunction on TTE or CTPA), and elevated cardiac troponin levels.",
+      "Low risk characterized by absence of the listed indicators; assessment of some parameters optional and, if assessed, should be negative."
+    ],
+    "biomarkers_mentioned": [
+      "cardiac troponins",
+      "natriuretic peptides (NT-proBNP)",
+      "H-FABP (heart-type fatty acid-binding protein)"
+    ],
+    "imaging_and_tests": [
+      "TTE = transthoracic echocardiogram",
+      "CTPA = computed tomography pulmonary angiography",
+      "PESI = Pulmonary Embolism Severity Index; sPESI = simplified PESI"
+    ],
+    "abbreviations_listed_on_page": {
+      "BP": "blood pressure",
+      "CTPA": "computed tomography pulmonary angiography",
+      "H-FABP": "heart-type fatty acid-binding protein",
+      "NT-proBNP": "N-terminal pro B-type natriuretic peptide",
+      "PE": "pulmonary embolism",
+      "PESI": "Pulmonary Embolism Severity Index",
+      "RV": "right ventricular",
+      "sPESI": "simplified Pulmonary Embolism Severity Index",
+      "TTE": "transthoracic echocardiogram"
+    },
+    "references_and_figures": [
+      "Refers to section 7 and Figure 6 for reperfusion treatment decision pathway",
+      "Mentions Supplementary Data Figure 1 and Supplementary Data Table 3 for prognostic imaging cut-offs",
+      "Table 4 referenced for clinical presentations defining haemodynamic instability"
+    ],
+    "thresholds_and_definitions_from_text": {
+      "obstructive_shock_or_cardiac_arrest": "systolic BP <90 mmHg or vasopressors required to achieve BP ≥90 mmHg in combination with end-organ hypoperfusion",
+      "persistent_hypotension": "systolic BP <90 mmHg or a systolic BP drop ≥40 mmHg for >15 min not caused by new-onset arrhythmia, hypovolaemia, or sepsis"
+    }
+  },
+  "genes": []
+}

@@ -1,0 +1,37 @@
+{
+  "content": {
+    "page_type": "references",
+    "range": "59-67",
+    "extracted_references": [
+      "59 Lankhaar JW, Westerhof N, Faes TJC, Marques KMJ, Marcus JT, Postmus PE, Vonk-Noordegraaf A. Quantification of right ventricular afterload in patients with and without pulmonary hypertension. Am J Physiol Heart Circ Physiol 2006;291:H1731–H1737.",
+      "60 Marcus JT, Gan CT, Zwanenburg JJ, Boonstra A, Allaart CP, Gotte MJ, Vonk-Noordegraaf A. Interventricular mechanical asynchrony in pulmonary arterial hypertension: left-to-right delay in peak shortening is related to right ventricular overload and left ventricular underfilling. J Am Coll Cardiol 2008;51:750–757.",
+      "61 Mauritz GJ, Marcus JT, Westerhof N, Postmus PE, Vonk-Noordegraaf A. Prolonged right ventricular post-systolic isovolumic period in pulmonary arterial hypertension is not a reflection of diastolic dysfunction. Heart 2011;97:473–478.",
+      "62 Begieneman MP, van de Goot FR, van der Bilt IA, Vonk Noordegraaf A, Spreeuwenberg MD, Paulus WJ, van Hinsbergh VW, Visser FC, Niessen HW. Pulmonary embolism causes endomyocarditis in the human heart. Heart 2008;94:450–456.",
+      "63 Lankeit M, Jiménez D, Kostrubiec M, Dellas C, Hasenfuss G, Pruszczyk P, Konstantinides S. Predictive value of the high-sensitivity troponin T assay and the simplified Pulmonary Embolism Severity Index in hemodynamically stable patients with acute pulmonary embolism: a prospective validation study. Circulation 2011;124:2716–2724.",
+      "64 Lankeit M, Kempf T, Dellas C, Cuny M, Tapken H, Peter T, Olschewski M, Konstantinides S, Wollert KC. Growth differentiation factor-15 for prognostic assessment of patients with acute pulmonary embolism. Am J Respir Crit Care Med 2008;177:1018–1025.",
+      "65 Konstantinides SV, Torbicki A, Agnelli G, Danchin N, Fitzmaurice D, Galie N, Gibbs JS, Huisman MV, Humbert M, Kucher N, Lang I, Lankeit M, Lekakis J, Maack C, Mayer E, Meneveau N, Perrier A, Pruszczyk P, Rasmussen LH, Schindler TH, Svitil P, Vonk NA, Zamorano JL, Zompatori M. 2014 ESC Guidelines on the diagnosis and management of acute pulmonary embolism. Eur Heart J 2014;35:3033–3073.",
+      "66 Burrowes KS, Clark AR, Tawhai MH. Blood flow redistribution and ventilation-perfusion mismatch during embolic pulmonary arterial occlusion. Pulm Circ 2011;1:365–376.",
+      "67 Konstantinides S, Geibel A, Kasper W, Olschewski M, Blumel L, Just H. Patent foramen ovale is an important predictor of adverse outcome in patients with major pulmonary embolism. Circulation 1998;97:1946–1951."
+    ]
+  },
+  "genes": [
+    {
+      "Gene": "GDF15",
+      "Associated Conditions": [
+        "Acute pulmonary embolism",
+        "Prognostic assessment in pulmonary embolism"
+      ],
+      "Occurrences": 1,
+      "context": "“Growth differentiation factor-15 for prognostic assessment of patients with acute pulmonary embolism.” (Am J Respir Crit Care Med 2008;177:1018–1025)"
+    },
+    {
+      "Gene": "TNNT2",
+      "Associated Conditions": [
+        "Acute pulmonary embolism",
+        "Prognostic biomarker (troponin T) in hemodynamically stable patients with acute pulmonary embolism"
+      ],
+      "Occurrences": 1,
+      "context": "“Predictive value of the high-sensitivity troponin T assay ... in hemodynamically stable patients with acute pulmonary embolism: a prospective validation study.” (Circulation 2011;124:2716–2724)"
+    }
+  ]
+}

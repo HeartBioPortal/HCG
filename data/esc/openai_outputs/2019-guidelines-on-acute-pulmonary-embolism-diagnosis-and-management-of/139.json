@@ -1,0 +1,54 @@
+{
+  "content": {
+    "title": "Recommendations for the regimen and duration of anticoagulation after pulmonary embolism in patients without cancer (section 8.4)",
+    "summary": "Guidance on extended anticoagulation after pulmonary embolism (PE) in patients without cancer, with trial evidence comparing VKAs, NOACs (eg, rivaroxaban), aspirin, and sulodexide; specific caution for patients with antiphospholipid syndrome (especially triple-positive).",
+    "key_points": [
+      "In high-risk patients with antiphospholipid syndrome (testing triple-positive for lupus anticoagulant, anticardiolipin, and anti-β2-glycoprotein I), rivaroxaban was associated with an increased rate of thromboembolic and major bleeding events compared with warfarin; at present NOACs are not an alternative to VKAs for these patients.",
+      "Two trials (total n ≈ 1224) found that extended therapy with aspirin after termination of standard oral anticoagulation was associated with ~30–35% reduction in recurrence compared with placebo.",
+      "Another trial demonstrated superiority of anticoagulation with rivaroxaban (20 or 10 mg once daily) over aspirin for secondary prophylaxis of VTE recurrence.",
+      "A randomized, placebo-controlled study of sulodexide in 615 patients with a first VTE event (after 3–12 months of oral anticoagulant treatment) reduced recurrence by approximately 45% with no apparent increase in bleeding; only ~8% of patients in that study had PE as the index event."
+    ],
+    "trial_details": [
+      {
+        "population": "High-risk antiphospholipid syndrome patients (triple-positive)",
+        "intervention": "Rivaroxaban",
+        "comparator": "Warfarin",
+        "outcome": "Increased rate of thromboembolic and major bleeding events with rivaroxaban; composite primary outcome HR ~6.7 (95% CI quoted in text).",
+        "implication": "NOACs not an alternative to VKAs in these patients."
+      },
+      {
+        "population": "Patients eligible for extended therapy after standard anticoagulation",
+        "sample_size": 1224,
+        "intervention": "Aspirin (extended therapy)",
+        "comparator": "Placebo",
+        "outcome": "~30–35% reduction in recurrence vs placebo."
+      },
+      {
+        "population": "Patients requiring secondary prophylaxis of VTE recurrence",
+        "intervention": "Rivaroxaban 20 or 10 mg o.d.",
+        "comparator": "Aspirin",
+        "outcome": "Rivaroxaban superior to aspirin for secondary prophylaxis (reference to trial showing superiority)."
+      },
+      {
+        "population": "Patients with first VTE event without identifiable risk factor who completed 3–12 months anticoagulation",
+        "sample_size": 615,
+        "intervention": "Sulodexide 250 lipasemic unit capsules b.i.d.",
+        "comparator": "Placebo",
+        "outcome": "Reduced risk of recurrence by ~45% with no apparent bleeding increase; only ~8% had PE as index event."
+      }
+    ],
+    "recommendations_summary": [
+      "Therapeutic anticoagulation for ≥3 months is recommended for all patients with PE.",
+      "Discontinuation of anticoagulation after 3 months is recommended for patients with transient/reversible major risk factors.",
+      "Extension of anticoagulation beyond 3 months is recommended for patients with recurrent VTE or persistent risk factors; decisions individualized based on risk/benefit.",
+      "For extended oral anticoagulation in patients without cancer, a reduced NOAC dose (eg, apixaban 2.5 mg b.i.d. or rivaroxaban 10 mg o.d.) may be considered after 6 months of therapeutic anticoagulation for some patients.",
+      "If patients refuse or cannot tolerate anticoagulants, aspirin or sulodexide may be considered for extended VTE prophylaxis."
+    ],
+    "practical_notes": [
+      "Take into account antiphospholipid antibody status (especially triple-positive) when choosing anticoagulant regimen.",
+      "Follow-up of patients on extended anticoagulation should reassess drug tolerance, adherence, hepatic and renal function, and bleeding risk at regular intervals."
+    ],
+    "figure": "A recommendations table/figure is present summarizing classes and levels of evidence for different scenarios (discontinuation after 3 months, extension beyond 3 months, NOAC dosing in extended therapy, alternatives such as aspirin/sulodexide)."
+  },
+  "genes": []
+}

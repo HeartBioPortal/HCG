@@ -1,0 +1,22 @@
+{
+  "content": {
+    "context_summary": "Guidance on diagnostic work-up and follow-up after acute pulmonary embolism (PE) with focus on detecting chronic/long-term complications such as pulmonary hypertension (PH) and chronic thromboembolic pulmonary hypertension (CTEPH).",
+    "diagnostic_tests": {
+      "CPET": "Consider cardiopulmonary exercise testing (CPET) in the diagnostic work-up if appropriate expertise/resources available. Abnormal CPET results include reduced maximal aerobic capacity (peak oxygen consumption), increased ventilatory equivalent for carbon dioxide, and reduced end-tidal carbon dioxide pressure. CPET is useful when V/Q is normal but symptoms remain unexplained and to support need for further follow-up and to identify candidates for pulmonary rehabilitation, exercise, or weight-reduction programmes.",
+      "TTE": "Transthoracic echocardiography (TTE) should be considered next in patients with persistent dyspnoea and poor physical performance to assess probability of (chronic) PH and possible CTEPH. Criteria are defined by current ESC guidelines.",
+      "V/Q_scan": "Patients with high echocardiographic probability of PH, or intermediate probability combined with elevated NT-proBNP or risk factors/predisposing conditions for CTEPH, should be considered for a ventilation/perfusion (V/Q) scan. If mismatched perfusion defects are found, refer to a PH or CTEPH expert centre for further diagnostic work-up."
+    },
+    "biomarkers": {
+      "NT-proBNP": "Elevated NT-proBNP levels used in combination with intermediate echocardiographic probability to indicate need for V/Q scanning (biomarker supporting probability assessment)."
+    },
+    "indications_for_referral": "If V/Q shows mismatched perfusion defects → referral to PH/CTEPH expert centre. If V/Q normal but symptoms unexplained → consider CPET and further follow-up.",
+    "follow_up_recommendations": "For patients free of dyspnoea or functional limitation at 3–6 month follow-up after acute PE but with risk factors/predisposing conditions for CTEPH, schedule further follow-up visits and advise the patient to return if symptoms appear. Alternatively, TTE may be considered to assess PH probability.",
+    "care_model_and_management": {
+      "integrated_model": "Provide an integrated model of patient care after PE adapted to the infrastructure of each health system. Include qualified nurses and interdisciplinary teams, standardized treatment protocols, and bidirectional referral pathways between primary care and hospitals.",
+      "nurse_led_follow_up": "Nurse-led care models have shown effectiveness after acute coronary syndrome, in primary care management of chronic diseases, and in community-based self-management initiatives. A published study of 42 patients followed at a PAH/CTEPH nurse-led outpatient clinic showed positive results.",
+      "nurse_roles": "During follow-up visits, appropriately qualified nurses should screen for signs and symptoms indicating VTE recurrence or treatment complications and assess adherence to medication."
+    },
+    "references": "Recommendations reference current ESC Guidelines and supplementary tables/figures (cited inline in the source)."
+  },
+  "genes": []
+}

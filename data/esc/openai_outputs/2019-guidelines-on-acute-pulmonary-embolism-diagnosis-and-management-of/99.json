@@ -1,0 +1,39 @@
+{
+  "content": {
+    "topic": "Treatment of right ventricular failure in acute high-risk pulmonary embolism",
+    "notes": "Page contains treatment strategies (volume optimization, vasopressors/inotropes, mechanical circulatory support) and abbreviations (CO, BP, ECMO, RV). 'Epinephrine is used in cardiac arrest.'",
+    "abbreviations": {
+      "CO": "cardiac output",
+      "BP": "blood pressure",
+      "ECMO": "extracorporeal membrane oxygenation",
+      "RV": "right ventricle/ventricular"
+    },
+    "table_rows": [
+      {
+        "strategy": "Dobutamine",
+        "properties_and_use": "Increases RV inotropy, lowers filling pressures",
+        "caveats": "May aggravate arterial hypotension if used alone without a vasopressor; may trigger or aggravate arrhythmias"
+      },
+      {
+        "strategy": "Veno-arterial ECMO / extracorporeal life support",
+        "properties_and_use": "Rapid short-term support combined with oxygenator",
+        "caveats": "Complications with use over longer periods (>5–10 days), including bleeding and infections; no clinical benefit unless combined with surgical embolectomy; requires an experienced team"
+      },
+      {
+        "strategy": "Volume optimization (cautious volume loading)",
+        "properties_and_use": "Saline or Ringer's lactate, ~500 mL over 15–30 min; consider in patients with normal/low central venous pressure (eg, concomitant hypovolaemia)",
+        "caveats": "Volume loading can over-distend the RV, worsen ventricular interdependence, and reduce CO"
+      },
+      {
+        "strategy": "Norepinephrine",
+        "properties_and_use": "Increases RV inotropy and systemic BP, promotes positive ventricular interactions, and restores coronary perfusion gradient",
+        "caveats": "Excessive vasoconstriction may worsen tissue perfusion"
+      }
+    ],
+    "other": {
+      "epinephrine_note": "Epinephrine is used in cardiac arrest (footnote).",
+      "table_reference": "Table 9 (link: 'Open in new tab')"
+    }
+  },
+  "genes": []
+}

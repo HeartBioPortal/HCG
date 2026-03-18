@@ -1,0 +1,30 @@
+{
+  "content": {
+    "title": "Clinical signs and symptoms of acute PE",
+    "presentation_summary": "Clinical signs and symptoms of acute pulmonary embolism (PE) are non-specific. PE is suspected with dyspnoea, chest pain, pre-syncope or syncope, or haemoptysis. Haemodynamic instability indicates central or extensive PE with severely reduced haemodynamic reserve. Syncope may occur and is associated with higher prevalence of haemodynamic instability and right ventricular (RV) dysfunction. PE may be asymptomatic or found incidentally.",
+    "common_symptoms": [
+      "Dyspnoea (may be acute and severe in central PE; mild and transient in small peripheral PE)",
+      "Chest pain (often pleuritic; in central PE may mimic angina reflecting RV ischaemia)",
+      "Pre-syncope / syncope",
+      "Haemoptysis",
+      "Worsening dyspnoea in patients with pre-existing heart failure or pulmonary disease"
+    ],
+    "important_clinical_points": [
+      "Knowledge of predisposing factors for venous thromboembolism (VTE) increases clinical probability; however in 40% of PE patients no predisposing factors are found.",
+      "Hypoxaemia is frequent, but approximately 40% of patients have normal arterial oxygen saturation (SaO2) and 20% have a normal alveolar–arterial oxygen gradient.",
+      "Hypocapnia is often present.",
+      "Chest X-ray often abnormal but usually non-specific; useful to exclude other causes.",
+      "Electrocardiographic changes indicative of RV strain may be present; milder cases often show only sinus tachycardia (present in ~40% of patients). Atrial arrhythmias, most frequently atrial fibrillation, may be associated with acute PE."
+    ],
+    "electrocardiographic_findings": [
+      "Inversion of T waves in leads V1–V4",
+      "QR pattern in V1",
+      "S1Q3T3 pattern",
+      "Incomplete or complete right bundle branch block",
+      "Sinus tachycardia (≈40% of patients)",
+      "Atrial arrhythmias (eg, atrial fibrillation) may be present"
+    ],
+    "diagnostic_and_assessment_notes": "Assessment of clinical (pre-test) probability combines symptoms, clinical findings, and presence of predisposing factors for VTE to classify patients with suspected PE into categories of clinical/pre-test probability. Pre-test assessment can be empirical clinical judgment or prediction rules; post-test probability depends on both diagnostic test characteristics and the pre-test probability."
+  },
+  "genes": []
+}

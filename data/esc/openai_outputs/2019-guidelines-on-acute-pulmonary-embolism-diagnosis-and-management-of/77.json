@@ -1,0 +1,49 @@
+{
+  "content": {
+    "summary": "Page discusses echocardiographic findings in suspected pulmonary embolism (PE) including mobile right-heart thrombi and RV dysfunction, and provides a detailed section (4.10) on compression ultrasonography (CUS) for diagnosis of deep vein thrombosis (DVT) as it relates to PE.",
+    "mobile_right_heart_thrombi": {
+      "detection_methods": [
+        "transthoracic echocardiography (TTE)",
+        "transoesophageal echocardiography (TOE)",
+        "CT angiography"
+      ],
+      "prevalence_unselected_PE": "less than 4%",
+      "prevalence_ICU_PE": "may reach 18% among PE patients in intensive care",
+      "clinical_significance": "Essentially confirm diagnosis of PE and are associated with high early mortality, especially in patients with right ventricular (RV) dysfunction."
+    },
+    "echocardiography_findings_suggestive_of_PE": {
+      "findings": [
+        "increased RV wall thickness",
+        "tricuspid insufficiency jet velocity beyond values compatible with acute RV pressure overload (>3.8 m/s)",
+        "tricuspid valve peak systolic gradient >60 mmHg"
+      ],
+      "differential_consideration": "Chronic thromboembolic or other pulmonary hypertension (PH) should be included in the differential diagnosis when these findings are present."
+    },
+    "section_4_10_compression_ultrasonography": {
+      "primary_points": [
+        "Majority of PEs originate from lower-limb DVT; upper-limb DVT is rare.",
+        "Historic venography found DVT in ~70% of patients with proven PE.",
+        "Lower-limb CUS has largely replaced venography for diagnosing DVT."
+      ],
+      "CUS_performance_for_proximal_symptomatic_DVT": {
+        "sensitivity": "greater than 90%",
+        "specificity": "approximately 95%"
+      },
+      "CUS_detection_in_PE_patients": "CUS shows a DVT in 30–50% of patients with PE",
+      "clinical_implication_of_proximal_DVT": "Finding a proximal DVT in patients suspected of having PE is considered sufficient to warrant anticoagulant treatment without further testing.",
+      "limitations_and_technique": {
+        "limited_exam": "CUS can be limited to a simple four-point exam (bilateral groin and popliteal fossa) in suspected PE.",
+        "validated_criterion": "Incomplete compressibility of the vein (indicating presence of a clot) is the only validated diagnostic criterion for DVT; flow measurements are unreliable."
+      },
+      "diagnostic_value_in_suspected_PE": {
+        "positive_proximal_CUS": "High positive predictive value for PE",
+        "reported_specificity": "high diagnostic specificity (96%) in one meta-analysis",
+        "reported_sensitivity": "low sensitivity (41%) in that setting"
+      },
+      "combined_imaging_in_hemodynamic_instability": "In emergency patients with haemodynamic instability and suspicion of PE, combining venous ultrasound with cardiac ultrasound may increase specificity.",
+      "negative_predictive_value_example": "An echocardiogram without signs of RV dysfunction plus a normal venous ultrasound excluded PE with a high (96%) negative predictive value in one study.",
+      "recommendation_reference": "For further details on diagnosis and management of DVT, refer to the joint consensus document of the ESC Working Groups of Aorta and Peripheral Vascular Diseases, and Pulmonary."
+    }
+  },
+  "genes": []
+}

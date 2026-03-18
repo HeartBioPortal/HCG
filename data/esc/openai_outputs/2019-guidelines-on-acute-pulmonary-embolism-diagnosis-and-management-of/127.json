@@ -1,0 +1,35 @@
+{
+  "content": {
+    "figure_title": "Diagnostic algorithm for patients with suspected high-risk pulmonary embolism presenting with haemodynamic instability",
+    "flow_summary": [
+      "Suspected PE in a patient with haemodynamic instability -> Bedside TTE (transthoracic echocardiogram).",
+      "If no RV dysfunction on bedside TTE -> Search for other causes of shock or instability.",
+      "If RV dysfunction present -> Is CTPA (computed tomography pulmonary angiography) immediately available and feasible?",
+      "If CTPA is immediately available and feasible -> perform CTPA.",
+      "If CTPA positive -> Treatment of high-risk PE.",
+      "If CTPA negative -> Search for other causes of shock or instability.",
+      "If CTPA not immediately available/feasible -> Treatment of high-risk PE (based on echocardiographic findings and clinical situation)."
+    ],
+    "ancillary_tests_note": "Ancillary bedside imaging tests may include TOE (transoesophageal echocardiography), which may detect emboli in the pulmonary artery and its main branches; and bilateral venous CUS (compression ultrasonography), which may confirm DVT and thus VTE.",
+    "key_echo_definition": "In the emergency situation of suspected high-risk PE, RV dysfunction refers mainly to a RV/LV diameter ratio >1.0; the echocardiographic findings of RV dysfunction and corresponding cut-off levels are presented elsewhere in the guideline.",
+    "footnotes": {
+      "a": "See Table 4 for definition of haemodynamic instability and high-risk PE.",
+      "b": "Ancillary bedside imaging tests may include TOE, which may detect emboli in the pulmonary artery and its main branches; and bilateral venous CUS, which may confirm DVT and thus VTE.",
+      "c": "In the emergency situation of suspected high-risk PE, this refers mainly to a RV/LV diameter ratio >1.0; echocardiographic findings of RV dysfunction and corresponding cut-off levels are graphically presented in Figure 3, and their prognostic value summarized in Supplementary Data Table 3.",
+      "d": "Includes cases in which the patient's condition is so critical that it only allows bedside diagnostic tests. In such cases, echocardiographic findings of RV dysfunction confirm high-risk PE and emergency reperfusion therapy is recommended."
+    },
+    "abbreviations": {
+      "CTPA": "computed tomography pulmonary angiography",
+      "CUS": "compression ultrasonography",
+      "DVT": "deep vein thrombosis",
+      "LV": "left ventricle",
+      "PE": "pulmonary embolism",
+      "RV": "right ventricle",
+      "TOE": "transoesophageal echocardiography",
+      "TTE": "transthoracic echocardiogram",
+      "VTE": "venous thromboembolism"
+    },
+    "clinical_implication": "For haemodynamically unstable patients with suspected high-risk PE, bedside echocardiography (TTE/TOE) is used to identify RV dysfunction. If CTPA is immediately available it is preferred for diagnosis; if not feasible, treatment of presumed high-risk PE should be initiated based on echocardiographic findings and clinical status."
+  },
+  "genes": []
+}

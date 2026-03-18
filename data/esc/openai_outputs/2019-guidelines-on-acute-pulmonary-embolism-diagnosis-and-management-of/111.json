@@ -1,0 +1,49 @@
+{
+  "content": {
+    "trial_summary": {
+      "trial_name": "PREPIC-2",
+      "patients_randomized": 399,
+      "population": "patients with pulmonary embolism (PE) and venous thrombosis",
+      "interventions": "anticoagulant treatment, with or without a retrievable vena cava filter",
+      "primary_outcome_summary": "rate of recurrent venous thromboembolism (VTE) was low in both groups and did not differ between groups"
+    },
+    "systematic_review_meta_analysis": {
+      "included_studies": 11,
+      "patients_with_filter": 2055,
+      "controls": 2149,
+      "filter_effects": {
+        "PE_incidence_change_percent": -50,
+        "DVT_risk_change_percent": 70
+      },
+      "mortality_findings": "neither all-cause mortality nor PE-related mortality differed between patients with or without filter placement"
+    },
+    "indications_for_filter_placement": {
+      "broad_indication": "patients with recent (<1 month) proximal DVT and an absolute contraindication to anticoagulant treatment",
+      "rationale": "perceived high risk of recurrent PE in this setting and lack of other treatment options"
+    },
+    "complications": {
+      "penetration_of_venous_wall": {
+        "cases": 1699,
+        "procedures_total": 9002,
+        "percent_of_procedures": 19
+      },
+      "adjacent_organ_involvement_percent_of_penetration_cases": 19,
+      "symptomatic_percent_of_penetration_cases_approx": 80,
+      "lethal_complications_cases": 2,
+      "major_intervention_required_percent_of_patients": 5,
+      "examples_of_major_interventions": [
+        "surgical removal of the filter",
+        "endovascular stent placement or embolization",
+        "endovascular retrieval of the permanent filter",
+        "percutaneous nephrostomy",
+        "ureteral stent placement"
+      ],
+      "other_reported_complications": [
+        "filter fracture and/or embolization",
+        "deep vein thrombosis (DVT) occasionally extending up to the vena cava"
+      ]
+    },
+    "section_heading_next": "6.6 Recommendations for acute-phase treatment of high-risk pulmonary embolism"
+  },
+  "genes": []
+}

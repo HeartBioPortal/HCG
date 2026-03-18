@@ -1,0 +1,57 @@
+{
+  "content": {
+    "CTPA": {
+      "Advantages": [
+        "Readily available around the clock in most centres",
+        "Excellent accuracy",
+        "Strong validation in prospective management/outcome studies",
+        "Low rate of inconclusive results (approximately 3–5%)",
+        "May provide alternative diagnosis if PE excluded",
+        "Short acquisition time"
+      ],
+      "Disadvantages": [
+        "Radiation exposure",
+        "Exposure to iodine contrast: limited use in iodine allergy and hyperthyroidism",
+        "Risks with iodinated contrast in pregnant and breastfeeding women",
+        "Contraindicated in severe renal failure (due to contrast)",
+        "Tendency to overuse because of easy accessibility",
+        "Clinical relevance of CTPA diagnosis of subsegmental PE unknown"
+      ],
+      "Radiation": "Effective dose approximately 3–10 mSv (note: significant radiation exposure to young female breast tissue)"
+    },
+    "Planar V/Q scan": {
+      "Advantages": [
+        "Almost no contraindications",
+        "Relatively inexpensive",
+        "Strong validation in prospective management/outcome studies"
+      ],
+      "Disadvantages": [
+        "Not readily available in all centres",
+        "Interobserver variability in interpretation",
+        "Results reported as likelihood ratios",
+        "Inconclusive in ~50% of cases",
+        "Cannot provide alternative diagnosis if PE excluded"
+      ],
+      "Radiation": "Lower radiation than CTPA; effective dose approximately 1–2 mSv"
+    },
+    "V/Q SPECT": {
+      "Advantages": [
+        "Almost no contraindications",
+        "Lowest rate of non-diagnostic tests (<3%)",
+        "High accuracy according to available data"
+      ],
+      "Disadvantages": [
+        "Variability of techniques",
+        "Variability of diagnostic criteria",
+        "Cannot provide alternative diagnosis if PE excluded",
+        "No validation in prospective management/outcome studies"
+      ],
+      "Radiation": "Lower radiation than CTPA; effective dose approximately 1–2 mSv"
+    },
+    "General notes": [
+      "Table compares imaging modalities for suspected pulmonary embolism (PE): CTPA, planar V/Q scan, V/Q SPECT",
+      "References to contraindications mainly relate to iodine contrast and renal function rather than genetic factors"
+    ]
+  },
+  "genes": []
+}

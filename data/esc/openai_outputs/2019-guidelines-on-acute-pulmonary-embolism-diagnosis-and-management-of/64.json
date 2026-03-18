@@ -1,0 +1,80 @@
+{
+  "content": {
+    "score_name": "Revised Geneva clinical decision rule",
+    "items": [
+      {
+        "item": "Previous PE or DVT",
+        "original_version": 3,
+        "simplified_version": 1
+      },
+      {
+        "item": "Heart rate 75–94 b.p.m.",
+        "original_version": 3,
+        "simplified_version": 1
+      },
+      {
+        "item": "Heart rate ≥95 b.p.m.",
+        "original_version": 5,
+        "simplified_version": 2
+      },
+      {
+        "item": "Surgery or fracture within the past month",
+        "original_version": 2,
+        "simplified_version": 1
+      },
+      {
+        "item": "Haemoptysis",
+        "original_version": 2,
+        "simplified_version": 1
+      },
+      {
+        "item": "Active cancer",
+        "original_version": 2,
+        "simplified_version": 1
+      },
+      {
+        "item": "Unilateral lower-limb pain",
+        "original_version": 3,
+        "simplified_version": 1
+      },
+      {
+        "item": "Pain on lower-limb deep venous palpation and unilateral oedema",
+        "original_version": 4,
+        "simplified_version": 1
+      },
+      {
+        "item": "Age >65 years",
+        "original_version": 1,
+        "simplified_version": 1
+      }
+    ],
+    "clinical_probability": {
+      "three_level_score": {
+        "Low": {
+          "original": "0–3",
+          "simplified": "0–1"
+        },
+        "Intermediate": {
+          "original": "4–10",
+          "simplified": "2–4"
+        },
+        "High": {
+          "original": "≥11",
+          "simplified": "≥5"
+        }
+      },
+      "two_level_score": {
+        "PE-unlikely": {
+          "original": "≤5",
+          "simplified": "≤2"
+        },
+        "PE-likely": {
+          "original": "≥6",
+          "simplified": "≥3"
+        }
+      }
+    },
+    "notes": "Table lists component items and point allocations for the Revised Geneva score (original and simplified versions) and the thresholds for three-level and two-level clinical probability classifications."
+  },
+  "genes": []
+}

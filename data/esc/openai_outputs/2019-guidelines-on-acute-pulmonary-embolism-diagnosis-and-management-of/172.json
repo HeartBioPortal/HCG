@@ -1,0 +1,48 @@
+{
+  "content": {
+    "topic": "Operability, outcomes and interventions for chronic thromboembolic pulmonary hypertension (CTEPH)",
+    "operability_and_patient_selection": {
+      "summary": "Eligibility for pulmonary endarterectomy (PEA) decided by multidisciplinary CTEPH team; operability depends on diagnosis confirmation, surgical accessibility of chronic thrombotic obstructions, patient suitability, surgical team expertise, and resources. General criteria include pre-operative NYHA functional class and surgical accessibility of thrombi in main, lobar or segmental pulmonary arteries. Advanced age per se is not a contraindication. No single haemodynamic threshold or measure of RV dysfunction alone should preclude PEA.",
+      "notes": "Operability assessed by experienced surgeons, interventional radiologists/cardiologists, radiologists experienced in pulmonary vascular imaging, and clinicians with PH expertise."
+    },
+    "registry_outcomes_and_predictors": {
+      "data_source": "International CTEPH registry (27 centres)",
+      "cohort_size": 679,
+      "3_year_estimated_survival": {
+        "operated": "89%",
+        "not_operated": "70%"
+      },
+      "mortality_associations": [
+        "NYHA functional class",
+        "Right atrial (RA) pressure",
+        "History of cancer"
+      ],
+      "additional_correlates_of_mortality": [
+        "Bridging therapy with pulmonary vasodilators",
+        "Post-operative pulmonary hypertension",
+        "Surgical complications",
+        "Additional cardiac procedures in operated patients",
+        "Comorbidities (coronary disease, left heart failure, chronic obstructive pulmonary disease in not-operated patients)"
+      ],
+      "hemodynamic_determinants_of_poor_prognosis": "Mean pulmonary arterial pressure (PAP) ≳ 38 mmHg and pulmonary vascular resistance (PVR) ≳ 425 dyn·s·cm⁻5 reported as determinants of poor prognosis in survivors after surgical treatment"
+    },
+    "postoperative_management": {
+      "ECMO": "Post-operative ECMO recommended as standard of care in PEA centres; veno-arterial ECMO may be required for severe reperfusion oedema; persistent severe PH may be bridged to emergency lung transplantation with ECMO.",
+      "follow_up": "After PEA, follow-up in CTEPH centres to exclude persistent or recurrent PH; at least one haemodynamic assessment to be considered at 6–12 months after intervention."
+    },
+    "balloon_pulmonary_angioplasty_BPA": {
+      "indication": "Effective treatment option for technically inoperable CTEPH; allows dilatation of obstructions down to subsegmental vessels inaccessible to surgery.",
+      "procedure_characteristics": "Stepwise procedure requiring several (usually 4–10) separate sessions to engage under-perfused lung segments while limiting contrast and radiation per session.",
+      "technical_considerations": "Navigation in distal pulmonary arteries requires particular expertise due to complexity and individual variability of pulmonary arterial tree.",
+      "complications": [
+        "Wire- and balloon-induced injury",
+        "Intrapulmonary bleeding",
+        "Haemoptysis",
+        "Reperfusion lung injury"
+      ],
+      "bleeding_management": "Bleeding usually resolves spontaneously but may require transient balloon inflation proximal to the site of bleeding to control it."
+    },
+    "references_in_text": "Multiple in-text citations noted (e.g., 461, 462, 465, 466) supporting registry data and recommendations."
+  },
+  "genes": []
+}

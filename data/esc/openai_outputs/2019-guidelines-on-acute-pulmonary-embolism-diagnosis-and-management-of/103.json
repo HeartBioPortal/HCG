@@ -1,0 +1,53 @@
+{
+  "content": {
+    "summary": "Guidance on use of non-vitamin K oral anticoagulants (NOACs) versus vitamin K antagonists (VKAs) for VTE treatment and anticoagulation management, including renal-dosing considerations, trial evidence, and practical points for VKA (warfarin) initiation and monitoring.",
+    "NOACs_vs_VKAs": {
+      "fewer_drug_interactions": "Compared with VKAs there are fewer interactions when NOACs are given concomitantly with other drugs.",
+      "non_inferiority": "Phase III trials for acute VTE and extended treatment demonstrated non-inferiority of NOACs compared with combination of LMWH with VKA for prevention of symptomatic or lethal VTE recurrence, with significantly reduced rates of major bleeding.",
+      "guideline_updates": "Practical guidance for handling NOACs and emergency management related to their use are regularly updated by the European Heart Rhythm Association."
+    },
+    "renal_dosing_and_trial_exclusions": {
+      "mild_moderate_renal": "Dosages of dabigatran, rivaroxaban, and apixaban were not reduced in patients with mild–moderate renal dysfunction (CrCl between 30–60 mL/min). Edoxaban was given at a 30 mg dose in these patients.",
+      "exclusions": "Patients with CrCl <25 mL/min were excluded from trials testing apixaban; patients with CrCl <30 mL/min were excluded from trials investigating rivaroxaban, edoxaban, and dabigatran."
+    },
+    "meta_analysis_results": {
+      "primary_efficacy_incidence": {
+        "NOACs": "2.0%",
+        "VKAs": "2.2%",
+        "relative_risk": "RR 0.88",
+        "95_CI": "0.74–1.05"
+      },
+      "major_bleeding": {
+        "NOACs": "1.1%",
+        "VKAs": "1.7%",
+        "relative_risk": "RR 0.60",
+        "95_CI": "0.41–0.88"
+      },
+      "critical_site_major_bleeding": {
+        "relative_risk": "RR 0.38",
+        "95_CI": "0.23–0.62"
+      },
+      "intracranial_bleeding": {
+        "relative_risk": "RR 0.37",
+        "95_CI": "0.21–0.68"
+      },
+      "fatal_bleeding": {
+        "relative_risk": "RR 0.36",
+        "95_CI": "0.15–0.87"
+      }
+    },
+    "practical_suggestions": "Suggestions for anticoagulation management of PE in specific clinical situations lacking conclusive evidence are presented in supplementary materials (Table 9 referenced).",
+    "vitamin_K_antagonists_section": {
+      "general": "VKAs have been the gold standard in oral anticoagulation for >50 years.",
+      "bridging_and_initiation": "When VKAs are used, anticoagulation with UFH, LMWH, or fondaparinux should be continued in parallel with the oral anticoagulant for ~5 days and until INR is 2.0–3.0 for 2 consecutive days.",
+      "warfarin_starting_dose": "Warfarin may be started at 10 mg in younger (e.g. aged <60 years) otherwise healthy patients and at 5 mg in older patients.",
+      "dose_adjustment_and_target": "Daily dose is adjusted according to INR over the next 5–7 days, aiming for an INR level of 2.0–3.0."
+    },
+    "pharmacogenetic_testing": {
+      "effect_on_dosing": "Pharmacogenetic testing may increase the precision of warfarin dosing.",
+      "clinical_benefit": "When used in addition to clinical parameters, pharmacogenetic testing improves anticoagulation control and may be associated with a reduced risk of bleeding, but does not reduce the risk of thromboembolic events or mortality."
+    },
+    "anticoagulant_service": "Implementation of a structured anticoagulant service (commonly anticoagulant clinics) is associated with increased time in therapeutic range and improved clinical outcomes compared with control of anticoagulation by the general practitioner."
+  },
+  "genes": []
+}
