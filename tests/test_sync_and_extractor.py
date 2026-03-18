@@ -121,6 +121,45 @@ def test_is_doi_report_text_detects_declaration_reports() -> None:
     assert not is_doi_report_text("2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure")
 
 
+def test_wait_for_article_ready_uses_content_presence_not_networkidle(tmp_path) -> None:
+    paths = make_dataset_paths(tmp_path, "esc")
+    scraper = EscGuidelineScraper(paths, timeout_seconds=1.0)
+
+    class FakeLocator:
+        def __init__(self, text: str) -> None:
+            self._text = text
+            self.first = self
+
+        def inner_text(self, timeout=None) -> str:
+            return self._text
+
+    class FakePage:
+        def __init__(self) -> None:
+            self._body_text = (
+                "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure "
+                + ("clinical guidance " * 400)
+            )
+
+        def title(self) -> str:
+            return "ESC Guideline Article"
+
+        def evaluate(self, script: str) -> str:
+            return self._body_text
+
+        def locator(self, selector: str) -> FakeLocator:
+            return FakeLocator(self._body_text if selector == "main" else "")
+
+        def wait_for_timeout(self, ms: int) -> None:
+            raise AssertionError("wait_for_timeout should not be needed once article content is present")
+
+    body_text = scraper._wait_for_article_ready(
+        FakePage(),
+        "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure",
+    )
+
+    assert "clinical guidance" in body_text
+
+
 def test_process_single_pdf_writes_readable_non_error_json(tmp_path, monkeypatch) -> None:
     pdf_dir = tmp_path / "pdfs"
     pdf_dir.mkdir()

@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from datetime import datetime, timezone
 from pathlib import Path
+import time
 
 from bs4 import BeautifulSoup
 from tqdm import tqdm
@@ -36,6 +37,13 @@ DOI_TEXT_MARKERS = (
     "declarations of interest",
     "conflict of interest policy",
     "for esc guidelines: the report below lists declarations of interest",
+)
+ARTICLE_READY_SELECTORS = (
+    "main",
+    "article",
+    ".widget-ArticleFulltext",
+    ".article-body",
+    ".article-content",
 )
 
 
@@ -277,27 +285,65 @@ class EscGuidelineScraper:
             with sync_playwright() as playwright:
                 browser = playwright.chromium.launch(headless=self.headless)
                 context = browser.new_context(locale="en-US", user_agent=USER_AGENT)
-                page = context.new_page()
-                page.set_default_timeout(timeout_ms)
-                self.logger.info("Rendering ESC article PDF for %s from %s", title, article_url)
-                page.goto(article_url, wait_until="domcontentloaded")
-                page.wait_for_load_state("networkidle")
-                body_text = page.locator("body").inner_text()
-                if "just a moment" in page.title().lower() or "verify you are human" in body_text.lower():
-                    raise RuntimeError(f"OUP blocked automated access for ESC article '{title}'")
-                page.emulate_media(media="screen")
-                page.pdf(
-                    path=str(destination),
-                    format="A4",
-                    print_background=True,
-                    margin={"top": "0.5in", "right": "0.5in", "bottom": "0.5in", "left": "0.5in"},
-                )
-                context.close()
-                browser.close()
+                try:
+                    page = context.new_page()
+                    page.set_default_timeout(timeout_ms)
+                    page.set_default_navigation_timeout(timeout_ms)
+                    self.logger.info("Rendering ESC article PDF for %s from %s", title, article_url)
+                    page.goto(article_url, wait_until="domcontentloaded")
+                    self.logger.info("Waiting for ESC article content for %s", title)
+                    body_text = self._wait_for_article_ready(page, title)
+                    if "just a moment" in page.title().lower() or "verify you are human" in body_text.lower():
+                        raise RuntimeError(f"OUP blocked automated access for ESC article '{title}'")
+                    self.logger.info("Writing ESC article PDF for %s", title)
+                    page.emulate_media(media="screen")
+                    page.pdf(
+                        path=str(destination),
+                        format="A4",
+                        print_background=True,
+                        margin={"top": "0.5in", "right": "0.5in", "bottom": "0.5in", "left": "0.5in"},
+                    )
+                finally:
+                    context.close()
+                    browser.close()
         except Exception as exc:  # noqa: BLE001
             raise self._rewrite_browser_launch_error(exc) from exc
 
         return destination.stat().st_size
+
+    def _wait_for_article_ready(self, page, title: str) -> str:
+        deadline = time.monotonic() + self.timeout_seconds
+        normalized_title = " ".join(title.lower().split())
+        latest_body_text = ""
+
+        while time.monotonic() < deadline:
+            latest_body_text = self._body_text(page)
+            lowered_body = latest_body_text.lower()
+            lowered_title = page.title().lower()
+            if "just a moment" in lowered_title or "verify you are human" in lowered_body:
+                return latest_body_text
+            if len(latest_body_text) >= 4000 and normalized_title[:48] in lowered_body:
+                return latest_body_text
+
+            for selector in ARTICLE_READY_SELECTORS:
+                try:
+                    block_text = page.locator(selector).first.inner_text(timeout=1000)
+                except Exception:  # noqa: BLE001
+                    continue
+                if len(block_text) >= 1200:
+                    return latest_body_text or block_text
+
+            page.wait_for_timeout(1000)
+
+        raise TimeoutError(f"Timed out waiting for ESC article content for '{title}'")
+
+    @staticmethod
+    def _body_text(page) -> str:
+        try:
+            body_text = page.evaluate("() => document.body ? document.body.innerText : ''")
+        except Exception:  # noqa: BLE001
+            return ""
+        return body_text if isinstance(body_text, str) else ""
 
     def _rewrite_browser_launch_error(self, exc: Exception) -> RuntimeError:
         error_text = str(exc)
