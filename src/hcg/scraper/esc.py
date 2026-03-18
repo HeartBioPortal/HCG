@@ -2,7 +2,9 @@ from __future__ import annotations
 
 from datetime import datetime, timezone
 from pathlib import Path
+import re
 import time
+from urllib.parse import urlparse
 
 from bs4 import BeautifulSoup
 from tqdm import tqdm
@@ -45,6 +47,7 @@ ARTICLE_READY_SELECTORS = (
     ".article-body",
     ".article-content",
 )
+DOI_RE = re.compile(r"(10\.1093/[^\s?#]+)", re.IGNORECASE)
 
 
 def parse_esc_detail_urls(html: str) -> list[str]:
@@ -259,7 +262,12 @@ class EscGuidelineScraper:
     def _download_candidate(self, session, candidate: GuidelineCandidate, destination: Path) -> int:
         download_mode = str(candidate.metadata.get("download_mode") or "")
         if download_mode == "render_article_pdf":
-            return self._render_article_to_pdf(candidate.download_url or candidate.landing_url, destination, candidate.title)
+            return self._render_article_to_pdf(
+                session,
+                candidate.download_url or candidate.landing_url,
+                destination,
+                candidate.title,
+            )
         return download_file(
             session,
             candidate.download_url or candidate.landing_url,
@@ -269,7 +277,7 @@ class EscGuidelineScraper:
             timeout_seconds=self.timeout_seconds,
         )
 
-    def _render_article_to_pdf(self, article_url: str, destination: Path, title: str) -> int:
+    def _render_article_to_pdf(self, session, article_url: str, destination: Path, title: str) -> int:
         try:
             from playwright.sync_api import sync_playwright
         except ImportError as exc:  # pragma: no cover - exercised during runtime only
@@ -280,6 +288,8 @@ class EscGuidelineScraper:
 
         timeout_ms = int(self.timeout_seconds * 1000)
         destination.parent.mkdir(parents=True, exist_ok=True)
+        minimal_url = self._resolve_oup_minimal_url(session, article_url)
+        html = self._fetch_minimal_article_html(session, minimal_url)
 
         try:
             with sync_playwright() as playwright:
@@ -289,8 +299,8 @@ class EscGuidelineScraper:
                     page = context.new_page()
                     page.set_default_timeout(timeout_ms)
                     page.set_default_navigation_timeout(timeout_ms)
-                    self.logger.info("Rendering ESC article PDF for %s from %s", title, article_url)
-                    page.goto(article_url, wait_until="domcontentloaded")
+                    self.logger.info("Rendering ESC article PDF for %s from %s", title, minimal_url)
+                    page.set_content(html, wait_until="domcontentloaded")
                     self.logger.info("Waiting for ESC article content for %s", title)
                     body_text = self._wait_for_article_ready(page, title)
                     if "just a moment" in page.title().lower() or "verify you are human" in body_text.lower():
@@ -310,6 +320,52 @@ class EscGuidelineScraper:
             raise self._rewrite_browser_launch_error(exc) from exc
 
         return destination.stat().st_size
+
+    def _resolve_oup_minimal_url(self, session, article_url: str) -> str:
+        article_id = self._extract_article_id(article_url)
+        if article_id is None:
+            doi = self._extract_doi(article_url)
+            if doi is None:
+                raise RuntimeError(f"Could not determine DOI or article id for ESC article URL: {article_url}")
+            resolved = session.get(
+                f"https://doi.org/{doi}",
+                headers={"User-Agent": USER_AGENT, "Accept": "text/html,application/xhtml+xml"},
+                allow_redirects=True,
+                timeout=self.timeout_seconds,
+            )
+            article_id = self._extract_article_id(resolved.url)
+            if article_id is None:
+                raise RuntimeError(f"Could not resolve OUP article id from DOI redirect for {doi}")
+        return f"https://oup.silverchair-cdn.com/article-minimal/{article_id}"
+
+    def _fetch_minimal_article_html(self, session, minimal_url: str) -> str:
+        response = session.get(minimal_url, timeout=self.timeout_seconds)
+        response.raise_for_status()
+        html = response.text
+        if "just a moment" in html.lower() and "verify you are human" in html.lower():
+            raise RuntimeError(f"OUP blocked automated access for ESC article source '{minimal_url}'")
+        return self._with_base_href(html)
+
+    @staticmethod
+    def _extract_doi(article_url: str) -> str | None:
+        match = DOI_RE.search(article_url)
+        return None if match is None else match.group(1)
+
+    @staticmethod
+    def _extract_article_id(article_url: str) -> str | None:
+        path_parts = [part for part in urlparse(article_url).path.split("/") if part]
+        numeric_parts = [part for part in path_parts if part.isdigit()]
+        return None if not numeric_parts else numeric_parts[-1]
+
+    @staticmethod
+    def _with_base_href(html: str) -> str:
+        base_tag = '<base href="https://oup.silverchair-cdn.com/">'
+        lowered = html.lower()
+        if "<base " in lowered:
+            return html
+        if "<head>" in lowered:
+            return re.sub(r"(?i)<head>", f"<head>{base_tag}", html, count=1)
+        return f"<head>{base_tag}</head>{html}"
 
     def _wait_for_article_ready(self, page, title: str) -> str:
         deadline = time.monotonic() + self.timeout_seconds

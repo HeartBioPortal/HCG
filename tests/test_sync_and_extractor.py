@@ -100,7 +100,7 @@ def test_esc_scraper_replaces_existing_doi_report(tmp_path, monkeypatch) -> None
     monkeypatch.setattr(EscGuidelineScraper, "discover", lambda self: [candidate])
     monkeypatch.setattr(esc_module, "is_doi_report_pdf", lambda path: path.read_bytes() == b"old doi report")
 
-    def fake_render(self, article_url: str, destination: Path, title: str) -> int:
+    def fake_render(self, session, article_url: str, destination: Path, title: str) -> int:
         destination.write_bytes(b"%PDF-1.4 refreshed guideline")
         return destination.stat().st_size
 
@@ -158,6 +158,33 @@ def test_wait_for_article_ready_uses_content_presence_not_networkidle(tmp_path) 
     )
 
     assert "clinical guidance" in body_text
+
+
+def test_resolve_oup_minimal_url_from_doi_redirect(tmp_path) -> None:
+    paths = make_dataset_paths(tmp_path, "esc")
+    scraper = EscGuidelineScraper(paths)
+
+    class FakeResponse:
+        def __init__(self, url: str) -> None:
+            self.url = url
+
+    class FakeSession:
+        def get(self, url: str, headers=None, allow_redirects=True, timeout=None):
+            assert url == "https://doi.org/10.1093/eurheartj/ehac244"
+            return FakeResponse("https://academic.oup.com/eurheartj/article/43/41/4229/6673995")
+
+    minimal_url = scraper._resolve_oup_minimal_url(
+        FakeSession(),
+        "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehac244",
+    )
+
+    assert minimal_url == "https://oup.silverchair-cdn.com/article-minimal/6673995"
+
+
+def test_with_base_href_injects_oup_base_url() -> None:
+    html = "<html><head><title>Test</title></head><body>content</body></html>"
+    rewritten = EscGuidelineScraper._with_base_href(html)
+    assert '<base href="https://oup.silverchair-cdn.com/">' in rewritten
 
 
 def test_process_single_pdf_writes_readable_non_error_json(tmp_path, monkeypatch) -> None:
