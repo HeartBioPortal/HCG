@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or data-processing workflow, please cite the HeartBioPortal 3.0 manuscript and this archived release."
+title: "HCG: HeartBioPortal Cardiovascular Guideline Extraction Resource"
+version: "3.0.0-nar"
+date-released: "2026-05-18"
+license: "MIT"
+repository-code: "https://github.com/HeartBioPortal/HCG"
+url: "https://heartbioportal.org/"
+authors:
+  - name: "HeartBioPortal contributors"
+  - name: "TBD: confirm author list before release"
+abstract: "Guideline source preparation, page-image rendering, structured extraction, and release-building workflow for HeartBioPortal 3.0 cardiovascular clinical guideline context."
+keywords:
+  - HeartBioPortal
+  - cardiovascular guidelines
+  - guideline extraction
+  - clinical context
+  - NAR Database Issue

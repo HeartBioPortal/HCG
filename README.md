@@ -2,6 +2,8 @@
 
 HCG is a standalone HeartBioPortal module for preparing cardiovascular guideline PDFs and converting them into structured JSON artifacts.
 
+HCG supports the HBP 3.0 ecosystem by serving as the clinical guideline extraction resource upstream of the HeartBioPortal guideline dossier and the HCG-KG knowledge graph. It discovers or stages guideline source PDFs, prepares page images, extracts structured page-level JSON, validates gene symbols, and builds guideline release artifacts that downstream HBP services can transform into gene-first guideline context.
+
 The repository now centers on the locally refreshed guideline corpus while retaining the dataset-aware scraper/sync pipeline for future upstream checks:
 
 - `acc_aha`
@@ -166,3 +168,24 @@ python -m hcg build-release
 - If you ever install `hcg` non-editably, set `HCG_PROJECT_ROOT=/absolute/path/to/HCG` so outputs still land in the repo `data/` directory.
 
 The repository is intentionally data-heavy because it ships the refreshed guideline PDFs used for the next HeartBioPortal guideline extraction run.
+
+## How this repository supports HBP 3.0
+
+HCG is the source-document and structured-extraction layer for cardiovascular guideline evidence in HeartBioPortal 3.0. HCG-KG builds graph and query artifacts from parsed guideline JSON, and DataHub can consume guideline-derived outputs for HBP search dossiers.
+
+Related HBP 3.0 repositories:
+
+- HeartBioPortal organization: https://github.com/HeartBioPortal
+- Live site: https://heartbioportal.org/
+- DataHub: https://github.com/HeartBioPortal/DataHub
+- HCG-KG: https://github.com/HeartBioPortal/HCG-KG
+
+## Manuscript release
+
+This repository supports the HeartBioPortal 3.0 NAR Database Issue manuscript release (`v3.0.0-nar`). Release-support files include citation metadata, source and output manifests, provenance documentation, release notes, and checksum tooling.
+
+Clinical guideline outputs are intended to expose guideline context. They should not be interpreted as medical advice, automated clinical recommendations, or direct clinical actionability.
+
+## Security and privacy
+
+No controlled individual-level human data should be committed. Do not commit API keys, credentials, protected data, tokens, or restricted source data. Source-specific licensing controls redistribution of guideline PDFs, snippets, and other third-party content; if redistribution rights are uncertain, document the source in `GUIDELINE_SOURCES.tsv` rather than adding new raw data.
