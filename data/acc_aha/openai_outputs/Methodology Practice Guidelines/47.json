@@ -1,8 +1,0 @@
-{
-  "content": {
-    "statistical_analysis_section": "The text discusses the importance of choosing the correct format for statistical analysis using tables. It references 'Presenting Your Findings: A Practical Guide for Creating Tables' by Nicol & Pexman as a useful guide.",
-    "relative_risk": "Relative risk (RR) and odds ratios (ORs) are statistical measures used to compare risk between two different groups in clinical documents. The Absolute Risk Reduction (ARR) should be listed and is used to convey the difference in event rates (i.e., rate of harmful outcomes in the control group versus the experimental group). ARR and RR can be influenced by various factors, including disease seriousness and side effects.",
-    "arr_use": "ARR is known as the arithmetic difference in harmful outcome rates between experimental and control groups. The difference between risk levels in relative terms is highlighted. Multiple references and calculators are provided for creating the ARR and calculating the 95% confidence interval."
-  },
-  "genes": []
-}

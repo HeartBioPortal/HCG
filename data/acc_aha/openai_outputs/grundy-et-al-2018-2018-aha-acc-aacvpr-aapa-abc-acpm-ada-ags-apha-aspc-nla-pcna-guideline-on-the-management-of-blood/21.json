@@ -1,8 +1,0 @@
-{
-  "content": {
-    "PCE": "The Pooled Cohort Equations (PCE) predict the 10-year risk of ASCVD events (MI and stroke) in adults aged 40 to 75, using factors like age, smoking, blood pressure, and cholesterol levels. The guidelines use a risk assessment model categorizing risk into low (<5%), borderline (5% to <7.5%), intermediate (7.5% to <20%), and high (\u226520%) to guide statin therapy.",
-    "Risk Enhancers": "Risk-enhancing factors include a family history of ASCVD, premature menopause, elevated LDL-C, elevated triglycerides, elevated Lp(a), elevated hsCRP, and systemic inflammation.",
-    "Coronary Artery Calcium (CAC)": "CAC scoring is used to refine risk assessments for statin therapy, although scores of zero do not guarantee absence of ASCVD risk in all cases, like those with a family history of ASCVD or chronic inflammatory conditions."
-  },
-  "genes": []
-}

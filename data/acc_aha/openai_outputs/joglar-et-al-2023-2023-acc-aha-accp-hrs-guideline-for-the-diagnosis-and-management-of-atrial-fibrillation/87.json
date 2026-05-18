@@ -1,7 +1,0 @@
-{
-  "content": {
-    "clinicalGuideline": "The guideline provides a treatment algorithm for maintaining sinus rhythm in atrial fibrillation. It details drug therapy based on heart function (LV function, MI history, structural heart disease) and heart failure classification (NYHA FC). Recommended drugs include Dofetilide, Dronedarone, Flecainide, Propafenone, Amiodarone, and Sotalol, with certain drugs marked for harm in specific conditions.",
-    "studyFinding": "A Cochrane meta-analysis of 5 studies showed Sotalol is associated with increased mortality in advanced HF patients (RR, 2.23 [95% CI, 1.03-4.81]), though it may still be useful in those with preserved heart function. The CAST study found that certain Class IC agents like Flecainide increase mortality post-MI. The ANDROMEDA study showed Dronedarone may reduce hospitalization but can worsen mortality in specific scenarios."
-  },
-  "genes": []
-}

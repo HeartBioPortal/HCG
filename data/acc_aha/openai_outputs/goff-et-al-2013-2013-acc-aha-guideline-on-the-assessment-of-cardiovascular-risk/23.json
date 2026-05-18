@@ -1,8 +1,0 @@
-{
-  "content": {
-    "description": "The guideline discusses the development and implementation of the ASCVD Pooled Cohort Risk Equations. These equations were derived from existing cardiovascular risk prediction equations and new data from several cohort studies. The goal is to estimate the 10-year risk of a first hard ASCVD event. The document includes details about the data and assumptions involved in developing these equations. Additional risk markers were evaluated for their potential inclusion but were not found to significantly improve risk prediction.",
-    "risk_assessment": "The equations consider age, treated or untreated systolic BP, total cholesterol, HDL cholesterol levels, smoking status, and history of diabetes. Calibration of the models varied by race and sex.",
-    "outcomes": "10-year risk of a first hard ASCVD event."
-  },
-  "genes": []
-}

@@ -1,9 +1,0 @@
-{
-  "content": {
-    "title": "Estimating an Individual\u2019s 10-Year Risk of Incident Hard ASCVD",
-    "description": "This guideline outlines the calculation of the 10-year risk estimate for hard atherosclerotic cardiovascular disease (ASCVD) based on individual profiles. The profile example is tailored for 55-year-old individuals considering factors such as age, total cholesterol, HDL-C, and systolic blood pressure. This individual is not a current smoker and does not have diabetes.",
-    "calculation_method": "The 10-year risk estimate is determined using the natural logarithm of age, total cholesterol, HDL-C, and systolic BP. Coefficient terms for age, lipids, and BP are applied, with values derived from the equation 'Coefficient \u00d7 Value'. The estimated risk is calculated as 1 minus the exponent of the race and sex-specific 'Coefficient \u00d7 Value' sum.",
-    "example": "Using white men as an example, the calculated probability of a first hard ASCVD event within 10 years is 5.3%."
-  },
-  "genes": []
-}
