@@ -70,6 +70,43 @@ def build_parser() -> argparse.ArgumentParser:
         help="Reprocess only page JSON files whose content contains an error field.",
     )
 
+    prepare_images_parser = subparsers.add_parser(
+        "prepare-images",
+        help="Convert local guideline PDFs into organized page images without calling the OpenAI API.",
+    )
+    prepare_images_parser.add_argument(
+        "--pdf-dir",
+        action="append",
+        default=None,
+        help=(
+            "PDF directory to render. Use dataset=/path/to/pdfs to choose the output dataset name. "
+            "May be passed more than once. Defaults to data/ESC-NEW and data/AHA-ACC-NEW."
+        ),
+    )
+    prepare_images_parser.add_argument(
+        "--output-dir",
+        default="data/prepared_images/rerun_2026_05_18_api_ready",
+        help="Directory that will receive per-document page images and manifests.",
+    )
+    prepare_images_parser.add_argument("--dpi", type=int, default=180, help="PDF render DPI.")
+    prepare_images_parser.add_argument(
+        "--image-format",
+        choices=["png", "jpg", "jpeg"],
+        default="png",
+        help="Image format for rendered pages.",
+    )
+    prepare_images_parser.add_argument(
+        "--overwrite",
+        action="store_true",
+        help="Replace existing prepared-image document directories with the same slug.",
+    )
+    prepare_images_parser.add_argument(
+        "--jobs",
+        type=int,
+        default=1,
+        help="Number of PDFs to render in parallel.",
+    )
+
     release_parser = subparsers.add_parser(
         "build-release",
         help="Build the ACC/AHA HeartBioPortal release from the raw extracted outputs.",
@@ -183,6 +220,30 @@ def run_extract(args: argparse.Namespace) -> int:
     return 0
 
 
+def run_prepare_images(args: argparse.Namespace) -> int:
+    from hcg.image_preparer import GuidelineImagePreparer, parse_pdf_dir_args
+
+    pdf_dirs = parse_pdf_dir_args(args.pdf_dir)
+    for dataset, pdf_dir in pdf_dirs:
+        if not pdf_dir.exists():
+            raise FileNotFoundError(f"PDF directory not found for {dataset}: {pdf_dir}")
+
+    preparer = GuidelineImagePreparer(
+        output_dir=Path(args.output_dir),
+        dpi=args.dpi,
+        image_format=args.image_format,
+        overwrite=args.overwrite,
+        jobs=args.jobs,
+    )
+    manifest = preparer.prepare_pdf_dirs(pdf_dirs)
+    print(
+        f"prepared_images: documents={manifest['document_count']} "
+        f"pages={manifest['page_count']} failures={manifest['failed_document_count']} "
+        f"manifest={Path(args.output_dir) / 'corpus_manifest.json'}"
+    )
+    return 1 if manifest["failed_document_count"] else 0
+
+
 def run_build_release(args: argparse.Namespace) -> int:
     build_release(
         raw_output_dir=Path(args.raw_output_dir),
@@ -246,6 +307,8 @@ def main(argv: list[str] | None = None) -> int:
     args = parser.parse_args(argv)
     if args.command == "extract":
         return run_extract(args)
+    if args.command == "prepare-images":
+        return run_prepare_images(args)
     if args.command == "build-release":
         return run_build_release(args)
     if args.command == "scrape":

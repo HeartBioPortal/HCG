@@ -5,6 +5,8 @@ import tempfile
 from pathlib import Path
 
 from hcg.cli import require_api_key
+import hcg.image_preparer as image_preparer
+from hcg.image_preparer import GuidelineImagePreparer, parse_pdf_dir_args
 import hcg.scraper.esc as esc_module
 import hcg.sync as sync_module
 from hcg.extractor import GuidelinePageExtractor
@@ -241,6 +243,53 @@ def test_process_single_pdf_writes_readable_non_error_json(tmp_path, monkeypatch
     assert page_two["content"]["page_number"] == 2
     assert len(aggregated["content"]) == 2
     assert [gene["Gene"] for gene in aggregated["genes"]] == ["GENE1", "GENE2"]
+
+
+def test_prepare_images_writes_compartmentalized_manifest(tmp_path, monkeypatch) -> None:
+    pdf_dir = tmp_path / "pdfs"
+    pdf_dir.mkdir()
+    pdf_path = pdf_dir / "Example Guideline.pdf"
+    pdf_path.write_bytes(b"%PDF-1.4")
+
+    def fake_page_count(path: Path) -> int:
+        assert path == pdf_path
+        return 2
+
+    def fake_convert(pdf_path_arg: Path, pages_dir: Path, *, dpi: int, image_format: str):
+        assert pdf_path_arg == pdf_path
+        assert dpi == 120
+        assert image_format == "png"
+        page_one = pages_dir / "page_0001.png"
+        page_two = pages_dir / "page_0002.png"
+        page_one.write_bytes(b"image1")
+        page_two.write_bytes(b"image2")
+        return [
+            {"page_number": 1, "image_path": str(page_one), "file_name": page_one.name},
+            {"page_number": 2, "image_path": str(page_two), "file_name": page_two.name},
+        ]
+
+    monkeypatch.setattr(image_preparer, "pdf_page_count", fake_page_count)
+    monkeypatch.setattr(image_preparer, "convert_pdf_pages_with_pdftoppm", fake_convert)
+
+    output_dir = tmp_path / "prepared"
+    manifest = GuidelineImagePreparer(output_dir, dpi=120).prepare_pdf_dirs([("esc_new", pdf_dir)])
+
+    assert manifest["document_count"] == 1
+    assert manifest["page_count"] == 2
+    document_dir = output_dir / "esc_new" / "example-guideline"
+    document_manifest = json.loads((document_dir / "manifest.json").read_text(encoding="utf-8"))
+    assert document_manifest["source_pdf_name"] == "Example Guideline.pdf"
+    assert document_manifest["page_count"] == 2
+    assert document_manifest["expected_page_count"] == 2
+    assert (document_dir / "pages" / "page_0001.png").exists()
+
+
+def test_parse_pdf_dir_args_defaults_to_new_corpus_dirs() -> None:
+    parsed = parse_pdf_dir_args(None)
+    assert parsed[0][0] == "esc_new"
+    assert str(parsed[0][1]) == "data/ESC-NEW"
+    assert parsed[1][0] == "acc_aha_new"
+    assert str(parsed[1][1]) == "data/AHA-ACC-NEW"
 
 
 def test_sync_extracts_existing_pdf_without_redownloading(tmp_path, monkeypatch) -> None:
