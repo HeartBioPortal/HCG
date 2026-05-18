@@ -1,0 +1,38 @@
+{
+  "title": "HCG: HeartBioPortal cardiovascular guideline extraction resource",
+  "creators": [
+    {
+      "name": "HeartBioPortal contributors"
+    },
+    {
+      "name": "TBD: confirm author list before release"
+    }
+  ],
+  "description": "Guideline source preparation, page-image rendering, structured extraction, and release-building workflow for HeartBioPortal 3.0 cardiovascular clinical guideline context.",
+  "access_right": "open",
+  "upload_type": "software",
+  "license": "mit",
+  "keywords": [
+    "HeartBioPortal",
+    "cardiovascular guidelines",
+    "clinical guideline extraction",
+    "NAR Database Issue"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/HeartBioPortal/HCG",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://heartbioportal.org/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/HeartBioPortal",
+      "relation": "isPartOf",
+      "scheme": "url"
+    }
+  ]
+}
