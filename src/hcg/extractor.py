@@ -16,6 +16,10 @@ from hcg.paths import DEFAULT_LOG_FILENAME
 from hcg.schemas import EXTRACTION_INSTRUCTIONS, EXTRACTION_PROMPT, RESPONSE_SCHEMA
 
 
+PROGRESS_BAR_FORMAT = "{desc}: {n_fmt}/{total_fmt} [{bar}] {elapsed}<{remaining}"
+PROGRESS_BAR_WIDTH = 54
+
+
 class GuidelinePageExtractor:
     def __init__(
         self,
@@ -42,10 +46,12 @@ class GuidelinePageExtractor:
         formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
 
         file_handler = logging.FileHandler(self.output_dir / DEFAULT_LOG_FILENAME)
+        file_handler.setLevel(logging.INFO)
         file_handler.setFormatter(formatter)
         logger.addHandler(file_handler)
 
         stream_handler = logging.StreamHandler()
+        stream_handler.setLevel(logging.WARNING)
         stream_handler.setFormatter(formatter)
         logger.addHandler(stream_handler)
 
@@ -226,6 +232,8 @@ class GuidelinePageExtractor:
         pdf_path: Path,
         selected_pages: Optional[Sequence[int]] = None,
         overwrite_existing: bool = False,
+        progress_position: int = 0,
+        leave_progress: bool = True,
     ) -> list[Path]:
         self.logger.info("Processing PDF: %s", pdf_path)
         if selected_pages is not None:
@@ -249,7 +257,15 @@ class GuidelinePageExtractor:
             self.logger.info("No pages to process for %s", pdf_path)
             return output_paths
 
-        with tqdm(total=len(temp_files), desc=pdf_path.stem[:40], unit="page") as progress_bar:
+        with tqdm(
+            total=len(temp_files),
+            desc="pages",
+            unit="page",
+            position=progress_position,
+            leave=leave_progress,
+            ncols=PROGRESS_BAR_WIDTH,
+            bar_format=PROGRESS_BAR_FORMAT,
+        ) as progress_bar:
             for page_number, temp_file in temp_files:
                 try:
                     page_output_path = pdf_output_dir / f"{page_number}.json"
@@ -292,27 +308,47 @@ class GuidelinePageExtractor:
         *,
         rerun_error_pages: bool = False,
     ) -> None:
-        for pdf_path in pdf_paths:
-            pdf_path = Path(pdf_path)
-            if not pdf_path.exists():
-                self.logger.warning("Skipping missing PDF path: %s", pdf_path)
-                continue
-            try:
-                if rerun_error_pages:
-                    pdf_output_dir = self.get_pdf_output_dir(pdf_path)
-                    error_pages = self.find_error_pages(pdf_output_dir)
-                    if not error_pages:
-                        continue
-                    self.logger.info("Reprocessing error pages for %s: %s", pdf_path, error_pages)
-                    self.process_single_pdf(
-                        pdf_path,
-                        selected_pages=error_pages,
-                        overwrite_existing=True,
-                    )
-                else:
-                    self.process_single_pdf(pdf_path)
-            except Exception as exc:
-                self.logger.error("Failed to process %s: %s", pdf_path, exc)
+        all_pdf_paths = [Path(pdf_path) for pdf_path in pdf_paths]
+        existing_pdf_paths = [pdf_path for pdf_path in all_pdf_paths if pdf_path.exists()]
+        missing_pdf_paths = [pdf_path for pdf_path in all_pdf_paths if not pdf_path.exists()]
+        for pdf_path in missing_pdf_paths:
+            self.logger.warning("Skipping missing PDF path: %s", pdf_path)
+
+        with tqdm(
+            total=len(existing_pdf_paths),
+            desc="guidelines",
+            unit="pdf",
+            position=0,
+            leave=True,
+            ncols=PROGRESS_BAR_WIDTH,
+            bar_format=PROGRESS_BAR_FORMAT,
+        ) as guideline_progress:
+            for pdf_path in existing_pdf_paths:
+                try:
+                    if rerun_error_pages:
+                        pdf_output_dir = self.get_pdf_output_dir(pdf_path)
+                        error_pages = self.find_error_pages(pdf_output_dir)
+                        if not error_pages:
+                            guideline_progress.update(1)
+                            continue
+                        self.logger.info("Reprocessing error pages for %s: %s", pdf_path, error_pages)
+                        self.process_single_pdf(
+                            pdf_path,
+                            selected_pages=error_pages,
+                            overwrite_existing=True,
+                            progress_position=1,
+                            leave_progress=False,
+                        )
+                    else:
+                        self.process_single_pdf(
+                            pdf_path,
+                            progress_position=1,
+                            leave_progress=False,
+                        )
+                except Exception as exc:
+                    self.logger.error("Failed to process %s: %s", pdf_path, exc)
+                finally:
+                    guideline_progress.update(1)
 
     def process_all_pdfs(self, rerun_error_pages: bool = False) -> None:
         self.process_pdf_paths(self.iter_pdf_paths(), rerun_error_pages=rerun_error_pages)
