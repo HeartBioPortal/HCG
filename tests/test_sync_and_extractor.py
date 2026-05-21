@@ -5,7 +5,7 @@ import tempfile
 from argparse import Namespace
 from pathlib import Path
 
-from hcg.cli import require_api_key, run_extract_page
+from hcg.cli import require_api_key, run_extract_page, run_probe_models
 import hcg.image_preparer as image_preparer
 from hcg.image_preparer import GuidelineImagePreparer, parse_pdf_dir_args
 import hcg.scraper.esc as esc_module
@@ -305,6 +305,53 @@ def test_run_extract_page_processes_one_requested_page(tmp_path, monkeypatch, ca
     assert recorded["overwrite_existing"] is True
     assert f"output={output_dir / pdf_path.stem / '7.json'}" in stdout
     assert f"log={output_dir / 'pdf_processing.log'}" in stdout
+
+
+def test_run_probe_models_reports_model_success_and_failure(tmp_path, monkeypatch, capsys) -> None:
+    pdf_path = tmp_path / "Example Guideline.pdf"
+    pdf_path.write_bytes(b"%PDF-1.4")
+    output_dir = tmp_path / "probe_outputs"
+    calls: list[tuple[str, list[int] | None]] = []
+
+    class FakeExtractor:
+        def __init__(self, *, pdf_dir, output_dir, model, sleep_seconds, api_key) -> None:
+            self.output_dir = output_dir
+            self.model = model
+
+        def process_single_pdf(self, pdf_path_arg, selected_pages=None, overwrite_existing=False):
+            calls.append((self.model, selected_pages))
+            page_output_dir = self.output_dir / pdf_path_arg.stem
+            page_output_dir.mkdir(parents=True, exist_ok=True)
+            page_output_path = page_output_dir / "9.json"
+            if self.model == "working-model":
+                payload = {
+                    "content": {"page_type": "recommendations", "extraction_warnings": []},
+                    "genes": [],
+                }
+            else:
+                payload = {"content": {"error": "model unavailable"}, "genes": []}
+            page_output_path.write_text(json.dumps(payload), encoding="utf-8")
+            return [page_output_path]
+
+    monkeypatch.setattr("hcg.extractor.GuidelinePageExtractor", FakeExtractor)
+
+    exit_code = run_probe_models(
+        Namespace(
+            pdf=str(pdf_path),
+            page=9,
+            models=["blocked-model", "working-model"],
+            output_dir=str(output_dir),
+            sleep_seconds=0.0,
+            api_key="test-key",
+        )
+    )
+
+    stdout = capsys.readouterr().out
+    assert exit_code == 0
+    assert calls == [("blocked-model", [9]), ("working-model", [9])]
+    assert "blocked-model\tFAIL" in stdout
+    assert "working-model\tOK" in stdout
+    assert "page_type=recommendations; genes=0; warnings=0" in stdout
 
 
 def test_prepare_images_writes_compartmentalized_manifest(tmp_path, monkeypatch) -> None:

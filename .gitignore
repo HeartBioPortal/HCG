@@ -10,3 +10,5 @@ dist/
 *.egg-info/
 *.log
 data/prepared_images/
+data/test_openai_outputs/
+data/model_probe_outputs/

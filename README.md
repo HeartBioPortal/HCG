@@ -109,6 +109,19 @@ The command sends only that page image to OpenAI. It writes the page JSON under
 `data/test_openai_outputs/<pdf-stem>/<page>.json`, writes detailed logs to
 `data/test_openai_outputs/pdf_processing.log`, and shows a `tqdm` progress bar for the requested page.
 
+If a model is unavailable for your organization, probe several candidates against the same page:
+
+```bash
+PYTHONPATH=src python3 -m hcg probe-models \
+  --pdf "data/AHA-ACC-NEW/al-khatib-et-al-2018-2017-aha-acc-hrs-guideline-for-management-of-patients-with-ventricular-arrhythmias-and-the (1).pdf" \
+  --page 43 \
+  --output-dir data/model_probe_outputs
+```
+
+By default this tests `gpt-4.1-mini`, `gpt-4.1`, `gpt-4o-mini`, `gpt-4o`, `o4-mini`,
+`gpt-5-mini`, and `gpt-5.4-mini`. Each model gets its own output directory under
+`data/model_probe_outputs/<model>/`, and the command prints a tab-separated OK/FAIL summary.
+
 Prepare the new locally downloaded PDFs as page images without calling the OpenAI API:
 
 ```bash

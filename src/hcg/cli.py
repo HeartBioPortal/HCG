@@ -1,7 +1,9 @@
 from __future__ import annotations
 
 import argparse
+import json
 import os
+import re
 from datetime import date
 from pathlib import Path
 
@@ -20,6 +22,15 @@ from hcg.release_builder import build_release
 
 
 DEFAULT_MODEL = "gpt-5-mini"
+DEFAULT_VISION_PROBE_MODELS = [
+    "gpt-4.1-mini",
+    "gpt-4.1",
+    "gpt-4o-mini",
+    "gpt-4o",
+    "o4-mini",
+    "gpt-5-mini",
+    "gpt-5.4-mini",
+]
 
 
 def require_api_key(api_key: str | None, *, command_name: str) -> str:
@@ -98,6 +109,35 @@ def build_parser() -> argparse.ArgumentParser:
         "--overwrite",
         action="store_true",
         help="Replace an existing JSON file for this PDF/page.",
+    )
+
+    probe_models_parser = subparsers.add_parser(
+        "probe-models",
+        help="Test candidate OpenAI vision models against one guideline page.",
+    )
+    probe_models_parser.add_argument("--pdf", required=True, help="Path to the source guideline PDF.")
+    probe_models_parser.add_argument("--page", required=True, type=int, help="1-based page number to extract.")
+    probe_models_parser.add_argument(
+        "--models",
+        nargs="+",
+        default=DEFAULT_VISION_PROBE_MODELS,
+        help="Model IDs to test. Defaults to a small vision-capable candidate set.",
+    )
+    probe_models_parser.add_argument(
+        "--output-dir",
+        default="data/model_probe_outputs",
+        help="Directory for per-model page JSONs and log files.",
+    )
+    probe_models_parser.add_argument(
+        "--sleep-seconds",
+        type=float,
+        default=0.0,
+        help="Delay after each model request.",
+    )
+    probe_models_parser.add_argument(
+        "--api-key",
+        default=os.environ.get("OPENAI_API_KEY"),
+        help="OpenAI API key. Defaults to OPENAI_API_KEY.",
     )
 
     prepare_images_parser = subparsers.add_parser(
@@ -284,6 +324,68 @@ def run_extract_page(args: argparse.Namespace) -> int:
     return 0
 
 
+def _safe_model_dir_name(model: str) -> str:
+    return re.sub(r"[^A-Za-z0-9_.-]+", "_", model).strip("._") or "model"
+
+
+def _probe_status(page_output_path: Path) -> tuple[str, str]:
+    try:
+        payload = json.loads(page_output_path.read_text(encoding="utf-8"))
+    except Exception as exc:
+        return ("FAIL", f"Could not read output JSON: {exc}")
+
+    content = payload.get("content") if isinstance(payload, dict) else None
+    if isinstance(content, dict) and content.get("error"):
+        return ("FAIL", str(content["error"]).replace("\n", " ")[:220])
+
+    genes = payload.get("genes") if isinstance(payload, dict) else None
+    if isinstance(content, dict) and isinstance(genes, list):
+        page_type = content.get("page_type") or "unknown"
+        warnings = content.get("extraction_warnings") or []
+        return ("OK", f"page_type={page_type}; genes={len(genes)}; warnings={len(warnings)}")
+
+    return ("FAIL", "Output did not match expected top-level content/genes shape.")
+
+
+def run_probe_models(args: argparse.Namespace) -> int:
+    from hcg.extractor import GuidelinePageExtractor
+
+    pdf_path = Path(args.pdf)
+    if not pdf_path.exists():
+        raise FileNotFoundError(f"PDF not found: {pdf_path}")
+    if args.page < 1:
+        raise ValueError("--page must be a 1-based page number.")
+
+    api_key = require_api_key(args.api_key, command_name="probe-models")
+    output_root = Path(args.output_dir)
+    rows: list[tuple[str, str, Path, str]] = []
+
+    for model in args.models:
+        model_output_dir = output_root / _safe_model_dir_name(model)
+        extractor = GuidelinePageExtractor(
+            pdf_dir=pdf_path.parent,
+            output_dir=model_output_dir,
+            model=model,
+            sleep_seconds=args.sleep_seconds,
+            api_key=api_key,
+        )
+        extractor.process_single_pdf(
+            pdf_path,
+            selected_pages=[args.page],
+            overwrite_existing=True,
+        )
+        page_output_path = model_output_dir / pdf_path.stem / f"{args.page}.json"
+        status, note = _probe_status(page_output_path)
+        rows.append((model, status, page_output_path, note))
+
+    print("model_probe_results:")
+    print("MODEL\tSTATUS\tOUTPUT\tNOTE")
+    for model, status, page_output_path, note in rows:
+        print(f"{model}\t{status}\t{page_output_path}\t{note}")
+
+    return 0 if any(status == "OK" for _, status, _, _ in rows) else 1
+
+
 def run_prepare_images(args: argparse.Namespace) -> int:
     from hcg.image_preparer import GuidelineImagePreparer, parse_pdf_dir_args
 
@@ -373,6 +475,8 @@ def main(argv: list[str] | None = None) -> int:
         return run_extract(args)
     if args.command == "extract-page":
         return run_extract_page(args)
+    if args.command == "probe-models":
+        return run_probe_models(args)
     if args.command == "prepare-images":
         return run_prepare_images(args)
     if args.command == "build-release":
