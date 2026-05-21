@@ -2,9 +2,10 @@ from __future__ import annotations
 
 import json
 import tempfile
+from argparse import Namespace
 from pathlib import Path
 
-from hcg.cli import require_api_key
+from hcg.cli import require_api_key, run_extract_page
 import hcg.image_preparer as image_preparer
 from hcg.image_preparer import GuidelineImagePreparer, parse_pdf_dir_args
 import hcg.scraper.esc as esc_module
@@ -231,9 +232,10 @@ def test_process_single_pdf_writes_readable_non_error_json(tmp_path, monkeypatch
         model="gpt-5-mini",
         api_key="test-key",
     )
-    extractor.process_single_pdf(pdf_path)
+    output_paths = extractor.process_single_pdf(pdf_path)
     extractor.aggregate_outputs()
 
+    assert output_paths == [output_dir / "demo" / "1.json", output_dir / "demo" / "2.json"]
     page_one = json.loads((output_dir / "demo" / "1.json").read_text(encoding="utf-8"))
     page_two = json.loads((output_dir / "demo" / "2.json").read_text(encoding="utf-8"))
     aggregated = json.loads((output_dir / "demo_aggregated.json").read_text(encoding="utf-8"))
@@ -243,6 +245,66 @@ def test_process_single_pdf_writes_readable_non_error_json(tmp_path, monkeypatch
     assert page_two["content"]["page_number"] == 2
     assert len(aggregated["content"]) == 2
     assert [gene["Gene"] for gene in aggregated["genes"]] == ["GENE1", "GENE2"]
+
+
+def test_run_extract_page_processes_one_requested_page(tmp_path, monkeypatch, capsys) -> None:
+    pdf_path = tmp_path / "Example Guideline.pdf"
+    pdf_path.write_bytes(b"%PDF-1.4")
+    output_dir = tmp_path / "test_outputs"
+    recorded: dict[str, object] = {}
+
+    class FakeExtractor:
+        def __init__(self, *, pdf_dir, output_dir, model, sleep_seconds, api_key) -> None:
+            recorded["init"] = {
+                "pdf_dir": pdf_dir,
+                "output_dir": output_dir,
+                "model": model,
+                "sleep_seconds": sleep_seconds,
+                "api_key": api_key,
+            }
+            self.output_dir = output_dir
+
+        def process_single_pdf(self, pdf_path_arg, selected_pages=None, overwrite_existing=False):
+            recorded["pdf_path"] = pdf_path_arg
+            recorded["selected_pages"] = selected_pages
+            recorded["overwrite_existing"] = overwrite_existing
+            page_output_dir = self.output_dir / pdf_path_arg.stem
+            page_output_dir.mkdir(parents=True, exist_ok=True)
+            page_output_path = page_output_dir / "7.json"
+            page_output_path.write_text(
+                json.dumps({"content": {"status": "ok"}, "genes": []}),
+                encoding="utf-8",
+            )
+            return [page_output_path]
+
+    monkeypatch.setattr("hcg.extractor.GuidelinePageExtractor", FakeExtractor)
+
+    exit_code = run_extract_page(
+        Namespace(
+            pdf=str(pdf_path),
+            page=7,
+            output_dir=str(output_dir),
+            model="gpt-5-mini",
+            sleep_seconds=0.0,
+            api_key="test-key",
+            overwrite=True,
+        )
+    )
+
+    stdout = capsys.readouterr().out
+    assert exit_code == 0
+    assert recorded["init"] == {
+        "pdf_dir": pdf_path.parent,
+        "output_dir": output_dir,
+        "model": "gpt-5-mini",
+        "sleep_seconds": 0.0,
+        "api_key": "test-key",
+    }
+    assert recorded["pdf_path"] == pdf_path
+    assert recorded["selected_pages"] == [7]
+    assert recorded["overwrite_existing"] is True
+    assert f"output={output_dir / pdf_path.stem / '7.json'}" in stdout
+    assert f"log={output_dir / 'pdf_processing.log'}" in stdout
 
 
 def test_prepare_images_writes_compartmentalized_manifest(tmp_path, monkeypatch) -> None:

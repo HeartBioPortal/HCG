@@ -7,6 +7,7 @@ from pathlib import Path
 
 from hcg.paths import (
     ACC_AHA_DATASET,
+    DEFAULT_LOG_FILENAME,
     DEFAULT_RELEASE_DIR,
     GENE_REFERENCE_PATH,
     MANUAL_GENE_REVIEW_PATH,
@@ -68,6 +69,35 @@ def build_parser() -> argparse.ArgumentParser:
         "--rerun-error-pages",
         action="store_true",
         help="Reprocess only page JSON files whose content contains an error field.",
+    )
+
+    extract_page_parser = subparsers.add_parser(
+        "extract-page",
+        help="Run OpenAI vision extraction for one page from one guideline PDF.",
+    )
+    extract_page_parser.add_argument("--pdf", required=True, help="Path to the source guideline PDF.")
+    extract_page_parser.add_argument("--page", required=True, type=int, help="1-based page number to extract.")
+    extract_page_parser.add_argument(
+        "--output-dir",
+        default="data/test_openai_outputs",
+        help="Directory for the single-page test JSON and log file.",
+    )
+    extract_page_parser.add_argument("--model", default=DEFAULT_MODEL, help="OpenAI model to use.")
+    extract_page_parser.add_argument(
+        "--sleep-seconds",
+        type=float,
+        default=0.0,
+        help="Delay after the single page request.",
+    )
+    extract_page_parser.add_argument(
+        "--api-key",
+        default=os.environ.get("OPENAI_API_KEY"),
+        help="OpenAI API key. Defaults to OPENAI_API_KEY.",
+    )
+    extract_page_parser.add_argument(
+        "--overwrite",
+        action="store_true",
+        help="Replace an existing JSON file for this PDF/page.",
     )
 
     prepare_images_parser = subparsers.add_parser(
@@ -220,6 +250,40 @@ def run_extract(args: argparse.Namespace) -> int:
     return 0
 
 
+def run_extract_page(args: argparse.Namespace) -> int:
+    from hcg.extractor import GuidelinePageExtractor
+
+    pdf_path = Path(args.pdf)
+    if not pdf_path.exists():
+        raise FileNotFoundError(f"PDF not found: {pdf_path}")
+    if args.page < 1:
+        raise ValueError("--page must be a 1-based page number.")
+
+    output_dir = Path(args.output_dir)
+    api_key = require_api_key(args.api_key, command_name="extract-page")
+    extractor = GuidelinePageExtractor(
+        pdf_dir=pdf_path.parent,
+        output_dir=output_dir,
+        model=args.model,
+        sleep_seconds=args.sleep_seconds,
+        api_key=api_key,
+    )
+    output_paths = extractor.process_single_pdf(
+        pdf_path,
+        selected_pages=[args.page],
+        overwrite_existing=args.overwrite,
+    )
+    page_output_path = output_dir / pdf_path.stem / f"{args.page}.json"
+    if page_output_path not in output_paths:
+        raise RuntimeError(f"Expected page JSON was not created: {page_output_path}")
+
+    print(
+        f"extract_page: pdf={pdf_path} page={args.page} "
+        f"output={page_output_path} log={output_dir / DEFAULT_LOG_FILENAME}"
+    )
+    return 0
+
+
 def run_prepare_images(args: argparse.Namespace) -> int:
     from hcg.image_preparer import GuidelineImagePreparer, parse_pdf_dir_args
 
@@ -307,6 +371,8 @@ def main(argv: list[str] | None = None) -> int:
     args = parser.parse_args(argv)
     if args.command == "extract":
         return run_extract(args)
+    if args.command == "extract-page":
+        return run_extract_page(args)
     if args.command == "prepare-images":
         return run_prepare_images(args)
     if args.command == "build-release":

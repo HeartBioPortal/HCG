@@ -94,6 +94,21 @@ Extract pages directly for a single scraper-managed dataset:
 hcg extract --dataset acc_aha --api-key "$OPENAI_API_KEY"
 ```
 
+Test one specific page from one specific guideline before running the full corpus:
+
+```bash
+export OPENAI_API_KEY="paste-your-key-here"
+PYTHONPATH=src python3 -m hcg extract-page \
+  --pdf "data/AHA-ACC-NEW/al-khatib-et-al-2018-2017-aha-acc-hrs-guideline-for-management-of-patients-with-ventricular-arrhythmias-and-the (1).pdf" \
+  --page 21 \
+  --output-dir data/test_openai_outputs \
+  --overwrite
+```
+
+The command sends only that page image to OpenAI. It writes the page JSON under
+`data/test_openai_outputs/<pdf-stem>/<page>.json`, writes detailed logs to
+`data/test_openai_outputs/pdf_processing.log`, and shows a `tqdm` progress bar for the requested page.
+
 Prepare the new locally downloaded PDFs as page images without calling the OpenAI API:
 
 ```bash

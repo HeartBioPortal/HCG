@@ -226,9 +226,12 @@ class GuidelinePageExtractor:
         pdf_path: Path,
         selected_pages: Optional[Sequence[int]] = None,
         overwrite_existing: bool = False,
-    ) -> None:
+    ) -> list[Path]:
         self.logger.info("Processing PDF: %s", pdf_path)
+        if selected_pages is not None:
+            self.logger.info("Selected page(s): %s", ", ".join(str(page) for page in selected_pages))
         pdf_output_dir = self.get_pdf_output_dir(pdf_path)
+        self.logger.info("Page JSON output directory: %s", pdf_output_dir)
         temp_files = self.convert_pdf_to_images(pdf_path, pages=selected_pages)
 
         if selected_pages is None:
@@ -238,24 +241,44 @@ class GuidelinePageExtractor:
                 for page_number, temp_file in temp_files
                 if page_number > last_processed_page
             ]
+            if last_processed_page:
+                self.logger.info("Skipping already processed pages through page %s", last_processed_page)
+
+        output_paths: list[Path] = []
+        if not temp_files:
+            self.logger.info("No pages to process for %s", pdf_path)
+            return output_paths
 
         with tqdm(total=len(temp_files), desc=pdf_path.stem[:40], unit="page") as progress_bar:
             for page_number, temp_file in temp_files:
                 try:
                     page_output_path = pdf_output_dir / f"{page_number}.json"
                     if page_output_path.exists() and not overwrite_existing:
+                        self.logger.info("Skipping existing page JSON: %s", page_output_path)
+                        output_paths.append(page_output_path)
                         progress_bar.update(1)
                         continue
 
+                    page_started_at = time.monotonic()
                     result = self.analyze_image(Path(temp_file.name))
                     page_output_path.write_text(
                         json.dumps(result, indent=2, ensure_ascii=False),
                         encoding="utf-8",
                     )
+                    output_paths.append(page_output_path)
+                    self.logger.info(
+                        "Wrote page %s JSON: %s (%.1f seconds)",
+                        page_number,
+                        page_output_path,
+                        time.monotonic() - page_started_at,
+                    )
                     progress_bar.update(1)
                     time.sleep(self.sleep_seconds)
                 finally:
                     os.unlink(temp_file.name)
+
+        self.logger.info("Finished %s page(s) for %s", len(output_paths), pdf_path)
+        return output_paths
 
     def iter_pdf_paths(self) -> list[Path]:
         return sorted(
