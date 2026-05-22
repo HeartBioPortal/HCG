@@ -5,6 +5,7 @@ from pathlib import Path
 import shutil
 
 from hcg.extractor import GuidelinePageExtractor
+from hcg.extractor import DEFAULT_MAX_OUTPUT_TOKENS
 from hcg.paths import ACC_AHA_DATASET, GENE_REFERENCE_PATH, PROJECT_ROOT, get_dataset_paths
 from hcg.release_builder import build_release
 from hcg.scraper.models import ScrapeResult
@@ -29,6 +30,7 @@ def sync_datasets(
     timeout_seconds: float = 60.0,
     limit: int | None = None,
     build_releases: bool = True,
+    max_output_tokens: int = DEFAULT_MAX_OUTPUT_TOKENS,
 ) -> dict[str, DatasetSyncResult]:
     logger = build_logger("hcg.sync", PROJECT_ROOT / "logs" / "sync.log")
     normalized_datasets = normalize_datasets(datasets)
@@ -64,6 +66,7 @@ def sync_datasets(
                 model=model,
                 sleep_seconds=sleep_seconds,
                 api_key=api_key,
+                max_output_tokens=max_output_tokens,
             )
             extractor.process_pdf_paths(pdfs_to_extract)
             extractor.aggregate_outputs()

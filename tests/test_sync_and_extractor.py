@@ -254,13 +254,14 @@ def test_run_extract_page_processes_one_requested_page(tmp_path, monkeypatch, ca
     recorded: dict[str, object] = {}
 
     class FakeExtractor:
-        def __init__(self, *, pdf_dir, output_dir, model, sleep_seconds, api_key) -> None:
+        def __init__(self, *, pdf_dir, output_dir, model, sleep_seconds, api_key, max_output_tokens) -> None:
             recorded["init"] = {
                 "pdf_dir": pdf_dir,
                 "output_dir": output_dir,
                 "model": model,
                 "sleep_seconds": sleep_seconds,
                 "api_key": api_key,
+                "max_output_tokens": max_output_tokens,
             }
             self.output_dir = output_dir
 
@@ -288,6 +289,7 @@ def test_run_extract_page_processes_one_requested_page(tmp_path, monkeypatch, ca
             sleep_seconds=0.0,
             api_key="test-key",
             overwrite=True,
+            max_output_tokens=12000,
         )
     )
 
@@ -299,6 +301,7 @@ def test_run_extract_page_processes_one_requested_page(tmp_path, monkeypatch, ca
         "model": "gpt-5-mini",
         "sleep_seconds": 0.0,
         "api_key": "test-key",
+        "max_output_tokens": 12000,
     }
     assert recorded["pdf_path"] == pdf_path
     assert recorded["selected_pages"] == [7]
@@ -314,7 +317,7 @@ def test_run_probe_models_reports_model_success_and_failure(tmp_path, monkeypatc
     calls: list[tuple[str, list[int] | None]] = []
 
     class FakeExtractor:
-        def __init__(self, *, pdf_dir, output_dir, model, sleep_seconds, api_key) -> None:
+        def __init__(self, *, pdf_dir, output_dir, model, sleep_seconds, api_key, max_output_tokens) -> None:
             self.output_dir = output_dir
             self.model = model
 
@@ -343,6 +346,7 @@ def test_run_probe_models_reports_model_success_and_failure(tmp_path, monkeypatc
             output_dir=str(output_dir),
             sleep_seconds=0.0,
             api_key="test-key",
+            max_output_tokens=12000,
         )
     )
 
@@ -433,13 +437,14 @@ def test_sync_extracts_existing_pdf_without_redownloading(tmp_path, monkeypatch)
     recorded: dict[str, object] = {}
 
     class FakeExtractor:
-        def __init__(self, *, pdf_dir, output_dir, model, sleep_seconds, api_key) -> None:
+        def __init__(self, *, pdf_dir, output_dir, model, sleep_seconds, api_key, max_output_tokens) -> None:
             recorded["init"] = {
                 "pdf_dir": pdf_dir,
                 "output_dir": output_dir,
                 "model": model,
                 "sleep_seconds": sleep_seconds,
                 "api_key": api_key,
+                "max_output_tokens": max_output_tokens,
             }
             self.output_dir = output_dir
 
@@ -519,7 +524,7 @@ def test_sync_reextracts_refreshed_pdf_and_resets_stale_outputs(tmp_path, monkey
     recorded: dict[str, object] = {}
 
     class FakeExtractor:
-        def __init__(self, *, pdf_dir, output_dir, model, sleep_seconds, api_key) -> None:
+        def __init__(self, *, pdf_dir, output_dir, model, sleep_seconds, api_key, max_output_tokens) -> None:
             recorded["init"] = True
             self.output_dir = output_dir
 

@@ -18,6 +18,7 @@ from hcg.schemas import EXTRACTION_INSTRUCTIONS, EXTRACTION_PROMPT, RESPONSE_SCH
 
 PROGRESS_BAR_FORMAT = "{desc}: {n_fmt}/{total_fmt} [{bar}] {elapsed}<{remaining}"
 PROGRESS_BAR_WIDTH = 54
+DEFAULT_MAX_OUTPUT_TOKENS = 12000
 
 
 class GuidelinePageExtractor:
@@ -28,12 +29,14 @@ class GuidelinePageExtractor:
         model: str,
         sleep_seconds: float = 1.0,
         api_key: str | None = None,
+        max_output_tokens: int = DEFAULT_MAX_OUTPUT_TOKENS,
     ) -> None:
         self.pdf_dir = Path(pdf_dir)
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(parents=True, exist_ok=True)
         self.model = model
         self.sleep_seconds = sleep_seconds
+        self.max_output_tokens = max_output_tokens
         self.logger = self._configure_logger()
         self.client = OpenAI(api_key=api_key)
 
@@ -51,7 +54,7 @@ class GuidelinePageExtractor:
         logger.addHandler(file_handler)
 
         stream_handler = logging.StreamHandler()
-        stream_handler.setLevel(logging.WARNING)
+        stream_handler.setLevel(logging.CRITICAL)
         stream_handler.setFormatter(formatter)
         logger.addHandler(stream_handler)
 
@@ -163,7 +166,7 @@ class GuidelinePageExtractor:
                     **RESPONSE_SCHEMA,
                 }
             },
-            "max_output_tokens": 4096,
+            "max_output_tokens": self.max_output_tokens,
         }
 
         try:
@@ -184,7 +187,7 @@ class GuidelinePageExtractor:
                 "model": self.model,
                 "instructions": self._instructions(enforce_schema=False),
                 "input": self._input_payload(encoded_image),
-                "max_output_tokens": 4096,
+                "max_output_tokens": self.max_output_tokens,
             }
             return self.client.responses.create(**fallback_payload)
 

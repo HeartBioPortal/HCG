@@ -19,6 +19,7 @@ from hcg.paths import (
     get_dataset_paths,
 )
 from hcg.release_builder import build_release
+from hcg.extractor import DEFAULT_MAX_OUTPUT_TOKENS
 
 
 DEFAULT_MODEL = "gpt-5-mini"
@@ -81,6 +82,12 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="Reprocess only page JSON files whose content contains an error field.",
     )
+    extract_parser.add_argument(
+        "--max-output-tokens",
+        type=int,
+        default=DEFAULT_MAX_OUTPUT_TOKENS,
+        help="Maximum model output tokens per page.",
+    )
 
     extract_page_parser = subparsers.add_parser(
         "extract-page",
@@ -110,6 +117,12 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="Replace an existing JSON file for this PDF/page.",
     )
+    extract_page_parser.add_argument(
+        "--max-output-tokens",
+        type=int,
+        default=DEFAULT_MAX_OUTPUT_TOKENS,
+        help="Maximum model output tokens for the page.",
+    )
 
     probe_models_parser = subparsers.add_parser(
         "probe-models",
@@ -138,6 +151,12 @@ def build_parser() -> argparse.ArgumentParser:
         "--api-key",
         default=os.environ.get("OPENAI_API_KEY"),
         help="OpenAI API key. Defaults to OPENAI_API_KEY.",
+    )
+    probe_models_parser.add_argument(
+        "--max-output-tokens",
+        type=int,
+        default=DEFAULT_MAX_OUTPUT_TOKENS,
+        help="Maximum model output tokens for each model/page test.",
     )
 
     prepare_images_parser = subparsers.add_parser(
@@ -265,6 +284,12 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="Skip rebuilding the ACC/AHA release after new PDFs are processed.",
     )
+    sync_parser.add_argument(
+        "--max-output-tokens",
+        type=int,
+        default=DEFAULT_MAX_OUTPUT_TOKENS,
+        help="Maximum model output tokens per extracted page.",
+    )
 
     return parser
 
@@ -284,6 +309,7 @@ def run_extract(args: argparse.Namespace) -> int:
         model=args.model,
         sleep_seconds=args.sleep_seconds,
         api_key=api_key,
+        max_output_tokens=args.max_output_tokens,
     )
     extractor.process_all_pdfs(rerun_error_pages=args.rerun_error_pages)
     extractor.aggregate_outputs()
@@ -307,6 +333,7 @@ def run_extract_page(args: argparse.Namespace) -> int:
         model=args.model,
         sleep_seconds=args.sleep_seconds,
         api_key=api_key,
+        max_output_tokens=args.max_output_tokens,
     )
     output_paths = extractor.process_single_pdf(
         pdf_path,
@@ -368,6 +395,7 @@ def run_probe_models(args: argparse.Namespace) -> int:
             model=model,
             sleep_seconds=args.sleep_seconds,
             api_key=api_key,
+            max_output_tokens=args.max_output_tokens,
         )
         extractor.process_single_pdf(
             pdf_path,
@@ -456,6 +484,7 @@ def run_sync(args: argparse.Namespace) -> int:
         timeout_seconds=args.timeout_seconds,
         limit=args.limit,
         build_releases=not args.no_release_build,
+        max_output_tokens=args.max_output_tokens,
     )
     for dataset, result in results.items():
         print(
