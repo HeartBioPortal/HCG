@@ -85,6 +85,10 @@ def extract_title(aggregated_doc: dict[str, Any]) -> str | None:
 
 
 def source_pdf_for_slug(slug: str, source_pdf_dir: Path) -> Path:
+    flat_pdf = source_pdf_dir / f"{slug}.pdf"
+    if flat_pdf.exists():
+        return flat_pdf
+
     pdf_dir = source_pdf_dir / slug
     if pdf_dir.exists():
         pdfs = sorted(pdf_dir.glob("*.pdf"))
@@ -218,7 +222,7 @@ def build_release(
     build_date: date | None = None,
 ) -> dict[str, Any]:
     valid_lookup = canonical_gene_map(gene_reference_path)
-    manual_gene_map = load_json(manual_gene_review_path)
+    manual_gene_map = load_json(manual_gene_review_path) if manual_gene_review_path.exists() else {}
     aggregated_files = sorted(raw_output_dir.glob("*_aggregated.json"))
     release_docs_dir = release_dir / "documents"
     manifest_path = release_dir / "manifest.json"
